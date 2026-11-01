@@ -5,14 +5,14 @@ pm-0003; Team; team; ; A1; Business/Projektmanagement/Team & Rollen; Our team me
 pm-0004; Ziel; goal; aim, objective, target; A1; Business/Projektmanagement/Planung; The goal of the project is very clear.; Das Ziel des Projekts ist sehr klar.
 pm-0005; beginnen; to start; to begin; A1; Business/Projektmanagement/Zeitplan & Meilensteine; We start the work on Monday.; Wir beginnen die Arbeit am Montag.
 pm-0006; Aufgabe; task; job, assignment; A2; Business/Projektmanagement/Planung; Every team member has a clear task.; Jedes Teammitglied hat eine klare Aufgabe.
-pm-0007; Besprechung; meeting; ; A2; Business/Projektmanagement/Team & Rollen, Arbeit/Büro; The meeting starts at nine in room four.; Die Besprechung beginnt um neun in Raum vier.
+pm-0007; Besprechung; meeting; ; A2; Business/Projektmanagement/Team & Rollen, Arbeit/Beruf/Arbeitsalltag; The meeting starts at nine in room four.; Die Besprechung beginnt um neun in Raum vier.
 pm-0008; planen; to plan; ; A2; Business/Projektmanagement/Planung; We plan the next steps together.; Wir planen die nächsten Schritte gemeinsam.
 pm-0009; Kosten; costs; ; A2; Business/Projektmanagement/Budget & Ressourcen; The costs for the project are too high.; Die Kosten für das Projekt sind zu hoch.
 pm-0010; Bericht; report; ; A2; Business/Projektmanagement/Berichtswesen; Please write a short report every Friday.; Bitte schreiben Sie jeden Freitag einen kurzen Bericht.
 pm-0011; Problem; problem; issue; A2; Business/Projektmanagement/Risiken; We found a problem with the software.; Wir haben ein Problem mit der Software gefunden.
 pm-0012; Lösung; solution; ; A2; Business/Projektmanagement/Risiken; The team found a good solution quickly.; Das Team fand schnell eine gute Lösung.
 pm-0013; Ergebnis; result; outcome; A2; Business/Projektmanagement/Abschluss; The result of the test was very good.; Das Ergebnis des Tests war sehr gut.
-pm-0014; Kalender; calendar; ; A2; Business/Projektmanagement/Zeitplan & Meilensteine, Arbeit/Büro; All dates are in the project calendar.; Alle Termine stehen im Projektkalender.
+pm-0014; Kalender; calendar; ; A2; Business/Projektmanagement/Zeitplan & Meilensteine, Arbeit/Beruf/Arbeitsalltag; All dates are in the project calendar.; Alle Termine stehen im Projektkalender.
 pm-0015; Liste; list; ; A2; Business/Projektmanagement/Planung; Here is a list of all open points.; Hier ist eine Liste aller offenen Punkte.
 pm-0016; Chef; boss; manager; A2; Business/Projektmanagement/Team & Rollen; My boss wants the plan by Thursday.; Mein Chef möchte den Plan bis Donnerstag.
 pm-0017; Mitarbeiter; employee; staff member, colleague; A2; Business/Projektmanagement/Team & Rollen; Every employee can see the project plan.; Jeder Mitarbeiter kann den Projektplan sehen.
@@ -21,7 +21,7 @@ pm-0019; beenden; to finish; to end; A2; Business/Projektmanagement/Abschluss; W
 pm-0020; Fehler; error; mistake; A2; Business/Projektmanagement/Risiken; An error in the plan cost us two days.; Ein Fehler im Plan kostete uns zwei Tage.
 pm-0021; Frage; question; ; A2; Business/Projektmanagement/Team & Rollen; Do you have a question about the plan?; Haben Sie eine Frage zum Plan?
 pm-0022; Antwort; answer; reply; A2; Business/Projektmanagement/Team & Rollen; We need an answer from the client today.; Wir brauchen heute eine Antwort vom Kunden.
-pm-0023; E-Mail; email; ; A2; Business/Projektmanagement/Berichtswesen, Arbeit/Büro; Please send the report by email.; Bitte senden Sie den Bericht per E-Mail.
+pm-0023; E-Mail; email; ; A2; Business/Projektmanagement/Berichtswesen, Arbeit/Beruf/Arbeitsalltag; Please send the report by email.; Bitte senden Sie den Bericht per E-Mail.
 pm-0024; Notiz; note; memo; A2; Business/Projektmanagement/Berichtswesen; She made a note about the new deadline.; Sie machte eine Notiz zum neuen Termin.
 pm-0025; Idee; idea; ; A2; Business/Projektmanagement/Planung; He had a great idea for the project.; Er hatte eine großartige Idee für das Projekt.
 pm-0026; Projektleiter; project manager; project lead; B1; Business/Projektmanagement/Team & Rollen; The project manager presents the plan on Tuesday.; Der Projektleiter stellt den Plan am Dienstag vor.

@@ -136,7 +136,7 @@ ba-0134; Durchlaufzeit; lead time; throughput time; C1; Business/Beschaffung/Lie
 ba-0135; Transport; transport; transportation; A2; Business/Beschaffung/Lieferkette; The transport by rail is cheaper than by truck.; Der Transport per Bahn ist billiger als per Lkw.
 ba-0136; Spedition; freight forwarder; haulage company; B2; Business/Beschaffung/Lieferkette; The freight forwarder organises the route and the customs papers.; Die Spedition organisiert die Route und die Zollpapiere.
 ba-0137; Fracht; freight; cargo; B1; Business/Beschaffung/Lieferkette; The freight was loaded onto the ship in Rotterdam.; Die Fracht wurde in Rotterdam auf das Schiff geladen.
-ba-0138; Zoll; customs; customs duty; B1; Business/Beschaffung/Lieferkette, Reisen/Zoll; The goods were stopped at customs for two days.; Die Ware wurde zwei Tage beim Zoll aufgehalten.
+ba-0138; Zoll; customs; customs duty; B1; Business/Beschaffung/Lieferkette, Reisen/Urlaub/Flughafen; The goods were stopped at customs for two days.; Die Ware wurde zwei Tage beim Zoll aufgehalten.
 ba-0139; Einfuhr; import; importation; B1; Business/Beschaffung/Lieferkette; The import of these parts requires a special licence.; Die Einfuhr dieser Teile erfordert eine besondere Genehmigung.
 ba-0140; Ausfuhr; export; exportation; B1; Business/Beschaffung/Lieferkette; The export of security technology is strictly controlled.; Die Ausfuhr von Sicherheitstechnik wird streng kontrolliert.
 ba-0141; Rahmenvertrag; framework agreement; framework contract; C1; Business/Beschaffung/Rahmenverträge; The framework agreement fixes prices for three years.; Der Rahmenvertrag legt die Preise für drei Jahre fest.

@@ -6,9 +6,9 @@ gc-0004; froh; glad; ; A1; Mensch/Gefühle/Emotionen; I am glad that you are her
 gc-0005; Angst; fear; ; A1; Mensch/Gefühle/Emotionen; The child has fear of big dogs.; Das Kind hat Angst vor großen Hunden.
 gc-0006; Liebe; love; ; A1; Mensch/Gefühle/Emotionen; Love is the most important thing in life.; Liebe ist das Wichtigste im Leben.
 gc-0007; lieben; to love; ; A1; Mensch/Gefühle/Emotionen; I love my family more than anything.; Ich liebe meine Familie über alles.
-gc-0008; lachen; to laugh; ; A1; Mensch/Gefühle/Ausdruck; We laugh a lot when we are together.; Wir lachen viel, wenn wir zusammen sind.
-gc-0009; weinen; to cry; to weep; A1; Mensch/Gefühle/Ausdruck; The baby cries when it is hungry.; Das Baby weint, wenn es Hunger hat.
-gc-0010; lächeln; to smile; ; A1; Mensch/Gefühle/Ausdruck; She smiles every time she sees him.; Sie lächelt jedes Mal, wenn sie ihn sieht.
+gc-0008; lachen; to laugh; ; A1; Mensch/Gefühle/Emotionen; We laugh a lot when we are together.; Wir lachen viel, wenn wir zusammen sind.
+gc-0009; weinen; to cry; to weep; A1; Mensch/Gefühle/Emotionen; The baby cries when it is hungry.; Das Baby weint, wenn es Hunger hat.
+gc-0010; lächeln; to smile; ; A1; Mensch/Gefühle/Emotionen; She smiles every time she sees him.; Sie lächelt jedes Mal, wenn sie ihn sieht.
 gc-0011; nett; nice; ; A1; Mensch/Gefühle/Charakter; Our new neighbor is really nice.; Unser neuer Nachbar ist wirklich nett.
 gc-0012; freundlich; friendly; ; A1; Mensch/Gefühle/Charakter; The staff in this shop is very friendly.; Das Personal in diesem Laden ist sehr freundlich.
 gc-0013; wütend; angry; furious; A1; Mensch/Gefühle/Emotionen; He gets angry when the bus is late.; Er wird wütend, wenn der Bus zu spät kommt.
@@ -21,7 +21,7 @@ gc-0019; lustig; funny; amusing; A1; Mensch/Gefühle/Charakter; My uncle is funn
 gc-0020; ruhig; calm; quiet; A1; Mensch/Gefühle/Stimmungen; Please stay calm, everything is fine.; Bitte bleib ruhig, alles ist in Ordnung.
 gc-0021; Gefühl; feeling; emotion; A1; Mensch/Gefühle/Emotionen; I have a good feeling about this plan.; Ich habe ein gutes Gefühl bei diesem Plan.
 gc-0022; fühlen; to feel; ; A1; Mensch/Gefühle/Emotionen; How do you feel about the news today?; Wie fühlst du dich heute nach den Neuigkeiten?
-gc-0023; Herz; heart; ; A1; Mensch/Gefühle/Emotionen, Mensch/Körper; Her heart beats faster when she is nervous.; Ihr Herz schlägt schneller, wenn sie nervös ist.
+gc-0023; Herz; heart; ; A1; Mensch/Gefühle/Emotionen, Gesundheit/Körper; Her heart beats faster when she is nervous.; Ihr Herz schlägt schneller, wenn sie nervös ist.
 gc-0024; stark; strong; ; A1; Mensch/Gefühle/Charakter; You have to be strong in hard times.; In schweren Zeiten muss man stark sein.
 gc-0025; schwach; weak; ; A1; Mensch/Gefühle/Charakter; He felt weak after the long illness.; Nach der langen Krankheit fühlte er sich schwach.
 gc-0026; Freude; joy; delight; A2; Mensch/Gefühle/Emotionen; The gift brought her great joy.; Das Geschenk bereitete ihr große Freude.
@@ -40,7 +40,7 @@ gc-0038; Laune; mood; ; A2; Mensch/Gefühle/Stimmungen; His mood changes quickly
 gc-0039; gelangweilt; bored; ; A2; Mensch/Gefühle/Stimmungen; The students looked bored during the long lecture.; Die Schüler wirkten während des langen Vortrags gelangweilt.
 gc-0040; Langeweile; boredom; ; A2; Mensch/Gefühle/Stimmungen; Out of boredom he started painting walls.; Aus Langeweile fing er an, Wände zu streichen.
 gc-0041; einsam; lonely; isolated; A2; Mensch/Gefühle/Stimmungen; In the new city she first felt lonely.; In der neuen Stadt fühlte sie sich zuerst einsam.
-gc-0042; Träne; tear; teardrop; A2; Mensch/Gefühle/Ausdruck, Mensch/Körper; A single tear ran down his cheek.; Eine einzelne Träne lief über seine Wange.
+gc-0042; Träne; tear; teardrop; A2; Mensch/Gefühle/Emotionen, Gesundheit/Körper; A single tear ran down his cheek.; Eine einzelne Träne lief über seine Wange.
 gc-0043; mutig; brave; courageous; A2; Mensch/Gefühle/Charakter; It was brave of you to tell the truth.; Es war mutig von dir, die Wahrheit zu sagen.
 gc-0044; Mut; courage; bravery; A2; Mensch/Gefühle/Charakter; It takes courage to start something new.; Es braucht Mut, etwas Neues anzufangen.
 gc-0045; schüchtern; shy; timid; A2; Mensch/Gefühle/Charakter; The shy boy rarely speaks in class.; Der schüchterne Junge spricht selten im Unterricht.

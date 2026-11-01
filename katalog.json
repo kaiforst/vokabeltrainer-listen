@@ -4,13 +4,13 @@
     {
       "id": "business-airport",
       "file": "woerter/business-airport.txt",
-      "version": 2,
+      "version": 3,
       "count": 200
     },
     {
       "id": "alltag-zuhause",
       "file": "woerter/alltag-zuhause.txt",
-      "version": 1,
+      "version": 2,
       "count": 150
     },
     {
@@ -28,43 +28,43 @@
     {
       "id": "einkaufen-geld",
       "file": "woerter/einkaufen-geld.txt",
-      "version": 1,
+      "version": 2,
       "count": 150
     },
     {
       "id": "essen-trinken",
       "file": "woerter/essen-trinken.txt",
-      "version": 1,
+      "version": 2,
       "count": 150
     },
     {
       "id": "familie-beziehungen",
       "file": "woerter/familie-beziehungen.txt",
-      "version": 1,
+      "version": 2,
       "count": 150
     },
     {
       "id": "freizeit-hobbys",
       "file": "woerter/freizeit-hobbys.txt",
-      "version": 1,
+      "version": 2,
       "count": 150
     },
     {
       "id": "gefuehle-charakter",
       "file": "woerter/gefuehle-charakter.txt",
-      "version": 1,
+      "version": 2,
       "count": 150
     },
     {
       "id": "grundwortschatz",
       "file": "woerter/grundwortschatz.txt",
-      "version": 2,
-      "count": 1000
+      "version": 3,
+      "count": 1200
     },
     {
       "id": "kleidung-mode",
       "file": "woerter/kleidung-mode.txt",
-      "version": 1,
+      "version": 2,
       "count": 150
     },
     {
@@ -76,7 +76,7 @@
     {
       "id": "kunst-kultur",
       "file": "woerter/kunst-kultur.txt",
-      "version": 1,
+      "version": 2,
       "count": 150
     },
     {
@@ -100,13 +100,13 @@
     {
       "id": "reisen-urlaub",
       "file": "woerter/reisen-urlaub.txt",
-      "version": 1,
+      "version": 2,
       "count": 150
     },
     {
       "id": "schule-bildung",
       "file": "woerter/schule-bildung.txt",
-      "version": 1,
+      "version": 2,
       "count": 150
     },
     {
@@ -118,7 +118,7 @@
     {
       "id": "technik-computer",
       "file": "woerter/technik-computer.txt",
-      "version": 1,
+      "version": 2,
       "count": 150
     },
     {
@@ -148,7 +148,7 @@
     {
       "id": "business-beschaffung",
       "file": "woerter/business-beschaffung.txt",
-      "version": 1,
+      "version": 2,
       "count": 150
     },
     {
@@ -166,7 +166,7 @@
     {
       "id": "business-projektmanagement",
       "file": "woerter/business-projektmanagement.txt",
-      "version": 1,
+      "version": 2,
       "count": 150
     },
     {
@@ -184,8 +184,29 @@
     {
       "id": "business-vertrag",
       "file": "woerter/business-vertrag.txt",
-      "version": 1,
+      "version": 2,
       "count": 150
+    },
+    {
+      "id": "fr-grundwortschatz",
+      "file": "woerter/fr-grundwortschatz.txt",
+      "version": 1,
+      "count": 1200,
+      "lang": "fr"
+    },
+    {
+      "id": "es-grundwortschatz",
+      "file": "woerter/es-grundwortschatz.txt",
+      "version": 1,
+      "count": 1200,
+      "lang": "es"
+    },
+    {
+      "id": "it-grundwortschatz",
+      "file": "woerter/it-grundwortschatz.txt",
+      "version": 1,
+      "count": 1200,
+      "lang": "it"
     }
   ],
   "lists": [
@@ -206,6 +227,86 @@
       }
     },
     {
+      "id": "grundwortschatz-a2",
+      "name": "Grundwortschatz – A2",
+      "description": "Aufbauwörter für den Alltag",
+      "level": "A2",
+      "count": 250,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Grundwortschatz"
+        ],
+        "levels": [
+          "A2"
+        ]
+      }
+    },
+    {
+      "id": "grundwortschatz-b1",
+      "name": "Grundwortschatz – B1",
+      "description": "Selbstständig im Alltag und Beruf",
+      "level": "B1",
+      "count": 250,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Grundwortschatz"
+        ],
+        "levels": [
+          "B1"
+        ]
+      }
+    },
+    {
+      "id": "grundwortschatz-b2",
+      "name": "Grundwortschatz – B2",
+      "description": "Für Diskussionen und Fachgespräche",
+      "level": "B2",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Grundwortschatz"
+        ],
+        "levels": [
+          "B2"
+        ]
+      }
+    },
+    {
+      "id": "grundwortschatz-c1",
+      "name": "Grundwortschatz – C1",
+      "description": "Gehobener Wortschatz für anspruchsvolle Texte",
+      "level": "C1",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Grundwortschatz"
+        ],
+        "levels": [
+          "C1"
+        ]
+      }
+    },
+    {
+      "id": "grundwortschatz-c2",
+      "name": "Grundwortschatz – C2",
+      "description": "Nuancen, Redewendungen und gehobener Stil",
+      "level": "C2",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Grundwortschatz"
+        ],
+        "levels": [
+          "C2"
+        ]
+      }
+    },
+    {
       "id": "business-english-airport",
       "name": "Business English – Airport",
       "description": "Terminalbetrieb und Passagierabfertigung, mit Beispielsätzen",
@@ -222,7 +323,7 @@
       "id": "alltag-zuhause",
       "name": "Alltag & Zuhause",
       "description": "A1–C2, mit Beispielsätzen",
-      "count": 151,
+      "count": 150,
       "version": 1,
       "filter": {
         "topics": [
@@ -258,7 +359,7 @@
       "id": "einkaufen-geld",
       "name": "Einkaufen & Geld",
       "description": "A1–C2, mit Beispielsätzen",
-      "count": 157,
+      "count": 158,
       "version": 2,
       "filter": {
         "topics": [
@@ -270,7 +371,7 @@
       "id": "essen-trinken",
       "name": "Essen & Trinken",
       "description": "A1–C2, mit Beispielsätzen",
-      "count": 150,
+      "count": 152,
       "version": 1,
       "filter": {
         "topics": [
@@ -294,7 +395,7 @@
       "id": "freizeit-hobbys",
       "name": "Freizeit & Hobbys",
       "description": "A1–C2, mit Beispielsätzen",
-      "count": 151,
+      "count": 153,
       "version": 1,
       "filter": {
         "topics": [
@@ -322,10 +423,10 @@
     },
     {
       "id": "grundwortschatz",
-      "name": "Grundwortschatz – 1000 Wörter",
+      "name": "Grundwortschatz – alle Niveaus",
       "description": "A1–C2, mit Beispielsätzen",
-      "count": 1000,
-      "version": 1,
+      "count": 1200,
+      "version": 2,
       "filter": {
         "topics": [
           "Grundwortschatz"
@@ -348,7 +449,7 @@
       "id": "koerper-gesundheit",
       "name": "Körper & Gesundheit",
       "description": "A1–C2, mit Beispielsätzen",
-      "count": 150,
+      "count": 152,
       "version": 1,
       "filter": {
         "topics": [
@@ -398,7 +499,7 @@
       "id": "politik-gesellschaft",
       "name": "Politik & Gesellschaft",
       "description": "A1–C2, mit Beispielsätzen",
-      "count": 150,
+      "count": 153,
       "version": 1,
       "filter": {
         "topics": [
@@ -410,7 +511,7 @@
       "id": "reisen-urlaub",
       "name": "Reisen & Urlaub",
       "description": "A1–C2, mit Beispielsätzen",
-      "count": 152,
+      "count": 158,
       "version": 2,
       "filter": {
         "topics": [
@@ -434,7 +535,7 @@
       "id": "sport-fitness",
       "name": "Sport & Fitness",
       "description": "A1–C2, mit Beispielsätzen",
-      "count": 151,
+      "count": 153,
       "version": 1,
       "filter": {
         "topics": [
@@ -458,7 +559,7 @@
       "id": "verkehr-mobilitaet",
       "name": "Verkehr & Mobilität",
       "description": "A1–C2, mit Beispielsätzen",
-      "count": 150,
+      "count": 152,
       "version": 1,
       "filter": {
         "topics": [
@@ -585,6 +686,472 @@
           "Business/Vertrag"
         ]
       }
+    },
+    {
+      "id": "fr-grundwortschatz-a1",
+      "name": "Französisch: Grundwortschatz – A1",
+      "description": "Die einfachsten Wörter zum Einstieg",
+      "level": "A1",
+      "answerLang": "fr",
+      "count": 250,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Grundwortschatz"
+        ],
+        "levels": [
+          "A1"
+        ]
+      }
+    },
+    {
+      "id": "fr-grundwortschatz-a2",
+      "name": "Französisch: Grundwortschatz – A2",
+      "description": "Aufbauwörter für den Alltag",
+      "level": "A2",
+      "answerLang": "fr",
+      "count": 250,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Grundwortschatz"
+        ],
+        "levels": [
+          "A2"
+        ]
+      }
+    },
+    {
+      "id": "fr-grundwortschatz-b1",
+      "name": "Französisch: Grundwortschatz – B1",
+      "description": "Selbstständig im Alltag und Beruf",
+      "level": "B1",
+      "answerLang": "fr",
+      "count": 250,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Grundwortschatz"
+        ],
+        "levels": [
+          "B1"
+        ]
+      }
+    },
+    {
+      "id": "fr-grundwortschatz-b2",
+      "name": "Französisch: Grundwortschatz – B2",
+      "description": "Für Diskussionen und Fachgespräche",
+      "level": "B2",
+      "answerLang": "fr",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Grundwortschatz"
+        ],
+        "levels": [
+          "B2"
+        ]
+      }
+    },
+    {
+      "id": "fr-grundwortschatz-c1",
+      "name": "Französisch: Grundwortschatz – C1",
+      "description": "Gehobener Wortschatz für anspruchsvolle Texte",
+      "level": "C1",
+      "answerLang": "fr",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Grundwortschatz"
+        ],
+        "levels": [
+          "C1"
+        ]
+      }
+    },
+    {
+      "id": "fr-grundwortschatz-c2",
+      "name": "Französisch: Grundwortschatz – C2",
+      "description": "Nuancen, Redewendungen und gehobener Stil",
+      "level": "C2",
+      "answerLang": "fr",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Grundwortschatz"
+        ],
+        "levels": [
+          "C2"
+        ]
+      }
+    },
+    {
+      "id": "fr-grundwortschatz",
+      "name": "Französisch: Grundwortschatz – alle Niveaus",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "fr",
+      "count": 1200,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Grundwortschatz"
+        ]
+      }
+    },
+    {
+      "id": "es-grundwortschatz-a1",
+      "name": "Spanisch: Grundwortschatz – A1",
+      "description": "Die einfachsten Wörter zum Einstieg",
+      "level": "A1",
+      "answerLang": "es",
+      "count": 250,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Grundwortschatz"
+        ],
+        "levels": [
+          "A1"
+        ]
+      }
+    },
+    {
+      "id": "es-grundwortschatz-a2",
+      "name": "Spanisch: Grundwortschatz – A2",
+      "description": "Aufbauwörter für den Alltag",
+      "level": "A2",
+      "answerLang": "es",
+      "count": 250,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Grundwortschatz"
+        ],
+        "levels": [
+          "A2"
+        ]
+      }
+    },
+    {
+      "id": "es-grundwortschatz-b1",
+      "name": "Spanisch: Grundwortschatz – B1",
+      "description": "Selbstständig im Alltag und Beruf",
+      "level": "B1",
+      "answerLang": "es",
+      "count": 250,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Grundwortschatz"
+        ],
+        "levels": [
+          "B1"
+        ]
+      }
+    },
+    {
+      "id": "es-grundwortschatz-b2",
+      "name": "Spanisch: Grundwortschatz – B2",
+      "description": "Für Diskussionen und Fachgespräche",
+      "level": "B2",
+      "answerLang": "es",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Grundwortschatz"
+        ],
+        "levels": [
+          "B2"
+        ]
+      }
+    },
+    {
+      "id": "es-grundwortschatz-c1",
+      "name": "Spanisch: Grundwortschatz – C1",
+      "description": "Gehobener Wortschatz für anspruchsvolle Texte",
+      "level": "C1",
+      "answerLang": "es",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Grundwortschatz"
+        ],
+        "levels": [
+          "C1"
+        ]
+      }
+    },
+    {
+      "id": "es-grundwortschatz-c2",
+      "name": "Spanisch: Grundwortschatz – C2",
+      "description": "Nuancen, Redewendungen und gehobener Stil",
+      "level": "C2",
+      "answerLang": "es",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Grundwortschatz"
+        ],
+        "levels": [
+          "C2"
+        ]
+      }
+    },
+    {
+      "id": "es-grundwortschatz",
+      "name": "Spanisch: Grundwortschatz – alle Niveaus",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "es",
+      "count": 1200,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Grundwortschatz"
+        ]
+      }
+    },
+    {
+      "id": "it-grundwortschatz-a1",
+      "name": "Italienisch: Grundwortschatz – A1",
+      "description": "Die einfachsten Wörter zum Einstieg",
+      "level": "A1",
+      "answerLang": "it",
+      "count": 250,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Grundwortschatz"
+        ],
+        "levels": [
+          "A1"
+        ]
+      }
+    },
+    {
+      "id": "it-grundwortschatz-a2",
+      "name": "Italienisch: Grundwortschatz – A2",
+      "description": "Aufbauwörter für den Alltag",
+      "level": "A2",
+      "answerLang": "it",
+      "count": 250,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Grundwortschatz"
+        ],
+        "levels": [
+          "A2"
+        ]
+      }
+    },
+    {
+      "id": "it-grundwortschatz-b1",
+      "name": "Italienisch: Grundwortschatz – B1",
+      "description": "Selbstständig im Alltag und Beruf",
+      "level": "B1",
+      "answerLang": "it",
+      "count": 250,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Grundwortschatz"
+        ],
+        "levels": [
+          "B1"
+        ]
+      }
+    },
+    {
+      "id": "it-grundwortschatz-b2",
+      "name": "Italienisch: Grundwortschatz – B2",
+      "description": "Für Diskussionen und Fachgespräche",
+      "level": "B2",
+      "answerLang": "it",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Grundwortschatz"
+        ],
+        "levels": [
+          "B2"
+        ]
+      }
+    },
+    {
+      "id": "it-grundwortschatz-c1",
+      "name": "Italienisch: Grundwortschatz – C1",
+      "description": "Gehobener Wortschatz für anspruchsvolle Texte",
+      "level": "C1",
+      "answerLang": "it",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Grundwortschatz"
+        ],
+        "levels": [
+          "C1"
+        ]
+      }
+    },
+    {
+      "id": "it-grundwortschatz-c2",
+      "name": "Italienisch: Grundwortschatz – C2",
+      "description": "Nuancen, Redewendungen und gehobener Stil",
+      "level": "C2",
+      "answerLang": "it",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Grundwortschatz"
+        ],
+        "levels": [
+          "C2"
+        ]
+      }
+    },
+    {
+      "id": "it-grundwortschatz",
+      "name": "Italienisch: Grundwortschatz – alle Niveaus",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "it",
+      "count": 1200,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Grundwortschatz"
+        ]
+      }
     }
-  ]
+  ],
+  "areas": {
+    "version": 3,
+    "tree": [
+      {
+        "name": "Einstieg",
+        "lists": [
+          "grundwortschatz-start",
+          "grundwortschatz-a2",
+          "grundwortschatz-b1",
+          "grundwortschatz-b2",
+          "grundwortschatz-c1",
+          "grundwortschatz-c2",
+          "grundwortschatz"
+        ],
+        "areas": [
+          {
+            "name": "Französisch",
+            "lists": [
+              "fr-grundwortschatz-a1",
+              "fr-grundwortschatz-a2",
+              "fr-grundwortschatz-b1",
+              "fr-grundwortschatz-b2",
+              "fr-grundwortschatz-c1",
+              "fr-grundwortschatz-c2",
+              "fr-grundwortschatz"
+            ]
+          },
+          {
+            "name": "Spanisch",
+            "lists": [
+              "es-grundwortschatz-a1",
+              "es-grundwortschatz-a2",
+              "es-grundwortschatz-b1",
+              "es-grundwortschatz-b2",
+              "es-grundwortschatz-c1",
+              "es-grundwortschatz-c2",
+              "es-grundwortschatz"
+            ]
+          },
+          {
+            "name": "Italienisch",
+            "lists": [
+              "it-grundwortschatz-a1",
+              "it-grundwortschatz-a2",
+              "it-grundwortschatz-b1",
+              "it-grundwortschatz-b2",
+              "it-grundwortschatz-c1",
+              "it-grundwortschatz-c2",
+              "it-grundwortschatz"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Alltag",
+        "lists": [
+          "alltag-zuhause",
+          "familie-beziehungen",
+          "essen-trinken",
+          "einkaufen-geld",
+          "kleidung-mode",
+          "koerper-gesundheit",
+          "gefuehle-charakter",
+          "verkehr-mobilitaet"
+        ]
+      },
+      {
+        "name": "Reisen & Freizeit",
+        "lists": [
+          "reisen-urlaub",
+          "verkehr-mobilitaet",
+          "business-english-airport",
+          "freizeit-hobbys",
+          "sport-fitness",
+          "kunst-kultur"
+        ]
+      },
+      {
+        "name": "Beruf & Business",
+        "lists": [
+          "wirtschaft-finanzen",
+          "business-english-airport"
+        ],
+        "areas": [
+          {
+            "name": "Grundlagen",
+            "lists": [
+              "arbeit-beruf",
+              "business-buero",
+              "medien-kommunikation"
+            ]
+          },
+          {
+            "name": "Fachbereiche",
+            "lists": [
+              "business-beschaffung",
+              "business-marketing-vertrieb",
+              "business-personalwesen",
+              "business-projektmanagement",
+              "business-rechnungswesen",
+              "business-verhandlungen",
+              "business-vertrag"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Gesellschaft & Wissen",
+        "lists": [
+          "politik-gesellschaft",
+          "schule-bildung",
+          "wissenschaft-forschung",
+          "technik-computer",
+          "natur-tiere",
+          "wetter-umwelt",
+          "medien-kommunikation",
+          "wirtschaft-finanzen"
+        ]
+      }
+    ]
+  }
 }

@@ -18,8 +18,8 @@ vt-0016; Frist; deadline; time limit; A2; Business/Vertrag/Laufzeit & Kündigung
 vt-0017; verlängern; to extend; to renew; A2; Business/Vertrag/Laufzeit & Kündigung; We want to extend the contract by one year.; Wir möchten den Vertrag um ein Jahr verlängern.
 vt-0018; prüfen; to check; to review, to examine; A2; Business/Vertrag/Abschluss & Unterschrift; Our lawyer will check the contract today.; Unser Anwalt prüft den Vertrag heute.
 vt-0019; Fehler; mistake; error; A2; Business/Vertrag/Streitfall; There is a mistake in the second clause.; In der zweiten Klausel ist ein Fehler.
-vt-0020; Anwalt; lawyer; attorney, solicitor; A2; Business/Vertrag/Streitfall, Recht/Berufe; Our lawyer found a problem in the contract.; Unser Anwalt hat ein Problem im Vertrag gefunden.
-vt-0021; Gesetz; law; ; A2; Business/Vertrag/Rechtsbegriffe, Recht/Allgemein; The new law changes the rules for contracts.; Das neue Gesetz ändert die Regeln für Verträge.
+vt-0020; Anwalt; lawyer; attorney, solicitor; A2; Business/Vertrag/Streitfall, Gesellschaft/Recht; Our lawyer found a problem in the contract.; Unser Anwalt hat ein Problem im Vertrag gefunden.
+vt-0021; Gesetz; law; ; A2; Business/Vertrag/Rechtsbegriffe, Gesellschaft/Recht; The new law changes the rules for contracts.; Das neue Gesetz ändert die Regeln für Verträge.
 vt-0022; Zeitraum; period; time frame; A2; Business/Vertrag/Laufzeit & Kündigung; The contract covers a period of three years.; Der Vertrag umfasst einen Zeitraum von drei Jahren.
 vt-0023; Betrag; amount; sum; A2; Business/Vertrag/Klauseln; The full amount is due after the delivery.; Der gesamte Betrag ist nach der Lieferung fällig.
 vt-0024; akzeptieren; to accept; ; A2; Business/Vertrag/Abschluss & Unterschrift; We cannot accept these new conditions.; Wir können diese neuen Bedingungen nicht akzeptieren.
@@ -57,7 +57,7 @@ vt-0055; Verhandlung; negotiation; ; B1; Business/Vertrag/Abschluss & Unterschri
 vt-0056; Kompromiss; compromise; ; B1; Business/Vertrag/Abschluss & Unterschrift; After long talks both sides found a compromise.; Nach langen Gesprächen fanden beide Seiten einen Kompromiss.
 vt-0057; zustimmen; to agree; to consent; B1; Business/Vertrag/Abschluss & Unterschrift; Both partners agree to the new conditions.; Beide Partner stimmen den neuen Bedingungen zu.
 vt-0058; Streit; dispute; conflict, disagreement; B1; Business/Vertrag/Streitfall; The dispute about the payment lasted several months.; Der Streit über die Zahlung dauerte mehrere Monate.
-vt-0059; Gericht; court; ; B1; Business/Vertrag/Streitfall, Recht/Allgemein; The case went to court after failed talks.; Der Fall ging nach gescheiterten Gesprächen vor Gericht.
+vt-0059; Gericht; court; ; B1; Business/Vertrag/Streitfall, Gesellschaft/Recht; The case went to court after failed talks.; Der Fall ging nach gescheiterten Gesprächen vor Gericht.
 vt-0060; Beweis; evidence; proof; B1; Business/Vertrag/Streitfall; The email is clear evidence of the agreement.; Die E-Mail ist ein klarer Beweis für die Vereinbarung.
 vt-0061; ungültig; invalid; void; B1; Business/Vertrag/Rechtsbegriffe; Without a signature the contract is invalid.; Ohne Unterschrift ist der Vertrag ungültig.
 vt-0062; schriftlich; in writing; written; B1; Business/Vertrag/Abschluss & Unterschrift; All changes must be made in writing.; Alle Änderungen müssen schriftlich erfolgen.

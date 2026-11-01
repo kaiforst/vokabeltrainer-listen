@@ -9,7 +9,7 @@ ru-0007; Tasche; bag; ; A1; Reisen/Urlaub/Gepäck; The bag with the tickets is i
 ru-0008; Flugzeug; plane; airplane, aircraft; A1; Reisen/Urlaub/Flughafen; The plane leaves at six in the morning.; Das Flugzeug fliegt um sechs Uhr morgens ab.
 ru-0009; fliegen; to fly; ; A1; Reisen/Urlaub/Flughafen; We fly to Lisbon early on Saturday morning.; Wir fliegen am Samstag früh nach Lissabon.
 ru-0010; Flughafen; airport; ; A1; Reisen/Urlaub/Flughafen; The airport is thirty minutes from the city.; Der Flughafen liegt dreißig Minuten von der Stadt entfernt.
-ru-0011; Zug; train; ; A1; Reisen/Urlaub/Unterwegs, Verkehr; The train to Vienna leaves from platform five.; Der Zug nach Wien fährt von Gleis fünf.
+ru-0011; Zug; train; ; A1; Reisen/Urlaub/Unterwegs, Reisen/Verkehr/Bus & Bahn; The train to Vienna leaves from platform five.; Der Zug nach Wien fährt von Gleis fünf.
 ru-0012; Bahnhof; station; railway station; A1; Reisen/Urlaub/Unterwegs; We meet at the station at ten tomorrow.; Wir treffen uns morgen um zehn am Bahnhof.
 ru-0013; Auto; car; ; A1; Reisen/Urlaub/Unterwegs; We drive to the mountains by car.; Wir fahren mit dem Auto in die Berge.
 ru-0014; Bus; bus; coach; A1; Reisen/Urlaub/Unterwegs; The bus to the old town comes every ten minutes.; Der Bus in die Altstadt kommt alle zehn Minuten.
@@ -92,7 +92,7 @@ ru-0090; Sonnenschirm; parasol; sunshade; B1; Reisen/Urlaub/Strand & Natur; We r
 ru-0091; Welle; wave; ; B1; Reisen/Urlaub/Strand & Natur; Every wave was too high for the children.; Jede Welle war zu hoch für die Kinder.
 ru-0092; Küste; coast; coastline; B1; Reisen/Urlaub/Strand & Natur; The road follows the coast for a hundred kilometres.; Die Straße folgt der Küste hundert Kilometer lang.
 ru-0093; Hafen; harbour; port; B1; Reisen/Urlaub/Sightseeing; In the evening the harbour is full of life.; Abends ist der Hafen voller Leben.
-ru-0094; Fähre; ferry; ; B1; Reisen/Urlaub/Unterwegs, Verkehr; The ferry to the island runs twice a day.; Die Fähre zur Insel fährt zweimal am Tag.
+ru-0094; Fähre; ferry; ; B1; Reisen/Urlaub/Unterwegs, Reisen/Verkehr/Bus & Bahn; The ferry to the island runs twice a day.; Die Fähre zur Insel fährt zweimal am Tag.
 ru-0095; Route; route; ; B1; Reisen/Urlaub/Unterwegs; We planned our route along small country roads.; Wir planten unsere Route über kleine Landstraßen.
 ru-0096; Pauschalreise; package holiday; package tour; B2; Reisen/Urlaub/Planung & Buchung; A package holiday is often cheaper than separate bookings.; Eine Pauschalreise ist oft günstiger als einzelne Buchungen.
 ru-0097; Reiseveranstalter; tour operator; ; B2; Reisen/Urlaub/Planung & Buchung; The tour operator informed us about the schedule change.; Der Reiseveranstalter informierte uns über die Planänderung.

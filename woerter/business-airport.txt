@@ -198,5 +198,5 @@ ap-0195; Nachtflugverbot; night flight ban; night flying ban, night curfew, curf
 ap-0196; Streik; strike; industrial action; B1; Business/Airport/Unregelmäßigkeiten; The strike by security staff affects all departures tomorrow.; Der Streik des Sicherheitspersonals betrifft morgen alle Abflüge.
 ap-0197; Betriebsstörung; disruption; operational disruption, irregular operations; B2; Business/Airport/Unregelmäßigkeiten; The disruption caused by the snow lasted all day.; Die Betriebsstörung durch den Schnee dauerte den ganzen Tag.
 ap-0198; umbuchen; to rebook; ; B1; Business/Airport/Unregelmäßigkeiten; We can rebook you onto the next flight at no extra cost.; Wir können Sie ohne Aufpreis auf den nächsten Flug umbuchen.
-ap-0199; einchecken; to check in; ; A1; Business/Airport/Verben; You can check in online or at the counter.; Sie können online oder am Schalter einchecken.
-ap-0200; an Bord gehen; to board; to get on board, to go on board; A2; Business/Airport/Verben; Passengers in rows 20 to 35 may now board.; Passagiere in den Reihen 20 bis 35 dürfen jetzt an Bord gehen.
+ap-0199; einchecken; to check in; ; A1; Business/Airport/Check-in; You can check in online or at the counter.; Sie können online oder am Schalter einchecken.
+ap-0200; an Bord gehen; to board; to get on board, to go on board; A2; Business/Airport/Boarding; Passengers in rows 20 to 35 may now board.; Passagiere in den Reihen 20 bis 35 dürfen jetzt an Bord gehen.

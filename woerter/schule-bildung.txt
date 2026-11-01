@@ -61,8 +61,8 @@ sb-0059; Grundschule; primary school; elementary school; A2; Bildung/Schule/Schu
 sb-0060; Ferien; holidays; vacation, school holidays; A2; Bildung/Schule/Unterricht; The holidays begin next week on Friday.; Die Ferien beginnen nächste Woche am Freitag.
 sb-0061; Gymnasium; grammar school; high school; B1; Bildung/Schule/Schulformen; She attends a grammar school in Frankfurt.; Sie besucht ein Gymnasium in Frankfurt.
 sb-0062; weiterführende Schule; secondary school; ; B1; Bildung/Schule/Schulformen; After year four the children choose a secondary school.; Nach der vierten Klasse wählen die Kinder eine weiterführende Schule.
-sb-0063; Abschluss; qualification; school-leaving qualification, degree; B1; Bildung/Schule/Abschlüsse; A good qualification opens many doors later.; Ein guter Abschluss öffnet später viele Türen.
-sb-0064; Abitur; A-levels; high school diploma, school-leaving exam; B1; Bildung/Schule/Abschlüsse; He passed his A-levels with very good marks.; Er hat sein Abitur mit sehr guten Noten bestanden.
+sb-0063; Abschluss; qualification; school-leaving qualification, degree; B1; Bildung/Schule/Prüfungen; A good qualification opens many doors later.; Ein guter Abschluss öffnet später viele Türen.
+sb-0064; Abitur; A-levels; high school diploma, school-leaving exam; B1; Bildung/Schule/Prüfungen; He passed his A-levels with very good marks.; Er hat sein Abitur mit sehr guten Noten bestanden.
 sb-0065; Universität; university; ; B1; Bildung/Universität; She studies law at the university in Mainz.; Sie studiert Jura an der Universität in Mainz.
 sb-0066; Student; student; university student; B1; Bildung/Universität; As a student he lived in a small flat.; Als Student wohnte er in einer kleinen Wohnung.
 sb-0067; Vorlesung; lecture; ; B1; Bildung/Universität; The lecture on European history starts at ten.; Die Vorlesung über europäische Geschichte beginnt um zehn.
@@ -94,7 +94,7 @@ sb-0092; Austauschschüler; exchange student; exchange pupil; B1; Bildung/Schule
 sb-0093; Klassenfahrt; school trip; class trip; B1; Bildung/Schule/Unterricht; The school trip goes to the Baltic Sea this year.; Die Klassenfahrt geht dieses Jahr an die Ostsee.
 sb-0094; Elternabend; parents' evening; parent-teacher evening; B1; Bildung/Schule/Unterricht; The next parents' evening is on Thursday at seven.; Der nächste Elternabend ist am Donnerstag um sieben.
 sb-0095; Berufsschule; vocational school; ; B1; Bildung/Schule/Schulformen; Apprentices attend vocational school twice a week.; Auszubildende besuchen zweimal pro Woche die Berufsschule.
-sb-0096; Ausbildung; apprenticeship; vocational training, training; B2; Bildung/Ausbildung; After school she started an apprenticeship as an electrician.; Nach der Schule begann sie eine Ausbildung als Elektrikerin.
+sb-0096; Ausbildung; apprenticeship; vocational training, training; B2; Bildung/Lernen; After school she started an apprenticeship as an electrician.; Nach der Schule begann sie eine Ausbildung als Elektrikerin.
 sb-0097; Schulpflicht; compulsory education; compulsory schooling; B2; Bildung/Bildungspolitik; In Germany compulsory education starts at the age of six.; In Deutschland beginnt die Schulpflicht mit sechs Jahren.
 sb-0098; Lehrplan; curriculum; syllabus; B2; Bildung/Schule/Unterricht; The new curriculum puts more weight on digital skills.; Der neue Lehrplan legt mehr Gewicht auf digitale Kompetenzen.
 sb-0099; Leistung; performance; achievement; B2; Bildung/Schule/Prüfungen; Her performance improved clearly in the second half.; Ihre Leistung verbesserte sich in der zweiten Jahreshälfte deutlich.
@@ -128,7 +128,7 @@ sb-0126; Chancengleichheit; equal opportunities; equality of opportunity; C1; Bi
 sb-0127; Bildungspolitik; education policy; educational policy; C1; Bildung/Bildungspolitik; Education policy is decided by the federal states.; Bildungspolitik wird von den Bundesländern entschieden.
 sb-0128; Analphabetismus; illiteracy; ; C1; Bildung/Bildungspolitik; Illiteracy among adults is more common than expected.; Der Analphabetismus unter Erwachsenen ist verbreiteter als gedacht.
 sb-0129; lebenslanges Lernen; lifelong learning; ; C1; Bildung/Lernen; Lifelong learning has become essential in modern careers.; Lebenslanges Lernen ist in modernen Berufen unverzichtbar geworden.
-sb-0130; Hochschulreife; higher education entrance qualification; university entrance qualification; C1; Bildung/Schule/Abschlüsse; The higher education entrance qualification opens the way to university.; Die Hochschulreife öffnet den Weg zur Universität.
+sb-0130; Hochschulreife; higher education entrance qualification; university entrance qualification; C1; Bildung/Schule/Prüfungen; The higher education entrance qualification opens the way to university.; Die Hochschulreife öffnet den Weg zur Universität.
 sb-0131; Habilitation; postdoctoral qualification; habilitation; C1; Bildung/Universität; In Germany a professorship often requires a postdoctoral qualification.; In Deutschland erfordert eine Professur oft eine Habilitation.
 sb-0132; Gutachten; expert report; expert opinion, review; C1; Bildung/Universität; The committee requested an expert report on the thesis.; Die Kommission forderte ein Gutachten über die Arbeit an.
 sb-0133; Lehrstuhl; chair; professorship; C1; Bildung/Universität; She was offered a chair in applied physics.; Ihr wurde ein Lehrstuhl für angewandte Physik angeboten.

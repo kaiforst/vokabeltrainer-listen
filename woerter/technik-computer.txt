@@ -11,7 +11,7 @@ tc-0009; Drucker; printer; ; A1; Technik/Computer/Geräte; The printer in the of
 tc-0010; Kamera; camera; ; A1; Technik/Computer/Geräte; This camera takes very good pictures.; Diese Kamera macht sehr gute Fotos.
 tc-0011; Laptop; laptop; notebook; A1; Technik/Computer/Geräte; She takes her laptop to work every morning.; Sie nimmt ihren Laptop jeden Morgen mit zur Arbeit.
 tc-0012; Foto; photo; picture; A1; Technik/Computer/Smartphone; He showed me a photo of his dog.; Er zeigte mir ein Foto von seinem Hund.
-tc-0013; E-Mail; email; e-mail, mail; A1; Technik/Computer/Internet, Arbeit/Büro; Please send me an email with the details.; Bitte schick mir eine E-Mail mit den Details.
+tc-0013; E-Mail; email; e-mail, mail; A1; Technik/Computer/Internet, Arbeit/Beruf/Arbeitsalltag; Please send me an email with the details.; Bitte schick mir eine E-Mail mit den Details.
 tc-0014; Kabel; cable; cord; A1; Technik/Computer/Hardware; The cable is too short for my desk.; Das Kabel ist zu kurz für meinen Schreibtisch.
 tc-0015; Batterie; battery; ; A1; Technik/Computer/Hardware; The battery in my camera is empty.; Die Batterie in meiner Kamera ist leer.
 tc-0016; Taste; key; button; A1; Technik/Computer/Geräte; Press the green key to start the game.; Drück die grüne Taste, um das Spiel zu starten.
@@ -45,7 +45,7 @@ tc-0043; senden; to send; ; A2; Technik/Computer/Internet; He sends many emails 
 tc-0044; empfangen; to receive; to get; A2; Technik/Computer/Internet; Did you receive my message yesterday evening?; Hast du gestern Abend meine Nachricht empfangen?
 tc-0045; Verbindung; connection; ; A2; Technik/Computer/Internet; The internet connection is very slow today.; Die Internetverbindung ist heute sehr langsam.
 tc-0046; verbinden; to connect; to link; A2; Technik/Computer/Internet; You have to connect the laptop to the printer.; Du musst den Laptop mit dem Drucker verbinden.
-tc-0047; WLAN; Wi-Fi; wireless network, WiFi; A2; Technik/Computer/Internet, Reisen/Hotel; The hotel has free Wi-Fi in every room.; Das Hotel hat kostenloses WLAN in jedem Zimmer.
+tc-0047; WLAN; Wi-Fi; wireless network, WiFi; A2; Technik/Computer/Internet, Reisen/Urlaub/Unterkunft; The hotel has free Wi-Fi in every room.; Das Hotel hat kostenloses WLAN in jedem Zimmer.
 tc-0048; Akku; rechargeable battery; battery pack; A2; Technik/Computer/Smartphone; My rechargeable battery lasts for almost two days.; Mein Akku hält fast zwei Tage.
 tc-0049; Tablet; tablet; tablet computer; A2; Technik/Computer/Geräte; The children watch films on the tablet.; Die Kinder schauen Filme auf dem Tablet.
 tc-0050; funktionieren; to work; to function; A2; Technik/Computer/Geräte; The printer does not work without paper.; Der Drucker funktioniert nicht ohne Papier.

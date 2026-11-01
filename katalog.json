@@ -180,7 +180,7 @@
       "id": "alltag-zuhause",
       "name": "Alltag & Zuhause",
       "description": "A1–C2, mit Beispielsätzen",
-      "count": 150,
+      "count": 151,
       "version": 1,
       "filter": {
         "topics": [
@@ -192,7 +192,7 @@
       "id": "arbeit-beruf",
       "name": "Arbeit & Beruf",
       "description": "A1–C2, mit Beispielsätzen",
-      "count": 150,
+      "count": 152,
       "version": 1,
       "filter": {
         "topics": [
@@ -216,7 +216,7 @@
       "id": "einkaufen-geld",
       "name": "Einkaufen & Geld",
       "description": "A1–C2, mit Beispielsätzen",
-      "count": 150,
+      "count": 153,
       "version": 1,
       "filter": {
         "topics": [
@@ -252,7 +252,7 @@
       "id": "freizeit-hobbys",
       "name": "Freizeit & Hobbys",
       "description": "A1–C2, mit Beispielsätzen",
-      "count": 150,
+      "count": 151,
       "version": 1,
       "filter": {
         "topics": [
@@ -318,7 +318,7 @@
       "id": "kunst-kultur",
       "name": "Kunst & Kultur",
       "description": "A1–C2, mit Beispielsätzen",
-      "count": 150,
+      "count": 151,
       "version": 1,
       "filter": {
         "topics": [
@@ -368,7 +368,7 @@
       "id": "reisen-urlaub",
       "name": "Reisen & Urlaub",
       "description": "A1–C2, mit Beispielsätzen",
-      "count": 150,
+      "count": 151,
       "version": 1,
       "filter": {
         "topics": [
@@ -392,7 +392,7 @@
       "id": "sport-fitness",
       "name": "Sport & Fitness",
       "description": "A1–C2, mit Beispielsätzen",
-      "count": 150,
+      "count": 151,
       "version": 1,
       "filter": {
         "topics": [

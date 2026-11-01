@@ -1,0 +1,151 @@
+id; Deutsch; Englisch; Weitere Antworten; Niveau; Themen; Beispiel Englisch; Beispiel Deutsch
+kg-0001; Kopf; head; ; A1; Gesundheit/Körper; My head hurts after the long meeting.; Mein Kopf tut nach der langen Besprechung weh.
+kg-0002; Arm; arm; ; A1; Gesundheit/Körper; She broke her arm last winter.; Sie hat sich letzten Winter den Arm gebrochen.
+kg-0003; Bein; leg; ; A1; Gesundheit/Körper; His left leg is still very weak.; Sein linkes Bein ist noch sehr schwach.
+kg-0004; Hand; hand; ; A1; Gesundheit/Körper; Please wash your hands before dinner.; Bitte wasch dir vor dem Abendessen die Hände.
+kg-0005; Fuß; foot; ; A1; Gesundheit/Körper; My right foot hurts when I walk.; Mein rechter Fuß tut beim Gehen weh.
+kg-0006; Auge; eye; ; A1; Gesundheit/Körper; Her left eye is red and itchy.; Ihr linkes Auge ist rot und juckt.
+kg-0007; Ohr; ear; ; A1; Gesundheit/Körper; The child has pain in one ear.; Das Kind hat Schmerzen in einem Ohr.
+kg-0008; Nase; nose; ; A1; Gesundheit/Körper; My nose is blocked because of the cold.; Meine Nase ist wegen der Erkältung verstopft.
+kg-0009; Mund; mouth; ; A1; Gesundheit/Körper; Please open your mouth for the doctor.; Bitte öffnen Sie den Mund für den Arzt.
+kg-0010; Zahn; tooth; ; A1; Gesundheit/Körper; One tooth has hurt since yesterday.; Ein Zahn tut seit gestern weh.
+kg-0011; Haar; hair; ; A1; Gesundheit/Körper; Her hair is long and very dark.; Ihr Haar ist lang und sehr dunkel.
+kg-0012; Bauch; belly; tummy; A1; Gesundheit/Körper; My belly hurts after the big meal.; Mein Bauch tut nach dem großen Essen weh.
+kg-0013; Rücken; back; ; A1; Gesundheit/Körper; His back hurts from sitting all day.; Sein Rücken schmerzt vom langen Sitzen.
+kg-0014; Finger; finger; ; A1; Gesundheit/Körper; I cut my finger in the kitchen.; Ich habe mir in der Küche in den Finger geschnitten.
+kg-0015; Herz; heart; ; A1; Gesundheit/Körper; Her heart beats fast after running.; Ihr Herz schlägt nach dem Laufen schnell.
+kg-0016; krank; ill; sick; A1; Gesundheit/Krankheiten; He is ill and stays in bed today.; Er ist krank und bleibt heute im Bett.
+kg-0017; gesund; healthy; ; A1; Gesundheit/Gesunde Lebensweise; Fresh fruit is healthy and tastes good.; Frisches Obst ist gesund und schmeckt gut.
+kg-0018; Arzt; doctor; physician; A1; Gesundheit/Beim Arzt; I have to see the doctor tomorrow morning.; Ich muss morgen früh zum Arzt.
+kg-0019; Fieber; fever; temperature; A1; Gesundheit/Symptome; The baby has a high fever tonight.; Das Baby hat heute Nacht hohes Fieber.
+kg-0020; Schmerz; pain; ache; A1; Gesundheit/Symptome; The pain in my knee is getting worse.; Der Schmerz in meinem Knie wird schlimmer.
+kg-0021; Tablette; tablet; pill; A1; Gesundheit/Apotheke & Medikamente; Take one tablet with water every morning.; Nehmen Sie jeden Morgen eine Tablette mit Wasser.
+kg-0022; schlafen; to sleep; ; A1; Gesundheit/Gesunde Lebensweise; You should sleep eight hours every night.; Du solltest jede Nacht acht Stunden schlafen.
+kg-0023; Krankenhaus; hospital; ; A1; Gesundheit/Krankenhaus; My grandfather is in the hospital this week.; Mein Großvater ist diese Woche im Krankenhaus.
+kg-0024; Apotheke; pharmacy; chemist's; A1; Gesundheit/Apotheke & Medikamente; The pharmacy is open until eight tonight.; Die Apotheke hat heute bis acht Uhr geöffnet.
+kg-0025; müde; tired; ; A1; Gesundheit/Symptome; I am very tired after the long day.; Ich bin nach dem langen Tag sehr müde.
+kg-0026; Magen; stomach; ; A2; Gesundheit/Körper; My stomach feels strange after the fish.; Mein Magen fühlt sich nach dem Fisch komisch an.
+kg-0027; Hals; throat; neck; A2; Gesundheit/Körper; My throat hurts when I swallow.; Mein Hals tut beim Schlucken weh.
+kg-0028; Schulter; shoulder; ; A2; Gesundheit/Körper; Her shoulder is stiff from the computer work.; Ihre Schulter ist von der Computerarbeit steif.
+kg-0029; Knie; knee; ; A2; Gesundheit/Körper; He hurt his knee while playing football.; Er hat sich beim Fußballspielen das Knie verletzt.
+kg-0030; Haut; skin; ; A2; Gesundheit/Körper; Dry skin needs a good cream in winter.; Trockene Haut braucht im Winter eine gute Creme.
+kg-0031; Blut; blood; ; A2; Gesundheit/Körper; The nurse took some blood this morning.; Die Schwester hat heute Morgen Blut abgenommen.
+kg-0032; Zunge; tongue; ; A2; Gesundheit/Körper; I burned my tongue on the hot tea.; Ich habe mir die Zunge am heißen Tee verbrannt.
+kg-0033; Lippe; lip; ; A2; Gesundheit/Körper; Her lower lip is dry and cracked.; Ihre Unterlippe ist trocken und rissig.
+kg-0034; Husten; cough; ; A2; Gesundheit/Symptome; His cough kept the whole family awake.; Sein Husten hielt die ganze Familie wach.
+kg-0035; Schnupfen; runny nose; head cold; A2; Gesundheit/Symptome; I have a runny nose and sneeze a lot.; Ich habe Schnupfen und niese viel.
+kg-0036; Erkältung; cold; ; A2; Gesundheit/Krankheiten; A cold usually lasts about one week.; Eine Erkältung dauert meistens etwa eine Woche.
+kg-0037; Kopfschmerzen; headache; ; A2; Gesundheit/Symptome; I had a bad headache all afternoon.; Ich hatte den ganzen Nachmittag starke Kopfschmerzen.
+kg-0038; Zahnschmerzen; toothache; ; A2; Gesundheit/Symptome; He went to bed early because of toothache.; Er ging wegen Zahnschmerzen früh ins Bett.
+kg-0039; Bauchschmerzen; stomach ache; tummy ache; A2; Gesundheit/Symptome; The girl has stomach ache before every test.; Das Mädchen hat vor jedem Test Bauchschmerzen.
+kg-0040; Halsschmerzen; sore throat; ; A2; Gesundheit/Symptome; Warm tea helps against a sore throat.; Warmer Tee hilft gegen Halsschmerzen.
+kg-0041; Grippe; flu; influenza; A2; Gesundheit/Krankheiten; Many people get the flu in January.; Viele Menschen bekommen im Januar die Grippe.
+kg-0042; Medikament; medicine; medication, drug; A2; Gesundheit/Apotheke & Medikamente; This medicine helps quickly against the pain.; Dieses Medikament hilft schnell gegen die Schmerzen.
+kg-0043; Rezept; prescription; ; A2; Gesundheit/Apotheke & Medikamente; You need a prescription for these tablets.; Für diese Tabletten brauchen Sie ein Rezept.
+kg-0044; Termin; appointment; ; A2; Gesundheit/Beim Arzt; I made an appointment for Friday morning.; Ich habe einen Termin für Freitagmorgen gemacht.
+kg-0045; Krankenschwester; nurse; ; A2; Gesundheit/Krankenhaus; The nurse checks the patients every hour.; Die Krankenschwester sieht jede Stunde nach den Patienten.
+kg-0046; Patient; patient; ; A2; Gesundheit/Krankenhaus; The patient feels much better today.; Dem Patienten geht es heute viel besser.
+kg-0047; Wartezimmer; waiting room; ; A2; Gesundheit/Beim Arzt; The waiting room was full this morning.; Das Wartezimmer war heute Morgen voll.
+kg-0048; Spritze; injection; shot, jab; A2; Gesundheit/Beim Arzt; The injection only hurt for a second.; Die Spritze hat nur eine Sekunde wehgetan.
+kg-0049; Pflaster; plaster; band-aid; A2; Gesundheit/Apotheke & Medikamente; Put a plaster on the small cut.; Kleb ein Pflaster auf den kleinen Schnitt.
+kg-0050; Verband; bandage; dressing; A2; Gesundheit/Beim Arzt; The doctor changed the bandage on my hand.; Der Arzt wechselte den Verband an meiner Hand.
+kg-0051; Salbe; ointment; cream; A2; Gesundheit/Apotheke & Medikamente; Use this ointment twice a day.; Benutzen Sie diese Salbe zweimal am Tag.
+kg-0052; Unfall; accident; ; A2; Gesundheit/Krankenhaus; After the accident he needed help quickly.; Nach dem Unfall brauchte er schnell Hilfe.
+kg-0053; Notruf; emergency call; ; A2; Gesundheit/Krankenhaus; She made an emergency call right away.; Sie setzte sofort einen Notruf ab.
+kg-0054; weh tun; to hurt; to ache; A2; Gesundheit/Symptome; Does it hurt when you move your arm?; Tut es weh, wenn du den Arm bewegst?
+kg-0055; zittern; to shiver; to tremble; A2; Gesundheit/Symptome; She was shivering in the cold wind.; Sie zitterte im kalten Wind.
+kg-0056; niesen; to sneeze; ; A2; Gesundheit/Symptome; She sneezes every time a cat comes near.; Sie niest jedes Mal, wenn eine Katze in die Nähe kommt.
+kg-0057; sich erkälten; to catch a cold; ; A2; Gesundheit/Krankheiten; You will catch a cold without a jacket.; Ohne Jacke wirst du dich noch erkälten.
+kg-0058; sich ausruhen; to rest; ; A2; Gesundheit/Gesunde Lebensweise; You should rest for a few days.; Du solltest dich ein paar Tage ausruhen.
+kg-0059; untersuchen; to examine; ; A2; Gesundheit/Beim Arzt; The doctor examined the boy very carefully.; Der Arzt untersuchte den Jungen sehr gründlich.
+kg-0060; Zahnarzt; dentist; ; A2; Gesundheit/Beim Arzt; I visit my dentist twice a year.; Ich gehe zweimal im Jahr zu meinem Zahnarzt.
+kg-0061; Gehirn; brain; ; B1; Gesundheit/Körper; The brain needs oxygen and enough sleep.; Das Gehirn braucht Sauerstoff und genug Schlaf.
+kg-0062; Lunge; lung; ; B1; Gesundheit/Körper; Smoking damages the lungs over the years.; Rauchen schädigt die Lunge über die Jahre.
+kg-0063; Leber; liver; ; B1; Gesundheit/Körper; Too much alcohol harms the liver.; Zu viel Alkohol schadet der Leber.
+kg-0064; Niere; kidney; ; B1; Gesundheit/Körper; Drinking enough water keeps the kidneys healthy.; Genug Wasser zu trinken hält die Nieren gesund.
+kg-0065; Knochen; bone; ; B1; Gesundheit/Körper; Old people's bones break more easily.; Die Knochen älterer Menschen brechen leichter.
+kg-0066; Muskel; muscle; ; B1; Gesundheit/Körper; Regular exercise makes every muscle stronger.; Regelmäßige Bewegung macht jeden Muskel stärker.
+kg-0067; Gelenk; joint; ; B1; Gesundheit/Körper; My knee joint hurts in cold weather.; Mein Kniegelenk schmerzt bei kaltem Wetter.
+kg-0068; Wirbelsäule; spine; backbone; B1; Gesundheit/Körper; A straight chair is better for your spine.; Ein gerader Stuhl ist besser für deine Wirbelsäule.
+kg-0069; Rippe; rib; ; B1; Gesundheit/Körper; He broke a rib in the accident.; Er hat sich bei dem Unfall eine Rippe gebrochen.
+kg-0070; Ellbogen; elbow; ; B1; Gesundheit/Körper; She hit her elbow on the door.; Sie stieß sich den Ellbogen an der Tür.
+kg-0071; Handgelenk; wrist; ; B1; Gesundheit/Körper; My wrist hurts from typing too much.; Mein Handgelenk schmerzt vom vielen Tippen.
+kg-0072; Knöchel; ankle; ; B1; Gesundheit/Körper; He twisted his ankle on the stairs.; Er hat sich auf der Treppe den Knöchel verdreht.
+kg-0073; Ferse; heel; ; B1; Gesundheit/Körper; The new shoes rub against my heel.; Die neuen Schuhe reiben an meiner Ferse.
+kg-0074; Stirn; forehead; ; B1; Gesundheit/Körper; Her forehead felt hot from the fever.; Ihre Stirn fühlte sich vom Fieber heiß an.
+kg-0075; Wange; cheek; ; B1; Gesundheit/Körper; The child's cheeks were red from the cold.; Die Wangen des Kindes waren rot vor Kälte.
+kg-0076; Kinn; chin; ; B1; Gesundheit/Körper; He rested his chin on his hand.; Er stützte das Kinn auf die Hand.
+kg-0077; Augenbraue; eyebrow; ; B1; Gesundheit/Körper; She raised one eyebrow in surprise.; Sie zog überrascht eine Augenbraue hoch.
+kg-0078; Wimper; eyelash; ; B1; Gesundheit/Körper; An eyelash fell into her left eye.; Eine Wimper ist in ihr linkes Auge gefallen.
+kg-0079; Verletzung; injury; ; B1; Gesundheit/Krankheiten; The injury healed completely within six weeks.; Die Verletzung heilte innerhalb von sechs Wochen vollständig.
+kg-0080; Wunde; wound; ; B1; Gesundheit/Beim Arzt; Clean the wound carefully with clear water.; Reinige die Wunde vorsichtig mit klarem Wasser.
+kg-0081; Entzündung; inflammation; ; B1; Gesundheit/Krankheiten; The inflammation in his ear went down slowly.; Die Entzündung in seinem Ohr ging langsam zurück.
+kg-0082; Allergie; allergy; ; B1; Gesundheit/Krankheiten; Her allergy gets worse every spring.; Ihre Allergie wird jedes Frühjahr schlimmer.
+kg-0083; Asthma; asthma; ; B1; Gesundheit/Krankheiten; His asthma makes running very difficult.; Sein Asthma macht das Laufen sehr schwer.
+kg-0084; Durchfall; diarrhoea; diarrhea; B1; Gesundheit/Symptome; Drink a lot if you have diarrhoea.; Trink viel, wenn du Durchfall hast.
+kg-0085; Verstopfung; constipation; ; B1; Gesundheit/Symptome; Eating more fibre often helps against constipation.; Mehr Ballaststoffe helfen oft gegen Verstopfung.
+kg-0086; Übelkeit; nausea; ; B1; Gesundheit/Symptome; The nausea disappeared after a short walk.; Die Übelkeit verschwand nach einem kurzen Spaziergang.
+kg-0087; Schwindel; dizziness; ; B1; Gesundheit/Symptome; Sudden dizziness can have many different causes.; Plötzlicher Schwindel kann viele verschiedene Ursachen haben.
+kg-0088; erbrechen; to vomit; to throw up; B1; Gesundheit/Symptome; The patient vomited twice during the night.; Der Patient erbrach sich zweimal in der Nacht.
+kg-0089; bluten; to bleed; ; B1; Gesundheit/Symptome; The small cut stopped bleeding quite quickly.; Der kleine Schnitt hörte recht schnell auf zu bluten.
+kg-0090; schwitzen; to sweat; ; B1; Gesundheit/Symptome; He was sweating heavily because of the fever.; Er schwitzte wegen des Fiebers stark.
+kg-0091; impfen; to vaccinate; ; B1; Gesundheit/Beim Arzt; The doctor vaccinated the children against measles.; Der Arzt impfte die Kinder gegen Masern.
+kg-0092; Impfung; vaccination; jab; B1; Gesundheit/Beim Arzt; The vaccination protects you for many years.; Die Impfung schützt dich viele Jahre lang.
+kg-0093; Krankenversicherung; health insurance; ; B1; Gesundheit/Beim Arzt; In Germany everyone needs health insurance.; In Deutschland braucht jeder eine Krankenversicherung.
+kg-0094; Überweisung; referral; ; B1; Gesundheit/Beim Arzt; I need a referral to the specialist.; Ich brauche eine Überweisung zum Facharzt.
+kg-0095; Notaufnahme; emergency room; A&E; B1; Gesundheit/Krankenhaus; They drove straight to the emergency room.; Sie fuhren direkt in die Notaufnahme.
+kg-0096; Diagnose; diagnosis; ; B2; Gesundheit/Beim Arzt; The diagnosis came as a complete surprise.; Die Diagnose kam völlig überraschend.
+kg-0097; Behandlung; treatment; ; B2; Gesundheit/Beim Arzt; The treatment lasts about three months in total.; Die Behandlung dauert insgesamt etwa drei Monate.
+kg-0098; Therapie; therapy; ; B2; Gesundheit/Krankenhaus; The new therapy shows very good results.; Die neue Therapie zeigt sehr gute Ergebnisse.
+kg-0099; Operation; surgery; operation; B2; Gesundheit/Krankenhaus; The surgery took longer than expected.; Die Operation dauerte länger als erwartet.
+kg-0100; Chirurg; surgeon; ; B2; Gesundheit/Krankenhaus; The surgeon explained every step of the procedure.; Der Chirurg erklärte jeden Schritt des Eingriffs.
+kg-0101; Narkose; anaesthesia; anesthesia; B2; Gesundheit/Krankenhaus; She woke up slowly from the anaesthesia.; Sie wachte langsam aus der Narkose auf.
+kg-0102; Röntgenbild; X-ray; x-ray image; B2; Gesundheit/Krankenhaus; The X-ray showed a small crack in the bone.; Das Röntgenbild zeigte einen kleinen Riss im Knochen.
+kg-0103; Ultraschall; ultrasound; ; B2; Gesundheit/Beim Arzt; The ultrasound showed that everything was fine.; Der Ultraschall zeigte, dass alles in Ordnung war.
+kg-0104; Blutdruck; blood pressure; ; B2; Gesundheit/Symptome; His blood pressure is slightly too high.; Sein Blutdruck ist etwas zu hoch.
+kg-0105; Puls; pulse; heart rate; B2; Gesundheit/Symptome; The nurse measured his pulse every hour.; Die Schwester maß stündlich seinen Puls.
+kg-0106; Kreislauf; circulation; ; B2; Gesundheit/Körper; Cold showers are good for the circulation.; Kalte Duschen sind gut für den Kreislauf.
+kg-0107; Immunsystem; immune system; ; B2; Gesundheit/Gesunde Lebensweise; Enough sleep strengthens the immune system.; Genug Schlaf stärkt das Immunsystem.
+kg-0108; Stoffwechsel; metabolism; ; B2; Gesundheit/Gesunde Lebensweise; Regular meals keep your metabolism working well.; Regelmäßige Mahlzeiten halten den Stoffwechsel in Schwung.
+kg-0109; Erreger; pathogen; germ; B2; Gesundheit/Krankheiten; The pathogen spreads quickly in closed rooms.; Der Erreger verbreitet sich schnell in geschlossenen Räumen.
+kg-0110; Infektion; infection; ; B2; Gesundheit/Krankheiten; The infection was treated with antibiotics.; Die Infektion wurde mit Antibiotika behandelt.
+kg-0111; ansteckend; contagious; infectious; B2; Gesundheit/Krankheiten; This illness is highly contagious for children.; Diese Krankheit ist für Kinder hoch ansteckend.
+kg-0112; chronisch; chronic; ; B2; Gesundheit/Krankheiten; He has suffered from chronic pain for years.; Er leidet seit Jahren unter chronischen Schmerzen.
+kg-0113; Nebenwirkung; side effect; ; B2; Gesundheit/Apotheke & Medikamente; This drug has very few side effects.; Dieses Medikament hat sehr wenige Nebenwirkungen.
+kg-0114; Dosierung; dosage; dose; B2; Gesundheit/Apotheke & Medikamente; Please follow the recommended dosage exactly.; Bitte halten Sie sich genau an die empfohlene Dosierung.
+kg-0115; Wirkstoff; active ingredient; ; B2; Gesundheit/Apotheke & Medikamente; Both tablets contain the same active ingredient.; Beide Tabletten enthalten den gleichen Wirkstoff.
+kg-0116; verschreiben; to prescribe; ; B2; Gesundheit/Beim Arzt; The doctor prescribed a mild painkiller.; Der Arzt verschrieb ein leichtes Schmerzmittel.
+kg-0117; sich erholen; to recover; ; B2; Gesundheit/Gesunde Lebensweise; She recovered quickly after the operation.; Sie erholte sich nach der Operation schnell.
+kg-0118; vorbeugen; to prevent; ; B2; Gesundheit/Gesunde Lebensweise; Exercise helps to prevent many common diseases.; Bewegung hilft, vielen häufigen Krankheiten vorzubeugen.
+kg-0119; Vorsorgeuntersuchung; check-up; screening; B2; Gesundheit/Beim Arzt; A regular check-up can save your life.; Eine regelmäßige Vorsorgeuntersuchung kann Leben retten.
+kg-0120; Ernährung; nutrition; diet; B2; Gesundheit/Gesunde Lebensweise; Good nutrition is the basis of health.; Gute Ernährung ist die Grundlage der Gesundheit.
+kg-0121; ausgewogen; balanced; ; B2; Gesundheit/Gesunde Lebensweise; A balanced diet includes fruit and vegetables.; Eine ausgewogene Ernährung enthält Obst und Gemüse.
+kg-0122; Sucht; addiction; ; B2; Gesundheit/Krankheiten; His addiction destroyed his health over time.; Seine Sucht zerstörte mit der Zeit seine Gesundheit.
+kg-0123; Erschöpfung; exhaustion; ; B2; Gesundheit/Symptome; She was treated for complete exhaustion.; Sie wurde wegen völliger Erschöpfung behandelt.
+kg-0124; Genesung; recovery; ; B2; Gesundheit/Krankenhaus; We wish you a quick and full recovery.; Wir wünschen dir eine schnelle und vollständige Genesung.
+kg-0125; Symptom; symptom; sign; B2; Gesundheit/Symptome; Fever is a typical symptom of flu.; Fieber ist ein typisches Symptom der Grippe.
+kg-0126; Beschwerden; ailments; complaints; C1; Gesundheit/Symptome; Her ailments got worse in the damp weather.; Ihre Beschwerden verschlimmerten sich bei feuchtem Wetter.
+kg-0127; Befund; findings; test result; C1; Gesundheit/Beim Arzt; The findings showed no reason for concern.; Der Befund zeigte keinen Grund zur Sorge.
+kg-0128; Herz-Kreislauf-Erkrankung; cardiovascular disease; ; C1; Gesundheit/Krankheiten; Cardiovascular disease is the most common cause of death.; Herz-Kreislauf-Erkrankungen sind die häufigste Todesursache.
+kg-0129; entzündungshemmend; anti-inflammatory; ; C1; Gesundheit/Apotheke & Medikamente; The doctor recommended an anti-inflammatory gel.; Der Arzt empfahl ein entzündungshemmendes Gel.
+kg-0130; örtliche Betäubung; local anaesthetic; local anesthesia; C1; Gesundheit/Beim Arzt; The dentist used a local anaesthetic first.; Der Zahnarzt verwendete zuerst eine örtliche Betäubung.
+kg-0131; Blutgerinnsel; blood clot; ; C1; Gesundheit/Krankheiten; A blood clot can block an important vessel.; Ein Blutgerinnsel kann ein wichtiges Gefäß verschließen.
+kg-0132; Schlaganfall; stroke; ; C1; Gesundheit/Krankheiten; After the stroke he had to learn to speak again.; Nach dem Schlaganfall musste er wieder sprechen lernen.
+kg-0133; Herzinfarkt; heart attack; ; C1; Gesundheit/Krankheiten; He survived a heart attack at fifty.; Er überlebte mit fünfzig einen Herzinfarkt.
+kg-0134; Gehirnerschütterung; concussion; ; C1; Gesundheit/Krankheiten; After the fall she had a slight concussion.; Nach dem Sturz hatte sie eine leichte Gehirnerschütterung.
+kg-0135; Knochenbruch; fracture; broken bone; C1; Gesundheit/Krankenhaus; The fracture has to stay in plaster for weeks.; Der Knochenbruch muss wochenlang in Gips bleiben.
+kg-0136; Bänderriss; torn ligament; ; C1; Gesundheit/Krankheiten; A torn ligament often needs a long break.; Ein Bänderriss braucht oft eine lange Pause.
+kg-0137; Verschleiß; wear and tear; ; C1; Gesundheit/Körper; Years of running caused wear and tear in his knees.; Jahrelanges Laufen führte zu Verschleiß in seinen Knien.
+kg-0138; Immunschwäche; immunodeficiency; ; C1; Gesundheit/Krankheiten; People with immunodeficiency must avoid certain infections.; Menschen mit Immunschwäche müssen bestimmte Infektionen meiden.
+kg-0139; Stoffwechselstörung; metabolic disorder; ; C1; Gesundheit/Krankheiten; The blood test revealed a rare metabolic disorder.; Der Bluttest ergab eine seltene Stoffwechselstörung.
+kg-0140; Wechselwirkung; interaction; drug interaction; C1; Gesundheit/Apotheke & Medikamente; Ask about interactions between your different medicines.; Fragen Sie nach Wechselwirkungen zwischen Ihren verschiedenen Medikamenten.
+kg-0141; Heilungsprozess; healing process; ; C1; Gesundheit/Krankenhaus; Rest and patience support the healing process.; Ruhe und Geduld unterstützen den Heilungsprozess.
+kg-0142; Rehabilitation; rehabilitation; rehab; C1; Gesundheit/Krankenhaus; After the operation she started rehabilitation immediately.; Nach der Operation begann sie sofort mit der Rehabilitation.
+kg-0143; Arzneimittel; pharmaceutical; medicinal product; C1; Gesundheit/Apotheke & Medikamente; Every new pharmaceutical is tested for years.; Jedes neue Arzneimittel wird jahrelang getestet.
+kg-0144; Anamnese; medical history; case history; C2; Gesundheit/Beim Arzt; The doctor took a detailed medical history first.; Der Arzt erhob zuerst eine ausführliche Anamnese.
+kg-0145; Prognose; prognosis; outlook; C2; Gesundheit/Krankenhaus; Despite the illness the prognosis is good.; Trotz der Krankheit ist die Prognose gut.
+kg-0146; bösartig; malignant; ; C2; Gesundheit/Krankheiten; Fortunately the tumour was not malignant.; Zum Glück war der Tumor nicht bösartig.
+kg-0147; gutartig; benign; ; C2; Gesundheit/Krankheiten; The growth turned out to be benign.; Die Geschwulst erwies sich als gutartig.
+kg-0148; Beipackzettel; package leaflet; patient information leaflet; C2; Gesundheit/Apotheke & Medikamente; Read the package leaflet before taking the medicine.; Lesen Sie vor der Einnahme den Beipackzettel.
+kg-0149; Unverträglichkeit; intolerance; ; C2; Gesundheit/Krankheiten; A lactose intolerance often causes stomach problems.; Eine Laktose-Unverträglichkeit verursacht oft Magenprobleme.
+kg-0150; Krankheitsbild; clinical picture; ; C2; Gesundheit/Krankheiten; The clinical picture pointed to a rare disease.; Das Krankheitsbild deutete auf eine seltene Krankheit hin.

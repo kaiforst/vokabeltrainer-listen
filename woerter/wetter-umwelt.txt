@@ -1,0 +1,151 @@
+id; Deutsch; Englisch; Weitere Antworten; Niveau; Themen; Beispiel Englisch; Beispiel Deutsch
+wu-0001; Sonne; sun; ; A1; Natur/Umwelt/Wetter; The sun is shining in the sky.; Die Sonne scheint am Himmel.
+wu-0002; Regen; rain; ; A1; Natur/Umwelt/Wetter; We need more rain for the garden.; Wir brauchen mehr Regen für den Garten.
+wu-0003; Schnee; snow; ; A1; Natur/Umwelt/Wetter; The snow is white and very cold.; Der Schnee ist weiß und sehr kalt.
+wu-0004; Wind; wind; ; A1; Natur/Umwelt/Wetter; The wind is very strong today.; Der Wind ist heute sehr stark.
+wu-0005; Wolke; cloud; ; A1; Natur/Umwelt/Wetter; There is a big cloud over the house.; Über dem Haus ist eine große Wolke.
+wu-0006; Himmel; sky; ; A1; Natur/Umwelt/Wetter; The sky is blue this morning.; Der Himmel ist heute Morgen blau.
+wu-0007; Wetter; weather; ; A1; Natur/Umwelt/Wetter; The weather is nice this week.; Das Wetter ist diese Woche schön.
+wu-0008; warm; warm; ; A1; Natur/Umwelt/Wetter; It is warm in the garden today.; Es ist heute warm im Garten.
+wu-0009; kalt; cold; ; A1; Natur/Umwelt/Wetter; It is very cold outside in January.; Draußen ist es im Januar sehr kalt.
+wu-0010; heiß; hot; ; A1; Natur/Umwelt/Wetter; The summer was hot and long.; Der Sommer war heiß und lang.
+wu-0011; Sommer; summer; ; A1; Natur/Umwelt/Jahreszeiten; In summer we swim in the lake.; Im Sommer schwimmen wir im See.
+wu-0012; Winter; winter; ; A1; Natur/Umwelt/Jahreszeiten; In winter the days are short.; Im Winter sind die Tage kurz.
+wu-0013; Frühling; spring; ; A1; Natur/Umwelt/Jahreszeiten; In spring the flowers come back.; Im Frühling kommen die Blumen zurück.
+wu-0014; Herbst; autumn; fall; A1; Natur/Umwelt/Jahreszeiten; In autumn the leaves fall from the trees.; Im Herbst fallen die Blätter von den Bäumen.
+wu-0015; Baum; tree; ; A1; Natur/Umwelt/Natur; The old tree stands in our garden.; Der alte Baum steht in unserem Garten.
+wu-0016; Blume; flower; ; A1; Natur/Umwelt/Natur; This flower is red and beautiful.; Diese Blume ist rot und schön.
+wu-0017; Wasser; water; ; A1; Natur/Umwelt/Natur; Clean water is important for everyone.; Sauberes Wasser ist für alle wichtig.
+wu-0018; Luft; air; ; A1; Natur/Umwelt/Natur; The air in the mountains is fresh.; Die Luft in den Bergen ist frisch.
+wu-0019; Eis; ice; ; A1; Natur/Umwelt/Wetter; In winter there is ice on the lake.; Im Winter ist Eis auf dem See.
+wu-0020; regnen; to rain; ; A1; Natur/Umwelt/Wetter; I think it will rain tomorrow afternoon.; Ich glaube, morgen Nachmittag wird es regnen.
+wu-0021; schneien; to snow; ; A1; Natur/Umwelt/Wetter; It started to snow in the night.; In der Nacht begann es zu schneien.
+wu-0022; scheinen; to shine; ; A1; Natur/Umwelt/Wetter; The sun will shine again on Sunday.; Am Sonntag wird die Sonne wieder scheinen.
+wu-0023; Natur; nature; ; A1; Natur/Umwelt/Natur; We love walking in nature on weekends.; Am Wochenende gehen wir gern in der Natur spazieren.
+wu-0024; Gras; grass; ; A1; Natur/Umwelt/Natur; The grass is green after the rain.; Nach dem Regen ist das Gras grün.
+wu-0025; Müll; rubbish; garbage, trash; A1; Natur/Umwelt/Recycling; Please put the rubbish in the bin.; Bitte wirf den Müll in die Tonne.
+wu-0026; Gewitter; thunderstorm; ; A2; Natur/Umwelt/Wetter; A heavy thunderstorm is coming tonight.; Heute Nacht kommt ein schweres Gewitter.
+wu-0027; Blitz; lightning; flash of lightning; A2; Natur/Umwelt/Wetter; The lightning hit a tall tree.; Der Blitz traf einen hohen Baum.
+wu-0028; Donner; thunder; ; A2; Natur/Umwelt/Wetter; We heard the thunder from far away.; Wir hörten den Donner aus der Ferne.
+wu-0029; Nebel; fog; mist; A2; Natur/Umwelt/Wetter; Thick fog covered the whole valley.; Dichter Nebel bedeckte das ganze Tal.
+wu-0030; Sturm; storm; gale; A2; Natur/Umwelt/Wetter; The storm broke many old trees.; Der Sturm brach viele alte Bäume.
+wu-0031; Regenschirm; umbrella; ; A2; Natur/Umwelt/Wetter; Take your umbrella, it looks like rain.; Nimm deinen Regenschirm, es sieht nach Regen aus.
+wu-0032; Temperatur; temperature; ; A2; Natur/Umwelt/Wetter; The temperature will rise this weekend.; Die Temperatur wird am Wochenende steigen.
+wu-0033; Grad; degree; ; A2; Natur/Umwelt/Wetter; It is thirty degrees in the shade.; Im Schatten sind es dreißig Grad.
+wu-0034; Wettervorhersage; weather forecast; forecast; A2; Natur/Umwelt/Wetter; The weather forecast promises sunshine for Sunday.; Die Wettervorhersage verspricht Sonnenschein für Sonntag.
+wu-0035; Jahreszeit; season; ; A2; Natur/Umwelt/Jahreszeiten; Spring is my favourite season of the year.; Der Frühling ist meine liebste Jahreszeit.
+wu-0036; Frost; frost; ; A2; Natur/Umwelt/Wetter; The frost killed the young plants.; Der Frost hat die jungen Pflanzen zerstört.
+wu-0037; Hagel; hail; ; A2; Natur/Umwelt/Wetter; The hail damaged many cars yesterday.; Der Hagel beschädigte gestern viele Autos.
+wu-0038; Regenbogen; rainbow; ; A2; Natur/Umwelt/Wetter; After the rain we saw a beautiful rainbow.; Nach dem Regen sahen wir einen schönen Regenbogen.
+wu-0039; Schauer; shower; rain shower; A2; Natur/Umwelt/Wetter; A short shower is possible in the afternoon.; Am Nachmittag ist ein kurzer Schauer möglich.
+wu-0040; wehen; to blow; ; A2; Natur/Umwelt/Wetter; A cold wind blows from the north.; Ein kalter Wind weht aus dem Norden.
+wu-0041; frieren; to freeze; ; A2; Natur/Umwelt/Wetter; Without a jacket you will freeze outside.; Ohne Jacke wirst du draußen frieren.
+wu-0042; Umwelt; environment; ; A2; Natur/Umwelt/Umweltschutz; We must protect the environment for our children.; Wir müssen die Umwelt für unsere Kinder schützen.
+wu-0043; Klima; climate; ; A2; Natur/Umwelt/Klima & Klimawandel; The climate on the coast is mild.; Das Klima an der Küste ist mild.
+wu-0044; Energie; energy; ; A2; Natur/Umwelt/Energie; Our house uses a lot of energy in winter.; Unser Haus verbraucht im Winter viel Energie.
+wu-0045; Strom; electricity; power; A2; Natur/Umwelt/Energie; The electricity went out during the storm.; Während des Sturms fiel der Strom aus.
+wu-0046; Mülltonne; rubbish bin; garbage can, trash can; A2; Natur/Umwelt/Recycling; The rubbish bin behind the house is full.; Die Mülltonne hinter dem Haus ist voll.
+wu-0047; Plastik; plastic; ; A2; Natur/Umwelt/Recycling; There is too much plastic in the sea.; Es gibt zu viel Plastik im Meer.
+wu-0048; Glas; glass; ; A2; Natur/Umwelt/Recycling; Old glass belongs in the glass container.; Altes Glas gehört in den Glascontainer.
+wu-0049; Papier; paper; ; A2; Natur/Umwelt/Recycling; We collect old paper for recycling.; Wir sammeln altes Papier für das Recycling.
+wu-0050; Dose; can; tin; A2; Natur/Umwelt/Recycling; He threw the empty can into the bin.; Er warf die leere Dose in den Mülleimer.
+wu-0051; Flasche; bottle; ; A2; Natur/Umwelt/Recycling; Please bring the empty bottles back to the shop.; Bitte bring die leeren Flaschen zum Laden zurück.
+wu-0052; Plastiktüte; plastic bag; ; A2; Natur/Umwelt/Recycling; I never take a plastic bag at the supermarket.; Im Supermarkt nehme ich nie eine Plastiktüte.
+wu-0053; recyceln; to recycle; ; A2; Natur/Umwelt/Recycling; We recycle glass, paper and plastic at home.; Zu Hause recyceln wir Glas, Papier und Plastik.
+wu-0054; wegwerfen; to throw away; to discard; A2; Natur/Umwelt/Recycling; Do not throw away food that is still good.; Wirf kein Essen weg, das noch gut ist.
+wu-0055; sparen; to save; ; A2; Natur/Umwelt/Energie; We try to save water and electricity.; Wir versuchen, Wasser und Strom zu sparen.
+wu-0056; trennen; to separate; to sort; A2; Natur/Umwelt/Recycling; In Germany people separate their rubbish carefully.; In Deutschland trennen die Leute ihren Müll sorgfältig.
+wu-0057; schützen; to protect; ; A2; Natur/Umwelt/Umweltschutz; We want to protect the forests and rivers.; Wir wollen die Wälder und Flüsse schützen.
+wu-0058; trocken; dry; ; A2; Natur/Umwelt/Wetter; The summer was too dry for the farmers.; Der Sommer war zu trocken für die Bauern.
+wu-0059; nass; wet; ; A2; Natur/Umwelt/Wetter; My shoes are wet from the rain.; Meine Schuhe sind nass vom Regen.
+wu-0060; windig; windy; ; A2; Natur/Umwelt/Wetter; It is too windy for a picnic today.; Heute ist es zu windig für ein Picknick.
+wu-0061; Klimawandel; climate change; ; B1; Natur/Umwelt/Klima & Klimawandel; Climate change affects every country on earth.; Der Klimawandel betrifft jedes Land der Erde.
+wu-0062; Erderwärmung; global warming; ; B1; Natur/Umwelt/Klima & Klimawandel; Global warming makes summers hotter every year.; Die Erderwärmung macht die Sommer jedes Jahr heißer.
+wu-0063; Überschwemmung; flood; flooding; B1; Natur/Umwelt/Naturkatastrophen; The flood destroyed houses along the river.; Die Überschwemmung zerstörte Häuser entlang des Flusses.
+wu-0064; Dürre; drought; ; B1; Natur/Umwelt/Naturkatastrophen; The long drought ruined the harvest.; Die lange Dürre hat die Ernte ruiniert.
+wu-0065; Hitzewelle; heat wave; heatwave; B1; Natur/Umwelt/Naturkatastrophen; A heat wave hit the city in July.; Im Juli traf eine Hitzewelle die Stadt.
+wu-0066; Umweltverschmutzung; pollution; environmental pollution; B1; Natur/Umwelt/Umweltschutz; Pollution is a big problem in many cities.; Umweltverschmutzung ist in vielen Städten ein großes Problem.
+wu-0067; Abgase; exhaust fumes; emissions, exhaust gases; B1; Natur/Umwelt/Umweltschutz; Exhaust fumes from cars make the air dirty.; Abgase von Autos machen die Luft schmutzig.
+wu-0068; Treibhauseffekt; greenhouse effect; ; B1; Natur/Umwelt/Klima & Klimawandel; The greenhouse effect warms our planet more and more.; Der Treibhauseffekt erwärmt unseren Planeten immer mehr.
+wu-0069; erneuerbare Energie; renewable energy; renewables; B1; Natur/Umwelt/Energie; Renewable energy comes from sun, wind and water.; Erneuerbare Energie kommt aus Sonne, Wind und Wasser.
+wu-0070; Solarenergie; solar energy; solar power; B1; Natur/Umwelt/Energie; Our roof produces solar energy for the whole house.; Unser Dach erzeugt Solarenergie für das ganze Haus.
+wu-0071; Windkraft; wind power; wind energy; B1; Natur/Umwelt/Energie; Wind power is important in northern Germany.; Windkraft ist in Norddeutschland wichtig.
+wu-0072; Kohle; coal; ; B1; Natur/Umwelt/Energie; Burning coal is bad for the climate.; Kohle zu verbrennen ist schlecht für das Klima.
+wu-0073; Erdöl; oil; petroleum, crude oil; B1; Natur/Umwelt/Energie; The price of oil rose again last month.; Der Preis für Erdöl stieg letzten Monat wieder.
+wu-0074; Erdgas; natural gas; ; B1; Natur/Umwelt/Energie; Many homes are still heated with natural gas.; Viele Wohnungen werden noch mit Erdgas geheizt.
+wu-0075; Kraftwerk; power plant; power station; B1; Natur/Umwelt/Energie; The old power plant will close next year.; Das alte Kraftwerk wird nächstes Jahr geschlossen.
+wu-0076; Umweltschutz; environmental protection; conservation; B1; Natur/Umwelt/Umweltschutz; Environmental protection should start in everyday life.; Umweltschutz sollte im Alltag beginnen.
+wu-0077; Naturschutzgebiet; nature reserve; protected area; B1; Natur/Umwelt/Umweltschutz; Rare birds live in this nature reserve.; In diesem Naturschutzgebiet leben seltene Vögel.
+wu-0078; Mülltrennung; waste separation; waste sorting; B1; Natur/Umwelt/Recycling; Waste separation makes recycling much easier.; Mülltrennung macht das Recycling viel einfacher.
+wu-0079; Recyclinghof; recycling centre; recycling center; B1; Natur/Umwelt/Recycling; You can bring old electronics to the recycling centre.; Alte Elektrogeräte kannst du zum Recyclinghof bringen.
+wu-0080; Pfand; deposit; ; B1; Natur/Umwelt/Recycling; You get the deposit back for every bottle.; Für jede Flasche bekommst du das Pfand zurück.
+wu-0081; Verpackung; packaging; wrapping; B1; Natur/Umwelt/Recycling; This product uses far too much packaging.; Dieses Produkt verwendet viel zu viel Verpackung.
+wu-0082; verschmutzen; to pollute; to contaminate; B1; Natur/Umwelt/Umweltschutz; Factories must not pollute the rivers anymore.; Fabriken dürfen die Flüsse nicht mehr verschmutzen.
+wu-0083; vermeiden; to avoid; ; B1; Natur/Umwelt/Umweltschutz; We try to avoid plastic waste when shopping.; Beim Einkaufen versuchen wir, Plastikmüll zu vermeiden.
+wu-0084; verbrauchen; to consume; to use up; B1; Natur/Umwelt/Energie; New fridges consume much less electricity.; Neue Kühlschränke verbrauchen viel weniger Strom.
+wu-0085; Verbrauch; consumption; usage; B1; Natur/Umwelt/Energie; Consumption fell by ten percent this year.; Der Verbrauch ist dieses Jahr um zehn Prozent gesunken.
+wu-0086; Niederschlag; precipitation; rainfall; B1; Natur/Umwelt/Wetter; Heavy precipitation is expected in the south.; Im Süden wird starker Niederschlag erwartet.
+wu-0087; Luftfeuchtigkeit; humidity; air humidity; B1; Natur/Umwelt/Wetter; The humidity is very high before a thunderstorm.; Vor einem Gewitter ist die Luftfeuchtigkeit sehr hoch.
+wu-0088; Klimaanlage; air conditioning; air conditioner; B1; Natur/Umwelt/Energie; The air conditioning uses a lot of power.; Die Klimaanlage verbraucht sehr viel Strom.
+wu-0089; umweltfreundlich; environmentally friendly; eco-friendly, green; B1; Natur/Umwelt/Umweltschutz; Travelling by train is quite environmentally friendly.; Mit dem Zug zu reisen ist ziemlich umweltfreundlich.
+wu-0090; Abfall; waste; refuse; B1; Natur/Umwelt/Recycling; Every household produces far too much waste.; Jeder Haushalt produziert viel zu viel Abfall.
+wu-0091; Atmosphäre; atmosphere; ; B1; Natur/Umwelt/Klima & Klimawandel; Gases in the atmosphere trap the heat.; Gase in der Atmosphäre halten die Wärme fest.
+wu-0092; Ozonschicht; ozone layer; ; B1; Natur/Umwelt/Klima & Klimawandel; The ozone layer protects us from dangerous rays.; Die Ozonschicht schützt uns vor gefährlichen Strahlen.
+wu-0093; Regenwald; rainforest; ; B1; Natur/Umwelt/Natur; The rainforest is home to millions of species.; Der Regenwald ist die Heimat von Millionen Arten.
+wu-0094; aussterben; to die out; to become extinct; B1; Natur/Umwelt/Natur; Many animals could die out in this century.; Viele Tiere könnten in diesem Jahrhundert aussterben.
+wu-0095; bedroht; endangered; threatened; B1; Natur/Umwelt/Natur; The tiger is an endangered species today.; Der Tiger ist heute eine bedrohte Art.
+wu-0096; Nachhaltigkeit; sustainability; ; B2; Natur/Umwelt/Umweltschutz; Sustainability plays a growing role in business.; Nachhaltigkeit spielt in der Wirtschaft eine wachsende Rolle.
+wu-0097; nachhaltig; sustainable; ; B2; Natur/Umwelt/Umweltschutz; We should switch to more sustainable products.; Wir sollten auf nachhaltigere Produkte umsteigen.
+wu-0098; Treibhausgas; greenhouse gas; ; B2; Natur/Umwelt/Klima & Klimawandel; Methane is a very powerful greenhouse gas.; Methan ist ein sehr starkes Treibhausgas.
+wu-0099; Kohlendioxid; carbon dioxide; CO2; B2; Natur/Umwelt/Klima & Klimawandel; Cars release large amounts of carbon dioxide.; Autos stoßen große Mengen Kohlendioxid aus.
+wu-0100; Emission; emission; ; B2; Natur/Umwelt/Klima & Klimawandel; The factory reduced its emissions by half.; Die Fabrik hat ihre Emissionen um die Hälfte reduziert.
+wu-0101; Klimaschutz; climate protection; climate action; B2; Natur/Umwelt/Klima & Klimawandel; Climate protection needs support from all countries.; Klimaschutz braucht die Unterstützung aller Länder.
+wu-0102; Klimagipfel; climate summit; ; B2; Natur/Umwelt/Klima & Klimawandel; The climate summit ended without a clear result.; Der Klimagipfel endete ohne ein klares Ergebnis.
+wu-0103; Meeresspiegel; sea level; ; B2; Natur/Umwelt/Klima & Klimawandel; The sea level is rising faster than expected.; Der Meeresspiegel steigt schneller als erwartet.
+wu-0104; Gletscher; glacier; ; B2; Natur/Umwelt/Klima & Klimawandel; The glacier has lost half of its ice.; Der Gletscher hat die Hälfte seines Eises verloren.
+wu-0105; schmelzen; to melt; ; B2; Natur/Umwelt/Klima & Klimawandel; The ice caps melt faster every decade.; Die Eiskappen schmelzen mit jedem Jahrzehnt schneller.
+wu-0106; Abholzung; deforestation; logging; B2; Natur/Umwelt/Umweltschutz; Deforestation destroys the habitat of many animals.; Die Abholzung zerstört den Lebensraum vieler Tiere.
+wu-0107; Wiederaufforstung; reforestation; ; B2; Natur/Umwelt/Umweltschutz; Reforestation can bring damaged forests back to life.; Wiederaufforstung kann geschädigte Wälder wieder zum Leben erwecken.
+wu-0108; Artenvielfalt; biodiversity; species diversity; B2; Natur/Umwelt/Natur; Biodiversity is declining in many regions of the world.; Die Artenvielfalt nimmt in vielen Regionen der Welt ab.
+wu-0109; Ökosystem; ecosystem; ; B2; Natur/Umwelt/Natur; A healthy ecosystem can repair itself slowly.; Ein gesundes Ökosystem kann sich langsam selbst erholen.
+wu-0110; Lebensraum; habitat; living space; B2; Natur/Umwelt/Natur; The wetland is an important habitat for birds.; Das Feuchtgebiet ist ein wichtiger Lebensraum für Vögel.
+wu-0111; Umweltkatastrophe; environmental disaster; ecological disaster; B2; Natur/Umwelt/Naturkatastrophen; The oil spill was a huge environmental disaster.; Die Ölpest war eine riesige Umweltkatastrophe.
+wu-0112; Wirbelsturm; cyclone; whirlwind, hurricane; B2; Natur/Umwelt/Naturkatastrophen; The cyclone reached the coast on Friday night.; Der Wirbelsturm erreichte die Küste am Freitagabend.
+wu-0113; Erdrutsch; landslide; ; B2; Natur/Umwelt/Naturkatastrophen; Heavy rain caused a landslide near the village.; Starker Regen verursachte einen Erdrutsch nahe dem Dorf.
+wu-0114; Waldbrand; forest fire; wildfire; B2; Natur/Umwelt/Naturkatastrophen; The forest fire spread quickly in the dry heat.; Der Waldbrand breitete sich in der trockenen Hitze schnell aus.
+wu-0115; Luftqualität; air quality; ; B2; Natur/Umwelt/Umweltschutz; The air quality in the city has improved.; Die Luftqualität in der Stadt hat sich verbessert.
+wu-0116; Feinstaub; particulate matter; fine dust; B2; Natur/Umwelt/Umweltschutz; Particulate matter from traffic harms our lungs.; Feinstaub aus dem Verkehr schadet unseren Lungen.
+wu-0117; Schadstoff; pollutant; harmful substance; B2; Natur/Umwelt/Umweltschutz; This pollutant was found in the drinking water.; Dieser Schadstoff wurde im Trinkwasser gefunden.
+wu-0118; Wasserkraft; hydropower; hydroelectric power; B2; Natur/Umwelt/Energie; Norway gets most of its electricity from hydropower.; Norwegen gewinnt den größten Teil seines Stroms aus Wasserkraft.
+wu-0119; Atomkraft; nuclear power; nuclear energy; B2; Natur/Umwelt/Energie; Germany decided to phase out nuclear power.; Deutschland beschloss den Ausstieg aus der Atomkraft.
+wu-0120; Stromverbrauch; electricity consumption; power consumption; B2; Natur/Umwelt/Energie; Our electricity consumption doubles in the winter months.; Unser Stromverbrauch verdoppelt sich in den Wintermonaten.
+wu-0121; Energiewende; energy transition; ; B2; Natur/Umwelt/Energie; The energy transition needs new power lines and storage.; Die Energiewende braucht neue Stromleitungen und Speicher.
+wu-0122; Dämmung; insulation; ; B2; Natur/Umwelt/Energie; Good insulation keeps the heat inside the house.; Eine gute Dämmung hält die Wärme im Haus.
+wu-0123; CO2-Fußabdruck; carbon footprint; ; B2; Natur/Umwelt/Klima & Klimawandel; Flying less reduces your carbon footprint a lot.; Weniger zu fliegen verringert deinen CO2-Fußabdruck stark.
+wu-0124; wiederverwenden; to reuse; ; B2; Natur/Umwelt/Recycling; You can reuse these jars for homemade jam.; Diese Gläser kannst du für selbstgemachte Marmelade wiederverwenden.
+wu-0125; entsorgen; to dispose of; ; B2; Natur/Umwelt/Recycling; You must dispose of old batteries separately.; Alte Batterien musst du getrennt entsorgen.
+wu-0126; Kreislaufwirtschaft; circular economy; ; C1; Natur/Umwelt/Recycling; A circular economy keeps materials in use for longer.; Eine Kreislaufwirtschaft hält Materialien länger im Umlauf.
+wu-0127; Klimaneutralität; climate neutrality; carbon neutrality; C1; Natur/Umwelt/Klima & Klimawandel; The city wants to reach climate neutrality by 2035.; Die Stadt will bis 2035 Klimaneutralität erreichen.
+wu-0128; Emissionshandel; emissions trading; carbon trading; C1; Natur/Umwelt/Klima & Klimawandel; Emissions trading puts a price on every tonne.; Der Emissionshandel gibt jeder Tonne einen Preis.
+wu-0129; Ressourcenknappheit; resource scarcity; scarcity of resources; C1; Natur/Umwelt/Energie; Resource scarcity forces companies to recycle more materials.; Ressourcenknappheit zwingt Unternehmen, mehr Materialien zu recyceln.
+wu-0130; Ozeanversauerung; ocean acidification; ; C1; Natur/Umwelt/Klima & Klimawandel; Ocean acidification threatens corals and shellfish worldwide.; Die Ozeanversauerung bedroht Korallen und Muscheln weltweit.
+wu-0131; Kipppunkt; tipping point; ; C1; Natur/Umwelt/Klima & Klimawandel; Scientists warn that we are approaching a tipping point.; Wissenschaftler warnen, dass wir uns einem Kipppunkt nähern.
+wu-0132; Umweltverträglichkeitsprüfung; environmental impact assessment; ; C1; Natur/Umwelt/Umweltschutz; The project requires a detailed environmental impact assessment.; Das Projekt erfordert eine detaillierte Umweltverträglichkeitsprüfung.
+wu-0133; Versorgungssicherheit; security of supply; supply security; C1; Natur/Umwelt/Energie; Security of supply became a key political issue.; Versorgungssicherheit wurde zu einem zentralen politischen Thema.
+wu-0134; Artensterben; species extinction; loss of species; C1; Natur/Umwelt/Natur; Species extinction is accelerating at an alarming rate.; Das Artensterben beschleunigt sich in alarmierendem Tempo.
+wu-0135; Überfischung; overfishing; ; C1; Natur/Umwelt/Natur; Overfishing has emptied large parts of the oceans.; Die Überfischung hat große Teile der Meere geleert.
+wu-0136; Wüstenbildung; desertification; ; C1; Natur/Umwelt/Klima & Klimawandel; Desertification turns fertile land into barren ground.; Die Wüstenbildung verwandelt fruchtbares Land in kargen Boden.
+wu-0137; Klimaanpassung; climate adaptation; adaptation to climate change; C1; Natur/Umwelt/Klima & Klimawandel; Cities invest in climate adaptation against heat and floods.; Städte investieren in Klimaanpassung gegen Hitze und Hochwasser.
+wu-0138; Starkregen; heavy rainfall; torrential rain; C1; Natur/Umwelt/Wetter; Heavy rainfall flooded several streets within minutes.; Starkregen überflutete innerhalb von Minuten mehrere Straßen.
+wu-0139; Extremwetterereignis; extreme weather event; ; C1; Natur/Umwelt/Naturkatastrophen; Every extreme weather event costs the region millions.; Jedes Extremwetterereignis kostet die Region Millionen.
+wu-0140; Energieeffizienz; energy efficiency; ; C1; Natur/Umwelt/Energie; Higher energy efficiency lowers costs and emissions alike.; Höhere Energieeffizienz senkt Kosten und Emissionen gleichermaßen.
+wu-0141; Umweltbewusstsein; environmental awareness; ecological awareness; C1; Natur/Umwelt/Umweltschutz; Environmental awareness has grown strongly among young people.; Das Umweltbewusstsein ist bei jungen Menschen stark gewachsen.
+wu-0142; Flächenverbrauch; land consumption; land take; C1; Natur/Umwelt/Umweltschutz; Land consumption for new roads remains far too high.; Der Flächenverbrauch für neue Straßen bleibt viel zu hoch.
+wu-0143; Grundwasserspiegel; groundwater level; water table; C1; Natur/Umwelt/Natur; The groundwater level has dropped after three dry summers.; Der Grundwasserspiegel ist nach drei trockenen Sommern gesunken.
+wu-0144; Raubbau; overexploitation; ruthless exploitation; C2; Natur/Umwelt/Umweltschutz; Overexploitation of forests leaves lasting damage behind.; Der Raubbau an den Wäldern hinterlässt bleibende Schäden.
+wu-0145; Renaturierung; renaturation; ecological restoration; C2; Natur/Umwelt/Natur; The renaturation of the river took nearly a decade.; Die Renaturierung des Flusses dauerte fast ein Jahrzehnt.
+wu-0146; Vorsorgeprinzip; precautionary principle; ; C2; Natur/Umwelt/Umweltschutz; The precautionary principle guides European environmental law.; Das Vorsorgeprinzip leitet das europäische Umweltrecht.
+wu-0147; Kohlenstoffsenke; carbon sink; ; C2; Natur/Umwelt/Klima & Klimawandel; A healthy forest acts as a natural carbon sink.; Ein gesunder Wald wirkt als natürliche Kohlenstoffsenke.
+wu-0148; Treibhauspotenzial; global warming potential; ; C2; Natur/Umwelt/Klima & Klimawandel; Methane has a far higher global warming potential.; Methan hat ein weitaus höheres Treibhauspotenzial.
+wu-0149; Eutrophierung; eutrophication; ; C2; Natur/Umwelt/Natur; Eutrophication causes algae to spread across the lake.; Durch die Eutrophierung breiten sich Algen über den See aus.
+wu-0150; Resilienz; resilience; ; C2; Natur/Umwelt/Klima & Klimawandel; Diverse ecosystems show greater resilience to climate stress.; Vielfältige Ökosysteme zeigen eine größere Resilienz gegenüber Klimastress.

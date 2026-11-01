@@ -1,0 +1,151 @@
+id; Deutsch; Englisch; Weitere Antworten; Niveau; Themen; Beispiel Englisch; Beispiel Deutsch
+tc-0001; Computer; computer; PC; A1; Technik/Computer/Geräte; My new computer is very fast.; Mein neuer Computer ist sehr schnell.
+tc-0002; Handy; mobile phone; cell phone, mobile; A1; Technik/Computer/Smartphone; I forgot my mobile phone at home today.; Ich habe mein Handy heute zu Hause vergessen.
+tc-0003; Telefon; telephone; phone; A1; Technik/Computer/Geräte; The telephone is ringing in the office again.; Das Telefon klingelt schon wieder im Büro.
+tc-0004; Internet; internet; ; A1; Technik/Computer/Internet; We use the internet every single day.; Wir benutzen das Internet jeden Tag.
+tc-0005; Fernseher; television; TV, TV set; A1; Technik/Computer/Geräte; The television in the living room is new.; Der Fernseher im Wohnzimmer ist neu.
+tc-0006; Bildschirm; screen; monitor, display; A1; Technik/Computer/Geräte; The screen is too bright at night.; Der Bildschirm ist nachts zu hell.
+tc-0007; Tastatur; keyboard; ; A1; Technik/Computer/Geräte; I need a new keyboard for my computer.; Ich brauche eine neue Tastatur für meinen Computer.
+tc-0008; Maus; mouse; computer mouse; A1; Technik/Computer/Geräte; The mouse does not work without a battery.; Die Maus funktioniert nicht ohne Batterie.
+tc-0009; Drucker; printer; ; A1; Technik/Computer/Geräte; The printer in the office is broken again.; Der Drucker im Büro ist schon wieder kaputt.
+tc-0010; Kamera; camera; ; A1; Technik/Computer/Geräte; This camera takes very good pictures.; Diese Kamera macht sehr gute Fotos.
+tc-0011; Laptop; laptop; notebook; A1; Technik/Computer/Geräte; She takes her laptop to work every morning.; Sie nimmt ihren Laptop jeden Morgen mit zur Arbeit.
+tc-0012; Foto; photo; picture; A1; Technik/Computer/Smartphone; He showed me a photo of his dog.; Er zeigte mir ein Foto von seinem Hund.
+tc-0013; E-Mail; email; e-mail, mail; A1; Technik/Computer/Internet, Arbeit/Büro; Please send me an email with the details.; Bitte schick mir eine E-Mail mit den Details.
+tc-0014; Kabel; cable; cord; A1; Technik/Computer/Hardware; The cable is too short for my desk.; Das Kabel ist zu kurz für meinen Schreibtisch.
+tc-0015; Batterie; battery; ; A1; Technik/Computer/Hardware; The battery in my camera is empty.; Die Batterie in meiner Kamera ist leer.
+tc-0016; Taste; key; button; A1; Technik/Computer/Geräte; Press the green key to start the game.; Drück die grüne Taste, um das Spiel zu starten.
+tc-0017; Spiel; game; ; A1; Technik/Computer/Software; We played a fun game on the computer.; Wir haben ein lustiges Spiel am Computer gespielt.
+tc-0018; anmachen; to turn on; to switch on; A1; Technik/Computer/Geräte; Can you turn on the television, please?; Kannst du bitte den Fernseher anmachen?
+tc-0019; ausmachen; to turn off; to switch off; A1; Technik/Computer/Geräte; Please turn off the computer before you leave.; Bitte mach den Computer aus, bevor du gehst.
+tc-0020; Fehler; error; mistake; A1; Technik/Computer/Software; There is an error in the new program.; Es gibt einen Fehler im neuen Programm.
+tc-0021; Passwort; password; ; A2; Technik/Computer/Sicherheit; You should never tell anyone your password.; Du solltest niemandem dein Passwort verraten.
+tc-0022; Datei; file; ; A2; Technik/Computer/Dateien; I saved the file on my laptop.; Ich habe die Datei auf meinem Laptop gespeichert.
+tc-0023; Ordner; folder; directory; A2; Technik/Computer/Dateien; Put all the photos in one folder.; Leg alle Fotos in einen Ordner.
+tc-0024; drucken; to print; ; A2; Technik/Computer/Dateien; Can you print this document for me?; Kannst du dieses Dokument für mich drucken?
+tc-0025; speichern; to save; to store; A2; Technik/Computer/Dateien; Do not forget to save your work.; Vergiss nicht, deine Arbeit zu speichern.
+tc-0026; löschen; to delete; to erase; A2; Technik/Computer/Dateien; I deleted the old photos by mistake.; Ich habe die alten Fotos aus Versehen gelöscht.
+tc-0027; herunterladen; to download; ; A2; Technik/Computer/Internet; You can download the app for free.; Du kannst die App kostenlos herunterladen.
+tc-0028; hochladen; to upload; ; A2; Technik/Computer/Internet; She uploaded the video to the website.; Sie hat das Video auf die Webseite hochgeladen.
+tc-0029; klicken; to click; ; A2; Technik/Computer/Internet; Click on the link to open the page.; Klick auf den Link, um die Seite zu öffnen.
+tc-0030; Webseite; website; web page, site; A2; Technik/Computer/Internet; Our school has a new website now.; Unsere Schule hat jetzt eine neue Webseite.
+tc-0031; App; app; application program; A2; Technik/Computer/Smartphone; This app helps me learn English words.; Diese App hilft mir, englische Wörter zu lernen.
+tc-0032; Programm; program; ; A2; Technik/Computer/Software; The program starts when you open the laptop.; Das Programm startet, wenn du den Laptop öffnest.
+tc-0033; aufladen; to charge; to recharge; A2; Technik/Computer/Smartphone; I have to charge my phone every night.; Ich muss mein Handy jede Nacht aufladen.
+tc-0034; Ladegerät; charger; charging cable; A2; Technik/Computer/Smartphone; I lost my charger on the train.; Ich habe mein Ladegerät im Zug verloren.
+tc-0035; Kopfhörer; headphones; earphones; A2; Technik/Computer/Geräte; He listens to music with his headphones.; Er hört Musik mit seinen Kopfhörern.
+tc-0036; Lautsprecher; speaker; loudspeaker; A2; Technik/Computer/Geräte; The speaker is loud enough for the party.; Der Lautsprecher ist laut genug für die Party.
+tc-0037; Smartphone; smartphone; ; A2; Technik/Computer/Smartphone; Almost everyone has a smartphone these days.; Fast jeder hat heutzutage ein Smartphone.
+tc-0038; Nachricht; message; text message; A2; Technik/Computer/Smartphone; She sent me a message this morning.; Sie hat mir heute Morgen eine Nachricht geschickt.
+tc-0039; Benutzer; user; ; A2; Technik/Computer/Software; The new user needs a password first.; Der neue Benutzer braucht zuerst ein Passwort.
+tc-0040; Benutzername; username; user name; A2; Technik/Computer/Sicherheit; Please enter your username and your password.; Bitte gib deinen Benutzernamen und dein Passwort ein.
+tc-0041; Suchmaschine; search engine; ; A2; Technik/Computer/Internet; I found the answer with a search engine.; Ich habe die Antwort mit einer Suchmaschine gefunden.
+tc-0042; suchen; to search; to look for; A2; Technik/Computer/Internet; I searched for cheap flights on the internet.; Ich habe im Internet nach günstigen Flügen gesucht.
+tc-0043; senden; to send; ; A2; Technik/Computer/Internet; He sends many emails every day at work.; Er sendet bei der Arbeit jeden Tag viele E-Mails.
+tc-0044; empfangen; to receive; to get; A2; Technik/Computer/Internet; Did you receive my message yesterday evening?; Hast du gestern Abend meine Nachricht empfangen?
+tc-0045; Verbindung; connection; ; A2; Technik/Computer/Internet; The internet connection is very slow today.; Die Internetverbindung ist heute sehr langsam.
+tc-0046; verbinden; to connect; to link; A2; Technik/Computer/Internet; You have to connect the laptop to the printer.; Du musst den Laptop mit dem Drucker verbinden.
+tc-0047; WLAN; Wi-Fi; wireless network, WiFi; A2; Technik/Computer/Internet, Reisen/Hotel; The hotel has free Wi-Fi in every room.; Das Hotel hat kostenloses WLAN in jedem Zimmer.
+tc-0048; Akku; rechargeable battery; battery pack; A2; Technik/Computer/Smartphone; My rechargeable battery lasts for almost two days.; Mein Akku hält fast zwei Tage.
+tc-0049; Tablet; tablet; tablet computer; A2; Technik/Computer/Geräte; The children watch films on the tablet.; Die Kinder schauen Filme auf dem Tablet.
+tc-0050; funktionieren; to work; to function; A2; Technik/Computer/Geräte; The printer does not work without paper.; Der Drucker funktioniert nicht ohne Papier.
+tc-0051; Software; software; ; B1; Technik/Computer/Software; The company develops software for small businesses.; Die Firma entwickelt Software für kleine Unternehmen.
+tc-0052; Hardware; hardware; ; B1; Technik/Computer/Hardware; Good hardware is important for modern games.; Gute Hardware ist wichtig für moderne Spiele.
+tc-0053; Festplatte; hard drive; hard disk; B1; Technik/Computer/Hardware; My hard drive is almost full again.; Meine Festplatte ist schon wieder fast voll.
+tc-0054; Speicher; memory; storage; B1; Technik/Computer/Hardware; The phone does not have enough memory left.; Das Handy hat nicht mehr genug Speicher.
+tc-0055; Betriebssystem; operating system; OS; B1; Technik/Computer/Software; The new operating system runs much faster.; Das neue Betriebssystem läuft viel schneller.
+tc-0056; Anwendung; application; ; B1; Technik/Computer/Software; This application only runs on newer computers.; Diese Anwendung läuft nur auf neueren Computern.
+tc-0057; installieren; to install; to set up; B1; Technik/Computer/Software; You have to install the program first.; Du musst das Programm zuerst installieren.
+tc-0058; aktualisieren; to update; to upgrade; B1; Technik/Computer/Software; Please update the app to the latest version.; Bitte aktualisiere die App auf die neueste Version.
+tc-0059; Einstellung; setting; option; B1; Technik/Computer/Software; You can change this setting in the menu.; Du kannst diese Einstellung im Menü ändern.
+tc-0060; Virus; virus; computer virus; B1; Technik/Computer/Sicherheit; A virus can destroy important files quickly.; Ein Virus kann wichtige Dateien schnell zerstören.
+tc-0061; Sicherheit; security; safety; B1; Technik/Computer/Sicherheit; Security is very important on the internet.; Sicherheit ist im Internet sehr wichtig.
+tc-0062; sicher; secure; safe; B1; Technik/Computer/Sicherheit; Choose a secure password with many characters.; Wähle ein sicheres Passwort mit vielen Zeichen.
+tc-0063; Netzwerk; network; ; B1; Technik/Computer/Internet; All computers in the office share one network.; Alle Computer im Büro teilen sich ein Netzwerk.
+tc-0064; Server; server; ; B1; Technik/Computer/Internet; The server was down for two hours.; Der Server war zwei Stunden lang ausgefallen.
+tc-0065; Browser; browser; web browser; B1; Technik/Computer/Internet; Open the website in a different browser.; Öffne die Webseite in einem anderen Browser.
+tc-0066; Link; link; hyperlink; B1; Technik/Computer/Internet; The link in the email did not work.; Der Link in der E-Mail hat nicht funktioniert.
+tc-0067; Anhang; attachment; ; B1; Technik/Computer/Internet; I sent the report as an attachment.; Ich habe den Bericht als Anhang geschickt.
+tc-0068; Posteingang; inbox; ; B1; Technik/Computer/Internet; My inbox is full of old emails.; Mein Posteingang ist voll mit alten E-Mails.
+tc-0069; Cloud; cloud; cloud storage; B1; Technik/Computer/Dateien; She saves all her photos in the cloud.; Sie speichert alle ihre Fotos in der Cloud.
+tc-0070; Daten; data; ; B1; Technik/Computer/Dateien; The app collects data about its users.; Die App sammelt Daten über ihre Benutzer.
+tc-0071; Datenbank; database; ; B1; Technik/Computer/Dateien; All customer names are stored in a database.; Alle Kundennamen sind in einer Datenbank gespeichert.
+tc-0072; Screenshot; screenshot; screen capture; B1; Technik/Computer/Smartphone; Take a screenshot of the error message, please.; Mach bitte einen Screenshot von der Fehlermeldung.
+tc-0073; Touchscreen; touch screen; touchscreen; B1; Technik/Computer/Smartphone; You control the tablet with the touch screen.; Man bedient das Tablet über den Touchscreen.
+tc-0074; Benachrichtigung; notification; alert; B1; Technik/Computer/Smartphone; I get a notification for every new message.; Ich bekomme für jede neue Nachricht eine Benachrichtigung.
+tc-0075; stummschalten; to mute; to silence; B1; Technik/Computer/Smartphone; Please mute your phone during the meeting.; Bitte schalte dein Handy während der Besprechung stumm.
+tc-0076; Klingelton; ringtone; ; B1; Technik/Computer/Smartphone; His ringtone is an old rock song.; Sein Klingelton ist ein alter Rocksong.
+tc-0077; abstürzen; to crash; ; B1; Technik/Computer/Software; The program crashes when I open large files.; Das Programm stürzt ab, wenn ich große Dateien öffne.
+tc-0078; neu starten; to restart; to reboot; B1; Technik/Computer/Software; Just restart the computer and try again.; Starte den Computer einfach neu und versuch es noch einmal.
+tc-0079; herunterfahren; to shut down; ; B1; Technik/Computer/Software; Shut down the laptop before you pack it.; Fahr den Laptop herunter, bevor du ihn einpackst.
+tc-0080; anschließen; to plug in; to hook up; B1; Technik/Computer/Hardware; Plug in the printer and wait a moment.; Schließ den Drucker an und warte einen Moment.
+tc-0081; drahtlos; wireless; cordless; B1; Technik/Computer/Internet; The new headphones are completely wireless.; Die neuen Kopfhörer sind komplett drahtlos.
+tc-0082; digital; digital; ; B1; Technik/Computer/Geräte; We store all our documents in digital form.; Wir speichern alle unsere Dokumente in digitaler Form.
+tc-0083; elektronisch; electronic; ; B1; Technik/Computer/Geräte; Electronic books are often cheaper than printed ones.; Elektronische Bücher sind oft billiger als gedruckte.
+tc-0084; Gerät; device; gadget; B1; Technik/Computer/Geräte; This small device measures the air quality.; Dieses kleine Gerät misst die Luftqualität.
+tc-0085; Technologie; technology; ; B1; Technik/Computer/Geräte; Modern technology changes our lives very quickly.; Moderne Technologie verändert unser Leben sehr schnell.
+tc-0086; künstliche Intelligenz; artificial intelligence; AI; B1; Technik/Computer/Künstliche Intelligenz; Artificial intelligence can translate texts in seconds.; Künstliche Intelligenz kann Texte in Sekunden übersetzen.
+tc-0087; Roboter; robot; ; B1; Technik/Computer/Künstliche Intelligenz; A robot builds the cars in this factory.; Ein Roboter baut die Autos in dieser Fabrik.
+tc-0088; programmieren; to program; to code; B1; Technik/Computer/Software; She learned to program when she was twelve.; Sie hat mit zwölf Jahren programmieren gelernt.
+tc-0089; entwickeln; to develop; ; B1; Technik/Computer/Software; The team develops a new app for farmers.; Das Team entwickelt eine neue App für Landwirte.
+tc-0090; kopieren; to copy; ; B1; Technik/Computer/Dateien; Copy the files to the USB stick, please.; Kopiere bitte die Dateien auf den USB-Stick.
+tc-0091; Verschlüsselung; encryption; ; B2; Technik/Computer/Sicherheit; Strong encryption protects your private messages well.; Starke Verschlüsselung schützt deine privaten Nachrichten gut.
+tc-0092; verschlüsseln; to encrypt; ; B2; Technik/Computer/Sicherheit; The app encrypts all messages automatically.; Die App verschlüsselt alle Nachrichten automatisch.
+tc-0093; Datenschutz; data protection; privacy; B2; Technik/Computer/Sicherheit; Data protection is taken very seriously in Europe.; Datenschutz wird in Europa sehr ernst genommen.
+tc-0094; Sicherheitslücke; security vulnerability; security hole; B2; Technik/Computer/Sicherheit; The update closes a dangerous security vulnerability.; Das Update schließt eine gefährliche Sicherheitslücke.
+tc-0095; Hacker; hacker; ; B2; Technik/Computer/Sicherheit; A hacker stole thousands of customer passwords.; Ein Hacker stahl Tausende von Kundenpasswörtern.
+tc-0096; hacken; to hack; ; B2; Technik/Computer/Sicherheit; Criminals tried to hack the bank's computer system.; Kriminelle versuchten, das Computersystem der Bank zu hacken.
+tc-0097; Schadsoftware; malware; malicious software; B2; Technik/Computer/Sicherheit; The malware spread through infected email attachments.; Die Schadsoftware verbreitete sich über infizierte E-Mail-Anhänge.
+tc-0098; Firewall; firewall; ; B2; Technik/Computer/Sicherheit; The firewall blocks suspicious connections from outside.; Die Firewall blockiert verdächtige Verbindungen von außen.
+tc-0099; Datensicherung; backup; data backup; B2; Technik/Computer/Dateien; A regular backup can save you much trouble.; Eine regelmäßige Datensicherung kann dir viel Ärger ersparen.
+tc-0100; wiederherstellen; to restore; to recover; B2; Technik/Computer/Dateien; We were able to restore the deleted files.; Wir konnten die gelöschten Dateien wiederherstellen.
+tc-0101; Speicherplatz; storage space; disk space; B2; Technik/Computer/Dateien; The videos take up a lot of storage space.; Die Videos belegen sehr viel Speicherplatz.
+tc-0102; Prozessor; processor; CPU; B2; Technik/Computer/Hardware; A faster processor makes the laptop more expensive.; Ein schnellerer Prozessor macht den Laptop teurer.
+tc-0103; Grafikkarte; graphics card; video card; B2; Technik/Computer/Hardware; Modern games need a powerful graphics card.; Moderne Spiele brauchen eine leistungsstarke Grafikkarte.
+tc-0104; Hauptplatine; motherboard; mainboard; B2; Technik/Computer/Hardware; The motherboard connects all parts of the computer.; Die Hauptplatine verbindet alle Teile des Computers.
+tc-0105; Benutzeroberfläche; user interface; UI; B2; Technik/Computer/Software; The new user interface is clear and simple.; Die neue Benutzeroberfläche ist übersichtlich und einfach.
+tc-0106; benutzerfreundlich; user-friendly; easy to use; B2; Technik/Computer/Software; The website is modern and very user-friendly.; Die Webseite ist modern und sehr benutzerfreundlich.
+tc-0107; Zugriff; access; ; B2; Technik/Computer/Sicherheit; Only the boss has access to these files.; Nur der Chef hat Zugriff auf diese Dateien.
+tc-0108; Berechtigung; permission; authorization; B2; Technik/Computer/Sicherheit; The app asks for permission to use the camera.; Die App bittet um die Berechtigung, die Kamera zu benutzen.
+tc-0109; Benutzerkonto; user account; account; B2; Technik/Computer/Sicherheit; Create a user account to use all functions.; Erstelle ein Benutzerkonto, um alle Funktionen zu nutzen.
+tc-0110; Fehlermeldung; error message; ; B2; Technik/Computer/Software; The error message appears every time I print.; Die Fehlermeldung erscheint jedes Mal, wenn ich drucke.
+tc-0111; Fehlerbehebung; troubleshooting; bug fixing; B2; Technik/Computer/Software; The manual has a chapter on troubleshooting.; Das Handbuch hat ein Kapitel zur Fehlerbehebung.
+tc-0112; Quellcode; source code; code; B2; Technik/Computer/Software; The source code of the program is public.; Der Quellcode des Programms ist öffentlich.
+tc-0113; Programmiersprache; programming language; ; B2; Technik/Computer/Software; Python is a popular programming language for beginners.; Python ist eine beliebte Programmiersprache für Anfänger.
+tc-0114; maschinelles Lernen; machine learning; ; B2; Technik/Computer/Künstliche Intelligenz; Machine learning helps doctors find diseases earlier.; Maschinelles Lernen hilft Ärzten, Krankheiten früher zu erkennen.
+tc-0115; Algorithmus; algorithm; ; B2; Technik/Computer/Künstliche Intelligenz; An algorithm decides which videos you see.; Ein Algorithmus entscheidet, welche Videos du siehst.
+tc-0116; Rechenleistung; computing power; processing power; B2; Technik/Computer/Hardware; Artificial intelligence needs enormous computing power.; Künstliche Intelligenz braucht enorme Rechenleistung.
+tc-0117; Datenanalyse; data analysis; ; B2; Technik/Computer/Künstliche Intelligenz; Data analysis shows what customers really want.; Die Datenanalyse zeigt, was Kunden wirklich wollen.
+tc-0118; Spracherkennung; speech recognition; voice recognition; B2; Technik/Computer/Künstliche Intelligenz; Speech recognition works well in quiet rooms.; Spracherkennung funktioniert gut in ruhigen Räumen.
+tc-0119; Gesichtserkennung; facial recognition; face recognition; B2; Technik/Computer/Künstliche Intelligenz; Facial recognition unlocks the phone in a second.; Die Gesichtserkennung entsperrt das Handy in einer Sekunde.
+tc-0120; Phishing; phishing; phishing attack; B2; Technik/Computer/Sicherheit; Phishing emails often look surprisingly real today.; Phishing-Mails sehen heute oft überraschend echt aus.
+tc-0121; Bandbreite; bandwidth; ; B2; Technik/Computer/Internet; Video calls need a lot of bandwidth.; Videoanrufe brauchen sehr viel Bandbreite.
+tc-0122; Glasfaser; fiber optics; optical fiber; B2; Technik/Computer/Internet; Fiber optics makes the internet much faster.; Glasfaser macht das Internet viel schneller.
+tc-0123; Schnittstelle; interface; ; B2; Technik/Computer/Software; The interface connects the software with the printer.; Die Schnittstelle verbindet die Software mit dem Drucker.
+tc-0124; Rechenzentrum; data center; computer center; B2; Technik/Computer/Internet; The data center uses only green electricity.; Das Rechenzentrum nutzt ausschließlich Ökostrom.
+tc-0125; Absturz; crash; system crash; B2; Technik/Computer/Software; After the crash I lost my whole text.; Nach dem Absturz habe ich meinen ganzen Text verloren.
+tc-0126; Datenverarbeitung; data processing; ; C1; Technik/Computer/Dateien; Modern data processing requires clear legal rules.; Moderne Datenverarbeitung erfordert klare gesetzliche Regeln.
+tc-0127; Verfügbarkeit; availability; ; C1; Technik/Computer/Internet; The provider guarantees an availability of ninety-nine percent.; Der Anbieter garantiert eine Verfügbarkeit von neunundneunzig Prozent.
+tc-0128; Ausfallzeit; downtime; outage; C1; Technik/Computer/Internet; Every hour of downtime costs the company money.; Jede Stunde Ausfallzeit kostet das Unternehmen Geld.
+tc-0129; Skalierbarkeit; scalability; ; C1; Technik/Computer/Software; Scalability was a key requirement for the platform.; Skalierbarkeit war eine zentrale Anforderung an die Plattform.
+tc-0130; Authentifizierung; authentication; ; C1; Technik/Computer/Sicherheit; Two-factor authentication makes your account much safer.; Zwei-Faktor-Authentifizierung macht dein Konto viel sicherer.
+tc-0131; neuronales Netz; neural network; artificial neural network; C1; Technik/Computer/Künstliche Intelligenz; The neural network recognizes faces in photos.; Das neuronale Netz erkennt Gesichter auf Fotos.
+tc-0132; Quantencomputer; quantum computer; ; C1; Technik/Computer/Hardware; A quantum computer could break today's encryption.; Ein Quantencomputer könnte die heutige Verschlüsselung knacken.
+tc-0133; Halbleiter; semiconductor; ; C1; Technik/Computer/Hardware; Semiconductors are the basis of all modern electronics.; Halbleiter sind die Grundlage aller modernen Elektronik.
+tc-0134; Platine; circuit board; board, PCB; C1; Technik/Computer/Hardware; He soldered a tiny chip onto the circuit board.; Er lötete einen winzigen Chip auf die Platine.
+tc-0135; Datenübertragung; data transmission; data transfer; C1; Technik/Computer/Internet; The data transmission was interrupted several times today.; Die Datenübertragung wurde heute mehrmals unterbrochen.
+tc-0136; Komprimierung; compression; data compression; C1; Technik/Computer/Dateien; Compression reduces the size of large video files.; Komprimierung verringert die Größe großer Videodateien.
+tc-0137; Redundanz; redundancy; ; C1; Technik/Computer/Internet; Redundancy protects the system against sudden failures.; Redundanz schützt das System vor plötzlichen Ausfällen.
+tc-0138; Ausfallsicherheit; fault tolerance; resilience, reliability; C1; Technik/Computer/Internet; Fault tolerance is essential for hospital computer systems.; Ausfallsicherheit ist für Computersysteme in Krankenhäusern unverzichtbar.
+tc-0139; Datenintegrität; data integrity; ; C1; Technik/Computer/Dateien; Regular checks ensure the data integrity of the archive.; Regelmäßige Prüfungen sichern die Datenintegrität des Archivs.
+tc-0140; Schwachstelle; vulnerability; weak point, weakness; C1; Technik/Computer/Sicherheit; The researchers discovered a vulnerability in the router.; Die Forscher entdeckten eine Schwachstelle im Router.
+tc-0141; Erpressungssoftware; ransomware; ; C1; Technik/Computer/Sicherheit; Ransomware encrypted all files of the city administration.; Erpressungssoftware verschlüsselte alle Dateien der Stadtverwaltung.
+tc-0142; quelloffen; open-source; open source; C1; Technik/Computer/Software; Many developers prefer open-source programs for daily work.; Viele Entwickler bevorzugen quelloffene Programme für die tägliche Arbeit.
+tc-0143; Sprachmodell; language model; large language model; C1; Technik/Computer/Künstliche Intelligenz; The language model writes surprisingly natural answers.; Das Sprachmodell schreibt überraschend natürliche Antworten.
+tc-0144; Abwärtskompatibilität; backward compatibility; downward compatibility; C2; Technik/Computer/Software; Backward compatibility allows old programs to keep running.; Abwärtskompatibilität erlaubt es alten Programmen, weiter zu laufen.
+tc-0145; Rechnerarchitektur; computer architecture; ; C2; Technik/Computer/Hardware; The lecture covers the basics of computer architecture.; Die Vorlesung behandelt die Grundlagen der Rechnerarchitektur.
+tc-0146; Kryptographie; cryptography; cryptology; C2; Technik/Computer/Sicherheit; Modern cryptography is based on difficult mathematical problems.; Moderne Kryptographie beruht auf schwierigen mathematischen Problemen.
+tc-0147; Datenhoheit; data sovereignty; ; C2; Technik/Computer/Sicherheit; Many countries are now discussing data sovereignty.; Viele Länder diskutieren derzeit über Datenhoheit.
+tc-0148; Obsoleszenz; obsolescence; planned obsolescence; C2; Technik/Computer/Geräte; Critics accuse manufacturers of deliberately planned obsolescence.; Kritiker werfen Herstellern absichtlich geplante Obsoleszenz vor.
+tc-0149; Interoperabilität; interoperability; ; C2; Technik/Computer/Software; Interoperability between different systems saves time and money.; Interoperabilität zwischen verschiedenen Systemen spart Zeit und Geld.
+tc-0150; Latenz; latency; delay, lag; C2; Technik/Computer/Internet; Low latency is crucial for online gaming.; Eine niedrige Latenz ist beim Online-Spielen entscheidend.

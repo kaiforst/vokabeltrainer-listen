@@ -1,0 +1,464 @@
+{
+  "version": 2,
+  "words": [
+    {
+      "id": "business-airport",
+      "file": "woerter/business-airport.txt",
+      "version": 2,
+      "count": 200
+    },
+    {
+      "id": "alltag-zuhause",
+      "file": "woerter/alltag-zuhause.txt",
+      "version": 1,
+      "count": 150
+    },
+    {
+      "id": "arbeit-beruf",
+      "file": "woerter/arbeit-beruf.txt",
+      "version": 1,
+      "count": 150
+    },
+    {
+      "id": "business-buero",
+      "file": "woerter/business-buero.txt",
+      "version": 1,
+      "count": 150
+    },
+    {
+      "id": "einkaufen-geld",
+      "file": "woerter/einkaufen-geld.txt",
+      "version": 1,
+      "count": 150
+    },
+    {
+      "id": "essen-trinken",
+      "file": "woerter/essen-trinken.txt",
+      "version": 1,
+      "count": 150
+    },
+    {
+      "id": "familie-beziehungen",
+      "file": "woerter/familie-beziehungen.txt",
+      "version": 1,
+      "count": 150
+    },
+    {
+      "id": "freizeit-hobbys",
+      "file": "woerter/freizeit-hobbys.txt",
+      "version": 1,
+      "count": 150
+    },
+    {
+      "id": "gefuehle-charakter",
+      "file": "woerter/gefuehle-charakter.txt",
+      "version": 1,
+      "count": 150
+    },
+    {
+      "id": "grundwortschatz",
+      "file": "woerter/grundwortschatz.txt",
+      "version": 2,
+      "count": 1000
+    },
+    {
+      "id": "kleidung-mode",
+      "file": "woerter/kleidung-mode.txt",
+      "version": 1,
+      "count": 150
+    },
+    {
+      "id": "koerper-gesundheit",
+      "file": "woerter/koerper-gesundheit.txt",
+      "version": 1,
+      "count": 150
+    },
+    {
+      "id": "kunst-kultur",
+      "file": "woerter/kunst-kultur.txt",
+      "version": 1,
+      "count": 150
+    },
+    {
+      "id": "medien-kommunikation",
+      "file": "woerter/medien-kommunikation.txt",
+      "version": 1,
+      "count": 150
+    },
+    {
+      "id": "natur-tiere",
+      "file": "woerter/natur-tiere.txt",
+      "version": 1,
+      "count": 150
+    },
+    {
+      "id": "politik-gesellschaft",
+      "file": "woerter/politik-gesellschaft.txt",
+      "version": 1,
+      "count": 150
+    },
+    {
+      "id": "reisen-urlaub",
+      "file": "woerter/reisen-urlaub.txt",
+      "version": 1,
+      "count": 150
+    },
+    {
+      "id": "schule-bildung",
+      "file": "woerter/schule-bildung.txt",
+      "version": 1,
+      "count": 150
+    },
+    {
+      "id": "sport-fitness",
+      "file": "woerter/sport-fitness.txt",
+      "version": 1,
+      "count": 150
+    },
+    {
+      "id": "technik-computer",
+      "file": "woerter/technik-computer.txt",
+      "version": 1,
+      "count": 150
+    },
+    {
+      "id": "verkehr-mobilitaet",
+      "file": "woerter/verkehr-mobilitaet.txt",
+      "version": 1,
+      "count": 150
+    },
+    {
+      "id": "wetter-umwelt",
+      "file": "woerter/wetter-umwelt.txt",
+      "version": 1,
+      "count": 150
+    },
+    {
+      "id": "wirtschaft-finanzen",
+      "file": "woerter/wirtschaft-finanzen.txt",
+      "version": 1,
+      "count": 150
+    },
+    {
+      "id": "wissenschaft-forschung",
+      "file": "woerter/wissenschaft-forschung.txt",
+      "version": 1,
+      "count": 150
+    }
+  ],
+  "lists": [
+    {
+      "id": "grundwortschatz-start",
+      "name": "Grundwortschatz – A1",
+      "description": "Die einfachsten Wörter zum Einstieg",
+      "level": "A1",
+      "count": 250,
+      "version": 2,
+      "filter": {
+        "topics": [
+          "Grundwortschatz"
+        ],
+        "levels": [
+          "A1"
+        ]
+      }
+    },
+    {
+      "id": "business-english-airport",
+      "name": "Business English – Airport",
+      "description": "Terminalbetrieb und Passagierabfertigung, mit Beispielsätzen",
+      "level": "B1",
+      "count": 200,
+      "version": 3,
+      "filter": {
+        "topics": [
+          "Business/Airport"
+        ]
+      }
+    },
+    {
+      "id": "alltag-zuhause",
+      "name": "Alltag & Zuhause",
+      "description": "A1–C2, mit Beispielsätzen",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Alltag/Zuhause"
+        ]
+      }
+    },
+    {
+      "id": "arbeit-beruf",
+      "name": "Arbeit & Beruf",
+      "description": "A1–C2, mit Beispielsätzen",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Arbeit"
+        ]
+      }
+    },
+    {
+      "id": "business-buero",
+      "name": "Business & Büro",
+      "description": "A1–C2, mit Beispielsätzen",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Business/Büro"
+        ]
+      }
+    },
+    {
+      "id": "einkaufen-geld",
+      "name": "Einkaufen & Geld",
+      "description": "A1–C2, mit Beispielsätzen",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Alltag/Einkaufen"
+        ]
+      }
+    },
+    {
+      "id": "essen-trinken",
+      "name": "Essen & Trinken",
+      "description": "A1–C2, mit Beispielsätzen",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Alltag/Essen"
+        ]
+      }
+    },
+    {
+      "id": "familie-beziehungen",
+      "name": "Familie & Beziehungen",
+      "description": "A1–C2, mit Beispielsätzen",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Alltag/Familie"
+        ]
+      }
+    },
+    {
+      "id": "freizeit-hobbys",
+      "name": "Freizeit & Hobbys",
+      "description": "A1–C2, mit Beispielsätzen",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Freizeit/Hobbys",
+          "Freizeit/Spiele",
+          "Freizeit/Musik",
+          "Freizeit/Ausgehen",
+          "Freizeit/Lesen",
+          "Freizeit/Feste & Feiern",
+          "Freizeit/Basteln & Handwerk"
+        ]
+      }
+    },
+    {
+      "id": "gefuehle-charakter",
+      "name": "Gefühle & Charakter",
+      "description": "A1–C2, mit Beispielsätzen",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Mensch"
+        ]
+      }
+    },
+    {
+      "id": "grundwortschatz",
+      "name": "Grundwortschatz – 1000 Wörter",
+      "description": "A1–C2, mit Beispielsätzen",
+      "count": 1000,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Grundwortschatz"
+        ]
+      }
+    },
+    {
+      "id": "kleidung-mode",
+      "name": "Kleidung & Mode",
+      "description": "A1–C2, mit Beispielsätzen",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Alltag/Kleidung"
+        ]
+      }
+    },
+    {
+      "id": "koerper-gesundheit",
+      "name": "Körper & Gesundheit",
+      "description": "A1–C2, mit Beispielsätzen",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Gesundheit"
+        ]
+      }
+    },
+    {
+      "id": "kunst-kultur",
+      "name": "Kunst & Kultur",
+      "description": "A1–C2, mit Beispielsätzen",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Kultur"
+        ]
+      }
+    },
+    {
+      "id": "medien-kommunikation",
+      "name": "Medien & Kommunikation",
+      "description": "A1–C2, mit Beispielsätzen",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Medien"
+        ]
+      }
+    },
+    {
+      "id": "natur-tiere",
+      "name": "Natur & Tiere",
+      "description": "A1–C2, mit Beispielsätzen",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Natur/Tiere",
+          "Natur/Pflanzen",
+          "Natur/Landschaft"
+        ]
+      }
+    },
+    {
+      "id": "politik-gesellschaft",
+      "name": "Politik & Gesellschaft",
+      "description": "A1–C2, mit Beispielsätzen",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Gesellschaft"
+        ]
+      }
+    },
+    {
+      "id": "reisen-urlaub",
+      "name": "Reisen & Urlaub",
+      "description": "A1–C2, mit Beispielsätzen",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Reisen/Urlaub"
+        ]
+      }
+    },
+    {
+      "id": "schule-bildung",
+      "name": "Schule & Bildung",
+      "description": "A1–C2, mit Beispielsätzen",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Bildung"
+        ]
+      }
+    },
+    {
+      "id": "sport-fitness",
+      "name": "Sport & Fitness",
+      "description": "A1–C2, mit Beispielsätzen",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Freizeit/Sport"
+        ]
+      }
+    },
+    {
+      "id": "technik-computer",
+      "name": "Technik & Computer",
+      "description": "A1–C2, mit Beispielsätzen",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Technik"
+        ]
+      }
+    },
+    {
+      "id": "verkehr-mobilitaet",
+      "name": "Verkehr & Mobilität",
+      "description": "A1–C2, mit Beispielsätzen",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Reisen/Verkehr"
+        ]
+      }
+    },
+    {
+      "id": "wetter-umwelt",
+      "name": "Wetter & Umwelt",
+      "description": "A1–C2, mit Beispielsätzen",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Natur/Umwelt"
+        ]
+      }
+    },
+    {
+      "id": "wirtschaft-finanzen",
+      "name": "Wirtschaft & Finanzen",
+      "description": "A1–C2, mit Beispielsätzen",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wirtschaft"
+        ]
+      }
+    },
+    {
+      "id": "wissenschaft-forschung",
+      "name": "Wissenschaft & Forschung",
+      "description": "A1–C2, mit Beispielsätzen",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wissenschaft"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+id; Deutsch; Englisch; Weitere Antworten; Niveau; Themen; Beispiel Englisch; Beispiel Deutsch
+ru-0001; Reise; trip; journey; A1; Reisen/Urlaub/Planung & Buchung; Our trip to the coast starts on Monday.; Unsere Reise an die Küste beginnt am Montag.
+ru-0002; reisen; to travel; ; A1; Reisen/Urlaub/Planung & Buchung; We travel to Italy every single summer.; Wir reisen jeden Sommer nach Italien.
+ru-0003; Urlaub; holiday; vacation; A1; Reisen/Urlaub/Planung & Buchung; My holiday starts next Friday after work.; Mein Urlaub beginnt nächsten Freitag nach der Arbeit.
+ru-0004; Hotel; hotel; ; A1; Reisen/Urlaub/Unterkunft; The hotel is right next to the beach.; Das Hotel liegt direkt am Strand.
+ru-0005; Zimmer; room; ; A1; Reisen/Urlaub/Unterkunft; Our room has a view of the sea.; Unser Zimmer hat Blick auf das Meer.
+ru-0006; Koffer; suitcase; ; A1; Reisen/Urlaub/Gepäck; My suitcase is heavy because of the books.; Mein Koffer ist wegen der Bücher schwer.
+ru-0007; Tasche; bag; ; A1; Reisen/Urlaub/Gepäck; The bag with the tickets is in the car.; Die Tasche mit den Tickets liegt im Auto.
+ru-0008; Flugzeug; plane; airplane, aircraft; A1; Reisen/Urlaub/Flughafen; The plane leaves at six in the morning.; Das Flugzeug fliegt um sechs Uhr morgens ab.
+ru-0009; fliegen; to fly; ; A1; Reisen/Urlaub/Flughafen; We fly to Lisbon early on Saturday morning.; Wir fliegen am Samstag früh nach Lissabon.
+ru-0010; Flughafen; airport; ; A1; Reisen/Urlaub/Flughafen; The airport is thirty minutes from the city.; Der Flughafen liegt dreißig Minuten von der Stadt entfernt.
+ru-0011; Zug; train; ; A1; Reisen/Urlaub/Unterwegs, Verkehr; The train to Vienna leaves from platform five.; Der Zug nach Wien fährt von Gleis fünf.
+ru-0012; Bahnhof; station; railway station; A1; Reisen/Urlaub/Unterwegs; We meet at the station at ten tomorrow.; Wir treffen uns morgen um zehn am Bahnhof.
+ru-0013; Auto; car; ; A1; Reisen/Urlaub/Unterwegs; We drive to the mountains by car.; Wir fahren mit dem Auto in die Berge.
+ru-0014; Bus; bus; coach; A1; Reisen/Urlaub/Unterwegs; The bus to the old town comes every ten minutes.; Der Bus in die Altstadt kommt alle zehn Minuten.
+ru-0015; Fahrkarte; ticket; ; A1; Reisen/Urlaub/Unterwegs; A ticket to the lake costs four euros.; Eine Fahrkarte zum See kostet vier Euro.
+ru-0016; Stadt; city; town; A1; Reisen/Urlaub/Sightseeing; The old city is beautiful in the evening light.; Die alte Stadt ist im Abendlicht wunderschön.
+ru-0017; Land; country; ; A1; Reisen/Urlaub/Planung & Buchung; Portugal is a wonderful country for a holiday.; Portugal ist ein wunderbares Land für einen Urlaub.
+ru-0018; Meer; sea; ocean; A1; Reisen/Urlaub/Strand & Natur; The sea is warm and calm in September.; Das Meer ist im September warm und ruhig.
+ru-0019; Strand; beach; ; A1; Reisen/Urlaub/Strand & Natur; The children play on the beach all day.; Die Kinder spielen den ganzen Tag am Strand.
+ru-0020; Sonne; sun; ; A1; Reisen/Urlaub/Strand & Natur; The sun shines here almost every single day.; Die Sonne scheint hier fast jeden Tag.
+ru-0021; Karte; map; ; A1; Reisen/Urlaub/Unterwegs; Without a map we would be lost here.; Ohne Karte wären wir hier verloren.
+ru-0022; Kamera; camera; ; A1; Reisen/Urlaub/Sightseeing; Take the camera, the light is perfect today.; Nimm die Kamera mit, das Licht ist heute perfekt.
+ru-0023; Taxi; taxi; cab; A1; Reisen/Urlaub/Unterwegs; We take a taxi from the airport to the hotel.; Wir nehmen ein Taxi vom Flughafen zum Hotel.
+ru-0024; Straße; street; road; A1; Reisen/Urlaub/Unterwegs; This street leads directly to the old harbour.; Diese Straße führt direkt zum alten Hafen.
+ru-0025; ankommen; to arrive; ; A1; Reisen/Urlaub/Unterwegs; We arrive in Rome late in the evening.; Wir kommen spät am Abend in Rom an.
+ru-0026; buchen; to book; to reserve; A2; Reisen/Urlaub/Planung & Buchung; We booked a room with a sea view.; Wir haben ein Zimmer mit Meerblick gebucht.
+ru-0027; Reisebüro; travel agency; ; A2; Reisen/Urlaub/Planung & Buchung; The travel agency found a cheap flight for us.; Das Reisebüro fand einen günstigen Flug für uns.
+ru-0028; planen; to plan; ; A2; Reisen/Urlaub/Planung & Buchung; We are planning a long trip through Spain.; Wir planen eine lange Reise durch Spanien.
+ru-0029; packen; to pack; ; A2; Reisen/Urlaub/Gepäck; I always pack my suitcase the night before.; Ich packe meinen Koffer immer am Abend vorher.
+ru-0030; Gepäck; luggage; baggage; A2; Reisen/Urlaub/Gepäck; Our luggage was too heavy for the flight.; Unser Gepäck war zu schwer für den Flug.
+ru-0031; Rucksack; backpack; rucksack; A2; Reisen/Urlaub/Gepäck; He travels through Asia with only a backpack.; Er reist nur mit einem Rucksack durch Asien.
+ru-0032; Pass; passport; ; A2; Reisen/Urlaub/Flughafen; Please have your passport ready at the gate.; Bitte halten Sie Ihren Pass am Gate bereit.
+ru-0033; Flug; flight; ; A2; Reisen/Urlaub/Flughafen; The flight to Athens takes about three hours.; Der Flug nach Athen dauert etwa drei Stunden.
+ru-0034; Abflug; departure; ; A2; Reisen/Urlaub/Flughafen; The departure is delayed by forty minutes today.; Der Abflug verspätet sich heute um vierzig Minuten.
+ru-0035; Ankunft; arrival; ; A2; Reisen/Urlaub/Flughafen; Our arrival is planned for early Sunday morning.; Unsere Ankunft ist für Sonntag früh geplant.
+ru-0036; Grenze; border; ; A2; Reisen/Urlaub/Unterwegs; We crossed the border early in the morning.; Wir überquerten die Grenze früh am Morgen.
+ru-0037; Ausland; abroad; foreign countries; A2; Reisen/Urlaub/Planung & Buchung; She works abroad for one whole year.; Sie arbeitet ein ganzes Jahr im Ausland.
+ru-0038; Tourist; tourist; ; A2; Reisen/Urlaub/Sightseeing; In August the town is full of tourists.; Im August ist die Stadt voller Touristen.
+ru-0039; Reiseführer; guidebook; travel guide; A2; Reisen/Urlaub/Sightseeing; The guidebook recommends a walk along the river.; Der Reiseführer empfiehlt einen Spaziergang am Fluss.
+ru-0040; besuchen; to visit; ; A2; Reisen/Urlaub/Sightseeing; We visit the old castle above the town.; Wir besuchen die alte Burg über der Stadt.
+ru-0041; Museum; museum; ; A2; Reisen/Urlaub/Sightseeing, Kultur; The museum is free on the first Sunday.; Das Museum ist am ersten Sonntag kostenlos.
+ru-0042; Kirche; church; ; A2; Reisen/Urlaub/Sightseeing; The small church on the hill is very old.; Die kleine Kirche auf dem Hügel ist sehr alt.
+ru-0043; Schloss; castle; palace; A2; Reisen/Urlaub/Sightseeing; The castle opens its gardens in the summer.; Das Schloss öffnet im Sommer seine Gärten.
+ru-0044; Insel; island; ; A2; Reisen/Urlaub/Strand & Natur; The small island has only one little hotel.; Die kleine Insel hat nur ein kleines Hotel.
+ru-0045; See; lake; ; A2; Reisen/Urlaub/Strand & Natur; We swim in the lake before breakfast.; Wir schwimmen vor dem Frühstück im See.
+ru-0046; Berg; mountain; ; A2; Reisen/Urlaub/Strand & Natur; From the mountain you can see the whole valley.; Vom Berg sieht man das ganze Tal.
+ru-0047; Wald; forest; woods; A2; Reisen/Urlaub/Strand & Natur; A narrow path leads through the dark forest.; Ein schmaler Pfad führt durch den dunklen Wald.
+ru-0048; Sonnencreme; suncream; sunscreen; A2; Reisen/Urlaub/Strand & Natur; Do not forget the suncream for the children.; Vergiss die Sonnencreme für die Kinder nicht.
+ru-0049; Badeanzug; swimsuit; bathing suit; A2; Reisen/Urlaub/Strand & Natur; Her new swimsuit is blue with white stripes.; Ihr neuer Badeanzug ist blau mit weißen Streifen.
+ru-0050; Handtuch; towel; ; A2; Reisen/Urlaub/Strand & Natur; We left the big towel at the hotel again.; Wir haben das große Handtuch wieder im Hotel vergessen.
+ru-0051; Schlüssel; key; ; A2; Reisen/Urlaub/Unterkunft; The key for the room is at the reception.; Der Schlüssel für das Zimmer liegt an der Rezeption.
+ru-0052; Rezeption; reception; front desk; A2; Reisen/Urlaub/Unterkunft; The reception is open day and night.; Die Rezeption ist Tag und Nacht geöffnet.
+ru-0053; Frühstück; breakfast; ; A2; Reisen/Urlaub/Unterkunft; Breakfast is served until ten on the terrace.; Das Frühstück gibt es bis zehn auf der Terrasse.
+ru-0054; übernachten; to stay overnight; to spend the night; A2; Reisen/Urlaub/Unterkunft; We stay overnight in a small quiet guesthouse.; Wir übernachten in einer kleinen ruhigen Pension.
+ru-0055; mieten; to rent; to hire; A2; Reisen/Urlaub/Unterwegs; We rent bikes and ride along the coast.; Wir mieten Fahrräder und fahren an der Küste entlang.
+ru-0056; Fahrrad; bicycle; bike; A2; Reisen/Urlaub/Unterwegs; The hotel lends every guest a free bicycle.; Das Hotel leiht jedem Gast kostenlos ein Fahrrad.
+ru-0057; Verspätung; delay; ; A2; Reisen/Urlaub/Unterwegs; The train has a delay of twenty minutes.; Der Zug hat zwanzig Minuten Verspätung.
+ru-0058; umsteigen; to change trains; to change; A2; Reisen/Urlaub/Unterwegs; We have to change trains in Cologne today.; Wir müssen heute in Köln umsteigen.
+ru-0059; Haltestelle; stop; bus stop; A2; Reisen/Urlaub/Unterwegs; The stop is directly in front of the museum.; Die Haltestelle ist direkt vor dem Museum.
+ru-0060; Stadtplan; city map; street map; A2; Reisen/Urlaub/Sightseeing; The hotel gives every guest a free city map.; Das Hotel gibt jedem Gast einen kostenlosen Stadtplan.
+ru-0061; Unterkunft; accommodation; lodging; B1; Reisen/Urlaub/Unterkunft; We found cheap accommodation near the old town.; Wir fanden eine günstige Unterkunft nahe der Altstadt.
+ru-0062; Ferienwohnung; holiday apartment; holiday flat; B1; Reisen/Urlaub/Unterkunft; The holiday apartment has a balcony and a small kitchen.; Die Ferienwohnung hat einen Balkon und eine kleine Küche.
+ru-0063; Jugendherberge; youth hostel; hostel; B1; Reisen/Urlaub/Unterkunft; The youth hostel is cheap and very clean.; Die Jugendherberge ist günstig und sehr sauber.
+ru-0064; Pension; guesthouse; bed and breakfast; B1; Reisen/Urlaub/Unterkunft; The guesthouse is run by a friendly old couple.; Die Pension wird von einem freundlichen alten Paar geführt.
+ru-0065; Doppelzimmer; double room; ; B1; Reisen/Urlaub/Unterkunft; A double room with breakfast costs ninety euros.; Ein Doppelzimmer mit Frühstück kostet neunzig Euro.
+ru-0066; Einzelzimmer; single room; ; B1; Reisen/Urlaub/Unterkunft; The last single room was already taken yesterday.; Das letzte Einzelzimmer war gestern schon vergeben.
+ru-0067; Halbpension; half board; ; B1; Reisen/Urlaub/Unterkunft; We chose half board because we eat lunch out.; Wir wählten Halbpension, weil wir mittags unterwegs essen.
+ru-0068; Aussicht; view; outlook; B1; Reisen/Urlaub/Unterkunft; The view from the terrace is simply fantastic.; Die Aussicht von der Terrasse ist einfach fantastisch.
+ru-0069; Reiseziel; destination; ; B1; Reisen/Urlaub/Planung & Buchung; We have not chosen a destination for autumn yet.; Wir haben noch kein Reiseziel für den Herbst gewählt.
+ru-0070; Buchung; booking; reservation; B1; Reisen/Urlaub/Planung & Buchung; Your booking was confirmed by email this morning.; Ihre Buchung wurde heute Morgen per E-Mail bestätigt.
+ru-0071; stornieren; to cancel; ; B1; Reisen/Urlaub/Planung & Buchung; You can cancel the trip free of charge until May.; Sie können die Reise bis Mai kostenlos stornieren.
+ru-0072; Sicherheitskontrolle; security check; security screening; B1; Reisen/Urlaub/Flughafen; The queue at the security check was surprisingly short.; Die Schlange an der Sicherheitskontrolle war überraschend kurz.
+ru-0073; Bordkarte; boarding pass; boarding card; B1; Reisen/Urlaub/Flughafen; Please show your boarding pass and your passport.; Bitte zeigen Sie Ihre Bordkarte und Ihren Pass.
+ru-0074; einchecken; to check in; ; B1; Reisen/Urlaub/Flughafen; You can check in online two days before.; Sie können zwei Tage vorher online einchecken.
+ru-0075; Handgepäck; hand luggage; carry-on; B1; Reisen/Urlaub/Gepäck; Only one piece of hand luggage is allowed.; Nur ein Stück Handgepäck ist erlaubt.
+ru-0076; Gepäckausgabe; baggage claim; ; B1; Reisen/Urlaub/Flughafen; We waited at the baggage claim for an hour.; Wir warteten eine Stunde an der Gepäckausgabe.
+ru-0077; Zoll; customs; ; B1; Reisen/Urlaub/Flughafen; At customs nobody wanted to see our bags.; Beim Zoll wollte niemand unsere Taschen sehen.
+ru-0078; Flugbegleiter; flight attendant; steward; B1; Reisen/Urlaub/Flughafen; The flight attendant brought us water and coffee.; Der Flugbegleiter brachte uns Wasser und Kaffee.
+ru-0079; Landung; landing; ; B1; Reisen/Urlaub/Flughafen; The landing was soft despite the strong wind.; Die Landung war trotz des starken Windes sanft.
+ru-0080; landen; to land; ; B1; Reisen/Urlaub/Flughafen; We land in Madrid shortly after midnight tonight.; Wir landen heute kurz nach Mitternacht in Madrid.
+ru-0081; abheben; to take off; ; B1; Reisen/Urlaub/Flughafen; The plane took off with a short delay.; Das Flugzeug hob mit kurzer Verspätung ab.
+ru-0082; Notausgang; emergency exit; ; B1; Reisen/Urlaub/Flughafen; The emergency exit is marked with green signs.; Der Notausgang ist mit grünen Schildern markiert.
+ru-0083; Sehenswürdigkeit; sight; tourist attraction; B1; Reisen/Urlaub/Sightseeing; The cathedral is the most famous sight in town.; Die Kathedrale ist die berühmteste Sehenswürdigkeit der Stadt.
+ru-0084; Denkmal; monument; memorial; B1; Reisen/Urlaub/Sightseeing; The monument on the square honours a local poet.; Das Denkmal auf dem Platz ehrt einen hiesigen Dichter.
+ru-0085; Altstadt; old town; historic centre; B1; Reisen/Urlaub/Sightseeing; We got lost in the narrow streets of the old town.; Wir verliefen uns in den engen Gassen der Altstadt.
+ru-0086; Führung; guided tour; tour; B1; Reisen/Urlaub/Sightseeing; The guided tour through the castle takes an hour.; Die Führung durch das Schloss dauert eine Stunde.
+ru-0087; Souvenir; souvenir; keepsake; B1; Reisen/Urlaub/Sightseeing; She bought a small souvenir for her colleagues.; Sie kaufte ein kleines Souvenir für ihre Kollegen.
+ru-0088; Sonnenbrand; sunburn; ; B1; Reisen/Urlaub/Strand & Natur; After one afternoon he already had a sunburn.; Nach einem Nachmittag hatte er schon einen Sonnenbrand.
+ru-0089; Liegestuhl; deck chair; sun lounger; B1; Reisen/Urlaub/Strand & Natur; Every deck chair by the pool was taken by nine.; Jeder Liegestuhl am Pool war um neun besetzt.
+ru-0090; Sonnenschirm; parasol; sunshade; B1; Reisen/Urlaub/Strand & Natur; We rented a parasol for the whole day.; Wir mieteten einen Sonnenschirm für den ganzen Tag.
+ru-0091; Welle; wave; ; B1; Reisen/Urlaub/Strand & Natur; Every wave was too high for the children.; Jede Welle war zu hoch für die Kinder.
+ru-0092; Küste; coast; coastline; B1; Reisen/Urlaub/Strand & Natur; The road follows the coast for a hundred kilometres.; Die Straße folgt der Küste hundert Kilometer lang.
+ru-0093; Hafen; harbour; port; B1; Reisen/Urlaub/Sightseeing; In the evening the harbour is full of life.; Abends ist der Hafen voller Leben.
+ru-0094; Fähre; ferry; ; B1; Reisen/Urlaub/Unterwegs, Verkehr; The ferry to the island runs twice a day.; Die Fähre zur Insel fährt zweimal am Tag.
+ru-0095; Route; route; ; B1; Reisen/Urlaub/Unterwegs; We planned our route along small country roads.; Wir planten unsere Route über kleine Landstraßen.
+ru-0096; Pauschalreise; package holiday; package tour; B2; Reisen/Urlaub/Planung & Buchung; A package holiday is often cheaper than separate bookings.; Eine Pauschalreise ist oft günstiger als einzelne Buchungen.
+ru-0097; Reiseveranstalter; tour operator; ; B2; Reisen/Urlaub/Planung & Buchung; The tour operator informed us about the schedule change.; Der Reiseveranstalter informierte uns über die Planänderung.
+ru-0098; Reiseversicherung; travel insurance; ; B2; Reisen/Urlaub/Planung & Buchung; A good travel insurance also covers lost luggage.; Eine gute Reiseversicherung deckt auch verlorenes Gepäck ab.
+ru-0099; Anzahlung; down payment; deposit; B2; Reisen/Urlaub/Planung & Buchung; We paid a down payment of two hundred euros.; Wir leisteten eine Anzahlung von zweihundert Euro.
+ru-0100; Zuschlag; surcharge; extra charge; B2; Reisen/Urlaub/Planung & Buchung; There is a surcharge for rooms with a sea view.; Für Zimmer mit Meerblick gibt es einen Zuschlag.
+ru-0101; Hochsaison; high season; peak season; B2; Reisen/Urlaub/Planung & Buchung; In high season the prices almost double here.; In der Hochsaison verdoppeln sich hier fast die Preise.
+ru-0102; Nebensaison; low season; off season; B2; Reisen/Urlaub/Planung & Buchung; In the low season the beaches are wonderfully empty.; In der Nebensaison sind die Strände herrlich leer.
+ru-0103; Übernachtung; overnight stay; ; B2; Reisen/Urlaub/Unterkunft; The price includes one overnight stay with breakfast.; Der Preis beinhaltet eine Übernachtung mit Frühstück.
+ru-0104; Verfügbarkeit; availability; ; B2; Reisen/Urlaub/Planung & Buchung; Please check the availability of rooms in June.; Bitte prüfen Sie die Verfügbarkeit von Zimmern im Juni.
+ru-0105; ausgebucht; fully booked; booked up; B2; Reisen/Urlaub/Unterkunft; The small hotel is fully booked until September.; Das kleine Hotel ist bis September ausgebucht.
+ru-0106; Zwischenstopp; stopover; layover; B2; Reisen/Urlaub/Flughafen; Our long flight has a stopover in Istanbul.; Unser langer Flug hat einen Zwischenstopp in Istanbul.
+ru-0107; Direktflug; direct flight; nonstop flight; B2; Reisen/Urlaub/Flughafen; There is no direct flight to this island.; Es gibt keinen Direktflug zu dieser Insel.
+ru-0108; verpassen; to miss; ; B2; Reisen/Urlaub/Unterwegs; We almost missed the last train to the coast.; Wir hätten fast den letzten Zug zur Küste verpasst.
+ru-0109; Durchsage; announcement; ; B2; Reisen/Urlaub/Flughafen; Please listen carefully to the announcement about your gate.; Bitte hören Sie genau auf die Durchsage zu Ihrem Gate.
+ru-0110; Entschädigung; compensation; ; B2; Reisen/Urlaub/Flughafen; The airline offered us compensation for the cancelled flight.; Die Fluggesellschaft bot uns eine Entschädigung für den gestrichenen Flug.
+ru-0111; Erstattung; refund; reimbursement; B2; Reisen/Urlaub/Planung & Buchung; We requested a refund for the cancelled tour.; Wir beantragten eine Erstattung für die abgesagte Tour.
+ru-0112; Visum; visa; ; B2; Reisen/Urlaub/Planung & Buchung; You need a visa for a longer stay.; Für einen längeren Aufenthalt braucht man ein Visum.
+ru-0113; Einreise; entry; ; B2; Reisen/Urlaub/Flughafen; The entry went quickly thanks to the new machines.; Die Einreise ging dank der neuen Automaten schnell.
+ru-0114; Zeitverschiebung; time difference; ; B2; Reisen/Urlaub/Unterwegs; The time difference to Tokyo is eight hours.; Die Zeitverschiebung nach Tokio beträgt acht Stunden.
+ru-0115; Jetlag; jet lag; ; B2; Reisen/Urlaub/Unterwegs; The jet lag hit me harder than expected.; Der Jetlag traf mich härter als erwartet.
+ru-0116; Mietwagen; rental car; hire car; B2; Reisen/Urlaub/Unterwegs; We picked up the rental car at the airport.; Wir holten den Mietwagen am Flughafen ab.
+ru-0117; Panne; breakdown; ; B2; Reisen/Urlaub/Unterwegs; We had a breakdown on a lonely mountain road.; Wir hatten eine Panne auf einer einsamen Bergstraße.
+ru-0118; Umleitung; diversion; detour; B2; Reisen/Urlaub/Unterwegs; The diversion cost us almost a whole hour.; Die Umleitung kostete uns fast eine ganze Stunde.
+ru-0119; Stau; traffic jam; congestion; B2; Reisen/Urlaub/Unterwegs; We were stuck in a traffic jam for hours.; Wir standen stundenlang im Stau.
+ru-0120; Raststätte; service station; rest stop; B2; Reisen/Urlaub/Unterwegs; We stopped at a service station for coffee.; Wir hielten an einer Raststätte für einen Kaffee.
+ru-0121; Wanderweg; hiking trail; footpath; B2; Reisen/Urlaub/Strand & Natur; The hiking trail starts behind the small chapel.; Der Wanderweg beginnt hinter der kleinen Kapelle.
+ru-0122; Gipfel; summit; peak; B2; Reisen/Urlaub/Strand & Natur; We reached the summit shortly before the sunset.; Wir erreichten den Gipfel kurz vor dem Sonnenuntergang.
+ru-0123; schnorcheln; to snorkel; ; B2; Reisen/Urlaub/Strand & Natur; You can snorkel between colourful fish here.; Hier kann man zwischen bunten Fischen schnorcheln.
+ru-0124; Gezeiten; tides; ; B2; Reisen/Urlaub/Strand & Natur; The tides change the beach twice a day.; Die Gezeiten verändern den Strand zweimal am Tag.
+ru-0125; Kreuzfahrt; cruise; ; B2; Reisen/Urlaub/Planung & Buchung; My parents are going on a cruise in spring.; Meine Eltern machen im Frühjahr eine Kreuzfahrt.
+ru-0126; Fernweh; wanderlust; itchy feet; C1; Reisen/Urlaub/Planung & Buchung; Every spring a quiet wanderlust takes hold of me.; Jedes Frühjahr packt mich ein leises Fernweh.
+ru-0127; erkunden; to explore; ; C1; Reisen/Urlaub/Sightseeing; We explored the island on foot and by boat.; Wir erkundeten die Insel zu Fuß und per Boot.
+ru-0128; Abstecher; side trip; detour; C1; Reisen/Urlaub/Unterwegs; A short side trip took us to a hidden bay.; Ein kurzer Abstecher führte uns in eine versteckte Bucht.
+ru-0129; Geheimtipp; insider tip; ; C1; Reisen/Urlaub/Sightseeing; The little fish restaurant is a real insider tip.; Das kleine Fischrestaurant ist ein echter Geheimtipp.
+ru-0130; abgelegen; remote; secluded; C1; Reisen/Urlaub/Unterkunft; The hut is remote but worth every step.; Die Hütte liegt abgelegen, ist aber jeden Schritt wert.
+ru-0131; malerisch; picturesque; ; C1; Reisen/Urlaub/Sightseeing; The picturesque village attracts painters from everywhere.; Das malerische Dorf zieht Maler von überall an.
+ru-0132; atemberaubend; breathtaking; stunning; C1; Reisen/Urlaub/Strand & Natur; The breathtaking cliffs drop steeply into the sea.; Die atemberaubenden Klippen fallen steil ins Meer ab.
+ru-0133; Anschlussflug; connecting flight; ; C1; Reisen/Urlaub/Flughafen; Our connecting flight leaves from another terminal today.; Unser Anschlussflug geht heute von einem anderen Terminal.
+ru-0134; Zollerklärung; customs declaration; ; C1; Reisen/Urlaub/Flughafen; Please fill in the customs declaration before landing.; Bitte füllen Sie die Zollerklärung vor der Landung aus.
+ru-0135; Gepäckaufbewahrung; left-luggage office; luggage storage; C1; Reisen/Urlaub/Gepäck; We left our bags at the left-luggage office.; Wir ließen unsere Taschen in der Gepäckaufbewahrung.
+ru-0136; Proviant; provisions; food supplies; C1; Reisen/Urlaub/Unterwegs; We bought provisions for the long train ride.; Wir kauften Proviant für die lange Zugfahrt.
+ru-0137; Etappe; leg; stage; C1; Reisen/Urlaub/Unterwegs; The first leg of the journey ends in Basel.; Die erste Etappe der Reise endet in Basel.
+ru-0138; beschaulich; tranquil; sedate; C1; Reisen/Urlaub/Sightseeing; Life in this tranquil little town moves slowly.; Das Leben in diesem beschaulichen Städtchen vergeht langsam.
+ru-0139; Idylle; idyll; ; C1; Reisen/Urlaub/Strand & Natur; The quiet bay is a perfect idyll in autumn.; Die stille Bucht ist im Herbst eine perfekte Idylle.
+ru-0140; Panorama; panorama; ; C1; Reisen/Urlaub/Strand & Natur; The panorama from the pass is worth the drive.; Das Panorama vom Pass ist die Fahrt wert.
+ru-0141; Klippe; cliff; ; C1; Reisen/Urlaub/Strand & Natur; A narrow path runs along the high cliff.; Ein schmaler Pfad verläuft an der hohen Klippe entlang.
+ru-0142; Reiseapotheke; travel first-aid kit; ; C1; Reisen/Urlaub/Gepäck; A small travel first-aid kit belongs in every suitcase.; Eine kleine Reiseapotheke gehört in jeden Koffer.
+ru-0143; verreisen; to go away on a trip; ; C1; Reisen/Urlaub/Planung & Buchung; We go away on a trip twice a year.; Wir verreisen zweimal im Jahr.
+ru-0144; Sommerfrische; summer retreat; ; C2; Reisen/Urlaub/Unterkunft; Grandmother still talks about the summer retreat at the lake.; Großmutter erzählt noch von der Sommerfrische am See.
+ru-0145; Odyssee; odyssey; ; C2; Reisen/Urlaub/Unterwegs; Our journey home became a true odyssey.; Unsere Heimreise wurde zu einer wahren Odyssee.
+ru-0146; Vagabund; vagabond; drifter; C2; Reisen/Urlaub/Unterwegs; He lived for years as a vagabond in the south.; Er lebte jahrelang als Vagabund im Süden.
+ru-0147; Weltenbummler; globetrotter; world traveller; C2; Reisen/Urlaub/Planung & Buchung; The old globetrotter has stories from every continent.; Der alte Weltenbummler hat Geschichten von jedem Kontinent.
+ru-0148; Sehnsuchtsort; dream destination; place of longing; C2; Reisen/Urlaub/Planung & Buchung; Lisbon remained her dream destination for many years.; Lissabon blieb viele Jahre ihr Sehnsuchtsort.
+ru-0149; Kleinod; gem; jewel, treasure; C2; Reisen/Urlaub/Sightseeing; The tiny chapel is a real hidden gem.; Die winzige Kapelle ist ein echtes verstecktes Kleinod.
+ru-0150; Reisefieber; pre-trip jitters; travel fever; C2; Reisen/Urlaub/Planung & Buchung; The night before departure the pre-trip jitters kept her awake.; In der Nacht vor der Abreise hielt sie das Reisefieber wach.

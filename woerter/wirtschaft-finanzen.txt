@@ -1,0 +1,151 @@
+id; Deutsch; Englisch; Weitere Antworten; Niveau; Themen; Beispiel Englisch; Beispiel Deutsch
+wf-0001; Geld; money; ; A1; Wirtschaft/Finanzen/Geld & Zahlung; How much money do you have with you?; Wie viel Geld hast du dabei?
+wf-0002; kaufen; to buy; to purchase; A1; Wirtschaft/Finanzen/Markt & Handel; We want to buy fresh bread today.; Wir wollen heute frisches Brot kaufen.
+wf-0003; verkaufen; to sell; ; A1; Wirtschaft/Finanzen/Markt & Handel; He wants to sell his old car.; Er will sein altes Auto verkaufen.
+wf-0004; bezahlen; to pay; ; A1; Wirtschaft/Finanzen/Geld & Zahlung; Can I pay with my card here?; Kann ich hier mit Karte bezahlen?
+wf-0005; Preis; price; ; A1; Wirtschaft/Finanzen/Markt & Handel; The price for coffee went up again.; Der Preis für Kaffee ist wieder gestiegen.
+wf-0006; teuer; expensive; costly; A1; Wirtschaft/Finanzen/Markt & Handel; This hotel is too expensive for us.; Dieses Hotel ist zu teuer für uns.
+wf-0007; billig; cheap; inexpensive; A1; Wirtschaft/Finanzen/Markt & Handel; Vegetables are cheap at the market today.; Gemüse ist heute auf dem Markt billig.
+wf-0008; Geschäft; shop; store, business; A1; Wirtschaft/Finanzen/Markt & Handel; The shop opens at nine in the morning.; Das Geschäft öffnet um neun Uhr morgens.
+wf-0009; arbeiten; to work; ; A1; Wirtschaft/Finanzen/Arbeit & Einkommen; She works in a bank in Frankfurt.; Sie arbeitet in einer Bank in Frankfurt.
+wf-0010; Firma; company; firm; A1; Wirtschaft/Finanzen/Unternehmen; My company has offices in three cities.; Meine Firma hat Büros in drei Städten.
+wf-0011; Bank; bank; ; A2; Wirtschaft/Finanzen/Bank; The bank closes at four in the afternoon.; Die Bank schließt um vier Uhr nachmittags.
+wf-0012; Konto; account; bank account; A2; Wirtschaft/Finanzen/Bank; I opened an account for my daughter.; Ich habe ein Konto für meine Tochter eröffnet.
+wf-0013; sparen; to save; to save money; A2; Wirtschaft/Finanzen/Bank; We save money for a long vacation.; Wir sparen Geld für einen langen Urlaub.
+wf-0014; Kunde; customer; client; A2; Wirtschaft/Finanzen/Markt & Handel; The customer asked for a smaller size.; Der Kunde fragte nach einer kleineren Größe.
+wf-0015; Rechnung; invoice; bill; A2; Wirtschaft/Finanzen/Unternehmen; Please send the invoice by the end of the month.; Bitte schicken Sie die Rechnung bis Ende des Monats.
+wf-0016; Wirtschaft; economy; ; A2; Wirtschaft/Finanzen/Konjunktur; The economy is growing slowly this year.; Die Wirtschaft wächst dieses Jahr langsam.
+wf-0017; Markt; market; ; A2; Wirtschaft/Finanzen/Markt & Handel; The market for electric cars is growing fast.; Der Markt für Elektroautos wächst schnell.
+wf-0018; Angebot; offer; supply, deal; A2; Wirtschaft/Finanzen/Markt & Handel; The offer is valid until Friday only.; Das Angebot gilt nur bis Freitag.
+wf-0019; verdienen; to earn; to make money; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; She earns good money as an engineer.; Sie verdient als Ingenieurin gutes Geld.
+wf-0020; Gehalt; salary; ; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; The salary is paid at the end of the month.; Das Gehalt wird am Ende des Monats gezahlt.
+wf-0021; Lohn; wage; wages, pay; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; The wage is paid in cash every week.; Der Lohn wird jede Woche bar ausgezahlt.
+wf-0022; Chef; boss; manager; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; My boss is on a business trip today.; Mein Chef ist heute auf Geschäftsreise.
+wf-0023; Mitarbeiter; employee; staff member; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; The company hired twenty new employees this spring.; Die Firma stellte in diesem Frühjahr zwanzig neue Mitarbeiter ein.
+wf-0024; Beruf; profession; job, occupation; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; Nursing is a demanding but important profession.; Pflege ist ein anstrengender, aber wichtiger Beruf.
+wf-0025; Arbeitgeber; employer; ; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; My employer pays for the train ticket.; Mein Arbeitgeber bezahlt das Zugticket.
+wf-0026; Steuer; tax; ; A2; Wirtschaft/Finanzen/Steuern; The tax on fuel rose again in January.; Die Steuer auf Kraftstoff stieg im Januar erneut.
+wf-0027; Kredit; loan; credit; A2; Wirtschaft/Finanzen/Bank; They took a loan to buy the house.; Sie nahmen einen Kredit auf, um das Haus zu kaufen.
+wf-0028; Zinsen; interest; ; A2; Wirtschaft/Finanzen/Bank; The bank pays very little interest at the moment.; Die Bank zahlt im Moment sehr wenig Zinsen.
+wf-0029; Versicherung; insurance; ; A2; Wirtschaft/Finanzen/Geld & Zahlung; The insurance paid for the water damage.; Die Versicherung bezahlte den Wasserschaden.
+wf-0030; Bargeld; cash; ; A2; Wirtschaft/Finanzen/Geld & Zahlung; I never carry much cash with me.; Ich habe nie viel Bargeld dabei.
+wf-0031; Kasse; checkout; till, cash register; A2; Wirtschaft/Finanzen/Markt & Handel; There was a long line at the checkout.; An der Kasse gab es eine lange Schlange.
+wf-0032; Quittung; receipt; ; A2; Wirtschaft/Finanzen/Geld & Zahlung; Please keep the receipt for the warranty.; Bitte bewahren Sie die Quittung für die Garantie auf.
+wf-0033; bestellen; to order; ; A2; Wirtschaft/Finanzen/Markt & Handel; We ordered new chairs for the office.; Wir haben neue Stühle für das Büro bestellt.
+wf-0034; liefern; to deliver; ; A2; Wirtschaft/Finanzen/Markt & Handel; The shop delivers furniture within five days.; Das Geschäft liefert Möbel innerhalb von fünf Tagen.
+wf-0035; Geldautomat; ATM; cash machine, cash dispenser; A2; Wirtschaft/Finanzen/Bank; There is an ATM next to the supermarket.; Neben dem Supermarkt gibt es einen Geldautomaten.
+wf-0036; Unternehmen; enterprise; company, business; B1; Wirtschaft/Finanzen/Unternehmen; The enterprise employs over five hundred people.; Das Unternehmen beschäftigt über fünfhundert Menschen.
+wf-0037; Unternehmer; entrepreneur; businessman; B1; Wirtschaft/Finanzen/Unternehmen; The entrepreneur opened his third restaurant this year.; Der Unternehmer eröffnete dieses Jahr sein drittes Restaurant.
+wf-0038; gründen; to found; to establish, to set up; B1; Wirtschaft/Finanzen/Unternehmen; They founded the company twenty years ago.; Sie gründeten die Firma vor zwanzig Jahren.
+wf-0039; Gewinn; profit; gain; B1; Wirtschaft/Finanzen/Unternehmen; The profit doubled within only two years.; Der Gewinn verdoppelte sich innerhalb von nur zwei Jahren.
+wf-0040; Verlust; loss; ; B1; Wirtschaft/Finanzen/Unternehmen; The airline reported a heavy loss this quarter.; Die Fluggesellschaft meldete in diesem Quartal einen hohen Verlust.
+wf-0041; Umsatz; turnover; sales; B1; Wirtschaft/Finanzen/Unternehmen; The turnover grew by ten percent last year.; Der Umsatz wuchs letztes Jahr um zehn Prozent.
+wf-0042; Kosten; costs; expenses; B1; Wirtschaft/Finanzen/Unternehmen; The costs for energy rose sharply again.; Die Kosten für Energie stiegen erneut stark.
+wf-0043; Einkommen; income; ; B1; Wirtschaft/Finanzen/Arbeit & Einkommen; Her income depends on the number of orders.; Ihr Einkommen hängt von der Zahl der Aufträge ab.
+wf-0044; Einnahmen; revenue; earnings, takings; B1; Wirtschaft/Finanzen/Unternehmen; The revenue of the museum comes mainly from tickets.; Die Einnahmen des Museums stammen hauptsächlich aus Eintrittskarten.
+wf-0045; Handel; trade; commerce; B1; Wirtschaft/Finanzen/Markt & Handel; Trade between the two countries is growing steadily.; Der Handel zwischen den beiden Ländern wächst stetig.
+wf-0046; handeln; to trade; to deal; B1; Wirtschaft/Finanzen/Markt & Handel; The firm trades in coffee and fine spices.; Die Firma handelt mit Kaffee und feinen Gewürzen.
+wf-0047; exportieren; to export; ; B1; Wirtschaft/Finanzen/Markt & Handel; Germany exports machines to the whole world.; Deutschland exportiert Maschinen in die ganze Welt.
+wf-0048; importieren; to import; ; B1; Wirtschaft/Finanzen/Markt & Handel; We import most of our fruit from Spain.; Wir importieren das meiste Obst aus Spanien.
+wf-0049; Lieferung; delivery; shipment, consignment; B1; Wirtschaft/Finanzen/Markt & Handel; The delivery arrived two days earlier than planned.; Die Lieferung kam zwei Tage früher als geplant.
+wf-0050; Ware; goods; merchandise; B1; Wirtschaft/Finanzen/Markt & Handel; The goods are checked before they leave the factory.; Die Ware wird geprüft, bevor sie das Werk verlässt.
+wf-0051; Lager; warehouse; stock, storage; B1; Wirtschaft/Finanzen/Markt & Handel; The warehouse is full before the holiday season.; Das Lager ist vor der Weihnachtszeit voll.
+wf-0052; Nachfrage; demand; ; B1; Wirtschaft/Finanzen/Markt & Handel; The demand for heat pumps is rising quickly.; Die Nachfrage nach Wärmepumpen steigt schnell.
+wf-0053; Wettbewerb; competition; contest; B1; Wirtschaft/Finanzen/Markt & Handel; Strong competition keeps the prices very low.; Starker Wettbewerb hält die Preise sehr niedrig.
+wf-0054; Konkurrent; competitor; rival; B1; Wirtschaft/Finanzen/Markt & Handel; Our biggest competitor lowered its prices yesterday.; Unser größter Konkurrent senkte gestern seine Preise.
+wf-0055; Rabatt; discount; reduction; B1; Wirtschaft/Finanzen/Markt & Handel; Students get a discount of twenty percent.; Studenten bekommen einen Rabatt von zwanzig Prozent.
+wf-0056; Schulden; debt; debts; B1; Wirtschaft/Finanzen/Bank; He paid off his debt within three years.; Er zahlte seine Schulden innerhalb von drei Jahren ab.
+wf-0057; leihen; to lend; to borrow; B1; Wirtschaft/Finanzen/Bank; Can you lend me fifty euros until Friday?; Kannst du mir fünfzig Euro bis Freitag leihen?
+wf-0058; überweisen; to transfer money; to transfer, to remit; B1; Wirtschaft/Finanzen/Bank; I transferred the rent to the landlord today.; Ich habe die Miete heute an den Vermieter überwiesen.
+wf-0059; Überweisung; bank transfer; transfer, remittance; B1; Wirtschaft/Finanzen/Bank; The bank transfer takes about one working day.; Die Überweisung dauert ungefähr einen Werktag.
+wf-0060; abheben; to withdraw; ; B1; Wirtschaft/Finanzen/Bank; She withdrew two hundred euros for the trip.; Sie hob zweihundert Euro für die Reise ab.
+wf-0061; einzahlen; to deposit; to pay in; B1; Wirtschaft/Finanzen/Bank; He deposits a small amount every single month.; Er zahlt jeden einzelnen Monat einen kleinen Betrag ein.
+wf-0062; Aktie; share; stock; B1; Wirtschaft/Finanzen/Investieren & Börse; The share lost five percent of its value.; Die Aktie verlor fünf Prozent ihres Wertes.
+wf-0063; Börse; stock exchange; stock market; B1; Wirtschaft/Finanzen/Investieren & Börse; The stock exchange reacted calmly to the news.; Die Börse reagierte gelassen auf die Nachrichten.
+wf-0064; investieren; to invest; ; B1; Wirtschaft/Finanzen/Investieren & Börse; They invest a part of their savings every year.; Sie investieren jedes Jahr einen Teil ihrer Ersparnisse.
+wf-0065; Investition; investment; ; B1; Wirtschaft/Finanzen/Investieren & Börse; The investment in solar panels paid off quickly.; Die Investition in Solaranlagen zahlte sich schnell aus.
+wf-0066; Anleger; investor; ; B1; Wirtschaft/Finanzen/Investieren & Börse; Many investors prefer safe government bonds these days.; Viele Anleger bevorzugen heutzutage sichere Staatsanleihen.
+wf-0067; Gebühr; fee; charge; B1; Wirtschaft/Finanzen/Bank; The bank charges a monthly fee for the account.; Die Bank verlangt eine monatliche Gebühr für das Konto.
+wf-0068; Budget; budget; ; B1; Wirtschaft/Finanzen/Geld & Zahlung; Our budget for the project is very tight.; Unser Budget für das Projekt ist sehr knapp.
+wf-0069; Filiale; branch; branch office; B1; Wirtschaft/Finanzen/Bank; The bank closed its branch in our town.; Die Bank schloss ihre Filiale in unserer Stadt.
+wf-0070; Vertrag; contract; agreement; B1; Wirtschaft/Finanzen/Unternehmen; Read the contract carefully before you sign it.; Lies den Vertrag sorgfältig, bevor du ihn unterschreibst.
+wf-0071; verhandeln; to negotiate; ; B1; Wirtschaft/Finanzen/Markt & Handel; We negotiated a better price with the supplier.; Wir verhandelten mit dem Lieferanten einen besseren Preis.
+wf-0072; Branche; industry; sector, line of business; B1; Wirtschaft/Finanzen/Unternehmen; The construction industry is looking for skilled workers.; Die Baubranche sucht händeringend Fachkräfte.
+wf-0073; Produktion; production; manufacturing; B1; Wirtschaft/Finanzen/Unternehmen; The production of the new model starts in May.; Die Produktion des neuen Modells beginnt im Mai.
+wf-0074; produzieren; to produce; to manufacture; B1; Wirtschaft/Finanzen/Unternehmen; The factory produces two thousand bicycles per week.; Die Fabrik produziert zweitausend Fahrräder pro Woche.
+wf-0075; Hersteller; manufacturer; producer, maker; B1; Wirtschaft/Finanzen/Unternehmen; The manufacturer offers a five year warranty.; Der Hersteller bietet fünf Jahre Garantie.
+wf-0076; Währung; currency; ; B2; Wirtschaft/Finanzen/Geld & Zahlung; The euro is the common currency of many countries.; Der Euro ist die gemeinsame Währung vieler Länder.
+wf-0077; Wechselkurs; exchange rate; ; B2; Wirtschaft/Finanzen/Geld & Zahlung; The exchange rate changed in our favor.; Der Wechselkurs änderte sich zu unseren Gunsten.
+wf-0078; Inflation; inflation; ; B2; Wirtschaft/Finanzen/Konjunktur; High inflation reduces the value of savings.; Hohe Inflation mindert den Wert der Ersparnisse.
+wf-0079; Zinssatz; interest rate; ; B2; Wirtschaft/Finanzen/Bank; The interest rate for mortgages rose again.; Der Zinssatz für Hypotheken stieg erneut.
+wf-0080; Konjunktur; economic cycle; business cycle, economic activity; B2; Wirtschaft/Finanzen/Konjunktur; The economic cycle is slowly picking up again.; Die Konjunktur zieht langsam wieder an.
+wf-0081; Aufschwung; upswing; boom, recovery; B2; Wirtschaft/Finanzen/Konjunktur; The upswing created thousands of new jobs.; Der Aufschwung schuf Tausende neue Arbeitsplätze.
+wf-0082; Abschwung; downturn; slump; B2; Wirtschaft/Finanzen/Konjunktur; The downturn hit the car industry hardest.; Der Abschwung traf die Autoindustrie am härtesten.
+wf-0083; Rezession; recession; ; B2; Wirtschaft/Finanzen/Konjunktur; The country slipped into a mild recession.; Das Land rutschte in eine milde Rezession.
+wf-0084; Wachstum; growth; ; B2; Wirtschaft/Finanzen/Konjunktur; Experts expect growth of two percent next year.; Experten erwarten nächstes Jahr ein Wachstum von zwei Prozent.
+wf-0085; Bruttoinlandsprodukt; gross domestic product; GDP; B2; Wirtschaft/Finanzen/Konjunktur; The gross domestic product rose slightly in autumn.; Das Bruttoinlandsprodukt stieg im Herbst leicht an.
+wf-0086; Arbeitslosenquote; unemployment rate; ; B2; Wirtschaft/Finanzen/Konjunktur; The unemployment rate fell below five percent.; Die Arbeitslosenquote fiel unter fünf Prozent.
+wf-0087; Aktienkurs; share price; stock price; B2; Wirtschaft/Finanzen/Investieren & Börse; The share price jumped after the good news.; Der Aktienkurs sprang nach den guten Nachrichten nach oben.
+wf-0088; Dividende; dividend; ; B2; Wirtschaft/Finanzen/Investieren & Börse; The company pays a dividend twice a year.; Das Unternehmen zahlt zweimal im Jahr eine Dividende.
+wf-0089; Rendite; return; yield; B2; Wirtschaft/Finanzen/Investieren & Börse; The fund achieved a return of six percent.; Der Fonds erzielte eine Rendite von sechs Prozent.
+wf-0090; Wertpapier; security; ; B2; Wirtschaft/Finanzen/Investieren & Börse; A bond is a security with fixed interest.; Eine Anleihe ist ein Wertpapier mit festen Zinsen.
+wf-0091; Anleihe; bond; ; B2; Wirtschaft/Finanzen/Investieren & Börse; The government issued a new ten year bond.; Der Staat gab eine neue zehnjährige Anleihe heraus.
+wf-0092; Fonds; fund; investment fund; B2; Wirtschaft/Finanzen/Investieren & Börse; The fund invests in companies around the world.; Der Fonds investiert in Unternehmen auf der ganzen Welt.
+wf-0093; Depot; securities account; custody account; B2; Wirtschaft/Finanzen/Investieren & Börse; She opened a securities account for her children.; Sie eröffnete ein Depot für ihre Kinder.
+wf-0094; Risiko; risk; ; B2; Wirtschaft/Finanzen/Investieren & Börse; Higher returns usually come with much higher risk.; Höhere Renditen gehen meist mit deutlich höherem Risiko einher.
+wf-0095; spekulieren; to speculate; ; B2; Wirtschaft/Finanzen/Investieren & Börse; He speculated on rising oil prices and lost.; Er spekulierte auf steigende Ölpreise und verlor.
+wf-0096; Vermögen; fortune; wealth, assets; B2; Wirtschaft/Finanzen/Investieren & Börse; She built her fortune with patience and discipline.; Sie baute ihr Vermögen mit Geduld und Disziplin auf.
+wf-0097; Insolvenz; insolvency; bankruptcy; B2; Wirtschaft/Finanzen/Unternehmen; The chain filed for insolvency last week.; Die Kette meldete letzte Woche Insolvenz an.
+wf-0098; pleite; broke; bankrupt; B2; Wirtschaft/Finanzen/Unternehmen; After the failed project the firm was broke.; Nach dem gescheiterten Projekt war die Firma pleite.
+wf-0099; Mehrwertsteuer; value added tax; VAT, sales tax; B2; Wirtschaft/Finanzen/Steuern; The value added tax on food is reduced.; Die Mehrwertsteuer auf Lebensmittel ist ermäßigt.
+wf-0100; Einkommensteuer; income tax; ; B2; Wirtschaft/Finanzen/Steuern; The income tax depends on how much you earn.; Die Einkommensteuer hängt davon ab, wie viel man verdient.
+wf-0101; Steuererklärung; tax return; tax declaration; B2; Wirtschaft/Finanzen/Steuern; I submit my tax return online every spring.; Ich reiche meine Steuererklärung jedes Frühjahr online ein.
+wf-0102; Steuerberater; tax advisor; tax consultant; B2; Wirtschaft/Finanzen/Steuern; My tax advisor found several deductions for me.; Mein Steuerberater fand mehrere Abzugsmöglichkeiten für mich.
+wf-0103; Finanzamt; tax office; ; B2; Wirtschaft/Finanzen/Steuern; The tax office sent a reminder in October.; Das Finanzamt schickte im Oktober eine Mahnung.
+wf-0104; absetzen; to deduct; to write off; B2; Wirtschaft/Finanzen/Steuern; You can deduct travel costs from your taxes.; Du kannst Fahrtkosten von der Steuer absetzen.
+wf-0105; Buchhaltung; accounting; bookkeeping; B2; Wirtschaft/Finanzen/Unternehmen; Clean accounting saves trouble with the tax office.; Eine saubere Buchhaltung erspart Ärger mit dem Finanzamt.
+wf-0106; Bilanz; balance sheet; ; B2; Wirtschaft/Finanzen/Unternehmen; The balance sheet shows all assets and liabilities.; Die Bilanz zeigt alle Vermögenswerte und Verbindlichkeiten.
+wf-0107; Hypothek; mortgage; ; B2; Wirtschaft/Finanzen/Bank; They took out a mortgage on the house.; Sie nahmen eine Hypothek auf das Haus auf.
+wf-0108; Aufsichtsrat; supervisory board; ; B2; Wirtschaft/Finanzen/Unternehmen; The supervisory board approved the planned merger.; Der Aufsichtsrat stimmte der geplanten Fusion zu.
+wf-0109; Vorstand; management board; executive board; B2; Wirtschaft/Finanzen/Unternehmen; The management board presented its new growth strategy.; Der Vorstand stellte seine neue Wachstumsstrategie vor.
+wf-0110; Geschäftsführer; managing director; CEO; B2; Wirtschaft/Finanzen/Unternehmen; The managing director explained the plan to the staff.; Der Geschäftsführer erklärte der Belegschaft den Plan.
+wf-0111; Übernahme; takeover; acquisition; B2; Wirtschaft/Finanzen/Unternehmen; The takeover of the rival surprised the markets.; Die Übernahme des Konkurrenten überraschte die Märkte.
+wf-0112; Fusion; merger; ; B2; Wirtschaft/Finanzen/Unternehmen; The merger created the largest bank in Europe.; Die Fusion schuf die größte Bank Europas.
+wf-0113; Lieferkette; supply chain; ; B2; Wirtschaft/Finanzen/Markt & Handel; A single missing part can stop the whole supply chain.; Ein einziges fehlendes Teil kann die ganze Lieferkette stoppen.
+wf-0114; Rohstoff; raw material; commodity; B2; Wirtschaft/Finanzen/Markt & Handel; Lithium is an important raw material for batteries.; Lithium ist ein wichtiger Rohstoff für Batterien.
+wf-0115; Subvention; subsidy; ; B2; Wirtschaft/Finanzen/Konjunktur; The subsidy for heat pumps was extended.; Die Subvention für Wärmepumpen wurde verlängert.
+wf-0116; Geldpolitik; monetary policy; ; C1; Wirtschaft/Finanzen/Konjunktur; The central bank tightened its monetary policy again.; Die Zentralbank straffte erneut ihre Geldpolitik.
+wf-0117; Fiskalpolitik; fiscal policy; ; C1; Wirtschaft/Finanzen/Konjunktur; Fiscal policy can soften an economic downturn.; Die Fiskalpolitik kann einen Wirtschaftsabschwung abfedern.
+wf-0118; Zentralbank; central bank; ; C1; Wirtschaft/Finanzen/Konjunktur; The central bank left the rates unchanged.; Die Zentralbank ließ die Zinsen unverändert.
+wf-0119; Leitzins; key interest rate; base rate; C1; Wirtschaft/Finanzen/Konjunktur; The key interest rate was lowered by a quarter point.; Der Leitzins wurde um einen Viertelpunkt gesenkt.
+wf-0120; Staatsverschuldung; national debt; government debt, sovereign debt; C1; Wirtschaft/Finanzen/Konjunktur; The national debt grew during the crisis years.; Die Staatsverschuldung wuchs in den Krisenjahren.
+wf-0121; Haushaltsdefizit; budget deficit; ; C1; Wirtschaft/Finanzen/Konjunktur; The budget deficit forced the government to save.; Das Haushaltsdefizit zwang die Regierung zum Sparen.
+wf-0122; Deflation; deflation; ; C1; Wirtschaft/Finanzen/Konjunktur; Deflation can be as dangerous as high inflation.; Deflation kann so gefährlich sein wie hohe Inflation.
+wf-0123; Kaufkraft; purchasing power; ; C1; Wirtschaft/Finanzen/Konjunktur; Rising prices weaken the purchasing power of households.; Steigende Preise schwächen die Kaufkraft der Haushalte.
+wf-0124; Wertschöpfung; value creation; added value; C1; Wirtschaft/Finanzen/Unternehmen; Most value creation happens in the final assembly.; Die meiste Wertschöpfung entsteht in der Endmontage.
+wf-0125; Liquidität; liquidity; ; C1; Wirtschaft/Finanzen/Unternehmen; The firm secured its liquidity with a credit line.; Die Firma sicherte ihre Liquidität mit einer Kreditlinie.
+wf-0126; Eigenkapital; equity; equity capital; C1; Wirtschaft/Finanzen/Unternehmen; The founders brought in equity of one million.; Die Gründer brachten eine Million Eigenkapital ein.
+wf-0127; Fremdkapital; debt capital; borrowed capital, outside capital; C1; Wirtschaft/Finanzen/Unternehmen; The project was financed mainly with debt capital.; Das Projekt wurde überwiegend mit Fremdkapital finanziert.
+wf-0128; Abschreibung; depreciation; write-off, amortization; C1; Wirtschaft/Finanzen/Unternehmen; The depreciation of the machines reduces the taxable profit.; Die Abschreibung der Maschinen senkt den steuerpflichtigen Gewinn.
+wf-0129; Rücklage; reserve; reserves, provision; C1; Wirtschaft/Finanzen/Unternehmen; The club built up a reserve for bad times.; Der Verein bildete eine Rücklage für schlechte Zeiten.
+wf-0130; Tilgung; repayment; paying off; C1; Wirtschaft/Finanzen/Bank; The monthly rate includes interest and repayment.; Die monatliche Rate enthält Zinsen und Tilgung.
+wf-0131; Bonität; creditworthiness; credit rating; C1; Wirtschaft/Finanzen/Bank; Your creditworthiness determines the conditions of the loan.; Deine Bonität bestimmt die Konditionen des Kredits.
+wf-0132; Bürgschaft; guarantee; surety; C1; Wirtschaft/Finanzen/Bank; His parents provided a guarantee for the loan.; Seine Eltern übernahmen eine Bürgschaft für den Kredit.
+wf-0133; Volatilität; volatility; ; C1; Wirtschaft/Finanzen/Investieren & Börse; High volatility makes many small investors very nervous.; Hohe Volatilität macht viele Kleinanleger sehr nervös.
+wf-0134; Diversifikation; diversification; risk spreading; C1; Wirtschaft/Finanzen/Investieren & Börse; Diversification protects a portfolio against large losses.; Diversifikation schützt ein Portfolio vor großen Verlusten.
+wf-0135; Hebelwirkung; leverage; leverage effect; C1; Wirtschaft/Finanzen/Investieren & Börse; Leverage multiplies both the gains and losses.; Die Hebelwirkung vervielfacht sowohl Gewinne als auch Verluste.
+wf-0136; Marktkapitalisierung; market capitalization; market cap; C1; Wirtschaft/Finanzen/Investieren & Börse; The market capitalization of the company tripled quickly.; Die Marktkapitalisierung des Unternehmens verdreifachte sich rasch.
+wf-0137; Wettbewerbsfähigkeit; competitiveness; ; C1; Wirtschaft/Finanzen/Markt & Handel; High energy prices hurt the competitiveness of the industry.; Hohe Energiepreise schaden der Wettbewerbsfähigkeit der Industrie.
+wf-0138; Regulierung; regulation; ; C1; Wirtschaft/Finanzen/Markt & Handel; Stricter regulation of the banks followed the crisis.; Nach der Krise folgte eine strengere Regulierung der Banken.
+wf-0139; Kartell; cartel; ; C1; Wirtschaft/Finanzen/Markt & Handel; The cartel secretly agreed on higher prices.; Das Kartell sprach heimlich höhere Preise ab.
+wf-0140; Monopol; monopoly; ; C1; Wirtschaft/Finanzen/Markt & Handel; The company held a monopoly on rail transport.; Das Unternehmen hatte ein Monopol auf den Schienenverkehr.
+wf-0141; Geldwäsche; money laundering; ; C2; Wirtschaft/Finanzen/Bank; The bank reported suspicious transactions as possible money laundering.; Die Bank meldete verdächtige Transaktionen als mögliche Geldwäsche.
+wf-0142; Insiderhandel; insider trading; ; C2; Wirtschaft/Finanzen/Investieren & Börse; The manager was convicted of insider trading.; Der Manager wurde wegen Insiderhandels verurteilt.
+wf-0143; Steuerhinterziehung; tax evasion; ; C2; Wirtschaft/Finanzen/Steuern; He went to prison for massive tax evasion.; Er kam wegen massiver Steuerhinterziehung ins Gefängnis.
+wf-0144; Verstaatlichung; nationalization; nationalisation; C2; Wirtschaft/Finanzen/Konjunktur; The nationalization of the energy group was controversial.; Die Verstaatlichung des Energiekonzerns war umstritten.
+wf-0145; Enteignung; expropriation; ; C2; Wirtschaft/Finanzen/Konjunktur; The expropriation of the land required fair compensation.; Die Enteignung des Grundstücks erforderte eine faire Entschädigung.
+wf-0146; Geldmenge; money supply; ; C2; Wirtschaft/Finanzen/Konjunktur; A growing money supply can fuel inflation strongly.; Eine wachsende Geldmenge kann die Inflation stark anheizen.
+wf-0147; Spekulationsblase; speculative bubble; bubble; C2; Wirtschaft/Finanzen/Investieren & Börse; The speculative bubble burst and prices collapsed.; Die Spekulationsblase platzte und die Kurse brachen ein.
+wf-0148; Opportunitätskosten; opportunity costs; opportunity cost; C2; Wirtschaft/Finanzen/Konjunktur; Every decision carries opportunity costs that we often ignore.; Jede Entscheidung hat Opportunitätskosten, die wir oft übersehen.
+wf-0149; Schuldenbremse; debt brake; ; C2; Wirtschaft/Finanzen/Konjunktur; The debt brake limits new borrowing by the state.; Die Schuldenbremse begrenzt die Neuverschuldung des Staates.
+wf-0150; Leitwährung; reserve currency; anchor currency; C2; Wirtschaft/Finanzen/Geld & Zahlung; The dollar remains the most important reserve currency.; Der Dollar bleibt die wichtigste Leitwährung der Welt.

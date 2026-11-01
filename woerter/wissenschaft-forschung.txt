@@ -1,0 +1,151 @@
+id; Deutsch; Englisch; Weitere Antworten; Niveau; Themen; Beispiel Englisch; Beispiel Deutsch
+wi-0001; Frage; question; ; A1; Wissenschaft/Forschung & Methode; Every good experiment starts with a simple question.; Jedes gute Experiment beginnt mit einer einfachen Frage.
+wi-0002; Antwort; answer; ; A1; Wissenschaft/Forschung & Methode; Science does not always give a quick answer.; Die Wissenschaft gibt nicht immer eine schnelle Antwort.
+wi-0003; Test; test; ; A1; Wissenschaft/Forschung & Methode; The new material passed every test in the lab.; Das neue Material bestand jeden Test im Labor.
+wi-0004; Wissenschaft; science; ; A2; Wissenschaft/Forschung & Methode; Science helps us understand the world better.; Die Wissenschaft hilft uns, die Welt besser zu verstehen.
+wi-0005; Wissenschaftler; scientist; researcher; A2; Wissenschaft/Forschung & Methode; The scientist explained his results in simple words.; Der Wissenschaftler erklärte seine Ergebnisse in einfachen Worten.
+wi-0006; Forschung; research; ; A2; Wissenschaft/Forschung & Methode; Research on new batteries is making fast progress.; Die Forschung an neuen Batterien macht schnelle Fortschritte.
+wi-0007; forschen; to research; to do research; B1; Wissenschaft/Forschung & Methode; She wants to research tropical diseases in Africa.; Sie möchte in Afrika zu Tropenkrankheiten forschen.
+wi-0008; Experiment; experiment; ; B1; Wissenschaft/Forschung & Methode; The experiment was repeated more than twenty times.; Das Experiment wurde mehr als zwanzigmal wiederholt.
+wi-0009; Labor; laboratory; lab; B1; Wissenschaft/Forschung & Methode; The samples are tested in a modern laboratory.; Die Proben werden in einem modernen Labor untersucht.
+wi-0010; entdecken; to discover; ; A2; Wissenschaft/Forschung & Methode; Researchers discover new species in the rainforest every year.; Forscher entdecken jedes Jahr neue Arten im Regenwald.
+wi-0011; Entdeckung; discovery; ; B1; Wissenschaft/Forschung & Methode; The discovery of penicillin saved millions of lives.; Die Entdeckung des Penicillins rettete Millionen von Leben.
+wi-0012; erfinden; to invent; ; A2; Wissenschaft/Forschung & Methode; He wants to invent a machine that cleans rivers.; Er will eine Maschine erfinden, die Flüsse reinigt.
+wi-0013; Erfindung; invention; ; B1; Wissenschaft/Forschung & Methode; The printing press was a groundbreaking invention.; Der Buchdruck war eine bahnbrechende Erfindung.
+wi-0014; Ergebnis; result; outcome; A2; Wissenschaft/Forschung & Methode; The result of the test surprised everyone.; Das Ergebnis des Tests überraschte alle.
+wi-0015; untersuchen; to examine; to investigate; B1; Wissenschaft/Forschung & Methode; The team will examine the water samples tomorrow.; Das Team wird die Wasserproben morgen untersuchen.
+wi-0016; Fachzeitschrift; scientific journal; academic journal; C1; Wissenschaft/Forschung & Methode; The study appeared in a leading scientific journal.; Die Studie erschien in einer führenden Fachzeitschrift.
+wi-0017; Theorie; theory; ; B1; Wissenschaft/Forschung & Methode; A good theory can be tested by experiments.; Eine gute Theorie lässt sich durch Experimente prüfen.
+wi-0018; Methode; method; ; B1; Wissenschaft/Forschung & Methode; The new method delivers much more accurate values.; Die neue Methode liefert viel genauere Werte.
+wi-0019; Beweis; proof; evidence; B1; Wissenschaft/Forschung & Methode; There is still no proof for this claim.; Für diese Behauptung gibt es noch keinen Beweis.
+wi-0020; beweisen; to prove; ; B1; Wissenschaft/Forschung & Methode; The data clearly prove that the method works.; Die Daten beweisen eindeutig, dass die Methode funktioniert.
+wi-0021; Hypothese; hypothesis; ; B2; Wissenschaft/Forschung & Methode; The results do not support the original hypothesis.; Die Ergebnisse stützen die ursprüngliche Hypothese nicht.
+wi-0022; Daten; data; ; B1; Wissenschaft/Forschung & Methode; The sensors collect data around the clock.; Die Sensoren sammeln rund um die Uhr Daten.
+wi-0023; messen; to measure; ; A2; Wissenschaft/Forschung & Methode; We measure the temperature three times a day.; Wir messen die Temperatur dreimal am Tag.
+wi-0024; Messgenauigkeit; measurement accuracy; precision; C2; Wissenschaft/Forschung & Methode; The new instrument doubles the measurement accuracy of the system.; Das neue Instrument verdoppelt die Messgenauigkeit des Systems.
+wi-0025; vergleichen; to compare; ; A2; Wissenschaft/Forschung & Methode; The students compare the results of both groups.; Die Schüler vergleichen die Ergebnisse beider Gruppen.
+wi-0026; Annahme; assumption; supposition; B2; Wissenschaft/Forschung & Methode; The model is based on a simple assumption.; Das Modell beruht auf einer einfachen Annahme.
+wi-0027; Erkenntnis; insight; finding; C1; Wissenschaft/Forschung & Methode; The study led to a surprising insight about sleep.; Die Studie führte zu einer überraschenden Erkenntnis über den Schlaf.
+wi-0028; Gutachten; expert report; expert opinion; C1; Wissenschaft/Forschung & Methode; The court requested an expert report from the university.; Das Gericht forderte ein Gutachten der Universität an.
+wi-0029; Versuchsreihe; series of experiments; test series; C1; Wissenschaft/Forschung & Methode; The long series of experiments confirmed the first results.; Die lange Versuchsreihe bestätigte die ersten Ergebnisse.
+wi-0030; Grundlagenforschung; basic research; fundamental research; C2; Wissenschaft/Forschung & Methode; Basic research often pays off only after decades.; Grundlagenforschung zahlt sich oft erst nach Jahrzehnten aus.
+wi-0031; Licht; light; ; A1; Wissenschaft/Physik; Light travels faster than anything else we know.; Licht ist schneller als alles andere, das wir kennen.
+wi-0032; Energie; energy; ; A2; Wissenschaft/Physik; The sun gives us light and energy.; Die Sonne gibt uns Licht und Energie.
+wi-0033; Kraft; force; power; B1; Wissenschaft/Physik; A strong force pulls the magnet to the metal.; Eine starke Kraft zieht den Magneten zum Metall.
+wi-0034; Geschwindigkeit; speed; velocity; B2; Wissenschaft/Physik; The rocket reaches an enormous speed within minutes.; Die Rakete erreicht innerhalb von Minuten eine enorme Geschwindigkeit.
+wi-0035; Temperatur; temperature; ; A2; Wissenschaft/Physik; The temperature in the lab must stay constant.; Die Temperatur im Labor muss konstant bleiben.
+wi-0036; Trägheit; inertia; ; C2; Wissenschaft/Physik; Because of its inertia the heavy ball keeps rolling.; Wegen seiner Trägheit rollt der schwere Ball weiter.
+wi-0037; Strom; electricity; electric current; A2; Wissenschaft/Physik; Wind turbines produce electricity for thousands of homes.; Windräder erzeugen Strom für tausende Haushalte.
+wi-0038; Magnet; magnet; ; B1; Wissenschaft/Physik; The magnet holds the notes on the fridge.; Der Magnet hält die Notizen am Kühlschrank.
+wi-0039; Welle; wave; ; B1; Wissenschaft/Physik; Sound spreads through the air as a wave.; Schall breitet sich als Welle in der Luft aus.
+wi-0040; Teilchen; particle; ; B2; Wissenschaft/Physik; Each tiny particle carries an electric charge.; Jedes winzige Teilchen trägt eine elektrische Ladung.
+wi-0041; Atom; atom; ; B1; Wissenschaft/Physik; A single atom is far too small to see.; Ein einzelnes Atom ist viel zu klein, um es zu sehen.
+wi-0042; Schwerkraft; gravity; gravitation; B2; Wissenschaft/Physik; Gravity keeps the moon on its path around the earth.; Die Schwerkraft hält den Mond auf seiner Bahn um die Erde.
+wi-0043; Druck; pressure; ; B1; Wissenschaft/Physik; The pressure in the tire is too low.; Der Druck im Reifen ist zu niedrig.
+wi-0044; Masse; mass; ; B2; Wissenschaft/Physik; The mass of an object does not change in space.; Die Masse eines Objekts ändert sich im Weltall nicht.
+wi-0045; Reibung; friction; ; B2; Wissenschaft/Physik; Friction slowly turns movement into heat.; Reibung verwandelt Bewegung langsam in Wärme.
+wi-0046; Strahlung; radiation; ; B2; Wissenschaft/Physik; The device measures radiation in the environment.; Das Gerät misst die Strahlung in der Umgebung.
+wi-0047; Leitfähigkeit; conductivity; ; C1; Wissenschaft/Physik; Copper is known for its excellent electrical conductivity.; Kupfer ist für seine ausgezeichnete elektrische Leitfähigkeit bekannt.
+wi-0048; Quantenmechanik; quantum mechanics; ; C1; Wissenschaft/Physik; Quantum mechanics describes the strange world of tiny particles.; Die Quantenmechanik beschreibt die seltsame Welt winziger Teilchen.
+wi-0049; Relativitätstheorie; theory of relativity; relativity; C1; Wissenschaft/Physik; Einstein published his theory of relativity in 1905.; Einstein veröffentlichte seine Relativitätstheorie im Jahr 1905.
+wi-0050; Spannung; voltage; tension; B2; Wissenschaft/Physik; The voltage in this cable is dangerously high.; Die Spannung in diesem Kabel ist gefährlich hoch.
+wi-0051; Brechung; refraction; ; C2; Wissenschaft/Physik; The refraction of light makes the straw look bent.; Die Brechung des Lichts lässt den Strohhalm gebogen aussehen.
+wi-0052; Wechselwirkung; interaction; interplay; C1; Wissenschaft/Physik; Researchers study the interaction between light and matter.; Forscher untersuchen die Wechselwirkung zwischen Licht und Materie.
+wi-0053; Wasser; water; ; A1; Wissenschaft/Chemie; Water boils at one hundred degrees Celsius.; Wasser kocht bei hundert Grad Celsius.
+wi-0054; Luft; air; ; A1; Wissenschaft/Chemie; The air in the mountains is clean and fresh.; Die Luft in den Bergen ist sauber und frisch.
+wi-0055; Feuer; fire; ; A1; Wissenschaft/Chemie; Fire needs oxygen to keep on burning.; Feuer braucht Sauerstoff, um weiterzubrennen.
+wi-0056; Gold; gold; ; A2; Wissenschaft/Chemie; Gold does not rust and stays shiny.; Gold rostet nicht und bleibt glänzend.
+wi-0057; Sauerstoff; oxygen; ; B1; Wissenschaft/Chemie; Our blood carries oxygen through the whole body.; Unser Blut transportiert Sauerstoff durch den ganzen Körper.
+wi-0058; Wasserstoff; hydrogen; ; B2; Wissenschaft/Chemie; Hydrogen could become an important fuel of the future.; Wasserstoff könnte ein wichtiger Kraftstoff der Zukunft werden.
+wi-0059; Kohlenstoff; carbon; ; B2; Wissenschaft/Chemie; Diamonds and coal both consist of pure carbon.; Diamanten und Kohle bestehen beide aus reinem Kohlenstoff.
+wi-0060; Säure; acid; ; B2; Wissenschaft/Chemie; The acid slowly dissolves the thin metal plate.; Die Säure löst die dünne Metallplatte langsam auf.
+wi-0061; Salz; salt; ; A2; Wissenschaft/Chemie; Salt dissolves quickly in warm water.; Salz löst sich schnell in warmem Wasser.
+wi-0062; Gas; gas; ; A2; Wissenschaft/Chemie; The balloon is filled with a light gas.; Der Ballon ist mit einem leichten Gas gefüllt.
+wi-0063; Flüssigkeit; liquid; fluid; B1; Wissenschaft/Chemie; Pour the liquid carefully into the glass tube.; Gieß die Flüssigkeit vorsichtig in das Glasrohr.
+wi-0064; Stoff; substance; material; B1; Wissenschaft/Chemie; This substance is harmless to humans and animals.; Dieser Stoff ist für Menschen und Tiere harmlos.
+wi-0065; Aggregatzustand; state of matter; physical state; C2; Wissenschaft/Chemie; Ice, water and steam are three states of matter.; Eis, Wasser und Dampf sind drei Aggregatzustände.
+wi-0066; Reaktion; reaction; ; B1; Wissenschaft/Chemie; The reaction produces heat and a new substance.; Die Reaktion erzeugt Wärme und einen neuen Stoff.
+wi-0067; Element; element; ; B1; Wissenschaft/Chemie; Oxygen is the most common element in the crust of the earth.; Sauerstoff ist das häufigste Element der Erdkruste.
+wi-0068; Molekül; molecule; ; B2; Wissenschaft/Chemie; A water molecule consists of three atoms.; Ein Wassermolekül besteht aus drei Atomen.
+wi-0069; Verbindung; compound; chemical compound; B2; Wissenschaft/Chemie; Salt is a compound of sodium and chlorine.; Salz ist eine Verbindung aus Natrium und Chlor.
+wi-0070; auflösen; to dissolve; ; B2; Wissenschaft/Chemie; The tablet dissolves completely in a glass of water.; Die Tablette löst sich vollständig in einem Glas Wasser auf.
+wi-0071; Katalysator; catalyst; ; C1; Wissenschaft/Chemie; A catalyst speeds up the reaction without being used up.; Ein Katalysator beschleunigt die Reaktion, ohne verbraucht zu werden.
+wi-0072; Destillation; distillation; ; C2; Wissenschaft/Chemie; Distillation separates alcohol from water by careful heating.; Die Destillation trennt Alkohol durch vorsichtiges Erhitzen vom Wasser.
+wi-0073; Tier; animal; ; A1; Wissenschaft/Biologie; The elephant is the largest land animal.; Der Elefant ist das größte Landtier.
+wi-0074; Pflanze; plant; ; A1; Wissenschaft/Biologie; This plant needs a lot of light and water.; Diese Pflanze braucht viel Licht und Wasser.
+wi-0075; Natur; nature; ; A2; Wissenschaft/Biologie; We spend the weekend out in nature.; Wir verbringen das Wochenende draußen in der Natur.
+wi-0076; Zelle; cell; ; B1; Wissenschaft/Biologie; Every living being consists of tiny cells.; Jedes Lebewesen besteht aus winzigen Zellen.
+wi-0077; Gehirn; brain; ; A2; Wissenschaft/Biologie; The human brain never really rests.; Das menschliche Gehirn ruht nie wirklich.
+wi-0078; Herz; heart; ; A2; Wissenschaft/Biologie; A healthy heart beats about seventy times per minute.; Ein gesundes Herz schlägt etwa siebzigmal pro Minute.
+wi-0079; Blut; blood; ; A2; Wissenschaft/Biologie; Blood transports oxygen to every part of the body.; Das Blut transportiert Sauerstoff in jeden Teil des Körpers.
+wi-0080; Bakterie; bacterium; germ; B1; Wissenschaft/Biologie; A single bacterium can multiply very quickly.; Eine einzelne Bakterie kann sich sehr schnell vermehren.
+wi-0081; Virus; virus; ; B1; Wissenschaft/Biologie; The virus spreads mainly through the air.; Das Virus verbreitet sich hauptsächlich über die Luft.
+wi-0082; Gen; gene; ; B2; Wissenschaft/Biologie; A single gene can influence eye color.; Ein einzelnes Gen kann die Augenfarbe beeinflussen.
+wi-0083; Vererbung; heredity; inheritance; B2; Wissenschaft/Biologie; Heredity explains why children resemble their parents.; Die Vererbung erklärt, warum Kinder ihren Eltern ähneln.
+wi-0084; Evolution; evolution; ; B2; Wissenschaft/Biologie; Evolution works over many millions of years.; Die Evolution wirkt über viele Millionen Jahre.
+wi-0085; Art; species; ; B1; Wissenschaft/Biologie; This rare species lives only on one island.; Diese seltene Art lebt nur auf einer Insel.
+wi-0086; Lebensraum; habitat; ; B2; Wissenschaft/Biologie; The frogs are losing their natural habitat.; Die Frösche verlieren ihren natürlichen Lebensraum.
+wi-0087; Ökosystem; ecosystem; ; B2; Wissenschaft/Biologie; A forest is a complex ecosystem with countless species.; Ein Wald ist ein komplexes Ökosystem mit unzähligen Arten.
+wi-0088; Stoffwechsel; metabolism; ; C1; Wissenschaft/Biologie; Regular exercise speeds up the human metabolism.; Regelmäßige Bewegung beschleunigt den menschlichen Stoffwechsel.
+wi-0089; Photosynthese; photosynthesis; ; B2; Wissenschaft/Biologie; Green plants produce oxygen and sugar through photosynthesis.; Grüne Pflanzen erzeugen durch Photosynthese Sauerstoff und Zucker.
+wi-0090; Fortpflanzung; reproduction; ; B2; Wissenschaft/Biologie; The reproduction of these fish depends on water temperature.; Die Fortpflanzung dieser Fische hängt von der Wassertemperatur ab.
+wi-0091; Einzeller; single-celled organism; unicellular organism; C2; Wissenschaft/Biologie; Under the microscope we observed a single-celled organism.; Unter dem Mikroskop beobachteten wir einen Einzeller.
+wi-0092; Artenvielfalt; biodiversity; species diversity; C1; Wissenschaft/Biologie; The biodiversity of the rainforest is under serious threat.; Die Artenvielfalt des Regenwaldes ist ernsthaft bedroht.
+wi-0093; Erbgut; genetic material; genome; C1; Wissenschaft/Biologie; The virus inserts its genetic material into the cell.; Das Virus schleust sein Erbgut in die Zelle ein.
+wi-0094; Zellkern; cell nucleus; nucleus; C1; Wissenschaft/Biologie; The cell nucleus contains almost all genetic information.; Der Zellkern enthält fast die gesamte Erbinformation.
+wi-0095; Zahl; number; ; A1; Wissenschaft/Mathematik; Seven is my favorite number in every game.; Sieben ist in jedem Spiel meine Lieblingszahl.
+wi-0096; rechnen; to calculate; to do arithmetic; A2; Wissenschaft/Mathematik; The pupils calculate without a calculator today.; Die Schüler rechnen heute ohne Taschenrechner.
+wi-0097; zählen; to count; ; A2; Wissenschaft/Mathematik; The little boy can count to one hundred.; Der kleine Junge kann bis hundert zählen.
+wi-0098; Prozent; percent; percentage; A2; Wissenschaft/Mathematik; About seventy percent of the earth is covered by water.; Etwa siebzig Prozent der Erde sind von Wasser bedeckt.
+wi-0099; Hälfte; half; ; A2; Wissenschaft/Mathematik; Half of the students chose the second answer.; Die Hälfte der Schüler wählte die zweite Antwort.
+wi-0100; Dreieck; triangle; ; A2; Wissenschaft/Mathematik; A triangle always has three corners and three sides.; Ein Dreieck hat immer drei Ecken und drei Seiten.
+wi-0101; Kreis; circle; ; A2; Wissenschaft/Mathematik; Draw a circle with a radius of five centimeters.; Zeichne einen Kreis mit einem Radius von fünf Zentimetern.
+wi-0102; Quadrat; square; ; B1; Wissenschaft/Mathematik; A square has four sides of equal length.; Ein Quadrat hat vier gleich lange Seiten.
+wi-0103; Gleichung; equation; ; B1; Wissenschaft/Mathematik; Solve the equation and check your result.; Löse die Gleichung und überprüfe dein Ergebnis.
+wi-0104; Bruch; fraction; ; B1; Wissenschaft/Mathematik; A fraction like one half is easy to picture.; Ein Bruch wie ein Halb ist leicht vorstellbar.
+wi-0105; Durchschnitt; average; mean; B1; Wissenschaft/Mathematik; The average of the three grades is two.; Der Durchschnitt der drei Noten ist zwei.
+wi-0106; Wahrscheinlichkeit; probability; likelihood; B2; Wissenschaft/Mathematik; The probability of rain tomorrow is very low.; Die Wahrscheinlichkeit für Regen morgen ist sehr gering.
+wi-0107; Integralrechnung; integral calculus; calculus; C2; Wissenschaft/Mathematik; Integral calculus is used to compute areas under curves.; Mit der Integralrechnung berechnet man Flächen unter Kurven.
+wi-0108; Fläche; area; surface; B1; Wissenschaft/Mathematik; Calculate the area of the rectangle in square meters.; Berechne die Fläche des Rechtecks in Quadratmetern.
+wi-0109; Volumen; volume; ; B2; Wissenschaft/Mathematik; The volume of the cube is eight cubic centimeters.; Das Volumen des Würfels beträgt acht Kubikzentimeter.
+wi-0110; Winkel; angle; ; B1; Wissenschaft/Mathematik; A right angle has exactly ninety degrees.; Ein rechter Winkel hat genau neunzig Grad.
+wi-0111; Statistik; statistics; ; B2; Wissenschaft/Mathematik; The statistics show a clear trend over ten years.; Die Statistik zeigt einen klaren Trend über zehn Jahre.
+wi-0112; unendlich; infinite; endless; B2; Wissenschaft/Mathematik; The series of prime numbers is infinite.; Die Reihe der Primzahlen ist unendlich.
+wi-0113; Ableitung; derivative; ; C2; Wissenschaft/Mathematik; The derivative describes how fast a function changes.; Die Ableitung beschreibt, wie schnell sich eine Funktion ändert.
+wi-0114; Primzahl; prime number; ; C1; Wissenschaft/Mathematik; Seventeen is a prime number and so is thirteen.; Siebzehn ist eine Primzahl und dreizehn auch.
+wi-0115; Arzt; doctor; physician; A1; Wissenschaft/Medizin; The doctor examines the patient very carefully.; Der Arzt untersucht den Patienten sehr gründlich.
+wi-0116; Krankheit; illness; disease, sickness; A2; Wissenschaft/Medizin; The illness spread quickly through the school.; Die Krankheit verbreitete sich schnell in der Schule.
+wi-0117; Medikament; medication; medicine, drug; A2; Wissenschaft/Medizin; Take the medication twice a day after meals.; Nimm das Medikament zweimal täglich nach dem Essen.
+wi-0118; Impfung; vaccination; immunization; B1; Wissenschaft/Medizin; The vaccination protects children against dangerous diseases.; Die Impfung schützt Kinder vor gefährlichen Krankheiten.
+wi-0119; Heilung; cure; healing; B2; Wissenschaft/Medizin; Researchers are still looking for a cure for the disease.; Forscher suchen noch nach einer Heilung für die Krankheit.
+wi-0120; heilen; to heal; to cure; B1; Wissenschaft/Medizin; This small wound will heal within two weeks.; Diese kleine Wunde heilt innerhalb von zwei Wochen.
+wi-0121; Diagnose; diagnosis; ; B1; Wissenschaft/Medizin; The doctor made the correct diagnosis very quickly.; Der Arzt stellte die richtige Diagnose sehr schnell.
+wi-0122; Behandlung; treatment; therapy; B1; Wissenschaft/Medizin; The new treatment shows very good results.; Die neue Behandlung zeigt sehr gute Ergebnisse.
+wi-0123; Symptom; symptom; sign; B1; Wissenschaft/Medizin; Fever is often the first symptom of an infection.; Fieber ist oft das erste Symptom einer Infektion.
+wi-0124; Nebenwirkung; side effect; ; B2; Wissenschaft/Medizin; Headache is a rare side effect of this drug.; Kopfschmerzen sind eine seltene Nebenwirkung dieses Medikaments.
+wi-0125; klinische Studie; clinical trial; clinical study; C1; Wissenschaft/Medizin; The new drug is being tested in a clinical trial.; Das neue Medikament wird in einer klinischen Studie getestet.
+wi-0126; Wirkstoff; active ingredient; active substance; C1; Wissenschaft/Medizin; The active ingredient was discovered in a tropical plant.; Der Wirkstoff wurde in einer tropischen Pflanze entdeckt.
+wi-0127; Immunsystem; immune system; ; B2; Wissenschaft/Medizin; A strong immune system fights off most infections.; Ein starkes Immunsystem wehrt die meisten Infektionen ab.
+wi-0128; Ansteckung; infection; contagion; B2; Wissenschaft/Medizin; Wash your hands regularly to avoid an infection.; Wasch dir regelmäßig die Hände, um eine Ansteckung zu vermeiden.
+wi-0129; Narkose; anesthesia; general anesthesia; C1; Wissenschaft/Medizin; The patient woke up slowly from the anesthesia.; Der Patient wachte langsam aus der Narkose auf.
+wi-0130; Placebo; placebo; ; C1; Wissenschaft/Medizin; Half of the participants only received a placebo.; Die Hälfte der Teilnehmer erhielt nur ein Placebo.
+wi-0131; Sonne; sun; ; A1; Wissenschaft/Raumfahrt; The sun rises in the east every morning.; Die Sonne geht jeden Morgen im Osten auf.
+wi-0132; Mond; moon; ; A1; Wissenschaft/Raumfahrt; The moon looks especially large tonight.; Der Mond sieht heute Nacht besonders groß aus.
+wi-0133; Stern; star; ; A1; Wissenschaft/Raumfahrt; You can see every star clearly in the desert.; In der Wüste sieht man jeden Stern deutlich.
+wi-0134; Erde; earth; Earth; A1; Wissenschaft/Raumfahrt; The earth circles the sun once a year.; Die Erde umkreist die Sonne einmal im Jahr.
+wi-0135; Himmel; sky; heavens; A2; Wissenschaft/Raumfahrt; The night sky over the mountains was full of stars.; Der Nachthimmel über den Bergen war voller Sterne.
+wi-0136; Rakete; rocket; ; A2; Wissenschaft/Raumfahrt; The rocket launched early in the morning.; Die Rakete startete früh am Morgen.
+wi-0137; Planet; planet; ; A2; Wissenschaft/Raumfahrt; Mars is the fourth planet from the sun.; Der Mars ist der vierte Planet von der Sonne aus.
+wi-0138; Weltraum; space; outer space; B1; Wissenschaft/Raumfahrt; In space there is no air to breathe.; Im Weltraum gibt es keine Luft zum Atmen.
+wi-0139; Astronaut; astronaut; ; A2; Wissenschaft/Raumfahrt; The astronaut trained for the mission for years.; Der Astronaut trainierte jahrelang für die Mission.
+wi-0140; Raumschiff; spaceship; spacecraft; B1; Wissenschaft/Raumfahrt; The spaceship docked at the station after two days.; Das Raumschiff dockte nach zwei Tagen an der Station an.
+wi-0141; Satellit; satellite; ; B1; Wissenschaft/Raumfahrt; The satellite sends weather data to earth every hour.; Der Satellit sendet stündlich Wetterdaten zur Erde.
+wi-0142; Umlaufbahn; orbit; ; B2; Wissenschaft/Raumfahrt; The probe entered the orbit of Jupiter.; Die Sonde trat in die Umlaufbahn des Jupiters ein.
+wi-0143; Schwerelosigkeit; weightlessness; zero gravity; C1; Wissenschaft/Raumfahrt; In weightlessness even simple tasks become difficult.; In der Schwerelosigkeit werden selbst einfache Aufgaben schwierig.
+wi-0144; Sternwarte; observatory; ; C1; Wissenschaft/Raumfahrt; The old observatory stands on a hill outside town.; Die alte Sternwarte steht auf einem Hügel vor der Stadt.
+wi-0145; Teleskop; telescope; ; B1; Wissenschaft/Raumfahrt; Through the telescope we saw the rings of Saturn.; Durch das Teleskop sahen wir die Ringe des Saturns.
+wi-0146; Galaxie; galaxy; ; B2; Wissenschaft/Raumfahrt; Our galaxy contains many billions of stars.; Unsere Galaxie enthält viele Milliarden Sterne.
+wi-0147; Sonnensystem; solar system; ; B2; Wissenschaft/Raumfahrt; Eight planets orbit the sun in our solar system.; Acht Planeten umkreisen die Sonne in unserem Sonnensystem.
+wi-0148; Schubkraft; thrust; ; C2; Wissenschaft/Raumfahrt; The engines deliver enough thrust for the heavy launch.; Die Triebwerke liefern genug Schubkraft für den schweren Start.
+wi-0149; Raumstation; space station; ; B2; Wissenschaft/Raumfahrt; The crew lived on the space station for six months.; Die Besatzung lebte sechs Monate auf der Raumstation.
+wi-0150; Lichtjahr; light year; ; B2; Wissenschaft/Raumfahrt; The next star is more than four light years away.; Der nächste Stern ist über vier Lichtjahre entfernt.

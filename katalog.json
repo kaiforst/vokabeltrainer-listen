@@ -207,6 +207,12 @@
       "version": 1,
       "count": 1200,
       "lang": "it"
+    },
+    {
+      "id": "reden",
+      "file": "woerter/reden.txt",
+      "version": 1,
+      "count": 135
     }
   ],
   "lists": [
@@ -1031,10 +1037,58 @@
           "Grundwortschatz"
         ]
       }
+    },
+    {
+      "id": "rede-king-1963",
+      "name": "Martin Luther King – I Have a Dream",
+      "description": "Rede beim Marsch auf Washington, 28. August 1963",
+      "count": 45,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Reden/King – I Have a Dream (1963)"
+        ]
+      },
+      "media": {
+        "title": "Rede auf YouTube ansehen",
+        "url": "https://www.youtube.com/watch?v=smEqnnklfYs"
+      }
+    },
+    {
+      "id": "rede-kennedy-1961",
+      "name": "John F. Kennedy – Antrittsrede",
+      "description": "Amtseinführung, 20. Januar 1961: „Ask not what your country can do for you“",
+      "count": 46,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Reden/Kennedy – Antrittsrede (1961)"
+        ]
+      },
+      "media": {
+        "title": "Rede auf YouTube ansehen (C-SPAN)",
+        "url": "https://www.youtube.com/watch?v=BLmiOEk59n8"
+      }
+    },
+    {
+      "id": "rede-obama-2004",
+      "name": "Barack Obama – Parteitagsrede 2004",
+      "description": "Keynote beim Parteitag der Demokraten, 27. Juli 2004",
+      "count": 46,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Reden/Obama – Parteitagsrede (2004)"
+        ]
+      },
+      "media": {
+        "title": "Rede auf YouTube ansehen (C-SPAN)",
+        "url": "https://www.youtube.com/watch?v=eWynt87PaJ0"
+      }
     }
   ],
   "areas": {
-    "version": 4,
+    "version": 5,
     "tree": [
       {
         "name": "Einstieg",
@@ -1154,6 +1208,21 @@
           "wetter-umwelt",
           "medien-kommunikation",
           "wirtschaft-finanzen"
+        ]
+      },
+      {
+        "name": "Reden, Lieder & Filme",
+        "lists": [],
+        "areas": [
+          {
+            "name": "Berühmte Reden",
+            "lists": [
+              "rede-king-1963",
+              "rede-kennedy-1961",
+              "rede-obama-2004"
+            ],
+            "areas": []
+          }
         ]
       }
     ]

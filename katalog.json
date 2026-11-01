@@ -144,6 +144,48 @@
       "file": "woerter/wissenschaft-forschung.txt",
       "version": 1,
       "count": 150
+    },
+    {
+      "id": "business-beschaffung",
+      "file": "woerter/business-beschaffung.txt",
+      "version": 1,
+      "count": 150
+    },
+    {
+      "id": "business-marketing-vertrieb",
+      "file": "woerter/business-marketing-vertrieb.txt",
+      "version": 1,
+      "count": 150
+    },
+    {
+      "id": "business-personalwesen",
+      "file": "woerter/business-personalwesen.txt",
+      "version": 1,
+      "count": 150
+    },
+    {
+      "id": "business-projektmanagement",
+      "file": "woerter/business-projektmanagement.txt",
+      "version": 1,
+      "count": 150
+    },
+    {
+      "id": "business-rechnungswesen",
+      "file": "woerter/business-rechnungswesen.txt",
+      "version": 1,
+      "count": 150
+    },
+    {
+      "id": "business-verhandlungen",
+      "file": "woerter/business-verhandlungen.txt",
+      "version": 1,
+      "count": 150
+    },
+    {
+      "id": "business-vertrag",
+      "file": "woerter/business-vertrag.txt",
+      "version": 1,
+      "count": 150
     }
   ],
   "lists": [
@@ -192,8 +234,8 @@
       "id": "arbeit-beruf",
       "name": "Arbeit & Beruf",
       "description": "A1–C2, mit Beispielsätzen",
-      "count": 152,
-      "version": 1,
+      "count": 155,
+      "version": 2,
       "filter": {
         "topics": [
           "Arbeit"
@@ -216,8 +258,8 @@
       "id": "einkaufen-geld",
       "name": "Einkaufen & Geld",
       "description": "A1–C2, mit Beispielsätzen",
-      "count": 153,
-      "version": 1,
+      "count": 157,
+      "version": 2,
       "filter": {
         "topics": [
           "Alltag/Einkaufen"
@@ -368,8 +410,8 @@
       "id": "reisen-urlaub",
       "name": "Reisen & Urlaub",
       "description": "A1–C2, mit Beispielsätzen",
-      "count": 151,
-      "version": 1,
+      "count": 152,
+      "version": 2,
       "filter": {
         "topics": [
           "Reisen/Urlaub"
@@ -457,6 +499,90 @@
       "filter": {
         "topics": [
           "Wissenschaft"
+        ]
+      }
+    },
+    {
+      "id": "business-beschaffung",
+      "name": "Business English – Beschaffung",
+      "description": "A1–C2, mit Beispielsätzen",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Business/Beschaffung"
+        ]
+      }
+    },
+    {
+      "id": "business-marketing-vertrieb",
+      "name": "Business English – Marketing & Vertrieb",
+      "description": "A1–C2, mit Beispielsätzen",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Business/Marketing & Vertrieb"
+        ]
+      }
+    },
+    {
+      "id": "business-personalwesen",
+      "name": "Business English – Personalwesen",
+      "description": "A1–C2, mit Beispielsätzen",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Business/Personal"
+        ]
+      }
+    },
+    {
+      "id": "business-projektmanagement",
+      "name": "Business English – Projektmanagement",
+      "description": "A1–C2, mit Beispielsätzen",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Business/Projektmanagement"
+        ]
+      }
+    },
+    {
+      "id": "business-rechnungswesen",
+      "name": "Business English – Rechnungswesen",
+      "description": "A1–C2, mit Beispielsätzen",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Business/Rechnungswesen"
+        ]
+      }
+    },
+    {
+      "id": "business-verhandlungen",
+      "name": "Business English – Verhandlungen",
+      "description": "A1–C2, mit Beispielsätzen",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Business/Verhandlung"
+        ]
+      }
+    },
+    {
+      "id": "business-vertrag",
+      "name": "Business English – Verträge",
+      "description": "A1–C2, mit Beispielsätzen",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Business/Vertrag"
         ]
       }
     }

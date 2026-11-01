@@ -1034,20 +1034,24 @@
     }
   ],
   "areas": {
-    "version": 3,
+    "version": 4,
     "tree": [
       {
         "name": "Einstieg",
-        "lists": [
-          "grundwortschatz-start",
-          "grundwortschatz-a2",
-          "grundwortschatz-b1",
-          "grundwortschatz-b2",
-          "grundwortschatz-c1",
-          "grundwortschatz-c2",
-          "grundwortschatz"
-        ],
+        "lists": [],
         "areas": [
+          {
+            "name": "Englisch",
+            "lists": [
+              "grundwortschatz-start",
+              "grundwortschatz-a2",
+              "grundwortschatz-b1",
+              "grundwortschatz-b2",
+              "grundwortschatz-c1",
+              "grundwortschatz-c2",
+              "grundwortschatz"
+            ]
+          },
           {
             "name": "Französisch",
             "lists": [

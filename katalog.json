@@ -211,8 +211,20 @@
     {
       "id": "reden",
       "file": "woerter/reden.txt",
-      "version": 1,
+      "version": 3,
       "count": 135
+    },
+    {
+      "id": "filme",
+      "file": "woerter/filme.txt",
+      "version": 1,
+      "count": 80
+    },
+    {
+      "id": "lieder",
+      "file": "woerter/lieder.txt",
+      "version": 1,
+      "count": 46
     }
   ],
   "lists": [
@@ -1059,7 +1071,7 @@
       "name": "John F. Kennedy – Antrittsrede",
       "description": "Amtseinführung, 20. Januar 1961: „Ask not what your country can do for you“",
       "count": 46,
-      "version": 1,
+      "version": 2,
       "filter": {
         "topics": [
           "Reden/Kennedy – Antrittsrede (1961)"
@@ -1085,10 +1097,122 @@
         "title": "Rede auf YouTube ansehen (C-SPAN)",
         "url": "https://www.youtube.com/watch?v=eWynt87PaJ0"
       }
+    },
+    {
+      "id": "film-dead-poets-society",
+      "name": "Dead Poets Society – Carpe diem",
+      "description": "Der Club der toten Dichter (1989): Keatings erste Stunde",
+      "count": 20,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Filme/Dead Poets Society – Carpe diem"
+        ]
+      },
+      "media": {
+        "title": "Szene auf YouTube suchen",
+        "url": "https://www.youtube.com/results?search_query=Dead+Poets+Society+Carpe+Diem+scene"
+      }
+    },
+    {
+      "id": "film-erin-brockovich",
+      "name": "Erin Brockovich – Das Angebot",
+      "description": "Erin Brockovich (2000): das Vergleichsangebot der Anwälte",
+      "count": 20,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Filme/Erin Brockovich – Das Angebot"
+        ]
+      },
+      "media": {
+        "title": "Szene auf YouTube ansehen (Movieclips)",
+        "url": "https://www.youtube.com/watch?v=BGX4nMrnxg0"
+      }
+    },
+    {
+      "id": "film-a-few-good-men",
+      "name": "A Few Good Men – Die Wahrheit",
+      "description": "Eine Frage der Ehre (1992): Jessup im Zeugenstand",
+      "count": 20,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Filme/A Few Good Men – Die Wahrheit"
+        ]
+      },
+      "media": {
+        "title": "Szene auf YouTube suchen",
+        "url": "https://www.youtube.com/results?search_query=A+Few+Good+Men+You+can%27t+handle+the+truth+scene"
+      }
+    },
+    {
+      "id": "lied-imagine",
+      "name": "John Lennon – Imagine",
+      "description": "Wörter zum Lied (1971)",
+      "count": 15,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Lieder/John Lennon – Imagine"
+        ]
+      },
+      "media": {
+        "title": "Musikvideo auf YouTube ansehen",
+        "url": "https://www.youtube.com/watch?v=YkgkThdzX-8"
+      }
+    },
+    {
+      "id": "lied-someone-like-you",
+      "name": "Adele – Someone Like You",
+      "description": "Wörter zum Lied (2011)",
+      "count": 15,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Lieder/Adele – Someone Like You"
+        ]
+      },
+      "media": {
+        "title": "Musikvideo auf YouTube ansehen",
+        "url": "https://www.youtube.com/watch?v=hLQl3WQQoQ0"
+      }
+    },
+    {
+      "id": "lied-bohemian-rhapsody",
+      "name": "Queen – Bohemian Rhapsody",
+      "description": "Wörter zum Lied (1975)",
+      "count": 16,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Lieder/Queen – Bohemian Rhapsody"
+        ]
+      },
+      "media": {
+        "title": "Musikvideo auf YouTube ansehen",
+        "url": "https://www.youtube.com/watch?v=fJ9rUzIMcZQ"
+      }
+    },
+    {
+      "id": "film-the-newsroom",
+      "name": "The Newsroom – Nicht das großartigste Land",
+      "description": "The Newsroom (2012), erste Folge: Will McAvoys Antwort auf dem Podium",
+      "count": 20,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Filme/The Newsroom – Nicht das großartigste Land"
+        ]
+      },
+      "media": {
+        "title": "Szene auf YouTube suchen",
+        "url": "https://www.youtube.com/results?search_query=The+Newsroom+America+is+not+the+greatest+country+scene"
+      }
     }
   ],
   "areas": {
-    "version": 5,
+    "version": 7,
     "tree": [
       {
         "name": "Einstieg",
@@ -1220,6 +1344,25 @@
               "rede-king-1963",
               "rede-kennedy-1961",
               "rede-obama-2004"
+            ],
+            "areas": []
+          },
+          {
+            "name": "Filmszenen",
+            "lists": [
+              "film-dead-poets-society",
+              "film-erin-brockovich",
+              "film-a-few-good-men",
+              "film-the-newsroom"
+            ],
+            "areas": []
+          },
+          {
+            "name": "Lieder",
+            "lists": [
+              "lied-imagine",
+              "lied-someone-like-you",
+              "lied-bohemian-rhapsody"
             ],
             "areas": []
           }

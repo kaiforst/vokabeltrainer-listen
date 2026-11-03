@@ -227,6 +227,12 @@
       "count": 46
     },
     {
+      "id": "lesen-grundschule",
+      "file": "woerter/lesen-grundschule.txt",
+      "version": 1,
+      "count": 129
+    },
+    {
       "id": "fr-business-airport",
       "file": "woerter/fr-business-airport.txt",
       "version": 1,
@@ -1828,6 +1834,36 @@
       }
     },
     {
+      "id": "lesen-klasse-2-woerter",
+      "name": "Lesen Klasse 2: Wörter",
+      "description": "Wörter nach Rechtschreibmuster (ie, ei, au, sch, ck, Umlaute …) und Verben in verschiedenen Formen",
+      "task": "read",
+      "promptLang": "de",
+      "answerLang": "de",
+      "count": 99,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Lesen/Klasse 2/Wörter"
+        ]
+      }
+    },
+    {
+      "id": "lesen-klasse-2-saetze",
+      "name": "Lesen Klasse 2: Sätze",
+      "description": "Kurze Sätze zu Schule, Familie, Tieren, Wetter und Freizeit",
+      "task": "read",
+      "promptLang": "de",
+      "answerLang": "de",
+      "count": 30,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Lesen/Klasse 2/Sätze"
+        ]
+      }
+    },
+    {
       "id": "film-the-newsroom",
       "name": "The Newsroom – Nicht das großartigste Land",
       "description": "The Newsroom (2012), erste Folge: Will McAvoys Antwort auf dem Podium",
@@ -3042,7 +3078,7 @@
     }
   ],
   "areas": {
-    "version": 8,
+    "version": 9,
     "tree": [
       {
         "name": "Einstieg",
@@ -3279,6 +3315,14 @@
             "areas": []
           }
         ]
+      },
+      {
+        "name": "Lesen üben (Deutsch)",
+        "lists": [
+          "lesen-klasse-2-woerter",
+          "lesen-klasse-2-saetze"
+        ],
+        "areas": []
       }
     ]
   }

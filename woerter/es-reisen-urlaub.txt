@@ -1,0 +1,152 @@
+# Spanisch: Reisen & Urlaub
+id; Deutsch; Spanisch; Weitere Antworten; Niveau; Themen; Beispiel Spanisch; Beispiel Deutsch
+es-ru-0001; Reise; el viaje; ; A1; Reisen/Urlaub/Planung & Buchung; Nuestro viaje a la costa empieza el lunes.; Unsere Reise an die Küste beginnt am Montag.
+es-ru-0002; reisen; viajar; ; A1; Reisen/Urlaub/Planung & Buchung; Viajamos a Italia todos los veranos.; Wir reisen jeden Sommer nach Italien.
+es-ru-0003; Urlaub; las vacaciones; ; A1; Reisen/Urlaub/Planung & Buchung; Mis vacaciones empiezan el viernes que viene después del trabajo.; Mein Urlaub beginnt nächsten Freitag nach der Arbeit.
+es-ru-0004; Hotel; el hotel; ; A1; Reisen/Urlaub/Unterkunft; El hotel está justo al lado de la playa.; Das Hotel liegt direkt am Strand.
+es-ru-0005; Zimmer; la habitación; el cuarto; A1; Reisen/Urlaub/Unterkunft; Nuestra habitación tiene vistas al mar.; Unser Zimmer hat Blick auf das Meer.
+es-ru-0006; Koffer; la maleta; la valija; A1; Reisen/Urlaub/Gepäck; Mi maleta pesa mucho por los libros.; Mein Koffer ist wegen der Bücher schwer.
+es-ru-0007; Tasche; la bolsa; el bolso; A1; Reisen/Urlaub/Gepäck; La bolsa con los billetes está en el coche.; Die Tasche mit den Tickets liegt im Auto.
+es-ru-0008; Flugzeug; el avión; ; A1; Reisen/Urlaub/Flughafen; El avión sale a las seis de la mañana.; Das Flugzeug fliegt um sechs Uhr morgens ab.
+es-ru-0009; fliegen; volar; ir en avión; A1; Reisen/Urlaub/Flughafen; El sábado temprano volamos a Lisboa.; Wir fliegen am Samstag früh nach Lissabon.
+es-ru-0010; Flughafen; el aeropuerto; ; A1; Reisen/Urlaub/Flughafen; El aeropuerto está a treinta minutos de la ciudad.; Der Flughafen liegt dreißig Minuten von der Stadt entfernt.
+es-ru-0011; Zug; el tren; ; A1; Reisen/Urlaub/Unterwegs, Reisen/Verkehr/Bus & Bahn; El tren a Viena sale del andén cinco.; Der Zug nach Wien fährt von Gleis fünf.
+es-ru-0012; Bahnhof; la estación; la estación de tren; A1; Reisen/Urlaub/Unterwegs; Mañana quedamos a las diez en la estación.; Wir treffen uns morgen um zehn am Bahnhof.
+es-ru-0013; Auto; el coche; el carro, el auto; A1; Reisen/Urlaub/Unterwegs; Vamos a la montaña en coche.; Wir fahren mit dem Auto in die Berge.
+es-ru-0014; Bus; el autobús; el bus, el autocar; A1; Reisen/Urlaub/Unterwegs; El autobús al casco antiguo pasa cada diez minutos.; Der Bus in die Altstadt kommt alle zehn Minuten.
+es-ru-0015; Fahrkarte; el billete; el boleto, el pasaje; A1; Reisen/Urlaub/Unterwegs; Un billete hasta el lago cuesta cuatro euros.; Eine Fahrkarte zum See kostet vier Euro.
+es-ru-0016; Stadt; la ciudad; ; A1; Reisen/Urlaub/Sightseeing; La ciudad antigua es preciosa con la luz del atardecer.; Die alte Stadt ist im Abendlicht wunderschön.
+es-ru-0017; Land; el país; ; A1; Reisen/Urlaub/Planung & Buchung; Portugal es un país maravilloso para ir de vacaciones.; Portugal ist ein wunderbares Land für einen Urlaub.
+es-ru-0018; Meer; el mar; ; A1; Reisen/Urlaub/Strand & Natur; En septiembre el mar está templado y tranquilo.; Das Meer ist im September warm und ruhig.
+es-ru-0019; Strand; la playa; ; A1; Reisen/Urlaub/Strand & Natur; Los niños juegan en la playa todo el día.; Die Kinder spielen den ganzen Tag am Strand.
+es-ru-0020; Sonne; el sol; ; A1; Reisen/Urlaub/Strand & Natur; Aquí el sol brilla casi todos los días.; Die Sonne scheint hier fast jeden Tag.
+es-ru-0021; Karte; el mapa; ; A1; Reisen/Urlaub/Unterwegs; Sin mapa estaríamos perdidos aquí.; Ohne Karte wären wir hier verloren.
+es-ru-0022; Kamera; la cámara; la cámara de fotos; A1; Reisen/Urlaub/Sightseeing; Llévate la cámara, hoy la luz es perfecta.; Nimm die Kamera mit, das Licht ist heute perfekt.
+es-ru-0023; Taxi; el taxi; ; A1; Reisen/Urlaub/Unterwegs; Cogemos un taxi del aeropuerto al hotel.; Wir nehmen ein Taxi vom Flughafen zum Hotel.
+es-ru-0024; Straße; la calle; la carretera; A1; Reisen/Urlaub/Unterwegs; Esta calle lleva directamente al puerto viejo.; Diese Straße führt direkt zum alten Hafen.
+es-ru-0025; ankommen; llegar; ; A1; Reisen/Urlaub/Unterwegs; Llegamos a Roma tarde por la noche.; Wir kommen spät am Abend in Rom an.
+es-ru-0026; buchen; reservar; ; A2; Reisen/Urlaub/Planung & Buchung; Hemos reservado una habitación con vistas al mar.; Wir haben ein Zimmer mit Meerblick gebucht.
+es-ru-0027; Reisebüro; la agencia de viajes; ; A2; Reisen/Urlaub/Planung & Buchung; La agencia de viajes nos encontró un vuelo barato.; Das Reisebüro fand einen günstigen Flug für uns.
+es-ru-0028; planen; planear; planificar; A2; Reisen/Urlaub/Planung & Buchung; Estamos planeando un largo viaje por España.; Wir planen eine lange Reise durch Spanien.
+es-ru-0029; packen; hacer la maleta; empacar; A2; Reisen/Urlaub/Gepäck; Siempre hago la maleta la noche anterior.; Ich packe meinen Koffer immer am Abend vorher.
+es-ru-0030; Gepäck; el equipaje; ; A2; Reisen/Urlaub/Gepäck; Nuestro equipaje pesaba demasiado para el vuelo.; Unser Gepäck war zu schwer für den Flug.
+es-ru-0031; Rucksack; la mochila; ; A2; Reisen/Urlaub/Gepäck; Viaja por Asia solo con una mochila.; Er reist nur mit einem Rucksack durch Asien.
+es-ru-0032; Pass; el pasaporte; ; A2; Reisen/Urlaub/Flughafen; Tenga preparado su pasaporte en la puerta de embarque, por favor.; Bitte halten Sie Ihren Pass am Gate bereit.
+es-ru-0033; Flug; el vuelo; ; A2; Reisen/Urlaub/Flughafen; El vuelo a Atenas dura unas tres horas.; Der Flug nach Athen dauert etwa drei Stunden.
+es-ru-0034; Abflug; la salida; el despegue; A2; Reisen/Urlaub/Flughafen; Hoy la salida se retrasa cuarenta minutos.; Der Abflug verspätet sich heute um vierzig Minuten.
+es-ru-0035; Ankunft; la llegada; ; A2; Reisen/Urlaub/Flughafen; Nuestra llegada está prevista para el domingo temprano.; Unsere Ankunft ist für Sonntag früh geplant.
+es-ru-0036; Grenze; la frontera; ; A2; Reisen/Urlaub/Unterwegs; Cruzamos la frontera temprano por la mañana.; Wir überquerten die Grenze früh am Morgen.
+es-ru-0037; Ausland; el extranjero; ; A2; Reisen/Urlaub/Planung & Buchung; Trabaja un año entero en el extranjero.; Sie arbeitet ein ganzes Jahr im Ausland.
+es-ru-0038; Tourist; el turista; la turista; A2; Reisen/Urlaub/Sightseeing; En agosto la ciudad está llena de turistas.; Im August ist die Stadt voller Touristen.
+es-ru-0039; Reiseführer; la guía de viaje; la guía turística, la guía; A2; Reisen/Urlaub/Sightseeing; La guía de viaje recomienda un paseo junto al río.; Der Reiseführer empfiehlt einen Spaziergang am Fluss.
+es-ru-0040; besuchen; visitar; ; A2; Reisen/Urlaub/Sightseeing; Visitamos el viejo castillo que hay sobre la ciudad.; Wir besuchen die alte Burg über der Stadt.
+es-ru-0041; Museum; el museo; ; A2; Reisen/Urlaub/Sightseeing, Kultur; El primer domingo el museo es gratis.; Das Museum ist am ersten Sonntag kostenlos.
+es-ru-0042; Kirche; la iglesia; ; A2; Reisen/Urlaub/Sightseeing; La pequeña iglesia de la colina es muy antigua.; Die kleine Kirche auf dem Hügel ist sehr alt.
+es-ru-0043; Schloss; el castillo; el palacio; A2; Reisen/Urlaub/Sightseeing; En verano el castillo abre sus jardines.; Das Schloss öffnet im Sommer seine Gärten.
+es-ru-0044; Insel; la isla; ; A2; Reisen/Urlaub/Strand & Natur; La pequeña isla solo tiene un hotelito.; Die kleine Insel hat nur ein kleines Hotel.
+es-ru-0045; See; el lago; ; A2; Reisen/Urlaub/Strand & Natur; Nadamos en el lago antes del desayuno.; Wir schwimmen vor dem Frühstück im See.
+es-ru-0046; Berg; la montaña; el monte; A2; Reisen/Urlaub/Strand & Natur; Desde la montaña se ve todo el valle.; Vom Berg sieht man das ganze Tal.
+es-ru-0047; Wald; el bosque; ; A2; Reisen/Urlaub/Strand & Natur; Un sendero estrecho atraviesa el bosque oscuro.; Ein schmaler Pfad führt durch den dunklen Wald.
+es-ru-0048; Sonnencreme; la crema solar; el protector solar, el bloqueador; A2; Reisen/Urlaub/Strand & Natur; No olvides la crema solar para los niños.; Vergiss die Sonnencreme für die Kinder nicht.
+es-ru-0049; Badeanzug; el traje de baño; el bañador; A2; Reisen/Urlaub/Strand & Natur; Su nuevo traje de baño es azul con rayas blancas.; Ihr neuer Badeanzug ist blau mit weißen Streifen.
+es-ru-0050; Handtuch; la toalla; ; A2; Reisen/Urlaub/Strand & Natur; Otra vez nos hemos dejado la toalla grande en el hotel.; Wir haben das große Handtuch wieder im Hotel vergessen.
+es-ru-0051; Schlüssel; la llave; ; A2; Reisen/Urlaub/Unterkunft; La llave de la habitación está en recepción.; Der Schlüssel für das Zimmer liegt an der Rezeption.
+es-ru-0052; Rezeption; la recepción; ; A2; Reisen/Urlaub/Unterkunft; La recepción está abierta día y noche.; Die Rezeption ist Tag und Nacht geöffnet.
+es-ru-0053; Frühstück; el desayuno; ; A2; Reisen/Urlaub/Unterkunft; El desayuno se sirve en la terraza hasta las diez.; Das Frühstück gibt es bis zehn auf der Terrasse.
+es-ru-0054; übernachten; pasar la noche; alojarse, dormir; A2; Reisen/Urlaub/Unterkunft; Pasamos la noche en una pequeña pensión tranquila.; Wir übernachten in einer kleinen ruhigen Pension.
+es-ru-0055; mieten; alquilar; rentar; A2; Reisen/Urlaub/Unterwegs; Alquilamos bicis y recorremos la costa.; Wir mieten Fahrräder und fahren an der Küste entlang.
+es-ru-0056; Fahrrad; la bicicleta; la bici; A2; Reisen/Urlaub/Unterwegs; El hotel presta una bicicleta gratis a cada huésped.; Das Hotel leiht jedem Gast kostenlos ein Fahrrad.
+es-ru-0057; Verspätung; el retraso; la demora; A2; Reisen/Urlaub/Unterwegs; El tren lleva veinte minutos de retraso.; Der Zug hat zwanzig Minuten Verspätung.
+es-ru-0058; umsteigen; hacer transbordo; cambiar de tren; A2; Reisen/Urlaub/Unterwegs; Hoy tenemos que hacer transbordo en Colonia.; Wir müssen heute in Köln umsteigen.
+es-ru-0059; Haltestelle; la parada; ; A2; Reisen/Urlaub/Unterwegs; La parada está justo delante del museo.; Die Haltestelle ist direkt vor dem Museum.
+es-ru-0060; Stadtplan; el plano de la ciudad; el plano, el mapa de la ciudad; A2; Reisen/Urlaub/Sightseeing; El hotel da a cada huésped un plano de la ciudad gratis.; Das Hotel gibt jedem Gast einen kostenlosen Stadtplan.
+es-ru-0061; Unterkunft; el alojamiento; ; B1; Reisen/Urlaub/Unterkunft; Encontramos un alojamiento barato cerca del casco antiguo.; Wir fanden eine günstige Unterkunft nahe der Altstadt.
+es-ru-0062; Ferienwohnung; el apartamento turístico; el apartamento de vacaciones; B1; Reisen/Urlaub/Unterkunft; El apartamento turístico tiene balcón y una cocina pequeña.; Die Ferienwohnung hat einen Balkon und eine kleine Küche.
+es-ru-0063; Jugendherberge; el albergue juvenil; el albergue; B1; Reisen/Urlaub/Unterkunft; El albergue juvenil es barato y muy limpio.; Die Jugendherberge ist günstig und sehr sauber.
+es-ru-0064; Pension; la pensión; el hostal; B1; Reisen/Urlaub/Unterkunft; La pensión la lleva una amable pareja de ancianos.; Die Pension wird von einem freundlichen alten Paar geführt.
+es-ru-0065; Doppelzimmer; la habitación doble; ; B1; Reisen/Urlaub/Unterkunft; Una habitación doble con desayuno cuesta noventa euros.; Ein Doppelzimmer mit Frühstück kostet neunzig Euro.
+es-ru-0066; Einzelzimmer; la habitación individual; ; B1; Reisen/Urlaub/Unterkunft; La última habitación individual ya estaba ocupada ayer.; Das letzte Einzelzimmer war gestern schon vergeben.
+es-ru-0067; Halbpension; la media pensión; ; B1; Reisen/Urlaub/Unterkunft; Elegimos media pensión porque al mediodía comemos fuera.; Wir wählten Halbpension, weil wir mittags unterwegs essen.
+es-ru-0068; Aussicht; las vistas; la vista; B1; Reisen/Urlaub/Unterkunft; Las vistas desde la terraza son sencillamente fantásticas.; Die Aussicht von der Terrasse ist einfach fantastisch.
+es-ru-0069; Reiseziel; el destino; el destino de viaje; B1; Reisen/Urlaub/Planung & Buchung; Todavía no hemos elegido destino para el otoño.; Wir haben noch kein Reiseziel für den Herbst gewählt.
+es-ru-0070; Buchung; la reserva; ; B1; Reisen/Urlaub/Planung & Buchung; Su reserva se confirmó esta mañana por correo electrónico.; Ihre Buchung wurde heute Morgen per E-Mail bestätigt.
+es-ru-0071; stornieren; cancelar; anular; B1; Reisen/Urlaub/Planung & Buchung; Puede cancelar el viaje gratis hasta mayo.; Sie können die Reise bis Mai kostenlos stornieren.
+es-ru-0072; Sicherheitskontrolle; el control de seguridad; ; B1; Reisen/Urlaub/Flughafen; La cola en el control de seguridad era sorprendentemente corta.; Die Schlange an der Sicherheitskontrolle war überraschend kurz.
+es-ru-0073; Bordkarte; la tarjeta de embarque; el pase de abordar; B1; Reisen/Urlaub/Flughafen; Enseñe su tarjeta de embarque y su pasaporte, por favor.; Bitte zeigen Sie Ihre Bordkarte und Ihren Pass.
+es-ru-0074; einchecken; hacer el check-in; facturar, registrarse; B1; Reisen/Urlaub/Flughafen; Puede hacer el check-in por internet dos días antes.; Sie können zwei Tage vorher online einchecken.
+es-ru-0075; Handgepäck; el equipaje de mano; ; B1; Reisen/Urlaub/Gepäck; Solo se permite una pieza de equipaje de mano.; Nur ein Stück Handgepäck ist erlaubt.
+es-ru-0076; Gepäckausgabe; la recogida de equipajes; la cinta de equipajes; B1; Reisen/Urlaub/Flughafen; Esperamos una hora en la recogida de equipajes.; Wir warteten eine Stunde an der Gepäckausgabe.
+es-ru-0077; Zoll; la aduana; ; B1; Reisen/Urlaub/Flughafen; En la aduana nadie quiso ver nuestras bolsas.; Beim Zoll wollte niemand unsere Taschen sehen.
+es-ru-0078; Flugbegleiter; el auxiliar de vuelo; la auxiliar de vuelo, el azafato, la azafata; B1; Reisen/Urlaub/Flughafen; El auxiliar de vuelo nos trajo agua y café.; Der Flugbegleiter brachte uns Wasser und Kaffee.
+es-ru-0079; Landung; el aterrizaje; ; B1; Reisen/Urlaub/Flughafen; El aterrizaje fue suave a pesar del fuerte viento.; Die Landung war trotz des starken Windes sanft.
+es-ru-0080; landen; aterrizar; ; B1; Reisen/Urlaub/Flughafen; Esta noche aterrizamos en Madrid poco después de medianoche.; Wir landen heute kurz nach Mitternacht in Madrid.
+es-ru-0081; abheben; despegar; ; B1; Reisen/Urlaub/Flughafen; El avión despegó con un pequeño retraso.; Das Flugzeug hob mit kurzer Verspätung ab.
+es-ru-0082; Notausgang; la salida de emergencia; ; B1; Reisen/Urlaub/Flughafen; La salida de emergencia está señalizada con carteles verdes.; Der Notausgang ist mit grünen Schildern markiert.
+es-ru-0083; Sehenswürdigkeit; el lugar de interés; la atracción turística, el monumento; B1; Reisen/Urlaub/Sightseeing; La catedral es el lugar de interés más famoso de la ciudad.; Die Kathedrale ist die berühmteste Sehenswürdigkeit der Stadt.
+es-ru-0084; Denkmal; el monumento; ; B1; Reisen/Urlaub/Sightseeing; El monumento de la plaza rinde homenaje a un poeta local.; Das Denkmal auf dem Platz ehrt einen hiesigen Dichter.
+es-ru-0085; Altstadt; el casco antiguo; el centro histórico, el casco viejo; B1; Reisen/Urlaub/Sightseeing; Nos perdimos por las callejuelas del casco antiguo.; Wir verliefen uns in den engen Gassen der Altstadt.
+es-ru-0086; Führung; la visita guiada; ; B1; Reisen/Urlaub/Sightseeing; La visita guiada por el castillo dura una hora.; Die Führung durch das Schloss dauert eine Stunde.
+es-ru-0087; Souvenir; el recuerdo; el souvenir; B1; Reisen/Urlaub/Sightseeing; Compró un pequeño recuerdo para sus compañeros.; Sie kaufte ein kleines Souvenir für ihre Kollegen.
+es-ru-0088; Sonnenbrand; la quemadura solar; la quemadura de sol; B1; Reisen/Urlaub/Strand & Natur; Después de una sola tarde ya tenía una quemadura solar.; Nach einem Nachmittag hatte er schon einen Sonnenbrand.
+es-ru-0089; Liegestuhl; la tumbona; la hamaca, el camastro; B1; Reisen/Urlaub/Strand & Natur; A las nueve todas las tumbonas de la piscina estaban ocupadas.; Jeder Liegestuhl am Pool war um neun besetzt.
+es-ru-0090; Sonnenschirm; la sombrilla; ; B1; Reisen/Urlaub/Strand & Natur; Alquilamos una sombrilla para todo el día.; Wir mieteten einen Sonnenschirm für den ganzen Tag.
+es-ru-0091; Welle; la ola; ; B1; Reisen/Urlaub/Strand & Natur; Cada ola era demasiado alta para los niños.; Jede Welle war zu hoch für die Kinder.
+es-ru-0092; Küste; la costa; ; B1; Reisen/Urlaub/Strand & Natur; La carretera sigue la costa durante cien kilómetros.; Die Straße folgt der Küste hundert Kilometer lang.
+es-ru-0093; Hafen; el puerto; ; B1; Reisen/Urlaub/Sightseeing; Por la noche el puerto está lleno de vida.; Abends ist der Hafen voller Leben.
+es-ru-0094; Fähre; el ferri; el ferry, el transbordador; B1; Reisen/Urlaub/Unterwegs, Reisen/Verkehr/Bus & Bahn; El ferri a la isla sale dos veces al día.; Die Fähre zur Insel fährt zweimal am Tag.
+es-ru-0095; Route; la ruta; el itinerario, el recorrido; B1; Reisen/Urlaub/Unterwegs; Planeamos nuestra ruta por pequeñas carreteras comarcales.; Wir planten unsere Route über kleine Landstraßen.
+es-ru-0096; Pauschalreise; el viaje organizado; el paquete turístico; B2; Reisen/Urlaub/Planung & Buchung; Un viaje organizado suele ser más barato que reservar por separado.; Eine Pauschalreise ist oft günstiger als einzelne Buchungen.
+es-ru-0097; Reiseveranstalter; el operador turístico; el turoperador; B2; Reisen/Urlaub/Planung & Buchung; El operador turístico nos informó del cambio de horario.; Der Reiseveranstalter informierte uns über die Planänderung.
+es-ru-0098; Reiseversicherung; el seguro de viaje; ; B2; Reisen/Urlaub/Planung & Buchung; Un buen seguro de viaje también cubre el equipaje perdido.; Eine gute Reiseversicherung deckt auch verlorenes Gepäck ab.
+es-ru-0099; Anzahlung; el anticipo; la señal, el pago inicial; B2; Reisen/Urlaub/Planung & Buchung; Pagamos un anticipo de doscientos euros.; Wir leisteten eine Anzahlung von zweihundert Euro.
+es-ru-0100; Zuschlag; el suplemento; el recargo; B2; Reisen/Urlaub/Planung & Buchung; Las habitaciones con vistas al mar tienen un suplemento.; Für Zimmer mit Meerblick gibt es einen Zuschlag.
+es-ru-0101; Hochsaison; la temporada alta; ; B2; Reisen/Urlaub/Planung & Buchung; En temporada alta aquí los precios casi se duplican.; In der Hochsaison verdoppeln sich hier fast die Preise.
+es-ru-0102; Nebensaison; la temporada baja; ; B2; Reisen/Urlaub/Planung & Buchung; En temporada baja las playas están maravillosamente vacías.; In der Nebensaison sind die Strände herrlich leer.
+es-ru-0103; Übernachtung; la pernoctación; la noche, la estancia; B2; Reisen/Urlaub/Unterkunft; El precio incluye una pernoctación con desayuno.; Der Preis beinhaltet eine Übernachtung mit Frühstück.
+es-ru-0104; Verfügbarkeit; la disponibilidad; ; B2; Reisen/Urlaub/Planung & Buchung; Compruebe la disponibilidad de habitaciones en junio, por favor.; Bitte prüfen Sie die Verfügbarkeit von Zimmern im Juni.
+es-ru-0105; ausgebucht; completo; lleno, sin plazas; B2; Reisen/Urlaub/Unterkunft; El pequeño hotel está completo hasta septiembre.; Das kleine Hotel ist bis September ausgebucht.
+es-ru-0106; Zwischenstopp; la escala; ; B2; Reisen/Urlaub/Flughafen; Nuestro largo vuelo hace escala en Estambul.; Unser langer Flug hat einen Zwischenstopp in Istanbul.
+es-ru-0107; Direktflug; el vuelo directo; ; B2; Reisen/Urlaub/Flughafen; No hay vuelo directo a esta isla.; Es gibt keinen Direktflug zu dieser Insel.
+es-ru-0108; verpassen; perder; ; B2; Reisen/Urlaub/Unterwegs; Casi perdemos el último tren a la costa.; Wir hätten fast den letzten Zug zur Küste verpasst.
+es-ru-0109; Durchsage; el aviso; el anuncio, el aviso por megafonía; B2; Reisen/Urlaub/Flughafen; Escuche con atención el aviso sobre su puerta de embarque.; Bitte hören Sie genau auf die Durchsage zu Ihrem Gate.
+es-ru-0110; Entschädigung; la indemnización; la compensación; B2; Reisen/Urlaub/Flughafen; La aerolínea nos ofreció una indemnización por el vuelo cancelado.; Die Fluggesellschaft bot uns eine Entschädigung für den gestrichenen Flug.
+es-ru-0111; Erstattung; el reembolso; la devolución; B2; Reisen/Urlaub/Planung & Buchung; Pedimos el reembolso de la excursión cancelada.; Wir beantragten eine Erstattung für die abgesagte Tour.
+es-ru-0112; Visum; el visado; la visa; B2; Reisen/Urlaub/Planung & Buchung; Para una estancia más larga hace falta un visado.; Für einen längeren Aufenthalt braucht man ein Visum.
+es-ru-0113; Einreise; la entrada; la entrada al país; B2; Reisen/Urlaub/Flughafen; La entrada fue rápida gracias a las nuevas máquinas.; Die Einreise ging dank der neuen Automaten schnell.
+es-ru-0114; Zeitverschiebung; la diferencia horaria; ; B2; Reisen/Urlaub/Unterwegs; La diferencia horaria con Tokio es de ocho horas.; Die Zeitverschiebung nach Tokio beträgt acht Stunden.
+es-ru-0115; Jetlag; el desfase horario; el jet lag; B2; Reisen/Urlaub/Unterwegs; El desfase horario me afectó más de lo que esperaba.; Der Jetlag traf mich härter als erwartet.
+es-ru-0116; Mietwagen; el coche de alquiler; ; B2; Reisen/Urlaub/Unterwegs; Recogimos el coche de alquiler en el aeropuerto.; Wir holten den Mietwagen am Flughafen ab.
+es-ru-0117; Panne; la avería; ; B2; Reisen/Urlaub/Unterwegs; Tuvimos una avería en una solitaria carretera de montaña.; Wir hatten eine Panne auf einer einsamen Bergstraße.
+es-ru-0118; Umleitung; el desvío; ; B2; Reisen/Urlaub/Unterwegs; El desvío nos costó casi una hora entera.; Die Umleitung kostete uns fast eine ganze Stunde.
+es-ru-0119; Stau; el atasco; el embotellamiento, el tráfico; B2; Reisen/Urlaub/Unterwegs; Estuvimos horas metidos en un atasco.; Wir standen stundenlang im Stau.
+es-ru-0120; Raststätte; el área de servicio; la gasolinera; B2; Reisen/Urlaub/Unterwegs; Paramos en un área de servicio para tomar un café.; Wir hielten an einer Raststätte für einen Kaffee.
+es-ru-0121; Wanderweg; la ruta de senderismo; el sendero; B2; Reisen/Urlaub/Strand & Natur; La ruta de senderismo empieza detrás de la pequeña capilla.; Der Wanderweg beginnt hinter der kleinen Kapelle.
+es-ru-0122; Gipfel; la cumbre; la cima; B2; Reisen/Urlaub/Strand & Natur; Llegamos a la cumbre poco antes de la puesta de sol.; Wir erreichten den Gipfel kurz vor dem Sonnenuntergang.
+es-ru-0123; schnorcheln; hacer esnórquel; bucear; B2; Reisen/Urlaub/Strand & Natur; Aquí se puede hacer esnórquel entre peces de colores.; Hier kann man zwischen bunten Fischen schnorcheln.
+es-ru-0124; Gezeiten; las mareas; ; B2; Reisen/Urlaub/Strand & Natur; Las mareas cambian la playa dos veces al día.; Die Gezeiten verändern den Strand zweimal am Tag.
+es-ru-0125; Kreuzfahrt; el crucero; ; B2; Reisen/Urlaub/Planung & Buchung; Mis padres se van de crucero en primavera.; Meine Eltern machen im Frühjahr eine Kreuzfahrt.
+es-ru-0126; Fernweh; las ganas de viajar; el ansia de viajar; C1; Reisen/Urlaub/Planung & Buchung; Cada primavera me entran unas suaves ganas de viajar.; Jedes Frühjahr packt mich ein leises Fernweh.
+es-ru-0127; erkunden; explorar; recorrer, descubrir; C1; Reisen/Urlaub/Sightseeing; Exploramos la isla a pie y en barco.; Wir erkundeten die Insel zu Fuß und per Boot.
+es-ru-0128; Abstecher; la escapada; la visita rápida; C1; Reisen/Urlaub/Unterwegs; Una breve escapada nos llevó a una cala escondida.; Ein kurzer Abstecher führte uns in eine versteckte Bucht.
+es-ru-0129; Geheimtipp; el secreto bien guardado; el sitio poco conocido; C1; Reisen/Urlaub/Sightseeing; El pequeño restaurante de pescado es un secreto bien guardado.; Das kleine Fischrestaurant ist ein echter Geheimtipp.
+es-ru-0130; abgelegen; apartado; aislado, remoto; C1; Reisen/Urlaub/Unterkunft; La cabaña está apartada, pero merece cada paso.; Die Hütte liegt abgelegen, ist aber jeden Schritt wert.
+es-ru-0131; malerisch; pintoresco; ; C1; Reisen/Urlaub/Sightseeing; El pueblo pintoresco atrae a pintores de todas partes.; Das malerische Dorf zieht Maler von überall an.
+es-ru-0132; atemberaubend; impresionante; espectacular, sobrecogedor; C1; Reisen/Urlaub/Strand & Natur; Los impresionantes acantilados caen en picado al mar.; Die atemberaubenden Klippen fallen steil ins Meer ab.
+es-ru-0133; Anschlussflug; el vuelo de conexión; la conexión, el vuelo de enlace; C1; Reisen/Urlaub/Flughafen; Hoy nuestro vuelo de conexión sale de otra terminal.; Unser Anschlussflug geht heute von einem anderen Terminal.
+es-ru-0134; Zollerklärung; la declaración de aduana; ; C1; Reisen/Urlaub/Flughafen; Rellene la declaración de aduana antes del aterrizaje, por favor.; Bitte füllen Sie die Zollerklärung vor der Landung aus.
+es-ru-0135; Gepäckaufbewahrung; la consigna; ; C1; Reisen/Urlaub/Gepäck; Dejamos las bolsas en la consigna.; Wir ließen unsere Taschen in der Gepäckaufbewahrung.
+es-ru-0136; Proviant; las provisiones; los víveres; C1; Reisen/Urlaub/Unterwegs; Compramos provisiones para el largo viaje en tren.; Wir kauften Proviant für die lange Zugfahrt.
+es-ru-0137; Etappe; la etapa; el tramo; C1; Reisen/Urlaub/Unterwegs; La primera etapa del viaje termina en Basilea.; Die erste Etappe der Reise endet in Basel.
+es-ru-0138; beschaulich; apacible; tranquilo, sosegado; C1; Reisen/Urlaub/Sightseeing; La vida en esta apacible ciudad pequeña transcurre despacio.; Das Leben in diesem beschaulichen Städtchen vergeht langsam.
+es-ru-0139; Idylle; el idilio; el paraíso, el lugar idílico; C1; Reisen/Urlaub/Strand & Natur; En otoño, la cala tranquila es un idilio perfecto.; Die stille Bucht ist im Herbst eine perfekte Idylle.
+es-ru-0140; Panorama; el panorama; la vista panorámica; C1; Reisen/Urlaub/Strand & Natur; El panorama desde el puerto de montaña merece el viaje.; Das Panorama vom Pass ist die Fahrt wert.
+es-ru-0141; Klippe; el acantilado; ; C1; Reisen/Urlaub/Strand & Natur; Un sendero estrecho recorre el alto acantilado.; Ein schmaler Pfad verläuft an der hohen Klippe entlang.
+es-ru-0142; Reiseapotheke; el botiquín de viaje; el botiquín; C1; Reisen/Urlaub/Gepäck; Un pequeño botiquín de viaje debe ir en cada maleta.; Eine kleine Reiseapotheke gehört in jeden Koffer.
+es-ru-0143; verreisen; irse de viaje; salir de viaje, viajar; C1; Reisen/Urlaub/Planung & Buchung; Nos vamos de viaje dos veces al año.; Wir verreisen zweimal im Jahr.
+es-ru-0144; Sommerfrische; el veraneo; el lugar de veraneo; C2; Reisen/Urlaub/Unterkunft; La abuela todavía habla del veraneo junto al lago.; Großmutter erzählt noch von der Sommerfrische am See.
+es-ru-0145; Odyssee; la odisea; ; C2; Reisen/Urlaub/Unterwegs; Nuestro viaje de vuelta se convirtió en una auténtica odisea.; Unsere Heimreise wurde zu einer wahren Odyssee.
+es-ru-0146; Vagabund; el vagabundo; la vagabunda; C2; Reisen/Urlaub/Unterwegs; Vivió durante años como vagabundo en el sur.; Er lebte jahrelang als Vagabund im Süden.
+es-ru-0147; Weltenbummler; el trotamundos; la trotamundos, el viajero; C2; Reisen/Urlaub/Planung & Buchung; El viejo trotamundos tiene historias de todos los continentes.; Der alte Weltenbummler hat Geschichten von jedem Kontinent.
+es-ru-0148; Sehnsuchtsort; el lugar soñado; el destino soñado, el destino de ensueño; C2; Reisen/Urlaub/Planung & Buchung; Lisboa siguió siendo durante muchos años su lugar soñado.; Lissabon blieb viele Jahre ihr Sehnsuchtsort.
+es-ru-0149; Kleinod; la joya; el tesoro, la joya escondida; C2; Reisen/Urlaub/Sightseeing; La diminuta capilla es una auténtica joya escondida.; Die winzige Kapelle ist ein echtes verstecktes Kleinod.
+es-ru-0150; Reisefieber; los nervios del viaje; el nerviosismo, los nervios antes del viaje; C2; Reisen/Urlaub/Planung & Buchung; La noche antes de salir, los nervios del viaje no la dejaron dormir.; In der Nacht vor der Abreise hielt sie das Reisefieber wach.

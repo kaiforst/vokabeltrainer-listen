@@ -1,0 +1,152 @@
+# Spanisch: Gefühle & Charakter
+id; Deutsch; Spanisch; Weitere Antworten; Niveau; Themen; Beispiel Spanisch; Beispiel Deutsch
+es-gc-0001; glücklich; feliz; ; A1; Mensch/Gefühle/Emotionen; Estoy muy feliz por tu visita.; Ich bin sehr glücklich über deinen Besuch.
+es-gc-0002; traurig; triste; ; A1; Mensch/Gefühle/Emotionen; Estaba triste cuando su amiga se fue.; Sie war traurig, als ihre Freundin ging.
+es-gc-0003; müde; cansado; ; A1; Mensch/Gefühle/Stimmungen; Después del trabajo siempre estoy muy cansado.; Nach der Arbeit bin ich immer sehr müde.
+es-gc-0004; froh; contento; alegre; A1; Mensch/Gefühle/Emotionen; Estoy contento de que estés aquí.; Ich bin froh, dass du hier bist.
+es-gc-0005; Angst; el miedo; ; A1; Mensch/Gefühle/Emotionen; El niño tiene miedo de los perros grandes.; Das Kind hat Angst vor großen Hunden.
+es-gc-0006; Liebe; el amor; ; A1; Mensch/Gefühle/Emotionen; El amor es lo más importante de la vida.; Liebe ist das Wichtigste im Leben.
+es-gc-0007; lieben; querer; amar; A1; Mensch/Gefühle/Emotionen; Quiero a mi familia más que a nada.; Ich liebe meine Familie über alles.
+es-gc-0008; lachen; reír; reírse; A1; Mensch/Gefühle/Emotionen; Cuando estamos juntos nos reímos mucho.; Wir lachen viel, wenn wir zusammen sind.
+es-gc-0009; weinen; llorar; ; A1; Mensch/Gefühle/Emotionen; El bebé llora cuando tiene hambre.; Das Baby weint, wenn es Hunger hat.
+es-gc-0010; lächeln; sonreír; ; A1; Mensch/Gefühle/Emotionen; Sonríe cada vez que lo ve.; Sie lächelt jedes Mal, wenn sie ihn sieht.
+es-gc-0011; nett; simpático; majo, agradable; A1; Mensch/Gefühle/Charakter; Nuestro nuevo vecino es muy simpático.; Unser neuer Nachbar ist wirklich nett.
+es-gc-0012; freundlich; amable; ; A1; Mensch/Gefühle/Charakter; El personal de esta tienda es muy amable.; Das Personal in diesem Laden ist sehr freundlich.
+es-gc-0013; wütend; enfadado; enojado, furioso; A1; Mensch/Gefühle/Emotionen; Se pone muy enfadado cuando el autobús llega tarde.; Er wird wütend, wenn der Bus zu spät kommt.
+es-gc-0014; Spaß; la diversión; ; A1; Mensch/Gefühle/Stimmungen; Hoy ha sido un día de mucha diversión para los niños.; Die Kinder hatten heute viel Spaß.
+es-gc-0015; mögen; gustar; caer bien; A1; Mensch/Gefühle/Emotionen; Me gustan las personas que saben escuchar.; Ich mag Menschen, die gut zuhören können.
+es-gc-0016; Glück; la felicidad; la suerte; A1; Mensch/Gefühle/Emotionen; El dinero por sí solo no da la felicidad.; Geld allein bringt kein Glück.
+es-gc-0017; allein; solo; ; A1; Mensch/Gefühle/Stimmungen; A veces me gusta estar solo en casa.; Manchmal bin ich gern allein zu Hause.
+es-gc-0018; langweilig; aburrido; pesado, soso; A1; Mensch/Gefühle/Stimmungen; La película fue larga y muy aburrida.; Der Film war lang und sehr langweilig.
+es-gc-0019; lustig; divertido; gracioso; A1; Mensch/Gefühle/Charakter; Mi tío es divertido y cuenta chistes geniales.; Mein Onkel ist lustig und erzählt tolle Witze.
+es-gc-0020; ruhig; tranquilo; calmado; A1; Mensch/Gefühle/Stimmungen; Por favor, quédate tranquilo, todo está bien.; Bitte bleib ruhig, alles ist in Ordnung.
+es-gc-0021; Gefühl; la sensación; el sentimiento, la emoción; A1; Mensch/Gefühle/Emotionen; Este plan me da buena sensación.; Ich habe ein gutes Gefühl bei diesem Plan.
+es-gc-0022; fühlen; sentir; sentirse; A1; Mensch/Gefühle/Emotionen; ¿Cómo te sientes hoy después de las noticias?; Wie fühlst du dich heute nach den Neuigkeiten?
+es-gc-0023; Herz; el corazón; ; A1; Mensch/Gefühle/Emotionen, Gesundheit/Körper; Su corazón late más rápido cuando está nerviosa.; Ihr Herz schlägt schneller, wenn sie nervös ist.
+es-gc-0024; stark; fuerte; ; A1; Mensch/Gefühle/Charakter; En los momentos difíciles hay que ser fuerte.; In schweren Zeiten muss man stark sein.
+es-gc-0025; schwach; débil; ; A1; Mensch/Gefühle/Charakter; Después de la larga enfermedad se sentía débil.; Nach der langen Krankheit fühlte er sich schwach.
+es-gc-0026; Freude; la alegría; ; A2; Mensch/Gefühle/Emotionen; El regalo le dio una gran alegría.; Das Geschenk bereitete ihr große Freude.
+es-gc-0027; hoffen; esperar; ; A2; Mensch/Gefühle/Emotionen; Esperamos que haga buen tiempo el fin de semana.; Wir hoffen auf gutes Wetter am Wochenende.
+es-gc-0028; Hoffnung; la esperanza; ; A2; Mensch/Gefühle/Emotionen; Todavía hay esperanza de un final feliz.; Es gibt noch Hoffnung auf ein gutes Ende.
+es-gc-0029; Sorge; la preocupación; ; A2; Mensch/Gefühle/Emotionen; Su mayor preocupación es perder el trabajo.; Ihre größte Sorge ist, die Arbeit zu verlieren.
+es-gc-0030; sich freuen; alegrarse; ; A2; Mensch/Gefühle/Emotionen; Me alegro de cada pequeño éxito.; Ich freue mich über jeden kleinen Erfolg.
+es-gc-0031; nervös; nervioso; ; A2; Mensch/Gefühle/Stimmungen; Antes de un examen siempre está nervioso.; Vor einer Prüfung ist er immer nervös.
+es-gc-0032; sauer; mosqueado; molesto, enfadado; A2; Mensch/Gefühle/Emotionen; Está mosqueada porque él olvidó su cumpleaños.; Sie ist sauer, weil er ihren Geburtstag vergessen hat.
+es-gc-0033; zufrieden; satisfecho; contento; A2; Mensch/Gefühle/Stimmungen; Estoy satisfecho con el resultado del examen.; Ich bin mit dem Ergebnis des Tests zufrieden.
+es-gc-0034; überrascht; sorprendido; ; A2; Mensch/Gefühle/Emotionen; La invitación repentina nos dejó sorprendidos.; Wir waren von der plötzlichen Einladung überrascht.
+es-gc-0035; Überraschung; la sorpresa; ; A2; Mensch/Gefühle/Emotionen; La fiesta fue una sorpresa total para ella.; Die Party war eine völlige Überraschung für sie.
+es-gc-0036; Stress; el estrés; ; A2; Mensch/Gefühle/Stimmungen; Demasiado estrés es malo para la salud.; Zu viel Stress ist schlecht für die Gesundheit.
+es-gc-0037; gestresst; estresado; agobiado; A2; Mensch/Gefühle/Stimmungen; Antes de cada fecha límite importante se siente estresada.; Vor jedem wichtigen Termin fühlt sie sich gestresst.
+es-gc-0038; Laune; el estado de ánimo; el humor, el ánimo; A2; Mensch/Gefühle/Stimmungen; Por las mañanas su estado de ánimo cambia rápido.; Seine Laune wechselt morgens schnell.
+es-gc-0039; gelangweilt; aburrido; ; A2; Mensch/Gefühle/Stimmungen; Los alumnos parecían aburridos durante la larga charla.; Die Schüler wirkten während des langen Vortrags gelangweilt.
+es-gc-0040; Langeweile; el aburrimiento; ; A2; Mensch/Gefühle/Stimmungen; Por aburrimiento empezó a pintar paredes.; Aus Langeweile fing er an, Wände zu streichen.
+es-gc-0041; einsam; solitario; solo, aislado; A2; Mensch/Gefühle/Stimmungen; Al principio se sentía solitaria en la nueva ciudad.; In der neuen Stadt fühlte sie sich zuerst einsam.
+es-gc-0042; Träne; la lágrima; ; A2; Mensch/Gefühle/Emotionen, Gesundheit/Körper; Una sola lágrima le corrió por la mejilla.; Eine einzelne Träne lief über seine Wange.
+es-gc-0043; mutig; valiente; ; A2; Mensch/Gefühle/Charakter; Fuiste valiente al decir la verdad.; Es war mutig von dir, die Wahrheit zu sagen.
+es-gc-0044; Mut; el valor; el coraje, la valentía; A2; Mensch/Gefühle/Charakter; Hace falta valor para empezar algo nuevo.; Es braucht Mut, etwas Neues anzufangen.
+es-gc-0045; schüchtern; tímido; ; A2; Mensch/Gefühle/Charakter; El niño tímido rara vez habla en clase.; Der schüchterne Junge spricht selten im Unterricht.
+es-gc-0046; höflich; educado; cortés; A2; Mensch/Gefühle/Verhalten; Es educado dar las gracias.; Es ist höflich, sich zu bedanken.
+es-gc-0047; unhöflich; maleducado; descortés; A2; Mensch/Gefühle/Verhalten; Es de maleducados interrumpir a los demás.; Es ist unhöflich, andere Menschen zu unterbrechen.
+es-gc-0048; ehrlich; sincero; honesto, honrado; A2; Mensch/Gefühle/Charakter; Sé sincero conmigo, aunque duela.; Sei ehrlich zu mir, auch wenn es wehtut.
+es-gc-0049; lügen; mentir; ; A2; Mensch/Gefühle/Verhalten; Nunca deberías mentir a tus amigos.; Du solltest deine Freunde niemals anlügen.
+es-gc-0050; klug; listo; inteligente; A2; Mensch/Gefühle/Charakter; Es lista y aprende idiomas rápido.; Sie ist klug und lernt Sprachen schnell.
+es-gc-0051; dumm; tonto; estúpido; A2; Mensch/Gefühle/Charakter; Fue tonto salir sin chaqueta.; Es war dumm, ohne Jacke loszugehen.
+es-gc-0052; faul; vago; perezoso; A2; Mensch/Gefühle/Charakter; Los domingos todos somos un poco vagos.; Sonntags sind wir alle ein bisschen faul.
+es-gc-0053; fleißig; trabajador; aplicado, diligente; A2; Mensch/Gefühle/Charakter; El estudiante trabajador terminó el proyecto pronto.; Der fleißige Student beendete das Projekt früh.
+es-gc-0054; geduldig; paciente; ; A2; Mensch/Gefühle/Charakter; Un buen profesor es paciente con los principiantes.; Ein guter Lehrer ist geduldig mit Anfängern.
+es-gc-0055; ungeduldig; impaciente; ; A2; Mensch/Gefühle/Charakter; Se pone impaciente cuando tiene que esperar.; Er wird ungeduldig, wenn er warten muss.
+es-gc-0056; Humor; el humor; el sentido del humor; A2; Mensch/Gefühle/Charakter; Su humor seco hace reír a todos.; Ihr trockener Humor bringt alle zum Lachen.
+es-gc-0057; Charakter; el carácter; la personalidad; A2; Mensch/Gefühle/Charakter; El carácter de una persona se ve en los momentos difíciles.; Der Charakter eines Menschen zeigt sich in schwierigen Momenten.
+es-gc-0058; Verhalten; el comportamiento; la conducta; A2; Mensch/Gefühle/Verhalten; Su comportamiento en la reunión sorprendió a todos.; Sein Verhalten in der Besprechung überraschte alle.
+es-gc-0059; streiten; discutir; pelearse, reñir; A2; Mensch/Gefühle/Verhalten, Mensch/Gefühle/Beziehungen; Los hermanos discuten a diario por tonterías.; Die Brüder streiten täglich über Kleinigkeiten.
+es-gc-0060; lieb; majo; cariñoso, bueno; A2; Mensch/Gefühle/Charakter; Fue muy maja al ayudarnos.; Es war sehr lieb von ihr zu helfen.
+es-gc-0061; enttäuscht; decepcionado; ; B1; Mensch/Gefühle/Emotionen; Estaba decepcionado con los resultados del examen.; Er war von den Testergebnissen enttäuscht.
+es-gc-0062; Enttäuschung; la decepción; la desilusión; B1; Mensch/Gefühle/Emotionen; El concierto cancelado fue una gran decepción.; Das abgesagte Konzert war eine große Enttäuschung.
+es-gc-0063; eifersüchtig; celoso; ; B1; Mensch/Gefühle/Beziehungen; Se pone celoso cuando ella habla con otros.; Er wird eifersüchtig, wenn sie mit anderen redet.
+es-gc-0064; Eifersucht; los celos; ; B1; Mensch/Gefühle/Beziehungen; Los celos pueden destruir incluso relaciones sólidas.; Eifersucht kann selbst starke Beziehungen zerstören.
+es-gc-0065; neidisch; envidioso; ; B1; Mensch/Gefühle/Emotionen; Está envidiosa del éxito de su compañera.; Sie ist neidisch auf den Erfolg ihrer Kollegin.
+es-gc-0066; Neid; la envidia; ; B1; Mensch/Gefühle/Emotionen; Su coche nuevo provocó envidia entre los vecinos.; Sein neues Auto sorgte für Neid unter den Nachbarn.
+es-gc-0067; stolz; orgulloso; ; B1; Mensch/Gefühle/Emotionen; Los padres están orgullosos de su hija.; Die Eltern sind stolz auf ihre Tochter.
+es-gc-0068; dankbar; agradecido; ; B1; Mensch/Gefühle/Emotionen; Te estoy agradecido por todo tu apoyo.; Ich bin dankbar für all deine Unterstützung.
+es-gc-0069; sich schämen; avergonzarse; tener vergüenza, dar vergüenza; B1; Mensch/Gefühle/Emotionen; Se avergüenza de su comentario grosero.; Er schämt sich für seine unhöfliche Bemerkung.
+es-gc-0070; Scham; la vergüenza; ; B1; Mensch/Gefühle/Emotionen; Se puso roja de vergüenza al recordarlo.; Sie errötete vor Scham bei der Erinnerung.
+es-gc-0071; Schuld; la culpa; ; B1; Mensch/Gefühle/Emotionen; Sintió una profunda culpa por el accidente.; Er fühlte tiefe Schuld wegen des Unfalls.
+es-gc-0072; schuldig; culpable; ; B1; Mensch/Gefühle/Emotionen; Se sintió culpable por olvidar la cita.; Sie fühlte sich schuldig, weil sie den Termin vergessen hatte.
+es-gc-0073; erleichtert; aliviado; ; B1; Mensch/Gefühle/Emotionen; Nos sentimos aliviados cuando pasó la tormenta.; Wir waren erleichtert, als der Sturm vorüber war.
+es-gc-0074; Erleichterung; el alivio; ; B1; Mensch/Gefühle/Emotionen; Después del examen suspiró de alivio.; Nach der Prüfung seufzte sie vor Erleichterung.
+es-gc-0075; besorgt; preocupado; ; B1; Mensch/Gefühle/Emotionen; Sus padres están preocupados por sus notas.; Seine Eltern sind besorgt wegen seiner Noten.
+es-gc-0076; aufgeregt; emocionado; entusiasmado, nervioso; B1; Mensch/Gefühle/Stimmungen; Los niños están emocionados por la excursión del colegio.; Die Kinder sind wegen des Schulausflugs aufgeregt.
+es-gc-0077; Aufregung; la agitación; el nerviosismo, el jaleo, la emoción; B1; Mensch/Gefühle/Stimmungen; Con tanta agitación olvidó las llaves.; In der ganzen Aufregung vergaß sie ihre Schlüssel.
+es-gc-0078; verliebt; enamorado; ; B1; Mensch/Gefühle/Beziehungen; Los dos llevan años enamorados.; Die beiden sind seit Jahren ineinander verliebt.
+es-gc-0079; vertrauen; confiar; ; B1; Mensch/Gefühle/Beziehungen; Puedes confiar en ella para cualquier secreto.; Du kannst ihr jedes Geheimnis anvertrauen.
+es-gc-0080; Dankbarkeit; la gratitud; el agradecimiento; B1; Mensch/Gefühle/Emotionen; Expresó su gratitud con una larga carta.; Sie drückte ihre Dankbarkeit mit einem langen Brief aus.
+es-gc-0081; Mitleid; la lástima; la pena, la compasión; B1; Mensch/Gefühle/Emotionen; Sintió lástima por el gato callejero que temblaba de frío.; Er hatte Mitleid mit der frierenden Streunerkatze.
+es-gc-0082; Mitgefühl; la compasión; la empatía; B1; Mensch/Gefühle/Emotionen; La verdadera compasión es escuchar sin juzgar a los demás.; Wahres Mitgefühl bedeutet zuzuhören, ohne andere zu verurteilen.
+es-gc-0083; zuverlässig; fiable; de confianza, responsable; B1; Mensch/Gefühle/Charakter; Un amigo fiable cumple sus promesas.; Ein zuverlässiger Freund hält seine Versprechen.
+es-gc-0084; selbstbewusst; seguro de sí mismo; seguro, segura de sí misma; B1; Mensch/Gefühle/Charakter; En la entrevista dio una respuesta muy segura de sí misma.; Sie gab im Vorstellungsgespräch eine selbstbewusste Antwort.
+es-gc-0085; bescheiden; modesto; sencillo; B1; Mensch/Gefühle/Charakter; A pesar de su éxito siguió siendo modesto y amable.; Trotz seines Erfolgs blieb er bescheiden und freundlich.
+es-gc-0086; großzügig; generoso; ; B1; Mensch/Gefühle/Charakter; Nuestra generosa tía siempre nos trae regalos.; Unsere großzügige Tante bringt uns immer Geschenke mit.
+es-gc-0087; geizig; tacaño; agarrado; B1; Mensch/Gefühle/Charakter; Es demasiado tacaño para pagar una ronda.; Er ist zu geizig, um eine Runde auszugeben.
+es-gc-0088; egoistisch; egoísta; ; B1; Mensch/Gefühle/Charakter; Es egoísta pensar solo en uno mismo.; Es ist egoistisch, nur an sich selbst zu denken.
+es-gc-0089; hilfsbereit; servicial; atento, dispuesto a ayudar; B1; Mensch/Gefühle/Verhalten; El vecino servicial me subió las bolsas pesadas.; Der hilfsbereite Nachbar trug meine schweren Taschen nach oben.
+es-gc-0090; neugierig; curioso; cotilla; B1; Mensch/Gefühle/Charakter; Los niños son curiosos por naturaleza.; Kinder sind von Natur aus neugierig auf die Welt.
+es-gc-0091; Neugier; la curiosidad; ; B1; Mensch/Gefühle/Charakter; Su curiosidad la llevó a estudiar en el extranjero.; Ihre Neugier führte sie zum Studium ins Ausland.
+es-gc-0092; sensibel; sensible; ; B1; Mensch/Gefühle/Charakter; Es sensible y se toma las críticas muy a pecho.; Er ist sensibel und nimmt Kritik sehr persönlich.
+es-gc-0093; vernünftig; sensato; razonable; B1; Mensch/Gefühle/Charakter; Sé sensato y descansa un rato ahora.; Sei vernünftig und mach jetzt eine Pause.
+es-gc-0094; stur; terco; testarudo, cabezota; B1; Mensch/Gefühle/Charakter; Es demasiado terco para admitir su error.; Er ist zu stur, um seinen Fehler zuzugeben.
+es-gc-0095; zärtlich; tierno; cariñoso; B1; Mensch/Gefühle/Beziehungen; Le dio al bebé un beso tierno.; Sie gab dem Baby einen zärtlichen Kuss.
+es-gc-0096; Sehnsucht; la añoranza; el anhelo, la nostalgia; B2; Mensch/Gefühle/Emotionen; Sentía una profunda añoranza de su tierra.; Er spürte eine tiefe Sehnsucht nach seiner Heimat.
+es-gc-0097; sich sehnen; anhelar; añorar, echar de menos; B2; Mensch/Gefühle/Emotionen; Después del largo invierno anhelaba el sol.; Nach dem langen Winter sehnte sie sich nach Sonne.
+es-gc-0098; Verzweiflung; la desesperación; ; B2; Mensch/Gefühle/Emotionen; En su desesperación llamó a su antiguo profesor.; In seiner Verzweiflung rief er seinen alten Lehrer an.
+es-gc-0099; verzweifelt; desesperado; ; B2; Mensch/Gefühle/Emotionen; Hizo un intento desesperado de salvar el proyecto.; Sie unternahm einen verzweifelten Versuch, das Projekt zu retten.
+es-gc-0100; gelassen; sereno; tranquilo; B2; Mensch/Gefühle/Stimmungen; Se mantuvo sereno a pesar de las duras críticas.; Er blieb trotz der harten Kritik gelassen.
+es-gc-0101; Zuneigung; el cariño; el afecto; B2; Mensch/Gefühle/Beziehungen; Muestra su cariño con pequeños gestos.; Sie zeigt ihre Zuneigung durch kleine Gesten.
+es-gc-0102; Abneigung; la aversión; el rechazo, la antipatía; B2; Mensch/Gefühle/Emotionen; Nunca ocultó su aversión a las fiestas ruidosas.; Er verbarg seine Abneigung gegen laute Partys nie.
+es-gc-0103; verachten; despreciar; ; B2; Mensch/Gefühle/Emotionen; Desprecia a las personas que mienten sin vergüenza.; Sie verachtet Menschen, die ohne Scham lügen.
+es-gc-0104; Verachtung; el desprecio; ; B2; Mensch/Gefühle/Emotionen; Su voz estaba llena de un frío desprecio.; Seine Stimme war voller kalter Verachtung.
+es-gc-0105; bewundern; admirar; ; B2; Mensch/Gefühle/Emotionen; Admiro su paciencia con los clientes difíciles.; Ich bewundere ihre Geduld mit schwierigen Kunden.
+es-gc-0106; Bewunderung; la admiración; ; B2; Mensch/Gefühle/Emotionen; Los alumnos miraban a su entrenador con admiración.; Die Schüler sahen ihren Trainer mit Bewunderung an.
+es-gc-0107; Begeisterung; el entusiasmo; ; B2; Mensch/Gefühle/Emotionen; Su entusiasmo por la idea convenció al equipo.; Ihre Begeisterung für die Idee überzeugte das Team.
+es-gc-0108; begeistert; entusiasmado; encantado; B2; Mensch/Gefühle/Emotionen; El público estaba entusiasmado con la nueva obra.; Das Publikum war von dem neuen Stück begeistert.
+es-gc-0109; Zorn; la ira; la cólera, la rabia; B2; Mensch/Gefühle/Emotionen; Su ira se desvaneció tan rápido como había llegado.; Sein Zorn verflog so schnell, wie er gekommen war.
+es-gc-0110; Furcht; el temor; el pavor; B2; Mensch/Gefühle/Emotionen; Un temor silencioso al fracaso no lo dejaba dormir.; Eine stille Furcht vor dem Scheitern hielt ihn wach.
+es-gc-0111; einfühlsam; empático; sensible, comprensivo; B2; Mensch/Gefühle/Charakter; La enfermera empática tranquilizó al paciente asustado.; Die einfühlsame Pflegerin beruhigte den verängstigten Patienten.
+es-gc-0112; Einfühlungsvermögen; la empatía; ; B2; Mensch/Gefühle/Charakter; Los buenos líderes necesitan empatía con sus equipos.; Gute Führungskräfte brauchen Einfühlungsvermögen für ihre Teams.
+es-gc-0113; reizbar; irritable; susceptible; B2; Mensch/Gefühle/Stimmungen; Si no duerme lo suficiente, se vuelve muy irritable.; Ohne genug Schlaf wird er sehr reizbar.
+es-gc-0114; launisch; caprichoso; temperamental, cambiante; B2; Mensch/Gefühle/Stimmungen; El tiempo de abril es tan caprichoso como un adolescente.; Das Aprilwetter ist so launisch wie ein Teenager.
+es-gc-0115; ausgelassen; eufórico; alegre, desenfrenado; B2; Mensch/Gefühle/Stimmungen; La multitud eufórica bailó hasta la madrugada.; Die ausgelassene Menge tanzte bis in den frühen Morgen.
+es-gc-0116; niedergeschlagen; abatido; desanimado, deprimido; B2; Mensch/Gefühle/Stimmungen; Tras la derrota, el equipo parecía abatido.; Nach der Niederlage wirkte die Mannschaft niedergeschlagen.
+es-gc-0117; Gemüt; el talante; el carácter, el ánimo; B2; Mensch/Gefühle/Charakter; Tiene un talante alegre y dulce.; Sie hat ein fröhliches und sanftes Gemüt.
+es-gc-0118; Temperament; el temperamento; ; B2; Mensch/Gefühle/Charakter; Su temperamento fogoso a menudo le trae problemas.; Sein feuriges Temperament bringt ihn oft in Schwierigkeiten.
+es-gc-0119; ehrgeizig; ambicioso; ; B2; Mensch/Gefühle/Charakter; La aprendiz ambiciosa quiere dirigir la sucursal algún día.; Die ehrgeizige Auszubildende will eines Tages die Filiale leiten.
+es-gc-0120; Ehrgeiz; la ambición; ; B2; Mensch/Gefühle/Charakter; Su ambición lo empujaba a entrenar cada día.; Sein Ehrgeiz trieb ihn an, jeden Tag zu trainieren.
+es-gc-0121; eitel; vanidoso; presumido; B2; Mensch/Gefühle/Charakter; Es demasiado vanidoso para llevar gafas.; Er ist zu eitel, um seine Brille zu tragen.
+es-gc-0122; arrogant; arrogante; creído; B2; Mensch/Gefühle/Charakter; El director arrogante nunca escuchaba consejos.; Der arrogante Manager hörte nie auf Ratschläge.
+es-gc-0123; rücksichtsvoll; considerado; atento; B2; Mensch/Gefühle/Verhalten; Un conductor considerado reduce la velocidad cerca de los colegios.; Ein rücksichtsvoller Fahrer fährt in der Nähe von Schulen langsamer.
+es-gc-0124; rücksichtslos; desconsiderado; sin consideración, despiadado; B2; Mensch/Gefühle/Verhalten; Es desconsiderado poner música alta por la noche.; Es ist rücksichtslos, nachts laute Musik zu spielen.
+es-gc-0125; nachtragend; rencoroso; ; B2; Mensch/Gefühle/Charakter; No es rencorosa y perdona enseguida.; Sie ist nicht nachtragend und verzeiht schnell.
+es-gc-0126; Wehmut; la nostalgia; la melancolía; C1; Mensch/Gefühle/Stimmungen; Recordaba con nostalgia sus años de colegio.; Mit Wehmut dachte er an seine Schulzeit zurück.
+es-gc-0127; Schadenfreude; la alegría por el mal ajeno; el regodeo; C1; Mensch/Gefühle/Emotionen; No pudo ocultar su alegría por el mal ajeno ante el error de ella.; Er konnte seine Schadenfreude über ihren Fehler nicht verbergen.
+es-gc-0128; Gelassenheit; la serenidad; la calma, la tranquilidad; C1; Mensch/Gefühle/Stimmungen; Afrontó el caos con una serenidad admirable.; Sie begegnete dem Chaos mit bemerkenswerter Gelassenheit.
+es-gc-0129; Demut; la humildad; ; C1; Mensch/Gefühle/Charakter; La verdadera grandeza suele ir unida a una humildad silenciosa.; Wahre Größe geht oft mit stiller Demut einher.
+es-gc-0130; demütig; humilde; ; C1; Mensch/Gefühle/Charakter; Recibió el premio con palabras humildes.; Er nahm die Auszeichnung mit demütigen Worten entgegen.
+es-gc-0131; überheblich; altivo; soberbio, prepotente; C1; Mensch/Gefühle/Charakter; Su tono altivo molestó a todo el comité.; Sein überheblicher Ton verärgerte das gesamte Gremium.
+es-gc-0132; heimtückisch; traicionero; pérfido, insidioso; C1; Mensch/Gefühle/Charakter; El plan traicionero se descubrió justo a tiempo.; Der heimtückische Plan wurde gerade noch rechtzeitig entdeckt.
+es-gc-0133; aufbrausend; colérico; airado, impulsivo; C1; Mensch/Gefühle/Charakter; Su reacción colérica empeoró la situación.; Seine aufbrausende Reaktion machte die Lage schlimmer.
+es-gc-0134; besonnen; prudente; juicioso, sensato; C1; Mensch/Gefühle/Charakter; El capitán prudente mantuvo la calma de la tripulación.; Der besonnene Kapitän hielt die Besatzung ruhig.
+es-gc-0135; scharfsinnig; perspicaz; agudo, sagaz; C1; Mensch/Gefühle/Charakter; Sus preguntas perspicaces impresionaron a toda la junta directiva.; Ihre scharfsinnigen Fragen beeindruckten den gesamten Vorstand.
+es-gc-0136; einfältig; ingenuo; simple, simplón; C1; Mensch/Gefühle/Charakter; El comentario ingenuo delató su falta de experiencia.; Die einfältige Bemerkung verriet seinen Mangel an Erfahrung.
+es-gc-0137; verbittert; amargado; ; C1; Mensch/Gefühle/Emotionen; El anciano amargado ya no confiaba en nadie.; Der verbitterte alte Mann vertraute niemandem mehr.
+es-gc-0138; Verbitterung; la amargura; ; C1; Mensch/Gefühle/Emotionen; Años de injusticia solo dejaron amargura.; Jahre der Ungerechtigkeit hinterließen nur Verbitterung.
+es-gc-0139; Zuversicht; la confianza; el optimismo, la esperanza; C1; Mensch/Gefühle/Emotionen; Mira al futuro con gran confianza.; Sie blickt mit großer Zuversicht in die Zukunft.
+es-gc-0140; beklommen; angustiado; inquieto, intranquilo; C1; Mensch/Gefühle/Stimmungen; Entró angustiado en la casa silenciosa.; Mit beklommenem Gefühl betrat er das stille Haus.
+es-gc-0141; Beklommenheit; la inquietud; la angustia, el desasosiego; C1; Mensch/Gefühle/Stimmungen; Una extraña inquietud se extendió por la sala de espera.; Eine seltsame Beklommenheit breitete sich im Wartezimmer aus.
+es-gc-0142; unerschütterlich; inquebrantable; firme; C1; Mensch/Gefühle/Charakter; Su optimismo inquebrantable sacó al equipo de la crisis.; Ihr unerschütterlicher Optimismus trug das Team durch die Krise.
+es-gc-0143; nachsichtig; indulgente; tolerante, comprensivo; C1; Mensch/Gefühle/Charakter; El profesor era indulgente con los principiantes nerviosos.; Der Lehrer war nachsichtig mit den nervösen Anfängern.
+es-gc-0144; Weltschmerz; el hastío vital; el tedio vital, la melancolía; C2; Mensch/Gefühle/Stimmungen; Sus poemas están llenos de un suave hastío vital.; Seine Gedichte sind voller sanftem Weltschmerz.
+es-gc-0145; griesgrämig; gruñón; cascarrabias, huraño; C2; Mensch/Gefühle/Charakter; El casero gruñón se quejaba de cada pequeño ruido.; Der griesgrämige Vermieter beschwerte sich über jedes kleine Geräusch.
+es-gc-0146; verschroben; excéntrico; estrafalario, raro; C2; Mensch/Gefühle/Charakter; El excéntrico profesor coleccionó paraguas rotos durante décadas.; Der verschrobene Professor sammelte jahrzehntelang kaputte Regenschirme.
+es-gc-0147; jähzornig; irascible; colérico; C2; Mensch/Gefühle/Charakter; El cocinero irascible lanzó la sartén al otro lado de la cocina.; Der jähzornige Koch warf die Pfanne durch die Küche.
+es-gc-0148; wankelmütig; voluble; inconstante, veleidoso; C2; Mensch/Gefühle/Charakter; El votante voluble cambia de opinión cada semana.; Der wankelmütige Wähler ändert seine Meinung jede Woche.
+es-gc-0149; abgebrüht; endurecido; curtido, insensible; C2; Mensch/Gefühle/Charakter; Los años en el negocio lo dejaron endurecido y frío.; Die Jahre im Geschäft machten ihn abgebrüht und kalt.
+es-gc-0150; schwermütig; melancólico; triste; C2; Mensch/Gefühle/Stimmungen; La canción melancólica le recordaba veranos perdidos.; Das schwermütige Lied erinnerte sie an vergangene Sommer.

@@ -1,0 +1,152 @@
+# Französisch: Wetter & Umwelt
+id; Deutsch; Französisch; Weitere Antworten; Niveau; Themen; Beispiel Französisch; Beispiel Deutsch
+fr-wu-0001; Sonne; le soleil; ; A1; Natur/Umwelt/Wetter; Le soleil brille dans le ciel.; Die Sonne scheint am Himmel.
+fr-wu-0002; Regen; la pluie; ; A1; Natur/Umwelt/Wetter; Il nous faut plus de pluie pour le jardin.; Wir brauchen mehr Regen für den Garten.
+fr-wu-0003; Schnee; la neige; ; A1; Natur/Umwelt/Wetter; La neige est blanche et très froide.; Der Schnee ist weiß und sehr kalt.
+fr-wu-0004; Wind; le vent; ; A1; Natur/Umwelt/Wetter; Le vent est très fort aujourd'hui.; Der Wind ist heute sehr stark.
+fr-wu-0005; Wolke; le nuage; ; A1; Natur/Umwelt/Wetter; Il y a un gros nuage au-dessus de la maison.; Über dem Haus ist eine große Wolke.
+fr-wu-0006; Himmel; le ciel; ; A1; Natur/Umwelt/Wetter; Le ciel est bleu ce matin.; Der Himmel ist heute Morgen blau.
+fr-wu-0007; Wetter; le temps; la météo; A1; Natur/Umwelt/Wetter; Le temps est beau cette semaine.; Das Wetter ist diese Woche schön.
+fr-wu-0008; warm; chaud; doux, bon; A1; Natur/Umwelt/Wetter; Il fait chaud dans le jardin aujourd'hui.; Es ist heute warm im Garten.
+fr-wu-0009; kalt; froid; ; A1; Natur/Umwelt/Wetter; En janvier, il fait très froid dehors.; Draußen ist es im Januar sehr kalt.
+fr-wu-0010; heiß; chaud; très chaud, brûlant, caniculaire; A1; Natur/Umwelt/Wetter; L'été a été très chaud et long.; Der Sommer war heiß und lang.
+fr-wu-0011; Sommer; l'été; ; A1; Natur/Umwelt/Jahreszeiten; En été, nous nous baignons dans le lac.; Im Sommer schwimmen wir im See.
+fr-wu-0012; Winter; l'hiver; ; A1; Natur/Umwelt/Jahreszeiten; En hiver, les jours sont courts.; Im Winter sind die Tage kurz.
+fr-wu-0013; Frühling; le printemps; ; A1; Natur/Umwelt/Jahreszeiten; Au printemps, les fleurs reviennent.; Im Frühling kommen die Blumen zurück.
+fr-wu-0014; Herbst; l'automne; ; A1; Natur/Umwelt/Jahreszeiten; En automne, les feuilles tombent des arbres.; Im Herbst fallen die Blätter von den Bäumen.
+fr-wu-0015; Baum; l'arbre; ; A1; Natur/Umwelt/Natur; Le vieil arbre se trouve dans notre jardin.; Der alte Baum steht in unserem Garten.
+fr-wu-0016; Blume; la fleur; ; A1; Natur/Umwelt/Natur; Cette fleur est rouge et belle.; Diese Blume ist rot und schön.
+fr-wu-0017; Wasser; l'eau; ; A1; Natur/Umwelt/Natur; L'eau propre est importante pour tout le monde.; Sauberes Wasser ist für alle wichtig.
+fr-wu-0018; Luft; l'air; ; A1; Natur/Umwelt/Natur; L'air de la montagne est frais.; Die Luft in den Bergen ist frisch.
+fr-wu-0019; Eis; la glace; ; A1; Natur/Umwelt/Wetter; En hiver, il y a de la glace sur le lac.; Im Winter ist Eis auf dem See.
+fr-wu-0020; regnen; pleuvoir; ; A1; Natur/Umwelt/Wetter; Je crois qu'il va pleuvoir demain après-midi.; Ich glaube, morgen Nachmittag wird es regnen.
+fr-wu-0021; schneien; neiger; ; A1; Natur/Umwelt/Wetter; Il a commencé à neiger pendant la nuit.; In der Nacht begann es zu schneien.
+fr-wu-0022; scheinen; briller; ; A1; Natur/Umwelt/Wetter; Dimanche, le soleil brillera de nouveau.; Am Sonntag wird die Sonne wieder scheinen.
+fr-wu-0023; Natur; la nature; ; A1; Natur/Umwelt/Natur; Le week-end, nous aimons nous promener dans la nature.; Am Wochenende gehen wir gern in der Natur spazieren.
+fr-wu-0024; Gras; l'herbe; le gazon; A1; Natur/Umwelt/Natur; Après la pluie, l'herbe est verte.; Nach dem Regen ist das Gras grün.
+fr-wu-0025; Müll; les ordures; les déchets, la poubelle; A1; Natur/Umwelt/Recycling; Mets les ordures dans la poubelle, s'il te plaît.; Bitte wirf den Müll in die Tonne.
+fr-wu-0026; Gewitter; l'orage; ; A2; Natur/Umwelt/Wetter; Un violent orage arrive cette nuit.; Heute Nacht kommt ein schweres Gewitter.
+fr-wu-0027; Blitz; l'éclair; la foudre; A2; Natur/Umwelt/Wetter; L'éclair a frappé un grand arbre.; Der Blitz traf einen hohen Baum.
+fr-wu-0028; Donner; le tonnerre; ; A2; Natur/Umwelt/Wetter; Nous avons entendu le tonnerre au loin.; Wir hörten den Donner aus der Ferne.
+fr-wu-0029; Nebel; le brouillard; la brume; A2; Natur/Umwelt/Wetter; Un épais brouillard couvrait toute la vallée.; Dichter Nebel bedeckte das ganze Tal.
+fr-wu-0030; Sturm; la tempête; ; A2; Natur/Umwelt/Wetter; La tempête a cassé beaucoup de vieux arbres.; Der Sturm brach viele alte Bäume.
+fr-wu-0031; Regenschirm; le parapluie; ; A2; Natur/Umwelt/Wetter; Prends ton parapluie, on dirait qu'il va pleuvoir.; Nimm deinen Regenschirm, es sieht nach Regen aus.
+fr-wu-0032; Temperatur; la température; ; A2; Natur/Umwelt/Wetter; La température va monter ce week-end.; Die Temperatur wird am Wochenende steigen.
+fr-wu-0033; Grad; le degré; ; A2; Natur/Umwelt/Wetter; Il fait trente degrés à l'ombre.; Im Schatten sind es dreißig Grad.
+fr-wu-0034; Wettervorhersage; les prévisions météo; la météo, le bulletin météo; A2; Natur/Umwelt/Wetter; Les prévisions météo annoncent du soleil pour dimanche.; Die Wettervorhersage verspricht Sonnenschein für Sonntag.
+fr-wu-0035; Jahreszeit; la saison; ; A2; Natur/Umwelt/Jahreszeiten; Le printemps est ma saison préférée.; Der Frühling ist meine liebste Jahreszeit.
+fr-wu-0036; Frost; le gel; la gelée; A2; Natur/Umwelt/Wetter; Le gel a détruit les jeunes plantes.; Der Frost hat die jungen Pflanzen zerstört.
+fr-wu-0037; Hagel; la grêle; ; A2; Natur/Umwelt/Wetter; Hier, la grêle a abîmé beaucoup de voitures.; Der Hagel beschädigte gestern viele Autos.
+fr-wu-0038; Regenbogen; l'arc-en-ciel; ; A2; Natur/Umwelt/Wetter; Après la pluie, nous avons vu un bel arc-en-ciel.; Nach dem Regen sahen wir einen schönen Regenbogen.
+fr-wu-0039; Schauer; l'averse; ; A2; Natur/Umwelt/Wetter; Une courte averse est possible dans l'après-midi.; Am Nachmittag ist ein kurzer Schauer möglich.
+fr-wu-0040; wehen; souffler; ; A2; Natur/Umwelt/Wetter; Un vent froid souffle du nord.; Ein kalter Wind weht aus dem Norden.
+fr-wu-0041; frieren; avoir froid; geler; A2; Natur/Umwelt/Wetter; Sans veste, tu vas avoir froid dehors.; Ohne Jacke wirst du draußen frieren.
+fr-wu-0042; Umwelt; l'environnement; ; A2; Natur/Umwelt/Umweltschutz; Nous devons protéger l'environnement pour nos enfants.; Wir müssen die Umwelt für unsere Kinder schützen.
+fr-wu-0043; Klima; le climat; ; A2; Natur/Umwelt/Klima & Klimawandel; Le climat sur la côte est doux.; Das Klima an der Küste ist mild.
+fr-wu-0044; Energie; l'énergie; ; A2; Natur/Umwelt/Energie; Notre maison consomme beaucoup d'énergie en hiver.; Unser Haus verbraucht im Winter viel Energie.
+fr-wu-0045; Strom; l'électricité; le courant; A2; Natur/Umwelt/Energie; Pendant la tempête, l'électricité a été coupée.; Während des Sturms fiel der Strom aus.
+fr-wu-0046; Mülltonne; la poubelle; le bac à ordures; A2; Natur/Umwelt/Recycling; La poubelle derrière la maison est pleine.; Die Mülltonne hinter dem Haus ist voll.
+fr-wu-0047; Plastik; le plastique; ; A2; Natur/Umwelt/Recycling; Il y a trop de plastique dans la mer.; Es gibt zu viel Plastik im Meer.
+fr-wu-0048; Glas; le verre; ; A2; Natur/Umwelt/Recycling; Le vieux verre va dans le conteneur à verre.; Altes Glas gehört in den Glascontainer.
+fr-wu-0049; Papier; le papier; ; A2; Natur/Umwelt/Recycling; Nous collectons le vieux papier pour le recyclage.; Wir sammeln altes Papier für das Recycling.
+fr-wu-0050; Dose; la canette; la boîte de conserve, la boîte; A2; Natur/Umwelt/Recycling; Il a jeté la canette vide à la poubelle.; Er warf die leere Dose in den Mülleimer.
+fr-wu-0051; Flasche; la bouteille; ; A2; Natur/Umwelt/Recycling; Rapporte les bouteilles vides au magasin, s'il te plaît.; Bitte bring die leeren Flaschen zum Laden zurück.
+fr-wu-0052; Plastiktüte; le sac en plastique; le sac plastique; A2; Natur/Umwelt/Recycling; Au supermarché, je ne prends jamais de sac en plastique.; Im Supermarkt nehme ich nie eine Plastiktüte.
+fr-wu-0053; recyceln; recycler; ; A2; Natur/Umwelt/Recycling; À la maison, nous recyclons le verre, le papier et le plastique.; Zu Hause recyceln wir Glas, Papier und Plastik.
+fr-wu-0054; wegwerfen; jeter; ; A2; Natur/Umwelt/Recycling; Ne jette pas de nourriture qui est encore bonne.; Wirf kein Essen weg, das noch gut ist.
+fr-wu-0055; sparen; économiser; ; A2; Natur/Umwelt/Energie; Nous essayons d'économiser l'eau et l'électricité.; Wir versuchen, Wasser und Strom zu sparen.
+fr-wu-0056; trennen; trier; séparer; A2; Natur/Umwelt/Recycling; En Allemagne, les gens trient soigneusement leurs déchets.; In Deutschland trennen die Leute ihren Müll sorgfältig.
+fr-wu-0057; schützen; protéger; ; A2; Natur/Umwelt/Umweltschutz; Nous voulons protéger les forêts et les rivières.; Wir wollen die Wälder und Flüsse schützen.
+fr-wu-0058; trocken; sec; ; A2; Natur/Umwelt/Wetter; L'été a été trop sec pour les agriculteurs.; Der Sommer war zu trocken für die Bauern.
+fr-wu-0059; nass; mouillé; trempé; A2; Natur/Umwelt/Wetter; Mes chaussures sont mouillées à cause de la pluie.; Meine Schuhe sind nass vom Regen.
+fr-wu-0060; windig; venteux; il y a du vent; A2; Natur/Umwelt/Wetter; Aujourd'hui, le temps est trop venteux pour un pique-nique.; Heute ist es zu windig für ein Picknick.
+fr-wu-0061; Klimawandel; le changement climatique; le dérèglement climatique; B1; Natur/Umwelt/Klima & Klimawandel; Le changement climatique touche tous les pays de la Terre.; Der Klimawandel betrifft jedes Land der Erde.
+fr-wu-0062; Erderwärmung; le réchauffement climatique; le réchauffement de la planète; B1; Natur/Umwelt/Klima & Klimawandel; Le réchauffement climatique rend les étés plus chauds chaque année.; Die Erderwärmung macht die Sommer jedes Jahr heißer.
+fr-wu-0063; Überschwemmung; l'inondation; la crue; B1; Natur/Umwelt/Naturkatastrophen; L'inondation a détruit des maisons le long de la rivière.; Die Überschwemmung zerstörte Häuser entlang des Flusses.
+fr-wu-0064; Dürre; la sécheresse; ; B1; Natur/Umwelt/Naturkatastrophen; La longue sécheresse a ruiné la récolte.; Die lange Dürre hat die Ernte ruiniert.
+fr-wu-0065; Hitzewelle; la canicule; la vague de chaleur; B1; Natur/Umwelt/Naturkatastrophen; En juillet, une canicule a frappé la ville.; Im Juli traf eine Hitzewelle die Stadt.
+fr-wu-0066; Umweltverschmutzung; la pollution; ; B1; Natur/Umwelt/Umweltschutz; La pollution est un grand problème dans beaucoup de villes.; Umweltverschmutzung ist in vielen Städten ein großes Problem.
+fr-wu-0067; Abgase; les gaz d'échappement; ; B1; Natur/Umwelt/Umweltschutz; Les gaz d'échappement des voitures salissent l'air.; Abgase von Autos machen die Luft schmutzig.
+fr-wu-0068; Treibhauseffekt; l'effet de serre; ; B1; Natur/Umwelt/Klima & Klimawandel; L'effet de serre réchauffe de plus en plus notre planète.; Der Treibhauseffekt erwärmt unseren Planeten immer mehr.
+fr-wu-0069; erneuerbare Energie; l'énergie renouvelable; les énergies renouvelables; B1; Natur/Umwelt/Energie; L'énergie renouvelable vient du soleil, du vent et de l'eau.; Erneuerbare Energie kommt aus Sonne, Wind und Wasser.
+fr-wu-0070; Solarenergie; l'énergie solaire; ; B1; Natur/Umwelt/Energie; Notre toit produit de l'énergie solaire pour toute la maison.; Unser Dach erzeugt Solarenergie für das ganze Haus.
+fr-wu-0071; Windkraft; l'énergie éolienne; l'éolien; B1; Natur/Umwelt/Energie; L'énergie éolienne est importante dans le nord de l'Allemagne.; Windkraft ist in Norddeutschland wichtig.
+fr-wu-0072; Kohle; le charbon; ; B1; Natur/Umwelt/Energie; Brûler du charbon est mauvais pour le climat.; Kohle zu verbrennen ist schlecht für das Klima.
+fr-wu-0073; Erdöl; le pétrole; ; B1; Natur/Umwelt/Energie; Le prix du pétrole a encore augmenté le mois dernier.; Der Preis für Erdöl stieg letzten Monat wieder.
+fr-wu-0074; Erdgas; le gaz naturel; ; B1; Natur/Umwelt/Energie; Beaucoup de logements sont encore chauffés au gaz naturel.; Viele Wohnungen werden noch mit Erdgas geheizt.
+fr-wu-0075; Kraftwerk; la centrale électrique; la centrale; B1; Natur/Umwelt/Energie; L'ancienne centrale électrique fermera l'année prochaine.; Das alte Kraftwerk wird nächstes Jahr geschlossen.
+fr-wu-0076; Umweltschutz; la protection de l'environnement; ; B1; Natur/Umwelt/Umweltschutz; La protection de l'environnement devrait commencer au quotidien.; Umweltschutz sollte im Alltag beginnen.
+fr-wu-0077; Naturschutzgebiet; la réserve naturelle; ; B1; Natur/Umwelt/Umweltschutz; Des oiseaux rares vivent dans cette réserve naturelle.; In diesem Naturschutzgebiet leben seltene Vögel.
+fr-wu-0078; Mülltrennung; le tri des déchets; le tri sélectif; B1; Natur/Umwelt/Recycling; Le tri des déchets facilite beaucoup le recyclage.; Mülltrennung macht das Recycling viel einfacher.
+fr-wu-0079; Recyclinghof; la déchetterie; la déchèterie; B1; Natur/Umwelt/Recycling; Tu peux apporter tes vieux appareils électriques à la déchetterie.; Alte Elektrogeräte kannst du zum Recyclinghof bringen.
+fr-wu-0080; Pfand; la consigne; ; B1; Natur/Umwelt/Recycling; Pour chaque bouteille, on te rend la consigne.; Für jede Flasche bekommst du das Pfand zurück.
+fr-wu-0081; Verpackung; l'emballage; ; B1; Natur/Umwelt/Recycling; Ce produit utilise beaucoup trop d'emballage.; Dieses Produkt verwendet viel zu viel Verpackung.
+fr-wu-0082; verschmutzen; polluer; ; B1; Natur/Umwelt/Umweltschutz; Les usines ne doivent plus polluer les rivières.; Fabriken dürfen die Flüsse nicht mehr verschmutzen.
+fr-wu-0083; vermeiden; éviter; ; B1; Natur/Umwelt/Umweltschutz; En faisant les courses, nous essayons d'éviter les déchets plastiques.; Beim Einkaufen versuchen wir, Plastikmüll zu vermeiden.
+fr-wu-0084; verbrauchen; consommer; ; B1; Natur/Umwelt/Energie; Les nouveaux réfrigérateurs consomment beaucoup moins d'électricité.; Neue Kühlschränke verbrauchen viel weniger Strom.
+fr-wu-0085; Verbrauch; la consommation; ; B1; Natur/Umwelt/Energie; La consommation a baissé de dix pour cent cette année.; Der Verbrauch ist dieses Jahr um zehn Prozent gesunken.
+fr-wu-0086; Niederschlag; les précipitations; ; B1; Natur/Umwelt/Wetter; De fortes précipitations sont attendues dans le sud.; Im Süden wird starker Niederschlag erwartet.
+fr-wu-0087; Luftfeuchtigkeit; l'humidité; l'humidité de l'air; B1; Natur/Umwelt/Wetter; Avant un orage, l'humidité est très élevée.; Vor einem Gewitter ist die Luftfeuchtigkeit sehr hoch.
+fr-wu-0088; Klimaanlage; la climatisation; la clim, le climatiseur; B1; Natur/Umwelt/Energie; La climatisation consomme beaucoup d'électricité.; Die Klimaanlage verbraucht sehr viel Strom.
+fr-wu-0089; umweltfreundlich; écologique; respectueux de l'environnement; B1; Natur/Umwelt/Umweltschutz; Voyager en train est assez écologique.; Mit dem Zug zu reisen ist ziemlich umweltfreundlich.
+fr-wu-0090; Abfall; les déchets; le déchet; B1; Natur/Umwelt/Recycling; Chaque foyer produit beaucoup trop de déchets.; Jeder Haushalt produziert viel zu viel Abfall.
+fr-wu-0091; Atmosphäre; l'atmosphère; ; B1; Natur/Umwelt/Klima & Klimawandel; Les gaz de l'atmosphère retiennent la chaleur.; Gase in der Atmosphäre halten die Wärme fest.
+fr-wu-0092; Ozonschicht; la couche d'ozone; ; B1; Natur/Umwelt/Klima & Klimawandel; La couche d'ozone nous protège des rayons dangereux.; Die Ozonschicht schützt uns vor gefährlichen Strahlen.
+fr-wu-0093; Regenwald; la forêt tropicale; la forêt tropicale humide; B1; Natur/Umwelt/Natur; La forêt tropicale abrite des millions d'espèces.; Der Regenwald ist die Heimat von Millionen Arten.
+fr-wu-0094; aussterben; disparaître; s'éteindre; B1; Natur/Umwelt/Natur; Beaucoup d'animaux pourraient disparaître au cours de ce siècle.; Viele Tiere könnten in diesem Jahrhundert aussterben.
+fr-wu-0095; bedroht; menacé; en voie de disparition; B1; Natur/Umwelt/Natur; Aujourd'hui, le tigre est une espèce menacée.; Der Tiger ist heute eine bedrohte Art.
+fr-wu-0096; Nachhaltigkeit; la durabilité; le développement durable; B2; Natur/Umwelt/Umweltschutz; La durabilité joue un rôle croissant dans l'économie.; Nachhaltigkeit spielt in der Wirtschaft eine wachsende Rolle.
+fr-wu-0097; nachhaltig; durable; ; B2; Natur/Umwelt/Umweltschutz; Nous devrions passer à des produits plus durables.; Wir sollten auf nachhaltigere Produkte umsteigen.
+fr-wu-0098; Treibhausgas; le gaz à effet de serre; ; B2; Natur/Umwelt/Klima & Klimawandel; Le méthane est un gaz à effet de serre très puissant.; Methan ist ein sehr starkes Treibhausgas.
+fr-wu-0099; Kohlendioxid; le dioxyde de carbone; le CO2, le gaz carbonique; B2; Natur/Umwelt/Klima & Klimawandel; Les voitures rejettent de grandes quantités de dioxyde de carbone.; Autos stoßen große Mengen Kohlendioxid aus.
+fr-wu-0100; Emission; l'émission; les émissions; B2; Natur/Umwelt/Klima & Klimawandel; L'usine a réduit ses émissions de moitié.; Die Fabrik hat ihre Emissionen um die Hälfte reduziert.
+fr-wu-0101; Klimaschutz; la protection du climat; l'action climatique; B2; Natur/Umwelt/Klima & Klimawandel; La protection du climat a besoin du soutien de tous les pays.; Klimaschutz braucht die Unterstützung aller Länder.
+fr-wu-0102; Klimagipfel; le sommet sur le climat; le sommet climatique; B2; Natur/Umwelt/Klima & Klimawandel; Le sommet sur le climat s'est terminé sans résultat clair.; Der Klimagipfel endete ohne ein klares Ergebnis.
+fr-wu-0103; Meeresspiegel; le niveau de la mer; ; B2; Natur/Umwelt/Klima & Klimawandel; Le niveau de la mer monte plus vite que prévu.; Der Meeresspiegel steigt schneller als erwartet.
+fr-wu-0104; Gletscher; le glacier; ; B2; Natur/Umwelt/Klima & Klimawandel; Le glacier a perdu la moitié de sa glace.; Der Gletscher hat die Hälfte seines Eises verloren.
+fr-wu-0105; schmelzen; fondre; ; B2; Natur/Umwelt/Klima & Klimawandel; Les calottes glaciaires fondent plus vite à chaque décennie.; Die Eiskappen schmelzen mit jedem Jahrzehnt schneller.
+fr-wu-0106; Abholzung; la déforestation; le déboisement; B2; Natur/Umwelt/Umweltschutz; La déforestation détruit l'habitat de nombreux animaux.; Die Abholzung zerstört den Lebensraum vieler Tiere.
+fr-wu-0107; Wiederaufforstung; le reboisement; la reforestation; B2; Natur/Umwelt/Umweltschutz; Le reboisement peut redonner vie aux forêts abîmées.; Wiederaufforstung kann geschädigte Wälder wieder zum Leben erwecken.
+fr-wu-0108; Artenvielfalt; la biodiversité; la diversité des espèces; B2; Natur/Umwelt/Natur; La biodiversité recule dans de nombreuses régions du monde.; Die Artenvielfalt nimmt in vielen Regionen der Welt ab.
+fr-wu-0109; Ökosystem; l'écosystème; ; B2; Natur/Umwelt/Natur; Un écosystème sain peut se rétablir lentement de lui-même.; Ein gesundes Ökosystem kann sich langsam selbst erholen.
+fr-wu-0110; Lebensraum; l'habitat; le milieu de vie; B2; Natur/Umwelt/Natur; La zone humide est un habitat important pour les oiseaux.; Das Feuchtgebiet ist ein wichtiger Lebensraum für Vögel.
+fr-wu-0111; Umweltkatastrophe; la catastrophe écologique; la catastrophe environnementale; B2; Natur/Umwelt/Naturkatastrophen; La marée noire a été une immense catastrophe écologique.; Die Ölpest war eine riesige Umweltkatastrophe.
+fr-wu-0112; Wirbelsturm; le cyclone; l'ouragan; B2; Natur/Umwelt/Naturkatastrophen; Le cyclone a atteint la côte vendredi soir.; Der Wirbelsturm erreichte die Küste am Freitagabend.
+fr-wu-0113; Erdrutsch; le glissement de terrain; ; B2; Natur/Umwelt/Naturkatastrophen; De fortes pluies ont provoqué un glissement de terrain près du village.; Starker Regen verursachte einen Erdrutsch nahe dem Dorf.
+fr-wu-0114; Waldbrand; l'incendie de forêt; le feu de forêt; B2; Natur/Umwelt/Naturkatastrophen; L'incendie de forêt s'est propagé rapidement dans la chaleur sèche.; Der Waldbrand breitete sich in der trockenen Hitze schnell aus.
+fr-wu-0115; Luftqualität; la qualité de l'air; ; B2; Natur/Umwelt/Umweltschutz; La qualité de l'air en ville s'est améliorée.; Die Luftqualität in der Stadt hat sich verbessert.
+fr-wu-0116; Feinstaub; les particules fines; ; B2; Natur/Umwelt/Umweltschutz; Les particules fines dues à la circulation nuisent à nos poumons.; Feinstaub aus dem Verkehr schadet unseren Lungen.
+fr-wu-0117; Schadstoff; le polluant; la substance nocive; B2; Natur/Umwelt/Umweltschutz; Ce polluant a été trouvé dans l'eau potable.; Dieser Schadstoff wurde im Trinkwasser gefunden.
+fr-wu-0118; Wasserkraft; l'énergie hydraulique; l'hydroélectricité; B2; Natur/Umwelt/Energie; La Norvège tire la plus grande partie de son électricité de l'énergie hydraulique.; Norwegen gewinnt den größten Teil seines Stroms aus Wasserkraft.
+fr-wu-0119; Atomkraft; l'énergie nucléaire; le nucléaire; B2; Natur/Umwelt/Energie; L'Allemagne a décidé de sortir de l'énergie nucléaire.; Deutschland beschloss den Ausstieg aus der Atomkraft.
+fr-wu-0120; Stromverbrauch; la consommation d'électricité; la consommation électrique; B2; Natur/Umwelt/Energie; Notre consommation d'électricité double pendant les mois d'hiver.; Unser Stromverbrauch verdoppelt sich in den Wintermonaten.
+fr-wu-0121; Energiewende; la transition énergétique; ; B2; Natur/Umwelt/Energie; La transition énergétique a besoin de nouvelles lignes électriques et de moyens de stockage.; Die Energiewende braucht neue Stromleitungen und Speicher.
+fr-wu-0122; Dämmung; l'isolation; l'isolation thermique; B2; Natur/Umwelt/Energie; Une bonne isolation garde la chaleur dans la maison.; Eine gute Dämmung hält die Wärme im Haus.
+fr-wu-0123; CO2-Fußabdruck; l'empreinte carbone; ; B2; Natur/Umwelt/Klima & Klimawandel; Prendre moins l'avion réduit fortement ton empreinte carbone.; Weniger zu fliegen verringert deinen CO2-Fußabdruck stark.
+fr-wu-0124; wiederverwenden; réutiliser; ; B2; Natur/Umwelt/Recycling; Tu peux réutiliser ces bocaux pour de la confiture maison.; Diese Gläser kannst du für selbstgemachte Marmelade wiederverwenden.
+fr-wu-0125; entsorgen; éliminer; se débarrasser de, jeter; B2; Natur/Umwelt/Recycling; Les vieilles piles doivent être éliminées séparément.; Alte Batterien musst du getrennt entsorgen.
+fr-wu-0126; Kreislaufwirtschaft; l'économie circulaire; ; C1; Natur/Umwelt/Recycling; Une économie circulaire garde les matériaux plus longtemps en circulation.; Eine Kreislaufwirtschaft hält Materialien länger im Umlauf.
+fr-wu-0127; Klimaneutralität; la neutralité carbone; la neutralité climatique; C1; Natur/Umwelt/Klima & Klimawandel; La ville veut atteindre la neutralité carbone d'ici 2035.; Die Stadt will bis 2035 Klimaneutralität erreichen.
+fr-wu-0128; Emissionshandel; l'échange de quotas d'émission; le marché du carbone; C1; Natur/Umwelt/Klima & Klimawandel; L'échange de quotas d'émission donne un prix à chaque tonne.; Der Emissionshandel gibt jeder Tonne einen Preis.
+fr-wu-0129; Ressourcenknappheit; la pénurie de ressources; la raréfaction des ressources; C1; Natur/Umwelt/Energie; La pénurie de ressources oblige les entreprises à recycler davantage de matériaux.; Ressourcenknappheit zwingt Unternehmen, mehr Materialien zu recyceln.
+fr-wu-0130; Ozeanversauerung; l'acidification des océans; ; C1; Natur/Umwelt/Klima & Klimawandel; L'acidification des océans menace les coraux et les coquillages dans le monde entier.; Die Ozeanversauerung bedroht Korallen und Muscheln weltweit.
+fr-wu-0131; Kipppunkt; le point de bascule; le point de basculement; C1; Natur/Umwelt/Klima & Klimawandel; Les scientifiques avertissent que nous approchons d'un point de bascule.; Wissenschaftler warnen, dass wir uns einem Kipppunkt nähern.
+fr-wu-0132; Umweltverträglichkeitsprüfung; l'étude d'impact environnemental; l'étude d'impact; C1; Natur/Umwelt/Umweltschutz; Le projet exige une étude d'impact environnemental détaillée.; Das Projekt erfordert eine detaillierte Umweltverträglichkeitsprüfung.
+fr-wu-0133; Versorgungssicherheit; la sécurité d'approvisionnement; ; C1; Natur/Umwelt/Energie; La sécurité d'approvisionnement est devenue un enjeu politique central.; Versorgungssicherheit wurde zu einem zentralen politischen Thema.
+fr-wu-0134; Artensterben; l'extinction des espèces; la disparition des espèces; C1; Natur/Umwelt/Natur; L'extinction des espèces s'accélère à un rythme alarmant.; Das Artensterben beschleunigt sich in alarmierendem Tempo.
+fr-wu-0135; Überfischung; la surpêche; ; C1; Natur/Umwelt/Natur; La surpêche a vidé de grandes parties des océans.; Die Überfischung hat große Teile der Meere geleert.
+fr-wu-0136; Wüstenbildung; la désertification; ; C1; Natur/Umwelt/Klima & Klimawandel; La désertification transforme des terres fertiles en sols arides.; Die Wüstenbildung verwandelt fruchtbares Land in kargen Boden.
+fr-wu-0137; Klimaanpassung; l'adaptation au changement climatique; l'adaptation climatique; C1; Natur/Umwelt/Klima & Klimawandel; Les villes investissent dans l'adaptation au changement climatique contre la chaleur et les inondations.; Städte investieren in Klimaanpassung gegen Hitze und Hochwasser.
+fr-wu-0138; Starkregen; les pluies diluviennes; les fortes pluies, la pluie torrentielle; C1; Natur/Umwelt/Wetter; Des pluies diluviennes ont inondé plusieurs rues en quelques minutes.; Starkregen überflutete innerhalb von Minuten mehrere Straßen.
+fr-wu-0139; Extremwetterereignis; l'événement météorologique extrême; le phénomène météorologique extrême; C1; Natur/Umwelt/Naturkatastrophen; Chaque événement météorologique extrême coûte des millions à la région.; Jedes Extremwetterereignis kostet die Region Millionen.
+fr-wu-0140; Energieeffizienz; l'efficacité énergétique; ; C1; Natur/Umwelt/Energie; Une meilleure efficacité énergétique réduit à la fois les coûts et les émissions.; Höhere Energieeffizienz senkt Kosten und Emissionen gleichermaßen.
+fr-wu-0141; Umweltbewusstsein; la conscience écologique; la conscience environnementale; C1; Natur/Umwelt/Umweltschutz; La conscience écologique a fortement progressé chez les jeunes.; Das Umweltbewusstsein ist bei jungen Menschen stark gewachsen.
+fr-wu-0142; Flächenverbrauch; l'artificialisation des sols; la consommation d'espace; C1; Natur/Umwelt/Umweltschutz; L'artificialisation des sols pour les nouvelles routes reste beaucoup trop élevée.; Der Flächenverbrauch für neue Straßen bleibt viel zu hoch.
+fr-wu-0143; Grundwasserspiegel; le niveau de la nappe phréatique; le niveau des nappes; C1; Natur/Umwelt/Natur; Le niveau de la nappe phréatique a baissé après trois étés secs.; Der Grundwasserspiegel ist nach drei trockenen Sommern gesunken.
+fr-wu-0144; Raubbau; la surexploitation; ; C2; Natur/Umwelt/Umweltschutz; La surexploitation des forêts laisse des dégâts durables.; Der Raubbau an den Wäldern hinterlässt bleibende Schäden.
+fr-wu-0145; Renaturierung; la renaturation; la restauration écologique; C2; Natur/Umwelt/Natur; La renaturation de la rivière a duré près de dix ans.; Die Renaturierung des Flusses dauerte fast ein Jahrzehnt.
+fr-wu-0146; Vorsorgeprinzip; le principe de précaution; ; C2; Natur/Umwelt/Umweltschutz; Le principe de précaution guide le droit européen de l'environnement.; Das Vorsorgeprinzip leitet das europäische Umweltrecht.
+fr-wu-0147; Kohlenstoffsenke; le puits de carbone; ; C2; Natur/Umwelt/Klima & Klimawandel; Une forêt saine agit comme un puits de carbone naturel.; Ein gesunder Wald wirkt als natürliche Kohlenstoffsenke.
+fr-wu-0148; Treibhauspotenzial; le potentiel de réchauffement global; le potentiel de réchauffement planétaire; C2; Natur/Umwelt/Klima & Klimawandel; Le méthane a un potentiel de réchauffement global bien plus élevé.; Methan hat ein weitaus höheres Treibhauspotenzial.
+fr-wu-0149; Eutrophierung; l'eutrophisation; ; C2; Natur/Umwelt/Natur; L'eutrophisation fait proliférer les algues dans tout le lac.; Durch die Eutrophierung breiten sich Algen über den See aus.
+fr-wu-0150; Resilienz; la résilience; ; C2; Natur/Umwelt/Klima & Klimawandel; Les écosystèmes diversifiés font preuve d'une plus grande résilience face au stress climatique.; Vielfältige Ökosysteme zeigen eine größere Resilienz gegenüber Klimastress.

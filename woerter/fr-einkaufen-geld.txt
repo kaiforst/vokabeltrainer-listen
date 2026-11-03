@@ -1,0 +1,152 @@
+# Französisch: Einkaufen & Geld
+id; Deutsch; Französisch; Weitere Antworten; Niveau; Themen; Beispiel Französisch; Beispiel Deutsch
+fr-eg-0001; kaufen; acheter; ; A1; Alltag/Einkaufen/Geschäfte; Je voudrais acheter une nouvelle veste.; Ich möchte eine neue Jacke kaufen.
+fr-eg-0002; Geld; l'argent; ; A1; Alltag/Einkaufen/Geld; Je n'ai pas d'argent sur moi aujourd'hui.; Ich habe heute kein Geld dabei.
+fr-eg-0003; Preis; le prix; ; A1; Alltag/Einkaufen/Preise; Quel est le prix de cette chemise ?; Was ist der Preis für dieses Hemd?
+fr-eg-0004; Geschäft; le magasin; la boutique; A1; Alltag/Einkaufen/Geschäfte; Le magasin ouvre à neuf heures du matin.; Das Geschäft öffnet um neun Uhr morgens.
+fr-eg-0005; Supermarkt; le supermarché; ; A1; Alltag/Einkaufen/Geschäfte; Nous allons au supermarché le samedi.; Wir gehen samstags in den Supermarkt.
+fr-eg-0006; Markt; le marché; ; A1; Alltag/Einkaufen/Geschäfte; Au marché, il y a des fruits et des légumes frais.; Auf dem Markt gibt es frisches Obst und Gemüse.
+fr-eg-0007; Bäckerei; la boulangerie; ; A1; Alltag/Einkaufen/Geschäfte; La boulangerie de notre rue sent merveilleusement bon.; Die Bäckerei in unserer Straße duftet herrlich.
+fr-eg-0008; teuer; cher; ; A1; Alltag/Einkaufen/Preise; Cette montre est trop chère pour moi.; Diese Uhr ist mir zu teuer.
+fr-eg-0009; billig; bon marché; pas cher; A1; Alltag/Einkaufen/Preise; Les chaussures étaient bon marché, mais de bonne qualité.; Die Schuhe waren billig aber gut.
+fr-eg-0010; bezahlen; payer; ; A1; Alltag/Einkaufen/Bezahlen; Est-ce que je peux payer par carte ici ?; Kann ich hier mit Karte bezahlen?
+fr-eg-0011; kosten; coûter; ; A1; Alltag/Einkaufen/Preise; Combien coûte ce sac ?; Wie viel kostet diese Tasche?
+fr-eg-0012; Euro; l'euro; ; A1; Alltag/Einkaufen/Geld; Le pain coûte deux euros cinquante.; Das Brot kostet zwei Euro fünfzig.
+fr-eg-0013; Kasse; la caisse; ; A1; Alltag/Einkaufen/Bezahlen; Veuillez attendre là-bas, à la caisse.; Bitte warten Sie dort an der Kasse.
+fr-eg-0014; Tasche; le sac; ; A1; Alltag/Einkaufen/Geschäfte; Vous avez besoin d'un sac pour ça ?; Brauchen Sie dafür eine Tasche?
+fr-eg-0015; Kunde; le client; la cliente; A1; Alltag/Einkaufen/Geschäfte; Le client attend à la porte.; Der Kunde wartet an der Tür.
+fr-eg-0016; verkaufen; vendre; ; A1; Alltag/Einkaufen/Geschäfte; Dans ce magasin, ils vendent de belles chaussures.; In diesem Geschäft verkaufen sie schöne Schuhe.
+fr-eg-0017; Verkäufer; le vendeur; la vendeuse; A1; Alltag/Einkaufen/Geschäfte; Le vendeur était très aimable aujourd'hui.; Der Verkäufer war heute sehr freundlich.
+fr-eg-0018; geöffnet; ouvert; ; A1; Alltag/Einkaufen/Geschäfte; La boulangerie est ouverte jusqu'à six heures.; Die Bäckerei ist bis sechs geöffnet.
+fr-eg-0019; geschlossen; fermé; ; A1; Alltag/Einkaufen/Geschäfte; Les magasins sont fermés le dimanche.; Die Geschäfte sind sonntags geschlossen.
+fr-eg-0020; Kiosk; le kiosque; le kiosque à journaux; A1; Alltag/Einkaufen/Geschäfte; On peut acheter un journal au kiosque.; Am Kiosk kann man eine Zeitung kaufen.
+fr-eg-0021; Apotheke; la pharmacie; ; A1; Alltag/Einkaufen/Geschäfte; Il y a une pharmacie près d'ici ?; Gibt es hier in der Nähe eine Apotheke?
+fr-eg-0022; Buchhandlung; la librairie; ; A1; Alltag/Einkaufen/Geschäfte; Elle travaille dans une petite librairie en ville.; Sie arbeitet in einer kleinen Buchhandlung in der Stadt.
+fr-eg-0023; Einkaufsliste; la liste de courses; la liste des courses; A1; Alltag/Einkaufen/Geschäfte; Le lait et les œufs sont sur ma liste de courses.; Milch und Eier stehen auf meiner Einkaufsliste.
+fr-eg-0024; einkaufen; faire les courses; faire des achats, faire des courses; A1; Alltag/Einkaufen/Geschäfte; Nous faisons les courses au marché tous les vendredis.; Wir kaufen jeden Freitag auf dem Markt ein.
+fr-eg-0025; Cent; le centime; le cent; A1; Alltag/Einkaufen/Geld; La pomme coûte quatre-vingt-dix centimes.; Der Apfel kostet neunzig Cent.
+fr-eg-0026; Wechselgeld; la monnaie; ; A2; Alltag/Einkaufen/Bezahlen; Voici votre monnaie, trois euros.; Hier ist Ihr Wechselgeld von drei Euro.
+fr-eg-0027; Kreditkarte; la carte de crédit; la carte bancaire; A2; Alltag/Einkaufen/Bezahlen; J'ai payé l'hôtel par carte de crédit.; Ich habe das Hotel mit Kreditkarte bezahlt.
+fr-eg-0028; Bargeld; l'argent liquide; les espèces, le liquide; A2; Alltag/Einkaufen/Bezahlen; Ce petit magasin n'accepte que l'argent liquide.; Dieses kleine Geschäft nimmt nur Bargeld.
+fr-eg-0029; Geldautomat; le distributeur de billets; le distributeur, le DAB; A2; Alltag/Einkaufen/Geld, Reisen/Urlaub/Unterwegs; Y a-t-il un distributeur de billets près de la gare ?; Gibt es einen Geldautomaten in der Nähe des Bahnhofs?
+fr-eg-0030; Bank; la banque; ; A2; Alltag/Einkaufen/Geld; La banque ferme à seize heures.; Die Bank schließt um vier Uhr nachmittags.
+fr-eg-0031; Konto; le compte; le compte bancaire; A2; Alltag/Einkaufen/Geld; J'ai ouvert un compte à la banque du quartier.; Ich habe ein Konto bei der örtlichen Bank eröffnet.
+fr-eg-0032; sparen; économiser; épargner, mettre de côté; A2; Alltag/Einkaufen/Geld; Nous économisons un peu d'argent chaque mois.; Wir sparen jeden Monat etwas Geld.
+fr-eg-0033; ausgeben; dépenser; ; A2; Alltag/Einkaufen/Geld; Il dépense trop pour ses vêtements.; Er gibt zu viel für Kleidung aus.
+fr-eg-0034; Quittung; le reçu; la quittance; A2; Alltag/Einkaufen/Bezahlen; Je pourrais avoir un reçu, s'il vous plaît ?; Könnte ich bitte eine Quittung bekommen?
+fr-eg-0035; Angebot; l'offre; la promotion; A2; Alltag/Einkaufen/Angebote; Cette semaine, il y a une offre sur le café.; Diese Woche gibt es ein Angebot für Kaffee.
+fr-eg-0036; Rabatt; la remise; la réduction, le rabais; A2; Alltag/Einkaufen/Angebote; Ici, les étudiants ont une remise de dix pour cent.; Studenten bekommen hier zehn Prozent Rabatt.
+fr-eg-0037; Sonderangebot; la promotion; l'offre spéciale, la promo; A2; Alltag/Einkaufen/Angebote; J'ai eu cette veste grâce à une vraie promotion.; Die Jacke war ein echtes Sonderangebot.
+fr-eg-0038; Schaufenster; la vitrine; ; A2; Alltag/Einkaufen/Geschäfte; J'ai vu la robe dans la vitrine.; Ich habe das Kleid im Schaufenster gesehen.
+fr-eg-0039; Regal; l'étagère; le rayon, le rayonnage; A2; Alltag/Einkaufen/Geschäfte; Le riz est sur l'étagère du bas.; Der Reis steht im untersten Regal.
+fr-eg-0040; Einkaufswagen; le chariot; le caddie; A2; Alltag/Einkaufen/Geschäfte; Il faut une pièce pour le chariot.; Man braucht eine Münze für den Einkaufswagen.
+fr-eg-0041; Einkaufszentrum; le centre commercial; ; A2; Alltag/Einkaufen/Geschäfte; Le nouveau centre commercial compte quatre-vingts magasins.; Das neue Einkaufszentrum hat achtzig Geschäfte.
+fr-eg-0042; Metzgerei; la boucherie; la charcuterie; A2; Alltag/Einkaufen/Geschäfte; J'achète nos saucisses à la boucherie.; Ich hole unsere Würste aus der Metzgerei.
+fr-eg-0043; Drogerie; la droguerie; la parapharmacie; A2; Alltag/Einkaufen/Geschäfte; On peut acheter du shampoing à la droguerie.; Shampoo kann man in der Drogerie kaufen.
+fr-eg-0044; Flohmarkt; le marché aux puces; la brocante, les puces; A2; Alltag/Einkaufen/Geschäfte; Nous avons trouvé de vieux livres au marché aux puces.; Wir haben auf dem Flohmarkt alte Bücher gefunden.
+fr-eg-0045; Größe; la taille; la pointure; A2; Alltag/Einkaufen/Geschäfte; Vous avez cette chemise en taille M ?; Haben Sie dieses Hemd in Größe M?
+fr-eg-0046; anprobieren; essayer; ; A2; Alltag/Einkaufen/Geschäfte; Je peux essayer ce pantalon ?; Kann ich diese Hose anprobieren?
+fr-eg-0047; passen; aller bien; convenir, aller; A2; Alltag/Einkaufen/Geschäfte; Ces chaussures me vont parfaitement bien.; Diese Schuhe passen mir perfekt.
+fr-eg-0048; umtauschen; échanger; ; A2; Alltag/Einkaufen/Reklamation; Je peux échanger ce pull contre un plus grand ?; Kann ich diesen Pullover gegen einen größeren umtauschen?
+fr-eg-0049; zurückgeben; rendre; retourner, rapporter; A2; Alltag/Einkaufen/Reklamation; Je voudrais rendre ce casque cassé.; Ich möchte diese kaputten Kopfhörer zurückgeben.
+fr-eg-0050; Öffnungszeiten; les horaires d'ouverture; les heures d'ouverture; A2; Alltag/Einkaufen/Geschäfte; Les horaires d'ouverture sont affichés sur la porte.; Die Öffnungszeiten stehen an der Tür.
+fr-eg-0051; Rechnung; la facture; ; A2; Alltag/Einkaufen/Bezahlen; La facture est arrivée deux jours après la livraison.; Die Rechnung kam zwei Tage nach der Lieferung.
+fr-eg-0052; Münze; la pièce; la pièce de monnaie; A2; Alltag/Einkaufen/Geld; Il a trouvé une vieille pièce dans sa poche.; Er fand eine alte Münze in seiner Tasche.
+fr-eg-0053; Schein; le billet; le billet de banque; A2; Alltag/Einkaufen/Geld; Elle a payé avec un billet de cinquante euros.; Sie bezahlte mit einem Fünfzig-Euro-Schein.
+fr-eg-0054; Geldbeutel; le porte-monnaie; le portefeuille; A2; Alltag/Einkaufen/Geld; Mon porte-monnaie est presque vide avant le jour de paie.; Mein Geldbeutel ist vor dem Zahltag fast leer.
+fr-eg-0055; kostenlos; gratuit; gratuitement; A2; Alltag/Einkaufen/Preise; La livraison est gratuite à partir de cinquante euros.; Die Lieferung ist ab fünfzig Euro kostenlos.
+fr-eg-0056; günstig; pas cher; bon marché, abordable, avantageux; A2; Alltag/Einkaufen/Preise; Ce magasin est connu pour ses meubles pas chers.; Dieses Geschäft ist für günstige Möbel bekannt.
+fr-eg-0057; Preisschild; l'étiquette; l'étiquette de prix; A2; Alltag/Einkaufen/Preise; Il n'y a pas d'étiquette sur cette tasse.; An dieser Tasse ist kein Preisschild.
+fr-eg-0058; bestellen; commander; ; A2; Alltag/Einkaufen/Online-Shopping; Je commande la plupart de mes livres en ligne.; Ich bestelle die meisten meiner Bücher online.
+fr-eg-0059; liefern; livrer; ; A2; Alltag/Einkaufen/Online-Shopping; Ils livrent les meubles mardi prochain.; Sie liefern die Möbel nächsten Dienstag.
+fr-eg-0060; Paket; le colis; le paquet; A2; Alltag/Einkaufen/Online-Shopping; Le colis est arrivé au bout de deux jours seulement.; Das Paket kam schon nach zwei Tagen an.
+fr-eg-0061; Lieferung; la livraison; ; B1; Alltag/Einkaufen/Online-Shopping; La livraison prend trois à cinq jours ouvrables.; Die Lieferung dauert drei bis fünf Werktage.
+fr-eg-0062; Versand; l'expédition; l'envoi; B1; Alltag/Einkaufen/Online-Shopping; L'expédition est gratuite à partir de quarante euros.; Der Versand ist ab vierzig Euro gratis.
+fr-eg-0063; Versandkosten; les frais de port; les frais d'envoi, les frais de livraison; B1; Alltag/Einkaufen/Online-Shopping; Les frais de port étaient plus élevés que le prix du livre lui-même.; Die Versandkosten waren höher als das Buch selbst.
+fr-eg-0064; Warenkorb; le panier; ; B1; Alltag/Einkaufen/Online-Shopping; Mets d'abord les chaussures dans ton panier.; Lege die Schuhe zuerst in deinen Warenkorb.
+fr-eg-0065; Kundenkonto; le compte client; ; B1; Alltag/Einkaufen/Online-Shopping; Crée un compte client pour suivre tes commandes.; Erstelle ein Kundenkonto um deine Bestellungen zu verfolgen.
+fr-eg-0066; Bewertung; l'avis; l'évaluation, la note; B1; Alltag/Einkaufen/Online-Shopping; Lis chaque avis avant d'acheter des appareils électroniques chers.; Lies jede Bewertung bevor du teure Elektronik kaufst.
+fr-eg-0067; Händler; le commerçant; la commerçante, le marchand, le revendeur; B1; Alltag/Einkaufen/Geschäfte; Le commerçant proposait deux ans de garantie.; Der Händler bot zwei Jahre Garantie an.
+fr-eg-0068; Ware; la marchandise; les marchandises; B1; Alltag/Einkaufen/Geschäfte; La marchandise arrive au magasin tous les matins.; Die Ware kommt jeden Morgen im Laden an.
+fr-eg-0069; Marke; la marque; ; B1; Alltag/Einkaufen/Geschäfte; Cette marque est populaire chez les jeunes.; Diese Marke ist bei jungen Leuten beliebt.
+fr-eg-0070; Qualität; la qualité; ; B1; Alltag/Einkaufen/Geschäfte; Quand je fais les courses, la qualité compte plus pour moi que la quantité.; Beim Einkaufen ist mir Qualität wichtiger als Menge.
+fr-eg-0071; vergleichen; comparer; ; B1; Alltag/Einkaufen/Preise; Compare toujours les prix avant d'acheter en ligne.; Vergleiche immer die Preise bevor du online kaufst.
+fr-eg-0072; Preisvergleich; la comparaison des prix; le comparatif de prix; B1; Alltag/Einkaufen/Preise; Une rapide comparaison des prix m'a fait économiser vingt euros.; Ein schneller Preisvergleich hat mir zwanzig Euro gespart.
+fr-eg-0073; handeln; marchander; négocier; B1; Alltag/Einkaufen/Preise; Au marché aux puces, on peut marchander un peu.; Auf dem Flohmarkt kann man ein bisschen handeln.
+fr-eg-0074; Ermäßigung; la réduction; le tarif réduit; B1; Alltag/Einkaufen/Angebote; Le lundi, les seniors ont droit à une réduction.; Senioren bekommen montags eine Ermäßigung.
+fr-eg-0075; Schlussverkauf; les soldes; ; B1; Alltag/Einkaufen/Angebote; J'ai acheté mon manteau d'hiver pendant les soldes.; Ich habe meinen Wintermantel im Schlussverkauf gekauft.
+fr-eg-0076; Gutschein; le bon d'achat; le bon, le chèque-cadeau, la carte cadeau; B1; Alltag/Einkaufen/Angebote; Elle m'a offert un bon d'achat pour mon anniversaire.; Sie hat mir einen Gutschein zum Geburtstag geschenkt.
+fr-eg-0077; Kundenkarte; la carte de fidélité; ; B1; Alltag/Einkaufen/Angebote; Avec une carte de fidélité, on cumule des points.; Mit einer Kundenkarte sammelt man Punkte.
+fr-eg-0078; Schnäppchen; la bonne affaire; ; B1; Alltag/Einkaufen/Angebote; Cette veste en cuir était une vraie bonne affaire.; Diese Lederjacke war ein echtes Schnäppchen.
+fr-eg-0079; Reklamation; la réclamation; ; B1; Alltag/Einkaufen/Reklamation; Le magasin a traité ma réclamation très rapidement.; Das Geschäft bearbeitete meine Reklamation sehr schnell.
+fr-eg-0080; sich beschweren; se plaindre; ; B1; Alltag/Einkaufen/Reklamation; Je voudrais me plaindre de ce grille-pain cassé.; Ich möchte mich über diesen kaputten Toaster beschweren.
+fr-eg-0081; Umtausch; l'échange; ; B1; Alltag/Einkaufen/Reklamation; Un échange est possible sous quatorze jours.; Ein Umtausch ist innerhalb von vierzehn Tagen möglich.
+fr-eg-0082; Rückerstattung; le remboursement; ; B1; Alltag/Einkaufen/Reklamation; J'ai demandé un remboursement intégral.; Ich habe eine vollständige Rückerstattung verlangt.
+fr-eg-0083; Garantie; la garantie; ; B1; Alltag/Einkaufen/Reklamation; L'ordinateur portable a une garantie de deux ans.; Der Laptop hat zwei Jahre Garantie.
+fr-eg-0084; Kassenbon; le ticket de caisse; le ticket; B1; Alltag/Einkaufen/Bezahlen; Garde le ticket de caisse pour un éventuel retour.; Heb den Kassenbon für eine mögliche Rückgabe auf.
+fr-eg-0085; überweisen; virer; faire un virement; B1; Alltag/Einkaufen/Geld; Veuillez virer le montant sous deux semaines.; Bitte überweisen Sie den Betrag innerhalb von zwei Wochen.
+fr-eg-0086; Überweisung; le virement; le virement bancaire; B1; Alltag/Einkaufen/Geld; Le virement est arrivé le lendemain.; Die Überweisung kam am nächsten Tag an.
+fr-eg-0087; abheben; retirer; ; B1; Alltag/Einkaufen/Geld; Je dois d'abord retirer de l'argent.; Ich muss zuerst etwas Geld abheben.
+fr-eg-0088; einzahlen; déposer; verser; B1; Alltag/Einkaufen/Geld; Elle veut déposer l'argent liquide à la banque.; Sie möchte das Bargeld bei der Bank einzahlen.
+fr-eg-0089; Gehalt; le salaire; la paie; B1; Alltag/Einkaufen/Geld; Son salaire est versé à la fin du mois.; Sein Gehalt wird am Monatsende gezahlt.
+fr-eg-0090; Ausgaben; les dépenses; ; B1; Alltag/Einkaufen/Geld; Nous notons toutes nos dépenses mensuelles.; Wir notieren alle unsere monatlichen Ausgaben.
+fr-eg-0091; Einkommen; le revenu; les revenus; B1; Alltag/Einkaufen/Geld; Leur revenu suffit pour un petit appartement.; Ihr Einkommen reicht für eine kleine Wohnung.
+fr-eg-0092; leihen; prêter; ; B1; Alltag/Einkaufen/Geld; Tu peux me prêter dix euros jusqu'à demain ?; Kannst du mir bis morgen zehn Euro leihen?
+fr-eg-0093; borgen; emprunter; ; B1; Alltag/Einkaufen/Geld; J'ai dû emprunter de l'argent pour le billet.; Ich musste mir Geld für das Ticket borgen.
+fr-eg-0094; Schulden; les dettes; la dette; B1; Alltag/Einkaufen/Geld; Il a remboursé ses dettes en un an.; Er hat seine Schulden innerhalb eines Jahres abbezahlt.
+fr-eg-0095; Mehrwertsteuer; la TVA; la taxe sur la valeur ajoutée; B1; Alltag/Einkaufen/Preise; Le prix comprend déjà la TVA.; Im Preis ist die Mehrwertsteuer bereits enthalten.
+fr-eg-0096; Verbraucher; le consommateur; la consommatrice; B2; Alltag/Einkaufen/Geschäfte; Chaque consommateur a droit à des informations claires.; Jeder Verbraucher hat ein Recht auf klare Informationen.
+fr-eg-0097; Einzelhandel; le commerce de détail; la vente au détail; B2; Alltag/Einkaufen/Geschäfte; L'année dernière, de nombreux emplois ont été supprimés dans le commerce de détail.; Im Einzelhandel wurden letztes Jahr viele Stellen gestrichen.
+fr-eg-0098; Großhandel; le commerce de gros; la vente en gros; B2; Alltag/Einkaufen/Geschäfte; Les restaurants achètent leurs légumes dans le commerce de gros.; Restaurants kaufen ihr Gemüse im Großhandel.
+fr-eg-0099; Lieferzeit; le délai de livraison; ; B2; Alltag/Einkaufen/Online-Shopping; Le délai de livraison du canapé est de six semaines.; Die Lieferzeit für das Sofa beträgt sechs Wochen.
+fr-eg-0100; Sendungsverfolgung; le suivi de colis; le suivi; B2; Alltag/Einkaufen/Online-Shopping; D'après le suivi de colis, mon paquet est à Hambourg.; Laut Sendungsverfolgung ist mein Paket in Hamburg.
+fr-eg-0101; Retoure; le retour; le renvoi; B2; Alltag/Einkaufen/Online-Shopping; Le retour est gratuit pour le client.; Die Retoure ist für den Kunden kostenlos.
+fr-eg-0102; Widerruf; la rétractation; l'annulation; B2; Alltag/Einkaufen/Online-Shopping; Le droit de rétractation doit être exercé dans un délai de quatorze jours.; Der Widerruf muss innerhalb von vierzehn Tagen erfolgen.
+fr-eg-0103; Zahlungsart; le mode de paiement; le moyen de paiement; B2; Alltag/Einkaufen/Bezahlen; Choisis ton mode de paiement préféré à la caisse.; Wähle an der Kasse deine bevorzugte Zahlungsart.
+fr-eg-0104; Ratenzahlung; le paiement échelonné; le paiement en plusieurs fois; B2; Alltag/Einkaufen/Bezahlen; Pour la machine à laver, ils proposaient un paiement échelonné.; Für die Waschmaschine boten sie eine Ratenzahlung an.
+fr-eg-0105; Lastschrift; le prélèvement automatique; le prélèvement; B2; Alltag/Einkaufen/Bezahlen; Ma facture d'électricité est payée par prélèvement automatique.; Meine Stromrechnung wird per Lastschrift bezahlt.
+fr-eg-0106; Dauerauftrag; le virement permanent; l'ordre permanent; B2; Alltag/Einkaufen/Geld; J'ai mis en place un virement permanent pour le loyer.; Ich habe einen Dauerauftrag für die Miete eingerichtet.
+fr-eg-0107; Kontoauszug; le relevé de compte; le relevé bancaire; B2; Alltag/Einkaufen/Geld; Vérifie ton relevé de compte au moins une fois par mois.; Prüfe deinen Kontoauszug mindestens einmal im Monat.
+fr-eg-0108; Zinsen; les intérêts; ; B2; Alltag/Einkaufen/Geld; Le livret d'épargne rapporte très peu d'intérêts.; Das Sparkonto bringt sehr wenig Zinsen.
+fr-eg-0109; Kredit; le crédit; le prêt; B2; Alltag/Einkaufen/Geld; Ils ont pris un crédit pour la voiture.; Sie haben einen Kredit für das Auto aufgenommen.
+fr-eg-0110; Budget; le budget; ; B2; Alltag/Einkaufen/Geld; Notre budget mensuel pour la nourriture est de quatre cents euros.; Unser monatliches Budget für Essen beträgt vierhundert Euro.
+fr-eg-0111; Währung; la devise; la monnaie; B2; Alltag/Einkaufen/Geld; La devise officielle du Danemark est la couronne.; Die Landeswährung in Dänemark ist die Krone.
+fr-eg-0112; Wechselkurs; le taux de change; ; B2; Alltag/Einkaufen/Geld; Le taux de change était meilleur le mois dernier.; Der Wechselkurs war letzten Monat besser.
+fr-eg-0113; Preiserhöhung; la hausse des prix; l'augmentation des prix, l'augmentation de prix; B2; Alltag/Einkaufen/Preise; La hausse des prix du beurre a surpris beaucoup de clients.; Die Preiserhöhung bei Butter überraschte viele Kunden.
+fr-eg-0114; Preissenkung; la baisse des prix; la baisse de prix, la réduction de prix; B2; Alltag/Einkaufen/Preise; La baisse des prix des téléviseurs commence vendredi.; Die Preissenkung bei Fernsehern beginnt am Freitag.
+fr-eg-0115; preiswert; avantageux; bon marché, d'un bon rapport qualité-prix; B2; Alltag/Einkaufen/Preise; Le menu ici est délicieux et avantageux.; Das Menü hier ist lecker und preiswert.
+fr-eg-0116; überteuert; hors de prix; trop cher; B2; Alltag/Einkaufen/Preise; Les boissons à l'aéroport sont complètement hors de prix.; Die Getränke am Flughafen sind völlig überteuert.
+fr-eg-0117; erschwinglich; abordable; ; B2; Alltag/Einkaufen/Preise; Dans ce quartier, le logement n'est plus abordable.; Wohnraum in dieser Gegend ist nicht mehr erschwinglich.
+fr-eg-0118; Anzahlung; l'acompte; ; B2; Alltag/Einkaufen/Bezahlen; Nous avons versé un acompte pour la cuisine.; Wir haben eine Anzahlung für die Küche geleistet.
+fr-eg-0119; Mahnung; le rappel de paiement; la relance, le rappel; B2; Alltag/Einkaufen/Bezahlen; J'ai reçu un rappel de paiement pour la facture.; Ich habe eine Mahnung für die Rechnung erhalten.
+fr-eg-0120; fällig; dû; exigible, à payer; B2; Alltag/Einkaufen/Bezahlen; Le paiement est dû à la fin de la semaine.; Die Zahlung ist Ende der Woche fällig.
+fr-eg-0121; beanstanden; contester; réclamer, critiquer; B2; Alltag/Einkaufen/Reklamation; Le client voulait contester l'état de l'emballage endommagé.; Der Kunde wollte die beschädigte Verpackung beanstanden.
+fr-eg-0122; mangelhaft; défectueux; défaillant, de mauvaise qualité; B2; Alltag/Einkaufen/Reklamation; La chaise livrée était manifestement défectueuse.; Der gelieferte Stuhl war eindeutig mangelhaft.
+fr-eg-0123; Ersatz; le remplacement; le produit de remplacement; B2; Alltag/Einkaufen/Reklamation; Ils ont envoyé un produit de remplacement pour la lampe cassée.; Sie schickten einen Ersatz für die kaputte Lampe.
+fr-eg-0124; Entschädigung; l'indemnisation; le dédommagement, la compensation; B2; Alltag/Einkaufen/Reklamation; La compagnie aérienne a proposé une petite indemnisation pour le retard.; Die Fluggesellschaft bot eine kleine Entschädigung für die Verspätung.
+fr-eg-0125; Kulanz; le geste commercial; ; B2; Alltag/Einkaufen/Reklamation; Le magasin a réparé la montre à titre de geste commercial.; Das Geschäft reparierte die Uhr aus Kulanz.
+fr-eg-0126; Konsum; la consommation; ; C1; Alltag/Einkaufen/Geld; La consommation privée a légèrement augmenté malgré la hausse des prix.; Der private Konsum stieg trotz höherer Preise leicht an.
+fr-eg-0127; Kaufkraft; le pouvoir d'achat; ; C1; Alltag/Einkaufen/Geld; L'inflation a affaibli le pouvoir d'achat de nombreuses familles.; Die Inflation hat die Kaufkraft vieler Familien geschwächt.
+fr-eg-0128; Verschuldung; l'endettement; ; C1; Alltag/Einkaufen/Geld; Son endettement croissant inquiétait toute la famille.; Seine wachsende Verschuldung beunruhigte die ganze Familie.
+fr-eg-0129; zahlungsunfähig; insolvable; en faillite; C1; Alltag/Einkaufen/Geld; Le commerçant a été déclaré insolvable le mois dernier.; Der Händler wurde letzten Monat für zahlungsunfähig erklärt.
+fr-eg-0130; Rücklage; la réserve; la réserve financière, l'épargne de précaution; C1; Alltag/Einkaufen/Geld; Une réserve financière protège des réparations imprévues.; Eine Rücklage schützt vor plötzlichen Reparaturen.
+fr-eg-0131; Vermögen; la fortune; le patrimoine; C1; Alltag/Einkaufen/Geld; Elle a bâti sa fortune grâce à des décennies d'épargne soigneuse.; Sie hat ihr Vermögen durch jahrzehntelanges sorgfältiges Sparen aufgebaut.
+fr-eg-0132; Preis-Leistungs-Verhältnis; le rapport qualité-prix; ; C1; Alltag/Einkaufen/Preise; Cet hôtel offre un excellent rapport qualité-prix.; Dieses Hotel bietet ein hervorragendes Preis-Leistungs-Verhältnis.
+fr-eg-0133; Impulskauf; l'achat impulsif; l'achat compulsif, l'achat d'impulsion; C1; Alltag/Einkaufen/Angebote; Les chaussures rouges étaient un achat impulsif typique.; Die roten Schuhe waren ein klassischer Impulskauf.
+fr-eg-0134; Lockangebot; le produit d'appel; l'offre d'appel; C1; Alltag/Einkaufen/Angebote; L'ordinateur portable bon marché n'était qu'un produit d'appel.; Der billige Laptop war nur ein Lockangebot.
+fr-eg-0135; Preisnachlass; le rabais; la ristourne, la remise; C1; Alltag/Einkaufen/Angebote; Il a négocié un rabais généreux sur le modèle d'exposition.; Er handelte einen großzügigen Preisnachlass für das Ausstellungsstück aus.
+fr-eg-0136; Gewährleistung; la garantie légale; la garantie légale de conformité; C1; Alltag/Einkaufen/Reklamation; En Allemagne, la garantie légale dure deux ans.; Die Gewährleistung in Deutschland beträgt zwei Jahre.
+fr-eg-0137; Mängelrüge; la notification des défauts; la dénonciation des vices; C1; Alltag/Einkaufen/Reklamation; Notre avocat a envoyé une notification des défauts en bonne et due forme.; Unser Anwalt schickte eine formelle Mängelrüge.
+fr-eg-0138; erstatten; rembourser; ; C1; Alltag/Einkaufen/Reklamation; Le magasin a promis de rembourser l'intégralité du prix d'achat.; Das Geschäft versprach den vollen Kaufpreis zu erstatten.
+fr-eg-0139; Bonität; la solvabilité; la cote de crédit; C1; Alltag/Einkaufen/Geld; La banque vérifie ta solvabilité avant d'accorder un crédit.; Die Bank prüft vor einem Kredit deine Bonität.
+fr-eg-0140; Inkasso; le recouvrement; le recouvrement de créances; C1; Alltag/Einkaufen/Geld; La facture impayée a été transmise à une agence de recouvrement.; Die unbezahlte Rechnung ging an ein Inkassobüro.
+fr-eg-0141; Verbraucherschutz; la protection des consommateurs; ; C1; Alltag/Einkaufen/Reklamation; La protection des consommateurs couvre la plupart des achats en ligne.; Der Verbraucherschutz deckt die meisten Online-Käufe ab.
+fr-eg-0142; Zahlungsdienstleister; le prestataire de paiement; le prestataire de services de paiement; C1; Alltag/Einkaufen/Online-Shopping; La boutique en ligne travaille avec un prestataire de paiement bien connu.; Der Shop arbeitet mit einem bekannten Zahlungsdienstleister zusammen.
+fr-eg-0143; Abzocke; l'arnaque; l'escroquerie; C1; Alltag/Einkaufen/Preise; Douze euros pour un café, c'est une pure arnaque.; Zwölf Euro für einen Kaffee sind reine Abzocke.
+fr-eg-0144; knausern; lésiner; être radin, être pingre; C2; Alltag/Einkaufen/Geld; Il a tendance à lésiner, même en vacances.; Er neigt dazu sogar im Urlaub zu knausern.
+fr-eg-0145; Geiz; l'avarice; la radinerie, la pingrerie; C2; Alltag/Einkaufen/Geld; Son avarice gâchait chaque repas pris ensemble.; Sein Geiz verdarb jedes gemeinsame Abendessen.
+fr-eg-0146; Kaufrausch; la frénésie d'achats; la fièvre acheteuse; C2; Alltag/Einkaufen/Angebote; Dans une soudaine frénésie d'achats, elle a acheté cinq sacs.; In einem plötzlichen Kaufrausch kaufte sie fünf Taschen.
+fr-eg-0147; Schnäppchenjäger; le chasseur de bonnes affaires; la chasseuse de bonnes affaires; C2; Alltag/Einkaufen/Angebote; Chaque chasseur de bonnes affaires attend les soldes d'hiver.; Jeder Schnäppchenjäger wartet auf den Winterschlussverkauf.
+fr-eg-0148; Wucher; l'usure; les prix abusifs; C2; Alltag/Einkaufen/Preise; De tels loyers frisent l'usure.; Solche Mieten grenzen an reinen Wucher.
+fr-eg-0149; veruntreuen; détourner; détourner des fonds; C2; Alltag/Einkaufen/Geld; Le caissier a tenté de détourner de l'argent de la caisse.; Der Kassierer versuchte Geld aus der Kasse zu veruntreuen.
+fr-eg-0150; Mondpreis; le prix exorbitant; le prix astronomique, le prix délirant; C2; Alltag/Einkaufen/Preise; Personne ne paie un prix aussi exorbitant pour un vélo d'occasion.; Niemand zahlt so einen Mondpreis für ein gebrauchtes Fahrrad.

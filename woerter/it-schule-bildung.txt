@@ -1,0 +1,152 @@
+# Italienisch: Schule & Bildung
+id; Deutsch; Italienisch; Weitere Antworten; Niveau; Themen; Beispiel Italienisch; Beispiel Deutsch
+it-sb-0001; Schule; la scuola; ; A1; Bildung/Schule/Schulformen; Ogni mattina i bambini vanno a scuola a piedi.; Die Kinder gehen jeden Morgen zu Fuß zur Schule.
+it-sb-0002; Lehrer; l'insegnante; il maestro, la maestra, il professore, la professoressa; A1; Bildung/Schule/Unterricht; Il nostro insegnante spiega tutto molto bene.; Unser Lehrer erklärt alles sehr gut.
+it-sb-0003; Schüler; l'alunno; l'alunna, lo scolaro, lo studente; A1; Bildung/Schule/Unterricht; Ogni alunno della classe ha un libro.; Jeder Schüler in der Klasse hat ein Buch.
+it-sb-0004; Klasse; la classe; ; A1; Bildung/Schule/Unterricht; Nella nostra classe ci sono venticinque bambini.; In unserer Klasse sind fünfundzwanzig Kinder.
+it-sb-0005; Buch; il libro; ; A1; Bildung/Schule/Schulsachen; Per favore, aprite il libro a pagina dieci.; Bitte öffnet euer Buch auf Seite zehn.
+it-sb-0006; Heft; il quaderno; ; A1; Bildung/Schule/Schulsachen; Scrivi le parole nuove sul quaderno.; Schreib die neuen Wörter in dein Heft.
+it-sb-0007; Stift; la penna; ; A1; Bildung/Schule/Schulsachen; Mi presti una penna?; Kann ich mir einen Stift von dir leihen?
+it-sb-0008; Bleistift; la matita; ; A1; Bildung/Schule/Schulsachen; Disegno il quadro con una matita.; Ich zeichne das Bild mit einem Bleistift.
+it-sb-0009; Tafel; la lavagna; ; A1; Bildung/Schule/Unterricht; L'insegnante scrive la data alla lavagna.; Der Lehrer schreibt das Datum an die Tafel.
+it-sb-0010; Schultasche; lo zaino; la cartella; A1; Bildung/Schule/Schulsachen; Oggi il mio zaino è molto pesante.; Meine Schultasche ist heute sehr schwer.
+it-sb-0011; lernen; imparare; studiare; A1; Bildung/Lernen; Ogni giorno impariamo dieci parole nuove.; Wir lernen jeden Tag zehn neue Wörter.
+it-sb-0012; lesen; leggere; ; A1; Bildung/Lernen; La sera mi piace leggere libri.; Ich lese abends gern Bücher.
+it-sb-0013; schreiben; scrivere; ; A1; Bildung/Lernen; Gli alunni scrivono un breve testo sulla loro famiglia.; Die Schüler schreiben einen kurzen Text über ihre Familie.
+it-sb-0014; rechnen; fare i calcoli; calcolare, contare; A1; Bildung/Lernen; All'inizio i bambini fanno i calcoli con numeri piccoli.; Die Kinder rechnen zuerst mit kleinen Zahlen.
+it-sb-0015; fragen; chiedere; domandare; A1; Bildung/Schule/Unterricht; Puoi sempre chiedere se qualcosa non è chiaro.; Du kannst immer fragen, wenn etwas unklar ist.
+it-sb-0016; antworten; rispondere; ; A1; Bildung/Schule/Unterricht; Prima pensa, poi rispondi con frasi complete.; Denk zuerst nach und antworte dann in ganzen Sätzen.
+it-sb-0017; Frage; la domanda; ; A1; Bildung/Schule/Unterricht; Ho una domanda sui compiti.; Ich habe eine Frage zu den Hausaufgaben.
+it-sb-0018; Antwort; la risposta; ; A1; Bildung/Schule/Unterricht; La risposta giusta è alla pagina successiva.; Die richtige Antwort steht auf der nächsten Seite.
+it-sb-0019; Hausaufgaben; i compiti; i compiti per casa; A1; Bildung/Schule/Unterricht; Faccio i compiti dopo pranzo.; Ich mache meine Hausaufgaben nach dem Mittagessen.
+it-sb-0020; Pause; la ricreazione; l'intervallo, la pausa; A1; Bildung/Schule/Unterricht; Durante la ricreazione giochiamo a calcio.; In der großen Pause spielen wir Fußball.
+it-sb-0021; Mathematik; la matematica; ; A1; Bildung/Schule/Fächer; Il lunedì e il giovedì abbiamo matematica.; Montags und donnerstags haben wir Mathematik.
+it-sb-0022; Englisch; l'inglese; ; A1; Bildung/Schule/Fächer; Nell'ora d'inglese cantiamo canzoni e facciamo giochi.; In Englisch singen wir Lieder und spielen Spiele.
+it-sb-0023; Deutsch; il tedesco; ; A1; Bildung/Schule/Fächer; In tedesco stiamo leggendo un breve romanzo.; In Deutsch lesen wir gerade einen kurzen Roman.
+it-sb-0024; Sport; l'educazione fisica; lo sport, la ginnastica; A1; Bildung/Schule/Fächer; Oggi in educazione fisica giochiamo a basket.; Im Sport spielen wir heute Basketball.
+it-sb-0025; Musik; la musica; ; A1; Bildung/Schule/Fächer; In musica stiamo imparando una nuova canzone.; In Musik lernen wir ein neues Lied.
+it-sb-0026; Kunst; l'arte; l'educazione artistica, il disegno; A2; Bildung/Schule/Fächer; In arte dipingiamo con gli acquerelli.; In Kunst malen wir mit Wasserfarben.
+it-sb-0027; Geschichte; la storia; ; A2; Bildung/Schule/Fächer; In storia stiamo studiando l'antica Roma.; In Geschichte lernen wir gerade etwas über das alte Rom.
+it-sb-0028; Erdkunde; la geografia; ; A2; Bildung/Schule/Fächer; In geografia disegniamo cartine dell'Europa.; In Erdkunde zeichnen wir Karten von Europa.
+it-sb-0029; Biologie; la biologia; ; A2; Bildung/Schule/Fächer; In biologia studiamo piante e animali.; In Biologie untersuchen wir Pflanzen und Tiere.
+it-sb-0030; Chemie; la chimica; ; A2; Bildung/Schule/Fächer; In chimica facciamo esperimenti emozionanti.; In Chemie machen wir spannende Experimente.
+it-sb-0031; Physik; la fisica; ; A2; Bildung/Schule/Fächer; In fisica impariamo come funziona l'elettricità.; In Physik lernen wir, wie Strom funktioniert.
+it-sb-0032; Informatik; l'informatica; ; A2; Bildung/Schule/Fächer; In informatica scriviamo i nostri primi programmi.; In Informatik schreiben wir unsere ersten Programme.
+it-sb-0033; Fach; la materia; ; A2; Bildung/Schule/Fächer; Qual è la materia che ti piace di più a scuola?; Welches Fach magst du in der Schule am liebsten?
+it-sb-0034; Stundenplan; l'orario; l'orario scolastico; A2; Bildung/Schule/Unterricht; Il nuovo orario inizia dopo le vacanze.; Der neue Stundenplan beginnt nach den Ferien.
+it-sb-0035; Unterricht; la lezione; le lezioni; A2; Bildung/Schule/Unterricht; La lezione inizia alle otto in punto.; Der Unterricht beginnt pünktlich um acht Uhr.
+it-sb-0036; Note; il voto; ; A2; Bildung/Schule/Prüfungen; Ha preso un bel voto nel test.; Sie hat eine gute Note im Test bekommen.
+it-sb-0037; Zeugnis; la pagella; ; A2; Bildung/Schule/Prüfungen; Ha mostrato la pagella ai suoi genitori.; Er zeigte seinen Eltern sein Zeugnis.
+it-sb-0038; Prüfung; l'esame; ; A2; Bildung/Schule/Prüfungen; L'esame si terrà venerdì prossimo di mattina.; Die Prüfung findet nächsten Freitagmorgen statt.
+it-sb-0039; Test; il test; la verifica, il compito in classe; A2; Bildung/Schule/Prüfungen; Ogni due settimane facciamo un breve test.; Wir schreiben alle zwei Wochen einen kurzen Test.
+it-sb-0040; bestehen; superare; passare; A2; Bildung/Schule/Prüfungen; Sono sicuro che supererai l'esame.; Ich bin sicher, dass du die Prüfung bestehst.
+it-sb-0041; durchfallen; essere bocciato; non superare, essere respinto; A2; Bildung/Schule/Prüfungen; Nessuno vuole essere bocciato all'ultimo test.; Niemand will beim letzten Test durchfallen.
+it-sb-0042; üben; esercitarsi; fare pratica; A2; Bildung/Lernen; Dovresti esercitarti ogni giorno con le parole nuove.; Du solltest die neuen Wörter jeden Tag üben.
+it-sb-0043; wiederholen; ripassare; ripetere; A2; Bildung/Lernen; Ripassiamo la grammatica della settimana scorsa.; Lass uns die Grammatik von letzter Woche wiederholen.
+it-sb-0044; erklären; spiegare; ; A2; Bildung/Schule/Unterricht; Puoi spiegare di nuovo questa regola, per favore?; Kannst du diese Regel bitte noch einmal erklären?
+it-sb-0045; verstehen; capire; comprendere; A2; Bildung/Lernen; Non ho capito l'ultima frase.; Ich habe den letzten Satz nicht verstanden.
+it-sb-0046; vergessen; dimenticare; scordare; A2; Bildung/Lernen; Non dimenticare i compiti a casa.; Vergiss deine Hausaufgaben nicht zu Hause.
+it-sb-0047; Wörterbuch; il dizionario; il vocabolario; A2; Bildung/Schule/Schulsachen; Cerca la parola nuova nel dizionario.; Schlag das neue Wort im Wörterbuch nach.
+it-sb-0048; Lineal; il righello; ; A2; Bildung/Schule/Schulsachen; Traccia una linea dritta con il righello.; Zieh mit dem Lineal eine gerade Linie.
+it-sb-0049; Schere; le forbici; ; A2; Bildung/Schule/Schulsachen; Ritaglia l'immagine con le forbici.; Schneide das Bild mit der Schere aus.
+it-sb-0050; Kleber; la colla; ; A2; Bildung/Schule/Schulsachen; Per il cartellone ci servono colla e carta.; Wir brauchen Kleber und Papier für das Plakat.
+it-sb-0051; Radiergummi; la gomma; la gomma da cancellare; A2; Bildung/Schule/Schulsachen; Mi presti un attimo la tua gomma?; Darf ich kurz deinen Radiergummi leihen?
+it-sb-0052; Spitzer; il temperamatite; il temperino; A2; Bildung/Schule/Schulsachen; Mi si è rotta la matita, dov'è il temperamatite?; Mein Bleistift ist abgebrochen, wo ist der Spitzer?
+it-sb-0053; Füller; la penna stilografica; la stilografica; A2; Bildung/Schule/Schulsachen; In terza i bambini scrivono con la penna stilografica.; In der dritten Klasse schreiben die Kinder mit dem Füller.
+it-sb-0054; Taschenrechner; la calcolatrice; ; A2; Bildung/Schule/Schulsachen; Per questo esercizio puoi usare la calcolatrice.; Bei dieser Aufgabe darfst du einen Taschenrechner benutzen.
+it-sb-0055; Klassenzimmer; l'aula; l'aula scolastica; A2; Bildung/Schule/Unterricht; La nostra aula è al secondo piano.; Unser Klassenzimmer ist im zweiten Stock.
+it-sb-0056; Turnhalle; la palestra; ; A2; Bildung/Schule/Unterricht; Per l'ora di educazione fisica ci troviamo in palestra.; Wir treffen uns zur Sportstunde in der Turnhalle.
+it-sb-0057; Schulhof; il cortile della scuola; il cortile; A2; Bildung/Schule/Unterricht; Durante la ricreazione gli alunni giocano nel cortile della scuola.; Die Schüler spielen in der Pause auf dem Schulhof.
+it-sb-0058; Mensa; la mensa; ; A2; Bildung/Universität; Pranziamo insieme in mensa.; Wir essen zusammen in der Mensa zu Mittag.
+it-sb-0059; Grundschule; la scuola elementare; la scuola primaria, le elementari; A2; Bildung/Schule/Schulformen; Quest'anno mia figlia ha cominciato la scuola elementare.; Meine Tochter kam dieses Jahr in die Grundschule.
+it-sb-0060; Ferien; le vacanze; le vacanze scolastiche; A2; Bildung/Schule/Unterricht; Le vacanze iniziano venerdì della prossima settimana.; Die Ferien beginnen nächste Woche am Freitag.
+it-sb-0061; Gymnasium; il liceo; ; B1; Bildung/Schule/Schulformen; Frequenta un liceo a Francoforte.; Sie besucht ein Gymnasium in Frankfurt.
+it-sb-0062; weiterführende Schule; la scuola secondaria; la scuola media, la scuola superiore; B1; Bildung/Schule/Schulformen; Dopo la quarta classe i bambini scelgono una scuola secondaria.; Nach der vierten Klasse wählen die Kinder eine weiterführende Schule.
+it-sb-0063; Abschluss; il diploma; il titolo di studio; B1; Bildung/Schule/Prüfungen; Un buon diploma apre molte porte in futuro.; Ein guter Abschluss öffnet später viele Türen.
+it-sb-0064; Abitur; la maturità; l'esame di maturità, il diploma di maturità; B1; Bildung/Schule/Prüfungen; Ha superato la maturità con ottimi voti.; Er hat sein Abitur mit sehr guten Noten bestanden.
+it-sb-0065; Universität; l'università; ; B1; Bildung/Universität; Studia giurisprudenza all'università di Magonza.; Sie studiert Jura an der Universität in Mainz.
+it-sb-0066; Student; lo studente; la studentessa, lo studente universitario; B1; Bildung/Universität; Da studente viveva in un piccolo appartamento.; Als Student wohnte er in einer kleinen Wohnung.
+it-sb-0067; Vorlesung; la lezione universitaria; il corso; B1; Bildung/Universität; La lezione universitaria di storia europea inizia alle dieci.; Die Vorlesung über europäische Geschichte beginnt um zehn.
+it-sb-0068; Seminar; il seminario; ; B1; Bildung/Universität; Nel seminario discutiamo un testo ogni settimana.; Im Seminar besprechen wir jede Woche einen Text.
+it-sb-0069; Semester; il semestre; ; B1; Bildung/Universität; Il nuovo semestre inizia a ottobre.; Das neue Semester beginnt im Oktober.
+it-sb-0070; Studium; gli studi; lo studio; B1; Bildung/Universität; Ha finito gli studi dopo cinque anni.; Sie beendete ihr Studium nach fünf Jahren.
+it-sb-0071; studieren; studiare; ; B1; Bildung/Universität; Mio figlio vuole studiare medicina a Berlino.; Mein Sohn möchte in Berlin Medizin studieren.
+it-sb-0072; Studiengang; il corso di laurea; il corso di studi; B1; Bildung/Universität; Questo corso di laurea unisce biologia e informatica.; Dieser Studiengang verbindet Biologie und Informatik.
+it-sb-0073; Bibliothek; la biblioteca; ; B1; Bildung/Universität; La sera studio spesso in biblioteca.; Abends lerne ich oft in der Bibliothek.
+it-sb-0074; Hörsaal; l'aula universitaria; l'auditorium, l'aula; B1; Bildung/Universität; L'aula universitaria era piena già cinque minuti prima.; Der Hörsaal war fünf Minuten vorher schon voll.
+it-sb-0075; Dozent; il docente; la docente; B1; Bildung/Universität; Il nostro docente risponde sempre alle domande con pazienza.; Unser Dozent beantwortet Fragen immer geduldig.
+it-sb-0076; Professor; il professore; la professoressa; B1; Bildung/Universität; Il professore insegna qui da vent'anni.; Der Professor lehrt hier seit zwanzig Jahren.
+it-sb-0077; Klausur; l'esame scritto; la prova scritta; B1; Bildung/Universität; L'esame scritto dura esattamente novanta minuti.; Die Klausur dauert genau neunzig Minuten.
+it-sb-0078; mündliche Prüfung; l'esame orale; l'orale; B1; Bildung/Schule/Prüfungen; Prima dell'esame orale era nervosa.; Vor ihrer mündlichen Prüfung war sie nervös.
+it-sb-0079; Hausarbeit; la tesina; l'elaborato; B1; Bildung/Universität; Devo scrivere una tesina su Kafka.; Ich muss eine Hausarbeit über Kafka schreiben.
+it-sb-0080; Referat; la presentazione; la relazione, l'esposizione; B1; Bildung/Schule/Unterricht; Domani faccio una presentazione sui vulcani.; Morgen halte ich ein Referat über Vulkane.
+it-sb-0081; Notizen; gli appunti; le note; B1; Bildung/Lernen; Dei buoni appunti ti aiutano molto prima degli esami.; Gute Notizen helfen dir vor Prüfungen sehr.
+it-sb-0082; auswendig lernen; imparare a memoria; ; B1; Bildung/Lernen; Per lunedì abbiamo dovuto imparare a memoria una poesia.; Wir mussten für Montag ein Gedicht auswendig lernen.
+it-sb-0083; nachschlagen; cercare; consultare; B1; Bildung/Lernen; Le parole sconosciute puoi cercarle online.; Unbekannte Wörter kannst du online nachschlagen.
+it-sb-0084; teilnehmen; partecipare; ; B1; Bildung/Schule/Unterricht; Tutti gli alunni devono partecipare alla settimana dei progetti.; Alle Schüler müssen an der Projektwoche teilnehmen.
+it-sb-0085; sich anmelden; iscriversi; ; B1; Bildung/Universität; Puoi iscriverti al corso fino a venerdì.; Bis Freitag kannst du dich für den Kurs anmelden.
+it-sb-0086; abgeben; consegnare; ; B1; Bildung/Universität; Per favore, consegna il tuo saggio entro la fine di maggio.; Bitte gib deinen Aufsatz bis Ende Mai ab.
+it-sb-0087; korrigieren; correggere; ; B1; Bildung/Schule/Prüfungen; L'insegnante corregge i test durante il fine settimana.; Die Lehrerin korrigiert die Tests am Wochenende.
+it-sb-0088; benoten; valutare; dare un voto; B1; Bildung/Schule/Prüfungen; Le presentazioni saranno valutate la settimana prossima.; Die Referate werden nächste Woche benotet.
+it-sb-0089; schwänzen; marinare la scuola; bigiare, saltare la scuola, fare forca; B1; Bildung/Schule/Unterricht; Il mese scorso ha marinato la scuola due volte.; Er hat letzten Monat zweimal die Schule geschwänzt.
+it-sb-0090; sitzen bleiben; ripetere l'anno; essere bocciato, essere respinto; B1; Bildung/Schule/Prüfungen; Con due brutti voti potrebbe ripetere l'anno.; Mit zwei schlechten Noten könnte er sitzen bleiben.
+it-sb-0091; Nachhilfe; le ripetizioni; le lezioni private; B1; Bildung/Lernen; Una volta alla settimana prende ripetizioni di matematica.; Sie bekommt einmal pro Woche Nachhilfe in Mathe.
+it-sb-0092; Austauschschüler; lo studente di scambio; la studentessa di scambio; B1; Bildung/Schule/Unterricht; Il nostro studente di scambio francese resta tre mesi.; Unser Austauschschüler aus Frankreich bleibt drei Monate.
+it-sb-0093; Klassenfahrt; la gita scolastica; la gita; B1; Bildung/Schule/Unterricht; Quest'anno la gita scolastica va sul Mar Baltico.; Die Klassenfahrt geht dieses Jahr an die Ostsee.
+it-sb-0094; Elternabend; la riunione dei genitori; l'incontro con i genitori; B1; Bildung/Schule/Unterricht; La prossima riunione dei genitori è giovedì alle sette.; Der nächste Elternabend ist am Donnerstag um sieben.
+it-sb-0095; Berufsschule; la scuola professionale; l'istituto professionale; B1; Bildung/Schule/Schulformen; Gli apprendisti frequentano la scuola professionale due volte alla settimana.; Auszubildende besuchen zweimal pro Woche die Berufsschule.
+it-sb-0096; Ausbildung; l'apprendistato; la formazione professionale; B2; Bildung/Lernen; Dopo la scuola ha iniziato un apprendistato come elettricista.; Nach der Schule begann sie eine Ausbildung als Elektrikerin.
+it-sb-0097; Schulpflicht; l'obbligo scolastico; ; B2; Bildung/Bildungspolitik; In Germania l'obbligo scolastico inizia a sei anni.; In Deutschland beginnt die Schulpflicht mit sechs Jahren.
+it-sb-0098; Lehrplan; il programma scolastico; il programma, il piano di studi; B2; Bildung/Schule/Unterricht; Il nuovo programma scolastico dà più peso alle competenze digitali.; Der neue Lehrplan legt mehr Gewicht auf digitale Kompetenzen.
+it-sb-0099; Leistung; il rendimento; la prestazione; B2; Bildung/Schule/Prüfungen; Nella seconda metà dell'anno il suo rendimento è migliorato nettamente.; Ihre Leistung verbesserte sich in der zweiten Jahreshälfte deutlich.
+it-sb-0100; Bewertung; la valutazione; ; B2; Bildung/Schule/Prüfungen; La valutazione delle prove orali è spesso difficile.; Die Bewertung mündlicher Leistungen ist oft schwierig.
+it-sb-0101; Abschlussprüfung; l'esame finale; ; B2; Bildung/Schule/Prüfungen; L'esame finale comprende il programma di due anni.; Die Abschlussprüfung umfasst den Stoff von zwei Jahren.
+it-sb-0102; Bachelorarbeit; la tesi triennale; la tesi di laurea triennale, la tesi di bachelor; B2; Bildung/Universität; Sta scrivendo la tesi triennale sulle energie rinnovabili.; Er schreibt seine Bachelorarbeit über erneuerbare Energien.
+it-sb-0103; Masterarbeit; la tesi magistrale; la tesi di laurea magistrale, la tesi di master; B2; Bildung/Universität; La sua tesi magistrale è stata pubblicata come piccolo libro.; Ihre Masterarbeit wurde als kleines Buch veröffentlicht.
+it-sb-0104; Doktorarbeit; la tesi di dottorato; ; B2; Bildung/Universität; Ha lavorato quattro anni alla sua tesi di dottorato.; Er arbeitete vier Jahre an seiner Doktorarbeit.
+it-sb-0105; Promotion; il dottorato; il dottorato di ricerca; B2; Bildung/Universität; Dopo il dottorato è passata all'industria.; Nach ihrer Promotion wechselte sie in die Industrie.
+it-sb-0106; Stipendium; la borsa di studio; ; B2; Bildung/Universität; La borsa di studio copre l'affitto e i libri.; Das Stipendium deckt ihre Miete und ihre Bücher.
+it-sb-0107; Studiengebühren; le tasse universitarie; ; B2; Bildung/Universität; Le tasse universitarie variano molto tra i paesi europei.; Die Studiengebühren unterscheiden sich stark zwischen europäischen Ländern.
+it-sb-0108; Wohnheim; lo studentato; la casa dello studente, il collegio universitario; B2; Bildung/Universität; Il primo anno ha abitato in uno studentato.; Im ersten Jahr wohnte er in einem Wohnheim.
+it-sb-0109; Fakultät; la facoltà; ; B2; Bildung/Universität; La facoltà di ingegneria si è trasferita in un nuovo edificio.; Die Fakultät für Ingenieurwesen zog in ein neues Gebäude.
+it-sb-0110; Forschung; la ricerca; ; B2; Bildung/Universität; L'università spende molti soldi per la ricerca.; Die Universität gibt viel Geld für Forschung aus.
+it-sb-0111; Wissenschaft; la scienza; ; B2; Bildung/Universität; La scienza ha bisogno di dibattiti aperti e di metodi rigorosi.; Die Wissenschaft braucht offene Debatten und sorgfältige Methoden.
+it-sb-0112; Wissenschaftler; lo scienziato; la scienziata, il ricercatore; B2; Bildung/Universität; Lo scienziato ha presentato i suoi risultati a una conferenza.; Der Wissenschaftler stellte seine Ergebnisse auf einer Konferenz vor.
+it-sb-0113; Vorlesungsverzeichnis; il catalogo dei corsi; la guida dello studente; B2; Bildung/Universität; Il catalogo dei corsi del prossimo semestre è ora online.; Das Vorlesungsverzeichnis für das nächste Semester ist jetzt online.
+it-sb-0114; Prüfungsordnung; il regolamento degli esami; il regolamento d'esame; B2; Bildung/Universität; Leggi il regolamento degli esami prima di iscriverti.; Lies die Prüfungsordnung, bevor du dich anmeldest.
+it-sb-0115; Leistungspunkt; il credito formativo; il credito, il CFU; B2; Bildung/Universität; Questo seminario vale cinque crediti formativi.; Dieses Seminar bringt fünf Leistungspunkte.
+it-sb-0116; Pflichtfach; la materia obbligatoria; l'esame obbligatorio; B2; Bildung/Universität; In questo corso di laurea la statistica è una materia obbligatoria.; Statistik ist in diesem Studiengang ein Pflichtfach.
+it-sb-0117; Wahlfach; la materia a scelta; la materia facoltativa, l'esame a scelta; B2; Bildung/Universität; Questo semestre ha scelto lo spagnolo come materia a scelta.; Sie wählte dieses Semester Spanisch als Wahlfach.
+it-sb-0118; Weiterbildung; la formazione continua; l'aggiornamento professionale; B2; Bildung/Lernen; L'azienda paga i corsi di formazione continua.; Die Firma bezahlt Kurse zur Weiterbildung.
+it-sb-0119; Fernstudium; lo studio a distanza; la formazione a distanza, l'università telematica; B2; Bildung/Universität; Lo studio a distanza ti permette di studiare mentre lavori.; Ein Fernstudium lässt dich neben dem Beruf studieren.
+it-sb-0120; Praktikum; il tirocinio; lo stage; B2; Bildung/Universität; Ha fatto un tirocinio in uno studio di ingegneria.; Er machte ein Praktikum in einem Ingenieurbüro.
+it-sb-0121; Bewerbung; la candidatura; la domanda; B2; Bildung/Universität; La sua candidatura per la laurea magistrale ha avuto successo.; Ihre Bewerbung für den Masterstudiengang war erfolgreich.
+it-sb-0122; Lebenslauf; il curriculum; il curriculum vitae, il CV; B2; Bildung/Universität; Per favore, allega il tuo curriculum alla candidatura.; Bitte füge der Bewerbung deinen Lebenslauf bei.
+it-sb-0123; Zulassung; l'ammissione; ; B2; Bildung/Universität; Sta ancora aspettando l'ammissione all'università.; Sie wartet noch auf ihre Zulassung zur Universität.
+it-sb-0124; Einschreibung; l'iscrizione; l'immatricolazione; B2; Bildung/Universität; Il termine per l'iscrizione scade a metà settembre.; Die Frist für die Einschreibung endet Mitte September.
+it-sb-0125; Abschlussfeier; la cerimonia di laurea; la festa di laurea, la cerimonia di consegna dei diplomi; B2; Bildung/Universität; Tutta la famiglia è venuta alla sua cerimonia di laurea.; Die ganze Familie kam zu ihrer Abschlussfeier.
+it-sb-0126; Chancengleichheit; le pari opportunità; l'uguaglianza delle opportunità; C1; Bildung/Bildungspolitik; Le pari opportunità nell'istruzione restano un obiettivo lontano.; Chancengleichheit in der Bildung bleibt ein fernes Ziel.
+it-sb-0127; Bildungspolitik; la politica dell'istruzione; la politica scolastica, la politica educativa; C1; Bildung/Bildungspolitik; La politica dell'istruzione è decisa dai Länder.; Bildungspolitik wird von den Bundesländern entschieden.
+it-sb-0128; Analphabetismus; l'analfabetismo; ; C1; Bildung/Bildungspolitik; L'analfabetismo tra gli adulti è più diffuso di quanto si pensi.; Der Analphabetismus unter Erwachsenen ist verbreiteter als gedacht.
+it-sb-0129; lebenslanges Lernen; l'apprendimento permanente; la formazione permanente; C1; Bildung/Lernen; L'apprendimento permanente è diventato indispensabile nelle professioni moderne.; Lebenslanges Lernen ist in modernen Berufen unverzichtbar geworden.
+it-sb-0130; Hochschulreife; il titolo di accesso all'università; l'idoneità agli studi universitari; C1; Bildung/Schule/Prüfungen; Il titolo di accesso all'università apre la strada agli studi universitari.; Die Hochschulreife öffnet den Weg zur Universität.
+it-sb-0131; Habilitation; l'abilitazione alla docenza; l'abilitazione; C1; Bildung/Universität; In Germania una cattedra richiede spesso l'abilitazione alla docenza.; In Deutschland erfordert eine Professur oft eine Habilitation.
+it-sb-0132; Gutachten; il parere; la perizia, la relazione di valutazione; C1; Bildung/Universität; La commissione ha richiesto un parere sulla tesi.; Die Kommission forderte ein Gutachten über die Arbeit an.
+it-sb-0133; Lehrstuhl; la cattedra; ; C1; Bildung/Universität; Le è stata offerta una cattedra di fisica applicata.; Ihr wurde ein Lehrstuhl für angewandte Physik angeboten.
+it-sb-0134; Studienabbrecher; lo studente che abbandona gli studi; la studentessa che abbandona gli studi; C1; Bildung/Universität; Molti studenti che abbandonano gli studi hanno poi successo in professioni pratiche.; Viele Studienabbrecher sind später in praktischen Berufen erfolgreich.
+it-sb-0135; Leistungsdruck; la pressione per il rendimento; la pressione scolastica, l'ansia da prestazione; C1; Bildung/Schule/Prüfungen; Per molti alunni la pressione per il rendimento comincia presto.; Der Leistungsdruck beginnt für viele Schüler früh.
+it-sb-0136; Begabtenförderung; la promozione dei talenti; il sostegno agli studenti dotati, la valorizzazione delle eccellenze; C1; Bildung/Bildungspolitik; La promozione dei talenti varia molto da scuola a scuola.; Die Begabtenförderung unterscheidet sich stark zwischen den Schulen.
+it-sb-0137; Durchfallquote; la percentuale di bocciati; il tasso di bocciatura; C1; Bildung/Schule/Prüfungen; In questo esame la percentuale di bocciati è notevolmente alta.; Die Durchfallquote in dieser Prüfung ist bemerkenswert hoch.
+it-sb-0138; Anwesenheitspflicht; l'obbligo di frequenza; ; C1; Bildung/Universität; Alcuni seminari prevedono l'obbligo di frequenza, altri no.; In manchen Seminaren gilt Anwesenheitspflicht, in anderen nicht.
+it-sb-0139; Lernstrategie; la strategia di apprendimento; il metodo di studio; C1; Bildung/Lernen; Una buona strategia di apprendimento fa risparmiare tempo prima degli esami.; Eine gute Lernstrategie spart Zeit vor Prüfungen.
+it-sb-0140; Wissensvermittlung; la trasmissione del sapere; la trasmissione delle conoscenze; C1; Bildung/Lernen; Un buon insegnamento è più di una semplice trasmissione del sapere.; Guter Unterricht ist mehr als reine Wissensvermittlung.
+it-sb-0141; Fachliteratur; la letteratura specialistica; la letteratura scientifica; C1; Bildung/Universität; La biblioteca offre letteratura specialistica in quaranta lingue.; Die Bibliothek bietet Fachliteratur in vierzig Sprachen.
+it-sb-0142; Plagiat; il plagio; ; C1; Bildung/Universität; Il software controlla ogni tesi per individuare plagi.; Die Software prüft jede Abschlussarbeit auf Plagiate.
+it-sb-0143; Quellenangabe; l'indicazione della fonte; la citazione della fonte, il riferimento bibliografico; C1; Bildung/Universität; Ogni citazione richiede un'indicazione della fonte completa e corretta.; Jedes Zitat braucht eine vollständige und korrekte Quellenangabe.
+it-sb-0144; Bildungsbürgertum; la borghesia colta; ; C2; Bildung/Bildungspolitik; La borghesia colta ha plasmato la vita culturale tedesca.; Das Bildungsbürgertum prägte das deutsche Kulturleben.
+it-sb-0145; Elfenbeinturm; la torre d'avorio; ; C2; Bildung/Universität; I ricercatori dovrebbero uscire più spesso dalla torre d'avorio.; Forscher sollten den Elfenbeinturm öfter verlassen.
+it-sb-0146; Autodidakt; l'autodidatta; ; C2; Bildung/Lernen; Da autodidatta ha imparato da solo quattro lingue.; Als Autodidakt brachte er sich vier Sprachen bei.
+it-sb-0147; Koryphäe; il luminare; l'autorità; C2; Bildung/Universität; È considerata un luminare nel suo campo.; Sie gilt als Koryphäe auf ihrem Gebiet.
+it-sb-0148; Emeritierung; il pensionamento; l'emeritato, il collocamento a riposo; C2; Bildung/Universität; Anche dopo il pensionamento ha continuato a tenere lezioni.; Auch nach seiner Emeritierung hielt er weiter Vorlesungen.
+it-sb-0149; Wissbegierde; la sete di sapere; la curiosità; C2; Bildung/Lernen; La sua sete di sapere non è mai diminuita con l'età.; Ihre Wissbegierde ließ mit dem Alter nie nach.
+it-sb-0150; Gelehrsamkeit; l'erudizione; ; C2; Bildung/Lernen; La sua erudizione impressionava perfino i professori più anziani.; Seine Gelehrsamkeit beeindruckte selbst die älteren Professoren.

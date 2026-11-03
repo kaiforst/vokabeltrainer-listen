@@ -1,0 +1,152 @@
+# Italienisch: Essen & Trinken
+id; Deutsch; Italienisch; Weitere Antworten; Niveau; Themen; Beispiel Italienisch; Beispiel Deutsch
+it-et-0001; Brot; il pane; ; A1; Alltag/Essen/Lebensmittel; Compriamo il pane fresco ogni mattina.; Wir kaufen jeden Morgen frisches Brot.
+it-et-0002; Wasser; l'acqua; ; A1; Alltag/Essen/Getränke; Per favore, dammi un bicchiere d'acqua.; Bitte gib mir ein Glas Wasser.
+it-et-0003; Milch; il latte; ; A1; Alltag/Essen/Getränke; Bevo il latte a colazione ogni giorno.; Ich trinke jeden Tag Milch zum Frühstück.
+it-et-0004; Apfel; la mela; ; A1; Alltag/Essen/Lebensmittel; Mangia una mela dopo pranzo.; Sie isst nach dem Mittagessen einen Apfel.
+it-et-0005; Käse; il formaggio; ; A1; Alltag/Essen/Lebensmittel; Questo formaggio viene da una piccola fattoria.; Dieser Käse kommt von einem kleinen Bauernhof.
+it-et-0006; Ei; l'uovo; ; A1; Alltag/Essen/Lebensmittel; Mangio un uovo ogni mattina.; Ich esse jeden Morgen ein Ei.
+it-et-0007; Fisch; il pesce; ; A1; Alltag/Essen/Lebensmittel; Mangiamo il pesce ogni venerdì sera.; Wir essen jeden Freitagabend Fisch.
+it-et-0008; Fleisch; la carne; ; A1; Alltag/Essen/Lebensmittel; Non mangia molta carne.; Er isst nicht viel Fleisch.
+it-et-0009; Kaffee; il caffè; ; A1; Alltag/Essen/Getränke; Una tazza di caffè mi aiuta a svegliarmi.; Eine Tasse Kaffee hilft mir beim Aufwachen.
+it-et-0010; Tee; il tè; ; A1; Alltag/Essen/Getränke; Vuoi un po' di tè con il miele?; Möchtest du etwas Tee mit Honig?
+it-et-0011; Zucker; lo zucchero; ; A1; Alltag/Essen/Lebensmittel; Bevo il caffè senza zucchero.; Ich trinke meinen Kaffee ohne Zucker.
+it-et-0012; Salz; il sale; ; A1; Alltag/Essen/Kochen; La minestra ha bisogno di un po' più di sale.; Die Suppe braucht noch etwas mehr Salz.
+it-et-0013; Butter; il burro; ; A1; Alltag/Essen/Lebensmittel; Spalma un po' di burro sul pane caldo.; Streich etwas Butter auf das warme Brot.
+it-et-0014; Reis; il riso; ; A1; Alltag/Essen/Lebensmittel; Stasera cuciniamo il riso con il pollo.; Wir kochen heute Abend Reis zum Hähnchen.
+it-et-0015; Suppe; la zuppa; la minestra; A1; Alltag/Essen/Mahlzeiten; Questa zuppa di pomodoro è davvero calda.; Diese Tomatensuppe ist wirklich heiß.
+it-et-0016; Kuchen; la torta; il dolce; A1; Alltag/Essen/Lebensmittel; Mia nonna fa una torta ogni domenica.; Meine Großmutter backt jeden Sonntag einen Kuchen.
+it-et-0017; Obst; la frutta; ; A1; Alltag/Essen/Lebensmittel; La frutta fresca fa bene alla salute.; Frisches Obst ist gut für deine Gesundheit.
+it-et-0018; Gemüse; la verdura; le verdure, gli ortaggi; A1; Alltag/Essen/Lebensmittel; I bambini dovrebbero mangiare più verdura ogni giorno.; Kinder sollten jeden Tag mehr Gemüse essen.
+it-et-0019; Saft; il succo; ; A1; Alltag/Essen/Getränke; Il succo d'arancia è più buono quando è fresco.; Orangensaft schmeckt am besten frisch.
+it-et-0020; Bier; la birra; ; A1; Alltag/Essen/Getränke; Ha ordinato una birra fredda al bancone.; Er bestellte ein kaltes Bier an der Theke.
+it-et-0021; Wein; il vino; ; A1; Alltag/Essen/Getränke; Abbiamo bevuto insieme una bottiglia di vino rosso.; Wir haben zusammen eine Flasche Rotwein getrunken.
+it-et-0022; Frühstück; la colazione; ; A1; Alltag/Essen/Mahlzeiten; La colazione è il mio pasto preferito della giornata.; Das Frühstück ist meine Lieblingsmahlzeit des Tages.
+it-et-0023; Mittagessen; il pranzo; ; A1; Alltag/Essen/Mahlzeiten; Il pranzo lo facciamo insieme a mezzogiorno.; Wir essen um zwölf zusammen zu Mittag.
+it-et-0024; essen; mangiare; ; A1; Alltag/Essen/Mahlzeiten; Che cosa vuoi mangiare stasera?; Was möchtest du heute Abend essen?
+it-et-0025; trinken; bere; ; A1; Alltag/Essen/Getränke; D'estate dovresti bere più acqua.; Du solltest im Sommer mehr Wasser trinken.
+it-et-0026; Abendessen; la cena; ; A2; Alltag/Essen/Mahlzeiten; Stasera la cena è pronta alle sette.; Das Abendessen ist heute um sieben fertig.
+it-et-0027; Kartoffel; la patata; ; A2; Alltag/Essen/Lebensmittel; Per favore, sbuccia una patata per l'insalata.; Schäl bitte eine Kartoffel für den Salat.
+it-et-0028; Tomate; il pomodoro; ; A2; Alltag/Essen/Lebensmittel; Taglia il pomodoro a pezzetti.; Schneide die Tomate in kleine Stücke.
+it-et-0029; Zwiebel; la cipolla; ; A2; Alltag/Essen/Lebensmittel; La cipolla mi fa lacrimare gli occhi.; Die Zwiebel bringt meine Augen zum Tränen.
+it-et-0030; Banane; la banana; ; A2; Alltag/Essen/Lebensmittel; Una banana è un buon spuntino prima dello sport.; Eine Banane ist ein guter Snack vor dem Sport.
+it-et-0031; Orange; l'arancia; ; A2; Alltag/Essen/Lebensmittel; Questa arancia è dolce e molto succosa.; Diese Orange ist süß und sehr saftig.
+it-et-0032; Erdbeere; la fragola; ; A2; Alltag/Essen/Lebensmittel; Ogni fragola in questo cestino sembra perfetta.; Jede Erdbeere in diesem Korb sieht perfekt aus.
+it-et-0033; Huhn; il pollo; ; A2; Alltag/Essen/Lebensmittel; Oggi c'è pollo con riso.; Es gibt heute Huhn mit Reis.
+it-et-0034; Wurst; la salsiccia; il salame, il würstel; A2; Alltag/Essen/Lebensmittel; Ha comprato una salsiccia al mercato.; Er hat auf dem Markt eine Wurst gekauft.
+it-et-0035; Schinken; il prosciutto; ; A2; Alltag/Essen/Lebensmittel; Vorrei un panino con il prosciutto.; Ich hätte gern ein Brötchen mit Schinken.
+it-et-0036; Nudeln; la pasta; ; A2; Alltag/Essen/Lebensmittel; I bambini vogliono la pasta al sugo di pomodoro.; Die Kinder wollen Nudeln mit Tomatensoße.
+it-et-0037; Salat; l'insalata; ; A2; Alltag/Essen/Mahlzeiten; Ho ordinato un'insalata verde con la bistecca.; Ich habe einen grünen Salat zum Steak bestellt.
+it-et-0038; Schokolade; il cioccolato; la cioccolata; A2; Alltag/Essen/Lebensmittel; Il cioccolato fondente è meno dolce del cioccolato al latte.; Dunkle Schokolade ist weniger süß als Milchschokolade.
+it-et-0039; Eis; il gelato; ; A2; Alltag/Essen/Lebensmittel; I bambini vogliono il gelato dopo cena.; Die Kinder wollen nach dem Abendessen Eis.
+it-et-0040; Honig; il miele; ; A2; Alltag/Essen/Lebensmittel; Mette il miele nel tè.; Sie gibt Honig in ihren Tee.
+it-et-0041; Mehl; la farina; ; A2; Alltag/Essen/Kochen; Per l'impasto ci servono farina e uova.; Wir brauchen Mehl und Eier für den Teig.
+it-et-0042; Öl; l'olio; ; A2; Alltag/Essen/Kochen; Prima scalda un po' d'olio nella padella.; Erhitze zuerst etwas Öl in der Pfanne.
+it-et-0043; Pfeffer; il pepe; ; A2; Alltag/Essen/Kochen; Aggiungi sale e pepe alla salsa.; Gib Salz und Pfeffer in die Soße.
+it-et-0044; kochen; cucinare; ; A2; Alltag/Essen/Kochen; Adoro cucinare per i miei amici.; Ich liebe es für meine Freunde zu kochen.
+it-et-0045; backen; cuocere al forno; fare, sfornare; A2; Alltag/Essen/Kochen; Questo fine settimana vogliamo cuocere il pane al forno.; Wir wollen am Wochenende Brot backen.
+it-et-0046; braten; friggere; arrostire, soffriggere; A2; Alltag/Essen/Kochen; Per favore, friggi le cipolle finché sono dorate.; Brate die Zwiebeln bitte goldbraun an.
+it-et-0047; schneiden; tagliare; affettare; A2; Alltag/Essen/Kochen; Puoi tagliare il pane per me?; Kannst du das Brot für mich schneiden?
+it-et-0048; Pfanne; la padella; ; A2; Alltag/Essen/Kochen; Le uova sono ancora nella padella.; Die Eier sind noch in der Pfanne.
+it-et-0049; Topf; la pentola; ; A2; Alltag/Essen/Kochen; Metti le patate in una pentola grande.; Gib die Kartoffeln in einen großen Topf.
+it-et-0050; Messer; il coltello; ; A2; Alltag/Essen/Kochen; Questo coltello è molto affilato, quindi fai attenzione.; Dieses Messer ist sehr scharf also sei vorsichtig.
+it-et-0051; Gabel; la forchetta; ; A2; Alltag/Essen/Mahlzeiten; La pasta si mangia con la forchetta.; Nudeln isst man mit einer Gabel.
+it-et-0052; Löffel; il cucchiaio; ; A2; Alltag/Essen/Mahlzeiten; Mi serve un cucchiaio per la minestra.; Ich brauche einen Löffel für meine Suppe.
+it-et-0053; Teller; il piatto; ; A2; Alltag/Essen/Mahlzeiten; Il suo piatto era vuoto dopo cinque minuti.; Ihr Teller war nach fünf Minuten leer.
+it-et-0054; Tasse; la tazza; ; A2; Alltag/Essen/Getränke; Beve una tazza di tè ogni sera.; Er trinkt jeden Abend eine Tasse Tee.
+it-et-0055; Glas; il bicchiere; ; A2; Alltag/Essen/Getränke; Ha riempito il bicchiere di acqua fredda.; Sie füllte das Glas mit kaltem Wasser.
+it-et-0056; Flasche; la bottiglia; ; A2; Alltag/Essen/Getränke; Abbiamo aperto una bottiglia di vino bianco.; Wir haben eine Flasche Weißwein geöffnet.
+it-et-0057; Kellner; il cameriere; la cameriera; A2; Alltag/Essen/Restaurant; Il cameriere ci ha portato subito il menù.; Der Kellner brachte uns schnell die Speisekarte.
+it-et-0058; Speisekarte; il menù; il menu, la carta; A2; Alltag/Essen/Restaurant; Possiamo vedere il menù, per favore?; Können wir bitte die Speisekarte sehen?
+it-et-0059; bestellen; ordinare; ; A2; Alltag/Essen/Restaurant; Vorrei ordinare il pesce, per favore.; Ich möchte bitte den Fisch bestellen.
+it-et-0060; Rechnung; il conto; ; A2; Alltag/Essen/Restaurant; Potremmo avere il conto, per favore?; Könnten wir bitte die Rechnung haben?
+it-et-0061; Vorspeise; l'antipasto; ; B1; Alltag/Essen/Restaurant; Come antipasto consiglio la zuppa di pomodoro.; Als Vorspeise empfehle ich die Tomatensuppe.
+it-et-0062; Hauptgericht; il piatto principale; il secondo; B1; Alltag/Essen/Restaurant; Il piatto principale era pesce alla griglia con verdure.; Das Hauptgericht war gegrillter Fisch mit Gemüse.
+it-et-0063; Nachtisch; il dessert; il dolce; B1; Alltag/Essen/Restaurant; Come dessert abbiamo diviso una torta al cioccolato.; Zum Nachtisch teilten wir uns einen Schokoladenkuchen.
+it-et-0064; Trinkgeld; la mancia; ; B1; Alltag/Essen/Restaurant; Ha lasciato una mancia generosa al cameriere.; Er gab dem Kellner ein großzügiges Trinkgeld.
+it-et-0065; reservieren; prenotare; riservare; B1; Alltag/Essen/Restaurant; Vorrei prenotare un tavolo per quattro persone.; Ich möchte einen Tisch für vier Personen reservieren.
+it-et-0066; empfehlen; consigliare; raccomandare; B1; Alltag/Essen/Restaurant; Puoi consigliarmi un buon ristorante della zona?; Kannst du ein gutes lokales Restaurant empfehlen?
+it-et-0067; Rezept; la ricetta; ; B1; Alltag/Essen/Kochen; Questa ricetta viene dalla mia nonna italiana.; Dieses Rezept stammt von meiner italienischen Großmutter.
+it-et-0068; Zutat; l'ingrediente; ; B1; Alltag/Essen/Kochen; L'ingrediente più importante è l'aglio fresco.; Die wichtigste Zutat ist frischer Knoblauch.
+it-et-0069; würzen; condire; insaporire, speziare; B1; Alltag/Essen/Kochen; Condisci bene la carne prima di friggerla.; Würze das Fleisch gut bevor du es brätst.
+it-et-0070; probieren; assaggiare; provare; B1; Alltag/Essen/Geschmack; Devi assaggiare questo formaggio fantastico.; Du musst diesen fantastischen Käse probieren.
+it-et-0071; schmecken; sapere di; avere un sapore, avere sapore; B1; Alltag/Essen/Geschmack; La salsa dovrebbe avere un sapore leggermente dolce.; Die Soße sollte leicht süß schmecken.
+it-et-0072; süß; dolce; ; B1; Alltag/Essen/Geschmack; Questo dessert è troppo dolce per me.; Dieser Nachtisch ist mir zu süß.
+it-et-0073; sauer; acido; aspro; B1; Alltag/Essen/Geschmack; La salsa al limone è piacevolmente acida.; Die Zitronensoße ist angenehm sauer.
+it-et-0074; salzig; salato; ; B1; Alltag/Essen/Geschmack; Le patatine erano decisamente troppo salate.; Die Pommes waren viel zu salzig.
+it-et-0075; bitter; amaro; ; B1; Alltag/Essen/Geschmack; Il buon cioccolato fondente ha un sapore leggermente amaro.; Gute dunkle Schokolade schmeckt leicht bitter.
+it-et-0076; scharf; piccante; ; B1; Alltag/Essen/Geschmack; Adoro il cibo piccante della Thailandia.; Ich liebe scharfes Essen aus Thailand.
+it-et-0077; lecker; buono; delizioso, gustoso, squisito; B1; Alltag/Essen/Geschmack; La pizza fatta in casa era davvero buona.; Die selbstgemachte Pizza war absolut lecker.
+it-et-0078; frisch; fresco; ; B1; Alltag/Essen/Lebensmittel; Il pesce di questo mercato è sempre fresco.; Der Fisch auf diesem Markt ist immer frisch.
+it-et-0079; roh; crudo; ; B1; Alltag/Essen/Kochen; Le carote si possono mangiare crude o cotte.; Man kann Karotten roh oder gekocht essen.
+it-et-0080; reif; maturo; ; B1; Alltag/Essen/Lebensmittel; L'avocado non è ancora maturo.; Die Avocado ist noch nicht reif.
+it-et-0081; Sahne; la panna; ; B1; Alltag/Essen/Lebensmittel; Vuoi la panna con la torta?; Möchtest du Sahne zu deinem Kuchen?
+it-et-0082; Teig; l'impasto; la pasta, la pastella; B1; Alltag/Essen/Kochen; Lascia riposare l'impasto per un'ora.; Lass den Teig eine Stunde ruhen.
+it-et-0083; Gewürz; la spezia; ; B1; Alltag/Essen/Kochen; Il cumino è una spezia tipica della cucina indiana.; Kreuzkümmel ist ein typisches Gewürz der indischen Küche.
+it-et-0084; Kräuter; le erbe aromatiche; gli aromi, le erbe; B1; Alltag/Essen/Kochen; Le erbe aromatiche fresche rendono ogni piatto più buono.; Frische Kräuter machen jedes Gericht besser.
+it-et-0085; Knoblauch; l'aglio; ; B1; Alltag/Essen/Lebensmittel; Soffriggi l'aglio solo per un minuto.; Brate den Knoblauch nur eine Minute an.
+it-et-0086; Pilz; il fungo; ; B1; Alltag/Essen/Lebensmittel; Questo fungo cresce nel bosco qui vicino.; Dieser Pilz wächst im Wald in der Nähe.
+it-et-0087; Gurke; il cetriolo; ; B1; Alltag/Essen/Lebensmittel; Taglia il cetriolo a fettine sottili per l'insalata.; Schneide die Gurke für den Salat in dünne Scheiben.
+it-et-0088; Paprika; il peperone; ; B1; Alltag/Essen/Lebensmittel; Il peperone rosso è più dolce di quello verde.; Die rote Paprika ist süßer als die grüne.
+it-et-0089; Birne; la pera; ; B1; Alltag/Essen/Lebensmittel; Questa pera è morbida e molto dolce.; Diese Birne ist weich und sehr süß.
+it-et-0090; Traube; l'uva; l'acino d'uva, il chicco d'uva; B1; Alltag/Essen/Lebensmittel; L'uva di questo vigneto ha un sapore meraviglioso.; Jede Traube aus diesem Weinberg schmeckt wunderbar.
+it-et-0091; Zitrone; il limone; ; B1; Alltag/Essen/Lebensmittel; Spremi mezzo limone sul pesce.; Presse eine halbe Zitrone über den Fisch.
+it-et-0092; Nuss; la noce; la frutta secca; B1; Alltag/Essen/Lebensmittel; Aggiungi all'insalata un misto di noci tritate.; Gib eine gehackte Nussmischung in den Salat.
+it-et-0093; Getränk; la bevanda; la bibita; B1; Alltag/Essen/Getränke; Quale bevanda desidera con il pasto?; Welches Getränk möchten Sie zu Ihrem Essen?
+it-et-0094; Leitungswasser; l'acqua del rubinetto; ; B1; Alltag/Essen/Getränke; In Germania si può bere l'acqua del rubinetto senza problemi.; In Deutschland kann man Leitungswasser bedenkenlos trinken.
+it-et-0095; Mineralwasser; l'acqua minerale; ; B1; Alltag/Essen/Getränke; Una bottiglia di acqua minerale, per favore.; Eine Flasche Mineralwasser bitte.
+it-et-0096; Ernährung; l'alimentazione; la nutrizione; B2; Alltag/Essen/Lebensmittel; Una buona alimentazione è importante per gli sportivi.; Eine gute Ernährung ist wichtig für Sportler.
+it-et-0097; Vollkornbrot; il pane integrale; ; B2; Alltag/Essen/Lebensmittel; Il pane integrale sazia più a lungo.; Vollkornbrot hält länger satt.
+it-et-0098; Tiefkühlkost; i surgelati; gli alimenti surgelati, il cibo surgelato; B2; Alltag/Essen/Lebensmittel; I surgelati sono pratici ma spesso meno buoni.; Tiefkühlkost ist praktisch aber oft weniger lecker.
+it-et-0099; Konserve; la conserva; lo scatolame, il cibo in scatola; B2; Alltag/Essen/Lebensmittel; Teniamo in casa delle conserve per le emergenze.; Wir haben Konserven für Notfälle im Haus.
+it-et-0100; Haltbarkeitsdatum; la data di scadenza; ; B2; Alltag/Essen/Lebensmittel; Prima di comprare controlla sempre la data di scadenza.; Prüfe vor dem Kauf immer das Haltbarkeitsdatum.
+it-et-0101; verderben; andare a male; guastarsi; B2; Alltag/Essen/Lebensmittel; Il latte va a male in fretta fuori dal frigorifero.; Milch verdirbt schnell außerhalb des Kühlschranks.
+it-et-0102; auftauen; scongelare; ; B2; Alltag/Essen/Kochen; Lascia scongelare la carne in frigorifero durante la notte.; Lass das Fleisch über Nacht im Kühlschrank auftauen.
+it-et-0103; anbraten; rosolare; scottare; B2; Alltag/Essen/Kochen; Rosola brevemente la bistecca su entrambi i lati.; Brate das Steak auf beiden Seiten kurz an.
+it-et-0104; dämpfen; cuocere al vapore; ; B2; Alltag/Essen/Kochen; Dovresti cuocere le verdure al vapore delicatamente.; Du solltest das Gemüse schonend dämpfen.
+it-et-0105; schmoren; brasare; stufare; B2; Alltag/Essen/Kochen; Brasa il manzo lentamente per tre ore.; Schmore das Rindfleisch langsam drei Stunden lang.
+it-et-0106; rühren; mescolare; girare; B2; Alltag/Essen/Kochen; Mescola la salsa perché non si attacchi.; Rühre die Soße damit sie nicht anbrennt.
+it-et-0107; gießen; versare; ; B2; Alltag/Essen/Kochen; Versa lentamente la pastella nella padella.; Gieße den Teig langsam in die Pfanne.
+it-et-0108; abschmecken; aggiustare di sale; regolare di sale, assaggiare; B2; Alltag/Essen/Kochen; Aggiusta di sale la zuppa prima di servirla.; Schmecke die Suppe vor dem Servieren ab.
+it-et-0109; Herd; il fornello; i fornelli, la cucina; B2; Alltag/Essen/Kochen; Hai spento il fornello?; Hast du den Herd ausgemacht?
+it-et-0110; Backofen; il forno; ; B2; Alltag/Essen/Kochen; Preriscalda il forno a duecento gradi.; Heize den Backofen auf zweihundert Grad vor.
+it-et-0111; Schneidebrett; il tagliere; ; B2; Alltag/Essen/Kochen; Usa un tagliere a parte per la carne cruda.; Benutze ein eigenes Schneidebrett für rohes Fleisch.
+it-et-0112; Schüssel; la ciotola; la terrina, la scodella; B2; Alltag/Essen/Kochen; Mescola tutti gli ingredienti in una ciotola grande.; Vermische alle Zutaten in einer großen Schüssel.
+it-et-0113; Geschirr; le stoviglie; i piatti; B2; Alltag/Essen/Mahlzeiten; Chi lava le stoviglie stasera?; Wer spült heute Abend das Geschirr?
+it-et-0114; Besteck; le posate; ; B2; Alltag/Essen/Mahlzeiten; Per favore, metti le posate in tavola.; Leg bitte das Besteck auf den Tisch.
+it-et-0115; Mahlzeit; il pasto; ; B2; Alltag/Essen/Mahlzeiten; Un pasto caldo la sera fa bene.; Eine warme Mahlzeit am Abend tut gut.
+it-et-0116; Imbiss; la tavola calda; il chiosco, la friggitoria; B2; Alltag/Essen/Restaurant; Vicino alla stazione c'è una buona tavola calda.; In der Nähe des Bahnhofs gibt es einen guten Imbiss.
+it-et-0117; Feinschmecker; il buongustaio; la buongustaia, il gourmet; B2; Alltag/Essen/Geschmack; Mio zio è un vero buongustaio.; Mein Onkel ist ein echter Feinschmecker.
+it-et-0118; herzhaft; saporito; salato, sostanzioso; B2; Alltag/Essen/Geschmack; Preferisco una colazione saporita e salata a una dolce.; Ich mag herzhaftes Frühstück lieber als süßes.
+it-et-0119; zart; tenero; ; B2; Alltag/Essen/Geschmack; La carne era così tenera che si scioglieva in bocca.; Das Fleisch war so zart dass es zerging.
+it-et-0120; knusprig; croccante; ; B2; Alltag/Essen/Geschmack; La pelle dell'anatra era perfettamente croccante.; Die Haut der Ente war perfekt knusprig.
+it-et-0121; saftig; succoso; ; B2; Alltag/Essen/Geschmack; L'arancia era meravigliosamente succosa e dolce.; Die Orange war wunderbar saftig und süß.
+it-et-0122; fade; insipido; scipito, sciapo; B2; Alltag/Essen/Geschmack; Senza erbe aromatiche la salsa è piuttosto insipida.; Ohne Kräuter schmeckt die Soße ziemlich fade.
+it-et-0123; nahrhaft; nutriente; ; B2; Alltag/Essen/Lebensmittel; Le lenticchie sono economiche e molto nutrienti.; Linsen sind günstig und sehr nahrhaft.
+it-et-0124; bekömmlich; digeribile; leggero; B2; Alltag/Essen/Geschmack; La sera le zuppe leggere sono facilmente digeribili.; Leichte Suppen sind abends gut bekömmlich.
+it-et-0125; Durst; la sete; ; B2; Alltag/Essen/Getränke; Dopo l'escursione avevo una sete enorme.; Nach der Wanderung war mein Durst riesig.
+it-et-0126; Genuss; il piacere; il godimento; C1; Alltag/Essen/Geschmack; Un buon espresso è un piccolo piacere quotidiano.; Ein guter Espresso ist ein kleiner täglicher Genuss.
+it-et-0127; Gaumen; il palato; ; C1; Alltag/Essen/Geschmack; Questo vino convince anche un palato esigente.; Dieser Wein überzeugt selbst einen anspruchsvollen Gaumen.
+it-et-0128; Aroma; l'aroma; il profumo; C1; Alltag/Essen/Geschmack; L'aroma del caffè fresco riempiva la cucina.; Das Aroma von frischem Kaffee erfüllte die Küche.
+it-et-0129; Konsistenz; la consistenza; ; C1; Alltag/Essen/Geschmack; La consistenza della mousse era perfettamente liscia.; Die Konsistenz der Mousse war perfekt glatt.
+it-et-0130; anrichten; impiattare; disporre nel piatto; C1; Alltag/Essen/Kochen; Lo chef ama impiattare ogni portata con arte.; Der Koch richtet jedes Gericht gerne kunstvoll an.
+it-et-0131; verfeinern; insaporire; arricchire, affinare; C1; Alltag/Essen/Kochen; Insaporisci la salsa con un po' di panna.; Verfeinere die Soße mit etwas Sahne.
+it-et-0132; einkochen; far ridurre; ridurre, far restringere; C1; Alltag/Essen/Kochen; Fai ridurre il fondo finché si addensa bene.; Koche den Fond ein bis er schön eindickt.
+it-et-0133; marinieren; marinare; ; C1; Alltag/Essen/Kochen; Marina il pollo per tutta la notte con limone ed erbe aromatiche.; Mariniere das Hähnchen über Nacht in Zitrone und Kräutern.
+it-et-0134; pürieren; frullare; passare, ridurre in purea; C1; Alltag/Essen/Kochen; Frulla la zuppa finché è completamente liscia.; Püriere die Suppe bis sie ganz glatt ist.
+it-et-0135; Sternekoch; lo chef stellato; la chef stellata, il cuoco stellato; C1; Alltag/Essen/Restaurant; Lo chef stellato ha aperto un secondo ristorante a Francoforte.; Der Sternekoch eröffnete ein zweites Restaurant in Frankfurt.
+it-et-0136; kulinarisch; culinario; gastronomico; C1; Alltag/Essen/Geschmack; Il viaggio è stato un percorso culinario attraverso l'Italia.; Die Reise war eine kulinarische Entdeckungstour durch Italien.
+it-et-0137; Stammgast; il cliente abituale; la cliente abituale, l'habitué; C1; Alltag/Essen/Restaurant; Come cliente abituale ha sempre il tavolo d'angolo.; Als Stammgast bekommt er immer den Ecktisch.
+it-et-0138; gehoben; raffinato; di lusso, elegante; C1; Alltag/Essen/Restaurant; Hanno festeggiato in un ristorante raffinato in centro.; Sie feierten in einem gehobenen Restaurant in der Innenstadt.
+it-et-0139; Nahrungsergänzungsmittel; l'integratore alimentare; l'integratore; C1; Alltag/Essen/Lebensmittel; Con una dieta equilibrata raramente serve un integratore alimentare.; Eine ausgewogene Ernährung braucht selten ein Nahrungsergänzungsmittel.
+it-et-0140; Unverträglichkeit; l'intolleranza; l'intolleranza alimentare; C1; Alltag/Essen/Lebensmittel; La sua intolleranza al lattosio è comparsa all'improvviso.; Ihre Unverträglichkeit gegenüber Laktose entwickelte sich ganz plötzlich.
+it-et-0141; Konservierungsstoff; il conservante; ; C1; Alltag/Essen/Lebensmittel; Questo succo non contiene nessun conservante artificiale.; Dieser Saft enthält überhaupt keinen künstlichen Konservierungsstoff.
+it-et-0142; Geschmacksverstärker; l'esaltatore di sapidità; l'esaltatore di sapore; C1; Alltag/Essen/Geschmack; Molti piatti pronti contengono un esaltatore di sapidità.; Viele Fertiggerichte enthalten einen Geschmacksverstärker.
+it-et-0143; Hausmannskost; la cucina casalinga; la cucina di casa; C1; Alltag/Essen/Mahlzeiten; Dopo settimane all'estero desiderava la semplice cucina casalinga.; Nach Wochen im Ausland sehnte er sich nach einfacher Hausmannskost.
+it-et-0144; Gaumenfreude; la delizia per il palato; la delizia, la squisitezza; C2; Alltag/Essen/Geschmack; Il menù degustazione è stato una delizia per il palato dopo l'altra.; Das Degustationsmenü war eine Gaumenfreude nach der anderen.
+it-et-0145; Völlerei; l'ingordigia; la gola, la crapula, la ghiottoneria; C2; Alltag/Essen/Mahlzeiten; Le feste ci spingono spesso a un'allegra ingordigia.; Die Feiertage verführen uns oft zu fröhlicher Völlerei.
+it-et-0146; kredenzen; offrire; servire, mescere; C2; Alltag/Essen/Restaurant; Il padrone di casa ama offrire vini rari.; Der Gastgeber kredenzt gerne seltene Weine.
+it-et-0147; süffig; beverino; di facile beva, gradevole; C2; Alltag/Essen/Getränke; Questo rosso leggero è pericolosamente beverino.; Dieser leichte Rotwein ist gefährlich süffig.
+it-et-0148; verköstigen; sfamare; dare da mangiare, nutrire; C2; Alltag/Essen/Mahlzeiten; Ha dovuto sfamare cinquanta ospiti affamati.; Sie musste fünfzig hungrige Gäste verköstigen.
+it-et-0149; Schlemmerei; la scorpacciata; l'abbuffata, la mangiata; C2; Alltag/Essen/Mahlzeiten; Il matrimonio è finito con ore di allegra scorpacciata.; Die Hochzeit endete in stundenlanger fröhlicher Schlemmerei.
+it-et-0150; abgestanden; stantio; che sa di vecchio; C2; Alltag/Essen/Getränke; L'acqua nella caraffa aveva un sapore stantio.; Das Wasser in der Karaffe schmeckte abgestanden.

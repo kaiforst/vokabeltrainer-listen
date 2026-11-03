@@ -1,0 +1,152 @@
+# Italienisch: Natur & Tiere
+id; Deutsch; Italienisch; Weitere Antworten; Niveau; Themen; Beispiel Italienisch; Beispiel Deutsch
+it-nt-0001; Hund; il cane; ; A1; Natur/Tiere/Haustiere; Il nostro cane adora le lunghe passeggiate nel parco.; Unser Hund liebt lange Spaziergänge im Park.
+it-nt-0002; Katze; il gatto; la gatta; A1; Natur/Tiere/Haustiere; Il gatto dorme sul davanzale caldo.; Die Katze schläft auf der warmen Fensterbank.
+it-nt-0003; Vogel; l'uccello; ; A1; Natur/Tiere/Vögel; Un piccolo uccello canta in giardino.; Ein kleiner Vogel singt im Garten.
+it-nt-0004; Fisch; il pesce; ; A1; Natur/Tiere/Haustiere; Il pesce nuota lentamente nell'acqua limpida.; Der Fisch schwimmt langsam durch das klare Wasser.
+it-nt-0005; Pferd; il cavallo; ; A1; Natur/Tiere/Haustiere; Il cavallo marrone corre attraverso il campo.; Das braune Pferd läuft über das Feld.
+it-nt-0006; Kuh; la mucca; la vacca; A1; Natur/Tiere/Haustiere; La mucca ci dà latte fresco ogni giorno.; Die Kuh gibt uns jeden Tag frische Milch.
+it-nt-0007; Schwein; il maiale; il porco; A1; Natur/Tiere/Haustiere; Il maiale è sdraiato contento nel fango.; Das Schwein liegt zufrieden im Schlamm.
+it-nt-0008; Maus; il topo; il topolino; A1; Natur/Tiere/Wildtiere; Un piccolo topo vive sotto il nostro capanno.; Eine kleine Maus wohnt unter unserem Schuppen.
+it-nt-0009; Tier; l'animale; ; A1; Natur/Tiere/Wildtiere; Qual è l'animale che ti piace di più?; Welches Tier magst du am liebsten?
+it-nt-0010; Ente; l'anatra; ; A1; Natur/Tiere/Vögel; L'anatra nuota nello stagno con i suoi piccoli.; Die Ente schwimmt mit ihren Jungen auf dem Teich.
+it-nt-0011; Huhn; la gallina; il pollo; A1; Natur/Tiere/Haustiere; La gallina fa un uovo quasi ogni giorno.; Das Huhn legt fast jeden Tag ein Ei.
+it-nt-0012; Schaf; la pecora; ; A1; Natur/Tiere/Haustiere; La pecora mangia l'erba sulla collina verde.; Das Schaf frisst Gras auf dem grünen Hügel.
+it-nt-0013; Kaninchen; il coniglio; ; A1; Natur/Tiere/Haustiere; Mia figlia vorrebbe un coniglio per il compleanno.; Meine Tochter wünscht sich ein Kaninchen zum Geburtstag.
+it-nt-0014; Bär; l'orso; ; A1; Natur/Tiere/Wildtiere; L'orso dorme tutto l'inverno nella sua tana.; Der Bär schläft den ganzen Winter in seiner Höhle.
+it-nt-0015; Affe; la scimmia; ; A1; Natur/Tiere/Wildtiere; La scimmia salta da un albero all'altro.; Der Affe springt von Baum zu Baum.
+it-nt-0016; Baum; l'albero; ; A1; Natur/Pflanzen; Il vecchio albero ci fa ombra d'estate.; Der alte Baum spendet uns im Sommer Schatten.
+it-nt-0017; Blume; il fiore; ; A1; Natur/Pflanzen; Ha raccolto un fiore per sua madre.; Sie pflückte eine Blume für ihre Mutter.
+it-nt-0018; Gras; l'erba; ; A1; Natur/Pflanzen; L'erba è ancora bagnata dalla pioggia.; Das Gras ist noch nass vom Regen.
+it-nt-0019; Blatt; la foglia; ; A1; Natur/Pflanzen; Una foglia gialla è caduta dall'albero.; Ein gelbes Blatt fiel vom Baum.
+it-nt-0020; Wald; il bosco; la foresta; A1; Natur/Landschaft; Ogni domenica camminiamo nel bosco.; Wir gehen jeden Sonntag durch den Wald.
+it-nt-0021; Berg; la montagna; il monte; A1; Natur/Landschaft; D'inverno la montagna è coperta di neve.; Der Berg ist im Winter mit Schnee bedeckt.
+it-nt-0022; See; il lago; ; A1; Natur/Landschaft; Ogni estate nuotiamo nel lago.; Wir schwimmen jeden Sommer im See.
+it-nt-0023; Fluss; il fiume; ; A1; Natur/Landschaft; Il fiume scorre lentamente attraverso la valle.; Der Fluss fließt langsam durch das Tal.
+it-nt-0024; Meer; il mare; ; A1; Natur/Landschaft; I bambini giocano tutto il giorno al mare.; Die Kinder spielen den ganzen Tag am Meer.
+it-nt-0025; Garten; il giardino; l'orto; A1; Natur/Pflanzen; Coltiviamo pomodori nel nostro piccolo giardino.; Wir ziehen Tomaten in unserem kleinen Garten.
+it-nt-0026; Ziege; la capra; ; A2; Natur/Tiere/Haustiere; La capra si arrampica sulle rocce senza fatica.; Die Ziege klettert mühelos auf die Felsen.
+it-nt-0027; Esel; l'asino; ; A2; Natur/Tiere/Haustiere; L'asino porta le borse su per la collina.; Der Esel trägt die Taschen den Hügel hinauf.
+it-nt-0028; Fuchs; la volpe; ; A2; Natur/Tiere/Wildtiere; Una volpe ha attraversato la strada davanti a noi.; Ein Fuchs überquerte vor uns die Straße.
+it-nt-0029; Wolf; il lupo; ; A2; Natur/Tiere/Wildtiere; Il lupo è tornato nei boschi tedeschi.; Der Wolf ist in die deutschen Wälder zurückgekehrt.
+it-nt-0030; Hase; la lepre; ; A2; Natur/Tiere/Wildtiere; La lepre ha attraversato di corsa il campo.; Der Hase lief schnell über das Feld.
+it-nt-0031; Igel; il riccio; ; A2; Natur/Tiere/Wildtiere; Sotto il mucchio di foglie vive un riccio.; Unter dem Laubhaufen wohnt ein Igel.
+it-nt-0032; Eichhörnchen; lo scoiattolo; ; A2; Natur/Tiere/Wildtiere; Lo scoiattolo nasconde le noci per l'inverno.; Das Eichhörnchen versteckt Nüsse für den Winter.
+it-nt-0033; Reh; il capriolo; ; A2; Natur/Tiere/Wildtiere; Abbiamo visto un capriolo al limite del bosco.; Wir sahen ein Reh am Waldrand.
+it-nt-0034; Hirsch; il cervo; ; A2; Natur/Tiere/Wildtiere; Il cervo stava fiero sulla collina.; Der Hirsch stand stolz auf dem Hügel.
+it-nt-0035; Löwe; il leone; ; A2; Natur/Tiere/Wildtiere; A mezzogiorno il leone riposa all'ombra.; Der Löwe ruht mittags im Schatten.
+it-nt-0036; Tiger; la tigre; ; A2; Natur/Tiere/Wildtiere; La tigre è una cacciatrice eccellente e paziente.; Der Tiger ist ein hervorragender und geduldiger Jäger.
+it-nt-0037; Elefant; l'elefante; ; A2; Natur/Tiere/Wildtiere; L'elefante beve moltissima acqua ogni giorno.; Der Elefant trinkt täglich sehr viel Wasser.
+it-nt-0038; Giraffe; la giraffa; ; A2; Natur/Tiere/Wildtiere; La giraffa mangia le foglie degli alberi più alti.; Die Giraffe frisst Blätter von den höchsten Bäumen.
+it-nt-0039; Schlange; il serpente; la serpe; A2; Natur/Tiere/Wildtiere; Un serpente verde era sdraiato sulla pietra calda.; Eine grüne Schlange lag auf dem warmen Stein.
+it-nt-0040; Frosch; la rana; ; A2; Natur/Tiere/Wildtiere; La rana salta nello stagno con uno splash.; Der Frosch springt mit einem Platscher in den Teich.
+it-nt-0041; Biene; l'ape; ; A2; Natur/Tiere/Insekten; L'ape vola di fiore in fiore.; Die Biene fliegt von Blüte zu Blüte.
+it-nt-0042; Fliege; la mosca; ; A2; Natur/Tiere/Insekten; Una mosca ronza per la cucina.; Eine Fliege summt durch die Küche.
+it-nt-0043; Mücke; la zanzara; ; A2; Natur/Tiere/Insekten; Una zanzara mi ha punto durante la notte.; Eine Mücke hat mich in der Nacht gestochen.
+it-nt-0044; Schmetterling; la farfalla; ; A2; Natur/Tiere/Insekten; Una farfalla colorata si è posata sulla sua mano.; Ein bunter Schmetterling landete auf ihrer Hand.
+it-nt-0045; Spinne; il ragno; ; A2; Natur/Tiere/Insekten; Il ragno costruisce la sua tela nell'angolo.; Die Spinne baut ihr Netz in der Ecke.
+it-nt-0046; Ameise; la formica; ; A2; Natur/Tiere/Insekten; Una formica può portare molte volte il proprio peso.; Eine Ameise kann ein Vielfaches ihres Gewichts tragen.
+it-nt-0047; Käfer; lo scarabeo; il coleottero; A2; Natur/Tiere/Insekten; Uno scarabeo lucido è strisciato sul sentiero.; Ein glänzender Käfer krabbelte über den Weg.
+it-nt-0048; Adler; l'aquila; ; A2; Natur/Tiere/Vögel; L'aquila volteggia alta sopra la valle.; Der Adler kreist hoch über dem Tal.
+it-nt-0049; Eule; il gufo; la civetta; A2; Natur/Tiere/Vögel; Il gufo caccia i topi di notte.; Die Eule jagt nachts Mäuse.
+it-nt-0050; Taube; il piccione; la colomba; A2; Natur/Tiere/Vögel; Un piccione era posato sul tetto della stazione.; Eine Taube saß auf dem Bahnhofsdach.
+it-nt-0051; Schwan; il cigno; ; A2; Natur/Tiere/Vögel; Un cigno bianco scivola sul lago.; Ein weißer Schwan gleitet über den See.
+it-nt-0052; Möwe; il gabbiano; ; A2; Natur/Tiere/Vögel; Il gabbiano ha rubato le patatine ai turisti.; Die Möwe stahl den Touristen Pommes.
+it-nt-0053; Papagei; il pappagallo; ; A2; Natur/Tiere/Vögel; Il pappagallo sa dire alcune parole buffe.; Der Papagei kann ein paar lustige Wörter sagen.
+it-nt-0054; Pflanze; la pianta; ; A2; Natur/Pflanzen; Questa pianta ha bisogno di acqua due volte a settimana.; Diese Pflanze braucht zweimal pro Woche Wasser.
+it-nt-0055; Wurzel; la radice; ; A2; Natur/Pflanzen; Le radici della quercia arrivano molto in profondità.; Die Wurzeln der Eiche reichen sehr tief.
+it-nt-0056; Ast; il ramo; ; A2; Natur/Pflanzen; Un grosso ramo si è spezzato durante la tempesta.; Ein dicker Ast brach im Sturm ab.
+it-nt-0057; Wiese; il prato; ; A2; Natur/Landschaft; I bambini giocano a calcio sul prato.; Die Kinder spielen Fußball auf der Wiese.
+it-nt-0058; Feld; il campo; ; A2; Natur/Landschaft; Il contadino lavora nel campo tutto il giorno.; Der Bauer arbeitet den ganzen Tag auf dem Feld.
+it-nt-0059; Insel; l'isola; ; A2; Natur/Landschaft; La piccola isola si raggiunge solo in barca.; Die kleine Insel ist nur mit dem Boot erreichbar.
+it-nt-0060; Strand; la spiaggia; ; A2; Natur/Landschaft; Ieri abbiamo raccolto conchiglie sulla spiaggia.; Wir haben gestern am Strand Muscheln gesammelt.
+it-nt-0061; Haustier; l'animale domestico; ; B1; Natur/Tiere/Haustiere; Un animale domestico insegna ai bambini ad assumersi responsabilità.; Ein Haustier lehrt Kinder, Verantwortung zu übernehmen.
+it-nt-0062; füttern; dare da mangiare; nutrire; B1; Natur/Tiere/Haustiere; Per favore, dai da mangiare al gatto prima di uscire.; Bitte füttere die Katze, bevor du gehst.
+it-nt-0063; Fell; il pelo; la pelliccia, il mantello; B1; Natur/Tiere/Haustiere; Il pelo del cane brilla dopo la spazzolatura.; Das Fell des Hundes glänzt nach dem Bürsten.
+it-nt-0064; Flügel; l'ala; le ali; B1; Natur/Tiere/Vögel; Il giovane uccello ha disteso le ali con cautela.; Der junge Vogel streckte vorsichtig seine Flügel.
+it-nt-0065; Feder; la piuma; la penna; B1; Natur/Tiere/Vögel; Abbiamo trovato una piuma bianca vicino al lago.; Wir fanden eine weiße Feder am See.
+it-nt-0066; Schnabel; il becco; ; B1; Natur/Tiere/Vögel; L'uccello porta dei rametti nel becco.; Der Vogel trägt Zweige in seinem Schnabel.
+it-nt-0067; Schwanz; la coda; ; B1; Natur/Tiere/Haustiere; Il cane scodinzola con la coda quando torniamo a casa.; Der Hund wedelt mit dem Schwanz, wenn wir heimkommen.
+it-nt-0068; Pfote; la zampa; ; B1; Natur/Tiere/Haustiere; Dopo aver mangiato il gatto si è pulito la zampa.; Die Katze putzte nach dem Fressen ihre Pfote.
+it-nt-0069; Nest; il nido; ; B1; Natur/Tiere/Vögel; Il merlo ha costruito un nido nella nostra siepe.; Die Amsel baute ein Nest in unserer Hecke.
+it-nt-0070; Säugetier; il mammifero; ; B1; Natur/Tiere/Wildtiere; La balena è il mammifero più grande della Terra.; Der Wal ist das größte Säugetier der Erde.
+it-nt-0071; Raubtier; il predatore; il carnivoro, la belva; B1; Natur/Tiere/Wildtiere; La lince è un predatore timido dei nostri boschi.; Der Luchs ist ein scheues Raubtier unserer Wälder.
+it-nt-0072; Beute; la preda; ; B1; Natur/Tiere/Wildtiere; Il gufo si avvicina silenziosamente alla sua preda.; Die Eule nähert sich lautlos ihrer Beute.
+it-nt-0073; Herde; la mandria; il gregge; B1; Natur/Tiere/Wildtiere; Una mandria di mucche bloccava la stradina.; Eine Herde Kühe blockierte die kleine Straße.
+it-nt-0074; Schwarm; lo sciame; lo stormo, il banco; B1; Natur/Tiere/Insekten; Uno sciame di api si è posato sul vecchio albero.; Ein Bienenschwarm ließ sich im alten Baum nieder.
+it-nt-0075; Art; la specie; ; B1; Natur/Tiere/Wildtiere; Questa specie di farfalla è molto rara qui.; Diese Schmetterlingsart ist hier sehr selten.
+it-nt-0076; Lebensraum; l'habitat; ; B1; Natur/Tiere/Wildtiere; Le zone umide sono un habitat importante per molti uccelli.; Feuchtgebiete sind ein wichtiger Lebensraum für viele Vögel.
+it-nt-0077; Umwelt; l'ambiente; ; B1; Natur/Landschaft; Dovremmo tutti proteggere meglio il nostro ambiente.; Wir sollten alle unsere Umwelt besser schützen.
+it-nt-0078; Naturschutz; la tutela della natura; la protezione della natura, la conservazione della natura; B1; Natur/Landschaft; La tutela della natura comincia nel proprio giardino.; Naturschutz beginnt im eigenen Garten.
+it-nt-0079; Gebirge; la catena montuosa; le montagne; B1; Natur/Landschaft; La catena montuosa separa i due paesi.; Das Gebirge trennt die beiden Länder.
+it-nt-0080; Tal; la valle; ; B1; Natur/Landschaft; In fondo alla valle si trova un piccolo villaggio.; Tief im Tal liegt ein kleines Dorf.
+it-nt-0081; Ufer; la riva; la sponda; B1; Natur/Landschaft; Abbiamo fatto un picnic sulla riva del lago.; Wir machten ein Picknick am Ufer des Sees.
+it-nt-0082; Küste; la costa; ; B1; Natur/Landschaft; La costa selvaggia attira molti fotografi.; Die raue Küste zieht viele Fotografen an.
+it-nt-0083; Bach; il ruscello; il torrente; B1; Natur/Landschaft; Dietro la casa scorre un ruscello limpido.; Hinter dem Haus fließt ein klarer Bach.
+it-nt-0084; Teich; lo stagno; il laghetto; B1; Natur/Landschaft; Nel nostro stagno vivono rane e libellule.; An unserem Teich leben Frösche und Libellen.
+it-nt-0085; Wüste; il deserto; ; B1; Natur/Landschaft; Nel deserto arido non cresce quasi niente.; In der trockenen Wüste wächst kaum etwas.
+it-nt-0086; Höhle; la grotta; la caverna, la tana; B1; Natur/Landschaft; I pipistrelli passano l'inverno in questa grotta.; Fledermäuse überwintern in dieser Höhle.
+it-nt-0087; Gipfel; la vetta; la cima; B1; Natur/Landschaft; Dopo cinque ore abbiamo raggiunto la vetta.; Nach fünf Stunden erreichten wir den Gipfel.
+it-nt-0088; Boden; il terreno; il suolo; B1; Natur/Pflanzen; Un terreno sano è pieno di minuscoli esseri viventi.; Gesunder Boden ist voller winziger Lebewesen.
+it-nt-0089; Samen; il seme; i semi; B1; Natur/Pflanzen; Abbiamo seminato i semi all'inizio della primavera.; Wir haben die Samen im Frühjahr ausgesät.
+it-nt-0090; Stamm; il tronco; ; B1; Natur/Pflanzen; Il tronco del faggio è liscio e grigio.; Der Stamm der Buche ist glatt und grau.
+it-nt-0091; Rinde; la corteccia; ; B1; Natur/Pflanzen; A volte i caprioli mangiano la corteccia degli alberi giovani.; Rehe fressen manchmal die Rinde junger Bäume.
+it-nt-0092; blühen; fiorire; ; B1; Natur/Pflanzen; I ciliegi fioriscono a fine aprile.; Die Kirschbäume blühen Ende April.
+it-nt-0093; Eiche; la quercia; ; B1; Natur/Pflanzen; La vecchia quercia ha più di trecento anni.; Die alte Eiche ist über dreihundert Jahre alt.
+it-nt-0094; Birke; la betulla; ; B1; Natur/Pflanzen; La betulla si riconosce dalla corteccia bianca.; Eine Birke erkennt man an ihrer weißen Rinde.
+it-nt-0095; Kiefer; il pino; ; B1; Natur/Pflanzen; Il pino cresce bene su terreno sabbioso.; Die Kiefer wächst gut auf sandigem Boden.
+it-nt-0096; Kralle; l'artiglio; gli artigli; B2; Natur/Tiere/Wildtiere; L'astore ha afferrato il topo con gli artigli.; Der Habicht packte die Maus mit seinen Krallen.
+it-nt-0097; Geweih; le corna; il palco; B2; Natur/Tiere/Wildtiere; Il cervo perde le corna ogni anno.; Der Hirsch verliert jedes Jahr sein Geweih.
+it-nt-0098; Huf; lo zoccolo; ; B2; Natur/Tiere/Haustiere; Il maniscalco ha controllato lo zoccolo sinistro del cavallo.; Der Hufschmied prüfte den linken Huf des Pferdes.
+it-nt-0099; Schuppe; la squama; ; B2; Natur/Tiere/Wildtiere; Ogni squama della carpa luccicava al sole.; Jede Schuppe des Karpfens glänzte in der Sonne.
+it-nt-0100; Kiemen; le branchie; ; B2; Natur/Tiere/Wildtiere; Sott'acqua i pesci respirano con le branchie.; Fische atmen unter Wasser durch ihre Kiemen.
+it-nt-0101; Reptil; il rettile; ; B2; Natur/Tiere/Wildtiere; Qui la lucertola è il rettile più comune.; Die Eidechse ist hier das häufigste Reptil.
+it-nt-0102; Amphibie; l'anfibio; ; B2; Natur/Tiere/Wildtiere; Un anfibio ha bisogno di acqua per deporre le uova.; Eine Amphibie braucht Wasser, um ihre Eier abzulegen.
+it-nt-0103; Nagetier; il roditore; ; B2; Natur/Tiere/Wildtiere; Il castoro è il roditore più grande d'Europa.; Der Biber ist das größte Nagetier Europas.
+it-nt-0104; Greifvogel; il rapace; l'uccello rapace; B2; Natur/Tiere/Vögel; Abbiamo osservato un rapace sopra i campi.; Wir beobachteten einen Greifvogel über den Feldern.
+it-nt-0105; Zugvogel; l'uccello migratore; ; B2; Natur/Tiere/Vögel; In autunno molti uccelli migratori si fermano qui.; Viele Zugvögel rasten hier im Herbst.
+it-nt-0106; Winterschlaf; il letargo; ; B2; Natur/Tiere/Wildtiere; I ricci vanno in letargo a novembre.; Igel gehen im November in den Winterschlaf.
+it-nt-0107; brüten; covare; ; B2; Natur/Tiere/Vögel; I cigni covano sulla piccola isola.; Die Schwäne brüten auf der kleinen Insel.
+it-nt-0108; jagen; cacciare; ; B2; Natur/Tiere/Wildtiere; Le volpi cacciano soprattutto al crepuscolo e di notte.; Füchse jagen meist in der Dämmerung und nachts.
+it-nt-0109; Köder; l'esca; ; B2; Natur/Tiere/Wildtiere; Il pescatore ha messo un'esca fresca sull'amo.; Der Angler steckte frischen Köder an den Haken.
+it-nt-0110; Falle; la trappola; ; B2; Natur/Tiere/Wildtiere; I ricercatori hanno piazzato una trappola innocua con una telecamera.; Die Forscher stellten eine harmlose Falle mit Kamera auf.
+it-nt-0111; Aussterben; l'estinzione; ; B2; Natur/Tiere/Wildtiere; Molte specie di insetti sono a rischio di estinzione.; Viele Insektenarten sind vom Aussterben bedroht.
+it-nt-0112; gefährdet; minacciato; in pericolo, a rischio; B2; Natur/Tiere/Wildtiere; In alcune regioni il gatto selvatico è ancora minacciato.; Die Wildkatze ist in manchen Regionen noch gefährdet.
+it-nt-0113; Laubbaum; la latifoglia; l'albero a foglie caduche; B2; Natur/Pflanzen; Una latifoglia perde le foglie in autunno.; Ein Laubbaum wirft im Herbst seine Blätter ab.
+it-nt-0114; Nadelbaum; la conifera; ; B2; Natur/Pflanzen; L'abete rosso è la conifera più diffusa in Germania.; Die Fichte ist der häufigste Nadelbaum in Deutschland.
+it-nt-0115; Unkraut; le erbacce; l'erbaccia, la malerba; B2; Natur/Pflanzen; Ogni fine settimana toglie le erbacce in giardino.; Sie jätet jedes Wochenende Unkraut im Garten.
+it-nt-0116; Dünger; il concime; il fertilizzante; B2; Natur/Pflanzen; Troppo concime danneggia le acque sotterranee.; Zu viel Dünger schadet dem Grundwasser.
+it-nt-0117; Moos; il muschio; ; B2; Natur/Pflanzen; Un muschio morbido copre le pietre vicino al ruscello.; Weiches Moos bedeckt die Steine am Bach.
+it-nt-0118; Farn; la felce; ; B2; Natur/Pflanzen; Le felci crescono bene nel bosco ombroso.; Farne wachsen gut im schattigen Wald.
+it-nt-0119; Pilz; il fungo; ; B2; Natur/Pflanzen; Non mangiare mai un fungo che non sai riconoscere.; Iss nie einen Pilz, den du nicht bestimmen kannst.
+it-nt-0120; Strauch; l'arbusto; il cespuglio; B2; Natur/Pflanzen; Abbiamo piantato un arbusto di bacche vicino al recinto.; Wir haben einen Beerenstrauch am Zaun gepflanzt.
+it-nt-0121; Hecke; la siepe; ; B2; Natur/Pflanzen; Una siepe fitta offre agli uccelli un posto sicuro.; Eine dichte Hecke bietet Vögeln einen sicheren Platz.
+it-nt-0122; Gletscher; il ghiacciaio; ; B2; Natur/Landschaft; Negli ultimi decenni il ghiacciaio si è ritirato in modo evidente.; Der Gletscher ist in den letzten Jahrzehnten deutlich zurückgegangen.
+it-nt-0123; Sumpf; la palude; ; B2; Natur/Landschaft; Ai margini della palude crescono orchidee rare.; Am Rand des Sumpfes wachsen seltene Orchideen.
+it-nt-0124; Klippe; la scogliera; la rupe; B2; Natur/Landschaft; Gli uccelli marini nidificano in alto sulla scogliera.; Seevögel nisten hoch oben auf der Klippe.
+it-nt-0125; Wasserfall; la cascata; ; B2; Natur/Landschaft; La cascata è particolarmente impressionante dopo una forte pioggia.; Der Wasserfall ist nach starkem Regen besonders beeindruckend.
+it-nt-0126; Artenvielfalt; la biodiversità; ; C1; Natur/Tiere/Wildtiere; Siepi e strisce fiorite favoriscono la biodiversità.; Hecken und Blühstreifen fördern die Artenvielfalt.
+it-nt-0127; Ökosystem; l'ecosistema; ; C1; Natur/Landschaft; Un bosco è un ecosistema molto complesso.; Ein Wald ist ein hochkomplexes Ökosystem.
+it-nt-0128; Nahrungskette; la catena alimentare; ; C1; Natur/Tiere/Wildtiere; Le particelle di plastica sono entrate nella catena alimentare marina.; Plastikpartikel sind in die marine Nahrungskette gelangt.
+it-nt-0129; Bestäubung; l'impollinazione; ; C1; Natur/Tiere/Insekten; Molte colture dipendono completamente dall'impollinazione degli insetti.; Viele Nutzpflanzen hängen vollständig von der Bestäubung durch Insekten ab.
+it-nt-0130; Fortpflanzung; la riproduzione; ; C1; Natur/Tiere/Wildtiere; Zone di deposizione pulite sono indispensabili per la riproduzione dei salmoni.; Saubere Laichplätze sind für die Fortpflanzung der Lachse unerlässlich.
+it-nt-0131; Paarung; l'accoppiamento; ; C1; Natur/Tiere/Wildtiere; La stagione dell'accoppiamento dei cervi inizia a settembre.; Die Paarungszeit der Hirsche beginnt im September.
+it-nt-0132; Revier; il territorio; ; C1; Natur/Tiere/Wildtiere; Il maschio marca il suo territorio con sostanze odorose.; Das Männchen markiert sein Revier mit Duftstoffen.
+it-nt-0133; Wilderei; il bracconaggio; ; C1; Natur/Tiere/Wildtiere; Il bracconaggio resta una grave minaccia per gli elefanti.; Die Wilderei bleibt eine ernste Bedrohung für Elefanten.
+it-nt-0134; Aufforstung; il rimboschimento; la riforestazione; C1; Natur/Pflanzen; Il rimboschimento dei pendii bruciati richiederà decenni.; Die Aufforstung der verbrannten Hänge wird Jahrzehnte dauern.
+it-nt-0135; Abholzung; il disboscamento; la deforestazione; C1; Natur/Pflanzen; Il disboscamento distrugge l'habitat di innumerevoli specie.; Die Abholzung zerstört den Lebensraum unzähliger Arten.
+it-nt-0136; Dürre; la siccità; ; C1; Natur/Landschaft; La lunga siccità ha causato danni enormi ai boschi.; Die lange Dürre verursachte enorme Schäden in den Wäldern.
+it-nt-0137; Überschwemmung; l'inondazione; l'alluvione; C1; Natur/Landschaft; L'inondazione ha trasformato i prati in un lago.; Die Überschwemmung verwandelte die Wiesen in einen See.
+it-nt-0138; Erosion; l'erosione; ; C1; Natur/Landschaft; Una copertura vegetale protegge i pendii dall'erosione.; Eine Pflanzendecke schützt die Hänge vor Erosion.
+it-nt-0139; Artenschutz; la tutela delle specie; la protezione delle specie; C1; Natur/Tiere/Wildtiere; Una rigorosa tutela delle specie ha salvato qui l'aquila di mare.; Strenger Artenschutz hat hier den Seeadler gerettet.
+it-nt-0140; Monokultur; la monocoltura; ; C1; Natur/Pflanzen; Una monocoltura è molto più vulnerabile ai parassiti.; Eine Monokultur ist deutlich anfälliger für Schädlinge.
+it-nt-0141; Photosynthese; la fotosintesi; ; C1; Natur/Pflanzen; Con la fotosintesi le piante trasformano la luce in energia.; Durch Photosynthese wandeln Pflanzen Licht in Energie um.
+it-nt-0142; Keimling; la plantula; il germoglio; C1; Natur/Pflanzen; La minuscola plantula ha bisogno di calore e di umidità costante.; Der winzige Keimling braucht Wärme und gleichmäßige Feuchtigkeit.
+it-nt-0143; Bestand; la popolazione; il numero di esemplari; C1; Natur/Tiere/Wildtiere; In questa regione la popolazione di lupi cresce lentamente.; Der Bestand an Wölfen wächst in dieser Region langsam.
+it-nt-0144; Renaturierung; la rinaturalizzazione; il ripristino ambientale; C2; Natur/Landschaft; La rinaturalizzazione del fiume è durata dieci anni.; Die Renaturierung des Flusses dauerte zehn Jahre.
+it-nt-0145; Zersiedelung; la dispersione urbana; l'espansione urbana incontrollata, lo sprawl urbano; C2; Natur/Landschaft; La dispersione urbana divora il paesaggio aperto.; Die Zersiedelung frisst sich in die offene Landschaft.
+it-nt-0146; Flächenversiegelung; l'impermeabilizzazione del suolo; il consumo di suolo; C2; Natur/Landschaft; L'impermeabilizzazione del suolo impedisce all'acqua piovana di raggiungere la falda.; Die Flächenversiegelung verhindert, dass Regenwasser ins Grundwasser gelangt.
+it-nt-0147; Sukzession; la successione ecologica; la successione; C2; Natur/Pflanzen; Dopo la tempesta la successione ecologica naturale ha lentamente riconquistato la radura.; Nach dem Sturm eroberte die natürliche Sukzession die Lichtung langsam zurück.
+it-nt-0148; Neophyt; la pianta invasiva; la neofita, la specie aliena; C2; Natur/Pflanzen; Questa pianta invasiva a crescita rapida soppianta le erbe autoctone.; Dieser schnell wachsende Neophyt verdrängt heimische Kräuter.
+it-nt-0149; Symbiose; la simbiosi; ; C2; Natur/Pflanzen; I funghi e le radici degli alberi vivono in stretta simbiosi.; Pilze und Baumwurzeln leben in enger Symbiose.
+it-nt-0150; Artensterben; la scomparsa delle specie; l'estinzione delle specie, l'estinzione di massa; C2; Natur/Tiere/Wildtiere; Gli scienziati mettono in guardia da una scomparsa delle specie sempre più rapida in tutto il mondo.; Wissenschaftler warnen vor einem weltweit beschleunigten Artensterben.

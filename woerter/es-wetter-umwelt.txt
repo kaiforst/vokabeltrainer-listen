@@ -1,0 +1,152 @@
+# Spanisch: Wetter & Umwelt
+id; Deutsch; Spanisch; Weitere Antworten; Niveau; Themen; Beispiel Spanisch; Beispiel Deutsch
+es-wu-0001; Sonne; el sol; ; A1; Natur/Umwelt/Wetter; El sol brilla en el cielo.; Die Sonne scheint am Himmel.
+es-wu-0002; Regen; la lluvia; ; A1; Natur/Umwelt/Wetter; Necesitamos más lluvia para el jardín.; Wir brauchen mehr Regen für den Garten.
+es-wu-0003; Schnee; la nieve; ; A1; Natur/Umwelt/Wetter; La nieve es blanca y está muy fría.; Der Schnee ist weiß und sehr kalt.
+es-wu-0004; Wind; el viento; ; A1; Natur/Umwelt/Wetter; Hoy el viento es muy fuerte.; Der Wind ist heute sehr stark.
+es-wu-0005; Wolke; la nube; ; A1; Natur/Umwelt/Wetter; Hay una nube grande encima de la casa.; Über dem Haus ist eine große Wolke.
+es-wu-0006; Himmel; el cielo; ; A1; Natur/Umwelt/Wetter; Esta mañana el cielo está azul.; Der Himmel ist heute Morgen blau.
+es-wu-0007; Wetter; el tiempo; el clima; A1; Natur/Umwelt/Wetter; Esta semana hace buen tiempo.; Das Wetter ist diese Woche schön.
+es-wu-0008; warm; cálido; templado; A1; Natur/Umwelt/Wetter; Hoy hace una tarde cálida en el jardín.; Es ist heute warm im Garten.
+es-wu-0009; kalt; frío; ; A1; Natur/Umwelt/Wetter; En enero hace mucho frío fuera.; Draußen ist es im Januar sehr kalt.
+es-wu-0010; heiß; caluroso; caliente; A1; Natur/Umwelt/Wetter; El verano fue caluroso y largo.; Der Sommer war heiß und lang.
+es-wu-0011; Sommer; el verano; ; A1; Natur/Umwelt/Jahreszeiten; En verano nadamos en el lago.; Im Sommer schwimmen wir im See.
+es-wu-0012; Winter; el invierno; ; A1; Natur/Umwelt/Jahreszeiten; En invierno los días son cortos.; Im Winter sind die Tage kurz.
+es-wu-0013; Frühling; la primavera; ; A1; Natur/Umwelt/Jahreszeiten; En primavera vuelven las flores.; Im Frühling kommen die Blumen zurück.
+es-wu-0014; Herbst; el otoño; ; A1; Natur/Umwelt/Jahreszeiten; En otoño las hojas caen de los árboles.; Im Herbst fallen die Blätter von den Bäumen.
+es-wu-0015; Baum; el árbol; ; A1; Natur/Umwelt/Natur; El viejo árbol está en nuestro jardín.; Der alte Baum steht in unserem Garten.
+es-wu-0016; Blume; la flor; ; A1; Natur/Umwelt/Natur; Esta flor es roja y bonita.; Diese Blume ist rot und schön.
+es-wu-0017; Wasser; el agua; ; A1; Natur/Umwelt/Natur; El agua limpia es importante para todos.; Sauberes Wasser ist für alle wichtig.
+es-wu-0018; Luft; el aire; ; A1; Natur/Umwelt/Natur; El aire de la montaña es fresco.; Die Luft in den Bergen ist frisch.
+es-wu-0019; Eis; el hielo; ; A1; Natur/Umwelt/Wetter; En invierno hay hielo en el lago.; Im Winter ist Eis auf dem See.
+es-wu-0020; regnen; llover; ; A1; Natur/Umwelt/Wetter; Creo que mañana por la tarde va a llover.; Ich glaube, morgen Nachmittag wird es regnen.
+es-wu-0021; schneien; nevar; ; A1; Natur/Umwelt/Wetter; Por la noche empezó a nevar.; In der Nacht begann es zu schneien.
+es-wu-0022; scheinen; brillar; lucir; A1; Natur/Umwelt/Wetter; El domingo el sol volverá a brillar.; Am Sonntag wird die Sonne wieder scheinen.
+es-wu-0023; Natur; la naturaleza; ; A1; Natur/Umwelt/Natur; Los fines de semana nos gusta pasear por la naturaleza.; Am Wochenende gehen wir gern in der Natur spazieren.
+es-wu-0024; Gras; la hierba; el césped, el pasto; A1; Natur/Umwelt/Natur; Después de la lluvia la hierba está verde.; Nach dem Regen ist das Gras grün.
+es-wu-0025; Müll; la basura; ; A1; Natur/Umwelt/Recycling; Por favor, tira la basura al contenedor.; Bitte wirf den Müll in die Tonne.
+es-wu-0026; Gewitter; la tormenta; la tormenta eléctrica; A2; Natur/Umwelt/Wetter; Esta noche llega una fuerte tormenta.; Heute Nacht kommt ein schweres Gewitter.
+es-wu-0027; Blitz; el rayo; el relámpago; A2; Natur/Umwelt/Wetter; El rayo cayó sobre un árbol alto.; Der Blitz traf einen hohen Baum.
+es-wu-0028; Donner; el trueno; ; A2; Natur/Umwelt/Wetter; Oímos el trueno a lo lejos.; Wir hörten den Donner aus der Ferne.
+es-wu-0029; Nebel; la niebla; la neblina; A2; Natur/Umwelt/Wetter; Una niebla espesa cubría todo el valle.; Dichter Nebel bedeckte das ganze Tal.
+es-wu-0030; Sturm; el temporal; el vendaval, la tormenta; A2; Natur/Umwelt/Wetter; El temporal derribó muchos árboles viejos.; Der Sturm brach viele alte Bäume.
+es-wu-0031; Regenschirm; el paraguas; ; A2; Natur/Umwelt/Wetter; Coge el paraguas, parece que va a llover.; Nimm deinen Regenschirm, es sieht nach Regen aus.
+es-wu-0032; Temperatur; la temperatura; ; A2; Natur/Umwelt/Wetter; La temperatura subirá este fin de semana.; Die Temperatur wird am Wochenende steigen.
+es-wu-0033; Grad; el grado; los grados; A2; Natur/Umwelt/Wetter; A la sombra hace treinta grados.; Im Schatten sind es dreißig Grad.
+es-wu-0034; Wettervorhersage; el pronóstico del tiempo; la previsión meteorológica, el parte meteorológico; A2; Natur/Umwelt/Wetter; El pronóstico del tiempo anuncia sol para el domingo.; Die Wettervorhersage verspricht Sonnenschein für Sonntag.
+es-wu-0035; Jahreszeit; la estación; la estación del año; A2; Natur/Umwelt/Jahreszeiten; La primavera es mi estación favorita del año.; Der Frühling ist meine liebste Jahreszeit.
+es-wu-0036; Frost; la helada; ; A2; Natur/Umwelt/Wetter; La helada acabó con las plantas jóvenes.; Der Frost hat die jungen Pflanzen zerstört.
+es-wu-0037; Hagel; el granizo; ; A2; Natur/Umwelt/Wetter; Ayer el granizo dañó muchos coches.; Der Hagel beschädigte gestern viele Autos.
+es-wu-0038; Regenbogen; el arcoíris; ; A2; Natur/Umwelt/Wetter; Después de la lluvia vimos un arcoíris precioso.; Nach dem Regen sahen wir einen schönen Regenbogen.
+es-wu-0039; Schauer; el chubasco; el chaparrón; A2; Natur/Umwelt/Wetter; Por la tarde puede caer un chubasco corto.; Am Nachmittag ist ein kurzer Schauer möglich.
+es-wu-0040; wehen; soplar; ; A2; Natur/Umwelt/Wetter; Sopla un viento frío del norte.; Ein kalter Wind weht aus dem Norden.
+es-wu-0041; frieren; pasar frío; tener frío, helarse; A2; Natur/Umwelt/Wetter; Sin chaqueta vas a pasar frío fuera.; Ohne Jacke wirst du draußen frieren.
+es-wu-0042; Umwelt; el medio ambiente; el entorno; A2; Natur/Umwelt/Umweltschutz; Tenemos que proteger el medio ambiente para nuestros hijos.; Wir müssen die Umwelt für unsere Kinder schützen.
+es-wu-0043; Klima; el clima; ; A2; Natur/Umwelt/Klima & Klimawandel; El clima en la costa es suave.; Das Klima an der Küste ist mild.
+es-wu-0044; Energie; la energía; ; A2; Natur/Umwelt/Energie; Nuestra casa gasta mucha energía en invierno.; Unser Haus verbraucht im Winter viel Energie.
+es-wu-0045; Strom; la electricidad; la luz, la corriente; A2; Natur/Umwelt/Energie; Durante la tormenta se fue la electricidad.; Während des Sturms fiel der Strom aus.
+es-wu-0046; Mülltonne; el cubo de la basura; el contenedor; A2; Natur/Umwelt/Recycling; El cubo de la basura de detrás de la casa está lleno.; Die Mülltonne hinter dem Haus ist voll.
+es-wu-0047; Plastik; el plástico; ; A2; Natur/Umwelt/Recycling; Hay demasiado plástico en el mar.; Es gibt zu viel Plastik im Meer.
+es-wu-0048; Glas; el vidrio; el cristal; A2; Natur/Umwelt/Recycling; El vidrio usado va en el contenedor de vidrio.; Altes Glas gehört in den Glascontainer.
+es-wu-0049; Papier; el papel; ; A2; Natur/Umwelt/Recycling; Recogemos papel viejo para reciclarlo.; Wir sammeln altes Papier für das Recycling.
+es-wu-0050; Dose; la lata; ; A2; Natur/Umwelt/Recycling; Tiró la lata vacía a la papelera.; Er warf die leere Dose in den Mülleimer.
+es-wu-0051; Flasche; la botella; ; A2; Natur/Umwelt/Recycling; Por favor, devuelve las botellas vacías a la tienda.; Bitte bring die leeren Flaschen zum Laden zurück.
+es-wu-0052; Plastiktüte; la bolsa de plástico; ; A2; Natur/Umwelt/Recycling; En el supermercado nunca cojo una bolsa de plástico.; Im Supermarkt nehme ich nie eine Plastiktüte.
+es-wu-0053; recyceln; reciclar; ; A2; Natur/Umwelt/Recycling; En casa reciclamos vidrio, papel y plástico.; Zu Hause recyceln wir Glas, Papier und Plastik.
+es-wu-0054; wegwerfen; tirar; desechar; A2; Natur/Umwelt/Recycling; No tires comida que todavía está buena.; Wirf kein Essen weg, das noch gut ist.
+es-wu-0055; sparen; ahorrar; ; A2; Natur/Umwelt/Energie; Intentamos ahorrar agua y electricidad.; Wir versuchen, Wasser und Strom zu sparen.
+es-wu-0056; trennen; separar; clasificar; A2; Natur/Umwelt/Recycling; En Alemania la gente separa la basura con cuidado.; In Deutschland trennen die Leute ihren Müll sorgfältig.
+es-wu-0057; schützen; proteger; ; A2; Natur/Umwelt/Umweltschutz; Queremos proteger los bosques y los ríos.; Wir wollen die Wälder und Flüsse schützen.
+es-wu-0058; trocken; seco; ; A2; Natur/Umwelt/Wetter; El verano fue demasiado seco para los agricultores.; Der Sommer war zu trocken für die Bauern.
+es-wu-0059; nass; mojado; ; A2; Natur/Umwelt/Wetter; Tengo los zapatos mojados por la lluvia.; Meine Schuhe sind nass vom Regen.
+es-wu-0060; windig; ventoso; con viento; A2; Natur/Umwelt/Wetter; Hoy el día está demasiado ventoso para un pícnic.; Heute ist es zu windig für ein Picknick.
+es-wu-0061; Klimawandel; el cambio climático; ; B1; Natur/Umwelt/Klima & Klimawandel; El cambio climático afecta a todos los países de la Tierra.; Der Klimawandel betrifft jedes Land der Erde.
+es-wu-0062; Erderwärmung; el calentamiento global; ; B1; Natur/Umwelt/Klima & Klimawandel; El calentamiento global hace que los veranos sean cada año más calurosos.; Die Erderwärmung macht die Sommer jedes Jahr heißer.
+es-wu-0063; Überschwemmung; la inundación; la riada; B1; Natur/Umwelt/Naturkatastrophen; La inundación destruyó casas a lo largo del río.; Die Überschwemmung zerstörte Häuser entlang des Flusses.
+es-wu-0064; Dürre; la sequía; ; B1; Natur/Umwelt/Naturkatastrophen; La larga sequía arruinó la cosecha.; Die lange Dürre hat die Ernte ruiniert.
+es-wu-0065; Hitzewelle; la ola de calor; ; B1; Natur/Umwelt/Naturkatastrophen; En julio una ola de calor azotó la ciudad.; Im Juli traf eine Hitzewelle die Stadt.
+es-wu-0066; Umweltverschmutzung; la contaminación; la contaminación ambiental; B1; Natur/Umwelt/Umweltschutz; La contaminación es un gran problema en muchas ciudades.; Umweltverschmutzung ist in vielen Städten ein großes Problem.
+es-wu-0067; Abgase; los gases de escape; las emisiones; B1; Natur/Umwelt/Umweltschutz; Los gases de escape de los coches ensucian el aire.; Abgase von Autos machen die Luft schmutzig.
+es-wu-0068; Treibhauseffekt; el efecto invernadero; ; B1; Natur/Umwelt/Klima & Klimawandel; El efecto invernadero calienta cada vez más nuestro planeta.; Der Treibhauseffekt erwärmt unseren Planeten immer mehr.
+es-wu-0069; erneuerbare Energie; la energía renovable; las energías renovables, las renovables; B1; Natur/Umwelt/Energie; La energía renovable procede del sol, del viento y del agua.; Erneuerbare Energie kommt aus Sonne, Wind und Wasser.
+es-wu-0070; Solarenergie; la energía solar; ; B1; Natur/Umwelt/Energie; Nuestro tejado produce energía solar para toda la casa.; Unser Dach erzeugt Solarenergie für das ganze Haus.
+es-wu-0071; Windkraft; la energía eólica; ; B1; Natur/Umwelt/Energie; La energía eólica es importante en el norte de Alemania.; Windkraft ist in Norddeutschland wichtig.
+es-wu-0072; Kohle; el carbón; ; B1; Natur/Umwelt/Energie; Quemar carbón es malo para el clima.; Kohle zu verbrennen ist schlecht für das Klima.
+es-wu-0073; Erdöl; el petróleo; ; B1; Natur/Umwelt/Energie; El precio del petróleo volvió a subir el mes pasado.; Der Preis für Erdöl stieg letzten Monat wieder.
+es-wu-0074; Erdgas; el gas natural; el gas; B1; Natur/Umwelt/Energie; Muchas viviendas todavía se calientan con gas natural.; Viele Wohnungen werden noch mit Erdgas geheizt.
+es-wu-0075; Kraftwerk; la central eléctrica; la central; B1; Natur/Umwelt/Energie; La vieja central eléctrica cerrará el año que viene.; Das alte Kraftwerk wird nächstes Jahr geschlossen.
+es-wu-0076; Umweltschutz; la protección del medio ambiente; la protección medioambiental; B1; Natur/Umwelt/Umweltschutz; La protección del medio ambiente debería empezar en la vida diaria.; Umweltschutz sollte im Alltag beginnen.
+es-wu-0077; Naturschutzgebiet; la reserva natural; el espacio protegido, el parque natural; B1; Natur/Umwelt/Umweltschutz; En esta reserva natural viven aves poco comunes.; In diesem Naturschutzgebiet leben seltene Vögel.
+es-wu-0078; Mülltrennung; la separación de residuos; la separación de la basura; B1; Natur/Umwelt/Recycling; La separación de residuos facilita mucho el reciclaje.; Mülltrennung macht das Recycling viel einfacher.
+es-wu-0079; Recyclinghof; el punto limpio; el centro de reciclaje; B1; Natur/Umwelt/Recycling; Puedes llevar los aparatos eléctricos viejos al punto limpio.; Alte Elektrogeräte kannst du zum Recyclinghof bringen.
+es-wu-0080; Pfand; el depósito; la fianza; B1; Natur/Umwelt/Recycling; Por cada botella te devuelven el depósito.; Für jede Flasche bekommst du das Pfand zurück.
+es-wu-0081; Verpackung; el embalaje; el envase, el envoltorio; B1; Natur/Umwelt/Recycling; Este producto usa demasiado embalaje.; Dieses Produkt verwendet viel zu viel Verpackung.
+es-wu-0082; verschmutzen; contaminar; ensuciar; B1; Natur/Umwelt/Umweltschutz; Las fábricas ya no pueden contaminar los ríos.; Fabriken dürfen die Flüsse nicht mehr verschmutzen.
+es-wu-0083; vermeiden; evitar; ; B1; Natur/Umwelt/Umweltschutz; Al hacer la compra intentamos evitar los residuos de plástico.; Beim Einkaufen versuchen wir, Plastikmüll zu vermeiden.
+es-wu-0084; verbrauchen; consumir; gastar; B1; Natur/Umwelt/Energie; Los frigoríficos nuevos consumen mucha menos electricidad.; Neue Kühlschränke verbrauchen viel weniger Strom.
+es-wu-0085; Verbrauch; el consumo; ; B1; Natur/Umwelt/Energie; Este año el consumo ha bajado un diez por ciento.; Der Verbrauch ist dieses Jahr um zehn Prozent gesunken.
+es-wu-0086; Niederschlag; las precipitaciones; la precipitación; B1; Natur/Umwelt/Wetter; Se esperan fuertes precipitaciones en el sur.; Im Süden wird starker Niederschlag erwartet.
+es-wu-0087; Luftfeuchtigkeit; la humedad; la humedad del aire; B1; Natur/Umwelt/Wetter; Antes de una tormenta la humedad es muy alta.; Vor einem Gewitter ist die Luftfeuchtigkeit sehr hoch.
+es-wu-0088; Klimaanlage; el aire acondicionado; ; B1; Natur/Umwelt/Energie; El aire acondicionado gasta mucha electricidad.; Die Klimaanlage verbraucht sehr viel Strom.
+es-wu-0089; umweltfreundlich; ecológico; respetuoso con el medio ambiente; B1; Natur/Umwelt/Umweltschutz; Viajar en tren es bastante ecológico.; Mit dem Zug zu reisen ist ziemlich umweltfreundlich.
+es-wu-0090; Abfall; los residuos; los desechos; B1; Natur/Umwelt/Recycling; Cada hogar produce demasiados residuos.; Jeder Haushalt produziert viel zu viel Abfall.
+es-wu-0091; Atmosphäre; la atmósfera; ; B1; Natur/Umwelt/Klima & Klimawandel; Los gases de la atmósfera retienen el calor.; Gase in der Atmosphäre halten die Wärme fest.
+es-wu-0092; Ozonschicht; la capa de ozono; ; B1; Natur/Umwelt/Klima & Klimawandel; La capa de ozono nos protege de rayos peligrosos.; Die Ozonschicht schützt uns vor gefährlichen Strahlen.
+es-wu-0093; Regenwald; la selva tropical; la selva, el bosque tropical; B1; Natur/Umwelt/Natur; La selva tropical es el hogar de millones de especies.; Der Regenwald ist die Heimat von Millionen Arten.
+es-wu-0094; aussterben; extinguirse; desaparecer; B1; Natur/Umwelt/Natur; Muchos animales podrían extinguirse en este siglo.; Viele Tiere könnten in diesem Jahrhundert aussterben.
+es-wu-0095; bedroht; amenazado; en peligro; B1; Natur/Umwelt/Natur; Hoy el tigre es una especie amenazada.; Der Tiger ist heute eine bedrohte Art.
+es-wu-0096; Nachhaltigkeit; la sostenibilidad; ; B2; Natur/Umwelt/Umweltschutz; La sostenibilidad tiene un papel cada vez mayor en la economía.; Nachhaltigkeit spielt in der Wirtschaft eine wachsende Rolle.
+es-wu-0097; nachhaltig; sostenible; ; B2; Natur/Umwelt/Umweltschutz; Deberíamos pasarnos a productos más sostenibles.; Wir sollten auf nachhaltigere Produkte umsteigen.
+es-wu-0098; Treibhausgas; el gas de efecto invernadero; ; B2; Natur/Umwelt/Klima & Klimawandel; El metano es un gas de efecto invernadero muy potente.; Methan ist ein sehr starkes Treibhausgas.
+es-wu-0099; Kohlendioxid; el dióxido de carbono; el CO2; B2; Natur/Umwelt/Klima & Klimawandel; Los coches emiten grandes cantidades de dióxido de carbono.; Autos stoßen große Mengen Kohlendioxid aus.
+es-wu-0100; Emission; la emisión; las emisiones; B2; Natur/Umwelt/Klima & Klimawandel; La fábrica ha reducido sus emisiones a la mitad.; Die Fabrik hat ihre Emissionen um die Hälfte reduziert.
+es-wu-0101; Klimaschutz; la protección del clima; la acción climática; B2; Natur/Umwelt/Klima & Klimawandel; La protección del clima necesita el apoyo de todos los países.; Klimaschutz braucht die Unterstützung aller Länder.
+es-wu-0102; Klimagipfel; la cumbre del clima; la cumbre climática; B2; Natur/Umwelt/Klima & Klimawandel; La cumbre del clima terminó sin un resultado claro.; Der Klimagipfel endete ohne ein klares Ergebnis.
+es-wu-0103; Meeresspiegel; el nivel del mar; ; B2; Natur/Umwelt/Klima & Klimawandel; El nivel del mar sube más rápido de lo esperado.; Der Meeresspiegel steigt schneller als erwartet.
+es-wu-0104; Gletscher; el glaciar; ; B2; Natur/Umwelt/Klima & Klimawandel; El glaciar ha perdido la mitad de su hielo.; Der Gletscher hat die Hälfte seines Eises verloren.
+es-wu-0105; schmelzen; derretirse; fundirse; B2; Natur/Umwelt/Klima & Klimawandel; Los casquetes polares se derriten más deprisa cada década.; Die Eiskappen schmelzen mit jedem Jahrzehnt schneller.
+es-wu-0106; Abholzung; la deforestación; la tala; B2; Natur/Umwelt/Umweltschutz; La deforestación destruye el hábitat de muchos animales.; Die Abholzung zerstört den Lebensraum vieler Tiere.
+es-wu-0107; Wiederaufforstung; la reforestación; la repoblación forestal; B2; Natur/Umwelt/Umweltschutz; La reforestación puede devolver la vida a los bosques dañados.; Wiederaufforstung kann geschädigte Wälder wieder zum Leben erwecken.
+es-wu-0108; Artenvielfalt; la biodiversidad; la diversidad de especies; B2; Natur/Umwelt/Natur; La biodiversidad disminuye en muchas regiones del mundo.; Die Artenvielfalt nimmt in vielen Regionen der Welt ab.
+es-wu-0109; Ökosystem; el ecosistema; ; B2; Natur/Umwelt/Natur; Un ecosistema sano puede recuperarse lentamente por sí solo.; Ein gesundes Ökosystem kann sich langsam selbst erholen.
+es-wu-0110; Lebensraum; el hábitat; ; B2; Natur/Umwelt/Natur; El humedal es un hábitat importante para las aves.; Das Feuchtgebiet ist ein wichtiger Lebensraum für Vögel.
+es-wu-0111; Umweltkatastrophe; la catástrofe ambiental; el desastre medioambiental, el desastre ecológico; B2; Natur/Umwelt/Naturkatastrophen; La marea negra fue una enorme catástrofe ambiental.; Die Ölpest war eine riesige Umweltkatastrophe.
+es-wu-0112; Wirbelsturm; el ciclón; el huracán, el tornado; B2; Natur/Umwelt/Naturkatastrophen; El ciclón llegó a la costa el viernes por la noche.; Der Wirbelsturm erreichte die Küste am Freitagabend.
+es-wu-0113; Erdrutsch; el corrimiento de tierras; el deslizamiento de tierra, el desprendimiento; B2; Natur/Umwelt/Naturkatastrophen; La lluvia intensa provocó un corrimiento de tierras cerca del pueblo.; Starker Regen verursachte einen Erdrutsch nahe dem Dorf.
+es-wu-0114; Waldbrand; el incendio forestal; ; B2; Natur/Umwelt/Naturkatastrophen; El incendio forestal se extendió rápidamente con el calor seco.; Der Waldbrand breitete sich in der trockenen Hitze schnell aus.
+es-wu-0115; Luftqualität; la calidad del aire; ; B2; Natur/Umwelt/Umweltschutz; La calidad del aire en la ciudad ha mejorado.; Die Luftqualität in der Stadt hat sich verbessert.
+es-wu-0116; Feinstaub; las partículas finas; las partículas en suspensión, las micropartículas; B2; Natur/Umwelt/Umweltschutz; Las partículas finas del tráfico dañan nuestros pulmones.; Feinstaub aus dem Verkehr schadet unseren Lungen.
+es-wu-0117; Schadstoff; el contaminante; la sustancia nociva; B2; Natur/Umwelt/Umweltschutz; Este contaminante se encontró en el agua potable.; Dieser Schadstoff wurde im Trinkwasser gefunden.
+es-wu-0118; Wasserkraft; la energía hidráulica; la energía hidroeléctrica; B2; Natur/Umwelt/Energie; Noruega obtiene la mayor parte de su electricidad de la energía hidráulica.; Norwegen gewinnt den größten Teil seines Stroms aus Wasserkraft.
+es-wu-0119; Atomkraft; la energía nuclear; la energía atómica; B2; Natur/Umwelt/Energie; Alemania decidió abandonar la energía nuclear.; Deutschland beschloss den Ausstieg aus der Atomkraft.
+es-wu-0120; Stromverbrauch; el consumo de electricidad; el consumo eléctrico; B2; Natur/Umwelt/Energie; Nuestro consumo de electricidad se duplica en los meses de invierno.; Unser Stromverbrauch verdoppelt sich in den Wintermonaten.
+es-wu-0121; Energiewende; la transición energética; ; B2; Natur/Umwelt/Energie; La transición energética necesita nuevas líneas eléctricas y sistemas de almacenamiento.; Die Energiewende braucht neue Stromleitungen und Speicher.
+es-wu-0122; Dämmung; el aislamiento; el aislamiento térmico; B2; Natur/Umwelt/Energie; Un buen aislamiento mantiene el calor dentro de la casa.; Eine gute Dämmung hält die Wärme im Haus.
+es-wu-0123; CO2-Fußabdruck; la huella de carbono; ; B2; Natur/Umwelt/Klima & Klimawandel; Volar menos reduce mucho tu huella de carbono.; Weniger zu fliegen verringert deinen CO2-Fußabdruck stark.
+es-wu-0124; wiederverwenden; reutilizar; ; B2; Natur/Umwelt/Recycling; Puedes reutilizar estos tarros para hacer mermelada casera.; Diese Gläser kannst du für selbstgemachte Marmelade wiederverwenden.
+es-wu-0125; entsorgen; deshacerse de; eliminar, desechar; B2; Natur/Umwelt/Recycling; Tienes que deshacerte de las pilas viejas por separado.; Alte Batterien musst du getrennt entsorgen.
+es-wu-0126; Kreislaufwirtschaft; la economía circular; ; C1; Natur/Umwelt/Recycling; Una economía circular mantiene los materiales en uso más tiempo.; Eine Kreislaufwirtschaft hält Materialien länger im Umlauf.
+es-wu-0127; Klimaneutralität; la neutralidad climática; la neutralidad de carbono; C1; Natur/Umwelt/Klima & Klimawandel; La ciudad quiere alcanzar la neutralidad climática en 2035.; Die Stadt will bis 2035 Klimaneutralität erreichen.
+es-wu-0128; Emissionshandel; el comercio de emisiones; el comercio de derechos de emisión; C1; Natur/Umwelt/Klima & Klimawandel; El comercio de emisiones pone precio a cada tonelada.; Der Emissionshandel gibt jeder Tonne einen Preis.
+es-wu-0129; Ressourcenknappheit; la escasez de recursos; ; C1; Natur/Umwelt/Energie; La escasez de recursos obliga a las empresas a reciclar más materiales.; Ressourcenknappheit zwingt Unternehmen, mehr Materialien zu recyceln.
+es-wu-0130; Ozeanversauerung; la acidificación de los océanos; la acidificación oceánica; C1; Natur/Umwelt/Klima & Klimawandel; La acidificación de los océanos amenaza a los corales y los moluscos en todo el mundo.; Die Ozeanversauerung bedroht Korallen und Muscheln weltweit.
+es-wu-0131; Kipppunkt; el punto de inflexión; el punto de no retorno; C1; Natur/Umwelt/Klima & Klimawandel; Los científicos advierten de que nos acercamos a un punto de inflexión.; Wissenschaftler warnen, dass wir uns einem Kipppunkt nähern.
+es-wu-0132; Umweltverträglichkeitsprüfung; la evaluación de impacto ambiental; el estudio de impacto ambiental; C1; Natur/Umwelt/Umweltschutz; El proyecto requiere una evaluación de impacto ambiental detallada.; Das Projekt erfordert eine detaillierte Umweltverträglichkeitsprüfung.
+es-wu-0133; Versorgungssicherheit; la seguridad del suministro; la seguridad de abastecimiento; C1; Natur/Umwelt/Energie; La seguridad del suministro se convirtió en un tema político clave.; Versorgungssicherheit wurde zu einem zentralen politischen Thema.
+es-wu-0134; Artensterben; la extinción de especies; la pérdida de especies; C1; Natur/Umwelt/Natur; La extinción de especies se acelera a un ritmo alarmante.; Das Artensterben beschleunigt sich in alarmierendem Tempo.
+es-wu-0135; Überfischung; la sobrepesca; ; C1; Natur/Umwelt/Natur; La sobrepesca ha vaciado grandes partes de los océanos.; Die Überfischung hat große Teile der Meere geleert.
+es-wu-0136; Wüstenbildung; la desertificación; la desertización; C1; Natur/Umwelt/Klima & Klimawandel; La desertificación convierte tierras fértiles en suelo árido.; Die Wüstenbildung verwandelt fruchtbares Land in kargen Boden.
+es-wu-0137; Klimaanpassung; la adaptación al cambio climático; la adaptación climática; C1; Natur/Umwelt/Klima & Klimawandel; Las ciudades invierten en adaptación al cambio climático contra el calor y las inundaciones.; Städte investieren in Klimaanpassung gegen Hitze und Hochwasser.
+es-wu-0138; Starkregen; la lluvia torrencial; las lluvias torrenciales, el aguacero; C1; Natur/Umwelt/Wetter; La lluvia torrencial inundó varias calles en pocos minutos.; Starkregen überflutete innerhalb von Minuten mehrere Straßen.
+es-wu-0139; Extremwetterereignis; el fenómeno meteorológico extremo; ; C1; Natur/Umwelt/Naturkatastrophen; Cada fenómeno meteorológico extremo le cuesta millones a la región.; Jedes Extremwetterereignis kostet die Region Millionen.
+es-wu-0140; Energieeffizienz; la eficiencia energética; ; C1; Natur/Umwelt/Energie; Una mayor eficiencia energética reduce tanto los costes como las emisiones.; Höhere Energieeffizienz senkt Kosten und Emissionen gleichermaßen.
+es-wu-0141; Umweltbewusstsein; la conciencia ambiental; la conciencia ecológica, la conciencia medioambiental; C1; Natur/Umwelt/Umweltschutz; La conciencia ambiental ha crecido mucho entre los jóvenes.; Das Umweltbewusstsein ist bei jungen Menschen stark gewachsen.
+es-wu-0142; Flächenverbrauch; el consumo de suelo; la ocupación del suelo; C1; Natur/Umwelt/Umweltschutz; El consumo de suelo para carreteras nuevas sigue siendo demasiado alto.; Der Flächenverbrauch für neue Straßen bleibt viel zu hoch.
+es-wu-0143; Grundwasserspiegel; el nivel freático; el nivel de las aguas subterráneas; C1; Natur/Umwelt/Natur; El nivel freático ha bajado después de tres veranos secos.; Der Grundwasserspiegel ist nach drei trockenen Sommern gesunken.
+es-wu-0144; Raubbau; la sobreexplotación; la explotación abusiva; C2; Natur/Umwelt/Umweltschutz; La sobreexplotación de los bosques deja daños permanentes.; Der Raubbau an den Wäldern hinterlässt bleibende Schäden.
+es-wu-0145; Renaturierung; la renaturalización; la restauración ecológica; C2; Natur/Umwelt/Natur; La renaturalización del río duró casi una década.; Die Renaturierung des Flusses dauerte fast ein Jahrzehnt.
+es-wu-0146; Vorsorgeprinzip; el principio de precaución; el principio de cautela; C2; Natur/Umwelt/Umweltschutz; El principio de precaución orienta el derecho ambiental europeo.; Das Vorsorgeprinzip leitet das europäische Umweltrecht.
+es-wu-0147; Kohlenstoffsenke; el sumidero de carbono; ; C2; Natur/Umwelt/Klima & Klimawandel; Un bosque sano actúa como sumidero de carbono natural.; Ein gesunder Wald wirkt als natürliche Kohlenstoffsenke.
+es-wu-0148; Treibhauspotenzial; el potencial de calentamiento global; ; C2; Natur/Umwelt/Klima & Klimawandel; El metano tiene un potencial de calentamiento global mucho mayor.; Methan hat ein weitaus höheres Treibhauspotenzial.
+es-wu-0149; Eutrophierung; la eutrofización; ; C2; Natur/Umwelt/Natur; La eutrofización hace que las algas se extiendan por el lago.; Durch die Eutrophierung breiten sich Algen über den See aus.
+es-wu-0150; Resilienz; la resiliencia; ; C2; Natur/Umwelt/Klima & Klimawandel; Los ecosistemas diversos muestran una mayor resiliencia frente al estrés climático.; Vielfältige Ökosysteme zeigen eine größere Resilienz gegenüber Klimastress.

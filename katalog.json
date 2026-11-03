@@ -225,6 +225,636 @@
       "file": "woerter/lieder.txt",
       "version": 1,
       "count": 46
+    },
+    {
+      "id": "fr-business-airport",
+      "file": "woerter/fr-business-airport.txt",
+      "version": 1,
+      "count": 200,
+      "lang": "fr"
+    },
+    {
+      "id": "fr-alltag-zuhause",
+      "file": "woerter/fr-alltag-zuhause.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "fr"
+    },
+    {
+      "id": "fr-arbeit-beruf",
+      "file": "woerter/fr-arbeit-beruf.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "fr"
+    },
+    {
+      "id": "fr-business-buero",
+      "file": "woerter/fr-business-buero.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "fr"
+    },
+    {
+      "id": "fr-einkaufen-geld",
+      "file": "woerter/fr-einkaufen-geld.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "fr"
+    },
+    {
+      "id": "fr-essen-trinken",
+      "file": "woerter/fr-essen-trinken.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "fr"
+    },
+    {
+      "id": "fr-familie-beziehungen",
+      "file": "woerter/fr-familie-beziehungen.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "fr"
+    },
+    {
+      "id": "fr-freizeit-hobbys",
+      "file": "woerter/fr-freizeit-hobbys.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "fr"
+    },
+    {
+      "id": "fr-gefuehle-charakter",
+      "file": "woerter/fr-gefuehle-charakter.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "fr"
+    },
+    {
+      "id": "fr-kleidung-mode",
+      "file": "woerter/fr-kleidung-mode.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "fr"
+    },
+    {
+      "id": "fr-koerper-gesundheit",
+      "file": "woerter/fr-koerper-gesundheit.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "fr"
+    },
+    {
+      "id": "fr-kunst-kultur",
+      "file": "woerter/fr-kunst-kultur.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "fr"
+    },
+    {
+      "id": "fr-medien-kommunikation",
+      "file": "woerter/fr-medien-kommunikation.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "fr"
+    },
+    {
+      "id": "fr-natur-tiere",
+      "file": "woerter/fr-natur-tiere.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "fr"
+    },
+    {
+      "id": "fr-politik-gesellschaft",
+      "file": "woerter/fr-politik-gesellschaft.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "fr"
+    },
+    {
+      "id": "fr-reisen-urlaub",
+      "file": "woerter/fr-reisen-urlaub.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "fr"
+    },
+    {
+      "id": "fr-schule-bildung",
+      "file": "woerter/fr-schule-bildung.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "fr"
+    },
+    {
+      "id": "fr-sport-fitness",
+      "file": "woerter/fr-sport-fitness.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "fr"
+    },
+    {
+      "id": "fr-technik-computer",
+      "file": "woerter/fr-technik-computer.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "fr"
+    },
+    {
+      "id": "fr-verkehr-mobilitaet",
+      "file": "woerter/fr-verkehr-mobilitaet.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "fr"
+    },
+    {
+      "id": "fr-wetter-umwelt",
+      "file": "woerter/fr-wetter-umwelt.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "fr"
+    },
+    {
+      "id": "fr-wirtschaft-finanzen",
+      "file": "woerter/fr-wirtschaft-finanzen.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "fr"
+    },
+    {
+      "id": "fr-wissenschaft-forschung",
+      "file": "woerter/fr-wissenschaft-forschung.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "fr"
+    },
+    {
+      "id": "fr-business-beschaffung",
+      "file": "woerter/fr-business-beschaffung.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "fr"
+    },
+    {
+      "id": "fr-business-marketing-vertrieb",
+      "file": "woerter/fr-business-marketing-vertrieb.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "fr"
+    },
+    {
+      "id": "fr-business-personalwesen",
+      "file": "woerter/fr-business-personalwesen.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "fr"
+    },
+    {
+      "id": "fr-business-projektmanagement",
+      "file": "woerter/fr-business-projektmanagement.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "fr"
+    },
+    {
+      "id": "fr-business-rechnungswesen",
+      "file": "woerter/fr-business-rechnungswesen.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "fr"
+    },
+    {
+      "id": "fr-business-verhandlungen",
+      "file": "woerter/fr-business-verhandlungen.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "fr"
+    },
+    {
+      "id": "fr-business-vertrag",
+      "file": "woerter/fr-business-vertrag.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "fr"
+    },
+    {
+      "id": "es-business-airport",
+      "file": "woerter/es-business-airport.txt",
+      "version": 1,
+      "count": 200,
+      "lang": "es"
+    },
+    {
+      "id": "es-alltag-zuhause",
+      "file": "woerter/es-alltag-zuhause.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "es"
+    },
+    {
+      "id": "es-arbeit-beruf",
+      "file": "woerter/es-arbeit-beruf.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "es"
+    },
+    {
+      "id": "es-business-buero",
+      "file": "woerter/es-business-buero.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "es"
+    },
+    {
+      "id": "es-einkaufen-geld",
+      "file": "woerter/es-einkaufen-geld.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "es"
+    },
+    {
+      "id": "es-essen-trinken",
+      "file": "woerter/es-essen-trinken.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "es"
+    },
+    {
+      "id": "es-familie-beziehungen",
+      "file": "woerter/es-familie-beziehungen.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "es"
+    },
+    {
+      "id": "es-freizeit-hobbys",
+      "file": "woerter/es-freizeit-hobbys.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "es"
+    },
+    {
+      "id": "es-gefuehle-charakter",
+      "file": "woerter/es-gefuehle-charakter.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "es"
+    },
+    {
+      "id": "es-kleidung-mode",
+      "file": "woerter/es-kleidung-mode.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "es"
+    },
+    {
+      "id": "es-koerper-gesundheit",
+      "file": "woerter/es-koerper-gesundheit.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "es"
+    },
+    {
+      "id": "es-kunst-kultur",
+      "file": "woerter/es-kunst-kultur.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "es"
+    },
+    {
+      "id": "es-medien-kommunikation",
+      "file": "woerter/es-medien-kommunikation.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "es"
+    },
+    {
+      "id": "es-natur-tiere",
+      "file": "woerter/es-natur-tiere.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "es"
+    },
+    {
+      "id": "es-politik-gesellschaft",
+      "file": "woerter/es-politik-gesellschaft.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "es"
+    },
+    {
+      "id": "es-reisen-urlaub",
+      "file": "woerter/es-reisen-urlaub.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "es"
+    },
+    {
+      "id": "es-schule-bildung",
+      "file": "woerter/es-schule-bildung.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "es"
+    },
+    {
+      "id": "es-sport-fitness",
+      "file": "woerter/es-sport-fitness.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "es"
+    },
+    {
+      "id": "es-technik-computer",
+      "file": "woerter/es-technik-computer.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "es"
+    },
+    {
+      "id": "es-verkehr-mobilitaet",
+      "file": "woerter/es-verkehr-mobilitaet.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "es"
+    },
+    {
+      "id": "es-wetter-umwelt",
+      "file": "woerter/es-wetter-umwelt.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "es"
+    },
+    {
+      "id": "es-wirtschaft-finanzen",
+      "file": "woerter/es-wirtschaft-finanzen.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "es"
+    },
+    {
+      "id": "es-wissenschaft-forschung",
+      "file": "woerter/es-wissenschaft-forschung.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "es"
+    },
+    {
+      "id": "es-business-beschaffung",
+      "file": "woerter/es-business-beschaffung.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "es"
+    },
+    {
+      "id": "es-business-marketing-vertrieb",
+      "file": "woerter/es-business-marketing-vertrieb.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "es"
+    },
+    {
+      "id": "es-business-personalwesen",
+      "file": "woerter/es-business-personalwesen.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "es"
+    },
+    {
+      "id": "es-business-projektmanagement",
+      "file": "woerter/es-business-projektmanagement.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "es"
+    },
+    {
+      "id": "es-business-rechnungswesen",
+      "file": "woerter/es-business-rechnungswesen.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "es"
+    },
+    {
+      "id": "es-business-verhandlungen",
+      "file": "woerter/es-business-verhandlungen.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "es"
+    },
+    {
+      "id": "es-business-vertrag",
+      "file": "woerter/es-business-vertrag.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "es"
+    },
+    {
+      "id": "it-business-airport",
+      "file": "woerter/it-business-airport.txt",
+      "version": 1,
+      "count": 200,
+      "lang": "it"
+    },
+    {
+      "id": "it-alltag-zuhause",
+      "file": "woerter/it-alltag-zuhause.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "it"
+    },
+    {
+      "id": "it-arbeit-beruf",
+      "file": "woerter/it-arbeit-beruf.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "it"
+    },
+    {
+      "id": "it-business-buero",
+      "file": "woerter/it-business-buero.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "it"
+    },
+    {
+      "id": "it-einkaufen-geld",
+      "file": "woerter/it-einkaufen-geld.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "it"
+    },
+    {
+      "id": "it-essen-trinken",
+      "file": "woerter/it-essen-trinken.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "it"
+    },
+    {
+      "id": "it-familie-beziehungen",
+      "file": "woerter/it-familie-beziehungen.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "it"
+    },
+    {
+      "id": "it-freizeit-hobbys",
+      "file": "woerter/it-freizeit-hobbys.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "it"
+    },
+    {
+      "id": "it-gefuehle-charakter",
+      "file": "woerter/it-gefuehle-charakter.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "it"
+    },
+    {
+      "id": "it-kleidung-mode",
+      "file": "woerter/it-kleidung-mode.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "it"
+    },
+    {
+      "id": "it-koerper-gesundheit",
+      "file": "woerter/it-koerper-gesundheit.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "it"
+    },
+    {
+      "id": "it-kunst-kultur",
+      "file": "woerter/it-kunst-kultur.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "it"
+    },
+    {
+      "id": "it-medien-kommunikation",
+      "file": "woerter/it-medien-kommunikation.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "it"
+    },
+    {
+      "id": "it-natur-tiere",
+      "file": "woerter/it-natur-tiere.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "it"
+    },
+    {
+      "id": "it-politik-gesellschaft",
+      "file": "woerter/it-politik-gesellschaft.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "it"
+    },
+    {
+      "id": "it-reisen-urlaub",
+      "file": "woerter/it-reisen-urlaub.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "it"
+    },
+    {
+      "id": "it-schule-bildung",
+      "file": "woerter/it-schule-bildung.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "it"
+    },
+    {
+      "id": "it-sport-fitness",
+      "file": "woerter/it-sport-fitness.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "it"
+    },
+    {
+      "id": "it-technik-computer",
+      "file": "woerter/it-technik-computer.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "it"
+    },
+    {
+      "id": "it-verkehr-mobilitaet",
+      "file": "woerter/it-verkehr-mobilitaet.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "it"
+    },
+    {
+      "id": "it-wetter-umwelt",
+      "file": "woerter/it-wetter-umwelt.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "it"
+    },
+    {
+      "id": "it-wirtschaft-finanzen",
+      "file": "woerter/it-wirtschaft-finanzen.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "it"
+    },
+    {
+      "id": "it-wissenschaft-forschung",
+      "file": "woerter/it-wissenschaft-forschung.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "it"
+    },
+    {
+      "id": "it-business-beschaffung",
+      "file": "woerter/it-business-beschaffung.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "it"
+    },
+    {
+      "id": "it-business-marketing-vertrieb",
+      "file": "woerter/it-business-marketing-vertrieb.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "it"
+    },
+    {
+      "id": "it-business-personalwesen",
+      "file": "woerter/it-business-personalwesen.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "it"
+    },
+    {
+      "id": "it-business-projektmanagement",
+      "file": "woerter/it-business-projektmanagement.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "it"
+    },
+    {
+      "id": "it-business-rechnungswesen",
+      "file": "woerter/it-business-rechnungswesen.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "it"
+    },
+    {
+      "id": "it-business-verhandlungen",
+      "file": "woerter/it-business-verhandlungen.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "it"
+    },
+    {
+      "id": "it-business-vertrag",
+      "file": "woerter/it-business-vertrag.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "it"
     }
   ],
   "lists": [
@@ -326,11 +956,11 @@
     },
     {
       "id": "business-english-airport",
-      "name": "Business English – Airport",
+      "name": "Business – Airport",
       "description": "Terminalbetrieb und Passagierabfertigung, mit Beispielsätzen",
       "level": "B1",
       "count": 200,
-      "version": 3,
+      "version": 4,
       "filter": {
         "topics": [
           "Business/Airport"
@@ -623,10 +1253,10 @@
     },
     {
       "id": "business-beschaffung",
-      "name": "Business English – Beschaffung",
+      "name": "Business – Beschaffung",
       "description": "A1–C2, mit Beispielsätzen",
       "count": 150,
-      "version": 1,
+      "version": 2,
       "filter": {
         "topics": [
           "Business/Beschaffung"
@@ -635,10 +1265,10 @@
     },
     {
       "id": "business-marketing-vertrieb",
-      "name": "Business English – Marketing & Vertrieb",
+      "name": "Business – Marketing & Vertrieb",
       "description": "A1–C2, mit Beispielsätzen",
       "count": 150,
-      "version": 1,
+      "version": 2,
       "filter": {
         "topics": [
           "Business/Marketing & Vertrieb"
@@ -647,10 +1277,10 @@
     },
     {
       "id": "business-personalwesen",
-      "name": "Business English – Personalwesen",
+      "name": "Business – Personalwesen",
       "description": "A1–C2, mit Beispielsätzen",
       "count": 150,
-      "version": 1,
+      "version": 2,
       "filter": {
         "topics": [
           "Business/Personal"
@@ -659,10 +1289,10 @@
     },
     {
       "id": "business-projektmanagement",
-      "name": "Business English – Projektmanagement",
+      "name": "Business – Projektmanagement",
       "description": "A1–C2, mit Beispielsätzen",
       "count": 150,
-      "version": 1,
+      "version": 2,
       "filter": {
         "topics": [
           "Business/Projektmanagement"
@@ -671,10 +1301,10 @@
     },
     {
       "id": "business-rechnungswesen",
-      "name": "Business English – Rechnungswesen",
+      "name": "Business – Rechnungswesen",
       "description": "A1–C2, mit Beispielsätzen",
       "count": 150,
-      "version": 1,
+      "version": 2,
       "filter": {
         "topics": [
           "Business/Rechnungswesen"
@@ -683,10 +1313,10 @@
     },
     {
       "id": "business-verhandlungen",
-      "name": "Business English – Verhandlungen",
+      "name": "Business – Verhandlungen",
       "description": "A1–C2, mit Beispielsätzen",
       "count": 150,
-      "version": 1,
+      "version": 2,
       "filter": {
         "topics": [
           "Business/Verhandlung"
@@ -695,10 +1325,10 @@
     },
     {
       "id": "business-vertrag",
-      "name": "Business English – Verträge",
+      "name": "Business – Verträge",
       "description": "A1–C2, mit Beispielsätzen",
       "count": 150,
-      "version": 1,
+      "version": 2,
       "filter": {
         "topics": [
           "Business/Vertrag"
@@ -712,7 +1342,7 @@
       "level": "A1",
       "answerLang": "fr",
       "count": 250,
-      "version": 1,
+      "version": 2,
       "filter": {
         "topics": [
           "Grundwortschatz"
@@ -720,7 +1350,8 @@
         "levels": [
           "A1"
         ]
-      }
+      },
+      "group": "grundwortschatz-start"
     },
     {
       "id": "fr-grundwortschatz-a2",
@@ -827,7 +1458,7 @@
       "level": "A1",
       "answerLang": "es",
       "count": 250,
-      "version": 1,
+      "version": 2,
       "filter": {
         "topics": [
           "Grundwortschatz"
@@ -835,7 +1466,8 @@
         "levels": [
           "A1"
         ]
-      }
+      },
+      "group": "grundwortschatz-start"
     },
     {
       "id": "es-grundwortschatz-a2",
@@ -942,7 +1574,7 @@
       "level": "A1",
       "answerLang": "it",
       "count": 250,
-      "version": 1,
+      "version": 2,
       "filter": {
         "topics": [
           "Grundwortschatz"
@@ -950,7 +1582,8 @@
         "levels": [
           "A1"
         ]
-      }
+      },
+      "group": "grundwortschatz-start"
     },
     {
       "id": "it-grundwortschatz-a2",
@@ -1209,114 +1842,1369 @@
         "title": "Szene auf YouTube suchen",
         "url": "https://www.youtube.com/results?search_query=The+Newsroom+America+is+not+the+greatest+country+scene"
       }
+    },
+    {
+      "id": "fr-business-english-airport",
+      "name": "Französisch: Business – Airport",
+      "description": "Terminalbetrieb und Passagierabfertigung, mit Beispielsätzen",
+      "level": "B1",
+      "answerLang": "fr",
+      "count": 200,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Business/Airport"
+        ]
+      }
+    },
+    {
+      "id": "fr-alltag-zuhause",
+      "name": "Französisch: Alltag & Zuhause",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "fr",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Alltag/Zuhause"
+        ]
+      }
+    },
+    {
+      "id": "fr-arbeit-beruf",
+      "name": "Französisch: Arbeit & Beruf",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "fr",
+      "count": 155,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Arbeit"
+        ]
+      }
+    },
+    {
+      "id": "fr-business-buero",
+      "name": "Französisch: Business & Büro",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "fr",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Business/Büro"
+        ]
+      }
+    },
+    {
+      "id": "fr-einkaufen-geld",
+      "name": "Französisch: Einkaufen & Geld",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "fr",
+      "count": 158,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Alltag/Einkaufen"
+        ]
+      }
+    },
+    {
+      "id": "fr-essen-trinken",
+      "name": "Französisch: Essen & Trinken",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "fr",
+      "count": 152,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Alltag/Essen"
+        ]
+      }
+    },
+    {
+      "id": "fr-familie-beziehungen",
+      "name": "Französisch: Familie & Beziehungen",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "fr",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Alltag/Familie"
+        ]
+      }
+    },
+    {
+      "id": "fr-freizeit-hobbys",
+      "name": "Französisch: Freizeit & Hobbys",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "fr",
+      "count": 153,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Freizeit/Hobbys",
+          "Freizeit/Spiele",
+          "Freizeit/Musik",
+          "Freizeit/Ausgehen",
+          "Freizeit/Lesen",
+          "Freizeit/Feste & Feiern",
+          "Freizeit/Basteln & Handwerk"
+        ]
+      }
+    },
+    {
+      "id": "fr-gefuehle-charakter",
+      "name": "Französisch: Gefühle & Charakter",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "fr",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Mensch"
+        ]
+      }
+    },
+    {
+      "id": "fr-kleidung-mode",
+      "name": "Französisch: Kleidung & Mode",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "fr",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Alltag/Kleidung"
+        ]
+      }
+    },
+    {
+      "id": "fr-koerper-gesundheit",
+      "name": "Französisch: Körper & Gesundheit",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "fr",
+      "count": 152,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Gesundheit"
+        ]
+      }
+    },
+    {
+      "id": "fr-kunst-kultur",
+      "name": "Französisch: Kunst & Kultur",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "fr",
+      "count": 151,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Kultur"
+        ]
+      }
+    },
+    {
+      "id": "fr-medien-kommunikation",
+      "name": "Französisch: Medien & Kommunikation",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "fr",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Medien"
+        ]
+      }
+    },
+    {
+      "id": "fr-natur-tiere",
+      "name": "Französisch: Natur & Tiere",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "fr",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Natur/Tiere",
+          "Natur/Pflanzen",
+          "Natur/Landschaft"
+        ]
+      }
+    },
+    {
+      "id": "fr-politik-gesellschaft",
+      "name": "Französisch: Politik & Gesellschaft",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "fr",
+      "count": 153,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Gesellschaft"
+        ]
+      }
+    },
+    {
+      "id": "fr-reisen-urlaub",
+      "name": "Französisch: Reisen & Urlaub",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "fr",
+      "count": 158,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Reisen/Urlaub"
+        ]
+      }
+    },
+    {
+      "id": "fr-schule-bildung",
+      "name": "Französisch: Schule & Bildung",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "fr",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Bildung"
+        ]
+      }
+    },
+    {
+      "id": "fr-sport-fitness",
+      "name": "Französisch: Sport & Fitness",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "fr",
+      "count": 153,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Freizeit/Sport"
+        ]
+      }
+    },
+    {
+      "id": "fr-technik-computer",
+      "name": "Französisch: Technik & Computer",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "fr",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Technik"
+        ]
+      }
+    },
+    {
+      "id": "fr-verkehr-mobilitaet",
+      "name": "Französisch: Verkehr & Mobilität",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "fr",
+      "count": 152,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Reisen/Verkehr"
+        ]
+      }
+    },
+    {
+      "id": "fr-wetter-umwelt",
+      "name": "Französisch: Wetter & Umwelt",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "fr",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Natur/Umwelt"
+        ]
+      }
+    },
+    {
+      "id": "fr-wirtschaft-finanzen",
+      "name": "Französisch: Wirtschaft & Finanzen",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "fr",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wirtschaft"
+        ]
+      }
+    },
+    {
+      "id": "fr-wissenschaft-forschung",
+      "name": "Französisch: Wissenschaft & Forschung",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "fr",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wissenschaft"
+        ]
+      }
+    },
+    {
+      "id": "fr-business-beschaffung",
+      "name": "Französisch: Business – Beschaffung",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "fr",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Business/Beschaffung"
+        ]
+      }
+    },
+    {
+      "id": "fr-business-marketing-vertrieb",
+      "name": "Französisch: Business – Marketing & Vertrieb",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "fr",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Business/Marketing & Vertrieb"
+        ]
+      }
+    },
+    {
+      "id": "fr-business-personalwesen",
+      "name": "Französisch: Business – Personalwesen",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "fr",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Business/Personal"
+        ]
+      }
+    },
+    {
+      "id": "fr-business-projektmanagement",
+      "name": "Französisch: Business – Projektmanagement",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "fr",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Business/Projektmanagement"
+        ]
+      }
+    },
+    {
+      "id": "fr-business-rechnungswesen",
+      "name": "Französisch: Business – Rechnungswesen",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "fr",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Business/Rechnungswesen"
+        ]
+      }
+    },
+    {
+      "id": "fr-business-verhandlungen",
+      "name": "Französisch: Business – Verhandlungen",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "fr",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Business/Verhandlung"
+        ]
+      }
+    },
+    {
+      "id": "fr-business-vertrag",
+      "name": "Französisch: Business – Verträge",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "fr",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Business/Vertrag"
+        ]
+      }
+    },
+    {
+      "id": "es-business-english-airport",
+      "name": "Spanisch: Business – Airport",
+      "description": "Terminalbetrieb und Passagierabfertigung, mit Beispielsätzen",
+      "level": "B1",
+      "answerLang": "es",
+      "count": 200,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Business/Airport"
+        ]
+      }
+    },
+    {
+      "id": "es-alltag-zuhause",
+      "name": "Spanisch: Alltag & Zuhause",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "es",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Alltag/Zuhause"
+        ]
+      }
+    },
+    {
+      "id": "es-arbeit-beruf",
+      "name": "Spanisch: Arbeit & Beruf",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "es",
+      "count": 155,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Arbeit"
+        ]
+      }
+    },
+    {
+      "id": "es-business-buero",
+      "name": "Spanisch: Business & Büro",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "es",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Business/Büro"
+        ]
+      }
+    },
+    {
+      "id": "es-einkaufen-geld",
+      "name": "Spanisch: Einkaufen & Geld",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "es",
+      "count": 158,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Alltag/Einkaufen"
+        ]
+      }
+    },
+    {
+      "id": "es-essen-trinken",
+      "name": "Spanisch: Essen & Trinken",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "es",
+      "count": 152,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Alltag/Essen"
+        ]
+      }
+    },
+    {
+      "id": "es-familie-beziehungen",
+      "name": "Spanisch: Familie & Beziehungen",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "es",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Alltag/Familie"
+        ]
+      }
+    },
+    {
+      "id": "es-freizeit-hobbys",
+      "name": "Spanisch: Freizeit & Hobbys",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "es",
+      "count": 153,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Freizeit/Hobbys",
+          "Freizeit/Spiele",
+          "Freizeit/Musik",
+          "Freizeit/Ausgehen",
+          "Freizeit/Lesen",
+          "Freizeit/Feste & Feiern",
+          "Freizeit/Basteln & Handwerk"
+        ]
+      }
+    },
+    {
+      "id": "es-gefuehle-charakter",
+      "name": "Spanisch: Gefühle & Charakter",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "es",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Mensch"
+        ]
+      }
+    },
+    {
+      "id": "es-kleidung-mode",
+      "name": "Spanisch: Kleidung & Mode",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "es",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Alltag/Kleidung"
+        ]
+      }
+    },
+    {
+      "id": "es-koerper-gesundheit",
+      "name": "Spanisch: Körper & Gesundheit",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "es",
+      "count": 152,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Gesundheit"
+        ]
+      }
+    },
+    {
+      "id": "es-kunst-kultur",
+      "name": "Spanisch: Kunst & Kultur",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "es",
+      "count": 151,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Kultur"
+        ]
+      }
+    },
+    {
+      "id": "es-medien-kommunikation",
+      "name": "Spanisch: Medien & Kommunikation",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "es",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Medien"
+        ]
+      }
+    },
+    {
+      "id": "es-natur-tiere",
+      "name": "Spanisch: Natur & Tiere",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "es",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Natur/Tiere",
+          "Natur/Pflanzen",
+          "Natur/Landschaft"
+        ]
+      }
+    },
+    {
+      "id": "es-politik-gesellschaft",
+      "name": "Spanisch: Politik & Gesellschaft",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "es",
+      "count": 153,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Gesellschaft"
+        ]
+      }
+    },
+    {
+      "id": "es-reisen-urlaub",
+      "name": "Spanisch: Reisen & Urlaub",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "es",
+      "count": 158,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Reisen/Urlaub"
+        ]
+      }
+    },
+    {
+      "id": "es-schule-bildung",
+      "name": "Spanisch: Schule & Bildung",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "es",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Bildung"
+        ]
+      }
+    },
+    {
+      "id": "es-sport-fitness",
+      "name": "Spanisch: Sport & Fitness",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "es",
+      "count": 153,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Freizeit/Sport"
+        ]
+      }
+    },
+    {
+      "id": "es-technik-computer",
+      "name": "Spanisch: Technik & Computer",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "es",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Technik"
+        ]
+      }
+    },
+    {
+      "id": "es-verkehr-mobilitaet",
+      "name": "Spanisch: Verkehr & Mobilität",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "es",
+      "count": 152,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Reisen/Verkehr"
+        ]
+      }
+    },
+    {
+      "id": "es-wetter-umwelt",
+      "name": "Spanisch: Wetter & Umwelt",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "es",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Natur/Umwelt"
+        ]
+      }
+    },
+    {
+      "id": "es-wirtschaft-finanzen",
+      "name": "Spanisch: Wirtschaft & Finanzen",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "es",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wirtschaft"
+        ]
+      }
+    },
+    {
+      "id": "es-wissenschaft-forschung",
+      "name": "Spanisch: Wissenschaft & Forschung",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "es",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wissenschaft"
+        ]
+      }
+    },
+    {
+      "id": "es-business-beschaffung",
+      "name": "Spanisch: Business – Beschaffung",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "es",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Business/Beschaffung"
+        ]
+      }
+    },
+    {
+      "id": "es-business-marketing-vertrieb",
+      "name": "Spanisch: Business – Marketing & Vertrieb",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "es",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Business/Marketing & Vertrieb"
+        ]
+      }
+    },
+    {
+      "id": "es-business-personalwesen",
+      "name": "Spanisch: Business – Personalwesen",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "es",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Business/Personal"
+        ]
+      }
+    },
+    {
+      "id": "es-business-projektmanagement",
+      "name": "Spanisch: Business – Projektmanagement",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "es",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Business/Projektmanagement"
+        ]
+      }
+    },
+    {
+      "id": "es-business-rechnungswesen",
+      "name": "Spanisch: Business – Rechnungswesen",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "es",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Business/Rechnungswesen"
+        ]
+      }
+    },
+    {
+      "id": "es-business-verhandlungen",
+      "name": "Spanisch: Business – Verhandlungen",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "es",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Business/Verhandlung"
+        ]
+      }
+    },
+    {
+      "id": "es-business-vertrag",
+      "name": "Spanisch: Business – Verträge",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "es",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Business/Vertrag"
+        ]
+      }
+    },
+    {
+      "id": "it-business-english-airport",
+      "name": "Italienisch: Business – Airport",
+      "description": "Terminalbetrieb und Passagierabfertigung, mit Beispielsätzen",
+      "level": "B1",
+      "answerLang": "it",
+      "count": 200,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Business/Airport"
+        ]
+      }
+    },
+    {
+      "id": "it-alltag-zuhause",
+      "name": "Italienisch: Alltag & Zuhause",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "it",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Alltag/Zuhause"
+        ]
+      }
+    },
+    {
+      "id": "it-arbeit-beruf",
+      "name": "Italienisch: Arbeit & Beruf",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "it",
+      "count": 155,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Arbeit"
+        ]
+      }
+    },
+    {
+      "id": "it-business-buero",
+      "name": "Italienisch: Business & Büro",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "it",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Business/Büro"
+        ]
+      }
+    },
+    {
+      "id": "it-einkaufen-geld",
+      "name": "Italienisch: Einkaufen & Geld",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "it",
+      "count": 158,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Alltag/Einkaufen"
+        ]
+      }
+    },
+    {
+      "id": "it-essen-trinken",
+      "name": "Italienisch: Essen & Trinken",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "it",
+      "count": 152,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Alltag/Essen"
+        ]
+      }
+    },
+    {
+      "id": "it-familie-beziehungen",
+      "name": "Italienisch: Familie & Beziehungen",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "it",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Alltag/Familie"
+        ]
+      }
+    },
+    {
+      "id": "it-freizeit-hobbys",
+      "name": "Italienisch: Freizeit & Hobbys",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "it",
+      "count": 153,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Freizeit/Hobbys",
+          "Freizeit/Spiele",
+          "Freizeit/Musik",
+          "Freizeit/Ausgehen",
+          "Freizeit/Lesen",
+          "Freizeit/Feste & Feiern",
+          "Freizeit/Basteln & Handwerk"
+        ]
+      }
+    },
+    {
+      "id": "it-gefuehle-charakter",
+      "name": "Italienisch: Gefühle & Charakter",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "it",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Mensch"
+        ]
+      }
+    },
+    {
+      "id": "it-kleidung-mode",
+      "name": "Italienisch: Kleidung & Mode",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "it",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Alltag/Kleidung"
+        ]
+      }
+    },
+    {
+      "id": "it-koerper-gesundheit",
+      "name": "Italienisch: Körper & Gesundheit",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "it",
+      "count": 152,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Gesundheit"
+        ]
+      }
+    },
+    {
+      "id": "it-kunst-kultur",
+      "name": "Italienisch: Kunst & Kultur",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "it",
+      "count": 151,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Kultur"
+        ]
+      }
+    },
+    {
+      "id": "it-medien-kommunikation",
+      "name": "Italienisch: Medien & Kommunikation",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "it",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Medien"
+        ]
+      }
+    },
+    {
+      "id": "it-natur-tiere",
+      "name": "Italienisch: Natur & Tiere",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "it",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Natur/Tiere",
+          "Natur/Pflanzen",
+          "Natur/Landschaft"
+        ]
+      }
+    },
+    {
+      "id": "it-politik-gesellschaft",
+      "name": "Italienisch: Politik & Gesellschaft",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "it",
+      "count": 153,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Gesellschaft"
+        ]
+      }
+    },
+    {
+      "id": "it-reisen-urlaub",
+      "name": "Italienisch: Reisen & Urlaub",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "it",
+      "count": 158,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Reisen/Urlaub"
+        ]
+      }
+    },
+    {
+      "id": "it-schule-bildung",
+      "name": "Italienisch: Schule & Bildung",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "it",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Bildung"
+        ]
+      }
+    },
+    {
+      "id": "it-sport-fitness",
+      "name": "Italienisch: Sport & Fitness",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "it",
+      "count": 153,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Freizeit/Sport"
+        ]
+      }
+    },
+    {
+      "id": "it-technik-computer",
+      "name": "Italienisch: Technik & Computer",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "it",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Technik"
+        ]
+      }
+    },
+    {
+      "id": "it-verkehr-mobilitaet",
+      "name": "Italienisch: Verkehr & Mobilität",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "it",
+      "count": 152,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Reisen/Verkehr"
+        ]
+      }
+    },
+    {
+      "id": "it-wetter-umwelt",
+      "name": "Italienisch: Wetter & Umwelt",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "it",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Natur/Umwelt"
+        ]
+      }
+    },
+    {
+      "id": "it-wirtschaft-finanzen",
+      "name": "Italienisch: Wirtschaft & Finanzen",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "it",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wirtschaft"
+        ]
+      }
+    },
+    {
+      "id": "it-wissenschaft-forschung",
+      "name": "Italienisch: Wissenschaft & Forschung",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "it",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wissenschaft"
+        ]
+      }
+    },
+    {
+      "id": "it-business-beschaffung",
+      "name": "Italienisch: Business – Beschaffung",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "it",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Business/Beschaffung"
+        ]
+      }
+    },
+    {
+      "id": "it-business-marketing-vertrieb",
+      "name": "Italienisch: Business – Marketing & Vertrieb",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "it",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Business/Marketing & Vertrieb"
+        ]
+      }
+    },
+    {
+      "id": "it-business-personalwesen",
+      "name": "Italienisch: Business – Personalwesen",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "it",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Business/Personal"
+        ]
+      }
+    },
+    {
+      "id": "it-business-projektmanagement",
+      "name": "Italienisch: Business – Projektmanagement",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "it",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Business/Projektmanagement"
+        ]
+      }
+    },
+    {
+      "id": "it-business-rechnungswesen",
+      "name": "Italienisch: Business – Rechnungswesen",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "it",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Business/Rechnungswesen"
+        ]
+      }
+    },
+    {
+      "id": "it-business-verhandlungen",
+      "name": "Italienisch: Business – Verhandlungen",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "it",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Business/Verhandlung"
+        ]
+      }
+    },
+    {
+      "id": "it-business-vertrag",
+      "name": "Italienisch: Business – Verträge",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "it",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Business/Vertrag"
+        ]
+      }
     }
   ],
   "areas": {
-    "version": 7,
+    "version": 8,
     "tree": [
       {
         "name": "Einstieg",
-        "lists": [],
-        "areas": [
-          {
-            "name": "Englisch",
-            "lists": [
-              "grundwortschatz-start",
-              "grundwortschatz-a2",
-              "grundwortschatz-b1",
-              "grundwortschatz-b2",
-              "grundwortschatz-c1",
-              "grundwortschatz-c2",
-              "grundwortschatz"
-            ]
-          },
-          {
-            "name": "Französisch",
-            "lists": [
-              "fr-grundwortschatz-a1",
-              "fr-grundwortschatz-a2",
-              "fr-grundwortschatz-b1",
-              "fr-grundwortschatz-b2",
-              "fr-grundwortschatz-c1",
-              "fr-grundwortschatz-c2",
-              "fr-grundwortschatz"
-            ]
-          },
-          {
-            "name": "Spanisch",
-            "lists": [
-              "es-grundwortschatz-a1",
-              "es-grundwortschatz-a2",
-              "es-grundwortschatz-b1",
-              "es-grundwortschatz-b2",
-              "es-grundwortschatz-c1",
-              "es-grundwortschatz-c2",
-              "es-grundwortschatz"
-            ]
-          },
-          {
-            "name": "Italienisch",
-            "lists": [
-              "it-grundwortschatz-a1",
-              "it-grundwortschatz-a2",
-              "it-grundwortschatz-b1",
-              "it-grundwortschatz-b2",
-              "it-grundwortschatz-c1",
-              "it-grundwortschatz-c2",
-              "it-grundwortschatz"
-            ]
-          }
-        ]
+        "lists": [
+          "grundwortschatz-start",
+          "fr-grundwortschatz-a1",
+          "es-grundwortschatz-a1",
+          "it-grundwortschatz-a1",
+          "grundwortschatz-a2",
+          "fr-grundwortschatz-a2",
+          "es-grundwortschatz-a2",
+          "it-grundwortschatz-a2",
+          "grundwortschatz-b1",
+          "fr-grundwortschatz-b1",
+          "es-grundwortschatz-b1",
+          "it-grundwortschatz-b1",
+          "grundwortschatz-b2",
+          "fr-grundwortschatz-b2",
+          "es-grundwortschatz-b2",
+          "it-grundwortschatz-b2",
+          "grundwortschatz-c1",
+          "fr-grundwortschatz-c1",
+          "es-grundwortschatz-c1",
+          "it-grundwortschatz-c1",
+          "grundwortschatz-c2",
+          "fr-grundwortschatz-c2",
+          "es-grundwortschatz-c2",
+          "it-grundwortschatz-c2",
+          "grundwortschatz",
+          "fr-grundwortschatz",
+          "es-grundwortschatz",
+          "it-grundwortschatz"
+        ],
+        "areas": []
       },
       {
         "name": "Alltag",
         "lists": [
           "alltag-zuhause",
+          "fr-alltag-zuhause",
+          "es-alltag-zuhause",
+          "it-alltag-zuhause",
           "familie-beziehungen",
+          "fr-familie-beziehungen",
+          "es-familie-beziehungen",
+          "it-familie-beziehungen",
           "essen-trinken",
+          "fr-essen-trinken",
+          "es-essen-trinken",
+          "it-essen-trinken",
           "einkaufen-geld",
+          "fr-einkaufen-geld",
+          "es-einkaufen-geld",
+          "it-einkaufen-geld",
           "kleidung-mode",
+          "fr-kleidung-mode",
+          "es-kleidung-mode",
+          "it-kleidung-mode",
           "koerper-gesundheit",
+          "fr-koerper-gesundheit",
+          "es-koerper-gesundheit",
+          "it-koerper-gesundheit",
           "gefuehle-charakter",
-          "verkehr-mobilitaet"
+          "fr-gefuehle-charakter",
+          "es-gefuehle-charakter",
+          "it-gefuehle-charakter",
+          "verkehr-mobilitaet",
+          "fr-verkehr-mobilitaet",
+          "es-verkehr-mobilitaet",
+          "it-verkehr-mobilitaet"
         ]
       },
       {
         "name": "Reisen & Freizeit",
         "lists": [
           "reisen-urlaub",
+          "fr-reisen-urlaub",
+          "es-reisen-urlaub",
+          "it-reisen-urlaub",
           "verkehr-mobilitaet",
+          "fr-verkehr-mobilitaet",
+          "es-verkehr-mobilitaet",
+          "it-verkehr-mobilitaet",
           "business-english-airport",
+          "fr-business-english-airport",
+          "es-business-english-airport",
+          "it-business-english-airport",
           "freizeit-hobbys",
+          "fr-freizeit-hobbys",
+          "es-freizeit-hobbys",
+          "it-freizeit-hobbys",
           "sport-fitness",
-          "kunst-kultur"
+          "fr-sport-fitness",
+          "es-sport-fitness",
+          "it-sport-fitness",
+          "kunst-kultur",
+          "fr-kunst-kultur",
+          "es-kunst-kultur",
+          "it-kunst-kultur"
         ]
       },
       {
         "name": "Beruf & Business",
         "lists": [
           "wirtschaft-finanzen",
-          "business-english-airport"
+          "fr-wirtschaft-finanzen",
+          "es-wirtschaft-finanzen",
+          "it-wirtschaft-finanzen",
+          "business-english-airport",
+          "fr-business-english-airport",
+          "es-business-english-airport",
+          "it-business-english-airport"
         ],
         "areas": [
           {
             "name": "Grundlagen",
             "lists": [
               "arbeit-beruf",
+              "fr-arbeit-beruf",
+              "es-arbeit-beruf",
+              "it-arbeit-beruf",
               "business-buero",
-              "medien-kommunikation"
+              "fr-business-buero",
+              "es-business-buero",
+              "it-business-buero",
+              "medien-kommunikation",
+              "fr-medien-kommunikation",
+              "es-medien-kommunikation",
+              "it-medien-kommunikation"
             ]
           },
           {
             "name": "Fachbereiche",
             "lists": [
               "business-beschaffung",
+              "fr-business-beschaffung",
+              "es-business-beschaffung",
+              "it-business-beschaffung",
               "business-marketing-vertrieb",
+              "fr-business-marketing-vertrieb",
+              "es-business-marketing-vertrieb",
+              "it-business-marketing-vertrieb",
               "business-personalwesen",
+              "fr-business-personalwesen",
+              "es-business-personalwesen",
+              "it-business-personalwesen",
               "business-projektmanagement",
+              "fr-business-projektmanagement",
+              "es-business-projektmanagement",
+              "it-business-projektmanagement",
               "business-rechnungswesen",
+              "fr-business-rechnungswesen",
+              "es-business-rechnungswesen",
+              "it-business-rechnungswesen",
               "business-verhandlungen",
-              "business-vertrag"
+              "fr-business-verhandlungen",
+              "es-business-verhandlungen",
+              "it-business-verhandlungen",
+              "business-vertrag",
+              "fr-business-vertrag",
+              "es-business-vertrag",
+              "it-business-vertrag"
             ]
           }
         ]
@@ -1325,13 +3213,37 @@
         "name": "Gesellschaft & Wissen",
         "lists": [
           "politik-gesellschaft",
+          "fr-politik-gesellschaft",
+          "es-politik-gesellschaft",
+          "it-politik-gesellschaft",
           "schule-bildung",
+          "fr-schule-bildung",
+          "es-schule-bildung",
+          "it-schule-bildung",
           "wissenschaft-forschung",
+          "fr-wissenschaft-forschung",
+          "es-wissenschaft-forschung",
+          "it-wissenschaft-forschung",
           "technik-computer",
+          "fr-technik-computer",
+          "es-technik-computer",
+          "it-technik-computer",
           "natur-tiere",
+          "fr-natur-tiere",
+          "es-natur-tiere",
+          "it-natur-tiere",
           "wetter-umwelt",
+          "fr-wetter-umwelt",
+          "es-wetter-umwelt",
+          "it-wetter-umwelt",
           "medien-kommunikation",
-          "wirtschaft-finanzen"
+          "fr-medien-kommunikation",
+          "es-medien-kommunikation",
+          "it-medien-kommunikation",
+          "wirtschaft-finanzen",
+          "fr-wirtschaft-finanzen",
+          "es-wirtschaft-finanzen",
+          "it-wirtschaft-finanzen"
         ]
       },
       {

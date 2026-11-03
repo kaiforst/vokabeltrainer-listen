@@ -1,0 +1,152 @@
+# Spanisch: Einkaufen & Geld
+id; Deutsch; Spanisch; Weitere Antworten; Niveau; Themen; Beispiel Spanisch; Beispiel Deutsch
+es-eg-0001; kaufen; comprar; ; A1; Alltag/Einkaufen/Geschäfte; Quiero comprar una chaqueta nueva.; Ich möchte eine neue Jacke kaufen.
+es-eg-0002; Geld; el dinero; la plata; A1; Alltag/Einkaufen/Geld; Hoy no llevo dinero encima.; Ich habe heute kein Geld dabei.
+es-eg-0003; Preis; el precio; ; A1; Alltag/Einkaufen/Preise; ¿Cuál es el precio de esta camisa?; Was ist der Preis für dieses Hemd?
+es-eg-0004; Geschäft; la tienda; el comercio; A1; Alltag/Einkaufen/Geschäfte; La tienda abre a las nueve de la mañana.; Das Geschäft öffnet um neun Uhr morgens.
+es-eg-0005; Supermarkt; el supermercado; ; A1; Alltag/Einkaufen/Geschäfte; Los sábados vamos al supermercado.; Wir gehen samstags in den Supermarkt.
+es-eg-0006; Markt; el mercado; ; A1; Alltag/Einkaufen/Geschäfte; En el mercado hay fruta y verdura fresca.; Auf dem Markt gibt es frisches Obst und Gemüse.
+es-eg-0007; Bäckerei; la panadería; ; A1; Alltag/Einkaufen/Geschäfte; La panadería de nuestra calle huele de maravilla.; Die Bäckerei in unserer Straße duftet herrlich.
+es-eg-0008; teuer; caro; ; A1; Alltag/Einkaufen/Preise; Este reloj es demasiado caro para mí.; Diese Uhr ist mir zu teuer.
+es-eg-0009; billig; barato; ; A1; Alltag/Einkaufen/Preise; Los zapatos eran baratos, pero buenos.; Die Schuhe waren billig aber gut.
+es-eg-0010; bezahlen; pagar; ; A1; Alltag/Einkaufen/Bezahlen; ¿Puedo pagar con tarjeta aquí?; Kann ich hier mit Karte bezahlen?
+es-eg-0011; kosten; costar; valer; A1; Alltag/Einkaufen/Preise; ¿Cuánto cuesta este bolso?; Wie viel kostet diese Tasche?
+es-eg-0012; Euro; el euro; ; A1; Alltag/Einkaufen/Geld; El pan cuesta dos euros con cincuenta.; Das Brot kostet zwei Euro fünfzig.
+es-eg-0013; Kasse; la caja; ; A1; Alltag/Einkaufen/Bezahlen; Por favor, espere allí en la caja.; Bitte warten Sie dort an der Kasse.
+es-eg-0014; Tasche; la bolsa; el bolso; A1; Alltag/Einkaufen/Geschäfte; ¿Necesita una bolsa para eso?; Brauchen Sie dafür eine Tasche?
+es-eg-0015; Kunde; el cliente; la clienta; A1; Alltag/Einkaufen/Geschäfte; El cliente está esperando en la puerta.; Der Kunde wartet an der Tür.
+es-eg-0016; verkaufen; vender; ; A1; Alltag/Einkaufen/Geschäfte; En esta tienda venden zapatos bonitos.; In diesem Geschäft verkaufen sie schöne Schuhe.
+es-eg-0017; Verkäufer; el vendedor; la vendedora, el dependiente, la dependienta; A1; Alltag/Einkaufen/Geschäfte; Hoy el vendedor ha sido muy amable.; Der Verkäufer war heute sehr freundlich.
+es-eg-0018; geöffnet; abierto; ; A1; Alltag/Einkaufen/Geschäfte; La panadería está abierta hasta las seis.; Die Bäckerei ist bis sechs geöffnet.
+es-eg-0019; geschlossen; cerrado; ; A1; Alltag/Einkaufen/Geschäfte; Las tiendas están cerradas los domingos.; Die Geschäfte sind sonntags geschlossen.
+es-eg-0020; Kiosk; el quiosco; el kiosco; A1; Alltag/Einkaufen/Geschäfte; En el quiosco se puede comprar un periódico.; Am Kiosk kann man eine Zeitung kaufen.
+es-eg-0021; Apotheke; la farmacia; ; A1; Alltag/Einkaufen/Geschäfte; ¿Hay una farmacia por aquí cerca?; Gibt es hier in der Nähe eine Apotheke?
+es-eg-0022; Buchhandlung; la librería; ; A1; Alltag/Einkaufen/Geschäfte; Trabaja en una pequeña librería del centro.; Sie arbeitet in einer kleinen Buchhandlung in der Stadt.
+es-eg-0023; Einkaufsliste; la lista de la compra; la lista de compras; A1; Alltag/Einkaufen/Geschäfte; La leche y los huevos están en mi lista de la compra.; Milch und Eier stehen auf meiner Einkaufsliste.
+es-eg-0024; einkaufen; hacer la compra; ir de compras, comprar; A1; Alltag/Einkaufen/Geschäfte; Hacemos la compra en el mercado todos los viernes.; Wir kaufen jeden Freitag auf dem Markt ein.
+es-eg-0025; Cent; el céntimo; el centavo; A1; Alltag/Einkaufen/Geld; La manzana cuesta noventa céntimos.; Der Apfel kostet neunzig Cent.
+es-eg-0026; Wechselgeld; la vuelta; el cambio, las vueltas; A2; Alltag/Einkaufen/Bezahlen; Aquí tiene la vuelta, tres euros.; Hier ist Ihr Wechselgeld von drei Euro.
+es-eg-0027; Kreditkarte; la tarjeta de crédito; ; A2; Alltag/Einkaufen/Bezahlen; Pagué el hotel con tarjeta de crédito.; Ich habe das Hotel mit Kreditkarte bezahlt.
+es-eg-0028; Bargeld; el efectivo; el dinero en efectivo, el metálico; A2; Alltag/Einkaufen/Bezahlen; Esta tienda pequeña solo acepta efectivo.; Dieses kleine Geschäft nimmt nur Bargeld.
+es-eg-0029; Geldautomat; el cajero automático; el cajero; A2; Alltag/Einkaufen/Geld, Reisen/Urlaub/Unterwegs; ¿Hay un cajero automático cerca de la estación?; Gibt es einen Geldautomaten in der Nähe des Bahnhofs?
+es-eg-0030; Bank; el banco; ; A2; Alltag/Einkaufen/Geld; El banco cierra a las cuatro de la tarde.; Die Bank schließt um vier Uhr nachmittags.
+es-eg-0031; Konto; la cuenta; la cuenta bancaria; A2; Alltag/Einkaufen/Geld; He abierto una cuenta en el banco del barrio.; Ich habe ein Konto bei der örtlichen Bank eröffnet.
+es-eg-0032; sparen; ahorrar; ; A2; Alltag/Einkaufen/Geld; Ahorramos un poco de dinero cada mes.; Wir sparen jeden Monat etwas Geld.
+es-eg-0033; ausgeben; gastar; ; A2; Alltag/Einkaufen/Geld; Gasta demasiado en ropa.; Er gibt zu viel für Kleidung aus.
+es-eg-0034; Quittung; el recibo; el comprobante; A2; Alltag/Einkaufen/Bezahlen; ¿Me podría dar un recibo, por favor?; Könnte ich bitte eine Quittung bekommen?
+es-eg-0035; Angebot; la oferta; la promoción; A2; Alltag/Einkaufen/Angebote; Esta semana hay una oferta de café.; Diese Woche gibt es ein Angebot für Kaffee.
+es-eg-0036; Rabatt; el descuento; ; A2; Alltag/Einkaufen/Angebote; Aquí los estudiantes tienen un diez por ciento de descuento.; Studenten bekommen hier zehn Prozent Rabatt.
+es-eg-0037; Sonderangebot; la oferta especial; la promoción especial; A2; Alltag/Einkaufen/Angebote; La chaqueta era una auténtica oferta especial.; Die Jacke war ein echtes Sonderangebot.
+es-eg-0038; Schaufenster; el escaparate; la vitrina, la vidriera; A2; Alltag/Einkaufen/Geschäfte; Vi el vestido en el escaparate.; Ich habe das Kleid im Schaufenster gesehen.
+es-eg-0039; Regal; el estante; la estantería, la balda; A2; Alltag/Einkaufen/Geschäfte; El arroz está en el estante de abajo.; Der Reis steht im untersten Regal.
+es-eg-0040; Einkaufswagen; el carro de la compra; el carrito, el carro; A2; Alltag/Einkaufen/Geschäfte; Para el carro de la compra hace falta una moneda.; Man braucht eine Münze für den Einkaufswagen.
+es-eg-0041; Einkaufszentrum; el centro comercial; ; A2; Alltag/Einkaufen/Geschäfte; El nuevo centro comercial tiene ochenta tiendas.; Das neue Einkaufszentrum hat achtzig Geschäfte.
+es-eg-0042; Metzgerei; la carnicería; ; A2; Alltag/Einkaufen/Geschäfte; Compro nuestras salchichas en la carnicería.; Ich hole unsere Würste aus der Metzgerei.
+es-eg-0043; Drogerie; la droguería; la perfumería; A2; Alltag/Einkaufen/Geschäfte; El champú se puede comprar en la droguería.; Shampoo kann man in der Drogerie kaufen.
+es-eg-0044; Flohmarkt; el mercadillo; el rastro, el mercado de pulgas; A2; Alltag/Einkaufen/Geschäfte; Encontramos libros antiguos en el mercadillo.; Wir haben auf dem Flohmarkt alte Bücher gefunden.
+es-eg-0045; Größe; la talla; el tamaño; A2; Alltag/Einkaufen/Geschäfte; ¿Tiene esta camisa en la talla M?; Haben Sie dieses Hemd in Größe M?
+es-eg-0046; anprobieren; probarse; ; A2; Alltag/Einkaufen/Geschäfte; ¿Puedo probarme estos pantalones?; Kann ich diese Hose anprobieren?
+es-eg-0047; passen; quedar bien; ir bien; A2; Alltag/Einkaufen/Geschäfte; Estos zapatos me quedan muy bien.; Diese Schuhe passen mir perfekt.
+es-eg-0048; umtauschen; cambiar; ; A2; Alltag/Einkaufen/Reklamation; ¿Puedo cambiar este jersey por uno más grande?; Kann ich diesen Pullover gegen einen größeren umtauschen?
+es-eg-0049; zurückgeben; devolver; ; A2; Alltag/Einkaufen/Reklamation; Quiero devolver estos auriculares rotos.; Ich möchte diese kaputten Kopfhörer zurückgeben.
+es-eg-0050; Öffnungszeiten; el horario de apertura; el horario; A2; Alltag/Einkaufen/Geschäfte; El horario de apertura está en la puerta.; Die Öffnungszeiten stehen an der Tür.
+es-eg-0051; Rechnung; la factura; la cuenta; A2; Alltag/Einkaufen/Bezahlen; La factura llegó dos días después de la entrega.; Die Rechnung kam zwei Tage nach der Lieferung.
+es-eg-0052; Münze; la moneda; ; A2; Alltag/Einkaufen/Geld; Encontró una moneda antigua en el bolsillo.; Er fand eine alte Münze in seiner Tasche.
+es-eg-0053; Schein; el billete; ; A2; Alltag/Einkaufen/Geld; Pagó con un billete de cincuenta euros.; Sie bezahlte mit einem Fünfzig-Euro-Schein.
+es-eg-0054; Geldbeutel; la cartera; el monedero, la billetera; A2; Alltag/Einkaufen/Geld; Antes del día de cobro mi cartera está casi vacía.; Mein Geldbeutel ist vor dem Zahltag fast leer.
+es-eg-0055; kostenlos; gratis; gratuito; A2; Alltag/Einkaufen/Preise; El envío es gratis a partir de cincuenta euros.; Die Lieferung ist ab fünfzig Euro kostenlos.
+es-eg-0056; günstig; económico; barato; A2; Alltag/Einkaufen/Preise; Esta tienda es conocida por sus muebles económicos.; Dieses Geschäft ist für günstige Möbel bekannt.
+es-eg-0057; Preisschild; la etiqueta del precio; la etiqueta; A2; Alltag/Einkaufen/Preise; Esta taza no tiene etiqueta del precio.; An dieser Tasse ist kein Preisschild.
+es-eg-0058; bestellen; pedir; encargar; A2; Alltag/Einkaufen/Online-Shopping; Pido la mayoría de mis libros por internet.; Ich bestelle die meisten meiner Bücher online.
+es-eg-0059; liefern; entregar; repartir, traer; A2; Alltag/Einkaufen/Online-Shopping; Entregan los muebles el martes que viene.; Sie liefern die Möbel nächsten Dienstag.
+es-eg-0060; Paket; el paquete; ; A2; Alltag/Einkaufen/Online-Shopping; El paquete llegó a los dos días.; Das Paket kam schon nach zwei Tagen an.
+es-eg-0061; Lieferung; la entrega; el reparto; B1; Alltag/Einkaufen/Online-Shopping; La entrega tarda de tres a cinco días laborables.; Die Lieferung dauert drei bis fünf Werktage.
+es-eg-0062; Versand; el envío; ; B1; Alltag/Einkaufen/Online-Shopping; El envío es gratuito a partir de cuarenta euros.; Der Versand ist ab vierzig Euro gratis.
+es-eg-0063; Versandkosten; los gastos de envío; ; B1; Alltag/Einkaufen/Online-Shopping; Los gastos de envío eran más altos que el propio libro.; Die Versandkosten waren höher als das Buch selbst.
+es-eg-0064; Warenkorb; la cesta; la cesta de la compra, el carrito; B1; Alltag/Einkaufen/Online-Shopping; Primero pon los zapatos en tu cesta.; Lege die Schuhe zuerst in deinen Warenkorb.
+es-eg-0065; Kundenkonto; la cuenta de cliente; ; B1; Alltag/Einkaufen/Online-Shopping; Crea una cuenta de cliente para seguir tus pedidos.; Erstelle ein Kundenkonto um deine Bestellungen zu verfolgen.
+es-eg-0066; Bewertung; la valoración; la reseña, la opinión, la calificación; B1; Alltag/Einkaufen/Online-Shopping; Lee cada valoración antes de comprar aparatos electrónicos caros.; Lies jede Bewertung bevor du teure Elektronik kaufst.
+es-eg-0067; Händler; el comerciante; la comerciante, el minorista, el vendedor; B1; Alltag/Einkaufen/Geschäfte; El comerciante ofrecía dos años de garantía.; Der Händler bot zwei Jahre Garantie an.
+es-eg-0068; Ware; la mercancía; los productos, el género; B1; Alltag/Einkaufen/Geschäfte; La mercancía llega a la tienda cada mañana.; Die Ware kommt jeden Morgen im Laden an.
+es-eg-0069; Marke; la marca; ; B1; Alltag/Einkaufen/Geschäfte; Esta marca es popular entre los jóvenes.; Diese Marke ist bei jungen Leuten beliebt.
+es-eg-0070; Qualität; la calidad; ; B1; Alltag/Einkaufen/Geschäfte; Cuando compro, prefiero la calidad a la cantidad.; Beim Einkaufen ist mir Qualität wichtiger als Menge.
+es-eg-0071; vergleichen; comparar; ; B1; Alltag/Einkaufen/Preise; Compara siempre los precios antes de comprar por internet.; Vergleiche immer die Preise bevor du online kaufst.
+es-eg-0072; Preisvergleich; la comparación de precios; el comparador de precios; B1; Alltag/Einkaufen/Preise; Una rápida comparación de precios me ahorró veinte euros.; Ein schneller Preisvergleich hat mir zwanzig Euro gespart.
+es-eg-0073; handeln; regatear; ; B1; Alltag/Einkaufen/Preise; En el mercadillo se puede regatear un poco.; Auf dem Flohmarkt kann man ein bisschen handeln.
+es-eg-0074; Ermäßigung; la reducción; el descuento, la rebaja; B1; Alltag/Einkaufen/Angebote; Los lunes los jubilados tienen una reducción.; Senioren bekommen montags eine Ermäßigung.
+es-eg-0075; Schlussverkauf; las rebajas; la liquidación; B1; Alltag/Einkaufen/Angebote; Me compré el abrigo de invierno en las rebajas.; Ich habe meinen Wintermantel im Schlussverkauf gekauft.
+es-eg-0076; Gutschein; el vale; el cupón, el bono, la tarjeta regalo; B1; Alltag/Einkaufen/Angebote; Me regaló un vale por mi cumpleaños.; Sie hat mir einen Gutschein zum Geburtstag geschenkt.
+es-eg-0077; Kundenkarte; la tarjeta de cliente; la tarjeta de fidelización, la tarjeta de puntos; B1; Alltag/Einkaufen/Angebote; Con una tarjeta de cliente se acumulan puntos.; Mit einer Kundenkarte sammelt man Punkte.
+es-eg-0078; Schnäppchen; la ganga; el chollo; B1; Alltag/Einkaufen/Angebote; Esta chaqueta de cuero fue una auténtica ganga.; Diese Lederjacke war ein echtes Schnäppchen.
+es-eg-0079; Reklamation; la reclamación; la queja; B1; Alltag/Einkaufen/Reklamation; La tienda tramitó mi reclamación muy rápido.; Das Geschäft bearbeitete meine Reklamation sehr schnell.
+es-eg-0080; sich beschweren; quejarse; reclamar; B1; Alltag/Einkaufen/Reklamation; Quiero quejarme de esta tostadora rota.; Ich möchte mich über diesen kaputten Toaster beschweren.
+es-eg-0081; Umtausch; el cambio; el canje; B1; Alltag/Einkaufen/Reklamation; El cambio es posible en un plazo de catorce días.; Ein Umtausch ist innerhalb von vierzehn Tagen möglich.
+es-eg-0082; Rückerstattung; el reembolso; la devolución del dinero; B1; Alltag/Einkaufen/Reklamation; Pedí el reembolso completo.; Ich habe eine vollständige Rückerstattung verlangt.
+es-eg-0083; Garantie; la garantía; ; B1; Alltag/Einkaufen/Reklamation; El portátil tiene dos años de garantía.; Der Laptop hat zwei Jahre Garantie.
+es-eg-0084; Kassenbon; el ticket de compra; el ticket, el tique, el recibo; B1; Alltag/Einkaufen/Bezahlen; Guarda el ticket de compra por si quieres devolverlo.; Heb den Kassenbon für eine mögliche Rückgabe auf.
+es-eg-0085; überweisen; transferir; hacer una transferencia; B1; Alltag/Einkaufen/Geld; Por favor, transfiera el importe en un plazo de dos semanas.; Bitte überweisen Sie den Betrag innerhalb von zwei Wochen.
+es-eg-0086; Überweisung; la transferencia; la transferencia bancaria; B1; Alltag/Einkaufen/Geld; La transferencia llegó al día siguiente.; Die Überweisung kam am nächsten Tag an.
+es-eg-0087; abheben; sacar; retirar; B1; Alltag/Einkaufen/Geld; Primero tengo que sacar algo de dinero.; Ich muss zuerst etwas Geld abheben.
+es-eg-0088; einzahlen; ingresar; depositar; B1; Alltag/Einkaufen/Geld; Quiere ingresar el efectivo en el banco.; Sie möchte das Bargeld bei der Bank einzahlen.
+es-eg-0089; Gehalt; el sueldo; el salario; B1; Alltag/Einkaufen/Geld; Su sueldo se paga a final de mes.; Sein Gehalt wird am Monatsende gezahlt.
+es-eg-0090; Ausgaben; los gastos; ; B1; Alltag/Einkaufen/Geld; Anotamos todos nuestros gastos mensuales.; Wir notieren alle unsere monatlichen Ausgaben.
+es-eg-0091; Einkommen; los ingresos; la renta; B1; Alltag/Einkaufen/Geld; Sus ingresos alcanzan para un piso pequeño.; Ihr Einkommen reicht für eine kleine Wohnung.
+es-eg-0092; leihen; prestar; ; B1; Alltag/Einkaufen/Geld; ¿Me puedes prestar diez euros hasta mañana?; Kannst du mir bis morgen zehn Euro leihen?
+es-eg-0093; borgen; pedir prestado; tomar prestado; B1; Alltag/Einkaufen/Geld; Tuve que pedir prestado dinero para el billete.; Ich musste mir Geld für das Ticket borgen.
+es-eg-0094; Schulden; las deudas; la deuda; B1; Alltag/Einkaufen/Geld; Pagó sus deudas en menos de un año.; Er hat seine Schulden innerhalb eines Jahres abbezahlt.
+es-eg-0095; Mehrwertsteuer; el IVA; el impuesto sobre el valor añadido; B1; Alltag/Einkaufen/Preise; El precio ya incluye el IVA.; Im Preis ist die Mehrwertsteuer bereits enthalten.
+es-eg-0096; Verbraucher; el consumidor; la consumidora; B2; Alltag/Einkaufen/Geschäfte; Todo consumidor tiene derecho a una información clara.; Jeder Verbraucher hat ein Recht auf klare Informationen.
+es-eg-0097; Einzelhandel; el comercio minorista; el comercio al por menor; B2; Alltag/Einkaufen/Geschäfte; El año pasado se recortaron muchos empleos en el comercio minorista.; Im Einzelhandel wurden letztes Jahr viele Stellen gestrichen.
+es-eg-0098; Großhandel; el comercio mayorista; el comercio al por mayor; B2; Alltag/Einkaufen/Geschäfte; Los restaurantes compran la verdura en el comercio mayorista.; Restaurants kaufen ihr Gemüse im Großhandel.
+es-eg-0099; Lieferzeit; el plazo de entrega; el tiempo de entrega; B2; Alltag/Einkaufen/Online-Shopping; El plazo de entrega del sofá es de seis semanas.; Die Lieferzeit für das Sofa beträgt sechs Wochen.
+es-eg-0100; Sendungsverfolgung; el seguimiento del envío; el seguimiento; B2; Alltag/Einkaufen/Online-Shopping; Según el seguimiento del envío, mi paquete está en Hamburgo.; Laut Sendungsverfolgung ist mein Paket in Hamburg.
+es-eg-0101; Retoure; la devolución; ; B2; Alltag/Einkaufen/Online-Shopping; La devolución es gratuita para el cliente.; Die Retoure ist für den Kunden kostenlos.
+es-eg-0102; Widerruf; el desistimiento; la cancelación, la revocación; B2; Alltag/Einkaufen/Online-Shopping; El desistimiento debe comunicarse en un plazo de catorce días.; Der Widerruf muss innerhalb von vierzehn Tagen erfolgen.
+es-eg-0103; Zahlungsart; el método de pago; la forma de pago; B2; Alltag/Einkaufen/Bezahlen; Elige tu método de pago preferido al finalizar la compra.; Wähle an der Kasse deine bevorzugte Zahlungsart.
+es-eg-0104; Ratenzahlung; el pago a plazos; el pago fraccionado; B2; Alltag/Einkaufen/Bezahlen; Para la lavadora ofrecían el pago a plazos.; Für die Waschmaschine boten sie eine Ratenzahlung an.
+es-eg-0105; Lastschrift; la domiciliación bancaria; la domiciliación, el adeudo directo; B2; Alltag/Einkaufen/Bezahlen; Pago la factura de la luz por domiciliación bancaria.; Meine Stromrechnung wird per Lastschrift bezahlt.
+es-eg-0106; Dauerauftrag; la orden permanente; la transferencia periódica; B2; Alltag/Einkaufen/Geld; He creado una orden permanente para el alquiler.; Ich habe einen Dauerauftrag für die Miete eingerichtet.
+es-eg-0107; Kontoauszug; el extracto bancario; el extracto de cuenta, el extracto; B2; Alltag/Einkaufen/Geld; Revisa tu extracto bancario al menos una vez al mes.; Prüfe deinen Kontoauszug mindestens einmal im Monat.
+es-eg-0108; Zinsen; los intereses; ; B2; Alltag/Einkaufen/Geld; La cuenta de ahorro da muy pocos intereses.; Das Sparkonto bringt sehr wenig Zinsen.
+es-eg-0109; Kredit; el préstamo; el crédito; B2; Alltag/Einkaufen/Geld; Pidieron un préstamo para el coche.; Sie haben einen Kredit für das Auto aufgenommen.
+es-eg-0110; Budget; el presupuesto; ; B2; Alltag/Einkaufen/Geld; Nuestro presupuesto mensual para comida es de cuatrocientos euros.; Unser monatliches Budget für Essen beträgt vierhundert Euro.
+es-eg-0111; Währung; la divisa; la moneda; B2; Alltag/Einkaufen/Geld; La divisa de Dinamarca es la corona.; Die Landeswährung in Dänemark ist die Krone.
+es-eg-0112; Wechselkurs; el tipo de cambio; la tasa de cambio; B2; Alltag/Einkaufen/Geld; El mes pasado el tipo de cambio era mejor.; Der Wechselkurs war letzten Monat besser.
+es-eg-0113; Preiserhöhung; la subida de precios; el aumento de precio, la subida; B2; Alltag/Einkaufen/Preise; La subida de precios de la mantequilla sorprendió a muchos clientes.; Die Preiserhöhung bei Butter überraschte viele Kunden.
+es-eg-0114; Preissenkung; la bajada de precios; la reducción de precio, la bajada; B2; Alltag/Einkaufen/Preise; La bajada de precios de los televisores empieza el viernes.; Die Preissenkung bei Fernsehern beginnt am Freitag.
+es-eg-0115; preiswert; a buen precio; económico, barato; B2; Alltag/Einkaufen/Preise; Aquí el menú es rico y está a buen precio.; Das Menü hier ist lecker und preiswert.
+es-eg-0116; überteuert; demasiado caro; carísimo, abusivo; B2; Alltag/Einkaufen/Preise; Las bebidas del aeropuerto son demasiado caras.; Die Getränke am Flughafen sind völlig überteuert.
+es-eg-0117; erschwinglich; asequible; ; B2; Alltag/Einkaufen/Preise; La vivienda en esta zona ya no es asequible.; Wohnraum in dieser Gegend ist nicht mehr erschwinglich.
+es-eg-0118; Anzahlung; el anticipo; la señal, el pago inicial, la entrada; B2; Alltag/Einkaufen/Bezahlen; Hemos pagado un anticipo por la cocina.; Wir haben eine Anzahlung für die Küche geleistet.
+es-eg-0119; Mahnung; el recordatorio de pago; el aviso de pago, el requerimiento de pago; B2; Alltag/Einkaufen/Bezahlen; He recibido un recordatorio de pago de la factura.; Ich habe eine Mahnung für die Rechnung erhalten.
+es-eg-0120; fällig; pagadero; vencido, que vence; B2; Alltag/Einkaufen/Bezahlen; El importe es pagadero a finales de semana.; Die Zahlung ist Ende der Woche fällig.
+es-eg-0121; beanstanden; reclamar; objetar, poner pegas; B2; Alltag/Einkaufen/Reklamation; El cliente quería reclamar por el embalaje dañado.; Der Kunde wollte die beschädigte Verpackung beanstanden.
+es-eg-0122; mangelhaft; defectuoso; ; B2; Alltag/Einkaufen/Reklamation; La silla que nos entregaron era claramente defectuosa.; Der gelieferte Stuhl war eindeutig mangelhaft.
+es-eg-0123; Ersatz; el reemplazo; el repuesto, la sustitución, el recambio; B2; Alltag/Einkaufen/Reklamation; Enviaron un reemplazo para la lámpara rota.; Sie schickten einen Ersatz für die kaputte Lampe.
+es-eg-0124; Entschädigung; la indemnización; la compensación; B2; Alltag/Einkaufen/Reklamation; La aerolínea ofreció una pequeña indemnización por el retraso.; Die Fluggesellschaft bot eine kleine Entschädigung für die Verspätung.
+es-eg-0125; Kulanz; el gesto de buena voluntad; la buena voluntad, la cortesía comercial; B2; Alltag/Einkaufen/Reklamation; La tienda reparó el reloj como gesto de buena voluntad.; Das Geschäft reparierte die Uhr aus Kulanz.
+es-eg-0126; Konsum; el consumo; ; C1; Alltag/Einkaufen/Geld; El consumo privado subió un poco a pesar de los precios más altos.; Der private Konsum stieg trotz höherer Preise leicht an.
+es-eg-0127; Kaufkraft; el poder adquisitivo; ; C1; Alltag/Einkaufen/Geld; La inflación ha debilitado el poder adquisitivo de muchas familias.; Die Inflation hat die Kaufkraft vieler Familien geschwächt.
+es-eg-0128; Verschuldung; el endeudamiento; ; C1; Alltag/Einkaufen/Geld; Su creciente endeudamiento preocupaba a toda la familia.; Seine wachsende Verschuldung beunruhigte die ganze Familie.
+es-eg-0129; zahlungsunfähig; insolvente; ; C1; Alltag/Einkaufen/Geld; El comerciante fue declarado insolvente el mes pasado.; Der Händler wurde letzten Monat für zahlungsunfähig erklärt.
+es-eg-0130; Rücklage; la reserva; el fondo de reserva, los ahorros, el colchón; C1; Alltag/Einkaufen/Geld; Una reserva te protege de las reparaciones imprevistas.; Eine Rücklage schützt vor plötzlichen Reparaturen.
+es-eg-0131; Vermögen; el patrimonio; la fortuna, la riqueza; C1; Alltag/Einkaufen/Geld; Construyó su patrimonio ahorrando con cuidado durante décadas.; Sie hat ihr Vermögen durch jahrzehntelanges sorgfältiges Sparen aufgebaut.
+es-eg-0132; Preis-Leistungs-Verhältnis; la relación calidad-precio; ; C1; Alltag/Einkaufen/Preise; Este hotel ofrece una excelente relación calidad-precio.; Dieses Hotel bietet ein hervorragendes Preis-Leistungs-Verhältnis.
+es-eg-0133; Impulskauf; la compra impulsiva; la compra por impulso; C1; Alltag/Einkaufen/Angebote; Los zapatos rojos fueron una típica compra impulsiva.; Die roten Schuhe waren ein klassischer Impulskauf.
+es-eg-0134; Lockangebot; la oferta gancho; el producto gancho, el reclamo; C1; Alltag/Einkaufen/Angebote; El portátil barato era solo una oferta gancho.; Der billige Laptop war nur ein Lockangebot.
+es-eg-0135; Preisnachlass; la rebaja; el descuento; C1; Alltag/Einkaufen/Angebote; Negoció una generosa rebaja en el modelo de exposición.; Er handelte einen großzügigen Preisnachlass für das Ausstellungsstück aus.
+es-eg-0136; Gewährleistung; la garantía legal; ; C1; Alltag/Einkaufen/Reklamation; En Alemania la garantía legal dura dos años.; Die Gewährleistung in Deutschland beträgt zwei Jahre.
+es-eg-0137; Mängelrüge; la notificación de defectos; la reclamación por defectos; C1; Alltag/Einkaufen/Reklamation; Nuestro abogado envió una notificación de defectos formal.; Unser Anwalt schickte eine formelle Mängelrüge.
+es-eg-0138; erstatten; reembolsar; devolver; C1; Alltag/Einkaufen/Reklamation; La tienda prometió reembolsar el precio de compra completo.; Das Geschäft versprach den vollen Kaufpreis zu erstatten.
+es-eg-0139; Bonität; la solvencia; la capacidad crediticia; C1; Alltag/Einkaufen/Geld; Antes de conceder un préstamo, el banco comprueba tu solvencia.; Die Bank prüft vor einem Kredit deine Bonität.
+es-eg-0140; Inkasso; el cobro de deudas; el recobro, la agencia de cobros; C1; Alltag/Einkaufen/Geld; La factura impagada pasó a una agencia de cobro de deudas.; Die unbezahlte Rechnung ging an ein Inkassobüro.
+es-eg-0141; Verbraucherschutz; la protección del consumidor; ; C1; Alltag/Einkaufen/Reklamation; Las leyes de protección del consumidor cubren la mayoría de las compras por internet.; Der Verbraucherschutz deckt die meisten Online-Käufe ab.
+es-eg-0142; Zahlungsdienstleister; el proveedor de servicios de pago; la pasarela de pago; C1; Alltag/Einkaufen/Online-Shopping; La tienda trabaja con un conocido proveedor de servicios de pago.; Der Shop arbeitet mit einem bekannten Zahlungsdienstleister zusammen.
+es-eg-0143; Abzocke; el timo; la estafa, el robo, el atraco; C1; Alltag/Einkaufen/Preise; Doce euros por un café es un auténtico timo.; Zwölf Euro für einen Kaffee sind reine Abzocke.
+es-eg-0144; knausern; escatimar; tacañear, ser tacaño; C2; Alltag/Einkaufen/Geld; Suele escatimar incluso en vacaciones.; Er neigt dazu sogar im Urlaub zu knausern.
+es-eg-0145; Geiz; la tacañería; la avaricia; C2; Alltag/Einkaufen/Geld; Su tacañería arruinaba todas las cenas en grupo.; Sein Geiz verdarb jedes gemeinsame Abendessen.
+es-eg-0146; Kaufrausch; la fiebre de compras; el frenesí de compras, la compra compulsiva; C2; Alltag/Einkaufen/Angebote; En una repentina fiebre de compras se compró cinco bolsos.; In einem plötzlichen Kaufrausch kaufte sie fünf Taschen.
+es-eg-0147; Schnäppchenjäger; el cazador de gangas; la cazadora de gangas, el cazador de chollos; C2; Alltag/Einkaufen/Angebote; Todo cazador de gangas espera las rebajas de enero.; Jeder Schnäppchenjäger wartet auf den Winterschlussverkauf.
+es-eg-0148; Wucher; la usura; ; C2; Alltag/Einkaufen/Preise; Esos alquileres rozan la pura usura.; Solche Mieten grenzen an reinen Wucher.
+es-eg-0149; veruntreuen; malversar; desfalcar, apropiarse indebidamente; C2; Alltag/Einkaufen/Geld; El cajero intentó malversar dinero de la caja.; Der Kassierer versuchte Geld aus der Kasse zu veruntreuen.
+es-eg-0150; Mondpreis; el precio desorbitado; el precio abusivo, el precio exagerado; C2; Alltag/Einkaufen/Preise; Nadie paga un precio desorbitado así por una bici usada.; Niemand zahlt so einen Mondpreis für ein gebrauchtes Fahrrad.

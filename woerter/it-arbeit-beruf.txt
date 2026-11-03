@@ -1,0 +1,152 @@
+# Italienisch: Arbeit & Beruf
+id; Deutsch; Italienisch; Weitere Antworten; Niveau; Themen; Beispiel Italienisch; Beispiel Deutsch
+it-ab-0001; Lehrer; l'insegnante; il maestro, il professore, la maestra, la professoressa; A1; Arbeit/Beruf/Berufe; Il nostro insegnante spiega tutto in modo molto chiaro.; Unser Lehrer erklärt alles sehr deutlich.
+it-ab-0002; Arzt; il medico; il dottore, la dottoressa; A1; Arbeit/Beruf/Berufe; Il medico lavora ogni giorno in ospedale.; Der Arzt arbeitet jeden Tag im Krankenhaus.
+it-ab-0003; Koch; il cuoco; la cuoca, lo chef; A1; Arbeit/Beruf/Berufe; Il cuoco prepara una zuppa fresca per gli ospiti.; Der Koch bereitet frische Suppe für die Gäste zu.
+it-ab-0004; Bäcker; il fornaio; il panettiere, la fornaia, la panettiera; A1; Arbeit/Beruf/Berufe; Il fornaio vende pane fresco ogni mattina.; Der Bäcker verkauft jeden Morgen frisches Brot.
+it-ab-0005; Fahrer; l'autista; il conducente; A1; Arbeit/Beruf/Berufe; L'autista aspetta davanti all'albergo.; Der Fahrer wartet vor dem Hotel.
+it-ab-0006; Polizist; il poliziotto; la poliziotta, l'agente di polizia; A1; Arbeit/Beruf/Berufe; Il poliziotto aiuta la donna anziana.; Der Polizist hilft der alten Frau.
+it-ab-0007; Verkäufer; il commesso; il venditore, la commessa, la venditrice; A1; Arbeit/Beruf/Berufe; Il commesso mi mostra una giacca calda.; Der Verkäufer zeigt mir eine warme Jacke.
+it-ab-0008; Krankenschwester; l'infermiera; l'infermiere; A1; Arbeit/Beruf/Berufe; L'infermiera si prende cura dei pazienti.; Die Krankenschwester kümmert sich um die Patienten.
+it-ab-0009; Ingenieur; l'ingegnere; ; A1; Arbeit/Beruf/Berufe; L'ingegnere costruisce un nuovo ponte.; Der Ingenieur baut eine neue Brücke.
+it-ab-0010; Student; lo studente; la studentessa, l'universitario; A1; Arbeit/Beruf/Berufe; Lo studente impara l'italiano all'università.; Der Student lernt Italienisch an der Universität.
+it-ab-0011; Arbeit; il lavoro; ; A1; Arbeit/Beruf/Arbeitsalltag; Vado al lavoro ogni mattina alle otto.; Ich gehe jeden Morgen um acht zur Arbeit.
+it-ab-0012; arbeiten; lavorare; ; A1; Arbeit/Beruf/Arbeitsalltag; Lavoriamo insieme in un piccolo team.; Wir arbeiten zusammen in einem kleinen Team.
+it-ab-0013; Beruf; la professione; il mestiere; A1; Arbeit/Beruf/Berufe; La mia professione è interessante e molto importante.; Mein Beruf ist interessant und sehr wichtig.
+it-ab-0014; Büro; l'ufficio; ; A1; Arbeit/Beruf/Arbeitsalltag; Il nostro ufficio è al terzo piano.; Unser Büro ist im dritten Stock.
+it-ab-0015; Chef; il capo; il principale; A1; Arbeit/Beruf/Arbeitsalltag; Il mio capo è gentile e mi aiuta.; Mein Chef ist freundlich und hilft mir.
+it-ab-0016; Kollege; il collega; la collega; A1; Arbeit/Beruf/Arbeitsalltag; Il mio nuovo collega viene dalla Spagna.; Mein neuer Kollege kommt aus Spanien.
+it-ab-0017; Firma; la ditta; l'azienda, la società; A1; Arbeit/Beruf/Arbeitsalltag; La ditta ha duecento dipendenti.; Die Firma hat zweihundert Mitarbeiter.
+it-ab-0018; Geld; i soldi; il denaro; A1; Arbeit/Beruf/Vertrag & Gehalt; Guadagno soldi con il mio nuovo lavoro.; Ich verdiene Geld in meinem neuen Job.
+it-ab-0019; Pause; la pausa; ; A1; Arbeit/Beruf/Arbeitsalltag; A mezzogiorno facciamo una breve pausa.; Wir haben mittags eine kurze Pause.
+it-ab-0020; Job; il posto di lavoro; l'impiego, il lavoro; A1; Arbeit/Beruf/Berufe; Lei ha un buon posto di lavoro a Berlino.; Sie hat einen guten Job in Berlin.
+it-ab-0021; Kellner; il cameriere; la cameriera; A2; Arbeit/Beruf/Berufe; Il cameriere ci porta subito il menù.; Der Kellner bringt uns schnell die Speisekarte.
+it-ab-0022; Friseur; il parrucchiere; il barbiere, la parrucchiera; A2; Arbeit/Beruf/Berufe; Il parrucchiere mi taglia i capelli ogni mese.; Der Friseur schneidet mir jeden Monat die Haare.
+it-ab-0023; Mechaniker; il meccanico; ; A2; Arbeit/Beruf/Berufe; Oggi il meccanico ripara la vecchia macchina.; Der Mechaniker repariert heute das alte Auto.
+it-ab-0024; Elektriker; l'elettricista; ; A2; Arbeit/Beruf/Berufe; L'elettricista controlla le luci di casa nostra.; Der Elektriker prüft die Lampen in unserem Haus.
+it-ab-0025; Anwalt; l'avvocato; l'avvocata, l'avvocatessa; A2; Arbeit/Beruf/Berufe; L'avvocato legge il contratto con molta attenzione.; Der Anwalt liest den Vertrag sehr genau.
+it-ab-0026; Zahnarzt; il dentista; la dentista; A2; Arbeit/Beruf/Berufe; Vado dal dentista due volte all'anno.; Ich gehe zweimal im Jahr zum Zahnarzt.
+it-ab-0027; Apotheker; il farmacista; la farmacista; A2; Arbeit/Beruf/Berufe; Il farmacista mi dà la medicina giusta.; Der Apotheker gibt mir das richtige Medikament.
+it-ab-0028; Landwirt; l'agricoltore; il contadino, l'agricoltrice; A2; Arbeit/Beruf/Berufe; L'agricoltore lavora tutto il giorno nei suoi campi.; Der Landwirt arbeitet den ganzen Tag auf seinen Feldern.
+it-ab-0029; Journalist; il giornalista; la giornalista; A2; Arbeit/Beruf/Berufe; Il giornalista scrive un articolo sulla città.; Der Journalist schreibt einen Artikel über die Stadt.
+it-ab-0030; Sekretär; il segretario; la segretaria; A2; Arbeit/Beruf/Berufe; Il segretario risponde al telefono e scrive e-mail.; Der Sekretär geht ans Telefon und schreibt E-Mails.
+it-ab-0031; Gehalt; lo stipendio; il salario; A2; Arbeit/Beruf/Vertrag & Gehalt; Il mio stipendio viene pagato alla fine del mese.; Mein Gehalt wird am Ende des Monats gezahlt.
+it-ab-0032; verdienen; guadagnare; ; A2; Arbeit/Beruf/Vertrag & Gehalt; Come ingegnera guadagna bene.; Sie verdient gutes Geld als Ingenieurin.
+it-ab-0033; Arbeitgeber; il datore di lavoro; la datrice di lavoro; A2; Arbeit/Beruf/Vertrag & Gehalt; Il mio datore di lavoro paga il mio biglietto del treno.; Mein Arbeitgeber bezahlt meine Zugfahrkarte.
+it-ab-0034; Arbeitnehmer; il lavoratore dipendente; il lavoratore, la lavoratrice; A2; Arbeit/Beruf/Vertrag & Gehalt; Ogni lavoratore dipendente ha trenta giorni di ferie.; Jeder Arbeitnehmer bekommt dreißig Tage Urlaub.
+it-ab-0035; Fabrik; la fabbrica; lo stabilimento; A2; Arbeit/Beruf/Arbeitsalltag; La fabbrica produce automobili per tutto il mondo.; Die Fabrik produziert Autos für die ganze Welt.
+it-ab-0036; Werkstatt; l'officina; ; A2; Arbeit/Beruf/Arbeitsalltag; La mia macchina resta in officina fino a venerdì.; Mein Auto ist bis Freitag in der Werkstatt.
+it-ab-0037; Termin; l'appuntamento; ; A2; Arbeit/Beruf/Arbeitsalltag; Lunedì mattina ho un appuntamento importante.; Ich habe am Montagmorgen einen wichtigen Termin.
+it-ab-0038; Urlaub; le ferie; la vacanza, le vacanze; A2; Arbeit/Beruf/Arbeitsalltag; Quest'anno prendiamo le ferie ad agosto.; Wir nehmen unseren Urlaub dieses Jahr im August.
+it-ab-0039; Teilzeit; il part-time; il tempo parziale; A2; Arbeit/Beruf/Vertrag & Gehalt; Lavora part-time per via dei figli.; Sie arbeitet wegen ihrer Kinder in Teilzeit.
+it-ab-0040; Vollzeit; il tempo pieno; il full-time; A2; Arbeit/Beruf/Vertrag & Gehalt; Lavora a tempo pieno in una grande banca.; Er arbeitet Vollzeit in einer großen Bank.
+it-ab-0041; Bewerbung; la candidatura; la domanda di lavoro; A2; Arbeit/Beruf/Bewerbung; Oggi invio la mia candidatura per e-mail.; Ich schicke meine Bewerbung heute per E-Mail.
+it-ab-0042; Lebenslauf; il curriculum; il curriculum vitae, il CV; A2; Arbeit/Beruf/Bewerbung; Per favore, aggiunga una foto al suo curriculum.; Bitte fügen Sie Ihrem Lebenslauf ein Foto hinzu.
+it-ab-0043; Stelle; il posto; la posizione; A2; Arbeit/Beruf/Bewerbung; Il nuovo posto inizia il primo maggio.; Die neue Stelle beginnt am ersten Mai.
+it-ab-0044; Arbeitsplatz; la postazione di lavoro; il luogo di lavoro; A2; Arbeit/Beruf/Arbeitsalltag; La mia postazione di lavoro è luminosa e molto tranquilla.; Mein Arbeitsplatz ist hell und sehr ruhig.
+it-ab-0045; Überstunden; gli straordinari; le ore di straordinario; A2; Arbeit/Beruf/Arbeitsalltag; A fine mese fa spesso gli straordinari.; Er macht am Monatsende oft Überstunden.
+it-ab-0046; kündigen; licenziarsi; dare le dimissioni, dimettersi; A2; Arbeit/Beruf/Kündigung; Vuole licenziarsi dal suo lavoro noioso.; Sie will ihren langweiligen Job kündigen.
+it-ab-0047; Rentner; il pensionato; la pensionata; A2; Arbeit/Beruf/Rechte & Soziales; Il pensionato si gode il tempo libero in giardino.; Der Rentner genießt seine freie Zeit im Garten.
+it-ab-0048; Praktikum; il tirocinio; lo stage; A2; Arbeit/Beruf/Karriere; Faccio un tirocinio presso un giornale.; Ich mache ein Praktikum bei einer Zeitung.
+it-ab-0049; Ausbildung; la formazione professionale; l'apprendistato; A2; Arbeit/Beruf/Karriere; Ad agosto inizia la formazione professionale come elettricista.; Er beginnt im August eine Ausbildung als Elektriker.
+it-ab-0050; arbeitslos; disoccupato; senza lavoro; A2; Arbeit/Beruf/Rechte & Soziales; L'anno scorso è stato disoccupato per sei mesi.; Er war letztes Jahr sechs Monate arbeitslos.
+it-ab-0051; Vorstellungsgespräch; il colloquio di lavoro; il colloquio; B1; Arbeit/Beruf/Bewerbung; È ben preparata per il colloquio di lavoro.; Sie ist gut auf das Vorstellungsgespräch vorbereitet.
+it-ab-0052; Arbeitsvertrag; il contratto di lavoro; ; B1; Arbeit/Beruf/Vertrag & Gehalt; Legga il contratto di lavoro prima di firmarlo.; Bitte lesen Sie den Arbeitsvertrag, bevor Sie ihn unterschreiben.
+it-ab-0053; Kündigung; il licenziamento; le dimissioni; B1; Arbeit/Beruf/Kündigung; Ha ricevuto il licenziamento alla fine di marzo.; Er erhielt seine Kündigung Ende März.
+it-ab-0054; Probezeit; il periodo di prova; ; B1; Arbeit/Beruf/Vertrag & Gehalt; In questa azienda il periodo di prova dura sei mesi.; Die Probezeit dauert in dieser Firma sechs Monate.
+it-ab-0055; Gehaltserhöhung; l'aumento di stipendio; l'aumento; B1; Arbeit/Beruf/Vertrag & Gehalt; Ha chiesto al suo capo un aumento di stipendio.; Sie bat ihren Chef um eine Gehaltserhöhung.
+it-ab-0056; Abteilung; il reparto; il settore, la divisione; B1; Arbeit/Beruf/Arbeitsalltag; Il nostro reparto si occupa dei nuovi clienti.; Unsere Abteilung ist für neue Kunden zuständig.
+it-ab-0057; Besprechung; la riunione; l'incontro; B1; Arbeit/Beruf/Arbeitsalltag; La riunione con il team inizia alle nove.; Die Besprechung mit dem Team beginnt um neun.
+it-ab-0058; Fortbildung; l'aggiornamento professionale; l'aggiornamento; B1; Arbeit/Beruf/Karriere; L'azienda paga l'aggiornamento professionale a tutti i dipendenti.; Die Firma bezahlt Fortbildungen für alle Mitarbeiter.
+it-ab-0059; Erfahrung; l'esperienza; ; B1; Arbeit/Beruf/Bewerbung; Ha molti anni di esperienza nelle vendite.; Sie hat viele Jahre Erfahrung im Verkauf.
+it-ab-0060; Fähigkeit; la capacità; l'abilità, la competenza; B1; Arbeit/Beruf/Bewerbung; Una buona comunicazione è una capacità importante in questo lavoro.; Gute Kommunikation ist eine wichtige Fähigkeit in diesem Beruf.
+it-ab-0061; Stärke; il punto di forza; la forza; B1; Arbeit/Beruf/Bewerbung; Ci parli del suo più grande punto di forza.; Bitte erzählen Sie uns von Ihrer größten Stärke.
+it-ab-0062; Schwäche; il punto debole; la debolezza; B1; Arbeit/Beruf/Bewerbung; Ognuno dovrebbe conoscere bene i propri punti deboli.; Jeder sollte seine eigenen Schwächen gut kennen.
+it-ab-0063; Zeugnis; il certificato; l'attestato, la pagella; B1; Arbeit/Beruf/Bewerbung; Alleghi il suo certificato alla candidatura.; Bitte fügen Sie der Bewerbung Ihr Zeugnis bei.
+it-ab-0064; Anforderung; il requisito; la richiesta; B1; Arbeit/Beruf/Bewerbung; Questo posto ha requisiti molto alti.; Diese Stelle hat sehr hohe Anforderungen.
+it-ab-0065; Verantwortung; la responsabilità; ; B1; Arbeit/Beruf/Arbeitsalltag; Si assume la responsabilità dell'intero progetto.; Sie übernimmt die Verantwortung für das ganze Projekt.
+it-ab-0066; Aufgabe; il compito; la mansione; B1; Arbeit/Beruf/Arbeitsalltag; Il mio primo compito è rispondere alle e-mail dei clienti.; Meine erste Aufgabe ist es, Kunden-E-Mails zu beantworten.
+it-ab-0067; Karriere; la carriera; ; B1; Arbeit/Beruf/Karriere; Vuole fare carriera nel marketing.; Er möchte Karriere im Marketing machen.
+it-ab-0068; befördern; promuovere; ; B1; Arbeit/Beruf/Karriere; La settimana scorsa l'azienda l'ha promossa a team leader.; Die Firma hat sie letzte Woche zur Teamleiterin befördert.
+it-ab-0069; Beförderung; la promozione; l'avanzamento di carriera; B1; Arbeit/Beruf/Karriere; Dopo la promozione guadagna molto di più.; Nach der Beförderung verdient er viel mehr Geld.
+it-ab-0070; Betriebsrat; la rappresentanza sindacale; il consiglio di fabbrica, la RSU; B1; Arbeit/Beruf/Rechte & Soziales; La rappresentanza sindacale si riunisce ogni primo lunedì del mese.; Der Betriebsrat trifft sich jeden ersten Montag.
+it-ab-0071; Gewerkschaft; il sindacato; ; B1; Arbeit/Beruf/Rechte & Soziales; Il sindacato chiede salari più alti per tutti.; Die Gewerkschaft fordert höhere Löhne für alle.
+it-ab-0072; Streik; lo sciopero; ; B1; Arbeit/Beruf/Rechte & Soziales; Lo sciopero all'aeroporto è durato due giorni.; Der Streik am Flughafen dauerte zwei Tage.
+it-ab-0073; streiken; scioperare; fare sciopero; B1; Arbeit/Beruf/Rechte & Soziales; I macchinisti vogliono scioperare domani.; Die Lokführer wollen morgen streiken.
+it-ab-0074; Arbeitszeit; l'orario di lavoro; ; B1; Arbeit/Beruf/Arbeitsalltag; In questa azienda l'orario di lavoro è flessibile.; Unsere Arbeitszeiten sind in dieser Firma flexibel.
+it-ab-0075; Schicht; il turno; ; B1; Arbeit/Beruf/Arbeitsalltag; Il mio turno inizia alle sei del mattino.; Meine Schicht beginnt um sechs Uhr morgens.
+it-ab-0076; Mindestlohn; il salario minimo; ; B1; Arbeit/Beruf/Vertrag & Gehalt; L'anno prossimo il salario minimo aumenterà di nuovo.; Der Mindestlohn steigt nächstes Jahr wieder.
+it-ab-0077; Lohn; il salario; la paga; B1; Arbeit/Beruf/Vertrag & Gehalt; Gli operai ricevono il salario ogni venerdì.; Die Arbeiter erhalten ihren Lohn jeden Freitag.
+it-ab-0078; Steuer; l'imposta; la tassa; B1; Arbeit/Beruf/Rechte & Soziales; Pago meno imposte dell'anno scorso.; Ich zahle weniger Steuern als letztes Jahr.
+it-ab-0079; Versicherung; l'assicurazione; ; B1; Arbeit/Beruf/Rechte & Soziales; Una buona assicurazione è importante per ogni lavoratore.; Eine gute Versicherung ist für jeden Arbeitnehmer wichtig.
+it-ab-0080; Rente; la pensione; ; B1; Arbeit/Beruf/Rechte & Soziales; Mio nonno riceve ogni mese una piccola pensione.; Mein Großvater bekommt jeden Monat eine kleine Rente.
+it-ab-0081; einstellen; assumere; ; B1; Arbeit/Beruf/Karriere; L'azienda vuole assumere tre nuovi sviluppatori.; Die Firma möchte drei neue Entwickler einstellen.
+it-ab-0082; entlassen; licenziare; ; B1; Arbeit/Beruf/Kündigung; A ottobre la fabbrica ha licenziato venti operai.; Die Fabrik entließ im Oktober zwanzig Arbeiter.
+it-ab-0083; Berufserfahrung; l'esperienza professionale; l'esperienza lavorativa; B1; Arbeit/Beruf/Bewerbung; Questo posto richiede cinque anni di esperienza professionale.; Diese Stelle erfordert fünf Jahre Berufserfahrung.
+it-ab-0084; Anschreiben; la lettera di presentazione; la lettera motivazionale; B1; Arbeit/Beruf/Bewerbung; Una buona lettera di presentazione dovrebbe essere breve e chiara.; Ein gutes Anschreiben sollte kurz und klar sein.
+it-ab-0085; Stellenanzeige; l'annuncio di lavoro; l'offerta di lavoro; B1; Arbeit/Beruf/Bewerbung; Ho trovato l'annuncio di lavoro sul giornale.; Ich habe die Stellenanzeige in der Zeitung gefunden.
+it-ab-0086; sich bewerben; candidarsi; ; B1; Arbeit/Beruf/Bewerbung; Vuole candidarsi per il nuovo posto.; Sie möchte sich auf die neue Stelle bewerben.
+it-ab-0087; Arbeitsamt; il centro per l'impiego; l'ufficio di collocamento; B1; Arbeit/Beruf/Rechte & Soziales; Lunedì si è iscritto al centro per l'impiego.; Er hat sich am Montag beim Arbeitsamt gemeldet.
+it-ab-0088; selbstständig; autonomo; libero professionista, indipendente; B1; Arbeit/Beruf/Karriere; Lavora come autonoma da tre anni.; Sie ist jetzt seit drei Jahren selbstständig.
+it-ab-0089; Feierabend; la fine della giornata lavorativa; il dopolavoro; B1; Arbeit/Beruf/Arbeitsalltag; Dopo la fine della giornata lavorativa gioca a calcio.; Nach Feierabend spielt er Fußball.
+it-ab-0090; Teamarbeit; il lavoro di squadra; il lavoro in team; B1; Arbeit/Beruf/Arbeitsalltag; Un buon lavoro di squadra rende molto più facili i progetti difficili.; Gute Teamarbeit macht schwierige Projekte viel leichter.
+it-ab-0091; Arbeitsbedingungen; le condizioni di lavoro; ; B2; Arbeit/Beruf/Rechte & Soziales; Le condizioni di lavoro in questa fabbrica sono migliorate.; Die Arbeitsbedingungen in dieser Fabrik haben sich verbessert.
+it-ab-0092; Tarifvertrag; il contratto collettivo; il contratto collettivo nazionale, il CCNL; B2; Arbeit/Beruf/Rechte & Soziales; Il nuovo contratto collettivo garantisce salari più alti.; Der neue Tarifvertrag garantiert höhere Löhne.
+it-ab-0093; Abfindung; la buonuscita; l'indennità di fine rapporto; B2; Arbeit/Beruf/Kündigung; Dopo vent'anni ha ricevuto una buonuscita elevata.; Er erhielt nach zwanzig Jahren eine hohe Abfindung.
+it-ab-0094; Kündigungsfrist; il preavviso; il periodo di preavviso; B2; Arbeit/Beruf/Kündigung; Nel mio contratto il preavviso è di tre mesi.; Die Kündigungsfrist in meinem Vertrag beträgt drei Monate.
+it-ab-0095; Arbeitszeugnis; la lettera di referenze; la referenza; B2; Arbeit/Beruf/Kündigung; Quando te ne vai, chiedi una lettera di referenze.; Bitten Sie beim Abschied um ein Arbeitszeugnis.
+it-ab-0096; Führungskraft; il dirigente; il manager, la dirigente; B2; Arbeit/Beruf/Karriere; Come dirigente guida un team di quaranta persone.; Als Führungskraft leitet sie ein Team von vierzig Leuten.
+it-ab-0097; Vorgesetzter; il superiore; il responsabile, la superiore; B2; Arbeit/Beruf/Arbeitsalltag; Il mio superiore sostiene il mio piano per il progetto.; Mein Vorgesetzter unterstützt meinen Plan für das Projekt.
+it-ab-0098; Mitarbeiter; il collaboratore; il dipendente, la collaboratrice; B2; Arbeit/Beruf/Arbeitsalltag; Ogni collaboratore può proporre nuove idee.; Jeder Mitarbeiter kann neue Ideen vorschlagen.
+it-ab-0099; Belegschaft; il personale; i dipendenti, l'organico; B2; Arbeit/Beruf/Arbeitsalltag; Tutto il personale ha votato a favore del nuovo accordo.; Die gesamte Belegschaft stimmte für die neue Vereinbarung.
+it-ab-0100; Personalabteilung; l'ufficio del personale; l'ufficio risorse umane, le risorse umane; B2; Arbeit/Beruf/Arbeitsalltag; Mandi i suoi documenti all'ufficio del personale.; Bitte schicken Sie Ihre Unterlagen an die Personalabteilung.
+it-ab-0101; Arbeitsrecht; il diritto del lavoro; ; B2; Arbeit/Beruf/Rechte & Soziales; È specializzata in diritto del lavoro e contratti.; Sie ist auf Arbeitsrecht und Verträge spezialisiert.
+it-ab-0102; Elternzeit; il congedo parentale; ; B2; Arbeit/Beruf/Rechte & Soziales; Prende un anno di congedo parentale.; Er nimmt für ein Jahr Elternzeit.
+it-ab-0103; Mutterschutz; il congedo di maternità; la maternità; B2; Arbeit/Beruf/Rechte & Soziales; Il congedo di maternità inizia sei settimane prima del parto.; Der Mutterschutz beginnt sechs Wochen vor der Geburt.
+it-ab-0104; Krankschreibung; il certificato medico; il certificato di malattia; B2; Arbeit/Beruf/Arbeitsalltag; Consegni il certificato medico entro mercoledì.; Bitte reichen Sie Ihre Krankschreibung bis Mittwoch ein.
+it-ab-0105; Bruttogehalt; lo stipendio lordo; la retribuzione lorda; B2; Arbeit/Beruf/Vertrag & Gehalt; Lo stipendio lordo è indicato nel contratto.; Das Bruttogehalt steht im Vertrag.
+it-ab-0106; Nettogehalt; lo stipendio netto; la retribuzione netta; B2; Arbeit/Beruf/Vertrag & Gehalt; Il mio stipendio netto è più basso di quanto mi aspettassi.; Mein Nettogehalt ist niedriger als erwartet.
+it-ab-0107; Sozialversicherung; la previdenza sociale; l'assicurazione sociale; B2; Arbeit/Beruf/Rechte & Soziales; La previdenza sociale protegge i lavoratori nei momenti difficili.; Die Sozialversicherung schützt Arbeitnehmer in schwierigen Zeiten.
+it-ab-0108; Altersvorsorge; la previdenza per la vecchiaia; il fondo pensione, la previdenza complementare; B2; Arbeit/Beruf/Rechte & Soziales; La previdenza privata per la vecchiaia diventa sempre più importante.; Private Altersvorsorge wird immer wichtiger.
+it-ab-0109; Quereinsteiger; la persona che cambia carriera; ; B2; Arbeit/Beruf/Karriere; Come persona che cambia carriera ha imparato in fretta le basi.; Als Quereinsteiger lernte er schnell die Grundlagen.
+it-ab-0110; Berufung; la vocazione; ; B2; Arbeit/Beruf/Karriere; Insegnare non è solo il suo lavoro, ma la sua vocazione.; Unterrichten ist nicht nur ihr Beruf, sondern ihre Berufung.
+it-ab-0111; Arbeitsmarkt; il mercato del lavoro; ; B2; Arbeit/Beruf/Karriere; Il mercato del lavoro per gli ingegneri è molto buono.; Der Arbeitsmarkt für Ingenieure ist sehr gut.
+it-ab-0112; Fachkraft; il lavoratore qualificato; lo specialista, la lavoratrice qualificata; B2; Arbeit/Beruf/Karriere; La regione ha urgente bisogno di ogni lavoratore qualificato.; Die Region braucht dringend jede Fachkraft.
+it-ab-0113; Arbeitslosigkeit; la disoccupazione; ; B2; Arbeit/Beruf/Rechte & Soziales; Nell'ultimo trimestre la disoccupazione è scesa leggermente.; Die Arbeitslosigkeit sank im letzten Quartal leicht.
+it-ab-0114; Arbeitslosengeld; l'indennità di disoccupazione; il sussidio di disoccupazione, la NASpI; B2; Arbeit/Beruf/Rechte & Soziales; Ha ricevuto l'indennità di disoccupazione per otto mesi.; Sie bekam acht Monate lang Arbeitslosengeld.
+it-ab-0115; Weiterbildung; la formazione continua; la formazione permanente; B2; Arbeit/Beruf/Karriere; La formazione continua aiuta a restare competitivi nel lavoro.; Weiterbildung hilft, im Beruf wettbewerbsfähig zu bleiben.
+it-ab-0116; Umschulung; la riqualificazione professionale; la riqualificazione; B2; Arbeit/Beruf/Karriere; Dopo la riqualificazione professionale lavora come programmatore.; Nach der Umschulung arbeitet er als Programmierer.
+it-ab-0117; Qualifikation; la qualifica; il titolo; B2; Arbeit/Beruf/Bewerbung; Le sue qualifiche sono perfette per il posto.; Ihre Qualifikationen passen perfekt zu der Stelle.
+it-ab-0118; Kompetenz; la competenza; ; B2; Arbeit/Beruf/Bewerbung; Oggi la sola competenza tecnica non basta.; Fachliche Kompetenz allein reicht heute nicht aus.
+it-ab-0119; Leistung; il rendimento; la prestazione; B2; Arbeit/Beruf/Karriere; Il suo rendimento è stato eccellente per tutto l'anno.; Ihre Leistung war das ganze Jahr über ausgezeichnet.
+it-ab-0120; Beurteilung; la valutazione; il giudizio; B2; Arbeit/Beruf/Karriere; La valutazione annuale si svolge a dicembre.; Die jährliche Beurteilung findet im Dezember statt.
+it-ab-0121; Gehaltsverhandlung; la trattativa salariale; la negoziazione dello stipendio; B2; Arbeit/Beruf/Vertrag & Gehalt; Si prepari bene per la sua prossima trattativa salariale.; Bereiten Sie sich gut auf Ihre nächste Gehaltsverhandlung vor.
+it-ab-0122; Arbeitsbelastung; il carico di lavoro; ; B2; Arbeit/Beruf/Arbeitsalltag; Quest'anno il carico di lavoro è aumentato molto.; Die Arbeitsbelastung hat dieses Jahr stark zugenommen.
+it-ab-0123; Gleitzeit; l'orario flessibile; la flessibilità oraria; B2; Arbeit/Beruf/Arbeitsalltag; Grazie all'orario flessibile il venerdì posso iniziare più tardi.; Dank Gleitzeit kann ich freitags später anfangen.
+it-ab-0124; Homeoffice; il telelavoro; lo smart working, il lavoro da casa; B2; Arbeit/Beruf/Arbeitsalltag; Il telelavoro mi fa risparmiare due ore al giorno.; Homeoffice spart mir täglich zwei Stunden.
+it-ab-0125; Dienstreise; il viaggio di lavoro; la trasferta, il viaggio d'affari; B2; Arbeit/Beruf/Arbeitsalltag; Questa settimana è in viaggio di lavoro a Monaco.; Er ist diese Woche auf Dienstreise in München.
+it-ab-0126; Fachkräftemangel; la carenza di personale qualificato; la mancanza di manodopera qualificata; C1; Arbeit/Beruf/Karriere; La carenza di personale qualificato frena molte aziende.; Der Fachkräftemangel bremst viele Unternehmen.
+it-ab-0127; Kurzarbeit; la cassa integrazione; ; C1; Arbeit/Beruf/Rechte & Soziales; Durante la crisi molti stabilimenti hanno introdotto la cassa integrazione.; Während der Krise führten viele Werke Kurzarbeit ein.
+it-ab-0128; Abmahnung; il richiamo scritto; la contestazione disciplinare, il richiamo; C1; Arbeit/Beruf/Kündigung; Ha ricevuto un richiamo scritto per i ripetuti ritardi.; Er erhielt eine Abmahnung wegen wiederholter Verspätung.
+it-ab-0129; Aufhebungsvertrag; la risoluzione consensuale; l'accordo di risoluzione; C1; Arbeit/Beruf/Kündigung; Venerdì scorso le due parti hanno firmato una risoluzione consensuale.; Beide Seiten unterschrieben letzten Freitag einen Aufhebungsvertrag.
+it-ab-0130; Wettbewerbsverbot; il patto di non concorrenza; ; C1; Arbeit/Beruf/Vertrag & Gehalt; Il patto di non concorrenza vale per due anni.; Das Wettbewerbsverbot gilt für zwei Jahre.
+it-ab-0131; Verschwiegenheitspflicht; l'obbligo di riservatezza; il dovere di riservatezza; C1; Arbeit/Beruf/Vertrag & Gehalt; L'obbligo di riservatezza vale anche dopo la fine del contratto.; Die Verschwiegenheitspflicht gilt auch nach Vertragsende.
+it-ab-0132; Arbeitszeitkonto; la banca delle ore; ; C1; Arbeit/Beruf/Arbeitsalltag; La mia banca delle ore indica venti ore in più.; Mein Arbeitszeitkonto weist zwanzig Plusstunden aus.
+it-ab-0133; Leiharbeit; il lavoro interinale; la somministrazione di lavoro; C1; Arbeit/Beruf/Rechte & Soziales; Il lavoro interinale è diffuso nel settore della logistica.; Leiharbeit ist in der Logistikbranche verbreitet.
+it-ab-0134; Betriebsklima; il clima aziendale; l'ambiente di lavoro; C1; Arbeit/Beruf/Arbeitsalltag; Un buon clima aziendale mantiene i dipendenti motivati e in salute.; Ein gutes Betriebsklima hält Mitarbeiter motiviert und gesund.
+it-ab-0135; Vergütung; la retribuzione; il compenso; C1; Arbeit/Beruf/Vertrag & Gehalt; La retribuzione dipende dall'esperienza e dal rendimento.; Die Vergütung hängt von Erfahrung und Leistung ab.
+it-ab-0136; Zulage; l'indennità; la maggiorazione; C1; Arbeit/Beruf/Vertrag & Gehalt; Chi lavora di notte riceve un'indennità del dieci per cento.; Nachtarbeiter erhalten eine Zulage von zehn Prozent.
+it-ab-0137; Prämie; il premio; il bonus; C1; Arbeit/Beruf/Vertrag & Gehalt; Il team ha ricevuto un premio per il progetto riuscito.; Das Team erhielt eine Prämie für das erfolgreiche Projekt.
+it-ab-0138; Erwerbstätigkeit; l'occupazione; l'attività lavorativa; C1; Arbeit/Beruf/Rechte & Soziales; L'occupazione delle persone anziane cresce costantemente.; Die Erwerbstätigkeit älterer Menschen steigt stetig.
+it-ab-0139; Arbeitsschutz; la sicurezza sul lavoro; ; C1; Arbeit/Beruf/Rechte & Soziales; In ogni cantiere la sicurezza sul lavoro ha la massima priorità.; Arbeitsschutz hat auf jeder Baustelle höchste Priorität.
+it-ab-0140; Betriebsrente; la pensione aziendale; il fondo pensione aziendale; C1; Arbeit/Beruf/Rechte & Soziales; Molti datori di lavoro offrono una pensione aziendale come benefit.; Viele Arbeitgeber bieten eine Betriebsrente als Zusatzleistung an.
+it-ab-0141; Mitarbeitergespräch; il colloquio di valutazione; il colloquio annuale; C1; Arbeit/Beruf/Karriere; Nel colloquio di valutazione fissiamo gli obiettivi per l'anno prossimo.; Im Mitarbeitergespräch legen wir Ziele für das nächste Jahr fest.
+it-ab-0142; Einarbeitung; l'inserimento; l'onboarding, il periodo di affiancamento; C1; Arbeit/Beruf/Karriere; L'inserimento dei nuovi colleghi dura circa quattro settimane.; Die Einarbeitung neuer Kollegen dauert etwa vier Wochen.
+it-ab-0143; Stellenabbau; i tagli al personale; la riduzione del personale, gli esuberi; C1; Arbeit/Beruf/Kündigung; La direzione ha annunciato tagli al personale in due stabilimenti.; Die Geschäftsleitung kündigte Stellenabbau in zwei Werken an.
+it-ab-0144; Scheinselbstständigkeit; il falso lavoro autonomo; la falsa partita IVA; C2; Arbeit/Beruf/Rechte & Soziales; Il tribunale ha esaminato il caso per falso lavoro autonomo.; Das Gericht prüfte den Fall auf Scheinselbstständigkeit.
+it-ab-0145; Betriebsübergang; il trasferimento d'azienda; la cessione d'azienda; C2; Arbeit/Beruf/Rechte & Soziales; Dopo il trasferimento d'azienda tutti i contratti restano validi.; Nach dem Betriebsübergang bleiben alle Verträge gültig.
+it-ab-0146; Sozialplan; il piano sociale; il piano di esuberi; C2; Arbeit/Beruf/Kündigung; La rappresentanza sindacale ha negoziato un piano sociale equo.; Der Betriebsrat handelte einen fairen Sozialplan aus.
+it-ab-0147; Direktionsrecht; il potere direttivo; ; C2; Arbeit/Beruf/Vertrag & Gehalt; Il potere direttivo del datore di lavoro ha chiari limiti giuridici.; Das Direktionsrecht hat klare rechtliche Grenzen.
+it-ab-0148; Tarifautonomie; l'autonomia contrattuale collettiva; l'autonomia negoziale; C2; Arbeit/Beruf/Rechte & Soziales; L'autonomia contrattuale collettiva è tutelata dalla Costituzione.; Die Tarifautonomie ist durch die Verfassung geschützt.
+it-ab-0149; Mitbestimmung; la cogestione; la partecipazione dei lavoratori; C2; Arbeit/Beruf/Rechte & Soziales; La cogestione dà ai dipendenti voce nelle grandi decisioni.; Mitbestimmung gibt Beschäftigten eine Stimme bei großen Entscheidungen.
+it-ab-0150; Arbeitsverdichtung; l'intensificazione del lavoro; ; C2; Arbeit/Beruf/Arbeitsalltag; L'intensificazione del lavoro porta a stress ed esaurimento.; Arbeitsverdichtung führt zu Stress und Erschöpfung.

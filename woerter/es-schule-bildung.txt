@@ -1,0 +1,152 @@
+# Spanisch: Schule & Bildung
+id; Deutsch; Spanisch; Weitere Antworten; Niveau; Themen; Beispiel Spanisch; Beispiel Deutsch
+es-sb-0001; Schule; el colegio; la escuela; A1; Bildung/Schule/Schulformen; Los niños van andando al colegio todas las mañanas.; Die Kinder gehen jeden Morgen zu Fuß zur Schule.
+es-sb-0002; Lehrer; el profesor; la profesora, el maestro, la maestra; A1; Bildung/Schule/Unterricht; Nuestro profesor lo explica todo muy bien.; Unser Lehrer erklärt alles sehr gut.
+es-sb-0003; Schüler; el alumno; la alumna, el estudiante; A1; Bildung/Schule/Unterricht; Cada alumno de la clase tiene un libro.; Jeder Schüler in der Klasse hat ein Buch.
+es-sb-0004; Klasse; la clase; el curso; A1; Bildung/Schule/Unterricht; En nuestra clase hay veinticinco niños.; In unserer Klasse sind fünfundzwanzig Kinder.
+es-sb-0005; Buch; el libro; ; A1; Bildung/Schule/Schulsachen; Por favor, abrid el libro por la página diez.; Bitte öffnet euer Buch auf Seite zehn.
+es-sb-0006; Heft; el cuaderno; la libreta; A1; Bildung/Schule/Schulsachen; Escribe las palabras nuevas en tu cuaderno.; Schreib die neuen Wörter in dein Heft.
+es-sb-0007; Stift; el bolígrafo; el boli, la pluma; A1; Bildung/Schule/Schulsachen; ¿Me prestas un bolígrafo?; Kann ich mir einen Stift von dir leihen?
+es-sb-0008; Bleistift; el lápiz; ; A1; Bildung/Schule/Schulsachen; Dibujo el cuadro con un lápiz.; Ich zeichne das Bild mit einem Bleistift.
+es-sb-0009; Tafel; la pizarra; el pizarrón; A1; Bildung/Schule/Unterricht; El profesor escribe la fecha en la pizarra.; Der Lehrer schreibt das Datum an die Tafel.
+es-sb-0010; Schultasche; la mochila; la cartera; A1; Bildung/Schule/Schulsachen; Hoy mi mochila pesa mucho.; Meine Schultasche ist heute sehr schwer.
+es-sb-0011; lernen; aprender; estudiar; A1; Bildung/Lernen; Aprendemos diez palabras nuevas cada día.; Wir lernen jeden Tag zehn neue Wörter.
+es-sb-0012; lesen; leer; ; A1; Bildung/Lernen; Por la noche me gusta leer libros.; Ich lese abends gern Bücher.
+es-sb-0013; schreiben; escribir; ; A1; Bildung/Lernen; Los alumnos escriben un texto corto sobre su familia.; Die Schüler schreiben einen kurzen Text über ihre Familie.
+es-sb-0014; rechnen; calcular; hacer cuentas; A1; Bildung/Lernen; Primero los niños calculan con números pequeños.; Die Kinder rechnen zuerst mit kleinen Zahlen.
+es-sb-0015; fragen; preguntar; ; A1; Bildung/Schule/Unterricht; Siempre puedes preguntar si algo no está claro.; Du kannst immer fragen, wenn etwas unklar ist.
+es-sb-0016; antworten; responder; contestar; A1; Bildung/Schule/Unterricht; Piensa primero y luego responde con frases completas.; Denk zuerst nach und antworte dann in ganzen Sätzen.
+es-sb-0017; Frage; la pregunta; ; A1; Bildung/Schule/Unterricht; Tengo una pregunta sobre los deberes.; Ich habe eine Frage zu den Hausaufgaben.
+es-sb-0018; Antwort; la respuesta; ; A1; Bildung/Schule/Unterricht; La respuesta correcta está en la página siguiente.; Die richtige Antwort steht auf der nächsten Seite.
+es-sb-0019; Hausaufgaben; los deberes; la tarea, las tareas; A1; Bildung/Schule/Unterricht; Hago los deberes después de comer.; Ich mache meine Hausaufgaben nach dem Mittagessen.
+es-sb-0020; Pause; el recreo; el descanso; A1; Bildung/Schule/Unterricht; En el recreo largo jugamos al fútbol.; In der großen Pause spielen wir Fußball.
+es-sb-0021; Mathematik; las matemáticas; las mates; A1; Bildung/Schule/Fächer; Tenemos matemáticas los lunes y los jueves.; Montags und donnerstags haben wir Mathematik.
+es-sb-0022; Englisch; el inglés; ; A1; Bildung/Schule/Fächer; En inglés cantamos canciones y hacemos juegos.; In Englisch singen wir Lieder und spielen Spiele.
+es-sb-0023; Deutsch; el alemán; ; A1; Bildung/Schule/Fächer; En alemán estamos leyendo una novela corta.; In Deutsch lesen wir gerade einen kurzen Roman.
+es-sb-0024; Sport; la educación física; la gimnasia, el deporte; A1; Bildung/Schule/Fächer; Hoy en educación física jugamos al baloncesto.; Im Sport spielen wir heute Basketball.
+es-sb-0025; Musik; la música; ; A1; Bildung/Schule/Fächer; En música estamos aprendiendo una canción nueva.; In Musik lernen wir ein neues Lied.
+es-sb-0026; Kunst; el arte; la plástica, la educación plástica; A2; Bildung/Schule/Fächer; En la clase de arte pintamos con acuarelas.; In Kunst malen wir mit Wasserfarben.
+es-sb-0027; Geschichte; la historia; ; A2; Bildung/Schule/Fächer; En historia estamos aprendiendo cosas sobre la antigua Roma.; In Geschichte lernen wir gerade etwas über das alte Rom.
+es-sb-0028; Erdkunde; la geografía; ; A2; Bildung/Schule/Fächer; En geografía dibujamos mapas de Europa.; In Erdkunde zeichnen wir Karten von Europa.
+es-sb-0029; Biologie; la biología; ; A2; Bildung/Schule/Fächer; En biología estudiamos las plantas y los animales.; In Biologie untersuchen wir Pflanzen und Tiere.
+es-sb-0030; Chemie; la química; ; A2; Bildung/Schule/Fächer; En química hacemos experimentos emocionantes.; In Chemie machen wir spannende Experimente.
+es-sb-0031; Physik; la física; ; A2; Bildung/Schule/Fächer; En física aprendemos cómo funciona la electricidad.; In Physik lernen wir, wie Strom funktioniert.
+es-sb-0032; Informatik; la informática; ; A2; Bildung/Schule/Fächer; En informática escribimos nuestros primeros programas.; In Informatik schreiben wir unsere ersten Programme.
+es-sb-0033; Fach; la asignatura; la materia; A2; Bildung/Schule/Fächer; ¿Qué asignatura te gusta más en el colegio?; Welches Fach magst du in der Schule am liebsten?
+es-sb-0034; Stundenplan; el horario; ; A2; Bildung/Schule/Unterricht; El nuevo horario empieza después de las vacaciones.; Der neue Stundenplan beginnt nach den Ferien.
+es-sb-0035; Unterricht; las clases; la clase, la enseñanza; A2; Bildung/Schule/Unterricht; Las clases empiezan a las ocho en punto.; Der Unterricht beginnt pünktlich um acht Uhr.
+es-sb-0036; Note; la nota; la calificación; A2; Bildung/Schule/Prüfungen; Sacó una buena nota en el examen.; Sie hat eine gute Note im Test bekommen.
+es-sb-0037; Zeugnis; el boletín de notas; las notas; A2; Bildung/Schule/Prüfungen; Les enseñó a sus padres el boletín de notas.; Er zeigte seinen Eltern sein Zeugnis.
+es-sb-0038; Prüfung; el examen; ; A2; Bildung/Schule/Prüfungen; El examen es el próximo viernes por la mañana.; Die Prüfung findet nächsten Freitagmorgen statt.
+es-sb-0039; Test; la prueba; el test, el control; A2; Bildung/Schule/Prüfungen; Cada dos semanas hacemos una prueba corta.; Wir schreiben alle zwei Wochen einen kurzen Test.
+es-sb-0040; bestehen; aprobar; ; A2; Bildung/Schule/Prüfungen; Estoy seguro de que vas a aprobar el examen.; Ich bin sicher, dass du die Prüfung bestehst.
+es-sb-0041; durchfallen; suspender; reprobar; A2; Bildung/Schule/Prüfungen; Nadie quiere suspender la última prueba.; Niemand will beim letzten Test durchfallen.
+es-sb-0042; üben; practicar; ; A2; Bildung/Lernen; Deberías practicar las palabras nuevas todos los días.; Du solltest die neuen Wörter jeden Tag üben.
+es-sb-0043; wiederholen; repasar; repetir; A2; Bildung/Lernen; Vamos a repasar la gramática de la semana pasada.; Lass uns die Grammatik von letzter Woche wiederholen.
+es-sb-0044; erklären; explicar; ; A2; Bildung/Schule/Unterricht; ¿Puedes explicar otra vez esta regla, por favor?; Kannst du diese Regel bitte noch einmal erklären?
+es-sb-0045; verstehen; entender; comprender; A2; Bildung/Lernen; No he entendido la última frase.; Ich habe den letzten Satz nicht verstanden.
+es-sb-0046; vergessen; olvidar; olvidarse; A2; Bildung/Lernen; No te olvides los deberes en casa.; Vergiss deine Hausaufgaben nicht zu Hause.
+es-sb-0047; Wörterbuch; el diccionario; ; A2; Bildung/Schule/Schulsachen; Busca la palabra nueva en el diccionario.; Schlag das neue Wort im Wörterbuch nach.
+es-sb-0048; Lineal; la regla; ; A2; Bildung/Schule/Schulsachen; Traza una línea recta con la regla.; Zieh mit dem Lineal eine gerade Linie.
+es-sb-0049; Schere; las tijeras; la tijera; A2; Bildung/Schule/Schulsachen; Recorta el dibujo con las tijeras.; Schneide das Bild mit der Schere aus.
+es-sb-0050; Kleber; el pegamento; la cola; A2; Bildung/Schule/Schulsachen; Necesitamos pegamento y papel para el cartel.; Wir brauchen Kleber und Papier für das Plakat.
+es-sb-0051; Radiergummi; la goma de borrar; la goma, el borrador; A2; Bildung/Schule/Schulsachen; ¿Me dejas un momento tu goma de borrar?; Darf ich kurz deinen Radiergummi leihen?
+es-sb-0052; Spitzer; el sacapuntas; ; A2; Bildung/Schule/Schulsachen; Se me ha roto el lápiz, ¿dónde está el sacapuntas?; Mein Bleistift ist abgebrochen, wo ist der Spitzer?
+es-sb-0053; Füller; la pluma estilográfica; la pluma; A2; Bildung/Schule/Schulsachen; En tercero los niños escriben con pluma estilográfica.; In der dritten Klasse schreiben die Kinder mit dem Füller.
+es-sb-0054; Taschenrechner; la calculadora; ; A2; Bildung/Schule/Schulsachen; En este ejercicio puedes usar la calculadora.; Bei dieser Aufgabe darfst du einen Taschenrechner benutzen.
+es-sb-0055; Klassenzimmer; el aula; la clase; A2; Bildung/Schule/Unterricht; Nuestra aula está en la segunda planta.; Unser Klassenzimmer ist im zweiten Stock.
+es-sb-0056; Turnhalle; el gimnasio; el polideportivo; A2; Bildung/Schule/Unterricht; Quedamos en el gimnasio para la clase de educación física.; Wir treffen uns zur Sportstunde in der Turnhalle.
+es-sb-0057; Schulhof; el patio; el patio del colegio; A2; Bildung/Schule/Unterricht; Los alumnos juegan en el patio durante el recreo.; Die Schüler spielen in der Pause auf dem Schulhof.
+es-sb-0058; Mensa; el comedor; la cafetería, el comedor universitario; A2; Bildung/Universität; Comemos juntos en el comedor.; Wir essen zusammen in der Mensa zu Mittag.
+es-sb-0059; Grundschule; la escuela primaria; la primaria, el colegio; A2; Bildung/Schule/Schulformen; Mi hija ha empezado este año la escuela primaria.; Meine Tochter kam dieses Jahr in die Grundschule.
+es-sb-0060; Ferien; las vacaciones; las vacaciones escolares; A2; Bildung/Schule/Unterricht; Las vacaciones empiezan la semana que viene, el viernes.; Die Ferien beginnen nächste Woche am Freitag.
+es-sb-0061; Gymnasium; el instituto; el liceo, el bachillerato; B1; Bildung/Schule/Schulformen; Va a un instituto de Fráncfort.; Sie besucht ein Gymnasium in Frankfurt.
+es-sb-0062; weiterführende Schule; la educación secundaria; la escuela secundaria, la secundaria, el instituto; B1; Bildung/Schule/Schulformen; Después de cuarto, los niños eligen un centro de educación secundaria.; Nach der vierten Klasse wählen die Kinder eine weiterführende Schule.
+es-sb-0063; Abschluss; el título; la titulación; B1; Bildung/Schule/Prüfungen; Un buen título abre muchas puertas en el futuro.; Ein guter Abschluss öffnet später viele Türen.
+es-sb-0064; Abitur; el bachillerato; la selectividad; B1; Bildung/Schule/Prüfungen; Aprobó el bachillerato con muy buenas notas.; Er hat sein Abitur mit sehr guten Noten bestanden.
+es-sb-0065; Universität; la universidad; ; B1; Bildung/Universität; Estudia Derecho en la universidad de Maguncia.; Sie studiert Jura an der Universität in Mainz.
+es-sb-0066; Student; el estudiante; la estudiante, el universitario, la universitaria; B1; Bildung/Universität; Cuando era estudiante vivía en un piso pequeño.; Als Student wohnte er in einer kleinen Wohnung.
+es-sb-0067; Vorlesung; la clase magistral; la clase, la lección; B1; Bildung/Universität; La clase magistral sobre historia europea empieza a las diez.; Die Vorlesung über europäische Geschichte beginnt um zehn.
+es-sb-0068; Seminar; el seminario; ; B1; Bildung/Universität; En el seminario comentamos un texto cada semana.; Im Seminar besprechen wir jede Woche einen Text.
+es-sb-0069; Semester; el semestre; el cuatrimestre; B1; Bildung/Universität; El nuevo semestre empieza en octubre.; Das neue Semester beginnt im Oktober.
+es-sb-0070; Studium; los estudios; la carrera; B1; Bildung/Universität; Terminó sus estudios después de cinco años.; Sie beendete ihr Studium nach fünf Jahren.
+es-sb-0071; studieren; estudiar; ; B1; Bildung/Universität; Mi hijo quiere estudiar Medicina en Berlín.; Mein Sohn möchte in Berlin Medizin studieren.
+es-sb-0072; Studiengang; el programa de estudios; la carrera, el grado; B1; Bildung/Universität; Este programa de estudios combina biología e informática.; Dieser Studiengang verbindet Biologie und Informatik.
+es-sb-0073; Bibliothek; la biblioteca; ; B1; Bildung/Universität; Por las tardes suelo estudiar en la biblioteca.; Abends lerne ich oft in der Bibliothek.
+es-sb-0074; Hörsaal; el anfiteatro; el aula magna, la sala de conferencias; B1; Bildung/Universität; El anfiteatro ya estaba lleno cinco minutos antes.; Der Hörsaal war fünf Minuten vorher schon voll.
+es-sb-0075; Dozent; el docente; la docente, el profesor universitario, la profesora universitaria; B1; Bildung/Universität; Nuestro docente siempre responde a las preguntas con paciencia.; Unser Dozent beantwortet Fragen immer geduldig.
+es-sb-0076; Professor; el catedrático; la catedrática, el profesor; B1; Bildung/Universität; El catedrático da clase aquí desde hace veinte años.; Der Professor lehrt hier seit zwanzig Jahren.
+es-sb-0077; Klausur; el examen escrito; ; B1; Bildung/Universität; El examen escrito dura exactamente noventa minutos.; Die Klausur dauert genau neunzig Minuten.
+es-sb-0078; mündliche Prüfung; el examen oral; ; B1; Bildung/Schule/Prüfungen; Estaba nerviosa antes de su examen oral.; Vor ihrer mündlichen Prüfung war sie nervös.
+es-sb-0079; Hausarbeit; el trabajo escrito; el trabajo, el ensayo; B1; Bildung/Universität; Tengo que escribir un trabajo escrito sobre Kafka.; Ich muss eine Hausarbeit über Kafka schreiben.
+es-sb-0080; Referat; la exposición; la presentación; B1; Bildung/Schule/Unterricht; Mañana hago una exposición sobre los volcanes.; Morgen halte ich ein Referat über Vulkane.
+es-sb-0081; Notizen; los apuntes; las notas; B1; Bildung/Lernen; Unos buenos apuntes te ayudan mucho antes de los exámenes.; Gute Notizen helfen dir vor Prüfungen sehr.
+es-sb-0082; auswendig lernen; aprender de memoria; memorizar; B1; Bildung/Lernen; Para el lunes tuvimos que aprender de memoria un poema.; Wir mussten für Montag ein Gedicht auswendig lernen.
+es-sb-0083; nachschlagen; buscar; consultar; B1; Bildung/Lernen; Puedes buscar las palabras desconocidas en internet.; Unbekannte Wörter kannst du online nachschlagen.
+es-sb-0084; teilnehmen; participar; tomar parte; B1; Bildung/Schule/Unterricht; Todos los alumnos tienen que participar en la semana de proyectos.; Alle Schüler müssen an der Projektwoche teilnehmen.
+es-sb-0085; sich anmelden; inscribirse; matricularse, apuntarse; B1; Bildung/Universität; Puedes inscribirte en el curso hasta el viernes.; Bis Freitag kannst du dich für den Kurs anmelden.
+es-sb-0086; abgeben; entregar; ; B1; Bildung/Universität; Por favor, entrega tu redacción antes de finales de mayo.; Bitte gib deinen Aufsatz bis Ende Mai ab.
+es-sb-0087; korrigieren; corregir; ; B1; Bildung/Schule/Prüfungen; La profesora corrige las pruebas el fin de semana.; Die Lehrerin korrigiert die Tests am Wochenende.
+es-sb-0088; benoten; calificar; poner nota, evaluar; B1; Bildung/Schule/Prüfungen; Las exposiciones se calificarán la semana que viene.; Die Referate werden nächste Woche benotet.
+es-sb-0089; schwänzen; hacer novillos; faltar a clase, hacer pellas, saltarse las clases; B1; Bildung/Schule/Unterricht; El mes pasado hizo novillos dos veces.; Er hat letzten Monat zweimal die Schule geschwänzt.
+es-sb-0090; sitzen bleiben; repetir curso; repetir; B1; Bildung/Schule/Prüfungen; Con dos malas notas podría repetir curso.; Mit zwei schlechten Noten könnte er sitzen bleiben.
+es-sb-0091; Nachhilfe; las clases particulares; las clases de refuerzo; B1; Bildung/Lernen; Recibe clases particulares de matemáticas una vez por semana.; Sie bekommt einmal pro Woche Nachhilfe in Mathe.
+es-sb-0092; Austauschschüler; el estudiante de intercambio; la estudiante de intercambio; B1; Bildung/Schule/Unterricht; Nuestro estudiante de intercambio francés se queda tres meses.; Unser Austauschschüler aus Frankreich bleibt drei Monate.
+es-sb-0093; Klassenfahrt; el viaje de estudios; la excursión escolar, el viaje escolar; B1; Bildung/Schule/Unterricht; Este año el viaje de estudios es al mar Báltico.; Die Klassenfahrt geht dieses Jahr an die Ostsee.
+es-sb-0094; Elternabend; la reunión de padres; la reunión de padres y profesores; B1; Bildung/Schule/Unterricht; La próxima reunión de padres es el jueves a las siete.; Der nächste Elternabend ist am Donnerstag um sieben.
+es-sb-0095; Berufsschule; la escuela de formación profesional; el centro de formación profesional, la FP; B1; Bildung/Schule/Schulformen; Los aprendices van a la escuela de formación profesional dos veces por semana.; Auszubildende besuchen zweimal pro Woche die Berufsschule.
+es-sb-0096; Ausbildung; la formación profesional; el aprendizaje, la formación; B2; Bildung/Lernen; Después del colegio empezó una formación profesional de electricista.; Nach der Schule begann sie eine Ausbildung als Elektrikerin.
+es-sb-0097; Schulpflicht; la escolarización obligatoria; la enseñanza obligatoria; B2; Bildung/Bildungspolitik; En Alemania la escolarización obligatoria empieza a los seis años.; In Deutschland beginnt die Schulpflicht mit sechs Jahren.
+es-sb-0098; Lehrplan; el plan de estudios; el currículo, el temario; B2; Bildung/Schule/Unterricht; El nuevo plan de estudios da más peso a las competencias digitales.; Der neue Lehrplan legt mehr Gewicht auf digitale Kompetenzen.
+es-sb-0099; Leistung; el rendimiento; el desempeño; B2; Bildung/Schule/Prüfungen; Su rendimiento mejoró claramente en la segunda mitad del año.; Ihre Leistung verbesserte sich in der zweiten Jahreshälfte deutlich.
+es-sb-0100; Bewertung; la evaluación; la calificación; B2; Bildung/Schule/Prüfungen; La evaluación de los trabajos orales suele ser difícil.; Die Bewertung mündlicher Leistungen ist oft schwierig.
+es-sb-0101; Abschlussprüfung; el examen final; ; B2; Bildung/Schule/Prüfungen; El examen final abarca la materia de dos años.; Die Abschlussprüfung umfasst den Stoff von zwei Jahren.
+es-sb-0102; Bachelorarbeit; el trabajo de fin de grado; el TFG; B2; Bildung/Universität; Está escribiendo su trabajo de fin de grado sobre energías renovables.; Er schreibt seine Bachelorarbeit über erneuerbare Energien.
+es-sb-0103; Masterarbeit; el trabajo de fin de máster; el TFM; B2; Bildung/Universität; Su trabajo de fin de máster se publicó como un pequeño libro.; Ihre Masterarbeit wurde als kleines Buch veröffentlicht.
+es-sb-0104; Doktorarbeit; la tesis doctoral; la tesis; B2; Bildung/Universität; Trabajó cuatro años en su tesis doctoral.; Er arbeitete vier Jahre an seiner Doktorarbeit.
+es-sb-0105; Promotion; el doctorado; ; B2; Bildung/Universität; Después del doctorado se pasó a la industria.; Nach ihrer Promotion wechselte sie in die Industrie.
+es-sb-0106; Stipendium; la beca; ; B2; Bildung/Universität; La beca le cubre el alquiler y los libros.; Das Stipendium deckt ihre Miete und ihre Bücher.
+es-sb-0107; Studiengebühren; las tasas universitarias; la matrícula, las tasas de matrícula; B2; Bildung/Universität; Las tasas universitarias varían mucho entre los países europeos.; Die Studiengebühren unterscheiden sich stark zwischen europäischen Ländern.
+es-sb-0108; Wohnheim; la residencia de estudiantes; la residencia, el colegio mayor; B2; Bildung/Universität; El primer año vivió en una residencia de estudiantes.; Im ersten Jahr wohnte er in einem Wohnheim.
+es-sb-0109; Fakultät; la facultad; ; B2; Bildung/Universität; La facultad de ingeniería se trasladó a un edificio nuevo.; Die Fakultät für Ingenieurwesen zog in ein neues Gebäude.
+es-sb-0110; Forschung; la investigación; ; B2; Bildung/Universität; La universidad gasta mucho dinero en investigación.; Die Universität gibt viel Geld für Forschung aus.
+es-sb-0111; Wissenschaft; la ciencia; ; B2; Bildung/Universität; La ciencia necesita debates abiertos y métodos rigurosos.; Die Wissenschaft braucht offene Debatten und sorgfältige Methoden.
+es-sb-0112; Wissenschaftler; el científico; la científica, el investigador, la investigadora; B2; Bildung/Universität; El científico presentó sus resultados en un congreso.; Der Wissenschaftler stellte seine Ergebnisse auf einer Konferenz vor.
+es-sb-0113; Vorlesungsverzeichnis; la guía docente; el catálogo de asignaturas; B2; Bildung/Universität; La guía docente del próximo semestre ya está en internet.; Das Vorlesungsverzeichnis für das nächste Semester ist jetzt online.
+es-sb-0114; Prüfungsordnung; el reglamento de exámenes; la normativa de evaluación; B2; Bildung/Universität; Lee el reglamento de exámenes antes de inscribirte.; Lies die Prüfungsordnung, bevor du dich anmeldest.
+es-sb-0115; Leistungspunkt; el crédito; el crédito ECTS; B2; Bildung/Universität; Este seminario vale cinco créditos.; Dieses Seminar bringt fünf Leistungspunkte.
+es-sb-0116; Pflichtfach; la asignatura obligatoria; la obligatoria; B2; Bildung/Universität; La estadística es una asignatura obligatoria en esta carrera.; Statistik ist in diesem Studiengang ein Pflichtfach.
+es-sb-0117; Wahlfach; la asignatura optativa; la optativa; B2; Bildung/Universität; Este semestre eligió español como asignatura optativa.; Sie wählte dieses Semester Spanisch als Wahlfach.
+es-sb-0118; Weiterbildung; la formación continua; la formación permanente; B2; Bildung/Lernen; La empresa paga cursos de formación continua.; Die Firma bezahlt Kurse zur Weiterbildung.
+es-sb-0119; Fernstudium; la educación a distancia; los estudios a distancia; B2; Bildung/Universität; La educación a distancia te permite estudiar mientras trabajas.; Ein Fernstudium lässt dich neben dem Beruf studieren.
+es-sb-0120; Praktikum; las prácticas; la pasantía; B2; Bildung/Universität; Hizo las prácticas en una oficina de ingeniería.; Er machte ein Praktikum in einem Ingenieurbüro.
+es-sb-0121; Bewerbung; la solicitud; la candidatura; B2; Bildung/Universität; Su solicitud para el máster fue aceptada.; Ihre Bewerbung für den Masterstudiengang war erfolgreich.
+es-sb-0122; Lebenslauf; el currículum; el currículum vítae, el CV; B2; Bildung/Universität; Por favor, adjunta tu currículum a la solicitud.; Bitte füge der Bewerbung deinen Lebenslauf bei.
+es-sb-0123; Zulassung; la admisión; ; B2; Bildung/Universität; Todavía espera su admisión en la universidad.; Sie wartet noch auf ihre Zulassung zur Universität.
+es-sb-0124; Einschreibung; la matrícula; la inscripción; B2; Bildung/Universität; El plazo de matrícula termina a mediados de septiembre.; Die Frist für die Einschreibung endet Mitte September.
+es-sb-0125; Abschlussfeier; la ceremonia de graduación; la graduación; B2; Bildung/Universität; Toda la familia fue a su ceremonia de graduación.; Die ganze Familie kam zu ihrer Abschlussfeier.
+es-sb-0126; Chancengleichheit; la igualdad de oportunidades; ; C1; Bildung/Bildungspolitik; La igualdad de oportunidades en la educación sigue siendo un objetivo lejano.; Chancengleichheit in der Bildung bleibt ein fernes Ziel.
+es-sb-0127; Bildungspolitik; la política educativa; ; C1; Bildung/Bildungspolitik; La política educativa la deciden los estados federados.; Bildungspolitik wird von den Bundesländern entschieden.
+es-sb-0128; Analphabetismus; el analfabetismo; ; C1; Bildung/Bildungspolitik; El analfabetismo entre los adultos está más extendido de lo que se cree.; Der Analphabetismus unter Erwachsenen ist verbreiteter als gedacht.
+es-sb-0129; lebenslanges Lernen; el aprendizaje permanente; el aprendizaje a lo largo de la vida; C1; Bildung/Lernen; El aprendizaje permanente se ha vuelto imprescindible en las profesiones modernas.; Lebenslanges Lernen ist in modernen Berufen unverzichtbar geworden.
+es-sb-0130; Hochschulreife; el título de acceso a la universidad; el acceso a la universidad; C1; Bildung/Schule/Prüfungen; El título de acceso a la universidad abre el camino a los estudios superiores.; Die Hochschulreife öffnet den Weg zur Universität.
+es-sb-0131; Habilitation; la habilitación; la habilitación docente; C1; Bildung/Universität; En Alemania una cátedra suele exigir la habilitación.; In Deutschland erfordert eine Professur oft eine Habilitation.
+es-sb-0132; Gutachten; el dictamen; el informe pericial, el informe de evaluación; C1; Bildung/Universität; La comisión pidió un dictamen sobre la tesis.; Die Kommission forderte ein Gutachten über die Arbeit an.
+es-sb-0133; Lehrstuhl; la cátedra; ; C1; Bildung/Universität; Le ofrecieron una cátedra de física aplicada.; Ihr wurde ein Lehrstuhl für angewandte Physik angeboten.
+es-sb-0134; Studienabbrecher; el estudiante que abandona la carrera; la estudiante que abandona la carrera, el desertor universitario; C1; Bildung/Universität; Muchos estudiantes que abandonan la carrera triunfan después en profesiones prácticas.; Viele Studienabbrecher sind später in praktischen Berufen erfolgreich.
+es-sb-0135; Leistungsdruck; la presión por el rendimiento; la presión académica; C1; Bildung/Schule/Prüfungen; Para muchos alumnos la presión por el rendimiento empieza pronto.; Der Leistungsdruck beginnt für viele Schüler früh.
+es-sb-0136; Begabtenförderung; la atención a las altas capacidades; el apoyo a los alumnos superdotados; C1; Bildung/Bildungspolitik; La atención a las altas capacidades varía mucho de un colegio a otro.; Die Begabtenförderung unterscheidet sich stark zwischen den Schulen.
+es-sb-0137; Durchfallquote; el índice de suspensos; la tasa de suspensos; C1; Bildung/Schule/Prüfungen; El índice de suspensos en este examen es muy alto.; Die Durchfallquote in dieser Prüfung ist bemerkenswert hoch.
+es-sb-0138; Anwesenheitspflicht; la asistencia obligatoria; ; C1; Bildung/Universität; En algunos seminarios la asistencia es obligatoria, en otros no.; In manchen Seminaren gilt Anwesenheitspflicht, in anderen nicht.
+es-sb-0139; Lernstrategie; la estrategia de aprendizaje; la técnica de estudio; C1; Bildung/Lernen; Una buena estrategia de aprendizaje ahorra tiempo antes de los exámenes.; Eine gute Lernstrategie spart Zeit vor Prüfungen.
+es-sb-0140; Wissensvermittlung; la transmisión de conocimientos; la transmisión del saber; C1; Bildung/Lernen; Una buena clase es más que la mera transmisión de conocimientos.; Guter Unterricht ist mehr als reine Wissensvermittlung.
+es-sb-0141; Fachliteratur; la bibliografía especializada; la literatura especializada; C1; Bildung/Universität; La biblioteca ofrece bibliografía especializada en cuarenta idiomas.; Die Bibliothek bietet Fachliteratur in vierzig Sprachen.
+es-sb-0142; Plagiat; el plagio; ; C1; Bildung/Universität; El programa comprueba si hay plagio en cada trabajo final.; Die Software prüft jede Abschlussarbeit auf Plagiate.
+es-sb-0143; Quellenangabe; la referencia bibliográfica; la cita, la indicación de la fuente; C1; Bildung/Universität; Cada cita necesita una referencia bibliográfica completa y correcta.; Jedes Zitat braucht eine vollständige und korrekte Quellenangabe.
+es-sb-0144; Bildungsbürgertum; la burguesía culta; la burguesía ilustrada; C2; Bildung/Bildungspolitik; La burguesía culta marcó la vida cultural alemana.; Das Bildungsbürgertum prägte das deutsche Kulturleben.
+es-sb-0145; Elfenbeinturm; la torre de marfil; ; C2; Bildung/Universität; Los investigadores deberían salir más a menudo de su torre de marfil.; Forscher sollten den Elfenbeinturm öfter verlassen.
+es-sb-0146; Autodidakt; el autodidacta; la autodidacta; C2; Bildung/Lernen; Como autodidacta aprendió él solo cuatro idiomas.; Als Autodidakt brachte er sich vier Sprachen bei.
+es-sb-0147; Koryphäe; la eminencia; la autoridad, el referente; C2; Bildung/Universität; Está considerada una eminencia en su campo.; Sie gilt als Koryphäe auf ihrem Gebiet.
+es-sb-0148; Emeritierung; la jubilación; la emeritación, la condición de emérito; C2; Bildung/Universität; Incluso después de su jubilación como emérito siguió dando clases.; Auch nach seiner Emeritierung hielt er weiter Vorlesungen.
+es-sb-0149; Wissbegierde; la sed de conocimiento; el afán de saber, la curiosidad; C2; Bildung/Lernen; Su sed de conocimiento nunca disminuyó con la edad.; Ihre Wissbegierde ließ mit dem Alter nie nach.
+es-sb-0150; Gelehrsamkeit; la erudición; ; C2; Bildung/Lernen; Su erudición impresionaba incluso a los catedráticos más mayores.; Seine Gelehrsamkeit beeindruckte selbst die älteren Professoren.

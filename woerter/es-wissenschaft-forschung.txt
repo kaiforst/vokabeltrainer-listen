@@ -1,0 +1,152 @@
+# Spanisch: Wissenschaft & Forschung
+id; Deutsch; Spanisch; Weitere Antworten; Niveau; Themen; Beispiel Spanisch; Beispiel Deutsch
+es-wi-0001; Frage; la pregunta; ; A1; Wissenschaft/Forschung & Methode; Todo buen experimento empieza con una pregunta sencilla.; Jedes gute Experiment beginnt mit einer einfachen Frage.
+es-wi-0002; Antwort; la respuesta; ; A1; Wissenschaft/Forschung & Methode; La ciencia no siempre da una respuesta rápida.; Die Wissenschaft gibt nicht immer eine schnelle Antwort.
+es-wi-0003; Test; el test; la prueba, el ensayo; A1; Wissenschaft/Forschung & Methode; El nuevo material superó todos los test del laboratorio.; Das neue Material bestand jeden Test im Labor.
+es-wi-0004; Wissenschaft; la ciencia; ; A2; Wissenschaft/Forschung & Methode; La ciencia nos ayuda a entender mejor el mundo.; Die Wissenschaft hilft uns, die Welt besser zu verstehen.
+es-wi-0005; Wissenschaftler; el científico; la científica, el investigador, la investigadora; A2; Wissenschaft/Forschung & Methode; El científico explicó sus resultados con palabras sencillas.; Der Wissenschaftler erklärte seine Ergebnisse in einfachen Worten.
+es-wi-0006; Forschung; la investigación; ; A2; Wissenschaft/Forschung & Methode; La investigación sobre nuevas baterías avanza rápidamente.; Die Forschung an neuen Batterien macht schnelle Fortschritte.
+es-wi-0007; forschen; investigar; ; B1; Wissenschaft/Forschung & Methode; Quiere investigar enfermedades tropicales en África.; Sie möchte in Afrika zu Tropenkrankheiten forschen.
+es-wi-0008; Experiment; el experimento; ; B1; Wissenschaft/Forschung & Methode; El experimento se repitió más de veinte veces.; Das Experiment wurde mehr als zwanzigmal wiederholt.
+es-wi-0009; Labor; el laboratorio; el labo; B1; Wissenschaft/Forschung & Methode; Las muestras se analizan en un laboratorio moderno.; Die Proben werden in einem modernen Labor untersucht.
+es-wi-0010; entdecken; descubrir; ; A2; Wissenschaft/Forschung & Methode; Cada año los investigadores descubren nuevas especies en la selva.; Forscher entdecken jedes Jahr neue Arten im Regenwald.
+es-wi-0011; Entdeckung; el descubrimiento; el hallazgo; B1; Wissenschaft/Forschung & Methode; El descubrimiento de la penicilina salvó millones de vidas.; Die Entdeckung des Penicillins rettete Millionen von Leben.
+es-wi-0012; erfinden; inventar; ; A2; Wissenschaft/Forschung & Methode; Quiere inventar una máquina que limpie los ríos.; Er will eine Maschine erfinden, die Flüsse reinigt.
+es-wi-0013; Erfindung; el invento; la invención; B1; Wissenschaft/Forschung & Methode; La imprenta fue un invento revolucionario.; Der Buchdruck war eine bahnbrechende Erfindung.
+es-wi-0014; Ergebnis; el resultado; ; A2; Wissenschaft/Forschung & Methode; El resultado de la prueba sorprendió a todos.; Das Ergebnis des Tests überraschte alle.
+es-wi-0015; untersuchen; examinar; analizar, investigar; B1; Wissenschaft/Forschung & Methode; Mañana el equipo examinará las muestras de agua.; Das Team wird die Wasserproben morgen untersuchen.
+es-wi-0016; Fachzeitschrift; la revista científica; la revista especializada; C1; Wissenschaft/Forschung & Methode; El estudio se publicó en una revista científica de referencia.; Die Studie erschien in einer führenden Fachzeitschrift.
+es-wi-0017; Theorie; la teoría; ; B1; Wissenschaft/Forschung & Methode; Una buena teoría se puede comprobar con experimentos.; Eine gute Theorie lässt sich durch Experimente prüfen.
+es-wi-0018; Methode; el método; ; B1; Wissenschaft/Forschung & Methode; El nuevo método ofrece valores mucho más precisos.; Die neue Methode liefert viel genauere Werte.
+es-wi-0019; Beweis; la prueba; la demostración; B1; Wissenschaft/Forschung & Methode; Todavía no hay ninguna prueba de esta afirmación.; Für diese Behauptung gibt es noch keinen Beweis.
+es-wi-0020; beweisen; demostrar; probar; B1; Wissenschaft/Forschung & Methode; Los datos demuestran claramente que el método funciona.; Die Daten beweisen eindeutig, dass die Methode funktioniert.
+es-wi-0021; Hypothese; la hipótesis; ; B2; Wissenschaft/Forschung & Methode; Los resultados no respaldan la hipótesis original.; Die Ergebnisse stützen die ursprüngliche Hypothese nicht.
+es-wi-0022; Daten; los datos; ; B1; Wissenschaft/Forschung & Methode; Los sensores recogen datos las veinticuatro horas.; Die Sensoren sammeln rund um die Uhr Daten.
+es-wi-0023; messen; medir; ; A2; Wissenschaft/Forschung & Methode; Medimos la temperatura tres veces al día.; Wir messen die Temperatur dreimal am Tag.
+es-wi-0024; Messgenauigkeit; la precisión de medida; la precisión de medición, la precisión; C2; Wissenschaft/Forschung & Methode; El nuevo instrumento duplica la precisión de medida del sistema.; Das neue Instrument verdoppelt die Messgenauigkeit des Systems.
+es-wi-0025; vergleichen; comparar; ; A2; Wissenschaft/Forschung & Methode; Los alumnos comparan los resultados de ambos grupos.; Die Schüler vergleichen die Ergebnisse beider Gruppen.
+es-wi-0026; Annahme; la suposición; el supuesto; B2; Wissenschaft/Forschung & Methode; El modelo se basa en una suposición sencilla.; Das Modell beruht auf einer einfachen Annahme.
+es-wi-0027; Erkenntnis; el hallazgo; la conclusión, el conocimiento; C1; Wissenschaft/Forschung & Methode; El estudio condujo a un hallazgo sorprendente sobre el sueño.; Die Studie führte zu einer überraschenden Erkenntnis über den Schlaf.
+es-wi-0028; Gutachten; el dictamen; el informe pericial; C1; Wissenschaft/Forschung & Methode; El tribunal pidió un dictamen a la universidad.; Das Gericht forderte ein Gutachten der Universität an.
+es-wi-0029; Versuchsreihe; la serie de experimentos; la serie de ensayos; C1; Wissenschaft/Forschung & Methode; La larga serie de experimentos confirmó los primeros resultados.; Die lange Versuchsreihe bestätigte die ersten Ergebnisse.
+es-wi-0030; Grundlagenforschung; la investigación básica; la investigación fundamental; C2; Wissenschaft/Forschung & Methode; La investigación básica a menudo solo da frutos después de décadas.; Grundlagenforschung zahlt sich oft erst nach Jahrzehnten aus.
+es-wi-0031; Licht; la luz; ; A1; Wissenschaft/Physik; La luz es más rápida que cualquier otra cosa que conozcamos.; Licht ist schneller als alles andere, das wir kennen.
+es-wi-0032; Energie; la energía; ; A2; Wissenschaft/Physik; El sol nos da luz y energía.; Die Sonne gibt uns Licht und Energie.
+es-wi-0033; Kraft; la fuerza; ; B1; Wissenschaft/Physik; Una fuerza intensa atrae el imán hacia el metal.; Eine starke Kraft zieht den Magneten zum Metall.
+es-wi-0034; Geschwindigkeit; la velocidad; ; B2; Wissenschaft/Physik; El cohete alcanza una velocidad enorme en pocos minutos.; Die Rakete erreicht innerhalb von Minuten eine enorme Geschwindigkeit.
+es-wi-0035; Temperatur; la temperatura; ; A2; Wissenschaft/Physik; La temperatura del laboratorio tiene que mantenerse constante.; Die Temperatur im Labor muss konstant bleiben.
+es-wi-0036; Trägheit; la inercia; ; C2; Wissenschaft/Physik; Por su inercia, la bola pesada sigue rodando.; Wegen seiner Trägheit rollt der schwere Ball weiter.
+es-wi-0037; Strom; la corriente eléctrica; la electricidad, la corriente; A2; Wissenschaft/Physik; Los aerogeneradores producen corriente eléctrica para miles de hogares.; Windräder erzeugen Strom für tausende Haushalte.
+es-wi-0038; Magnet; el imán; ; B1; Wissenschaft/Physik; El imán sujeta las notas en la nevera.; Der Magnet hält die Notizen am Kühlschrank.
+es-wi-0039; Welle; la onda; ; B1; Wissenschaft/Physik; El sonido se propaga por el aire como una onda.; Schall breitet sich als Welle in der Luft aus.
+es-wi-0040; Teilchen; la partícula; ; B2; Wissenschaft/Physik; Cada diminuta partícula tiene una carga eléctrica.; Jedes winzige Teilchen trägt eine elektrische Ladung.
+es-wi-0041; Atom; el átomo; ; B1; Wissenschaft/Physik; Un solo átomo es demasiado pequeño para verlo.; Ein einzelnes Atom ist viel zu klein, um es zu sehen.
+es-wi-0042; Schwerkraft; la gravedad; la fuerza de gravedad, la gravitación; B2; Wissenschaft/Physik; La gravedad mantiene a la Luna en su órbita alrededor de la Tierra.; Die Schwerkraft hält den Mond auf seiner Bahn um die Erde.
+es-wi-0043; Druck; la presión; ; B1; Wissenschaft/Physik; La presión del neumático es demasiado baja.; Der Druck im Reifen ist zu niedrig.
+es-wi-0044; Masse; la masa; ; B2; Wissenschaft/Physik; La masa de un objeto no cambia en el espacio.; Die Masse eines Objekts ändert sich im Weltall nicht.
+es-wi-0045; Reibung; el rozamiento; la fricción; B2; Wissenschaft/Physik; El rozamiento transforma poco a poco el movimiento en calor.; Reibung verwandelt Bewegung langsam in Wärme.
+es-wi-0046; Strahlung; la radiación; ; B2; Wissenschaft/Physik; El aparato mide la radiación del entorno.; Das Gerät misst die Strahlung in der Umgebung.
+es-wi-0047; Leitfähigkeit; la conductividad; ; C1; Wissenschaft/Physik; El cobre es conocido por su excelente conductividad eléctrica.; Kupfer ist für seine ausgezeichnete elektrische Leitfähigkeit bekannt.
+es-wi-0048; Quantenmechanik; la mecánica cuántica; ; C1; Wissenschaft/Physik; La mecánica cuántica describe el extraño mundo de las partículas diminutas.; Die Quantenmechanik beschreibt die seltsame Welt winziger Teilchen.
+es-wi-0049; Relativitätstheorie; la teoría de la relatividad; la relatividad; C1; Wissenschaft/Physik; Einstein publicó su teoría de la relatividad en 1905.; Einstein veröffentlichte seine Relativitätstheorie im Jahr 1905.
+es-wi-0050; Spannung; la tensión; el voltaje; B2; Wissenschaft/Physik; La tensión de este cable es peligrosamente alta.; Die Spannung in diesem Kabel ist gefährlich hoch.
+es-wi-0051; Brechung; la refracción; ; C2; Wissenschaft/Physik; La refracción de la luz hace que la pajita parezca doblada.; Die Brechung des Lichts lässt den Strohhalm gebogen aussehen.
+es-wi-0052; Wechselwirkung; la interacción; ; C1; Wissenschaft/Physik; Los investigadores estudian la interacción entre la luz y la materia.; Forscher untersuchen die Wechselwirkung zwischen Licht und Materie.
+es-wi-0053; Wasser; el agua; ; A1; Wissenschaft/Chemie; El agua hierve a cien grados centígrados.; Wasser kocht bei hundert Grad Celsius.
+es-wi-0054; Luft; el aire; ; A1; Wissenschaft/Chemie; El aire de la montaña es limpio y fresco.; Die Luft in den Bergen ist sauber und frisch.
+es-wi-0055; Feuer; el fuego; ; A1; Wissenschaft/Chemie; El fuego necesita oxígeno para seguir ardiendo.; Feuer braucht Sauerstoff, um weiterzubrennen.
+es-wi-0056; Gold; el oro; ; A2; Wissenschaft/Chemie; El oro no se oxida y sigue brillando.; Gold rostet nicht und bleibt glänzend.
+es-wi-0057; Sauerstoff; el oxígeno; ; B1; Wissenschaft/Chemie; Nuestra sangre transporta oxígeno por todo el cuerpo.; Unser Blut transportiert Sauerstoff durch den ganzen Körper.
+es-wi-0058; Wasserstoff; el hidrógeno; ; B2; Wissenschaft/Chemie; El hidrógeno podría convertirse en un combustible importante del futuro.; Wasserstoff könnte ein wichtiger Kraftstoff der Zukunft werden.
+es-wi-0059; Kohlenstoff; el carbono; ; B2; Wissenschaft/Chemie; Los diamantes y el carbón están formados por carbono puro.; Diamanten und Kohle bestehen beide aus reinem Kohlenstoff.
+es-wi-0060; Säure; el ácido; ; B2; Wissenschaft/Chemie; El ácido disuelve lentamente la fina placa de metal.; Die Säure löst die dünne Metallplatte langsam auf.
+es-wi-0061; Salz; la sal; ; A2; Wissenschaft/Chemie; La sal se disuelve rápidamente en agua caliente.; Salz löst sich schnell in warmem Wasser.
+es-wi-0062; Gas; el gas; ; A2; Wissenschaft/Chemie; El globo está lleno de un gas ligero.; Der Ballon ist mit einem leichten Gas gefüllt.
+es-wi-0063; Flüssigkeit; el líquido; el fluido; B1; Wissenschaft/Chemie; Vierte el líquido con cuidado en el tubo de vidrio.; Gieß die Flüssigkeit vorsichtig in das Glasrohr.
+es-wi-0064; Stoff; la sustancia; el material; B1; Wissenschaft/Chemie; Esta sustancia es inofensiva para personas y animales.; Dieser Stoff ist für Menschen und Tiere harmlos.
+es-wi-0065; Aggregatzustand; el estado de agregación; el estado de la materia; C2; Wissenschaft/Chemie; El hielo, el agua y el vapor son tres estados de agregación.; Eis, Wasser und Dampf sind drei Aggregatzustände.
+es-wi-0066; Reaktion; la reacción; ; B1; Wissenschaft/Chemie; La reacción produce calor y una sustancia nueva.; Die Reaktion erzeugt Wärme und einen neuen Stoff.
+es-wi-0067; Element; el elemento; ; B1; Wissenschaft/Chemie; El oxígeno es el elemento más abundante de la corteza terrestre.; Sauerstoff ist das häufigste Element der Erdkruste.
+es-wi-0068; Molekül; la molécula; ; B2; Wissenschaft/Chemie; Una molécula de agua está formada por tres átomos.; Ein Wassermolekül besteht aus drei Atomen.
+es-wi-0069; Verbindung; el compuesto; el compuesto químico; B2; Wissenschaft/Chemie; La sal es un compuesto de sodio y cloro.; Salz ist eine Verbindung aus Natrium und Chlor.
+es-wi-0070; auflösen; disolver; disolverse; B2; Wissenschaft/Chemie; La pastilla se disuelve por completo en un vaso de agua.; Die Tablette löst sich vollständig in einem Glas Wasser auf.
+es-wi-0071; Katalysator; el catalizador; ; C1; Wissenschaft/Chemie; Un catalizador acelera la reacción sin consumirse.; Ein Katalysator beschleunigt die Reaktion, ohne verbraucht zu werden.
+es-wi-0072; Destillation; la destilación; ; C2; Wissenschaft/Chemie; La destilación separa el alcohol del agua calentando con cuidado.; Die Destillation trennt Alkohol durch vorsichtiges Erhitzen vom Wasser.
+es-wi-0073; Tier; el animal; ; A1; Wissenschaft/Biologie; El elefante es el animal terrestre más grande.; Der Elefant ist das größte Landtier.
+es-wi-0074; Pflanze; la planta; ; A1; Wissenschaft/Biologie; Esta planta necesita mucha luz y agua.; Diese Pflanze braucht viel Licht und Wasser.
+es-wi-0075; Natur; la naturaleza; ; A2; Wissenschaft/Biologie; Pasamos el fin de semana en plena naturaleza.; Wir verbringen das Wochenende draußen in der Natur.
+es-wi-0076; Zelle; la célula; ; B1; Wissenschaft/Biologie; Todo ser vivo está formado por células diminutas.; Jedes Lebewesen besteht aus winzigen Zellen.
+es-wi-0077; Gehirn; el cerebro; ; A2; Wissenschaft/Biologie; El cerebro humano nunca descansa de verdad.; Das menschliche Gehirn ruht nie wirklich.
+es-wi-0078; Herz; el corazón; ; A2; Wissenschaft/Biologie; Un corazón sano late unas setenta veces por minuto.; Ein gesundes Herz schlägt etwa siebzigmal pro Minute.
+es-wi-0079; Blut; la sangre; ; A2; Wissenschaft/Biologie; La sangre transporta oxígeno a todas las partes del cuerpo.; Das Blut transportiert Sauerstoff in jeden Teil des Körpers.
+es-wi-0080; Bakterie; la bacteria; el germen; B1; Wissenschaft/Biologie; Una sola bacteria puede multiplicarse muy deprisa.; Eine einzelne Bakterie kann sich sehr schnell vermehren.
+es-wi-0081; Virus; el virus; ; B1; Wissenschaft/Biologie; El virus se propaga sobre todo por el aire.; Das Virus verbreitet sich hauptsächlich über die Luft.
+es-wi-0082; Gen; el gen; ; B2; Wissenschaft/Biologie; Un solo gen puede influir en el color de los ojos.; Ein einzelnes Gen kann die Augenfarbe beeinflussen.
+es-wi-0083; Vererbung; la herencia genética; la herencia; B2; Wissenschaft/Biologie; La herencia genética explica por qué los hijos se parecen a sus padres.; Die Vererbung erklärt, warum Kinder ihren Eltern ähneln.
+es-wi-0084; Evolution; la evolución; ; B2; Wissenschaft/Biologie; La evolución actúa a lo largo de muchos millones de años.; Die Evolution wirkt über viele Millionen Jahre.
+es-wi-0085; Art; la especie; ; B1; Wissenschaft/Biologie; Esta especie rara solo vive en una isla.; Diese seltene Art lebt nur auf einer Insel.
+es-wi-0086; Lebensraum; el hábitat; ; B2; Wissenschaft/Biologie; Las ranas están perdiendo su hábitat natural.; Die Frösche verlieren ihren natürlichen Lebensraum.
+es-wi-0087; Ökosystem; el ecosistema; ; B2; Wissenschaft/Biologie; Un bosque es un ecosistema complejo con innumerables especies.; Ein Wald ist ein komplexes Ökosystem mit unzähligen Arten.
+es-wi-0088; Stoffwechsel; el metabolismo; ; C1; Wissenschaft/Biologie; El ejercicio regular acelera el metabolismo humano.; Regelmäßige Bewegung beschleunigt den menschlichen Stoffwechsel.
+es-wi-0089; Photosynthese; la fotosíntesis; ; B2; Wissenschaft/Biologie; Las plantas verdes producen oxígeno y azúcar mediante la fotosíntesis.; Grüne Pflanzen erzeugen durch Photosynthese Sauerstoff und Zucker.
+es-wi-0090; Fortpflanzung; la reproducción; ; B2; Wissenschaft/Biologie; La reproducción de estos peces depende de la temperatura del agua.; Die Fortpflanzung dieser Fische hängt von der Wassertemperatur ab.
+es-wi-0091; Einzeller; el organismo unicelular; el unicelular; C2; Wissenschaft/Biologie; Con el microscopio observamos un organismo unicelular.; Unter dem Mikroskop beobachteten wir einen Einzeller.
+es-wi-0092; Artenvielfalt; la biodiversidad; la diversidad de especies; C1; Wissenschaft/Biologie; La biodiversidad de la selva está seriamente amenazada.; Die Artenvielfalt des Regenwaldes ist ernsthaft bedroht.
+es-wi-0093; Erbgut; el material genético; el genoma; C1; Wissenschaft/Biologie; El virus introduce su material genético en la célula.; Das Virus schleust sein Erbgut in die Zelle ein.
+es-wi-0094; Zellkern; el núcleo celular; el núcleo; C1; Wissenschaft/Biologie; El núcleo celular contiene casi toda la información genética.; Der Zellkern enthält fast die gesamte Erbinformation.
+es-wi-0095; Zahl; el número; la cifra; A1; Wissenschaft/Mathematik; El siete es mi número favorito en todos los juegos.; Sieben ist in jedem Spiel meine Lieblingszahl.
+es-wi-0096; rechnen; calcular; hacer cuentas; A2; Wissenschaft/Mathematik; Hoy los alumnos calculan sin calculadora.; Die Schüler rechnen heute ohne Taschenrechner.
+es-wi-0097; zählen; contar; ; A2; Wissenschaft/Mathematik; El niño pequeño sabe contar hasta cien.; Der kleine Junge kann bis hundert zählen.
+es-wi-0098; Prozent; por ciento; el porcentaje, el tanto por ciento; A2; Wissenschaft/Mathematik; Alrededor del setenta por ciento de la Tierra está cubierto de agua.; Etwa siebzig Prozent der Erde sind von Wasser bedeckt.
+es-wi-0099; Hälfte; la mitad; ; A2; Wissenschaft/Mathematik; La mitad de los alumnos eligió la segunda respuesta.; Die Hälfte der Schüler wählte die zweite Antwort.
+es-wi-0100; Dreieck; el triángulo; ; A2; Wissenschaft/Mathematik; Un triángulo siempre tiene tres vértices y tres lados.; Ein Dreieck hat immer drei Ecken und drei Seiten.
+es-wi-0101; Kreis; el círculo; la circunferencia; A2; Wissenschaft/Mathematik; Dibuja un círculo con un radio de cinco centímetros.; Zeichne einen Kreis mit einem Radius von fünf Zentimetern.
+es-wi-0102; Quadrat; el cuadrado; ; B1; Wissenschaft/Mathematik; Un cuadrado tiene cuatro lados iguales.; Ein Quadrat hat vier gleich lange Seiten.
+es-wi-0103; Gleichung; la ecuación; ; B1; Wissenschaft/Mathematik; Resuelve la ecuación y comprueba tu resultado.; Löse die Gleichung und überprüfe dein Ergebnis.
+es-wi-0104; Bruch; la fracción; el quebrado; B1; Wissenschaft/Mathematik; Una fracción como un medio es fácil de imaginar.; Ein Bruch wie ein Halb ist leicht vorstellbar.
+es-wi-0105; Durchschnitt; la media; el promedio; B1; Wissenschaft/Mathematik; La media de las tres notas es un dos.; Der Durchschnitt der drei Noten ist zwei.
+es-wi-0106; Wahrscheinlichkeit; la probabilidad; ; B2; Wissenschaft/Mathematik; La probabilidad de lluvia mañana es muy baja.; Die Wahrscheinlichkeit für Regen morgen ist sehr gering.
+es-wi-0107; Integralrechnung; el cálculo integral; ; C2; Wissenschaft/Mathematik; Con el cálculo integral se calculan áreas bajo curvas.; Mit der Integralrechnung berechnet man Flächen unter Kurven.
+es-wi-0108; Fläche; el área; la superficie; B1; Wissenschaft/Mathematik; Calcula el área del rectángulo en metros cuadrados.; Berechne die Fläche des Rechtecks in Quadratmetern.
+es-wi-0109; Volumen; el volumen; ; B2; Wissenschaft/Mathematik; El volumen del cubo es de ocho centímetros cúbicos.; Das Volumen des Würfels beträgt acht Kubikzentimeter.
+es-wi-0110; Winkel; el ángulo; ; B1; Wissenschaft/Mathematik; Un ángulo recto tiene exactamente noventa grados.; Ein rechter Winkel hat genau neunzig Grad.
+es-wi-0111; Statistik; la estadística; las estadísticas; B2; Wissenschaft/Mathematik; La estadística muestra una clara tendencia a lo largo de diez años.; Die Statistik zeigt einen klaren Trend über zehn Jahre.
+es-wi-0112; unendlich; infinito; ; B2; Wissenschaft/Mathematik; La serie de los números primos es infinita.; Die Reihe der Primzahlen ist unendlich.
+es-wi-0113; Ableitung; la derivada; ; C2; Wissenschaft/Mathematik; La derivada describe lo rápido que cambia una función.; Die Ableitung beschreibt, wie schnell sich eine Funktion ändert.
+es-wi-0114; Primzahl; el número primo; ; C1; Wissenschaft/Mathematik; El diecisiete es un número primo y el trece también.; Siebzehn ist eine Primzahl und dreizehn auch.
+es-wi-0115; Arzt; el médico; la médica, el doctor, la doctora; A1; Wissenschaft/Medizin; El médico examina al paciente con mucho cuidado.; Der Arzt untersucht den Patienten sehr gründlich.
+es-wi-0116; Krankheit; la enfermedad; ; A2; Wissenschaft/Medizin; La enfermedad se propagó rápidamente por el colegio.; Die Krankheit verbreitete sich schnell in der Schule.
+es-wi-0117; Medikament; el medicamento; el fármaco, la medicina; A2; Wissenschaft/Medizin; Tómate el medicamento dos veces al día después de las comidas.; Nimm das Medikament zweimal täglich nach dem Essen.
+es-wi-0118; Impfung; la vacunación; la vacuna; B1; Wissenschaft/Medizin; La vacunación protege a los niños de enfermedades peligrosas.; Die Impfung schützt Kinder vor gefährlichen Krankheiten.
+es-wi-0119; Heilung; la curación; la cura; B2; Wissenschaft/Medizin; Los investigadores siguen buscando una curación para la enfermedad.; Forscher suchen noch nach einer Heilung für die Krankheit.
+es-wi-0120; heilen; curar; curarse, sanar, cicatrizar; B1; Wissenschaft/Medizin; Esta pequeña herida se curará en dos semanas.; Diese kleine Wunde heilt innerhalb von zwei Wochen.
+es-wi-0121; Diagnose; el diagnóstico; ; B1; Wissenschaft/Medizin; El médico hizo el diagnóstico correcto muy rápido.; Der Arzt stellte die richtige Diagnose sehr schnell.
+es-wi-0122; Behandlung; el tratamiento; la terapia; B1; Wissenschaft/Medizin; El nuevo tratamiento muestra muy buenos resultados.; Die neue Behandlung zeigt sehr gute Ergebnisse.
+es-wi-0123; Symptom; el síntoma; ; B1; Wissenschaft/Medizin; La fiebre suele ser el primer síntoma de una infección.; Fieber ist oft das erste Symptom einer Infektion.
+es-wi-0124; Nebenwirkung; el efecto secundario; ; B2; Wissenschaft/Medizin; El dolor de cabeza es un efecto secundario poco frecuente de este medicamento.; Kopfschmerzen sind eine seltene Nebenwirkung dieses Medikaments.
+es-wi-0125; klinische Studie; el ensayo clínico; el estudio clínico; C1; Wissenschaft/Medizin; El nuevo medicamento se está probando en un ensayo clínico.; Das neue Medikament wird in einer klinischen Studie getestet.
+es-wi-0126; Wirkstoff; el principio activo; la sustancia activa; C1; Wissenschaft/Medizin; El principio activo se descubrió en una planta tropical.; Der Wirkstoff wurde in einer tropischen Pflanze entdeckt.
+es-wi-0127; Immunsystem; el sistema inmunitario; el sistema inmune; B2; Wissenschaft/Medizin; Un sistema inmunitario fuerte combate la mayoría de las infecciones.; Ein starkes Immunsystem wehrt die meisten Infektionen ab.
+es-wi-0128; Ansteckung; el contagio; la infección; B2; Wissenschaft/Medizin; Lávate las manos con frecuencia para evitar el contagio.; Wasch dir regelmäßig die Hände, um eine Ansteckung zu vermeiden.
+es-wi-0129; Narkose; la anestesia; la anestesia general; C1; Wissenschaft/Medizin; El paciente se despertó lentamente de la anestesia.; Der Patient wachte langsam aus der Narkose auf.
+es-wi-0130; Placebo; el placebo; ; C1; Wissenschaft/Medizin; La mitad de los participantes solo recibió un placebo.; Die Hälfte der Teilnehmer erhielt nur ein Placebo.
+es-wi-0131; Sonne; el sol; ; A1; Wissenschaft/Raumfahrt; El sol sale por el este todas las mañanas.; Die Sonne geht jeden Morgen im Osten auf.
+es-wi-0132; Mond; la luna; ; A1; Wissenschaft/Raumfahrt; Esta noche la luna parece especialmente grande.; Der Mond sieht heute Nacht besonders groß aus.
+es-wi-0133; Stern; la estrella; ; A1; Wissenschaft/Raumfahrt; En el desierto se ve claramente cada estrella.; In der Wüste sieht man jeden Stern deutlich.
+es-wi-0134; Erde; la Tierra; la tierra; A1; Wissenschaft/Raumfahrt; La Tierra da una vuelta alrededor del sol cada año.; Die Erde umkreist die Sonne einmal im Jahr.
+es-wi-0135; Himmel; el cielo; ; A2; Wissenschaft/Raumfahrt; El cielo nocturno sobre las montañas estaba lleno de estrellas.; Der Nachthimmel über den Bergen war voller Sterne.
+es-wi-0136; Rakete; el cohete; ; A2; Wissenschaft/Raumfahrt; El cohete despegó temprano por la mañana.; Die Rakete startete früh am Morgen.
+es-wi-0137; Planet; el planeta; ; A2; Wissenschaft/Raumfahrt; Marte es el cuarto planeta desde el sol.; Der Mars ist der vierte Planet von der Sonne aus.
+es-wi-0138; Weltraum; el espacio; el espacio exterior; B1; Wissenschaft/Raumfahrt; En el espacio no hay aire para respirar.; Im Weltraum gibt es keine Luft zum Atmen.
+es-wi-0139; Astronaut; el astronauta; la astronauta; A2; Wissenschaft/Raumfahrt; El astronauta se entrenó durante años para la misión.; Der Astronaut trainierte jahrelang für die Mission.
+es-wi-0140; Raumschiff; la nave espacial; la nave; B1; Wissenschaft/Raumfahrt; La nave espacial se acopló a la estación al cabo de dos días.; Das Raumschiff dockte nach zwei Tagen an der Station an.
+es-wi-0141; Satellit; el satélite; ; B1; Wissenschaft/Raumfahrt; El satélite envía datos meteorológicos a la Tierra cada hora.; Der Satellit sendet stündlich Wetterdaten zur Erde.
+es-wi-0142; Umlaufbahn; la órbita; ; B2; Wissenschaft/Raumfahrt; La sonda entró en la órbita de Júpiter.; Die Sonde trat in die Umlaufbahn des Jupiters ein.
+es-wi-0143; Schwerelosigkeit; la ingravidez; ; C1; Wissenschaft/Raumfahrt; En ingravidez incluso las tareas sencillas se vuelven difíciles.; In der Schwerelosigkeit werden selbst einfache Aufgaben schwierig.
+es-wi-0144; Sternwarte; el observatorio; el observatorio astronómico; C1; Wissenschaft/Raumfahrt; El viejo observatorio está en una colina a las afueras de la ciudad.; Die alte Sternwarte steht auf einem Hügel vor der Stadt.
+es-wi-0145; Teleskop; el telescopio; ; B1; Wissenschaft/Raumfahrt; Con el telescopio vimos los anillos de Saturno.; Durch das Teleskop sahen wir die Ringe des Saturns.
+es-wi-0146; Galaxie; la galaxia; ; B2; Wissenschaft/Raumfahrt; Nuestra galaxia contiene muchos miles de millones de estrellas.; Unsere Galaxie enthält viele Milliarden Sterne.
+es-wi-0147; Sonnensystem; el sistema solar; ; B2; Wissenschaft/Raumfahrt; En nuestro sistema solar ocho planetas giran alrededor del sol.; Acht Planeten umkreisen die Sonne in unserem Sonnensystem.
+es-wi-0148; Schubkraft; el empuje; la fuerza de empuje; C2; Wissenschaft/Raumfahrt; Los motores proporcionan suficiente empuje para el pesado despegue.; Die Triebwerke liefern genug Schubkraft für den schweren Start.
+es-wi-0149; Raumstation; la estación espacial; ; B2; Wissenschaft/Raumfahrt; La tripulación vivió seis meses en la estación espacial.; Die Besatzung lebte sechs Monate auf der Raumstation.
+es-wi-0150; Lichtjahr; el año luz; los años luz; B2; Wissenschaft/Raumfahrt; La estrella más cercana está a más de cuatro años luz.; Der nächste Stern ist über vier Lichtjahre entfernt.

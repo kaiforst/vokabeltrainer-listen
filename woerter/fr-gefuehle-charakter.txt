@@ -1,0 +1,152 @@
+# Französisch: Gefühle & Charakter
+id; Deutsch; Französisch; Weitere Antworten; Niveau; Themen; Beispiel Französisch; Beispiel Deutsch
+fr-gc-0001; glücklich; heureux; ; A1; Mensch/Gefühle/Emotionen; Je suis très heureux de ta visite.; Ich bin sehr glücklich über deinen Besuch.
+fr-gc-0002; traurig; triste; ; A1; Mensch/Gefühle/Emotionen; Elle était triste quand son amie est partie.; Sie war traurig, als ihre Freundin ging.
+fr-gc-0003; müde; fatigué; ; A1; Mensch/Gefühle/Stimmungen; Après le travail, je suis toujours très fatigué.; Nach der Arbeit bin ich immer sehr müde.
+fr-gc-0004; froh; content; heureux, ravi; A1; Mensch/Gefühle/Emotionen; Je suis content que tu sois là.; Ich bin froh, dass du hier bist.
+fr-gc-0005; Angst; la peur; ; A1; Mensch/Gefühle/Emotionen; L'enfant a peur des gros chiens.; Das Kind hat Angst vor großen Hunden.
+fr-gc-0006; Liebe; l'amour; ; A1; Mensch/Gefühle/Emotionen; L'amour est la chose la plus importante dans la vie.; Liebe ist das Wichtigste im Leben.
+fr-gc-0007; lieben; aimer; ; A1; Mensch/Gefühle/Emotionen; J'aime ma famille plus que tout.; Ich liebe meine Familie über alles.
+fr-gc-0008; lachen; rire; ; A1; Mensch/Gefühle/Emotionen; Nous rions beaucoup quand nous sommes ensemble.; Wir lachen viel, wenn wir zusammen sind.
+fr-gc-0009; weinen; pleurer; ; A1; Mensch/Gefühle/Emotionen; Le bébé pleure quand il a faim.; Das Baby weint, wenn es Hunger hat.
+fr-gc-0010; lächeln; sourire; ; A1; Mensch/Gefühle/Emotionen; Elle sourit chaque fois qu'elle le voit.; Sie lächelt jedes Mal, wenn sie ihn sieht.
+fr-gc-0011; nett; sympathique; sympa, gentil; A1; Mensch/Gefühle/Charakter; Notre nouveau voisin est vraiment sympathique.; Unser neuer Nachbar ist wirklich nett.
+fr-gc-0012; freundlich; aimable; sympathique, gentil; A1; Mensch/Gefühle/Charakter; Le personnel de ce magasin est très aimable.; Das Personal in diesem Laden ist sehr freundlich.
+fr-gc-0013; wütend; en colère; furieux, fâché; A1; Mensch/Gefühle/Emotionen; Il se met en colère quand le bus est en retard.; Er wird wütend, wenn der Bus zu spät kommt.
+fr-gc-0014; Spaß; le plaisir; l'amusement; A1; Mensch/Gefühle/Stimmungen; Aujourd'hui, les enfants ont pris beaucoup de plaisir.; Die Kinder hatten heute viel Spaß.
+fr-gc-0015; mögen; aimer bien; apprécier, aimer; A1; Mensch/Gefühle/Emotionen; J'aime bien les gens qui savent écouter.; Ich mag Menschen, die gut zuhören können.
+fr-gc-0016; Glück; le bonheur; la chance; A1; Mensch/Gefühle/Emotionen; L'argent seul ne fait pas le bonheur.; Geld allein bringt kein Glück.
+fr-gc-0017; allein; seul; ; A1; Mensch/Gefühle/Stimmungen; Parfois, j'aime être seul à la maison.; Manchmal bin ich gern allein zu Hause.
+fr-gc-0018; langweilig; ennuyeux; ; A1; Mensch/Gefühle/Stimmungen; Le film était long et très ennuyeux.; Der Film war lang und sehr langweilig.
+fr-gc-0019; lustig; drôle; amusant, rigolo; A1; Mensch/Gefühle/Charakter; Mon oncle est drôle et raconte des blagues géniales.; Mein Onkel ist lustig und erzählt tolle Witze.
+fr-gc-0020; ruhig; calme; tranquille; A1; Mensch/Gefühle/Stimmungen; Reste calme, s'il te plaît, tout va bien.; Bitte bleib ruhig, alles ist in Ordnung.
+fr-gc-0021; Gefühl; le sentiment; l'émotion, l'impression; A1; Mensch/Gefühle/Emotionen; J'ai un bon sentiment à propos de ce projet.; Ich habe ein gutes Gefühl bei diesem Plan.
+fr-gc-0022; fühlen; se sentir; ressentir, sentir; A1; Mensch/Gefühle/Emotionen; Comment te sens-tu aujourd'hui après ces nouvelles ?; Wie fühlst du dich heute nach den Neuigkeiten?
+fr-gc-0023; Herz; le cœur; ; A1; Mensch/Gefühle/Emotionen, Gesundheit/Körper; Son cœur bat plus vite quand elle est nerveuse.; Ihr Herz schlägt schneller, wenn sie nervös ist.
+fr-gc-0024; stark; fort; ; A1; Mensch/Gefühle/Charakter; Dans les moments difficiles, il faut être fort.; In schweren Zeiten muss man stark sein.
+fr-gc-0025; schwach; faible; ; A1; Mensch/Gefühle/Charakter; Après sa longue maladie, il se sentait faible.; Nach der langen Krankheit fühlte er sich schwach.
+fr-gc-0026; Freude; la joie; ; A2; Mensch/Gefühle/Emotionen; Le cadeau lui a fait une grande joie.; Das Geschenk bereitete ihr große Freude.
+fr-gc-0027; hoffen; espérer; ; A2; Mensch/Gefühle/Emotionen; Nous espérons avoir beau temps ce week-end.; Wir hoffen auf gutes Wetter am Wochenende.
+fr-gc-0028; Hoffnung; l'espoir; l'espérance; A2; Mensch/Gefühle/Emotionen; Il y a encore l'espoir d'une fin heureuse.; Es gibt noch Hoffnung auf ein gutes Ende.
+fr-gc-0029; Sorge; le souci; l'inquiétude; A2; Mensch/Gefühle/Emotionen; Son plus grand souci, c'est de perdre son travail.; Ihre größte Sorge ist, die Arbeit zu verlieren.
+fr-gc-0030; sich freuen; se réjouir; être content; A2; Mensch/Gefühle/Emotionen; Je me réjouis de chaque petit succès.; Ich freue mich über jeden kleinen Erfolg.
+fr-gc-0031; nervös; nerveux; ; A2; Mensch/Gefühle/Stimmungen; Il est toujours nerveux avant un examen.; Vor einer Prüfung ist er immer nervös.
+fr-gc-0032; sauer; fâché; vexé, en colère; A2; Mensch/Gefühle/Emotionen; Elle est fâchée parce qu'il a oublié son anniversaire.; Sie ist sauer, weil er ihren Geburtstag vergessen hat.
+fr-gc-0033; zufrieden; satisfait; content; A2; Mensch/Gefühle/Stimmungen; Je suis satisfait du résultat du test.; Ich bin mit dem Ergebnis des Tests zufrieden.
+fr-gc-0034; überrascht; surpris; ; A2; Mensch/Gefühle/Emotionen; Nous avons été surpris par cette invitation soudaine.; Wir waren von der plötzlichen Einladung überrascht.
+fr-gc-0035; Überraschung; la surprise; ; A2; Mensch/Gefühle/Emotionen; La fête a été une surprise totale pour elle.; Die Party war eine völlige Überraschung für sie.
+fr-gc-0036; Stress; le stress; ; A2; Mensch/Gefühle/Stimmungen; Trop de stress est mauvais pour la santé.; Zu viel Stress ist schlecht für die Gesundheit.
+fr-gc-0037; gestresst; stressé; ; A2; Mensch/Gefühle/Stimmungen; Elle se sent stressée avant chaque échéance importante.; Vor jedem wichtigen Termin fühlt sie sich gestresst.
+fr-gc-0038; Laune; l'humeur; ; A2; Mensch/Gefühle/Stimmungen; Le matin, son humeur change vite.; Seine Laune wechselt morgens schnell.
+fr-gc-0039; gelangweilt; qui s'ennuie; ennuyé, s'ennuyer; A2; Mensch/Gefühle/Stimmungen; Pendant le long exposé, les élèves avaient l'air de s'ennuyer.; Die Schüler wirkten während des langen Vortrags gelangweilt.
+fr-gc-0040; Langeweile; l'ennui; ; A2; Mensch/Gefühle/Stimmungen; Par ennui, il s'est mis à peindre les murs.; Aus Langeweile fing er an, Wände zu streichen.
+fr-gc-0041; einsam; isolé; seul, solitaire; A2; Mensch/Gefühle/Stimmungen; Dans la nouvelle ville, elle s'est d'abord sentie isolée.; In der neuen Stadt fühlte sie sich zuerst einsam.
+fr-gc-0042; Träne; la larme; ; A2; Mensch/Gefühle/Emotionen, Gesundheit/Körper; Une seule larme a coulé sur sa joue.; Eine einzelne Träne lief über seine Wange.
+fr-gc-0043; mutig; courageux; ; A2; Mensch/Gefühle/Charakter; C'était courageux de ta part de dire la vérité.; Es war mutig von dir, die Wahrheit zu sagen.
+fr-gc-0044; Mut; le courage; ; A2; Mensch/Gefühle/Charakter; Il faut du courage pour commencer quelque chose de nouveau.; Es braucht Mut, etwas Neues anzufangen.
+fr-gc-0045; schüchtern; timide; ; A2; Mensch/Gefühle/Charakter; Le garçon timide parle rarement en classe.; Der schüchterne Junge spricht selten im Unterricht.
+fr-gc-0046; höflich; poli; courtois; A2; Mensch/Gefühle/Verhalten; C'est poli de dire merci.; Es ist höflich, sich zu bedanken.
+fr-gc-0047; unhöflich; impoli; malpoli, grossier; A2; Mensch/Gefühle/Verhalten; C'est impoli d'interrompre les autres.; Es ist unhöflich, andere Menschen zu unterbrechen.
+fr-gc-0048; ehrlich; honnête; franc, sincère; A2; Mensch/Gefühle/Charakter; Sois honnête avec moi, même si ça fait mal.; Sei ehrlich zu mir, auch wenn es wehtut.
+fr-gc-0049; lügen; mentir; ; A2; Mensch/Gefühle/Verhalten; Tu ne devrais jamais mentir à tes amis.; Du solltest deine Freunde niemals anlügen.
+fr-gc-0050; klug; intelligent; malin; A2; Mensch/Gefühle/Charakter; Elle est intelligente et apprend vite les langues.; Sie ist klug und lernt Sprachen schnell.
+fr-gc-0051; dumm; bête; stupide; A2; Mensch/Gefühle/Charakter; C'était bête de partir sans veste.; Es war dumm, ohne Jacke loszugehen.
+fr-gc-0052; faul; paresseux; ; A2; Mensch/Gefühle/Charakter; Le dimanche, nous sommes tous un peu paresseux.; Sonntags sind wir alle ein bisschen faul.
+fr-gc-0053; fleißig; travailleur; studieux, assidu; A2; Mensch/Gefühle/Charakter; L'étudiant travailleur a terminé le projet en avance.; Der fleißige Student beendete das Projekt früh.
+fr-gc-0054; geduldig; patient; ; A2; Mensch/Gefühle/Charakter; Un bon professeur est patient avec les débutants.; Ein guter Lehrer ist geduldig mit Anfängern.
+fr-gc-0055; ungeduldig; impatient; ; A2; Mensch/Gefühle/Charakter; Il devient impatient quand il doit attendre.; Er wird ungeduldig, wenn er warten muss.
+fr-gc-0056; Humor; l'humour; ; A2; Mensch/Gefühle/Charakter; Son humour pince-sans-rire fait rire tout le monde.; Ihr trockener Humor bringt alle zum Lachen.
+fr-gc-0057; Charakter; le caractère; la personnalité; A2; Mensch/Gefühle/Charakter; Le caractère d'une personne se révèle dans les moments difficiles.; Der Charakter eines Menschen zeigt sich in schwierigen Momenten.
+fr-gc-0058; Verhalten; le comportement; la conduite; A2; Mensch/Gefühle/Verhalten; Son comportement pendant la réunion a surpris tout le monde.; Sein Verhalten in der Besprechung überraschte alle.
+fr-gc-0059; streiten; se disputer; se quereller; A2; Mensch/Gefühle/Verhalten, Mensch/Gefühle/Beziehungen; Les frères se disputent tous les jours pour des broutilles.; Die Brüder streiten täglich über Kleinigkeiten.
+fr-gc-0060; lieb; gentil; adorable, mignon; A2; Mensch/Gefühle/Charakter; C'était très gentil de sa part de m'aider.; Es war sehr lieb von ihr zu helfen.
+fr-gc-0061; enttäuscht; déçu; ; B1; Mensch/Gefühle/Emotionen; Il a été déçu par les résultats du test.; Er war von den Testergebnissen enttäuscht.
+fr-gc-0062; Enttäuschung; la déception; ; B1; Mensch/Gefühle/Emotionen; L'annulation du concert a été une grosse déception.; Das abgesagte Konzert war eine große Enttäuschung.
+fr-gc-0063; eifersüchtig; jaloux; ; B1; Mensch/Gefühle/Beziehungen; Il devient jaloux quand elle parle à d'autres.; Er wird eifersüchtig, wenn sie mit anderen redet.
+fr-gc-0064; Eifersucht; la jalousie; ; B1; Mensch/Gefühle/Beziehungen; La jalousie peut détruire même des relations solides.; Eifersucht kann selbst starke Beziehungen zerstören.
+fr-gc-0065; neidisch; envieux; jaloux; B1; Mensch/Gefühle/Emotionen; Elle est envieuse du succès de sa collègue.; Sie ist neidisch auf den Erfolg ihrer Kollegin.
+fr-gc-0066; Neid; l'envie; la jalousie; B1; Mensch/Gefühle/Emotionen; Sa nouvelle voiture a suscité l'envie des voisins.; Sein neues Auto sorgte für Neid unter den Nachbarn.
+fr-gc-0067; stolz; fier; ; B1; Mensch/Gefühle/Emotionen; Les parents sont fiers de leur fille.; Die Eltern sind stolz auf ihre Tochter.
+fr-gc-0068; dankbar; reconnaissant; ; B1; Mensch/Gefühle/Emotionen; Je te suis reconnaissant pour tout ton soutien.; Ich bin dankbar für all deine Unterstützung.
+fr-gc-0069; sich schämen; avoir honte; ; B1; Mensch/Gefühle/Emotionen; Il a honte de sa remarque impolie.; Er schämt sich für seine unhöfliche Bemerkung.
+fr-gc-0070; Scham; la honte; la gêne; B1; Mensch/Gefühle/Emotionen; À ce souvenir, elle a rougi de honte.; Sie errötete vor Scham bei der Erinnerung.
+fr-gc-0071; Schuld; la culpabilité; la faute; B1; Mensch/Gefühle/Emotionen; Il ressentait une profonde culpabilité à cause de l'accident.; Er fühlte tiefe Schuld wegen des Unfalls.
+fr-gc-0072; schuldig; coupable; ; B1; Mensch/Gefühle/Emotionen; Elle se sentait coupable d'avoir oublié le rendez-vous.; Sie fühlte sich schuldig, weil sie den Termin vergessen hatte.
+fr-gc-0073; erleichtert; soulagé; ; B1; Mensch/Gefühle/Emotionen; Nous avons été soulagés quand la tempête est passée.; Wir waren erleichtert, als der Sturm vorüber war.
+fr-gc-0074; Erleichterung; le soulagement; ; B1; Mensch/Gefühle/Emotionen; Après l'examen, elle a poussé un soupir de soulagement.; Nach der Prüfung seufzte sie vor Erleichterung.
+fr-gc-0075; besorgt; inquiet; soucieux; B1; Mensch/Gefühle/Emotionen; Ses parents sont inquiets à cause de ses notes.; Seine Eltern sind besorgt wegen seiner Noten.
+fr-gc-0076; aufgeregt; excité; impatient, fébrile; B1; Mensch/Gefühle/Stimmungen; Les enfants sont tout excités à cause de la sortie scolaire.; Die Kinder sind wegen des Schulausflugs aufgeregt.
+fr-gc-0077; Aufregung; l'agitation; l'excitation, l'énervement; B1; Mensch/Gefühle/Stimmungen; Dans toute cette agitation, elle a oublié ses clés.; In der ganzen Aufregung vergaß sie ihre Schlüssel.
+fr-gc-0078; verliebt; amoureux; ; B1; Mensch/Gefühle/Beziehungen; Ces deux-là sont amoureux l'un de l'autre depuis des années.; Die beiden sind seit Jahren ineinander verliebt.
+fr-gc-0079; vertrauen; faire confiance; avoir confiance; B1; Mensch/Gefühle/Beziehungen; Tu peux lui faire confiance, même pour tes secrets.; Du kannst ihr jedes Geheimnis anvertrauen.
+fr-gc-0080; Dankbarkeit; la gratitude; la reconnaissance; B1; Mensch/Gefühle/Emotionen; Elle a exprimé sa gratitude dans une longue lettre.; Sie drückte ihre Dankbarkeit mit einem langen Brief aus.
+fr-gc-0081; Mitleid; la pitié; ; B1; Mensch/Gefühle/Emotionen; Il a eu pitié du chat errant qui avait froid.; Er hatte Mitleid mit der frierenden Streunerkatze.
+fr-gc-0082; Mitgefühl; la compassion; ; B1; Mensch/Gefühle/Emotionen; La vraie compassion, c'est écouter sans juger les autres.; Wahres Mitgefühl bedeutet zuzuhören, ohne andere zu verurteilen.
+fr-gc-0083; zuverlässig; fiable; sérieux; B1; Mensch/Gefühle/Charakter; Un ami fiable tient ses promesses.; Ein zuverlässiger Freund hält seine Versprechen.
+fr-gc-0084; selbstbewusst; sûr de soi; confiant; B1; Mensch/Gefühle/Charakter; Pendant l'entretien d'embauche, elle a donné une réponse très sûre d'elle.; Sie gab im Vorstellungsgespräch eine selbstbewusste Antwort.
+fr-gc-0085; bescheiden; modeste; ; B1; Mensch/Gefühle/Charakter; Malgré son succès, il est resté modeste et aimable.; Trotz seines Erfolgs blieb er bescheiden und freundlich.
+fr-gc-0086; großzügig; généreux; ; B1; Mensch/Gefühle/Charakter; Notre généreuse tante nous apporte toujours des cadeaux.; Unsere großzügige Tante bringt uns immer Geschenke mit.
+fr-gc-0087; geizig; avare; radin; B1; Mensch/Gefühle/Charakter; Il est trop avare pour payer une tournée.; Er ist zu geizig, um eine Runde auszugeben.
+fr-gc-0088; egoistisch; égoïste; ; B1; Mensch/Gefühle/Charakter; C'est égoïste de ne penser qu'à soi.; Es ist egoistisch, nur an sich selbst zu denken.
+fr-gc-0089; hilfsbereit; serviable; ; B1; Mensch/Gefühle/Verhalten; Le voisin serviable a monté mes sacs lourds.; Der hilfsbereite Nachbar trug meine schweren Taschen nach oben.
+fr-gc-0090; neugierig; curieux; ; B1; Mensch/Gefühle/Charakter; Les enfants sont naturellement curieux de découvrir le monde.; Kinder sind von Natur aus neugierig auf die Welt.
+fr-gc-0091; Neugier; la curiosité; ; B1; Mensch/Gefühle/Charakter; Sa curiosité l'a poussée à étudier à l'étranger.; Ihre Neugier führte sie zum Studium ins Ausland.
+fr-gc-0092; sensibel; sensible; ; B1; Mensch/Gefühle/Charakter; Il est sensible et prend les critiques très personnellement.; Er ist sensibel und nimmt Kritik sehr persönlich.
+fr-gc-0093; vernünftig; raisonnable; sensé; B1; Mensch/Gefühle/Charakter; Sois raisonnable et fais une pause maintenant.; Sei vernünftig und mach jetzt eine Pause.
+fr-gc-0094; stur; têtu; obstiné; B1; Mensch/Gefühle/Charakter; Il est trop têtu pour admettre son erreur.; Er ist zu stur, um seinen Fehler zuzugeben.
+fr-gc-0095; zärtlich; tendre; affectueux; B1; Mensch/Gefühle/Beziehungen; Elle a donné un tendre baiser au bébé.; Sie gab dem Baby einen zärtlichen Kuss.
+fr-gc-0096; Sehnsucht; la nostalgie; le désir, le manque; B2; Mensch/Gefühle/Emotionen; Il ressentait une profonde nostalgie de son pays natal.; Er spürte eine tiefe Sehnsucht nach seiner Heimat.
+fr-gc-0097; sich sehnen; aspirer à; languir, avoir envie de; B2; Mensch/Gefühle/Emotionen; Après le long hiver, elle aspirait au soleil.; Nach dem langen Winter sehnte sie sich nach Sonne.
+fr-gc-0098; Verzweiflung; le désespoir; ; B2; Mensch/Gefühle/Emotionen; Dans son désespoir, il a appelé son ancien professeur.; In seiner Verzweiflung rief er seinen alten Lehrer an.
+fr-gc-0099; verzweifelt; désespéré; ; B2; Mensch/Gefühle/Emotionen; Elle a fait une tentative désespérée pour sauver le projet.; Sie unternahm einen verzweifelten Versuch, das Projekt zu retten.
+fr-gc-0100; gelassen; serein; calme, détendu; B2; Mensch/Gefühle/Stimmungen; Il est resté serein malgré les critiques sévères.; Er blieb trotz der harten Kritik gelassen.
+fr-gc-0101; Zuneigung; l'affection; la tendresse; B2; Mensch/Gefühle/Beziehungen; Elle montre son affection par de petits gestes.; Sie zeigt ihre Zuneigung durch kleine Gesten.
+fr-gc-0102; Abneigung; l'aversion; l'antipathie; B2; Mensch/Gefühle/Emotionen; Il n'a jamais caché son aversion pour les fêtes bruyantes.; Er verbarg seine Abneigung gegen laute Partys nie.
+fr-gc-0103; verachten; mépriser; ; B2; Mensch/Gefühle/Emotionen; Elle méprise les gens qui mentent sans honte.; Sie verachtet Menschen, die ohne Scham lügen.
+fr-gc-0104; Verachtung; le mépris; ; B2; Mensch/Gefühle/Emotionen; Sa voix était pleine d'un mépris glacial.; Seine Stimme war voller kalter Verachtung.
+fr-gc-0105; bewundern; admirer; ; B2; Mensch/Gefühle/Emotionen; J'admire sa patience avec les clients difficiles.; Ich bewundere ihre Geduld mit schwierigen Kunden.
+fr-gc-0106; Bewunderung; l'admiration; ; B2; Mensch/Gefühle/Emotionen; Les élèves regardaient leur entraîneur avec admiration.; Die Schüler sahen ihren Trainer mit Bewunderung an.
+fr-gc-0107; Begeisterung; l'enthousiasme; ; B2; Mensch/Gefühle/Emotionen; Son enthousiasme pour l'idée a convaincu l'équipe.; Ihre Begeisterung für die Idee überzeugte das Team.
+fr-gc-0108; begeistert; enthousiaste; ravi; B2; Mensch/Gefühle/Emotionen; Le public était enthousiaste après la nouvelle pièce.; Das Publikum war von dem neuen Stück begeistert.
+fr-gc-0109; Zorn; la colère; la fureur, la rage; B2; Mensch/Gefühle/Emotionen; Sa colère est retombée aussi vite qu'elle était venue.; Sein Zorn verflog so schnell, wie er gekommen war.
+fr-gc-0110; Furcht; la crainte; l'effroi; B2; Mensch/Gefühle/Emotionen; Une crainte sourde de l'échec l'empêchait de dormir.; Eine stille Furcht vor dem Scheitern hielt ihn wach.
+fr-gc-0111; einfühlsam; empathique; compréhensif; B2; Mensch/Gefühle/Charakter; L'infirmière empathique a rassuré le patient effrayé.; Die einfühlsame Pflegerin beruhigte den verängstigten Patienten.
+fr-gc-0112; Einfühlungsvermögen; l'empathie; ; B2; Mensch/Gefühle/Charakter; Les bons dirigeants ont besoin d'empathie envers leurs équipes.; Gute Führungskräfte brauchen Einfühlungsvermögen für ihre Teams.
+fr-gc-0113; reizbar; irritable; susceptible; B2; Mensch/Gefühle/Stimmungen; Sans assez de sommeil, il devient très irritable.; Ohne genug Schlaf wird er sehr reizbar.
+fr-gc-0114; launisch; lunatique; capricieux, d'humeur changeante; B2; Mensch/Gefühle/Stimmungen; Le temps d'avril est aussi lunatique qu'un adolescent.; Das Aprilwetter ist so launisch wie ein Teenager.
+fr-gc-0115; ausgelassen; exubérant; déchaîné, joyeux; B2; Mensch/Gefühle/Stimmungen; La foule exubérante a dansé jusqu'au petit matin.; Die ausgelassene Menge tanzte bis in den frühen Morgen.
+fr-gc-0116; niedergeschlagen; abattu; découragé, déprimé; B2; Mensch/Gefühle/Stimmungen; Après la défaite, l'équipe semblait abattue.; Nach der Niederlage wirkte die Mannschaft niedergeschlagen.
+fr-gc-0117; Gemüt; le naturel; la nature, le caractère; B2; Mensch/Gefühle/Charakter; Elle est d'un naturel joyeux et doux.; Sie hat ein fröhliches und sanftes Gemüt.
+fr-gc-0118; Temperament; le tempérament; ; B2; Mensch/Gefühle/Charakter; Son tempérament fougueux lui attire souvent des ennuis.; Sein feuriges Temperament bringt ihn oft in Schwierigkeiten.
+fr-gc-0119; ehrgeizig; ambitieux; ; B2; Mensch/Gefühle/Charakter; L'apprentie ambitieuse veut diriger l'agence un jour.; Die ehrgeizige Auszubildende will eines Tages die Filiale leiten.
+fr-gc-0120; Ehrgeiz; l'ambition; ; B2; Mensch/Gefühle/Charakter; Son ambition le poussait à s'entraîner tous les jours.; Sein Ehrgeiz trieb ihn an, jeden Tag zu trainieren.
+fr-gc-0121; eitel; vaniteux; coquet; B2; Mensch/Gefühle/Charakter; Il est trop vaniteux pour porter ses lunettes.; Er ist zu eitel, um seine Brille zu tragen.
+fr-gc-0122; arrogant; arrogant; prétentieux; B2; Mensch/Gefühle/Charakter; Le directeur arrogant n'écoutait jamais les conseils.; Der arrogante Manager hörte nie auf Ratschläge.
+fr-gc-0123; rücksichtsvoll; attentionné; prévenant, respectueux; B2; Mensch/Gefühle/Verhalten; Un conducteur attentionné ralentit près des écoles.; Ein rücksichtsvoller Fahrer fährt in der Nähe von Schulen langsamer.
+fr-gc-0124; rücksichtslos; irrespectueux; sans-gêne, inconsidéré; B2; Mensch/Gefühle/Verhalten; C'est irrespectueux de mettre de la musique forte la nuit.; Es ist rücksichtslos, nachts laute Musik zu spielen.
+fr-gc-0125; nachtragend; rancunier; ; B2; Mensch/Gefühle/Charakter; Elle n'est pas rancunière et pardonne vite.; Sie ist nicht nachtragend und verzeiht schnell.
+fr-gc-0126; Wehmut; la mélancolie; la nostalgie; C1; Mensch/Gefühle/Stimmungen; Il repensait avec mélancolie à ses années d'école.; Mit Wehmut dachte er an seine Schulzeit zurück.
+fr-gc-0127; Schadenfreude; la joie maligne; le plaisir malsain; C1; Mensch/Gefühle/Emotionen; Il n'arrivait pas à cacher sa joie maligne devant son erreur.; Er konnte seine Schadenfreude über ihren Fehler nicht verbergen.
+fr-gc-0128; Gelassenheit; la sérénité; le calme, le sang-froid; C1; Mensch/Gefühle/Stimmungen; Elle a affronté le chaos avec une sérénité remarquable.; Sie begegnete dem Chaos mit bemerkenswerter Gelassenheit.
+fr-gc-0129; Demut; l'humilité; ; C1; Mensch/Gefühle/Charakter; La vraie grandeur va souvent de pair avec une humilité discrète.; Wahre Größe geht oft mit stiller Demut einher.
+fr-gc-0130; demütig; humble; ; C1; Mensch/Gefühle/Charakter; Il a reçu la distinction avec des mots humbles.; Er nahm die Auszeichnung mit demütigen Worten entgegen.
+fr-gc-0131; überheblich; hautain; condescendant, arrogant; C1; Mensch/Gefühle/Charakter; Son ton hautain a agacé tout le comité.; Sein überheblicher Ton verärgerte das gesamte Gremium.
+fr-gc-0132; heimtückisch; sournois; perfide; C1; Mensch/Gefühle/Charakter; Le plan sournois a été découvert juste à temps.; Der heimtückische Plan wurde gerade noch rechtzeitig entdeckt.
+fr-gc-0133; aufbrausend; emporté; colérique, soupe au lait; C1; Mensch/Gefühle/Charakter; Sa réaction emportée a aggravé la situation.; Seine aufbrausende Reaktion machte die Lage schlimmer.
+fr-gc-0134; besonnen; réfléchi; posé, pondéré; C1; Mensch/Gefühle/Charakter; Le capitaine réfléchi a gardé l'équipage calme.; Der besonnene Kapitän hielt die Besatzung ruhig.
+fr-gc-0135; scharfsinnig; perspicace; fin, sagace; C1; Mensch/Gefühle/Charakter; Ses questions perspicaces ont impressionné tout le conseil d'administration.; Ihre scharfsinnigen Fragen beeindruckten den gesamten Vorstand.
+fr-gc-0136; einfältig; simplet; naïf, niais; C1; Mensch/Gefühle/Charakter; Cette remarque simplette trahissait son manque d'expérience.; Die einfältige Bemerkung verriet seinen Mangel an Erfahrung.
+fr-gc-0137; verbittert; aigri; ; C1; Mensch/Gefühle/Emotionen; Le vieil homme aigri ne faisait plus confiance à personne.; Der verbitterte alte Mann vertraute niemandem mehr.
+fr-gc-0138; Verbitterung; l'amertume; l'aigreur; C1; Mensch/Gefühle/Emotionen; Des années d'injustice n'ont laissé que de l'amertume.; Jahre der Ungerechtigkeit hinterließen nur Verbitterung.
+fr-gc-0139; Zuversicht; la confiance; l'optimisme; C1; Mensch/Gefühle/Emotionen; Elle regarde l'avenir avec une grande confiance.; Sie blickt mit großer Zuversicht in die Zukunft.
+fr-gc-0140; beklommen; angoissé; mal à l'aise, oppressé; C1; Mensch/Gefühle/Stimmungen; Angoissé, il est entré dans la maison silencieuse.; Mit beklommenem Gefühl betrat er das stille Haus.
+fr-gc-0141; Beklommenheit; l'angoisse; le malaise, l'oppression; C1; Mensch/Gefühle/Stimmungen; Une étrange angoisse s'est répandue dans la salle d'attente.; Eine seltsame Beklommenheit breitete sich im Wartezimmer aus.
+fr-gc-0142; unerschütterlich; inébranlable; ; C1; Mensch/Gefühle/Charakter; Son optimisme inébranlable a porté l'équipe à travers la crise.; Ihr unerschütterlicher Optimismus trug das Team durch die Krise.
+fr-gc-0143; nachsichtig; indulgent; ; C1; Mensch/Gefühle/Charakter; Le professeur était indulgent avec les débutants nerveux.; Der Lehrer war nachsichtig mit den nervösen Anfängern.
+fr-gc-0144; Weltschmerz; le spleen; le mal du siècle, la lassitude du monde; C2; Mensch/Gefühle/Stimmungen; Ses poèmes sont empreints d'un doux spleen.; Seine Gedichte sind voller sanftem Weltschmerz.
+fr-gc-0145; griesgrämig; grincheux; bougon, ronchon; C2; Mensch/Gefühle/Charakter; Le propriétaire grincheux se plaignait du moindre bruit.; Der griesgrämige Vermieter beschwerte sich über jedes kleine Geräusch.
+fr-gc-0146; verschroben; excentrique; farfelu, original; C2; Mensch/Gefühle/Charakter; Le professeur excentrique a collectionné des parapluies cassés pendant des décennies.; Der verschrobene Professor sammelte jahrzehntelang kaputte Regenschirme.
+fr-gc-0147; jähzornig; irascible; colérique, coléreux; C2; Mensch/Gefühle/Charakter; Le chef irascible a lancé la poêle à travers la cuisine.; Der jähzornige Koch warf die Pfanne durch die Küche.
+fr-gc-0148; wankelmütig; inconstant; versatile, capricieux; C2; Mensch/Gefühle/Charakter; L'électeur inconstant change d'avis chaque semaine.; Der wankelmütige Wähler ändert seine Meinung jede Woche.
+fr-gc-0149; abgebrüht; endurci; blasé, insensible; C2; Mensch/Gefühle/Charakter; Les années dans les affaires l'ont rendu endurci et froid.; Die Jahre im Geschäft machten ihn abgebrüht und kalt.
+fr-gc-0150; schwermütig; mélancolique; morose, sombre; C2; Mensch/Gefühle/Stimmungen; Cette chanson mélancolique lui rappelait des étés perdus.; Das schwermütige Lied erinnerte sie an vergangene Sommer.

@@ -1,0 +1,152 @@
+# Spanisch: Familie & Beziehungen
+id; Deutsch; Spanisch; Weitere Antworten; Niveau; Themen; Beispiel Spanisch; Beispiel Deutsch
+es-fb-0001; Familie; la familia; ; A1; Alltag/Familie/Verwandtschaft; Mi familia vive en un pueblo pequeño.; Meine Familie lebt in einer kleinen Stadt.
+es-fb-0002; Mutter; la madre; la mamá, mamá; A1; Alltag/Familie/Verwandtschaft; Mi madre me llama todos los domingos por la noche.; Meine Mutter ruft mich jeden Sonntagabend an.
+es-fb-0003; Vater; el padre; el papá, papá; A1; Alltag/Familie/Verwandtschaft; Su padre trabaja en el aeropuerto.; Sein Vater arbeitet am Flughafen.
+es-fb-0004; Eltern; los padres; ; A1; Alltag/Familie/Verwandtschaft; Mis padres llevan treinta años casados.; Meine Eltern sind seit dreißig Jahren verheiratet.
+es-fb-0005; Kind; el niño; la niña, el hijo, la hija; A1; Alltag/Familie/Verwandtschaft; El niño está jugando con el perro.; Das Kind spielt mit dem Hund.
+es-fb-0006; Sohn; el hijo; ; A1; Alltag/Familie/Verwandtschaft; Su hijo está aprendiendo a montar en bici.; Ihr Sohn lernt gerade Fahrrad fahren.
+es-fb-0007; Tochter; la hija; ; A1; Alltag/Familie/Verwandtschaft; Nuestra hija empieza el colegio el año que viene.; Unsere Tochter kommt nächstes Jahr in die Schule.
+es-fb-0008; Bruder; el hermano; ; A1; Alltag/Familie/Verwandtschaft; Mi hermano es un año mayor que yo.; Mein Bruder ist ein Jahr älter als ich.
+es-fb-0009; Schwester; la hermana; ; A1; Alltag/Familie/Verwandtschaft; A su hermana pequeña le encanta el helado de chocolate.; Seine kleine Schwester liebt Schokoladeneis.
+es-fb-0010; Großmutter; la abuela; la abuelita; A1; Alltag/Familie/Verwandtschaft; Mi abuela hace la mejor tarta de manzana.; Meine Großmutter backt den besten Apfelkuchen.
+es-fb-0011; Großvater; el abuelo; el abuelito; A1; Alltag/Familie/Verwandtschaft; Su abuelo cuenta historias maravillosas de antes.; Ihr Großvater erzählt wunderbare Geschichten von früher.
+es-fb-0012; Baby; el bebé; la bebé, el nene; A1; Alltag/Familie/Verwandtschaft; El bebé duerme en su cuna.; Das Baby schläft in seinem Bettchen.
+es-fb-0013; Onkel; el tío; ; A1; Alltag/Familie/Verwandtschaft; Mi tío vive en Canadá con su familia.; Mein Onkel lebt mit seiner Familie in Kanada.
+es-fb-0014; Tante; la tía; ; A1; Alltag/Familie/Verwandtschaft; Mi tía nos visita todas las Navidades.; Meine Tante besucht uns jedes Weihnachten.
+es-fb-0015; Großeltern; los abuelos; ; A1; Alltag/Familie/Verwandtschaft; Los niños pasan el verano con sus abuelos.; Die Kinder verbringen den Sommer bei den Großeltern.
+es-fb-0016; Geschwister; los hermanos; ; A2; Alltag/Familie/Verwandtschaft; Tiene tres hermanos y los quiere a todos.; Sie hat drei Geschwister und liebt sie alle.
+es-fb-0017; Ehemann; el marido; el esposo; A2; Alltag/Familie/Verwandtschaft; Su marido prepara la cena todas las noches.; Ihr Ehemann kocht jeden Abend das Abendessen.
+es-fb-0018; Ehefrau; la esposa; la mujer; A2; Alltag/Familie/Verwandtschaft; Conoció a su esposa en la universidad.; Er hat seine Ehefrau an der Universität kennengelernt.
+es-fb-0019; Enkel; el nieto; ; A2; Alltag/Familie/Verwandtschaft; Su nieto los visita todos los fines de semana.; Ihr Enkel besucht sie jedes Wochenende.
+es-fb-0020; Enkelin; la nieta; ; A2; Alltag/Familie/Verwandtschaft; La nieta ayuda a su abuela en el jardín.; Die Enkelin hilft ihrer Oma im Garten.
+es-fb-0021; Cousin; el primo; ; A2; Alltag/Familie/Verwandtschaft; Mi primo y yo crecimos juntos.; Mein Cousin und ich sind zusammen aufgewachsen.
+es-fb-0022; Familienmitglied; el miembro de la familia; el familiar; A2; Alltag/Familie/Verwandtschaft; Cada miembro de la familia ayuda a cocinar.; Jedes Familienmitglied hilft beim Kochen.
+es-fb-0023; Neffe; el sobrino; ; A2; Alltag/Familie/Verwandtschaft; Mi sobrino acaba de cumplir cinco años.; Mein Neffe ist gerade fünf Jahre alt geworden.
+es-fb-0024; Nichte; la sobrina; ; A2; Alltag/Familie/Verwandtschaft; Su sobrina quiere ser veterinaria.; Seine Nichte möchte Tierärztin werden.
+es-fb-0025; Zwillinge; los gemelos; los mellizos, las gemelas; A2; Alltag/Familie/Verwandtschaft; Los gemelos son exactamente iguales.; Die Zwillinge sehen genau gleich aus.
+es-fb-0026; Verwandte; los parientes; los familiares; A2; Alltag/Familie/Verwandtschaft; Muchos parientes vinieron a la fiesta de cumpleaños.; Viele Verwandte kamen zur Geburtstagsfeier.
+es-fb-0027; Schwiegermutter; la suegra; ; A2; Alltag/Familie/Verwandtschaft; Mi suegra es una cocinera estupenda.; Meine Schwiegermutter ist eine wunderbare Köchin.
+es-fb-0028; Schwiegereltern; los suegros; ; B1; Alltag/Familie/Verwandtschaft; Visitamos a mis suegros todos los meses.; Wir besuchen meine Schwiegereltern jeden Monat.
+es-fb-0029; Schwager; el cuñado; ; B1; Alltag/Familie/Verwandtschaft; Mi cuñado trabaja de ingeniero.; Mein Schwager arbeitet als Ingenieur.
+es-fb-0030; Schwägerin; la cuñada; ; B1; Alltag/Familie/Verwandtschaft; Mi cuñada espera su segundo hijo.; Meine Schwägerin erwartet ihr zweites Kind.
+es-fb-0031; Stiefmutter; la madrastra; ; B1; Alltag/Familie/Verwandtschaft; Su madrastra lo trata como a su propio hijo.; Seine Stiefmutter behandelt ihn wie ihren eigenen Sohn.
+es-fb-0032; Stiefvater; el padrastro; ; B1; Alltag/Familie/Verwandtschaft; Su padrastro le enseñó a nadar.; Ihr Stiefvater hat ihr das Schwimmen beigebracht.
+es-fb-0033; Patenonkel; el padrino; ; B1; Alltag/Familie/Verwandtschaft; Su padrino le regaló un collar por su bautizo.; Ihr Patenonkel schenkte ihr eine Kette zur Taufe.
+es-fb-0034; Urgroßmutter; la bisabuela; ; B1; Alltag/Familie/Verwandtschaft; Mi bisabuela vivió hasta los noventa y nueve años.; Meine Urgroßmutter wurde neunundneunzig Jahre alt.
+es-fb-0035; Halbbruder; el medio hermano; el hermanastro; B2; Alltag/Familie/Verwandtschaft; No conocí a mi medio hermano hasta que fui adulto.; Ich habe meinen Halbbruder erst als Erwachsener kennengelernt.
+es-fb-0036; Pflegefamilie; la familia de acogida; ; B2; Alltag/Familie/Verwandtschaft; El niño creció en una familia de acogida muy cariñosa.; Der Junge wuchs in einer liebevollen Pflegefamilie auf.
+es-fb-0037; Alleinerziehende; la madre soltera; la madre sola, el padre soltero; B2; Alltag/Familie/Verwandtschaft; Como madre soltera, compagina el trabajo y los hijos.; Als Alleinerziehende meistert sie Beruf und Kinder.
+es-fb-0038; Stammbaum; el árbol genealógico; ; B2; Alltag/Familie/Verwandtschaft; Reconstruyó su árbol genealógico trescientos años atrás.; Er verfolgte seinen Stammbaum dreihundert Jahre zurück.
+es-fb-0039; Verwandtschaft; la parentela; la familia, los parientes; C1; Alltag/Familie/Verwandtschaft; Toda la parentela se reunió en Semana Santa.; Die ganze Verwandtschaft traf sich an Ostern.
+es-fb-0040; Vormund; el tutor legal; la tutora legal, el tutor; C1; Alltag/Familie/Verwandtschaft; Después del accidente, su tío se convirtió en su tutor legal.; Nach dem Unfall wurde ihr Onkel ihr Vormund.
+es-fb-0041; Freund; el novio; el amigo; A1; Alltag/Familie/Partnerschaft; Su novio le trae flores todos los viernes.; Ihr Freund bringt ihr jeden Freitag Blumen.
+es-fb-0042; Freundin; la novia; la amiga; A1; Alltag/Familie/Partnerschaft; Esta noche cocina para su novia.; Er kocht heute Abend für seine Freundin.
+es-fb-0043; Liebe; el amor; ; A1; Alltag/Familie/Partnerschaft; El amor es lo más importante de la vida.; Liebe ist das Wichtigste im Leben.
+es-fb-0044; lieben; querer; amar; A2; Alltag/Familie/Partnerschaft; Te quiero más que a nada en el mundo.; Ich liebe dich über alles.
+es-fb-0045; Paar; la pareja; el par; A2; Alltag/Familie/Partnerschaft; La joven pareja se va a vivir junta.; Das junge Paar zieht zusammen.
+es-fb-0046; Partner; el compañero; la compañera, la pareja; A2; Alltag/Familie/Partnerschaft; Habla cada decisión con su compañero.; Sie bespricht jede Entscheidung mit ihrem Partner.
+es-fb-0047; küssen; besar; ; A2; Alltag/Familie/Partnerschaft; Se besaron bajo el viejo roble.; Sie küssten sich unter der alten Eiche.
+es-fb-0048; Kuss; el beso; ; A2; Alltag/Familie/Partnerschaft; Le dio un beso rápido para despedirse.; Sie gab ihm zum Abschied einen schnellen Kuss.
+es-fb-0049; Single; sin pareja; soltero, soltera; A2; Alltag/Familie/Partnerschaft; Está sin pareja desde el verano pasado.; Er ist seit letztem Sommer Single.
+es-fb-0050; sich verlieben; enamorarse; ; B1; Alltag/Familie/Partnerschaft; Se enamoraron de vacaciones en Italia.; Sie verliebten sich im Urlaub in Italien.
+es-fb-0051; Beziehung; la relación; ; B1; Alltag/Familie/Partnerschaft; Una buena relación necesita confianza y tiempo.; Eine gute Beziehung braucht Vertrauen und Zeit.
+es-fb-0052; Ehe; el matrimonio; ; B1; Alltag/Familie/Partnerschaft; Su matrimonio ya dura más de cuarenta años.; Ihre Ehe hält schon über vierzig Jahre.
+es-fb-0053; verheiratet; casado; ; B1; Alltag/Familie/Partnerschaft; Llevan diez años casados.; Sie sind seit zehn Jahren verheiratet.
+es-fb-0054; ledig; soltero; no casado; B1; Alltag/Familie/Partnerschaft; Se quedó soltero toda la vida.; Er blieb sein ganzes Leben ledig.
+es-fb-0055; sich trennen; separarse; romper, dejarlo; B1; Alltag/Familie/Partnerschaft; Se separaron después de cinco años juntos.; Sie trennten sich nach fünf gemeinsamen Jahren.
+es-fb-0056; Trennung; la separación; la ruptura; B1; Alltag/Familie/Partnerschaft; La separación fue dura para los dos.; Die Trennung war für beide schwer.
+es-fb-0057; vermissen; echar de menos; extrañar; B1; Alltag/Familie/Partnerschaft; Te echo de menos cuando no estás.; Ich vermisse dich, wenn du weg bist.
+es-fb-0058; sich verloben; comprometerse; prometerse; B2; Alltag/Familie/Partnerschaft; Se comprometieron en una playa de Portugal.; Sie verlobten sich an einem Strand in Portugal.
+es-fb-0059; Verlobung; el compromiso; la pedida de mano; B2; Alltag/Familie/Partnerschaft; Celebramos su compromiso con toda la familia.; Wir feierten ihre Verlobung mit der ganzen Familie.
+es-fb-0060; treu; fiel; leal; B2; Alltag/Familie/Partnerschaft; Siempre le ha sido fiel.; Er war ihr immer treu.
+es-fb-0061; untreu; infiel; desleal; B2; Alltag/Familie/Partnerschaft; Lo dejó porque le era infiel.; Sie verließ ihn, weil er untreu war.
+es-fb-0062; eifersüchtig; celoso; ; B2; Alltag/Familie/Partnerschaft; Se pone celoso cuando ella habla con otros hombres.; Er wird eifersüchtig, wenn sie mit anderen Männern spricht.
+es-fb-0063; Eifersucht; los celos; ; B2; Alltag/Familie/Partnerschaft; Los celos pueden destruir poco a poco una buena relación.; Eifersucht kann eine gute Beziehung langsam zerstören.
+es-fb-0064; Scheidung; el divorcio; ; B2; Alltag/Familie/Partnerschaft; Después del divorcio siguieron siendo amigos.; Nach der Scheidung blieben sie freundschaftlich verbunden.
+es-fb-0065; sich scheiden lassen; divorciarse; ; B2; Alltag/Familie/Partnerschaft; Se divorciaron tras veinte años de matrimonio.; Sie ließen sich nach zwanzig Ehejahren scheiden.
+es-fb-0066; Zuneigung; el cariño; el afecto; C1; Alltag/Familie/Partnerschaft; Muestra su cariño con pequeños gestos amables.; Sie zeigt ihre Zuneigung durch kleine liebevolle Gesten.
+es-fb-0067; Lebensgefährte; el compañero sentimental; la compañera sentimental, la pareja; C1; Alltag/Familie/Partnerschaft; Presentó a su compañero sentimental a sus colegas.; Er stellte seinen Lebensgefährten seinen Kollegen vor.
+es-fb-0068; Seitensprung; la aventura; la infidelidad, el lío; C1; Alltag/Familie/Partnerschaft; La aventura casi destruye su largo matrimonio.; Der Seitensprung hätte ihre lange Ehe fast zerstört.
+es-fb-0069; sich auseinanderleben; distanciarse; alejarse; C1; Alltag/Familie/Partnerschaft; Con los años, la pareja se fue distanciando poco a poco.; Über die Jahre lebte sich das Paar langsam auseinander.
+es-fb-0070; Zweisamkeit; la intimidad en pareja; la vida en pareja, el tiempo en pareja; C2; Alltag/Familie/Partnerschaft; Disfrutan de la tranquila intimidad en pareja en las largas noches de invierno.; Sie genießen stille Zweisamkeit an langen Winterabenden.
+es-fb-0071; treffen; quedar; encontrarse, reunirse, ver; A1; Alltag/Familie/Freundschaft; Hoy quedamos con nuestros amigos en el parque.; Wir treffen heute unsere Freunde im Park.
+es-fb-0072; zusammen; juntos; ; A1; Alltag/Familie/Freundschaft; Pasamos juntos todo el fin de semana.; Wir verbringen das ganze Wochenende zusammen.
+es-fb-0073; Nachbar; el vecino; la vecina; A1; Alltag/Familie/Freundschaft; Nuestro vecino nos riega las plantas en vacaciones.; Unser Nachbar gießt im Urlaub unsere Pflanzen.
+es-fb-0074; Freundschaft; la amistad; ; A2; Alltag/Familie/Freundschaft; Su amistad empezó en la escuela primaria.; Ihre Freundschaft begann in der Grundschule.
+es-fb-0075; kennen; conocer; ; A2; Alltag/Familie/Freundschaft; La conozco desde mi infancia.; Ich kenne sie seit meiner Kindheit.
+es-fb-0076; kennenlernen; llegar a conocer; conocer; A2; Alltag/Familie/Freundschaft; Me gustaría llegar a conocer a tu hermano.; Ich möchte deinen Bruder gern kennenlernen.
+es-fb-0077; besuchen; visitar; ir a ver; A2; Alltag/Familie/Freundschaft; Visitamos a mis abuelos cada dos domingos.; Wir besuchen meine Großeltern jeden zweiten Sonntag.
+es-fb-0078; einladen; invitar; ; A2; Alltag/Familie/Freundschaft; Invitó a todos sus amigos a la fiesta.; Sie lud alle ihre Freunde zur Party ein.
+es-fb-0079; Einladung; la invitación; ; A2; Alltag/Familie/Freundschaft; Muchas gracias por la amable invitación.; Vielen Dank für die freundliche Einladung.
+es-fb-0080; Bekannte; la conocida; el conocido; B1; Alltag/Familie/Freundschaft; Es solo una conocida, no una amiga íntima.; Sie ist nur eine Bekannte, keine enge Freundin.
+es-fb-0081; Vertrauen; la confianza; ; B1; Alltag/Familie/Freundschaft; La confianza crece despacio, pero se puede romper rápido.; Vertrauen wächst langsam, kann aber schnell zerbrechen.
+es-fb-0082; sich verstehen; llevarse bien; entenderse; B1; Alltag/Familie/Freundschaft; Mi hermana y yo nos llevamos muy bien.; Meine Schwester und ich verstehen uns richtig gut.
+es-fb-0083; Kumpel; el colega; el amigo, el compa; B1; Alltag/Familie/Freundschaft; Se fue a pescar con sus viejos colegas.; Er ging mit seinen alten Kumpels angeln.
+es-fb-0084; unterstützen; apoyar; ayudar; B1; Alltag/Familie/Freundschaft; Los verdaderos amigos te apoyan en los momentos difíciles.; Wahre Freunde unterstützen dich in schweren Zeiten.
+es-fb-0085; sich anfreunden; hacerse amigo; hacerse amiga, hacer amigos; B2; Alltag/Familie/Freundschaft; Enseguida se hizo amiga de sus nuevos compañeros.; Sie freundete sich schnell mit ihren neuen Kollegen an.
+es-fb-0086; Clique; la pandilla; el grupo de amigos, la panda; B2; Alltag/Familie/Freundschaft; Nuestra antigua pandilla todavía se reúne cada Nochevieja.; Unsere alte Clique trifft sich noch jedes Silvester.
+es-fb-0087; verlässlich; fiable; de confianza, confiable; B2; Alltag/Familie/Freundschaft; Un amigo fiable vale más que el oro.; Ein verlässlicher Freund ist mehr wert als Gold.
+es-fb-0088; Zusammenhalt; la unión; la solidaridad, la cohesión; B2; Alltag/Familie/Freundschaft; La unión en nuestro pueblo es admirable.; Der Zusammenhalt in unserem Dorf ist bemerkenswert.
+es-fb-0089; Vertrauensperson; la persona de confianza; el confidente, la confidente; C1; Alltag/Familie/Freundschaft; Mi tía siempre ha sido mi persona de confianza más cercana.; Meine Tante war immer meine engste Vertrauensperson.
+es-fb-0090; Seelenverwandte; el alma gemela; ; C2; Alltag/Familie/Freundschaft; En su mejor amiga encontró un alma gemela.; In ihrer besten Freundin fand sie eine Seelenverwandte.
+es-fb-0091; Geburtstag; el cumpleaños; ; A1; Alltag/Familie/Lebensereignisse, Freizeit/Feste & Feiern; Celebramos su cumpleaños con una tarta grande.; Wir feiern ihren Geburtstag mit einem großen Kuchen.
+es-fb-0092; Geschenk; el regalo; ; A1; Alltag/Familie/Lebensereignisse; Compró un regalo para su mejor amigo.; Er kaufte ein Geschenk für seinen besten Freund.
+es-fb-0093; Hochzeit; la boda; el casamiento; A2; Alltag/Familie/Lebensereignisse, Freizeit/Feste & Feiern; La boda se celebra en una pequeña iglesia.; Die Hochzeit findet in einer kleinen Kirche statt.
+es-fb-0094; heiraten; casarse; ; A2; Alltag/Familie/Lebensereignisse; Se van a casar la próxima primavera.; Sie werden nächsten Frühling heiraten.
+es-fb-0095; Geburt; el nacimiento; el parto; A2; Alltag/Familie/Lebensereignisse; El nacimiento de su hija lo cambió todo.; Die Geburt ihrer Tochter veränderte alles.
+es-fb-0096; geboren werden; nacer; ; A2; Alltag/Familie/Lebensereignisse; Nuestro hijo nació una noche de nieve.; Unser Sohn wurde in einer verschneiten Nacht geboren.
+es-fb-0097; feiern; celebrar; festejar; A2; Alltag/Familie/Lebensereignisse; Celebramos cada cumpleaños con toda la familia.; Wir feiern jeden Geburtstag mit der ganzen Familie.
+es-fb-0098; Gast; el invitado; la invitada, el huésped; A2; Alltag/Familie/Lebensereignisse; Cada invitado recibió una copita de cava.; Jeder Gast bekam ein kleines Glas Sekt.
+es-fb-0099; Feier; la fiesta; la celebración; B1; Alltag/Familie/Lebensereignisse; La fiesta duró hasta primera hora de la mañana.; Die Feier dauerte bis früh in den Morgen.
+es-fb-0100; schwanger; embarazada; ; B1; Alltag/Familie/Lebensereignisse; Mi hermana está embarazada de su primer hijo.; Meine Schwester ist mit ihrem ersten Kind schwanger.
+es-fb-0101; Schwangerschaft; el embarazo; ; B1; Alltag/Familie/Lebensereignisse; Su embarazo transcurrió sin ningún problema.; Ihre Schwangerschaft verlief reibungslos und ohne Probleme.
+es-fb-0102; Taufe; el bautizo; el bautismo; B1; Alltag/Familie/Lebensereignisse; El bautizo se celebra dos meses después del nacimiento.; Die Taufe findet zwei Monate nach der Geburt statt.
+es-fb-0103; Braut; la novia; ; B1; Alltag/Familie/Lebensereignisse; La novia llevaba el vestido antiguo de su abuela.; Die Braut trug das alte Kleid ihrer Großmutter.
+es-fb-0104; Bräutigam; el novio; ; B1; Alltag/Familie/Lebensereignisse; El novio, nervioso, olvidó su breve discurso.; Der nervöse Bräutigam vergaß seine kurze Rede.
+es-fb-0105; Jubiläum; el aniversario; ; B1; Alltag/Familie/Lebensereignisse; Mis padres celebraron su trigésimo aniversario en París.; Meine Eltern feierten ihr dreißigstes Jubiläum in Paris.
+es-fb-0106; erwachsen; adulto; mayor; B1; Alltag/Familie/Lebensereignisse; Los hijos ya son todos adultos y se han ido de casa.; Die Kinder sind alle erwachsen und ausgezogen.
+es-fb-0107; Flitterwochen; la luna de miel; ; B2; Alltag/Familie/Lebensereignisse; Pasaron la luna de miel en una isla griega.; Sie verbrachten ihre Flitterwochen auf einer griechischen Insel.
+es-fb-0108; Trauzeuge; el testigo de boda; el testigo, el padrino; B2; Alltag/Familie/Lebensereignisse; Su hermano fue el testigo de boda.; Sein Bruder war der Trauzeuge bei der Hochzeit.
+es-fb-0109; Beerdigung; el entierro; el funeral; B2; Alltag/Familie/Lebensereignisse; Muchos viejos amigos vinieron al entierro.; Viele alte Freunde kamen zur Beerdigung.
+es-fb-0110; Trauer; el duelo; el luto, la pena, la tristeza; B2; Alltag/Familie/Lebensereignisse; El duelo necesita tiempo y el apoyo de los demás.; Trauer braucht Zeit und die Unterstützung anderer.
+es-fb-0111; Ruhestand; la jubilación; el retiro; B2; Alltag/Familie/Lebensereignisse; Mi padre disfruta de su merecida jubilación.; Mein Vater genießt seinen wohlverdienten Ruhestand.
+es-fb-0112; Erbe; la herencia; ; B2; Alltag/Familie/Lebensereignisse; Los hermanos discutieron por la herencia de sus padres.; Die Geschwister stritten über das Erbe ihrer Eltern.
+es-fb-0113; Standesamt; el registro civil; el juzgado; B2; Alltag/Familie/Lebensereignisse; Se casaron en la intimidad en el registro civil.; Sie heirateten in aller Stille auf dem Standesamt.
+es-fb-0114; Trauung; la ceremonia de boda; la ceremonia nupcial, el enlace; C1; Alltag/Familie/Lebensereignisse; La ceremonia de boda tuvo lugar en el antiguo ayuntamiento.; Die Trauung fand im alten Rathaus statt.
+es-fb-0115; Nachwuchs; la descendencia; el bebé, los hijos; C1; Alltag/Familie/Lebensereignisse; La joven pareja espera descendencia para mayo.; Das junge Paar erwartet im Mai Nachwuchs.
+es-fb-0116; Elternzeit; el permiso parental; la baja por paternidad, la baja por maternidad; C1; Alltag/Familie/Lebensereignisse; Se tomó seis meses de permiso parental.; Er nahm sechs Monate Elternzeit.
+es-fb-0117; Witwe; la viuda; ; C1; Alltag/Familie/Lebensereignisse; La viuda sigue viviendo en su antigua casa.; Die Witwe lebt noch in ihrem alten Haus.
+es-fb-0118; Testament; el testamento; ; C1; Alltag/Familie/Lebensereignisse; En su testamento se lo dejó todo a sus hijos.; In seinem Testament vermachte er alles seinen Kindern.
+es-fb-0119; Vermächtnis; el legado; ; C2; Alltag/Familie/Lebensereignisse; Su mayor legado es el jardín que plantó.; Ihr größtes Vermächtnis ist der Garten, den sie pflanzte.
+es-fb-0120; entbinden; dar a luz; parir; C2; Alltag/Familie/Lebensereignisse; El lunes dio a luz a dos gemelos sanos.; Am Montag entband sie gesunde Zwillinge.
+es-fb-0121; helfen; ayudar; ; A1; Alltag/Familie/Miteinander; Ayudo a mi abuela con la compra.; Ich helfe meiner Oma beim Einkaufen.
+es-fb-0122; danken; agradecer; dar las gracias; A1; Alltag/Familie/Miteinander; Quiero agradecerte tu ayuda.; Ich möchte dir für deine Hilfe danken.
+es-fb-0123; streiten; discutir; pelearse, reñir; A2; Alltag/Familie/Miteinander; Los hermanos discuten todos los días por el ordenador.; Die Brüder streiten jeden Tag um den Computer.
+es-fb-0124; lachen; reír; reírse; A2; Alltag/Familie/Miteinander; Con el tío Peter siempre nos reímos mucho.; Mit Onkel Peter lachen wir immer viel.
+es-fb-0125; weinen; llorar; ; A2; Alltag/Familie/Miteinander; La niña lloró por el juguete roto.; Das kleine Mädchen weinte wegen des kaputten Spielzeugs.
+es-fb-0126; anrufen; llamar; llamar por teléfono, telefonear; A2; Alltag/Familie/Miteinander; Llama a tu madre, por favor, que está preocupada.; Ruf bitte deine Mutter an, sie macht sich Sorgen.
+es-fb-0127; schenken; regalar; ; A2; Alltag/Familie/Miteinander; Le regalamos al abuelo una radio nueva.; Wir schenkten Opa ein neues Radio.
+es-fb-0128; umarmen; abrazar; ; B1; Alltag/Familie/Miteinander; Abrazó a su padre en la estación.; Sie umarmte ihren Vater am Bahnhof.
+es-fb-0129; sich kümmern um; cuidar de; ocuparse de, cuidar; B1; Alltag/Familie/Miteinander; Cuida de su madre enferma.; Sie kümmert sich um ihre kranke Mutter.
+es-fb-0130; versprechen; prometer; ; B1; Alltag/Familie/Miteinander; Le prometió a su hijo una excursión al zoo.; Er versprach seinem Sohn einen Ausflug in den Zoo.
+es-fb-0131; sich entschuldigen; disculparse; pedir perdón, pedir disculpas; B1; Alltag/Familie/Miteinander; Se disculpó por sus duras palabras.; Er entschuldigte sich für seine harten Worte.
+es-fb-0132; trösten; consolar; ; B1; Alltag/Familie/Miteinander; Consoló al niño que lloraba con un cuento.; Sie tröstete das weinende Kind mit einer Geschichte.
+es-fb-0133; erziehen; educar; criar; B1; Alltag/Familie/Miteinander; No es fácil educar a tres hijos.; Es ist nicht leicht, drei Kinder zu erziehen.
+es-fb-0134; Streit; la discusión; la pelea, la riña; B1; Alltag/Familie/Miteinander; Después de la discusión no se hablaron durante días.; Nach dem Streit sprachen sie tagelang nicht miteinander.
+es-fb-0135; verzeihen; perdonar; ; B2; Alltag/Familie/Miteinander; ¿Me perdonas por llegar tan tarde?; Kannst du mir verzeihen, dass ich so spät komme?
+es-fb-0136; sich vertragen; hacer las paces; volver a llevarse bien; B2; Alltag/Familie/Miteinander; Las hermanas siempre hacen las paces a los cinco minutos.; Die Schwestern vertragen sich immer nach fünf Minuten.
+es-fb-0137; beleidigen; insultar; ofender; B2; Alltag/Familie/Miteinander; No quería insultar a tu primo.; Er wollte deinen Cousin nicht beleidigen.
+es-fb-0138; Missverständnis; el malentendido; ; B2; Alltag/Familie/Miteinander; Toda la discusión fue solo un tonto malentendido.; Der ganze Streit war nur ein dummes Missverständnis.
+es-fb-0139; respektieren; respetar; ; B2; Alltag/Familie/Miteinander; Los niños deberían aprender a respetar otras opiniones.; Kinder sollten lernen, andere Meinungen zu respektieren.
+es-fb-0140; schätzen; valorar; apreciar; B2; Alltag/Familie/Miteinander; Valoro mucho tu consejo sincero.; Ich schätze deinen ehrlichen Rat sehr.
+es-fb-0141; vernachlässigen; descuidar; desatender, abandonar; B2; Alltag/Familie/Miteinander; Descuidó a sus amigos durante los años de mucho estrés.; Er vernachlässigte seine Freunde in den stressigen Jahren.
+es-fb-0142; sich versöhnen; reconciliarse; hacer las paces; C1; Alltag/Familie/Miteinander; Los hermanos se reconciliaron tras muchos años de silencio.; Die Brüder versöhnten sich nach vielen Jahren des Schweigens.
+es-fb-0143; Mitgefühl; la compasión; la empatía; C1; Alltag/Familie/Miteinander; Mostró una gran compasión por la familia en duelo.; Sie zeigte großes Mitgefühl für die trauernde Familie.
+es-fb-0144; einfühlsam; empático; sensible, comprensivo; C1; Alltag/Familie/Miteinander; El médico habló con los padres de forma muy empática.; Der Arzt sprach einfühlsam mit den Eltern.
+es-fb-0145; Rücksicht; la consideración; el respeto; C1; Alltag/Familie/Miteinander; Ten un poco de consideración con tus hermanos pequeños.; Nimm bitte Rücksicht auf deine jüngeren Geschwister.
+es-fb-0146; bevormunden; infantilizar; tratar como a un niño, mangonear; C1; Alltag/Familie/Miteinander; Odia que sus padres la infantilicen.; Sie hasst es, wenn ihre Eltern sie bevormunden.
+es-fb-0147; sich anvertrauen; sincerarse; confiarse, abrirse; C1; Alltag/Familie/Miteinander; El niño se sinceró con su hermana mayor.; Der Junge vertraute sich seiner älteren Schwester an.
+es-fb-0148; Groll; el rencor; el resentimiento; C2; Alltag/Familie/Miteinander; Todavía le guarda rencor a su primo.; Er hegt noch immer einen Groll gegen seinen Cousin.
+es-fb-0149; Zerwürfnis; la ruptura; la desavenencia, la enemistad; C2; Alltag/Familie/Miteinander; La herencia provocó una profunda ruptura en la familia.; Das Erbe führte zu einem tiefen Zerwürfnis in der Familie.
+es-fb-0150; sich entzweien; enemistarse; pelearse; C2; Alltag/Familie/Miteinander; Los dos amigos se enemistaron por dinero.; Die beiden Freunde entzweiten sich wegen Geld.

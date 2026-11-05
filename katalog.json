@@ -861,6 +861,33 @@
       "version": 1,
       "count": 150,
       "lang": "it"
+    },
+    {
+      "id": "karsten",
+      "file": "woerter/karsten.txt",
+      "version": 1,
+      "count": 996
+    },
+    {
+      "id": "fr-karsten",
+      "file": "woerter/fr-karsten.txt",
+      "version": 1,
+      "count": 991,
+      "lang": "fr"
+    },
+    {
+      "id": "es-karsten",
+      "file": "woerter/es-karsten.txt",
+      "version": 1,
+      "count": 989,
+      "lang": "es"
+    },
+    {
+      "id": "it-karsten",
+      "file": "woerter/it-karsten.txt",
+      "version": 1,
+      "count": 989,
+      "lang": "it"
     }
   ],
   "lists": [
@@ -3075,10 +3102,163 @@
           "Business/Vertrag"
         ]
       }
+    },
+    {
+      "id": "karsten",
+      "name": "Karstens Empfehlung",
+      "description": "Grundwortschatz zum Einstieg, empfohlen von Karsten",
+      "count": 996,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Karstens Empfehlung"
+        ]
+      }
+    },
+    {
+      "id": "karsten-verben",
+      "name": "Karstens Empfehlung – Verben",
+      "description": "Die Verben aus Karstens Empfehlung",
+      "count": 251,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Karstens Empfehlung/Verben"
+        ]
+      }
+    },
+    {
+      "id": "karsten-woerter",
+      "name": "Karstens Empfehlung – ohne Verben",
+      "description": "Nomen, Adjektive und kleine Wörter aus Karstens Empfehlung",
+      "count": 745,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Karstens Empfehlung/Wörter"
+        ]
+      }
+    },
+    {
+      "id": "fr-karsten",
+      "name": "Französisch: Karstens Empfehlung",
+      "description": "Grundwortschatz zum Einstieg, empfohlen von Karsten",
+      "answerLang": "fr",
+      "count": 991,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Karstens Empfehlung"
+        ]
+      }
+    },
+    {
+      "id": "fr-karsten-verben",
+      "name": "Französisch: Karstens Empfehlung – Verben",
+      "description": "Die Verben aus Karstens Empfehlung",
+      "answerLang": "fr",
+      "count": 251,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Karstens Empfehlung/Verben"
+        ]
+      }
+    },
+    {
+      "id": "fr-karsten-woerter",
+      "name": "Französisch: Karstens Empfehlung – ohne Verben",
+      "description": "Nomen, Adjektive und kleine Wörter aus Karstens Empfehlung",
+      "answerLang": "fr",
+      "count": 740,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Karstens Empfehlung/Wörter"
+        ]
+      }
+    },
+    {
+      "id": "es-karsten",
+      "name": "Spanisch: Karstens Empfehlung",
+      "description": "Grundwortschatz zum Einstieg, empfohlen von Karsten",
+      "answerLang": "es",
+      "count": 989,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Karstens Empfehlung"
+        ]
+      }
+    },
+    {
+      "id": "es-karsten-verben",
+      "name": "Spanisch: Karstens Empfehlung – Verben",
+      "description": "Die Verben aus Karstens Empfehlung",
+      "answerLang": "es",
+      "count": 251,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Karstens Empfehlung/Verben"
+        ]
+      }
+    },
+    {
+      "id": "es-karsten-woerter",
+      "name": "Spanisch: Karstens Empfehlung – ohne Verben",
+      "description": "Nomen, Adjektive und kleine Wörter aus Karstens Empfehlung",
+      "answerLang": "es",
+      "count": 738,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Karstens Empfehlung/Wörter"
+        ]
+      }
+    },
+    {
+      "id": "it-karsten",
+      "name": "Italienisch: Karstens Empfehlung",
+      "description": "Grundwortschatz zum Einstieg, empfohlen von Karsten",
+      "answerLang": "it",
+      "count": 989,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Karstens Empfehlung"
+        ]
+      }
+    },
+    {
+      "id": "it-karsten-verben",
+      "name": "Italienisch: Karstens Empfehlung – Verben",
+      "description": "Die Verben aus Karstens Empfehlung",
+      "answerLang": "it",
+      "count": 251,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Karstens Empfehlung/Verben"
+        ]
+      }
+    },
+    {
+      "id": "it-karsten-woerter",
+      "name": "Italienisch: Karstens Empfehlung – ohne Verben",
+      "description": "Nomen, Adjektive und kleine Wörter aus Karstens Empfehlung",
+      "answerLang": "it",
+      "count": 738,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Karstens Empfehlung/Wörter"
+        ]
+      }
     }
   ],
   "areas": {
-    "version": 9,
+    "version": 10,
     "tree": [
       {
         "name": "Einstieg",
@@ -3111,6 +3291,24 @@
           "fr-grundwortschatz",
           "es-grundwortschatz",
           "it-grundwortschatz"
+        ],
+        "areas": []
+      },
+      {
+        "name": "Karstens Empfehlung",
+        "lists": [
+          "karsten",
+          "fr-karsten",
+          "es-karsten",
+          "it-karsten",
+          "karsten-verben",
+          "fr-karsten-verben",
+          "es-karsten-verben",
+          "it-karsten-verben",
+          "karsten-woerter",
+          "fr-karsten-woerter",
+          "es-karsten-woerter",
+          "it-karsten-woerter"
         ],
         "areas": []
       },

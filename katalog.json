@@ -865,27 +865,27 @@
     {
       "id": "karsten",
       "file": "woerter/karsten.txt",
-      "version": 1,
+      "version": 2,
       "count": 996
     },
     {
       "id": "fr-karsten",
       "file": "woerter/fr-karsten.txt",
-      "version": 1,
+      "version": 2,
       "count": 991,
       "lang": "fr"
     },
     {
       "id": "es-karsten",
       "file": "woerter/es-karsten.txt",
-      "version": 1,
+      "version": 2,
       "count": 989,
       "lang": "es"
     },
     {
       "id": "it-karsten",
       "file": "woerter/it-karsten.txt",
-      "version": 1,
+      "version": 2,
       "count": 989,
       "lang": "it"
     }

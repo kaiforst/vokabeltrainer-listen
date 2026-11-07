@@ -1,0 +1,330 @@
+# Mehrdeutige deutsche Wörter (Englisch, Paket M-en): geprüfte Fälle b–d. Fall a (Bedeutung im Zusammenhang klar, andere selten) ist nicht aufgeführt.
+# Fall b: gleichwertige Übersetzungen ergänzt; c: Klammerhinweis im Feld Deutsch; d: fehlende Bedeutung neu in woerter/bedeutungen.txt.
+id; Deutsch; Antwort; Fall; Bedeutungen; Änderung
+eg-0087; abheben; to withdraw; c; Geld abheben (to withdraw) / Flugzeug hebt ab (to take off); Deutsch „abheben“ → „abheben (Geld)“ (ebenso Alias-Gruppe wf-0060)
+ru-0081; abheben; to take off; c; Geld abheben (to withdraw) / Flugzeug hebt ab (to take off); Deutsch „abheben“ → „abheben (Flugzeug)“
+ba-0056; ablehnen; to reject; b; eine Bedeutung (to reject, to refuse, to turn down, to decline); Weitere Antworten + to refuse, to decline
+pm-0097; Abnahme; acceptance; c; Übergabe eines Werks (acceptance) / Rückgang (decrease); Deutsch „Abnahme“ → „Abnahme (Projekt)“
+bd-0047; Abnahme (Rückgang); decrease; d; Übergabe eines Werks (acceptance) / Rückgang (decrease); neue Zeile in woerter/bedeutungen.txt
+km-0077; Absatz; heel; c; am Schuh (heel) / im Text (paragraph) / Verkauf (sales); Deutsch „Absatz“ → „Absatz (Schuh)“
+bd-0040; Absatz (im Text); paragraph; d; am Schuh (heel) / im Text (paragraph) / Verkauf (sales); neue Zeile in woerter/bedeutungen.txt
+pm-0065; abschließen; to complete; c; beenden (to complete) / Vertrag schließen (to conclude) / Tür verschließen (to lock); Deutsch „abschließen“ → „abschließen (beenden)“
+vh-0059; abschließen; to conclude; c; beenden (to complete) / Vertrag schließen (to conclude) / Tür verschließen (to lock); Deutsch „abschließen“ → „abschließen (Vertrag)“
+bd-0003; abschließen (Tür); to lock; d; beenden (to complete) / Vertrag schließen (to conclude) / Tür verschließen (to lock); neue Zeile in woerter/bedeutungen.txt
+sb-0063; Abschluss; qualification; c; Geschäftsabschluss (conclusion) / Schul- oder Studienabschluss (qualification); Deutsch „Abschluss“ → „Abschluss (Schule)“
+vh-0058; Abschluss; conclusion; c; Geschäftsabschluss (conclusion) / Schul- oder Studienabschluss (qualification); Deutsch „Abschluss“ → „Abschluss (Geschäft)“
+rc-0068; abschreiben; to depreciate; c; Wertverlust buchen (to depreciate) / von jemandem kopieren (to copy); Deutsch „abschreiben“ → „abschreiben (Buchhaltung)“
+bd-0041; abschreiben (kopieren); to copy; d; Wertverlust buchen (to depreciate) / von jemandem kopieren (to copy); neue Zeile in woerter/bedeutungen.txt
+wf-0104; absetzen; to deduct; c; von der Steuer (to deduct) / jemanden aussteigen lassen (to drop off) / Hut (to take off); Deutsch „absetzen“ → „absetzen (steuerlich)“
+sf-0088; Abstieg; relegation; c; Sport (relegation) / vom Berg (descent); Deutsch „Abstieg“ → „Abstieg (Sport)“
+bd-0038; Abstieg (vom Berg); descent; d; Sport (relegation) / vom Berg (descent); neue Zeile in woerter/bedeutungen.txt
+bb-0104; Abstimmung; coordination; c; Koordination (coordination) / Wahl, Votum (vote); Deutsch „Abstimmung“ → „Abstimmung (Koordination)“
+bd-0048; Abstimmung (Wahl); vote; d; Koordination (coordination) / Wahl, Votum (vote); neue Zeile in woerter/bedeutungen.txt
+li-0206; Abzug; trigger; c; an der Waffe (trigger) / vom Lohn (deduction) / Rückzug (withdrawal); Deutsch „Abzug“ → „Abzug (Waffe)“
+ke-0642; als; than; c; Vergleich (than) / zeitlich (when) / in der Rolle (as); Deutsch „als“ → „als (Vergleich)“
+bd-0029; als (zeitlich); when; d; Vergleich (than) / zeitlich (when) / in der Rolle (as); neue Zeile in woerter/bedeutungen.txt
+ba-0009; Angebotsfrist; submission deadline; b; eine Bedeutung (submission deadline, offer deadline); Weitere Antworten + offer deadline
+vh-0088; Angebotsfrist; offer deadline; b; eine Bedeutung (submission deadline, offer deadline); Weitere Antworten + submission deadline
+gw-0371; ängstlich; afraid; b; eine Bedeutung (afraid, scared, anxious); Weitere Antworten + anxious
+gw-0854; Annahme; assumption; c; Annehmen (acceptance) / Vermutung (assumption); Deutsch „Annahme“ → „Annahme (Vermutung)“ (ebenso Alias-Gruppe wi-0026)
+vt-0092; Annahme; acceptance; c; Annehmen (acceptance) / Vermutung (assumption); Deutsch „Annahme“ → „Annahme (eines Angebots)“
+gw-0511; annehmen; to assume; c; vermuten (to assume) / akzeptieren (to accept); Deutsch „annehmen“ → „annehmen (vermuten)“
+bd-0033; annehmen (akzeptieren); to accept; d; vermuten (to assume) / akzeptieren (to accept); neue Zeile in woerter/bedeutungen.txt
+bb-0019; Antwort; answer; b; eine Bedeutung (answer, reply, response); Weitere Antworten + response
+gw-0016; Antwort; answer; b; eine Bedeutung (answer, reply, response); Weitere Antworten + response
+mk-0008; Antwort; answer; b; eine Bedeutung (answer, reply, response); Weitere Antworten + response
+pm-0022; Antwort; answer; b; eine Bedeutung (answer, reply, response); Weitere Antworten + response
+sb-0018; Antwort; answer; b; eine Bedeutung (answer, reply, response); Weitere Antworten + reply, response
+wi-0002; Antwort; answer; b; eine Bedeutung (answer, reply, response); Weitere Antworten + reply, response
+gw-0031; antworten; to answer; b; eine Bedeutung (to answer, to reply, to respond); Weitere Antworten + to respond
+mk-0010; antworten; to answer; b; eine Bedeutung (to answer, to reply, to respond); Weitere Antworten + to respond
+sb-0016; antworten; to answer; b; eine Bedeutung (to answer, to reply, to respond); Weitere Antworten + to respond
+mk-0069; Anzeige; advertisement; c; Werbung (advertisement) / bei der Polizei (report) / Display (display); Deutsch „Anzeige“ → „Anzeige (Werbung)“ (ebenso Alias-Gruppe mv-0022)
+km-0019; anziehen; to put on; c; Kleidung (to put on) / anlocken (to attract); Deutsch „anziehen“ → „anziehen (Kleidung)“
+bd-0012; anziehen (anlocken); to attract; d; Kleidung (to put on) / anlocken (to attract); neue Zeile in woerter/bedeutungen.txt
+ab-0095; Arbeitszeugnis; letter of reference; b; eine Bedeutung (letter of reference, employment reference); Weitere Antworten + employment reference
+pw-0014; Arbeitszeugnis; employment reference; b; eine Bedeutung (letter of reference, employment reference); Weitere Antworten + letter of reference
+nt-0075; Art; species; c; Tier- oder Pflanzenart (species) / Sorte (kind, type) / Weise (way); Deutsch „Art“ → „Art (Biologie)“ (ebenso Alias-Gruppe wi-0085)
+kk-0078; Auflage; edition; c; Ausgabe eines Buchs (edition) / Zahl der Exemplare (circulation) / Bedingung (condition); Deutsch „Auflage“ → „Auflage (Ausgabe)“
+mk-0105; Auflage; circulation; c; Ausgabe eines Buchs (edition) / Zahl der Exemplare (circulation) / Bedingung (condition); Deutsch „Auflage“ → „Auflage (Zahl der Exemplare)“
+al-0127; aufstehen; to get up; c; morgens aus dem Bett (to get up) / vom Stuhl (to stand up); Deutsch „aufstehen“ → „aufstehen (morgens, aus dem Bett)“
+pw-0111; Auszeit; career break; c; vom Beruf (career break) / im Sport (time-out); Deutsch „Auszeit“ → „Auszeit (vom Beruf)“
+km-0020; ausziehen; to take off; c; Kleidung (to take off) / aus der Wohnung (to move out); Deutsch „ausziehen“ → „ausziehen (Kleidung)“
+bd-0011; ausziehen (aus der Wohnung); to move out; d; Kleidung (to take off) / aus der Wohnung (to move out); neue Zeile in woerter/bedeutungen.txt
+gw-0241; Bahnhof; train station; b; eine Bedeutung (train station, railway station, station); Weitere Antworten + railway station
+ru-0012; Bahnhof; station; b; eine Bedeutung (train station, railway station, station); Weitere Antworten + train station
+fh-0074; Band; band; c; Musikgruppe (band) / Buch (volume) / zum Binden (ribbon); Deutsch „Band“ → „Band (Musikgruppe)“
+bd-0043; Band (Buch); volume; d; Musikgruppe (band) / Buch (volume) / zum Binden (ribbon); neue Zeile in woerter/bedeutungen.txt
+bd-0022; Band (zum Binden); ribbon; d; Musikgruppe (band) / Buch (volume) / zum Binden (ribbon); neue Zeile in woerter/bedeutungen.txt
+eg-0030; Bank; bank; c; Geldinstitut (bank) / zum Sitzen (bench); Deutsch „Bank“ → „Bank (Geldinstitut)“ (ebenso Alias-Gruppe ke-0053, wf-0011)
+bd-0001; Bank (zum Sitzen); bench; d; Geldinstitut (bank) / zum Sitzen (bench); neue Zeile in woerter/bedeutungen.txt
+ab-0110; Berufung; vocation; c; Lebensaufgabe (vocation) / vor Gericht (appeal); Deutsch „Berufung“ → „Berufung (Lebensaufgabe)“
+pg-0110; Berufung; appeal; c; Lebensaufgabe (vocation) / vor Gericht (appeal); Deutsch „Berufung“ → „Berufung (Gericht)“ (ebenso Alias-Gruppe vt-0135)
+kk-0051; Besetzung; cast; c; Rollen (cast) / militärisch (occupation); Deutsch „Besetzung“ → „Besetzung (Film, Theater)“
+gc-0075; besorgt; worried; b; eine Bedeutung (worried, concerned, anxious); Weitere Antworten + anxious
+ba-0130; Bestand; stock; c; Warenbestand (stock) / Tierbestand (population); Deutsch „Bestand“ → „Bestand (Lager)“
+nt-0143; Bestand; population; c; Warenbestand (stock) / Tierbestand (population); Deutsch „Bestand“ → „Bestand (Tiere)“
+sb-0040; bestehen; to pass; c; Prüfung (to pass) / existieren (to exist) / bestehen aus (to consist of); Deutsch „bestehen“ → „bestehen (Prüfung)“
+ba-0096; Bestellung; purchase order; b; eine Bedeutung (purchase order, order); Weitere Antworten + order
+mv-0014; Bestellung; order; b; eine Bedeutung (purchase order, order); Weitere Antworten + purchase order
+eg-0066; Bewertung; review; c; von Kunden (rating, review) / Leistungsbewertung (assessment); Deutsch „Bewertung“ → „Bewertung (von Kunden)“
+mv-0061; Bewertung; rating; c; von Kunden (rating, review) / Leistungsbewertung (assessment); Deutsch „Bewertung“ → „Bewertung (von Kunden)“
+sb-0100; Bewertung; assessment; c; von Kunden (rating, review) / Leistungsbewertung (assessment); Deutsch „Bewertung“ → „Bewertung (Schule)“
+nt-0019; Blatt; leaf; c; vom Baum (leaf) / Papier (sheet); Deutsch „Blatt“ → „Blatt (Baum)“
+bd-0019; Blatt (Papier); sheet of paper; d; vom Baum (leaf) / Papier (sheet); neue Zeile in woerter/bedeutungen.txt
+nt-0088; Boden; soil; c; Erde (soil) / Fußboden (floor); Deutsch „Boden“ → „Boden (Erde)“
+bd-0005; Boden (Fußboden); floor; d; Erde (soil) / Fußboden (floor); neue Zeile in woerter/bedeutungen.txt
+ke-0200; böse; evil; c; schlecht (evil) / verärgert (angry) / unartig (naughty); Deutsch „böse“ → „böse (schlecht, gemein)“
+wi-0104; Bruch; fraction; c; Mathematik (fraction) / Knochenbruch (fracture) / Bruch einer Regel (breach); Deutsch „Bruch“ → „Bruch (Mathematik)“
+fm-0111; Brunnen; well; c; zum Wasserholen (well) / Springbrunnen (fountain); Deutsch „Brunnen“ → „Brunnen (zum Wasserholen)“
+bd-0018; Brunnen (Springbrunnen); fountain; d; zum Wasserholen (well) / Springbrunnen (fountain); neue Zeile in woerter/bedeutungen.txt
+vt-0148; Bürgschaft; surety; b; eine Bedeutung (surety, guarantee); Weitere Antworten + guarantee
+al-0016; Decke; ceiling; c; Zimmerdecke (ceiling) / Bettdecke (blanket); Deutsch „Decke“ → „Decke (im Zimmer)“
+gw-0481; Decke; blanket; c; Zimmerdecke (ceiling) / Bettdecke (blanket); Deutsch „Decke“ → „Decke (zum Zudecken)“
+ke-0649; dick; thick; c; Gegenstand (thick) / Körper (fat); Deutsch „dick“ → „dick (Gegenstand)“
+bd-0024; dick (Körper); fat; d; Gegenstand (thick) / Körper (fat); neue Zeile in woerter/bedeutungen.txt
+sf-0132; Ehrenamt; voluntary work; b; eine Bedeutung (voluntary work, volunteer work); Weitere Antworten + volunteer work
+vh-0070; Einigung; settlement; b; eine Bedeutung (settlement, agreement); Weitere Antworten + agreement
+ba-0099; Einkauf; purchasing; c; Abteilung (purchasing) / Einkaufen (shopping); Deutsch „Einkauf“ → „Einkauf (Abteilung)“
+rc-0033; Einnahmen; income; b; eine Bedeutung (income, revenue); Weitere Antworten + revenue
+wf-0044; Einnahmen; revenue; b; eine Bedeutung (income, revenue); Weitere Antworten + income
+ab-0081; einstellen; to hire; c; Personal (to hire) / Gerät (to adjust) / beenden (to stop); Deutsch „einstellen“ → „einstellen (Personal)“ (ebenso Alias-Gruppe pm-0078, pw-0007)
+bd-0016; einstellen (Gerät); to adjust; d; Personal (to hire) / Gerät (to adjust) / beenden (to stop); neue Zeile in woerter/bedeutungen.txt
+gw-0658; Einstellung; attitude; c; Haltung (attitude) / Technik (setting) / Personal (recruitment); Deutsch „Einstellung“ → „Einstellung (Haltung)“
+tc-0059; Einstellung; setting; c; Haltung (attitude) / Technik (setting) / Personal (recruitment); Deutsch „Einstellung“ → „Einstellung (Technik)“
+et-0039; Eis; ice cream; c; Speiseeis (ice cream) / gefrorenes Wasser (ice); Deutsch „Eis“ → „Eis (Speiseeis)“
+wu-0019; Eis; ice; c; Speiseeis (ice cream) / gefrorenes Wasser (ice); Deutsch „Eis“ → „Eis (gefrorenes Wasser)“
+gw-0006; Entschuldigung; excuse me; c; Ausruf (excuse me, sorry) / Bitte um Verzeihung (apology); Deutsch „Entschuldigung“ → „Entschuldigung (Ausruf)“
+bd-0025; Entschuldigung (Bitte um Verzeihung); apology; d; Ausruf (excuse me, sorry) / Bitte um Verzeihung (apology); neue Zeile in woerter/bedeutungen.txt
+fb-0112; Erbe; inheritance; c; das Erbe (inheritance, heritage) / der Erbe (heir); Deutsch „Erbe“ → „Erbe (Nachlass)“
+kk-0144; Erbe; heritage; c; das Erbe (inheritance, heritage) / der Erbe (heir); Deutsch „Erbe“ → „Erbe (Kultur)“
+rd-0014; Erbe; heir; c; das Erbe (inheritance, heritage) / der Erbe (heir); Deutsch „Erbe“ → „Erbe (Person)“
+ke-0205; erfahren; experienced; c; Adjektiv (experienced) / Verb (to find out); Deutsch „erfahren“ → „erfahren (mit viel Erfahrung)“
+bd-0028; erfahren (herausfinden); to find out; d; Adjektiv (experienced) / Verb (to find out); neue Zeile in woerter/bedeutungen.txt
+gw-0572; erinnern; to remind; c; jemanden erinnern (to remind) / sich erinnern (to remember); Deutsch „erinnern“ → „erinnern (jemanden)“
+ke-0834; erinnern; to remember; c; jemanden erinnern (to remind) / sich erinnern (to remember); Deutsch „erinnern“ → „sich erinnern“
+gw-0395; faul; lazy; c; träge (lazy) / verdorben (rotten); Deutsch „faul“ → „faul (träge)“ (ebenso Alias-Gruppe gc-0052)
+bd-0008; faul (verdorben); rotten; d; träge (lazy) / verdorben (rotten); neue Zeile in woerter/bedeutungen.txt
+ab-0089; Feierabend; end of the workday; b; eine Bedeutung (end of the working day, end of the workday); Weitere Antworten + end of the working day
+al-0145; Feierabend; end of the working day; b; eine Bedeutung (end of the working day, end of the workday); Weitere Antworten + end of the workday
+fh-0124; Feierabend; end of the working day; b; eine Bedeutung (end of the working day, end of the workday); Weitere Antworten + end of the workday
+gc-0053; fleißig; hard-working; b; eine Bedeutung (hard-working, hardworking); Weitere Antworten + hardworking
+gw-0670; Folge; consequence; c; Konsequenz (consequence) / Episode (episode); Deutsch „Folge“ → „Folge (Konsequenz)“
+bd-0052; Folge (einer Serie); episode; d; Konsequenz (consequence) / Episode (episode); neue Zeile in woerter/bedeutungen.txt
+bb-0081; Folie; slide; c; Präsentation (slide) / Alufolie (foil); Deutsch „Folie“ → „Folie (Präsentation)“
+fb-0041; Freund; boyfriend; c; Partner (boyfriend) / Freund (friend); Deutsch „Freund“ → „Freund (Partner)“
+fb-0042; Freundin; girlfriend; c; Partnerin (girlfriend) / Freundin (friend); Deutsch „Freundin“ → „Freundin (Partnerin)“
+pw-0139; fristlose Kündigung; summary dismissal; b; eine Bedeutung (summary dismissal, termination without notice); Weitere Antworten + termination without notice
+vt-0126; fristlose Kündigung; termination without notice; b; eine Bedeutung (summary dismissal, termination without notice); Weitere Antworten + summary dismissal
+ru-0086; Führung; guided tour; c; Besichtigung (guided tour) / Leitung (leadership) / im Spiel (lead); Deutsch „Führung“ → „Führung (Besichtigung)“
+bd-0045; Führung (Leitung); leadership; d; Besichtigung (guided tour) / Leitung (leadership) / im Spiel (lead); neue Zeile in woerter/bedeutungen.txt
+gc-0110; Furcht; dread; b; eine Bedeutung (dread, fear); Weitere Antworten + fear
+km-0098; Futter; lining; c; im Kleidungsstück (lining) / für Tiere (animal feed); Deutsch „Futter“ → „Futter (im Mantel)“
+bd-0015; Futter (für Tiere); animal feed; d; im Kleidungsstück (lining) / für Tiere (animal feed); neue Zeile in woerter/bedeutungen.txt
+ba-0148; Garantie; guarantee; b; eine Bedeutung (guarantee, warranty); Weitere Antworten + warranty
+vt-0050; Garantie; guarantee; b; eine Bedeutung (guarantee, warranty); Weitere Antworten + warranty
+km-0126; Garderobe; wardrobe; c; Kleidung (wardrobe) / Ablage für Mäntel (cloakroom); Deutsch „Garderobe“ → „Garderobe (Kleidung)“
+bd-0014; Garderobe (für Mäntel); cloakroom; d; Kleidung (wardrobe) / Ablage für Mäntel (cloakroom); neue Zeile in woerter/bedeutungen.txt
+kk-0071; Gattung; genre; c; Literatur (genre) / Biologie (genus); Deutsch „Gattung“ → „Gattung (Literatur)“
+ru-0135; Gepäckaufbewahrung; left-luggage office; b; eine Bedeutung (left luggage, left-luggage office); Weitere Antworten + left luggage
+ke-0609; gerade; straight; c; nicht krumm (straight) / zeitlich (just, right now) / Zahl (even); Deutsch „gerade“ → „gerade (nicht krumm)“
+bd-0030; gerade (zeitlich); just; d; nicht krumm (straight) / zeitlich (just, right now) / Zahl (even); neue Zeile in woerter/bedeutungen.txt
+pg-0029; Gericht; court; c; Justiz (court) / Speise (dish); Deutsch „Gericht“ → „Gericht (Justiz)“ (ebenso Alias-Gruppe vt-0059)
+bd-0006; Gericht (Speise); dish; d; Justiz (court) / Speise (dish); neue Zeile in woerter/bedeutungen.txt
+bb-0048; Geschäft; business; c; Laden (shop) / Handel (business, deal); Deutsch „Geschäft“ → „Geschäft (Handel)“ (ebenso Alias-Gruppe ke-0085)
+gw-0239; Geschäft; shop; c; Laden (shop) / Handel (business, deal); Deutsch „Geschäft“ → „Geschäft (Laden)“ (ebenso Alias-Gruppe eg-0004, mv-0004, wf-0008)
+kk-0126; Geschichte; history; c; Vergangenheit (history) / Erzählung (story); Deutsch „Geschichte“ → „Geschichte (Vergangenheit)“ (ebenso Alias-Gruppe ke-0285, sb-0027)
+eg-0136; Gewährleistung; statutory warranty; b; eine Bedeutung (warranty, statutory warranty); Weitere Antworten + warranty
+pw-0121; Gewerkschaft; trade union; b; eine Bedeutung (trade union, union); Weitere Antworten + union
+al-0108; gießen; to water; c; Pflanzen (to water) / Flüssigkeit (to pour); Deutsch „gießen“ → „gießen (Pflanzen)“
+et-0107; gießen; to pour; c; Pflanzen (to water) / Flüssigkeit (to pour); Deutsch „gießen“ → „gießen (Flüssigkeit)“
+ke-0530; gleich; same; c; derselbe (same) / sofort (in a moment) / gleichwertig (equal); Deutsch „gleich“ → „gleich (derselbe)“
+bd-0031; gleich (sofort); in a moment; d; derselbe (same) / sofort (in a moment) / gleichwertig (equal); neue Zeile in woerter/bedeutungen.txt
+gc-0016; Glück; happiness; c; glücklich sein (happiness) / Glück haben (luck); Deutsch „Glück“ → „Glück (glücklich sein)“
+gw-0484; Glück; luck; c; glücklich sein (happiness) / Glück haben (luck); Deutsch „Glück“ → „Glück (Glück haben)“
+eg-0056; günstig; inexpensive; b; eine Bedeutung (cheap, inexpensive, affordable); Weitere Antworten + cheap
+ke-0763; halten; to hold; c; festhalten (to hold) / anhalten (to stop); Deutsch „halten“ → „halten (festhalten)“
+vm-0022; halten; to stop; c; festhalten (to hold) / anhalten (to stop); Deutsch „halten“ → „halten (anhalten)“
+eg-0073; handeln; to haggle; c; feilschen (to haggle) / Handel treiben (to trade) / tun (to act); Deutsch „handeln“ → „handeln (feilschen)“
+wf-0046; handeln; to trade; c; feilschen (to haggle) / Handel treiben (to trade) / tun (to act); Deutsch „handeln“ → „handeln (Handel treiben)“
+fh-0081; Handlung; plot; c; Geschichte eines Buchs oder Films (plot) / Tat (action); Deutsch „Handlung“ → „Handlung (Geschichte)“ (ebenso Alias-Gruppe kk-0073)
+al-0075; Hausarbeit; housework; c; Haushalt (housework) / Studium (term paper); Deutsch „Hausarbeit“ → „Hausarbeit (Haushalt)“
+sb-0079; Hausarbeit; term paper; c; Haushalt (housework) / Studium (term paper); Deutsch „Hausarbeit“ → „Hausarbeit (Studium)“
+li-0002; Himmel; heaven; c; Paradies (heaven) / Wetter, Sterne (sky); Deutsch „Himmel“ → „Himmel (Paradies)“
+wu-0006; Himmel; sky; c; Paradies (heaven) / Wetter, Sterne (sky); Deutsch „Himmel“ → „Himmel (Wetter, Sterne)“ (ebenso Alias-Gruppe wi-0135)
+et-0116; Imbiss; snack bar; c; Lokal (snack bar) / kleine Mahlzeit (snack); Deutsch „Imbiss“ → „Imbiss (Lokal)“
+gw-0359; Imbiss; snack; c; Lokal (snack bar) / kleine Mahlzeit (snack); Deutsch „Imbiss“ → „Imbiss (kleine Mahlzeit)“
+mk-0064; Kanal; channel; c; Medien (channel) / Wasserstraße (canal); Deutsch „Kanal“ → „Kanal (Medien)“
+bd-0039; Kanal (Wasserstraße); canal; d; Medien (channel) / Wasserstraße (canal); neue Zeile in woerter/bedeutungen.txt
+fh-0016; Karte; playing card; c; Spielkarte (playing card) / Landkarte (map) / Fahrkarte, Eintrittskarte (ticket); Deutsch „Karte“ → „Karte (Spielkarte)“
+ru-0021; Karte; map; c; Spielkarte (playing card) / Landkarte (map) / Fahrkarte, Eintrittskarte (ticket); Deutsch „Karte“ → „Karte (Landkarte)“ (ebenso Alias-Gruppe vm-0019)
+nt-0095; Kiefer; pine; c; Baum (pine) / Knochen (jaw); Deutsch „Kiefer“ → „Kiefer (Baum)“
+bd-0023; Kiefer (Knochen); jaw; d; Baum (pine) / Knochen (jaw); neue Zeile in woerter/bedeutungen.txt
+ba-0026; Kosten; costs; b; eine Bedeutung (costs, cost); Weitere Antworten + cost
+bb-0089; Kosten; costs; b; eine Bedeutung (costs, cost); Weitere Antworten + cost
+pm-0009; Kosten; costs; b; eine Bedeutung (costs, cost); Weitere Antworten + cost
+rc-0007; Kosten; costs; b; eine Bedeutung (costs, cost); Weitere Antworten + cost
+vh-0021; Kosten; costs; b; eine Bedeutung (costs, cost); Weitere Antworten + cost
+wf-0042; Kosten; costs; b; eine Bedeutung (costs, cost); Weitere Antworten + cost
+sf-0062; Kraft; strength; c; körperlich (strength) / Physik (force); Deutsch „Kraft“ → „Kraft (körperlich)“
+wi-0033; Kraft; force; c; körperlich (strength) / Physik (force); Deutsch „Kraft“ → „Kraft (Physik)“
+fm-0112; Krebs; cancer; c; Krankheit (cancer) / Tier (crab); Deutsch „Krebs“ → „Krebs (Krankheit)“ (ebenso Alias-Gruppe ke-0089)
+bd-0035; Krebs (Tier); crab; d; Krankheit (cancer) / Tier (crab); neue Zeile in woerter/bedeutungen.txt
+ab-0046; kündigen; to quit; c; Arbeitsstelle (to quit, to resign) / Vertrag (to terminate); Deutsch „kündigen“ → „kündigen (Stelle)“, Weitere Antworten + to resign
+pw-0134; kündigen; to resign; c; Arbeitsstelle (to quit, to resign) / Vertrag (to terminate); Deutsch „kündigen“ → „kündigen (Stelle)“
+vt-0037; kündigen; to terminate; c; Arbeitsstelle (to quit, to resign) / Vertrag (to terminate); Deutsch „kündigen“ → „kündigen (Vertrag)“
+wf-0051; Lager; warehouse; c; Waren (warehouse) / Zeltlager (camp); Deutsch „Lager“ → „Lager (Waren)“ (ebenso Alias-Gruppe ba-0128)
+bd-0021; Lager (Zeltlager); camp; d; Waren (warehouse) / Zeltlager (camp); neue Zeile in woerter/bedeutungen.txt
+ba-0129; Lagerbestand; stock level; b; eine Bedeutung (stock level, inventory); Weitere Antworten + inventory
+rc-0086; Lagerbestand; inventory; b; eine Bedeutung (stock level, inventory); Weitere Antworten + stock level
+ke-0325; Land; land; c; Staat (country) / Boden (land) / ländliche Gegend (countryside); Deutsch „Land“ → „Land (Boden)“
+pg-0001; Land; country; c; Staat (country) / Boden (land) / ländliche Gegend (countryside); Deutsch „Land“ → „Land (Staat)“ (ebenso Alias-Gruppe ke-0131, rd-0144, ru-0017)
+bd-0020; Land (ländliche Gegend); countryside; d; Staat (country) / Boden (land) / ländliche Gegend (countryside); neue Zeile in woerter/bedeutungen.txt
+ap-0189; Laufband; moving walkway; c; Flughafen (moving walkway) / Fitness (treadmill); Deutsch „Laufband“ → „Laufband (Flughafen)“
+sf-0067; Laufband; treadmill; c; Flughafen (moving walkway) / Fitness (treadmill); Deutsch „Laufband“ → „Laufband (Fitness)“
+vt-0035; Laufzeit; contract term; c; Vertrag (contract term) / Film (running time); Deutsch „Laufzeit“ → „Laufzeit (Vertrag)“
+eg-0092; leihen; to lend; c; jemandem etwas leihen (to lend) / sich etwas leihen (to borrow); Deutsch „leihen“ → „leihen (jemandem etwas)“ (ebenso Alias-Gruppe wf-0057)
+kk-0015; Leinwand; canvas; c; Malerei (canvas) / Kino (screen); Deutsch „Leinwand“ → „Leinwand (Malerei)“
+bd-0053; Leinwand (Kino); screen; d; Malerei (canvas) / Kino (screen); neue Zeile in woerter/bedeutungen.txt
+gw-0654; Leistung; achievement; b; eine Bedeutung (performance, achievement); Weitere Antworten + performance
+pw-0093; Leistung; performance; b; eine Bedeutung (performance, achievement); Weitere Antworten + achievement
+sf-0096; Leistung; performance; b; eine Bedeutung (performance, achievement); Weitere Antworten + achievement
+gw-0313; Leiter; ladder; c; zum Steigen (ladder) / Chef (head, leader); Deutsch „Leiter“ → „Leiter (zum Steigen)“ (ebenso Alias-Gruppe al-0094)
+bd-0044; Leiter (Chef); head; d; zum Steigen (ladder) / Chef (head, leader); neue Zeile in woerter/bedeutungen.txt
+gw-0715; Lohn; wage; c; Bezahlung (wage) / Belohnung (reward); Deutsch „Lohn“ → „Lohn (Bezahlung)“ (ebenso Alias-Gruppe ab-0077, pw-0047, wf-0021)
+rd-0142; Lohn; reward; c; Bezahlung (wage) / Belohnung (reward); Deutsch „Lohn“ → „Lohn (Belohnung)“
+ba-0016; Los; lot; c; Ausschreibung (lot) / Lotterie (lottery ticket) / Schicksal (fate); Deutsch „Los“ → „Los (Ausschreibung)“
+eg-0119; Mahnung; payment reminder; b; eine Bedeutung (payment reminder, reminder); Weitere Antworten + reminder
+vt-0078; Mangel; defect; c; Fehler (defect) / Fehlen (lack, shortage); Deutsch „Mangel“ → „Mangel (Fehler)“
+bd-0046; Mangel (Fehlen); lack; d; Fehler (defect) / Fehlen (lack, shortage); neue Zeile in woerter/bedeutungen.txt
+bb-0125; Messe; trade fair; c; Ausstellung (trade fair) / Gottesdienst (mass); Deutsch „Messe“ → „Messe (Ausstellung)“ (ebenso Alias-Gruppe mv-0090)
+bd-0051; Messe (Gottesdienst); mass; d; Ausstellung (trade fair) / Gottesdienst (mass); neue Zeile in woerter/bedeutungen.txt
+ab-0098; Mitarbeiter; staff member; b; eine Bedeutung (staff member, employee); Weitere Antworten + employee
+pw-0032; Mitarbeiter; staff member; b; eine Bedeutung (staff member, employee); Weitere Antworten + employee
+pm-0074; Mittel; funds; c; Geld (funds) / Werkzeug, Weg (means) / Medikament (remedy); Deutsch „Mittel“ → „Mittel (Geld)“
+ba-0090; Muster; sample; c; Warenprobe (sample) / Design (pattern); Deutsch „Muster“ → „Muster (Warenprobe)“ (ebenso Alias-Gruppe mv-0049)
+km-0067; Muster; pattern; c; Warenprobe (sample) / Design (pattern); Deutsch „Muster“ → „Muster (Design)“ (ebenso Alias-Gruppe ke-0441)
+gw-0096; Mutter; mother; c; Elternteil (mother) / Schraube (nut); Deutsch „Mutter“ → „Mutter (Elternteil)“ (ebenso Alias-Gruppe fb-0002, ke-0373)
+bd-0017; Mutter (Schraube); nut; d; Elternteil (mother) / Schraube (nut); neue Zeile in woerter/bedeutungen.txt
+kk-0080; Nachlass; literary estate; c; Erbe (estate) / Preisnachlass (discount); Deutsch „Nachlass“ → „Nachlass (Erbe)“
+gw-0441; Nachricht; message; c; Mitteilung (message) / Neuigkeit (news); Deutsch „Nachricht“ → „Nachricht (Mitteilung)“ (ebenso Alias-Gruppe bb-0035, tc-0038)
+ke-0391; Nachricht; news; c; Mitteilung (message) / Neuigkeit (news); Deutsch „Nachricht“ → „Nachricht (Neuigkeit)“
+wi-0129; Narkose; anesthesia; b; eine Bedeutung (anaesthesia, anesthesia); Weitere Antworten + anaesthesia
+gw-0494; Note; mark; c; Schule (mark, grade) / Musik (note); Deutsch „Note“ → „Note (Schule)“
+sb-0036; Note; grade; c; Schule (mark, grade) / Musik (note); Deutsch „Note“ → „Note (Schule)“
+bd-0042; Note (Musik); note; d; Schule (mark, grade) / Musik (note); neue Zeile in woerter/bedeutungen.txt
+ru-0064; Pension; guesthouse; c; Unterkunft (guesthouse) / Ruhestandsgeld (pension); Deutsch „Pension“ → „Pension (Unterkunft)“
+gw-0427; Platz; square; c; in der Stadt (square) / Ort, Raum (place, space) / Sitzplatz (seat); Deutsch „Platz“ → „Platz (in der Stadt)“
+gw-0584; praktisch; convenient; b; eine Bedeutung (convenient, handy, practical); Weitere Antworten + practical
+bb-0030; Preis; price; c; Kosten (price) / Gewinn (prize); Deutsch „Preis“ → „Preis (Kosten)“ (ebenso Alias-Gruppe ba-0024, eg-0003, ke-0474, km-0060, rc-0003, vh-0001, vt-0005, wf-0005)
+fh-0065; Preis; prize; c; Kosten (price) / Gewinn (prize); Deutsch „Preis“ → „Preis (Gewinn)“
+eg-0135; Preisnachlass; markdown; b; eine Bedeutung (price reduction, markdown, discount); Weitere Antworten + price reduction, discount
+vh-0051; Preisnachlass; price reduction; b; eine Bedeutung (price reduction, markdown, discount); Weitere Antworten + markdown, discount
+kk-0042; Probe; rehearsal; c; Theater (rehearsal) / Warenprobe (sample) / Test (test); Deutsch „Probe“ → „Probe (Theater)“
+ab-0054; Probezeit; probation period; b; eine Bedeutung (probation period, probationary period); Weitere Antworten + probationary period
+vt-0094; Probezeit; probationary period; b; eine Bedeutung (probation period, probationary period); Weitere Antworten + probation period
+kg-0145; Prognose; prognosis; c; Medizin (prognosis) / Vorhersage (forecast); Deutsch „Prognose“ → „Prognose (Medizin)“
+bb-0052; Protokoll; minutes; c; Sitzung (minutes) / Regelwerk (protocol); Deutsch „Protokoll“ → „Protokoll (Sitzung)“ (ebenso Alias-Gruppe pm-0087, vh-0064)
+gw-0350; pünktlich; on time; b; eine Bedeutung (on time, punctual); Weitere Antworten + punctual
+vm-0043; Rad; wheel; c; am Fahrzeug (wheel) / Fahrrad (bike); Deutsch „Rad“ → „Rad (am Fahrzeug)“
+gw-0450; Rat; advice; c; Ratschlag (advice) / Gremium (council); Deutsch „Rat“ → „Rat (Ratschlag)“
+bd-0049; Rat (Gremium); council; d; Ratschlag (advice) / Gremium (council); neue Zeile in woerter/bedeutungen.txt
+gw-0285; raten; to guess; c; schätzen (to guess) / empfehlen (to advise); Deutsch „raten“ → „raten (schätzen)“ (ebenso Alias-Gruppe ke-0754)
+bd-0034; raten (empfehlen); to advise; d; schätzen (to guess) / empfehlen (to advise); neue Zeile in woerter/bedeutungen.txt
+eg-0104; Ratenzahlung; payment by instalments; b; eine Bedeutung (payment by instalments, installment payment); Weitere Antworten + payment by installments, installment payment
+rc-0040; Ratenzahlung; payment by installments; b; eine Bedeutung (payment by instalments, installment payment); Weitere Antworten + installment payment, payment by instalments
+vh-0093; Ratenzahlung; installment payment; b; eine Bedeutung (payment by instalments, installment payment); Weitere Antworten + payment by instalments
+mk-0121; Reichweite; reach; c; Medien (reach) / Fahrzeug, Akku (range); Deutsch „Reichweite“ → „Reichweite (Medien)“ (ebenso Alias-Gruppe mv-0086)
+vm-0128; Reichweite; range; c; Medien (reach) / Fahrzeug, Akku (range); Deutsch „Reichweite“ → „Reichweite (Fahrzeug)“ (ebenso Alias-Gruppe ke-0497)
+gw-0355; Rezept; recipe; c; Kochen (recipe) / Arzt (prescription); Deutsch „Rezept“ → „Rezept (Kochen)“ (ebenso Alias-Gruppe et-0067)
+kg-0043; Rezept; prescription; c; Kochen (recipe) / Arzt (prescription); Deutsch „Rezept“ → „Rezept (Arzt)“
+km-0004; Rock; skirt; c; Kleidungsstück (skirt) / Musik (rock); Deutsch „Rock“ → „Rock (Kleidungsstück)“
+bd-0054; Rock (Musik); rock; d; Kleidungsstück (skirt) / Musik (rock); neue Zeile in woerter/bedeutungen.txt
+eg-0130; Rücklage; financial reserve; b; eine Bedeutung (reserve, financial reserve); Weitere Antworten + reserve
+pg-0106; Rücktritt; resignation; c; vom Vertrag (withdrawal) / vom Amt (resignation); Deutsch „Rücktritt“ → „Rücktritt (vom Amt)“
+vt-0122; Rücktritt; withdrawal; c; vom Vertrag (withdrawal) / vom Amt (resignation); Deutsch „Rücktritt“ → „Rücktritt (vom Vertrag)“
+gw-0264; sammeln; to collect; b; eine Bedeutung (to collect, to gather); Weitere Antworten + to gather
+et-0073; sauer; sour; c; Geschmack (sour) / verärgert (annoyed, mad); Deutsch „sauer“ → „sauer (Geschmack)“ (ebenso Alias-Gruppe ke-0583)
+gc-0032; sauer; mad; c; Geschmack (sour) / verärgert (annoyed, mad); Deutsch „sauer“ → „sauer (verärgert)“, Weitere Antworten + angry, cross
+et-0076; scharf; spicy; c; Essen (spicy) / Messer (sharp); Deutsch „scharf“ → „scharf (Essen)“
+bd-0007; scharf (Messer); sharp; d; Essen (spicy) / Messer (sharp); neue Zeile in woerter/bedeutungen.txt
+fb-0140; schätzen; to appreciate; c; ungefähr berechnen (to estimate) / wertschätzen (to appreciate); Deutsch „schätzen“ → „schätzen (wertschätzen)“
+pm-0096; schätzen; to estimate; c; ungefähr berechnen (to estimate) / wertschätzen (to appreciate); Deutsch „schätzen“ → „schätzen (ungefähr berechnen)“
+eg-0053; Schein; banknote; c; Geldschein (banknote) / Bescheinigung (certificate) / Anschein (appearance); Deutsch „Schein“ → „Schein (Geldschein)“
+wu-0022; scheinen; to shine; c; Sonne (to shine) / den Anschein haben (to seem); Deutsch „scheinen“ → „scheinen (Sonne)“
+bd-0032; scheinen (den Anschein haben); to seem; d; Sonne (to shine) / den Anschein haben (to seem); neue Zeile in woerter/bedeutungen.txt
+ap-0172; Schicht; shift; c; Arbeit (shift) / Lage (layer); Deutsch „Schicht“ → „Schicht (Arbeit)“ (ebenso Alias-Gruppe ab-0075)
+bd-0037; Schicht (Lage); layer; d; Arbeit (shift) / Lage (layer); neue Zeile in woerter/bedeutungen.txt
+nt-0039; Schlange; snake; c; Tier (snake) / Warteschlange (queue); Deutsch „Schlange“ → „Schlange (Tier)“
+bd-0009; Schlange (zum Anstehen); queue; d; Tier (snake) / Warteschlange (queue); neue Zeile in woerter/bedeutungen.txt
+vh-0129; Schlichtung; arbitration; b; eine Bedeutung (arbitration, conciliation); Weitere Antworten + conciliation
+vt-0132; Schlichtung; conciliation; b; eine Bedeutung (arbitration, conciliation); Weitere Antworten + arbitration
+gw-0417; Schloss; castle; c; Gebäude (castle, palace) / an der Tür (lock); Deutsch „Schloss“ → „Schloss (Gebäude)“ (ebenso Alias-Gruppe kk-0111, ru-0043)
+bd-0002; Schloss (an der Tür); lock; d; Gebäude (castle, palace) / an der Tür (lock); neue Zeile in woerter/bedeutungen.txt
+mv-0063; Schlussverkauf; clearance sale; b; eine Bedeutung (clearance sale, sale); Weitere Antworten + sale
+gc-0084; selbstbewusst; self-confident; b; eine Bedeutung (self-confident, confident); Weitere Antworten + confident
+gw-0505; sich entschuldigen; to apologize; b; eine Bedeutung (to apologise, to apologize); Weitere Antworten + to apologise
+fb-0129; sich kümmern um; to take care of; b; eine Bedeutung (to take care of, to look after, to care for); Weitere Antworten + to care for
+gw-0736; sich kümmern um; to take care of; b; eine Bedeutung (to take care of, to look after, to care for); Weitere Antworten + to care for
+al-0089; Sicherung; fuse; c; Strom (fuse) / Datensicherung (backup); Deutsch „Sicherung“ → „Sicherung (Strom)“
+fh-0110; Spannung; suspense; c; Buch, Film (suspense) / Strom (voltage); Deutsch „Spannung“ → „Spannung (Buch, Film)“
+wi-0050; Spannung; voltage; c; Buch, Film (suspense) / Strom (voltage); Deutsch „Spannung“ → „Spannung (Strom)“
+tc-0054; Speicher; memory; c; Computer (memory, storage) / Dachboden (loft, attic); Deutsch „Speicher“ → „Speicher (Computer)“
+km-0133; Spitze; lace; c; Stoff (lace) / oberes Ende (tip); Deutsch „Spitze“ → „Spitze (Stoff)“
+bd-0036; Spitze (oberes Ende); tip; d; Stoff (lace) / oberes Ende (tip); neue Zeile in woerter/bedeutungen.txt
+sb-0024; Sport; physical education; c; Schulfach (PE) / allgemein (sport); Deutsch „Sport“ → „Sport (Schulfach)“
+vm-0077; Spur; lane; c; Fahrbahn (lane) / Abdruck (trace, track); Deutsch „Spur“ → „Spur (Fahrbahn)“
+nt-0090; Stamm; trunk; c; Baum (trunk) / Volksstamm (tribe); Deutsch „Stamm“ → „Stamm (Baum)“
+ab-0043; Stelle; position; c; Arbeitsplatz (position, job) / Ort (place, spot); Deutsch „Stelle“ → „Stelle (Arbeitsplatz)“
+ke-0950; Stimme; voice; c; beim Sprechen (voice) / bei der Wahl (vote); Deutsch „Stimme“ → „Stimme (beim Sprechen)“
+pg-0041; Stimme; vote; c; beim Sprechen (voice) / bei der Wahl (vote); Deutsch „Stimme“ → „Stimme (bei der Wahl)“
+km-0061; Stoff; fabric; c; Textil (fabric) / Chemie (substance); Deutsch „Stoff“ → „Stoff (Textil)“
+wi-0064; Stoff; substance; c; Textil (fabric) / Chemie (substance); Deutsch „Stoff“ → „Stoff (Chemie)“
+fb-0134; Streit; argument; b; eine Bedeutung (dispute, argument, quarrel); Weitere Antworten + dispute
+gw-0449; Streit; argument; b; eine Bedeutung (dispute, argument, quarrel); Weitere Antworten + dispute
+vt-0058; Streit; dispute; b; eine Bedeutung (dispute, argument, quarrel); Weitere Antworten + argument
+sf-0099; Taktik; tactics; b; eine Bedeutung (tactic, tactics); Weitere Antworten + tactic
+vh-0072; Taktik; tactic; b; eine Bedeutung (tactic, tactics); Weitere Antworten + tactics
+eg-0014; Tasche; bag; c; zum Tragen (bag) / an der Kleidung (pocket); Deutsch „Tasche“ → „Tasche (zum Tragen)“ (ebenso Alias-Gruppe km-0016, ru-0007)
+bd-0004; Tasche (an der Kleidung); pocket; d; zum Tragen (bag) / an der Kleidung (pocket); neue Zeile in woerter/bedeutungen.txt
+sf-0008; Tor; goal; c; Sport (goal) / Eingang (gate); Deutsch „Tor“ → „Tor (Sport)“
+bd-0013; Tor (Eingang); gate; d; Sport (goal) / Eingang (gate); neue Zeile in woerter/bedeutungen.txt
+gw-0072; tragen; to wear; c; Kleidung (to wear) / Last (to carry); Deutsch „tragen“ → „tragen (Kleidung)“ (ebenso Alias-Gruppe km-0021)
+ke-0696; tragen; to carry; c; Kleidung (to wear) / Last (to carry); Deutsch „tragen“ → „tragen (Last)“
+sf-0043; Turnhalle; sports hall; b; eine Bedeutung (sports hall, gym); Weitere Antworten + gym
+bb-0120; Überweisung; bank transfer; c; Bank (bank transfer) / zum Facharzt (referral); Deutsch „Überweisung“ → „Überweisung (Bank)“ (ebenso Alias-Gruppe eg-0086, rc-0017, wf-0059)
+kg-0094; Überweisung; referral; c; Bank (bank transfer) / zum Facharzt (referral); Deutsch „Überweisung“ → „Überweisung (zum Facharzt)“
+fh-0086; Umzug; parade; c; Festzug (parade) / Wohnungswechsel (move); Deutsch „Umzug“ → „Umzug (Festzug)“
+bd-0010; Umzug (Wohnungswechsel); move; d; Festzug (parade) / Wohnungswechsel (move); neue Zeile in woerter/bedeutungen.txt
+fh-0091; Unterhaltung; entertainment; c; Vergnügen (entertainment) / Gespräch (conversation); Deutsch „Unterhaltung“ → „Unterhaltung (Vergnügen)“
+bd-0027; Unterhaltung (Gespräch); conversation; d; Vergnügen (entertainment) / Gespräch (conversation); neue Zeile in woerter/bedeutungen.txt
+kg-0050; Verband; bandage; c; Wunde (bandage) / Vereinigung (association); Deutsch „Verband“ → „Verband (Wunde)“
+bd-0050; Verband (Vereinigung); association; d; Wunde (bandage) / Vereinigung (association); neue Zeile in woerter/bedeutungen.txt
+wi-0069; Verbindung; compound; c; Zusammenhang (connection) / Chemie (compound); Deutsch „Verbindung“ → „Verbindung (Chemie)“
+ba-0050; vergeben; to award; c; Auftrag (to award) / verzeihen (to forgive); Deutsch „vergeben“ → „vergeben (Auftrag)“
+bd-0026; vergeben (verzeihen); to forgive; d; Auftrag (to award) / verzeihen (to forgive); neue Zeile in woerter/bedeutungen.txt
+vt-0101; Vergleich; settlement; c; Gegenüberstellung (comparison) / vor Gericht (settlement); Deutsch „Vergleich“ → „Vergleich (vor Gericht)“ (ebenso Alias-Gruppe fm-0101)
+mv-0013; Verkäufer; salesperson; b; eine Bedeutung (salesperson, shop assistant, seller); Weitere Antworten + shop assistant
+sf-0074; Verlängerung; extra time; c; Frist, Vertrag (extension) / Sport (extra time); Deutsch „Verlängerung“ → „Verlängerung (Sport)“
+vt-0038; Verlängerung; extension; c; Frist, Vertrag (extension) / Sport (extra time); Deutsch „Verlängerung“ → „Verlängerung (Frist, Vertrag)“
+gw-0588; verlegen; embarrassed; c; beschämt (embarrassed) / verschieben, verlieren (to move, to misplace); Deutsch „verlegen“ → „verlegen (beschämt)“
+gw-0989; vermessen; presumptuous; c; anmaßend (presumptuous) / Verb (to measure, to survey); Deutsch „vermessen“ → „vermessen (anmaßend)“
+gw-0551; vorstellen; to introduce; c; jemanden (to introduce) / sich etwas vorstellen (to imagine); Deutsch „vorstellen“ → „vorstellen (jemanden)“
+kk-0039; Vorstellung; performance; c; Theater (performance) / Gedanke (idea) / Bekanntmachen (introduction); Deutsch „Vorstellung“ → „Vorstellung (Theater)“
+pg-0014; wählen; to vote; c; bei einer Wahl (to vote) / aussuchen (to choose) / Telefon (to dial); Deutsch „wählen“ → „wählen (bei einer Wahl)“ (ebenso Alias-Gruppe rd-0031)
+gw-0347; während; during; b; eine Bedeutung (during, while); Weitere Antworten + while
+gw-0603; wahrscheinlich; likely; b; eine Bedeutung (likely, probably); Weitere Antworten + probably
+ke-0212; weit; far; c; Entfernung (far) / Kleidung (wide, loose); Deutsch „weit“ → „weit (Entfernung)“
+km-0054; weit; wide; c; Entfernung (far) / Kleidung (wide, loose); Deutsch „weit“ → „weit (Kleidung)“
+ab-0115; Weiterbildung; continuing education; b; eine Bedeutung (continuing education, further education, further training); Weitere Antworten + further training
+pw-0075; Weiterbildung; further training; b; eine Bedeutung (continuing education, further education, further training); Weitere Antworten + further education
+sb-0118; Weiterbildung; further education; b; eine Bedeutung (continuing education, further education, further training); Weitere Antworten + further training
+rd-0219; Werk; plant; c; Fabrik (plant) / Kunstwerk (work); Deutsch „Werk“ → „Werk (Fabrik)“
+vt-0124; Widerruf; revocation; b; eine Bedeutung (revocation, cancellation); Weitere Antworten + cancellation
+ab-0063; Zeugnis; certificate; c; Arbeit (certificate, reference) / Schule (report card); Deutsch „Zeugnis“ → „Zeugnis (Arbeit)“
+sb-0037; Zeugnis; report card; c; Arbeit (certificate, reference) / Schule (report card); Deutsch „Zeugnis“ → „Zeugnis (Schule)“
+bb-0085; Ziel; goal; b; eine Bedeutung (goal, aim, objective, target); Weitere Antworten + aim
+sb-0123; Zulassung; admission; c; Studium (admission) / Fahrzeug (registration); Deutsch „Zulassung“ → „Zulassung (Studium)“
+vm-0120; Zulassung; registration; c; Studium (admission) / Fahrzeug (registration); Deutsch „Zulassung“ → „Zulassung (Fahrzeug)“
+ba-0046; Zuschlag; contract award; c; Ausschreibung (contract award) / Aufpreis (surcharge); Deutsch „Zuschlag“ → „Zuschlag (Ausschreibung)“
+ru-0100; Zuschlag; surcharge; c; Ausschreibung (contract award) / Aufpreis (surcharge); Deutsch „Zuschlag“ → „Zuschlag (Aufpreis)“

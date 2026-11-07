@@ -2,7 +2,7 @@ id; Deutsch; Englisch; Weitere Antworten; Niveau; Themen; Beispiel Englisch; Bei
 km-0001; Hemd; shirt; ; A1; Alltag/Kleidung/Kleidungsstücke; He is wearing a white shirt today.; Er trägt heute ein weißes Hemd.
 km-0002; Hose; trousers; pants; A1; Alltag/Kleidung/Kleidungsstücke; These trousers are too long for me.; Diese Hose ist mir zu lang.
 km-0003; Kleid; dress; ; A1; Alltag/Kleidung/Kleidungsstücke; She bought a red dress for the party.; Sie hat ein rotes Kleid für die Party gekauft.
-km-0004; Rock; skirt; ; A1; Alltag/Kleidung/Kleidungsstücke; My sister often wears a blue skirt.; Meine Schwester trägt oft einen blauen Rock.
+km-0004; Rock (Kleidungsstück); skirt; ; A1; Alltag/Kleidung/Kleidungsstücke; My sister often wears a blue skirt.; Meine Schwester trägt oft einen blauen Rock.
 km-0005; Schuh; shoe; ; A1; Alltag/Kleidung/Schuhe & Accessoires; There is a hole in my left shoe.; In meinem linken Schuh ist ein Loch.
 km-0006; Jacke; jacket; ; A1; Alltag/Kleidung/Kleidungsstücke; Take your jacket because it is cold outside.; Nimm deine Jacke, denn draußen ist es kalt.
 km-0007; Mantel; coat; ; A1; Alltag/Kleidung/Kleidungsstücke; In winter I wear a warm coat.; Im Winter trage ich einen warmen Mantel.
@@ -14,12 +14,12 @@ km-0012; Hut; hat; ; A1; Alltag/Kleidung/Schuhe & Accessoires; My grandfather al
 km-0013; Schal; scarf; ; A1; Alltag/Kleidung/Schuhe & Accessoires; She gave me a warm scarf for Christmas.; Sie hat mir zu Weihnachten einen warmen Schal geschenkt.
 km-0014; Handschuh; glove; ; A1; Alltag/Kleidung/Schuhe & Accessoires; I lost one glove in the snow.; Ich habe einen Handschuh im Schnee verloren.
 km-0015; Gürtel; belt; ; A1; Alltag/Kleidung/Schuhe & Accessoires; He needs a new belt for his trousers.; Er braucht einen neuen Gürtel für seine Hose.
-km-0016; Tasche; bag; ; A1; Alltag/Kleidung/Schuhe & Accessoires; Her bag is full of old clothes.; Ihre Tasche ist voller alter Kleidung.
+km-0016; Tasche (zum Tragen); bag; ; A1; Alltag/Kleidung/Schuhe & Accessoires; Her bag is full of old clothes.; Ihre Tasche ist voller alter Kleidung.
 km-0017; Knopf; button; ; A1; Alltag/Kleidung/Kleidungsstücke; A button fell off my coat yesterday.; Gestern ist ein Knopf von meinem Mantel abgefallen.
 km-0018; Stiefel; boot; ; A1; Alltag/Kleidung/Schuhe & Accessoires; These boots keep my feet warm and dry.; Diese Stiefel halten meine Füße warm und trocken.
-km-0019; anziehen; to put on; ; A1; Alltag/Kleidung/Kleidungsstücke; Please put on your shoes before we leave.; Bitte zieh deine Schuhe an, bevor wir gehen.
-km-0020; ausziehen; to take off; ; A1; Alltag/Kleidung/Kleidungsstücke; Take off your wet jacket at the door.; Zieh deine nasse Jacke an der Tür aus.
-km-0021; tragen; to wear; ; A1; Alltag/Kleidung/Stil; She likes to wear bright colors in summer.; Sie trägt im Sommer gern helle Farben.
+km-0019; anziehen (Kleidung); to put on; ; A1; Alltag/Kleidung/Kleidungsstücke; Please put on your shoes before we leave.; Bitte zieh deine Schuhe an, bevor wir gehen.
+km-0020; ausziehen (Kleidung); to take off; ; A1; Alltag/Kleidung/Kleidungsstücke; Take off your wet jacket at the door.; Zieh deine nasse Jacke an der Tür aus.
+km-0021; tragen (Kleidung); to wear; ; A1; Alltag/Kleidung/Stil; She likes to wear bright colors in summer.; Sie trägt im Sommer gern helle Farben.
 km-0022; kaufen; to buy; to purchase; A1; Alltag/Kleidung/Einkauf & Passform, Alltag/Einkaufen; I want to buy a new winter coat.; Ich möchte einen neuen Wintermantel kaufen.
 km-0023; neu; new; ; A1; Alltag/Kleidung/Einkauf & Passform; My new shoes are still a bit stiff.; Meine neuen Schuhe sind noch etwas steif.
 km-0024; alt; old; ; A1; Alltag/Kleidung/Einkauf & Passform; This old sweater is still my favorite piece.; Dieser alte Pullover ist immer noch mein Lieblingsstück.
@@ -52,20 +52,20 @@ km-0050; Größe; size; ; A2; Alltag/Kleidung/Einkauf & Passform; Do you have th
 km-0051; anprobieren; to try on; ; A2; Alltag/Kleidung/Einkauf & Passform; Can I try on these shoes in brown?; Kann ich diese Schuhe in Braun anprobieren?
 km-0052; passen; to fit; ; A2; Alltag/Kleidung/Einkauf & Passform; These jeans fit perfectly around the waist.; Diese Jeans passt an der Taille perfekt.
 km-0053; eng; tight; narrow; A2; Alltag/Kleidung/Einkauf & Passform; The dress is too tight at the shoulders.; Das Kleid ist an den Schultern zu eng.
-km-0054; weit; wide; loose; A2; Alltag/Kleidung/Einkauf & Passform; He likes wide shirts in the summer heat.; Er mag weite Hemden in der Sommerhitze.
+km-0054; weit (Kleidung); wide; loose; A2; Alltag/Kleidung/Einkauf & Passform; He likes wide shirts in the summer heat.; Er mag weite Hemden in der Sommerhitze.
 km-0055; bequem; comfortable; comfy; A2; Alltag/Kleidung/Einkauf & Passform; These sneakers are really comfortable for long walks.; Diese Turnschuhe sind wirklich bequem für lange Spaziergänge.
 km-0056; billig; cheap; inexpensive; A2; Alltag/Kleidung/Einkauf & Passform; The jacket was cheap but surprisingly good.; Die Jacke war billig, aber überraschend gut.
 km-0057; teuer; expensive; ; A2; Alltag/Kleidung/Einkauf & Passform; This coat is too expensive for me.; Dieser Mantel ist mir zu teuer.
 km-0058; Umkleidekabine; fitting room; changing room; A2; Alltag/Kleidung/Einkauf & Passform; The fitting room is at the back.; Die Umkleidekabine ist hinten im Laden.
 km-0059; Kasse; checkout; cash register; A2; Alltag/Kleidung/Einkauf & Passform, Alltag/Einkaufen; There was a long line at the checkout.; An der Kasse war eine lange Schlange.
-km-0060; Preis; price; ; A2; Alltag/Kleidung/Einkauf & Passform; The price is lower during the sale.; Der Preis ist im Schlussverkauf niedriger.
-km-0061; Stoff; fabric; material, cloth; B1; Alltag/Kleidung/Stoffe & Muster; This fabric feels very soft on the skin.; Dieser Stoff fühlt sich auf der Haut sehr weich an.
+km-0060; Preis (Kosten); price; ; A2; Alltag/Kleidung/Einkauf & Passform; The price is lower during the sale.; Der Preis ist im Schlussverkauf niedriger.
+km-0061; Stoff (Textil); fabric; material, cloth; B1; Alltag/Kleidung/Stoffe & Muster; This fabric feels very soft on the skin.; Dieser Stoff fühlt sich auf der Haut sehr weich an.
 km-0062; Baumwolle; cotton; ; B1; Alltag/Kleidung/Stoffe & Muster; The shirt is made of pure cotton.; Das Hemd ist aus reiner Baumwolle.
 km-0063; Wolle; wool; ; B1; Alltag/Kleidung/Stoffe & Muster; Wool keeps you warm even when wet.; Wolle hält warm, selbst wenn sie nass ist.
 km-0064; Leder; leather; ; B1; Alltag/Kleidung/Stoffe & Muster; Good leather shoes last for many years.; Gute Lederschuhe halten viele Jahre.
 km-0065; Seide; silk; ; B1; Alltag/Kleidung/Stoffe & Muster; She wore a scarf of fine silk.; Sie trug einen Schal aus feiner Seide.
 km-0066; Leinen; linen; ; B1; Alltag/Kleidung/Stoffe & Muster; Linen is light but wrinkles very quickly.; Leinen ist leicht, knittert aber sehr schnell.
-km-0067; Muster; pattern; design; B1; Alltag/Kleidung/Stoffe & Muster; I like the pattern on your new shirt.; Mir gefällt das Muster auf deinem neuen Hemd.
+km-0067; Muster (Design); pattern; design; B1; Alltag/Kleidung/Stoffe & Muster; I like the pattern on your new shirt.; Mir gefällt das Muster auf deinem neuen Hemd.
 km-0068; gestreift; striped; ; B1; Alltag/Kleidung/Stoffe & Muster; He chose a striped shirt for the interview.; Er wählte ein gestreiftes Hemd für das Vorstellungsgespräch.
 km-0069; kariert; checked; plaid; B1; Alltag/Kleidung/Stoffe & Muster; She loves checked shirts in autumn colors.; Sie liebt karierte Hemden in Herbstfarben.
 km-0070; gepunktet; dotted; polka-dot; B1; Alltag/Kleidung/Stoffe & Muster; The dotted dress looks playful and fresh.; Das gepunktete Kleid wirkt verspielt und frisch.
@@ -75,7 +75,7 @@ km-0073; Kragen; collar; ; B1; Alltag/Kleidung/Kleidungsstücke; The collar of t
 km-0074; Ärmel; sleeve; ; B1; Alltag/Kleidung/Kleidungsstücke; The sleeves are a little too short.; Die Ärmel sind ein bisschen zu kurz.
 km-0075; Hosentasche; pocket; trouser pocket; B1; Alltag/Kleidung/Kleidungsstücke; He always keeps his keys in his pocket.; Er hat seine Schlüssel immer in der Hosentasche.
 km-0076; Kapuze; hood; ; B1; Alltag/Kleidung/Kleidungsstücke; Pull up your hood, it is raining.; Zieh die Kapuze hoch, es regnet.
-km-0077; Absatz; heel; ; B1; Alltag/Kleidung/Schuhe & Accessoires; The heel of her shoe broke on the stairs.; Der Absatz ihres Schuhs brach auf der Treppe ab.
+km-0077; Absatz (Schuh); heel; ; B1; Alltag/Kleidung/Schuhe & Accessoires; The heel of her shoe broke on the stairs.; Der Absatz ihres Schuhs brach auf der Treppe ab.
 km-0078; Schnürsenkel; shoelace; bootlace; B1; Alltag/Kleidung/Schuhe & Accessoires; Your shoelace is open, be careful.; Dein Schnürsenkel ist offen, pass auf.
 km-0079; umtauschen; to exchange; to swap; B1; Alltag/Kleidung/Einkauf & Passform; Can I exchange this sweater for a larger one?; Kann ich diesen Pullover gegen einen größeren umtauschen?
 km-0080; zurückgeben; to return; to give back; B1; Alltag/Kleidung/Einkauf & Passform; You can return the shoes within two weeks.; Sie können die Schuhe innerhalb von zwei Wochen zurückgeben.
@@ -96,7 +96,7 @@ km-0094; Strumpfhose; tights; pantyhose; B1; Alltag/Kleidung/Kleidungsstücke; S
 km-0095; Unterhemd; undershirt; ; B1; Alltag/Kleidung/Kleidungsstücke; In winter he always wears an undershirt.; Im Winter trägt er immer ein Unterhemd.
 km-0096; Naht; seam; ; B2; Alltag/Kleidung/Pflege & Schneiderei; The seam on the sleeve is coming apart.; Die Naht am Ärmel geht langsam auf.
 km-0097; Saum; hem; ; B2; Alltag/Kleidung/Pflege & Schneiderei; The hem of the dress needs to be shortened.; Der Saum des Kleides muss gekürzt werden.
-km-0098; Futter; lining; ; B2; Alltag/Kleidung/Stoffe & Muster; The coat has a warm lining for winter.; Der Mantel hat ein warmes Futter für den Winter.
+km-0098; Futter (im Mantel); lining; ; B2; Alltag/Kleidung/Stoffe & Muster; The coat has a warm lining for winter.; Der Mantel hat ein warmes Futter für den Winter.
 km-0099; Kleiderbügel; hanger; clothes hanger; B2; Alltag/Kleidung/Pflege & Schneiderei; Put the suit on a hanger right away.; Häng den Anzug sofort auf einen Kleiderbügel.
 km-0100; bügeln; to iron; to press; B2; Alltag/Kleidung/Pflege & Schneiderei; I still have to iron five shirts tonight.; Ich muss heute Abend noch fünf Hemden bügeln.
 km-0101; Schneider; tailor; ; B2; Alltag/Kleidung/Pflege & Schneiderei; The tailor shortened the trousers in one day.; Der Schneider hat die Hose an einem Tag gekürzt.
@@ -124,14 +124,14 @@ km-0122; Kaschmir; cashmere; ; B2; Alltag/Kleidung/Stoffe & Muster; A cashmere s
 km-0123; atmungsaktiv; breathable; ; B2; Alltag/Kleidung/Stoffe & Muster; This jacket is waterproof and breathable at once.; Diese Jacke ist wasserdicht und zugleich atmungsaktiv.
 km-0124; knitterfrei; wrinkle-free; non-iron; B2; Alltag/Kleidung/Stoffe & Muster; Wrinkle-free shirts are practical for business trips.; Knitterfreie Hemden sind praktisch für Geschäftsreisen.
 km-0125; Umhang; cloak; cape; B2; Alltag/Kleidung/Kleidungsstücke; The actor wore a long black cloak on stage.; Der Schauspieler trug auf der Bühne einen langen schwarzen Umhang.
-km-0126; Garderobe; wardrobe; ; C1; Alltag/Kleidung/Stil; She renews her wardrobe twice a year.; Sie erneuert ihre Garderobe zweimal im Jahr.
+km-0126; Garderobe (Kleidung); wardrobe; ; C1; Alltag/Kleidung/Stil; She renews her wardrobe twice a year.; Sie erneuert ihre Garderobe zweimal im Jahr.
 km-0127; Maßanzug; bespoke suit; made-to-measure suit; C1; Alltag/Kleidung/Pflege & Schneiderei; A bespoke suit fits better than any other.; Ein Maßanzug sitzt besser als jeder andere.
 km-0128; Konfektionsware; ready-to-wear; off-the-rack clothing; C1; Alltag/Kleidung/Mode & Design; Ready-to-wear is cheaper than tailored clothing.; Konfektionsware ist günstiger als maßgeschneiderte Kleidung.
 km-0129; Stoffmuster; swatch; fabric sample; C1; Alltag/Kleidung/Stoffe & Muster; The tailor showed us several swatches in blue.; Der Schneider zeigte uns mehrere Stoffmuster in Blau.
 km-0130; Webart; weave; ; C1; Alltag/Kleidung/Stoffe & Muster; The dense weave makes the fabric very durable.; Die dichte Webart macht den Stoff sehr strapazierfähig.
 km-0131; Schnitt; cut; ; C1; Alltag/Kleidung/Mode & Design; The modern cut makes the coat look slimmer.; Der moderne Schnitt lässt den Mantel schlanker wirken.
 km-0132; Stickerei; embroidery; ; C1; Alltag/Kleidung/Stoffe & Muster; The blouse has fine embroidery on the collar.; Die Bluse hat eine feine Stickerei am Kragen.
-km-0133; Spitze; lace; ; C1; Alltag/Kleidung/Stoffe & Muster; The wedding dress was decorated with white lace.; Das Hochzeitskleid war mit weißer Spitze verziert.
+km-0133; Spitze (Stoff); lace; ; C1; Alltag/Kleidung/Stoffe & Muster; The wedding dress was decorated with white lace.; Das Hochzeitskleid war mit weißer Spitze verziert.
 km-0134; Rüsche; ruffle; frill; C1; Alltag/Kleidung/Stoffe & Muster; The skirt has playful ruffles at the hem.; Der Rock hat verspielte Rüschen am Saum.
 km-0135; Passform; fit; ; C1; Alltag/Kleidung/Einkauf & Passform; The fit of these trousers is simply perfect.; Die Passform dieser Hose ist einfach perfekt.
 km-0136; Textilindustrie; textile industry; ; C1; Alltag/Kleidung/Mode & Design; The textile industry is slowly becoming more sustainable.; Die Textilindustrie wird langsam nachhaltiger.

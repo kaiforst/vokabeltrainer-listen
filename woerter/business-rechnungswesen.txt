@@ -1,11 +1,11 @@
 id; Deutsch; Englisch; Weitere Antworten; Niveau; Themen; Beispiel Englisch; Beispiel Deutsch
 rc-0001; Geld; money; ; A1; Business/Rechnungswesen/Rechnung & Zahlung, Alltag/Einkaufen; The company needs money to pay its bills.; Das Unternehmen braucht Geld, um seine Rechnungen zu bezahlen.
 rc-0002; bezahlen; to pay; ; A1; Business/Rechnungswesen/Rechnung & Zahlung; Please pay the invoice by the end of May.; Bitte bezahlen Sie die Rechnung bis Ende Mai.
-rc-0003; Preis; price; ; A1; Business/Rechnungswesen/Rechnung & Zahlung, Alltag/Einkaufen; The price of the new software is very high.; Der Preis der neuen Software ist sehr hoch.
+rc-0003; Preis (Kosten); price; ; A1; Business/Rechnungswesen/Rechnung & Zahlung, Alltag/Einkaufen; The price of the new software is very high.; Der Preis der neuen Software ist sehr hoch.
 rc-0004; kaufen; to buy; to purchase; A1; Business/Rechnungswesen/Rechnung & Zahlung; We want to buy new computers for the office.; Wir wollen neue Computer für das Büro kaufen.
 rc-0005; Konto; account; bank account; A1; Business/Rechnungswesen/Buchhaltung; The money arrived in our account on Monday.; Das Geld kam am Montag auf unserem Konto an.
 rc-0006; Rechnung; invoice; bill; A2; Business/Rechnungswesen/Rechnung & Zahlung; We send the invoice right after the delivery.; Wir senden die Rechnung direkt nach der Lieferung.
-rc-0007; Kosten; costs; ; A2; Business/Rechnungswesen/Budget; The costs for the project are too high.; Die Kosten für das Projekt sind zu hoch.
+rc-0007; Kosten; costs; cost; A2; Business/Rechnungswesen/Budget; The costs for the project are too high.; Die Kosten für das Projekt sind zu hoch.
 rc-0008; Steuer; tax; ; A2; Business/Rechnungswesen/Steuern; Every company must pay tax on its profit.; Jedes Unternehmen muss Steuern auf seinen Gewinn zahlen.
 rc-0009; Gehalt; salary; wage, pay; A2; Business/Rechnungswesen/Buchhaltung; Her salary is paid on the last working day.; Ihr Gehalt wird am letzten Arbeitstag gezahlt.
 rc-0010; Betrag; amount; sum of money; A2; Business/Rechnungswesen/Rechnung & Zahlung; Please check the amount on the invoice carefully.; Bitte prüfen Sie den Betrag auf der Rechnung genau.
@@ -15,7 +15,7 @@ rc-0013; Kunde; customer; client; A2; Business/Rechnungswesen/Rechnung & Zahlung
 rc-0014; Lieferant; supplier; vendor; A2; Business/Rechnungswesen/Rechnung & Zahlung; Our supplier offers good prices and fast delivery.; Unser Lieferant bietet gute Preise und schnelle Lieferung.
 rc-0015; Zahlung; payment; ; A2; Business/Rechnungswesen/Rechnung & Zahlung; We received your payment last week, thank you.; Wir haben Ihre Zahlung letzte Woche erhalten, vielen Dank.
 rc-0016; Bargeld; cash; ; A2; Business/Rechnungswesen/Rechnung & Zahlung; Many companies do not accept cash anymore.; Viele Unternehmen akzeptieren kein Bargeld mehr.
-rc-0017; Überweisung; bank transfer; wire transfer; A2; Business/Rechnungswesen/Rechnung & Zahlung; Payment by bank transfer takes one or two days.; Eine Zahlung per Überweisung dauert ein bis zwei Tage.
+rc-0017; Überweisung (Bank); bank transfer; wire transfer; A2; Business/Rechnungswesen/Rechnung & Zahlung; Payment by bank transfer takes one or two days.; Eine Zahlung per Überweisung dauert ein bis zwei Tage.
 rc-0018; Kreditkarte; credit card; ; A2; Business/Rechnungswesen/Rechnung & Zahlung; You can pay the hotel with your credit card.; Sie können das Hotel mit Ihrer Kreditkarte bezahlen.
 rc-0019; Rabatt; discount; price reduction; A2; Business/Rechnungswesen/Rechnung & Zahlung; We give a discount for large orders.; Wir geben einen Rabatt für große Bestellungen.
 rc-0020; Gewinn; profit; earnings; A2; Business/Rechnungswesen/Bilanz & GuV; The profit rose by ten percent last year.; Der Gewinn stieg im letzten Jahr um zehn Prozent.
@@ -31,14 +31,14 @@ rc-0029; Zahlungsfrist; payment deadline; payment period; B1; Business/Rechnungs
 rc-0030; Buchhaltung; accounting; accounting department; B1; Business/Rechnungswesen/Buchhaltung; Please send all receipts to the accounting department.; Bitte senden Sie alle Belege an die Buchhaltung.
 rc-0031; Buchhalter; accountant; bookkeeper; B1; Business/Rechnungswesen/Buchhaltung; Our accountant checks every invoice before payment.; Unser Buchhalter prüft jede Rechnung vor der Zahlung.
 rc-0032; Umsatz; turnover; revenue, sales; B1; Business/Rechnungswesen/Controlling & Kennzahlen; The turnover grew strongly in the second quarter.; Der Umsatz wuchs im zweiten Quartal stark.
-rc-0033; Einnahmen; income; receipts; B1; Business/Rechnungswesen/Buchhaltung; The income from online sales is rising every month.; Die Einnahmen aus dem Onlineverkauf steigen jeden Monat.
+rc-0033; Einnahmen; income; receipts, revenue; B1; Business/Rechnungswesen/Buchhaltung; The income from online sales is rising every month.; Die Einnahmen aus dem Onlineverkauf steigen jeden Monat.
 rc-0034; Ausgaben; expenses; expenditure, spending; B1; Business/Rechnungswesen/Budget; We must reduce our expenses in the next year.; Wir müssen unsere Ausgaben im nächsten Jahr reduzieren.
 rc-0035; Bilanz; balance sheet; ; B1; Business/Rechnungswesen/Bilanz & GuV; The balance sheet shows assets and liabilities of a company.; Die Bilanz zeigt Vermögen und Schulden eines Unternehmens.
 rc-0036; Schulden; debts; debt; B1; Business/Rechnungswesen/Bilanz & GuV; The firm paid back its debts within three years.; Die Firma zahlte ihre Schulden innerhalb von drei Jahren zurück.
 rc-0037; Kredit; loan; bank loan; B1; Business/Rechnungswesen/Buchhaltung; The company took out a loan for new machines.; Das Unternehmen nahm einen Kredit für neue Maschinen auf.
 rc-0038; Zinsen; interest; ; B1; Business/Rechnungswesen/Buchhaltung; The bank charges five percent interest on the loan.; Die Bank verlangt fünf Prozent Zinsen auf den Kredit.
 rc-0039; Anzahlung; down payment; deposit; B1; Business/Rechnungswesen/Rechnung & Zahlung; We ask for a down payment of twenty percent.; Wir verlangen eine Anzahlung von zwanzig Prozent.
-rc-0040; Ratenzahlung; payment by installments; installment plan; B1; Business/Rechnungswesen/Rechnung & Zahlung; The customer chose payment by installments over twelve months.; Der Kunde wählte eine Ratenzahlung über zwölf Monate.
+rc-0040; Ratenzahlung; payment by installments; installment plan, installment payment, payment by instalments; B1; Business/Rechnungswesen/Rechnung & Zahlung; The customer chose payment by installments over twelve months.; Der Kunde wählte eine Ratenzahlung über zwölf Monate.
 rc-0041; Mehrwertsteuer; value added tax; VAT; B1; Business/Rechnungswesen/Steuern; The price includes nineteen percent value added tax.; Der Preis enthält neunzehn Prozent Mehrwertsteuer.
 rc-0042; Nettobetrag; net amount; ; B1; Business/Rechnungswesen/Rechnung & Zahlung; The net amount does not include any taxes.; Der Nettobetrag enthält keine Steuern.
 rc-0043; Bruttobetrag; gross amount; ; B1; Business/Rechnungswesen/Rechnung & Zahlung; Please transfer the gross amount to our bank account.; Bitte überweisen Sie den Bruttobetrag auf unser Bankkonto.
@@ -66,7 +66,7 @@ rc-0064; Kosten senken; to cut costs; to reduce costs; B1; Business/Rechnungswes
 rc-0065; in Rechnung stellen; to invoice; to bill, to charge for; B1; Business/Rechnungswesen/Rechnung & Zahlung; We will invoice the extra hours at the usual rate.; Wir stellen die zusätzlichen Stunden zum üblichen Satz in Rechnung.
 rc-0066; Gewinn- und Verlustrechnung; profit and loss statement; income statement; B2; Business/Rechnungswesen/Bilanz & GuV; The profit and loss statement shows income and expenses.; Die Gewinn- und Verlustrechnung zeigt Erträge und Aufwendungen.
 rc-0067; Abschreibung; depreciation; amortization; B2; Business/Rechnungswesen/Bilanz & GuV; Depreciation reduces the book value of our machines.; Die Abschreibung mindert den Buchwert unserer Maschinen.
-rc-0068; abschreiben; to depreciate; to write off; B2; Business/Rechnungswesen/Buchhaltung; We depreciate the new vehicles over six years.; Wir schreiben die neuen Fahrzeuge über sechs Jahre ab.
+rc-0068; abschreiben (Buchhaltung); to depreciate; to write off; B2; Business/Rechnungswesen/Buchhaltung; We depreciate the new vehicles over six years.; Wir schreiben die neuen Fahrzeuge über sechs Jahre ab.
 rc-0069; Cashflow; cash flow; ; B2; Business/Rechnungswesen/Controlling & Kennzahlen; A healthy cash flow keeps the company flexible.; Ein gesunder Cashflow hält das Unternehmen flexibel.
 rc-0070; Liquidität; liquidity; ; B2; Business/Rechnungswesen/Controlling & Kennzahlen; The company improved its liquidity by selling old stock.; Das Unternehmen verbesserte seine Liquidität durch den Verkauf alter Bestände.
 rc-0071; Forderungen; receivables; accounts receivable; B2; Business/Rechnungswesen/Bilanz & GuV; Our receivables increased because many customers pay late.; Unsere Forderungen stiegen, weil viele Kunden spät zahlen.
@@ -84,7 +84,7 @@ rc-0082; Hauptbuch; general ledger; ledger; B2; Business/Rechnungswesen/Buchhalt
 rc-0083; Soll; debit; debit side; B2; Business/Rechnungswesen/Buchhaltung; The amount was posted on the debit side.; Der Betrag wurde im Soll gebucht.
 rc-0084; Haben; credit; credit side; B2; Business/Rechnungswesen/Buchhaltung; The payment appears on the credit side of the account.; Die Zahlung erscheint im Haben des Kontos.
 rc-0085; Inventur; stocktaking; physical inventory; B2; Business/Rechnungswesen/Buchhaltung; We do a complete stocktaking at the end of the year.; Wir machen am Jahresende eine komplette Inventur.
-rc-0086; Lagerbestand; inventory; stock; B2; Business/Rechnungswesen/Bilanz & GuV; A high inventory ties up a lot of capital.; Ein hoher Lagerbestand bindet viel Kapital.
+rc-0086; Lagerbestand; inventory; stock, stock level; B2; Business/Rechnungswesen/Bilanz & GuV; A high inventory ties up a lot of capital.; Ein hoher Lagerbestand bindet viel Kapital.
 rc-0087; Rückstellung; provision; accrued liability; B2; Business/Rechnungswesen/Bilanz & GuV; We made a provision for possible legal costs.; Wir bildeten eine Rückstellung für mögliche Prozesskosten.
 rc-0088; Rücklage; reserve; ; B2; Business/Rechnungswesen/Bilanz & GuV; The company built a reserve for difficult times.; Das Unternehmen bildete eine Rücklage für schwierige Zeiten.
 rc-0089; Kennzahl; key figure; KPI, metric, indicator; B2; Business/Rechnungswesen/Controlling & Kennzahlen; This key figure measures the efficiency of our production.; Diese Kennzahl misst die Effizienz unserer Produktion.

@@ -17,10 +17,10 @@ vm-0015; Taxi; taxi; cab; A1; Reisen/Verkehr/Auto; We took a taxi from the airpo
 vm-0016; U-Bahn; underground; subway, metro, tube; A1; Reisen/Verkehr/Bus & Bahn; The underground runs every five minutes here.; Die U-Bahn fährt hier alle fünf Minuten.
 vm-0017; Weg; way; path, route; A1; Reisen/Verkehr/Wegbeschreibung; Can you show me the way to the harbour?; Können Sie mir den Weg zum Hafen zeigen?
 vm-0018; Brücke; bridge; ; A1; Reisen/Verkehr/Straße & Regeln; The old bridge crosses the wide river.; Die alte Brücke führt über den breiten Fluss.
-vm-0019; Karte; map; ; A1; Reisen/Verkehr/Wegbeschreibung; We looked at the map before the trip.; Wir haben uns vor der Fahrt die Karte angesehen.
+vm-0019; Karte (Landkarte); map; ; A1; Reisen/Verkehr/Wegbeschreibung; We looked at the map before the trip.; Wir haben uns vor der Fahrt die Karte angesehen.
 vm-0020; schnell; fast; quick; A1; Reisen/Verkehr/Straße & Regeln; This new train is very fast and comfortable.; Dieser neue Zug ist sehr schnell und bequem.
 vm-0021; langsam; slow; slowly; A1; Reisen/Verkehr/Straße & Regeln; Traffic is very slow in the city centre today.; Der Verkehr in der Innenstadt ist heute sehr langsam.
-vm-0022; halten; to stop; ; A1; Reisen/Verkehr/Bus & Bahn; The bus stops directly at the museum.; Der Bus hält direkt am Museum.
+vm-0022; halten (anhalten); to stop; ; A1; Reisen/Verkehr/Bus & Bahn; The bus stops directly at the museum.; Der Bus hält direkt am Museum.
 vm-0023; Stadtplan; city map; street map; A1; Reisen/Verkehr/Wegbeschreibung; The city map shows all the bus lines.; Der Stadtplan zeigt alle Buslinien.
 vm-0024; Fahrer; driver; ; A1; Reisen/Verkehr/Auto; The driver waited for us at the hotel.; Der Fahrer hat am Hotel auf uns gewartet.
 vm-0025; Parkplatz; parking lot; car park, parking space; A1; Reisen/Verkehr/Auto; The parking lot behind the store is free.; Der Parkplatz hinter dem Geschäft ist kostenlos.
@@ -41,7 +41,7 @@ vm-0039; umsteigen; to change trains; to transfer; A2; Reisen/Verkehr/Bus & Bahn
 vm-0040; einsteigen; to get on; to board; A2; Reisen/Verkehr/Bus & Bahn; Please get on quickly, the doors are closing.; Bitte steigen Sie schnell ein, die Türen schließen.
 vm-0041; aussteigen; to get off; ; A2; Reisen/Verkehr/Bus & Bahn; We get off at the next station.; Wir steigen an der nächsten Station aus.
 vm-0042; Helm; helmet; ; A2; Reisen/Verkehr/Fahrrad; Always wear a helmet when you cycle.; Trag immer einen Helm, wenn du Rad fährst.
-vm-0043; Rad; wheel; ; A2; Reisen/Verkehr/Fahrrad; The front wheel of my bike is broken.; Das Vorderrad meines Fahrrads ist kaputt.
+vm-0043; Rad (am Fahrzeug); wheel; ; A2; Reisen/Verkehr/Fahrrad; The front wheel of my bike is broken.; Das Vorderrad meines Fahrrads ist kaputt.
 vm-0044; Reifen; tyre; tire; A2; Reisen/Verkehr/Auto; The left tyre is losing air slowly.; Der linke Reifen verliert langsam Luft.
 vm-0045; Bremse; brake; ; A2; Reisen/Verkehr/Fahrrad; Check the brakes before every long ride.; Prüfe die Bremsen vor jeder langen Tour.
 vm-0046; bremsen; to brake; ; A2; Reisen/Verkehr/Auto; He had to brake suddenly for a cat.; Er musste wegen einer Katze plötzlich bremsen.
@@ -75,7 +75,7 @@ vm-0073; Sicherheitsgurt; seat belt; safety belt; B1; Reisen/Verkehr/Auto; The s
 vm-0074; sich anschnallen; to buckle up; to fasten the seat belt; B1; Reisen/Verkehr/Auto; Please buckle up before we drive off.; Bitte schnall dich an, bevor wir losfahren.
 vm-0075; Umleitung; detour; diversion; B1; Reisen/Verkehr/Straße & Regeln; The detour adds ten minutes to the trip.; Die Umleitung verlängert die Fahrt um zehn Minuten.
 vm-0076; Baustelle; roadworks; construction site; B1; Reisen/Verkehr/Straße & Regeln; The roadworks on the main road cause long delays.; Die Baustelle auf der Hauptstraße verursacht lange Verzögerungen.
-vm-0077; Spur; lane; ; B1; Reisen/Verkehr/Straße & Regeln; Stay in the right lane until the exit.; Bleiben Sie bis zur Ausfahrt auf der rechten Spur.
+vm-0077; Spur (Fahrbahn); lane; ; B1; Reisen/Verkehr/Straße & Regeln; Stay in the right lane until the exit.; Bleiben Sie bis zur Ausfahrt auf der rechten Spur.
 vm-0078; Navigationssystem; navigation system; sat nav, GPS; B1; Reisen/Verkehr/Wegbeschreibung; The navigation system found a faster route.; Das Navigationssystem hat eine schnellere Route gefunden.
 vm-0079; Ladestation; charging station; charging point; B1; Reisen/Verkehr/Tanken & Laden; There is a charging station at the supermarket.; Am Supermarkt gibt es eine Ladestation.
 vm-0080; Elektroauto; electric car; EV, electric vehicle; B1; Reisen/Verkehr/Tanken & Laden; Our electric car is very quiet in the city.; Unser Elektroauto ist in der Stadt sehr leise.
@@ -118,7 +118,7 @@ vm-0116; Fahrkartenautomat; ticket machine; ; B2; Reisen/Verkehr/Bus & Bahn; The
 vm-0117; Verkehrsmittel; means of transport; mode of travel; B2; Reisen/Verkehr/Bus & Bahn; The bicycle is my favourite means of transport.; Das Fahrrad ist mein liebstes Verkehrsmittel.
 vm-0118; Probefahrt; test drive; ; B2; Reisen/Verkehr/Auto; We arranged a test drive for Saturday morning.; Wir haben für Samstagvormittag eine Probefahrt vereinbart.
 vm-0119; Gebrauchtwagen; used car; second-hand car; B2; Reisen/Verkehr/Auto; He bought a used car with low mileage.; Er kaufte einen Gebrauchtwagen mit geringer Laufleistung.
-vm-0120; Zulassung; registration; vehicle registration; B2; Reisen/Verkehr/Auto; The registration of the new car took two weeks.; Die Zulassung des neuen Autos dauerte zwei Wochen.
+vm-0120; Zulassung (Fahrzeug); registration; vehicle registration; B2; Reisen/Verkehr/Auto; The registration of the new car took two weeks.; Die Zulassung des neuen Autos dauerte zwei Wochen.
 vm-0121; Verkehrskontrolle; traffic check; traffic stop; B2; Reisen/Verkehr/Straße & Regeln; The police carried out a traffic check at night.; Die Polizei führte nachts eine Verkehrskontrolle durch.
 vm-0122; Alkoholtest; breathalyser test; breath test; B2; Reisen/Verkehr/Straße & Regeln; The driver had to take a breathalyser test.; Der Fahrer musste einen Alkoholtest machen.
 vm-0123; Reifenwechsel; tyre change; ; B2; Reisen/Verkehr/Auto; Book your tyre change before winter arrives.; Vereinbare den Reifenwechsel, bevor der Winter kommt.
@@ -126,7 +126,7 @@ vm-0124; Fahrprüfung; driving test; ; B2; Reisen/Verkehr/Auto; She passed her d
 vm-0125; Standstreifen; hard shoulder; emergency lane; B2; Reisen/Verkehr/Straße & Regeln; Stop on the hard shoulder only in emergencies.; Halte auf dem Standstreifen nur im Notfall.
 vm-0126; Verkehrswende; mobility transition; transport transition; C1; Reisen/Verkehr/Straße & Regeln; The mobility transition requires better public transport.; Die Verkehrswende erfordert einen besseren öffentlichen Nahverkehr.
 vm-0127; Elektromobilität; electromobility; e-mobility; C1; Reisen/Verkehr/Tanken & Laden; Electromobility depends on a dense charging network.; Die Elektromobilität hängt von einem dichten Ladenetz ab.
-vm-0128; Reichweite; range; ; C1; Reisen/Verkehr/Tanken & Laden; The range drops noticeably in cold weather.; Die Reichweite sinkt bei kaltem Wetter deutlich.
+vm-0128; Reichweite (Fahrzeug); range; ; C1; Reisen/Verkehr/Tanken & Laden; The range drops noticeably in cold weather.; Die Reichweite sinkt bei kaltem Wetter deutlich.
 vm-0129; Emissionen; emissions; ; C1; Reisen/Verkehr/Straße & Regeln; The city wants to cut traffic emissions by half.; Die Stadt will die Emissionen des Verkehrs halbieren.
 vm-0130; Feinstaub; particulate matter; fine dust; C1; Reisen/Verkehr/Straße & Regeln; Particulate matter levels exceeded the limit again.; Die Feinstaubwerte überschritten erneut den Grenzwert.
 vm-0131; Umweltzone; low-emission zone; environmental zone; C1; Reisen/Verkehr/Straße & Regeln; Older diesel cars may not enter the low-emission zone.; Ältere Dieselautos dürfen nicht in die Umweltzone fahren.

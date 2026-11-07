@@ -5,21 +5,21 @@ ru-0003; Urlaub; holiday; vacation; A1; Reisen/Urlaub/Planung & Buchung; My holi
 ru-0004; Hotel; hotel; ; A1; Reisen/Urlaub/Unterkunft; The hotel is right next to the beach.; Das Hotel liegt direkt am Strand.
 ru-0005; Zimmer; room; ; A1; Reisen/Urlaub/Unterkunft; Our room has a view of the sea.; Unser Zimmer hat Blick auf das Meer.
 ru-0006; Koffer; suitcase; ; A1; Reisen/Urlaub/Gepäck; My suitcase is heavy because of the books.; Mein Koffer ist wegen der Bücher schwer.
-ru-0007; Tasche; bag; ; A1; Reisen/Urlaub/Gepäck; The bag with the tickets is in the car.; Die Tasche mit den Tickets liegt im Auto.
+ru-0007; Tasche (zum Tragen); bag; ; A1; Reisen/Urlaub/Gepäck; The bag with the tickets is in the car.; Die Tasche mit den Tickets liegt im Auto.
 ru-0008; Flugzeug; plane; airplane, aircraft; A1; Reisen/Urlaub/Flughafen; The plane leaves at six in the morning.; Das Flugzeug fliegt um sechs Uhr morgens ab.
 ru-0009; fliegen; to fly; ; A1; Reisen/Urlaub/Flughafen; We fly to Lisbon early on Saturday morning.; Wir fliegen am Samstag früh nach Lissabon.
 ru-0010; Flughafen; airport; ; A1; Reisen/Urlaub/Flughafen; The airport is thirty minutes from the city.; Der Flughafen liegt dreißig Minuten von der Stadt entfernt.
 ru-0011; Zug; train; ; A1; Reisen/Urlaub/Unterwegs, Reisen/Verkehr/Bus & Bahn; The train to Vienna leaves from platform five.; Der Zug nach Wien fährt von Gleis fünf.
-ru-0012; Bahnhof; station; railway station; A1; Reisen/Urlaub/Unterwegs; We meet at the station at ten tomorrow.; Wir treffen uns morgen um zehn am Bahnhof.
+ru-0012; Bahnhof; station; railway station, train station; A1; Reisen/Urlaub/Unterwegs; We meet at the station at ten tomorrow.; Wir treffen uns morgen um zehn am Bahnhof.
 ru-0013; Auto; car; ; A1; Reisen/Urlaub/Unterwegs; We drive to the mountains by car.; Wir fahren mit dem Auto in die Berge.
 ru-0014; Bus; bus; coach; A1; Reisen/Urlaub/Unterwegs; The bus to the old town comes every ten minutes.; Der Bus in die Altstadt kommt alle zehn Minuten.
 ru-0015; Fahrkarte; ticket; ; A1; Reisen/Urlaub/Unterwegs; A ticket to the lake costs four euros.; Eine Fahrkarte zum See kostet vier Euro.
 ru-0016; Stadt; city; town; A1; Reisen/Urlaub/Sightseeing; The old city is beautiful in the evening light.; Die alte Stadt ist im Abendlicht wunderschön.
-ru-0017; Land; country; ; A1; Reisen/Urlaub/Planung & Buchung; Portugal is a wonderful country for a holiday.; Portugal ist ein wunderbares Land für einen Urlaub.
+ru-0017; Land (Staat); country; ; A1; Reisen/Urlaub/Planung & Buchung; Portugal is a wonderful country for a holiday.; Portugal ist ein wunderbares Land für einen Urlaub.
 ru-0018; Meer; sea; ocean; A1; Reisen/Urlaub/Strand & Natur; The sea is warm and calm in September.; Das Meer ist im September warm und ruhig.
 ru-0019; Strand; beach; ; A1; Reisen/Urlaub/Strand & Natur; The children play on the beach all day.; Die Kinder spielen den ganzen Tag am Strand.
 ru-0020; Sonne; sun; ; A1; Reisen/Urlaub/Strand & Natur; The sun shines here almost every single day.; Die Sonne scheint hier fast jeden Tag.
-ru-0021; Karte; map; ; A1; Reisen/Urlaub/Unterwegs; Without a map we would be lost here.; Ohne Karte wären wir hier verloren.
+ru-0021; Karte (Landkarte); map; ; A1; Reisen/Urlaub/Unterwegs; Without a map we would be lost here.; Ohne Karte wären wir hier verloren.
 ru-0022; Kamera; camera; ; A1; Reisen/Urlaub/Sightseeing; Take the camera, the light is perfect today.; Nimm die Kamera mit, das Licht ist heute perfekt.
 ru-0023; Taxi; taxi; cab; A1; Reisen/Urlaub/Unterwegs; We take a taxi from the airport to the hotel.; Wir nehmen ein Taxi vom Flughafen zum Hotel.
 ru-0024; Straße; street; road; A1; Reisen/Urlaub/Unterwegs; This street leads directly to the old harbour.; Diese Straße führt direkt zum alten Hafen.
@@ -41,7 +41,7 @@ ru-0039; Reiseführer; guidebook; travel guide; A2; Reisen/Urlaub/Sightseeing; T
 ru-0040; besuchen; to visit; ; A2; Reisen/Urlaub/Sightseeing; We visit the old castle above the town.; Wir besuchen die alte Burg über der Stadt.
 ru-0041; Museum; museum; ; A2; Reisen/Urlaub/Sightseeing, Kultur; The museum is free on the first Sunday.; Das Museum ist am ersten Sonntag kostenlos.
 ru-0042; Kirche; church; ; A2; Reisen/Urlaub/Sightseeing; The small church on the hill is very old.; Die kleine Kirche auf dem Hügel ist sehr alt.
-ru-0043; Schloss; castle; palace; A2; Reisen/Urlaub/Sightseeing; The castle opens its gardens in the summer.; Das Schloss öffnet im Sommer seine Gärten.
+ru-0043; Schloss (Gebäude); castle; palace; A2; Reisen/Urlaub/Sightseeing; The castle opens its gardens in the summer.; Das Schloss öffnet im Sommer seine Gärten.
 ru-0044; Insel; island; ; A2; Reisen/Urlaub/Strand & Natur; The small island has only one little hotel.; Die kleine Insel hat nur ein kleines Hotel.
 ru-0045; See; lake; ; A2; Reisen/Urlaub/Strand & Natur; We swim in the lake before breakfast.; Wir schwimmen vor dem Frühstück im See.
 ru-0046; Berg; mountain; ; A2; Reisen/Urlaub/Strand & Natur; From the mountain you can see the whole valley.; Vom Berg sieht man das ganze Tal.
@@ -62,7 +62,7 @@ ru-0060; Stadtplan; city map; street map; A2; Reisen/Urlaub/Sightseeing; The hot
 ru-0061; Unterkunft; accommodation; lodging; B1; Reisen/Urlaub/Unterkunft; We found cheap accommodation near the old town.; Wir fanden eine günstige Unterkunft nahe der Altstadt.
 ru-0062; Ferienwohnung; holiday apartment; holiday flat; B1; Reisen/Urlaub/Unterkunft; The holiday apartment has a balcony and a small kitchen.; Die Ferienwohnung hat einen Balkon und eine kleine Küche.
 ru-0063; Jugendherberge; youth hostel; hostel; B1; Reisen/Urlaub/Unterkunft; The youth hostel is cheap and very clean.; Die Jugendherberge ist günstig und sehr sauber.
-ru-0064; Pension; guesthouse; bed and breakfast; B1; Reisen/Urlaub/Unterkunft; The guesthouse is run by a friendly old couple.; Die Pension wird von einem freundlichen alten Paar geführt.
+ru-0064; Pension (Unterkunft); guesthouse; bed and breakfast; B1; Reisen/Urlaub/Unterkunft; The guesthouse is run by a friendly old couple.; Die Pension wird von einem freundlichen alten Paar geführt.
 ru-0065; Doppelzimmer; double room; ; B1; Reisen/Urlaub/Unterkunft; A double room with breakfast costs ninety euros.; Ein Doppelzimmer mit Frühstück kostet neunzig Euro.
 ru-0066; Einzelzimmer; single room; ; B1; Reisen/Urlaub/Unterkunft; The last single room was already taken yesterday.; Das letzte Einzelzimmer war gestern schon vergeben.
 ru-0067; Halbpension; half board; ; B1; Reisen/Urlaub/Unterkunft; We chose half board because we eat lunch out.; Wir wählten Halbpension, weil wir mittags unterwegs essen.
@@ -79,12 +79,12 @@ ru-0077; Zoll; customs; ; B1; Reisen/Urlaub/Flughafen; At customs nobody wanted 
 ru-0078; Flugbegleiter; flight attendant; steward; B1; Reisen/Urlaub/Flughafen; The flight attendant brought us water and coffee.; Der Flugbegleiter brachte uns Wasser und Kaffee.
 ru-0079; Landung; landing; ; B1; Reisen/Urlaub/Flughafen; The landing was soft despite the strong wind.; Die Landung war trotz des starken Windes sanft.
 ru-0080; landen; to land; ; B1; Reisen/Urlaub/Flughafen; We land in Madrid shortly after midnight tonight.; Wir landen heute kurz nach Mitternacht in Madrid.
-ru-0081; abheben; to take off; ; B1; Reisen/Urlaub/Flughafen; The plane took off with a short delay.; Das Flugzeug hob mit kurzer Verspätung ab.
+ru-0081; abheben (Flugzeug); to take off; ; B1; Reisen/Urlaub/Flughafen; The plane took off with a short delay.; Das Flugzeug hob mit kurzer Verspätung ab.
 ru-0082; Notausgang; emergency exit; ; B1; Reisen/Urlaub/Flughafen; The emergency exit is marked with green signs.; Der Notausgang ist mit grünen Schildern markiert.
 ru-0083; Sehenswürdigkeit; sight; tourist attraction; B1; Reisen/Urlaub/Sightseeing; The cathedral is the most famous sight in town.; Die Kathedrale ist die berühmteste Sehenswürdigkeit der Stadt.
 ru-0084; Denkmal; monument; memorial; B1; Reisen/Urlaub/Sightseeing; The monument on the square honours a local poet.; Das Denkmal auf dem Platz ehrt einen hiesigen Dichter.
 ru-0085; Altstadt; old town; historic centre; B1; Reisen/Urlaub/Sightseeing; We got lost in the narrow streets of the old town.; Wir verliefen uns in den engen Gassen der Altstadt.
-ru-0086; Führung; guided tour; tour; B1; Reisen/Urlaub/Sightseeing; The guided tour through the castle takes an hour.; Die Führung durch das Schloss dauert eine Stunde.
+ru-0086; Führung (Besichtigung); guided tour; tour; B1; Reisen/Urlaub/Sightseeing; The guided tour through the castle takes an hour.; Die Führung durch das Schloss dauert eine Stunde.
 ru-0087; Souvenir; souvenir; keepsake; B1; Reisen/Urlaub/Sightseeing; She bought a small souvenir for her colleagues.; Sie kaufte ein kleines Souvenir für ihre Kollegen.
 ru-0088; Sonnenbrand; sunburn; ; B1; Reisen/Urlaub/Strand & Natur; After one afternoon he already had a sunburn.; Nach einem Nachmittag hatte er schon einen Sonnenbrand.
 ru-0089; Liegestuhl; deck chair; sun lounger; B1; Reisen/Urlaub/Strand & Natur; Every deck chair by the pool was taken by nine.; Jeder Liegestuhl am Pool war um neun besetzt.
@@ -98,7 +98,7 @@ ru-0096; Pauschalreise; package holiday; package tour; B2; Reisen/Urlaub/Planung
 ru-0097; Reiseveranstalter; tour operator; ; B2; Reisen/Urlaub/Planung & Buchung; The tour operator informed us about the schedule change.; Der Reiseveranstalter informierte uns über die Planänderung.
 ru-0098; Reiseversicherung; travel insurance; ; B2; Reisen/Urlaub/Planung & Buchung; A good travel insurance also covers lost luggage.; Eine gute Reiseversicherung deckt auch verlorenes Gepäck ab.
 ru-0099; Anzahlung; down payment; deposit; B2; Reisen/Urlaub/Planung & Buchung; We paid a down payment of two hundred euros.; Wir leisteten eine Anzahlung von zweihundert Euro.
-ru-0100; Zuschlag; surcharge; extra charge; B2; Reisen/Urlaub/Planung & Buchung; There is a surcharge for rooms with a sea view.; Für Zimmer mit Meerblick gibt es einen Zuschlag.
+ru-0100; Zuschlag (Aufpreis); surcharge; extra charge; B2; Reisen/Urlaub/Planung & Buchung; There is a surcharge for rooms with a sea view.; Für Zimmer mit Meerblick gibt es einen Zuschlag.
 ru-0101; Hochsaison; high season; peak season; B2; Reisen/Urlaub/Planung & Buchung; In high season the prices almost double here.; In der Hochsaison verdoppeln sich hier fast die Preise.
 ru-0102; Nebensaison; low season; off season; B2; Reisen/Urlaub/Planung & Buchung; In the low season the beaches are wonderfully empty.; In der Nebensaison sind die Strände herrlich leer.
 ru-0103; Übernachtung; overnight stay; ; B2; Reisen/Urlaub/Unterkunft; The price includes one overnight stay with breakfast.; Der Preis beinhaltet eine Übernachtung mit Frühstück.
@@ -133,7 +133,7 @@ ru-0131; malerisch; picturesque; ; C1; Reisen/Urlaub/Sightseeing; The picturesqu
 ru-0132; atemberaubend; breathtaking; stunning; C1; Reisen/Urlaub/Strand & Natur; The breathtaking cliffs drop steeply into the sea.; Die atemberaubenden Klippen fallen steil ins Meer ab.
 ru-0133; Anschlussflug; connecting flight; ; C1; Reisen/Urlaub/Flughafen; Our connecting flight leaves from another terminal today.; Unser Anschlussflug geht heute von einem anderen Terminal.
 ru-0134; Zollerklärung; customs declaration; ; C1; Reisen/Urlaub/Flughafen; Please fill in the customs declaration before landing.; Bitte füllen Sie die Zollerklärung vor der Landung aus.
-ru-0135; Gepäckaufbewahrung; left-luggage office; luggage storage; C1; Reisen/Urlaub/Gepäck; We left our bags at the left-luggage office.; Wir ließen unsere Taschen in der Gepäckaufbewahrung.
+ru-0135; Gepäckaufbewahrung; left-luggage office; luggage storage, left luggage; C1; Reisen/Urlaub/Gepäck; We left our bags at the left-luggage office.; Wir ließen unsere Taschen in der Gepäckaufbewahrung.
 ru-0136; Proviant; provisions; food supplies; C1; Reisen/Urlaub/Unterwegs; We bought provisions for the long train ride.; Wir kauften Proviant für die lange Zugfahrt.
 ru-0137; Etappe; leg; stage; C1; Reisen/Urlaub/Unterwegs; The first leg of the journey ends in Basel.; Die erste Etappe der Reise endet in Basel.
 ru-0138; beschaulich; tranquil; sedate; C1; Reisen/Urlaub/Sightseeing; Life in this tranquil little town moves slowly.; Das Leben in diesem beschaulichen Städtchen vergeht langsam.

@@ -7,7 +7,7 @@ pm-0005; beginnen; to start; to begin; A1; Business/Projektmanagement/Zeitplan &
 pm-0006; Aufgabe; task; job, assignment; A2; Business/Projektmanagement/Planung; Every team member has a clear task.; Jedes Teammitglied hat eine klare Aufgabe.
 pm-0007; Besprechung; meeting; ; A2; Business/Projektmanagement/Team & Rollen, Arbeit/Beruf/Arbeitsalltag; The meeting starts at nine in room four.; Die Besprechung beginnt um neun in Raum vier.
 pm-0008; planen; to plan; ; A2; Business/Projektmanagement/Planung; We plan the next steps together.; Wir planen die nächsten Schritte gemeinsam.
-pm-0009; Kosten; costs; ; A2; Business/Projektmanagement/Budget & Ressourcen; The costs for the project are too high.; Die Kosten für das Projekt sind zu hoch.
+pm-0009; Kosten; costs; cost; A2; Business/Projektmanagement/Budget & Ressourcen; The costs for the project are too high.; Die Kosten für das Projekt sind zu hoch.
 pm-0010; Bericht; report; ; A2; Business/Projektmanagement/Berichtswesen; Please write a short report every Friday.; Bitte schreiben Sie jeden Freitag einen kurzen Bericht.
 pm-0011; Problem; problem; issue; A2; Business/Projektmanagement/Risiken; We found a problem with the software.; Wir haben ein Problem mit der Software gefunden.
 pm-0012; Lösung; solution; ; A2; Business/Projektmanagement/Risiken; The team found a good solution quickly.; Das Team fand schnell eine gute Lösung.
@@ -20,7 +20,7 @@ pm-0018; Kunde; customer; client; A2; Business/Projektmanagement/Team & Rollen; 
 pm-0019; beenden; to finish; to end; A2; Business/Projektmanagement/Abschluss; We want to finish the work before Christmas.; Wir wollen die Arbeit vor Weihnachten beenden.
 pm-0020; Fehler; error; mistake; A2; Business/Projektmanagement/Risiken; An error in the plan cost us two days.; Ein Fehler im Plan kostete uns zwei Tage.
 pm-0021; Frage; question; ; A2; Business/Projektmanagement/Team & Rollen; Do you have a question about the plan?; Haben Sie eine Frage zum Plan?
-pm-0022; Antwort; answer; reply; A2; Business/Projektmanagement/Team & Rollen; We need an answer from the client today.; Wir brauchen heute eine Antwort vom Kunden.
+pm-0022; Antwort; answer; reply, response; A2; Business/Projektmanagement/Team & Rollen; We need an answer from the client today.; Wir brauchen heute eine Antwort vom Kunden.
 pm-0023; E-Mail; email; ; A2; Business/Projektmanagement/Berichtswesen, Arbeit/Beruf/Arbeitsalltag; Please send the report by email.; Bitte senden Sie den Bericht per E-Mail.
 pm-0024; Notiz; note; memo; A2; Business/Projektmanagement/Berichtswesen; She made a note about the new deadline.; Sie machte eine Notiz zum neuen Termin.
 pm-0025; Idee; idea; ; A2; Business/Projektmanagement/Planung; He had a great idea for the project.; Er hatte eine großartige Idee für das Projekt.
@@ -63,7 +63,7 @@ pm-0061; Checkliste; checklist; ; B1; Business/Projektmanagement/Planung; Use th
 pm-0062; Genehmigung; approval; permission; B1; Business/Projektmanagement/Abschluss; We are still waiting for the approval of the budget.; Wir warten noch auf die Genehmigung des Budgets.
 pm-0063; Telefonkonferenz; conference call; phone conference; B1; Business/Projektmanagement/Team & Rollen; The conference call with the client starts at ten.; Die Telefonkonferenz mit dem Kunden beginnt um zehn.
 pm-0064; Zusammenarbeit; collaboration; cooperation, teamwork; B1; Business/Projektmanagement/Team & Rollen; Good collaboration between the teams saves much time.; Gute Zusammenarbeit zwischen den Teams spart viel Zeit.
-pm-0065; abschließen; to complete; to finish off; B1; Business/Projektmanagement/Abschluss; We completed the first phase without major problems.; Wir haben die erste Phase ohne größere Probleme abgeschlossen.
+pm-0065; abschließen (beenden); to complete; to finish off; B1; Business/Projektmanagement/Abschluss; We completed the first phase without major problems.; Wir haben die erste Phase ohne größere Probleme abgeschlossen.
 pm-0066; Umfang; scope; extent; B2; Business/Projektmanagement/Planung; The scope of the project grew during the year.; Der Umfang des Projekts wuchs im Laufe des Jahres.
 pm-0067; Meilensteinplan; milestone plan; ; B2; Business/Projektmanagement/Zeitplan & Meilensteine; The milestone plan hangs on the wall of our office.; Der Meilensteinplan hängt an der Wand unseres Büros.
 pm-0068; Puffer; buffer; reserve; B2; Business/Projektmanagement/Zeitplan & Meilensteine; We planned a buffer of two weeks before the launch.; Wir planten einen Puffer von zwei Wochen vor dem Start.
@@ -72,11 +72,11 @@ pm-0070; Abgabetermin; due date; submission date; B2; Business/Projektmanagement
 pm-0071; Kostenvoranschlag; cost estimate; quotation; B2; Business/Projektmanagement/Budget & Ressourcen; The cost estimate for the new system seems realistic.; Der Kostenvoranschlag für das neue System erscheint realistisch.
 pm-0072; Kostenüberschreitung; cost overrun; budget overrun; B2; Business/Projektmanagement/Budget & Ressourcen; A cost overrun of ten percent is still acceptable.; Eine Kostenüberschreitung von zehn Prozent ist noch akzeptabel.
 pm-0073; Ausgaben; expenses; expenditure, spending; B2; Business/Projektmanagement/Budget & Ressourcen; All expenses must be documented in the system.; Alle Ausgaben müssen im System dokumentiert werden.
-pm-0074; Mittel; funds; resources, means; B2; Business/Projektmanagement/Budget & Ressourcen; The funds for the second phase are already approved.; Die Mittel für die zweite Phase sind bereits genehmigt.
+pm-0074; Mittel (Geld); funds; resources, means; B2; Business/Projektmanagement/Budget & Ressourcen; The funds for the second phase are already approved.; Die Mittel für die zweite Phase sind bereits genehmigt.
 pm-0075; zuweisen; to allocate; to assign; B2; Business/Projektmanagement/Budget & Ressourcen; We allocate the budget to the different work packages.; Wir weisen das Budget den verschiedenen Arbeitspaketen zu.
 pm-0076; Ressourcenplanung; resource planning; ; B2; Business/Projektmanagement/Budget & Ressourcen; Good resource planning avoids stress at the end.; Eine gute Ressourcenplanung vermeidet Stress am Ende.
 pm-0077; Personal; staff; personnel, workforce; B2; Business/Projektmanagement/Team & Rollen; We need more staff for the busy summer months.; Wir brauchen mehr Personal für die arbeitsreichen Sommermonate.
-pm-0078; einstellen; to hire; to recruit, to employ; B2; Business/Projektmanagement/Team & Rollen; The company plans to hire two more engineers.; Die Firma plant, zwei weitere Ingenieure einzustellen.
+pm-0078; einstellen (Personal); to hire; to recruit, to employ; B2; Business/Projektmanagement/Team & Rollen; The company plans to hire two more engineers.; Die Firma plant, zwei weitere Ingenieure einzustellen.
 pm-0079; auslagern; to outsource; ; B2; Business/Projektmanagement/Budget & Ressourcen; We decided to outsource the testing to a partner.; Wir beschlossen, die Tests an einen Partner auszulagern.
 pm-0080; Dienstleister; service provider; ; B2; Business/Projektmanagement/Team & Rollen; An external service provider supports our IT team.; Ein externer Dienstleister unterstützt unser IT-Team.
 pm-0081; Risikobewertung; risk assessment; risk evaluation; B2; Business/Projektmanagement/Risiken; The risk assessment showed three critical points.; Die Risikobewertung zeigte drei kritische Punkte.
@@ -85,7 +85,7 @@ pm-0083; Auswirkung; impact; effect, consequence; B2; Business/Projektmanagement
 pm-0084; Notfallplan; contingency plan; emergency plan; B2; Business/Projektmanagement/Risiken; We prepared a contingency plan for a system failure.; Wir erstellten einen Notfallplan für einen Systemausfall.
 pm-0085; Interessenvertreter; stakeholder; interested party; B2; Business/Projektmanagement/Team & Rollen; Every stakeholder receives the monthly status report.; Jeder Interessenvertreter erhält den monatlichen Statusbericht.
 pm-0086; Projektsponsor; project sponsor; ; B2; Business/Projektmanagement/Team & Rollen; The project sponsor approved the extra budget.; Der Projektsponsor genehmigte das zusätzliche Budget.
-pm-0087; Protokoll; minutes; record; B2; Business/Projektmanagement/Berichtswesen; Please send the minutes to all participants today.; Bitte senden Sie das Protokoll heute an alle Teilnehmer.
+pm-0087; Protokoll (Sitzung); minutes; record; B2; Business/Projektmanagement/Berichtswesen; Please send the minutes to all participants today.; Bitte senden Sie das Protokoll heute an alle Teilnehmer.
 pm-0088; Tagesordnung; agenda; ; B2; Business/Projektmanagement/Berichtswesen; The agenda for the meeting has five points.; Die Tagesordnung für die Besprechung hat fünf Punkte.
 pm-0089; Statusbericht; status report; ; B2; Business/Projektmanagement/Berichtswesen; The weekly status report goes to the steering committee.; Der wöchentliche Statusbericht geht an den Lenkungsausschuss.
 pm-0090; Fortschrittsbericht; progress report; ; B2; Business/Projektmanagement/Berichtswesen; The progress report shows a delay of five days.; Der Fortschrittsbericht zeigt eine Verzögerung von fünf Tagen.
@@ -94,8 +94,8 @@ pm-0092; berichten; to report; ; B2; Business/Projektmanagement/Berichtswesen; T
 pm-0093; Abweichung; deviation; variance; B2; Business/Projektmanagement/Berichtswesen; Any deviation from the plan must be explained.; Jede Abweichung vom Plan muss erklärt werden.
 pm-0094; Prognose; forecast; prediction, projection; B2; Business/Projektmanagement/Berichtswesen; The forecast shows higher costs in the final phase.; Die Prognose zeigt höhere Kosten in der Schlussphase.
 pm-0095; Schätzung; estimate; estimation; B2; Business/Projektmanagement/Budget & Ressourcen; The first estimate was far too optimistic.; Die erste Schätzung war viel zu optimistisch.
-pm-0096; schätzen; to estimate; ; B2; Business/Projektmanagement/Budget & Ressourcen; We estimate the effort at around forty days.; Wir schätzen den Aufwand auf rund vierzig Tage.
-pm-0097; Abnahme; acceptance; approval test; B2; Business/Projektmanagement/Abschluss; The acceptance by the client is planned for Friday.; Die Abnahme durch den Kunden ist für Freitag geplant.
+pm-0096; schätzen (ungefähr berechnen); to estimate; ; B2; Business/Projektmanagement/Budget & Ressourcen; We estimate the effort at around forty days.; Wir schätzen den Aufwand auf rund vierzig Tage.
+pm-0097; Abnahme (Projekt); acceptance; approval test; B2; Business/Projektmanagement/Abschluss; The acceptance by the client is planned for Friday.; Die Abnahme durch den Kunden ist für Freitag geplant.
 pm-0098; Übergabe; handover; ; B2; Business/Projektmanagement/Abschluss; The handover to the operations team went smoothly.; Die Übergabe an das Betriebsteam verlief reibungslos.
 pm-0099; Abschlussbericht; final report; closing report; B2; Business/Projektmanagement/Abschluss; The final report summarizes all results and costs.; Der Abschlussbericht fasst alle Ergebnisse und Kosten zusammen.
 pm-0100; Projektabschluss; project closure; project completion; B2; Business/Projektmanagement/Abschluss; We celebrate the project closure with the whole team.; Wir feiern den Projektabschluss mit dem ganzen Team.

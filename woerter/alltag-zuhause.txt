@@ -14,7 +14,7 @@ al-0012; Treppe; stairs; staircase; A2; Alltag/Zuhause/Räume; Take the stairs u
 al-0013; Wand; wall; ; A2; Alltag/Zuhause/Räume; We painted the wall a light blue.; Wir haben die Wand hellblau gestrichen.
 al-0014; Flur; hallway; corridor, hall; B1; Alltag/Zuhause/Räume; Your shoes are in the hallway by the door.; Deine Schuhe stehen im Flur neben der Tür.
 al-0015; Dachboden; attic; loft; B1; Alltag/Zuhause/Räume; Old boxes are stored up in the attic.; Alte Kartons lagern oben auf dem Dachboden.
-al-0016; Decke; ceiling; ; B1; Alltag/Zuhause/Räume; The lamp hangs from the ceiling above the table.; Die Lampe hängt von der Decke über dem Tisch.
+al-0016; Decke (im Zimmer); ceiling; ; B1; Alltag/Zuhause/Räume; The lamp hangs from the ceiling above the table.; Die Lampe hängt von der Decke über dem Tisch.
 al-0017; Arbeitszimmer; study; home office; B1; Alltag/Zuhause/Räume; He works from home in his quiet study.; Er arbeitet zu Hause in seinem ruhigen Arbeitszimmer.
 al-0018; Abstellraum; storage room; box room; B2; Alltag/Zuhause/Räume; The vacuum cleaner is in the storage room.; Der Staubsauger steht im Abstellraum.
 al-0019; Dachgeschoss; top floor; attic floor; B2; Alltag/Zuhause/Räume; They converted the top floor into a bright flat.; Sie haben das Dachgeschoss in eine helle Wohnung umgebaut.
@@ -73,7 +73,7 @@ al-0071; Besen; broom; ; B1; Alltag/Zuhause/Haushalt; She sweeps the terrace wit
 al-0072; Eimer; bucket; pail; B1; Alltag/Zuhause/Haushalt; Fill the bucket with warm water, please.; Füll den Eimer bitte mit warmem Wasser.
 al-0073; Staub; dust; ; B1; Alltag/Zuhause/Haushalt; There is a lot of dust under the bed.; Unter dem Bett liegt viel Staub.
 al-0074; Fleck; stain; spot, mark; B1; Alltag/Zuhause/Haushalt; There is a coffee stain on the tablecloth.; Auf der Tischdecke ist ein Kaffeefleck.
-al-0075; Hausarbeit; housework; chores; B1; Alltag/Zuhause/Haushalt; We share the housework fairly between us.; Wir teilen uns die Hausarbeit gerecht auf.
+al-0075; Hausarbeit (Haushalt); housework; chores; B1; Alltag/Zuhause/Haushalt; We share the housework fairly between us.; Wir teilen uns die Hausarbeit gerecht auf.
 al-0076; Trockner; tumble dryer; dryer; B1; Alltag/Zuhause/Haushalt; Put the wet towels in the tumble dryer.; Leg die nassen Handtücher in den Trockner.
 al-0077; Waschmittel; laundry detergent; washing powder; B2; Alltag/Zuhause/Haushalt; We are out of laundry detergent again.; Das Waschmittel ist schon wieder alle.
 al-0078; Putzmittel; cleaning product; cleaning agent, cleaner; B2; Alltag/Zuhause/Haushalt; This cleaning product works well on glass.; Dieses Putzmittel wirkt gut auf Glas.
@@ -87,12 +87,12 @@ al-0085; Mülltrennung; waste separation; recycling; C1; Alltag/Zuhause/Haushalt
 al-0086; Schimmel; mould; mold, mildew; C1; Alltag/Zuhause/Haushalt; We found mould behind the bathroom cupboard.; Wir haben hinter dem Badezimmerschrank Schimmel gefunden.
 al-0087; verstopft; clogged; blocked; C1; Alltag/Zuhause/Haushalt; The drain in the shower is clogged again.; Der Abfluss in der Dusche ist wieder verstopft.
 al-0088; undicht; leaky; leaking; C1; Alltag/Zuhause/Haushalt; The old tap is leaky and drips all night.; Der alte Wasserhahn ist undicht und tropft die ganze Nacht.
-al-0089; Sicherung; fuse; circuit breaker; C1; Alltag/Zuhause/Haushalt; The fuse blew when I turned on the oven.; Die Sicherung flog raus, als ich den Backofen anmachte.
+al-0089; Sicherung (Strom); fuse; circuit breaker; C1; Alltag/Zuhause/Haushalt; The fuse blew when I turned on the oven.; Die Sicherung flog raus, als ich den Backofen anmachte.
 al-0090; entrümpeln; to declutter; to clear out; C2; Alltag/Zuhause/Haushalt; We want to declutter the cellar this weekend.; Wir wollen am Wochenende den Keller entrümpeln.
 al-0091; Werkzeug; tool; tools; A2; Alltag/Zuhause/Werkzeug; You need the right tool for this job.; Für diese Arbeit brauchst du das richtige Werkzeug.
 al-0092; Hammer; hammer; ; A2; Alltag/Zuhause/Werkzeug; He hit the nail with the hammer.; Er schlug den Nagel mit dem Hammer ein.
 al-0093; reparieren; to repair; to fix; B1; Alltag/Zuhause/Werkzeug; My father can repair almost everything himself.; Mein Vater kann fast alles selbst reparieren.
-al-0094; Leiter; ladder; stepladder; B1; Alltag/Zuhause/Werkzeug; Hold the ladder while I climb up.; Halt die Leiter fest, während ich hinaufsteige.
+al-0094; Leiter (zum Steigen); ladder; stepladder; B1; Alltag/Zuhause/Werkzeug; Hold the ladder while I climb up.; Halt die Leiter fest, während ich hinaufsteige.
 al-0095; Nagel; nail; ; B1; Alltag/Zuhause/Werkzeug; The picture hangs on a small nail.; Das Bild hängt an einem kleinen Nagel.
 al-0096; Schraube; screw; ; B1; Alltag/Zuhause/Werkzeug; This screw is loose and needs tightening.; Diese Schraube ist locker und muss angezogen werden.
 al-0097; Schraubenzieher; screwdriver; ; B2; Alltag/Zuhause/Werkzeug; Pass me the small screwdriver, please.; Gib mir bitte den kleinen Schraubenzieher.
@@ -106,7 +106,7 @@ al-0104; Dübel; wall plug; dowel, anchor; C2; Alltag/Zuhause/Werkzeug; Without 
 al-0105; Garten; garden; yard; A1; Alltag/Zuhause/Garten; The children are playing in the garden.; Die Kinder spielen im Garten.
 al-0106; Blume; flower; ; A1; Alltag/Zuhause/Garten; She picked a flower for her mother.; Sie pflückte eine Blume für ihre Mutter.
 al-0107; Baum; tree; ; A2; Alltag/Zuhause/Garten; An old apple tree stands in our garden.; In unserem Garten steht ein alter Apfelbaum.
-al-0108; gießen; to water; ; A2; Alltag/Zuhause/Garten; Please water the plants while I am away.; Gieß bitte die Pflanzen, während ich weg bin.
+al-0108; gießen (Pflanzen); to water; ; A2; Alltag/Zuhause/Garten; Please water the plants while I am away.; Gieß bitte die Pflanzen, während ich weg bin.
 al-0109; Rasen; lawn; ; B1; Alltag/Zuhause/Garten; The lawn needs cutting every two weeks.; Der Rasen muss alle zwei Wochen gemäht werden.
 al-0110; Zaun; fence; ; B1; Alltag/Zuhause/Garten; A white fence runs around the garden.; Ein weißer Zaun verläuft um den Garten.
 al-0111; Terrasse; terrace; patio; B1; Alltag/Zuhause/Garten; We had coffee on the terrace in the sun.; Wir tranken Kaffee auf der sonnigen Terrasse.
@@ -125,7 +125,7 @@ al-0123; Spaten; spade; ; C1; Alltag/Zuhause/Garten; Digging with a spade is har
 al-0124; Gartenschere; secateurs; pruning shears; C1; Alltag/Zuhause/Garten; She cut the roses with her secateurs.; Sie schnitt die Rosen mit ihrer Gartenschere.
 al-0125; jäten; to weed; ; C2; Alltag/Zuhause/Garten; I spent the whole afternoon weeding the beds.; Ich habe den ganzen Nachmittag die Beete gejätet.
 al-0126; düngen; to fertilise; to fertilize; C2; Alltag/Zuhause/Garten; You should fertilise the roses twice a year.; Du solltest die Rosen zweimal im Jahr düngen.
-al-0127; aufstehen; to get up; ; A1; Alltag/Zuhause/Tagesablauf; I get up at seven every morning.; Ich stehe jeden Morgen um sieben auf.
+al-0127; aufstehen (morgens, aus dem Bett); to get up; ; A1; Alltag/Zuhause/Tagesablauf; I get up at seven every morning.; Ich stehe jeden Morgen um sieben auf.
 al-0128; frühstücken; to have breakfast; to eat breakfast; A1; Alltag/Zuhause/Tagesablauf; We have breakfast together on Sundays.; Sonntags frühstücken wir zusammen.
 al-0129; kochen; to cook; ; A1; Alltag/Zuhause/Tagesablauf, Alltag/Essen/Kochen; Tonight I am cooking pasta for the family.; Heute Abend koche ich Nudeln für die Familie.
 al-0130; einkaufen; to go shopping; to shop; A1; Alltag/Zuhause/Tagesablauf, Alltag/Einkaufen/Geschäfte; We go shopping at the supermarket on Fridays.; Freitags gehen wir im Supermarkt einkaufen.
@@ -143,7 +143,7 @@ al-0141; ausschlafen; to sleep in; to have a lie-in; B2; Alltag/Zuhause/Tagesabl
 al-0142; Gewohnheit; habit; custom; B2; Alltag/Zuhause/Tagesablauf; Reading before bed has become a nice habit.; Lesen vor dem Schlafen ist eine schöne Gewohnheit geworden.
 al-0143; pendeln; to commute; ; C1; Alltag/Zuhause/Tagesablauf; He commutes to Frankfurt by train every day.; Er pendelt jeden Tag mit dem Zug nach Frankfurt.
 al-0144; Besorgungen machen; to run errands; to do errands; C1; Alltag/Zuhause/Tagesablauf; I have to run a few errands in town.; Ich muss in der Stadt ein paar Besorgungen machen.
-al-0145; Feierabend; end of the working day; after-work time; C1; Alltag/Zuhause/Tagesablauf; At the end of the working day she switches off her computer.; Am Feierabend schaltet sie ihren Computer aus.
+al-0145; Feierabend; end of the working day; after-work time, end of the workday; C1; Alltag/Zuhause/Tagesablauf; At the end of the working day she switches off her computer.; Am Feierabend schaltet sie ihren Computer aus.
 al-0146; Morgenmuffel; morning grouch; not a morning person; C1; Alltag/Zuhause/Tagesablauf; My brother is a real morning grouch.; Mein Bruder ist ein echter Morgenmuffel.
 al-0147; aufschieben; to put off; to postpone, to procrastinate; C1; Alltag/Zuhause/Tagesablauf; Do not put off the cleaning until tomorrow.; Schieb das Putzen nicht bis morgen auf.
 al-0148; trödeln; to dawdle; to dillydally; C2; Alltag/Zuhause/Tagesablauf; Stop dawdling because we have to leave now.; Trödel nicht, wir müssen jetzt los.

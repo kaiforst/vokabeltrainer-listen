@@ -6,9 +6,9 @@ mk-0004; Film; film; movie; A1; Medien/Kommunikation/Fernsehen & Radio; The film
 mk-0005; Buch; book; ; A1; Medien/Kommunikation/Bücher & Lesen; She is reading a book about old films.; Sie liest ein Buch über alte Filme.
 mk-0006; Brief; letter; ; A1; Medien/Kommunikation/Telefon & Post; I wrote a long letter to my grandmother.; Ich habe meiner Großmutter einen langen Brief geschrieben.
 mk-0007; Frage; question; ; A1; Medien/Kommunikation/Gespräch & Meinung; May I ask you a short question?; Darf ich dir eine kurze Frage stellen?
-mk-0008; Antwort; answer; reply; A1; Medien/Kommunikation/Gespräch & Meinung; I am still waiting for your answer.; Ich warte noch auf deine Antwort.
+mk-0008; Antwort; answer; reply, response; A1; Medien/Kommunikation/Gespräch & Meinung; I am still waiting for your answer.; Ich warte noch auf deine Antwort.
 mk-0009; fragen; to ask; ; A1; Medien/Kommunikation/Gespräch & Meinung; You can always ask me for help.; Du kannst mich immer um Hilfe fragen.
-mk-0010; antworten; to answer; to reply; A1; Medien/Kommunikation/Gespräch & Meinung; He did not answer my last email.; Er hat auf meine letzte E-Mail nicht geantwortet.
+mk-0010; antworten; to answer; to reply, to respond; A1; Medien/Kommunikation/Gespräch & Meinung; He did not answer my last email.; Er hat auf meine letzte E-Mail nicht geantwortet.
 mk-0011; sprechen; to speak; to talk; A1; Medien/Kommunikation/Gespräch & Meinung; She speaks three languages very well.; Sie spricht drei Sprachen sehr gut.
 mk-0012; hören; to hear; to listen; A1; Medien/Kommunikation/Fernsehen & Radio; I can hear music from the neighbor's house.; Ich höre Musik aus dem Haus des Nachbarn.
 mk-0013; lesen; to read; ; A1; Medien/Kommunikation/Bücher & Lesen; The children read a story before bed.; Die Kinder lesen vor dem Schlafen eine Geschichte.
@@ -62,12 +62,12 @@ mk-0060; veröffentlichen; to publish; to release; B1; Medien/Kommunikation/Nach
 mk-0061; Verlag; publishing house; publisher; B1; Medien/Kommunikation/Bücher & Lesen; The publishing house prints mainly children's books.; Der Verlag druckt hauptsächlich Kinderbücher.
 mk-0062; Redaktion; editorial office; editorial team, newsroom; B1; Medien/Kommunikation/Nachrichten & Presse; The editorial office decides which topics appear tomorrow.; Die Redaktion entscheidet, welche Themen morgen erscheinen.
 mk-0063; Redakteur; editor; ; B1; Medien/Kommunikation/Nachrichten & Presse; The editor shortened the article by half.; Der Redakteur kürzte den Artikel um die Hälfte.
-mk-0064; Kanal; channel; ; B1; Medien/Kommunikation/Social Media; His channel has over a million subscribers.; Sein Kanal hat über eine Million Abonnenten.
+mk-0064; Kanal (Medien); channel; ; B1; Medien/Kommunikation/Social Media; His channel has over a million subscribers.; Sein Kanal hat über eine Million Abonnenten.
 mk-0065; Liveübertragung; live broadcast; live coverage; B1; Medien/Kommunikation/Fernsehen & Radio; The live broadcast of the match starts soon.; Die Liveübertragung des Spiels beginnt bald.
 mk-0066; Dokumentarfilm; documentary; documentary film; B1; Medien/Kommunikation/Fernsehen & Radio; We watched a documentary about the ocean.; Wir haben einen Dokumentarfilm über den Ozean gesehen.
 mk-0067; Untertitel; subtitles; captions; B1; Medien/Kommunikation/Fernsehen & Radio; I watch English films with German subtitles.; Ich schaue englische Filme mit deutschen Untertiteln.
 mk-0068; Werbespot; commercial; ad spot, TV ad; B1; Medien/Kommunikation/Werbung; The funny commercial runs before every video.; Der lustige Werbespot läuft vor jedem Video.
-mk-0069; Anzeige; advertisement; ad; B1; Medien/Kommunikation/Werbung; The company placed an advertisement in the newspaper.; Die Firma schaltete eine Anzeige in der Zeitung.
+mk-0069; Anzeige (Werbung); advertisement; ad; B1; Medien/Kommunikation/Werbung; The company placed an advertisement in the newspaper.; Die Firma schaltete eine Anzeige in der Zeitung.
 mk-0070; werben; to advertise; to promote; B1; Medien/Kommunikation/Werbung; The brand advertises mainly on social media.; Die Marke wirbt hauptsächlich in den sozialen Medien.
 mk-0071; Zielgruppe; target group; target audience; B1; Medien/Kommunikation/Werbung; Young parents are the target group of this product.; Junge Eltern sind die Zielgruppe dieses Produkts.
 mk-0072; Marke; brand; ; B1; Medien/Kommunikation/Werbung; This brand is especially popular with teenagers.; Diese Marke ist besonders bei Teenagern beliebt.
@@ -103,7 +103,7 @@ mk-0101; Glaubwürdigkeit; credibility; ; B2; Medien/Kommunikation/Nachrichten &
 mk-0102; glaubwürdig; credible; believable; B2; Medien/Kommunikation/Nachrichten & Presse; The witness made a very credible impression.; Der Zeuge machte einen sehr glaubwürdigen Eindruck.
 mk-0103; voreingenommen; biased; prejudiced; B2; Medien/Kommunikation/Gespräch & Meinung; Critics say the report is clearly biased.; Kritiker sagen, der Bericht ist eindeutig voreingenommen.
 mk-0104; Berichterstattung; coverage; reporting; B2; Medien/Kommunikation/Nachrichten & Presse; The coverage of the election was very balanced.; Die Berichterstattung über die Wahl war sehr ausgewogen.
-mk-0105; Auflage; circulation; print run; B2; Medien/Kommunikation/Nachrichten & Presse; The circulation of printed newspapers keeps falling.; Die Auflage gedruckter Zeitungen sinkt weiter.
+mk-0105; Auflage (Zahl der Exemplare); circulation; print run; B2; Medien/Kommunikation/Nachrichten & Presse; The circulation of printed newspapers keeps falling.; Die Auflage gedruckter Zeitungen sinkt weiter.
 mk-0106; Einschaltquote; ratings; audience ratings, viewing figures; B2; Medien/Kommunikation/Fernsehen & Radio; The show was cancelled because of poor ratings.; Die Sendung wurde wegen schlechter Einschaltquoten abgesetzt.
 mk-0107; Öffentlichkeit; public; general public; B2; Medien/Kommunikation/Nachrichten & Presse; The results were presented to the public today.; Die Ergebnisse wurden heute der Öffentlichkeit vorgestellt.
 mk-0108; öffentlich-rechtlicher Rundfunk; public broadcasting; public service broadcasting; B2; Medien/Kommunikation/Fernsehen & Radio; Public broadcasting is financed by monthly fees.; Der öffentlich-rechtliche Rundfunk wird durch monatliche Beiträge finanziert.
@@ -119,7 +119,7 @@ mk-0117; beeinflussen; to influence; to affect; B2; Medien/Kommunikation/Werbung
 mk-0118; Manipulation; manipulation; ; B2; Medien/Kommunikation/Werbung; Experts warn against manipulation through targeted advertising.; Experten warnen vor Manipulation durch gezielte Werbung.
 mk-0119; manipulieren; to manipulate; ; B2; Medien/Kommunikation/Social Media; Some accounts try to manipulate public opinion.; Manche Konten versuchen, die öffentliche Meinung zu manipulieren.
 mk-0120; Öffentlichkeitsarbeit; public relations; PR; B2; Medien/Kommunikation/Werbung, Arbeit/Beruf; She is responsible for the museum's public relations.; Sie ist für die Öffentlichkeitsarbeit des Museums verantwortlich.
-mk-0121; Reichweite; reach; ; B2; Medien/Kommunikation/Social Media; Funny videos quickly increase the reach of a channel.; Lustige Videos erhöhen schnell die Reichweite eines Kanals.
+mk-0121; Reichweite (Medien); reach; ; B2; Medien/Kommunikation/Social Media; Funny videos quickly increase the reach of a channel.; Lustige Videos erhöhen schnell die Reichweite eines Kanals.
 mk-0122; viral gehen; to go viral; ; B2; Medien/Kommunikation/Social Media; The dance video went viral within one day.; Das Tanzvideo ging innerhalb eines Tages viral.
 mk-0123; argumentieren; to argue; to reason; B2; Medien/Kommunikation/Gespräch & Meinung; She argues clearly and stays calm in debates.; Sie argumentiert klar und bleibt in Debatten ruhig.
 mk-0124; Argument; argument; ; B2; Medien/Kommunikation/Gespräch & Meinung; His strongest argument convinced even his critics.; Sein stärkstes Argument überzeugte sogar seine Kritiker.

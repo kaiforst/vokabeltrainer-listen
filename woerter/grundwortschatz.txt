@@ -4,7 +4,7 @@ gw-0002; Tschüss; goodbye; bye; A1; Grundwortschatz/Kommunikation; Goodbye, see
 gw-0003; Danke; thank you; thanks; A1; Grundwortschatz/Kommunikation; Thank you for the nice present.; Danke für das schöne Geschenk.
 gw-0004; Bitte; please; ; A1; Grundwortschatz/Kommunikation; Can I have a coffee, please?; Kann ich bitte einen Kaffee haben?
 gw-0005; Gern geschehen; you are welcome; you're welcome; A1; Grundwortschatz/Kommunikation; You are welcome, it was no problem.; Gern geschehen, das war kein Problem.
-gw-0006; Entschuldigung; excuse me; sorry; A1; Grundwortschatz/Kommunikation; Excuse me, where is the station?; Entschuldigung, wo ist der Bahnhof?
+gw-0006; Entschuldigung (Ausruf); excuse me; sorry; A1; Grundwortschatz/Kommunikation; Excuse me, where is the station?; Entschuldigung, wo ist der Bahnhof?
 gw-0007; Ja; yes; ; A1; Grundwortschatz/Kommunikation; Yes, I would like some tea.; Ja, ich möchte gern etwas Tee.
 gw-0008; Nein; no; ; A1; Grundwortschatz/Kommunikation; No, I do not have time today.; Nein, ich habe heute keine Zeit.
 gw-0009; Guten Morgen; good morning; ; A1; Grundwortschatz/Kommunikation; Good morning, did you sleep well?; Guten Morgen, hast du gut geschlafen?
@@ -14,7 +14,7 @@ gw-0012; Wie geht's?; how are you?; ; A1; Grundwortschatz/Kommunikation; Hi Tom,
 gw-0013; Willkommen; welcome; ; A1; Grundwortschatz/Kommunikation; Welcome to our new house in Berlin.; Willkommen in unserem neuen Haus in Berlin.
 gw-0014; Name; name; ; A1; Grundwortschatz/Kommunikation; My name is Lisa, nice to meet you.; Mein Name ist Lisa, schön dich kennenzulernen.
 gw-0015; Frage; question; ; A1; Grundwortschatz/Kommunikation; I have a question about the homework.; Ich habe eine Frage zu den Hausaufgaben.
-gw-0016; Antwort; answer; reply; A1; Grundwortschatz/Kommunikation; Do you know the answer to this question?; Kennst du die Antwort auf diese Frage?
+gw-0016; Antwort; answer; reply, response; A1; Grundwortschatz/Kommunikation; Do you know the answer to this question?; Kennst du die Antwort auf diese Frage?
 gw-0017; Wort; word; ; A1; Grundwortschatz/Kommunikation; What does this English word mean?; Was bedeutet dieses englische Wort?
 gw-0018; Satz; sentence; ; A1; Grundwortschatz/Kommunikation; Please read the first sentence out loud.; Bitte lies den ersten Satz laut vor.
 gw-0019; Sprache; language; ; A1; Grundwortschatz/Kommunikation; English is an easy language for me.; Englisch ist eine leichte Sprache für mich.
@@ -29,7 +29,7 @@ gw-0027; hören; to hear; to listen; A1; Grundwortschatz/Verben; I hear music in
 gw-0028; sprechen; to speak; to talk; A1; Grundwortschatz/Verben; She can speak three languages very well.; Sie kann drei Sprachen sehr gut sprechen.
 gw-0029; sagen; to say; ; A1; Grundwortschatz/Verben; What did the teacher say to you?; Was hat der Lehrer zu dir gesagt?
 gw-0030; fragen; to ask; ; A1; Grundwortschatz/Verben; May I ask you something, please?; Darf ich dich bitte etwas fragen?
-gw-0031; antworten; to answer; to reply; A1; Grundwortschatz/Verben; Please answer in English, not in German.; Bitte antworte auf Englisch, nicht auf Deutsch.
+gw-0031; antworten; to answer; to reply, to respond; A1; Grundwortschatz/Verben; Please answer in English, not in German.; Bitte antworte auf Englisch, nicht auf Deutsch.
 gw-0032; essen; to eat; ; A1; Grundwortschatz/Verben; We eat breakfast at seven o'clock.; Wir essen um sieben Uhr Frühstück.
 gw-0033; trinken; to drink; ; A1; Grundwortschatz/Verben; I drink a glass of water every morning.; Ich trinke jeden Morgen ein Glas Wasser.
 gw-0034; schlafen; to sleep; ; A1; Grundwortschatz/Verben; The baby sleeps ten hours every night.; Das Baby schläft jede Nacht zehn Stunden.
@@ -70,7 +70,7 @@ gw-0068; ankommen; to arrive; ; A1; Grundwortschatz/Verben; The train arrives at
 gw-0069; zeigen; to show; ; A1; Grundwortschatz/Verben; Can you show me the way to the hotel?; Kannst du mir den Weg zum Hotel zeigen?
 gw-0070; glauben; to believe; ; A1; Grundwortschatz/Verben; I believe you, the story is true.; Ich glaube dir, die Geschichte ist wahr.
 gw-0071; hoffen; to hope; ; A1; Grundwortschatz/Verben; I hope the weather is nice tomorrow.; Ich hoffe, das Wetter ist morgen schön.
-gw-0072; tragen; to wear; to carry; A1; Grundwortschatz/Verben; She wears a red dress to the party.; Sie trägt ein rotes Kleid auf der Party.
+gw-0072; tragen (Kleidung); to wear; to carry; A1; Grundwortschatz/Verben; She wears a red dress to the party.; Sie trägt ein rotes Kleid auf der Party.
 gw-0073; kosten; to cost; ; A1; Grundwortschatz/Verben; How much does this ticket cost, please?; Wie viel kostet diese Fahrkarte, bitte?
 gw-0074; bekommen; to get; to receive; A1; Grundwortschatz/Verben; I get a letter from my aunt today.; Ich bekomme heute einen Brief von meiner Tante.
 gw-0075; vergessen; to forget; ; A1; Grundwortschatz/Verben; Do not forget your keys at home!; Vergiss deine Schlüssel nicht zu Hause!
@@ -94,7 +94,7 @@ gw-0092; Frau; woman; wife; A1; Grundwortschatz/Menschen & Familie; The woman bu
 gw-0093; Kind; child; kid; A1; Grundwortschatz/Menschen & Familie; The child plays with a small ball.; Das Kind spielt mit einem kleinen Ball.
 gw-0094; Junge; boy; ; A1; Grundwortschatz/Menschen & Familie; The boy rides his bike to school.; Der Junge fährt mit dem Rad zur Schule.
 gw-0095; Mädchen; girl; ; A1; Grundwortschatz/Menschen & Familie; The girl reads a book about horses.; Das Mädchen liest ein Buch über Pferde.
-gw-0096; Mutter; mother; mum, mom; A1; Grundwortschatz/Menschen & Familie; My mother makes the best cake.; Meine Mutter macht den besten Kuchen.
+gw-0096; Mutter (Elternteil); mother; mum, mom; A1; Grundwortschatz/Menschen & Familie; My mother makes the best cake.; Meine Mutter macht den besten Kuchen.
 gw-0097; Vater; father; dad; A1; Grundwortschatz/Menschen & Familie; My father works at the airport.; Mein Vater arbeitet am Flughafen.
 gw-0098; Eltern; parents; ; A1; Grundwortschatz/Menschen & Familie; My parents live in a small village.; Meine Eltern wohnen in einem kleinen Dorf.
 gw-0099; Bruder; brother; ; A1; Grundwortschatz/Menschen & Familie; My brother is one year older than me.; Mein Bruder ist ein Jahr älter als ich.
@@ -237,9 +237,9 @@ gw-0235; Bad; bathroom; bath; A1; Grundwortschatz/Orte; The bathroom is next to 
 gw-0236; Stadt; city; town; A1; Grundwortschatz/Orte; Frankfurt is a big city with an airport.; Frankfurt ist eine große Stadt mit einem Flughafen.
 gw-0237; Dorf; village; ; A1; Grundwortschatz/Orte; My grandparents live in a quiet village.; Meine Großeltern wohnen in einem ruhigen Dorf.
 gw-0238; Straße; street; road; A1; Grundwortschatz/Orte; Our street is quiet at night.; Unsere Straße ist nachts ruhig.
-gw-0239; Geschäft; shop; store; A1; Grundwortschatz/Orte; The shop opens at nine in the morning.; Das Geschäft öffnet morgens um neun.
+gw-0239; Geschäft (Laden); shop; store; A1; Grundwortschatz/Orte; The shop opens at nine in the morning.; Das Geschäft öffnet morgens um neun.
 gw-0240; Supermarkt; supermarket; ; A1; Grundwortschatz/Orte; The supermarket is open until ten tonight.; Der Supermarkt hat heute bis zehn geöffnet.
-gw-0241; Bahnhof; train station; station; A1; Grundwortschatz/Orte; We meet at the train station at five.; Wir treffen uns um fünf am Bahnhof.
+gw-0241; Bahnhof; train station; station, railway station; A1; Grundwortschatz/Orte; We meet at the train station at five.; Wir treffen uns um fünf am Bahnhof.
 gw-0242; Flughafen; airport; ; A1; Grundwortschatz/Orte, Reisen/Urlaub/Flughafen; The airport is thirty minutes from here.; Der Flughafen ist dreißig Minuten von hier.
 gw-0243; Hotel; hotel; ; A1; Grundwortschatz/Orte; Our hotel is near the beach.; Unser Hotel ist in der Nähe vom Strand.
 gw-0244; Park; park; ; A1; Grundwortschatz/Orte; We play football in the park today.; Wir spielen heute im Park Fußball.
@@ -262,7 +262,7 @@ gw-0260; wechseln; to change; to switch; A2; Grundwortschatz/Verben; I want to c
 gw-0261; überprüfen; to check; ; A2; Grundwortschatz/Verben; Please check your answers before the end.; Bitte überprüfe deine Antworten vor dem Ende.
 gw-0262; auswählen; to choose; to select, to pick; A2; Grundwortschatz/Verben; You can choose between tea and coffee.; Du kannst zwischen Tee und Kaffee auswählen.
 gw-0263; klettern; to climb; ; A2; Grundwortschatz/Verben; The children climb the big tree in the garden.; Die Kinder klettern auf den großen Baum im Garten.
-gw-0264; sammeln; to collect; ; A2; Grundwortschatz/Verben; My uncle collects old coins from many countries.; Mein Onkel sammelt alte Münzen aus vielen Ländern.
+gw-0264; sammeln; to collect; to gather; A2; Grundwortschatz/Verben; My uncle collects old coins from many countries.; Mein Onkel sammelt alte Münzen aus vielen Ländern.
 gw-0265; vergleichen; to compare; ; A2; Grundwortschatz/Verben; We compared the prices in two shops.; Wir verglichen die Preise in zwei Geschäften.
 gw-0266; fortsetzen; to continue; to carry on; A2; Grundwortschatz/Verben; After a short break we continued our walk.; Nach einer kurzen Pause setzten wir unseren Spaziergang fort.
 gw-0267; kopieren; to copy; ; A2; Grundwortschatz/Verben; Please copy the words into your notebook.; Bitte kopiere die Wörter in dein Heft.
@@ -283,7 +283,7 @@ gw-0281; ausfüllen; to fill in; to fill out; A2; Grundwortschatz/Verben; Please
 gw-0282; reparieren; to repair; to fix; A2; Grundwortschatz/Verben; My father repaired the broken washing machine.; Mein Vater reparierte die kaputte Waschmaschine.
 gw-0283; folgen; to follow; ; A2; Grundwortschatz/Verben; Follow this street until you reach the church.; Folgen Sie dieser Straße bis zur Kirche.
 gw-0284; wachsen; to grow; ; A2; Grundwortschatz/Verben; These flowers grow very fast in summer.; Diese Blumen wachsen im Sommer sehr schnell.
-gw-0285; raten; to guess; ; A2; Grundwortschatz/Verben; Can you guess how old my grandmother is?; Kannst du raten, wie alt meine Großmutter ist?
+gw-0285; raten (schätzen); to guess; ; A2; Grundwortschatz/Verben; Can you guess how old my grandmother is?; Kannst du raten, wie alt meine Großmutter ist?
 gw-0286; hassen; to hate; ; A2; Grundwortschatz/Verben; I hate getting up early on Mondays.; Ich hasse es, montags früh aufzustehen.
 gw-0287; wiegen; to weigh; ; A2; Grundwortschatz/Verben; The baby weighs about four kilos now.; Das Baby wiegt jetzt ungefähr vier Kilo.
 gw-0288; verletzen; to hurt; to injure; A2; Grundwortschatz/Verben; He hurt his leg during the football match.; Er verletzte sich beim Fußballspiel am Bein.
@@ -311,7 +311,7 @@ gw-0309; stehlen; to steal; ; A2; Grundwortschatz/Verben; Someone stole my bike 
 gw-0310; werfen; to throw; ; A2; Grundwortschatz/Verben; Throw the ball to me, please!; Wirf mir bitte den Ball zu!
 gw-0311; Erwachsener; adult; grown-up; A2; Grundwortschatz/Menschen & Familie; Children pay less than adults at the museum.; Kinder zahlen im Museum weniger als Erwachsene.
 gw-0312; Jugendlicher; teenager; teen; A2; Grundwortschatz/Menschen & Familie; Many teenagers spend hours on their phones.; Viele Jugendliche verbringen Stunden an ihren Handys.
-gw-0313; Leiter; ladder; ; A2; Grundwortschatz/Alltag; He climbed the ladder to reach the roof.; Er stieg die Leiter hinauf, um das Dach zu erreichen.
+gw-0313; Leiter (zum Steigen); ladder; ; A2; Grundwortschatz/Alltag; He climbed the ladder to reach the roof.; Er stieg die Leiter hinauf, um das Dach zu erreichen.
 gw-0314; Kollege; colleague; co-worker; A2; Grundwortschatz/Menschen & Familie; I have lunch with my colleagues every day.; Ich esse jeden Tag mit meinen Kollegen zu Mittag.
 gw-0315; Gast; guest; ; A2; Grundwortschatz/Menschen & Familie; The guests arrived at seven in the evening.; Die Gäste kamen um sieben Uhr abends an.
 gw-0316; Besucher; visitor; ; A2; Grundwortschatz/Menschen & Familie; The castle gets many visitors in summer.; Das Schloss bekommt im Sommer viele Besucher.
@@ -345,19 +345,19 @@ gw-0343; sofort; immediately; at once; A2; Grundwortschatz/Zeit; Please call me 
 gw-0344; kürzlich; recently; ; A2; Grundwortschatz/Zeit; We recently moved to a bigger flat.; Wir sind kürzlich in eine größere Wohnung gezogen.
 gw-0345; plötzlich; suddenly; ; A2; Grundwortschatz/Zeit; Suddenly it started to rain very hard.; Plötzlich begann es sehr stark zu regnen.
 gw-0346; schließlich; finally; in the end; A2; Grundwortschatz/Zeit; After a long wait, the bus finally came.; Nach langem Warten kam der Bus schließlich.
-gw-0347; während; during; ; A2; Grundwortschatz/Zeit; Please don't talk during the film.; Bitte sprich während des Films nicht.
+gw-0347; während; during; while; A2; Grundwortschatz/Zeit; Please don't talk during the film.; Bitte sprich während des Films nicht.
 gw-0348; übermorgen; the day after tomorrow; ; A2; Grundwortschatz/Zeit; We are flying to Spain the day after tomorrow.; Wir fliegen übermorgen nach Spanien.
 gw-0349; vorgestern; the day before yesterday; ; A2; Grundwortschatz/Zeit; I saw her the day before yesterday in town.; Ich habe sie vorgestern in der Stadt gesehen.
-gw-0350; pünktlich; on time; in time; A2; Grundwortschatz/Zeit; The train arrived exactly on time today.; Der Zug kam heute genau pünktlich an.
+gw-0350; pünktlich; on time; in time, punctual; A2; Grundwortschatz/Zeit; The train arrived exactly on time today.; Der Zug kam heute genau pünktlich an.
 gw-0351; Mahlzeit; meal; ; A2; Grundwortschatz/Essen & Trinken; Breakfast is the most important meal for me.; Das Frühstück ist für mich die wichtigste Mahlzeit.
 gw-0352; Nachtisch; dessert; ; A2; Grundwortschatz/Essen & Trinken; We had ice cream for dessert.; Wir hatten Eis zum Nachtisch.
 gw-0353; Vorspeise; starter; appetizer; A2; Grundwortschatz/Essen & Trinken; As a starter I ordered a small salad.; Als Vorspeise bestellte ich einen kleinen Salat.
 gw-0354; Hauptgericht; main course; main dish; A2; Grundwortschatz/Essen & Trinken; The main course was fish with rice.; Das Hauptgericht war Fisch mit Reis.
-gw-0355; Rezept; recipe; ; A2; Grundwortschatz/Essen & Trinken; My grandmother gave me her cake recipe.; Meine Großmutter gab mir ihr Kuchenrezept.
+gw-0355; Rezept (Kochen); recipe; ; A2; Grundwortschatz/Essen & Trinken; My grandmother gave me her cake recipe.; Meine Großmutter gab mir ihr Kuchenrezept.
 gw-0356; Zutat; ingredient; ; A2; Grundwortschatz/Essen & Trinken; We need only five ingredients for this dish.; Wir brauchen nur fünf Zutaten für dieses Gericht.
 gw-0357; Geschmack; taste; flavour; A2; Grundwortschatz/Essen & Trinken; I don't like the taste of this soup.; Ich mag den Geschmack dieser Suppe nicht.
 gw-0358; lecker; delicious; tasty; A2; Grundwortschatz/Essen & Trinken; The pizza at this restaurant is really delicious.; Die Pizza in diesem Restaurant ist wirklich lecker.
-gw-0359; Imbiss; snack; ; A2; Grundwortschatz/Essen & Trinken; We bought a quick snack at the station.; Wir kauften einen schnellen Imbiss am Bahnhof.
+gw-0359; Imbiss (kleine Mahlzeit); snack; ; A2; Grundwortschatz/Essen & Trinken; We bought a quick snack at the station.; Wir kauften einen schnellen Imbiss am Bahnhof.
 gw-0360; Kellner; waiter; ; A2; Grundwortschatz/Essen & Trinken; The waiter brought us the menu quickly.; Der Kellner brachte uns schnell die Speisekarte.
 gw-0361; Rechnung; bill; check, invoice; A2; Grundwortschatz/Essen & Trinken; Could we have the bill, please?; Könnten wir bitte die Rechnung haben?
 gw-0362; Trinkgeld; tip; ; A2; Grundwortschatz/Essen & Trinken; We left a small tip for the friendly waiter.; Wir ließen dem freundlichen Kellner ein kleines Trinkgeld da.
@@ -369,7 +369,7 @@ gw-0367; Gewürz; spice; ; A2; Grundwortschatz/Essen & Trinken; This soup needs 
 gw-0368; Mehl; flour; ; A2; Grundwortschatz/Essen & Trinken; Mix the flour with sugar and two eggs.; Mische das Mehl mit Zucker und zwei Eiern.
 gw-0369; Sahne; cream; ; A2; Grundwortschatz/Essen & Trinken; Would you like some cream with your cake?; Möchtest du etwas Sahne zu deinem Kuchen?
 gw-0370; Honig; honey; ; A2; Grundwortschatz/Essen & Trinken; I like honey in my tea when I'm ill.; Ich mag Honig im Tee, wenn ich krank bin.
-gw-0371; ängstlich; afraid; scared; A2; Grundwortschatz/Adjektive; Many people are afraid of big spiders.; Viele Menschen haben Angst vor großen Spinnen.
+gw-0371; ängstlich; afraid; scared, anxious; A2; Grundwortschatz/Adjektive; Many people are afraid of big spiders.; Viele Menschen haben Angst vor großen Spinnen.
 gw-0372; allein; alone; ; A2; Grundwortschatz/Adjektive; She lives alone in a small flat.; Sie wohnt allein in einer kleinen Wohnung.
 gw-0373; erstaunlich; amazing; astonishing; A2; Grundwortschatz/Adjektive; The view from the tower was amazing.; Die Aussicht vom Turm war erstaunlich.
 gw-0374; schrecklich; terrible; awful; A2; Grundwortschatz/Adjektive; The weather was terrible during our holiday.; Das Wetter war schrecklich während unseres Urlaubs.
@@ -393,7 +393,7 @@ gw-0391; neblig; foggy; misty; A2; Grundwortschatz/Adjektive; It is often foggy 
 gw-0392; Seil; rope; ; A2; Grundwortschatz/Alltag; The children jumped over the long rope.; Die Kinder sprangen über das lange Seil.
 gw-0393; laut; loud; noisy; A2; Grundwortschatz/Adjektive; The music at the party was too loud.; Die Musik auf der Party war zu laut.
 gw-0394; leise; quiet; silent; A2; Grundwortschatz/Adjektive; Please be quiet, the baby is sleeping.; Bitte sei leise, das Baby schläft.
-gw-0395; faul; lazy; ; A2; Grundwortschatz/Adjektive; On Sundays I am often a bit lazy.; Sonntags bin ich oft ein bisschen faul.
+gw-0395; faul (träge); lazy; ; A2; Grundwortschatz/Adjektive; On Sundays I am often a bit lazy.; Sonntags bin ich oft ein bisschen faul.
 gw-0396; einsam; lonely; ; A2; Grundwortschatz/Adjektive; He felt lonely in the big new city.; Er fühlte sich einsam in der großen neuen Stadt.
 gw-0397; modern; modern; ; A2; Grundwortschatz/Adjektive; They live in a modern flat near the park.; Sie wohnen in einer modernen Wohnung am Park.
 gw-0398; schmal; narrow; ; A2; Grundwortschatz/Adjektive; The old town has many narrow streets.; Die Altstadt hat viele schmale Gassen.
@@ -415,7 +415,7 @@ gw-0413; überrascht; surprised; ; A2; Grundwortschatz/Adjektive; We were surpri
 gw-0414; ordentlich; tidy; neat; A2; Grundwortschatz/Adjektive; Her desk is always clean and tidy.; Ihr Schreibtisch ist immer sauber und ordentlich.
 gw-0415; nützlich; useful; helpful; A2; Grundwortschatz/Adjektive; A dictionary is useful when you learn English.; Ein Wörterbuch ist nützlich, wenn man Englisch lernt.
 gw-0416; Brücke; bridge; ; A2; Grundwortschatz/Orte; We walked across the old stone bridge.; Wir gingen über die alte Steinbrücke.
-gw-0417; Schloss; castle; palace; A2; Grundwortschatz/Orte; The castle stands on a hill above the town.; Das Schloss steht auf einem Hügel über der Stadt.
+gw-0417; Schloss (Gebäude); castle; palace; A2; Grundwortschatz/Orte; The castle stands on a hill above the town.; Das Schloss steht auf einem Hügel über der Stadt.
 gw-0418; Küste; coast; ; A2; Grundwortschatz/Orte; We spent our holiday on the French coast.; Wir verbrachten unseren Urlaub an der französischen Küste.
 gw-0419; Wald; forest; wood, woods; A2; Grundwortschatz/Orte; We often go walking in the forest.; Wir gehen oft im Wald spazieren.
 gw-0420; Insel; island; ; A2; Grundwortschatz/Orte; The small island has only one village.; Die kleine Insel hat nur ein Dorf.
@@ -425,7 +425,7 @@ gw-0423; Bauernhof; farm; ; A2; Grundwortschatz/Orte; The children love the anim
 gw-0424; Fabrik; factory; ; A2; Grundwortschatz/Orte; He works in a car factory near Frankfurt.; Er arbeitet in einer Autofabrik bei Frankfurt.
 gw-0425; Stadion; stadium; ; A2; Grundwortschatz/Orte; The stadium was full for the big match.; Das Stadion war beim großen Spiel voll.
 gw-0426; Turm; tower; ; A2; Grundwortschatz/Orte; You can see the whole city from the tower.; Vom Turm kann man die ganze Stadt sehen.
-gw-0427; Platz; square; ; A2; Grundwortschatz/Orte; There is a market on the square every Friday.; Auf dem Platz ist jeden Freitag ein Markt.
+gw-0427; Platz (in der Stadt); square; ; A2; Grundwortschatz/Orte; There is a market on the square every Friday.; Auf dem Platz ist jeden Freitag ein Markt.
 gw-0428; Ecke; corner; ; A2; Grundwortschatz/Orte; The bakery is just around the corner.; Die Bäckerei ist gleich um die Ecke.
 gw-0429; Gegend; area; region; A2; Grundwortschatz/Orte; This area is known for its good wine.; Diese Gegend ist bekannt für ihren guten Wein.
 gw-0430; Pfad; path; trail; A2; Grundwortschatz/Orte; A narrow path leads down to the beach.; Ein schmaler Pfad führt hinunter zum Strand.
@@ -439,7 +439,7 @@ gw-0437; Buchhandlung; bookshop; bookstore; A2; Grundwortschatz/Orte; I bought t
 gw-0438; Spielplatz; playground; ; A2; Grundwortschatz/Orte; The kids are playing on the playground.; Die Kinder spielen auf dem Spielplatz.
 gw-0439; Parkplatz; car park; parking lot; A2; Grundwortschatz/Orte; The car park behind the supermarket is free.; Der Parkplatz hinter dem Supermarkt ist kostenlos.
 gw-0440; Tankstelle; petrol station; gas station; A2; Grundwortschatz/Orte; We stopped at a petrol station on the motorway.; Wir hielten an einer Tankstelle auf der Autobahn.
-gw-0441; Nachricht; message; ; A2; Grundwortschatz/Kommunikation; I sent you a message this morning.; Ich habe dir heute Morgen eine Nachricht geschickt.
+gw-0441; Nachricht (Mitteilung); message; ; A2; Grundwortschatz/Kommunikation; I sent you a message this morning.; Ich habe dir heute Morgen eine Nachricht geschickt.
 gw-0442; Neuigkeiten; news; ; A2; Grundwortschatz/Kommunikation; Have you heard the news about Tom?; Hast du die Neuigkeiten über Tom gehört?
 gw-0443; Gespräch; conversation; talk; A2; Grundwortschatz/Kommunikation; We had a long conversation about our plans.; Wir hatten ein langes Gespräch über unsere Pläne.
 gw-0444; Meinung; opinion; ; A2; Grundwortschatz/Kommunikation; In my opinion, the film was too long.; Meiner Meinung nach war der Film zu lang.
@@ -447,8 +447,8 @@ gw-0445; Grund; reason; ; A2; Grundwortschatz/Kommunikation; What was the reason
 gw-0446; Erklärung; explanation; ; A2; Grundwortschatz/Kommunikation; The teacher gave us a clear explanation.; Der Lehrer gab uns eine klare Erklärung.
 gw-0447; Geheimnis; secret; ; A2; Grundwortschatz/Kommunikation; Can you keep a secret, please?; Kannst du bitte ein Geheimnis für dich behalten?
 gw-0448; Witz; joke; ; A2; Grundwortschatz/Kommunikation; He told a funny joke at dinner.; Er erzählte beim Abendessen einen lustigen Witz.
-gw-0449; Streit; argument; quarrel; A2; Grundwortschatz/Kommunikation; They had an argument about the money.; Sie hatten einen Streit um das Geld.
-gw-0450; Rat; advice; ; A2; Grundwortschatz/Kommunikation; My father gave me some good advice.; Mein Vater gab mir einen guten Rat.
+gw-0449; Streit; argument; quarrel, dispute; A2; Grundwortschatz/Kommunikation; They had an argument about the money.; Sie hatten einen Streit um das Geld.
+gw-0450; Rat (Ratschlag); advice; ; A2; Grundwortschatz/Kommunikation; My father gave me some good advice.; Mein Vater gab mir einen guten Rat.
 gw-0451; Einladung; invitation; ; A2; Grundwortschatz/Kommunikation; Thank you for the invitation to your party.; Danke für die Einladung zu deiner Party.
 gw-0452; Anruf; phone call; call; A2; Grundwortschatz/Kommunikation; I got a phone call from my old friend.; Ich bekam einen Anruf von meinem alten Freund.
 gw-0453; Postkarte; postcard; ; A2; Grundwortschatz/Kommunikation; She sent us a postcard from Italy.; Sie schickte uns eine Postkarte aus Italien.
@@ -479,10 +479,10 @@ gw-0477; Werkzeug; tool; ; A2; Grundwortschatz/Alltag; You need the right tools 
 gw-0478; Taschenlampe; torch; flashlight; A2; Grundwortschatz/Alltag; Take a torch, it's dark in the cellar.; Nimm eine Taschenlampe, im Keller ist es dunkel.
 gw-0479; Batterie; battery; ; A2; Grundwortschatz/Alltag; The battery of my phone is almost empty.; Die Batterie meines Handys ist fast leer.
 gw-0480; Schublade; drawer; ; A2; Grundwortschatz/Alltag; The scissors are in the top drawer.; Die Schere ist in der obersten Schublade.
-gw-0481; Decke; blanket; ; A2; Grundwortschatz/Alltag; She put a warm blanket over the child.; Sie legte eine warme Decke über das Kind.
+gw-0481; Decke (zum Zudecken); blanket; ; A2; Grundwortschatz/Alltag; She put a warm blanket over the child.; Sie legte eine warme Decke über das Kind.
 gw-0482; Kissen; pillow; cushion; A2; Grundwortschatz/Alltag; I can't sleep without my own pillow.; Ich kann ohne mein eigenes Kissen nicht schlafen.
 gw-0483; Wecker; alarm clock; ; A2; Grundwortschatz/Alltag; My alarm clock rings at half past six.; Mein Wecker klingelt um halb sieben.
-gw-0484; Glück; luck; ; A2; Grundwortschatz/Alltag; With a bit of luck we'll get tickets.; Mit etwas Glück bekommen wir noch Karten.
+gw-0484; Glück (Glück haben); luck; ; A2; Grundwortschatz/Alltag; With a bit of luck we'll get tickets.; Mit etwas Glück bekommen wir noch Karten.
 gw-0485; Pflanze; plant; ; A2; Grundwortschatz/Alltag; The plant by the window needs more water.; Die Pflanze am Fenster braucht mehr Wasser.
 gw-0486; Beruf; profession; job, occupation; A2; Grundwortschatz/Arbeit & Schule; She loves her profession as a nurse.; Sie liebt ihren Beruf als Krankenschwester.
 gw-0487; Gehalt; salary; wages, pay; A2; Grundwortschatz/Arbeit & Schule; The new job comes with a better salary.; Der neue Job bringt ein besseres Gehalt.
@@ -492,7 +492,7 @@ gw-0490; Vorstellungsgespräch; job interview; interview; A2; Grundwortschatz/Ar
 gw-0491; Erfahrung; experience; ; A2; Grundwortschatz/Arbeit & Schule; She has a lot of experience with children.; Sie hat viel Erfahrung mit Kindern.
 gw-0492; Erfolg; success; ; A2; Grundwortschatz/Arbeit & Schule; The school festival was a great success.; Das Schulfest war ein großer Erfolg.
 gw-0493; Prüfung; exam; test; A2; Grundwortschatz/Arbeit & Schule; I have to study for my English exam.; Ich muss für meine Englischprüfung lernen.
-gw-0494; Note; mark; grade; A2; Grundwortschatz/Arbeit & Schule; He got the best mark in the class.; Er bekam die beste Note in der Klasse.
+gw-0494; Note (Schule); mark; grade; A2; Grundwortschatz/Arbeit & Schule; He got the best mark in the class.; Er bekam die beste Note in der Klasse.
 gw-0495; Fach; subject; ; A2; Grundwortschatz/Arbeit & Schule; My favourite subject at school is history.; Mein Lieblingsfach in der Schule ist Geschichte.
 gw-0496; Pause; break; ; A2; Grundwortschatz/Arbeit & Schule; Let's have a short break after this lesson.; Machen wir nach dieser Stunde eine kurze Pause.
 gw-0497; Projekt; project; ; A2; Grundwortschatz/Arbeit & Schule; Our class is working on a science project.; Unsere Klasse arbeitet an einem Wissenschaftsprojekt.
@@ -503,13 +503,13 @@ gw-0501; erreichen; to achieve; to accomplish; B1; Grundwortschatz/Verben; She w
 gw-0502; zugeben; to admit; to confess; B1; Grundwortschatz/Verben; He finally admitted that he had made a mistake.; Er gab schließlich zu, dass er einen Fehler gemacht hatte.
 gw-0503; beeinflussen; to influence; to affect; B1; Grundwortschatz/Verben; Social media can strongly influence the opinions of young people.; Soziale Medien können die Meinungen junger Menschen stark beeinflussen.
 gw-0504; ankündigen; to announce; ; B1; Grundwortschatz/Verben; The company announced a new product last week.; Die Firma kündigte letzte Woche ein neues Produkt an.
-gw-0505; sich entschuldigen; to apologize; to say sorry; B1; Grundwortschatz/Verben; You should apologize for being so late.; Du solltest dich entschuldigen, weil du so spät kommst.
+gw-0505; sich entschuldigen; to apologize; to say sorry, to apologise; B1; Grundwortschatz/Verben; You should apologize for being so late.; Du solltest dich entschuldigen, weil du so spät kommst.
 gw-0506; sich bewerben; to apply; to apply for; B1; Grundwortschatz/Verben, Grundwortschatz/Arbeit & Schule; She wants to apply for a job abroad.; Sie möchte sich um eine Stelle im Ausland bewerben.
 gw-0507; zu schätzen wissen; to appreciate; ; B1; Grundwortschatz/Verben; I really appreciate your help with the project.; Ich weiß deine Hilfe bei dem Projekt wirklich zu schätzen.
 gw-0508; genehmigen; to approve; to permit; B1; Grundwortschatz/Verben; The city finally approved the plans for the new school.; Die Stadt genehmigte endlich die Pläne für die neue Schule.
 gw-0509; streiten; to argue; to quarrel; B1; Grundwortschatz/Verben; They often argue about money and housework.; Sie streiten oft über Geld und Hausarbeit.
 gw-0510; vereinbaren; to arrange; to agree on; B1; Grundwortschatz/Verben; We arranged a meeting for next Tuesday morning.; Wir vereinbarten ein Treffen für nächsten Dienstagmorgen.
-gw-0511; annehmen; to assume; to presume; B1; Grundwortschatz/Verben; I assume that the train will be on time.; Ich nehme an, dass der Zug pünktlich sein wird.
+gw-0511; annehmen (vermuten); to assume; to presume; B1; Grundwortschatz/Verben; I assume that the train will be on time.; Ich nehme an, dass der Zug pünktlich sein wird.
 gw-0512; vermeiden; to avoid; ; B1; Grundwortschatz/Verben; Try to avoid mistakes by checking your work twice.; Versuche Fehler zu vermeiden, indem du deine Arbeit zweimal prüfst.
 gw-0513; sich verhalten; to behave; ; B1; Grundwortschatz/Verben; The children behaved very well during the long trip.; Die Kinder verhielten sich während der langen Reise sehr gut.
 gw-0514; verschütten; to spill; ; B1; Grundwortschatz/Verben; Be careful not to spill coffee on the keyboard.; Pass auf, dass du keinen Kaffee über die Tastatur verschüttest.
@@ -549,7 +549,7 @@ gw-0547; jagen; to chase; to hunt; B1; Grundwortschatz/Verben; The dog loves to 
 gw-0548; erhöhen; to increase; to raise; B1; Grundwortschatz/Verben; The city increased the price of bus tickets.; Die Stadt erhöhte den Preis für Busfahrkarten.
 gw-0549; bestehen auf; to insist; to insist on; B1; Grundwortschatz/Verben; She insisted on paying for the meal herself.; Sie bestand darauf, das Essen selbst zu bezahlen.
 gw-0550; beabsichtigen; to intend; to plan; B1; Grundwortschatz/Verben; We intend to visit Portugal next summer.; Wir beabsichtigen, nächsten Sommer Portugal zu besuchen.
-gw-0551; vorstellen; to introduce; ; B1; Grundwortschatz/Verben, Grundwortschatz/Kommunikation; Let me introduce you to my colleague Anna.; Lass mich dir meine Kollegin Anna vorstellen.
+gw-0551; vorstellen (jemanden); to introduce; ; B1; Grundwortschatz/Verben, Grundwortschatz/Kommunikation; Let me introduce you to my colleague Anna.; Lass mich dir meine Kollegin Anna vorstellen.
 gw-0552; erfinden; to invent; ; B1; Grundwortschatz/Verben; Who actually invented the first mobile phone?; Wer hat eigentlich das erste Handy erfunden?
 gw-0553; einbeziehen; to involve; to include; B1; Grundwortschatz/Verben; The job involves a lot of travelling abroad.; Die Stelle beinhaltet viele Reisen ins Ausland.
 gw-0554; beurteilen; to judge; ; B1; Grundwortschatz/Verben; You shouldn't judge people by their clothes.; Du solltest Menschen nicht nach ihrer Kleidung beurteilen.
@@ -570,7 +570,7 @@ gw-0568; niesen; to sneeze; ; B1; Grundwortschatz/Verben; He sneezed three times
 gw-0569; ablehnen; to refuse; to reject, to turn down; B1; Grundwortschatz/Verben; She refused to answer any personal questions.; Sie lehnte es ab, persönliche Fragen zu beantworten.
 gw-0570; bereuen; to regret; ; B1; Grundwortschatz/Verben, Grundwortschatz/Gefühle & Meinung; You will regret this decision later, believe me.; Du wirst diese Entscheidung später bereuen, glaub mir.
 gw-0571; sich verlassen auf; to rely on; to count on; B1; Grundwortschatz/Verben; You can always rely on your best friends.; Du kannst dich immer auf deine besten Freunde verlassen.
-gw-0572; erinnern; to remind; ; B1; Grundwortschatz/Verben, Grundwortschatz/Alltag; Please remind me to buy milk this evening.; Bitte erinnere mich daran, heute Abend Milch zu kaufen.
+gw-0572; erinnern (jemanden); to remind; ; B1; Grundwortschatz/Verben, Grundwortschatz/Alltag; Please remind me to buy milk this evening.; Bitte erinnere mich daran, heute Abend Milch zu kaufen.
 gw-0573; ersetzen; to replace; ; B1; Grundwortschatz/Verben; We need to replace the old printer soon.; Wir müssen den alten Drucker bald ersetzen.
 gw-0574; erfordern; to require; ; B1; Grundwortschatz/Verben; This job requires patience and good communication skills.; Diese Stelle erfordert Geduld und gute kommunikative Fähigkeiten.
 gw-0575; reagieren; to react; to respond; B1; Grundwortschatz/Verben; How did she react to the surprising news?; Wie hat sie auf die überraschende Nachricht reagiert?
@@ -582,11 +582,11 @@ gw-0580; nachlässig; careless; ; B1; Grundwortschatz/Adjektive; A careless driv
 gw-0581; gewiss; certain; sure; B1; Grundwortschatz/Adjektive; It is certain that prices will rise again.; Es ist gewiss, dass die Preise wieder steigen werden.
 gw-0582; verbreitet; common; widespread; B1; Grundwortschatz/Adjektive; This family name is very common in Germany.; Dieser Nachname ist in Deutschland sehr verbreitet.
 gw-0583; selbstbewusst; confident; self-confident; B1; Grundwortschatz/Adjektive, Grundwortschatz/Gefühle & Meinung; She felt confident before the important exam.; Sie fühlte sich vor der wichtigen Prüfung selbstbewusst.
-gw-0584; praktisch; convenient; handy; B1; Grundwortschatz/Adjektive; Online banking is very convenient for most customers.; Online-Banking ist für die meisten Kunden sehr praktisch.
+gw-0584; praktisch; convenient; handy, practical; B1; Grundwortschatz/Adjektive; Online banking is very convenient for most customers.; Online-Banking ist für die meisten Kunden sehr praktisch.
 gw-0585; neugierig; curious; ; B1; Grundwortschatz/Adjektive; The curious child asked questions about everything.; Das neugierige Kind stellte Fragen zu allem.
 gw-0586; aktuell; current; up to date; B1; Grundwortschatz/Adjektive; The current situation on the roads is difficult.; Die aktuelle Lage auf den Straßen ist schwierig.
 gw-0587; enttäuscht; disappointed; ; B1; Grundwortschatz/Adjektive, Grundwortschatz/Gefühle & Meinung; We were disappointed by the hotel and the service.; Wir waren von dem Hotel und dem Service enttäuscht.
-gw-0588; verlegen; embarrassed; ; B1; Grundwortschatz/Adjektive, Grundwortschatz/Gefühle & Meinung; He was embarrassed when he forgot her name.; Er war verlegen, als er ihren Namen vergaß.
+gw-0588; verlegen (beschämt); embarrassed; ; B1; Grundwortschatz/Adjektive, Grundwortschatz/Gefühle & Meinung; He was embarrassed when he forgot her name.; Er war verlegen, als er ihren Namen vergaß.
 gw-0589; riesig; enormous; huge; B1; Grundwortschatz/Adjektive; They live in an enormous house by the lake.; Sie wohnen in einem riesigen Haus am See.
 gw-0590; wesentlich; essential; vital; B1; Grundwortschatz/Adjektive; Good planning is essential for a successful project.; Gute Planung ist wesentlich für ein erfolgreiches Projekt.
 gw-0591; erschöpft; exhausted; worn out; B1; Grundwortschatz/Adjektive; After the long hike we were completely exhausted.; Nach der langen Wanderung waren wir völlig erschöpft.
@@ -601,7 +601,7 @@ gw-0599; ehrlich; honest; ; B1; Grundwortschatz/Adjektive; To be honest, I didn'
 gw-0600; sofortig; immediate; instant; B1; Grundwortschatz/Adjektive; The medicine had an immediate effect on the pain.; Das Medikament hatte eine sofortige Wirkung auf die Schmerzen.
 gw-0601; unabhängig; independent; ; B1; Grundwortschatz/Adjektive; She wants to be independent from her parents.; Sie möchte von ihren Eltern unabhängig sein.
 gw-0602; eifersüchtig; jealous; ; B1; Grundwortschatz/Adjektive, Grundwortschatz/Gefühle & Meinung; He gets jealous when she talks to other men.; Er wird eifersüchtig, wenn sie mit anderen Männern spricht.
-gw-0603; wahrscheinlich; likely; probable; B1; Grundwortschatz/Adjektive; It is likely that the flight will be delayed.; Es ist wahrscheinlich, dass der Flug Verspätung haben wird.
+gw-0603; wahrscheinlich; likely; probable, probably; B1; Grundwortschatz/Adjektive; It is likely that the flight will be delayed.; Es ist wahrscheinlich, dass der Flug Verspätung haben wird.
 gw-0604; notwendig; necessary; ; B1; Grundwortschatz/Adjektive; It is necessary to book the tickets early.; Es ist notwendig, die Karten früh zu buchen.
 gw-0605; offensichtlich; obvious; ; B1; Grundwortschatz/Adjektive; It was obvious that she was not telling the truth.; Es war offensichtlich, dass sie nicht die Wahrheit sagte.
 gw-0606; geduldig; patient; ; B1; Grundwortschatz/Adjektive; You have to be patient with small children.; Mit kleinen Kindern muss man geduldig sein.
@@ -652,11 +652,11 @@ gw-0650; währenddessen; meanwhile; in the meantime; B1; Grundwortschatz/Adverbi
 gw-0651; Vorteil; advantage; benefit; B1; Grundwortschatz/Abstrakte Begriffe; Living near the station is a big advantage.; In Bahnhofsnähe zu wohnen ist ein großer Vorteil.
 gw-0652; Nachteil; disadvantage; drawback; B1; Grundwortschatz/Abstrakte Begriffe; The only disadvantage of the flat is the noise.; Der einzige Nachteil der Wohnung ist der Lärm.
 gw-0653; Daumen; thumb; ; B1; Grundwortschatz/Alltag; He hurt his thumb while fixing the bike.; Er hat sich beim Reparieren des Fahrrads den Daumen verletzt.
-gw-0654; Leistung; achievement; accomplishment; B1; Grundwortschatz/Abstrakte Begriffe; Winning the prize was a great achievement for her.; Der Gewinn des Preises war eine große Leistung für sie.
+gw-0654; Leistung; achievement; accomplishment, performance; B1; Grundwortschatz/Abstrakte Begriffe; Winning the prize was a great achievement for her.; Der Gewinn des Preises war eine große Leistung für sie.
 gw-0655; Vereinbarung; agreement; ; B1; Grundwortschatz/Kommunikation; The two companies finally signed an agreement.; Die beiden Firmen unterzeichneten endlich eine Vereinbarung.
 gw-0656; Ziel; aim; goal, target; B1; Grundwortschatz/Abstrakte Begriffe; The aim of the course is to improve your speaking.; Das Ziel des Kurses ist es, dein Sprechen zu verbessern.
 gw-0657; Menge; amount; quantity; B1; Grundwortschatz/Abstrakte Begriffe; A large amount of money was spent on the project.; Eine große Menge Geld wurde für das Projekt ausgegeben.
-gw-0658; Einstellung; attitude; ; B1; Grundwortschatz/Gefühle & Meinung; Her positive attitude helped her in difficult times.; Ihre positive Einstellung half ihr in schwierigen Zeiten.
+gw-0658; Einstellung (Haltung); attitude; ; B1; Grundwortschatz/Gefühle & Meinung; Her positive attitude helped her in difficult times.; Ihre positive Einstellung half ihr in schwierigen Zeiten.
 gw-0659; Publikum; audience; ; B1; Grundwortschatz/Gesellschaft; The audience clapped loudly at the end of the show.; Das Publikum klatschte am Ende der Vorstellung laut.
 gw-0660; Behörde; authority; ; B1; Grundwortschatz/Gesellschaft; You must report the accident to the local authority.; Du musst den Unfall der örtlichen Behörde melden.
 gw-0661; Durchschnitt; average; ; B1; Grundwortschatz/Abstrakte Begriffe; His marks are above the average of the class.; Seine Noten liegen über dem Durchschnitt der Klasse.
@@ -668,7 +668,7 @@ gw-0666; Wettbewerb; competition; contest; B1; Grundwortschatz/Gesellschaft; Our
 gw-0667; Beschwerde; complaint; ; B1; Grundwortschatz/Kommunikation; The hotel received several complaints about the loud music.; Das Hotel erhielt mehrere Beschwerden über die laute Musik.
 gw-0668; Bedingung; condition; ; B1; Grundwortschatz/Abstrakte Begriffe; Good light is an important condition for taking photos.; Gutes Licht ist eine wichtige Bedingung für das Fotografieren.
 gw-0669; Verbindung; connection; link; B1; Grundwortschatz/Abstrakte Begriffe; There is a clear connection between smoking and cancer.; Es gibt eine klare Verbindung zwischen Rauchen und Krebs.
-gw-0670; Folge; consequence; result; B1; Grundwortschatz/Abstrakte Begriffe; The new law had serious consequences for small shops.; Das neue Gesetz hatte ernste Folgen für kleine Geschäfte.
+gw-0670; Folge (Konsequenz); consequence; result; B1; Grundwortschatz/Abstrakte Begriffe; The new law had serious consequences for small shops.; Das neue Gesetz hatte ernste Folgen für kleine Geschäfte.
 gw-0671; Entwicklung; development; ; B1; Grundwortschatz/Abstrakte Begriffe; The development of the city centre took several years.; Die Entwicklung des Stadtzentrums dauerte mehrere Jahre.
 gw-0672; Pflicht; duty; obligation; B1; Grundwortschatz/Gesellschaft; It is your duty to inform the police.; Es ist deine Pflicht, die Polizei zu informieren.
 gw-0673; Wirtschaft; economy; ; B1; Grundwortschatz/Gesellschaft; The economy of the country is growing slowly.; Die Wirtschaft des Landes wächst langsam.
@@ -713,7 +713,7 @@ gw-0711; Zweck; purpose; ; B1; Grundwortschatz/Abstrakte Begriffe; The purpose o
 gw-0712; Beziehung; relationship; ; B1; Grundwortschatz/Gefühle & Meinung; They have had a close relationship for many years.; Sie haben seit vielen Jahren eine enge Beziehung.
 gw-0713; Forschung; research; ; B1; Grundwortschatz/Arbeit & Schule; Modern research has changed the treatment of many diseases.; Die moderne Forschung hat die Behandlung vieler Krankheiten verändert.
 gw-0714; Verantwortung; responsibility; ; B1; Grundwortschatz/Abstrakte Begriffe; As a team leader she has a lot of responsibility.; Als Teamleiterin trägt sie viel Verantwortung.
-gw-0715; Lohn; wage; wages; B1; Grundwortschatz/Arbeit & Schule; The workers asked for a higher wage.; Die Arbeiter baten um einen höheren Lohn.
+gw-0715; Lohn (Bezahlung); wage; wages; B1; Grundwortschatz/Arbeit & Schule; The workers asked for a higher wage.; Die Arbeiter baten um einen höheren Lohn.
 gw-0716; Gesellschaft; society; ; B1; Grundwortschatz/Gesellschaft; Older people play an important role in our society.; Ältere Menschen spielen eine wichtige Rolle in unserer Gesellschaft.
 gw-0717; Lösung; solution; ; B1; Grundwortschatz/Abstrakte Begriffe; Together we will find a solution to this problem.; Gemeinsam werden wir eine Lösung für dieses Problem finden.
 gw-0718; Stärke; strength; ; B1; Grundwortschatz/Abstrakte Begriffe; Patience is one of her greatest strengths.; Geduld ist eine ihrer größten Stärken.
@@ -734,7 +734,7 @@ gw-0732; aufgeben; to give up; to quit; B1; Grundwortschatz/Wendungen; Don't giv
 gw-0733; herausfinden; to find out; ; B1; Grundwortschatz/Wendungen; I need to find out when the train leaves.; Ich muss herausfinden, wann der Zug abfährt.
 gw-0734; durchführen; to carry out; ; B1; Grundwortschatz/Wendungen, Grundwortschatz/Arbeit & Schule; The students carried out an interesting experiment in class.; Die Schüler führten im Unterricht ein interessantes Experiment durch.
 gw-0735; hinweisen auf; to point out; ; B1; Grundwortschatz/Wendungen, Grundwortschatz/Kommunikation; He pointed out that the figures were wrong.; Er wies darauf hin, dass die Zahlen falsch waren.
-gw-0736; sich kümmern um; to take care of; to look after; B1; Grundwortschatz/Wendungen, Grundwortschatz/Alltag; Who will take care of the dog during your holiday?; Wer kümmert sich während deines Urlaubs um den Hund?
+gw-0736; sich kümmern um; to take care of; to look after, to care for; B1; Grundwortschatz/Wendungen, Grundwortschatz/Alltag; Who will take care of the dog during your holiday?; Wer kümmert sich während deines Urlaubs um den Hund?
 gw-0737; eine Entscheidung treffen; to make a decision; to decide; B1; Grundwortschatz/Wendungen; We have to make a decision by Friday.; Wir müssen bis Freitag eine Entscheidung treffen.
 gw-0738; Sinn ergeben; to make sense; ; B1; Grundwortschatz/Wendungen; Your explanation makes sense to me now.; Deine Erklärung ergibt jetzt Sinn für mich.
 gw-0739; stattfinden; to take place; ; B1; Grundwortschatz/Wendungen; The festival takes place every year in July.; Das Festival findet jedes Jahr im Juli statt.
@@ -852,7 +852,7 @@ gw-0850; Auswirkung; impact; effect, consequence; B2; Grundwortschatz/Abstrakte 
 gw-0851; Wahrnehmung; perception; ; B2; Grundwortschatz/Abstrakte Begriffe; Our perception of time changes as we age.; Unsere Wahrnehmung der Zeit verändert sich mit dem Alter.
 gw-0852; Verpflichtung; obligation; commitment, duty; B2; Grundwortschatz/Abstrakte Begriffe; I have several family obligations this weekend.; Ich habe an diesem Wochenende mehrere familiäre Verpflichtungen.
 gw-0853; Absicht; intention; intent, purpose; B2; Grundwortschatz/Abstrakte Begriffe; It was never my intention to hurt you.; Es war nie meine Absicht, dich zu verletzen.
-gw-0854; Annahme; assumption; supposition; B2; Grundwortschatz/Abstrakte Begriffe; Your conclusion is based on a false assumption.; Deine Schlussfolgerung beruht auf einer falschen Annahme.
+gw-0854; Annahme (Vermutung); assumption; supposition; B2; Grundwortschatz/Abstrakte Begriffe; Your conclusion is based on a false assumption.; Deine Schlussfolgerung beruht auf einer falschen Annahme.
 gw-0855; Einwand; objection; ; B2; Grundwortschatz/Abstrakte Begriffe, Grundwortschatz/Kommunikation; Are there any objections to this proposal?; Gibt es Einwände gegen diesen Vorschlag?
 gw-0856; makellos; flawless; spotless; B2; Grundwortschatz/Adjektive; Her performance at the concert was simply flawless.; Ihr Auftritt beim Konzert war einfach makellos.
 gw-0857; Erkenntnis; insight; realization, finding; B2; Grundwortschatz/Abstrakte Begriffe; The study provides new insights into human behaviour.; Die Studie liefert neue Erkenntnisse über menschliches Verhalten.
@@ -987,7 +987,7 @@ gw-0985; hanebüchen; preposterous; outrageous, absurd; C2; Grundwortschatz/Adje
 gw-0986; spitzfindig; hair-splitting; sophistical, pedantic; C2; Grundwortschatz/Adjektive; His hair-splitting objections delayed the negotiations for hours.; Seine spitzfindigen Einwände verzögerten die Verhandlungen um Stunden.
 gw-0987; unverblümt; blunt; forthright, point-blank; C2; Grundwortschatz/Adjektive; She gave a blunt answer to the delicate question.; Sie gab eine unverblümte Antwort auf die heikle Frage.
 gw-0988; erhaben; sublime; lofty, majestic; C2; Grundwortschatz/Adjektive; The view from the summit was simply sublime.; Der Blick vom Gipfel war schlicht erhaben.
-gw-0989; vermessen; presumptuous; audacious; C2; Grundwortschatz/Adjektive; It would be presumptuous to promise a quick solution.; Es wäre vermessen, eine schnelle Lösung zu versprechen.
+gw-0989; vermessen (anmaßend); presumptuous; audacious; C2; Grundwortschatz/Adjektive; It would be presumptuous to promise a quick solution.; Es wäre vermessen, eine schnelle Lösung zu versprechen.
 gw-0990; schlechthin; par excellence; quintessentially; C2; Grundwortschatz/Adverbien; For many she is the stage actress par excellence.; Für viele ist sie die Bühnenschauspielerin schlechthin.
 gw-0991; unweigerlich; inevitably; invariably; C2; Grundwortschatz/Adverbien; Such carelessness inevitably leads to serious mistakes.; Solche Nachlässigkeit führt unweigerlich zu schweren Fehlern.
 gw-0992; obendrein; on top of that; moreover, in addition; C2; Grundwortschatz/Adverbien; The room was tiny and expensive on top of that.; Das Zimmer war winzig und obendrein teuer.

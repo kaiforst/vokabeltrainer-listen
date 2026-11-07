@@ -1,5 +1,5 @@
 id; Deutsch; Englisch; Weitere Antworten; Niveau; Themen; Beispiel Englisch; Beispiel Deutsch
-pg-0001; Land; country; nation; A1; Gesellschaft/Politik/Staat & Wahlen; Germany is a large country in Europe.; Deutschland ist ein großes Land in Europa.
+pg-0001; Land (Staat); country; nation; A1; Gesellschaft/Politik/Staat & Wahlen; Germany is a large country in Europe.; Deutschland ist ein großes Land in Europa.
 pg-0002; Stadt; city; town; A1; Gesellschaft/Soziales; Our city is building a new library.; Unsere Stadt baut eine neue Bibliothek.
 pg-0003; Mensch; human being; human, person; A1; Gesellschaft/Soziales; Every human being deserves respect and dignity.; Jeder Mensch verdient Respekt und Würde.
 pg-0004; Leute; people; folks; A1; Gesellschaft/Soziales; Many people came to the town meeting.; Viele Leute kamen zur Bürgerversammlung.
@@ -12,7 +12,7 @@ pg-0010; Kind; child; kid; A1; Gesellschaft/Soziales; Every child has a right to
 pg-0011; Politik; politics; ; A2; Gesellschaft/Politik/Demokratie; Many young people are interested in politics.; Viele junge Leute interessieren sich für Politik.
 pg-0012; Politiker; politician; ; A2; Gesellschaft/Politik/Parteien; The politician answered questions from the audience.; Der Politiker beantwortete Fragen aus dem Publikum.
 pg-0013; Wahl; election; ; A2; Gesellschaft/Politik/Staat & Wahlen; The next election takes place in September.; Die nächste Wahl findet im September statt.
-pg-0014; wählen; to vote; to elect; A2; Gesellschaft/Politik/Staat & Wahlen; You can vote when you are eighteen.; Du darfst wählen, wenn du achtzehn bist.
+pg-0014; wählen (bei einer Wahl); to vote; to elect; A2; Gesellschaft/Politik/Staat & Wahlen; You can vote when you are eighteen.; Du darfst wählen, wenn du achtzehn bist.
 pg-0015; Partei; party; political party; A2; Gesellschaft/Politik/Parteien; Which party do you support this year?; Welche Partei unterstützt du dieses Jahr?
 pg-0016; Regierung; government; ; A2; Gesellschaft/Politik/Staat & Wahlen; The government announced a new education program.; Die Regierung kündigte ein neues Bildungsprogramm an.
 pg-0017; Gesetz; law; act, statute; A2; Gesellschaft/Recht; The new law starts in January.; Das neue Gesetz gilt ab Januar.
@@ -27,7 +27,7 @@ pg-0025; Freiheit; freedom; liberty; A2; Gesellschaft/Politik/Demokratie; Freedo
 pg-0026; Recht; right; ; A2; Gesellschaft/Recht; Everyone has the right to free speech.; Jeder hat das Recht auf freie Meinungsäußerung.
 pg-0027; Meinung; opinion; view; A2; Gesellschaft/Politik/Demokratie; Everyone may say their opinion here openly.; Jeder darf hier offen seine Meinung sagen.
 pg-0028; Demonstration; demonstration; protest; A2; Gesellschaft/Politik/Demokratie; Thousands joined the demonstration in the capital.; Tausende nahmen an der Demonstration in der Hauptstadt teil.
-pg-0029; Gericht; court; court of law; A2; Gesellschaft/Recht; The court will decide the case tomorrow.; Das Gericht entscheidet den Fall morgen.
+pg-0029; Gericht (Justiz); court; court of law; A2; Gesellschaft/Recht; The court will decide the case tomorrow.; Das Gericht entscheidet den Fall morgen.
 pg-0030; Verein; club; association; A2; Gesellschaft/Ehrenamt; Our club organizes a summer festival every year.; Unser Verein organisiert jedes Jahr ein Sommerfest.
 pg-0031; Mitglied; member; ; A2; Gesellschaft/Ehrenamt; She has been a member for ten years.; Sie ist seit zehn Jahren Mitglied.
 pg-0032; Nachrichten; news; ; A2; Gesellschaft/Politik/Demokratie; I watch the news every evening at eight.; Ich schaue jeden Abend um acht die Nachrichten.
@@ -39,7 +39,7 @@ pg-0037; Parlament; parliament; ; B1; Gesellschaft/Politik/Staat & Wahlen; The p
 pg-0038; Kanzler; chancellor; ; B1; Gesellschaft/Politik/Staat & Wahlen; The chancellor gave a speech about Europe.; Der Kanzler hielt eine Rede über Europa.
 pg-0039; Minister; minister; secretary; B1; Gesellschaft/Politik/Staat & Wahlen; The minister presented the plans for new schools.; Der Minister stellte die Pläne für neue Schulen vor.
 pg-0040; Abgeordneter; member of parliament; MP, representative; B1; Gesellschaft/Politik/Staat & Wahlen; Our member of parliament visits the region often.; Unser Abgeordneter besucht die Region oft.
-pg-0041; Stimme; vote; voice; B1; Gesellschaft/Politik/Staat & Wahlen; Every vote counts in a close election.; Jede Stimme zählt bei einer knappen Wahl.
+pg-0041; Stimme (bei der Wahl); vote; voice; B1; Gesellschaft/Politik/Staat & Wahlen; Every vote counts in a close election.; Jede Stimme zählt bei einer knappen Wahl.
 pg-0042; Mehrheit; majority; ; B1; Gesellschaft/Politik/Staat & Wahlen; The party won a clear majority yesterday.; Die Partei gewann gestern eine klare Mehrheit.
 pg-0043; Minderheit; minority; ; B1; Gesellschaft/Soziales; The law protects the rights of every minority.; Das Gesetz schützt die Rechte jeder Minderheit.
 pg-0044; Opposition; opposition; ; B1; Gesellschaft/Politik/Parteien; The opposition criticized the new budget sharply.; Die Opposition kritisierte den neuen Haushalt scharf.
@@ -104,11 +104,11 @@ pg-0102; Grundrecht; basic right; fundamental right; B2; Gesellschaft/Recht; Edu
 pg-0103; Zensur; censorship; ; B2; Gesellschaft/Politik/Demokratie; Censorship has no place in a free country.; Zensur hat in einem freien Land keinen Platz.
 pg-0104; Korruption; corruption; ; B2; Gesellschaft/Politik/Demokratie; The new unit fights corruption in public offices.; Die neue Einheit bekämpft Korruption in Behörden.
 pg-0105; Skandal; scandal; affair; B2; Gesellschaft/Politik/Demokratie; The scandal forced the senator to resign.; Der Skandal zwang den Senator zum Rücktritt.
-pg-0106; Rücktritt; resignation; ; B2; Gesellschaft/Politik/Demokratie; The minister announced his resignation on Monday.; Der Minister erklärte am Montag seinen Rücktritt.
+pg-0106; Rücktritt (vom Amt); resignation; ; B2; Gesellschaft/Politik/Demokratie; The minister announced his resignation on Monday.; Der Minister erklärte am Montag seinen Rücktritt.
 pg-0107; zurücktreten; to resign; to step down; B2; Gesellschaft/Politik/Demokratie; The mayor resigned after the lost referendum.; Der Bürgermeister trat nach der verlorenen Volksabstimmung zurück.
 pg-0108; Klage; lawsuit; complaint, legal action; B2; Gesellschaft/Recht; The company filed a lawsuit against the city.; Die Firma reichte eine Klage gegen die Stadt ein.
 pg-0109; verklagen; to sue; ; B2; Gesellschaft/Recht; She sued the company for unpaid wages.; Sie verklagte die Firma wegen ausstehender Löhne.
-pg-0110; Berufung; appeal; ; B2; Gesellschaft/Recht; His lawyer announced an appeal against the verdict.; Sein Anwalt kündigte Berufung gegen das Urteil an.
+pg-0110; Berufung (Gericht); appeal; ; B2; Gesellschaft/Recht; His lawyer announced an appeal against the verdict.; Sein Anwalt kündigte Berufung gegen das Urteil an.
 pg-0111; Beweis; evidence; proof; B2; Gesellschaft/Recht; The court found no evidence against the driver.; Das Gericht fand keinen Beweis gegen den Fahrer.
 pg-0112; Staatsanwalt; prosecutor; public prosecutor; B2; Gesellschaft/Recht; The prosecutor demanded a long prison sentence.; Der Staatsanwalt forderte eine lange Haftstrafe.
 pg-0113; Angeklagter; defendant; accused; B2; Gesellschaft/Recht; The defendant remained silent during the trial.; Der Angeklagte schwieg während des Prozesses.

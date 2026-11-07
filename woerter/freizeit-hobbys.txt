@@ -14,7 +14,7 @@ fh-0012; Foto; photo; picture; A1; Freizeit/Hobbys; He takes a photo of the old 
 fh-0013; malen; to paint; ; A1; Freizeit/Basteln & Handwerk; The children paint colourful pictures for their grandmother.; Die Kinder malen bunte Bilder für ihre Großmutter.
 fh-0014; schwimmen; to swim; ; A1; Freizeit/Hobbys, Freizeit/Sport/Sportarten; In summer we swim in the lake.; Im Sommer schwimmen wir im See.
 fh-0015; Ball; ball; ; A1; Freizeit/Spiele; The dog brings the ball back to me.; Der Hund bringt mir den Ball zurück.
-fh-0016; Karte; playing card; card; A1; Freizeit/Spiele; She holds the best playing card in her hand.; Sie hält die beste Spielkarte in der Hand.
+fh-0016; Karte (Spielkarte); playing card; card; A1; Freizeit/Spiele; She holds the best playing card in her hand.; Sie hält die beste Spielkarte in der Hand.
 fh-0017; Gitarre; guitar; ; A1; Freizeit/Musik; My brother plays the guitar every evening.; Mein Bruder spielt jeden Abend Gitarre.
 fh-0018; Kino; cinema; movie theater; A1; Freizeit/Ausgehen; We go to the cinema on Friday evening.; Wir gehen am Freitagabend ins Kino.
 fh-0019; Geburtstag; birthday; ; A1; Freizeit/Feste & Feiern; Her birthday is in May this year.; Ihr Geburtstag ist dieses Jahr im Mai.
@@ -63,7 +63,7 @@ fh-0061; Schach; chess; ; B1; Freizeit/Spiele; He plays chess with his father ev
 fh-0062; Kartenspiel; card game; ; B1; Freizeit/Spiele; This card game is very easy to learn.; Dieses Kartenspiel ist sehr leicht zu lernen.
 fh-0063; Wettbewerb; competition; contest; B1; Freizeit/Spiele; She won the first prize in the photo competition.; Sie gewann den ersten Preis beim Fotowettbewerb.
 fh-0064; Turnier; tournament; ; B1; Freizeit/Spiele; The club organises a chess tournament every spring.; Der Verein organisiert jedes Frühjahr ein Schachturnier.
-fh-0065; Preis; prize; award; B1; Freizeit/Spiele; The prize for the winner is a weekend trip.; Der Preis für den Sieger ist eine Wochenendreise.
+fh-0065; Preis (Gewinn); prize; award; B1; Freizeit/Spiele; The prize for the winner is a weekend trip.; Der Preis für den Sieger ist eine Wochenendreise.
 fh-0066; Bühne; stage; ; B1; Freizeit/Musik; The band walked onto the stage at nine.; Die Band betrat um neun die Bühne.
 fh-0067; Auftritt; performance; appearance; B1; Freizeit/Musik; Her first performance made the whole family proud.; Ihr erster Auftritt machte die ganze Familie stolz.
 fh-0068; Publikum; audience; ; B1; Freizeit/Musik; The audience clapped for almost ten whole minutes.; Das Publikum klatschte fast zehn ganze Minuten.
@@ -72,24 +72,24 @@ fh-0070; Veranstaltung; event; ; B1; Freizeit/Ausgehen; The event takes place in
 fh-0071; stattfinden; to take place; ; B1; Freizeit/Feste & Feiern; The festival will take place at the end of August.; Das Fest findet Ende August statt.
 fh-0072; Schlagzeug; drums; drum kit; B1; Freizeit/Musik; He has played the drums since he was twelve.; Er spielt Schlagzeug, seit er zwölf ist.
 fh-0073; Geige; violin; fiddle; B1; Freizeit/Musik; The violin is a difficult but beautiful instrument.; Die Geige ist ein schwieriges, aber schönes Instrument.
-fh-0074; Band; band; ; B1; Freizeit/Musik; Their band plays in a garage near the station.; Ihre Band spielt in einer Garage am Bahnhof.
+fh-0074; Band (Musikgruppe); band; ; B1; Freizeit/Musik; Their band plays in a garage near the station.; Ihre Band spielt in einer Garage am Bahnhof.
 fh-0075; proben; to rehearse; ; B1; Freizeit/Musik; The group rehearses twice a week for the show.; Die Gruppe probt zweimal pro Woche für die Show.
 fh-0076; Melodie; melody; tune; B1; Freizeit/Musik; The melody stayed in my head for days.; Die Melodie blieb mir tagelang im Kopf.
 fh-0077; Roman; novel; ; B1; Freizeit/Lesen; She is writing a novel about her grandmother.; Sie schreibt einen Roman über ihre Großmutter.
 fh-0078; Krimi; crime novel; detective story; B1; Freizeit/Lesen; I finished the crime novel in one night.; Ich habe den Krimi in einer Nacht ausgelesen.
 fh-0079; Gedicht; poem; ; B1; Freizeit/Lesen; He wrote a short poem for her birthday.; Er schrieb ein kurzes Gedicht zu ihrem Geburtstag.
 fh-0080; Lesezeichen; bookmark; ; B1; Freizeit/Lesen; My bookmark is an old postcard from Rome.; Mein Lesezeichen ist eine alte Postkarte aus Rom.
-fh-0081; Handlung; plot; storyline; B1; Freizeit/Lesen; The plot of the book is full of surprises.; Die Handlung des Buches ist voller Überraschungen.
+fh-0081; Handlung (Geschichte); plot; storyline; B1; Freizeit/Lesen; The plot of the book is full of surprises.; Die Handlung des Buches ist voller Überraschungen.
 fh-0082; stricken; to knit; ; B1; Freizeit/Basteln & Handwerk; My aunt knits warm socks for the whole family.; Meine Tante strickt warme Socken für die ganze Familie.
 fh-0083; nähen; to sew; ; B1; Freizeit/Basteln & Handwerk; She sews her own dresses from old fabric.; Sie näht ihre eigenen Kleider aus altem Stoff.
 fh-0084; Werkstatt; workshop; ; B1; Freizeit/Basteln & Handwerk; He builds small tables in his little workshop.; Er baut kleine Tische in seiner kleinen Werkstatt.
 fh-0085; Feuerwerk; fireworks; ; B1; Freizeit/Feste & Feiern; The fireworks over the river lasted twenty minutes.; Das Feuerwerk über dem Fluss dauerte zwanzig Minuten.
-fh-0086; Umzug; parade; procession; B1; Freizeit/Feste & Feiern; The colourful parade moves slowly through the old town.; Der bunte Umzug zieht langsam durch die Altstadt.
+fh-0086; Umzug (Festzug); parade; procession; B1; Freizeit/Feste & Feiern; The colourful parade moves slowly through the old town.; Der bunte Umzug zieht langsam durch die Altstadt.
 fh-0087; Kostüm; costume; ; B1; Freizeit/Feste & Feiern; Her costume won a small prize at the party.; Ihr Kostüm gewann einen kleinen Preis auf der Party.
 fh-0088; Kneipe; pub; bar; B1; Freizeit/Ausgehen; We meet in the pub around the corner.; Wir treffen uns in der Kneipe um die Ecke.
 fh-0089; Zuschauer; spectator; viewer; B1; Freizeit/Ausgehen; Every spectator got a free drink before the show.; Jeder Zuschauer bekam vor der Show ein Freigetränk.
 fh-0090; unterhalten; to entertain; ; B1; Freizeit/Ausgehen; The magician entertained the children for an hour.; Der Zauberer unterhielt die Kinder eine Stunde lang.
-fh-0091; Unterhaltung; entertainment; ; B1; Freizeit/Ausgehen; The hotel offers entertainment for young and old.; Das Hotel bietet Unterhaltung für Jung und Alt.
+fh-0091; Unterhaltung (Vergnügen); entertainment; ; B1; Freizeit/Ausgehen; The hotel offers entertainment for young and old.; Das Hotel bietet Unterhaltung für Jung und Alt.
 fh-0092; Entspannung; relaxation; ; B1; Freizeit/Hobbys; Gardening is pure relaxation for my busy mother.; Gartenarbeit ist für meine beschäftigte Mutter pure Entspannung.
 fh-0093; entspannen; to relax; ; B1; Freizeit/Hobbys; After work he relaxes with some quiet music.; Nach der Arbeit entspannt er bei leiser Musik.
 fh-0094; Billard; billiards; pool; B1; Freizeit/Spiele; They play billiards in the back room there.; Sie spielen dort im Hinterzimmer Billard.
@@ -108,7 +108,7 @@ fh-0106; Komponist; composer; ; B2; Freizeit/Musik; The composer wrote this piec
 fh-0107; komponieren; to compose; ; B2; Freizeit/Musik; She composes short pieces for piano and violin.; Sie komponiert kurze Stücke für Klavier und Geige.
 fh-0108; Notenblatt; sheet music; ; B2; Freizeit/Musik; He lost his sheet music right before the concert.; Er verlor sein Notenblatt direkt vor dem Konzert.
 fh-0109; Literatur; literature; ; B2; Freizeit/Lesen; She knows a lot about modern French literature.; Sie weiß viel über moderne französische Literatur.
-fh-0110; Spannung; suspense; tension; B2; Freizeit/Lesen; The author builds the suspense slowly but surely.; Der Autor baut die Spannung langsam, aber sicher auf.
+fh-0110; Spannung (Buch, Film); suspense; tension; B2; Freizeit/Lesen; The author builds the suspense slowly but surely.; Der Autor baut die Spannung langsam, aber sicher auf.
 fh-0111; Nachtleben; nightlife; ; B2; Freizeit/Ausgehen; The nightlife in this quarter never really stops.; Das Nachtleben in diesem Viertel hört nie wirklich auf.
 fh-0112; Stimmung; atmosphere; mood; B2; Freizeit/Feste & Feiern; The atmosphere at the festival was warm and relaxed.; Die Stimmung auf dem Fest war warm und entspannt.
 fh-0113; ausgelassen; exuberant; boisterous; B2; Freizeit/Feste & Feiern; The exuberant crowd danced until the early morning.; Die ausgelassene Menge tanzte bis in den frühen Morgen.
@@ -122,7 +122,7 @@ fh-0120; Heimwerker; DIY enthusiast; home improver; B2; Freizeit/Basteln & Handw
 fh-0121; Bastelbedarf; craft supplies; ; B2; Freizeit/Basteln & Handwerk; The shop sells craft supplies and cheap tools.; Der Laden verkauft Bastelbedarf und günstiges Werkzeug.
 fh-0122; Geschicklichkeit; dexterity; skill; B2; Freizeit/Basteln & Handwerk; This model requires patience and great dexterity.; Dieses Modell erfordert Geduld und große Geschicklichkeit.
 fh-0123; Zeitvertreib; pastime; ; B2; Freizeit/Hobbys; Solving puzzles is his favourite pastime on trains.; Rätsel lösen ist im Zug sein liebster Zeitvertreib.
-fh-0124; Feierabend; end of the working day; ; B2; Freizeit/Ausgehen; After the end of the working day he meets friends.; Nach Feierabend trifft er sich mit Freunden.
+fh-0124; Feierabend; end of the working day; end of the workday; B2; Freizeit/Ausgehen; After the end of the working day he meets friends.; Nach Feierabend trifft er sich mit Freunden.
 fh-0125; sich verabreden; to arrange to meet; to make a date; B2; Freizeit/Ausgehen; We arranged to meet in front of the cinema.; Wir verabredeten uns vor dem Kino.
 fh-0126; Muße; leisure; ; C1; Freizeit/Hobbys; Real leisure means time without any plans at all.; Echte Muße bedeutet Zeit ganz ohne Pläne.
 fh-0127; Zerstreuung; diversion; distraction; C1; Freizeit/Hobbys; The old cinema offered welcome diversion in hard times.; Das alte Kino bot willkommene Zerstreuung in harten Zeiten.

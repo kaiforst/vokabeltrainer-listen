@@ -1,0 +1,489 @@
+# Französisch: Ausbau Grundwörter: themenübergreifende Verben, Adjektive, kleine Wörter, Zeit, Raum, Mengen, Denken und Sprechen, Gefühle und Charakter
+id; Deutsch; Französisch; Weitere Antworten; Niveau; Themen; Beispiel Französisch; Beispiel Deutsch
+fr-xe-0001; aufhören; arrêter; cesser; A2; Allgemein/Verben; Arrête de parler et écoute-moi, s'il te plaît.; Bitte hör auf zu reden und hör mir zu.
+fr-xe-0002; benutzen; utiliser; se servir de; A2; Allgemein/Verben; Je peux utiliser ton portable un instant ?; Darf ich kurz dein Handy benutzen?
+fr-xe-0003; hängen; accrocher; suspendre; A2; Allgemein/Verben; J'accroche ma veste au crochet près de la porte.; Ich hänge meine Jacke an den Haken neben der Tür.
+fr-xe-0004; fehlen; manquer; ; A2; Allgemein/Verben; Il manque un bouton à ma nouvelle chemise.; An meinem neuen Hemd fehlt ein Knopf.
+fr-xe-0005; holen; aller chercher; ; A2; Allgemein/Verben; Tu peux aller me chercher un verre d'eau ?; Kannst du mir ein Glas Wasser holen?
+fr-xe-0006; bewegen; bouger; déplacer; A2; Allgemein/Verben; Aide-moi à bouger un peu le canapé vers la gauche.; Hilf mir, das Sofa ein bisschen nach links zu bewegen.
+fr-xe-0007; drehen; tourner; ; A2; Allgemein/Verben; Tourne la clé deux fois pour ouvrir la porte.; Dreh den Schlüssel zweimal, um die Tür zu öffnen.
+fr-xe-0008; enden; se terminer; finir; A2; Allgemein/Verben; L'histoire se termine par un grand mariage.; Die Geschichte endet mit einer großen Hochzeit.
+fr-xe-0009; drücken; appuyer; presser; A2; Allgemein/Verben; Appuie sur le bouton vert pour démarrer la machine.; Drück den grünen Knopf, um die Maschine zu starten.
+fr-xe-0010; stören; déranger; ; A2; Allgemein/Verben; Désolé de te déranger, mais j'ai une question.; Entschuldigung, dass ich störe, aber ich habe eine Frage.
+fr-xe-0011; verstecken; cacher; ; A2; Allgemein/Verben; Où as-tu caché les cadeaux d'anniversaire ?; Wo hast du die Geburtstagsgeschenke versteckt?
+fr-xe-0012; wecken; réveiller; ; A2; Allgemein/Verben; Réveille-moi à sept heures demain matin, s'il te plaît.; Bitte weck mich morgen früh um sieben.
+fr-xe-0013; mischen; mélanger; ; A2; Allgemein/Verben; Mélange la peinture bleue et la peinture jaune.; Misch die blaue und die gelbe Farbe zusammen.
+fr-xe-0014; heben; soulever; lever; B1; Allgemein/Verben; Tu peux m'aider à soulever cette caisse lourde ?; Kannst du mir helfen, diese schwere Kiste zu heben?
+fr-xe-0015; schaffen (bewältigen); y arriver; réussir; B1; Allgemein/Verben; Ne t'inquiète pas, tu vas y arriver facilement.; Keine Sorge, du schaffst das leicht.
+fr-xe-0016; sich verlassen; compter sur; se fier à; B1; Allgemein/Verben; Tu peux toujours compter sur ta meilleure amie.; Auf deine beste Freundin kannst du dich immer verlassen.
+fr-xe-0017; sich gewöhnen; s'habituer; ; B1; Allgemein/Verben; Je me suis lentement habitué au temps froid.; Ich habe mich langsam an das kalte Wetter gewöhnt.
+fr-xe-0018; sich lohnen; valoir la peine; valoir le coup; B1; Allgemein/Verben; La longue montée jusqu'au sommet valait vraiment la peine.; Der lange Weg nach oben hat sich wirklich gelohnt.
+fr-xe-0019; sich beteiligen; participer; prendre part; B1; Allgemein/Verben; Toute la classe a participé à la discussion.; Alle in der Klasse haben sich an der Diskussion beteiligt.
+fr-xe-0020; sich einigen; se mettre d'accord; ; B1; Allgemein/Verben; Nous nous sommes enfin mis d'accord sur une date pour la fête.; Wir haben uns endlich auf einen Termin für die Party geeinigt.
+fr-xe-0021; sich weigern; refuser; ; B1; Allgemein/Verben; Il a refusé de répondre à ma question.; Er weigerte sich, meine Frage zu beantworten.
+fr-xe-0022; begleiten; accompagner; ; B1; Allgemein/Verben; Tu peux m'accompagner chez le médecin demain ?; Kannst du mich morgen zum Arzt begleiten?
+fr-xe-0023; belohnen; récompenser; ; B1; Allgemein/Verben; Le chien a été récompensé par une friandise.; Der Hund wurde mit einem Leckerli belohnt.
+fr-xe-0024; verwenden; utiliser; employer; B1; Allgemein/Verben; Pour cette soupe, nous utilisons seulement des légumes frais.; Für diese Suppe verwenden wir nur frisches Gemüse.
+fr-xe-0025; nutzen; utiliser; profiter de; B1; Allgemein/Verben; Utilise ton temps libre pour te détendre un peu.; Nutze deine freie Zeit, um dich ein bisschen zu entspannen.
+fr-xe-0026; beobachten; observer; ; B1; Allgemein/Verben; Nous avons observé les oiseaux depuis la fenêtre de la cuisine.; Wir haben die Vögel vom Küchenfenster aus beobachtet.
+fr-xe-0027; bestimmen; décider; déterminer; B1; Allgemein/Verben; Qui décide de ce qu'on fait ce week-end ?; Wer bestimmt, was wir am Wochenende machen?
+fr-xe-0028; bieten; offrir; proposer; B1; Allgemein/Verben; L'hôtel offre une vue magnifique sur la mer.; Das Hotel bietet einen wunderbaren Blick aufs Meer.
+fr-xe-0029; erstellen; créer; établir; B1; Allgemein/Verben; Crée une liste de tous les participants, s'il te plaît.; Bitte erstelle eine Liste aller Teilnehmer.
+fr-xe-0030; garantieren; garantir; ; B1; Allgemein/Verben; Je ne peux pas garantir que ça va marcher.; Ich kann nicht garantieren, dass es funktioniert.
+fr-xe-0031; genügen; suffire; ; B1; Allgemein/Verben; Un petit morceau de gâteau me suffit.; Ein kleines Stück Kuchen genügt mir.
+fr-xe-0032; greifen; saisir; attraper; B1; Allgemein/Verben; Il a saisi la corde à deux mains.; Er ergriff das Seil mit beiden Händen.
+fr-xe-0033; retten; sauver; secourir; B1; Allgemein/Verben; Les pompiers ont sauvé le chat coincé dans l'arbre.; Die Feuerwehr hat die Katze vom Baum gerettet.
+fr-xe-0034; stecken; mettre; ; B1; Allgemein/Verben; Il a mis la lettre dans la poche de son manteau.; Er steckte den Brief in seine Manteltasche.
+fr-xe-0035; tauschen; échanger; ; B1; Allgemein/Verben; On échange nos places pour que tu voies mieux ?; Sollen wir die Plätze tauschen, damit du besser sehen kannst?
+fr-xe-0036; überraschen; surprendre; ; B1; Allgemein/Verben; Nous voulons surprendre maman pour son anniversaire.; Wir wollen Mama an ihrem Geburtstag überraschen.
+fr-xe-0037; verbieten; interdire; ; B1; Allgemein/Verben; Mes parents m'interdisent de rentrer tard le soir.; Meine Eltern verbieten mir, lange wegzubleiben.
+fr-xe-0038; verschwinden; disparaître; ; B1; Allgemein/Verben; Mes clés ont encore disparu ce matin.; Meine Schlüssel sind heute Morgen schon wieder verschwunden.
+fr-xe-0039; kleben; coller; ; A2; Allgemein/Verben; Colle la photo au milieu de la page.; Kleb das Foto in die Mitte der Seite.
+fr-xe-0040; rollen; rouler; ; A2; Allgemein/Verben; Le ballon a roulé lentement sous la voiture.; Der Ball rollte langsam unter das Auto.
+fr-xe-0041; rutschen; glisser; ; A2; Allgemein/Verben; Fais attention, tu pourrais glisser sur la glace.; Pass auf, du könntest auf dem Eis rutschen.
+fr-xe-0042; sich verabschieden; dire au revoir; prendre congé; A2; Allgemein/Verben; Nous avons dit au revoir à nos amis à la gare.; Wir haben uns am Bahnhof von unseren Freunden verabschiedet.
+fr-xe-0043; sich bedanken; remercier; dire merci; A2; Allgemein/Verben; N'oublie pas de remercier pour le cadeau.; Vergiss nicht, dich für das Geschenk zu bedanken.
+fr-xe-0044; sich streiten; se disputer; ; A2; Allgemein/Verben; Mon frère et moi, nous nous disputons souvent pour la télévision.; Mein Bruder und ich streiten uns oft um den Fernseher.
+fr-xe-0045; verteilen; distribuer; ; B1; Allgemein/Verben; La professeure a distribué les fiches à tout le monde.; Die Lehrerin verteilte die Arbeitsblätter an alle.
+fr-xe-0046; interessieren; intéresser; ; B1; Allgemein/Verben; La politique ne m'intéresse pas du tout.; Politik interessiert mich überhaupt nicht.
+fr-xe-0047; ausreichen; suffire; être suffisant; B1; Allgemein/Verben; L'argent ne suffira pas pour une nouvelle voiture.; Das Geld wird für ein neues Auto nicht ausreichen.
+fr-xe-0048; beschädigen; endommager; abîmer; B1; Allgemein/Verben; La tempête a endommagé le toit de notre maison.; Der Sturm hat das Dach unseres Hauses beschädigt.
+fr-xe-0049; biegen; plier; tordre; B1; Allgemein/Verben; Il a plié le fil de fer à mains nues.; Er bog den Draht mit bloßen Händen.
+fr-xe-0050; erledigen; régler; s'occuper de; B1; Allgemein/Verben; Je dois encore régler quelques petites choses aujourd'hui.; Ich muss heute noch ein paar Sachen erledigen.
+fr-xe-0051; ergänzen; compléter; ajouter; B1; Allgemein/Verben; Complète la liste avec les mots qui manquent.; Ergänze die Liste mit den fehlenden Wörtern.
+fr-xe-0052; festhalten; se tenir; tenir; B1; Allgemein/Verben; Tiens-toi bien, le bus va bientôt démarrer.; Halt dich gut fest, der Bus fährt gleich los.
+fr-xe-0053; lehnen; appuyer; adosser; B1; Allgemein/Verben; Il a appuyé son vélo contre le mur.; Er lehnte sein Fahrrad an die Wand.
+fr-xe-0054; markieren; marquer; surligner; B1; Allgemein/Verben; Marque les mots importants avec un stylo jaune.; Markiere die wichtigen Wörter mit einem gelben Stift.
+fr-xe-0055; verändern; changer; modifier; B1; Allgemein/Verben; Le nouveau travail a complètement changé sa vie.; Die neue Stelle hat sein Leben völlig verändert.
+fr-xe-0056; zerstören; détruire; ; B1; Allgemein/Verben; Le feu a détruit le vieux pont en bois.; Das Feuer zerstörte die alte Holzbrücke.
+fr-xe-0057; zusammenarbeiten; travailler ensemble; collaborer, coopérer; B1; Allgemein/Verben; Nous avons travaillé ensemble sur le projet pendant des semaines.; Wir haben wochenlang an dem Projekt zusammengearbeitet.
+fr-xe-0058; loslassen; lâcher; ; B1; Allgemein/Verben; Ne lâche pas ma main dans la foule.; Lass in der Menge meine Hand nicht los.
+fr-xe-0059; aufheben (vom Boden); ramasser; ; B1; Allgemein/Verben; Ramasse tes vêtements par terre, s'il te plaît.; Bitte heb deine Kleider vom Boden auf.
+fr-xe-0060; erwischen; attraper; ; B1; Allgemein/Verben; Nous avons attrapé de justesse le dernier bus.; Wir haben gerade noch den letzten Bus erwischt.
+fr-xe-0061; klappen; marcher; fonctionner; B1; Allgemein/Verben; J'espère que tout marchera bien avec ton nouvel appartement.; Ich hoffe, mit deiner neuen Wohnung klappt alles.
+fr-xe-0062; sich kümmern; s'occuper de; prendre soin de; B1; Allgemein/Verben; Qui s'occupe de ton chat quand tu n'es pas là ?; Wer kümmert sich um deine Katze, wenn du weg bist?
+fr-xe-0063; sich anstrengen; faire des efforts; s'efforcer; B1; Allgemein/Verben; Si tu fais des efforts, tu réussiras le contrôle.; Wenn du dich anstrengst, bestehst du den Test.
+fr-xe-0064; sich trauen; oser; ; B1; Allgemein/Verben; Je n'ai pas osé poser la question à la professeure.; Ich habe mich nicht getraut, die Lehrerin zu fragen.
+fr-xe-0065; sich wundern; s'étonner; être surpris; B1; Allgemein/Verben; Je me suis étonné que personne ne vienne à la fête.; Ich habe mich gewundert, dass niemand zur Party kam.
+fr-xe-0066; betreffen; concerner; toucher; B2; Allgemein/Verben; Les nouvelles règles concernent tous les élèves de l'école.; Die neuen Regeln betreffen alle Schüler der Schule.
+fr-xe-0067; darstellen; représenter; ; B2; Allgemein/Verben; Le tableau représente un village tranquille au bord d'un lac.; Das Gemälde stellt ein ruhiges Dorf an einem See dar.
+fr-xe-0068; entsprechen; correspondre à; ; B2; Allgemein/Verben; Le résultat correspond exactement à nos attentes.; Das Ergebnis entspricht genau unseren Erwartungen.
+fr-xe-0069; entstehen; naître; apparaître, se former; B2; Allgemein/Verben; Une nouvelle idée est née pendant la conversation.; Während des Gesprächs entstand eine neue Idee.
+fr-xe-0070; erzeugen; produire; générer; B2; Allgemein/Verben; Ce bruit constant produit beaucoup de stress.; Dieser ständige Lärm erzeugt viel Stress.
+fr-xe-0071; gelten; valoir; s'appliquer, être valable; B2; Allgemein/Verben; Cette règle vaut pour tout le monde dans la classe.; Diese Regel gilt für alle in der Klasse.
+fr-xe-0072; gleichen; ressembler; ; B2; Allgemein/Verben; Les deux sœurs se ressemblent vraiment beaucoup.; Die beiden Schwestern gleichen sich sehr.
+fr-xe-0073; senken; baisser; réduire; B2; Allgemein/Verben; Le magasin a baissé ses prix cette semaine.; Der Laden hat diese Woche seine Preise gesenkt.
+fr-xe-0074; wagen; oser; ; B2; Allgemein/Verben; Personne n'a osé dire un seul mot.; Niemand wagte es, ein einziges Wort zu sagen.
+fr-xe-0075; sich eignen; convenir; être adapté; B2; Allgemein/Verben; Cette salle convient pour de petites réunions.; Dieser Raum eignet sich für kleine Treffen.
+fr-xe-0076; sich bemühen; s'efforcer; faire des efforts; B2; Allgemein/Verben; Elle s'est vraiment efforcée d'être aimable.; Sie hat sich wirklich bemüht, freundlich zu sein.
+fr-xe-0077; befestigen; fixer; attacher; B2; Allgemein/Verben; Fixe le panneau sur la porte avec du ruban adhésif.; Befestige das Schild mit Klebeband an der Tür.
+fr-xe-0078; bewahren; garder; conserver, préserver; B2; Allgemein/Verben; Essaie de garder ton calme dans une situation difficile.; Versuch, in einer schwierigen Situation die Ruhe zu bewahren.
+fr-xe-0079; erneuern; renouveler; ; B2; Allgemein/Verben; Je dois faire renouveler mon passeport le mois prochain.; Ich muss nächsten Monat meinen Reisepass erneuern lassen.
+fr-xe-0080; stützen; soutenir; étayer; B2; Allgemein/Verben; De vieilles poutres soutiennent le toit de la grange.; Alte Balken stützen das Dach der Scheune.
+fr-xe-0081; verbergen; dissimuler; cacher; B2; Allgemein/Verben; Elle a essayé de dissimuler sa grande déception.; Sie versuchte, ihre große Enttäuschung zu verbergen.
+fr-xe-0082; verdecken; masquer; cacher; B2; Allgemein/Verben; Un gros nuage a masqué le soleil pendant un moment.; Eine große Wolke verdeckte eine Weile die Sonne.
+fr-xe-0083; vereinfachen; simplifier; ; B2; Allgemein/Verben; La nouvelle application simplifie beaucoup de tâches quotidiennes.; Die neue App vereinfacht viele alltägliche Aufgaben.
+fr-xe-0084; verkürzen; raccourcir; ; B2; Allgemein/Verben; La nouvelle route raccourcit le trajet d'une heure.; Die neue Straße verkürzt die Fahrt um eine Stunde.
+fr-xe-0085; versorgen; approvisionner; fournir; B2; Allgemein/Verben; La ferme approvisionne le village en lait frais.; Der Bauernhof versorgt das Dorf mit frischer Milch.
+fr-xe-0086; verstärken; renforcer; ; B2; Allgemein/Verben; La mauvaise nouvelle a renforcé ses peurs.; Die schlechte Nachricht verstärkte seine Ängste.
+fr-xe-0087; vertreten; représenter; ; B2; Allgemein/Verben; Elle représente notre classe au conseil des délégués.; Sie vertritt unsere Klasse in der Schülervertretung.
+fr-xe-0088; toll; génial; super, formidable; A1; Allgemein/Adjektive; On a passé un moment génial à la plage.; Wir hatten eine tolle Zeit am Strand.
+fr-xe-0089; fertig; fini; terminé, prêt; A1; Allgemein/Adjektive; Tu as déjà fini tes devoirs ?; Bist du schon mit deinen Hausaufgaben fertig?
+fr-xe-0090; hell; clair; lumineux; A2; Allgemein/Adjektive; Notre nouvel appartement est grand et très clair.; Unsere neue Wohnung ist groß und sehr hell.
+fr-xe-0091; komisch; bizarre; étrange; A2; Allgemein/Adjektive; Il y a une odeur bizarre dans la cuisine.; In der Küche riecht es komisch.
+fr-xe-0092; kompliziert; compliqué; ; A2; Allgemein/Adjektive; Les règles de ce jeu sont très compliquées.; Die Regeln dieses Spiels sind sehr kompliziert.
+fr-xe-0093; unmöglich; impossible; ; A2; Allgemein/Adjektive; C'est impossible de finir ça d'ici demain.; Es ist unmöglich, das bis morgen fertig zu machen.
+fr-xe-0094; verboten; interdit; ; A2; Allgemein/Adjektive; Il est interdit de fumer dans tout le bâtiment.; Rauchen ist im ganzen Gebäude verboten.
+fr-xe-0095; verrückt; fou; ; A2; Allgemein/Adjektive; C'est une idée folle, mais elle me plaît.; Das ist eine verrückte Idee, aber sie gefällt mir.
+fr-xe-0096; wach; réveillé; éveillé; A2; Allgemein/Adjektive; Je suis resté réveillé la moitié de la nuit.; Ich war die halbe Nacht wach.
+fr-xe-0097; wild; sauvage; ; A2; Allgemein/Adjektive; Ce cheval sauvage ne laisse personne s'approcher.; Dieses wilde Pferd lässt niemanden an sich heran.
+fr-xe-0098; normal; normal; ; A2; Allgemein/Adjektive; C'est normal d'être nerveux avant un examen.; Es ist normal, vor einer Prüfung nervös zu sein.
+fr-xe-0099; schlimm; grave; terrible; A2; Allgemein/Adjektive; Ce n'est pas grave, ça peut arriver à tout le monde.; Das ist nicht schlimm, das kann jedem passieren.
+fr-xe-0100; echt; vrai; authentique; A2; Allgemein/Adjektive; C'est un vrai diamant ou un faux ?; Ist das ein echter Diamant oder eine Fälschung?
+fr-xe-0101; nötig; nécessaire; ; A2; Allgemein/Adjektive; C'est vraiment nécessaire de l'appeler maintenant ?; Ist es wirklich nötig, ihn jetzt anzurufen?
+fr-xe-0102; witzig; drôle; amusant; A2; Allgemein/Adjektive; Il nous a raconté une histoire très drôle.; Er hat uns eine sehr witzige Geschichte erzählt.
+fr-xe-0103; unfair; injuste; ; A2; Allgemein/Adjektive; C'est injuste que je doive toujours faire la vaisselle.; Es ist unfair, dass ich immer abwaschen muss.
+fr-xe-0104; kühl; frais; ; A2; Allgemein/Adjektive; Conserve le médicament dans un endroit frais.; Bewahre das Medikament an einem kühlen Ort auf.
+fr-xe-0105; bekannt; connu; célèbre; A2; Allgemein/Adjektive; La ville est connue pour son vieux château.; Die Stadt ist für ihr altes Schloss bekannt.
+fr-xe-0106; eigen; propre; ; B1; Allgemein/Adjektive; Un jour, je veux avoir ma propre chambre.; Eines Tages möchte ich ein eigenes Zimmer haben.
+fr-xe-0107; sorgfältig; soigneux; minutieux; B1; Allgemein/Adjektive; Elle est très soigneuse avec ses affaires.; Sie geht sehr sorgfältig mit ihren Sachen um.
+fr-xe-0108; einzig; seul; unique; B1; Allgemein/Adjektive; C'est la seule personne qui connaît la réponse.; Sie ist die einzige Person, die die Antwort kennt.
+fr-xe-0109; geheim; secret; ; B1; Allgemein/Adjektive; Le plan doit rester secret jusqu'à vendredi.; Der Plan muss bis Freitag geheim bleiben.
+fr-xe-0110; glatt (Oberfläche); lisse; ; B1; Allgemein/Adjektive; Après des années dans la rivière, la pierre est toute lisse.; Der Stein ist nach Jahren im Fluss ganz glatt.
+fr-xe-0111; korrekt; correct; juste; B1; Allgemein/Adjektive; Toutes tes réponses au contrôle étaient correctes.; Alle deine Antworten im Test waren korrekt.
+fr-xe-0112; locker; desserré; lâche; B1; Allgemein/Adjektive; Cette vis est desserrée, il faut la resserrer.; Diese Schraube ist locker, man muss sie festziehen.
+fr-xe-0113; merkwürdig; étrange; bizarre; B1; Allgemein/Adjektive; Il m'est arrivé quelque chose d'étrange hier.; Gestern ist mir etwas Merkwürdiges passiert.
+fr-xe-0114; passend; approprié; adapté, assorti; B1; Allgemein/Adjektive; Je ne trouve pas de cadeau approprié pour elle.; Ich finde kein passendes Geschenk für sie.
+fr-xe-0115; rein; pur; ; B1; Allgemein/Adjektive; Ce pull est en pure laine.; Dieser Pullover ist aus reiner Wolle.
+fr-xe-0116; üblich; habituel; courant; B1; Allgemein/Adjektive; Ici, il est habituel de laisser dix pour cent de pourboire.; Hier ist es üblich, etwa zehn Prozent Trinkgeld zu geben.
+fr-xe-0117; verschieden; différent; divers; B1; Allgemein/Adjektive; Les jumeaux ont des centres d'intérêt très différents.; Die Zwillinge haben ganz verschiedene Interessen.
+fr-xe-0118; zusätzlich; supplémentaire; ; B1; Allgemein/Adjektive; Il faut payer des frais supplémentaires pour le petit-déjeuner.; Für das Frühstück muss man eine zusätzliche Gebühr zahlen.
+fr-xe-0119; angenehm; agréable; ; B1; Allgemein/Adjektive; Nous avons passé une soirée agréable avec nos voisins.; Wir hatten einen angenehmen Abend mit unseren Nachbarn.
+fr-xe-0120; unangenehm; désagréable; ; B1; Allgemein/Adjektive; L'odeur dans la cave est très désagréable.; Der Geruch im Keller ist sehr unangenehm.
+fr-xe-0121; ausgezeichnet; excellent; ; B1; Allgemein/Adjektive; La cuisine de ce restaurant est excellente.; Das Essen in diesem Restaurant ist ausgezeichnet.
+fr-xe-0122; winzig; minuscule; ; B1; Allgemein/Adjektive; Nous logions dans une chambre minuscule sous le toit.; Wir wohnten in einem winzigen Zimmer unter dem Dach.
+fr-xe-0123; direkt; direct; ; B1; Allgemein/Adjektive; Il y a un train direct pour Lyon ?; Gibt es einen direkten Zug nach Lyon?
+fr-xe-0124; unbekannt; inconnu; ; B1; Allgemein/Adjektive; La cause de l'incendie est encore inconnue.; Die Ursache des Feuers ist noch unbekannt.
+fr-xe-0125; sichtbar; visible; ; B1; Allgemein/Adjektive; Les montagnes ne sont visibles que par temps clair.; Die Berge sind nur an klaren Tagen sichtbar.
+fr-xe-0126; unsichtbar; invisible; ; B1; Allgemein/Adjektive; Dans l'histoire, le garçon peut devenir invisible.; In der Geschichte kann der Junge unsichtbar werden.
+fr-xe-0127; lebendig; vivant; ; B1; Allgemein/Adjektive; Le poisson dans le seau était encore vivant.; Der Fisch im Eimer war noch lebendig.
+fr-xe-0128; nutzlos; inutile; ; B1; Allgemein/Adjektive; Cette vieille carte est complètement inutile maintenant.; Diese alte Karte ist jetzt völlig nutzlos.
+fr-xe-0129; logisch; logique; ; B1; Allgemein/Adjektive; Il doit y avoir une explication logique à cela.; Dafür muss es eine logische Erklärung geben.
+fr-xe-0130; sinnvoll; judicieux; raisonnable, sensé; B1; Allgemein/Adjektive; Ce serait judicieux de partir un peu plus tôt.; Es wäre sinnvoll, etwas früher loszufahren.
+fr-xe-0131; negativ; négatif; ; B1; Allgemein/Adjektive; Ne pense pas toujours aux choses négatives.; Denk nicht immer an die negativen Dinge.
+fr-xe-0132; ideal; idéal; ; B1; Allgemein/Adjektive; Le temps était idéal pour une balade à vélo.; Das Wetter war ideal für eine Radtour.
+fr-xe-0133; fein; fin; ; B1; Allgemein/Adjektive; Le sable de cette plage est très fin.; Der Sand an diesem Strand ist sehr fein.
+fr-xe-0134; gemischt; mélangé; mixte; B1; Allgemein/Adjektive; Je prends une salade mélangée avec du pain.; Ich nehme einen gemischten Salat mit Brot.
+fr-xe-0135; vollständig; complet; ; B1; Allgemein/Adjektive; Apporte une liste complète de tes livres, s'il te plaît.; Bitte bring eine vollständige Liste deiner Bücher mit.
+fr-xe-0136; hervorragend; remarquable; excellent; B2; Allgemein/Adjektive; Elle a fait une prestation remarquable dans la pièce.; Sie hat in dem Theaterstück eine hervorragende Leistung gezeigt.
+fr-xe-0137; gewaltig; énorme; gigantesque; B2; Allgemein/Adjektive; Une vague énorme a frappé le petit bateau.; Eine gewaltige Welle traf das kleine Boot.
+fr-xe-0138; eindeutig; clair; net; B2; Allgemein/Adjektive; Le résultat du vote était tout à fait clair.; Das Ergebnis der Abstimmung war völlig eindeutig.
+fr-xe-0139; entscheidend; décisif; crucial; B2; Allgemein/Adjektive; Les prochains jours vont être décisifs pour nous.; Die nächsten Tage werden für uns entscheidend sein.
+fr-xe-0140; ausreichend; suffisant; ; B2; Allgemein/Adjektive; Le temps n'était pas suffisant pour toutes les questions.; Die Zeit war für alle Fragen nicht ausreichend.
+fr-xe-0141; indirekt; indirect; ; B2; Allgemein/Adjektive; Sa réponse était une critique indirecte du projet.; Seine Antwort war eine indirekte Kritik am Plan.
+fr-xe-0142; konkret; concret; précis; B2; Allgemein/Adjektive; Tu peux me donner un exemple concret ?; Kannst du mir ein konkretes Beispiel geben?
+fr-xe-0143; sinnlos; inutile; vain; B2; Allgemein/Adjektive; C'est inutile de discuter avec lui.; Es ist sinnlos, mit ihm zu streiten.
+fr-xe-0144; sanft; doux; ; B2; Allgemein/Adjektive; Elle a réveillé le bébé d'une voix douce.; Sie weckte das Baby mit sanfter Stimme.
+fr-xe-0145; gleichmäßig; régulier; uniforme; B2; Allgemein/Adjektive; Le coureur garde un rythme régulier jusqu'à l'arrivée.; Der Läufer hält bis zum Ziel ein gleichmäßiges Tempo.
+fr-xe-0146; in; dans; en; A1; Allgemein/Kleine Wörter; Les clés sont dans mon cartable.; Die Schlüssel sind in meiner Schultasche.
+fr-xe-0147; an; à; ; A1; Allgemein/Kleine Wörter; Il y a quelqu'un à la porte d'entrée.; Jemand steht an der Haustür.
+fr-xe-0148; bei; chez; ; A1; Allgemein/Kleine Wörter; Je suis chez ma tante ce week-end.; Ich bin dieses Wochenende bei meiner Tante.
+fr-xe-0149; so; si; tellement; A1; Allgemein/Kleine Wörter; Je suis si fatigué après cette longue journée.; Ich bin nach dem langen Tag so müde.
+fr-xe-0150; denn; car; ; A1; Allgemein/Kleine Wörter; Je reste à la maison, car je suis malade.; Ich bleibe zu Hause, denn ich bin krank.
+fr-xe-0151; gern; volontiers; avec plaisir; A1; Allgemein/Kleine Wörter; Je t'aide volontiers à porter les cartons.; Ich helfe dir gern mit den Kisten.
+fr-xe-0152; niemand; personne; ; A2; Allgemein/Kleine Wörter; Personne n'a répondu au téléphone à la maison.; Zu Hause ist niemand ans Telefon gegangen.
+fr-xe-0153; über (Thema); de; sur, à propos de; A2; Allgemein/Kleine Wörter; Nous avons parlé de nos projets pour l'été.; Wir haben über unsere Pläne für den Sommer gesprochen.
+fr-xe-0154; wieso; pourquoi; ; A2; Allgemein/Kleine Wörter; Pourquoi tu ne me l'as pas dit plus tôt ?; Wieso hast du mir das nicht früher gesagt?
+fr-xe-0155; trotzdem; quand même; pourtant, malgré tout; A2; Allgemein/Kleine Wörter; Il pleuvait, mais nous sommes quand même allés nous promener.; Es regnete, trotzdem gingen wir spazieren.
+fr-xe-0156; wegen; à cause de; ; A2; Allgemein/Kleine Wörter; Le match a été annulé à cause de la pluie.; Das Spiel wurde wegen des Regens abgesagt.
+fr-xe-0157; ab; à partir de; dès; A2; Allgemein/Kleine Wörter; Le magasin est ouvert à partir de neuf heures.; Der Laden ist ab neun Uhr geöffnet.
+fr-xe-0158; bevor; avant de; avant que; A2; Allgemein/Kleine Wörter; Lave-toi les mains avant de manger.; Wasch dir die Hände, bevor du isst.
+fr-xe-0159; eigentlich; en fait; ; A2; Allgemein/Kleine Wörter; En fait, je voulais rester à la maison aujourd'hui.; Eigentlich wollte ich heute zu Hause bleiben.
+fr-xe-0160; leider; malheureusement; ; A2; Allgemein/Kleine Wörter; Malheureusement, je ne peux pas venir à ta fête.; Leider kann ich nicht zu deiner Party kommen.
+fr-xe-0161; hoffentlich; j'espère que; espérons que, pourvu que; A2; Allgemein/Kleine Wörter; J'espère qu'il fera plus beau demain.; Hoffentlich ist das Wetter morgen besser.
+fr-xe-0162; also; donc; alors; A2; Allgemein/Kleine Wörter; Il est tard, donc rentrons à la maison.; Es ist spät, also lass uns nach Hause gehen.
+fr-xe-0163; bestimmt; sûrement; certainement; A2; Allgemein/Kleine Wörter; Elle va sûrement t'appeler ce soir.; Sie ruft dich heute Abend bestimmt an.
+fr-xe-0164; einander; l'un l'autre; les uns les autres; B1; Allgemein/Kleine Wörter; Les deux amis s'aident l'un l'autre depuis des années.; Die beiden Freunde helfen einander seit Jahren.
+fr-xe-0165; deswegen; c'est pourquoi; pour cette raison, c'est pour ça que; B1; Allgemein/Kleine Wörter; Le bus était en retard, c'est pourquoi j'ai raté le film.; Der Bus kam zu spät, deswegen habe ich den Film verpasst.
+fr-xe-0166; statt; au lieu de; ; B1; Allgemein/Kleine Wörter; Aujourd'hui, prenons du thé au lieu de café.; Lass uns heute Tee statt Kaffee trinken.
+fr-xe-0167; außer; sauf; à part; B1; Allgemein/Kleine Wörter; Tout le monde est venu à la fête sauf Théo.; Alle außer Théo kamen zur Party.
+fr-xe-0168; damit (Zweck); pour que; afin que; B1; Allgemein/Kleine Wörter; Parle plus fort pour que tout le monde t'entende.; Sprich lauter, damit dich alle hören können.
+fr-xe-0169; falls; au cas où; si; B1; Allgemein/Kleine Wörter; Prends un parapluie au cas où il pleuvrait.; Nimm einen Schirm mit, falls es regnet.
+fr-xe-0170; nachdem; après que; ; B1; Allgemein/Kleine Wörter; Après qu'ils sont partis, nous avons rangé la cuisine.; Nachdem sie gegangen waren, haben wir die Küche aufgeräumt.
+fr-xe-0171; seitdem; depuis que; ; B1; Allgemein/Kleine Wörter; Depuis qu'elle a déménagé, nous nous voyons rarement.; Seitdem sie weggezogen ist, sehen wir uns selten.
+fr-xe-0172; sondern; mais; ; B1; Allgemein/Kleine Wörter; Ce n'est pas mon frère, mais mon cousin.; Er ist nicht mein Bruder, sondern mein Cousin.
+fr-xe-0173; entweder; soit; ; B1; Allgemein/Kleine Wörter; On peut soit prendre le bus, soit y aller à pied.; Wir können entweder mit dem Bus fahren oder zu Fuß gehen.
+fr-xe-0174; weder; ni; ; B1; Allgemein/Kleine Wörter; Je n'aime ni le poisson ni la viande.; Ich mag weder Fisch noch Fleisch.
+fr-xe-0175; allerdings; cependant; toutefois; B1; Allgemein/Kleine Wörter; L'hôtel était beau. La cuisine, cependant, était horrible.; Das Hotel war schön, das Essen war allerdings schrecklich.
+fr-xe-0176; außerdem; en plus; de plus, par ailleurs; B1; Allgemein/Kleine Wörter; Il est trop tard, et en plus je suis fatigué.; Es ist zu spät, und außerdem bin ich müde.
+fr-xe-0177; genauso; tout aussi; de la même façon; B1; Allgemein/Kleine Wörter; Mon nouveau portable est tout aussi bon que l'ancien.; Mein neues Handy ist genauso gut wie das alte.
+fr-xe-0178; bloß; juste; seulement; B1; Allgemein/Kleine Wörter; Je voulais juste t'aider avec tes devoirs.; Ich wollte dir bloß bei den Hausaufgaben helfen.
+fr-xe-0179; eher; plutôt; ; B1; Allgemein/Kleine Wörter; Ce soir, je vais plutôt rester à la maison.; Ich bleibe heute Abend eher zu Hause.
+fr-xe-0180; höchstens; au maximum; tout au plus; B1; Allgemein/Kleine Wörter; Le film dure une heure et demie au maximum.; Der Film dauert höchstens eineinhalb Stunden.
+fr-xe-0181; wenigstens; au moins; ; B1; Allgemein/Kleine Wörter; Tu pourrais au moins dire merci.; Du könntest wenigstens Danke sagen.
+fr-xe-0182; sowieso; de toute façon; ; B1; Allgemein/Kleine Wörter; Ne t'inquiète pas, je voulais y aller de toute façon.; Keine Sorge, ich wollte sowieso dorthin.
+fr-xe-0183; sonst; sinon; ; B1; Allgemein/Kleine Wörter; Dépêche-toi, sinon nous allons rater le train.; Beeil dich, sonst verpassen wir den Zug.
+fr-xe-0184; irgendwie; d'une manière ou d'une autre; d'une façon ou d'une autre; B1; Allgemein/Kleine Wörter; Ne t'inquiète pas, on va y arriver d'une manière ou d'une autre.; Keine Sorge, wir werden es irgendwie schaffen.
+fr-xe-0185; überhaupt; du tout; ; B1; Allgemein/Kleine Wörter; Je n'aime pas du tout cette musique.; Ich mag diese Musik überhaupt nicht.
+fr-xe-0186; unbedingt; absolument; ; B1; Allgemein/Kleine Wörter; Tu dois absolument voir ce film.; Du musst diesen Film unbedingt sehen.
+fr-xe-0187; zufällig; par hasard; ; B1; Allgemein/Kleine Wörter; J'ai rencontré par hasard mon ancien professeur en ville.; Ich habe zufällig meinen alten Lehrer in der Stadt getroffen.
+fr-xe-0188; absolut; absolument; ; B1; Allgemein/Kleine Wörter; Je suis absolument sûr d'avoir fermé la porte à clé.; Ich bin absolut sicher, dass ich die Tür abgeschlossen habe.
+fr-xe-0189; relativ; relativement; ; B1; Allgemein/Kleine Wörter; Le contrôle était relativement facile cette fois.; Der Test war diesmal relativ leicht.
+fr-xe-0190; extrem; extrêmement; ; B1; Allgemein/Kleine Wörter; Il faisait extrêmement froid à la montagne.; In den Bergen war es extrem kalt.
+fr-xe-0191; gemeinsam; ensemble; ; B1; Allgemein/Kleine Wörter; Hier soir, nous avons cuisiné ensemble.; Wir haben gestern Abend gemeinsam gekocht.
+fr-xe-0192; da (weil); comme; puisque; B1; Allgemein/Kleine Wörter; Comme il pleuvait, nous sommes restés à la maison.; Da es regnete, blieben wir zu Hause.
+fr-xe-0193; wozu; pour quoi faire; ; B1; Allgemein/Kleine Wörter; Tu as besoin de tout cet argent pour quoi faire ?; Wozu brauchst du das ganze Geld?
+fr-xe-0194; gegenseitig; mutuellement; réciproquement; B2; Allgemein/Kleine Wörter; Nous nous aidons mutuellement pour les devoirs.; Wir helfen uns gegenseitig bei den Hausaufgaben.
+fr-xe-0195; dank; grâce à; ; B2; Allgemein/Kleine Wörter; Grâce à ton aide, nous avons fini à temps.; Dank deiner Hilfe sind wir rechtzeitig fertig geworden.
+fr-xe-0196; sodass; si bien que; de sorte que; B2; Allgemein/Kleine Wörter; Le brouillard était épais, si bien qu'on ne voyait rien.; Der Nebel war dicht, sodass wir nichts sehen konnten.
+fr-xe-0197; indem; en; ; B2; Allgemein/Kleine Wörter; Tu peux économiser de l'argent en cuisinant à la maison.; Du kannst Geld sparen, indem du zu Hause kochst.
+fr-xe-0198; ebenfalls; également; aussi; B2; Allgemein/Kleine Wörter; Mon frère étudie également la médecine.; Mein Bruder studiert ebenfalls Medizin.
+fr-xe-0199; möglicherweise; peut-être; éventuellement; B2; Allgemein/Kleine Wörter; Le train aura peut-être un peu de retard.; Der Zug wird möglicherweise etwas Verspätung haben.
+fr-xe-0200; offenbar; apparemment; ; B2; Allgemein/Kleine Wörter; Apparemment, personne ne lui avait parlé de la réunion.; Offenbar hatte ihm niemand von dem Treffen erzählt.
+fr-xe-0201; jedenfalls; en tout cas; de toute façon; B2; Allgemein/Kleine Wörter; J'ignore ce que font les autres, en tout cas je viens.; Ich weiß nicht, was die anderen machen, ich komme jedenfalls.
+fr-xe-0202; nämlich; à savoir; ; B2; Allgemein/Kleine Wörter; Deux élèves manquaient, à savoir Anna et Tim.; Zwei Schüler fehlten, nämlich Anna und Tim.
+fr-xe-0203; beispielsweise; par exemple; ; B2; Allgemein/Kleine Wörter; Beaucoup de fruits, par exemple les pommes, poussent ici.; Viele Obstsorten, beispielsweise Äpfel, wachsen hier.
+fr-xe-0204; bezüglich; concernant; au sujet de, en ce qui concerne; C1; Allgemein/Kleine Wörter; J'ai une question concernant ton dernier e-mail.; Ich habe eine Frage bezüglich deiner letzten E-Mail.
+fr-xe-0205; zudem; de plus; en outre; C1; Allgemein/Kleine Wörter; L'appartement est bon marché et, de plus, très central.; Die Wohnung ist günstig und zudem sehr zentral.
+fr-xe-0206; lediglich; simplement; seulement, uniquement; C1; Allgemein/Kleine Wörter; Il s'agissait simplement d'un petit malentendu entre nous.; Es war lediglich ein kleines Missverständnis zwischen uns.
+fr-xe-0207; keinesfalls; en aucun cas; ; C1; Allgemein/Kleine Wörter; Tu ne dois en aucun cas ouvrir cette porte.; Du darfst diese Tür keinesfalls öffnen.
+fr-xe-0208; um (Uhrzeit); à; ; A1; Allgemein/Zeit; Les cours commencent à neuf heures.; Der Unterricht beginnt um neun Uhr.
+fr-xe-0209; morgens; le matin; ; A1; Allgemein/Zeit; Le matin, je bois toujours du thé.; Morgens trinke ich immer Tee.
+fr-xe-0210; abends; le soir; ; A1; Allgemein/Zeit; Le soir, nous jouons souvent aux cartes.; Abends spielen wir oft Karten.
+fr-xe-0211; Ende; la fin; ; A1; Allgemein/Zeit; Nous déménageons à la fin du mois.; Wir ziehen am Ende des Monats um.
+fr-xe-0212; noch; encore; toujours; A2; Allgemein/Zeit; Ta grand-mère habite encore à Lyon ?; Wohnt deine Oma noch in Lyon?
+fr-xe-0213; nachts; la nuit; ; A2; Allgemein/Zeit; Le chien de notre voisin aboie la nuit.; Der Hund unseres Nachbarn bellt nachts.
+fr-xe-0214; Uhrzeit; l'heure; ; A2; Allgemein/Zeit; Pouvez-vous me donner l'heure, s'il vous plaît ?; Können Sie mir bitte die Uhrzeit sagen?
+fr-xe-0215; Wochentag; le jour de la semaine; ; A2; Allgemein/Zeit; Ton anniversaire tombe quel jour de la semaine cette année ?; Auf welchen Wochentag fällt dein Geburtstag dieses Jahr?
+fr-xe-0216; Anfang; le début; ; A2; Allgemein/Zeit; Au début, le film était un peu ennuyeux.; Am Anfang war der Film ein bisschen langweilig.
+fr-xe-0217; Mal (das erste Mal); la fois; ; A2; Allgemein/Zeit; C'est la première fois que je viens à Paris.; Das ist das erste Mal, dass ich in Paris bin.
+fr-xe-0218; Vormittag; la matinée; ; A2; Allgemein/Zeit; Lundi, j'ai deux heures de maths dans la matinée.; Am Montagvormittag habe ich zwei Stunden Mathe.
+fr-xe-0219; Nachmittag; l'après-midi; ; A2; Allgemein/Zeit; Nous avons passé tout l'après-midi au parc.; Wir haben den ganzen Nachmittag im Park verbracht.
+fr-xe-0220; Viertelstunde; le quart d'heure; ; A2; Allgemein/Zeit; Le bus passe tous les quarts d'heure.; Der Bus kommt jede Viertelstunde.
+fr-xe-0221; früher (in der Vergangenheit); autrefois; avant, dans le temps; A2; Allgemein/Zeit; Autrefois, il y avait un cinéma dans notre rue.; Früher gab es in unserer Straße ein Kino.
+fr-xe-0222; damals; à l'époque; ; A2; Allgemein/Zeit; À l'époque, nous n'avions pas de portables.; Damals hatten wir keine Handys.
+fr-xe-0223; danach; ensuite; après; A2; Allgemein/Zeit; Nous avons fait les courses, et ensuite nous avons déjeuné.; Wir waren einkaufen und haben danach zu Mittag gegessen.
+fr-xe-0224; täglich; tous les jours; quotidiennement; A2; Allgemein/Zeit; Je fais du piano une demi-heure tous les jours.; Ich übe täglich eine halbe Stunde Klavier.
+fr-xe-0225; mittags; à midi; ; A2; Allgemein/Zeit; À midi, nous mangeons à la cantine de l'école.; Mittags essen wir in der Schulkantine.
+fr-xe-0226; nachmittags; l'après-midi; ; A2; Allgemein/Zeit; L'après-midi, je fais généralement mes devoirs.; Nachmittags mache ich meistens meine Hausaufgaben.
+fr-xe-0227; meistens; la plupart du temps; généralement; A2; Allgemein/Zeit; La plupart du temps, je vais à l'école à vélo.; Ich fahre meistens mit dem Fahrrad zur Schule.
+fr-xe-0228; nochmal; encore une fois; de nouveau; A2; Allgemein/Zeit; Tu peux répéter encore une fois, s'il te plaît ?; Kannst du das bitte nochmal sagen?
+fr-xe-0229; niemals; jamais; ; A2; Allgemein/Zeit; Je n'oublierai jamais cette journée avec toi.; Ich werde diesen Tag mit dir niemals vergessen.
+fr-xe-0230; Weile; le moment; ; B1; Allgemein/Zeit; Nous avons attendu un moment, puis nous sommes rentrés.; Wir warteten eine Weile, dann gingen wir nach Hause.
+fr-xe-0231; Beginn; le début; le commencement; B1; Allgemein/Zeit; Soyez à l'heure pour le début du concert, s'il vous plaît.; Bitte seid zum Beginn des Konzerts pünktlich.
+fr-xe-0232; Schluss (Ende); la fin; ; B1; Allgemein/Zeit; À la fin du cours, nous avons chanté une chanson.; Zum Schluss der Stunde haben wir ein Lied gesungen.
+fr-xe-0233; Eile; la hâte; la précipitation; B1; Allgemein/Zeit; Dans la hâte, j'ai oublié mes clés à la maison.; In der Eile habe ich meine Schlüssel zu Hause vergessen.
+fr-xe-0234; dringend; urgent; ; B1; Allgemein/Zeit; Je dois passer un appel urgent.; Ich muss einen dringenden Anruf machen.
+fr-xe-0235; nachher; plus tard; après; B1; Allgemein/Zeit; Je te rappelle plus tard, je suis occupé.; Ich rufe dich nachher zurück, ich bin beschäftigt.
+fr-xe-0236; inzwischen; pendant ce temps; entre-temps; B1; Allgemein/Zeit; Je prépare le thé et pendant ce temps, tu mets la table.; Ich mache den Tee, und inzwischen deckst du den Tisch.
+fr-xe-0237; zuletzt; la dernière fois; en dernier; B1; Allgemein/Zeit; Quand l'as-tu vu pour la dernière fois ?; Wann hast du ihn zuletzt gesehen?
+fr-xe-0238; neulich; l'autre jour; récemment; B1; Allgemein/Zeit; L'autre jour, j'ai vu ta sœur en ville.; Ich habe neulich deine Schwester in der Stadt gesehen.
+fr-xe-0239; vorhin; tout à l'heure; il y a un instant; B1; Allgemein/Zeit; Ta mère a appelé tout à l'heure.; Deine Mutter hat vorhin angerufen.
+fr-xe-0240; rechtzeitig; à temps; ; B1; Allgemein/Zeit; Nous sommes arrivés à la gare juste à temps.; Wir sind gerade noch rechtzeitig am Bahnhof angekommen.
+fr-xe-0241; wöchentlich; hebdomadaire; chaque semaine; B1; Allgemein/Zeit; Ce magazine de musique est hebdomadaire et sort le jeudi.; Diese Musikzeitschrift erscheint wöchentlich am Donnerstag.
+fr-xe-0242; monatlich; mensuel; chaque mois; B1; Allgemein/Zeit; Le loyer mensuel de l'appartement est de huit cents euros.; Die monatliche Miete der Wohnung beträgt achthundert Euro.
+fr-xe-0243; jährlich; annuel; chaque année; B1; Allgemein/Zeit; La fête annuelle du village a lieu en juillet.; Das jährliche Dorffest findet im Juli statt.
+fr-xe-0244; gleichzeitig; en même temps; simultanément; B1; Allgemein/Zeit; Je ne peux pas écouter et écrire en même temps.; Ich kann nicht gleichzeitig zuhören und schreiben.
+fr-xe-0245; vorig; dernier; précédent; B1; Allgemein/Zeit; Nous nous sommes vus au cinéma la semaine dernière.; Wir haben uns vorige Woche im Kino getroffen.
+fr-xe-0246; zukünftig; futur; ; B1; Allgemein/Zeit; Hier, nous avons rencontré son futur mari.; Wir haben gestern ihren zukünftigen Mann kennengelernt.
+fr-xe-0247; Ewigkeit; l'éternité; ; B1; Allgemein/Zeit; Chez le médecin, nous avons attendu une éternité.; Wir mussten beim Arzt eine Ewigkeit warten.
+fr-xe-0248; Tempo; le rythme; la vitesse, l'allure; B1; Allgemein/Zeit; Nous avons traversé la forêt à un rythme lent.; Wir gingen in langsamem Tempo durch den Wald.
+fr-xe-0249; ständig; constamment; sans arrêt, tout le temps; B1; Allgemein/Zeit; Mon petit frère pose constamment des questions.; Mein kleiner Bruder stellt ständig Fragen.
+fr-xe-0250; bereits; déjà; ; B1; Allgemein/Zeit; Le train était déjà parti quand nous sommes arrivés.; Der Zug war bereits abgefahren, als wir ankamen.
+fr-xe-0251; irgendwann; un jour; à un moment donné; B1; Allgemein/Zeit; Un jour, j'aimerais bien visiter l'Australie.; Irgendwann möchte ich Australien besuchen.
+fr-xe-0252; Zeitverschwendung; la perte de temps; ; B1; Allgemein/Zeit; Cette réunion est une pure perte de temps.; Dieses Treffen ist reine Zeitverschwendung.
+fr-xe-0253; Zeitpunkt; le moment; l'instant; B2; Allgemein/Zeit; À ce moment-là, personne ne connaissait le problème.; Zu diesem Zeitpunkt wusste niemand von dem Problem.
+fr-xe-0254; mittlerweile; entre-temps; ; B2; Allgemein/Zeit; Entre-temps, tout le monde est au courant de leur mariage.; Mittlerweile wissen alle von ihrer Hochzeit.
+fr-xe-0255; demnächst; bientôt; prochainement; B2; Allgemein/Zeit; Le nouveau centre commercial ouvre bientôt.; Das neue Einkaufszentrum öffnet demnächst.
+fr-xe-0256; stets; toujours; ; B2; Allgemein/Zeit; Elle est toujours aimable avec ses clients.; Sie ist stets freundlich zu ihren Kunden.
+fr-xe-0257; allmählich; peu à peu; progressivement; B2; Allgemein/Zeit; Le temps s'améliore peu à peu depuis ce matin.; Das Wetter wird seit heute Morgen allmählich besser.
+fr-xe-0258; vorübergehend; temporairement; provisoirement, temporaire; B2; Allgemein/Zeit; Le magasin est temporairement fermé pour travaux.; Der Laden ist vorübergehend wegen Reparaturen geschlossen.
+fr-xe-0259; dauerhaft; durable; permanent; B2; Allgemein/Zeit; Nous cherchons une solution durable à ce problème.; Wir suchen eine dauerhafte Lösung für dieses Problem.
+fr-xe-0260; kurzfristig; à court terme; ; B2; Allgemein/Zeit; À court terme, nous ne pouvons rien changer.; Kurzfristig können wir nichts ändern.
+fr-xe-0261; langfristig; à long terme; ; B2; Allgemein/Zeit; À long terme, nous voulons acheter une maison.; Langfristig wollen wir ein Haus kaufen.
+fr-xe-0262; Jahrtausend; le millénaire; ; B2; Allgemein/Zeit; Nous avons fêté ensemble le début du nouveau millénaire.; Wir haben den Beginn des neuen Jahrtausends zusammen gefeiert.
+fr-xe-0263; wohin; où; ; A1; Allgemein/Raum; Où partez-vous en vacances cette année ?; Wohin fahrt ihr dieses Jahr in den Urlaub?
+fr-xe-0264; woher; d'où; ; A1; Allgemein/Raum; D'où vient le nouveau voisin d'en face ?; Woher kommt der neue Nachbar von gegenüber?
+fr-xe-0265; neben; à côté de; ; A1; Allgemein/Raum; Viens t'asseoir à côté de moi.; Komm und setz dich neben mich.
+fr-xe-0266; vor (räumlich); devant; ; A1; Allgemein/Raum; Il y a un grand arbre devant notre maison.; Vor unserem Haus steht ein großer Baum.
+fr-xe-0267; nach (Richtung); à; en; A1; Allgemein/Raum; Demain, nous allons à Madrid en avion.; Morgen fliegen wir nach Madrid.
+fr-xe-0268; oben; en haut; ; A2; Allgemein/Raum; La salle de bains est en haut à gauche.; Das Badezimmer ist oben links.
+fr-xe-0269; unten; en bas; ; A2; Allgemein/Raum; La cuisine est en bas, à côté du salon.; Die Küche ist unten neben dem Wohnzimmer.
+fr-xe-0270; vorne; devant; à l'avant; A2; Allgemein/Raum; Dans le bus, j'aime bien m'asseoir devant.; Ich sitze im Bus gern vorne.
+fr-xe-0271; hinten; derrière; au fond, à l'arrière; A2; Allgemein/Raum; Les élèves assis derrière n'entendent pas la professeure.; Die Schüler hinten können die Lehrerin nicht hören.
+fr-xe-0272; drinnen; à l'intérieur; dedans; A2; Allgemein/Raum; Quand il pleut, nous jouons à l'intérieur.; Wenn es regnet, spielen wir drinnen.
+fr-xe-0273; überall; partout; ; A2; Allgemein/Raum; J'ai cherché mes lunettes partout dans la maison.; Ich habe überall im Haus nach meiner Brille gesucht.
+fr-xe-0274; irgendwo; quelque part; ; A2; Allgemein/Raum; J'ai oublié mon parapluie quelque part en ville.; Ich habe meinen Schirm irgendwo in der Stadt liegen lassen.
+fr-xe-0275; zurück; de retour; ; A2; Allgemein/Raum; Nous serons de retour avant la nuit.; Wir sind vor Einbruch der Dunkelheit zurück.
+fr-xe-0276; nebenan; à côté; ; A2; Allgemein/Raum; La nouvelle famille d'à côté a trois enfants.; Die neue Familie nebenan hat drei Kinder.
+fr-xe-0277; gegenüber; en face de; en face; A2; Allgemein/Raum; La boulangerie est en face de la banque.; Die Bäckerei ist gegenüber der Bank.
+fr-xe-0278; entlang; le long de; ; A2; Allgemein/Raum; Nous avons marché le long de la rivière jusqu'au pont.; Wir gingen am Fluss entlang bis zur Brücke.
+fr-xe-0279; Länge; la longueur; ; A2; Allgemein/Raum; La longueur de la pièce est de cinq mètres.; Die Länge des Zimmers beträgt fünf Meter.
+fr-xe-0280; Höhe; la hauteur; ; A2; Allgemein/Raum; La tour a une hauteur de cinquante mètres.; Der Turm hat eine Höhe von fünfzig Metern.
+fr-xe-0281; Form; la forme; ; A2; Allgemein/Raum; Le gâteau a la forme d'un cœur.; Der Kuchen hat die Form eines Herzens.
+fr-xe-0282; Loch; le trou; ; A2; Allgemein/Raum; Il y a un trou dans ma chaussette.; In meiner Socke ist ein Loch.
+fr-xe-0283; Pfeil; la flèche; ; A2; Allgemein/Raum; Suivez les flèches jusqu'à la sortie.; Folge den Pfeilen zum Ausgang.
+fr-xe-0284; Kreuz; la croix; ; A2; Allgemein/Raum; Fais une croix à côté de la bonne réponse.; Mach ein Kreuz neben die richtige Antwort.
+fr-xe-0285; Rechteck; le rectangle; ; A2; Allgemein/Raum; Dessine un rectangle et un cercle sur ta feuille.; Zeichne ein Rechteck und einen Kreis auf dein Blatt.
+fr-xe-0286; Breite; la largeur; ; B1; Allgemein/Raum; Mesure d'abord la largeur de la fenêtre.; Miss zuerst die Breite des Fensters.
+fr-xe-0287; Tiefe; la profondeur; ; B1; Allgemein/Raum; Le bassin a une profondeur de trois mètres.; Das Becken hat eine Tiefe von drei Metern.
+fr-xe-0288; entfernt; éloigné; lointain; B1; Allgemein/Raum; Ils habitent dans un village très éloigné de la ville.; Sie wohnen in einem Dorf, das weit von der Stadt entfernt ist.
+fr-xe-0289; außen; à l'extérieur; dehors; B1; Allgemein/Raum; À l'extérieur, la maison est peinte en blanc.; Das Haus ist außen weiß gestrichen.
+fr-xe-0290; außerhalb; en dehors de; hors de; B1; Allgemein/Raum; Nous habitons juste en dehors de la ville.; Wir wohnen knapp außerhalb der Stadt.
+fr-xe-0291; nirgends; nulle part; ; B1; Allgemein/Raum; Je ne trouvais ma clé nulle part.; Ich konnte meinen Schlüssel nirgends finden.
+fr-xe-0292; woanders; ailleurs; ; B1; Allgemein/Raum; Allons ailleurs, il y a trop de monde ici.; Lass uns woanders hingehen, hier ist es zu voll.
+fr-xe-0293; unterwegs; en route; en chemin; B1; Allgemein/Raum; Je t'appelle quand je suis en route.; Ich rufe dich an, wenn ich unterwegs bin.
+fr-xe-0294; rückwärts; en arrière; à reculons; B1; Allgemein/Raum; Fais trois pas en arrière, s'il te plaît.; Mach bitte drei Schritte rückwärts.
+fr-xe-0295; Zentrum; le centre; ; B1; Allgemein/Raum; Notre hôtel est situé en plein centre de la ville.; Unser Hotel liegt direkt im Zentrum der Stadt.
+fr-xe-0296; Abstand; la distance; l'écart; B1; Allgemein/Raum; Garde assez de distance avec la voiture de devant.; Halte genug Abstand zum vorderen Auto.
+fr-xe-0297; Umgebung; les environs; les alentours; B1; Allgemein/Raum; Dans les environs, il y a beaucoup de belles promenades.; In der Umgebung gibt es viele schöne Spazierwege.
+fr-xe-0298; Lage (Ort); la situation; l'emplacement; B1; Allgemein/Raum; L'hôtel bénéficie d'une situation parfaite au bord de la mer.; Das Hotel hat eine perfekte Lage am Meer.
+fr-xe-0299; Kurve; le virage; la courbe; B1; Allgemein/Raum; Roule doucement, il y a un virage serré plus loin.; Fahr langsam, vorne kommt eine scharfe Kurve.
+fr-xe-0300; Hintergrund; l'arrière-plan; le fond; B1; Allgemein/Raum; À l'arrière-plan de la photo, on voit les montagnes.; Im Hintergrund des Fotos sieht man die Berge.
+fr-xe-0301; Lücke; le trou; l'espace, la brèche; B1; Allgemein/Raum; Le chat s'est faufilé par un trou dans la clôture.; Die Katze zwängte sich durch eine Lücke im Zaun.
+fr-xe-0302; Ordnung; l'ordre; le rangement; B1; Allgemein/Raum; Garde ta chambre en ordre, s'il te plaît.; Bitte halte in deinem Zimmer Ordnung.
+fr-xe-0303; sich befinden; se trouver; ; B1; Allgemein/Raum; Les toilettes se trouvent au premier étage.; Die Toiletten befinden sich im ersten Stock.
+fr-xe-0304; krumm; tordu; courbé; B1; Allgemein/Raum; Le vieil homme marchait avec une canne tordue.; Der alte Mann ging an einem krummen Stock.
+fr-xe-0305; spitz; pointu; ; B1; Allgemein/Raum; Ce crayon est très pointu, fais attention.; Dieser Bleistift ist sehr spitz, pass auf.
+fr-xe-0306; eckig; anguleux; carré; B1; Allgemein/Raum; Il a un visage anguleux et un menton pointu.; Er hat ein eckiges Gesicht und ein spitzes Kinn.
+fr-xe-0307; quadratisch; carré; ; B1; Allgemein/Raum; Le jardin derrière notre maison est presque carré.; Der Garten hinter unserem Haus ist fast quadratisch.
+fr-xe-0308; Nähe; la proximité; ; B2; Allgemein/Raum; La proximité de l'aéroport est un grand avantage.; Die Nähe zum Flughafen ist ein großer Vorteil.
+fr-xe-0309; umgeben; entourer; ; B2; Allgemein/Raum; Le château est entouré d'un fossé profond.; Das Schloss ist von einem tiefen Graben umgeben.
+fr-xe-0310; hohl; creux; ; B2; Allgemein/Raum; Le vieil arbre est complètement creux à l'intérieur.; Der alte Baum ist innen völlig hohl.
+fr-xe-0311; gebogen; courbé; courbe, recourbé; B2; Allgemein/Raum; Le vieux clou était tout courbé.; Der alte Nagel war ganz gebogen.
+fr-xe-0312; schräg; incliné; en pente, oblique; B2; Allgemein/Raum; Notre chambre sous les toits a un plafond incliné.; Unser Dachzimmer hat eine schräge Decke.
+fr-xe-0313; senkrecht; vertical; ; B2; Allgemein/Raum; Trace une ligne verticale au milieu de la page.; Zieh eine senkrechte Linie in der Mitte der Seite.
+fr-xe-0314; waagerecht; horizontal; ; B2; Allgemein/Raum; Vérifie que l'étagère est bien horizontale.; Prüf, ob das Regal ganz waagerecht ist.
+fr-xe-0315; unterhalb; en dessous de; au-dessous de; B2; Allgemein/Raum; Le lac se trouve en dessous du château.; Der See liegt unterhalb der Burg.
+fr-xe-0316; umgekehrt; inversement; à l'inverse; B2; Allgemein/Raum; Je l'aide en maths et, inversement, il m'aide en anglais.; Ich helfe ihm in Mathe und umgekehrt hilft er mir in Englisch.
+fr-xe-0317; jenseits; au-delà de; ; C1; Allgemein/Raum; Au-delà des montagnes s'étend une large vallée.; Jenseits der Berge liegt ein weites Tal.
+fr-xe-0318; Rest; le reste; ; A2; Allgemein/Mengen; Tu peux prendre le reste du gâteau.; Du kannst den Rest vom Kuchen haben.
+fr-xe-0319; Viertel (Bruchteil); le quart; ; A2; Allgemein/Mengen; Coupe la pomme en quatre quarts, s'il te plaît.; Schneide den Apfel bitte in vier Viertel.
+fr-xe-0320; Million; le million; ; A2; Allgemein/Mengen; La ville compte plus d'un million d'habitants.; Die Stadt hat mehr als eine Million Einwohner.
+fr-xe-0321; Meter; le mètre; ; A2; Allgemein/Mengen; La piscine fait vingt-cinq mètres de long.; Das Schwimmbecken ist fünfundzwanzig Meter lang.
+fr-xe-0322; Zentimeter; le centimètre; ; A2; Allgemein/Mengen; Ma petite sœur a grandi de cinq centimètres.; Meine kleine Schwester ist fünf Zentimeter gewachsen.
+fr-xe-0323; Kilometer; le kilomètre; ; A2; Allgemein/Mengen; Aujourd'hui, nous avons marché plus de dix kilomètres.; Wir sind heute mehr als zehn Kilometer gelaufen.
+fr-xe-0324; Gramm; le gramme; ; A2; Allgemein/Mengen; Il te faut deux cents grammes de farine.; Du brauchst zweihundert Gramm Mehl.
+fr-xe-0325; Kilo; le kilo; ; A2; Allgemein/Mengen; Un kilo de pommes coûte deux euros au marché.; Ein Kilo Äpfel kostet auf dem Markt zwei Euro.
+fr-xe-0326; Kilogramm; le kilogramme; ; A2; Allgemein/Mengen; La valise ne doit pas peser plus de vingt kilogrammes.; Der Koffer darf nicht mehr als zwanzig Kilogramm wiegen.
+fr-xe-0327; Liter; le litre; ; A2; Allgemein/Mengen; Nous buvons environ deux litres d'eau par jour.; Wir trinken etwa zwei Liter Wasser am Tag.
+fr-xe-0328; Reihe; la rangée; le rang; A2; Allgemein/Mengen; Au cinéma, nous étions assis dans la troisième rangée.; Wir saßen im Kino in der dritten Reihe.
+fr-xe-0329; doppelt; double; ; A2; Allgemein/Mengen; J'ai pris une double portion de frites.; Ich habe eine doppelte Portion Pommes genommen.
+fr-xe-0330; mehrere; plusieurs; ; A2; Allgemein/Mengen; J'ai essayé de t'appeler plusieurs fois.; Ich habe mehrere Male versucht, dich anzurufen.
+fr-xe-0331; weniger; moins; ; A2; Allgemein/Mengen; Je veux passer moins de temps sur mon portable.; Ich will weniger Zeit am Handy verbringen.
+fr-xe-0332; übrig; restant; ; A2; Allgemein/Mengen; Mets la pizza restante au réfrigérateur, s'il te plaît.; Stell die übrige Pizza bitte in den Kühlschrank.
+fr-xe-0333; Drittel; le tiers; ; B1; Allgemein/Mengen; Un tiers de la classe était malade.; Ein Drittel der Klasse war krank.
+fr-xe-0334; Anzahl; le nombre; ; B1; Allgemein/Mengen; Le nombre d'élèves a augmenté cette année.; Die Anzahl der Schüler ist dieses Jahr gestiegen.
+fr-xe-0335; Dutzend; la douzaine; ; B1; Allgemein/Mengen; J'ai acheté une douzaine d'œufs au marché.; Ich habe auf dem Markt ein Dutzend Eier gekauft.
+fr-xe-0336; Milliarde; le milliard; ; B1; Allgemein/Mengen; Le nouveau stade a coûté un milliard d'euros.; Das neue Stadion hat eine Milliarde Euro gekostet.
+fr-xe-0337; Inhalt; le contenu; ; B1; Allgemein/Mengen; Le contenu de la boîte est tombé par terre.; Der Inhalt der Schachtel fiel auf den Boden.
+fr-xe-0338; Tonne (Gewicht); la tonne; ; B1; Allgemein/Mengen; Le camion peut transporter dix tonnes de sable.; Der Lastwagen kann zehn Tonnen Sand transportieren.
+fr-xe-0339; Pfund (Gewicht); la livre; le demi-kilo; B1; Allgemein/Mengen; Je voudrais une livre de tomates, s'il vous plaît.; Kann ich bitte ein Pfund Tomaten haben?
+fr-xe-0340; Quadratmeter; le mètre carré; ; B1; Allgemein/Mengen; Notre appartement fait soixante-dix mètres carrés en tout.; Unsere Wohnung hat insgesamt siebzig Quadratmeter.
+fr-xe-0341; Haufen; le tas; la pile; B1; Allgemein/Mengen; Il y a un tas de vêtements sales par terre.; Auf dem Boden liegt ein Haufen schmutziger Kleider.
+fr-xe-0342; Kleinigkeit; le détail; la broutille, la petite chose; B1; Allgemein/Mengen; Ne t'énerve pas pour un si petit détail.; Reg dich nicht wegen so einer Kleinigkeit auf.
+fr-xe-0343; Auswahl; le choix; la sélection; B1; Allgemein/Mengen; Le magasin a un grand choix de chaussures de sport.; Der Laden hat eine große Auswahl an Sportschuhen.
+fr-xe-0344; mehrmals; plusieurs fois; ; B1; Allgemein/Mengen; J'ai lu la lettre plusieurs fois.; Ich habe den Brief mehrmals gelesen.
+fr-xe-0345; pro; par; ; B1; Allgemein/Mengen; Les billets coûtent dix euros par personne.; Die Karten kosten zehn Euro pro Person.
+fr-xe-0346; teilweise; en partie; partiellement; B1; Allgemein/Mengen; La route était en partie bloquée par la neige.; Die Straße war teilweise durch Schnee blockiert.
+fr-xe-0347; Ziffer; le chiffre; ; B1; Allgemein/Mengen; Le code secret de la porte a quatre chiffres.; Der Geheimcode für die Tür hat vier Ziffern.
+fr-xe-0348; verdoppeln; doubler; ; B1; Allgemein/Mengen; Le nombre de visiteurs a doublé cette année.; Die Zahl der Besucher hat sich dieses Jahr verdoppelt.
+fr-xe-0349; gesamt; entier; total; B1; Allgemein/Mengen; La classe entière est partie en excursion.; Die gesamte Klasse ist mit auf den Ausflug gefahren.
+fr-xe-0350; Stapel; la pile; ; B2; Allgemein/Mengen; Il y avait une pile de livres sur le bureau du professeur.; Auf dem Lehrerpult lag ein Stapel Bücher.
+fr-xe-0351; Maximum; le maximum; ; B2; Allgemein/Mengen; La température a atteint un maximum de 35 degrés.; Die Temperatur erreichte ein Maximum von 35 Grad.
+fr-xe-0352; Minimum; le minimum; ; B2; Allgemein/Mengen; Pour ce jeu, il nous faut un minimum de dix joueurs.; Für das Spiel brauchen wir ein Minimum von zehn Spielern.
+fr-xe-0353; zahlreich; nombreux; ; B2; Allgemein/Mengen; De nombreux fans attendaient devant l'hôtel.; Zahlreiche Fans warteten vor dem Hotel.
+fr-xe-0354; Anteil; la part; la proportion; B2; Allgemein/Mengen; Chacun doit payer sa part de l'addition.; Jeder muss seinen Anteil an der Rechnung zahlen.
+fr-xe-0355; Einheit; l'unité; ; B2; Allgemein/Mengen; Le mètre est une unité de longueur.; Der Meter ist eine Einheit für die Länge.
+fr-xe-0356; erheblich; considérable; important; B2; Allgemein/Mengen; La tempête a causé des dégâts considérables en ville.; Der Sturm hat in der Stadt erheblichen Schaden angerichtet.
+fr-xe-0357; Großteil; la majeure partie; la plupart; B2; Allgemein/Mengen; La majeure partie des élèves est venue en bus.; Der Großteil der Schüler kam mit dem Bus.
+fr-xe-0358; Anstieg; la hausse; l'augmentation; B2; Allgemein/Mengen; Il y a eu une forte hausse des prix.; Es gab einen starken Anstieg der Preise.
+fr-xe-0359; Rückgang; la baisse; le recul, la diminution; B2; Allgemein/Mengen; La ville enregistre une baisse du tourisme.; Die Stadt verzeichnet einen Rückgang im Tourismus.
+fr-xe-0360; gering; faible; ; B2; Allgemein/Mengen; Le risque de pluie est faible aujourd'hui.; Das Risiko für Regen ist heute gering.
+fr-xe-0361; unzählig; innombrable; ; C1; Allgemein/Mengen; J'ai écouté cette chanson d'innombrables fois.; Ich habe dieses Lied unzählige Male gehört.
+fr-xe-0362; zuhören; écouter; ; A1; Allgemein/Denken & Sprechen; Écoute bien les consignes, s'il te plaît.; Bitte hör den Anweisungen gut zu.
+fr-xe-0363; bitten; demander; ; A2; Allgemein/Denken & Sprechen; Elle m'a demandé de fermer la fenêtre.; Sie bat mich, das Fenster zu schließen.
+fr-xe-0364; beantworten; répondre à; ; A2; Allgemein/Denken & Sprechen; Réponds à toutes les questions de la feuille, s'il te plaît.; Bitte beantworte alle Fragen auf dem Blatt.
+fr-xe-0365; reden; parler; ; A2; Allgemein/Denken & Sprechen; Nous avons parlé du film pendant des heures.; Wir haben stundenlang über den Film geredet.
+fr-xe-0366; sich unterhalten; discuter; bavarder, parler; A2; Allgemein/Denken & Sprechen; Après le repas, nous avons longtemps discuté.; Wir haben uns nach dem Essen lange unterhalten.
+fr-xe-0367; grüßen; saluer; dire bonjour à; A2; Allgemein/Denken & Sprechen; Il salue toujours aimablement les voisins.; Er grüßt die Nachbarn immer freundlich.
+fr-xe-0368; gratulieren; féliciter; ; A2; Allgemein/Denken & Sprechen; Nous l'avons félicitée pour son nouveau poste.; Wir haben ihr zu ihrer neuen Stelle gratuliert.
+fr-xe-0369; nachdenken; réfléchir; ; B1; Allgemein/Denken & Sprechen; J'ai besoin d'un peu de temps pour y réfléchir.; Ich brauche etwas Zeit, um darüber nachzudenken.
+fr-xe-0370; überlegen (nachdenken); réfléchir à; songer à; B1; Allgemein/Denken & Sprechen; Je vais réfléchir à ton offre jusqu'à demain.; Ich überlege mir dein Angebot bis morgen.
+fr-xe-0371; erraten; deviner; ; B1; Allgemein/Denken & Sprechen; Tu ne devineras jamais qui m'a appelé.; Du errätst nie, wer mich angerufen hat.
+fr-xe-0372; vermuten; supposer; ; B1; Allgemein/Denken & Sprechen; Je suppose qu'il a encore raté le bus.; Ich vermute, er hat wieder den Bus verpasst.
+fr-xe-0373; sich irren; se tromper; ; B1; Allgemein/Denken & Sprechen; Je crois que tu te trompes sur ce point.; Ich glaube, in diesem Punkt irrst du dich.
+fr-xe-0374; sich merken; retenir; ; B1; Allgemein/Denken & Sprechen; Tu peux retenir mon nouveau numéro de téléphone ?; Kannst du dir meine neue Telefonnummer merken?
+fr-xe-0375; sich konzentrieren; se concentrer; ; B1; Allgemein/Denken & Sprechen; Je n'arrive pas à me concentrer avec autant de bruit.; Ich kann mich bei so viel Lärm nicht konzentrieren.
+fr-xe-0376; missverstehen; mal comprendre; ; B1; Allgemein/Denken & Sprechen; Pardon, je crois que tu m'as mal compris.; Entschuldigung, ich glaube, du hast mich missverstanden.
+fr-xe-0377; besprechen; discuter de; parler de; B1; Allgemein/Denken & Sprechen; Discutons du projet après le déjeuner.; Lass uns das Projekt nach dem Mittagessen besprechen.
+fr-xe-0378; ansprechen; aborder; adresser la parole à; B1; Allgemein/Denken & Sprechen; Un inconnu m'a abordé à l'arrêt de bus.; An der Bushaltestelle hat mich ein Fremder angesprochen.
+fr-xe-0379; zweifeln; douter; ; B1; Allgemein/Denken & Sprechen; Je n'ai pas douté de toi un seul instant.; Ich habe keinen Moment an dir gezweifelt.
+fr-xe-0380; nennen; appeler; nommer; B1; Allgemein/Denken & Sprechen; Ils ont appelé leur fils Paul, comme son grand-père.; Sie nannten ihren Sohn Paul, wie seinen Großvater.
+fr-xe-0381; mitteilen; communiquer; informer, faire savoir; B1; Allgemein/Denken & Sprechen; Merci de nous communiquer votre nouvelle adresse.; Bitte teilen Sie uns Ihre neue Adresse mit.
+fr-xe-0382; schweigen; se taire; ; B1; Allgemein/Denken & Sprechen; Elle s'est tue pendant un long moment.; Sie schwieg eine lange Zeit.
+fr-xe-0383; loben; louer; féliciter, complimenter; B1; Allgemein/Denken & Sprechen; Tout le monde loue la qualité de son travail.; Alle loben die Qualität seiner Arbeit.
+fr-xe-0384; schimpfen; gronder; râler; B1; Allgemein/Denken & Sprechen; Maman m'a grondé parce que je suis rentré trop tard.; Meine Mama hat geschimpft, weil ich zu spät nach Hause kam.
+fr-xe-0385; sich ausdrücken; s'exprimer; ; B1; Allgemein/Denken & Sprechen; Il a du mal à s'exprimer en anglais.; Es fällt ihm schwer, sich auf Englisch auszudrücken.
+fr-xe-0386; Tipp; le conseil; l'astuce; A2; Allgemein/Denken & Sprechen; Tu peux me donner un conseil pour l'examen ?; Kannst du mir einen Tipp für die Prüfung geben?
+fr-xe-0387; Wunsch; le souhait; le vœu, le désir; A2; Allgemein/Denken & Sprechen; Mon plus grand souhait est un voyage au Canada.; Mein größter Wunsch ist eine Reise nach Kanada.
+fr-xe-0388; Gegenteil; le contraire; ; A2; Allgemein/Denken & Sprechen; Le contraire de grand, c'est petit.; Das Gegenteil von groß ist klein.
+fr-xe-0389; Ahnung; l'idée; ; B1; Allgemein/Denken & Sprechen; Je n'ai aucune idée de l'endroit où il habite.; Ich habe keine Ahnung, wo er wohnt.
+fr-xe-0390; Gedächtnis; la mémoire; ; B1; Allgemein/Denken & Sprechen; Mon grand-père a une très bonne mémoire.; Mein Großvater hat ein sehr gutes Gedächtnis.
+fr-xe-0391; Lüge; le mensonge; ; B1; Allgemein/Denken & Sprechen; C'est un mensonge, et tu le sais.; Das ist eine Lüge, und das weißt du.
+fr-xe-0392; Sinn; le sens; ; B1; Allgemein/Denken & Sprechen; Ça n'a aucun sens d'attendre plus longtemps.; Es hat keinen Sinn, noch länger zu warten.
+fr-xe-0393; Hinweis; l'indice; l'indication; B1; Allgemein/Denken & Sprechen; La professeure nous a donné un indice pour la dernière question.; Die Lehrerin gab uns einen Hinweis zur letzten Frage.
+fr-xe-0394; Ratschlag; le conseil; ; B1; Allgemein/Denken & Sprechen; Merci beaucoup pour ton bon conseil, il m'a aidé.; Vielen Dank für deinen guten Ratschlag, er hat mir geholfen.
+fr-xe-0395; Warnung; l'avertissement; l'alerte; B1; Allgemein/Denken & Sprechen; Le professeur lui a donné un dernier avertissement.; Der Lehrer hat ihm eine letzte Warnung gegeben.
+fr-xe-0396; Kompliment; le compliment; ; B1; Allgemein/Denken & Sprechen; Elle m'a fait un joli compliment sur ma robe.; Sie hat mir ein nettes Kompliment für mein Kleid gemacht.
+fr-xe-0397; Unsinn; les bêtises; n'importe quoi, l'absurdité; B1; Allgemein/Denken & Sprechen; Ne dis pas de bêtises, ce n'est pas vrai.; Red keinen Unsinn, das stimmt nicht.
+fr-xe-0398; Erlaubnis; la permission; l'autorisation; B1; Allgemein/Denken & Sprechen; Il te faut la permission de tes parents pour la sortie.; Für den Ausflug brauchst du die Erlaubnis deiner Eltern.
+fr-xe-0399; sich erkundigen; se renseigner; ; B2; Allgemein/Denken & Sprechen; Je me suis renseigné sur les horaires des trains.; Ich habe mich nach den Abfahrtszeiten der Züge erkundigt.
+fr-xe-0400; sich täuschen; se tromper; ; B2; Allgemein/Denken & Sprechen; Si je ne me trompe pas, le magasin ferme à six heures.; Wenn ich mich nicht täusche, schließt der Laden um sechs.
+fr-xe-0401; feststellen; constater; remarquer; B2; Allgemein/Denken & Sprechen; Nous avons constaté que la fenêtre était ouverte.; Wir stellten fest, dass das Fenster offen war.
+fr-xe-0402; zitieren; citer; ; B2; Allgemein/Denken & Sprechen; Il aime citer des écrivains célèbres.; Er zitiert gern berühmte Schriftsteller.
+fr-xe-0403; schwören; jurer; ; B2; Allgemein/Denken & Sprechen; Je jure que je n'ai pas pris ton argent.; Ich schwöre, dass ich dein Geld nicht genommen habe.
+fr-xe-0404; äußern; exprimer; ; B2; Allgemein/Denken & Sprechen; Elle a exprimé ses doutes sur le projet.; Sie äußerte ihre Zweifel an dem Plan.
+fr-xe-0405; begründen; justifier; ; B2; Allgemein/Denken & Sprechen; Dans ta rédaction, tu dois justifier ton opinion.; Du musst deine Meinung im Aufsatz begründen.
+fr-xe-0406; tippen (wetten); parier; ; B2; Allgemein/Denken & Sprechen; Je parie que notre équipe va gagner samedi.; Ich tippe, dass unsere Mannschaft am Samstag gewinnt.
+fr-xe-0407; gestehen; avouer; confesser; B2; Allgemein/Denken & Sprechen; Il a fini par avouer qu'il avait menti.; Schließlich gestand er, dass er gelogen hatte.
+fr-xe-0408; Ansicht; l'avis; l'opinion, le point de vue; B2; Allgemein/Denken & Sprechen; À mon avis, le projet est trop cher.; Meiner Ansicht nach ist der Plan zu teuer.
+fr-xe-0409; Vermutung; la supposition; l'hypothèse; B2; Allgemein/Denken & Sprechen; Ce n'est qu'une supposition, je n'en suis pas sûr.; Das ist nur eine Vermutung, ich bin mir nicht sicher.
+fr-xe-0410; Verstand; la raison; l'esprit; B2; Allgemein/Denken & Sprechen; Tu as complètement perdu la raison ?; Hast du völlig den Verstand verloren?
+fr-xe-0411; Irrtum; l'erreur; ; B2; Allgemein/Denken & Sprechen; C'était une erreur, je suis désolé.; Das war ein Irrtum, es tut mir leid.
+fr-xe-0412; Behauptung; l'affirmation; ; B2; Allgemein/Denken & Sprechen; Il n'y a aucune preuve de cette affirmation.; Für diese Behauptung gibt es keinen Beweis.
+fr-xe-0413; Bemerkung; la remarque; ; B2; Allgemein/Denken & Sprechen; Sa remarque impolie l'a beaucoup blessée hier soir.; Seine unhöfliche Bemerkung hat sie gestern Abend sehr verletzt.
+fr-xe-0414; Überzeugung; la conviction; ; B2; Allgemein/Denken & Sprechen; Il a parlé de ses projets avec une grande conviction.; Er sprach mit großer Überzeugung über seine Pläne.
+fr-xe-0415; Zusammenhang; le lien; le rapport, le contexte; B2; Allgemein/Denken & Sprechen; Je ne vois aucun lien entre les deux événements.; Ich sehe keinen Zusammenhang zwischen den beiden Ereignissen.
+fr-xe-0416; berücksichtigen; tenir compte de; prendre en compte; C1; Allgemein/Denken & Sprechen; Nous devons tenir compte de la météo.; Wir müssen das Wetter berücksichtigen.
+fr-xe-0417; Vorwurf; le reproche; ; C1; Allgemein/Denken & Sprechen; Ses paroles ressemblaient pour moi à un reproche.; Seine Worte klangen für mich wie ein Vorwurf.
+fr-xe-0418; Andeutung; l'allusion; le sous-entendu; C1; Allgemein/Denken & Sprechen; Il a fait une allusion à son départ de l'entreprise.; Er machte eine Andeutung über seinen Weggang aus der Firma.
+fr-xe-0419; Wut; la colère; la rage; A2; Mensch/Gefühle; Après la dispute, il tremblait de colère.; Nach dem Streit zitterte er vor Wut.
+fr-xe-0420; fröhlich; joyeux; gai; A2; Mensch/Gefühle; Elle est toujours joyeuse le matin.; Sie ist morgens immer fröhlich.
+fr-xe-0421; unglücklich; malheureux; ; A2; Mensch/Gefühle; Il était très malheureux dans son ancienne école.; Er war an seiner alten Schule sehr unglücklich.
+fr-xe-0422; entspannt; détendu; ; A2; Mensch/Gefühle; Après les vacances, je me sens vraiment détendu.; Nach dem Urlaub fühle ich mich richtig entspannt.
+fr-xe-0423; gut gelaunt; de bonne humeur; ; A2; Mensch/Gefühle; Pourquoi es-tu de si bonne humeur aujourd'hui ?; Warum bist du heute so gut gelaunt?
+fr-xe-0424; schlecht gelaunt; de mauvaise humeur; ; A2; Mensch/Gefühle; Papa est toujours de mauvaise humeur le lundi.; Papa ist montags immer schlecht gelaunt.
+fr-xe-0425; sich ärgern; se fâcher; s'énerver, être contrarié; B1; Mensch/Gefühle; Je me suis fâché parce que personne ne m'avait prévenu.; Ich habe mich geärgert, dass es mir niemand gesagt hatte.
+fr-xe-0426; sich aufregen; s'énerver; ; B1; Mensch/Gefühle; Ne t'énerve pas, ce n'est qu'un jeu.; Reg dich nicht auf, es ist nur ein Spiel.
+fr-xe-0427; sich fürchten; avoir peur; ; B1; Mensch/Gefühle; Ma petite sœur a peur dans le noir.; Meine kleine Schwester fürchtet sich im Dunkeln.
+fr-xe-0428; sich wohlfühlen; se sentir bien; ; B1; Mensch/Gefühle; Je me sens très bien dans ma nouvelle classe.; In meiner neuen Klasse fühle ich mich sehr wohl.
+fr-xe-0429; erschrecken; faire peur; effrayer; B1; Mensch/Gefühle; Tu m'as fait peur, je ne t'ai pas entendu arriver.; Du hast mich erschreckt, ich habe dich nicht kommen hören.
+fr-xe-0430; Panik; la panique; ; B1; Mensch/Gefühle; Quand l'alarme incendie a sonné, la panique a éclaté.; Als der Feueralarm losging, brach Panik aus.
+fr-xe-0431; erstaunt; étonné; stupéfait; B1; Mensch/Gefühle; Nous étions étonnés de voir à quel point la ville était grande.; Wir waren erstaunt, wie groß die Stadt war.
+fr-xe-0432; beleidigt; vexé; offensé; B1; Mensch/Gefühle; Elle était vexée parce que nous avions oublié son anniversaire.; Sie war beleidigt, weil wir ihren Geburtstag vergessen hatten.
+fr-xe-0433; verwirrt; confus; perdu; B1; Mensch/Gefühle; Après son explication, j'étais complètement confus.; Nach seiner Erklärung war ich völlig verwirrt.
+fr-xe-0434; genervt; agacé; énervé; B1; Mensch/Gefühle; Je suis vraiment agacé par le bruit des voisins.; Ich bin wirklich genervt von dem Lärm nebenan.
+fr-xe-0435; Heimweh; le mal du pays; ; B1; Mensch/Gefühle; Pendant le voyage scolaire, elle avait le mal du pays.; Auf der Klassenfahrt hatte sie Heimweh.
+fr-xe-0436; beneiden; envier; ; B2; Mensch/Gefühle; Je t'envie d'avoir de si longues vacances.; Ich beneide dich um deine langen Ferien.
+fr-xe-0437; bedauern; regretter; ; B2; Mensch/Gefühle; Je regrette de ne pas pouvoir t'aider.; Ich bedauere, dass ich dir nicht helfen kann.
+fr-xe-0438; Einsamkeit; la solitude; ; B2; Mensch/Gefühle; Beaucoup de personnes âgées souffrent de solitude.; Viele alte Menschen leiden unter Einsamkeit.
+fr-xe-0439; Zufriedenheit; la satisfaction; ; B2; Mensch/Gefühle; La satisfaction de nos clients est très importante pour nous.; Die Zufriedenheit der Kunden ist uns sehr wichtig.
+fr-xe-0440; Emotion; l'émotion; ; B2; Mensch/Gefühle; Il montre rarement ses émotions en public.; Er zeigt seine Emotionen selten in der Öffentlichkeit.
+fr-xe-0441; Ekel; le dégoût; ; B2; Mensch/Gefühle; Elle a regardé l'araignée avec dégoût.; Sie betrachtete die Spinne mit Ekel.
+fr-xe-0442; Vorfreude; l'impatience; la joie anticipée; B2; Mensch/Gefühle; Les enfants attendent Noël avec impatience.; Die Kinder sind voller Vorfreude auf Weihnachten.
+fr-xe-0443; deprimiert; déprimé; ; B2; Mensch/Gefühle; Depuis qu'il a perdu son travail, il est assez déprimé.; Seit er seine Stelle verloren hat, ist er ziemlich deprimiert.
+fr-xe-0444; hoffnungslos; désespéré; ; B2; Mensch/Gefühle; La situation semblait désespérée, mais nous n'avons pas abandonné.; Die Lage schien hoffnungslos, aber wir gaben nicht auf.
+fr-xe-0445; sprachlos; sans voix; ; B2; Mensch/Gefühle; Quand j'ai appris la nouvelle, je suis resté sans voix.; Als ich die Nachricht hörte, war ich sprachlos.
+fr-xe-0446; frustriert; frustré; ; B2; Mensch/Gefühle; Je suis frustré quand mon ordinateur est si lent.; Ich bin frustriert, wenn mein Computer so langsam ist.
+fr-xe-0447; Trost; la consolation; le réconfort; C1; Mensch/Gefühle; Ses mots gentils ont été une grande consolation pour moi.; Ihre freundlichen Worte waren ein großer Trost für mich.
+fr-xe-0448; Reue; le remords; le regret; C1; Mensch/Gefühle; Le voleur n'a montré aucun remords.; Der Dieb zeigte überhaupt keine Reue.
+fr-xe-0449; Kummer; le chagrin; la peine; C1; Mensch/Gefühle; Elle a essayé de cacher son chagrin aux enfants.; Sie versuchte, ihren Kummer vor den Kindern zu verbergen.
+fr-xe-0450; gerührt; ému; touché; C1; Mensch/Gefühle; Nous avons été profondément émus par son discours.; Wir waren von seiner Rede tief gerührt.
+fr-xe-0451; frech; insolent; effronté; A2; Mensch/Charakter; Ne sois pas si insolent avec ta grand-mère !; Sei nicht so frech zu deiner Oma!
+fr-xe-0452; unordentlich; désordonné; ; A2; Mensch/Charakter; Mon frère est très désordonné, sa chambre est un vrai chaos.; Mein Bruder ist sehr unordentlich, sein Zimmer ist ein echtes Chaos.
+fr-xe-0453; gemein; méchant; ; A2; Mensch/Charakter; C'était vraiment méchant de te moquer de lui.; Es war echt gemein von dir, ihn auszulachen.
+fr-xe-0454; unfreundlich; peu aimable; désagréable; A2; Mensch/Charakter; Le serveur du café a été vraiment peu aimable.; Der Kellner im Café war sehr unfreundlich.
+fr-xe-0455; kreativ; créatif; ; A2; Mensch/Charakter; Ma tante est très créative et peint de beaux tableaux.; Meine Tante ist sehr kreativ und malt schöne Bilder.
+fr-xe-0456; sympathisch; sympathique; ; A2; Mensch/Charakter; Je trouve notre nouveau voisin très sympathique.; Ich finde unseren neuen Nachbarn sehr sympathisch.
+fr-xe-0457; humorvoll; plein d'humour; drôle; B1; Mensch/Charakter; Notre professeur de maths est sévère, mais plein d'humour.; Unser Mathelehrer ist streng, aber humorvoll.
+fr-xe-0458; optimistisch; optimiste; ; B1; Mensch/Charakter; Je suis optimiste, nous allons gagner le match.; Ich bin optimistisch, wir werden das Spiel gewinnen.
+fr-xe-0459; pessimistisch; pessimiste; ; B1; Mensch/Charakter; Ne sois pas si pessimiste, tout ira bien.; Sei nicht so pessimistisch, es wird schon gut gehen.
+fr-xe-0460; unzuverlässig; peu fiable; pas fiable; B1; Mensch/Charakter; Il est gentil, mais vraiment peu fiable.; Er ist nett, aber sehr unzuverlässig.
+fr-xe-0461; fantasievoll; imaginatif; plein d'imagination; B1; Mensch/Charakter; Les petits enfants sont souvent très imaginatifs quand ils jouent.; Kleine Kinder sind beim Spielen oft sehr fantasievoll.
+fr-xe-0462; tapfer; courageux; brave; B1; Mensch/Charakter; Le petit garçon a été très courageux chez le dentiste.; Der kleine Junge war beim Zahnarzt sehr tapfer.
+fr-xe-0463; begabt; doué; talentueux; B1; Mensch/Charakter; C'est une jeune musicienne très douée.; Sie ist eine sehr begabte junge Musikerin.
+fr-xe-0464; Angeber; le frimeur; la frimeuse, le vantard; B1; Mensch/Charakter; Arrête de frimer, tu es vraiment un frimeur !; Hör auf anzugeben, du bist so ein Angeber!
+fr-xe-0465; Persönlichkeit; la personnalité; ; B1; Mensch/Charakter; Elle a une personnalité forte et chaleureuse.; Sie hat eine starke und freundliche Persönlichkeit.
+fr-xe-0466; Eigenschaft; la qualité; la caractéristique; B1; Mensch/Charakter; La patience est l'une de ses meilleures qualités.; Geduld ist eine seiner besten Eigenschaften.
+fr-xe-0467; Ehrlichkeit; l'honnêteté; ; B1; Mensch/Charakter; J'apprécie l'honnêteté plus que tout le reste.; Ich schätze Ehrlichkeit mehr als alles andere.
+fr-xe-0468; vergesslich; étourdi; oublieux, distrait; B1; Mensch/Charakter; Je suis tellement étourdi, j'ai encore oublié mes clés.; Ich bin so vergesslich, ich habe schon wieder meine Schlüssel vergessen.
+fr-xe-0469; chaotisch; chaotique; désorganisé; B1; Mensch/Charakter; Mon colocataire est gentil, mais un peu chaotique.; Mein Mitbewohner ist nett, aber etwas chaotisch.
+fr-xe-0470; feige; lâche; ; B2; Mensch/Charakter; C'était lâche de fuir le problème.; Es war feige, vor dem Problem davonzulaufen.
+fr-xe-0471; eingebildet; prétentieux; arrogant, vaniteux; B2; Mensch/Charakter; Depuis qu'il est célèbre, il est tellement prétentieux.; Seit er berühmt ist, ist er so eingebildet.
+fr-xe-0472; gesellig; sociable; ; B2; Mensch/Charakter; Elle est très sociable et adore les fêtes.; Sie ist sehr gesellig und liebt Partys.
+fr-xe-0473; empfindlich; sensible; ; B2; Mensch/Charakter; Il est très sensible à la critique.; Er ist sehr empfindlich gegenüber Kritik.
+fr-xe-0474; entschlossen; déterminé; résolu; B2; Mensch/Charakter; Elle est bien déterminée à réussir son permis de conduire.; Sie ist fest entschlossen, ihre Führerscheinprüfung zu bestehen.
+fr-xe-0475; naiv; naïf; ; B2; Mensch/Charakter; C'était naïf de croire tout ce qu'il disait.; Es war naiv, ihm alles zu glauben.
+fr-xe-0476; leichtsinnig; imprudent; insouciant; B2; Mensch/Charakter; C'était imprudent de laisser la porte ouverte.; Es war leichtsinnig, die Tür offen zu lassen.
+fr-xe-0477; Selbstvertrauen; la confiance en soi; ; B2; Mensch/Charakter; Avoir confiance en soi, c'est important pour réussir.; Selbstvertrauen ist wichtig, um Erfolg zu haben.
+fr-xe-0478; zurückhaltend; réservé; ; B2; Mensch/Charakter; Au début, il était calme et plutôt réservé.; Am Anfang war er still und eher zurückhaltend.
+fr-xe-0479; brav; sage; ; A2; Mensch/Charakter; Les enfants ont été très sages aujourd'hui.; Die Kinder waren heute sehr brav.
+fr-xe-0480; sparsam; économe; ; B1; Mensch/Charakter; Ma grand-mère est très économe et ne gaspille rien.; Meine Oma ist sehr sparsam und verschwendet nichts.
+fr-xe-0481; nachdenklich; pensif; songeur; B2; Mensch/Charakter; Après le film, il était silencieux et pensif.; Nach dem Film war er still und nachdenklich.
+fr-xe-0482; Fleiß; l'assiduité; l'application, le zèle; B2; Mensch/Charakter; Elle a réussi l'examen grâce à son assiduité.; Sie hat die Prüfung dank ihres Fleißes bestanden.
+fr-xe-0483; ausgeglichen; équilibré; ; C1; Mensch/Charakter; Le yoga m'aide à rester calme et équilibré.; Yoga hilft mir, ruhig und ausgeglichen zu bleiben.
+fr-xe-0484; aufrichtig; sincère; ; C1; Mensch/Charakter; Veuillez accepter mes excuses sincères pour le retard.; Bitte nehmen Sie meine aufrichtige Entschuldigung für die Verspätung an.
+fr-xe-0485; taktvoll; plein de tact; délicat; C1; Mensch/Charakter; Elle lui a donné une réponse pleine de tact.; Sie gab ihm eine taktvolle Antwort.
+fr-xe-0486; Tugend; la vertu; ; C1; Mensch/Charakter; La patience ne fait pas partie de mes vertus.; Geduld gehört nicht zu meinen Tugenden.
+fr-xe-0487; gutmütig; débonnaire; bon enfant; C1; Mensch/Charakter; Notre vieux chien est paresseux, mais très débonnaire.; Unser alter Hund ist faul, aber sehr gutmütig.

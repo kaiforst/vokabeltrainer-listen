@@ -890,6 +890,11 @@
       "lang": "it"
     }
   ],
+  "aliases": {
+    "file": "aliase.txt",
+    "version": 1,
+    "count": 6344
+  },
   "lists": [
     {
       "id": "grundwortschatz-start",

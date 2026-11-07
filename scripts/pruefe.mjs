@@ -10,16 +10,14 @@
  * Exit-Code 1 bei Fehlern. Hinweise (⚠) brechen nicht ab.
  */
 import { existsSync, readdirSync, readFileSync } from "node:fs";
-import { join, relative } from "node:path";
-import { fileURLToPath } from "node:url";
+import { join } from "node:path";
+import { ALIAS_DATEI, hauptVorschlag, leseAliase, norm, paarSchluessel, ROOT, SPRACHEN } from "./katalog-lib.mjs";
 
-const ROOT = join(fileURLToPath(import.meta.url), "..", "..");
 const args = process.argv.slice(2);
 const DUBLETTEN = args.includes("--dubletten");
 const nurDateien = args.filter((a) => !a.startsWith("--")).map((a) => a.replace(/\\/g, "/"));
 
 const LEVELS = new Set(["A1", "A2", "B1", "B2", "C1", "C2"]);
-const SPRACHEN = { Englisch: "en", Französisch: "fr", Spanisch: "es", Italienisch: "it" };
 const ID = /^(?:(fr|es|it)-)?([a-z]{2})-(\d{4})$/;
 const FELDER = ["id", "Deutsch", "*", "Weitere Antworten", "Niveau", "Themen", "Beispiel *", "Beispiel Deutsch"];
 
@@ -34,23 +32,12 @@ const warn = (ort, text) => {
   console.log(`⚠ ${ort}: ${text}`);
 };
 
-/** Vergleichsform wie `normalize` in der App (src/domain/answerEvaluator.ts): so erkennt der Parser Dubletten */
-export const norm = (s) =>
-  s
-    .toLowerCase()
-    .normalize("NFKD")
-    .replace(/[̀-ͯ]/g, "")
-    .replace(/[’`´]/g, "'")
-    .replace(/[^a-z0-9'äöüß\s-]/g, " ")
-    .replace(/-/g, " ")
-    .replace(/\s+/g, " ")
-    .trim();
-
 const katalog = JSON.parse(readFileSync(join(ROOT, "katalog.json"), "utf8"));
 const quellen = new Map(katalog.words.map((w, i) => [w.file, { ...w, rang: i }]));
 
 // ---------- Wortdateien ----------
 const ids = new Map(); // id → Ort
+const paarVon = new Map(); // id → lang|de|antwort
 const paare = new Map(); // lang|de|antwort → [{id, datei, rang}]
 const lemmas = { de: new Set(), en: new Set(), fr: new Set(), es: new Set(), it: new Set() };
 let woerter = 0;
@@ -93,7 +80,8 @@ for (const datei of dateien) {
       for (const a of [antwort, ...(weitere ? weitere.split(",") : [])]) lemmas[lang].add(norm(a.replace(/^to /i, "")));
       lemmas[lang].add(norm(antwort));
     }
-    const schluessel = `${lang}|${norm(de ?? "")}|${norm(antwort ?? "")}`;
+    const schluessel = paarSchluessel(lang, de, antwort);
+    if (id) paarVon.set(id, schluessel);
     if (de && (antwort || lesen)) {
       if (!paare.has(schluessel)) paare.set(schluessel, []);
       paare.get(schluessel).push({ id, datei, rang: quellen.get(datei)?.rang ?? 9999 });
@@ -133,23 +121,45 @@ for (const datei of dateien) {
 
 for (const q of katalog.words) if (!existsSync(join(ROOT, q.file))) err("katalog.json", `Datei ${q.file} fehlt`);
 
+// ---------- Aliase ----------
+const aliase = leseAliase();
+if (aliase.size || katalog.aliases) {
+  const a = katalog.aliases;
+  if (!a) err("katalog.json", `aliases fehlt, ${ALIAS_DATEI} hat ${aliase.size} Zeilen – node scripts/aliase.mjs`);
+  else if (a.file !== ALIAS_DATEI || a.count !== aliase.size || !Number.isInteger(a.version))
+    err("katalog.json", `aliases muss lauten { file: "${ALIAS_DATEI}", version: <Zahl>, count: ${aliase.size} }`);
+  for (const [alias, haupt] of aliase) {
+    const ort = `${ALIAS_DATEI}: ${alias}`;
+    if (!ids.has(alias)) err(ort, "Alias-ID gibt es in keiner Wortdatei");
+    if (!ids.has(haupt)) err(ort, `Haupt-ID ${haupt} gibt es in keiner Wortdatei`);
+    if (alias === haupt) err(ort, "zeigt auf sich selbst");
+    if (aliase.has(haupt)) err(ort, `Haupt-ID ${haupt} ist selbst ein Alias (Kette)`);
+    if (ids.has(alias) && ids.has(haupt) && paarVon.get(alias) !== paarVon.get(haupt))
+      warn(ort, `Wortpaar weicht von ${haupt} ab (${paarVon.get(alias)} / ${paarVon.get(haupt)}) – gewollt?`);
+  }
+}
+
 // ---------- Dubletten über Dateien hinweg ----------
 const mehrfach = [...paare.entries()].filter(([, v]) => new Set(v.map((x) => x.datei)).size > 1);
-const haupt = (v) => [...v].sort((a, b) => (b.id?.includes("gw-") ? 1 : 0) - (a.id?.includes("gw-") ? 1 : 0) || a.rang - b.rang)[0];
+/** Noch offen: mehr als eine ID der Gruppe ist kein Alias, das Wort stünde in der App mehrfach */
+const offen = (v) => v.filter((x) => !aliase.has(x.id)).length > 1;
+const hauptIds = new Set(aliase.values());
+const ohneAlias = mehrfach.filter(([, v]) => offen(v));
 let neueDubletten = 0;
-for (const [k, v] of mehrfach) {
+for (const [k, v] of ohneAlias) {
   const betroffen = nurDateien.length ? v.filter((x) => nurDateien.includes(x.datei)) : [];
   if (betroffen.length) {
     neueDubletten++;
     const [, de, antwort] = k.split("|");
-    warn(betroffen.map((x) => x.datei).join(", "), `„${de} – ${antwort}“ steht schon im Katalog als ${v.filter((x) => !betroffen.includes(x)).map((x) => x.id).join(", ")} – weglassen oder als Alias führen`);
+    warn(betroffen.map((x) => x.datei).join(", "), `„${de} – ${antwort}“ steht schon im Katalog als ${v.filter((x) => !betroffen.includes(x)).map((x) => x.id).join(", ")} – weglassen oder mit node scripts/aliase.mjs als Alias führen`);
   }
 }
+if (!nurDateien.length && ohneAlias.length) warn("Dubletten", `${ohneAlias.length} Wortpaare in mehreren Dateien ohne Alias – node scripts/aliase.mjs`);
 if (DUBLETTEN) {
-  console.log("\n# Dubletten: Wortpaar → Haupt-ID ← weitere IDs");
+  console.log("\n# Dubletten: Wortpaar → Haupt-ID ← weitere IDs (* = noch ohne Alias)");
   for (const [k, v] of mehrfach) {
-    const h = haupt(v);
-    console.log(`${k.replace(/\|/g, " | ")}  →  ${h.id}  ←  ${v.filter((x) => x !== h).map((x) => x.id).join(", ")}`);
+    const h = v.find((x) => hauptIds.has(x.id)) ?? hauptVorschlag(v);
+    console.log(`${offen(v) ? "* " : ""}${k.replace(/\|/g, " | ")}  →  ${h.id}  ←  ${v.filter((x) => x !== h).map((x) => x.id).join(", ")}`);
   }
 }
 

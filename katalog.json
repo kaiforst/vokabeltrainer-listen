@@ -918,12 +918,96 @@
       "file": "woerter/phrasal-verbs.txt",
       "version": 1,
       "count": 257
+    },
+    {
+      "id": "fr-wendungen-alltag",
+      "file": "woerter/fr-wendungen-alltag.txt",
+      "version": 1,
+      "count": 310,
+      "lang": "fr"
+    },
+    {
+      "id": "fr-wendungen-schule-arbeit",
+      "file": "woerter/fr-wendungen-schule-arbeit.txt",
+      "version": 1,
+      "count": 274,
+      "lang": "fr"
+    },
+    {
+      "id": "fr-redewendungen",
+      "file": "woerter/fr-redewendungen.txt",
+      "version": 1,
+      "count": 345,
+      "lang": "fr"
+    },
+    {
+      "id": "fr-sprichwoerter",
+      "file": "woerter/fr-sprichwoerter.txt",
+      "version": 1,
+      "count": 129,
+      "lang": "fr"
+    },
+    {
+      "id": "es-wendungen-alltag",
+      "file": "woerter/es-wendungen-alltag.txt",
+      "version": 1,
+      "count": 310,
+      "lang": "es"
+    },
+    {
+      "id": "es-wendungen-schule-arbeit",
+      "file": "woerter/es-wendungen-schule-arbeit.txt",
+      "version": 1,
+      "count": 274,
+      "lang": "es"
+    },
+    {
+      "id": "es-redewendungen",
+      "file": "woerter/es-redewendungen.txt",
+      "version": 1,
+      "count": 345,
+      "lang": "es"
+    },
+    {
+      "id": "es-sprichwoerter",
+      "file": "woerter/es-sprichwoerter.txt",
+      "version": 1,
+      "count": 129,
+      "lang": "es"
+    },
+    {
+      "id": "it-wendungen-alltag",
+      "file": "woerter/it-wendungen-alltag.txt",
+      "version": 1,
+      "count": 310,
+      "lang": "it"
+    },
+    {
+      "id": "it-wendungen-schule-arbeit",
+      "file": "woerter/it-wendungen-schule-arbeit.txt",
+      "version": 1,
+      "count": 274,
+      "lang": "it"
+    },
+    {
+      "id": "it-redewendungen",
+      "file": "woerter/it-redewendungen.txt",
+      "version": 1,
+      "count": 345,
+      "lang": "it"
+    },
+    {
+      "id": "it-sprichwoerter",
+      "file": "woerter/it-sprichwoerter.txt",
+      "version": 1,
+      "count": 129,
+      "lang": "it"
     }
   ],
   "aliases": {
     "file": "aliase.txt",
-    "version": 2,
-    "count": 6392
+    "version": 3,
+    "count": 6395
   },
   "forms": [
     {
@@ -3340,10 +3424,115 @@
       }
     },
     {
+      "id": "fr-wendungen-alltag-a1",
+      "name": "Französisch: Alltagswendungen – A1",
+      "description": "Die ersten festen Verbindungen: Tagesablauf, Uhrzeit, Essen, Einkaufen",
+      "level": "A1",
+      "answerLang": "fr",
+      "count": 137,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Alltag"
+        ],
+        "levels": [
+          "A1"
+        ]
+      }
+    },
+    {
+      "id": "es-wendungen-alltag-a1",
+      "name": "Spanisch: Alltagswendungen – A1",
+      "description": "Die ersten festen Verbindungen: Tagesablauf, Uhrzeit, Essen, Einkaufen",
+      "level": "A1",
+      "answerLang": "es",
+      "count": 137,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Alltag"
+        ],
+        "levels": [
+          "A1"
+        ]
+      }
+    },
+    {
+      "id": "it-wendungen-alltag-a1",
+      "name": "Italienisch: Alltagswendungen – A1",
+      "description": "Die ersten festen Verbindungen: Tagesablauf, Uhrzeit, Essen, Einkaufen",
+      "level": "A1",
+      "answerLang": "it",
+      "count": 137,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Alltag"
+        ],
+        "levels": [
+          "A1"
+        ]
+      }
+    },
+    {
       "id": "wendungen-alltag-a2",
       "name": "Alltagswendungen – A2/B1",
       "description": "Feste Verbindungen für Haushalt, Freizeit, Reisen und Unterwegs",
       "level": "A2",
+      "count": 173,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Alltag"
+        ],
+        "levels": [
+          "A2",
+          "B1"
+        ]
+      }
+    },
+    {
+      "id": "fr-wendungen-alltag-a2",
+      "name": "Französisch: Alltagswendungen – A2/B1",
+      "description": "Feste Verbindungen für Haushalt, Freizeit, Reisen und Unterwegs",
+      "level": "A2",
+      "answerLang": "fr",
+      "count": 173,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Alltag"
+        ],
+        "levels": [
+          "A2",
+          "B1"
+        ]
+      }
+    },
+    {
+      "id": "es-wendungen-alltag-a2",
+      "name": "Spanisch: Alltagswendungen – A2/B1",
+      "description": "Feste Verbindungen für Haushalt, Freizeit, Reisen und Unterwegs",
+      "level": "A2",
+      "answerLang": "es",
+      "count": 173,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Alltag"
+        ],
+        "levels": [
+          "A2",
+          "B1"
+        ]
+      }
+    },
+    {
+      "id": "it-wendungen-alltag-a2",
+      "name": "Italienisch: Alltagswendungen – A2/B1",
+      "description": "Feste Verbindungen für Haushalt, Freizeit, Reisen und Unterwegs",
+      "level": "A2",
+      "answerLang": "it",
       "count": 173,
       "version": 1,
       "filter": {
@@ -3370,10 +3559,97 @@
       }
     },
     {
+      "id": "fr-wendungen-zeitangaben",
+      "name": "Französisch: Wendungen – Zeitangaben",
+      "description": "Uhrzeit, Tageszeiten, wie oft, seit wann",
+      "level": "A1",
+      "answerLang": "fr",
+      "count": 60,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Alltag/Zeitangaben"
+        ]
+      }
+    },
+    {
+      "id": "es-wendungen-zeitangaben",
+      "name": "Spanisch: Wendungen – Zeitangaben",
+      "description": "Uhrzeit, Tageszeiten, wie oft, seit wann",
+      "level": "A1",
+      "answerLang": "es",
+      "count": 60,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Alltag/Zeitangaben"
+        ]
+      }
+    },
+    {
+      "id": "it-wendungen-zeitangaben",
+      "name": "Italienisch: Wendungen – Zeitangaben",
+      "description": "Uhrzeit, Tageszeiten, wie oft, seit wann",
+      "level": "A1",
+      "answerLang": "it",
+      "count": 60,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Alltag/Zeitangaben"
+        ]
+      }
+    },
+    {
       "id": "wendungen-tagesablauf-wohnen",
       "name": "Wendungen: Tagesablauf & Wohnen",
       "description": "Vom Zähneputzen bis zum Wäschewaschen",
       "level": "A1",
+      "count": 50,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Alltag/Tagesablauf",
+          "Wendungen/Alltag/Wohnen"
+        ]
+      }
+    },
+    {
+      "id": "fr-wendungen-tagesablauf-wohnen",
+      "name": "Französisch: Wendungen – Tagesablauf & Wohnen",
+      "description": "Vom Zähneputzen bis zum Wäschewaschen",
+      "level": "A1",
+      "answerLang": "fr",
+      "count": 50,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Alltag/Tagesablauf",
+          "Wendungen/Alltag/Wohnen"
+        ]
+      }
+    },
+    {
+      "id": "es-wendungen-tagesablauf-wohnen",
+      "name": "Spanisch: Wendungen – Tagesablauf & Wohnen",
+      "description": "Vom Zähneputzen bis zum Wäschewaschen",
+      "level": "A1",
+      "answerLang": "es",
+      "count": 50,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Alltag/Tagesablauf",
+          "Wendungen/Alltag/Wohnen"
+        ]
+      }
+    },
+    {
+      "id": "it-wendungen-tagesablauf-wohnen",
+      "name": "Italienisch: Wendungen – Tagesablauf & Wohnen",
+      "description": "Vom Zähneputzen bis zum Wäschewaschen",
+      "level": "A1",
+      "answerLang": "it",
       "count": 50,
       "version": 1,
       "filter": {
@@ -3398,10 +3674,97 @@
       }
     },
     {
+      "id": "fr-wendungen-essen-einkaufen",
+      "name": "Französisch: Wendungen – Essen & Einkaufen",
+      "description": "Im Restaurant, im Laden, an der Kasse",
+      "level": "A1",
+      "answerLang": "fr",
+      "count": 80,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Alltag/Essen & Trinken",
+          "Wendungen/Alltag/Einkaufen"
+        ]
+      }
+    },
+    {
+      "id": "es-wendungen-essen-einkaufen",
+      "name": "Spanisch: Wendungen – Essen & Einkaufen",
+      "description": "Im Restaurant, im Laden, an der Kasse",
+      "level": "A1",
+      "answerLang": "es",
+      "count": 80,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Alltag/Essen & Trinken",
+          "Wendungen/Alltag/Einkaufen"
+        ]
+      }
+    },
+    {
+      "id": "it-wendungen-essen-einkaufen",
+      "name": "Italienisch: Wendungen – Essen & Einkaufen",
+      "description": "Im Restaurant, im Laden, an der Kasse",
+      "level": "A1",
+      "answerLang": "it",
+      "count": 80,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Alltag/Essen & Trinken",
+          "Wendungen/Alltag/Einkaufen"
+        ]
+      }
+    },
+    {
       "id": "wendungen-freizeit",
       "name": "Wendungen: Freizeit",
       "description": "Sport, Musik, Kino und Treffen mit Freunden",
       "level": "A1",
+      "count": 50,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Alltag/Freizeit"
+        ]
+      }
+    },
+    {
+      "id": "fr-wendungen-freizeit",
+      "name": "Französisch: Wendungen – Freizeit",
+      "description": "Sport, Musik, Kino und Treffen mit Freunden",
+      "level": "A1",
+      "answerLang": "fr",
+      "count": 50,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Alltag/Freizeit"
+        ]
+      }
+    },
+    {
+      "id": "es-wendungen-freizeit",
+      "name": "Spanisch: Wendungen – Freizeit",
+      "description": "Sport, Musik, Kino und Treffen mit Freunden",
+      "level": "A1",
+      "answerLang": "es",
+      "count": 50,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Alltag/Freizeit"
+        ]
+      }
+    },
+    {
+      "id": "it-wendungen-freizeit",
+      "name": "Italienisch: Wendungen – Freizeit",
+      "description": "Sport, Musik, Kino und Treffen mit Freunden",
+      "level": "A1",
+      "answerLang": "it",
       "count": 50,
       "version": 1,
       "filter": {
@@ -3425,10 +3788,97 @@
       }
     },
     {
+      "id": "fr-wendungen-reisen-unterwegs",
+      "name": "Französisch: Wendungen – Reisen & Unterwegs",
+      "description": "Urlaub, Fahrkarten, nach dem Weg fragen",
+      "level": "A1",
+      "answerLang": "fr",
+      "count": 50,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Alltag/Reisen",
+          "Wendungen/Alltag/Unterwegs"
+        ]
+      }
+    },
+    {
+      "id": "es-wendungen-reisen-unterwegs",
+      "name": "Spanisch: Wendungen – Reisen & Unterwegs",
+      "description": "Urlaub, Fahrkarten, nach dem Weg fragen",
+      "level": "A1",
+      "answerLang": "es",
+      "count": 50,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Alltag/Reisen",
+          "Wendungen/Alltag/Unterwegs"
+        ]
+      }
+    },
+    {
+      "id": "it-wendungen-reisen-unterwegs",
+      "name": "Italienisch: Wendungen – Reisen & Unterwegs",
+      "description": "Urlaub, Fahrkarten, nach dem Weg fragen",
+      "level": "A1",
+      "answerLang": "it",
+      "count": 50,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Alltag/Reisen",
+          "Wendungen/Alltag/Unterwegs"
+        ]
+      }
+    },
+    {
       "id": "wendungen-schule",
       "name": "Wendungen: Schule & Studium",
       "description": "Feste Wendungen für Unterricht, Hausaufgaben und Prüfungen",
       "level": "A2",
+      "count": 60,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Schule"
+        ]
+      }
+    },
+    {
+      "id": "fr-wendungen-schule",
+      "name": "Französisch: Wendungen – Schule & Studium",
+      "description": "Feste Wendungen für Unterricht, Hausaufgaben und Prüfungen",
+      "level": "A2",
+      "answerLang": "fr",
+      "count": 60,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Schule"
+        ]
+      }
+    },
+    {
+      "id": "es-wendungen-schule",
+      "name": "Spanisch: Wendungen – Schule & Studium",
+      "description": "Feste Wendungen für Unterricht, Hausaufgaben und Prüfungen",
+      "level": "A2",
+      "answerLang": "es",
+      "count": 60,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Schule"
+        ]
+      }
+    },
+    {
+      "id": "it-wendungen-schule",
+      "name": "Italienisch: Wendungen – Schule & Studium",
+      "description": "Feste Wendungen für Unterricht, Hausaufgaben und Prüfungen",
+      "level": "A2",
+      "answerLang": "it",
       "count": 60,
       "version": 1,
       "filter": {
@@ -3451,6 +3901,48 @@
       }
     },
     {
+      "id": "fr-wendungen-arbeit",
+      "name": "Französisch: Wendungen – Arbeit & Beruf",
+      "description": "Bewerbung, Arbeitsalltag, Besprechungen, Telefon und E-Mail",
+      "level": "B1",
+      "answerLang": "fr",
+      "count": 105,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Arbeit"
+        ]
+      }
+    },
+    {
+      "id": "es-wendungen-arbeit",
+      "name": "Spanisch: Wendungen – Arbeit & Beruf",
+      "description": "Bewerbung, Arbeitsalltag, Besprechungen, Telefon und E-Mail",
+      "level": "B1",
+      "answerLang": "es",
+      "count": 105,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Arbeit"
+        ]
+      }
+    },
+    {
+      "id": "it-wendungen-arbeit",
+      "name": "Italienisch: Wendungen – Arbeit & Beruf",
+      "description": "Bewerbung, Arbeitsalltag, Besprechungen, Telefon und E-Mail",
+      "level": "B1",
+      "answerLang": "it",
+      "count": 105,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Arbeit"
+        ]
+      }
+    },
+    {
       "id": "wendungen-gespraech",
       "name": "Wendungen: Gespräch & Meinung",
       "description": "Höflich nachfragen, Meinung sagen, zustimmen und widersprechen",
@@ -3464,10 +3956,106 @@
       }
     },
     {
+      "id": "fr-wendungen-gespraech",
+      "name": "Französisch: Wendungen – Gespräch & Meinung",
+      "description": "Höflich nachfragen, Meinung sagen, zustimmen und widersprechen",
+      "level": "B1",
+      "answerLang": "fr",
+      "count": 109,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Gespräch"
+        ]
+      }
+    },
+    {
+      "id": "es-wendungen-gespraech",
+      "name": "Spanisch: Wendungen – Gespräch & Meinung",
+      "description": "Höflich nachfragen, Meinung sagen, zustimmen und widersprechen",
+      "level": "B1",
+      "answerLang": "es",
+      "count": 109,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Gespräch"
+        ]
+      }
+    },
+    {
+      "id": "it-wendungen-gespraech",
+      "name": "Italienisch: Wendungen – Gespräch & Meinung",
+      "description": "Höflich nachfragen, Meinung sagen, zustimmen und widersprechen",
+      "level": "B1",
+      "answerLang": "it",
+      "count": 109,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Gespräch"
+        ]
+      }
+    },
+    {
       "id": "redewendungen-b2",
       "name": "Redewendungen – B1/B2",
       "description": "Bildhafte Wendungen, die man oft hört: Daumen drücken, die Nase voll haben",
       "level": "B2",
+      "count": 171,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Redewendungen"
+        ],
+        "levels": [
+          "B1",
+          "B2"
+        ]
+      }
+    },
+    {
+      "id": "fr-redewendungen-b2",
+      "name": "Französisch: Redewendungen – B1/B2",
+      "description": "Bildhafte Wendungen, die man oft hört: Daumen drücken, die Nase voll haben",
+      "level": "B2",
+      "answerLang": "fr",
+      "count": 171,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Redewendungen"
+        ],
+        "levels": [
+          "B1",
+          "B2"
+        ]
+      }
+    },
+    {
+      "id": "es-redewendungen-b2",
+      "name": "Spanisch: Redewendungen – B1/B2",
+      "description": "Bildhafte Wendungen, die man oft hört: Daumen drücken, die Nase voll haben",
+      "level": "B2",
+      "answerLang": "es",
+      "count": 171,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Redewendungen"
+        ],
+        "levels": [
+          "B1",
+          "B2"
+        ]
+      }
+    },
+    {
+      "id": "it-redewendungen-b2",
+      "name": "Italienisch: Redewendungen – B1/B2",
+      "description": "Bildhafte Wendungen, die man oft hört: Daumen drücken, die Nase voll haben",
+      "level": "B2",
+      "answerLang": "it",
       "count": 171,
       "version": 1,
       "filter": {
@@ -3498,6 +4086,60 @@
       }
     },
     {
+      "id": "fr-redewendungen-c1",
+      "name": "Französisch: Redewendungen – C1/C2",
+      "description": "Bildhafte Wendungen für Fortgeschrittene",
+      "level": "C1",
+      "answerLang": "fr",
+      "count": 174,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Redewendungen"
+        ],
+        "levels": [
+          "C1",
+          "C2"
+        ]
+      }
+    },
+    {
+      "id": "es-redewendungen-c1",
+      "name": "Spanisch: Redewendungen – C1/C2",
+      "description": "Bildhafte Wendungen für Fortgeschrittene",
+      "level": "C1",
+      "answerLang": "es",
+      "count": 174,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Redewendungen"
+        ],
+        "levels": [
+          "C1",
+          "C2"
+        ]
+      }
+    },
+    {
+      "id": "it-redewendungen-c1",
+      "name": "Italienisch: Redewendungen – C1/C2",
+      "description": "Bildhafte Wendungen für Fortgeschrittene",
+      "level": "C1",
+      "answerLang": "it",
+      "count": 174,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Redewendungen"
+        ],
+        "levels": [
+          "C1",
+          "C2"
+        ]
+      }
+    },
+    {
       "id": "sprichwoerter-b2",
       "name": "Sprichwörter – B1/B2",
       "description": "Bekannte Sprichwörter: Übung macht den Meister, Zeit ist Geld …",
@@ -3515,10 +4157,118 @@
       }
     },
     {
+      "id": "fr-sprichwoerter-b2",
+      "name": "Französisch: Sprichwörter – B1/B2",
+      "description": "Bekannte Sprichwörter: Übung macht den Meister, Zeit ist Geld …",
+      "level": "B2",
+      "answerLang": "fr",
+      "count": 73,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Sprichwörter"
+        ],
+        "levels": [
+          "B1",
+          "B2"
+        ]
+      }
+    },
+    {
+      "id": "es-sprichwoerter-b2",
+      "name": "Spanisch: Sprichwörter – B1/B2",
+      "description": "Bekannte Sprichwörter: Übung macht den Meister, Zeit ist Geld …",
+      "level": "B2",
+      "answerLang": "es",
+      "count": 73,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Sprichwörter"
+        ],
+        "levels": [
+          "B1",
+          "B2"
+        ]
+      }
+    },
+    {
+      "id": "it-sprichwoerter-b2",
+      "name": "Italienisch: Sprichwörter – B1/B2",
+      "description": "Bekannte Sprichwörter: Übung macht den Meister, Zeit ist Geld …",
+      "level": "B2",
+      "answerLang": "it",
+      "count": 73,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Sprichwörter"
+        ],
+        "levels": [
+          "B1",
+          "B2"
+        ]
+      }
+    },
+    {
       "id": "sprichwoerter-c1",
       "name": "Sprichwörter – C1/C2",
       "description": "Anspruchsvollere Sprichwörter für Fortgeschrittene",
       "level": "C1",
+      "count": 56,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Sprichwörter"
+        ],
+        "levels": [
+          "C1",
+          "C2"
+        ]
+      }
+    },
+    {
+      "id": "fr-sprichwoerter-c1",
+      "name": "Französisch: Sprichwörter – C1/C2",
+      "description": "Anspruchsvollere Sprichwörter für Fortgeschrittene",
+      "level": "C1",
+      "answerLang": "fr",
+      "count": 56,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Sprichwörter"
+        ],
+        "levels": [
+          "C1",
+          "C2"
+        ]
+      }
+    },
+    {
+      "id": "es-sprichwoerter-c1",
+      "name": "Spanisch: Sprichwörter – C1/C2",
+      "description": "Anspruchsvollere Sprichwörter für Fortgeschrittene",
+      "level": "C1",
+      "answerLang": "es",
+      "count": 56,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Sprichwörter"
+        ],
+        "levels": [
+          "C1",
+          "C2"
+        ]
+      }
+    },
+    {
+      "id": "it-sprichwoerter-c1",
+      "name": "Italienisch: Sprichwörter – C1/C2",
+      "description": "Anspruchsvollere Sprichwörter für Fortgeschrittene",
+      "level": "C1",
+      "answerLang": "it",
       "count": 56,
       "version": 1,
       "filter": {
@@ -3643,7 +4393,7 @@
     }
   ],
   "areas": {
-    "version": 11,
+    "version": 12,
     "tree": [
       {
         "name": "Einstieg",
@@ -3873,34 +4623,76 @@
             "name": "Alltag",
             "lists": [
               "wendungen-alltag-a1",
+              "fr-wendungen-alltag-a1",
+              "es-wendungen-alltag-a1",
+              "it-wendungen-alltag-a1",
               "wendungen-alltag-a2",
+              "fr-wendungen-alltag-a2",
+              "es-wendungen-alltag-a2",
+              "it-wendungen-alltag-a2",
               "wendungen-zeitangaben",
+              "fr-wendungen-zeitangaben",
+              "es-wendungen-zeitangaben",
+              "it-wendungen-zeitangaben",
               "wendungen-tagesablauf-wohnen",
+              "fr-wendungen-tagesablauf-wohnen",
+              "es-wendungen-tagesablauf-wohnen",
+              "it-wendungen-tagesablauf-wohnen",
               "wendungen-essen-einkaufen",
+              "fr-wendungen-essen-einkaufen",
+              "es-wendungen-essen-einkaufen",
+              "it-wendungen-essen-einkaufen",
               "wendungen-freizeit",
-              "wendungen-reisen-unterwegs"
+              "fr-wendungen-freizeit",
+              "es-wendungen-freizeit",
+              "it-wendungen-freizeit",
+              "wendungen-reisen-unterwegs",
+              "fr-wendungen-reisen-unterwegs",
+              "es-wendungen-reisen-unterwegs",
+              "it-wendungen-reisen-unterwegs"
             ]
           },
           {
             "name": "Schule, Arbeit & Gespräch",
             "lists": [
               "wendungen-schule",
+              "fr-wendungen-schule",
+              "es-wendungen-schule",
+              "it-wendungen-schule",
               "wendungen-arbeit",
-              "wendungen-gespraech"
+              "fr-wendungen-arbeit",
+              "es-wendungen-arbeit",
+              "it-wendungen-arbeit",
+              "wendungen-gespraech",
+              "fr-wendungen-gespraech",
+              "es-wendungen-gespraech",
+              "it-wendungen-gespraech"
             ]
           },
           {
             "name": "Redewendungen",
             "lists": [
               "redewendungen-b2",
-              "redewendungen-c1"
+              "fr-redewendungen-b2",
+              "es-redewendungen-b2",
+              "it-redewendungen-b2",
+              "redewendungen-c1",
+              "fr-redewendungen-c1",
+              "es-redewendungen-c1",
+              "it-redewendungen-c1"
             ]
           },
           {
             "name": "Sprichwörter",
             "lists": [
               "sprichwoerter-b2",
-              "sprichwoerter-c1"
+              "fr-sprichwoerter-b2",
+              "es-sprichwoerter-b2",
+              "it-sprichwoerter-b2",
+              "sprichwoerter-c1",
+              "fr-sprichwoerter-c1",
+              "es-sprichwoerter-c1",
+              "it-sprichwoerter-c1"
             ]
           },
           {

@@ -1,0 +1,463 @@
+# Ausbau Natur und Welt: Tiere, Pflanzen, Landschaft, Geografie und Länder, Wetter, Umwelt, Stadt, Verkehr, Reisen (A1–C1)
+id; Deutsch; Englisch; Weitere Antworten; Niveau; Themen; Beispiel Englisch; Beispiel Deutsch
+xc-0001; Kalb; calf; ; B1; Natur/Tiere/Haustiere; The calf stays close to its mother all day.; Das Kalb bleibt den ganzen Tag dicht bei seiner Mutter.
+xc-0002; Lamm; lamb; ; A2; Natur/Tiere/Haustiere; In spring the lambs play in the fields.; Im Frühling spielen die Lämmer auf den Wiesen.
+xc-0003; Welpe; puppy; ; A2; Natur/Tiere/Haustiere; Our new puppy chews everything it can find.; Unser neuer Welpe kaut auf allem herum, was er findet.
+xc-0004; Kätzchen; kitten; ; A2; Natur/Tiere/Haustiere; The kitten is playing with a ball of wool.; Das Kätzchen spielt mit einem Wollknäuel.
+xc-0005; Küken; chick; ; B1; Natur/Tiere/Haustiere; Six yellow chicks hatched this morning.; Heute Morgen sind sechs gelbe Küken geschlüpft.
+xc-0006; Hahn (Tier); cockerel; rooster; A2; Natur/Tiere/Haustiere; The cockerel wakes the whole farm at five.; Der Hahn weckt um fünf den ganzen Hof.
+xc-0007; Stier; bull; ; B1; Natur/Tiere/Haustiere; Never go into a field with a bull in it.; Geh nie auf eine Weide, auf der ein Stier steht.
+xc-0008; Gans; goose; ; B1; Natur/Tiere/Haustiere; A goose chased us across the meadow.; Eine Gans hat uns über die Wiese gejagt.
+xc-0009; Truthahn; turkey; ; B1; Natur/Tiere/Haustiere; Many families eat turkey at Christmas.; Viele Familien essen an Weihnachten Truthahn.
+xc-0010; Hamster; hamster; ; A2; Natur/Tiere/Haustiere; My hamster sleeps all day and runs all night.; Mein Hamster schläft den ganzen Tag und rennt die ganze Nacht.
+xc-0011; Meerschweinchen; guinea pig; ; A2; Natur/Tiere/Haustiere; The children feed the guinea pig every morning.; Die Kinder füttern jeden Morgen das Meerschweinchen.
+xc-0012; Goldfisch; goldfish; ; A2; Natur/Tiere/Haustiere; Two goldfish swim in the bowl on her desk.; Zwei Goldfische schwimmen im Glas auf ihrem Schreibtisch.
+xc-0013; Pony (Tier); pony; ; A2; Natur/Tiere/Haustiere; My little sister rides a pony every Saturday.; Meine kleine Schwester reitet jeden Samstag auf einem Pony.
+xc-0014; Käfig; cage; ; B1; Natur/Tiere/Haustiere; The bird sings in its cage by the window.; Der Vogel singt in seinem Käfig am Fenster.
+xc-0015; Stall; stable; ; B1; Natur/Tiere/Haustiere; The horses spend the night in the stable.; Die Pferde verbringen die Nacht im Stall.
+xc-0016; Tierarzt; vet; veterinarian, veterinary surgeon; A2; Natur/Tiere/Haustiere; We have to take the dog to the vet.; Wir müssen mit dem Hund zum Tierarzt.
+xc-0017; Tierheim; animal shelter; animal rescue centre; B1; Natur/Tiere/Haustiere; We got our cat from the animal shelter.; Wir haben unsere Katze aus dem Tierheim.
+xc-0018; Leine; lead; leash; B1; Natur/Tiere/Haustiere; Dogs must be kept on a lead in the park.; Hunde müssen im Park an der Leine bleiben.
+xc-0019; bellen; to bark; ; A2; Natur/Tiere/Haustiere; The dog next door barks at every car.; Der Hund nebenan bellt jedes Auto an.
+xc-0020; miauen; to miaow; to meow; B1; Natur/Tiere/Haustiere; The cat miaows at the door every morning.; Die Katze miaut jeden Morgen an der Tür.
+xc-0021; Schildkröte; tortoise; turtle; A2; Natur/Tiere/Wildtiere; The old tortoise moves very slowly across the grass.; Die alte Schildkröte bewegt sich ganz langsam über das Gras.
+xc-0022; Eidechse; lizard; ; B2; Natur/Tiere/Wildtiere; A lizard was lying in the sun on the wall.; Eine Eidechse lag auf der Mauer in der Sonne.
+xc-0023; Krokodil; crocodile; ; A2; Natur/Tiere/Wildtiere; The crocodile waited quietly in the river.; Das Krokodil wartete still im Fluss.
+xc-0024; Nilpferd; hippo; hippopotamus; B1; Natur/Tiere/Wildtiere; A hippo can stay under water for minutes.; Ein Nilpferd kann minutenlang unter Wasser bleiben.
+xc-0025; Nashorn; rhino; rhinoceros; B1; Natur/Tiere/Wildtiere; We saw a rhino and its baby on safari.; Auf der Safari haben wir ein Nashorn mit seinem Jungen gesehen.
+xc-0026; Zebra; zebra; ; A2; Natur/Tiere/Wildtiere; Every zebra has its own pattern of stripes.; Jedes Zebra hat sein eigenes Streifenmuster.
+xc-0027; Kamel; camel; ; A2; Natur/Tiere/Wildtiere; A camel can go days without drinking.; Ein Kamel kommt tagelang ohne Trinken aus.
+xc-0028; Känguru; kangaroo; ; A2; Natur/Tiere/Wildtiere; The kangaroo carries its baby in a pouch.; Das Känguru trägt sein Junges in einem Beutel.
+xc-0029; Eisbär; polar bear; ; A2; Natur/Tiere/Wildtiere; Polar bears hunt seals on the ice.; Eisbären jagen Robben auf dem Eis.
+xc-0030; Fledermaus; bat; ; B1; Natur/Tiere/Wildtiere; Bats fly out of the barn at night.; Nachts fliegen Fledermäuse aus der Scheune.
+xc-0031; Maulwurf; mole; ; B2; Natur/Tiere/Wildtiere; A mole has dug holes all over our lawn.; Ein Maulwurf hat überall in unserem Rasen Löcher gegraben.
+xc-0032; Ratte; rat; ; B1; Natur/Tiere/Wildtiere; We saw a rat running along the canal.; Wir haben eine Ratte am Kanal entlanglaufen sehen.
+xc-0033; Wildschwein; wild boar; ; B1; Natur/Tiere/Wildtiere; A wild boar ran across the forest road.; Ein Wildschwein lief über die Waldstraße.
+xc-0034; Leopard; leopard; ; B1; Natur/Tiere/Wildtiere; The leopard was resting high up in a tree.; Der Leopard ruhte hoch oben in einem Baum.
+xc-0035; Gorilla; gorilla; ; B1; Natur/Tiere/Wildtiere; Gorillas live in family groups in the forest.; Gorillas leben in Familiengruppen im Wald.
+xc-0036; Schimpanse; chimpanzee; chimp; B1; Natur/Tiere/Wildtiere; Chimpanzees can use sticks as simple tools.; Schimpansen können Stöcke als einfache Werkzeuge benutzen.
+xc-0037; Panda; panda; ; A2; Natur/Tiere/Wildtiere; Pandas eat bamboo for most of the day.; Pandas fressen den größten Teil des Tages Bambus.
+xc-0038; Dinosaurier; dinosaur; ; A2; Natur/Tiere/Wildtiere; My son knows the name of every dinosaur.; Mein Sohn kennt den Namen jedes Dinosauriers.
+xc-0039; Wildtier; wild animal; ; B1; Natur/Tiere/Wildtiere; Please do not feed the wild animals.; Bitte füttern Sie die Wildtiere nicht.
+xc-0040; Zoo; zoo; ; A1; Natur/Tiere/Wildtiere; On Sunday we are going to the zoo.; Am Sonntag gehen wir in den Zoo.
+xc-0041; Rüssel; trunk; ; B2; Natur/Tiere/Wildtiere; The elephant sprayed water with its trunk.; Der Elefant spritzte mit seinem Rüssel Wasser.
+xc-0042; Jäger; hunter; ; B1; Natur/Tiere/Wildtiere; The hunter waited quietly at the edge of the wood.; Der Jäger wartete still am Waldrand.
+xc-0043; Robbe; seal; ; B2; Natur/Tiere/Meerestiere; A seal was lying on the rocks in the sun.; Eine Robbe lag in der Sonne auf den Felsen.
+xc-0044; Wal; whale; ; A2; Natur/Tiere/Meerestiere; From the boat we watched a whale come up.; Vom Boot aus sahen wir einen Wal auftauchen.
+xc-0045; Delfin; dolphin; ; A2; Natur/Tiere/Meerestiere; Dolphins were swimming next to our boat.; Delfine schwammen neben unserem Boot her.
+xc-0046; Hai; shark; ; A2; Natur/Tiere/Meerestiere; Most sharks are not dangerous to people.; Die meisten Haie sind für Menschen nicht gefährlich.
+xc-0047; Tintenfisch; squid; octopus; B2; Natur/Tiere/Meerestiere; A squid can change its colour in seconds.; Ein Tintenfisch kann in Sekunden seine Farbe ändern.
+xc-0048; Qualle; jellyfish; ; B2; Natur/Tiere/Meerestiere; Be careful, there are jellyfish in the water today.; Pass auf, heute sind Quallen im Wasser.
+xc-0049; Muschel (Schale); shell; seashell; B1; Natur/Tiere/Meerestiere; The children collected shells on the beach.; Die Kinder haben am Strand Muscheln gesammelt.
+xc-0050; Seestern; starfish; ; B2; Natur/Tiere/Meerestiere; We found a starfish in a pool between the rocks.; Wir haben in einem Becken zwischen den Felsen einen Seestern gefunden.
+xc-0051; Pinguin; penguin; ; A2; Natur/Tiere/Vögel; Penguins cannot fly, but they swim very well.; Pinguine können nicht fliegen, aber sie schwimmen sehr gut.
+xc-0052; Spatz; sparrow; ; B2; Natur/Tiere/Vögel; A sparrow is picking up crumbs under our table.; Ein Spatz pickt unter unserem Tisch Krümel auf.
+xc-0053; Amsel; blackbird; ; B2; Natur/Tiere/Vögel; A blackbird sings on our roof every evening.; Jeden Abend singt eine Amsel auf unserem Dach.
+xc-0054; Rabe; raven; ; B2; Natur/Tiere/Vögel; A big black raven sat on the fence.; Ein großer schwarzer Rabe saß auf dem Zaun.
+xc-0055; Krähe; crow; ; B2; Natur/Tiere/Vögel; The crows are making a lot of noise this morning.; Die Krähen machen heute Morgen viel Lärm.
+xc-0056; Strauß (Vogel); ostrich; ; B1; Natur/Tiere/Vögel; An ostrich can run faster than a horse.; Ein Strauß kann schneller laufen als ein Pferd.
+xc-0057; Flamingo; flamingo; ; B1; Natur/Tiere/Vögel; The pink flamingos stood on one leg in the lake.; Die rosa Flamingos standen auf einem Bein im See.
+xc-0058; Storch; stork; ; B2; Natur/Tiere/Vögel; A stork has built its nest on the church roof.; Ein Storch hat sein Nest auf dem Kirchendach gebaut.
+xc-0059; zwitschern; to chirp; to twitter, to tweet; C1; Natur/Tiere/Vögel; The birds start chirping before the sun comes up.; Die Vögel fangen an zu zwitschern, bevor die Sonne aufgeht.
+xc-0060; Insekt; insect; ; A2; Natur/Tiere/Insekten; There are lots of insects near the river in summer.; Im Sommer gibt es am Fluss viele Insekten.
+xc-0061; Schnecke; snail; ; A2; Natur/Tiere/Insekten; After the rain there were snails on the path.; Nach dem Regen waren Schnecken auf dem Weg.
+xc-0062; Raupe; caterpillar; ; B1; Natur/Tiere/Insekten; The caterpillar will soon turn into a butterfly.; Die Raupe wird sich bald in einen Schmetterling verwandeln.
+xc-0063; Marienkäfer; ladybird; ladybug; B1; Natur/Tiere/Insekten; A ladybird landed on my hand.; Ein Marienkäfer ist auf meiner Hand gelandet.
+xc-0064; Wespe; wasp; ; B1; Natur/Tiere/Insekten; A wasp is flying around the jam.; Eine Wespe fliegt um die Marmelade herum.
+xc-0065; Hummel; bumblebee; ; B2; Natur/Tiere/Insekten; A fat bumblebee buzzed from flower to flower.; Eine dicke Hummel summte von Blüte zu Blüte.
+xc-0066; Floh; flea; ; B2; Natur/Tiere/Insekten; The dog keeps scratching, maybe he has fleas.; Der Hund kratzt sich ständig, vielleicht hat er Flöhe.
+xc-0067; Zecke; tick; ; B2; Natur/Tiere/Insekten; Check your legs for ticks after a walk in the woods.; Such nach einem Waldspaziergang deine Beine nach Zecken ab.
+xc-0068; Motte; moth; ; B2; Natur/Tiere/Insekten; A moth was flying round the lamp.; Eine Motte flog um die Lampe herum.
+xc-0069; Kakerlake; cockroach; ; B2; Natur/Tiere/Insekten; The hotel kitchen was full of cockroaches.; Die Hotelküche war voller Kakerlaken.
+xc-0070; Ungeziefer; vermin; pests; C1; Natur/Tiere/Insekten; The old barn was full of vermin.; Die alte Scheune war voller Ungeziefer.
+xc-0071; summen (Insekt); to buzz; ; B1; Natur/Tiere/Insekten; Bees are buzzing around the apple tree.; Bienen summen um den Apfelbaum.
+xc-0072; stechen (Insekt); to sting; ; B1; Natur/Tiere/Insekten; I was stung by a bee in the garden.; Im Garten hat mich eine Biene gestochen.
+xc-0073; Spinnennetz; spider's web; cobweb, spiderweb; B1; Natur/Tiere/Insekten; There is a huge spider's web in the corner.; In der Ecke hängt ein riesiges Spinnennetz.
+xc-0074; Rose; rose; ; A1; Natur/Pflanzen; He gave her a red rose for her birthday.; Er hat ihr zum Geburtstag eine rote Rose geschenkt.
+xc-0075; Tulpe; tulip; ; B1; Natur/Pflanzen; In April the tulips in the park start to flower.; Im April beginnen die Tulpen im Park zu blühen.
+xc-0076; Sonnenblume; sunflower; ; A2; Natur/Pflanzen; The sunflowers in our garden are taller than me.; Die Sonnenblumen in unserem Garten sind größer als ich.
+xc-0077; Gänseblümchen; daisy; ; B2; Natur/Pflanzen; The lawn is full of little daisies.; Der Rasen ist voller kleiner Gänseblümchen.
+xc-0078; Löwenzahn; dandelion; ; B2; Natur/Pflanzen; The meadow was yellow with dandelions.; Die Wiese war gelb vom Löwenzahn.
+xc-0079; Lavendel; lavender; ; B2; Natur/Pflanzen; The whole garden smells of lavender.; Der ganze Garten riecht nach Lavendel.
+xc-0080; Kaktus; cactus; ; A2; Natur/Pflanzen; A cactus does not need much water.; Ein Kaktus braucht nicht viel Wasser.
+xc-0081; Brennnessel; stinging nettle; nettle; C1; Natur/Pflanzen; I touched a stinging nettle and my hand hurts.; Ich habe eine Brennnessel berührt, und meine Hand tut weh.
+xc-0082; Palme; palm tree; palm; A2; Natur/Pflanzen; We lay on the beach under a palm tree.; Wir lagen am Strand unter einer Palme.
+xc-0083; Tanne; fir tree; fir; B2; Natur/Pflanzen; We decorate a small fir tree at Christmas.; An Weihnachten schmücken wir eine kleine Tanne.
+xc-0084; Ahorn; maple; maple tree; B2; Natur/Pflanzen; The maple turns bright red in autumn.; Der Ahorn wird im Herbst leuchtend rot.
+xc-0085; Kastanie; chestnut; ; B1; Natur/Pflanzen; In autumn the children collect chestnuts in the park.; Im Herbst sammeln die Kinder im Park Kastanien.
+xc-0086; Tannenzapfen; pine cone; fir cone; B2; Natur/Pflanzen; We made little animals out of pine cones.; Wir haben aus Tannenzapfen kleine Tiere gebastelt.
+xc-0087; Zweig; twig; ; B2; Natur/Pflanzen; The bird is carrying a twig to its nest.; Der Vogel trägt einen Zweig zu seinem Nest.
+xc-0088; Knospe; bud; ; C1; Natur/Pflanzen; The first buds are appearing on the trees.; An den Bäumen zeigen sich die ersten Knospen.
+xc-0089; Blüte; blossom; flower; B1; Natur/Pflanzen; The cherry trees are covered in white blossom.; Die Kirschbäume sind voller weißer Blüten.
+xc-0090; Beere; berry; ; B1; Natur/Pflanzen; Don't eat berries if you don't know them.; Iss keine Beeren, die du nicht kennst.
+xc-0091; Busch; bush; ; A2; Natur/Pflanzen; The cat is hiding behind the bush.; Die Katze versteckt sich hinter dem Busch.
+xc-0092; Zimmerpflanze; houseplant; pot plant; B1; Natur/Pflanzen; Could you water my houseplants while I'm away?; Kannst du meine Zimmerpflanzen gießen, während ich weg bin?
+xc-0093; Laub; leaves; foliage; B2; Natur/Pflanzen; In autumn we sweep up the leaves every weekend.; Im Herbst fegen wir jedes Wochenende das Laub zusammen.
+xc-0094; Pollen; pollen; ; B2; Natur/Pflanzen; In May there is a lot of pollen in the air.; Im Mai ist viel Pollen in der Luft.
+xc-0095; Efeu; ivy; ; B2; Natur/Pflanzen; Ivy has grown all over the old wall.; Efeu hat die ganze alte Mauer überwuchert.
+xc-0096; Scheune; barn; ; B2; Natur/Landwirtschaft; The farmer keeps the hay in the old barn.; Der Bauer lagert das Heu in der alten Scheune.
+xc-0097; Weide (Wiese); pasture; ; C1; Natur/Landwirtschaft; The cows spend the summer on the pasture.; Die Kühe verbringen den Sommer auf der Weide.
+xc-0098; Ernte; harvest; ; B1; Natur/Landwirtschaft; The rain came just before the harvest.; Der Regen kam kurz vor der Ernte.
+xc-0099; Getreide; grain; cereal, cereals; B2; Natur/Landwirtschaft; The region grows mainly grain and potatoes.; In der Region werden vor allem Getreide und Kartoffeln angebaut.
+xc-0100; Weizen; wheat; ; B1; Natur/Landwirtschaft; Bread is usually made from wheat.; Brot wird meistens aus Weizen gemacht.
+xc-0101; Mais (Pflanze); maize; corn; B1; Natur/Landwirtschaft; The maize is already higher than the fence.; Der Mais ist schon höher als der Zaun.
+xc-0102; Stroh; straw; ; B2; Natur/Landwirtschaft; The animals sleep on fresh straw.; Die Tiere schlafen auf frischem Stroh.
+xc-0103; Landwirtschaft; agriculture; farming; B1; Natur/Landwirtschaft; Many people in the village work in agriculture.; Viele Menschen im Dorf arbeiten in der Landwirtschaft.
+xc-0104; Bauer; farmer; ; A2; Natur/Landwirtschaft; The farmer gets up at five to milk the cows.; Der Bauer steht um fünf auf, um die Kühe zu melken.
+xc-0105; Fischer; fisherman; fisher; B1; Natur/Landwirtschaft; The fishermen bring their catch into the harbour at dawn.; Die Fischer bringen ihren Fang frühmorgens in den Hafen.
+xc-0106; Traktor; tractor; ; A2; Natur/Landwirtschaft; A tractor is driving slowly in front of us.; Ein Traktor fährt langsam vor uns her.
+xc-0107; Stein; stone; ; A1; Natur/Landschaft; The children threw stones into the lake.; Die Kinder warfen Steine in den See.
+xc-0108; Felsen; rock; ; B1; Natur/Landschaft; We climbed up onto a big rock by the sea.; Wir sind am Meer auf einen großen Felsen geklettert.
+xc-0109; Sand; sand; ; A1; Natur/Landschaft; The sand on this beach is almost white.; Der Sand an diesem Strand ist fast weiß.
+xc-0110; Düne; dune; sand dune; B2; Natur/Landschaft; Please do not walk on the dunes.; Bitte nicht auf den Dünen laufen.
+xc-0111; Vulkan; volcano; ; B1; Natur/Landschaft; The volcano last erupted a hundred years ago.; Der Vulkan ist vor hundert Jahren zuletzt ausgebrochen.
+xc-0112; Quelle (Wasser); spring; ; B2; Natur/Landschaft; The river begins at a small spring in the hills.; Der Fluss beginnt an einer kleinen Quelle in den Hügeln.
+xc-0113; Dschungel; jungle; ; B1; Natur/Landschaft; Monkeys and parrots live in the jungle.; Im Dschungel leben Affen und Papageien.
+xc-0114; Urwald; primeval forest; virgin forest, jungle; B2; Natur/Landschaft; Large parts of the primeval forest have been cut down.; Große Teile des Urwalds wurden abgeholzt.
+xc-0115; Bucht; bay; ; B1; Natur/Landschaft; Our hotel is in a quiet little bay.; Unser Hotel liegt in einer ruhigen kleinen Bucht.
+xc-0116; Halbinsel; peninsula; ; B2; Natur/Landschaft; The village lies at the end of a narrow peninsula.; Das Dorf liegt am Ende einer schmalen Halbinsel.
+xc-0117; Ozean; ocean; ; A2; Natur/Landschaft; The Pacific is the largest ocean in the world.; Der Pazifik ist der größte Ozean der Welt.
+xc-0118; Horizont; horizon; ; B1; Natur/Landschaft; A ship appeared on the horizon.; Am Horizont tauchte ein Schiff auf.
+xc-0119; Landschaft; landscape; scenery; B1; Natur/Landschaft; The landscape in Scotland is wild and beautiful.; Die Landschaft in Schottland ist wild und schön.
+xc-0120; Ebbe; low tide; ; B2; Natur/Landschaft; At low tide you can walk to the island.; Bei Ebbe kann man zur Insel laufen.
+xc-0121; Flut (Gezeiten); high tide; ; B2; Natur/Landschaft; At high tide the beach almost disappears.; Bei Flut verschwindet der Strand fast ganz.
+xc-0122; Strömung; current; ; B2; Natur/Landschaft; Don't swim here, the current is too strong.; Schwimm hier nicht, die Strömung ist zu stark.
+xc-0123; Korallenriff; coral reef; ; B2; Natur/Landschaft; We went diving at a coral reef.; Wir sind an einem Korallenriff tauchen gegangen.
+xc-0124; Eisberg; iceberg; ; B1; Natur/Landschaft; The Titanic hit an iceberg in 1912.; Die Titanic stieß 1912 mit einem Eisberg zusammen.
+xc-0125; Schlucht; gorge; ravine, canyon; C1; Natur/Landschaft; A narrow path leads down into the gorge.; Ein schmaler Pfad führt hinunter in die Schlucht.
+xc-0126; Pfütze; puddle; ; B1; Natur/Landschaft; The little boy jumped into every puddle.; Der kleine Junge sprang in jede Pfütze.
+xc-0127; Schlamm; mud; ; B1; Natur/Landschaft; After the storm the road was covered in mud.; Nach dem Sturm war die Straße voller Schlamm.
+xc-0128; Flussufer; riverbank; ; B2; Natur/Landschaft; We had a picnic on the riverbank.; Wir haben am Flussufer ein Picknick gemacht.
+xc-0129; Sandstrand; sandy beach; ; B1; Natur/Landschaft; The island has long sandy beaches.; Die Insel hat lange Sandstrände.
+xc-0130; Nationalpark; national park; ; B1; Natur/Landschaft; Bears still live in this national park.; In diesem Nationalpark leben noch Bären.
+xc-0131; Mündung; river mouth; estuary, mouth; C1; Natur/Landschaft; Hamburg lies near the mouth of the Elbe.; Hamburg liegt nahe der Mündung der Elbe.
+xc-0132; Brandung; surf; breakers; C1; Natur/Landschaft; We could hear the surf from our tent.; Von unserem Zelt aus konnten wir die Brandung hören.
+xc-0133; Hochebene; plateau; ; C1; Natur/Landschaft; The village lies on a high plateau.; Das Dorf liegt auf einer Hochebene.
+xc-0134; Wildnis; wilderness; wild; B2; Natur/Landschaft; They spent a week alone in the wilderness.; Sie haben eine Woche allein in der Wildnis verbracht.
+xc-0135; Kontinent; continent; ; B1; Natur/Geografie; Africa is the second largest continent.; Afrika ist der zweitgrößte Kontinent.
+xc-0136; Europa; Europe; ; A1; Natur/Geografie; Many students travel around Europe by train.; Viele Studenten reisen mit dem Zug durch Europa.
+xc-0137; Asien; Asia; ; A2; Natur/Geografie; She spent a year travelling in Asia.; Sie ist ein Jahr lang durch Asien gereist.
+xc-0138; Afrika; Africa; ; A1; Natur/Geografie; Elephants live in Africa and Asia.; Elefanten leben in Afrika und Asien.
+xc-0139; Amerika; America; ; A1; Natur/Geografie; My uncle has lived in America for years.; Mein Onkel lebt seit Jahren in Amerika.
+xc-0140; Nordamerika; North America; ; A2; Natur/Geografie; Canada is the largest country in North America.; Kanada ist das größte Land Nordamerikas.
+xc-0141; Südamerika; South America; ; A2; Natur/Geografie; The Amazon is the longest river in South America.; Der Amazonas ist der längste Fluss Südamerikas.
+xc-0142; Arktis; the Arctic; ; B1; Natur/Geografie; The ice in the Arctic is melting quickly.; Das Eis in der Arktis schmilzt schnell.
+xc-0143; Antarktis; Antarctica; the Antarctic; B1; Natur/Geografie; Only scientists live in Antarctica.; In der Antarktis leben nur Wissenschaftler.
+xc-0144; Nordpol; the North Pole; ; B1; Natur/Geografie; Children believe Father Christmas lives at the North Pole.; Kinder glauben, dass der Weihnachtsmann am Nordpol wohnt.
+xc-0145; Südpol; the South Pole; ; B1; Natur/Geografie; Amundsen was the first person to reach the South Pole.; Amundsen erreichte als Erster den Südpol.
+xc-0146; Äquator; the equator; ; B1; Natur/Geografie; It is hot all year round near the equator.; In der Nähe des Äquators ist es das ganze Jahr heiß.
+xc-0147; tropisch; tropical; ; B1; Natur/Geografie; We stayed on a tropical island for two weeks.; Wir waren zwei Wochen auf einer tropischen Insel.
+xc-0148; Kompass; compass; ; B1; Natur/Geografie; Without a compass we would have got lost.; Ohne Kompass hätten wir uns verlaufen.
+xc-0149; Himmelsrichtung; point of the compass; cardinal direction; B2; Natur/Geografie; There are four main points of the compass.; Es gibt vier Haupthimmelsrichtungen.
+xc-0150; nördlich; northern; ; B1; Natur/Geografie; It often rains in the northern part of the country.; Im nördlichen Teil des Landes regnet es oft.
+xc-0151; östlich; eastern; ; B1; Natur/Geografie; They live in a small town in eastern Germany.; Sie wohnen in einer kleinen Stadt im östlichen Deutschland.
+xc-0152; Nordosten; north-east; northeast; B1; Natur/Geografie; The wind is blowing from the north-east.; Der Wind weht aus Nordosten.
+xc-0153; Nordwesten; north-west; northwest; B1; Natur/Geografie; Hamburg lies in the north-west of Germany.; Hamburg liegt im Nordwesten Deutschlands.
+xc-0154; Südosten; south-east; southeast; B1; Natur/Geografie; In winter the sun rises in the south-east.; Im Winter geht die Sonne im Südosten auf.
+xc-0155; Südwesten; south-west; southwest; B1; Natur/Geografie; The storm will reach the south-west tonight.; Der Sturm erreicht heute Nacht den Südwesten.
+xc-0156; Globus; globe; ; B1; Natur/Geografie; She turned the globe and pointed to Brazil.; Sie drehte den Globus und zeigte auf Brasilien.
+xc-0157; Atlas; atlas; ; B1; Natur/Geografie; Look up the country in the atlas.; Schlag das Land im Atlas nach.
+xc-0158; Weltkarte; world map; map of the world; A2; Natur/Geografie; A big world map hangs above my bed.; Über meinem Bett hängt eine große Weltkarte.
+xc-0159; Landkarte; map; ; A2; Natur/Geografie; Can you find the village on the map?; Kannst du das Dorf auf der Landkarte finden?
+xc-0160; Zeitzone; time zone; ; B1; Natur/Geografie; Russia stretches across eleven time zones.; Russland erstreckt sich über elf Zeitzonen.
+xc-0161; Breitengrad; latitude; degree of latitude; B2; Natur/Geografie; The city lies on the same latitude as Rome.; Die Stadt liegt auf demselben Breitengrad wie Rom.
+xc-0162; Längengrad; longitude; degree of longitude; B2; Natur/Geografie; Greenwich lies at zero degrees longitude.; Greenwich liegt auf dem Längengrad null.
+xc-0163; Nordhalbkugel; northern hemisphere; ; B2; Natur/Geografie; Most people live in the northern hemisphere.; Die meisten Menschen leben auf der Nordhalbkugel.
+xc-0164; Südhalbkugel; southern hemisphere; ; B2; Natur/Geografie; In the southern hemisphere Christmas is in summer.; Auf der Südhalbkugel ist Weihnachten im Sommer.
+xc-0165; Deutschland; Germany; ; A1; Reisen/Länder & Nationalitäten; Germany has borders with nine countries.; Deutschland grenzt an neun Länder.
+xc-0166; Österreich; Austria; ; A1; Reisen/Länder & Nationalitäten; We go skiing in Austria every winter.; Wir fahren jeden Winter zum Skifahren nach Österreich.
+xc-0167; Schweiz; Switzerland; ; A1; Reisen/Länder & Nationalitäten; People in Switzerland speak four languages.; In der Schweiz spricht man vier Sprachen.
+xc-0168; Frankreich; France; ; A1; Reisen/Länder & Nationalitäten; We spent our holiday in the south of France.; Wir haben unseren Urlaub in Südfrankreich verbracht.
+xc-0169; Spanien; Spain; ; A1; Reisen/Länder & Nationalitäten; My grandparents live in Spain in the winter.; Meine Großeltern leben im Winter in Spanien.
+xc-0170; Italien; Italy; ; A1; Reisen/Länder & Nationalitäten; Rome is the capital of Italy.; Rom ist die Hauptstadt von Italien.
+xc-0171; Portugal; Portugal; ; A2; Reisen/Länder & Nationalitäten; Lisbon is the largest city in Portugal.; Lissabon ist die größte Stadt Portugals.
+xc-0172; England; England; ; A1; Reisen/Länder & Nationalitäten; She did a language course in England last summer.; Sie hat letzten Sommer einen Sprachkurs in England gemacht.
+xc-0173; Großbritannien; Great Britain; Britain; A2; Reisen/Länder & Nationalitäten; In Great Britain people drive on the left.; In Großbritannien fährt man links.
+xc-0174; Vereinigtes Königreich; the United Kingdom; the UK; B1; Reisen/Länder & Nationalitäten; Northern Ireland is part of the United Kingdom.; Nordirland gehört zum Vereinigten Königreich.
+xc-0175; Schottland; Scotland; ; A2; Reisen/Länder & Nationalitäten; We want to go walking in Scotland next year.; Nächstes Jahr wollen wir in Schottland wandern.
+xc-0176; Irland; Ireland; ; A2; Reisen/Länder & Nationalitäten; It rains a lot in Ireland, so everything is green.; In Irland regnet es viel, deshalb ist alles grün.
+xc-0177; Niederlande; the Netherlands; Holland; A2; Reisen/Länder & Nationalitäten; In the Netherlands almost everyone rides a bike.; In den Niederlanden fährt fast jeder Fahrrad.
+xc-0178; Belgien; Belgium; ; A2; Reisen/Länder & Nationalitäten; Belgium is famous for chocolate and waffles.; Belgien ist berühmt für Schokolade und Waffeln.
+xc-0179; Dänemark; Denmark; ; A2; Reisen/Länder & Nationalitäten; We took the ferry from Denmark to Sweden.; Wir haben die Fähre von Dänemark nach Schweden genommen.
+xc-0180; Schweden; Sweden; ; A2; Reisen/Länder & Nationalitäten; In the north of Sweden it is dark all day in December.; Im Norden Schwedens ist es im Dezember den ganzen Tag dunkel.
+xc-0181; Norwegen; Norway; ; A2; Reisen/Länder & Nationalitäten; Norway has many deep fjords and high mountains.; Norwegen hat viele tiefe Fjorde und hohe Berge.
+xc-0182; Finnland; Finland; ; A2; Reisen/Länder & Nationalitäten; Finland has thousands of lakes.; Finnland hat Tausende von Seen.
+xc-0183; Island; Iceland; ; B1; Reisen/Länder & Nationalitäten; In Iceland you can see volcanoes and glaciers.; In Island kann man Vulkane und Gletscher sehen.
+xc-0184; Polen; Poland; ; A2; Reisen/Länder & Nationalitäten; My colleague comes from a small town in Poland.; Meine Kollegin kommt aus einer kleinen Stadt in Polen.
+xc-0185; Tschechien; the Czech Republic; Czechia; B1; Reisen/Länder & Nationalitäten; Prague is the capital of the Czech Republic.; Prag ist die Hauptstadt von Tschechien.
+xc-0186; Ungarn; Hungary; ; B1; Reisen/Länder & Nationalitäten; The Danube flows through the middle of Hungary.; Die Donau fließt mitten durch Ungarn.
+xc-0187; Griechenland; Greece; ; A2; Reisen/Länder & Nationalitäten; We visited three islands in Greece.; Wir haben in Griechenland drei Inseln besucht.
+xc-0188; Türkei; Turkey; Türkiye; A2; Reisen/Länder & Nationalitäten; Istanbul is the biggest city in Turkey.; Istanbul ist die größte Stadt der Türkei.
+xc-0189; Russland; Russia; ; A2; Reisen/Länder & Nationalitäten; Russia is the largest country in the world.; Russland ist das größte Land der Welt.
+xc-0190; Ukraine; Ukraine; ; B1; Reisen/Länder & Nationalitäten; Kyiv is the capital of Ukraine.; Kiew ist die Hauptstadt der Ukraine.
+xc-0191; Kroatien; Croatia; ; B1; Reisen/Länder & Nationalitäten; Croatia has a beautiful coast with many islands.; Kroatien hat eine schöne Küste mit vielen Inseln.
+xc-0192; USA; the United States; the USA, the United States of America; A1; Reisen/Länder & Nationalitäten; The United States has fifty states.; Die USA haben fünfzig Bundesstaaten.
+xc-0193; Kanada; Canada; ; A2; Reisen/Länder & Nationalitäten; In Canada people speak English and French.; In Kanada spricht man Englisch und Französisch.
+xc-0194; Mexiko; Mexico; ; A2; Reisen/Länder & Nationalitäten; We ate fantastic tacos in Mexico.; In Mexiko haben wir fantastische Tacos gegessen.
+xc-0195; Brasilien; Brazil; ; A2; Reisen/Länder & Nationalitäten; Brazil has won the World Cup five times.; Brasilien hat fünfmal die Weltmeisterschaft gewonnen.
+xc-0196; China; China; ; A1; Reisen/Länder & Nationalitäten; More than a billion people live in China.; In China leben mehr als eine Milliarde Menschen.
+xc-0197; Japan; Japan; ; A1; Reisen/Länder & Nationalitäten; The trains in Japan are always on time.; Die Züge in Japan sind immer pünktlich.
+xc-0198; Indien; India; ; A2; Reisen/Länder & Nationalitäten; Many different languages are spoken in India.; In Indien werden viele verschiedene Sprachen gesprochen.
+xc-0199; Südkorea; South Korea; ; B1; Reisen/Länder & Nationalitäten; Many smartphones are made in South Korea.; Viele Smartphones werden in Südkorea hergestellt.
+xc-0200; Ägypten; Egypt; ; A2; Reisen/Länder & Nationalitäten; We saw the pyramids in Egypt.; In Ägypten haben wir die Pyramiden gesehen.
+xc-0201; Südafrika; South Africa; ; B1; Reisen/Länder & Nationalitäten; South Africa has three capital cities.; Südafrika hat drei Hauptstädte.
+xc-0202; Australien; Australia; ; A2; Reisen/Länder & Nationalitäten; Kangaroos and koalas live in Australia.; In Australien leben Kängurus und Koalas.
+xc-0203; Neuseeland; New Zealand; ; B1; Reisen/Länder & Nationalitäten; After school she wants to work in New Zealand.; Nach der Schule will sie in Neuseeland arbeiten.
+xc-0204; Thailand; Thailand; ; B1; Reisen/Länder & Nationalitäten; We spent three weeks on the beaches of Thailand.; Wir haben drei Wochen an den Stränden Thailands verbracht.
+xc-0205; Heimatland; home country; native country; B1; Reisen/Länder & Nationalitäten; She sends money to her family in her home country.; Sie schickt Geld an ihre Familie in ihrem Heimatland.
+xc-0206; Nachbarland; neighbouring country; neighboring country; B1; Reisen/Länder & Nationalitäten; France is Germany's largest neighbouring country.; Frankreich ist Deutschlands größtes Nachbarland.
+xc-0207; Einheimischer; local; ; B1; Reisen/Länder & Nationalitäten; Ask a local where the best restaurants are.; Frag einen Einheimischen, wo die besten Restaurants sind.
+xc-0208; französisch; French; ; A1; Reisen/Länder & Nationalitäten; We had dinner in a small French restaurant.; Wir haben in einem kleinen französischen Restaurant zu Abend gegessen.
+xc-0209; spanisch; Spanish; ; A1; Reisen/Länder & Nationalitäten; I love Spanish music and food.; Ich liebe spanische Musik und spanisches Essen.
+xc-0210; italienisch; Italian; ; A1; Reisen/Länder & Nationalitäten; She makes the best Italian pasta I know.; Sie macht die beste italienische Pasta, die ich kenne.
+xc-0211; amerikanisch; American; ; A2; Reisen/Länder & Nationalitäten; He watches a lot of American films.; Er schaut viele amerikanische Filme.
+xc-0212; britisch; British; ; A2; Reisen/Länder & Nationalitäten; The British weather is better than its reputation.; Das britische Wetter ist besser als sein Ruf.
+xc-0213; österreichisch; Austrian; ; A2; Reisen/Länder & Nationalitäten; We ate a typical Austrian dessert.; Wir haben eine typisch österreichische Nachspeise gegessen.
+xc-0214; schweizerisch; Swiss; ; B1; Reisen/Länder & Nationalitäten; Swiss trains are known for being on time.; Schweizerische Züge sind für ihre Pünktlichkeit bekannt.
+xc-0215; europäisch; European; ; A2; Reisen/Länder & Nationalitäten; Paris is one of the most visited European cities.; Paris ist eine der meistbesuchten europäischen Städte.
+xc-0216; russisch; Russian; ; A2; Reisen/Länder & Nationalitäten; She is reading a famous Russian novel.; Sie liest einen berühmten russischen Roman.
+xc-0217; chinesisch; Chinese; ; A2; Reisen/Länder & Nationalitäten; Let's order Chinese food tonight.; Lass uns heute Abend chinesisches Essen bestellen.
+xc-0218; japanisch; Japanese; ; A2; Reisen/Länder & Nationalitäten; He bought a Japanese car last year.; Er hat letztes Jahr ein japanisches Auto gekauft.
+xc-0219; griechisch; Greek; ; A2; Reisen/Länder & Nationalitäten; We sat in the sun and ate Greek salad.; Wir saßen in der Sonne und aßen griechischen Salat.
+xc-0220; türkisch; Turkish; ; A2; Reisen/Länder & Nationalitäten; There is a good Turkish bakery round the corner.; Um die Ecke gibt es eine gute türkische Bäckerei.
+xc-0221; niederländisch; Dutch; ; B1; Reisen/Länder & Nationalitäten; Many Dutch tourists come here with their caravans.; Viele niederländische Touristen kommen mit ihren Wohnwagen hierher.
+xc-0222; afrikanisch; African; ; A2; Reisen/Länder & Nationalitäten; The museum has a large collection of African art.; Das Museum hat eine große Sammlung afrikanischer Kunst.
+xc-0223; asiatisch; Asian; ; A2; Reisen/Länder & Nationalitäten; You can buy Asian spices in this shop.; In diesem Laden kann man asiatische Gewürze kaufen.
+xc-0224; bedeckt; overcast; ; B2; Natur/Umwelt/Wetter; The sky was overcast all day.; Der Himmel war den ganzen Tag bedeckt.
+xc-0225; eisig; icy; ; B1; Natur/Umwelt/Wetter; An icy wind was blowing from the east.; Ein eisiger Wind wehte von Osten.
+xc-0226; mild; mild; ; B1; Natur/Umwelt/Wetter; We had a very mild winter this year.; Wir hatten dieses Jahr einen sehr milden Winter.
+xc-0227; kühl; cool; ; A2; Natur/Umwelt/Wetter; The evenings are already getting cool.; Die Abende werden schon kühl.
+xc-0228; schwül; humid; muggy; B2; Natur/Umwelt/Wetter; It is so humid today that I can hardly breathe.; Es ist heute so schwül, dass ich kaum atmen kann.
+xc-0229; Glatteis; black ice; ; B2; Natur/Umwelt/Wetter; Drive carefully, there is black ice on the roads.; Fahr vorsichtig, auf den Straßen ist Glatteis.
+xc-0230; Schneeflocke; snowflake; ; A2; Natur/Umwelt/Wetter; No two snowflakes look exactly the same.; Keine zwei Schneeflocken sehen genau gleich aus.
+xc-0231; Schneemann; snowman; ; A1; Natur/Umwelt/Wetter; The children built a snowman in the garden.; Die Kinder haben im Garten einen Schneemann gebaut.
+xc-0232; Schneeball; snowball; ; A2; Natur/Umwelt/Wetter; He hit me in the back with a snowball.; Er hat mich mit einem Schneeball am Rücken getroffen.
+xc-0233; Schneesturm; snowstorm; blizzard; B1; Natur/Umwelt/Wetter; The snowstorm closed all the roads to the village.; Der Schneesturm hat alle Straßen ins Dorf blockiert.
+xc-0234; Nieselregen; drizzle; ; B2; Natur/Umwelt/Wetter; It was only drizzle, so we went for a walk anyway.; Es war nur Nieselregen, also sind wir trotzdem spazieren gegangen.
+xc-0235; Platzregen; downpour; ; C1; Natur/Umwelt/Wetter; We got completely wet in a sudden downpour.; Wir sind in einem plötzlichen Platzregen völlig nass geworden.
+xc-0236; Regentropfen; raindrop; ; B1; Natur/Umwelt/Wetter; The first raindrops are falling on the window.; Die ersten Regentropfen fallen auf das Fenster.
+xc-0237; Kälte; cold; ; A2; Natur/Umwelt/Wetter; I can't stand the cold in January.; Die Kälte im Januar halte ich nicht aus.
+xc-0238; Wärme; warmth; ; B1; Natur/Umwelt/Wetter; The cat enjoys the warmth of the stove.; Die Katze genießt die Wärme des Ofens.
+xc-0239; Sonnenschein; sunshine; ; A2; Natur/Umwelt/Wetter; We had a week of sunshine on holiday.; Im Urlaub hatten wir eine Woche Sonnenschein.
+xc-0240; Unwetter; severe weather; storm; B2; Natur/Umwelt/Wetter; The severe weather caused floods in the south.; Das Unwetter hat im Süden Überschwemmungen verursacht.
+xc-0241; Wetterbericht; weather report; ; A2; Natur/Umwelt/Wetter; According to the weather report it will rain tomorrow.; Laut Wetterbericht regnet es morgen.
+xc-0242; Thermometer; thermometer; ; B1; Natur/Umwelt/Wetter; The thermometer shows minus ten degrees.; Das Thermometer zeigt minus zehn Grad.
+xc-0243; Schatten (kühler Ort); shade; ; A2; Natur/Umwelt/Wetter; Let's sit in the shade, it's too hot here.; Lass uns in den Schatten setzen, hier ist es zu heiß.
+xc-0244; Schatten (Umriss); shadow; ; B1; Natur/Umwelt/Wetter; In the evening our shadows grow very long.; Am Abend werden unsere Schatten sehr lang.
+xc-0245; donnern; to thunder; ; B1; Natur/Umwelt/Wetter; It thundered all night and nobody could sleep.; Es hat die ganze Nacht gedonnert, und keiner konnte schlafen.
+xc-0246; hageln; to hail; ; B2; Natur/Umwelt/Wetter; Suddenly it started to hail in the middle of summer.; Mitten im Sommer fing es plötzlich an zu hageln.
+xc-0247; tauen; to thaw; ; B2; Natur/Umwelt/Wetter; The snow is thawing and the paths are wet.; Der Schnee taut, und die Wege sind nass.
+xc-0248; Kältewelle; cold snap; cold spell; C1; Natur/Umwelt/Wetter; A cold snap is expected next week.; Für nächste Woche wird eine Kältewelle erwartet.
+xc-0249; Sonnenaufgang; sunrise; ; A2; Natur/Umwelt/Wetter; We got up early to watch the sunrise.; Wir sind früh aufgestanden, um den Sonnenaufgang anzuschauen.
+xc-0250; Sonnenuntergang; sunset; ; A2; Natur/Umwelt/Wetter; The sunset over the sea was beautiful.; Der Sonnenuntergang über dem Meer war wunderschön.
+xc-0251; Mondschein; moonlight; ; B1; Natur/Umwelt/Wetter; We walked home in the moonlight.; Wir sind im Mondschein nach Hause gegangen.
+xc-0252; Vollmond; full moon; ; B1; Natur/Umwelt/Wetter; There is a full moon tonight.; Heute Nacht ist Vollmond.
+xc-0253; Sternschnuppe; shooting star; ; B2; Natur/Umwelt/Wetter; Look, a shooting star, make a wish!; Schau, eine Sternschnuppe, wünsch dir was!
+xc-0254; Brise; breeze; ; B2; Natur/Umwelt/Wetter; A cool breeze was blowing from the sea.; Vom Meer wehte eine kühle Brise.
+xc-0255; Sonnenstrahl; ray of sunshine; sunbeam; B1; Natur/Umwelt/Wetter; The first rays of sunshine came through the clouds.; Die ersten Sonnenstrahlen kamen durch die Wolken.
+xc-0256; Gefrierpunkt; freezing point; ; B2; Natur/Umwelt/Wetter; Tonight temperatures will fall below freezing point.; Heute Nacht fallen die Temperaturen unter den Gefrierpunkt.
+xc-0257; Luftdruck; air pressure; atmospheric pressure; B2; Natur/Umwelt/Wetter; Falling air pressure often means rain is coming.; Fallender Luftdruck bedeutet oft, dass Regen kommt.
+xc-0258; Hochdruckgebiet; area of high pressure; high-pressure area; C1; Natur/Umwelt/Wetter; An area of high pressure will bring sunny days.; Ein Hochdruckgebiet bringt sonnige Tage.
+xc-0259; Tiefdruckgebiet; area of low pressure; low-pressure area; C1; Natur/Umwelt/Wetter; An area of low pressure is moving in from the Atlantic.; Vom Atlantik zieht ein Tiefdruckgebiet heran.
+xc-0260; Wetterumschwung; change in the weather; ; C1; Natur/Umwelt/Wetter; My knee always hurts before a change in the weather.; Vor einem Wetterumschwung tut mir immer das Knie weh.
+xc-0261; Morgengrauen; dawn; daybreak; C1; Natur/Umwelt/Wetter; The fishermen set off at dawn.; Die Fischer fuhren im Morgengrauen los.
+xc-0262; Orkan; hurricane; ; B2; Natur/Umwelt/Naturkatastrophen; The hurricane tore the roofs off many houses.; Der Orkan hat vielen Häusern die Dächer abgedeckt.
+xc-0263; Hurrikan; hurricane; ; B1; Natur/Umwelt/Naturkatastrophen; The hurricane is moving towards the coast of Florida.; Der Hurrikan bewegt sich auf die Küste Floridas zu.
+xc-0264; Tornado; tornado; ; B1; Natur/Umwelt/Naturkatastrophen; A tornado destroyed several farms last night.; Ein Tornado hat letzte Nacht mehrere Bauernhöfe zerstört.
+xc-0265; Lawine; avalanche; ; B2; Natur/Umwelt/Naturkatastrophen; Two skiers were buried by an avalanche.; Zwei Skifahrer wurden von einer Lawine verschüttet.
+xc-0266; Erdbeben; earthquake; ; B1; Natur/Umwelt/Naturkatastrophen; The earthquake lasted less than a minute.; Das Erdbeben dauerte weniger als eine Minute.
+xc-0267; Vulkanausbruch; volcanic eruption; ; B2; Natur/Umwelt/Naturkatastrophen; After the volcanic eruption no planes could fly.; Nach dem Vulkanausbruch konnten keine Flugzeuge fliegen.
+xc-0268; Tsunami; tsunami; ; B2; Natur/Umwelt/Naturkatastrophen; The tsunami flooded the whole coastline.; Der Tsunami überschwemmte die ganze Küste.
+xc-0269; Naturkatastrophe; natural disaster; ; B1; Natur/Umwelt/Naturkatastrophen; Floods are the most common natural disaster here.; Überschwemmungen sind hier die häufigste Naturkatastrophe.
+xc-0270; Hochwasser; flood; flooding; B1; Natur/Umwelt/Naturkatastrophen; After days of rain the town is fighting a flood.; Nach tagelangem Regen kämpft die Stadt gegen das Hochwasser.
+xc-0271; Sturmflut; storm surge; storm tide; C1; Natur/Umwelt/Naturkatastrophen; The dykes protect the coast from storm surges.; Die Deiche schützen die Küste vor Sturmfluten.
+xc-0272; Müllabfuhr; rubbish collection; refuse collection, waste collection; B2; Natur/Umwelt/Recycling; The rubbish collection comes every Tuesday.; Die Müllabfuhr kommt jeden Dienstag.
+xc-0273; Biomüll; organic waste; biowaste; B1; Natur/Umwelt/Recycling; Vegetable peel goes in the organic waste.; Gemüseschalen kommen in den Biomüll.
+xc-0274; Restmüll; general waste; residual waste; C1; Natur/Umwelt/Recycling; Nappies have to go in the general waste.; Windeln müssen in den Restmüll.
+xc-0275; Sperrmüll; bulky waste; bulky rubbish; B2; Natur/Umwelt/Recycling; We put the old sofa out for the bulky waste collection.; Wir haben das alte Sofa zum Sperrmüll gestellt.
+xc-0276; Altpapier; waste paper; used paper; B1; Natur/Umwelt/Recycling; We take the waste paper to the container every week.; Wir bringen das Altpapier jede Woche zum Container.
+xc-0277; Plastikmüll; plastic waste; ; B1; Natur/Umwelt/Recycling; Tons of plastic waste end up in the sea.; Tonnen von Plastikmüll landen im Meer.
+xc-0278; Mikroplastik; microplastics; ; B2; Natur/Umwelt/Recycling; Microplastics have been found even in drinking water.; Mikroplastik wurde sogar im Trinkwasser gefunden.
+xc-0279; Mehrwegflasche; reusable bottle; ; B2; Natur/Umwelt/Recycling; This shop only sells milk in reusable bottles.; Dieser Laden verkauft Milch nur in Mehrwegflaschen.
+xc-0280; Pfandflasche; deposit bottle; returnable bottle; B2; Natur/Umwelt/Recycling; I take my deposit bottles back to the supermarket.; Ich bringe meine Pfandflaschen in den Supermarkt zurück.
+xc-0281; Elektroschrott; electronic waste; e-waste; B2; Natur/Umwelt/Recycling; Old phones must be disposed of as electronic waste.; Alte Handys müssen als Elektroschrott entsorgt werden.
+xc-0282; Mülldeponie; landfill; landfill site, rubbish dump; B2; Natur/Umwelt/Recycling; Most of our rubbish still ends up in landfill.; Der Großteil unseres Mülls landet immer noch auf der Mülldeponie.
+xc-0283; Sondermüll; hazardous waste; ; C1; Natur/Umwelt/Recycling; Old paint and batteries count as hazardous waste.; Alte Farbe und Batterien gelten als Sondermüll.
+xc-0284; Wegwerfgesellschaft; throwaway society; ; C1; Natur/Umwelt/Recycling; We live in a throwaway society.; Wir leben in einer Wegwerfgesellschaft.
+xc-0285; biologisch abbaubar; biodegradable; ; C1; Natur/Umwelt/Recycling; These bags are completely biodegradable.; Diese Tüten sind vollständig biologisch abbaubar.
+xc-0286; Verschwendung; waste; ; B1; Natur/Umwelt/Recycling; Throwing away good food is a terrible waste.; Gutes Essen wegzuwerfen ist eine schlimme Verschwendung.
+xc-0287; verschwenden; to waste; ; B1; Natur/Umwelt/Recycling; Don't waste water when you brush your teeth.; Verschwende beim Zähneputzen kein Wasser.
+xc-0288; Kompost; compost; ; B2; Natur/Umwelt/Recycling; We put our fruit peel on the compost.; Wir werfen unsere Obstschalen auf den Kompost.
+xc-0289; Solaranlage; solar power system; solar panels, solar installation; B2; Natur/Umwelt/Energie; We had a solar power system put on our roof.; Wir haben uns eine Solaranlage aufs Dach bauen lassen.
+xc-0290; Windrad; wind turbine; ; B2; Natur/Umwelt/Energie; A new wind turbine is being built on the hill.; Auf dem Hügel wird ein neues Windrad gebaut.
+xc-0291; Atomkraftwerk; nuclear power station; nuclear power plant; B2; Natur/Umwelt/Energie; Germany has shut down its last nuclear power station.; Deutschland hat sein letztes Atomkraftwerk abgeschaltet.
+xc-0292; Kernenergie; nuclear energy; nuclear power; B2; Natur/Umwelt/Energie; Some countries still rely heavily on nuclear energy.; Manche Länder setzen noch stark auf Kernenergie.
+xc-0293; Ökostrom; green electricity; green power; B2; Natur/Umwelt/Energie; We switched to green electricity last year.; Wir sind letztes Jahr auf Ökostrom umgestiegen.
+xc-0294; Erdwärme; geothermal energy; ; C1; Natur/Umwelt/Energie; Iceland heats many homes with geothermal energy.; Island heizt viele Wohnungen mit Erdwärme.
+xc-0295; Stromausfall; power cut; power failure, blackout; B2; Natur/Umwelt/Energie; During the storm there was a power cut for hours.; Während des Sturms gab es stundenlang einen Stromausfall.
+xc-0296; fossile Brennstoffe; fossil fuels; ; B2; Natur/Umwelt/Energie; Coal, oil and gas are fossil fuels.; Kohle, Öl und Gas sind fossile Brennstoffe.
+xc-0297; energiesparend; energy-saving; energy-efficient; B2; Natur/Umwelt/Energie; The new fridge is much more energy-saving.; Der neue Kühlschrank ist viel energiesparender.
+xc-0298; Ölpest; oil spill; ; C1; Natur/Umwelt/Umweltschutz; The oil spill killed thousands of seabirds.; Die Ölpest tötete Tausende von Seevögeln.
+xc-0299; Abwasser; sewage; waste water, wastewater; B2; Natur/Umwelt/Umweltschutz; Untreated sewage was flowing into the river.; Ungeklärtes Abwasser floss in den Fluss.
+xc-0300; Kläranlage; sewage works; sewage treatment plant; C1; Natur/Umwelt/Umweltschutz; The town is building a new sewage works.; Die Stadt baut eine neue Kläranlage.
+xc-0301; Trinkwasser; drinking water; ; B1; Natur/Umwelt/Umweltschutz; Millions of people have no clean drinking water.; Millionen Menschen haben kein sauberes Trinkwasser.
+xc-0302; Lärmbelästigung; noise pollution; ; C1; Natur/Umwelt/Umweltschutz; People near the airport complain about noise pollution.; Die Leute in der Nähe des Flughafens klagen über Lärmbelästigung.
+xc-0303; Pestizid; pesticide; ; C1; Natur/Umwelt/Umweltschutz; Pesticides are harming bees and other insects.; Pestizide schaden Bienen und anderen Insekten.
+xc-0304; ökologisch; ecological; ; B2; Natur/Umwelt/Umweltschutz; The new road would cause serious ecological damage.; Die neue Straße würde schwere ökologische Schäden verursachen.
+xc-0305; umweltschädlich; harmful to the environment; environmentally harmful, bad for the environment; B2; Natur/Umwelt/Umweltschutz; Many cleaning products are harmful to the environment.; Viele Putzmittel sind umweltschädlich.
+xc-0306; umweltbewusst; environmentally conscious; environmentally aware, eco-conscious; B2; Natur/Umwelt/Umweltschutz; Young people are often more environmentally conscious.; Junge Leute sind oft umweltbewusster.
+xc-0307; Umweltschützer; environmentalist; ; B2; Natur/Umwelt/Umweltschutz; Environmentalists are protesting against the new motorway.; Umweltschützer protestieren gegen die neue Autobahn.
+xc-0308; Tierschutz; animal welfare; animal protection; B2; Natur/Umwelt/Umweltschutz; She works for an animal welfare organisation.; Sie arbeitet für eine Tierschutzorganisation.
+xc-0309; Tierversuch; animal experiment; animal test; C1; Natur/Umwelt/Umweltschutz; This shampoo was developed without animal experiments.; Dieses Shampoo wurde ohne Tierversuche entwickelt.
+xc-0310; Luftverschmutzung; air pollution; ; B1; Natur/Umwelt/Umweltschutz; Air pollution is a big problem in many cities.; Luftverschmutzung ist in vielen Städten ein großes Problem.
+xc-0311; Klimakrise; climate crisis; ; B2; Natur/Umwelt/Klima & Klimawandel; The climate crisis affects every country in the world.; Die Klimakrise betrifft jedes Land der Welt.
+xc-0312; Flamme; flame; ; B1; Natur/Umwelt/Natur; The flames could be seen from far away.; Die Flammen waren von weitem zu sehen.
+xc-0313; Hochhaus; high-rise building; high-rise, tower block; B1; Alltag/Stadt/Gebäude; They live on the tenth floor of a high-rise building.; Sie wohnen im zehnten Stock eines Hochhauses.
+xc-0314; Wolkenkratzer; skyscraper; ; B1; Alltag/Stadt/Gebäude; New York is famous for its skyscrapers.; New York ist berühmt für seine Wolkenkratzer.
+xc-0315; Polizeiwache; police station; ; B1; Alltag/Stadt/Gebäude; We reported the stolen bike at the police station.; Wir haben das gestohlene Fahrrad auf der Polizeiwache gemeldet.
+xc-0316; Friedhof; cemetery; graveyard; B2; Alltag/Stadt/Gebäude; My grandparents are buried in the village cemetery.; Meine Großeltern liegen auf dem Friedhof im Dorf begraben.
+xc-0317; Kathedrale; cathedral; ; B1; Alltag/Stadt/Gebäude; The cathedral took more than two hundred years to build.; Der Bau der Kathedrale dauerte mehr als zweihundert Jahre.
+xc-0318; Burg; castle; ; A2; Alltag/Stadt/Gebäude; An old castle stands on the hill above the town.; Auf dem Hügel über der Stadt steht eine alte Burg.
+xc-0319; Palast; palace; ; B1; Alltag/Stadt/Gebäude; The king lived in a huge palace.; Der König lebte in einem riesigen Palast.
+xc-0320; Ruine; ruin; ruins; B1; Alltag/Stadt/Gebäude; Only a ruin is left of the old monastery.; Von dem alten Kloster ist nur noch eine Ruine übrig.
+xc-0321; Statue; statue; ; B1; Alltag/Stadt/Gebäude; There is a statue of the poet in the square.; Auf dem Platz steht eine Statue des Dichters.
+xc-0322; Kirchturm; church tower; steeple; B2; Alltag/Stadt/Gebäude; You can see the church tower from every street.; Den Kirchturm sieht man von jeder Straße aus.
+xc-0323; Wahrzeichen; landmark; ; B2; Alltag/Stadt/Gebäude; The Eiffel Tower is the landmark of Paris.; Der Eiffelturm ist das Wahrzeichen von Paris.
+xc-0324; Reihenhaus; terraced house; row house; B2; Alltag/Stadt/Gebäude; They bought a small terraced house near the station.; Sie haben ein kleines Reihenhaus in der Nähe des Bahnhofs gekauft.
+xc-0325; Einfamilienhaus; detached house; single-family house; B2; Alltag/Stadt/Gebäude; Many families dream of a detached house with a garden.; Viele Familien träumen von einem Einfamilienhaus mit Garten.
+xc-0326; Wohnblock; block of flats; apartment block; B2; Alltag/Stadt/Gebäude; They grew up in a large block of flats.; Sie sind in einem großen Wohnblock aufgewachsen.
+xc-0327; Abriss; demolition; ; C1; Alltag/Stadt/Gebäude; The demolition of the old factory starts next year.; Der Abriss der alten Fabrik beginnt nächstes Jahr.
+xc-0328; Botschaft (Vertretung); embassy; ; B1; Alltag/Stadt/Gebäude; You can get a new passport at the embassy.; Einen neuen Pass bekommt man bei der Botschaft.
+xc-0329; Marktplatz; market square; marketplace; A2; Alltag/Stadt/Straßen & Plätze; There is a farmers' market on the market square every Saturday.; Jeden Samstag ist auf dem Marktplatz ein Bauernmarkt.
+xc-0330; Gasse; alley; alleyway, lane; B2; Alltag/Stadt/Straßen & Plätze; We got lost in the narrow alleys of the old town.; Wir haben uns in den engen Gassen der Altstadt verlaufen.
+xc-0331; Hauptstraße; main road; main street, high street; A2; Alltag/Stadt/Straßen & Plätze; The bakery is on the main road next to the bank.; Die Bäckerei ist an der Hauptstraße neben der Bank.
+xc-0332; Seitenstraße; side street; ; B1; Alltag/Stadt/Straßen & Plätze; It is quieter to park in a side street.; In einer Seitenstraße parkt man ruhiger.
+xc-0333; Sackgasse (Straße); dead end; cul-de-sac; B2; Alltag/Stadt/Straßen & Plätze; We live at the end of a quiet dead end.; Wir wohnen am Ende einer ruhigen Sackgasse.
+xc-0334; Straßenlaterne; street lamp; streetlight; B2; Alltag/Stadt/Straßen & Plätze; The street lamps come on at six o'clock.; Die Straßenlaternen gehen um sechs Uhr an.
+xc-0335; Bürgersteig; pavement; sidewalk; B1; Alltag/Stadt/Straßen & Plätze; Please don't ride your bike on the pavement.; Bitte fahr nicht mit dem Fahrrad auf dem Bürgersteig.
+xc-0336; Hausnummer; house number; ; A2; Alltag/Stadt/Straßen & Plätze; What is your house number?; Wie ist deine Hausnummer?
+xc-0337; Sandkasten; sandpit; sandbox; A2; Alltag/Stadt/Straßen & Plätze; The little ones are playing in the sandpit.; Die Kleinen spielen im Sandkasten.
+xc-0338; Schaukel; swing; ; A2; Alltag/Stadt/Straßen & Plätze; My daughter could stay on the swing for hours.; Meine Tochter könnte stundenlang auf der Schaukel bleiben.
+xc-0339; Fußballplatz; football pitch; football field; A2; Alltag/Stadt/Straßen & Plätze; The boys play on the football pitch behind the school.; Die Jungen spielen auf dem Fußballplatz hinter der Schule.
+xc-0340; Kleinstadt; small town; ; A2; Alltag/Stadt/Stadtleben; Everyone knows each other in a small town.; In einer Kleinstadt kennt jeder jeden.
+xc-0341; Metropole; metropolis; ; C1; Alltag/Stadt/Stadtleben; Tokyo is a huge metropolis with millions of people.; Tokio ist eine riesige Metropole mit Millionen von Menschen.
+xc-0342; Stadtrand; outskirts; edge of town; B2; Alltag/Stadt/Stadtleben; The new stadium is on the outskirts of the city.; Das neue Stadion liegt am Stadtrand.
+xc-0343; Vorort; suburb; ; B1; Alltag/Stadt/Stadtleben; They moved to a quiet suburb of Munich.; Sie sind in einen ruhigen Vorort von München gezogen.
+xc-0344; Stadtteil; district; part of town; B1; Alltag/Stadt/Stadtleben; Which district of Berlin do you live in?; In welchem Stadtteil von Berlin wohnst du?
+xc-0345; Stadtviertel; quarter; neighbourhood; B1; Alltag/Stadt/Stadtleben; The old harbour quarter is full of bars and cafés.; Das alte Hafenviertel ist voller Bars und Cafés.
+xc-0346; Innenstadt; city centre; town centre; A2; Alltag/Stadt/Stadtleben; Cars are not allowed in the city centre.; In der Innenstadt sind keine Autos erlaubt.
+xc-0347; Nachbarschaft; neighbourhood; ; B1; Alltag/Stadt/Stadtleben; There are lots of families with children in our neighbourhood.; In unserer Nachbarschaft gibt es viele Familien mit Kindern.
+xc-0348; Wohngebiet; residential area; ; B2; Alltag/Stadt/Stadtleben; The speed limit in residential areas is thirty.; In Wohngebieten gilt Tempo dreißig.
+xc-0349; ländlich; rural; ; B1; Alltag/Stadt/Stadtleben; Buses rarely run in rural areas.; In ländlichen Gegenden fahren Busse nur selten.
+xc-0350; städtisch; urban; ; B2; Alltag/Stadt/Stadtleben; More and more people live in urban areas.; Immer mehr Menschen leben in städtischen Gebieten.
+xc-0351; Einwohner; inhabitant; resident; B1; Alltag/Stadt/Stadtleben; The town has about twenty thousand inhabitants.; Die Stadt hat etwa zwanzigtausend Einwohner.
+xc-0352; Feuerwehr; fire brigade; fire service, fire department; A2; Alltag/Stadt/Stadtleben; The fire brigade arrived within five minutes.; Die Feuerwehr war innerhalb von fünf Minuten da.
+xc-0353; Ballungsraum; conurbation; metropolitan area, urban area; C1; Alltag/Stadt/Stadtleben; The Ruhr is one of the largest conurbations in Europe.; Das Ruhrgebiet ist einer der größten Ballungsräume Europas.
+xc-0354; Bevölkerungsdichte; population density; ; C1; Alltag/Stadt/Stadtleben; The population density in the capital is very high.; Die Bevölkerungsdichte in der Hauptstadt ist sehr hoch.
+xc-0355; Fahrzeug; vehicle; ; B1; Reisen/Verkehr/Fahrzeuge; This vehicle is not allowed on the motorway.; Dieses Fahrzeug darf nicht auf die Autobahn.
+xc-0356; Krankenwagen; ambulance; ; A2; Reisen/Verkehr/Fahrzeuge; Call an ambulance, quickly!; Ruf schnell einen Krankenwagen!
+xc-0357; Feuerwehrauto; fire engine; fire truck; A2; Reisen/Verkehr/Fahrzeuge; My son wants a red fire engine for his birthday.; Mein Sohn wünscht sich zum Geburtstag ein rotes Feuerwehrauto.
+xc-0358; Hubschrauber; helicopter; ; B1; Reisen/Verkehr/Fahrzeuge; The injured climber was taken to hospital by helicopter.; Der verletzte Bergsteiger wurde mit dem Hubschrauber ins Krankenhaus gebracht.
+xc-0359; Boot; boat; ; A1; Reisen/Verkehr/Fahrzeuge; We rented a boat and rowed across the lake.; Wir haben ein Boot gemietet und sind über den See gerudert.
+xc-0360; Kreuzfahrtschiff; cruise ship; ; B1; Reisen/Verkehr/Fahrzeuge; A huge cruise ship is in the harbour today.; Heute liegt ein riesiges Kreuzfahrtschiff im Hafen.
+xc-0361; Wohnmobil; camper van; motorhome; B1; Reisen/Verkehr/Fahrzeuge; We travelled round Norway in a camper van.; Wir sind mit dem Wohnmobil durch Norwegen gereist.
+xc-0362; Wohnwagen; caravan; ; B1; Reisen/Verkehr/Fahrzeuge; The traffic was slow because of all the caravans.; Wegen der vielen Wohnwagen ging es nur langsam voran.
+xc-0363; Lieferwagen; van; delivery van; B1; Reisen/Verkehr/Fahrzeuge; A delivery van is blocking our drive.; Ein Lieferwagen blockiert unsere Einfahrt.
+xc-0364; Fahrradschloss; bike lock; bicycle lock; B1; Reisen/Verkehr/Fahrrad; Always use a good bike lock in the city.; Benutz in der Stadt immer ein gutes Fahrradschloss.
+xc-0365; Sattel; saddle; ; B1; Reisen/Verkehr/Fahrrad; The saddle is too high for my daughter.; Der Sattel ist zu hoch für meine Tochter.
+xc-0366; Lenker; handlebars; ; B2; Reisen/Verkehr/Fahrrad; Hold the handlebars with both hands.; Halt den Lenker mit beiden Händen fest.
+xc-0367; Platten; flat tyre; puncture, flat; B2; Reisen/Verkehr/Fahrrad; I'm late because I had a flat tyre.; Ich komme zu spät, weil ich einen Platten hatte.
+xc-0368; Radfahrer; cyclist; ; B1; Reisen/Verkehr/Fahrrad; Cyclists should always wear a helmet.; Radfahrer sollten immer einen Helm tragen.
+xc-0369; Elektrofahrrad; electric bike; e-bike; B1; Reisen/Verkehr/Fahrrad; With an electric bike the hills are no problem.; Mit einem Elektrofahrrad sind die Hügel kein Problem.
+xc-0370; E-Roller; electric scooter; e-scooter; B1; Reisen/Verkehr/Fahrrad; You can rent an electric scooter with an app.; Einen E-Roller kann man mit einer App mieten.
+xc-0371; Radtour; bike ride; bike tour, cycling tour; A2; Reisen/Verkehr/Fahrrad; On Sunday we went on a long bike ride along the river.; Am Sonntag haben wir eine lange Radtour am Fluss entlang gemacht.
+xc-0372; Hupe; horn; car horn; B1; Reisen/Verkehr/Auto; The driver behind us pressed the horn.; Der Fahrer hinter uns drückte auf die Hupe.
+xc-0373; Lenkrad; steering wheel; ; B1; Reisen/Verkehr/Auto; In Britain the steering wheel is on the right.; In Großbritannien ist das Lenkrad rechts.
+xc-0374; lenken (Auto); to steer; ; B1; Reisen/Verkehr/Auto; It's hard to steer the car on ice.; Auf Eis ist es schwer, das Auto zu lenken.
+xc-0375; Gang (Auto); gear; ; B2; Reisen/Verkehr/Auto; Put the car in first gear and drive off slowly.; Leg den ersten Gang ein und fahr langsam los.
+xc-0376; Windschutzscheibe; windscreen; windshield; B2; Reisen/Verkehr/Auto; A stone has cracked the windscreen.; Ein Stein hat die Windschutzscheibe beschädigt.
+xc-0377; Scheinwerfer; headlight; headlamp; B2; Reisen/Verkehr/Auto; Turn on your headlights, it's getting dark.; Mach die Scheinwerfer an, es wird dunkel.
+xc-0378; rückwärts fahren; to reverse; to back up; B1; Reisen/Verkehr/Auto; She reversed carefully out of the garage.; Sie ist vorsichtig rückwärts aus der Garage gefahren.
+xc-0379; Starthilfe; jump start; ; C1; Reisen/Verkehr/Auto; My battery is flat, can you give me a jump start?; Meine Batterie ist leer, kannst du mir Starthilfe geben?
+xc-0380; Fahrschule; driving school; ; A2; Reisen/Verkehr/Auto; He signed up at a driving school on his seventeenth birthday.; An seinem siebzehnten Geburtstag hat er sich in der Fahrschule angemeldet.
+xc-0381; Autofahrer; driver; motorist, car driver; B1; Reisen/Verkehr/Auto; Drivers must stop at the red light.; Autofahrer müssen an der roten Ampel halten.
+xc-0382; Beifahrer; front-seat passenger; passenger; B1; Reisen/Verkehr/Auto; The front-seat passenger read the map for me.; Der Beifahrer hat für mich die Karte gelesen.
+xc-0383; Autovermietung; car hire; car rental, car hire company; B1; Reisen/Verkehr/Auto; The car hire desk is next to the exit.; Der Schalter der Autovermietung ist neben dem Ausgang.
+xc-0384; Fahrlehrer; driving instructor; ; B1; Reisen/Verkehr/Auto; My driving instructor stays calm even when I make mistakes.; Mein Fahrlehrer bleibt ruhig, auch wenn ich Fehler mache.
+xc-0385; Lkw-Fahrer; lorry driver; truck driver; B1; Reisen/Verkehr/Auto; The lorry driver has to take a break every few hours.; Der Lkw-Fahrer muss alle paar Stunden eine Pause machen.
+xc-0386; Taxifahrer; taxi driver; cab driver; A2; Reisen/Verkehr/Auto; The taxi driver knew a quicker way to the station.; Der Taxifahrer kannte einen schnelleren Weg zum Bahnhof.
+xc-0387; Navi; satnav; navigation system; B1; Reisen/Verkehr/Auto; The satnav sent us down a tiny farm track.; Das Navi hat uns auf einen winzigen Feldweg geschickt.
+xc-0388; rasen; to speed; ; B2; Reisen/Verkehr/Auto; He was caught speeding through the village.; Er wurde erwischt, als er durch das Dorf raste.
+xc-0389; Ausfahrt; exit; turn-off; B1; Reisen/Verkehr/Straße & Regeln; Take the next exit and follow the signs.; Nimm die nächste Ausfahrt und folge den Schildern.
+xc-0390; Kurve; bend; curve; B1; Reisen/Verkehr/Straße & Regeln; Slow down, there is a sharp bend ahead.; Fahr langsamer, da vorne kommt eine scharfe Kurve.
+xc-0391; überqueren; to cross; ; B1; Reisen/Verkehr/Straße & Regeln; Look both ways before you cross the road.; Schau nach links und rechts, bevor du die Straße überquerst.
+xc-0392; Schlagloch; pothole; ; B2; Reisen/Verkehr/Straße & Regeln; The road is full of potholes after the winter.; Nach dem Winter ist die Straße voller Schlaglöcher.
+xc-0393; Leitplanke; crash barrier; guardrail; C1; Reisen/Verkehr/Straße & Regeln; The car skidded and hit the crash barrier.; Das Auto kam ins Schleudern und prallte gegen die Leitplanke.
+xc-0394; Wegweiser; signpost; ; B2; Reisen/Verkehr/Wegbeschreibung; Follow the signposts to the castle.; Folgt den Wegweisern zur Burg.
+xc-0395; Verkehrsteilnehmer; road user; ; C1; Reisen/Verkehr/Straße & Regeln; Cyclists are road users just like drivers.; Radfahrer sind Verkehrsteilnehmer genau wie Autofahrer.
+xc-0396; Blitzer; speed camera; ; B2; Reisen/Verkehr/Straße & Regeln; There is a speed camera at the end of the village.; Am Ortsende steht ein Blitzer.
+xc-0397; Zusammenstoß; collision; crash; B2; Reisen/Verkehr/Straße & Regeln; Nobody was hurt in the collision.; Bei dem Zusammenstoß wurde niemand verletzt.
+xc-0398; Auffahrunfall; rear-end collision; ; C1; Reisen/Verkehr/Straße & Regeln; There was a rear-end collision in the traffic jam.; Im Stau gab es einen Auffahrunfall.
+xc-0399; Parklücke; parking space; ; B1; Reisen/Verkehr/Straße & Regeln; It took us twenty minutes to find a parking space.; Wir haben zwanzig Minuten gebraucht, um eine Parklücke zu finden.
+xc-0400; Gegenverkehr; oncoming traffic; ; B2; Reisen/Verkehr/Straße & Regeln; Don't overtake here, there's too much oncoming traffic.; Überhol hier nicht, es gibt zu viel Gegenverkehr.
+xc-0401; Rastplatz; lay-by; rest area; B2; Reisen/Verkehr/Straße & Regeln; Let's stop at the next lay-by and have a coffee.; Lass uns am nächsten Rastplatz anhalten und einen Kaffee trinken.
+xc-0402; Abkürzung (Weg); shortcut; short cut; B1; Reisen/Verkehr/Wegbeschreibung; We took a shortcut through the park.; Wir haben eine Abkürzung durch den Park genommen.
+xc-0403; Arbeitsweg; commute; journey to work, way to work; B2; Reisen/Verkehr/Straße & Regeln; My commute takes forty minutes by train.; Mein Arbeitsweg dauert mit dem Zug vierzig Minuten.
+xc-0404; Reisebus; coach; ; B1; Reisen/Verkehr/Bus & Bahn; The whole class went to London by coach.; Die ganze Klasse ist mit dem Reisebus nach London gefahren.
+xc-0405; Fernbus; long-distance coach; long-distance bus; B1; Reisen/Verkehr/Bus & Bahn; The long-distance coach is cheaper than the train.; Der Fernbus ist billiger als der Zug.
+xc-0406; Abteil; compartment; ; B2; Reisen/Verkehr/Bus & Bahn; We had a whole compartment to ourselves.; Wir hatten ein ganzes Abteil für uns.
+xc-0407; Schwarzfahrer; fare dodger; ; B2; Reisen/Verkehr/Bus & Bahn; Fare dodgers have to pay a fine of sixty euros.; Schwarzfahrer müssen sechzig Euro Strafe zahlen.
+xc-0408; Monatskarte; monthly ticket; monthly pass; B1; Reisen/Verkehr/Bus & Bahn; A monthly ticket is cheaper if you travel every day.; Eine Monatskarte ist günstiger, wenn man jeden Tag fährt.
+xc-0409; Einzelfahrschein; single ticket; one-way ticket; B1; Reisen/Verkehr/Bus & Bahn; A single ticket costs three euros.; Ein Einzelfahrschein kostet drei Euro.
+xc-0410; Fahrpreis; fare; ticket price; B1; Reisen/Verkehr/Bus & Bahn; Children under six travel without paying a fare.; Kinder unter sechs Jahren zahlen keinen Fahrpreis.
+xc-0411; Hauptbahnhof; main station; central station; A2; Reisen/Verkehr/Bus & Bahn; Let's meet at the main station at ten.; Treffen wir uns um zehn am Hauptbahnhof.
+xc-0412; Sitzplatzreservierung; seat reservation; ; B1; Reisen/Verkehr/Bus & Bahn; At Christmas you really need a seat reservation.; An Weihnachten braucht man unbedingt eine Sitzplatzreservierung.
+xc-0413; erste Klasse; first class; ; A2; Reisen/Verkehr/Bus & Bahn; We treated ourselves and travelled first class.; Wir haben uns etwas gegönnt und sind erste Klasse gefahren.
+xc-0414; Busfahrer; bus driver; ; A2; Reisen/Verkehr/Bus & Bahn; The bus driver waited for me at the stop.; Der Busfahrer hat an der Haltestelle auf mich gewartet.
+xc-0415; Schalter (Bahnhof); ticket office; counter, ticket counter; B1; Reisen/Verkehr/Bus & Bahn; You can buy a ticket at the ticket office or online.; Eine Fahrkarte kann man am Schalter oder online kaufen.
+xc-0416; Gepäckband; baggage carousel; luggage carousel; B2; Reisen/Urlaub/Flughafen; We waited at the baggage carousel for half an hour.; Wir haben eine halbe Stunde am Gepäckband gewartet.
+xc-0417; Flugticket; plane ticket; flight ticket, air ticket; A2; Reisen/Urlaub/Flughafen; The plane tickets were cheaper than we expected.; Die Flugtickets waren billiger als erwartet.
+xc-0418; Fluggesellschaft; airline; ; B1; Reisen/Urlaub/Flughafen; Which airline are you flying with?; Mit welcher Fluggesellschaft fliegst du?
+xc-0419; Passagier; passenger; ; B1; Reisen/Urlaub/Unterwegs; All passengers must show their tickets.; Alle Passagiere müssen ihre Fahrkarten zeigen.
+xc-0420; Grenzkontrolle; border control; border check; B1; Reisen/Urlaub/Unterwegs; There were long queues at the border control.; An der Grenzkontrolle gab es lange Schlangen.
+xc-0421; Pilot; pilot; ; A2; Reisen/Urlaub/Flughafen; The pilot welcomed us on board.; Der Pilot hat uns an Bord begrüßt.
+xc-0422; Vollpension; full board; ; B1; Reisen/Urlaub/Unterkunft; We booked a hotel with full board.; Wir haben ein Hotel mit Vollpension gebucht.
+xc-0423; Ferienhaus; holiday home; holiday cottage; B1; Reisen/Urlaub/Unterkunft; We rented a holiday home by the sea.; Wir haben ein Ferienhaus am Meer gemietet.
+xc-0424; Campingplatz; campsite; campground; A2; Reisen/Urlaub/Unterkunft; The campsite is right next to the beach.; Der Campingplatz liegt direkt neben dem Strand.
+xc-0425; Zelt; tent; ; A2; Reisen/Urlaub/Unterkunft; It took us an hour to put up the tent.; Wir haben eine Stunde gebraucht, um das Zelt aufzubauen.
+xc-0426; zelten; to camp; to go camping; B1; Reisen/Urlaub/Unterkunft; Every summer we go camping by a lake.; Jeden Sommer zelten wir an einem See.
+xc-0427; Schlafsack; sleeping bag; ; A2; Reisen/Urlaub/Unterkunft; Don't forget your sleeping bag, it gets cold at night.; Vergiss deinen Schlafsack nicht, nachts wird es kalt.
+xc-0428; Lagerfeuer; campfire; ; B1; Reisen/Urlaub/Unterkunft; We sat round the campfire and sang songs.; Wir saßen am Lagerfeuer und sangen Lieder.
+xc-0429; Urlauber; holidaymaker; vacationer; B2; Reisen/Urlaub/Planung & Buchung; In August the island is full of holidaymakers.; Im August ist die Insel voller Urlauber.
+xc-0430; Reisender; traveller; traveler; B1; Reisen/Urlaub/Planung & Buchung; The station café is full of tired travellers.; Das Bahnhofscafé ist voller müder Reisender.
+xc-0431; Rundreise; tour; round trip; B1; Reisen/Urlaub/Planung & Buchung; We did a two-week tour of Ireland.; Wir haben eine zweiwöchige Rundreise durch Irland gemacht.
+xc-0432; Tagesausflug; day trip; day out; A2; Reisen/Urlaub/Planung & Buchung; From Munich we made a day trip to Salzburg.; Von München aus haben wir einen Tagesausflug nach Salzburg gemacht.
+xc-0433; Städtereise; city break; city trip; B2; Reisen/Urlaub/Planung & Buchung; For her birthday he booked a city break to Rome.; Zu ihrem Geburtstag hat er eine Städtereise nach Rom gebucht.
+xc-0434; Reiseleiter; tour guide; tour leader; B1; Reisen/Urlaub/Planung & Buchung; Our tour guide spoke four languages.; Unser Reiseleiter sprach vier Sprachen.
+xc-0435; Aufenthalt; stay; ; B1; Reisen/Urlaub/Planung & Buchung; We hope you enjoy your stay with us.; Wir wünschen Ihnen einen schönen Aufenthalt bei uns.
+xc-0436; Abreise; departure; ; B1; Reisen/Urlaub/Planung & Buchung; Please leave your key at reception on departure.; Bitte geben Sie bei der Abreise Ihren Schlüssel an der Rezeption ab.
+xc-0437; Hinfahrt; outward journey; journey there, way there; B2; Reisen/Urlaub/Planung & Buchung; The outward journey took nine hours.; Die Hinfahrt hat neun Stunden gedauert.
+xc-0438; Rückfahrt; return journey; journey back, way back; B1; Reisen/Urlaub/Planung & Buchung; On the return journey we slept most of the time.; Auf der Rückfahrt haben wir die meiste Zeit geschlafen.
+xc-0439; Fahrt; journey; ride, drive, trip; A2; Reisen/Urlaub/Planung & Buchung; The journey to my grandparents takes two hours.; Die Fahrt zu meinen Großeltern dauert zwei Stunden.
+xc-0440; Reservierung; reservation; booking; B1; Reisen/Urlaub/Planung & Buchung; I have a reservation for two nights.; Ich habe eine Reservierung für zwei Nächte.
+xc-0441; Ausweis; identity card; ID card; A2; Reisen/Urlaub/Planung & Buchung; You need your identity card to check in.; Zum Einchecken brauchst du deinen Ausweis.
+xc-0442; Tourismus; tourism; ; B1; Reisen/Urlaub/Planung & Buchung; Many people on the island live from tourism.; Viele Menschen auf der Insel leben vom Tourismus.
+xc-0443; Massentourismus; mass tourism; ; C1; Reisen/Urlaub/Planung & Buchung; Venice is suffering from mass tourism.; Venedig leidet unter dem Massentourismus.
+xc-0444; Rucksacktourist; backpacker; ; B2; Reisen/Urlaub/Planung & Buchung; The hostel is full of young backpackers.; Die Herberge ist voller junger Rucksacktouristen.
+xc-0445; Reisewarnung; travel warning; travel advisory; C1; Reisen/Urlaub/Planung & Buchung; The government has issued a travel warning for the region.; Die Regierung hat eine Reisewarnung für die Region herausgegeben.
+xc-0446; seekrank; seasick; ; B1; Reisen/Urlaub/Unterwegs; I always get seasick on the ferry.; Auf der Fähre werde ich immer seekrank.
+xc-0447; Reisekrankheit; travel sickness; motion sickness; B2; Reisen/Urlaub/Unterwegs; Take a tablet against travel sickness before the trip.; Nimm vor der Fahrt eine Tablette gegen Reisekrankheit.
+xc-0448; besichtigen; to visit; to look round, to see; B1; Reisen/Urlaub/Sightseeing; Tomorrow we are going to visit the cathedral.; Morgen besichtigen wir den Dom.
+xc-0449; Eintritt; admission; entrance fee, entry; B1; Reisen/Urlaub/Sightseeing; Admission to the museum is free on Sundays.; Sonntags ist der Eintritt ins Museum frei.
+xc-0450; Stadtrundfahrt; city tour; sightseeing tour; A2; Reisen/Urlaub/Sightseeing; A city tour by bus is a good way to start.; Eine Stadtrundfahrt mit dem Bus ist ein guter Anfang.
+xc-0451; Gastfreundschaft; hospitality; ; B2; Reisen/Urlaub/Sightseeing; We were amazed by the hospitality of the people.; Wir waren von der Gastfreundschaft der Menschen begeistert.
+xc-0452; Schwimmweste; life jacket; ; B2; Reisen/Urlaub/Strand & Natur; Everyone in the canoe has to wear a life jacket.; Jeder im Kanu muss eine Schwimmweste tragen.
+xc-0453; Rettungsschwimmer; lifeguard; ; B1; Reisen/Urlaub/Strand & Natur; Only swim where there is a lifeguard.; Schwimm nur dort, wo ein Rettungsschwimmer ist.
+xc-0454; Leuchtturm; lighthouse; ; B1; Reisen/Urlaub/Strand & Natur; We climbed to the top of the old lighthouse.; Wir sind bis ganz nach oben auf den alten Leuchtturm gestiegen.
+xc-0455; Ferienort; holiday resort; resort; B2; Reisen/Urlaub/Strand & Natur; In winter the little holiday resort is almost empty.; Im Winter ist der kleine Ferienort fast leer.
+xc-0456; Skigebiet; ski resort; ski area; B1; Reisen/Urlaub/Strand & Natur; The ski resort opens in December.; Das Skigebiet öffnet im Dezember.
+xc-0457; Wanderung; hike; walk; A2; Reisen/Urlaub/Strand & Natur; After a long hike we were really hungry.; Nach einer langen Wanderung hatten wir richtig Hunger.
+xc-0458; Fernglas; binoculars; ; B2; Reisen/Urlaub/Strand & Natur; Through the binoculars we could see the deer.; Durch das Fernglas konnten wir die Rehe sehen.
+xc-0459; Angelrute; fishing rod; ; B2; Reisen/Urlaub/Strand & Natur; Grandpa took his fishing rod down to the lake.; Opa hat seine Angelrute mit an den See genommen.
+xc-0460; Reisetasche; travel bag; holdall; B1; Reisen/Urlaub/Gepäck; One travel bag is enough for a weekend.; Für ein Wochenende reicht eine Reisetasche.
+xc-0461; Kulturbeutel; washbag; toilet bag, sponge bag; B2; Reisen/Urlaub/Gepäck; I left my washbag in the hotel bathroom.; Ich habe meinen Kulturbeutel im Hotelbad vergessen.

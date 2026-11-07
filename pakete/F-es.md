@@ -14,7 +14,7 @@ Keine Vorschläge für Listen (Formen sind keine Lernwörter).
 
 ## Vorgehen
 
-Alle Antworten und weiteren Antworten aus den 31 `woerter/es-*.txt` per Skript aufgelistet und grob nach Wortart
+Alle Antworten und weiteren Antworten aus den 32 `woerter/es-*.txt` per Skript aufgelistet und grob nach Wortart
 sortiert (8629 verschiedene Antworten: 1001 Einzelwörter auf -ar/-er/-ir(se), 3359 Substantive mit Artikel, 1080
 andere Einzelwörter, Rest Mehrwortausdrücke). Daraus von Hand die unregelmäßigen Wörter ausgewählt und die Formen
 selbst geschrieben. Geprüft nach jedem Block von höchstens 50 Zeilen.

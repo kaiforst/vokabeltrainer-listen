@@ -4,187 +4,187 @@
     {
       "id": "business-airport",
       "file": "woerter/business-airport.txt",
-      "version": 3,
+      "version": 4,
       "count": 200
     },
     {
       "id": "alltag-zuhause",
       "file": "woerter/alltag-zuhause.txt",
-      "version": 2,
+      "version": 3,
       "count": 150
     },
     {
       "id": "arbeit-beruf",
       "file": "woerter/arbeit-beruf.txt",
-      "version": 1,
+      "version": 2,
       "count": 150
     },
     {
       "id": "business-buero",
       "file": "woerter/business-buero.txt",
-      "version": 1,
+      "version": 2,
       "count": 150
     },
     {
       "id": "einkaufen-geld",
       "file": "woerter/einkaufen-geld.txt",
-      "version": 2,
+      "version": 3,
       "count": 150
     },
     {
       "id": "essen-trinken",
       "file": "woerter/essen-trinken.txt",
-      "version": 2,
+      "version": 3,
       "count": 150
     },
     {
       "id": "familie-beziehungen",
       "file": "woerter/familie-beziehungen.txt",
-      "version": 2,
+      "version": 3,
       "count": 150
     },
     {
       "id": "freizeit-hobbys",
       "file": "woerter/freizeit-hobbys.txt",
-      "version": 2,
+      "version": 3,
       "count": 150
     },
     {
       "id": "gefuehle-charakter",
       "file": "woerter/gefuehle-charakter.txt",
-      "version": 2,
+      "version": 3,
       "count": 150
     },
     {
       "id": "grundwortschatz",
       "file": "woerter/grundwortschatz.txt",
-      "version": 3,
+      "version": 4,
       "count": 1200
     },
     {
       "id": "kleidung-mode",
       "file": "woerter/kleidung-mode.txt",
-      "version": 2,
+      "version": 3,
       "count": 150
     },
     {
       "id": "koerper-gesundheit",
       "file": "woerter/koerper-gesundheit.txt",
-      "version": 1,
+      "version": 2,
       "count": 150
     },
     {
       "id": "kunst-kultur",
       "file": "woerter/kunst-kultur.txt",
-      "version": 2,
+      "version": 3,
       "count": 150
     },
     {
       "id": "medien-kommunikation",
       "file": "woerter/medien-kommunikation.txt",
-      "version": 1,
+      "version": 2,
       "count": 150
     },
     {
       "id": "natur-tiere",
       "file": "woerter/natur-tiere.txt",
-      "version": 1,
+      "version": 2,
       "count": 150
     },
     {
       "id": "politik-gesellschaft",
       "file": "woerter/politik-gesellschaft.txt",
-      "version": 1,
+      "version": 2,
       "count": 150
     },
     {
       "id": "reisen-urlaub",
       "file": "woerter/reisen-urlaub.txt",
-      "version": 2,
+      "version": 3,
       "count": 150
     },
     {
       "id": "schule-bildung",
       "file": "woerter/schule-bildung.txt",
-      "version": 2,
+      "version": 3,
       "count": 150
     },
     {
       "id": "sport-fitness",
       "file": "woerter/sport-fitness.txt",
-      "version": 1,
+      "version": 2,
       "count": 150
     },
     {
       "id": "technik-computer",
       "file": "woerter/technik-computer.txt",
-      "version": 2,
+      "version": 3,
       "count": 150
     },
     {
       "id": "verkehr-mobilitaet",
       "file": "woerter/verkehr-mobilitaet.txt",
-      "version": 1,
+      "version": 2,
       "count": 150
     },
     {
       "id": "wetter-umwelt",
       "file": "woerter/wetter-umwelt.txt",
-      "version": 1,
+      "version": 2,
       "count": 150
     },
     {
       "id": "wirtschaft-finanzen",
       "file": "woerter/wirtschaft-finanzen.txt",
-      "version": 1,
+      "version": 2,
       "count": 150
     },
     {
       "id": "wissenschaft-forschung",
       "file": "woerter/wissenschaft-forschung.txt",
-      "version": 1,
+      "version": 2,
       "count": 150
     },
     {
       "id": "business-beschaffung",
       "file": "woerter/business-beschaffung.txt",
-      "version": 2,
+      "version": 3,
       "count": 150
     },
     {
       "id": "business-marketing-vertrieb",
       "file": "woerter/business-marketing-vertrieb.txt",
-      "version": 1,
+      "version": 2,
       "count": 150
     },
     {
       "id": "business-personalwesen",
       "file": "woerter/business-personalwesen.txt",
-      "version": 1,
+      "version": 2,
       "count": 150
     },
     {
       "id": "business-projektmanagement",
       "file": "woerter/business-projektmanagement.txt",
-      "version": 2,
+      "version": 3,
       "count": 150
     },
     {
       "id": "business-rechnungswesen",
       "file": "woerter/business-rechnungswesen.txt",
-      "version": 1,
+      "version": 2,
       "count": 150
     },
     {
       "id": "business-verhandlungen",
       "file": "woerter/business-verhandlungen.txt",
-      "version": 1,
+      "version": 2,
       "count": 150
     },
     {
       "id": "business-vertrag",
       "file": "woerter/business-vertrag.txt",
-      "version": 2,
+      "version": 3,
       "count": 150
     },
     {
@@ -211,19 +211,19 @@
     {
       "id": "reden",
       "file": "woerter/reden.txt",
-      "version": 3,
+      "version": 4,
       "count": 135
     },
     {
       "id": "filme",
       "file": "woerter/filme.txt",
-      "version": 1,
+      "version": 2,
       "count": 80
     },
     {
       "id": "lieder",
       "file": "woerter/lieder.txt",
-      "version": 1,
+      "version": 2,
       "count": 46
     },
     {
@@ -865,7 +865,7 @@
     {
       "id": "karsten",
       "file": "woerter/karsten.txt",
-      "version": 3,
+      "version": 4,
       "count": 996
     },
     {
@@ -916,7 +916,7 @@
     {
       "id": "phrasal-verbs",
       "file": "woerter/phrasal-verbs.txt",
-      "version": 1,
+      "version": 2,
       "count": 257
     },
     {
@@ -1137,12 +1137,18 @@
       "version": 1,
       "count": 487,
       "lang": "it"
+    },
+    {
+      "id": "bedeutungen",
+      "file": "woerter/bedeutungen.txt",
+      "version": 1,
+      "count": 54
     }
   ],
   "aliases": {
     "file": "aliase.txt",
-    "version": 4,
-    "count": 6576
+    "version": 5,
+    "count": 6581
   },
   "forms": [
     {
@@ -6251,10 +6257,23 @@
           "Allgemein/Denken & Sprechen"
         ]
       }
+    },
+    {
+      "id": "mehrdeutig",
+      "name": "Mehrdeutige Wörter",
+      "description": "Zweite Bedeutungen bekannter Wörter: Bank (zum Sitzen), Schloss (an der Tür), Kiefer (Knochen) …",
+      "level": "B1",
+      "count": 54,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Mehrdeutige Wörter"
+        ]
+      }
     }
   ],
   "areas": {
-    "version": 13,
+    "version": 14,
     "tree": [
       {
         "name": "Einstieg",
@@ -6346,7 +6365,8 @@
           "allgemein-denken-sprechen",
           "fr-allgemein-denken-sprechen",
           "es-allgemein-denken-sprechen",
-          "it-allgemein-denken-sprechen"
+          "it-allgemein-denken-sprechen",
+          "mehrdeutig"
         ]
       },
       {

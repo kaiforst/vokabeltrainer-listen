@@ -1,7 +1,7 @@
 # Phrasal Verbs: englische Verbindungen aus Verb und Partikel (A2–C1), nach Themen
 id; Deutsch; Englisch; Weitere Antworten; Niveau; Themen; Beispiel Englisch; Beispiel Deutsch
 pv-0001; aufwachen; to wake up; ; A2; Phrasal Verbs/Alltag; I usually wake up before my alarm goes off.; Ich wache meistens auf, bevor mein Wecker klingelt.
-pv-0002; aufstehen; to get up; ; A2; Phrasal Verbs/Alltag; I get up at half past six on weekdays.; Unter der Woche stehe ich um halb sieben auf.
+pv-0002; aufstehen (morgens, aus dem Bett); to get up; ; A2; Phrasal Verbs/Alltag; I get up at half past six on weekdays.; Unter der Woche stehe ich um halb sieben auf.
 pv-0003; aufstehen (von einem Stuhl); to stand up; ; A2; Phrasal Verbs/Alltag; Everyone stood up when the teacher came in.; Alle standen auf, als die Lehrerin hereinkam.
 pv-0004; sich hinsetzen; to sit down; ; A2; Phrasal Verbs/Alltag; Please sit down and make yourself comfortable.; Bitte setz dich hin und mach es dir bequem.
 pv-0005; sich hinlegen; to lie down; ; A2; Phrasal Verbs/Alltag; I need to lie down for a few minutes.; Ich muss mich ein paar Minuten hinlegen.
@@ -34,14 +34,14 @@ pv-0031; ausmachen; to turn off; to switch off; A2; Phrasal Verbs/Zuhause; Don't
 pv-0032; lauter stellen; to turn up; ; A2; Phrasal Verbs/Zuhause; Could you turn up the radio a bit?; Könntest du das Radio etwas lauter stellen?
 pv-0033; leiser stellen; to turn down; ; A2; Phrasal Verbs/Zuhause; Please turn down the music, the baby is asleep.; Bitte stell die Musik leiser, das Baby schläft.
 pv-0034; einziehen (in eine Wohnung); to move in; ; B1; Phrasal Verbs/Zuhause; Our new neighbours moved in last week.; Unsere neuen Nachbarn sind letzte Woche eingezogen.
-pv-0035; ausziehen (aus einer Wohnung); to move out; ; B1; Phrasal Verbs/Zuhause; She moved out of her parents' house at nineteen.; Sie ist mit neunzehn bei ihren Eltern ausgezogen.
+pv-0035; ausziehen (aus der Wohnung); to move out; ; B1; Phrasal Verbs/Zuhause; She moved out of her parents' house at nineteen.; Sie ist mit neunzehn bei ihren Eltern ausgezogen.
 pv-0036; sich einleben; to settle in; ; B2; Phrasal Verbs/Zuhause; It took us a few weeks to settle in.; Wir haben ein paar Wochen gebraucht, um uns einzuleben.
 pv-0037; herrichten; to do up; ; B2; Phrasal Verbs/Zuhause; They bought an old house and did it up.; Sie haben ein altes Haus gekauft und es hergerichtet.
 pv-0038; etwas aufhängen; to hang up; ; A2; Phrasal Verbs/Zuhause; Hang up your coat in the hall, please.; Häng bitte deinen Mantel im Flur auf.
 pv-0039; jemanden hereinlassen; to let in; ; B1; Phrasal Verbs/Zuhause; Don't let the dog in, it's covered in mud.; Lass den Hund nicht herein, er ist voller Schlamm.
 pv-0040; sich aussperren; to lock oneself out; ; B1; Phrasal Verbs/Zuhause; I locked myself out and had to call my sister.; Ich habe mich ausgesperrt und musste meine Schwester anrufen.
-pv-0041; anziehen; to put on; ; A2; Phrasal Verbs/Kleidung; Put on your coat, it's cold outside.; Zieh deinen Mantel an, draußen ist es kalt.
-pv-0042; ausziehen; to take off; ; A2; Phrasal Verbs/Kleidung; Please take off your shoes in the hall.; Bitte zieh im Flur deine Schuhe aus.
+pv-0041; anziehen (Kleidung); to put on; ; A2; Phrasal Verbs/Kleidung; Put on your coat, it's cold outside.; Zieh deinen Mantel an, draußen ist es kalt.
+pv-0042; ausziehen (Kleidung); to take off; ; A2; Phrasal Verbs/Kleidung; Please take off your shoes in the hall.; Bitte zieh im Flur deine Schuhe aus.
 pv-0043; anprobieren; to try on; ; A2; Phrasal Verbs/Kleidung; Can I try on these jeans in a bigger size?; Kann ich diese Jeans in einer größeren Größe anprobieren?
 pv-0044; sich schick anziehen; to dress up; ; B1; Phrasal Verbs/Kleidung; We all dressed up for my cousin's wedding.; Wir haben uns alle für die Hochzeit meiner Cousine schick angezogen.
 pv-0045; sich verkleiden; to dress up; ; B1; Phrasal Verbs/Kleidung; The children dressed up as pirates for the party.; Die Kinder haben sich für die Party als Piraten verkleidet.
@@ -73,7 +73,7 @@ pv-0070; überkochen; to boil over; ; B2; Phrasal Verbs/Essen; The milk boiled o
 pv-0071; aufbrechen; to set off; to set out; B1; Phrasal Verbs/Reisen; We set off early to avoid the traffic.; Wir sind früh aufgebrochen, um dem Verkehr zu entgehen.
 pv-0072; einchecken; to check in; ; A2; Phrasal Verbs/Reisen; We can check in at the hotel after two o'clock.; Wir können ab zwei Uhr im Hotel einchecken.
 pv-0073; auschecken; to check out; ; A2; Phrasal Verbs/Reisen; We have to check out of our room by eleven.; Wir müssen bis elf Uhr aus unserem Zimmer auschecken.
-pv-0074; abheben; to take off; ; B1; Phrasal Verbs/Reisen; Our plane took off forty minutes late.; Unser Flugzeug hat mit vierzig Minuten Verspätung abgehoben.
+pv-0074; abheben (Flugzeug); to take off; ; B1; Phrasal Verbs/Reisen; Our plane took off forty minutes late.; Unser Flugzeug hat mit vierzig Minuten Verspätung abgehoben.
 pv-0075; einsteigen; to get on; to board; A2; Phrasal Verbs/Reisen; We got on the train in Cologne.; Wir sind in Köln in den Zug eingestiegen.
 pv-0076; aussteigen; to get off; ; A2; Phrasal Verbs/Reisen; Get off at the next stop for the museum.; Für das Museum steigst du an der nächsten Haltestelle aus.
 pv-0077; einsteigen (ins Auto); to get in; to get into; A2; Phrasal Verbs/Reisen; Get in, I'll drive you home.; Steig ein, ich fahre dich nach Hause.

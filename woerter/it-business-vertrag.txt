@@ -4,7 +4,7 @@ it-vt-0001; Vertrag; il contratto; l'accordo; A1; Business/Vertrag/Vertragsarten
 it-vt-0002; Firma; la ditta; l'azienda, la società; A1; Business/Vertrag/Parteien; La nostra ditta lavora con molti partner internazionali.; Unsere Firma arbeitet mit vielen internationalen Partnern.
 it-vt-0003; unterschreiben; firmare; sottoscrivere; A1; Business/Vertrag/Abschluss & Unterschrift; Firmi il documento sull'ultima pagina, per favore.; Bitte unterschreiben Sie das Dokument auf der letzten Seite.
 it-vt-0004; Datum; la data; ; A1; Business/Vertrag/Abschluss & Unterschrift; La data sul contratto è sbagliata.; Das Datum auf dem Vertrag ist falsch.
-it-vt-0005; Preis; il prezzo; ; A1; Business/Vertrag/Klauseln; Il prezzo è fissato nel contratto.; Der Preis ist im Vertrag festgelegt.
+it-vt-0005; Preis (Kosten); il prezzo; ; A1; Business/Vertrag/Klauseln; Il prezzo è fissato nel contratto.; Der Preis ist im Vertrag festgelegt.
 it-vt-0006; Unterschrift; la firma; ; A2; Business/Vertrag/Abschluss & Unterschrift; Ci serve ancora la sua firma a pagina due.; Wir brauchen noch Ihre Unterschrift auf Seite zwei.
 it-vt-0007; Dokument; il documento; ; A2; Business/Vertrag/Abschluss & Unterschrift; Legga attentamente il documento prima di firmare.; Bitte lesen Sie das Dokument sorgfältig, bevor Sie unterschreiben.
 it-vt-0008; Kopie; la copia; il duplicato; A2; Business/Vertrag/Abschluss & Unterschrift; Ogni parte riceve una copia del contratto.; Jede Partei erhält eine Kopie des Vertrags.
@@ -34,10 +34,10 @@ it-vt-0031; befristeter Vertrag; il contratto a tempo determinato; il contratto 
 it-vt-0032; unbefristeter Vertrag; il contratto a tempo indeterminato; ; B1; Business/Vertrag/Vertragsarten; Dopo due anni ha ottenuto un contratto a tempo indeterminato.; Nach zwei Jahren erhielt sie einen unbefristeten Vertrag.
 it-vt-0033; Klausel; la clausola; ; B1; Business/Vertrag/Klauseln; Questa clausola limita la nostra responsabilità in casi particolari.; Diese Klausel begrenzt unsere Haftung in besonderen Fällen.
 it-vt-0034; Anhang; l'allegato; l'appendice; B1; Business/Vertrag/Klauseln; I prezzi sono elencati nell'allegato.; Die Preise sind im Anhang aufgeführt.
-it-vt-0035; Laufzeit; la durata; la durata del contratto; B1; Business/Vertrag/Laufzeit & Kündigung; La durata è di cinque anni con un'opzione.; Die Laufzeit beträgt fünf Jahre mit einer Option.
+it-vt-0035; Laufzeit (Vertrag); la durata; la durata del contratto; B1; Business/Vertrag/Laufzeit & Kündigung; La durata è di cinque anni con un'opzione.; Die Laufzeit beträgt fünf Jahre mit einer Option.
 it-vt-0036; Kündigung; la disdetta; il recesso, la risoluzione; B1; Business/Vertrag/Laufzeit & Kündigung; La disdetta deve essere inviata per iscritto.; Die Kündigung muss in schriftlicher Form gesendet werden.
-it-vt-0037; kündigen; disdire; recedere, risolvere; B1; Business/Vertrag/Laufzeit & Kündigung; Ciascuna parte può disdire il contratto per iscritto.; Jede Partei kann den Vertrag schriftlich kündigen.
-it-vt-0038; Verlängerung; la proroga; il rinnovo, il prolungamento; B1; Business/Vertrag/Laufzeit & Kündigung; Abbiamo chiesto una proroga del periodo di consegna.; Wir baten um eine Verlängerung des Lieferzeitraums.
+it-vt-0037; kündigen (Vertrag); disdire; recedere, risolvere; B1; Business/Vertrag/Laufzeit & Kündigung; Ciascuna parte può disdire il contratto per iscritto.; Jede Partei kann den Vertrag schriftlich kündigen.
+it-vt-0038; Verlängerung (Frist, Vertrag); la proroga; il rinnovo, il prolungamento; B1; Business/Vertrag/Laufzeit & Kündigung; Abbiamo chiesto una proroga del periodo di consegna.; Wir baten um eine Verlängerung des Lieferzeitraums.
 it-vt-0039; Vertragspartner; il contraente; la parte contraente; B1; Business/Vertrag/Parteien; Ogni contraente ha doveri e diritti chiari.; Jeder Vertragspartner hat klare Pflichten und Rechte.
 it-vt-0040; Partei; la parte; ; B1; Business/Vertrag/Parteien; Ogni parte deve adempiere puntualmente ai propri obblighi.; Jede Partei muss ihre Pflichten pünktlich erfüllen.
 it-vt-0041; Lieferant; il fornitore; la fornitrice; B1; Business/Vertrag/Parteien; Il nostro fornitore consegna la merce ogni due settimane.; Unser Lieferant liefert die Waren alle zwei Wochen.
@@ -58,7 +58,7 @@ it-vt-0055; Verhandlung; la trattativa; la negoziazione; B1; Business/Vertrag/Ab
 it-vt-0056; Kompromiss; il compromesso; ; B1; Business/Vertrag/Abschluss & Unterschrift; Dopo lunghi colloqui le due parti hanno trovato un compromesso.; Nach langen Gesprächen fanden beide Seiten einen Kompromiss.
 it-vt-0057; zustimmen; acconsentire; essere d'accordo, approvare; B1; Business/Vertrag/Abschluss & Unterschrift; Entrambi i partner acconsentono alle nuove condizioni.; Beide Partner stimmen den neuen Bedingungen zu.
 it-vt-0058; Streit; la lite; la controversia, la disputa; B1; Business/Vertrag/Streitfall; La lite sul pagamento è durata diversi mesi.; Der Streit über die Zahlung dauerte mehrere Monate.
-it-vt-0059; Gericht; il tribunale; ; B1; Business/Vertrag/Streitfall, Gesellschaft/Recht; Dopo il fallimento dei colloqui il caso è finito in tribunale.; Der Fall ging nach gescheiterten Gesprächen vor Gericht.
+it-vt-0059; Gericht (Justiz); il tribunale; ; B1; Business/Vertrag/Streitfall, Gesellschaft/Recht; Dopo il fallimento dei colloqui il caso è finito in tribunale.; Der Fall ging nach gescheiterten Gesprächen vor Gericht.
 it-vt-0060; Beweis; la prova; ; B1; Business/Vertrag/Streitfall; L'e-mail è una prova chiara dell'accordo.; Die E-Mail ist ein klarer Beweis für die Vereinbarung.
 it-vt-0061; ungültig; non valido; invalido; B1; Business/Vertrag/Rechtsbegriffe; Senza firma il contratto non è valido.; Ohne Unterschrift ist der Vertrag ungültig.
 it-vt-0062; schriftlich; per iscritto; scritto; B1; Business/Vertrag/Abschluss & Unterschrift; Tutte le modifiche devono essere fatte per iscritto.; Alle Änderungen müssen schriftlich erfolgen.
@@ -77,7 +77,7 @@ it-vt-0074; Vertragsstrafe; la penale; la penale contrattuale; B2; Business/Vert
 it-vt-0075; Gewährleistung; la garanzia legale; la garanzia per vizi; B2; Business/Vertrag/Haftung & Gewährleistung; La garanzia legale copre tutti i difetti per due anni.; Die Gewährleistung deckt alle Mängel für zwei Jahre ab.
 it-vt-0076; Haftung; la responsabilità; la responsabilità civile; B2; Business/Vertrag/Haftung & Gewährleistung; La nostra responsabilità è limitata al valore del contratto.; Unsere Haftung ist auf den Vertragswert begrenzt.
 it-vt-0077; haften; rispondere; essere responsabile; B2; Business/Vertrag/Haftung & Gewährleistung; Il venditore risponde dei vizi occulti.; Der Verkäufer haftet für versteckte Mängel.
-it-vt-0078; Mangel; il difetto; il vizio; B2; Business/Vertrag/Haftung & Gewährleistung; Abbiamo trovato un grave difetto nella macchina.; Wir haben einen schweren Mangel an der Maschine gefunden.
+it-vt-0078; Mangel (Fehler); il difetto; il vizio; B2; Business/Vertrag/Haftung & Gewährleistung; Abbiamo trovato un grave difetto nella macchina.; Wir haben einen schweren Mangel an der Maschine gefunden.
 it-vt-0079; Schadensersatz; il risarcimento dei danni; il risarcimento; B2; Business/Vertrag/Haftung & Gewährleistung; Il committente chiede il risarcimento dei danni per la consegna in ritardo.; Der Auftraggeber fordert Schadensersatz für die verspätete Lieferung.
 it-vt-0080; Fälligkeit; la scadenza; l'esigibilità; B2; Business/Vertrag/Klauseln; La scadenza della fattura è lunedì prossimo.; Die Fälligkeit der Rechnung ist nächsten Montag.
 it-vt-0081; fällig; dovuto; esigibile, in scadenza; B2; Business/Vertrag/Klauseln; Il secondo pagamento è dovuto a giugno.; Die zweite Zahlung ist im Juni fällig.
@@ -91,7 +91,7 @@ it-vt-0088; Allgemeine Geschäftsbedingungen; le condizioni generali di contratt
 it-vt-0089; Rechtsabteilung; l'ufficio legale; ; B2; Business/Vertrag/Parteien; L'ufficio legale esamina ogni nuovo accordo.; Die Rechtsabteilung prüft jede neue Vereinbarung.
 it-vt-0090; rechtsverbindlich; giuridicamente vincolante; legalmente vincolante; B2; Business/Vertrag/Rechtsbegriffe; L'offerta diventa giuridicamente vincolante dopo l'accettazione.; Das Angebot wird nach der Annahme rechtsverbindlich.
 it-vt-0091; verbindlich; vincolante; obbligatorio; B2; Business/Vertrag/Rechtsbegriffe; Le date di consegna nell'allegato sono vincolanti.; Die Liefertermine im Anhang sind verbindlich.
-it-vt-0092; Annahme; l'accettazione; ; B2; Business/Vertrag/Abschluss & Unterschrift; Il contratto inizia con l'accettazione dell'offerta.; Der Vertrag beginnt mit der Annahme des Angebots.
+it-vt-0092; Annahme (eines Angebots); l'accettazione; ; B2; Business/Vertrag/Abschluss & Unterschrift; Il contratto inizia con l'accettazione dell'offerta.; Der Vertrag beginnt mit der Annahme des Angebots.
 it-vt-0093; Verlängerungsoption; l'opzione di rinnovo; l'opzione di proroga; B2; Business/Vertrag/Laufzeit & Kündigung; Il contratto di locazione prevede un'opzione di rinnovo per cinque anni.; Der Mietvertrag enthält eine Verlängerungsoption für fünf Jahre.
 it-vt-0094; Probezeit; il periodo di prova; ; B2; Business/Vertrag/Laufzeit & Kündigung; Il periodo di prova dura in tutto sei mesi.; Die Probezeit dauert insgesamt sechs Monate.
 it-vt-0095; Zahlungsverzug; il ritardo nei pagamenti; la mora, il ritardato pagamento; B2; Business/Vertrag/Klauseln; In caso di ritardo nei pagamenti addebitiamo gli interessi.; Bei Zahlungsverzug berechnen wir Zinsen.
@@ -100,7 +100,7 @@ it-vt-0097; in Kraft treten; entrare in vigore; ; B2; Business/Vertrag/Laufzeit 
 it-vt-0098; auslaufen; scadere; ; B2; Business/Vertrag/Laufzeit & Kündigung; Il vecchio contratto di fornitura scade alla fine di marzo.; Der alte Liefervertrag läuft Ende März aus.
 it-vt-0099; Ablaufdatum; la data di scadenza; ; B2; Business/Vertrag/Laufzeit & Kündigung; Faccia attenzione alla data di scadenza della licenza.; Bitte beachten Sie das Ablaufdatum der Lizenz.
 it-vt-0100; Mediation; la mediazione; ; B2; Business/Vertrag/Streitfall; Le due aziende hanno scelto la mediazione invece di una causa.; Beide Firmen wählten Mediation statt eines Gerichtsverfahrens.
-it-vt-0101; Vergleich; la transazione; l'accordo transattivo; B2; Business/Vertrag/Streitfall; Le parti hanno raggiunto una transazione prima del processo.; Die Parteien erzielten einen Vergleich vor dem Prozess.
+it-vt-0101; Vergleich (vor Gericht); la transazione; l'accordo transattivo; B2; Business/Vertrag/Streitfall; Le parti hanno raggiunto una transazione prima del processo.; Die Parteien erzielten einen Vergleich vor dem Prozess.
 it-vt-0102; Klage; la causa; l'azione legale, l'azione giudiziaria; B2; Business/Vertrag/Streitfall; Il fornitore ha intentato una causa contro la nostra ditta.; Der Lieferant reichte eine Klage gegen unsere Firma ein.
 it-vt-0103; Urteil; la sentenza; ; B2; Business/Vertrag/Streitfall; Il tribunale ha emesso la sentenza dopo due settimane.; Das Gericht verkündete sein Urteil nach zwei Wochen.
 it-vt-0104; Anspruch; la pretesa; il diritto, la rivendicazione; B2; Business/Vertrag/Rechtsbegriffe; Abbiamo una pretesa alla riparazione gratuita in garanzia.; Wir haben einen Anspruch auf kostenlose Reparaturen im Rahmen der Gewährleistung.
@@ -121,7 +121,7 @@ it-vt-0118; Preisanpassungsklausel; la clausola di adeguamento prezzi; la clauso
 it-vt-0119; Ausschlussklausel; la clausola di esclusione; la clausola di esonero; C1; Business/Vertrag/Klauseln; La clausola di esclusione non copre i danni intenzionali.; Die Ausschlussklausel deckt vorsätzliche Schäden nicht ab.
 it-vt-0120; Verzugszinsen; gli interessi di mora; ; C1; Business/Vertrag/Haftung & Gewährleistung; Applichiamo interessi di mora del nove per cento annuo.; Wir berechnen Verzugszinsen von neun Prozent pro Jahr.
 it-vt-0121; Präambel; il preambolo; le premesse; C1; Business/Vertrag/Klauseln; Il preambolo descrive lo scopo della collaborazione.; Die Präambel beschreibt den Zweck der Zusammenarbeit.
-it-vt-0122; Rücktritt; il recesso; ; C1; Business/Vertrag/Laufzeit & Kündigung; L'acquirente ha dichiarato il suo recesso dal contratto.; Der Käufer erklärte seinen Rücktritt vom Vertrag.
+it-vt-0122; Rücktritt (vom Vertrag); il recesso; ; C1; Business/Vertrag/Laufzeit & Kündigung; L'acquirente ha dichiarato il suo recesso dal contratto.; Der Käufer erklärte seinen Rücktritt vom Vertrag.
 it-vt-0123; widerrufen; revocare; annullare; C1; Business/Vertrag/Laufzeit & Kündigung; Il cliente può revocare l'ordine entro due settimane.; Der Kunde kann die Bestellung innerhalb von zwei Wochen widerrufen.
 it-vt-0124; Widerruf; la revoca; ; C1; Business/Vertrag/Laufzeit & Kündigung; La revoca deve pervenirci prima della consegna.; Der Widerruf muss uns vor der Lieferung erreichen.
 it-vt-0125; stillschweigende Verlängerung; il tacito rinnovo; il rinnovo tacito, il rinnovo automatico; C1; Business/Vertrag/Laufzeit & Kündigung; Il contratto prevede un tacito rinnovo di dodici mesi.; Der Vertrag enthält eine stillschweigende Verlängerung von zwölf Monaten.
@@ -134,7 +134,7 @@ it-vt-0131; Schiedsverfahren; l'arbitrato; la procedura arbitrale; C1; Business/
 it-vt-0132; Schlichtung; la conciliazione; ; C1; Business/Vertrag/Streitfall; Un esperto neutrale ha condotto la conciliazione tra le ditte.; Ein neutraler Experte leitete die Schlichtung zwischen den Firmen.
 it-vt-0133; außergerichtliche Einigung; l'accordo stragiudiziale; la composizione stragiudiziale; C1; Business/Vertrag/Streitfall; Per risparmiare sui costi entrambe le parti hanno preferito un accordo stragiudiziale.; Beide Seiten bevorzugten eine außergerichtliche Einigung, um Kosten zu sparen.
 it-vt-0134; Rechtsstreit; il contenzioso; la controversia legale; C1; Business/Vertrag/Streitfall; Il contenzioso sul brevetto è durato tre anni.; Der Rechtsstreit über das Patent dauerte drei Jahre.
-it-vt-0135; Berufung; l'appello; il ricorso in appello; C1; Business/Vertrag/Streitfall; La nostra ditta ha presentato appello contro la sentenza.; Unsere Firma legte Berufung gegen das Urteil ein.
+it-vt-0135; Berufung (Gericht); l'appello; il ricorso in appello; C1; Business/Vertrag/Streitfall; La nostra ditta ha presentato appello contro la sentenza.; Unsere Firma legte Berufung gegen das Urteil ein.
 it-vt-0136; geltend machen; far valere; ; C1; Business/Vertrag/Rechtsbegriffe; Deve far valere un diritto entro il termine di prescrizione.; Sie müssen einen Anspruch innerhalb der Verjährungsfrist geltend machen.
 it-vt-0137; beglaubigen; autenticare; certificare; C1; Business/Vertrag/Abschluss & Unterschrift; Il notaio ha autenticato le copie del contratto.; Der Notar beglaubigte die Kopien des Vertrags.
 it-vt-0138; gegenzeichnen; controfirmare; ; C1; Business/Vertrag/Abschluss & Unterschrift; L'amministratore delegato deve controfirmare ogni ordine importante.; Der Geschäftsführer muss jede große Bestellung gegenzeichnen.

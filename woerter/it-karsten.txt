@@ -52,7 +52,7 @@ it-ke-0049; Rücken, Rückseite; la schiena; il retro; A1; Karstens Empfehlung/W
 it-ke-0050; schlecht; cattivo; brutto, male; A1; Karstens Empfehlung/Wörter; Il film era davvero brutto, mi dispiace.; Der Film war wirklich schlecht, tut mir leid.
 it-ke-0051; Tasche, Beutel; la borsa; il sacchetto, la busta; A1; Karstens Empfehlung/Wörter; Le serve una borsa per questo?; Brauchen Sie dafür eine Tasche?
 it-ke-0052; Bäckerei; la panetteria; il panificio; A2; Karstens Empfehlung/Wörter; La panetteria nella nostra via ha un profumo meraviglioso.; Die Bäckerei in unserer Straße duftet herrlich.
-it-ke-0053; Bank; la banca; ; A2; Karstens Empfehlung/Wörter; La banca chiude alle quattro del pomeriggio.; Die Bank schließt um vier Uhr nachmittags.
+it-ke-0053; Bank (Geldinstitut); la banca; ; A2; Karstens Empfehlung/Wörter; La banca chiude alle quattro del pomeriggio.; Die Bank schließt um vier Uhr nachmittags.
 it-ke-0054; wunderschön; bellissimo; bello; A1; Karstens Empfehlung/Wörter; Dalla finestra si vede un paesaggio bellissimo.; Vom Fenster aus sieht man eine wunderschöne Landschaft.
 it-ke-0055; weil; perché; poiché; A1; Karstens Empfehlung/Wörter; Resto a casa perché ho il raffreddore.; Ich bleibe zu Hause, weil ich erkältet bin.
 it-ke-0056; Bett; il letto; ; A1; Karstens Empfehlung/Wörter; Vado a letto alle dieci.; Ich gehe um zehn Uhr ins Bett.
@@ -84,11 +84,11 @@ it-ke-0081; Schwager; il cognato; ; B1; Karstens Empfehlung/Wörter; Mio cognato
 it-ke-0082; braun; marrone; ; A1; Karstens Empfehlung/Wörter; Ho comprato un paio di scarpe marroni.; Ich habe ein Paar braune Schuhe gekauft.
 it-ke-0083; Gebäude; l'edificio; il palazzo; A2; Karstens Empfehlung/Wörter; Questo edificio è il più alto del paese.; Dieses Gebäude ist das höchste im Land.
 it-ke-0084; Bus; l'autobus; il bus; A1; Karstens Empfehlung/Wörter; L'autobus per il centro passa ogni dieci minuti.; Der Bus in die Stadt kommt alle zehn Minuten.
-it-ke-0085; Geschäft; l'affare; gli affari, l'attività, l'azienda; A2; Karstens Empfehlung/Wörter; L'affare con il nuovo partner va bene.; Das Geschäft mit dem neuen Partner läuft gut.
+it-ke-0085; Geschäft (Handel); l'affare; gli affari, l'attività, l'azienda; A2; Karstens Empfehlung/Wörter; L'affare con il nuovo partner va bene.; Das Geschäft mit dem neuen Partner läuft gut.
 it-ke-0086; aber; ma; però; A1; Karstens Empfehlung/Wörter; Vorrei uscire, ma devo ancora studiare.; Ich würde gern rausgehen, aber ich muss noch lernen.
 it-ke-0087; ruhig, still, unbewegt; calmo; tranquillo, quieto; A1; Karstens Empfehlung/Wörter; Per favore, resta calmo, va tutto bene.; Bitte bleib ruhig, alles ist in Ordnung.
 it-ke-0088; können; potere; ; A1; Karstens Empfehlung/Verben; Non posso venire alla festa sabato sera.; Ich kann am Samstagabend nicht zur Party kommen.
-it-ke-0089; Krebs; il cancro; il tumore; B1; Karstens Empfehlung/Wörter; Il fumo può causare il cancro ai polmoni.; Rauchen kann Lungenkrebs verursachen.
+it-ke-0089; Krebs (Krankheit); il cancro; il tumore; B1; Karstens Empfehlung/Wörter; Il fumo può causare il cancro ai polmoni.; Rauchen kann Lungenkrebs verursachen.
 it-ke-0090; offen, ehrlich, aufrichtig; sincero; franco, onesto, schietto; C1; Karstens Empfehlung/Wörter; Sii sincero con me, anche se fa male.; Sei ehrlich zu mir, auch wenn es wehtut.
 it-ke-0091; schlau, geschickt, gerissen; astuto; furbo, scaltro; C2; Karstens Empfehlung/Wörter; La volpe è un animale molto astuto.; Der Fuchs ist ein sehr schlaues Tier.
 it-ke-0092; Hauptstadt; la capitale; ; A2; Karstens Empfehlung/Wörter; Roma è la capitale dell'Italia ed è molto antica.; Rom ist die Hauptstadt Italiens und sehr alt.
@@ -121,7 +121,7 @@ it-ke-0118; bewölkt, trüb; nuvoloso; torbido; A2; Karstens Empfehlung/Wörter;
 it-ke-0119; ungeschickt, tollpatschig; goffo; maldestro, impacciato; B2; Karstens Empfehlung/Wörter; Sono un po' goffo quando ballo.; Ich bin ein bisschen tollpatschig, wenn ich tanze.
 it-ke-0120; kalt; freddo; ; A1; Karstens Empfehlung/Wörter; L'acqua del lago è fredda.; Das Wasser im See ist kalt.
 it-ke-0121; Sammlung; la collezione; la raccolta; A2; Karstens Empfehlung/Wörter; La sua collezione di francobolli riempie tre album spessi.; Seine Sammlung von Briefmarken füllt drei dicke Alben.
-it-ke-0122; Farbe; il colore; ; A1; Karstens Empfehlung/Wörter; Quale colore ti piace di più per le camicie?; Welche Farbe magst du bei Hemden am liebsten?
+it-ke-0122; Farbe (Farbton); il colore; ; A1; Karstens Empfehlung/Wörter; Quale colore ti piace di più per le camicie?; Welche Farbe magst du bei Hemden am liebsten?
 it-ke-0123; Gemeinde, Gemeinschaft; la comunità; il comune; B2; Karstens Empfehlung/Wörter; Una comunità forte sostiene i suoi membri più deboli.; Eine starke Gemeinschaft unterstützt ihre schwächsten Mitglieder.
 it-ke-0124; Begleitung, Firma; l'azienda; la compagnia, la società, la ditta; A1; Karstens Empfehlung/Wörter; Mia zia lavora in una grande azienda di trasporti.; Meine Tante arbeitet in einer großen Transportfirma.
 it-ke-0125; Bedingung; la condizione; ; B1; Karstens Empfehlung/Wörter; Una buona luce è una condizione importante per fare foto.; Gutes Licht ist eine wichtige Bedingung für das Fotografieren.
@@ -130,7 +130,7 @@ it-ke-0127; verwirrend; confuso; che confonde; B1; Karstens Empfehlung/Wörter; 
 it-ke-0128; zufrieden; contento; soddisfatto; B2; Karstens Empfehlung/Wörter; La mamma è contenta del mio voto in inglese.; Mama ist mit meiner Englischnote zufrieden.
 it-ke-0129; Kosten; il costo; i costi; B1; Karstens Empfehlung/Wörter; Il costo del biglietto è di dieci euro.; Die Kosten für die Fahrkarte betragen zehn Euro.
 it-ke-0130; könnte; potere; potrebbe; A2; Karstens Empfehlung/Verben; Potresti aiutarmi a portare questa borsa?; Könntest du mir helfen, diese Tasche zu tragen?
-it-ke-0131; Land; il paese; lo stato, la nazione; A1; Karstens Empfehlung/Wörter; La Germania è un grande paese in Europa.; Deutschland ist ein großes Land in Europa.
+it-ke-0131; Land (Staat); il paese; lo stato, la nazione; A1; Karstens Empfehlung/Wörter; La Germania è un grande paese in Europa.; Deutschland ist ein großes Land in Europa.
 it-ke-0132; ländlicher Raum; la campagna; ; A2; Karstens Empfehlung/Wörter; D'estate i nonni vivono in campagna.; Im Sommer leben die Großeltern auf dem Land.
 it-ke-0133; Kurs, Verlauf; il corso; l'andamento; B1; Karstens Empfehlung/Wörter; Mia sorella fa un corso di chitarra il martedì.; Meine Schwester macht dienstags einen Gitarrenkurs.
 it-ke-0134; Hof, Hinterhof, Gericht; il cortile; il tribunale, la corte; A2; Karstens Empfehlung/Wörter; Durante la ricreazione giochiamo nel cortile della scuola.; In der Pause spielen wir auf dem Schulhof.
@@ -198,19 +198,19 @@ it-ke-0195; Abend; la sera; la serata; A1; Karstens Empfehlung/Wörter; Questa s
 it-ke-0196; Ereignis, Vorfall; l'evento; l'avvenimento, l'incidente; B1; Karstens Empfehlung/Wörter; La caduta del muro fu un evento storico.; Der Mauerfall war ein historisches Ereignis.
 it-ke-0197; jemals; mai; ; A2; Karstens Empfehlung/Wörter; Sei mai stato a Venezia con la tua famiglia?; Warst du jemals mit deiner Familie in Venedig?
 it-ke-0199; Beweis; la prova; le prove; B1; Karstens Empfehlung/Wörter; La polizia non ha trovato nessuna prova contro il giovane.; Die Polizei fand keinen Beweis gegen den jungen Mann.
-it-ke-0200; böse; malvagio; cattivo; B1; Karstens Empfehlung/Wörter; Nella fiaba la strega malvagia vive nel bosco.; Im Märchen lebt die böse Hexe im Wald.
+it-ke-0200; böse (schlecht, gemein); malvagio; cattivo; B1; Karstens Empfehlung/Wörter; Nella fiaba la strega malvagia vive nel bosco.; Im Märchen lebt die böse Hexe im Wald.
 it-ke-0201; genau; esattamente; proprio; A2; Karstens Empfehlung/Wörter; Il treno parte esattamente alle otto.; Der Zug fährt genau um acht Uhr ab.
 it-ke-0202; Beispiel; l'esempio; ; A2; Karstens Empfehlung/Wörter; La maestra ci ha fatto un esempio alla lavagna.; Die Lehrerin hat uns an der Tafel ein Beispiel gegeben.
 it-ke-0203; aufgeregt; emozionato; eccitato, agitato; A2; Karstens Empfehlung/Wörter; I bambini sono emozionati per la gita scolastica.; Die Kinder sind wegen des Schulausflugs aufgeregt.
 it-ke-0204; Erfahrung; l'esperienza; ; A2; Karstens Empfehlung/Wörter; Ha molta esperienza con i bambini.; Sie hat viel Erfahrung mit Kindern.
-it-ke-0205; erfahren; esperto; ; B1; Karstens Empfehlung/Wörter; Il nostro allenatore è molto esperto di calcio.; Unser Trainer ist im Fußball sehr erfahren.
+it-ke-0205; erfahren (mit viel Erfahrung); esperto; ; B1; Karstens Empfehlung/Wörter; Il nostro allenatore è molto esperto di calcio.; Unser Trainer ist im Fußball sehr erfahren.
 it-ke-0206; Auge; l'occhio; ; A1; Karstens Empfehlung/Wörter; Il suo occhio sinistro è rosso e prude.; Ihr linkes Auge ist rot und juckt.
 it-ke-0207; Gesicht; la faccia; il viso, il volto; A1; Karstens Empfehlung/Wörter; Lavati la faccia prima di andare a scuola.; Wasch dir das Gesicht, bevor du zur Schule gehst.
 it-ke-0208; Fakt, Tatsache; il fatto; ; B1; Karstens Empfehlung/Wörter; Il fatto è che ho perso l'autobus.; Die Tatsache ist, dass ich den Bus verpasst habe.
 it-ke-0209; treu; fedele; ; B2; Karstens Empfehlung/Wörter; Le è sempre stato fedele.; Er war ihr immer treu.
 it-ke-0210; falsch, gefälscht; falso; contraffatto; B1; Karstens Empfehlung/Wörter; Questa notizia è falsa, non crederci.; Diese Nachricht ist falsch, glaub sie nicht.
 it-ke-0211; Familie; la famiglia; ; A1; Karstens Empfehlung/Wörter; La nostra famiglia mangia insieme ogni sera.; Unsere Familie isst jeden Abend zusammen.
-it-ke-0212; weit; lontano; ; A1; Karstens Empfehlung/Wörter; La stazione è troppo lontano per andare a piedi.; Der Bahnhof ist zu weit, um zu Fuß zu gehen.
+it-ke-0212; weit (Entfernung); lontano; ; A1; Karstens Empfehlung/Wörter; La stazione è troppo lontano per andare a piedi.; Der Bahnhof ist zu weit, um zu Fuß zu gehen.
 it-ke-0213; schnell; veloce; velocemente, rapido; A1; Karstens Empfehlung/Wörter; Questo treno è molto veloce e moderno.; Dieser Zug ist sehr schnell und modern.
 it-ke-0214; Vater; il padre; il papà; A1; Karstens Empfehlung/Wörter; Mio padre lavora all'aeroporto.; Mein Vater arbeitet am Flughafen.
 it-ke-0215; Angst; la paura; il timore; A1; Karstens Empfehlung/Wörter; Il bambino ha paura dei cani grandi.; Das Kind hat Angst vor großen Hunden.
@@ -283,7 +283,7 @@ it-ke-0281; hilfsbereit; disponibile; servizievole; B1; Karstens Empfehlung/Wör
 it-ke-0282; hilflos; indifeso; impotente; B2; Karstens Empfehlung/Wörter; Il piccolo uccellino caduto dal nido era indifeso.; Das kleine Vögelchen, das aus dem Nest gefallen war, war hilflos.
 it-ke-0283; hier; qui; qua; A1; Karstens Empfehlung/Wörter; Vieni qui, ti voglio mostrare una cosa.; Komm hierher, ich will dir etwas zeigen.
 it-ke-0284; hoch; alto; ; A1; Karstens Empfehlung/Wörter; Quella montagna è molto alta e piena di neve.; Dieser Berg ist sehr hoch und voller Schnee.
-it-ke-0285; Geschichte; la storia; ; A1; Karstens Empfehlung/Wörter; Trovo molto interessante la storia tedesca.; Ich finde die deutsche Geschichte sehr interessant.
+it-ke-0285; Geschichte (Vergangenheit); la storia; ; A1; Karstens Empfehlung/Wörter; Trovo molto interessante la storia tedesca.; Ich finde die deutsche Geschichte sehr interessant.
 it-ke-0286; Treffer, Schlag; il colpo; il successo; B1; Karstens Empfehlung/Wörter; Il pugile ha ricevuto un colpo sul naso.; Der Boxer hat einen Schlag auf die Nase bekommen.
 it-ke-0287; Zuhause, Heimat; la casa; la patria; A1; Karstens Empfehlung/Wörter; Dopo la scuola torno subito a casa.; Nach der Schule gehe ich sofort nach Hause.
 it-ke-0288; ehrlich; onesto; sincero; B1; Karstens Empfehlung/Wörter; Per essere onesto, il film non mi è piaciuto.; Um ehrlich zu sein, der Film hat mir nicht gefallen.
@@ -323,7 +323,7 @@ it-ke-0321; Kindergarten; la scuola materna; l'asilo; A1; Karstens Empfehlung/W�
 it-ke-0322; Küche; la cucina; ; A1; Karstens Empfehlung/Wörter; Prepariamo la cena insieme in cucina.; Wir kochen das Abendessen zusammen in der Küche.
 it-ke-0323; Wissen; la conoscenza; il sapere; B1; Karstens Empfehlung/Wörter; La conoscenza delle lingue è utile per viaggiare.; Das Wissen über Sprachen ist nützlich zum Reisen.
 it-ke-0324; See; il lago; ; A2; Karstens Empfehlung/Wörter; D'estate nuotiamo nel lago.; Im Sommer schwimmen wir im See.
-it-ke-0325; Land; la terra; il paese; A2; Karstens Empfehlung/Wörter; Il contadino lavora la terra con il trattore.; Der Bauer bearbeitet das Land mit dem Traktor.
+it-ke-0325; Land (Boden); la terra; il terreno; A2; Karstens Empfehlung/Wörter; Il contadino lavora la terra con il trattore.; Der Bauer bearbeitet das Land mit dem Traktor.
 it-ke-0326; Sprache; la lingua; il linguaggio; A1; Karstens Empfehlung/Wörter; L'inglese è una lingua facile per me.; Englisch ist eine leichte Sprache für mich.
 it-ke-0328; spät; tardi; in ritardo; A1; Karstens Empfehlung/Wörter; Scusa, sono in ritardo, l'autobus era lento.; Entschuldigung, ich bin zu spät, der Bus war langsam.
 it-ke-0329; Gesetz; la legge; ; B1; Karstens Empfehlung/Wörter; La nuova legge entrerà in vigore a gennaio.; Das neue Gesetz tritt im Januar in Kraft.
@@ -370,7 +370,7 @@ it-ke-0369; Geld; i soldi; il denaro; A1; Karstens Empfehlung/Wörter; Risparmio
 it-ke-0370; Monat; il mese; ; A1; Karstens Empfehlung/Wörter; Luglio è il mio mese preferito dell'anno.; Juli ist mein Lieblingsmonat im Jahr.
 it-ke-0371; mehr; più; ; A1; Karstens Empfehlung/Wörter; Vorrei più tempo per giocare con i miei amici.; Ich hätte gern mehr Zeit, um mit meinen Freunden zu spielen.
 it-ke-0372; Morgen; la mattina; il mattino; A1; Karstens Empfehlung/Wörter; Ogni mattina alle sette bevo un caffè.; Ich trinke jeden Morgen um sieben Kaffee.
-it-ke-0373; Mutter; la madre; la mamma; A1; Karstens Empfehlung/Wörter; Mia madre fa la torta più buona.; Meine Mutter macht den besten Kuchen.
+it-ke-0373; Mutter (Elternteil); la madre; la mamma; A1; Karstens Empfehlung/Wörter; Mia madre fa la torta più buona.; Meine Mutter macht den besten Kuchen.
 it-ke-0374; Berg; la montagna; il monte; A1; Karstens Empfehlung/Wörter; D'inverno la montagna è coperta di neve.; Der Berg ist im Winter mit Schnee bedeckt.
 it-ke-0375; Mund; la bocca; ; A1; Karstens Empfehlung/Wörter; Per favore, apra la bocca per il medico.; Bitte öffnen Sie den Mund für den Arzt.
 it-ke-0376; Bewegung; il movimento; ; B1; Karstens Empfehlung/Wörter; Il movimento delle onde mi rilassa molto.; Die Bewegung der Wellen entspannt mich sehr.
@@ -387,7 +387,7 @@ it-ke-0387; notwendig; necessario; ; B1; Karstens Empfehlung/Wörter; È necessa
 it-ke-0388; Neffe; il nipote; ; A2; Karstens Empfehlung/Wörter; Suo nipote gioca a calcio in una piccola squadra.; Ihr Neffe spielt Fußball in einem kleinen Verein.
 it-ke-0389; nie; mai; ; A1; Karstens Empfehlung/Wörter; Dopo cena non beve mai il caffè.; Er trinkt nach dem Abendessen nie Kaffee.
 it-ke-0390; neu; nuovo; ; A1; Karstens Empfehlung/Wörter; Mi servono scarpe nuove per l'inverno.; Ich brauche neue Schuhe für den Winter.
-it-ke-0391; Nachricht; le notizie; la notizia; A2; Karstens Empfehlung/Wörter; Hai sentito le notizie di oggi alla radio?; Hast du die Nachrichten von heute im Radio gehört?
+it-ke-0391; Nachricht (Neuigkeit); le notizie; la notizia; A2; Karstens Empfehlung/Wörter; Hai sentito le notizie di oggi alla radio?; Hast du die Nachrichten von heute im Radio gehört?
 it-ke-0392; Zeitung; il giornale; ; A1; Karstens Empfehlung/Wörter; Mio padre legge il giornale ogni mattina.; Mein Vater liest jeden Morgen die Zeitung.
 it-ke-0393; nächster, nächste, nächstes; prossimo; ; A1; Karstens Empfehlung/Wörter; La prossima settimana andiamo in gita al museo.; Nächste Woche machen wir einen Ausflug ins Museum.
 it-ke-0394; nett; carino; simpatico, bello; A1; Karstens Empfehlung/Wörter; La nuova vicina è molto carina con noi.; Die neue Nachbarin ist sehr nett zu uns.
@@ -437,7 +437,7 @@ it-ke-0437; Party; la festa; ; A1; Karstens Empfehlung/Wörter; La festa cominci
 it-ke-0438; vergangen, vorbei, Vergangenheit; passato; il passato; A2; Karstens Empfehlung/Wörter; Il mese passato siamo andati dai nonni.; Im vergangenen Monat sind wir zu den Großeltern gefahren.
 it-ke-0439; Geduld; la pazienza; ; B1; Karstens Empfehlung/Wörter; Con un po' di pazienza imparerai a nuotare.; Mit ein bisschen Geduld wirst du schwimmen lernen.
 it-ke-0440; geduldig; paziente; ; B1; Karstens Empfehlung/Wörter; Con i bambini piccoli bisogna essere pazienti.; Mit kleinen Kindern muss man geduldig sein.
-it-ke-0441; Muster; il modello; lo schema, il motivo; B1; Karstens Empfehlung/Wörter; Mi piace il modello a righe di questa maglietta.; Mir gefällt das Streifenmuster dieses T-Shirts.
+it-ke-0441; Muster (Design); il motivo; la fantasia, il disegno; B1; Karstens Empfehlung/Wörter; Mi piace il motivo a righe di questa maglietta.; Mir gefällt das Streifenmuster dieses T-Shirts.
 it-ke-0442; Friede; la pace; ; B1; Karstens Empfehlung/Wörter; Tutti i popoli desiderano vivere in pace.; Alle Völker wünschen sich, in Frieden zu leben.
 it-ke-0443; Leute; la gente; le persone; A1; Karstens Empfehlung/Wörter; Molta gente aspetta davanti al negozio.; Viele Leute warten vor dem Geschäft.
 it-ke-0444; Leistung; la prestazione; il rendimento; B2; Karstens Empfehlung/Wörter; Durante l'inverno la sua prestazione è migliorata nettamente.; Ihre Leistung verbesserte sich über den Winter deutlich.
@@ -469,7 +469,7 @@ it-ke-0470; Gegenwart, Geschenk, gegenwärtig; il presente; il regalo, attuale; 
 it-ke-0471; Präsident; il presidente; la presidente, la presidentessa; A2; Karstens Empfehlung/Wörter; Il presidente ha visitato la nostra città la settimana scorsa.; Der Präsident besuchte letzte Woche unsere Stadt.
 it-ke-0472; Druck; la pressione; ; B1; Karstens Empfehlung/Wörter; La pressione della gomma è troppo bassa.; Der Druck im Reifen ist zu niedrig.
 it-ke-0473; hübsch (weiblich); carina; graziosa, bella; A1; Karstens Empfehlung/Wörter; La tua sorellina è davvero carina con quel vestito.; Deine kleine Schwester ist in dem Kleid wirklich hübsch.
-it-ke-0474; Preis; il prezzo; ; A2; Karstens Empfehlung/Wörter; Il prezzo comprende consegna e montaggio.; Der Preis beinhaltet Lieferung und Montage.
+it-ke-0474; Preis (Kosten); il prezzo; ; A2; Karstens Empfehlung/Wörter; Il prezzo comprende consegna e montaggio.; Der Preis beinhaltet Lieferung und Montage.
 it-ke-0475; privat; privato; ; B1; Karstens Empfehlung/Wörter; Questa è una spiaggia privata, non si può entrare.; Das ist ein privater Strand, man darf nicht hinein.
 it-ke-0476; wahrscheinlich; probabilmente; ; A2; Karstens Empfehlung/Wörter; Domani probabilmente pioverà tutto il giorno.; Morgen wird es wahrscheinlich den ganzen Tag regnen.
 it-ke-0477; Problem; il problema; ; A2; Karstens Empfehlung/Wörter; Abbiamo trovato un problema nel software.; Wir haben ein Problem mit der Software gefunden.
@@ -481,7 +481,7 @@ it-ke-0482; beruflich, fachmännisch; professionale; ; B1; Karstens Empfehlung/W
 it-ke-0483; Projekt, Vorhaben; il progetto; ; A2; Karstens Empfehlung/Wörter; La nostra classe lavora a un progetto di scienze.; Unsere Klasse arbeitet an einem Wissenschaftsprojekt.
 it-ke-0484; Besitz; la proprietà; il possesso; B2; Karstens Empfehlung/Wörter; Questo terreno è proprietà del comune.; Dieses Grundstück ist Besitz der Gemeinde.
 it-ke-0485; öffentlich, staatlich; pubblico; statale; B1; Karstens Empfehlung/Wörter; Vicino a casa mia c'è un parco pubblico.; In der Nähe meines Hauses gibt es einen öffentlichen Park.
-it-ke-0486; pünktlich; puntuale; ; B2; Karstens Empfehlung/Wörter; Oggi il treno è arrivato perfettamente puntuale.; Der Zug kam heute genau pünktlich an.
+it-ke-0486; pünktlich; puntuale; in orario, puntualmente; B2; Karstens Empfehlung/Wörter; Oggi il treno è arrivato perfettamente puntuale.; Der Zug kam heute genau pünktlich an.
 it-ke-0487; Zweck, Ziel, Absicht; lo scopo; l'obiettivo, l'intenzione; B1; Karstens Empfehlung/Wörter; Lo scopo dell'incontro è pianificare il viaggio.; Der Zweck des Treffens ist es, die Reise zu planen.
 it-ke-0488; Qualität; la qualità; ; B1; Karstens Empfehlung/Wörter; Quando faccio acquisti la qualità conta più della quantità.; Beim Einkaufen ist mir Qualität wichtiger als Menge.
 it-ke-0489; Frage; la domanda; ; A1; Karstens Empfehlung/Wörter; Ho una domanda sui compiti.; Ich habe eine Frage zu den Hausaufgaben.
@@ -492,7 +492,7 @@ it-ke-0493; Radio, Funk; la radio; ; A1; Karstens Empfehlung/Wörter; In macchin
 it-ke-0494; Bahnhof; la stazione ferroviaria; la stazione; A2; Karstens Empfehlung/Wörter; Ci vediamo alla stazione ferroviaria alle nove.; Wir treffen uns um neun am Bahnhof.
 it-ke-0495; Regen; la pioggia; ; A1; Karstens Empfehlung/Wörter; Ci serve più pioggia per il giardino.; Wir brauchen mehr Regen für den Garten.
 it-ke-0496; regnerisch; piovoso; ; A2; Karstens Empfehlung/Wörter; Novembre è un mese freddo e piovoso.; November ist ein kalter und regnerischer Monat.
-it-ke-0497; Reichweite; la portata; la gamma; C1; Karstens Empfehlung/Wörter; Tieni le medicine fuori dalla portata dei bambini.; Halte die Medikamente außerhalb der Reichweite von Kindern.
+it-ke-0497; Reichweite (Fahrzeug); l'autonomia; ; C1; Karstens Empfehlung/Wörter; Con il freddo l'autonomia dell'auto elettrica cala molto.; Bei Kälte sinkt die Reichweite des Elektroautos stark.
 it-ke-0498; lieber; piuttosto; ; B1; Karstens Empfehlung/Wörter; Preferisco piuttosto restare a casa stasera.; Ich bleibe heute Abend lieber zu Hause.
 it-ke-0499; fertig, bereit; pronto; ; A1; Karstens Empfehlung/Wörter; La cena è pronta, venite a tavola!; Das Abendessen ist fertig, kommt an den Tisch!
 it-ke-0500; wirklich; vero; reale; A2; Karstens Empfehlung/Wörter; È una storia vera, è successa davvero.; Das ist eine wahre Geschichte, sie ist wirklich passiert.
@@ -524,7 +524,7 @@ it-ke-0526; grob, rau, uneben; ruvido; grezzo, irregolare; B1; Karstens Empfehlu
 it-ke-0527; rund, rundlich; rotondo; tondo; A2; Karstens Empfehlung/Wörter; Abbiamo un tavolo rotondo in cucina.; Wir haben einen runden Tisch in der Küche.
 it-ke-0528; unhöflich; maleducato; scortese; B1; Karstens Empfehlung/Wörter; È maleducato interrompere gli altri.; Es ist unhöflich, andere Menschen zu unterbrechen.
 it-ke-0529; sicher; sicuro; ; A2; Karstens Empfehlung/Wörter; Conserva il passaporto in un posto sicuro.; Bewahre deinen Reisepass an einem sicheren Ort auf.
-it-ke-0530; gleich; stesso; uguale; A2; Karstens Empfehlung/Wörter; Io e Marco abbiamo lo stesso zaino.; Marco und ich haben den gleichen Rucksack.
+it-ke-0530; gleich (derselbe); stesso; uguale; A2; Karstens Empfehlung/Wörter; Io e Marco abbiamo lo stesso zaino.; Marco und ich haben den gleichen Rucksack.
 it-ke-0531; Samstag; il sabato; sabato; A1; Karstens Empfehlung/Wörter; Sabato andiamo al mercato.; Am Samstag gehen wir auf den Markt.
 it-ke-0532; Schauplatz, Szene; la scena; ; B1; Karstens Empfehlung/Wörter; La scena finale del film mi ha fatto piangere.; Die letzte Szene des Films hat mich zum Weinen gebracht.
 it-ke-0533; Schule; la scuola; ; A1; Karstens Empfehlung/Wörter; La nostra scuola è vicino al grande parco.; Unsere Schule ist in der Nähe des großen Parks.
@@ -577,7 +577,7 @@ it-ke-0579; Lied; la canzone; ; A2; Karstens Empfehlung/Wörter; Questa canzone 
 it-ke-0580; bald; presto; tra poco; A2; Karstens Empfehlung/Wörter; Ci vediamo presto, buone vacanze a tutti!; Wir sehen uns bald, schöne Ferien euch allen!
 it-ke-0581; Geräusch, Klang; il suono; il rumore; A2; Karstens Empfehlung/Wörter; Mi piace il suono della pioggia sul tetto.; Ich mag das Geräusch des Regens auf dem Dach.
 it-ke-0582; Suppe; la zuppa; la minestra; A1; Karstens Empfehlung/Wörter; D'inverno la nonna prepara una zuppa calda.; Oma macht im Winter eine warme Suppe.
-it-ke-0583; sauer; acido; aspro; B1; Karstens Empfehlung/Wörter; La salsa al limone è piacevolmente acida.; Die Zitronensoße ist angenehm sauer.
+it-ke-0583; sauer (Geschmack); acido; aspro; B1; Karstens Empfehlung/Wörter; La salsa al limone è piacevolmente acida.; Die Zitronensoße ist angenehm sauer.
 it-ke-0584; Quelle, Ursprung; la fonte; l'origine; B2; Karstens Empfehlung/Wörter; Un buon giornalista controlla sempre con cura le sue fonti.; Ein guter Journalist prüft seine Quellen immer sorgfältig.
 it-ke-0585; Süden; il sud; ; A2; Karstens Empfehlung/Wörter; D'estate andiamo in vacanza al sud.; Im Sommer fahren wir in den Süden in Urlaub.
 it-ke-0586; südlich; meridionale; del sud; B1; Karstens Empfehlung/Wörter; La Sicilia si trova nell'Italia meridionale.; Sizilien liegt im südlichen Italien.
@@ -603,7 +603,7 @@ it-ke-0605; Geschäft, Laden; il negozio; ; A1; Karstens Empfehlung/Wörter; Il 
 it-ke-0606; Sturm; la tempesta; ; A2; Karstens Empfehlung/Wörter; La tempesta ha spezzato molti vecchi alberi.; Der Sturm brach viele alte Bäume.
 it-ke-0607; stürmisch; tempestoso; ; B1; Karstens Empfehlung/Wörter; Ieri il mare era tempestoso e pericoloso.; Gestern war das Meer stürmisch und gefährlich.
 it-ke-0608; Geschichte, Erzählung; la storia; il racconto; A1; Karstens Empfehlung/Wörter; Trovo molto interessante la storia tedesca.; Ich finde die deutsche Geschichte sehr interessant.
-it-ke-0609; gerade; dritto; diritto; A2; Karstens Empfehlung/Wörter; Vai sempre dritto e poi gira a sinistra.; Geh immer geradeaus und bieg dann links ab.
+it-ke-0609; gerade (nicht krumm); dritto; diritto; A2; Karstens Empfehlung/Wörter; Con il righello traccia una linea dritta.; Zieh mit dem Lineal eine gerade Linie.
 it-ke-0610; Bach; il ruscello; ; B1; Karstens Empfehlung/Wörter; Dietro la casa scorre un ruscello limpido.; Hinter dem Haus fließt ein klarer Bach.
 it-ke-0612; stark, kräftig, stabil; forte; robusto, stabile; A1; Karstens Empfehlung/Wörter; Nei momenti difficili bisogna essere forti.; In schweren Zeiten muss man stark sein.
 it-ke-0613; Struktur, Gliederung, Gebäude; la struttura; ; B2; Karstens Empfehlung/Wörter; La struttura del tema deve essere chiara.; Die Gliederung des Aufsatzes muss klar sein.
@@ -612,7 +612,7 @@ it-ke-0615; Zeug, Kram; la roba; ; B1; Karstens Empfehlung/Wörter; Metti via la
 it-ke-0616; dumm; stupido; ; A2; Karstens Empfehlung/Wörter; È stato stupido dimenticare l'ombrello.; Es war dumm, meinen Regenschirm zu vergessen.
 it-ke-0617; Stil; lo stile; ; B1; Karstens Empfehlung/Wörter; Mi piace molto lo stile di questa casa.; Mir gefällt der Stil dieses Hauses sehr.
 it-ke-0618; Thema, Fach; l'argomento; la materia, il tema; A2; Karstens Empfehlung/Wörter; Qual è l'argomento della lezione di oggi?; Was ist das Thema der heutigen Stunde?
-it-ke-0619; U-Bahn; la metropolitana; il metro; A2; Karstens Empfehlung/Wörter; Qui la metropolitana passa ogni cinque minuti.; Die U-Bahn fährt hier alle fünf Minuten.
+it-ke-0619; U-Bahn; la metropolitana; la metro; A2; Karstens Empfehlung/Wörter; Qui la metropolitana passa ogni cinque minuti.; Die U-Bahn fährt hier alle fünf Minuten.
 it-ke-0620; Erfolg; il successo; ; A2; Karstens Empfehlung/Wörter; La festa della scuola è stata un grande successo.; Das Schulfest war ein großer Erfolg.
 it-ke-0621; erfolgreich; di successo; ; B1; Karstens Empfehlung/Wörter; Mia zia è una cuoca di successo a Torino.; Meine Tante ist eine erfolgreiche Köchin in Turin.
 it-ke-0622; plötzlich; improvvisamente; all'improvviso; A2; Karstens Empfehlung/Wörter; Improvvisamente ha cominciato a piovere molto forte.; Plötzlich begann es sehr stark zu regnen.
@@ -635,14 +635,14 @@ it-ke-0638; Lehrer; l'insegnante; il maestro, la maestra, il professore, la prof
 it-ke-0639; zart, weich; tenero; delicato; B2; Karstens Empfehlung/Wörter; La carne era così tenera che si scioglieva in bocca.; Das Fleisch war so zart dass es zerging.
 it-ke-0640; Begriff, Semester; il termine; il semestre; B2; Karstens Empfehlung/Wörter; Non conosco il significato di questo termine.; Ich kenne die Bedeutung dieses Begriffs nicht.
 it-ke-0641; furchtbar, schrecklich; terribile; tremendo; A2; Karstens Empfehlung/Wörter; Durante le nostre vacanze il tempo è stato terribile.; Das Wetter war schrecklich während unseres Urlaubs.
-it-ke-0642; als; di; che; A2; Karstens Empfehlung/Wörter; Mia sorella è più alta di me.; Meine Schwester ist größer als ich.
+it-ke-0642; als (Vergleich); di; che; A2; Karstens Empfehlung/Wörter; Mia sorella è più alta di me.; Meine Schwester ist größer als ich.
 it-ke-0643; dass; che; ; A2; Karstens Empfehlung/Wörter; Penso che domani pioverà tutto il giorno.; Ich denke, dass es morgen den ganzen Tag regnet.
 it-ke-0644; dann, danach, damals; poi; allora, dopo; A1; Karstens Empfehlung/Wörter; Prima mangiamo e poi andiamo al parco.; Zuerst essen wir und dann gehen wir in den Park.
 it-ke-0645; Theorie; la teoria; ; B1; Karstens Empfehlung/Wörter; Una buona teoria si può verificare con gli esperimenti.; Eine gute Theorie lässt sich durch Experimente prüfen.
 it-ke-0646; da, dort; lì; là; A1; Karstens Empfehlung/Wörter; Metti la borsa lì, vicino alla porta.; Stell die Tasche dort ab, neben die Tür.
 it-ke-0647; daher, deshalb; quindi; perciò; B2; Karstens Empfehlung/Wörter; Piove forte, quindi restiamo a casa oggi.; Es regnet stark, deshalb bleiben wir heute zu Hause.
 it-ke-0648; diese (Plural); questi; queste; A1; Karstens Empfehlung/Wörter; Questi libri sono della biblioteca della scuola.; Diese Bücher gehören der Schulbibliothek.
-it-ke-0649; dick; spesso; grosso; A2; Karstens Empfehlung/Wörter; Questo libro è molto spesso e pesante.; Dieses Buch ist sehr dick und schwer.
+it-ke-0649; dick (Gegenstand); spesso; grosso; A2; Karstens Empfehlung/Wörter; Questo libro è molto spesso e pesante.; Dieses Buch ist sehr dick und schwer.
 it-ke-0650; dünn; sottile; magro; A2; Karstens Empfehlung/Wörter; Il ghiaccio sul lago è ancora troppo sottile.; Das Eis auf dem See ist noch zu dünn.
 it-ke-0651; Ding, Sache; la cosa; ; A1; Karstens Empfehlung/Wörter; Ho tante cose da fare questo fine settimana.; Ich habe am Wochenende viele Dinge zu erledigen.
 it-ke-0652; dieser, diese, dieses; questo; questa; A1; Karstens Empfehlung/Wörter; Questo zaino è nuovo, l'ho comprato ieri.; Dieser Rucksack ist neu, ich habe ihn gestern gekauft.
@@ -689,7 +689,7 @@ it-ke-0692; etwas kaufen; comprare; acquistare; A1; Karstens Empfehlung/Verben; 
 it-ke-0693; rufen; chiamare; ; A2; Karstens Empfehlung/Verben; La mamma mi chiama per la cena.; Mama ruft mich zum Abendessen.
 it-ke-0694; jemanden anrufen; telefonare a qualcuno; telefonare, chiamare; A2; Karstens Empfehlung/Verben; Stasera devo telefonare alla nonna per gli auguri.; Heute Abend muss ich die Oma anrufen und gratulieren.
 it-ke-0695; sich kümmern um; prendersi cura di; occuparsi di; B1; Karstens Empfehlung/Verben; Si prende cura di sua madre malata.; Sie kümmert sich um ihre kranke Mutter.
-it-ke-0696; tragen; portare; ; A2; Karstens Empfehlung/Verben; Alla festa porta un vestito rosso.; Sie trägt ein rotes Kleid auf der Party.
+it-ke-0696; tragen (Last); portare; ; A2; Karstens Empfehlung/Verben; Mi aiuti a portare questa scatola pesante?; Hilfst du mir, diese schwere Kiste zu tragen?
 it-ke-0697; fangen; prendere; afferrare; A2; Karstens Empfehlung/Verben; Al cane piace tantissimo prendere la palla.; Der Hund liebt es, den Ball zu fangen.
 it-ke-0698; verursachen; causare; provocare; B1; Karstens Empfehlung/Verben; La forte pioggia ha causato gravi problemi sulle strade.; Der starke Regen verursachte ernste Probleme auf den Straßen.
 it-ke-0699; ändern; cambiare; modificare; A2; Karstens Empfehlung/Verben; Voglio cambiare il colore della mia camera.; Ich will die Farbe meines Zimmers ändern.
@@ -747,7 +747,7 @@ it-ke-0750; geben; dare; ; A1; Karstens Empfehlung/Verben; Per favore, dammi il 
 it-ke-0751; gehen, fahren; andare; ; A1; Karstens Empfehlung/Verben; Andiamo a scuola ogni mattina.; Wir gehen jeden Morgen zur Schule.
 it-ke-0752; spazieren gehen; fare una passeggiata; passeggiare; A2; Karstens Empfehlung/Verben; Dopo pranzo facciamo una passeggiata nel parco.; Nach dem Mittagessen gehen wir im Park spazieren.
 it-ke-0753; wachsen; crescere; ; A2; Karstens Empfehlung/Verben; D'estate questi fiori crescono molto in fretta.; Diese Blumen wachsen im Sommer sehr schnell.
-it-ke-0754; raten; indovinare; ; A2; Karstens Empfehlung/Verben; Riesci a indovinare quanti anni ha mia nonna?; Kannst du raten, wie alt meine Großmutter ist?
+it-ke-0754; raten (schätzen); indovinare; ; A2; Karstens Empfehlung/Verben; Riesci a indovinare quanti anni ha mia nonna?; Kannst du raten, wie alt meine Großmutter ist?
 it-ke-0755; passieren, geschehen; succedere; accadere; A2; Karstens Empfehlung/Verben; Cosa è successo ieri durante la ricreazione?; Was ist gestern in der Pause passiert?
 it-ke-0756; etwas haben; avere; ; A1; Karstens Empfehlung/Verben; Abbiamo due gatti e un cane.; Wir haben zwei Katzen und einen Hund.
 it-ke-0757; etwas tun müssen; dover fare qualcosa; dovere; A2; Karstens Empfehlung/Verben; Oggi devo fare molti compiti di storia.; Heute muss ich viele Geschichtsaufgaben machen.
@@ -756,7 +756,7 @@ it-ke-0759; helfen; aiutare; ; A1; Karstens Empfehlung/Verben; Puoi aiutarmi con
 it-ke-0760; jemandem aushelfen, einspringen; dare una mano a qualcuno; aiutare, sostituire qualcuno; B1; Karstens Empfehlung/Verben; Puoi darmi una mano a sistemare la cucina?; Kannst du mir beim Aufräumen der Küche aushelfen?
 it-ke-0761; jemandem mit etwas helfen; aiutare qualcuno con qualcosa; aiutare qualcuno a fare qualcosa; A2; Karstens Empfehlung/Verben; Aiuto mia sorella con i compiti di matematica.; Ich helfe meiner Schwester bei den Matheaufgaben.
 it-ke-0762; schlagen, treffen; colpire; picchiare; B1; Karstens Empfehlung/Verben; La palla ha colpito la finestra del vicino.; Der Ball hat das Fenster des Nachbarn getroffen.
-it-ke-0763; halten; tenere; ; A2; Karstens Empfehlung/Verben; Tieni il cane al guinzaglio nel parco.; Halte den Hund im Park an der Leine.
+it-ke-0763; halten (festhalten); tenere; ; A2; Karstens Empfehlung/Verben; Tieni il cane al guinzaglio nel parco.; Halte den Hund im Park an der Leine.
 it-ke-0764; hoffen; sperare; ; A1; Karstens Empfehlung/Verben; Spero che domani faccia bel tempo.; Ich hoffe, das Wetter ist morgen schön.
 it-ke-0765; sich vorstellen; immaginare; immaginarsi; B1; Karstens Empfehlung/Verben; Immagina di vivere in un castello sul mare.; Stell dir vor, in einer Burg am Meer zu leben.
 it-ke-0766; verbessern; migliorare; ; A2; Karstens Empfehlung/Verben; Quest'anno voglio migliorare il mio inglese.; Ich möchte dieses Jahr mein Englisch verbessern.
@@ -827,7 +827,7 @@ it-ke-0830; verringern, reduzieren; ridurre; diminuire; B1; Karstens Empfehlung/
 it-ke-0831; nachdenken, überlegen; riflettere; ; B2; Karstens Empfehlung/Verben; Prima di rispondere, rifletti bene sulla domanda.; Bevor du antwortest, denk gut über die Frage nach.
 it-ke-0832; in Zusammenhang bringen; mettere in relazione; collegare; C1; Karstens Empfehlung/Verben; Prova a mettere in relazione le due immagini.; Versuch, die beiden Bilder in Zusammenhang zu bringen.
 it-ke-0833; übrigbleiben, verbleiben; rimanere; restare; B2; Karstens Empfehlung/Verben; Dopo la festa sono rimaste molte fette di torta.; Nach der Party sind viele Kuchenstücke übrig geblieben.
-it-ke-0834; erinnern; ricordare; ricordarsi; A2; Karstens Empfehlung/Verben; Non riesco a ricordare il suo numero di telefono.; Ich kann mich nicht an seine Telefonnummer erinnern.
+it-ke-0834; sich erinnern; ricordare; ricordarsi; A2; Karstens Empfehlung/Verben; Non riesco a ricordare il suo numero di telefono.; Ich kann mich nicht an seine Telefonnummer erinnern.
 it-ke-0835; entfernen; rimuovere; togliere; B1; Karstens Empfehlung/Verben; Puoi rimuovere quella macchia dalla mia maglietta?; Kannst du den Fleck von meinem T-Shirt entfernen?
 it-ke-0836; berichten; riferire; riportare; B1; Karstens Empfehlung/Verben; Diversi giornali hanno riferito della nuova legge.; Mehrere Zeitungen berichteten über das neue Gesetz.
 it-ke-0837; benötigen; richiedere; avere bisogno di; B2; Karstens Empfehlung/Verben; Questo esercizio richiede molta concentrazione e tempo.; Diese Übung benötigt viel Konzentration und Zeit.
@@ -853,7 +853,7 @@ it-ke-0856; zeigen; mostrare; ; A1; Karstens Empfehlung/Verben; Mi puoi mostrare
 it-ke-0857; angeben, prahlen; vantarsi; darsi delle arie; B2; Karstens Empfehlung/Verben; Luca si vanta sempre delle sue scarpe nuove.; Luca prahlt immer mit seinen neuen Schuhen.
 it-ke-0858; jemandem etwas zeigen; mostrare qualcosa a qualcuno; far vedere qualcosa a qualcuno; A2; Karstens Empfehlung/Verben; Domani ti mostro le foto del mio viaggio.; Morgen zeige ich dir die Fotos von meiner Reise.
 it-ke-0859; singen; cantare; ; A1; Karstens Empfehlung/Verben; Cantiamo una canzone durante la lezione d'inglese.; Wir singen ein Lied im Englischunterricht.
-it-ke-0860; sitzen; sedersi; stare seduto, essere seduto; A1; Karstens Empfehlung/Verben; Siediti qui vicino a me, c'è posto.; Setz dich hier neben mich, es ist Platz.
+it-ke-0860; sitzen; essere seduto; stare seduto, sedere; A1; Karstens Empfehlung/Verben; Siamo seduti in giardino e beviamo il tè.; Wir sitzen im Garten und trinken Tee.
 it-ke-0861; auf etwas sitzen; sedersi su qualcosa; stare seduto su qualcosa; A1; Karstens Empfehlung/Verben; Non sederti sul tavolo, usa una sedia.; Setz dich nicht auf den Tisch, nimm einen Stuhl.
 it-ke-0862; lächeln; sorridere; ; A1; Karstens Empfehlung/Verben; Sorride ogni volta che lo vede.; Sie lächelt jedes Mal, wenn sie ihn sieht.
 it-ke-0863; sortieren, ordnen; ordinare; smistare, sistemare; B1; Karstens Empfehlung/Verben; Dobbiamo ordinare i libri in ordine alfabetico.; Wir müssen die Bücher alphabetisch sortieren.
@@ -888,7 +888,7 @@ it-ke-0891; versuchen, probieren; provare; cercare di; B1; Karstens Empfehlung/V
 it-ke-0892; sich umdrehen, wenden; girarsi; girare, voltarsi; A2; Karstens Empfehlung/Verben; Quando ho chiamato, la ragazza si è girata subito.; Als ich rief, hat sich das Mädchen sofort umgedreht.
 it-ke-0893; verstehen; capire; comprendere; A1; Karstens Empfehlung/Verben; Non capisco questa frase lunga.; Ich verstehe diesen langen Satz nicht.
 it-ke-0894; etwas benutzen, gebrauchen; usare; utilizzare; A1; Karstens Empfehlung/Verben; Posso usare il tuo righello per un momento?; Kann ich kurz dein Lineal benutzen?
-it-ke-0895; besuchen; visitare; ; A1; Karstens Empfehlung/Verben; Ogni domenica pomeriggio visitiamo i nostri nonni.; Wir besuchen jeden Sonntagnachmittag unsere Großeltern.
+it-ke-0895; besuchen; visitare; andare a trovare; A1; Karstens Empfehlung/Verben; Ogni domenica pomeriggio visitiamo i nostri nonni.; Wir besuchen jeden Sonntagnachmittag unsere Großeltern.
 it-ke-0896; wählen, abstimmen; votare; ; A2; Karstens Empfehlung/Verben; Puoi votare quando hai diciotto anni.; Du darfst wählen, wenn du achtzehn bist.
 it-ke-0897; warten, abwarten; aspettare; attendere; A1; Karstens Empfehlung/Verben; Aspettiamo l'autobus alla fermata.; Wir warten an der Haltestelle auf den Bus.
 it-ke-0898; auf jemanden warten; aspettare qualcuno; ; A2; Karstens Empfehlung/Verben; Aspetto la mia amica davanti al cinema.; Ich warte vor dem Kino auf meine Freundin.
@@ -943,7 +943,7 @@ it-ke-0946; Opfer; la vittima; ; B1; Karstens Empfehlung/Wörter; La vittima ha 
 it-ke-0947; Aussicht, Blick, Standpunkt; la vista; il panorama, il punto di vista; B1; Karstens Empfehlung/Wörter; La vista dalla terrazza è semplicemente fantastica.; Die Aussicht von der Terrasse ist einfach fantastisch.
 it-ke-0948; Dorf, Ort; il villaggio; il paese; A1; Karstens Empfehlung/Wörter; I nonni abitano in un piccolo villaggio di montagna.; Die Großeltern wohnen in einem kleinen Bergdorf.
 it-ke-0949; Gewalt; la violenza; ; B1; Karstens Empfehlung/Wörter; A scuola non è permessa nessuna forma di violenza.; In der Schule ist keine Form von Gewalt erlaubt.
-it-ke-0950; Stimme; la voce; ; A2; Karstens Empfehlung/Wörter; La cantante del coro ha una voce bellissima.; Die Sängerin im Chor hat eine wunderschöne Stimme.
+it-ke-0950; Stimme (beim Sprechen); la voce; ; A2; Karstens Empfehlung/Wörter; La cantante del coro ha una voce bellissima.; Die Sängerin im Chor hat eine wunderschöne Stimme.
 it-ke-0951; Wand, Mauer; il muro; la parete; A2; Karstens Empfehlung/Wörter; Abbiamo appeso i nostri disegni sul muro della classe.; Wir haben unsere Zeichnungen an die Wand des Klassenzimmers gehängt.
 it-ke-0952; Krieg; la guerra; ; A2; Karstens Empfehlung/Wörter; La guerra durò quasi trent'anni.; Der Krieg dauerte fast dreißig Jahre.
 it-ke-0953; warm; caldo; tiepido; A1; Karstens Empfehlung/Wörter; Prendi una giacca calda, c'è vento.; Nimm eine warme Jacke, es ist windig.

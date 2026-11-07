@@ -1,6 +1,6 @@
 # Italienisch: Business – Verhandlungen
 id; Deutsch; Italienisch; Weitere Antworten; Niveau; Themen; Beispiel Italienisch; Beispiel Deutsch
-it-vh-0001; Preis; il prezzo; il costo; A1; Business/Verhandlung/Angebot; Il prezzo è troppo alto per noi.; Der Preis ist zu hoch für uns.
+it-vh-0001; Preis (Kosten); il prezzo; il costo; A1; Business/Verhandlung/Angebot; Il prezzo è troppo alto per noi.; Der Preis ist zu hoch für uns.
 it-vh-0002; kaufen; comprare; acquistare; A1; Business/Verhandlung/Abschluss, Alltag/Einkaufen; Vogliamo comprare la nuova macchina il mese prossimo.; Wir wollen die neue Maschine nächsten Monat kaufen.
 it-vh-0003; verkaufen; vendere; ; A1; Business/Verhandlung/Abschluss; Vendono i loro prodotti in molti paesi.; Sie verkaufen ihre Produkte in vielen Ländern.
 it-vh-0004; anbieten; offrire; ; A1; Business/Verhandlung/Angebot; Oggi possiamo offrirle un prezzo migliore.; Wir können Ihnen heute einen besseren Preis anbieten.
@@ -57,13 +57,13 @@ it-vh-0054; Budget; il budget; ; B1; Business/Verhandlung/Vorbereitung; Il nostr
 it-vh-0055; Alternative; l'alternativa; l'opzione; B1; Business/Verhandlung/Taktik; Dovremmo sempre avere in mente un'alternativa.; Wir sollten immer eine Alternative im Kopf haben.
 it-vh-0056; flexibel; flessibile; ; B1; Business/Verhandlung/Zugeständnisse; Sulla data di consegna siamo flessibili.; Beim Liefertermin sind wir flexibel.
 it-vh-0057; fair; equo; corretto, giusto; B1; Business/Verhandlung/Positionen; Vogliamo un affare equo per entrambe le parti.; Wir wollen ein faires Geschäft für beide Seiten.
-it-vh-0058; Abschluss; la conclusione; la chiusura; B1; Business/Verhandlung/Abschluss; Siamo vicini alla conclusione dell'affare.; Wir stehen kurz vor dem Abschluss des Geschäfts.
-it-vh-0059; abschließen; concludere; chiudere, stipulare; B1; Business/Verhandlung/Abschluss; Abbiamo concluso il contratto dopo due incontri.; Wir schlossen den Vertrag nach zwei Treffen ab.
+it-vh-0058; Abschluss (Geschäft); la conclusione; la chiusura; B1; Business/Verhandlung/Abschluss; Siamo vicini alla conclusione dell'affare.; Wir stehen kurz vor dem Abschluss des Geschäfts.
+it-vh-0059; abschließen (Vertrag); concludere; chiudere, stipulare; B1; Business/Verhandlung/Abschluss; Abbiamo concluso il contratto dopo due incontri.; Wir schlossen den Vertrag nach zwei Treffen ab.
 it-vh-0060; Bedenken; i dubbi; le perplessità, le riserve; B1; Business/Verhandlung/Einwände; Abbiamo ancora alcuni dubbi sui costi.; Wir haben noch einige Bedenken wegen der Kosten.
 it-vh-0061; Hauptpunkt; il punto principale; il punto chiave; B1; Business/Verhandlung/Vorbereitung; Il punto principale di oggi è il nuovo prezzo.; Der Hauptpunkt heute ist der neue Preis.
 it-vh-0062; klären; chiarire; ; B1; Business/Verhandlung/Einwände; Dobbiamo ancora chiarire alcune domande aperte.; Wir müssen noch ein paar offene Fragen klären.
 it-vh-0063; bestätigen; confermare; ; B1; Business/Verhandlung/Abschluss; Confermi l'ordine per e-mail, per favore.; Bitte bestätigen Sie die Bestellung per E-Mail.
-it-vh-0064; Protokoll; il verbale; ; B1; Business/Verhandlung/Abschluss; Ha scritto il verbale della seduta.; Sie schrieb das Protokoll der Sitzung.
+it-vh-0064; Protokoll (Sitzung); il verbale; ; B1; Business/Verhandlung/Abschluss; Ha scritto il verbale della seduta.; Sie schrieb das Protokoll der Sitzung.
 it-vh-0065; Zusammenfassung; il riassunto; la sintesi; B1; Business/Verhandlung/Abschluss; Ecco un breve riassunto dei nostri risultati.; Hier ist eine kurze Zusammenfassung unserer Ergebnisse.
 it-vh-0066; Verhandlungsziel; l'obiettivo negoziale; l'obiettivo della trattativa; B2; Business/Verhandlung/Vorbereitung; Definisca il suo obiettivo negoziale prima di entrare nella sala.; Definieren Sie Ihr Verhandlungsziel, bevor Sie den Raum betreten.
 it-vh-0067; Ausgangsposition; la posizione di partenza; ; B2; Business/Verhandlung/Positionen; La nostra posizione di partenza in questi colloqui è piuttosto forte.; Unsere Ausgangsposition in diesen Gesprächen ist ziemlich stark.
@@ -75,7 +75,7 @@ it-vh-0072; Taktik; la tattica; ; B2; Business/Verhandlung/Taktik; Nelle trattat
 it-vh-0073; Zeitdruck; la pressione del tempo; la pressione temporale, la mancanza di tempo; B2; Business/Verhandlung/Taktik; Hanno sfruttato la pressione del tempo per imporre una decisione rapida.; Sie nutzten Zeitdruck, um eine schnelle Entscheidung zu erzwingen.
 it-vh-0074; Machtverhältnis; i rapporti di forza; l'equilibrio di potere; B2; Business/Verhandlung/Positionen; Dopo la fusione i rapporti di forza sono cambiati.; Das Machtverhältnis änderte sich nach der Fusion.
 it-vh-0075; Verhandlungstisch; il tavolo delle trattative; il tavolo negoziale; B2; Business/Verhandlung/Wendungen; Ieri le due parti sono tornate al tavolo delle trattative.; Beide Seiten kehrten gestern an den Verhandlungstisch zurück.
-it-vh-0076; Sackgasse; il vicolo cieco; l'impasse, il punto morto; B2; Business/Verhandlung/Taktik; Dopo due giorni i colloqui sono finiti in un vicolo cieco.; Die Gespräche endeten nach zwei Tagen in einer Sackgasse.
+it-vh-0076; Sackgasse (ausweglose Lage); il vicolo cieco; l'impasse, il punto morto; B2; Business/Verhandlung/Taktik; Dopo due giorni i colloqui sono finiti in un vicolo cieco.; Die Gespräche endeten nach zwei Tagen in einer Sackgasse.
 it-vh-0077; Durchbruch; la svolta; ; B2; Business/Verhandlung/Abschluss; Ieri sera tardi abbiamo ottenuto una svolta.; Spät gestern Abend gelang uns ein Durchbruch.
 it-vh-0078; Stillstand; la paralisi; il blocco, la fase di stallo; B2; Business/Verhandlung/Taktik; Le trattative sono arrivate a una paralisi completa.; Die Verhandlungen kamen zu einem völligen Stillstand.
 it-vh-0079; überdenken; riconsiderare; ripensare; B2; Business/Verhandlung/Einwände; Riconsideri la nostra offerta prima di decidere, per favore.; Bitte überdenken Sie unser Angebot, bevor Sie entscheiden.

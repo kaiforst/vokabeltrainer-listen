@@ -6,7 +6,7 @@ it-ru-0003; Urlaub; la vacanza; le vacanze, le ferie; A1; Reisen/Urlaub/Planung 
 it-ru-0004; Hotel; l'albergo; l'hotel; A1; Reisen/Urlaub/Unterkunft; L'albergo è proprio sulla spiaggia.; Das Hotel liegt direkt am Strand.
 it-ru-0005; Zimmer; la camera; la stanza; A1; Reisen/Urlaub/Unterkunft; La nostra camera ha vista sul mare.; Unser Zimmer hat Blick auf das Meer.
 it-ru-0006; Koffer; la valigia; ; A1; Reisen/Urlaub/Gepäck; La mia valigia è pesante per via dei libri.; Mein Koffer ist wegen der Bücher schwer.
-it-ru-0007; Tasche; la borsa; ; A1; Reisen/Urlaub/Gepäck; La borsa con i biglietti è in macchina.; Die Tasche mit den Tickets liegt im Auto.
+it-ru-0007; Tasche (zum Tragen); la borsa; ; A1; Reisen/Urlaub/Gepäck; La borsa con i biglietti è in macchina.; Die Tasche mit den Tickets liegt im Auto.
 it-ru-0008; Flugzeug; l'aereo; l'aeroplano; A1; Reisen/Urlaub/Flughafen; L'aereo parte alle sei di mattina.; Das Flugzeug fliegt um sechs Uhr morgens ab.
 it-ru-0009; fliegen; volare; prendere l'aereo; A1; Reisen/Urlaub/Flughafen; Sabato mattina presto voliamo a Lisbona.; Wir fliegen am Samstag früh nach Lissabon.
 it-ru-0010; Flughafen; l'aeroporto; ; A1; Reisen/Urlaub/Flughafen; L'aeroporto è a trenta minuti dalla città.; Der Flughafen liegt dreißig Minuten von der Stadt entfernt.
@@ -16,11 +16,11 @@ it-ru-0013; Auto; la macchina; l'auto, l'automobile; A1; Reisen/Urlaub/Unterwegs
 it-ru-0014; Bus; l'autobus; il pullman, il bus; A1; Reisen/Urlaub/Unterwegs; L'autobus per il centro storico passa ogni dieci minuti.; Der Bus in die Altstadt kommt alle zehn Minuten.
 it-ru-0015; Fahrkarte; il biglietto; ; A1; Reisen/Urlaub/Unterwegs; Un biglietto per il lago costa quattro euro.; Eine Fahrkarte zum See kostet vier Euro.
 it-ru-0016; Stadt; la città; ; A1; Reisen/Urlaub/Sightseeing; La città vecchia è bellissima alla luce della sera.; Die alte Stadt ist im Abendlicht wunderschön.
-it-ru-0017; Land; il paese; la nazione; A1; Reisen/Urlaub/Planung & Buchung; Il Portogallo è un paese meraviglioso per una vacanza.; Portugal ist ein wunderbares Land für einen Urlaub.
+it-ru-0017; Land (Staat); il paese; la nazione; A1; Reisen/Urlaub/Planung & Buchung; Il Portogallo è un paese meraviglioso per una vacanza.; Portugal ist ein wunderbares Land für einen Urlaub.
 it-ru-0018; Meer; il mare; ; A1; Reisen/Urlaub/Strand & Natur; A settembre il mare è caldo e calmo.; Das Meer ist im September warm und ruhig.
 it-ru-0019; Strand; la spiaggia; ; A1; Reisen/Urlaub/Strand & Natur; I bambini giocano tutto il giorno sulla spiaggia.; Die Kinder spielen den ganzen Tag am Strand.
 it-ru-0020; Sonne; il sole; ; A1; Reisen/Urlaub/Strand & Natur; Qui il sole splende quasi ogni giorno.; Die Sonne scheint hier fast jeden Tag.
-it-ru-0021; Karte; la cartina; la mappa; A1; Reisen/Urlaub/Unterwegs; Senza cartina qui ci perderemmo.; Ohne Karte wären wir hier verloren.
+it-ru-0021; Karte (Landkarte); la cartina; la mappa; A1; Reisen/Urlaub/Unterwegs; Senza cartina qui ci perderemmo.; Ohne Karte wären wir hier verloren.
 it-ru-0022; Kamera; la macchina fotografica; la fotocamera; A1; Reisen/Urlaub/Sightseeing; Prendi la macchina fotografica, oggi la luce è perfetta.; Nimm die Kamera mit, das Licht ist heute perfekt.
 it-ru-0023; Taxi; il taxi; ; A1; Reisen/Urlaub/Unterwegs; Prendiamo un taxi dall'aeroporto all'albergo.; Wir nehmen ein Taxi vom Flughafen zum Hotel.
 it-ru-0024; Straße; la strada; la via; A1; Reisen/Urlaub/Unterwegs; Questa strada porta direttamente al vecchio porto.; Diese Straße führt direkt zum alten Hafen.
@@ -42,7 +42,7 @@ it-ru-0039; Reiseführer; la guida turistica; la guida; A2; Reisen/Urlaub/Sights
 it-ru-0040; besuchen; visitare; ; A2; Reisen/Urlaub/Sightseeing; Visitiamo il vecchio castello sopra la città.; Wir besuchen die alte Burg über der Stadt.
 it-ru-0041; Museum; il museo; ; A2; Reisen/Urlaub/Sightseeing, Kultur; La prima domenica il museo è gratuito.; Das Museum ist am ersten Sonntag kostenlos.
 it-ru-0042; Kirche; la chiesa; ; A2; Reisen/Urlaub/Sightseeing; La piccola chiesa sulla collina è molto antica.; Die kleine Kirche auf dem Hügel ist sehr alt.
-it-ru-0043; Schloss; il castello; il palazzo; A2; Reisen/Urlaub/Sightseeing; D'estate il castello apre i suoi giardini.; Das Schloss öffnet im Sommer seine Gärten.
+it-ru-0043; Schloss (Gebäude); il castello; il palazzo; A2; Reisen/Urlaub/Sightseeing; D'estate il castello apre i suoi giardini.; Das Schloss öffnet im Sommer seine Gärten.
 it-ru-0044; Insel; l'isola; ; A2; Reisen/Urlaub/Strand & Natur; La piccola isola ha un solo alberghetto.; Die kleine Insel hat nur ein kleines Hotel.
 it-ru-0045; See; il lago; ; A2; Reisen/Urlaub/Strand & Natur; Prima di colazione nuotiamo nel lago.; Wir schwimmen vor dem Frühstück im See.
 it-ru-0046; Berg; la montagna; il monte; A2; Reisen/Urlaub/Strand & Natur; Dalla montagna si vede tutta la valle.; Vom Berg sieht man das ganze Tal.
@@ -63,7 +63,7 @@ it-ru-0060; Stadtplan; la pianta della città; la mappa della città, la cartina
 it-ru-0061; Unterkunft; l'alloggio; la sistemazione; B1; Reisen/Urlaub/Unterkunft; Abbiamo trovato un alloggio economico vicino al centro storico.; Wir fanden eine günstige Unterkunft nahe der Altstadt.
 it-ru-0062; Ferienwohnung; l'appartamento per le vacanze; la casa vacanze, l'appartamento vacanze; B1; Reisen/Urlaub/Unterkunft; L'appartamento per le vacanze ha un balcone e una piccola cucina.; Die Ferienwohnung hat einen Balkon und eine kleine Küche.
 it-ru-0063; Jugendherberge; l'ostello della gioventù; l'ostello; B1; Reisen/Urlaub/Unterkunft; L'ostello della gioventù è economico e molto pulito.; Die Jugendherberge ist günstig und sehr sauber.
-it-ru-0064; Pension; la pensione; il bed and breakfast, la locanda; B1; Reisen/Urlaub/Unterkunft; La pensione è gestita da una simpatica coppia anziana.; Die Pension wird von einem freundlichen alten Paar geführt.
+it-ru-0064; Pension (Unterkunft); la pensione; il bed and breakfast, la locanda; B1; Reisen/Urlaub/Unterkunft; La pensione è gestita da una simpatica coppia anziana.; Die Pension wird von einem freundlichen alten Paar geführt.
 it-ru-0065; Doppelzimmer; la camera doppia; la camera matrimoniale; B1; Reisen/Urlaub/Unterkunft; Una camera doppia con colazione costa novanta euro.; Ein Doppelzimmer mit Frühstück kostet neunzig Euro.
 it-ru-0066; Einzelzimmer; la camera singola; ; B1; Reisen/Urlaub/Unterkunft; L'ultima camera singola era già occupata ieri.; Das letzte Einzelzimmer war gestern schon vergeben.
 it-ru-0067; Halbpension; la mezza pensione; ; B1; Reisen/Urlaub/Unterkunft; Abbiamo scelto la mezza pensione perché a pranzo mangiamo fuori.; Wir wählten Halbpension, weil wir mittags unterwegs essen.
@@ -80,12 +80,12 @@ it-ru-0077; Zoll; la dogana; ; B1; Reisen/Urlaub/Flughafen; Alla dogana nessuno 
 it-ru-0078; Flugbegleiter; l'assistente di volo; lo steward, la hostess; B1; Reisen/Urlaub/Flughafen; L'assistente di volo ci ha portato acqua e caffè.; Der Flugbegleiter brachte uns Wasser und Kaffee.
 it-ru-0079; Landung; l'atterraggio; ; B1; Reisen/Urlaub/Flughafen; L'atterraggio è stato morbido nonostante il vento forte.; Die Landung war trotz des starken Windes sanft.
 it-ru-0080; landen; atterrare; ; B1; Reisen/Urlaub/Flughafen; Stanotte atterriamo a Madrid poco dopo mezzanotte.; Wir landen heute kurz nach Mitternacht in Madrid.
-it-ru-0081; abheben; decollare; ; B1; Reisen/Urlaub/Flughafen; L'aereo è decollato con un breve ritardo.; Das Flugzeug hob mit kurzer Verspätung ab.
+it-ru-0081; abheben (Flugzeug); decollare; ; B1; Reisen/Urlaub/Flughafen; L'aereo è decollato con un breve ritardo.; Das Flugzeug hob mit kurzer Verspätung ab.
 it-ru-0082; Notausgang; l'uscita di emergenza; l'uscita d'emergenza; B1; Reisen/Urlaub/Flughafen; L'uscita di emergenza è segnalata con cartelli verdi.; Der Notausgang ist mit grünen Schildern markiert.
 it-ru-0083; Sehenswürdigkeit; l'attrazione; l'attrazione turistica, il luogo d'interesse; B1; Reisen/Urlaub/Sightseeing; La cattedrale è l'attrazione più famosa della città.; Die Kathedrale ist die berühmteste Sehenswürdigkeit der Stadt.
 it-ru-0084; Denkmal; il monumento; ; B1; Reisen/Urlaub/Sightseeing; Il monumento in piazza rende omaggio a un poeta del posto.; Das Denkmal auf dem Platz ehrt einen hiesigen Dichter.
 it-ru-0085; Altstadt; il centro storico; la città vecchia; B1; Reisen/Urlaub/Sightseeing; Ci siamo persi nei vicoli stretti del centro storico.; Wir verliefen uns in den engen Gassen der Altstadt.
-it-ru-0086; Führung; la visita guidata; ; B1; Reisen/Urlaub/Sightseeing; La visita guidata del castello dura un'ora.; Die Führung durch das Schloss dauert eine Stunde.
+it-ru-0086; Führung (Besichtigung); la visita guidata; ; B1; Reisen/Urlaub/Sightseeing; La visita guidata del castello dura un'ora.; Die Führung durch das Schloss dauert eine Stunde.
 it-ru-0087; Souvenir; il souvenir; il ricordo, il ricordino; B1; Reisen/Urlaub/Sightseeing; Ha comprato un piccolo souvenir per i colleghi.; Sie kaufte ein kleines Souvenir für ihre Kollegen.
 it-ru-0088; Sonnenbrand; la scottatura; l'eritema solare; B1; Reisen/Urlaub/Strand & Natur; Dopo un solo pomeriggio aveva già una scottatura.; Nach einem Nachmittag hatte er schon einen Sonnenbrand.
 it-ru-0089; Liegestuhl; la sdraio; il lettino, la sedia a sdraio; B1; Reisen/Urlaub/Strand & Natur; Alle nove ogni sdraio vicino alla piscina era occupata.; Jeder Liegestuhl am Pool war um neun besetzt.
@@ -99,7 +99,7 @@ it-ru-0096; Pauschalreise; il pacchetto vacanza; il viaggio organizzato, il viag
 it-ru-0097; Reiseveranstalter; il tour operator; l'operatore turistico; B2; Reisen/Urlaub/Planung & Buchung; Il tour operator ci ha informato del cambio di programma.; Der Reiseveranstalter informierte uns über die Planänderung.
 it-ru-0098; Reiseversicherung; l'assicurazione di viaggio; l'assicurazione viaggio; B2; Reisen/Urlaub/Planung & Buchung; Una buona assicurazione di viaggio copre anche i bagagli smarriti.; Eine gute Reiseversicherung deckt auch verlorenes Gepäck ab.
 it-ru-0099; Anzahlung; l'acconto; la caparra, l'anticipo; B2; Reisen/Urlaub/Planung & Buchung; Abbiamo versato un acconto di duecento euro.; Wir leisteten eine Anzahlung von zweihundert Euro.
-it-ru-0100; Zuschlag; il supplemento; ; B2; Reisen/Urlaub/Planung & Buchung; Per le camere con vista sul mare c'è un supplemento.; Für Zimmer mit Meerblick gibt es einen Zuschlag.
+it-ru-0100; Zuschlag (Aufpreis); il supplemento; ; B2; Reisen/Urlaub/Planung & Buchung; Per le camere con vista sul mare c'è un supplemento.; Für Zimmer mit Meerblick gibt es einen Zuschlag.
 it-ru-0101; Hochsaison; l'alta stagione; ; B2; Reisen/Urlaub/Planung & Buchung; In alta stagione qui i prezzi quasi raddoppiano.; In der Hochsaison verdoppeln sich hier fast die Preise.
 it-ru-0102; Nebensaison; la bassa stagione; ; B2; Reisen/Urlaub/Planung & Buchung; In bassa stagione le spiagge sono meravigliosamente vuote.; In der Nebensaison sind die Strände herrlich leer.
 it-ru-0103; Übernachtung; il pernottamento; ; B2; Reisen/Urlaub/Unterkunft; Il prezzo comprende un pernottamento con colazione.; Der Preis beinhaltet eine Übernachtung mit Frühstück.

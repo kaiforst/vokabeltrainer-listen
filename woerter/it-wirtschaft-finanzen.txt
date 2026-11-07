@@ -4,13 +4,13 @@ it-wf-0001; Geld; il denaro; i soldi; A1; Wirtschaft/Finanzen/Geld & Zahlung; Qu
 it-wf-0002; kaufen; comprare; acquistare; A1; Wirtschaft/Finanzen/Markt & Handel; Oggi vogliamo comprare pane fresco.; Wir wollen heute frisches Brot kaufen.
 it-wf-0003; verkaufen; vendere; ; A1; Wirtschaft/Finanzen/Markt & Handel; Vuole vendere la sua vecchia macchina.; Er will sein altes Auto verkaufen.
 it-wf-0004; bezahlen; pagare; ; A1; Wirtschaft/Finanzen/Geld & Zahlung; Posso pagare con la carta qui?; Kann ich hier mit Karte bezahlen?
-it-wf-0005; Preis; il prezzo; ; A1; Wirtschaft/Finanzen/Markt & Handel; Il prezzo del caffè è di nuovo aumentato.; Der Preis für Kaffee ist wieder gestiegen.
+it-wf-0005; Preis (Kosten); il prezzo; ; A1; Wirtschaft/Finanzen/Markt & Handel; Il prezzo del caffè è di nuovo aumentato.; Der Preis für Kaffee ist wieder gestiegen.
 it-wf-0006; teuer; caro; costoso; A1; Wirtschaft/Finanzen/Markt & Handel; Questo albergo è troppo caro per noi.; Dieses Hotel ist zu teuer für uns.
 it-wf-0007; billig; economico; a buon mercato; A1; Wirtschaft/Finanzen/Markt & Handel; Oggi al mercato la verdura è economica.; Gemüse ist heute auf dem Markt billig.
-it-wf-0008; Geschäft; il negozio; ; A1; Wirtschaft/Finanzen/Markt & Handel; Il negozio apre alle nove di mattina.; Das Geschäft öffnet um neun Uhr morgens.
+it-wf-0008; Geschäft (Laden); il negozio; ; A1; Wirtschaft/Finanzen/Markt & Handel; Il negozio apre alle nove di mattina.; Das Geschäft öffnet um neun Uhr morgens.
 it-wf-0009; arbeiten; lavorare; ; A1; Wirtschaft/Finanzen/Arbeit & Einkommen; Lavora in una banca a Francoforte.; Sie arbeitet in einer Bank in Frankfurt.
 it-wf-0010; Firma; la ditta; l'azienda, la società; A1; Wirtschaft/Finanzen/Unternehmen; La mia ditta ha uffici in tre città.; Meine Firma hat Büros in drei Städten.
-it-wf-0011; Bank; la banca; ; A2; Wirtschaft/Finanzen/Bank; La banca chiude alle quattro del pomeriggio.; Die Bank schließt um vier Uhr nachmittags.
+it-wf-0011; Bank (Geldinstitut); la banca; ; A2; Wirtschaft/Finanzen/Bank; La banca chiude alle quattro del pomeriggio.; Die Bank schließt um vier Uhr nachmittags.
 it-wf-0012; Konto; il conto; il conto corrente; A2; Wirtschaft/Finanzen/Bank; Ho aperto un conto per mia figlia.; Ich habe ein Konto für meine Tochter eröffnet.
 it-wf-0013; sparen; risparmiare; ; A2; Wirtschaft/Finanzen/Bank; Risparmiamo soldi per una lunga vacanza.; Wir sparen Geld für einen langen Urlaub.
 it-wf-0014; Kunde; il cliente; la cliente; A2; Wirtschaft/Finanzen/Markt & Handel; Il cliente ha chiesto una taglia più piccola.; Der Kunde fragte nach einer kleineren Größe.
@@ -20,7 +20,7 @@ it-wf-0017; Markt; il mercato; ; A2; Wirtschaft/Finanzen/Markt & Handel; Il merc
 it-wf-0018; Angebot; l'offerta; ; A2; Wirtschaft/Finanzen/Markt & Handel; L'offerta è valida solo fino a venerdì.; Das Angebot gilt nur bis Freitag.
 it-wf-0019; verdienen; guadagnare; ; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; Come ingegnera guadagna bene.; Sie verdient als Ingenieurin gutes Geld.
 it-wf-0020; Gehalt; lo stipendio; ; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; Lo stipendio viene pagato alla fine del mese.; Das Gehalt wird am Ende des Monats gezahlt.
-it-wf-0021; Lohn; il salario; la paga; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; Il salario viene pagato in contanti ogni settimana.; Der Lohn wird jede Woche bar ausgezahlt.
+it-wf-0021; Lohn (Bezahlung); il salario; la paga; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; Il salario viene pagato in contanti ogni settimana.; Der Lohn wird jede Woche bar ausgezahlt.
 it-wf-0022; Chef; il capo; la capa, il responsabile; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; Oggi il mio capo è in viaggio d'affari.; Mein Chef ist heute auf Geschäftsreise.
 it-wf-0023; Mitarbeiter; il dipendente; la dipendente, il collaboratore; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; Questa primavera l'azienda ha assunto venti nuovi dipendenti.; Die Firma stellte in diesem Frühjahr zwanzig neue Mitarbeiter ein.
 it-wf-0024; Beruf; la professione; il mestiere, il lavoro; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; L'assistenza infermieristica è una professione faticosa ma importante.; Pflege ist ein anstrengender, aber wichtiger Beruf.
@@ -45,21 +45,21 @@ it-wf-0042; Kosten; i costi; le spese; B1; Wirtschaft/Finanzen/Unternehmen; I co
 it-wf-0043; Einkommen; il reddito; ; B1; Wirtschaft/Finanzen/Arbeit & Einkommen; Il suo reddito dipende dal numero di ordini.; Ihr Einkommen hängt von der Zahl der Aufträge ab.
 it-wf-0044; Einnahmen; le entrate; gli incassi, i ricavi; B1; Wirtschaft/Finanzen/Unternehmen; Le entrate del museo provengono soprattutto dai biglietti.; Die Einnahmen des Museums stammen hauptsächlich aus Eintrittskarten.
 it-wf-0045; Handel; il commercio; ; B1; Wirtschaft/Finanzen/Markt & Handel; Il commercio tra i due paesi cresce costantemente.; Der Handel zwischen den beiden Ländern wächst stetig.
-it-wf-0046; handeln; commerciare; trattare; B1; Wirtschaft/Finanzen/Markt & Handel; La ditta commercia in caffè e spezie pregiate.; Die Firma handelt mit Kaffee und feinen Gewürzen.
+it-wf-0046; handeln (Handel treiben); commerciare; trattare; B1; Wirtschaft/Finanzen/Markt & Handel; La ditta commercia in caffè e spezie pregiate.; Die Firma handelt mit Kaffee und feinen Gewürzen.
 it-wf-0047; exportieren; esportare; ; B1; Wirtschaft/Finanzen/Markt & Handel; La Germania esporta macchinari in tutto il mondo.; Deutschland exportiert Maschinen in die ganze Welt.
 it-wf-0048; importieren; importare; ; B1; Wirtschaft/Finanzen/Markt & Handel; Importiamo dalla Spagna la maggior parte della frutta.; Wir importieren das meiste Obst aus Spanien.
 it-wf-0049; Lieferung; la consegna; la fornitura, la spedizione; B1; Wirtschaft/Finanzen/Markt & Handel; La consegna è arrivata due giorni prima del previsto.; Die Lieferung kam zwei Tage früher als geplant.
 it-wf-0050; Ware; la merce; ; B1; Wirtschaft/Finanzen/Markt & Handel; La merce viene controllata prima di lasciare la fabbrica.; Die Ware wird geprüft, bevor sie das Werk verlässt.
-it-wf-0051; Lager; il magazzino; ; B1; Wirtschaft/Finanzen/Markt & Handel; Prima del periodo natalizio il magazzino è pieno.; Das Lager ist vor der Weihnachtszeit voll.
+it-wf-0051; Lager (Waren); il magazzino; ; B1; Wirtschaft/Finanzen/Markt & Handel; Prima del periodo natalizio il magazzino è pieno.; Das Lager ist vor der Weihnachtszeit voll.
 it-wf-0052; Nachfrage; la domanda; ; B1; Wirtschaft/Finanzen/Markt & Handel; La domanda di pompe di calore cresce rapidamente.; Die Nachfrage nach Wärmepumpen steigt schnell.
 it-wf-0053; Wettbewerb; la concorrenza; la competizione; B1; Wirtschaft/Finanzen/Markt & Handel; Una forte concorrenza mantiene i prezzi molto bassi.; Starker Wettbewerb hält die Preise sehr niedrig.
 it-wf-0054; Konkurrent; il concorrente; la concorrente, il rivale; B1; Wirtschaft/Finanzen/Markt & Handel; Ieri il nostro principale concorrente ha abbassato i prezzi.; Unser größter Konkurrent senkte gestern seine Preise.
 it-wf-0055; Rabatt; lo sconto; ; B1; Wirtschaft/Finanzen/Markt & Handel; Gli studenti hanno uno sconto del venti per cento.; Studenten bekommen einen Rabatt von zwanzig Prozent.
 it-wf-0056; Schulden; i debiti; il debito; B1; Wirtschaft/Finanzen/Bank; Ha saldato i suoi debiti in tre anni.; Er zahlte seine Schulden innerhalb von drei Jahren ab.
-it-wf-0057; leihen; prestare; prendere in prestito; B1; Wirtschaft/Finanzen/Bank; Mi puoi prestare cinquanta euro fino a venerdì?; Kannst du mir fünfzig Euro bis Freitag leihen?
+it-wf-0057; leihen (jemandem etwas); prestare; ; B1; Wirtschaft/Finanzen/Bank; Mi puoi prestare cinquanta euro fino a venerdì?; Kannst du mir fünfzig Euro bis Freitag leihen?
 it-wf-0058; überweisen; fare un bonifico; bonificare, trasferire; B1; Wirtschaft/Finanzen/Bank; Oggi ho fatto un bonifico al padrone di casa per l'affitto.; Ich habe die Miete heute an den Vermieter überwiesen.
-it-wf-0059; Überweisung; il bonifico; il bonifico bancario; B1; Wirtschaft/Finanzen/Bank; Il bonifico richiede circa un giorno lavorativo.; Die Überweisung dauert ungefähr einen Werktag.
-it-wf-0060; abheben; prelevare; ; B1; Wirtschaft/Finanzen/Bank; Ha prelevato duecento euro per il viaggio.; Sie hob zweihundert Euro für die Reise ab.
+it-wf-0059; Überweisung (Bank); il bonifico; il bonifico bancario; B1; Wirtschaft/Finanzen/Bank; Il bonifico richiede circa un giorno lavorativo.; Die Überweisung dauert ungefähr einen Werktag.
+it-wf-0060; abheben (Geld); prelevare; ; B1; Wirtschaft/Finanzen/Bank; Ha prelevato duecento euro per il viaggio.; Sie hob zweihundert Euro für die Reise ab.
 it-wf-0061; einzahlen; versare; depositare; B1; Wirtschaft/Finanzen/Bank; Ogni mese versa una piccola somma.; Er zahlt jeden einzelnen Monat einen kleinen Betrag ein.
 it-wf-0062; Aktie; l'azione; ; B1; Wirtschaft/Finanzen/Investieren & Börse; L'azione ha perso il cinque per cento del suo valore.; Die Aktie verlor fünf Prozent ihres Wertes.
 it-wf-0063; Börse; la Borsa; ; B1; Wirtschaft/Finanzen/Investieren & Börse; La Borsa ha reagito con calma alle notizie.; Die Börse reagierte gelassen auf die Nachrichten.
@@ -103,7 +103,7 @@ it-wf-0100; Einkommensteuer; l'imposta sul reddito; l'IRPEF; B2; Wirtschaft/Fina
 it-wf-0101; Steuererklärung; la dichiarazione dei redditi; ; B2; Wirtschaft/Finanzen/Steuern; Ogni primavera presento online la dichiarazione dei redditi.; Ich reiche meine Steuererklärung jedes Frühjahr online ein.
 it-wf-0102; Steuerberater; il commercialista; la commercialista, il consulente fiscale; B2; Wirtschaft/Finanzen/Steuern; Il mio commercialista ha trovato diverse detrazioni per me.; Mein Steuerberater fand mehrere Abzugsmöglichkeiten für mich.
 it-wf-0103; Finanzamt; l'ufficio delle imposte; il fisco, l'Agenzia delle Entrate; B2; Wirtschaft/Finanzen/Steuern; A ottobre l'ufficio delle imposte ha mandato un sollecito.; Das Finanzamt schickte im Oktober eine Mahnung.
-it-wf-0104; absetzen; detrarre; dedurre, scaricare; B2; Wirtschaft/Finanzen/Steuern; Puoi detrarre le spese di viaggio dalle tasse.; Du kannst Fahrtkosten von der Steuer absetzen.
+it-wf-0104; absetzen (steuerlich); detrarre; dedurre, scaricare; B2; Wirtschaft/Finanzen/Steuern; Puoi detrarre le spese di viaggio dalle tasse.; Du kannst Fahrtkosten von der Steuer absetzen.
 it-wf-0105; Buchhaltung; la contabilità; ; B2; Wirtschaft/Finanzen/Unternehmen; Una contabilità in ordine evita problemi con il fisco.; Eine saubere Buchhaltung erspart Ärger mit dem Finanzamt.
 it-wf-0106; Bilanz; il bilancio; lo stato patrimoniale; B2; Wirtschaft/Finanzen/Unternehmen; Il bilancio mostra tutte le attività e le passività.; Die Bilanz zeigt alle Vermögenswerte und Verbindlichkeiten.
 it-wf-0107; Hypothek; il mutuo; l'ipoteca; B2; Wirtschaft/Finanzen/Bank; Hanno acceso un mutuo sulla casa.; Sie nahmen eine Hypothek auf das Haus auf.

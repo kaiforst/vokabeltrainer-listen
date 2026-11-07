@@ -4,7 +4,7 @@ it-kk-0001; Museum; il museo; ; A1; Kultur/Kunst & Museum; Abbiamo visitato il m
 it-kk-0002; Bild; il quadro; l'immagine; A1; Kultur/Kunst & Museum; Alla parete è appeso un bel quadro.; An der Wand hängt ein schönes Bild.
 it-kk-0003; malen; dipingere; ; A1; Kultur/Kunst & Museum; A mia figlia piace dipingere fiori colorati.; Meine Tochter malt gern bunte Blumen.
 it-kk-0004; Kunst; l'arte; ; A1; Kultur/Kunst & Museum; L'arte moderna non è sempre facile da capire.; Moderne Kunst ist nicht immer leicht zu verstehen.
-it-kk-0005; Farbe; il colore; la vernice; A2; Kultur/Kunst & Museum; Il blu è il mio colore preferito nei dipinti.; Blau ist meine Lieblingsfarbe auf Gemälden.
+it-kk-0005; Farbe (Farbton); il colore; ; A2; Kultur/Kunst & Museum; Il blu è il mio colore preferito nei dipinti.; Blau ist meine Lieblingsfarbe auf Gemälden.
 it-kk-0006; Künstler; l'artista; ; A2; Kultur/Kunst & Museum; Il giovane artista vende le sue opere online.; Der junge Künstler verkauft seine Werke online.
 it-kk-0007; zeichnen; disegnare; ; A2; Kultur/Kunst & Museum; A scuola ha imparato a disegnare i volti.; Er hat in der Schule gelernt, Gesichter zu zeichnen.
 it-kk-0008; Zeichnung; il disegno; lo schizzo; A2; Kultur/Kunst & Museum; Mi ha mostrato un disegno del suo gatto.; Sie zeigte mir eine Zeichnung ihrer Katze.
@@ -14,7 +14,7 @@ it-kk-0011; Ausstellung; la mostra; l'esposizione; B1; Kultur/Kunst & Museum; La
 it-kk-0012; Galerie; la galleria; ; B1; Kultur/Kunst & Museum; Una piccola galleria espone ogni mese artisti locali.; Eine kleine Galerie zeigt jeden Monat lokale Künstler.
 it-kk-0013; Skulptur; la scultura; ; B1; Kultur/Kunst & Museum; La scultura nel parco è di bronzo.; Die Skulptur im Park ist aus Bronze.
 it-kk-0014; Porträt; il ritratto; ; B1; Kultur/Kunst & Museum; Il re commissionò un ritratto della sua famiglia.; Der König gab ein Porträt seiner Familie in Auftrag.
-it-kk-0015; Leinwand; la tela; ; B1; Kultur/Kunst & Museum; Ha teso una nuova tela per la sua prossima opera.; Sie spannte eine neue Leinwand für ihr nächstes Werk.
+it-kk-0015; Leinwand (Malerei); la tela; ; B1; Kultur/Kunst & Museum; Ha teso una nuova tela per la sua prossima opera.; Sie spannte eine neue Leinwand für ihr nächstes Werk.
 it-kk-0016; Kunstwerk; l'opera d'arte; ; B1; Kultur/Kunst & Museum; Ogni opera d'arte racconta la sua storia.; Jedes Kunstwerk erzählt seine eigene Geschichte.
 it-kk-0017; Sammlung; la collezione; la raccolta; B1; Kultur/Kunst & Museum; Il museo possiede una famosa collezione di monete antiche.; Das Museum besitzt eine berühmte Sammlung alter Münzen.
 it-kk-0018; Meisterwerk; il capolavoro; ; B2; Kultur/Kunst & Museum; I critici definiscono il dipinto un vero capolavoro.; Kritiker nennen das Gemälde ein absolutes Meisterwerk.
@@ -38,10 +38,10 @@ it-kk-0035; Bühne; il palcoscenico; il palco, la scena; A2; Kultur/Theater & Fi
 it-kk-0036; Komödie; la commedia; ; A2; Kultur/Theater & Film; Abbiamo riso molto durante la commedia.; Wir haben während der Komödie viel gelacht.
 it-kk-0037; Eintrittskarte; il biglietto; il biglietto d'ingresso; A2; Kultur/Theater & Film; Ho comprato due biglietti per lo spettacolo serale.; Ich habe zwei Eintrittskarten für die Abendvorstellung gekauft.
 it-kk-0038; Publikum; il pubblico; ; B1; Kultur/Theater & Film; Il pubblico ha applaudito per quasi dieci minuti.; Das Publikum klatschte fast zehn Minuten lang.
-it-kk-0039; Vorstellung; lo spettacolo; la rappresentazione; B1; Kultur/Theater & Film; L'ultimo spettacolo era completamente esaurito.; Die letzte Vorstellung war komplett ausverkauft.
+it-kk-0039; Vorstellung (Theater); lo spettacolo; la rappresentazione; B1; Kultur/Theater & Film; L'ultimo spettacolo era completamente esaurito.; Die letzte Vorstellung war komplett ausverkauft.
 it-kk-0040; Regisseur; il regista; la regista; B1; Kultur/Theater & Film; Il regista ha spiegato la scena agli attori.; Der Regisseur erklärte den Schauspielern die Szene.
 it-kk-0041; Dramaturgie; la drammaturgia; ; C2; Kultur/Theater & Film; La drammaturgia dell'opera costruisce la tensione molto lentamente.; Die Dramaturgie des Stücks baut die Spannung sehr langsam auf.
-it-kk-0042; Probe; la prova; ; B1; Kultur/Theater & Film; L'ultima prova è durata fino a mezzanotte.; Die letzte Probe dauerte bis Mitternacht.
+it-kk-0042; Probe (Theater); la prova; ; B1; Kultur/Theater & Film; L'ultima prova è durata fino a mezzanotte.; Die letzte Probe dauerte bis Mitternacht.
 it-kk-0043; Applaus; l'applauso; gli applausi; B1; Kultur/Theater & Film; La cantante ha ringraziato il pubblico per il caloroso applauso.; Die Sängerin dankte dem Publikum für den herzlichen Applaus.
 it-kk-0044; Vorhang; il sipario; ; B1; Kultur/Theater & Film; Il sipario si alzò e lo spettacolo cominciò.; Der Vorhang hob sich und das Stück begann.
 it-kk-0045; Tragödie; la tragedia; ; B1; Kultur/Theater & Film; La tragedia finisce con la morte dell'eroe.; Die Tragödie endet mit dem Tod des Helden.
@@ -50,7 +50,7 @@ it-kk-0047; Drehbuch; la sceneggiatura; il copione; B2; Kultur/Theater & Film; H
 it-kk-0048; Hauptrolle; il ruolo principale; il ruolo da protagonista; B2; Kultur/Theater & Film; Ha ottenuto il ruolo principale nella nuova serie.; Er bekam die Hauptrolle in der neuen Serie.
 it-kk-0049; Nebenrolle; il ruolo secondario; il ruolo di contorno; B2; Kultur/Theater & Film; Anche in un ruolo secondario ha colpito i critici.; Selbst in einer Nebenrolle beeindruckte sie die Kritiker.
 it-kk-0050; Premiere; la prima; l'anteprima; B2; Kultur/Theater & Film; Molte star sono venute alla prima a Monaco.; Viele Stars kamen zur Premiere nach München.
-it-kk-0051; Besetzung; il cast; ; B2; Kultur/Theater & Film; Il film convince con un cast eccellente.; Der Film überzeugt mit einer hervorragenden Besetzung.
+it-kk-0051; Besetzung (Film, Theater); il cast; ; B2; Kultur/Theater & Film; Il film convince con un cast eccellente.; Der Film überzeugt mit einer hervorragenden Besetzung.
 it-kk-0052; Spielfilm; il lungometraggio; il film di finzione; B2; Kultur/Theater & Film; Il suo primo lungometraggio ha vinto diversi premi internazionali.; Ihr erster Spielfilm gewann mehrere internationale Preise.
 it-kk-0053; Synchronisation; il doppiaggio; ; C1; Kultur/Theater & Film; In Germania il doppiaggio dei film stranieri è molto diffuso.; In Deutschland ist die Synchronisation ausländischer Filme sehr verbreitet.
 it-kk-0054; Bühnenbild; la scenografia; ; C1; Kultur/Theater & Film; La scenografia minimalista concentrava l'attenzione sugli attori.; Das minimalistische Bühnenbild lenkte die Aufmerksamkeit auf die Schauspieler.
@@ -70,16 +70,16 @@ it-kk-0067; veröffentlichen; pubblicare; ; B1; Kultur/Literatur; Vuole pubblica
 it-kk-0068; Übersetzung; la traduzione; ; B1; Kultur/Literatur; La traduzione inglese è uscita due anni dopo.; Die englische Übersetzung erschien zwei Jahre später.
 it-kk-0069; Figur; il personaggio; la figura; B1; Kultur/Literatur; Il personaggio principale cambia completamente nel corso della storia.; Die Hauptfigur verändert sich im Laufe der Geschichte völlig.
 it-kk-0070; Kapitel; il capitolo; ; A2; Kultur/Literatur; Ho letto il primo capitolo in treno.; Ich habe das erste Kapitel im Zug gelesen.
-it-kk-0071; Gattung; il genere; il genere letterario; C1; Kultur/Literatur; Il racconto breve è un genere letterario impegnativo.; Die Kurzgeschichte ist eine anspruchsvolle literarische Gattung.
+it-kk-0071; Gattung (Literatur); il genere; il genere letterario; C1; Kultur/Literatur; Il racconto breve è un genere letterario impegnativo.; Die Kurzgeschichte ist eine anspruchsvolle literarische Gattung.
 it-kk-0072; Sinnbild; l'emblema; il simbolo, l'allegoria; C2; Kultur/Literatur; La colomba bianca è l'emblema della pace.; Die weiße Taube dient als Sinnbild des Friedens.
-it-kk-0073; Handlung; la trama; ; B2; Kultur/Literatur; La trama prende diverse svolte sorprendenti.; Die Handlung nimmt mehrere überraschende Wendungen.
+it-kk-0073; Handlung (Geschichte); la trama; ; B2; Kultur/Literatur; La trama prende diverse svolte sorprendenti.; Die Handlung nimmt mehrere überraschende Wendungen.
 it-kk-0074; Lyrik; la lirica; la poesia lirica; B2; Kultur/Literatur; La lirica moderna spesso fa a meno della rima.; Moderne Lyrik kommt oft ganz ohne Reim aus.
 it-kk-0075; Erzählung; il racconto; la narrazione, la novella; B2; Kultur/Literatur; Il racconto è ambientato in un piccolo villaggio di pescatori.; Die Erzählung spielt in einem kleinen Fischerdorf.
 it-kk-0076; Sprichwort; il proverbio; il detto; B2; Kultur/Literatur; Un vecchio proverbio dice che il tempo guarisce tutte le ferite.; Ein altes Sprichwort sagt, dass Zeit alle Wunden heilt.
 it-kk-0077; Lesung; la lettura pubblica; la lettura; B2; Kultur/Literatur; L'autore ha tenuto una lettura pubblica nella biblioteca comunale.; Der Autor hielt eine Lesung in der Stadtbibliothek.
-it-kk-0078; Auflage; l'edizione; la tiratura; C1; Kultur/Literatur; La prima edizione è andata esaurita in una settimana.; Die erste Auflage war innerhalb einer Woche vergriffen.
+it-kk-0078; Auflage (Ausgabe); l'edizione; la tiratura; C1; Kultur/Literatur; La prima edizione è andata esaurita in una settimana.; Die erste Auflage war innerhalb einer Woche vergriffen.
 it-kk-0079; Metapher; la metafora; ; C1; Kultur/Literatur; Il poeta usa il mare come metafora della libertà.; Der Dichter benutzt das Meer als Metapher für Freiheit.
-it-kk-0080; Nachlass; il lascito; l'eredità letteraria, il patrimonio; C2; Kultur/Literatur; I ricercatori studiano il lascito dello scrittore.; Forscher untersuchen den Nachlass des Schriftstellers.
+it-kk-0080; Nachlass (Erbe); il lascito; l'eredità letteraria, il patrimonio; C2; Kultur/Literatur; I ricercatori studiano il lascito dello scrittore.; Forscher untersuchen den Nachlass des Schriftstellers.
 it-kk-0081; Musik; la musica; ; A1; Kultur/Musik; Ascolto musica mentre vado al lavoro.; Ich höre Musik auf dem Weg zur Arbeit.
 it-kk-0082; Lied; la canzone; ; A1; Kultur/Musik; Questa canzone era molto popolare l'estate scorsa.; Dieses Lied war letzten Sommer sehr beliebt.
 it-kk-0083; singen; cantare; ; A1; Kultur/Musik; I bambini cantano una canzone ogni mattina.; Die Kinder singen jeden Morgen ein Lied.
@@ -110,7 +110,7 @@ it-kk-0107; Kirche; la chiesa; ; A2; Kultur/Architektur; La vecchia chiesa si tr
 it-kk-0108; Turm; la torre; ; A2; Kultur/Architektur; Dalla torre si vede tutta la città.; Vom Turm aus sieht man die ganze Stadt.
 it-kk-0109; Brücke; il ponte; ; A2; Kultur/Architektur; Il ponte collega le due parti della città.; Die Brücke verbindet die beiden Stadtteile.
 it-kk-0110; Gebäude; l'edificio; il palazzo; A2; Kultur/Architektur; Questo edificio è il più alto del paese.; Dieses Gebäude ist das höchste im Land.
-it-kk-0111; Schloss; il castello; il palazzo; B1; Kultur/Architektur, Reisen/Urlaub/Sightseeing; Il castello sulla collina attira molti turisti.; Das Schloss auf dem Hügel zieht viele Touristen an.
+it-kk-0111; Schloss (Gebäude); il castello; il palazzo; B1; Kultur/Architektur, Reisen/Urlaub/Sightseeing; Il castello sulla collina attira molti turisti.; Das Schloss auf dem Hügel zieht viele Touristen an.
 it-kk-0112; Architekt; l'architetto; l'architetta; B1; Kultur/Architektur; L'architetto ha progettato un moderno edificio scolastico.; Der Architekt entwarf ein modernes Schulgebäude.
 it-kk-0113; Architektur; l'architettura; ; B1; Kultur/Architektur; Studia architettura in un'università di Monaco.; Sie studiert Architektur an einer Universität in München.
 it-kk-0114; Denkmal; il monumento; ; B1; Kultur/Architektur; Il monumento ci ricorda le vittime della guerra.; Das Denkmal erinnert uns an die Opfer des Krieges.
@@ -125,7 +125,7 @@ it-kk-0122; Kuppel; la cupola; ; B2; Kultur/Architektur; La cupola dorata brilla
 it-kk-0123; Grundriss; la pianta; la planimetria; C1; Kultur/Architektur; La pianta mostra quattro stanze e due bagni.; Der Grundriss zeigt vier Zimmer und zwei Bäder.
 it-kk-0124; Stadtplanung; l'urbanistica; la pianificazione urbana; C1; Kultur/Architektur; Una buona urbanistica crea spazio per le persone, non per le auto.; Gute Stadtplanung schafft Raum für Menschen, nicht für Autos.
 it-kk-0125; Gewölbe; la volta; ; C2; Kultur/Architektur; La vecchia cantina ha un'imponente volta di pietra.; Der alte Weinkeller hat ein beeindruckendes Steingewölbe.
-it-kk-0126; Geschichte; la storia; ; A1; Kultur/Geschichte; Trovo molto interessante la storia tedesca.; Ich finde die deutsche Geschichte sehr interessant.
+it-kk-0126; Geschichte (Vergangenheit); la storia; ; A1; Kultur/Geschichte; Trovo molto interessante la storia tedesca.; Ich finde die deutsche Geschichte sehr interessant.
 it-kk-0127; König; il re; ; A2; Kultur/Geschichte; Il re viveva in un enorme palazzo.; Der König lebte in einem riesigen Palast.
 it-kk-0128; Königin; la regina; ; A2; Kultur/Geschichte; La regina salutava la gente dal balcone.; Die Königin winkte den Menschen vom Balkon zu.
 it-kk-0129; Krieg; la guerra; ; A2; Kultur/Geschichte; La guerra durò quasi trent'anni.; Der Krieg dauerte fast dreißig Jahre.
@@ -143,7 +143,7 @@ it-kk-0140; Archäologe; l'archeologo; l'archeologa; B2; Kultur/Geschichte; L'ar
 it-kk-0141; Herrschaft; il dominio; il regno, il potere; B2; Kultur/Geschichte; Sotto il suo dominio l'impero crebbe molto rapidamente.; Unter seiner Herrschaft wuchs das Reich sehr schnell.
 it-kk-0142; erobern; conquistare; ; B2; Kultur/Geschichte; I Romani cercarono di conquistare tutta la regione.; Die Römer versuchten, die ganze Region zu erobern.
 it-kk-0143; Niederlage; la sconfitta; ; B2; Kultur/Geschichte; La sconfitta pose finalmente fine alla lunga guerra.; Die Niederlage beendete endlich den langen Krieg.
-it-kk-0144; Erbe; il patrimonio; l'eredità, il retaggio; B2; Kultur/Geschichte; Il centro storico fa parte del nostro patrimonio culturale.; Die Altstadt ist Teil unseres kulturellen Erbes.
+it-kk-0144; Erbe (Kultur); il patrimonio; l'eredità, il retaggio; B2; Kultur/Geschichte; Il centro storico fa parte del nostro patrimonio culturale.; Die Altstadt ist Teil unseres kulturellen Erbes.
 it-kk-0145; Ausgrabung; lo scavo; gli scavi; C1; Kultur/Geschichte; Lo scavo ha portato alla luce i muri di una villa romana.; Die Ausgrabung legte die Mauern einer römischen Villa frei.
 it-kk-0146; Altertum; l'antichità; ; C1; Kultur/Geschichte; Già nell'antichità le vie commerciali collegavano Europa e Asia.; Schon im Altertum verbanden Handelswege Europa und Asien.
 it-kk-0147; Überlieferung; la tradizione; ; C1; Kultur/Geschichte; Secondo la tradizione la città fu fondata da monaci.; Der Überlieferung nach wurde die Stadt von Mönchen gegründet.

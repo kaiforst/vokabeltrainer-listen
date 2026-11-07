@@ -15,7 +15,7 @@ it-fh-0012; Foto; la foto; la fotografia; A1; Freizeit/Hobbys; Fa una foto del v
 it-fh-0013; malen; dipingere; pitturare; A1; Freizeit/Basteln & Handwerk; I bambini dipingono quadri colorati per la nonna.; Die Kinder malen bunte Bilder für ihre Großmutter.
 it-fh-0014; schwimmen; nuotare; ; A1; Freizeit/Hobbys, Freizeit/Sport/Sportarten; D'estate nuotiamo nel lago.; Im Sommer schwimmen wir im See.
 it-fh-0015; Ball; la palla; il pallone; A1; Freizeit/Spiele; Il cane mi riporta la palla.; Der Hund bringt mir den Ball zurück.
-it-fh-0016; Karte; la carta da gioco; la carta; A1; Freizeit/Spiele; Ha in mano la carta da gioco migliore.; Sie hält die beste Spielkarte in der Hand.
+it-fh-0016; Karte (Spielkarte); la carta da gioco; la carta; A1; Freizeit/Spiele; Ha in mano la carta da gioco migliore.; Sie hält die beste Spielkarte in der Hand.
 it-fh-0017; Gitarre; la chitarra; ; A1; Freizeit/Musik; Mio fratello suona la chitarra ogni sera.; Mein Bruder spielt jeden Abend Gitarre.
 it-fh-0018; Kino; il cinema; ; A1; Freizeit/Ausgehen; Venerdì sera andiamo al cinema.; Wir gehen am Freitagabend ins Kino.
 it-fh-0019; Geburtstag; il compleanno; ; A1; Freizeit/Feste & Feiern; Quest'anno il suo compleanno è a maggio.; Ihr Geburtstag ist dieses Jahr im Mai.
@@ -26,7 +26,7 @@ it-fh-0023; fernsehen; guardare la televisione; guardare la tv, guardare la TV; 
 it-fh-0024; kochen; cucinare; ; A1; Freizeit/Hobbys, Alltag/Essen/Kochen; La domenica cucino per tutta la famiglia.; Sonntags koche ich für die ganze Familie.
 it-fh-0025; Garten; il giardino; l'orto; A1; Freizeit/Hobbys; Ogni fine settimana lavora nel suo giardino.; Sie arbeitet jedes Wochenende in ihrem Garten.
 it-fh-0026; Brettspiel; il gioco da tavolo; ; A2; Freizeit/Spiele; Nei giorni di pioggia facciamo un gioco da tavolo.; An Regentagen spielen wir ein Brettspiel.
-it-fh-0027; Würfel; il dado; i dadi; A2; Freizeit/Spiele; Lancia il dado e vai avanti di tre caselle.; Wirf den Würfel und ziehe drei Felder vor.
+it-fh-0027; Würfel (Spiel); il dado; i dadi; A2; Freizeit/Spiele; Lancia il dado e vai avanti di tre caselle.; Wirf den Würfel und ziehe drei Felder vor.
 it-fh-0028; gewinnen; vincere; ; A2; Freizeit/Spiele; Questa volta vuole vincere la partita.; Sie will das Spiel diesmal gewinnen.
 it-fh-0029; verlieren; perdere; ; A2; Freizeit/Spiele; A nessuno piace perdere due partite di fila.; Niemand verliert gern zwei Spiele hintereinander.
 it-fh-0030; Konzert; il concerto; ; A2; Freizeit/Musik; Il concerto comincia alle otto nel parco.; Das Konzert beginnt um acht im Park.
@@ -64,7 +64,7 @@ it-fh-0061; Schach; gli scacchi; ; B1; Freizeit/Spiele; Gioca a scacchi con suo 
 it-fh-0062; Kartenspiel; il gioco di carte; ; B1; Freizeit/Spiele; Questo gioco di carte è molto facile da imparare.; Dieses Kartenspiel ist sehr leicht zu lernen.
 it-fh-0063; Wettbewerb; il concorso; la gara, la competizione; B1; Freizeit/Spiele; Ha vinto il primo premio al concorso fotografico.; Sie gewann den ersten Preis beim Fotowettbewerb.
 it-fh-0064; Turnier; il torneo; ; B1; Freizeit/Spiele; Il circolo organizza un torneo di scacchi ogni primavera.; Der Verein organisiert jedes Frühjahr ein Schachturnier.
-it-fh-0065; Preis; il premio; ; B1; Freizeit/Spiele; Il premio per il vincitore è un viaggio di un fine settimana.; Der Preis für den Sieger ist eine Wochenendreise.
+it-fh-0065; Preis (Gewinn); il premio; ; B1; Freizeit/Spiele; Il premio per il vincitore è un viaggio di un fine settimana.; Der Preis für den Sieger ist eine Wochenendreise.
 it-fh-0066; Bühne; il palco; il palcoscenico; B1; Freizeit/Musik; La band è salita sul palco alle nove.; Die Band betrat um neun die Bühne.
 it-fh-0067; Auftritt; l'esibizione; la performance; B1; Freizeit/Musik; La sua prima esibizione ha reso orgogliosa tutta la famiglia.; Ihr erster Auftritt machte die ganze Familie stolz.
 it-fh-0068; Publikum; il pubblico; ; B1; Freizeit/Musik; Il pubblico ha applaudito per quasi dieci minuti.; Das Publikum klatschte fast zehn ganze Minuten.
@@ -73,24 +73,24 @@ it-fh-0070; Veranstaltung; l'evento; la manifestazione; B1; Freizeit/Ausgehen; L
 it-fh-0071; stattfinden; avere luogo; svolgersi, tenersi; B1; Freizeit/Feste & Feiern; La festa avrà luogo alla fine di agosto.; Das Fest findet Ende August statt.
 it-fh-0072; Schlagzeug; la batteria; ; B1; Freizeit/Musik; Suona la batteria da quando aveva dodici anni.; Er spielt Schlagzeug, seit er zwölf ist.
 it-fh-0073; Geige; il violino; ; B1; Freizeit/Musik; Il violino è uno strumento difficile ma bello.; Die Geige ist ein schwieriges, aber schönes Instrument.
-it-fh-0074; Band; la band; il gruppo; B1; Freizeit/Musik; La loro band suona in un garage vicino alla stazione.; Ihre Band spielt in einer Garage am Bahnhof.
+it-fh-0074; Band (Musikgruppe); la band; il gruppo; B1; Freizeit/Musik; La loro band suona in un garage vicino alla stazione.; Ihre Band spielt in einer Garage am Bahnhof.
 it-fh-0075; proben; provare; fare le prove; B1; Freizeit/Musik; Il gruppo prova due volte a settimana per lo spettacolo.; Die Gruppe probt zweimal pro Woche für die Show.
 it-fh-0076; Melodie; la melodia; ; B1; Freizeit/Musik; La melodia mi è rimasta in testa per giorni.; Die Melodie blieb mir tagelang im Kopf.
 it-fh-0077; Roman; il romanzo; ; B1; Freizeit/Lesen; Sta scrivendo un romanzo su sua nonna.; Sie schreibt einen Roman über ihre Großmutter.
 it-fh-0078; Krimi; il giallo; il romanzo giallo, il poliziesco; B1; Freizeit/Lesen; Ho finito il giallo in una notte.; Ich habe den Krimi in einer Nacht ausgelesen.
 it-fh-0079; Gedicht; la poesia; ; B1; Freizeit/Lesen; Ha scritto una breve poesia per il suo compleanno.; Er schrieb ein kurzes Gedicht zu ihrem Geburtstag.
 it-fh-0080; Lesezeichen; il segnalibro; ; B1; Freizeit/Lesen; Il mio segnalibro è una vecchia cartolina di Roma.; Mein Lesezeichen ist eine alte Postkarte aus Rom.
-it-fh-0081; Handlung; la trama; ; B1; Freizeit/Lesen; La trama del libro è piena di sorprese.; Die Handlung des Buches ist voller Überraschungen.
+it-fh-0081; Handlung (Geschichte); la trama; ; B1; Freizeit/Lesen; La trama del libro è piena di sorprese.; Die Handlung des Buches ist voller Überraschungen.
 it-fh-0082; stricken; lavorare a maglia; fare la maglia; B1; Freizeit/Basteln & Handwerk; Mia zia lavora a maglia calzini caldi per tutta la famiglia.; Meine Tante strickt warme Socken für die ganze Familie.
 it-fh-0083; nähen; cucire; ; B1; Freizeit/Basteln & Handwerk; Si cuce i vestiti da sola con stoffa vecchia.; Sie näht ihre eigenen Kleider aus altem Stoff.
 it-fh-0084; Werkstatt; il laboratorio; l'officina; B1; Freizeit/Basteln & Handwerk; Costruisce tavolini nel suo piccolo laboratorio.; Er baut kleine Tische in seiner kleinen Werkstatt.
 it-fh-0085; Feuerwerk; i fuochi d'artificio; ; B1; Freizeit/Feste & Feiern; I fuochi d'artificio sul fiume sono durati venti minuti.; Das Feuerwerk über dem Fluss dauerte zwanzig Minuten.
-it-fh-0086; Umzug; la sfilata; il corteo; B1; Freizeit/Feste & Feiern; La sfilata colorata attraversa lentamente il centro storico.; Der bunte Umzug zieht langsam durch die Altstadt.
+it-fh-0086; Umzug (Festzug); la sfilata; il corteo; B1; Freizeit/Feste & Feiern; La sfilata colorata attraversa lentamente il centro storico.; Der bunte Umzug zieht langsam durch die Altstadt.
 it-fh-0087; Kostüm; il costume; il travestimento; B1; Freizeit/Feste & Feiern; Il suo costume ha vinto un piccolo premio alla festa.; Ihr Kostüm gewann einen kleinen Preis auf der Party.
 it-fh-0088; Kneipe; il pub; il bar, l'osteria; B1; Freizeit/Ausgehen; Ci troviamo al pub dietro l'angolo.; Wir treffen uns in der Kneipe um die Ecke.
 it-fh-0089; Zuschauer; lo spettatore; la spettatrice; B1; Freizeit/Ausgehen; Ogni spettatore ha ricevuto una bevanda gratis prima dello spettacolo.; Jeder Zuschauer bekam vor der Show ein Freigetränk.
 it-fh-0090; unterhalten; intrattenere; divertire; B1; Freizeit/Ausgehen; Il mago ha intrattenuto i bambini per un'ora.; Der Zauberer unterhielt die Kinder eine Stunde lang.
-it-fh-0091; Unterhaltung; l'intrattenimento; lo svago; B1; Freizeit/Ausgehen; L'albergo offre intrattenimento per grandi e piccini.; Das Hotel bietet Unterhaltung für Jung und Alt.
+it-fh-0091; Unterhaltung (Vergnügen); l'intrattenimento; lo svago; B1; Freizeit/Ausgehen; L'albergo offre intrattenimento per grandi e piccini.; Das Hotel bietet Unterhaltung für Jung und Alt.
 it-fh-0092; Entspannung; il relax; il rilassamento; B1; Freizeit/Hobbys; Il giardinaggio è puro relax per mia madre sempre impegnata.; Gartenarbeit ist für meine beschäftigte Mutter pure Entspannung.
 it-fh-0093; entspannen; rilassarsi; ; B1; Freizeit/Hobbys; Dopo il lavoro si rilassa con un po' di musica tranquilla.; Nach der Arbeit entspannt er bei leiser Musik.
 it-fh-0094; Billard; il biliardo; ; B1; Freizeit/Spiele; Lì giocano a biliardo nella stanza sul retro.; Sie spielen dort im Hinterzimmer Billard.
@@ -109,7 +109,7 @@ it-fh-0106; Komponist; il compositore; la compositrice; B2; Freizeit/Musik; Il c
 it-fh-0107; komponieren; comporre; ; B2; Freizeit/Musik; Compone brevi pezzi per pianoforte e violino.; Sie komponiert kurze Stücke für Klavier und Geige.
 it-fh-0108; Notenblatt; lo spartito; ; B2; Freizeit/Musik; Ha perso lo spartito proprio prima del concerto.; Er verlor sein Notenblatt direkt vor dem Konzert.
 it-fh-0109; Literatur; la letteratura; ; B2; Freizeit/Lesen; Sa molto della letteratura francese moderna.; Sie weiß viel über moderne französische Literatur.
-it-fh-0110; Spannung; la suspense; la tensione; B2; Freizeit/Lesen; L'autore costruisce la suspense lentamente ma con sicurezza.; Der Autor baut die Spannung langsam, aber sicher auf.
+it-fh-0110; Spannung (Buch, Film); la suspense; la tensione; B2; Freizeit/Lesen; L'autore costruisce la suspense lentamente ma con sicurezza.; Der Autor baut die Spannung langsam, aber sicher auf.
 it-fh-0111; Nachtleben; la vita notturna; la movida; B2; Freizeit/Ausgehen; La vita notturna in questo quartiere non si ferma mai davvero.; Das Nachtleben in diesem Viertel hört nie wirklich auf.
 it-fh-0112; Stimmung; l'atmosfera; il clima, l'umore; B2; Freizeit/Feste & Feiern; L'atmosfera alla festa era calda e rilassata.; Die Stimmung auf dem Fest war warm und entspannt.
 it-fh-0113; ausgelassen; scatenato; esuberante, sfrenato; B2; Freizeit/Feste & Feiern; La folla scatenata ha ballato fino al mattino presto.; Die ausgelassene Menge tanzte bis in den frühen Morgen.

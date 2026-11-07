@@ -42,14 +42,14 @@ it-kg-0039; Bauchschmerzen; il mal di pancia; ; A2; Gesundheit/Symptome; La raga
 it-kg-0040; Halsschmerzen; il mal di gola; ; A2; Gesundheit/Symptome; Il tè caldo aiuta contro il mal di gola.; Warmer Tee hilft gegen Halsschmerzen.
 it-kg-0041; Grippe; l'influenza; ; A2; Gesundheit/Krankheiten; A gennaio molte persone prendono l'influenza.; Viele Menschen bekommen im Januar die Grippe.
 it-kg-0042; Medikament; la medicina; il farmaco, il medicinale; A2; Gesundheit/Apotheke & Medikamente; Questa medicina aiuta in fretta contro il dolore.; Dieses Medikament hilft schnell gegen die Schmerzen.
-it-kg-0043; Rezept; la ricetta; la ricetta medica; A2; Gesundheit/Apotheke & Medikamente; Per queste compresse ci vuole la ricetta.; Für diese Tabletten brauchen Sie ein Rezept.
+it-kg-0043; Rezept (Arzt); la ricetta; la ricetta medica; A2; Gesundheit/Apotheke & Medikamente; Per queste compresse ci vuole la ricetta.; Für diese Tabletten brauchen Sie ein Rezept.
 it-kg-0044; Termin; l'appuntamento; ; A2; Gesundheit/Beim Arzt; Ho preso un appuntamento per venerdì mattina.; Ich habe einen Termin für Freitagmorgen gemacht.
 it-kg-0045; Krankenschwester; l'infermiera; l'infermiere; A2; Gesundheit/Krankenhaus; L'infermiera controlla i pazienti ogni ora.; Die Krankenschwester sieht jede Stunde nach den Patienten.
 it-kg-0046; Patient; il paziente; la paziente; A2; Gesundheit/Krankenhaus; Oggi il paziente si sente molto meglio.; Dem Patienten geht es heute viel besser.
 it-kg-0047; Wartezimmer; la sala d'attesa; ; A2; Gesundheit/Beim Arzt; Stamattina la sala d'attesa era piena.; Das Wartezimmer war heute Morgen voll.
 it-kg-0048; Spritze; l'iniezione; la puntura; A2; Gesundheit/Beim Arzt; L'iniezione ha fatto male solo per un secondo.; Die Spritze hat nur eine Sekunde wehgetan.
 it-kg-0049; Pflaster; il cerotto; ; A2; Gesundheit/Apotheke & Medikamente; Metti un cerotto sul piccolo taglio.; Kleb ein Pflaster auf den kleinen Schnitt.
-it-kg-0050; Verband; la fasciatura; la benda, il bendaggio; A2; Gesundheit/Beim Arzt; Il medico mi ha cambiato la fasciatura alla mano.; Der Arzt wechselte den Verband an meiner Hand.
+it-kg-0050; Verband (Wunde); la fasciatura; la benda, il bendaggio; A2; Gesundheit/Beim Arzt; Il medico mi ha cambiato la fasciatura alla mano.; Der Arzt wechselte den Verband an meiner Hand.
 it-kg-0051; Salbe; la pomata; l'unguento, la crema; A2; Gesundheit/Apotheke & Medikamente; Usi questa pomata due volte al giorno.; Benutzen Sie diese Salbe zweimal am Tag.
 it-kg-0052; Unfall; l'incidente; ; A2; Gesundheit/Krankenhaus; Dopo l'incidente aveva bisogno di aiuto in fretta.; Nach dem Unfall brauchte er schnell Hilfe.
 it-kg-0053; Notruf; la chiamata d'emergenza; la chiamata di emergenza; A2; Gesundheit/Krankenhaus; Ha fatto subito una chiamata d'emergenza.; Sie setzte sofort einen Notruf ab.
@@ -93,7 +93,7 @@ it-kg-0090; schwitzen; sudare; ; B1; Gesundheit/Symptome; Sudava molto per la fe
 it-kg-0091; impfen; vaccinare; ; B1; Gesundheit/Beim Arzt; Il medico ha vaccinato i bambini contro il morbillo.; Der Arzt impfte die Kinder gegen Masern.
 it-kg-0092; Impfung; la vaccinazione; il vaccino; B1; Gesundheit/Beim Arzt; La vaccinazione ti protegge per molti anni.; Die Impfung schützt dich viele Jahre lang.
 it-kg-0093; Krankenversicherung; l'assicurazione sanitaria; l'assicurazione malattia; B1; Gesundheit/Beim Arzt; In Germania tutti hanno bisogno di un'assicurazione sanitaria.; In Deutschland braucht jeder eine Krankenversicherung.
-it-kg-0094; Überweisung; l'impegnativa; la richiesta del medico; B1; Gesundheit/Beim Arzt; Ho bisogno di un'impegnativa per lo specialista.; Ich brauche eine Überweisung zum Facharzt.
+it-kg-0094; Überweisung (zum Facharzt); l'impegnativa; la richiesta del medico; B1; Gesundheit/Beim Arzt; Ho bisogno di un'impegnativa per lo specialista.; Ich brauche eine Überweisung zum Facharzt.
 it-kg-0095; Notaufnahme; il pronto soccorso; ; B1; Gesundheit/Krankenhaus; Sono andati direttamente al pronto soccorso.; Sie fuhren direkt in die Notaufnahme.
 it-kg-0096; Diagnose; la diagnosi; ; B2; Gesundheit/Beim Arzt; La diagnosi è arrivata del tutto inaspettata.; Die Diagnose kam völlig überraschend.
 it-kg-0097; Behandlung; la cura; il trattamento; B2; Gesundheit/Beim Arzt; La cura dura in tutto circa tre mesi.; Die Behandlung dauert insgesamt etwa drei Monate.
@@ -144,7 +144,7 @@ it-kg-0141; Heilungsprozess; il processo di guarigione; ; C1; Gesundheit/Kranken
 it-kg-0142; Rehabilitation; la riabilitazione; ; C1; Gesundheit/Krankenhaus; Dopo l'operazione ha iniziato subito la riabilitazione.; Nach der Operation begann sie sofort mit der Rehabilitation.
 it-kg-0143; Arzneimittel; il farmaco; il medicinale; C1; Gesundheit/Apotheke & Medikamente; Ogni nuovo farmaco viene testato per anni.; Jedes neue Arzneimittel wird jahrelang getestet.
 it-kg-0144; Anamnese; l'anamnesi; ; C2; Gesundheit/Beim Arzt; Il medico ha raccolto prima un'anamnesi dettagliata.; Der Arzt erhob zuerst eine ausführliche Anamnese.
-it-kg-0145; Prognose; la prognosi; ; C2; Gesundheit/Krankenhaus; Nonostante la malattia la prognosi è buona.; Trotz der Krankheit ist die Prognose gut.
+it-kg-0145; Prognose (Medizin); la prognosi; ; C2; Gesundheit/Krankenhaus; Nonostante la malattia la prognosi è buona.; Trotz der Krankheit ist die Prognose gut.
 it-kg-0146; bösartig; maligno; ; C2; Gesundheit/Krankheiten; Per fortuna il tumore non era maligno.; Zum Glück war der Tumor nicht bösartig.
 it-kg-0147; gutartig; benigno; ; C2; Gesundheit/Krankheiten; L'escrescenza si è rivelata benigna.; Die Geschwulst erwies sich als gutartig.
 it-kg-0148; Beipackzettel; il foglietto illustrativo; il bugiardino; C2; Gesundheit/Apotheke & Medikamente; Prima di prendere il medicinale legga il foglietto illustrativo.; Lesen Sie vor der Einnahme den Beipackzettel.

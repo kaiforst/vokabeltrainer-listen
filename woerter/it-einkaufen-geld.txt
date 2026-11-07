@@ -2,8 +2,8 @@
 id; Deutsch; Italienisch; Weitere Antworten; Niveau; Themen; Beispiel Italienisch; Beispiel Deutsch
 it-eg-0001; kaufen; comprare; acquistare; A1; Alltag/Einkaufen/Geschäfte; Voglio comprare una giacca nuova.; Ich möchte eine neue Jacke kaufen.
 it-eg-0002; Geld; i soldi; il denaro; A1; Alltag/Einkaufen/Geld; Oggi non ho soldi con me.; Ich habe heute kein Geld dabei.
-it-eg-0003; Preis; il prezzo; ; A1; Alltag/Einkaufen/Preise; Qual è il prezzo di questa camicia?; Was ist der Preis für dieses Hemd?
-it-eg-0004; Geschäft; il negozio; ; A1; Alltag/Einkaufen/Geschäfte; Il negozio apre alle nove di mattina.; Das Geschäft öffnet um neun Uhr morgens.
+it-eg-0003; Preis (Kosten); il prezzo; ; A1; Alltag/Einkaufen/Preise; Qual è il prezzo di questa camicia?; Was ist der Preis für dieses Hemd?
+it-eg-0004; Geschäft (Laden); il negozio; ; A1; Alltag/Einkaufen/Geschäfte; Il negozio apre alle nove di mattina.; Das Geschäft öffnet um neun Uhr morgens.
 it-eg-0005; Supermarkt; il supermercato; ; A1; Alltag/Einkaufen/Geschäfte; Il sabato andiamo al supermercato.; Wir gehen samstags in den Supermarkt.
 it-eg-0006; Markt; il mercato; ; A1; Alltag/Einkaufen/Geschäfte; Al mercato c'è frutta e verdura fresca.; Auf dem Markt gibt es frisches Obst und Gemüse.
 it-eg-0007; Bäckerei; la panetteria; il panificio, il forno; A1; Alltag/Einkaufen/Geschäfte; La panetteria nella nostra via ha un profumo meraviglioso.; Die Bäckerei in unserer Straße duftet herrlich.
@@ -13,7 +13,7 @@ it-eg-0010; bezahlen; pagare; ; A1; Alltag/Einkaufen/Bezahlen; Posso pagare con 
 it-eg-0011; kosten; costare; ; A1; Alltag/Einkaufen/Preise; Quanto costa questa borsa?; Wie viel kostet diese Tasche?
 it-eg-0012; Euro; l'euro; ; A1; Alltag/Einkaufen/Geld; Il pane costa due euro e cinquanta.; Das Brot kostet zwei Euro fünfzig.
 it-eg-0013; Kasse; la cassa; ; A1; Alltag/Einkaufen/Bezahlen; Per favore, aspetti alla cassa laggiù.; Bitte warten Sie dort an der Kasse.
-it-eg-0014; Tasche; la borsa; il sacchetto, la busta; A1; Alltag/Einkaufen/Geschäfte; Le serve una borsa per questo?; Brauchen Sie dafür eine Tasche?
+it-eg-0014; Tasche (zum Tragen); la borsa; il sacchetto, la busta; A1; Alltag/Einkaufen/Geschäfte; Le serve una borsa per questo?; Brauchen Sie dafür eine Tasche?
 it-eg-0015; Kunde; il cliente; la cliente; A1; Alltag/Einkaufen/Geschäfte; Il cliente aspetta alla porta.; Der Kunde wartet an der Tür.
 it-eg-0016; verkaufen; vendere; ; A1; Alltag/Einkaufen/Geschäfte; In questo negozio vendono belle scarpe.; In diesem Geschäft verkaufen sie schöne Schuhe.
 it-eg-0017; Verkäufer; il commesso; la commessa, il venditore, la venditrice; A1; Alltag/Einkaufen/Geschäfte; Oggi il commesso è stato molto gentile.; Der Verkäufer war heute sehr freundlich.
@@ -29,11 +29,11 @@ it-eg-0026; Wechselgeld; il resto; ; A2; Alltag/Einkaufen/Bezahlen; Ecco il suo 
 it-eg-0027; Kreditkarte; la carta di credito; ; A2; Alltag/Einkaufen/Bezahlen; Ho pagato l'albergo con la carta di credito.; Ich habe das Hotel mit Kreditkarte bezahlt.
 it-eg-0028; Bargeld; i contanti; il contante; A2; Alltag/Einkaufen/Bezahlen; Questo piccolo negozio accetta solo contanti.; Dieses kleine Geschäft nimmt nur Bargeld.
 it-eg-0029; Geldautomat; il bancomat; lo sportello automatico, lo sportello bancomat; A2; Alltag/Einkaufen/Geld, Reisen/Urlaub/Unterwegs; C'è un bancomat vicino alla stazione?; Gibt es einen Geldautomaten in der Nähe des Bahnhofs?
-it-eg-0030; Bank; la banca; ; A2; Alltag/Einkaufen/Geld; La banca chiude alle quattro del pomeriggio.; Die Bank schließt um vier Uhr nachmittags.
+it-eg-0030; Bank (Geldinstitut); la banca; ; A2; Alltag/Einkaufen/Geld; La banca chiude alle quattro del pomeriggio.; Die Bank schließt um vier Uhr nachmittags.
 it-eg-0031; Konto; il conto; il conto corrente, il conto bancario; A2; Alltag/Einkaufen/Geld; Ho aperto un conto presso la banca locale.; Ich habe ein Konto bei der örtlichen Bank eröffnet.
 it-eg-0032; sparen; risparmiare; ; A2; Alltag/Einkaufen/Geld; Ogni mese risparmiamo un po' di soldi.; Wir sparen jeden Monat etwas Geld.
 it-eg-0033; ausgeben; spendere; ; A2; Alltag/Einkaufen/Geld; Spende troppo per i vestiti.; Er gibt zu viel für Kleidung aus.
-it-eg-0034; Quittung; la ricevuta; ; A2; Alltag/Einkaufen/Bezahlen; Potrei avere una ricevuta, per favore?; Könnte ich bitte eine Quittung bekommen?
+it-eg-0034; Quittung; la ricevuta; lo scontrino; A2; Alltag/Einkaufen/Bezahlen; Potrei avere una ricevuta, per favore?; Könnte ich bitte eine Quittung bekommen?
 it-eg-0035; Angebot; l'offerta; ; A2; Alltag/Einkaufen/Angebote; Questa settimana c'è un'offerta sul caffè.; Diese Woche gibt es ein Angebot für Kaffee.
 it-eg-0036; Rabatt; lo sconto; ; A2; Alltag/Einkaufen/Angebote; Qui gli studenti hanno uno sconto del dieci per cento.; Studenten bekommen hier zehn Prozent Rabatt.
 it-eg-0037; Sonderangebot; l'offerta speciale; la promozione; A2; Alltag/Einkaufen/Angebote; La giacca era una vera offerta speciale.; Die Jacke war ein echtes Sonderangebot.
@@ -52,7 +52,7 @@ it-eg-0049; zurückgeben; restituire; rendere; A2; Alltag/Einkaufen/Reklamation;
 it-eg-0050; Öffnungszeiten; gli orari di apertura; l'orario di apertura; A2; Alltag/Einkaufen/Geschäfte; Gli orari di apertura sono sulla porta.; Die Öffnungszeiten stehen an der Tür.
 it-eg-0051; Rechnung; la fattura; il conto; A2; Alltag/Einkaufen/Bezahlen; La fattura è arrivata due giorni dopo la consegna.; Die Rechnung kam zwei Tage nach der Lieferung.
 it-eg-0052; Münze; la moneta; ; A2; Alltag/Einkaufen/Geld; Ha trovato una vecchia moneta in tasca.; Er fand eine alte Münze in seiner Tasche.
-it-eg-0053; Schein; la banconota; il biglietto; A2; Alltag/Einkaufen/Geld; Ha pagato con una banconota da cinquanta euro.; Sie bezahlte mit einem Fünfzig-Euro-Schein.
+it-eg-0053; Schein (Geldschein); la banconota; il biglietto; A2; Alltag/Einkaufen/Geld; Ha pagato con una banconota da cinquanta euro.; Sie bezahlte mit einem Fünfzig-Euro-Schein.
 it-eg-0054; Geldbeutel; il portafoglio; il borsellino, il portamonete; A2; Alltag/Einkaufen/Geld; Prima del giorno di paga il mio portafoglio è quasi vuoto.; Mein Geldbeutel ist vor dem Zahltag fast leer.
 it-eg-0055; kostenlos; gratuito; gratis; A2; Alltag/Einkaufen/Preise; La consegna è gratuita per ordini superiori a cinquanta euro.; Die Lieferung ist ab fünfzig Euro kostenlos.
 it-eg-0056; günstig; economico; conveniente; A2; Alltag/Einkaufen/Preise; Questo negozio è noto per i mobili economici.; Dieses Geschäft ist für günstige Möbel bekannt.
@@ -65,14 +65,14 @@ it-eg-0062; Versand; la spedizione; ; B1; Alltag/Einkaufen/Online-Shopping; La s
 it-eg-0063; Versandkosten; le spese di spedizione; i costi di spedizione; B1; Alltag/Einkaufen/Online-Shopping; Le spese di spedizione erano più alte del libro stesso.; Die Versandkosten waren höher als das Buch selbst.
 it-eg-0064; Warenkorb; il carrello; il carrello degli acquisti; B1; Alltag/Einkaufen/Online-Shopping; Prima metti le scarpe nel carrello.; Lege die Schuhe zuerst in deinen Warenkorb.
 it-eg-0065; Kundenkonto; l'account cliente; il profilo cliente, l'account; B1; Alltag/Einkaufen/Online-Shopping; Crea un account cliente per seguire i tuoi ordini.; Erstelle ein Kundenkonto um deine Bestellungen zu verfolgen.
-it-eg-0066; Bewertung; la recensione; la valutazione; B1; Alltag/Einkaufen/Online-Shopping; Leggi ogni recensione prima di comprare elettronica costosa.; Lies jede Bewertung bevor du teure Elektronik kaufst.
+it-eg-0066; Bewertung (von Kunden); la recensione; la valutazione; B1; Alltag/Einkaufen/Online-Shopping; Leggi ogni recensione prima di comprare elettronica costosa.; Lies jede Bewertung bevor du teure Elektronik kaufst.
 it-eg-0067; Händler; il rivenditore; il commerciante, la commerciante; B1; Alltag/Einkaufen/Geschäfte; Il rivenditore offriva due anni di garanzia.; Der Händler bot zwei Jahre Garantie an.
 it-eg-0068; Ware; la merce; ; B1; Alltag/Einkaufen/Geschäfte; La merce arriva in negozio ogni mattina.; Die Ware kommt jeden Morgen im Laden an.
 it-eg-0069; Marke; la marca; il marchio; B1; Alltag/Einkaufen/Geschäfte; Questa marca è popolare tra i giovani.; Diese Marke ist bei jungen Leuten beliebt.
 it-eg-0070; Qualität; la qualità; ; B1; Alltag/Einkaufen/Geschäfte; Quando faccio acquisti la qualità conta più della quantità.; Beim Einkaufen ist mir Qualität wichtiger als Menge.
 it-eg-0071; vergleichen; confrontare; paragonare; B1; Alltag/Einkaufen/Preise; Confronta sempre i prezzi prima di comprare online.; Vergleiche immer die Preise bevor du online kaufst.
 it-eg-0072; Preisvergleich; il confronto dei prezzi; il confronto prezzi; B1; Alltag/Einkaufen/Preise; Un rapido confronto dei prezzi mi ha fatto risparmiare venti euro.; Ein schneller Preisvergleich hat mir zwanzig Euro gespart.
-it-eg-0073; handeln; contrattare; mercanteggiare, trattare; B1; Alltag/Einkaufen/Preise; Al mercatino delle pulci si può contrattare un po'.; Auf dem Flohmarkt kann man ein bisschen handeln.
+it-eg-0073; handeln (feilschen); contrattare; mercanteggiare, trattare; B1; Alltag/Einkaufen/Preise; Al mercatino delle pulci si può contrattare un po'.; Auf dem Flohmarkt kann man ein bisschen handeln.
 it-eg-0074; Ermäßigung; la riduzione; la tariffa ridotta, lo sconto; B1; Alltag/Einkaufen/Angebote; Il lunedì gli anziani hanno una riduzione.; Senioren bekommen montags eine Ermäßigung.
 it-eg-0075; Schlussverkauf; i saldi; la svendita; B1; Alltag/Einkaufen/Angebote; Ho comprato il cappotto invernale durante i saldi.; Ich habe meinen Wintermantel im Schlussverkauf gekauft.
 it-eg-0076; Gutschein; il buono; il buono regalo, il voucher; B1; Alltag/Einkaufen/Angebote; Mi ha regalato un buono per il mio compleanno.; Sie hat mir einen Gutschein zum Geburtstag geschenkt.
@@ -85,13 +85,13 @@ it-eg-0082; Rückerstattung; il rimborso; ; B1; Alltag/Einkaufen/Reklamation; Ho
 it-eg-0083; Garantie; la garanzia; ; B1; Alltag/Einkaufen/Reklamation; Il portatile ha due anni di garanzia.; Der Laptop hat zwei Jahre Garantie.
 it-eg-0084; Kassenbon; lo scontrino; ; B1; Alltag/Einkaufen/Bezahlen; Conserva lo scontrino per un eventuale reso.; Heb den Kassenbon für eine mögliche Rückgabe auf.
 it-eg-0085; überweisen; fare un bonifico; bonificare, trasferire; B1; Alltag/Einkaufen/Geld; La preghiamo di fare un bonifico dell'importo entro due settimane.; Bitte überweisen Sie den Betrag innerhalb von zwei Wochen.
-it-eg-0086; Überweisung; il bonifico; il bonifico bancario; B1; Alltag/Einkaufen/Geld; Il bonifico è arrivato il giorno dopo.; Die Überweisung kam am nächsten Tag an.
-it-eg-0087; abheben; prelevare; ; B1; Alltag/Einkaufen/Geld; Prima devo prelevare un po' di soldi.; Ich muss zuerst etwas Geld abheben.
+it-eg-0086; Überweisung (Bank); il bonifico; il bonifico bancario; B1; Alltag/Einkaufen/Geld; Il bonifico è arrivato il giorno dopo.; Die Überweisung kam am nächsten Tag an.
+it-eg-0087; abheben (Geld); prelevare; ; B1; Alltag/Einkaufen/Geld; Prima devo prelevare un po' di soldi.; Ich muss zuerst etwas Geld abheben.
 it-eg-0088; einzahlen; versare; depositare; B1; Alltag/Einkaufen/Geld; Vuole versare i contanti in banca.; Sie möchte das Bargeld bei der Bank einzahlen.
 it-eg-0089; Gehalt; lo stipendio; il salario; B1; Alltag/Einkaufen/Geld; Il suo stipendio viene pagato a fine mese.; Sein Gehalt wird am Monatsende gezahlt.
 it-eg-0090; Ausgaben; le spese; le uscite; B1; Alltag/Einkaufen/Geld; Annotiamo tutte le nostre spese mensili.; Wir notieren alle unsere monatlichen Ausgaben.
 it-eg-0091; Einkommen; il reddito; le entrate; B1; Alltag/Einkaufen/Geld; Il loro reddito basta per un piccolo appartamento.; Ihr Einkommen reicht für eine kleine Wohnung.
-it-eg-0092; leihen; prestare; ; B1; Alltag/Einkaufen/Geld; Mi puoi prestare dieci euro fino a domani?; Kannst du mir bis morgen zehn Euro leihen?
+it-eg-0092; leihen (jemandem etwas); prestare; ; B1; Alltag/Einkaufen/Geld; Mi puoi prestare dieci euro fino a domani?; Kannst du mir bis morgen zehn Euro leihen?
 it-eg-0093; borgen; farsi prestare; prendere in prestito; B1; Alltag/Einkaufen/Geld; Ho dovuto farmi prestare dei soldi per il biglietto.; Ich musste mir Geld für das Ticket borgen.
 it-eg-0094; Schulden; i debiti; il debito; B1; Alltag/Einkaufen/Geld; Ha saldato i suoi debiti entro un anno.; Er hat seine Schulden innerhalb eines Jahres abbezahlt.
 it-eg-0095; Mehrwertsteuer; l'IVA; l'imposta sul valore aggiunto; B1; Alltag/Einkaufen/Preise; Il prezzo comprende già l'IVA.; Im Preis ist die Mehrwertsteuer bereits enthalten.

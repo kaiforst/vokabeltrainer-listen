@@ -5,7 +5,7 @@ it-wu-0002; Regen; la pioggia; ; A1; Natur/Umwelt/Wetter; Ci serve più pioggia 
 it-wu-0003; Schnee; la neve; ; A1; Natur/Umwelt/Wetter; La neve è bianca e molto fredda.; Der Schnee ist weiß und sehr kalt.
 it-wu-0004; Wind; il vento; ; A1; Natur/Umwelt/Wetter; Oggi il vento è molto forte.; Der Wind ist heute sehr stark.
 it-wu-0005; Wolke; la nuvola; la nube; A1; Natur/Umwelt/Wetter; Sopra la casa c'è una grande nuvola.; Über dem Haus ist eine große Wolke.
-it-wu-0006; Himmel; il cielo; ; A1; Natur/Umwelt/Wetter; Stamattina il cielo è azzurro.; Der Himmel ist heute Morgen blau.
+it-wu-0006; Himmel (Wetter, Sterne); il cielo; ; A1; Natur/Umwelt/Wetter; Stamattina il cielo è azzurro.; Der Himmel ist heute Morgen blau.
 it-wu-0007; Wetter; il tempo; il meteo; A1; Natur/Umwelt/Wetter; Questa settimana il tempo è bello.; Das Wetter ist diese Woche schön.
 it-wu-0008; warm; caldo; tiepido; A1; Natur/Umwelt/Wetter; Oggi in giardino fa caldo.; Es ist heute warm im Garten.
 it-wu-0009; kalt; freddo; ; A1; Natur/Umwelt/Wetter; A gennaio fuori fa molto freddo.; Draußen ist es im Januar sehr kalt.
@@ -18,10 +18,10 @@ it-wu-0015; Baum; l'albero; ; A1; Natur/Umwelt/Natur; Il vecchio albero si trova
 it-wu-0016; Blume; il fiore; ; A1; Natur/Umwelt/Natur; Questo fiore è rosso e bello.; Diese Blume ist rot und schön.
 it-wu-0017; Wasser; l'acqua; ; A1; Natur/Umwelt/Natur; L'acqua pulita è importante per tutti.; Sauberes Wasser ist für alle wichtig.
 it-wu-0018; Luft; l'aria; ; A1; Natur/Umwelt/Natur; In montagna l'aria è fresca.; Die Luft in den Bergen ist frisch.
-it-wu-0019; Eis; il ghiaccio; ; A1; Natur/Umwelt/Wetter; D'inverno c'è il ghiaccio sul lago.; Im Winter ist Eis auf dem See.
+it-wu-0019; Eis (gefrorenes Wasser); il ghiaccio; ; A1; Natur/Umwelt/Wetter; D'inverno c'è il ghiaccio sul lago.; Im Winter ist Eis auf dem See.
 it-wu-0020; regnen; piovere; ; A1; Natur/Umwelt/Wetter; Credo che domani pomeriggio pioverà.; Ich glaube, morgen Nachmittag wird es regnen.
 it-wu-0021; schneien; nevicare; ; A1; Natur/Umwelt/Wetter; Durante la notte ha cominciato a nevicare.; In der Nacht begann es zu schneien.
-it-wu-0022; scheinen; splendere; brillare; A1; Natur/Umwelt/Wetter; Domenica il sole splenderà di nuovo.; Am Sonntag wird die Sonne wieder scheinen.
+it-wu-0022; scheinen (Sonne); splendere; brillare; A1; Natur/Umwelt/Wetter; Domenica il sole splenderà di nuovo.; Am Sonntag wird die Sonne wieder scheinen.
 it-wu-0023; Natur; la natura; ; A1; Natur/Umwelt/Natur; Nel fine settimana ci piace passeggiare nella natura.; Am Wochenende gehen wir gern in der Natur spazieren.
 it-wu-0024; Gras; l'erba; ; A1; Natur/Umwelt/Natur; Dopo la pioggia l'erba è verde.; Nach dem Regen ist das Gras grün.
 it-wu-0025; Müll; la spazzatura; l'immondizia, i rifiuti; A1; Natur/Umwelt/Recycling; Per favore, butta la spazzatura nel bidone.; Bitte wirf den Müll in die Tonne.

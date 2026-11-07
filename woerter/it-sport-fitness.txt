@@ -7,7 +7,7 @@ it-sf-0004; laufen; correre; ; A1; Freizeit/Sport/Training; Ogni mattina corre t
 it-sf-0005; spielen; giocare; ; A1; Freizeit/Sport/Sportarten; Dopo la scuola i bambini giocano a tennis.; Die Kinder spielen nach der Schule Tennis.
 it-sf-0006; Tennis; il tennis; ; A1; Freizeit/Sport/Sportarten; La domenica gioca a tennis con suo fratello.; Sie spielt sonntags mit ihrem Bruder Tennis.
 it-sf-0007; Spiel; la partita; il gioco; A1; Freizeit/Sport/Wettkampf; Oggi la partita inizia alle tre.; Das Spiel beginnt heute um drei Uhr.
-it-sf-0008; Tor; il gol; la rete, la porta; A1; Freizeit/Sport/Wettkampf; La nostra squadra ha segnato un gol all'ultimo minuto.; Unsere Mannschaft schoss in der letzten Minute ein Tor.
+it-sf-0008; Tor (Sport); il gol; la rete, la porta; A1; Freizeit/Sport/Wettkampf; La nostra squadra ha segnato un gol all'ultimo minuto.; Unsere Mannschaft schoss in der letzten Minute ein Tor.
 it-sf-0009; Mannschaft; la squadra; ; A1; Freizeit/Sport/Verein; La nostra squadra si allena due volte alla settimana.; Unsere Mannschaft trainiert zweimal pro Woche.
 it-sf-0010; gewinnen; vincere; ; A1; Freizeit/Sport/Wettkampf; Vogliamo vincere la prossima partita.; Wir wollen das nächste Spiel gewinnen.
 it-sf-0011; verlieren; perdere; ; A1; Freizeit/Sport/Wettkampf; A nessuno piace perdere una partita importante.; Niemand verliert gern ein wichtiges Spiel.
@@ -61,19 +61,19 @@ it-sf-0058; Badeanzug; il costume da bagno; il costume; A2; Freizeit/Sport/Ausr�
 it-sf-0059; Helm; il casco; ; A2; Freizeit/Sport/Ausrüstung; In bicicletta porta sempre il casco.; Trag auf dem Fahrrad immer einen Helm.
 it-sf-0060; fit; in forma; allenato; A2; Freizeit/Sport/Fitnessstudio; Un allenamento regolare ti mantiene in forma e forte.; Regelmäßiges Training hält dich fit und stark.
 it-sf-0061; Ausdauer; la resistenza; ; B1; Freizeit/Sport/Training; Le corse lunghe aumentano la resistenza nel corso dei mesi.; Lange Läufe bauen über Monate Ausdauer auf.
-it-sf-0062; Kraft; la forza; ; B1; Freizeit/Sport/Training; Per arrampicarsi servono forza e tecnica.; Zum Klettern braucht man Kraft und Technik.
+it-sf-0062; Kraft (körperlich); la forza; ; B1; Freizeit/Sport/Training; Per arrampicarsi servono forza e tecnica.; Zum Klettern braucht man Kraft und Technik.
 it-sf-0063; Beweglichkeit; la flessibilità; la mobilità, l'agilità; B1; Freizeit/Sport/Training; Lo yoga migliora la flessibilità e la calma interiore.; Yoga verbessert die Beweglichkeit und die innere Ruhe.
 it-sf-0064; Geschwindigkeit; la velocità; ; B1; Freizeit/Sport/Training; La sua velocità sulle brevi distanze è impressionante.; Seine Geschwindigkeit auf kurzen Strecken ist beeindruckend.
 it-sf-0065; Muskelkater; i dolori muscolari; l'indolenzimento muscolare; B1; Freizeit/Sport/Training; Dopo la prima lezione avevo i dolori muscolari.; Nach der ersten Stunde hatte ich Muskelkater.
 it-sf-0066; Hantel; il manubrio; il pesetto; B1; Freizeit/Sport/Fitnessstudio; Solleva un manubrio pesante con ogni braccio.; Er hebt mit jedem Arm eine schwere Hantel.
-it-sf-0067; Laufband; il tapis roulant; ; B1; Freizeit/Sport/Fitnessstudio; Quando piove corre sul tapis roulant.; Bei Regen läuft sie auf dem Laufband.
+it-sf-0067; Laufband (Fitness); il tapis roulant; ; B1; Freizeit/Sport/Fitnessstudio; Quando piove corre sul tapis roulant.; Bei Regen läuft sie auf dem Laufband.
 it-sf-0068; Gewichte heben; sollevare pesi; fare pesi; B1; Freizeit/Sport/Fitnessstudio; Solleva pesi tre volte alla settimana.; Er hebt dreimal pro Woche Gewichte.
 it-sf-0069; Liegestütz; la flessione; il piegamento sulle braccia; B1; Freizeit/Sport/Fitnessstudio; Riesci a fare venti flessioni senza pausa?; Schaffst du zwanzig Liegestütze ohne Pause?
 it-sf-0070; Klimmzug; la trazione alla sbarra; la trazione; B1; Freizeit/Sport/Fitnessstudio; Una trazione alla sbarra fatta bene è più difficile di quanto sembri.; Ein sauberer Klimmzug ist schwerer, als er aussieht.
 it-sf-0071; Kniebeuge; lo squat; il piegamento sulle gambe, l'accosciata; B1; Freizeit/Sport/Fitnessstudio; Fai ogni squat lentamente e con controllo.; Mach jede Kniebeuge langsam und kontrolliert.
 it-sf-0072; Runde; il giro; la vasca; B1; Freizeit/Sport/Training; Ogni mattina fa venti giri in piscina.; Sie schwimmt jeden Morgen zwanzig Runden.
 it-sf-0073; Halbzeit; l'intervallo; il primo tempo, la fine del primo tempo; B1; Freizeit/Sport/Wettkampf; All'intervallo il punteggio era ancora zero a zero.; Zur Halbzeit stand es noch null zu null.
-it-sf-0074; Verlängerung; i tempi supplementari; i supplementari; B1; Freizeit/Sport/Wettkampf; La finale è stata decisa ai tempi supplementari.; Das Finale wurde in der Verlängerung entschieden.
+it-sf-0074; Verlängerung (Sport); i tempi supplementari; i supplementari; B1; Freizeit/Sport/Wettkampf; La finale è stata decisa ai tempi supplementari.; Das Finale wurde in der Verlängerung entschieden.
 it-sf-0075; Elfmeter; il calcio di rigore; il rigore; B1; Freizeit/Sport/Wettkampf; Ha trasformato il calcio di rigore con facilità.; Er verwandelte den Elfmeter mit Leichtigkeit.
 it-sf-0076; Abseits; il fuorigioco; ; B1; Freizeit/Sport/Wettkampf; Il gol non è stato convalidato per fuorigioco.; Das Tor zählte wegen Abseits nicht.
 it-sf-0077; Foul; il fallo; ; B1; Freizeit/Sport/Wettkampf; L'arbitro ha visto subito il fallo duro.; Der Schiedsrichter sah das harte Foul sofort.
@@ -87,7 +87,7 @@ it-sf-0084; Liga; la divisione; la lega, la serie; B1; Freizeit/Sport/Wettkampf;
 it-sf-0085; Turnier; il torneo; ; B1; Freizeit/Sport/Wettkampf; Il torneo si svolge qui ogni estate.; Das Turnier findet hier jeden Sommer statt.
 it-sf-0086; Saison; la stagione; ; B1; Freizeit/Sport/Wettkampf; La nuova stagione inizia a fine agosto.; Die neue Saison beginnt Ende August.
 it-sf-0087; Aufstieg; la promozione; ; B1; Freizeit/Sport/Wettkampf; Quest'anno i tifosi sognano la promozione.; Die Fans träumen dieses Jahr vom Aufstieg.
-it-sf-0088; Abstieg; la retrocessione; ; B1; Freizeit/Sport/Wettkampf; La scorsa stagione la squadra ha evitato per poco la retrocessione.; Der Verein entging letzte Saison knapp dem Abstieg.
+it-sf-0088; Abstieg (Sport); la retrocessione; ; B1; Freizeit/Sport/Wettkampf; La scorsa stagione la squadra ha evitato per poco la retrocessione.; Der Verein entging letzte Saison knapp dem Abstieg.
 it-sf-0089; Rekord; il record; il primato; B1; Freizeit/Sport/Wettkampf; Ha battuto il record nazionale di due secondi.; Sie brach den nationalen Rekord um zwei Sekunden.
 it-sf-0090; Weltmeister; il campione del mondo; la campionessa del mondo; B1; Freizeit/Sport/Wettkampf; È diventato campione del mondo da giovane.; Er wurde in jungen Jahren Weltmeister.
 it-sf-0091; Olympische Spiele; i Giochi olimpici; le Olimpiadi; B1; Freizeit/Sport/Wettkampf; I Giochi olimpici si svolgono ogni quattro anni.; Die Olympischen Spiele finden alle vier Jahre statt.

@@ -29,12 +29,12 @@ it-bb-0026; Team; il team; la squadra; A2; Business/Büro/Projekte; Il nostro te
 it-bb-0027; Auftrag; l'ordine; la commessa, l'incarico; A2; Business/Büro/Geschäftspartner; Abbiamo ricevuto un grande ordine dalla Francia.; Wir haben einen großen Auftrag aus Frankreich erhalten.
 it-bb-0028; Rechnung; la fattura; il conto; A2; Business/Büro/Finanzen; Paghi la fattura entro due settimane, per favore.; Bitte bezahlen Sie die Rechnung innerhalb von zwei Wochen.
 it-bb-0029; Angebot; l'offerta; il preventivo; A2; Business/Büro/Verhandlung; Le invieremo la nostra offerta venerdì.; Wir schicken Ihnen unser Angebot am Freitag.
-it-bb-0030; Preis; il prezzo; ; A2; Business/Büro/Verhandlung; Il prezzo comprende consegna e montaggio.; Der Preis beinhaltet Lieferung und Montage.
+it-bb-0030; Preis (Kosten); il prezzo; ; A2; Business/Büro/Verhandlung; Il prezzo comprende consegna e montaggio.; Der Preis beinhaltet Lieferung und Montage.
 it-bb-0031; Vertrag; il contratto; ; A2; Business/Büro/Verhandlung; Oggi i due partner firmano il contratto.; Beide Partner unterschreiben heute den Vertrag.
 it-bb-0032; unterschreiben; firmare; sottoscrivere; A2; Business/Büro/Verhandlung; Firmi il documento sull'ultima pagina, per favore.; Bitte unterschreiben Sie das Dokument auf der letzten Seite.
 it-bb-0033; senden; inviare; mandare, spedire; A2; Business/Büro/E-Mail & Telefon; Le invio subito il file.; Ich sende Ihnen die Datei sofort.
 it-bb-0034; empfangen; ricevere; ; A2; Business/Büro/E-Mail & Telefon; Ha ricevuto il mio messaggio di ieri?; Haben Sie meine Nachricht von gestern empfangen?
-it-bb-0035; Nachricht; il messaggio; ; A2; Business/Büro/E-Mail & Telefon; Lasci un messaggio dopo il segnale acustico.; Bitte hinterlassen Sie eine Nachricht nach dem Ton.
+it-bb-0035; Nachricht (Mitteilung); il messaggio; ; A2; Business/Büro/E-Mail & Telefon; Lasci un messaggio dopo il segnale acustico.; Bitte hinterlassen Sie eine Nachricht nach dem Ton.
 it-bb-0036; Anruf; la telefonata; la chiamata; A2; Business/Büro/E-Mail & Telefon; Aspetto una telefonata importante dal nostro partner.; Ich erwarte einen wichtigen Anruf von unserem Partner.
 it-bb-0037; zurückrufen; richiamare; ; A2; Business/Büro/E-Mail & Telefon; Potrebbe richiamare tra un'ora, per favore?; Könnten Sie bitte in einer Stunde zurückrufen?
 it-bb-0038; Kopierer; la fotocopiatrice; ; A2; Business/Büro/Ausstattung; La fotocopiatrice al secondo piano è guasta.; Der Kopierer im zweiten Stock ist kaputt.
@@ -47,11 +47,11 @@ it-bb-0044; Ordner; il raccoglitore; la cartella, il classificatore; A2; Busines
 it-bb-0045; Dokument; il documento; ; A2; Business/Büro/Projekte; Controlli il documento prima della riunione.; Bitte prüfen Sie das Dokument vor dem Meeting.
 it-bb-0046; Datei; il file; ; A2; Business/Büro/E-Mail & Telefon; Il file è troppo grande per un'e-mail.; Die Datei ist zu groß für eine E-Mail.
 it-bb-0047; Besucher; il visitatore; la visitatrice, l'ospite; A2; Business/Büro/Geschäftspartner; I nostri visitatori arrivano alla reception alle nove.; Unsere Besucher kommen um neun am Empfang an.
-it-bb-0048; Geschäft; l'affare; gli affari; A2; Business/Büro/Geschäftspartner; L'affare con il nuovo partner va bene.; Das Geschäft mit dem neuen Partner läuft gut.
+it-bb-0048; Geschäft (Handel); l'affare; gli affari; A2; Business/Büro/Geschäftspartner; L'affare con il nuovo partner va bene.; Das Geschäft mit dem neuen Partner läuft gut.
 it-bb-0049; Lieferung; la consegna; la fornitura, la spedizione; A2; Business/Büro/Geschäftspartner; La consegna arriva al più tardi giovedì.; Die Lieferung kommt spätestens am Donnerstag an.
 it-bb-0050; liefern; consegnare; fornire; A2; Business/Büro/Geschäftspartner; Consegniamo la merce entro cinque giorni lavorativi.; Wir liefern die Ware innerhalb von fünf Werktagen.
 it-bb-0051; Tagesordnung; l'ordine del giorno; l'agenda; B1; Business/Büro/Meetings; Il primo punto all'ordine del giorno è il budget.; Der erste Punkt auf der Tagesordnung ist das Budget.
-it-bb-0052; Protokoll; il verbale; ; B1; Business/Büro/Meetings; Chi scrive il verbale della riunione?; Wer schreibt das Protokoll der Besprechung?
+it-bb-0052; Protokoll (Sitzung); il verbale; ; B1; Business/Büro/Meetings; Chi scrive il verbale della riunione?; Wer schreibt das Protokoll der Besprechung?
 it-bb-0053; Teilnehmer; il partecipante; la partecipante; B1; Business/Büro/Meetings; Ogni partecipante riceve i documenti in anticipo.; Jeder Teilnehmer erhält die Unterlagen im Voraus.
 it-bb-0054; teilnehmen; partecipare; prendere parte; B1; Business/Büro/Meetings; Dodici colleghi parteciperanno al workshop.; Zwölf Kollegen werden am Workshop teilnehmen.
 it-bb-0055; verschieben; rinviare; posticipare, spostare; B1; Business/Büro/Meetings; Dobbiamo rinviare la riunione a giovedì.; Wir müssen das Meeting auf Donnerstag verschieben.
@@ -80,7 +80,7 @@ it-bb-0077; Filiale; la filiale; la succursale; B1; Business/Büro/Geschäftspar
 it-bb-0078; Zentrale; la sede centrale; la sede principale; B1; Business/Büro/Geschäftspartner; La sede centrale dell'azienda è a Zurigo.; Die Zentrale des Unternehmens ist in Zürich.
 it-bb-0079; Präsentation; la presentazione; ; B1; Business/Büro/Präsentation; La sua presentazione sul nuovo prodotto è stata eccellente.; Ihre Präsentation über das neue Produkt war ausgezeichnet.
 it-bb-0080; präsentieren; presentare; ; B1; Business/Büro/Präsentation; Mercoledì presenterà i risultati.; Er präsentiert die Ergebnisse am Mittwoch.
-it-bb-0081; Folie; la slide; la diapositiva; B1; Business/Büro/Präsentation; La prossima slide mostra i nostri dati di vendita.; Die nächste Folie zeigt unsere Verkaufszahlen.
+it-bb-0081; Folie (Präsentation); la slide; la diapositiva; B1; Business/Büro/Präsentation; La prossima slide mostra i nostri dati di vendita.; Die nächste Folie zeigt unsere Verkaufszahlen.
 it-bb-0082; Diagramm; il grafico; il diagramma; B1; Business/Büro/Präsentation; Il grafico confronta i risultati di tre anni.; Das Diagramm vergleicht die Ergebnisse von drei Jahren.
 it-bb-0083; Zusammenfassung; il riassunto; la sintesi; B1; Business/Büro/Präsentation; Alla fine segue un breve riassunto.; Eine kurze Zusammenfassung folgt am Ende.
 it-bb-0084; zusammenfassen; riassumere; sintetizzare; B1; Business/Büro/Präsentation; Mi permetta di riassumere i punti più importanti.; Lassen Sie mich die wichtigsten Punkte zusammenfassen.
@@ -103,7 +103,7 @@ it-bb-0100; Umsetzung; l'implementazione; l'attuazione, la realizzazione; B2; Bu
 it-bb-0101; Meilenstein; la milestone; la tappa fondamentale; B2; Business/Büro/Projekte; La settimana scorsa abbiamo raggiunto una milestone importante.; Wir haben letzte Woche einen wichtigen Meilenstein erreicht.
 it-bb-0102; Projektleiter; il project manager; il responsabile di progetto, il capoprogetto; B2; Business/Büro/Projekte; Il project manager coordina tutti i team e le scadenze.; Der Projektleiter koordiniert alle Teams und Termine.
 it-bb-0103; zuständig; responsabile; competente; B2; Business/Büro/Projekte; Chi è responsabile dei dati dei clienti?; Wer ist für die Kundendaten zuständig?
-it-bb-0104; Abstimmung; il coordinamento; l'allineamento; B2; Business/Büro/Meetings; Uno stretto coordinamento tra i reparti fa risparmiare tempo.; Enge Abstimmung zwischen den Abteilungen spart Zeit.
+it-bb-0104; Abstimmung (Koordination); il coordinamento; l'allineamento; B2; Business/Büro/Meetings; Uno stretto coordinamento tra i reparti fa risparmiare tempo.; Enge Abstimmung zwischen den Abteilungen spart Zeit.
 it-bb-0105; Rücksprache; la consultazione; il confronto; B2; Business/Büro/Meetings; Non faccia promesse senza consultazione con me.; Bitte machen Sie keine Zusagen ohne Rücksprache mit mir.
 it-bb-0106; Entscheidung; la decisione; ; B2; Business/Büro/Meetings; La decisione definitiva verrà presa venerdì.; Die endgültige Entscheidung fällt am Freitag.
 it-bb-0107; entscheiden; decidere; ; B2; Business/Büro/Meetings; Questa settimana dobbiamo decidere sull'offerta.; Wir müssen diese Woche über das Angebot entscheiden.
@@ -119,12 +119,12 @@ it-bb-0116; Rabatt; lo sconto; ; B2; Business/Büro/Verhandlung; Offriamo uno sc
 it-bb-0117; Zahlungsbedingungen; le condizioni di pagamento; i termini di pagamento; B2; Business/Büro/Finanzen; Le condizioni di pagamento prevedono trenta giorni dalla consegna.; Die Zahlungsbedingungen erlauben dreißig Tage nach Lieferung.
 it-bb-0118; Mahnung; il sollecito; il sollecito di pagamento; B2; Business/Büro/Finanzen; Il cliente ha ricevuto un sollecito per la fattura non pagata.; Der Kunde erhielt eine Mahnung für die offene Rechnung.
 it-bb-0119; überweisen; bonificare; fare un bonifico, trasferire; B2; Business/Büro/Finanzen; Bonifichi l'importo sul nostro conto, per favore.; Bitte überweisen Sie den Betrag auf unser Konto.
-it-bb-0120; Überweisung; il bonifico; il bonifico bancario; B2; Business/Büro/Finanzen; Il bonifico è arrivato dopo due giorni.; Die Überweisung kam nach zwei Tagen an.
+it-bb-0120; Überweisung (Bank); il bonifico; il bonifico bancario; B2; Business/Büro/Finanzen; Il bonifico è arrivato dopo due giorni.; Die Überweisung kam nach zwei Tagen an.
 it-bb-0121; Spesen; le spese di trasferta; le spese, i rimborsi spese; B2; Business/Büro/Finanzen; Dopo ogni viaggio d'affari chiede il rimborso delle spese di trasferta.; Er rechnet seine Spesen nach jeder Geschäftsreise ab.
 it-bb-0122; Geschäftsreise; il viaggio d'affari; il viaggio di lavoro, la trasferta; B2; Business/Büro/Geschäftspartner; È in viaggio d'affari a Vienna.; Sie ist auf Geschäftsreise in Wien.
 it-bb-0123; Visitenkarte; il biglietto da visita; ; B2; Business/Büro/Geschäftspartner; Alla fiera mi ha dato il suo biglietto da visita.; Er gab mir auf der Messe seine Visitenkarte.
 it-bb-0124; Netzwerk; la rete di contatti; la rete, il network; B2; Business/Büro/Geschäftspartner; Una solida rete di contatti aiuta nei progetti difficili.; Ein starkes Netzwerk hilft bei schwierigen Projekten.
-it-bb-0125; Messe; la fiera; la fiera campionaria; B2; Business/Büro/Geschäftspartner; La nostra azienda presenta due nuovi prodotti alla fiera.; Unsere Firma präsentiert zwei neue Produkte auf der Messe.
+it-bb-0125; Messe (Ausstellung); la fiera; la fiera campionaria; B2; Business/Büro/Geschäftspartner; La nostra azienda presenta due nuovi prodotti alla fiera.; Unsere Firma präsentiert zwei neue Produkte auf der Messe.
 it-bb-0126; Verhandlungsspielraum; il margine di trattativa; il margine di negoziazione; C1; Business/Büro/Verhandlung; Sul prezzo c'è poco margine di trattativa.; Beim Preis gibt es wenig Verhandlungsspielraum.
 it-bb-0127; Zugeständnis; la concessione; ; C1; Business/Büro/Verhandlung; Entrambe le parti hanno fatto una concessione per raggiungere un accordo.; Beide Seiten machten ein Zugeständnis, um eine Einigung zu erreichen.
 it-bb-0128; Einwand; l'obiezione; ; C1; Business/Büro/Verhandlung; Ha sollevato un'obiezione contro il calendario troppo stretto.; Er erhob einen Einwand gegen den engen Zeitplan.

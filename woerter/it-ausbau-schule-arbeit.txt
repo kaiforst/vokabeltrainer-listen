@@ -1,0 +1,442 @@
+# Italienisch: Ausbau Schule und Arbeit: Schule und Studium, Lernen und Sprache, Berufe und Arbeitsplatz, Technik, Computer, Internet, Werkzeug, Medien
+id; Deutsch; Italienisch; Weitere Antworten; Niveau; Themen; Beispiel Italienisch; Beispiel Deutsch
+it-xb-0001; Schulleiter; il preside; la preside, il dirigente scolastico, la dirigente scolastica; A2; Bildung/Schule/Unterricht; Il preside ha parlato con tutti i genitori.; Der Schulleiter sprach mit allen Eltern.
+it-xb-0002; Klassenlehrer; il coordinatore di classe; la coordinatrice di classe, l'insegnante di classe; A2; Bildung/Schule/Unterricht; Il nostro coordinatore di classe ha organizzato una gita allo zoo.; Unser Klassenlehrer hat einen Ausflug in den Zoo organisiert.
+it-xb-0003; Mitschüler; il compagno di classe; la compagna di classe, il compagno di scuola; A2; Bildung/Schule/Unterricht; Faccio spesso i compiti con un compagno di classe.; Ich mache meine Hausaufgaben oft mit einem Mitschüler.
+it-xb-0004; Klassenkamerad; il compagno di classe; la compagna di classe, il compagno di scuola; B1; Bildung/Schule/Unterricht; È ancora amico dei suoi vecchi compagni di classe.; Er ist immer noch mit seinen alten Klassenkameraden befreundet.
+it-xb-0005; Schulstunde; l'ora di lezione; la lezione, l'ora; A2; Bildung/Schule/Unterricht; Da noi ogni ora di lezione dura cinquantacinque minuti.; Bei uns dauert jede Schulstunde fünfundfünfzig Minuten.
+it-xb-0006; Schultag; il giorno di scuola; la giornata scolastica; A1; Bildung/Schule/Unterricht; Domani è l'ultimo giorno di scuola prima delle vacanze.; Morgen ist der letzte Schultag vor den Ferien.
+it-xb-0007; Schuljahr; l'anno scolastico; ; A2; Bildung/Schule/Unterricht; Il nuovo anno scolastico comincia a settembre.; Das neue Schuljahr beginnt im September.
+it-xb-0008; Schulweg; la strada per la scuola; il tragitto casa-scuola; A2; Bildung/Schule/Unterricht; Sulla strada per la scuola passo davanti al parco.; Auf meinem Schulweg komme ich am Park vorbei.
+it-xb-0009; Schulbus; lo scuolabus; il pulmino della scuola; A1; Bildung/Schule/Unterricht; Lo scuolabus parte alle sette e mezza.; Der Schulbus fährt um halb acht ab.
+it-xb-0010; Diktat; il dettato; ; A2; Bildung/Schule/Unterricht; Domani facciamo un dettato di inglese.; Morgen schreiben wir ein Diktat in Englisch.
+it-xb-0011; Nachsitzen; restare a scuola per punizione; ; B1; Bildung/Schule/Unterricht; Ieri è dovuto restare a scuola per punizione dopo le lezioni.; Er musste gestern nach der Schule zum Nachsitzen bleiben.
+it-xb-0012; Schulordnung; il regolamento scolastico; il regolamento d'istituto; B1; Bildung/Schule/Unterricht; Secondo il regolamento scolastico i cellulari sono vietati.; Laut Schulordnung sind Handys nicht erlaubt.
+it-xb-0013; Anwesenheit; la presenza; ; B2; Bildung/Schule/Unterricht; La presenza alle lezioni è obbligatoria per tutti gli studenti.; Die Anwesenheit im Unterricht ist für alle Schüler Pflicht.
+it-xb-0014; anwesend; presente; ; B1; Bildung/Schule/Unterricht; Oggi tutti gli alunni della mia classe sono presenti.; Heute sind alle Schüler meiner Klasse anwesend.
+it-xb-0015; abwesend; assente; ; B1; Bildung/Schule/Unterricht; Due alunni erano assenti a causa dell'influenza.; Zwei Schüler waren wegen der Grippe abwesend.
+it-xb-0016; Gruppenarbeit; il lavoro di gruppo; ; A2; Bildung/Schule/Unterricht; Oggi facciamo un lavoro di gruppo in squadre di quattro.; Heute machen wir Gruppenarbeit in Vierergruppen.
+it-xb-0017; Partnerarbeit; il lavoro a coppie; il lavoro in coppia; B1; Bildung/Schule/Unterricht; Il prossimo esercizio è un lavoro a coppie col compagno di banco.; Die nächste Übung ist Partnerarbeit mit eurem Banknachbarn.
+it-xb-0018; Einzelarbeit; il lavoro individuale; ; B2; Bildung/Schule/Unterricht; Il primo compito della lezione di oggi è un lavoro individuale.; Die erste Aufgabe der heutigen Stunde ist Einzelarbeit.
+it-xb-0019; Lückentext; l'esercizio di completamento; il testo bucato; B2; Bildung/Schule/Unterricht; Inserisci le parole mancanti nell'esercizio di completamento.; Setz die fehlenden Wörter in den Lückentext ein.
+it-xb-0020; Klassensprecher; il rappresentante di classe; la rappresentante di classe; B1; Bildung/Schule/Unterricht; Quest'anno è stato eletto rappresentante di classe.; Er wurde dieses Jahr zum Klassensprecher gewählt.
+it-xb-0021; Mobbing; il bullismo; ; B2; Bildung/Schule/Unterricht; La nostra scuola combatte il bullismo con decisione.; Unsere Schule geht entschieden gegen Mobbing vor.
+it-xb-0022; Aula; l'aula magna; ; B1; Bildung/Schule/Schulleben; Il concerto della scuola si tiene nell'aula magna.; Das Schulkonzert findet in der Aula statt.
+it-xb-0023; Lehrerzimmer; la sala professori; la sala insegnanti; B1; Bildung/Schule/Schulleben; Durante l'intervallo i professori si incontrano in sala professori.; Die Lehrer treffen sich in der Pause im Lehrerzimmer.
+it-xb-0024; Sekretariat; la segreteria; la segreteria scolastica; B1; Bildung/Schule/Schulleben; Il modulo lo trovi in segreteria al primo piano.; Das Formular bekommst du im Sekretariat im ersten Stock.
+it-xb-0025; Schulfest; la festa della scuola; ; A2; Bildung/Schule/Schulleben; La nostra classe vende torte alla festa della scuola.; Unsere Klasse verkauft beim Schulfest Kuchen.
+it-xb-0026; Projektwoche; la settimana dei progetti; ; B1; Bildung/Schule/Schulleben; Durante la settimana dei progetti abbiamo costruito un piccolo robot.; In der Projektwoche haben wir einen kleinen Roboter gebaut.
+it-xb-0027; Schüleraustausch; lo scambio scolastico; lo scambio culturale; B1; Bildung/Schule/Schulleben; L'anno scorso sono andato in Inghilterra con uno scambio scolastico.; Letztes Jahr war ich mit einem Schüleraustausch in England.
+it-xb-0028; Gastfamilie; la famiglia ospitante; ; B1; Bildung/Schule/Schulleben; La mia famiglia ospitante a Dublino era molto gentile.; Meine Gastfamilie in Dublin war sehr freundlich.
+it-xb-0029; Schülerzeitung; il giornalino scolastico; il giornalino della scuola, il giornale della scuola; B1; Bildung/Schule/Schulleben; Scrivo articoli per il giornalino scolastico.; Ich schreibe Artikel für unsere Schülerzeitung.
+it-xb-0030; Kreide; il gesso; ; A2; Bildung/Schule/Schulsachen; L'insegnante scrive alla lavagna con il gesso.; Der Lehrer schreibt mit Kreide an die Tafel.
+it-xb-0031; Kugelschreiber; la penna a sfera; la biro, la penna; A1; Bildung/Schule/Schulsachen; Per favore, compila il modulo con una penna a sfera.; Bitte füll das Formular mit einem Kugelschreiber aus.
+it-xb-0032; Textmarker; l'evidenziatore; ; B1; Bildung/Schule/Schulsachen; Segno le parole importanti con l'evidenziatore giallo.; Ich markiere die wichtigen Wörter mit dem gelben Textmarker.
+it-xb-0033; Filzstift; il pennarello; ; B1; Bildung/Schule/Schulsachen; I bambini colorano il disegno con i pennarelli.; Die Kinder malen das Bild mit Filzstiften aus.
+it-xb-0034; Buntstift; la matita colorata; il pastello; A1; Bildung/Schule/Schulsachen; Mi presti la tua matita colorata rossa, per favore?; Kann ich bitte deinen roten Buntstift ausleihen?
+it-xb-0035; Federmäppchen; l'astuccio; ; A1; Bildung/Schule/Schulsachen; Tutte le mie penne sono nell'astuccio.; Alle meine Stifte sind in meinem Federmäppchen.
+it-xb-0036; Klebestift; la colla stick; la colla in stick; A2; Bildung/Schule/Schulsachen; Mi serve una colla stick per il mio progetto di arte.; Ich brauche einen Klebestift für mein Kunstprojekt.
+it-xb-0037; Zirkel; il compasso; ; B2; Bildung/Schule/Schulsachen; Disegna un cerchio con il tuo compasso.; Zeichne mit deinem Zirkel einen Kreis.
+it-xb-0038; Geodreieck; la squadra; la squadretta; B2; Bildung/Schule/Schulsachen; Usa la squadra per disegnare un angolo retto.; Zeichne mit dem Geodreieck einen rechten Winkel.
+it-xb-0039; Schulbuch; il libro di testo; il libro di scuola, il libro scolastico; A1; Bildung/Schule/Schulsachen; Aprite il libro di testo a pagina quarantadue.; Schlagt euer Schulbuch auf Seite zweiundvierzig auf.
+it-xb-0040; Lehrbuch; il manuale; il libro di testo; B1; Bildung/Schule/Schulsachen; Questo manuale spiega la grammatica in modo molto chiaro.; Dieses Lehrbuch erklärt die Grammatik sehr verständlich.
+it-xb-0041; Arbeitsblatt; la scheda di lavoro; il foglio di lavoro; A2; Bildung/Schule/Schulsachen; Per favore, finite la scheda di lavoro a casa.; Bitte macht das Arbeitsblatt zu Hause fertig.
+it-xb-0042; Notizblock; il blocco note; il blocchetto, il taccuino; B1; Bildung/Schule/Schulsachen; Ha sempre un blocco note nella borsa.; Sie hat immer einen Notizblock in der Tasche.
+it-xb-0043; Karteikarte; la scheda; la scheda di cartoncino; B2; Bildung/Schule/Schulsachen; Scrivo le parole nuove su delle schede di cartoncino.; Ich schreibe die neuen Wörter auf Karteikarten.
+it-xb-0044; Vokabelheft; il quaderno dei vocaboli; la rubrica; A2; Bildung/Schule/Schulsachen; Scrivete le parole nuove nel quaderno dei vocaboli.; Schreibt die neuen Wörter in euer Vokabelheft.
+it-xb-0045; Hausaufgabenheft; il diario scolastico; il diario; B1; Bildung/Schule/Schulsachen; Scrivi i compiti per domani sul diario scolastico.; Schreib die Aufgaben für morgen in dein Hausaufgabenheft.
+it-xb-0046; Ethik; l'etica; ; B2; Bildung/Schule/Fächer; Al posto di religione ho lezione di etica.; Statt Religion habe ich Ethik.
+it-xb-0047; Sozialkunde; l'educazione civica; ; B2; Bildung/Schule/Fächer; In educazione civica stiamo parlando delle elezioni.; In Sozialkunde sprechen wir gerade über Wahlen.
+it-xb-0048; Latein; il latino; ; A2; Bildung/Schule/Fächer; Mio fratello studia latino da tre anni.; Mein Bruder lernt seit drei Jahren Latein.
+it-xb-0049; Einmaleins; le tabelline; la tavola pitagorica; B1; Bildung/Schule/Fächer; I bambini ripassano le tabelline a casa.; Die Kinder üben zu Hause das Einmaleins.
+it-xb-0050; addieren; addizionare; sommare; A2; Bildung/Schule/Fächer; Prima addiziona tutti i numeri della lista.; Addiere zuerst alle Zahlen in der Liste.
+it-xb-0051; subtrahieren; sottrarre; ; A2; Bildung/Schule/Fächer; Se sottrai cinque da venti, ottieni quindici.; Wenn du fünf von zwanzig subtrahierst, erhältst du fünfzehn.
+it-xb-0052; multiplizieren; moltiplicare; ; A2; Bildung/Schule/Fächer; Per trovare l'area moltiplica la lunghezza per la larghezza.; Für die Fläche multiplizierst du die Länge mit der Breite.
+it-xb-0053; dividieren; dividere; ; A2; Bildung/Schule/Fächer; Dividi il totale per il numero degli alunni.; Dividiere die Summe durch die Zahl der Schüler.
+it-xb-0054; Kopfrechnen; il calcolo mentale; ; B1; Bildung/Schule/Fächer; Mia sorella è molto brava nel calcolo mentale.; Meine Schwester ist sehr gut im Kopfrechnen.
+it-xb-0055; Rechenaufgabe; l'esercizio di calcolo; il calcolo, l'operazione; B1; Bildung/Schule/Fächer; L'ultimo esercizio di calcolo della scheda era davvero difficile.; Die letzte Rechenaufgabe auf dem Arbeitsblatt war wirklich schwer.
+it-xb-0056; Textaufgabe; il problema; il problema di matematica; B2; Bildung/Schule/Fächer; Trovo i problemi più difficili dei normali esercizi di calcolo.; Ich finde Textaufgaben schwerer als normale Rechenaufgaben.
+it-xb-0057; Ziffer; la cifra; ; B1; Bildung/Schule/Fächer; Il mio PIN ha quattro cifre e nessuna lettera.; Meine PIN hat vier Ziffern und keine Buchstaben.
+it-xb-0058; Geometrie; la geometria; ; B2; Bildung/Schule/Fächer; In geometria stiamo studiando i triangoli e i cerchi.; In Geometrie lernen wir gerade etwas über Dreiecke und Kreise.
+it-xb-0059; Algebra; l'algebra; ; B2; Bildung/Schule/Fächer; All'inizio l'algebra mi sembrava molto difficile.; Algebra fand ich anfangs sehr schwierig.
+it-xb-0060; Klassenarbeit; il compito in classe; la verifica; A2; Bildung/Schule/Prüfungen; Venerdì abbiamo un compito in classe di matematica.; Am Freitag schreiben wir eine Klassenarbeit in Mathe.
+it-xb-0061; Notendurchschnitt; la media dei voti; la media; B2; Bildung/Schule/Prüfungen; Quest'anno la sua media dei voti è molto buona.; Ihr Notendurchschnitt ist dieses Jahr sehr gut.
+it-xb-0062; spicken; copiare; ; B1; Bildung/Schule/Prüfungen; L'hanno sorpreso a copiare durante il compito.; Er wurde in der Klassenarbeit beim Spicken erwischt.
+it-xb-0063; Prüfungsangst; l'ansia da esame; ; B2; Bildung/Schule/Prüfungen; Molti studenti soffrono di ansia da esame prima della maturità.; Viele Schüler leiden vor dem Abitur unter Prüfungsangst.
+it-xb-0064; Prüfer; l'esaminatore; l'esaminatrice; B2; Bildung/Schule/Prüfungen; L'esaminatore mi ha fatto tre domande difficili.; Der Prüfer stellte mir drei schwierige Fragen.
+it-xb-0065; Punktzahl; il punteggio; ; B1; Bildung/Schule/Prüfungen; Ha ottenuto il punteggio più alto della classe.; Sie hat die höchste Punktzahl in der Klasse.
+it-xb-0066; Urkunde; il certificato; l'attestato; B2; Bildung/Schule/Prüfungen; Alla fine ogni partecipante ha ricevuto un certificato.; Jeder Teilnehmer bekam am Ende eine Urkunde.
+it-xb-0067; Gesamtschule; la scuola integrata; ; B2; Bildung/Schule/Schulformen; In Germania mia cugina frequenta una scuola integrata.; In Deutschland geht meine Cousine auf eine Gesamtschule.
+it-xb-0068; Privatschule; la scuola privata; ; B1; Bildung/Schule/Schulformen; La scuola privata della nostra città è molto cara.; Die Privatschule in unserer Stadt ist sehr teuer.
+it-xb-0069; Ganztagsschule; la scuola a tempo pieno; il tempo pieno; B2; Bildung/Schule/Schulformen; Nella scuola a tempo pieno gli alunni pranzano in mensa.; An einer Ganztagsschule essen die Schüler in der Mensa zu Mittag.
+it-xb-0070; Studiengebühr; la tassa universitaria; le tasse universitarie, la retta universitaria; B2; Bildung/Universität; In Inghilterra gli studenti pagano tasse universitarie molto alte.; In England zahlen Studenten sehr hohe Studiengebühren.
+it-xb-0071; Hauptfach; la materia principale; ; B2; Bildung/Universität; All'università la mia materia principale era la storia.; An der Uni war mein Hauptfach Geschichte.
+it-xb-0072; Nebenfach; la materia secondaria; la materia complementare; C1; Bildung/Universität; Studia giurisprudenza con economia come materia secondaria.; Sie studiert Jura mit Wirtschaft im Nebenfach.
+it-xb-0073; sich einschreiben; iscriversi; immatricolarsi; B2; Bildung/Universität; Mi sono iscritto all'università a ottobre.; Ich habe mich im Oktober an der Universität eingeschrieben.
+it-xb-0074; Absolvent; il laureato; la laureata, il diplomato; B2; Bildung/Universität; L'azienda assume ogni anno molti giovani laureati.; Die Firma stellt jedes Jahr viele junge Absolventen ein.
+it-xb-0075; Abschlussarbeit; la tesi; la tesi di laurea; C1; Bildung/Universität; Sta scrivendo la tesi sul cambiamento climatico.; Sie schreibt ihre Abschlussarbeit über den Klimawandel.
+it-xb-0076; Campus; il campus; ; B1; Bildung/Universität; La biblioteca si trova al centro del campus.; Die Bibliothek liegt mitten auf dem Campus.
+it-xb-0077; Studienplatz; il posto all'università; ; B2; Bildung/Universität; Finalmente ha ottenuto un posto all'università a Bologna.; Er hat endlich einen Studienplatz in Bologna bekommen.
+it-xb-0078; Kommilitone; il compagno di studi; la compagna di studi, il collega di università; B2; Bildung/Universität; Studio spesso in biblioteca con un compagno di studi.; Ich lerne oft mit einem Kommilitonen in der Bibliothek.
+it-xb-0079; Bachelor; la laurea triennale; la triennale; B1; Bildung/Universität; Ha una laurea triennale in biologia.; Sie hat einen Bachelor in Biologie.
+it-xb-0080; Master; la laurea magistrale; la magistrale; B1; Bildung/Universität; Dopo la triennale voglio fare la laurea magistrale.; Nach dem Bachelor möchte ich einen Master machen.
+it-xb-0081; Hochschule; l'università; l'istituto universitario; B1; Bildung/Universität; Studia economia in un'università di Milano.; Er studiert Wirtschaft an einer Hochschule in Mailand.
+it-xb-0082; Fachhochschule; l'università di scienze applicate; ; C1; Bildung/Universität; Ha studiato ingegneria in un'università di scienze applicate.; Sie hat Maschinenbau an einer Fachhochschule studiert.
+it-xb-0083; Sprechstunde (Hochschule); l'orario di ricevimento; il ricevimento; B2; Bildung/Universität; L'orario di ricevimento del professore è il martedì pomeriggio.; Die Sprechstunde des Professors ist am Dienstagnachmittag.
+it-xb-0084; Tutor; il tutor; la tutor; B2; Bildung/Universität; Il nostro tutor ci aiuta a prepararci agli esami.; Unser Tutor hilft uns bei der Vorbereitung auf die Prüfungen.
+it-xb-0085; Literaturverzeichnis; la bibliografia; ; C1; Bildung/Universität; Inserisci tutte le tue fonti nella bibliografia.; Nimm alle deine Quellen ins Literaturverzeichnis auf.
+it-xb-0086; Zitat; la citazione; ; B1; Bildung/Universität; Il tema inizia con una citazione di Dante.; Der Aufsatz beginnt mit einem Zitat von Dante.
+it-xb-0087; zitieren; citare; ; B2; Bildung/Universität; Devi citare le tue fonti in modo corretto.; Du musst deine Quellen korrekt zitieren.
+it-xb-0088; Fußnote; la nota a piè di pagina; la nota; C1; Bildung/Universität; La fonte è indicata in una nota a piè di pagina.; Die Quelle steht unten in einer Fußnote.
+it-xb-0089; Auslandssemester; il semestre all'estero; ; B2; Bildung/Universität; Ho trascorso un semestre all'estero in Spagna.; Ich habe ein Auslandssemester in Spanien gemacht.
+it-xb-0090; Austauschstudent; lo studente di scambio; la studentessa di scambio; B1; Bildung/Universität; Questo semestre abbiamo uno studente di scambio dal Giappone.; Dieses Semester haben wir einen Austauschstudenten aus Japan.
+it-xb-0091; Studentenausweis; la tessera universitaria; il tesserino universitario, la tessera dello studente; B1; Bildung/Universität; Mostra la tessera universitaria per avere lo sconto.; Zeig deinen Studentenausweis, dann bekommst du Rabatt.
+it-xb-0092; Bibliotheksausweis; la tessera della biblioteca; ; B1; Bildung/Universität; Per prendere in prestito i libri serve la tessera della biblioteca.; Zum Ausleihen von Büchern brauchst du einen Bibliotheksausweis.
+it-xb-0093; Diplom; il diploma; la laurea; B2; Bildung/Universität; Dopo cinque anni di studio ha ricevuto il diploma.; Nach fünf Jahren Studium erhielt er sein Diplom.
+it-xb-0094; Konzentration; la concentrazione; ; B1; Bildung/Lernen; Questo compito richiede davvero molta concentrazione.; Diese Aufgabe erfordert wirklich viel Konzentration.
+it-xb-0095; sich konzentrieren; concentrarsi; ; B1; Bildung/Lernen; Non riesco a concentrarmi quando la musica è alta.; Ich kann mich nicht konzentrieren, wenn die Musik laut ist.
+it-xb-0096; Eselsbrücke; il trucco mnemonico; l'aiuto mnemonico; C1; Bildung/Lernen; Questo trucco mnemonico mi aiuta a ricordare i pianeti.; Diese Eselsbrücke hilft mir, mir die Planeten zu merken.
+it-xb-0097; Lernkarte; la flashcard; ; B1; Bildung/Lernen; In autobus ripasso le mie flashcard.; Ich gehe im Bus meine Lernkarten durch.
+it-xb-0098; Nachhilfelehrer; l'insegnante di ripetizioni; il professore privato, la professoressa privata; B1; Bildung/Lernen; Il mio insegnante di ripetizioni viene ogni mercoledì pomeriggio.; Mein Nachhilfelehrer kommt jeden Mittwochnachmittag.
+it-xb-0099; Lernplattform; la piattaforma di apprendimento; la piattaforma didattica; B2; Bildung/Lernen; Trovi i compiti sulla piattaforma di apprendimento.; Die Hausaufgaben findest du auf der Lernplattform.
+it-xb-0100; Onlinekurs; il corso online; ; B1; Bildung/Lernen; Sto facendo un corso online di spagnolo.; Ich mache gerade einen Onlinekurs in Spanisch.
+it-xb-0101; Lernziel; l'obiettivo di apprendimento; l'obiettivo didattico; B2; Bildung/Lernen; L'obiettivo di apprendimento di oggi è scritto alla lavagna.; Das Lernziel für heute steht an der Tafel.
+it-xb-0102; Anfänger; il principiante; la principiante; A2; Bildung/Lernen; Questo corso di inglese è per principianti assoluti.; Dieser Englischkurs ist für absolute Anfänger.
+it-xb-0103; Grammatik; la grammatica; ; A2; Bildung/Sprache/Grammatik; La grammatica inglese è più facile di quella tedesca.; Die englische Grammatik ist leichter als die deutsche.
+it-xb-0104; Substantiv; il sostantivo; il nome; B1; Bildung/Sprache/Grammatik; In tedesco ogni sostantivo inizia con la lettera maiuscola.; Im Deutschen beginnt jedes Substantiv mit einem Großbuchstaben.
+it-xb-0105; Verb; il verbo; ; A2; Bildung/Sprache/Grammatik; Ogni frase ha bisogno di almeno un verbo.; Jeder Satz braucht mindestens ein Verb.
+it-xb-0106; Adjektiv; l'aggettivo; ; A2; Bildung/Sprache/Grammatik; Descrivi la tua casa con tre aggettivi.; Beschreib dein Haus mit drei Adjektiven.
+it-xb-0107; Adverb; l'avverbio; ; B1; Bildung/Sprache/Grammatik; Molti avverbi italiani finiscono in mente.; Viele italienische Adverbien enden auf mente.
+it-xb-0108; Pronomen; il pronome; ; B2; Bildung/Sprache/Grammatik; Sostituisci il nome con il pronome giusto.; Ersetze den Namen durch das richtige Pronomen.
+it-xb-0109; Präposition; la preposizione; ; B2; Bildung/Sprache/Grammatik; Scegli la preposizione giusta per ogni spazio vuoto.; Wähle für jede Lücke die richtige Präposition.
+it-xb-0110; Konjunktion; la congiunzione; ; C1; Bildung/Sprache/Grammatik; Unisci le due frasi con una congiunzione.; Verbinde die beiden Sätze mit einer Konjunktion.
+it-xb-0111; Singular; il singolare; ; B1; Bildung/Sprache/Grammatik; La parola gente vuole sempre il verbo al singolare.; Das Wort gente steht immer mit dem Verb im Singular.
+it-xb-0112; Plural; il plurale; ; A2; Bildung/Sprache/Grammatik; Il plurale di uovo è uova.; Der Plural von uovo ist uova.
+it-xb-0113; Zeitform; il tempo verbale; il tempo; B1; Bildung/Sprache/Grammatik; Quale tempo verbale usiamo per le azioni concluse?; Welche Zeitform benutzen wir für abgeschlossene Handlungen?
+it-xb-0114; Infinitiv; l'infinito; ; B2; Bildung/Sprache/Grammatik; Cerca l'infinito del verbo nel dizionario.; Schlag den Infinitiv des Verbs im Wörterbuch nach.
+it-xb-0115; Nebensatz; la proposizione subordinata; la subordinata, la frase subordinata, la frase secondaria; C1; Bildung/Sprache/Grammatik; In tedesco il verbo va alla fine della proposizione subordinata.; Im Deutschen steht das Verb am Ende des Nebensatzes.
+it-xb-0116; Hauptsatz; la proposizione principale; la principale, la frase principale; C1; Bildung/Sprache/Grammatik; Ogni periodo ha almeno una proposizione principale.; Jeder Satz hat mindestens einen Hauptsatz.
+it-xb-0117; Subjekt; il soggetto; ; B1; Bildung/Sprache/Grammatik; In questa frase il soggetto è mio fratello.; In diesem Satz ist mein Bruder das Subjekt.
+it-xb-0118; Aktiv; la forma attiva; l'attivo; B2; Bildung/Sprache/Grammatik; Riscrivi la frase alla forma attiva.; Schreib den Satz im Aktiv neu.
+it-xb-0119; Passiv; la forma passiva; il passivo; B2; Bildung/Sprache/Grammatik; I giornali usano spesso la forma passiva.; Zeitungen verwenden oft das Passiv.
+it-xb-0120; Gegenwartsform; il presente; ; B1; Bildung/Sprache/Grammatik; Metti tutti i verbi al presente.; Setz alle Verben in die Gegenwartsform.
+it-xb-0121; Vergangenheitsform; il passato; il tempo passato; B1; Bildung/Sprache/Grammatik; La storia è raccontata al passato.; Die Geschichte wird in der Vergangenheitsform erzählt.
+it-xb-0122; Zukunftsform; il futuro; ; B1; Bildung/Sprache/Grammatik; Andrò e vedrò sono due verbi al futuro.; Andrò und vedrò sind zwei Verben in der Zukunftsform.
+it-xb-0123; Komparativ; il comparativo; ; B1; Bildung/Sprache/Grammatik; Il comparativo di buono è migliore.; Der Komparativ von buono ist migliore.
+it-xb-0124; Superlativ; il superlativo; ; B1; Bildung/Sprache/Grammatik; Il superlativo di cattivo è pessimo.; Der Superlativ von cattivo ist pessimo.
+it-xb-0125; Endung; la desinenza; la terminazione; B1; Bildung/Sprache/Grammatik; Molti participi passati hanno la desinenza ato.; Viele Partizipien haben die Endung ato.
+it-xb-0126; Vorsilbe; il prefisso; ; C1; Bildung/Sprache/Grammatik; Il prefisso in forma spesso un contrario.; Die Vorsilbe in bildet oft ein Gegenteil.
+it-xb-0127; Nachsilbe; il suffisso; ; C1; Bildung/Sprache/Grammatik; Il suffisso ezza trasforma aggettivi in sostantivi.; Die Nachsilbe ezza macht aus Adjektiven Substantive.
+it-xb-0128; unregelmäßig; irregolare; ; B1; Bildung/Sprache/Grammatik; I verbi irregolari devi impararli a memoria.; Die unregelmäßigen Verben musst du auswendig lernen.
+it-xb-0129; Fragewort; la parola interrogativa; l'interrogativo; A2; Bildung/Sprache/Grammatik; Le domande iniziano spesso con una parola interrogativa come perché.; Fragen beginnen oft mit einem Fragewort wie warum.
+it-xb-0130; Verneinung; la negazione; ; B2; Bildung/Sprache/Grammatik; In italiano la negazione si fa con non davanti al verbo.; Im Italienischen bildet man die Verneinung mit non vor dem Verb.
+it-xb-0131; Wortart; la parte del discorso; la categoria grammaticale; C1; Bildung/Sprache/Grammatik; Scrivi la parte del discorso di ogni parola.; Schreib zu jedem Wort die Wortart auf.
+it-xb-0132; Satzbau; la struttura della frase; la sintassi; B2; Bildung/Sprache/Grammatik; La struttura della frase tedesca è difficile per molti studenti.; Der deutsche Satzbau ist für viele Lernende schwierig.
+it-xb-0133; Wortschatz; il vocabolario; il lessico; B1; Bildung/Sprache/Wörter & Aussprache; Leggere libri ti aiuta ad ampliare il vocabolario.; Bücher lesen hilft dir, deinen Wortschatz zu erweitern.
+it-xb-0134; Vokabel; il vocabolo; la parola; A2; Bildung/Sprache/Wörter & Aussprache; Entro lunedì dobbiamo imparare venti vocaboli nuovi.; Bis Montag müssen wir zwanzig neue Vokabeln lernen.
+it-xb-0135; Buchstabe; la lettera; ; A1; Bildung/Sprache/Wörter & Aussprache; L'alfabeto italiano ha solo ventuno lettere.; Das italienische Alphabet hat nur einundzwanzig Buchstaben.
+it-xb-0136; Alphabet; l'alfabeto; ; A1; Bildung/Sprache/Wörter & Aussprache; Sai recitare l'alfabeto in italiano senza errori?; Kannst du das Alphabet auf Italienisch ohne Fehler aufsagen?
+it-xb-0137; Silbe; la sillaba; ; B2; Bildung/Sprache/Wörter & Aussprache; La parola banana ha tre sillabe.; Das Wort Banane hat drei Silben.
+it-xb-0138; Aussprache; la pronuncia; ; B1; Bildung/Sprache/Wörter & Aussprache; Ora la sua pronuncia italiana è quasi perfetta.; Ihre italienische Aussprache ist jetzt fast perfekt.
+it-xb-0139; aussprechen; pronunciare; ; B1; Bildung/Sprache/Wörter & Aussprache; Come si pronuncia correttamente questa parola?; Wie spricht man dieses Wort richtig aus?
+it-xb-0140; Betonung; l'accento; l'accento tonico; B2; Bildung/Sprache/Wörter & Aussprache; Nella parola città l'accento cade sull'ultima sillaba.; Im Wort città liegt die Betonung auf der letzten Silbe.
+it-xb-0141; Vokal; la vocale; ; B1; Bildung/Sprache/Wörter & Aussprache; Le lettere a, e, i, o e u sono vocali.; Die Buchstaben a, e, i, o und u sind Vokale.
+it-xb-0142; Konsonant; la consonante; ; B1; Bildung/Sprache/Wörter & Aussprache; La parola strano inizia con tre consonanti.; Das Wort strano beginnt mit drei Konsonanten.
+it-xb-0143; Akzent; l'accento; ; B1; Bildung/Sprache/Wörter & Aussprache; Parla italiano con un forte accento tedesco.; Er spricht Italienisch mit einem starken deutschen Akzent.
+it-xb-0144; Dialekt; il dialetto; ; B2; Bildung/Sprache/Wörter & Aussprache; I miei nonni parlano un dialetto che capisco appena.; Meine Großeltern sprechen einen Dialekt, den ich kaum verstehe.
+it-xb-0145; Ausdruck (Formulierung); l'espressione; ; B1; Bildung/Sprache/Wörter & Aussprache; Questa espressione è molto comune nell'italiano parlato.; Dieser Ausdruck ist im gesprochenen Italienisch sehr üblich.
+it-xb-0146; Redewendung; il modo di dire; l'espressione idiomatica; B2; Bildung/Sprache/Wörter & Aussprache; Piove a catinelle è un modo di dire divertente.; Piove a catinelle ist eine lustige Redewendung.
+it-xb-0147; Synonym; il sinonimo; ; B2; Bildung/Sprache/Wörter & Aussprache; Veloce è un sinonimo di rapido.; Veloce ist ein Synonym für rapido.
+it-xb-0148; Abkürzung (Wort); l'abbreviazione; la sigla; B1; Bildung/Sprache/Wörter & Aussprache; UE è l'abbreviazione di Unione Europea.; UE ist die Abkürzung für Unione Europea.
+it-xb-0149; Fremdwort; la parola straniera; il forestierismo; B2; Bildung/Sprache/Wörter & Aussprache; L'italiano ha molte parole straniere prese dall'inglese.; Das Italienische hat viele Fremdwörter aus dem Englischen.
+it-xb-0150; Wortfamilie; la famiglia di parole; ; B2; Bildung/Sprache/Wörter & Aussprache; Felice, felicità e infelice appartengono alla stessa famiglia di parole.; Felice, felicità und infelice gehören zu einer Wortfamilie.
+it-xb-0151; Definition; la definizione; ; B1; Bildung/Sprache/Wörter & Aussprache; Leggi la definizione e indovina la parola.; Lies die Definition und rate das Wort.
+it-xb-0152; Muttersprachler; il madrelingua; la madrelingua, il parlante nativo; B1; Bildung/Sprache/Wörter & Aussprache; La nostra professoressa d'inglese è una madrelingua scozzese.; Unsere Englischlehrerin ist Muttersprachlerin aus Schottland.
+it-xb-0153; Satzzeichen; il segno di punteggiatura; la punteggiatura; B1; Bildung/Sprache/Lesen & Schreiben; Non dimenticare i segni di punteggiatura alla fine.; Vergiss die Satzzeichen am Ende nicht.
+it-xb-0154; Komma; la virgola; ; A2; Bildung/Sprache/Lesen & Schreiben; In italiano prima di ma si mette spesso la virgola.; Im Italienischen setzt man vor ma oft ein Komma.
+it-xb-0155; Fragezeichen; il punto interrogativo; il punto di domanda; A2; Bildung/Sprache/Lesen & Schreiben; Una domanda finisce sempre con un punto interrogativo.; Eine Frage endet immer mit einem Fragezeichen.
+it-xb-0156; Ausrufezeichen; il punto esclamativo; ; B1; Bildung/Sprache/Lesen & Schreiben; Il suo messaggio finiva con tre punti esclamativi.; Ihre Nachricht endete mit drei Ausrufezeichen.
+it-xb-0157; Anführungszeichen; le virgolette; ; B2; Bildung/Sprache/Lesen & Schreiben; Metti il discorso diretto tra virgolette.; Setz die wörtliche Rede in Anführungszeichen.
+it-xb-0158; Rechtschreibung; l'ortografia; ; B1; Bildung/Sprache/Lesen & Schreiben; Controlla l'ortografia prima di consegnare il tema.; Prüf deine Rechtschreibung, bevor du den Aufsatz abgibst.
+it-xb-0159; Großbuchstabe; la lettera maiuscola; la maiuscola; A2; Bildung/Sprache/Lesen & Schreiben; I nomi iniziano sempre con la lettera maiuscola.; Namen beginnen immer mit einem Großbuchstaben.
+it-xb-0160; Kleinbuchstabe; la lettera minuscola; la minuscola; A2; Bildung/Sprache/Lesen & Schreiben; In italiano i mesi si scrivono con la lettera minuscola.; Im Italienischen schreibt man die Monate mit Kleinbuchstaben.
+it-xb-0161; Handschrift; la calligrafia; la grafia, la scrittura; B1; Bildung/Sprache/Lesen & Schreiben; Riesco a malapena a leggere la calligrafia del mio medico.; Ich kann die Handschrift meines Arztes kaum lesen.
+it-xb-0162; Schreibschrift; il corsivo; ; C1; Bildung/Sprache/Lesen & Schreiben; In seconda elementare i bambini imparano il corsivo.; In der zweiten Klasse lernen die Kinder Schreibschrift.
+it-xb-0163; Druckbuchstabe; lo stampatello; ; C1; Bildung/Sprache/Lesen & Schreiben; Compili il modulo in stampatello, per favore.; Bitte füllen Sie das Formular in Druckbuchstaben aus.
+it-xb-0164; Überschrift; il titolo; ; A2; Bildung/Sprache/Lesen & Schreiben; Trova un buon titolo per il tuo testo.; Finde eine gute Überschrift für deinen Text.
+it-xb-0165; Abschnitt; la sezione; la parte; B1; Bildung/Sprache/Lesen & Schreiben; Rileggi ancora una volta la prima sezione dell'articolo.; Lies den ersten Abschnitt des Artikels noch einmal.
+it-xb-0166; Stichwort; la parola chiave; ; B1; Bildung/Sprache/Lesen & Schreiben; Scrivi tre parole chiave per ogni paragrafo.; Schreib zu jedem Absatz drei Stichwörter auf.
+it-xb-0167; Stichpunkt; il punto elenco; il punto; B2; Bildung/Sprache/Lesen & Schreiben; Scrivi gli appunti per la presentazione in punti elenco.; Mach dir für dein Referat Notizen in Stichpunkten.
+it-xb-0168; Einleitung; l'introduzione; ; B1; Bildung/Sprache/Lesen & Schreiben; L'introduzione non dovrebbe essere troppo lunga.; Die Einleitung sollte nicht zu lang sein.
+it-xb-0169; Hauptteil; la parte centrale; lo svolgimento, il corpo del testo; B1; Bildung/Sprache/Lesen & Schreiben; Nella parte centrale presenti i tuoi argomenti.; Im Hauptteil stellst du deine Argumente dar.
+it-xb-0170; Schluss (Text); la conclusione; ; B1; Bildung/Sprache/Lesen & Schreiben; Nella conclusione esprimi la tua opinione personale.; Im Schluss sagst du deine eigene Meinung.
+it-xb-0171; Entwurf; la bozza; la brutta copia; B2; Bildung/Sprache/Lesen & Schreiben; Ho scritto la prima bozza del mio tema.; Ich habe den ersten Entwurf meines Aufsatzes geschrieben.
+it-xb-0172; Bildbeschreibung; la descrizione di un'immagine; la descrizione dell'immagine; B1; Bildung/Sprache/Lesen & Schreiben; All'esame orale devi fare la descrizione di un'immagine.; In der mündlichen Prüfung musst du eine Bildbeschreibung machen.
+it-xb-0173; Leseverstehen; la comprensione del testo; la comprensione scritta; B2; Bildung/Sprache/Lesen & Schreiben; La prova ha una parte di comprensione del testo.; Der Test hat einen Teil zum Leseverstehen.
+it-xb-0174; Hörverstehen; la comprensione orale; l'ascolto; B2; Bildung/Sprache/Lesen & Schreiben; La comprensione orale è la parte dell'esame più difficile per me.; Hörverstehen ist für mich der schwierigste Teil der Prüfung.
+it-xb-0175; Aufsatz; il tema; il componimento; A2; Bildung/Sprache/Lesen & Schreiben; Dobbiamo scrivere un tema sulle nostre vacanze.; Wir müssen einen Aufsatz über unsere Ferien schreiben.
+it-xb-0176; Lexikon; l'enciclopedia; ; B1; Bildung/Sprache/Lesen & Schreiben; Ho cercato la storia di Roma in un'enciclopedia.; Ich habe die Geschichte Roms in einem Lexikon nachgeschlagen.
+it-xb-0177; Muttersprache; la lingua madre; la madrelingua; A2; Bildung/Sprache/Sprachen; La sua lingua madre è il turco, ma parla perfettamente tedesco.; Ihre Muttersprache ist Türkisch, aber sie spricht perfekt Deutsch.
+it-xb-0178; Sprachkurs; il corso di lingua; il corso di lingue; A2; Bildung/Sprache/Sprachen; In estate faccio un corso di lingua a Malta.; Im Sommer mache ich einen Sprachkurs auf Malta.
+it-xb-0179; Sprachschule; la scuola di lingue; ; A2; Bildung/Sprache/Sprachen; La scuola di lingue è proprio accanto alla stazione.; Die Sprachschule liegt direkt neben dem Bahnhof.
+it-xb-0180; zweisprachig; bilingue; ; B2; Bildung/Sprache/Sprachen; I loro figli stanno crescendo bilingui.; Ihre Kinder wachsen zweisprachig auf.
+it-xb-0181; fließend; fluente; scorrevole, fluentemente; B1; Bildung/Sprache/Sprachen; Dopo un anno a Londra parlava un inglese fluente.; Nach einem Jahr in London sprach sie fließend Englisch.
+it-xb-0182; Dolmetscher; l'interprete; ; B2; Bildung/Sprache/Sprachen; Il ministro ha parlato tramite un interprete.; Der Minister sprach über einen Dolmetscher.
+it-xb-0183; Übersetzer; il traduttore; la traduttrice; B1; Bildung/Sprache/Sprachen; Mia zia lavora come traduttrice per una casa editrice.; Meine Tante arbeitet als Übersetzerin für einen Verlag.
+it-xb-0184; Sprachkenntnisse; le conoscenze linguistiche; la conoscenza delle lingue; B1; Bildung/Sprache/Sprachen; Per questo lavoro sono importanti buone conoscenze linguistiche.; Gute Sprachkenntnisse sind für diese Stelle wichtig.
+it-xb-0185; Amtssprache; la lingua ufficiale; ; B2; Bildung/Sprache/Sprachen; In Svizzera ci sono quattro lingue ufficiali.; In der Schweiz gibt es vier Amtssprachen.
+it-xb-0186; Weltsprache; la lingua mondiale; la lingua globale; B2; Bildung/Sprache/Sprachen; L'inglese è diventato una vera lingua mondiale.; Englisch ist zu einer echten Weltsprache geworden.
+it-xb-0187; Gebärdensprache; la lingua dei segni; ; B2; Bildung/Sprache/Sprachen; Le persone sorde comunicano spesso con la lingua dei segni.; Gehörlose Menschen verständigen sich oft in Gebärdensprache.
+it-xb-0188; Handwerker; l'artigiano; l'artigiana; B1; Arbeit/Beruf/Berufe; Abbiamo bisogno di un artigiano per riparare il tetto.; Wir brauchen einen Handwerker, der das Dach repariert.
+it-xb-0189; Klempner; l'idraulico; ; B1; Arbeit/Beruf/Berufe; L'idraulico viene a riparare il tubo che perde.; Der Klempner kommt, um das undichte Rohr zu reparieren.
+it-xb-0190; Tischler; il falegname; ; B1; Arbeit/Beruf/Berufe; Il falegname ha fatto questo tavolo di quercia.; Der Tischler hat diesen Tisch aus Eiche gemacht.
+it-xb-0191; Maler (Handwerker); l'imbianchino; il pittore edile, il pittore; B1; Arbeit/Beruf/Berufe; Gli imbianchini dipingono il nostro appartamento la settimana prossima.; Die Maler streichen nächste Woche unsere Wohnung.
+it-xb-0192; Maurer; il muratore; ; B2; Arbeit/Beruf/Berufe; I muratori hanno finito i muri della casa.; Die Maurer sind mit den Wänden des Hauses fertig.
+it-xb-0193; Automechaniker; il meccanico; il meccanico di automobili; A2; Arbeit/Beruf/Berufe; Mio cugino fa l'apprendistato per diventare meccanico.; Mein Cousin macht eine Ausbildung zum Automechaniker.
+it-xb-0194; Programmierer; il programmatore; la programmatrice; A2; Arbeit/Beruf/Berufe; Il programmatore sta scrivendo una nuova app.; Der Programmierer schreibt eine neue App.
+it-xb-0195; Softwareentwickler; lo sviluppatore di software; la sviluppatrice di software; B1; Arbeit/Beruf/Berufe; Come sviluppatore di software lavora spesso da casa.; Als Softwareentwickler arbeitet er oft von zu Hause aus.
+it-xb-0196; Webdesigner; il web designer; ; B1; Arbeit/Beruf/Berufe; Un web designer ha creato il nostro nuovo sito.; Ein Webdesigner hat unsere neue Website erstellt.
+it-xb-0197; Entwickler; lo sviluppatore; la sviluppatrice; B1; Arbeit/Beruf/Berufe; Gli sviluppatori stanno lavorando a un aggiornamento del gioco.; Die Entwickler arbeiten an einem Update für das Spiel.
+it-xb-0198; Fotograf; il fotografo; la fotografa; A2; Arbeit/Beruf/Berufe; Un fotografo ha fatto le foto al matrimonio.; Ein Fotograf hat auf der Hochzeit Fotos gemacht.
+it-xb-0199; Bibliothekar; il bibliotecario; la bibliotecaria; B1; Arbeit/Beruf/Berufe; Il bibliotecario mi ha aiutato a trovare il libro giusto.; Der Bibliothekar half mir, das richtige Buch zu finden.
+it-xb-0200; Erzieher; l'educatore; l'educatrice; B1; Arbeit/Beruf/Berufe; Mia sorella lavora come educatrice in un asilo.; Meine Schwester arbeitet als Erzieherin in einem Kindergarten.
+it-xb-0201; Hausmeister; il custode; il bidello, la custode; B1; Arbeit/Beruf/Berufe; Il custode ha riparato la finestra rotta della nostra aula.; Der Hausmeister hat das kaputte Fenster in unserem Klassenzimmer repariert.
+it-xb-0202; Putzkraft; l'addetto alle pulizie; l'addetta alle pulizie, la donna delle pulizie; B1; Arbeit/Beruf/Berufe; L'addetta alle pulizie viene in ufficio ogni sera.; Die Putzkraft kommt jeden Abend ins Büro.
+it-xb-0203; Briefträger; il postino; la postina; A2; Arbeit/Beruf/Berufe; Il postino di solito passa verso le dieci.; Der Briefträger kommt meistens gegen zehn Uhr.
+it-xb-0204; Praktikant; il tirocinante; la tirocinante, lo stagista, la stagista; B2; Arbeit/Beruf/Berufe; Quest'estate il tirocinante ci aiuta con il progetto.; Der Praktikant hilft uns diesen Sommer bei dem Projekt.
+it-xb-0205; Lehrling; l'apprendista; ; B2; Arbeit/Beruf/Berufe; Il nuovo apprendista inizia lunedì in officina.; Der neue Lehrling fängt am Montag in der Werkstatt an.
+it-xb-0206; Freiberufler; il libero professionista; la libera professionista, il freelance; B2; Arbeit/Beruf/Berufe; Come libera professionista può scegliere i suoi orari di lavoro.; Als Freiberuflerin kann sie ihre Arbeitszeiten selbst wählen.
+it-xb-0207; Fabrikarbeiter; l'operaio; l'operaia, l'operaio di fabbrica; A2; Arbeit/Beruf/Berufe; Mio nonno ha fatto l'operaio per tutta la vita.; Mein Großvater war sein ganzes Leben lang Fabrikarbeiter.
+it-xb-0208; Bauarbeiter; l'operaio edile; il manovale; A2; Arbeit/Beruf/Berufe; Gli operai edili iniziano a lavorare alle sette del mattino.; Die Bauarbeiter fangen morgens um sieben mit der Arbeit an.
+it-xb-0209; Lagerarbeiter; il magazziniere; la magazziniera; B1; Arbeit/Beruf/Berufe; I magazzinieri caricano i pacchi sul camion.; Die Lagerarbeiter laden die Pakete auf den Lastwagen.
+it-xb-0210; Dachdecker; il conciatetti; ; C1; Arbeit/Beruf/Berufe; Dopo la tempesta abbiamo dovuto chiamare un conciatetti.; Nach dem Sturm mussten wir einen Dachdecker rufen.
+it-xb-0211; Techniker; il tecnico; ; B1; Arbeit/Beruf/Berufe; Viene un tecnico a riparare il riscaldamento.; Ein Techniker kommt, um die Heizung zu reparieren.
+it-xb-0212; Grafiker; il grafico; la grafica; B2; Arbeit/Beruf/Berufe; Il grafico ha creato un nuovo logo per il negozio.; Der Grafiker hat ein neues Logo für den Laden entworfen.
+it-xb-0213; Informatiker; l'informatico; ; B1; Arbeit/Beruf/Berufe; Gli informatici servono in quasi tutte le aziende.; Informatiker werden in fast jeder Firma gebraucht.
+it-xb-0214; Wachmann; la guardia giurata; il vigilante, la guardia; B1; Arbeit/Beruf/Berufe; Di notte c'è una guardia giurata all'ingresso.; Nachts steht ein Wachmann am Eingang.
+it-xb-0215; Pförtner; il portiere; il portinaio, la portinaia; C1; Arbeit/Beruf/Berufe; I visitatori devono prima registrarsi dal portiere.; Besucher müssen sich zuerst beim Pförtner anmelden.
+it-xb-0216; Assistent; l'assistente; ; B1; Arbeit/Beruf/Berufe; Il suo assistente organizza tutti i suoi appuntamenti.; Ihr Assistent organisiert alle ihre Termine.
+it-xb-0217; Sachbearbeiter; l'impiegato; l'impiegata, il funzionario; C1; Arbeit/Beruf/Berufe; Un impiegato del comune sta esaminando la mia domanda.; Ein Sachbearbeiter im Rathaus bearbeitet meinen Antrag.
+it-xb-0218; Büroangestellter; l'impiegato d'ufficio; l'impiegata d'ufficio; B1; Arbeit/Beruf/Berufe; Molti impiegati d'ufficio stanno seduti alla scrivania tutto il giorno.; Viele Büroangestellte sitzen den ganzen Tag am Schreibtisch.
+it-xb-0219; Bauingenieur; l'ingegnere civile; l'ingegnere edile; B2; Arbeit/Beruf/Berufe; Un ingegnere civile ha progettato il nuovo ponte.; Ein Bauingenieur hat die neue Brücke geplant.
+it-xb-0220; Kameramann; il cameraman; l'operatore di ripresa; B2; Arbeit/Beruf/Berufe; Il cameraman ha filmato l'intervista da due angolazioni.; Der Kameramann filmte das Interview aus zwei Blickwinkeln.
+it-xb-0221; Arbeitstag; la giornata lavorativa; il giorno lavorativo; A2; Arbeit/Beruf/Arbeitsalltag; La mia giornata lavorativa finisce alle cinque.; Mein Arbeitstag endet um fünf Uhr.
+it-xb-0222; Mittagspause; la pausa pranzo; ; A1; Arbeit/Beruf/Arbeitsalltag; Durante la pausa pranzo faccio una breve passeggiata.; In meiner Mittagspause mache ich einen kurzen Spaziergang.
+it-xb-0223; Kaffeepause; la pausa caffè; ; A2; Arbeit/Beruf/Arbeitsalltag; Adesso facciamo una breve pausa caffè.; Lass uns jetzt eine kurze Kaffeepause machen.
+it-xb-0224; Kantine; la mensa; la mensa aziendale; A2; Arbeit/Beruf/Arbeitsalltag; Il cibo della nostra mensa è buono e costa poco.; Das Essen in unserer Kantine ist gut und billig.
+it-xb-0225; Empfang; la reception; l'accoglienza; B1; Arbeit/Beruf/Arbeitsalltag; Aspetti alla reception, qualcuno verrà a prenderla.; Bitte warten Sie am Empfang, Sie werden abgeholt.
+it-xb-0226; Nebenjob; il lavoretto; il secondo lavoro; B1; Arbeit/Beruf/Arbeitsalltag; Molti studenti hanno un lavoretto in un bar.; Viele Studenten haben einen Nebenjob in einem Café.
+it-xb-0227; Ferienjob; il lavoro estivo; il lavoretto estivo; A2; Arbeit/Beruf/Arbeitsalltag; Ho guadagnato un po' di soldi con un lavoro estivo.; Ich habe mit einem Ferienjob etwas Geld verdient.
+it-xb-0228; Traumberuf; il lavoro dei sogni; il mestiere dei sogni; A2; Arbeit/Beruf/Karriere; Fare il pilota è da sempre il mio lavoro dei sogni.; Pilot ist schon immer mein Traumberuf gewesen.
+it-xb-0229; Berufsberatung; l'orientamento professionale; l'orientamento; B2; Arbeit/Beruf/Karriere; A scuola abbiamo avuto un incontro di orientamento professionale.; In der Schule hatten wir einen Termin zur Berufsberatung.
+it-xb-0230; Lehre; l'apprendistato; ; B1; Arbeit/Beruf/Karriere; Dopo la scuola ha iniziato un apprendistato da panettiere.; Nach der Schule hat er eine Lehre als Bäcker angefangen.
+it-xb-0231; Zeitarbeit; il lavoro interinale; il lavoro temporaneo, il lavoro in somministrazione; C1; Arbeit/Beruf/Vertrag & Gehalt; Molte fabbriche ricorrono al lavoro interinale.; Viele Fabriken setzen auf Zeitarbeit.
+it-xb-0232; befristet; a tempo determinato; temporaneo; B2; Arbeit/Beruf/Vertrag & Gehalt; Purtroppo il mio contratto è solo a tempo determinato.; Leider ist mein Vertrag nur befristet.
+it-xb-0233; unbefristet; a tempo indeterminato; ; B2; Arbeit/Beruf/Vertrag & Gehalt; Dopo due anni ha ottenuto un contratto a tempo indeterminato.; Nach zwei Jahren bekam sie einen unbefristeten Vertrag.
+it-xb-0234; Stundenlohn; la paga oraria; il salario orario, la tariffa oraria; B1; Arbeit/Beruf/Vertrag & Gehalt; La paga oraria per questo lavoro è di quindici euro.; Der Stundenlohn für diesen Job beträgt fünfzehn Euro.
+it-xb-0235; Akte; il fascicolo; la pratica; B1; Arbeit/Beruf/Arbeitsplatz; Il fascicolo è sulla scrivania del mio capo.; Die Akte liegt auf dem Schreibtisch meines Chefs.
+it-xb-0236; Stempel; il timbro; ; B1; Arbeit/Beruf/Arbeitsplatz; Il modulo ha bisogno di un timbro del comune.; Das Formular braucht einen Stempel vom Rathaus.
+it-xb-0237; Hefter; la spillatrice; la cucitrice, la pinzatrice; B1; Arbeit/Beruf/Arbeitsplatz; Mi passi la spillatrice, per favore?; Kannst du mir bitte den Hefter geben?
+it-xb-0238; Büroklammer; la graffetta; la clip; B1; Arbeit/Beruf/Arbeitsplatz; Tieni insieme i fogli con una graffetta.; Halte die Seiten mit einer Büroklammer zusammen.
+it-xb-0239; Locher; il perforatore; ; B1; Arbeit/Beruf/Arbeitsplatz; Usa il perforatore prima di mettere i fogli nel raccoglitore.; Benutz den Locher, bevor du die Blätter in den Ordner legst.
+it-xb-0240; Klebeband; il nastro adesivo; lo scotch; A2; Arbeit/Beruf/Arbeitsplatz; Ho attaccato il poster al muro con il nastro adesivo.; Ich habe das Poster mit Klebeband an der Wand befestigt.
+it-xb-0241; Namensschild; il cartellino; il badge, il cartellino con il nome; B2; Arbeit/Beruf/Arbeitsplatz; Tutti i dipendenti portano un cartellino con il nome.; Alle Mitarbeiter tragen ein Namensschild.
+it-xb-0242; Schutzhelm; il casco di protezione; l'elmetto, il caschetto; B1; Arbeit/Beruf/Arbeitsplatz; In cantiere tutti devono portare il casco di protezione.; Auf der Baustelle muss jeder einen Schutzhelm tragen.
+it-xb-0243; Arbeitskleidung; gli abiti da lavoro; l'abbigliamento da lavoro; A2; Arbeit/Beruf/Arbeitsplatz; L'azienda paga i nostri abiti da lavoro.; Die Firma bezahlt unsere Arbeitskleidung.
+it-xb-0244; Großraumbüro; l'open space; l'ufficio open space; B2; Arbeit/Beruf/Arbeitsplatz; In un open space c'è spesso molto rumore.; In einem Großraumbüro ist es oft laut.
+it-xb-0245; Bürostuhl; la sedia da ufficio; la sedia da scrivania; A2; Arbeit/Beruf/Arbeitsplatz; Una buona sedia da ufficio è importante per la schiena.; Ein guter Bürostuhl ist wichtig für den Rücken.
+it-xb-0246; Pinnwand; la bacheca; ; B2; Arbeit/Beruf/Arbeitsplatz; Il nuovo calendario dei turni è appeso in bacheca.; Der neue Dienstplan hängt an der Pinnwand.
+it-xb-0247; Flipchart; la lavagna a fogli mobili; il flipchart; B1; Arbeit/Beruf/Arbeitsplatz; Ha scritto le nostre idee sulla lavagna a fogli mobili.; Sie schrieb unsere Ideen auf das Flipchart.
+it-xb-0248; Terminkalender; l'agenda; ; B1; Arbeit/Beruf/Arbeitsplatz; Fammi controllare l'agenda per la settimana prossima.; Lass mich in meinem Terminkalender für nächste Woche nachsehen.
+it-xb-0249; Aktenschrank; lo schedario; l'archivio; B2; Arbeit/Beruf/Arbeitsplatz; I vecchi contratti sono nello schedario.; Die alten Verträge liegen im Aktenschrank.
+it-xb-0250; Aktentasche; la ventiquattrore; la valigetta, la cartella; B1; Arbeit/Beruf/Arbeitsplatz; Porta il portatile in una ventiquattrore di pelle.; Er trägt seinen Laptop in einer Aktentasche aus Leder.
+it-xb-0251; Tinte; l'inchiostro; ; A2; Arbeit/Beruf/Arbeitsplatz; La mia stilografica ha finito l'inchiostro.; Mein Füller hat keine Tinte mehr.
+it-xb-0252; Druckerpatrone; la cartuccia della stampante; la cartuccia, la cartuccia d'inchiostro; B2; Arbeit/Beruf/Arbeitsplatz; La cartuccia della stampante è vuota, ne serve una nuova.; Die Druckerpatrone ist leer, wir brauchen eine neue.
+it-xb-0253; Ausdruck (Papier); la stampa; la copia stampata; B2; Arbeit/Beruf/Arbeitsplatz; Puoi portare una stampa della relazione alla riunione?; Kannst du einen Ausdruck des Berichts zur Besprechung mitbringen?
+it-xb-0254; fotokopieren; fotocopiare; ; B1; Arbeit/Beruf/Arbeitsplatz; Per favore fotocopia questa pagina venti volte per la classe.; Bitte fotokopier diese Seite zwanzigmal für die Klasse.
+it-xb-0255; Mikrofon; il microfono; ; A2; Technik/Computer/Geräte; Parla un po' più vicino al microfono, per favore.; Sprich bitte etwas näher ins Mikrofon.
+it-xb-0256; Webcam; la webcam; ; A2; Technik/Computer/Geräte; La mia webcam non funziona durante le videochiamate.; Meine Webcam funktioniert bei Videoanrufen nicht.
+it-xb-0257; Scanner; lo scanner; ; B1; Technik/Computer/Geräte; Metti il documento sullo scanner a faccia in giù.; Leg das Dokument mit der Schrift nach unten auf den Scanner.
+it-xb-0258; Fernbedienung; il telecomando; ; A2; Technik/Computer/Geräte; Dov'è finito il telecomando del televisore?; Wo ist die Fernbedienung für den Fernseher geblieben?
+it-xb-0259; Digitalkamera; la fotocamera digitale; la macchina fotografica digitale; A2; Technik/Computer/Geräte; Oggi molti usano il telefono invece della fotocamera digitale.; Heute benutzen die meisten ihr Handy statt einer Digitalkamera.
+it-xb-0260; Objektiv; l'obiettivo; ; B2; Technik/Computer/Geräte; Ha comprato un nuovo obiettivo per la sua macchina fotografica.; Er hat sich ein neues Objektiv für seine Kamera gekauft.
+it-xb-0261; Stativ; il treppiede; il cavalletto; C1; Technik/Computer/Geräte; Per le foto notturne dovresti usare un treppiede.; Für Nachtaufnahmen solltest du ein Stativ benutzen.
+it-xb-0262; Smartwatch; lo smartwatch; ; B1; Technik/Computer/Geräte; Il mio smartwatch conta i miei passi ogni giorno.; Meine Smartwatch zählt jeden Tag meine Schritte.
+it-xb-0263; Drohne; il drone; ; B1; Technik/Computer/Geräte; Il drone ha filmato tutto il paese dall'alto.; Die Drohne filmte das ganze Dorf von oben.
+it-xb-0264; 3D-Drucker; la stampante 3D; ; B2; Technik/Computer/Geräte; La scuola ha comprato una stampante 3D per il laboratorio.; Die Schule hat einen 3D-Drucker für das Labor gekauft.
+it-xb-0265; Spielkonsole; la console; la console per videogiochi; A2; Technik/Computer/Geräte; Per il compleanno ha ricevuto una nuova console.; Er hat zum Geburtstag eine neue Spielkonsole bekommen.
+it-xb-0266; Router; il router; ; B1; Technik/Computer/Geräte; Se internet è lento, riavvia il router.; Wenn das Internet langsam ist, starte den Router neu.
+it-xb-0267; Modem; il modem; ; B2; Technik/Computer/Geräte; Il modem collega la tua casa a internet.; Das Modem verbindet dein Zuhause mit dem Internet.
+it-xb-0268; USB-Stick; la chiavetta USB; la penna USB; A2; Technik/Computer/Hardware; Ho salvato la mia presentazione su una chiavetta USB.; Ich habe meine Präsentation auf einem USB-Stick gespeichert.
+it-xb-0269; Touchpad; il touchpad; ; B2; Technik/Computer/Hardware; Preferisco il mouse al touchpad del mio portatile.; Ich benutze lieber eine Maus als das Touchpad an meinem Laptop.
+it-xb-0270; Mauspad; il tappetino del mouse; il tappetino; B1; Technik/Computer/Hardware; Mi serve un nuovo tappetino del mouse per la scrivania.; Ich brauche ein neues Mauspad für den Schreibtisch.
+it-xb-0271; Leertaste; la barra spaziatrice; ; B2; Technik/Computer/Hardware; Premi la barra spaziatrice per avviare il video.; Drück die Leertaste, um das Video zu starten.
+it-xb-0272; Eingabetaste; il tasto invio; l'invio; B2; Technik/Computer/Hardware; Scrivi la password e premi il tasto invio.; Gib dein Passwort ein und drück die Eingabetaste.
+it-xb-0273; Ladekabel; il cavo di ricarica; il cavo del caricabatterie; A2; Technik/Computer/Hardware; Hai un cavo di ricarica per il mio telefono?; Hast du ein Ladekabel für mein Handy?
+it-xb-0274; Adapter; l'adattatore; ; B1; Technik/Computer/Hardware; Per le prese nel Regno Unito ti serve un adattatore.; Für Steckdosen in Großbritannien brauchst du einen Adapter.
+it-xb-0275; einfügen; incollare; inserire; B1; Technik/Computer/Software; Copia il testo e incollalo nell'email.; Kopier den Text und füg ihn in die E-Mail ein.
+it-xb-0276; scannen; scansionare; ; B1; Technik/Computer/Software; Puoi scansionare il contratto e mandarmelo?; Kannst du den Vertrag scannen und mir schicken?
+it-xb-0277; tippen (schreiben); digitare; ; A2; Technik/Computer/Software; Sa digitare molto velocemente senza guardare la tastiera.; Sie kann sehr schnell tippen, ohne auf die Tastatur zu schauen.
+it-xb-0278; doppelklicken; fare doppio clic; cliccare due volte; B1; Technik/Computer/Software; Fai doppio clic sull'icona per aprire il programma.; Doppelklicke auf das Symbol, um das Programm zu öffnen.
+it-xb-0279; scrollen; scorrere; ; A2; Technik/Computer/Software; Scorri verso il basso fino alla fine della pagina.; Scroll nach unten bis zum Ende der Seite.
+it-xb-0280; Einstellungen; le impostazioni; ; A2; Technik/Computer/Software; Puoi cambiare la lingua nelle impostazioni.; Du kannst die Sprache in den Einstellungen ändern.
+it-xb-0281; Symbol (Bildschirm); l'icona; ; B1; Technik/Computer/Software; Clicca sull'icona della stampante in alto.; Klick oben auf das Symbol mit dem Drucker.
+it-xb-0282; Cursor; il cursore; ; B2; Technik/Computer/Software; Sposta il cursore alla fine della riga.; Beweg den Cursor an das Ende der Zeile.
+it-xb-0283; Tabelle; la tabella; ; B1; Technik/Computer/Software; La tabella mostra i risultati del sondaggio.; Die Tabelle zeigt die Ergebnisse der Umfrage.
+it-xb-0284; Tabellenkalkulation; il foglio di calcolo; il foglio elettronico; B2; Technik/Computer/Software; Tengo traccia delle mie spese in un foglio di calcolo.; Ich halte meine Ausgaben in einer Tabellenkalkulation fest.
+it-xb-0285; Textverarbeitung; la videoscrittura; l'elaborazione di testi; B2; Technik/Computer/Software; Apri la lettera con il tuo programma di videoscrittura.; Öffne den Brief in deinem Programm für Textverarbeitung.
+it-xb-0286; Schriftart; il carattere; il font; B2; Technik/Computer/Software; Scegli un carattere facile da leggere.; Wähl eine Schriftart, die gut lesbar ist.
+it-xb-0287; Tastenkombination; la combinazione di tasti; la scorciatoia da tastiera; B2; Technik/Computer/Software; Questa combinazione di tasti salva il documento.; Diese Tastenkombination speichert das Dokument.
+it-xb-0288; Pixel; il pixel; ; B2; Technik/Computer/Software; La foto ha troppo pochi pixel per un poster.; Das Foto hat zu wenige Pixel für ein Poster.
+it-xb-0289; Auflösung (Bildschirm); la risoluzione; ; B2; Technik/Computer/Software; Il nuovo monitor ha una risoluzione molto alta.; Der neue Monitor hat eine sehr hohe Auflösung.
+it-xb-0290; Bildschirmschoner; il salvaschermo; lo screensaver; B2; Technik/Computer/Software; Il salvaschermo si attiva dopo cinque minuti.; Der Bildschirmschoner geht nach fünf Minuten an.
+it-xb-0291; Rechtschreibprüfung; il correttore ortografico; il controllo ortografico; B2; Technik/Computer/Software; Il correttore ortografico non ha trovato questo errore.; Die Rechtschreibprüfung hat diesen Fehler nicht gefunden.
+it-xb-0292; Autokorrektur; il correttore automatico; la correzione automatica; B1; Technik/Computer/Software; Il correttore automatico ha trasformato il mio messaggio in qualcosa di strano.; Die Autokorrektur hat meine Nachricht in etwas Seltsames verwandelt.
+it-xb-0293; Zwischenablage; gli appunti; ; C1; Technik/Computer/Software; Il testo copiato ora si trova negli appunti.; Der kopierte Text ist jetzt in der Zwischenablage.
+it-xb-0294; Papierkorb (Computer); il cestino; ; B1; Technik/Computer/Software; Il file eliminato è ancora nel cestino.; Die gelöschte Datei ist noch im Papierkorb.
+it-xb-0295; Desktop; il desktop; la scrivania; B1; Technik/Computer/Software; Ho salvato il file sul desktop.; Ich habe die Datei auf dem Desktop gespeichert.
+it-xb-0296; Registerkarte; la scheda; ; C1; Technik/Computer/Software; Apri il link in una nuova scheda.; Öffne den Link in einer neuen Registerkarte.
+it-xb-0297; Version; la versione; ; B1; Technik/Computer/Software; Per favore installa l'ultima versione dell'app.; Bitte installier die neueste Version der App.
+it-xb-0298; bearbeiten; modificare; ; B1; Technik/Computer/Software; Puoi ancora modificare il documento più tardi.; Du kannst das Dokument später noch bearbeiten.
+it-xb-0299; Bildbearbeitung; il fotoritocco; l'elaborazione delle immagini, il ritocco fotografico; B2; Technik/Computer/Software; Per il fotoritocco usa un programma gratuito.; Für die Bildbearbeitung benutzt sie ein kostenloses Programm.
+it-xb-0300; Filter; il filtro; ; B1; Technik/Computer/Software; Ha messo un filtro in bianco e nero sulla foto.; Sie hat einen Schwarz-Weiß-Filter über das Foto gelegt.
+it-xb-0301; Benutzerhandbuch; il manuale d'uso; il manuale utente, il manuale dell'utente; B2; Technik/Computer/Software; La risposta alla tua domanda è nel manuale d'uso.; Die Antwort auf deine Frage steht im Benutzerhandbuch.
+it-xb-0302; Dateiname; il nome del file; ; B1; Technik/Computer/Dateien; Scegli un nome del file facile da ricordare.; Wähl einen Dateinamen, den man sich leicht merken kann.
+it-xb-0303; Virenschutz; l'antivirus; il programma antivirus; B2; Technik/Computer/Sicherheit; Ogni computer ha bisogno di un buon antivirus.; Jeder Computer braucht einen guten Virenschutz.
+it-xb-0304; Privatsphäre; la privacy; la riservatezza; B2; Technik/Computer/Sicherheit; Controlla le impostazioni della privacy dei tuoi profili social.; Prüf die Einstellungen zur Privatsphäre in deinen sozialen Netzwerken.
+it-xb-0305; Startseite; la home page; la homepage, la pagina iniziale; B1; Technik/Computer/Internet; Trovi gli orari di apertura sulla home page.; Die Öffnungszeiten findest du auf der Startseite.
+it-xb-0306; Suchleiste; la barra di ricerca; ; B2; Technik/Computer/Internet; Scrivi il nome della città nella barra di ricerca.; Gib den Namen der Stadt in die Suchleiste ein.
+it-xb-0307; Internetverbindung; la connessione internet; la connessione a internet; A2; Technik/Computer/Internet; In albergo la connessione internet era molto lenta.; Die Internetverbindung im Hotel war sehr langsam.
+it-xb-0308; Breitband; la banda larga; ; C1; Technik/Computer/Internet; Molti paesi non hanno ancora la banda larga veloce.; Viele Dörfer haben immer noch kein schnelles Breitband.
+it-xb-0309; Hotspot; l'hotspot; ; B2; Technik/Computer/Internet; Ho usato il telefono come hotspot per il portatile.; Ich habe mein Handy als Hotspot für meinen Laptop benutzt.
+it-xb-0310; offline; offline; ; A2; Technik/Computer/Internet; Puoi usare questa mappa anche offline.; Du kannst diese Karte auch offline benutzen.
+it-xb-0311; surfen (im Internet); navigare; navigare in internet; A2; Technik/Computer/Internet; Ogni sera passa ore a navigare in internet.; Er surft jeden Abend stundenlang im Internet.
+it-xb-0312; streamen; guardare in streaming; trasmettere in streaming; B1; Technik/Computer/Internet; Abbiamo guardato la partita in streaming sul portatile.; Wir haben das Spiel auf dem Laptop gestreamt.
+it-xb-0313; Download; il download; lo scaricamento; B1; Technik/Computer/Internet; Il download dura circa dieci minuti.; Der Download dauert ungefähr zehn Minuten.
+it-xb-0314; Nutzer; l'utente; ; B1; Technik/Computer/Internet; L'app ha già più di un milione di utenti.; Die App hat schon über eine Million Nutzer.
+it-xb-0315; Forum; il forum; ; B1; Technik/Computer/Internet; Ho trovato la soluzione al mio problema in un forum.; Die Lösung für mein Problem habe ich in einem Forum gefunden.
+it-xb-0316; Spam; lo spam; la posta indesiderata; B1; Technik/Computer/Internet; Metà delle mie email sono spam.; Die Hälfte meiner E-Mails ist Spam.
+it-xb-0317; E-Mail-Adresse; l'indirizzo email; l'indirizzo e-mail, l'indirizzo di posta elettronica; A1; Technik/Computer/Internet; Mi dai il tuo indirizzo email?; Kannst du mir deine E-Mail-Adresse geben?
+it-xb-0318; QR-Code; il codice QR; il QR code; B1; Technik/Computer/Internet; Scansiona il codice QR per vedere il menù.; Scann den QR-Code, um die Speisekarte zu sehen.
+it-xb-0319; virtuell; virtuale; ; B2; Technik/Computer/Internet; Abbiamo fatto una visita virtuale del museo.; Wir haben einen virtuellen Rundgang durch das Museum gemacht.
+it-xb-0320; Computerspiel; il gioco per computer; il videogioco; A1; Technik/Computer/Internet; Ogni fine settimana mio fratello gioca ai giochi per computer.; Mein Bruder spielt jedes Wochenende Computerspiele.
+it-xb-0321; Video; il video; ; A1; Technik/Computer/Internet; Hai visto il video divertente del gatto?; Hast du das lustige Video von der Katze gesehen?
+it-xb-0322; Chatbot; il chatbot; ; B2; Technik/Computer/Künstliche Intelligenz; Il chatbot risponde alle domande dei clienti giorno e notte.; Der Chatbot beantwortet Kundenfragen Tag und Nacht.
+it-xb-0323; Videoanruf; la videochiamata; ; A2; Technik/Computer/Smartphone; Ogni domenica parlo con la nonna in videochiamata.; Jeden Sonntag spreche ich mit meiner Oma per Videoanruf.
+it-xb-0324; SMS; il messaggino; il messaggio; A2; Technik/Computer/Smartphone; Le ho mandato un messaggino per dirle che ero in ritardo.; Ich habe ihr eine SMS geschickt, dass ich zu spät komme.
+it-xb-0325; Sprachnachricht; il messaggio vocale; il vocale; A2; Technik/Computer/Smartphone; La mia amica mi manda sempre messaggi vocali lunghissimi.; Meine Freundin schickt mir immer lange Sprachnachrichten.
+it-xb-0326; Mailbox; la segreteria telefonica; la segreteria; B1; Technik/Computer/Smartphone; Lasciami un messaggio sulla segreteria telefonica, per favore.; Bitte sprich mir eine Nachricht auf die Mailbox.
+it-xb-0327; Flugmodus; la modalità aereo; ; B2; Technik/Computer/Smartphone; Per favore, ora metti il telefono in modalità aereo.; Bitte schalte dein Handy jetzt in den Flugmodus.
+it-xb-0328; Selfie; il selfie; ; A2; Technik/Computer/Smartphone; Abbiamo fatto un selfie davanti al Colosseo.; Wir haben vor dem Kolosseum ein Selfie gemacht.
+it-xb-0329; SIM-Karte; la scheda SIM; la SIM; B1; Technik/Computer/Smartphone; Mi serve una nuova scheda SIM per il telefono.; Ich brauche eine neue SIM-Karte für mein Handy.
+it-xb-0330; Handyvertrag; il contratto telefonico; il contratto del cellulare, l'abbonamento telefonico; B1; Technik/Computer/Smartphone; Il mio contratto telefonico scade il mese prossimo.; Mein Handyvertrag läuft nächsten Monat aus.
+it-xb-0331; Bildschirmzeit; il tempo davanti allo schermo; il tempo di utilizzo; B1; Technik/Computer/Smartphone; I bambini non dovrebbero passare troppo tempo davanti allo schermo.; Kinder sollten nicht zu viel Bildschirmzeit haben.
+it-xb-0332; Stecker; la spina; ; B1; Technik/Elektrik; Stacca la spina prima di pulire l'apparecchio.; Zieh den Stecker, bevor du das Gerät sauber machst.
+it-xb-0333; Verlängerungskabel; la prolunga; ; B2; Technik/Elektrik; Il cavo è troppo corto, ci serve una prolunga.; Das Kabel ist zu kurz, wir brauchen ein Verlängerungskabel.
+it-xb-0334; Schalter (für Strom); l'interruttore; ; A2; Technik/Elektrik; L'interruttore della luce è accanto alla porta.; Der Schalter für das Licht ist neben der Tür.
+it-xb-0335; einschalten; accendere; ; A2; Technik/Elektrik; Puoi accendere la luce, per favore?; Kannst du bitte das Licht einschalten?
+it-xb-0336; ausschalten; spegnere; ; A2; Technik/Elektrik; Non dimenticare di spegnere il computer.; Vergiss nicht, deinen Computer auszuschalten.
+it-xb-0337; Kurzschluss; il cortocircuito; ; C1; Technik/Elektrik; Un cortocircuito ha causato l'incendio in cucina.; Ein Kurzschluss hat das Feuer in der Küche verursacht.
+it-xb-0338; Stromausfall; il blackout; l'interruzione di corrente, la mancanza di corrente; B2; Technik/Elektrik; Durante il blackout siamo rimasti al buio.; Während des Stromausfalls saßen wir im Dunkeln.
+it-xb-0339; elektrisch; elettrico; ; A2; Technik/Elektrik; Da un mese abbiamo un'auto elettrica.; Seit einem Monat haben wir ein elektrisches Auto.
+it-xb-0340; Elektronik; l'elettronica; ; B1; Technik/Elektrik; Lui se ne intende molto di elettronica.; Er kennt sich gut mit Elektronik aus.
+it-xb-0341; Technik; la tecnica; la tecnologia; B1; Technik/Maschinen; La tecnica moderna ci semplifica la vita.; Die moderne Technik macht unser Leben leichter.
+it-xb-0342; technisch; tecnico; ; B1; Technik/Maschinen; Abbiamo avuto alcuni problemi tecnici con l'audio.; Wir hatten ein paar technische Probleme mit dem Ton.
+it-xb-0343; Maschine; la macchina; ; A2; Technik/Maschinen; Questa macchina produce mille bottiglie all'ora.; Diese Maschine stellt tausend Flaschen pro Stunde her.
+it-xb-0344; Automat; il distributore automatico; la macchinetta; B1; Technik/Maschinen; Ho preso una bibita al distributore automatico.; Ich habe mir am Automaten ein Getränk gekauft.
+it-xb-0345; Erfinder; l'inventore; l'inventrice; B1; Technik/Maschinen; Chi è stato l'inventore del telefono?; Wer war der Erfinder des Telefons?
+it-xb-0346; Sensor; il sensore; ; B2; Technik/Maschinen; Un sensore accende la luce automaticamente.; Ein Sensor schaltet das Licht automatisch ein.
+it-xb-0347; Mikrochip; il microchip; il chip; B2; Technik/Maschinen; Ogni carta bancaria contiene un piccolo microchip.; Jede Bankkarte enthält einen kleinen Mikrochip.
+it-xb-0348; analog; analogico; ; B2; Technik/Maschinen; Mio nonno usa ancora una macchina fotografica analogica.; Mein Großvater benutzt noch eine analoge Kamera.
+it-xb-0349; Mechanik; la meccanica; ; C1; Technik/Maschinen; Ha studiato la meccanica degli orologi antichi.; Er hat die Mechanik alter Uhren studiert.
+it-xb-0350; defekt; guasto; difettoso, rotto; B2; Technik/Maschinen; La macchina è guasta e deve essere riparata.; Die Maschine ist defekt und muss repariert werden.
+it-xb-0351; Störung; il guasto; il malfunzionamento, l'anomalia; C1; Technik/Maschinen; A causa di un guasto tecnico l'ascensore non funziona.; Wegen einer technischen Störung funktioniert der Aufzug nicht.
+it-xb-0352; Wartung; la manutenzione; ; B2; Technik/Maschinen; Tutte le macchine hanno bisogno di una manutenzione regolare.; Alle Maschinen brauchen regelmäßige Wartung.
+it-xb-0353; Gebrauchsanweisung; le istruzioni per l'uso; le istruzioni; B1; Technik/Maschinen; Leggi le istruzioni per l'uso prima di usare l'apparecchio.; Lies die Gebrauchsanweisung, bevor du das Gerät benutzt.
+it-xb-0354; Bauanleitung; le istruzioni di montaggio; ; B2; Technik/Maschinen; Senza le istruzioni di montaggio non riesco a montare lo scaffale.; Ohne die Bauanleitung kann ich das Regal nicht aufbauen.
+it-xb-0355; Handbuch; il manuale; ; B2; Technik/Maschinen; Tutti i dettagli si trovano nel manuale.; Alle Einzelheiten stehen im Handbuch.
+it-xb-0356; Lautstärke; il volume; ; A2; Technik/Maschinen; Puoi abbassare un po' il volume?; Kannst du die Lautstärke ein bisschen leiser machen?
+it-xb-0357; Holz; il legno; ; A2; Technik/Material; Il vecchio tavolo è di legno.; Der alte Tisch ist aus Holz.
+it-xb-0358; Metall; il metallo; ; A2; Technik/Material; Le sedie in giardino sono di metallo.; Die Stühle im Garten sind aus Metall.
+it-xb-0359; Stahl; l'acciaio; ; B1; Technik/Material; Il ponte è costruito in acciaio e cemento.; Die Brücke ist aus Stahl und Beton gebaut.
+it-xb-0360; Eisen; il ferro; ; B1; Technik/Material; Il vecchio cancello è di ferro massiccio.; Das alte Tor ist aus massivem Eisen.
+it-xb-0361; Kunststoff; la plastica; il materiale plastico; B1; Technik/Material; Molti giocattoli sono di plastica economica.; Viele Spielzeuge sind aus billigem Kunststoff.
+it-xb-0362; Gummi; la gomma; ; B1; Technik/Material; Le suole di questi stivali sono di gomma.; Die Sohlen dieser Stiefel sind aus Gummi.
+it-xb-0363; Draht; il filo metallico; il fil di ferro; B2; Technik/Material; Ha riparato la recinzione con un pezzo di filo metallico.; Er hat den Zaun mit einem Stück Draht repariert.
+it-xb-0364; Werkzeugkasten; la cassetta degli attrezzi; ; A2; Alltag/Zuhause/Werkzeug; Il martello è nella cassetta degli attrezzi in cantina.; Der Hammer ist im Werkzeugkasten im Keller.
+it-xb-0365; Bohrer; la punta da trapano; la punta; B2; Alltag/Zuhause/Werkzeug; Per i muri di cemento serve una punta da trapano speciale.; Für Betonwände brauchst du einen speziellen Bohrer.
+it-xb-0366; Schraubenschlüssel; la chiave inglese; ; B2; Alltag/Zuhause/Werkzeug; Mi serve una chiave inglese per riparare la bici.; Ich brauche einen Schraubenschlüssel, um mein Fahrrad zu reparieren.
+it-xb-0367; Schraubendreher; il cacciavite; ; B1; Alltag/Zuhause/Werkzeug; Mi serve un piccolo cacciavite per i miei occhiali.; Ich brauche einen kleinen Schraubendreher für meine Brille.
+it-xb-0368; Feile; la lima; ; C1; Alltag/Zuhause/Werkzeug; Leviga il bordo ruvido con una lima.; Glätte die raue Kante mit einer Feile.
+it-xb-0369; Meißel; lo scalpello; ; C1; Alltag/Zuhause/Werkzeug; Lo scultore lavora con martello e scalpello.; Der Bildhauer arbeitet mit Hammer und Meißel.
+it-xb-0370; Axt; l'ascia; la scure; B2; Alltag/Zuhause/Werkzeug; Ha spaccato la legna con una vecchia ascia.; Er hat das Holz mit einer alten Axt gehackt.
+it-xb-0371; Schaufel; la pala; il badile; B1; Alltag/Zuhause/Werkzeug; Abbiamo tolto la neve con una pala.; Wir haben den Schnee mit einer Schaufel weggeräumt.
+it-xb-0372; Bolzen; il bullone; ; C1; Alltag/Zuhause/Werkzeug; Lo scaffale è fissato al muro con due bulloni.; Das Regal ist mit zwei Bolzen an der Wand befestigt.
+it-xb-0373; Haken; il gancio; ; B1; Alltag/Zuhause/Werkzeug; Appendi il cappotto al gancio vicino alla porta.; Häng deinen Mantel an den Haken neben der Tür.
+it-xb-0374; Schnur; lo spago; la corda, il cordino; B1; Alltag/Zuhause/Werkzeug; Lega il pacco con un pezzo di spago.; Bind das Paket mit einem Stück Schnur zu.
+it-xb-0375; Klebstoff; la colla; l'adesivo; A2; Alltag/Zuhause/Werkzeug; Questa colla tiene legno, metallo e plastica.; Dieser Klebstoff hält Holz, Metall und Kunststoff.
+it-xb-0376; Schleifpapier; la carta vetrata; ; C1; Alltag/Zuhause/Werkzeug; Leviga il legno con la carta vetrata prima di verniciarlo.; Mach das Holz mit Schleifpapier glatt, bevor du es streichst.
+it-xb-0377; Farbroller; il rullo; il rullo per pittura; B2; Alltag/Zuhause/Werkzeug; Con un rullo puoi dipingere una parete in fretta.; Mit einem Farbroller kannst du eine Wand schnell streichen.
+it-xb-0378; Werkbank; il banco da lavoro; ; C1; Alltag/Zuhause/Werkzeug; Mio padre ha un banco da lavoro in garage.; Mein Vater hat eine Werkbank in der Garage.
+it-xb-0379; Brecheisen; il piede di porco; ; C1; Alltag/Zuhause/Werkzeug; I ladri hanno aperto la porta con un piede di porco.; Die Diebe haben die Tür mit einem Brecheisen geöffnet.
+it-xb-0380; Kettensäge; la motosega; ; B2; Alltag/Zuhause/Werkzeug; L'albero caduto è stato tagliato con una motosega.; Der umgestürzte Baum wurde mit einer Kettensäge zersägt.
+it-xb-0381; Taschenmesser; il coltellino tascabile; il temperino, il coltellino; B1; Alltag/Zuhause/Werkzeug; Quando fa escursioni porta sempre un coltellino tascabile.; Beim Wandern hat er immer ein Taschenmesser dabei.
+it-xb-0382; Lupe; la lente d'ingrandimento; ; B2; Alltag/Zuhause/Werkzeug; Mia nonna legge le scritte piccole con la lente d'ingrandimento.; Meine Großmutter liest das Kleingedruckte mit einer Lupe.
+it-xb-0383; bohren; forare; trapanare; B1; Alltag/Zuhause/Werkzeug; Per lo scaffale dobbiamo forare il muro due volte.; Für das Regal müssen wir zweimal in die Wand bohren.
+it-xb-0384; sägen; segare; ; B2; Alltag/Zuhause/Werkzeug; Ha segato l'asse in tre pezzi.; Er hat das Brett in drei Stücke gesägt.
+it-xb-0385; schrauben; avvitare; ; B1; Alltag/Zuhause/Werkzeug; Avvita bene la lampada al soffitto.; Schraub die Lampe gut an die Decke.
+it-xb-0386; hämmern; martellare; ; B1; Alltag/Zuhause/Werkzeug; Il nostro vicino sta martellando da tutta la mattina.; Unser Nachbar hämmert schon den ganzen Vormittag.
+it-xb-0387; festziehen; stringere; serrare; B2; Alltag/Zuhause/Werkzeug; Devi stringere di nuovo le viti.; Du musst die Schrauben noch einmal festziehen.
+it-xb-0388; lockern; allentare; ; B2; Alltag/Zuhause/Werkzeug; Prima allenta un po' la vite.; Lockere zuerst die Schraube ein bisschen.
+it-xb-0389; schweißen; saldare; ; C1; Alltag/Zuhause/Werkzeug; Le due parti di metallo vengono saldate insieme.; Die beiden Metallteile werden zusammengeschweißt.
+it-xb-0390; Schutzbrille; gli occhiali protettivi; gli occhiali di protezione; B1; Alltag/Zuhause/Werkzeug; Indossa sempre gli occhiali protettivi quando usi il trapano.; Trag immer eine Schutzbrille, wenn du die Bohrmaschine benutzt.
+it-xb-0391; Arbeitshandschuhe; i guanti da lavoro; ; B1; Alltag/Zuhause/Werkzeug; Metti i guanti da lavoro prima di toccare il vetro.; Zieh Arbeitshandschuhe an, bevor du das Glas anfasst.
+it-xb-0392; Medien; i media; i mezzi di comunicazione; A2; Medien/Kommunikation/Nachrichten & Presse; I media hanno parlato molto dell'incidente.; Die Medien haben viel über den Unfall berichtet.
+it-xb-0393; Massenmedien; i mass media; i mezzi di comunicazione di massa; B2; Medien/Kommunikation/Nachrichten & Presse; I mass media hanno una grande influenza sulle opinioni.; Die Massenmedien haben großen Einfluss auf Meinungen.
+it-xb-0394; Journalismus; il giornalismo; ; B2; Medien/Kommunikation/Nachrichten & Presse; Dopo la scuola vuole studiare giornalismo.; Sie will nach der Schule Journalismus studieren.
+it-xb-0395; Zeitungsartikel; l'articolo di giornale; l'articolo; A2; Medien/Kommunikation/Nachrichten & Presse; Ho letto un interessante articolo di giornale sui robot.; Ich habe einen interessanten Zeitungsartikel über Roboter gelesen.
+it-xb-0396; Tageszeitung; il quotidiano; ; B1; Medien/Kommunikation/Nachrichten & Presse; I miei genitori leggono il quotidiano a colazione.; Meine Eltern lesen beim Frühstück eine Tageszeitung.
+it-xb-0397; Lokalzeitung; il giornale locale; ; B1; Medien/Kommunikation/Nachrichten & Presse; Il giornale locale ha scritto del nostro concerto scolastico.; Die Lokalzeitung hat über unser Schulkonzert geschrieben.
+it-xb-0398; Wochenzeitung; il settimanale; ; B1; Medien/Kommunikation/Nachrichten & Presse; Il settimanale esce in edicola ogni giovedì.; Die Wochenzeitung erscheint jeden Donnerstag am Kiosk.
+it-xb-0399; Titelseite; la prima pagina; la copertina; B2; Medien/Kommunikation/Nachrichten & Presse; La notizia era in prima pagina su tutti i giornali.; Die Geschichte stand auf der Titelseite jeder Zeitung.
+it-xb-0400; Leserbrief; la lettera al direttore; ; B2; Medien/Kommunikation/Nachrichten & Presse; Mio nonno scrive spesso lettere al direttore.; Mein Großvater schreibt oft Leserbriefe.
+it-xb-0401; Kolumne; la rubrica; ; B2; Medien/Kommunikation/Nachrichten & Presse; Scrive una rubrica settimanale di cucina.; Sie schreibt eine wöchentliche Kolumne über Essen.
+it-xb-0402; Ausgabe (Zeitung); il numero; l'edizione; B2; Medien/Kommunikation/Nachrichten & Presse; Il nuovo numero della rivista esce lunedì.; Die neue Ausgabe der Zeitschrift erscheint am Montag.
+it-xb-0403; Nachrichtenagentur; l'agenzia di stampa; ; C1; Medien/Kommunikation/Nachrichten & Presse; La notizia arriva da un'agenzia di stampa internazionale.; Die Meldung stammt von einer internationalen Nachrichtenagentur.
+it-xb-0404; Bildunterschrift; la didascalia; ; C1; Medien/Kommunikation/Nachrichten & Presse; La didascalia sotto la foto indica il nome della città.; Die Bildunterschrift unter dem Foto nennt den Namen der Stadt.
+it-xb-0405; Kritiker; il critico; ; B2; Medien/Kommunikation/Nachrichten & Presse; I critici hanno adorato la nuova serie.; Die Kritiker waren von der neuen Serie begeistert.
+it-xb-0406; Abonnement; l'abbonamento; ; B1; Medien/Kommunikation/Nachrichten & Presse; Ho disdetto il mio abbonamento alla rivista.; Ich habe mein Abonnement der Zeitschrift gekündigt.
+it-xb-0407; Verleger; l'editore; l'editrice; B2; Medien/Kommunikation/Bücher & Lesen; L'editore vuole pubblicare il suo primo romanzo.; Der Verleger will ihren ersten Roman drucken.
+it-xb-0408; Veröffentlichung; la pubblicazione; ; B2; Medien/Kommunikation/Bücher & Lesen; La pubblicazione del libro è stata rinviata alla primavera.; Die Veröffentlichung des Buches wurde auf das Frühjahr verschoben.
+it-xb-0409; Hörbuch; l'audiolibro; ; A2; Medien/Kommunikation/Bücher & Lesen; Durante i lunghi viaggi in auto ascolto un audiolibro.; Auf langen Autofahrten höre ich ein Hörbuch.
+it-xb-0410; E-Book; l'e-book; l'ebook, il libro digitale; A2; Medien/Kommunikation/Bücher & Lesen; Oggi leggo la maggior parte dei libri in e-book.; Die meisten Bücher lese ich heute als E-Book.
+it-xb-0411; Titel; il titolo; ; A2; Medien/Kommunikation/Bücher & Lesen; Non ricordo il titolo del libro.; Ich kann mich nicht an den Titel des Buches erinnern.
+it-xb-0412; Inhaltsverzeichnis; l'indice; il sommario; B1; Medien/Kommunikation/Bücher & Lesen; Guarda nell'indice per trovare il capitolo.; Schau ins Inhaltsverzeichnis, um das Kapitel zu finden.
+it-xb-0413; Bestseller; il bestseller; il best seller; B1; Medien/Kommunikation/Bücher & Lesen; Il suo primo romanzo è diventato subito un bestseller.; Ihr erster Roman wurde schnell zum Bestseller.
+it-xb-0414; Nachrichtensendung; il telegiornale; il notiziario; B1; Medien/Kommunikation/Fernsehen & Radio; La sera guardiamo il telegiornale alle otto.; Wir sehen uns abends um acht die Nachrichtensendung an.
+it-xb-0415; Talkshow; il talk show; ; B1; Medien/Kommunikation/Fernsehen & Radio; Ieri la cantante era ospite in un talk show.; Die Sängerin war gestern Gast in einer Talkshow.
+it-xb-0416; Quizshow; il quiz televisivo; il quiz; A2; Medien/Kommunikation/Fernsehen & Radio; I miei nonni adorano guardare i quiz televisivi.; Meine Großeltern sehen sich gern Quizshows im Fernsehen an.
+it-xb-0417; Fernsehsender; il canale televisivo; l'emittente televisiva, il canale; B1; Medien/Kommunikation/Fernsehen & Radio; Il film va in onda su un altro canale televisivo.; Der Film läuft auf einem anderen Fernsehsender.
+it-xb-0418; Radiosender; la stazione radio; l'emittente radiofonica, la radio; A2; Medien/Kommunikation/Fernsehen & Radio; Quale stazione radio ascolti in macchina?; Welchen Radiosender hörst du im Auto?
+it-xb-0419; Rundfunk; la radiotelevisione; la radiodiffusione; C1; Medien/Kommunikation/Fernsehen & Radio; La radiotelevisione pubblica è finanziata con un canone.; Der öffentliche Rundfunk wird durch eine Gebühr finanziert.
+it-xb-0420; ausstrahlen; trasmettere; mandare in onda; B2; Medien/Kommunikation/Fernsehen & Radio; L'ultima puntata sarà trasmessa domenica prossima.; Die letzte Folge wird nächsten Sonntag ausgestrahlt.
+it-xb-0421; Aufnahme (Ton oder Video); la registrazione; ; B1; Medien/Kommunikation/Fernsehen & Radio; La qualità di questa vecchia registrazione non è molto buona.; Die Qualität dieser alten Aufnahme ist nicht sehr gut.
+it-xb-0422; aufnehmen (Ton oder Video); registrare; incidere; B1; Medien/Kommunikation/Fernsehen & Radio; La band ha registrato il nuovo album a Milano.; Die Band hat ihr neues Album in Mailand aufgenommen.
+it-xb-0423; Staffel (Serie); la stagione; ; B1; Medien/Kommunikation/Fernsehen & Radio; La terza stagione della serie inizia a maggio.; Die dritte Staffel der Serie beginnt im Mai.
+it-xb-0424; synchronisiert; doppiato; ; B2; Medien/Kommunikation/Fernsehen & Radio; In Italia quasi tutti i film stranieri sono doppiati.; In Italien sind fast alle ausländischen Filme synchronisiert.
+it-xb-0425; Kommentator; il commentatore; il telecronista; B2; Medien/Kommunikation/Fernsehen & Radio; Il commentatore si è entusiasmato moltissimo per il gol.; Der Kommentator geriet bei dem Tor ganz aus dem Häuschen.
+it-xb-0426; Antenne; l'antenna; ; B2; Medien/Kommunikation/Fernsehen & Radio; Il temporale ha danneggiato l'antenna sul nostro tetto.; Der Sturm hat die Antenne auf unserem Dach beschädigt.
+it-xb-0427; Satellitenschüssel; la parabola; l'antenna parabolica; B2; Medien/Kommunikation/Fernsehen & Radio; Su quasi ogni balcone c'è una parabola.; Auf fast jedem Balkon steht eine Satellitenschüssel.
+it-xb-0428; Streamingdienst; il servizio di streaming; la piattaforma di streaming; B1; Medien/Kommunikation/Fernsehen & Radio; Ormai guardiamo quasi tutte le serie su un servizio di streaming.; Die meisten Serien sehen wir jetzt bei einem Streamingdienst.
+it-xb-0429; Hashtag; l'hashtag; ; B1; Medien/Kommunikation/Social Media; Usa l'hashtag del festival nel tuo post.; Benutz in deinem Beitrag den Hashtag des Festivals.
+it-xb-0430; Emoji; l'emoji; l'emoticon; A2; Medien/Kommunikation/Social Media; Ha risposto al mio messaggio con un'emoji che ride.; Sie hat auf meine Nachricht mit einem lachenden Emoji geantwortet.
+it-xb-0431; viral; virale; ; B2; Medien/Kommunikation/Social Media; Il suo video divertente è diventato virale in poche ore.; Sein lustiges Video ging innerhalb weniger Stunden viral.
+it-xb-0432; Telefonnummer; il numero di telefono; ; A1; Medien/Kommunikation/Telefon & Post; Mi dai il tuo numero di telefono, per favore?; Kann ich bitte deine Telefonnummer haben?
+it-xb-0433; Vorwahl; il prefisso; il prefisso telefonico; B2; Medien/Kommunikation/Telefon & Post; Qual è il prefisso telefonico per Roma?; Wie lautet die Vorwahl für Rom?
+it-xb-0434; besetzt (Telefon); occupato; ; A2; Medien/Kommunikation/Telefon & Post; Ho chiamato tre volte, ma era sempre occupato.; Ich habe dreimal angerufen, aber es war immer besetzt.
+it-xb-0435; Hörer (Telefon); la cornetta; il ricevitore; B2; Medien/Kommunikation/Telefon & Post; Ha alzato la cornetta e ha composto il numero.; Sie nahm den Hörer ab und wählte die Nummer.
+it-xb-0436; Postleitzahl; il codice postale; il codice di avviamento postale; A1; Medien/Kommunikation/Telefon & Post; Non dimenticare il codice postale sulla busta.; Vergiss die Postleitzahl auf dem Umschlag nicht.
+it-xb-0437; Briefumschlag; la busta; ; A2; Medien/Kommunikation/Telefon & Post; Metti la lettera in una busta e attacca un francobollo.; Steck den Brief in einen Briefumschlag und kleb eine Marke drauf.
+it-xb-0438; Briefkasten; la cassetta delle lettere; la buca delle lettere, la cassetta postale; A2; Medien/Kommunikation/Telefon & Post; Nella cassetta delle lettere c'era una cartolina dalla Spagna.; Im Briefkasten war eine Postkarte aus Spanien.
+it-xb-0439; Päckchen; il pacchetto; il piccolo pacco; B1; Medien/Kommunikation/Telefon & Post; Mia nonna mi ha mandato un pacchetto con dei biscotti.; Meine Oma hat mir ein Päckchen mit Keksen geschickt.
+it-xb-0440; Einschreiben; la raccomandata; la lettera raccomandata; B2; Medien/Kommunikation/Telefon & Post; I documenti importanti andrebbero spediti per raccomandata.; Wichtige Dokumente sollte man per Einschreiben schicken.

@@ -1,0 +1,489 @@
+# Italienisch: Ausbau Grundwörter – themenübergreifende Verben, Adjektive, kleine Wörter, Zeit, Raum, Mengen, Denken und Sprechen, Gefühle und Charakter
+id; Deutsch; Italienisch; Weitere Antworten; Niveau; Themen; Beispiel Italienisch; Beispiel Deutsch
+it-xe-0001; aufhören; smettere; ; A2; Allgemein/Verben; Per favore, smetti di parlare e ascoltami.; Bitte hör auf zu reden und hör mir zu.
+it-xe-0002; benutzen; usare; utilizzare; A2; Allgemein/Verben; Posso usare un attimo il tuo cellulare?; Darf ich kurz dein Handy benutzen?
+it-xe-0003; hängen; appendere; ; A2; Allgemein/Verben; Appendo la giacca al gancio vicino alla porta.; Ich hänge meine Jacke an den Haken neben der Tür.
+it-xe-0004; fehlen; mancare; ; A2; Allgemein/Verben; Alla mia camicia nuova manca un bottone.; An meinem neuen Hemd fehlt ein Knopf.
+it-xe-0005; holen; andare a prendere; prendere; A2; Allgemein/Verben; Puoi andarmi a prendere un bicchiere d'acqua?; Kannst du mir ein Glas Wasser holen?
+it-xe-0006; bewegen; muovere; spostare; A2; Allgemein/Verben; Per il freddo non riesco a muovere le dita.; Vor Kälte kann ich meine Finger nicht bewegen.
+it-xe-0007; drehen; girare; ruotare; A2; Allgemein/Verben; Gira la chiave due volte per aprire la porta.; Dreh den Schlüssel zweimal, um die Tür zu öffnen.
+it-xe-0008; enden; finire; terminare; A2; Allgemein/Verben; La storia finisce con un grande matrimonio.; Die Geschichte endet mit einer großen Hochzeit.
+it-xe-0009; drücken; premere; spingere; A2; Allgemein/Verben; Premi il pulsante verde per avviare la macchina.; Drück den grünen Knopf, um die Maschine zu starten.
+it-xe-0010; stören; disturbare; dare fastidio; A2; Allgemein/Verben; Scusa se ti disturbo, ma ho una domanda.; Entschuldigung, dass ich störe, aber ich habe eine Frage.
+it-xe-0011; verstecken; nascondere; ; A2; Allgemein/Verben; Dove hai nascosto i regali di compleanno?; Wo hast du die Geburtstagsgeschenke versteckt?
+it-xe-0012; wecken; svegliare; ; A2; Allgemein/Verben; Per favore, svegliami domani mattina alle sette.; Bitte weck mich morgen früh um sieben.
+it-xe-0013; mischen; mescolare; mischiare; A2; Allgemein/Verben; Mescola insieme il colore blu e quello giallo.; Misch die blaue und die gelbe Farbe zusammen.
+it-xe-0014; heben; sollevare; alzare; B1; Allgemein/Verben; Puoi aiutarmi a sollevare questa scatola pesante?; Kannst du mir helfen, diese schwere Kiste zu heben?
+it-xe-0015; schaffen (bewältigen); farcela; riuscirci; B1; Allgemein/Verben; Non preoccuparti, ce la farai senza problemi.; Keine Sorge, du schaffst das leicht.
+it-xe-0016; sich verlassen; contare su; fidarsi di; B1; Allgemein/Verben; Puoi sempre contare sulla tua migliore amica.; Auf deine beste Freundin kannst du dich immer verlassen.
+it-xe-0017; sich gewöhnen; abituarsi; ; B1; Allgemein/Verben; Piano piano mi sono abituato al freddo.; Ich habe mich langsam an das kalte Wetter gewöhnt.
+it-xe-0018; sich lohnen; valere la pena; ; B1; Allgemein/Verben; La lunga camminata fino in cima ne è valsa la pena.; Der lange Weg nach oben hat sich gelohnt.
+it-xe-0019; sich beteiligen; partecipare; prendere parte; B1; Allgemein/Verben; Tutti in classe hanno partecipato alla discussione.; Alle in der Klasse haben sich an der Diskussion beteiligt.
+it-xe-0020; sich einigen; mettersi d'accordo; accordarsi; B1; Allgemein/Verben; Finalmente ci siamo messi d'accordo su una data per la festa.; Wir haben uns endlich auf einen Termin für die Party geeinigt.
+it-xe-0021; sich weigern; rifiutarsi; ; B1; Allgemein/Verben; Si è rifiutato di rispondere alla mia domanda.; Er weigerte sich, meine Frage zu beantworten.
+it-xe-0022; begleiten; accompagnare; ; B1; Allgemein/Verben; Domani puoi accompagnarmi dal medico?; Kannst du mich morgen zum Arzt begleiten?
+it-xe-0023; belohnen; premiare; ricompensare; B1; Allgemein/Verben; Il cane è stato premiato con un biscottino.; Der Hund wurde mit einem Leckerli belohnt.
+it-xe-0024; verwenden; utilizzare; usare; B1; Allgemein/Verben; Per questa zuppa utilizziamo solo verdure fresche.; Für diese Suppe verwenden wir nur frisches Gemüse.
+it-xe-0025; nutzen; sfruttare; utilizzare; B1; Allgemein/Verben; Sfrutta il tempo libero per rilassarti un po'.; Nutze die freie Zeit, um dich ein bisschen zu entspannen.
+it-xe-0026; beobachten; osservare; ; B1; Allgemein/Verben; Abbiamo osservato gli uccelli dalla finestra della cucina.; Wir haben die Vögel vom Küchenfenster aus beobachtet.
+it-xe-0027; bestimmen; decidere; stabilire; B1; Allgemein/Verben; Chi decide cosa facciamo questo fine settimana?; Wer bestimmt, was wir am Wochenende machen?
+it-xe-0028; bieten; offrire; ; B1; Allgemein/Verben; L'albergo offre una splendida vista sul mare.; Das Hotel bietet einen wunderbaren Blick aufs Meer.
+it-xe-0029; erstellen; creare; compilare; B1; Allgemein/Verben; Per favore, crea un elenco di tutti i partecipanti.; Bitte erstelle eine Liste aller Teilnehmer.
+it-xe-0030; garantieren; garantire; ; B1; Allgemein/Verben; Non posso garantire che funzioni.; Ich kann nicht garantieren, dass es funktioniert.
+it-xe-0031; genügen; bastare; ; B1; Allgemein/Verben; Mi basta un piccolo pezzo di torta.; Ein kleines Stück Kuchen genügt mir.
+it-xe-0032; greifen; afferrare; ; B1; Allgemein/Verben; Afferrò la corda con entrambe le mani.; Er griff mit beiden Händen nach dem Seil.
+it-xe-0033; retten; salvare; soccorrere; B1; Allgemein/Verben; I vigili del fuoco hanno salvato il gatto dall'albero.; Die Feuerwehr hat die Katze vom Baum gerettet.
+it-xe-0034; stecken; infilare; mettere; B1; Allgemein/Verben; Infilò la lettera nella tasca del cappotto.; Er steckte den Brief in seine Manteltasche.
+it-xe-0035; tauschen; scambiare; ; B1; Allgemein/Verben; Ci scambiamo i posti, così vedi meglio?; Sollen wir die Plätze tauschen, damit du besser sehen kannst?
+it-xe-0036; überraschen; sorprendere; ; B1; Allgemein/Verben; Vogliamo sorprendere la mamma per il suo compleanno.; Wir wollen Mama an ihrem Geburtstag überraschen.
+it-xe-0037; verbieten; vietare; proibire; B1; Allgemein/Verben; I miei genitori mi vietano di restare fuori fino a tardi.; Meine Eltern verbieten mir, lange wegzubleiben.
+it-xe-0038; verschwinden; sparire; scomparire; B1; Allgemein/Verben; Stamattina le mie chiavi sono sparite di nuovo.; Meine Schlüssel sind heute Morgen schon wieder verschwunden.
+it-xe-0039; kleben; incollare; attaccare; A2; Allgemein/Verben; Incolla la foto al centro della pagina.; Kleb das Foto in die Mitte der Seite.
+it-xe-0040; rollen; rotolare; ; A2; Allgemein/Verben; La palla è rotolata lentamente sotto la macchina.; Der Ball rollte langsam unter das Auto.
+it-xe-0041; rutschen; scivolare; ; A2; Allgemein/Verben; Attento, potresti scivolare sul ghiaccio.; Pass auf, du könntest auf dem Eis rutschen.
+it-xe-0042; sich verabschieden; salutarsi; congedarsi, salutare; A2; Allgemein/Verben; Alla stazione ci siamo salutati con i nostri amici.; Wir haben uns am Bahnhof von unseren Freunden verabschiedet.
+it-xe-0043; sich bedanken; ringraziare; ; A2; Allgemein/Verben; Non dimenticare di ringraziare per il regalo.; Vergiss nicht, dich für das Geschenk zu bedanken.
+it-xe-0044; sich streiten; litigare; ; A2; Allgemein/Verben; Io e mio fratello litighiamo spesso per la televisione.; Mein Bruder und ich streiten uns oft um den Fernseher.
+it-xe-0045; verteilen; distribuire; ; B1; Allgemein/Verben; L'insegnante ha distribuito le schede a tutti.; Die Lehrerin verteilte die Arbeitsblätter an alle.
+it-xe-0046; interessieren; interessare; ; B1; Allgemein/Verben; La politica non mi interessa per niente.; Politik interessiert mich überhaupt nicht.
+it-xe-0047; ausreichen; essere sufficiente; bastare; B1; Allgemein/Verben; I soldi non saranno sufficienti per una macchina nuova.; Das Geld wird für ein neues Auto nicht ausreichen.
+it-xe-0048; beschädigen; danneggiare; ; B1; Allgemein/Verben; La tempesta ha danneggiato il tetto della nostra casa.; Der Sturm hat das Dach unseres Hauses beschädigt.
+it-xe-0049; biegen; piegare; ; B1; Allgemein/Verben; Ha piegato il filo di ferro a mani nude.; Er bog den Draht mit bloßen Händen.
+it-xe-0050; erledigen; sbrigare; ; B1; Allgemein/Verben; Oggi devo ancora sbrigare un paio di cose.; Ich muss heute noch ein paar Sachen erledigen.
+it-xe-0051; ergänzen; aggiungere; completare; B1; Allgemein/Verben; Vuoi aggiungere ancora qualcosa alla lista?; Möchtest du noch etwas auf der Liste ergänzen?
+it-xe-0052; festhalten; tenersi forte; reggersi; B1; Allgemein/Verben; Tieniti forte, l'autobus sta per partire.; Halt dich gut fest, der Bus fährt gleich los.
+it-xe-0053; lehnen; appoggiare; ; B1; Allgemein/Verben; Ha appoggiato la bicicletta contro il muro.; Er lehnte sein Fahrrad an die Wand.
+it-xe-0054; markieren; segnare; evidenziare; B1; Allgemein/Verben; Segna le parole importanti con una penna gialla.; Markiere die wichtigen Wörter mit einem gelben Stift.
+it-xe-0055; verändern; cambiare; trasformare; B1; Allgemein/Verben; Il nuovo lavoro gli ha cambiato completamente la vita.; Die neue Stelle hat sein Leben völlig verändert.
+it-xe-0056; zerstören; distruggere; ; B1; Allgemein/Verben; L'incendio ha distrutto il vecchio ponte di legno.; Das Feuer zerstörte die alte Holzbrücke.
+it-xe-0057; zusammenarbeiten; collaborare; lavorare insieme; B1; Allgemein/Verben; Abbiamo collaborato al progetto per settimane.; Wir haben wochenlang an dem Projekt zusammengearbeitet.
+it-xe-0058; loslassen; lasciare andare; mollare; B1; Allgemein/Verben; In mezzo alla folla non lasciare andare la mia mano.; Lass in der Menge meine Hand nicht los.
+it-xe-0059; aufheben (vom Boden); raccogliere; ; B1; Allgemein/Verben; Per favore, raccogli i tuoi vestiti da terra.; Bitte heb deine Kleider vom Boden auf.
+it-xe-0060; erwischen; prendere; beccare; B1; Allgemein/Verben; Siamo riusciti a prendere l'ultimo autobus per tornare a casa.; Wir haben gerade noch den letzten Bus nach Hause erwischt.
+it-xe-0061; klappen; andare bene; funzionare; B1; Allgemein/Verben; Spero che con il tuo nuovo appartamento vada tutto bene.; Ich hoffe, mit deiner neuen Wohnung klappt alles.
+it-xe-0062; sich kümmern; occuparsi; prendersi cura; B1; Allgemein/Verben; Chi si occupa del tuo gatto quando sei via?; Wer kümmert sich um deine Katze, wenn du weg bist?
+it-xe-0063; sich anstrengen; impegnarsi; sforzarsi; B1; Allgemein/Verben; Se ti impegni, supererai la verifica.; Wenn du dich anstrengst, bestehst du den Test.
+it-xe-0064; sich trauen; avere il coraggio; osare; B1; Allgemein/Verben; Non ho avuto il coraggio di chiedere alla professoressa.; Ich habe mich nicht getraut, die Lehrerin zu fragen.
+it-xe-0065; sich wundern; stupirsi; meravigliarsi; B1; Allgemein/Verben; Mi sono stupito che nessuno sia venuto alla festa.; Ich habe mich gewundert, dass niemand zur Party kam.
+it-xe-0066; betreffen; riguardare; ; B2; Allgemein/Verben; Le nuove regole riguardano tutti gli studenti della scuola.; Die neuen Regeln betreffen alle Schüler der Schule.
+it-xe-0067; darstellen; rappresentare; raffigurare; B2; Allgemein/Verben; Il quadro rappresenta un tranquillo paese in riva a un lago.; Das Gemälde stellt ein ruhiges Dorf an einem See dar.
+it-xe-0068; entsprechen; corrispondere; ; B2; Allgemein/Verben; Il risultato corrisponde esattamente alle nostre aspettative.; Das Ergebnis entspricht genau unseren Erwartungen.
+it-xe-0069; entstehen; nascere; sorgere; B2; Allgemein/Verben; Durante la conversazione è nata una nuova idea.; Während des Gesprächs entstand eine neue Idee.
+it-xe-0070; erzeugen; generare; produrre; B2; Allgemein/Verben; Questo rumore continuo genera molto stress.; Dieser ständige Lärm erzeugt viel Stress.
+it-xe-0071; gelten; valere; essere valido; B2; Allgemein/Verben; Questa regola vale per tutti in classe.; Diese Regel gilt für alle in der Klasse.
+it-xe-0072; gleichen; somigliare; assomigliare; B2; Allgemein/Verben; Le due sorelle si somigliano moltissimo.; Die beiden Schwestern gleichen sich sehr.
+it-xe-0073; senken; abbassare; ridurre; B2; Allgemein/Verben; Questa settimana il negozio ha abbassato i prezzi.; Der Laden hat diese Woche seine Preise gesenkt.
+it-xe-0074; wagen; osare; ; B2; Allgemein/Verben; Nessuno osò dire una sola parola.; Niemand wagte es, ein einziges Wort zu sagen.
+it-xe-0075; sich eignen; essere adatto; prestarsi; B2; Allgemein/Verben; Questa stanza è adatta per piccole riunioni.; Dieser Raum eignet sich für kleine Treffen.
+it-xe-0076; sich bemühen; sforzarsi; impegnarsi; B2; Allgemein/Verben; Si è davvero sforzata di essere gentile.; Sie hat sich wirklich bemüht, freundlich zu sein.
+it-xe-0077; befestigen; fissare; attaccare; B2; Allgemein/Verben; Fissa il cartello alla porta con il nastro adesivo.; Befestige das Schild mit Klebeband an der Tür.
+it-xe-0078; bewahren; mantenere; conservare; B2; Allgemein/Verben; Cerca di mantenere la calma in una situazione difficile.; Versuch, in einer schwierigen Situation die Ruhe zu bewahren.
+it-xe-0079; erneuern; rinnovare; ; B2; Allgemein/Verben; Il mese prossimo devo rinnovare il passaporto.; Ich muss nächsten Monat meinen Reisepass erneuern lassen.
+it-xe-0080; stützen; sostenere; reggere; B2; Allgemein/Verben; Vecchie travi sostengono il tetto del fienile.; Alte Balken stützen das Dach der Scheune.
+it-xe-0081; verbergen; nascondere; celare; B2; Allgemein/Verben; Cercò di nascondere la sua delusione.; Sie versuchte, ihre Enttäuschung zu verbergen.
+it-xe-0082; verdecken; coprire; ; B2; Allgemein/Verben; Per un po' una grande nuvola coprì il sole.; Eine große Wolke verdeckte eine Weile die Sonne.
+it-xe-0083; vereinfachen; semplificare; ; B2; Allgemein/Verben; La nuova app semplifica molte attività quotidiane.; Die neue App vereinfacht viele alltägliche Aufgaben.
+it-xe-0084; verkürzen; accorciare; ; B2; Allgemein/Verben; La nuova strada accorcia il viaggio di un'ora.; Die neue Straße verkürzt die Fahrt um eine Stunde.
+it-xe-0085; versorgen; rifornire; fornire; B2; Allgemein/Verben; La fattoria rifornisce il paese di latte fresco.; Der Bauernhof versorgt das Dorf mit frischer Milch.
+it-xe-0086; verstärken; rafforzare; ; B2; Allgemein/Verben; La brutta notizia ha rafforzato le sue paure.; Die schlechte Nachricht verstärkte seine Ängste.
+it-xe-0087; vertreten; rappresentare; ; B2; Allgemein/Verben; Rappresenta la nostra classe nel consiglio d'istituto.; Sie vertritt unsere Klasse in der Schülervertretung.
+it-xe-0088; toll; fantastico; stupendo; A1; Allgemein/Adjektive; Al mare abbiamo passato dei giorni fantastici.; Wir hatten am Strand eine tolle Zeit.
+it-xe-0089; fertig; finito; pronto; A1; Allgemein/Adjektive; Hai già finito i compiti?; Bist du schon mit deinen Hausaufgaben fertig?
+it-xe-0090; hell; luminoso; chiaro; A2; Allgemein/Adjektive; Il nostro nuovo appartamento è grande e molto luminoso.; Unsere neue Wohnung ist groß und sehr hell.
+it-xe-0091; komisch; strano; ; A2; Allgemein/Adjektive; In cucina c'è uno strano odore.; In der Küche riecht es komisch.
+it-xe-0092; kompliziert; complicato; ; A2; Allgemein/Adjektive; Le istruzioni del gioco sono molto complicate.; Die Anleitung für das Spiel ist sehr kompliziert.
+it-xe-0093; unmöglich; impossibile; ; A2; Allgemein/Adjektive; È impossibile finire tutto entro domani.; Es ist unmöglich, das bis morgen fertig zu machen.
+it-xe-0094; verboten; vietato; proibito; A2; Allgemein/Adjektive; È vietato fumare in tutto l'edificio.; Rauchen ist im ganzen Gebäude verboten.
+it-xe-0095; verrückt; pazzo; folle; A2; Allgemein/Adjektive; È un'idea pazza, ma mi piace.; Das ist eine verrückte Idee, aber sie gefällt mir.
+it-xe-0096; wach; sveglio; ; A2; Allgemein/Adjektive; Sono rimasto sveglio metà della notte.; Ich war die halbe Nacht wach.
+it-xe-0097; wild; selvaggio; scatenato; A2; Allgemein/Adjektive; In questo parco nazionale vivono molti animali selvaggi.; In diesem Nationalpark leben viele wilde Tiere.
+it-xe-0098; normal; normale; ; A2; Allgemein/Adjektive; È normale essere nervosi prima di una verifica.; Es ist normal, vor einer Prüfung nervös zu sein.
+it-xe-0099; schlimm; brutto; grave; A2; Allgemein/Adjektive; Stamattina il traffico era davvero brutto.; Der Verkehr war heute Morgen wirklich schlimm.
+it-xe-0100; echt; vero; autentico; A2; Allgemein/Adjektive; È un diamante vero o un falso?; Ist das ein echter Diamant oder eine Fälschung?
+it-xe-0101; nötig; necessario; ; A2; Allgemein/Adjektive; È davvero necessario chiamarlo adesso?; Ist es wirklich nötig, ihn jetzt anzurufen?
+it-xe-0102; witzig; divertente; spiritoso; A2; Allgemein/Adjektive; Ci ha raccontato una storia molto divertente.; Er hat uns eine sehr witzige Geschichte erzählt.
+it-xe-0103; unfair; ingiusto; ; A2; Allgemein/Adjektive; È ingiusto che debba sempre lavare i piatti io.; Es ist unfair, dass ich immer abwaschen muss.
+it-xe-0104; kühl; fresco; ; A2; Allgemein/Adjektive; Conserva il medicinale in un luogo fresco.; Bewahre das Medikament an einem kühlen Ort auf.
+it-xe-0105; bekannt; conosciuto; noto; A2; Allgemein/Adjektive; La città è conosciuta per il suo antico castello.; Die Stadt ist für ihr altes Schloss bekannt.
+it-xe-0106; eigen; proprio; ; B1; Allgemein/Adjektive; Ognuno di noi ha le proprie idee.; Jeder von uns hat seine eigenen Ideen.
+it-xe-0107; sorgfältig; accurato; scrupoloso; B1; Allgemein/Adjektive; Fa sempre un lavoro molto accurato.; Sie macht immer eine sehr sorgfältige Arbeit.
+it-xe-0108; einzig; unico; solo; B1; Allgemein/Adjektive; È l'unica persona che conosce la risposta.; Sie ist die einzige Person, die die Antwort kennt.
+it-xe-0109; geheim; segreto; ; B1; Allgemein/Adjektive; Il piano deve restare segreto fino a venerdì.; Der Plan muss bis Freitag geheim bleiben.
+it-xe-0110; glatt (Oberfläche); liscio; ; B1; Allgemein/Adjektive; Dopo anni nel fiume la pietra è completamente liscia.; Der Stein ist nach Jahren im Fluss ganz glatt.
+it-xe-0111; korrekt; corretto; giusto; B1; Allgemein/Adjektive; Tutte le tue risposte nella verifica erano corrette.; Alle deine Antworten im Test waren korrekt.
+it-xe-0112; locker; allentato; ; B1; Allgemein/Adjektive; Questa vite è allentata, devo stringerla.; Diese Schraube ist locker, ich muss sie festziehen.
+it-xe-0113; merkwürdig; strano; curioso; B1; Allgemein/Adjektive; Ieri mi è successa una cosa strana.; Gestern ist mir etwas Merkwürdiges passiert.
+it-xe-0114; passend; adatto; giusto; B1; Allgemein/Adjektive; Non trovo un regalo adatto per lei.; Ich finde kein passendes Geschenk für sie.
+it-xe-0115; rein; puro; ; B1; Allgemein/Adjektive; Questo maglione è di pura lana.; Dieser Pullover ist aus reiner Wolle.
+it-xe-0116; üblich; usuale; abituale; B1; Allgemein/Adjektive; Qui è usuale lasciare circa il dieci per cento di mancia.; Hier ist es üblich, etwa zehn Prozent Trinkgeld zu geben.
+it-xe-0117; verschieden; diverso; vario; B1; Allgemein/Adjektive; I gemelli hanno interessi molto diversi.; Die Zwillinge haben ganz verschiedene Interessen.
+it-xe-0118; zusätzlich; supplementare; aggiuntivo, extra; B1; Allgemein/Adjektive; Per la colazione c'è un costo supplementare.; Für das Frühstück gibt es eine zusätzliche Gebühr.
+it-xe-0119; angenehm; piacevole; gradevole; B1; Allgemein/Adjektive; Abbiamo passato una serata piacevole con i nostri vicini.; Wir hatten einen angenehmen Abend mit unseren Nachbarn.
+it-xe-0120; unangenehm; sgradevole; spiacevole; B1; Allgemein/Adjektive; L'odore in cantina è molto sgradevole.; Der Geruch im Keller ist sehr unangenehm.
+it-xe-0121; ausgezeichnet; eccellente; ottimo; B1; Allgemein/Adjektive; Il cibo di questo ristorante è eccellente.; Das Essen in diesem Restaurant ist ausgezeichnet.
+it-xe-0122; winzig; minuscolo; piccolissimo; B1; Allgemein/Adjektive; Abbiamo dormito in una stanza minuscola sotto il tetto.; Wir wohnten in einem winzigen Zimmer unter dem Dach.
+it-xe-0123; direkt; diretto; ; B1; Allgemein/Adjektive; C'è un treno diretto per Monaco?; Gibt es einen direkten Zug nach München?
+it-xe-0124; unbekannt; sconosciuto; ignoto; B1; Allgemein/Adjektive; La causa dell'incendio è ancora sconosciuta.; Die Ursache des Feuers ist noch unbekannt.
+it-xe-0125; sichtbar; visibile; ; B1; Allgemein/Adjektive; Le montagne sono visibili solo nelle giornate limpide.; Die Berge sind nur an klaren Tagen sichtbar.
+it-xe-0126; unsichtbar; invisibile; ; B1; Allgemein/Adjektive; Nella storia il ragazzo può diventare invisibile.; In der Geschichte kann der Junge unsichtbar werden.
+it-xe-0127; lebendig; vivo; ; B1; Allgemein/Adjektive; Il pesce nel secchio era ancora vivo.; Der Fisch im Eimer war noch lebendig.
+it-xe-0128; nutzlos; inutile; ; B1; Allgemein/Adjektive; Questa vecchia cartina adesso è del tutto inutile.; Diese alte Karte ist jetzt völlig nutzlos.
+it-xe-0129; logisch; logico; ; B1; Allgemein/Adjektive; Deve esserci per forza una spiegazione logica.; Dafür muss es eine logische Erklärung geben.
+it-xe-0130; sinnvoll; sensato; ; B1; Allgemein/Adjektive; Sarebbe sensato partire un po' prima.; Es wäre sinnvoll, etwas früher loszufahren.
+it-xe-0131; negativ; negativo; ; B1; Allgemein/Adjektive; Non pensare sempre alle cose negative.; Denk nicht immer an die negativen Dinge.
+it-xe-0132; ideal; ideale; ; B1; Allgemein/Adjektive; Il tempo era ideale per un giro in bicicletta.; Das Wetter war ideal für eine Radtour.
+it-xe-0133; fein; fine; ; B1; Allgemein/Adjektive; La sabbia di questa spiaggia è molto fine.; Der Sand an diesem Strand ist sehr fein.
+it-xe-0134; gemischt; misto; ; B1; Allgemein/Adjektive; A pranzo ho ordinato un'insalata mista.; Zum Mittagessen habe ich einen gemischten Salat bestellt.
+it-xe-0135; vollständig; completo; ; B1; Allgemein/Adjektive; Per favore, porta un elenco completo dei tuoi libri.; Bitte bring eine vollständige Liste deiner Bücher mit.
+it-xe-0136; hervorragend; eccezionale; eccellente; B2; Allgemein/Adjektive; Nello spettacolo teatrale ha dato una prova eccezionale.; Sie hat in dem Theaterstück eine hervorragende Leistung gezeigt.
+it-xe-0137; gewaltig; enorme; immenso; B2; Allgemein/Adjektive; Un'onda enorme colpì la piccola barca.; Eine gewaltige Welle traf das kleine Boot.
+it-xe-0138; eindeutig; chiaro; inequivocabile; B2; Allgemein/Adjektive; Il risultato della votazione è stato chiaro.; Das Ergebnis der Abstimmung war eindeutig.
+it-xe-0139; entscheidend; decisivo; cruciale; B2; Allgemein/Adjektive; I prossimi giorni saranno decisivi.; Die nächsten Tage werden entscheidend sein.
+it-xe-0140; ausreichend; sufficiente; ; B2; Allgemein/Adjektive; Non c'era tempo sufficiente per le domande.; Es gab nicht ausreichend Zeit für Fragen.
+it-xe-0141; indirekt; indiretto; ; B2; Allgemein/Adjektive; La sua risposta era una critica indiretta al progetto.; Seine Antwort war eine indirekte Kritik am Plan.
+it-xe-0142; konkret; concreto; ; B2; Allgemein/Adjektive; Puoi farmi un esempio concreto?; Kannst du mir ein konkretes Beispiel geben?
+it-xe-0143; sinnlos; senza senso; insensato, inutile; B2; Allgemein/Adjektive; Questa è proprio una discussione senza senso.; Das ist wirklich eine sinnlose Diskussion.
+it-xe-0144; sanft; dolce; delicato; B2; Allgemein/Adjektive; Ha svegliato il bambino con voce dolce.; Sie weckte das Baby mit sanfter Stimme.
+it-xe-0145; gleichmäßig; uniforme; regolare; B2; Allgemein/Adjektive; Spalma il burro sul pane in modo uniforme.; Verteile die Butter gleichmäßig auf dem Brot.
+it-xe-0146; in; in; ; A1; Allgemein/Kleine Wörter; Abito in una piccola città vicino a Bologna.; Ich wohne in einer kleinen Stadt bei Bologna.
+it-xe-0147; an; a; su; A1; Allgemein/Kleine Wörter; C'è qualcuno che aspetta alla porta.; An der Tür wartet jemand.
+it-xe-0148; bei; da; presso; A1; Allgemein/Kleine Wörter; Questo fine settimana sto da mia zia.; Ich bin dieses Wochenende bei meiner Tante.
+it-xe-0149; so; così; ; A1; Allgemein/Kleine Wörter; Sono così stanco dopo la lunga giornata.; Ich bin nach dem langen Tag so müde.
+it-xe-0150; denn; perché; infatti, poiché; A1; Allgemein/Kleine Wörter; Resto a casa, perché sono malato.; Ich bleibe zu Hause, denn ich bin krank.
+it-xe-0151; gern; volentieri; con piacere; A1; Allgemein/Kleine Wörter; Ti aiuto volentieri con le scatole.; Ich helfe dir gern mit den Kisten.
+it-xe-0152; niemand; nessuno; ; A2; Allgemein/Kleine Wörter; A casa nessuno ha risposto al telefono.; Zu Hause ist niemand ans Telefon gegangen.
+it-xe-0153; über (Thema); di; su; A2; Allgemein/Kleine Wörter; Abbiamo parlato dei nostri programmi per l'estate.; Wir haben über unsere Pläne für den Sommer gesprochen.
+it-xe-0154; wieso; come mai; perché; A2; Allgemein/Kleine Wörter; Come mai non me l'hai detto prima?; Wieso hast du mir das nicht früher gesagt?
+it-xe-0155; trotzdem; comunque; lo stesso, ugualmente; A2; Allgemein/Kleine Wörter; Pioveva, ma siamo andati a fare una passeggiata comunque.; Es regnete, trotzdem gingen wir spazieren.
+it-xe-0156; wegen; a causa di; per; A2; Allgemein/Kleine Wörter; La partita è stata annullata a causa della pioggia.; Das Spiel wurde wegen des Regens abgesagt.
+it-xe-0157; ab; a partire da; da; A2; Allgemein/Kleine Wörter; Il negozio è aperto a partire dalle nove.; Der Laden ist ab neun Uhr geöffnet.
+it-xe-0158; bevor; prima di; prima che; A2; Allgemein/Kleine Wörter; Lavati le mani prima di mangiare.; Wasch dir die Hände, bevor du isst.
+it-xe-0159; eigentlich; in realtà; veramente; A2; Allgemein/Kleine Wörter; In realtà oggi volevo restare a casa.; Eigentlich wollte ich heute zu Hause bleiben.
+it-xe-0160; leider; purtroppo; ; A2; Allgemein/Kleine Wörter; Purtroppo non posso venire alla tua festa.; Leider kann ich nicht zu deiner Party kommen.
+it-xe-0161; hoffentlich; speriamo; ; A2; Allgemein/Kleine Wörter; Speriamo che domani il tempo sia migliore.; Hoffentlich ist das Wetter morgen besser.
+it-xe-0162; also; quindi; allora, dunque; A2; Allgemein/Kleine Wörter; È tardi, quindi andiamo a casa.; Es ist spät, also lass uns nach Hause gehen.
+it-xe-0163; bestimmt; sicuramente; di sicuro, certamente; A2; Allgemein/Kleine Wörter; Stasera Giulia ti chiamerà sicuramente.; Giulia ruft dich heute Abend bestimmt an.
+it-xe-0164; einander; l'un l'altro; a vicenda; B1; Allgemein/Kleine Wörter; I due vecchi amici si aiutano l'un l'altro da anni.; Die beiden alten Freunde helfen einander seit Jahren.
+it-xe-0165; deswegen; per questo; perciò; B1; Allgemein/Kleine Wörter; L'autobus era in ritardo, per questo ho perso il film.; Der Bus kam zu spät, deswegen habe ich den Film verpasst.
+it-xe-0166; statt; invece di; al posto di; B1; Allgemein/Kleine Wörter; Oggi prendiamo il tè invece del caffè.; Lass uns heute Tee statt Kaffee trinken.
+it-xe-0167; außer; tranne; eccetto, a parte; B1; Allgemein/Kleine Wörter; Alla festa sono venuti tutti tranne Marco.; Alle außer Marco kamen zur Party.
+it-xe-0168; damit (Zweck); affinché; perché, in modo che; B1; Allgemein/Kleine Wörter; Parla più forte affinché tutti possano sentirti.; Sprich lauter, damit dich alle hören können.
+it-xe-0169; falls; nel caso; se, qualora; B1; Allgemein/Kleine Wörter; Prendi un ombrello, nel caso piova.; Nimm einen Schirm mit, falls es regnet.
+it-xe-0170; nachdem; dopo che; ; B1; Allgemein/Kleine Wörter; Dopo che abbiamo mangiato, siamo usciti a fare due passi.; Nachdem wir gegessen hatten, gingen wir spazieren.
+it-xe-0171; seitdem; da quando; ; B1; Allgemein/Kleine Wörter; Da quando si è trasferita, ci vediamo raramente.; Seitdem sie weggezogen ist, sehen wir uns selten.
+it-xe-0172; sondern; ma; bensì; B1; Allgemein/Kleine Wörter; Non è mio fratello, ma mio cugino.; Er ist nicht mein Bruder, sondern mein Cousin.
+it-xe-0173; entweder; o; oppure; B1; Allgemein/Kleine Wörter; Possiamo o prendere l'autobus o andare a piedi.; Wir können entweder mit dem Bus fahren oder zu Fuß gehen.
+it-xe-0174; weder; né; ; B1; Allgemein/Kleine Wörter; Non mi piace né il pesce né la carne.; Ich mag weder Fisch noch Fleisch.
+it-xe-0175; allerdings; però; tuttavia; B1; Allgemein/Kleine Wörter; L'albergo era bello, il cibo però era terribile.; Das Hotel war schön, das Essen war allerdings schrecklich.
+it-xe-0176; außerdem; inoltre; per di più; B1; Allgemein/Kleine Wörter; È troppo tardi e inoltre sono stanco.; Es ist zu spät, und außerdem bin ich müde.
+it-xe-0177; genauso; altrettanto; allo stesso modo; B1; Allgemein/Kleine Wörter; Il mio nuovo cellulare funziona altrettanto bene quanto quello vecchio.; Mein neues Handy funktioniert genauso gut wie das alte.
+it-xe-0178; bloß; solo; soltanto; B1; Allgemein/Kleine Wörter; Non arrabbiarti, volevo solo aiutarti.; Sei nicht sauer, ich wollte dir bloß helfen.
+it-xe-0179; eher; piuttosto; ; B1; Allgemein/Kleine Wörter; Stasera resterei piuttosto a casa.; Ich bleibe heute Abend eher zu Hause.
+it-xe-0180; höchstens; al massimo; ; B1; Allgemein/Kleine Wörter; Il film dura al massimo un'ora e mezza.; Der Film dauert höchstens eineinhalb Stunden.
+it-xe-0181; wenigstens; almeno; ; B1; Allgemein/Kleine Wörter; Potresti almeno dire grazie per il regalo.; Du könntest wenigstens Danke für das Geschenk sagen.
+it-xe-0182; sowieso; tanto; comunque, in ogni caso; B1; Allgemein/Kleine Wörter; Non preoccuparti, tanto ci dovevo andare.; Keine Sorge, ich wollte sowieso dorthin.
+it-xe-0183; sonst; altrimenti; se no; B1; Allgemein/Kleine Wörter; Sbrigati, altrimenti perdiamo il treno.; Beeil dich, sonst verpassen wir den Zug.
+it-xe-0184; irgendwie; in qualche modo; ; B1; Allgemein/Kleine Wörter; Non preoccuparti, ce la faremo in qualche modo.; Keine Sorge, wir werden es irgendwie schaffen.
+it-xe-0185; überhaupt; affatto; per niente; B1; Allgemein/Kleine Wörter; Questa musica non mi piace affatto.; Ich mag diese Musik überhaupt nicht.
+it-xe-0186; unbedingt; assolutamente; a tutti i costi; B1; Allgemein/Kleine Wörter; Devi assolutamente vedere questo film.; Du musst diesen Film unbedingt sehen.
+it-xe-0187; zufällig; per caso; ; B1; Allgemein/Kleine Wörter; In città ho incontrato per caso il mio vecchio insegnante.; Ich habe zufällig meinen alten Lehrer in der Stadt getroffen.
+it-xe-0188; absolut; assolutamente; del tutto; B1; Allgemein/Kleine Wörter; Sono assolutamente sicuro di aver chiuso la porta a chiave.; Ich bin absolut sicher, dass ich die Tür abgeschlossen habe.
+it-xe-0189; relativ; relativamente; ; B1; Allgemein/Kleine Wörter; Questa volta la verifica era relativamente facile.; Der Test war diesmal relativ leicht.
+it-xe-0190; extrem; estremamente; ; B1; Allgemein/Kleine Wörter; In montagna faceva estremamente freddo.; In den Bergen war es extrem kalt.
+it-xe-0191; gemeinsam; insieme; ; B1; Allgemein/Kleine Wörter; Ieri sera abbiamo cucinato insieme.; Wir haben gestern Abend gemeinsam gekocht.
+it-xe-0192; da (weil); siccome; poiché, dato che; B1; Allgemein/Kleine Wörter; Siccome pioveva, siamo rimasti a casa.; Da es regnete, blieben wir zu Hause.
+it-xe-0193; wozu; a che cosa; a che scopo; B1; Allgemein/Kleine Wörter; A che cosa ti servono tutti quei soldi?; Wozu brauchst du das ganze Geld?
+it-xe-0194; gegenseitig; a vicenda; reciprocamente; B2; Allgemein/Kleine Wörter; Ci aiutiamo a vicenda con i compiti.; Wir helfen uns gegenseitig bei den Hausaufgaben.
+it-xe-0195; dank; grazie a; ; B2; Allgemein/Kleine Wörter; Grazie al tuo aiuto abbiamo finito in tempo.; Dank deiner Hilfe sind wir rechtzeitig fertig geworden.
+it-xe-0196; sodass; cosicché; tanto che; B2; Allgemein/Kleine Wörter; C'era molta nebbia, cosicché non si vedeva quasi niente.; Es war sehr neblig, sodass wir kaum etwas sehen konnten.
+it-xe-0197; indem; facendo; ; B2; Allgemein/Kleine Wörter; Puoi risparmiare soldi facendo la spesa al mercato.; Du kannst Geld sparen, indem du auf dem Markt einkaufst.
+it-xe-0198; ebenfalls; anche; pure; B2; Allgemein/Kleine Wörter; Anche mio fratello studia medicina.; Mein Bruder studiert ebenfalls Medizin.
+it-xe-0199; möglicherweise; forse; magari; B2; Allgemein/Kleine Wörter; Forse il treno arriverà con un po' di ritardo.; Der Zug wird möglicherweise etwas Verspätung haben.
+it-xe-0200; offenbar; a quanto pare; evidentemente; B2; Allgemein/Kleine Wörter; A quanto pare nessuno gli aveva detto della riunione.; Offenbar hatte ihm niemand von dem Treffen erzählt.
+it-xe-0201; jedenfalls; in ogni caso; comunque; B2; Allgemein/Kleine Wörter; Non so cosa fanno gli altri, ma io in ogni caso vengo.; Ich weiß nicht, was die anderen machen, ich komme jedenfalls.
+it-xe-0202; nämlich; cioè; ossia, vale a dire; B2; Allgemein/Kleine Wörter; Mancavano due alunni, cioè Anna e Tim.; Zwei Schüler fehlten, nämlich Anna und Tim.
+it-xe-0203; beispielsweise; per esempio; ad esempio; B2; Allgemein/Kleine Wörter; Qui crescono molti tipi di frutta, per esempio le mele.; Viele Obstsorten, beispielsweise Äpfel, wachsen hier.
+it-xe-0204; bezüglich; riguardo a; in merito a; C1; Allgemein/Kleine Wörter; Ho una domanda riguardo alla tua ultima email.; Ich habe eine Frage bezüglich deiner letzten E-Mail.
+it-xe-0205; zudem; inoltre; per di più, in più; C1; Allgemein/Kleine Wörter; L'appartamento è economico e inoltre molto centrale.; Die Wohnung ist günstig und zudem sehr zentral.
+it-xe-0206; lediglich; soltanto; solamente, unicamente; C1; Allgemein/Kleine Wörter; Si è trattato soltanto di un piccolo malinteso.; Es war lediglich ein kleines Missverständnis.
+it-xe-0207; keinesfalls; in nessun caso; per nessun motivo; C1; Allgemein/Kleine Wörter; Non dovresti aprire questa porta in nessun caso.; Du solltest diese Tür keinesfalls öffnen.
+it-xe-0208; um (Uhrzeit); alle; a; A1; Allgemein/Zeit; La lezione comincia alle nove in punto.; Der Unterricht beginnt um neun Uhr.
+it-xe-0209; morgens; la mattina; di mattina; A1; Allgemein/Zeit; La mattina bevo sempre il tè.; Morgens trinke ich immer Tee.
+it-xe-0210; abends; la sera; di sera; A1; Allgemein/Zeit; La sera giochiamo spesso a carte.; Abends spielen wir oft Karten.
+it-xe-0211; Ende; la fine; ; A1; Allgemein/Zeit; Ci trasferiamo alla fine del mese.; Wir ziehen am Ende des Monats um.
+it-xe-0212; noch; ancora; ; A2; Allgemein/Zeit; Tua nonna abita ancora ad Amburgo?; Wohnt deine Oma noch in Hamburg?
+it-xe-0213; nachts; di notte; la notte; A2; Allgemein/Zeit; Il cane del nostro vicino abbaia di notte.; Der Hund unseres Nachbarn bellt nachts.
+it-xe-0214; Uhrzeit; l'ora; ; A2; Allgemein/Zeit; Mi può dire l'ora, per favore?; Können Sie mir bitte die Uhrzeit sagen?
+it-xe-0215; Wochentag; il giorno della settimana; ; A2; Allgemein/Zeit; In che giorno della settimana cade il tuo compleanno quest'anno?; Auf welchen Wochentag fällt dein Geburtstag dieses Jahr?
+it-xe-0216; Anfang; l'inizio; ; A2; Allgemein/Zeit; All'inizio il film era un po' noioso.; Am Anfang war der Film ein bisschen langweilig.
+it-xe-0217; Mal (das erste Mal); la volta; ; A2; Allgemein/Zeit; È la prima volta che vengo a Roma.; Das ist das erste Mal, dass ich in Rom bin.
+it-xe-0218; Vormittag; la mattina; la mattinata; A2; Allgemein/Zeit; Il lunedì mattina ho due ore di matematica.; Am Montagvormittag habe ich zwei Stunden Mathe.
+it-xe-0219; Nachmittag; il pomeriggio; ; A2; Allgemein/Zeit; Abbiamo passato tutto il pomeriggio al parco.; Wir haben den ganzen Nachmittag im Park verbracht.
+it-xe-0220; Viertelstunde; il quarto d'ora; ; A2; Allgemein/Zeit; L'autobus passa ogni quarto d'ora.; Der Bus kommt jede Viertelstunde.
+it-xe-0221; früher (in der Vergangenheit); una volta; in passato; A2; Allgemein/Zeit; Una volta nella nostra strada c'era un cinema.; Früher gab es in unserer Straße ein Kino.
+it-xe-0222; damals; allora; a quel tempo; A2; Allgemein/Zeit; Allora non avevamo ancora il cellulare.; Damals hatten wir keine Handys.
+it-xe-0223; danach; dopo; poi, in seguito; A2; Allgemein/Zeit; Siamo andati a fare la spesa e dopo abbiamo pranzato.; Wir waren einkaufen und haben danach zu Mittag gegessen.
+it-xe-0224; täglich; ogni giorno; quotidianamente, quotidiano; A2; Allgemein/Zeit; Mi esercito al pianoforte mezz'ora ogni giorno.; Ich übe täglich eine halbe Stunde Klavier.
+it-xe-0225; mittags; a mezzogiorno; a pranzo; A2; Allgemein/Zeit; A mezzogiorno mangiamo nella mensa della scuola.; Mittags essen wir in der Schulkantine.
+it-xe-0226; nachmittags; di pomeriggio; il pomeriggio; A2; Allgemein/Zeit; Di pomeriggio di solito faccio i compiti.; Nachmittags mache ich meistens meine Hausaufgaben.
+it-xe-0227; meistens; di solito; per lo più; A2; Allgemein/Zeit; Di solito vado a scuola in bicicletta.; Ich fahre meistens mit dem Fahrrad zur Schule.
+it-xe-0228; nochmal; ancora una volta; di nuovo; A2; Allgemein/Zeit; Puoi ripeterlo ancora una volta, per favore?; Kannst du das bitte nochmal sagen?
+it-xe-0229; niemals; mai; ; A2; Allgemein/Zeit; Non dimenticherò mai questo giorno.; Ich werde diesen Tag niemals vergessen.
+it-xe-0230; Weile; un po' di tempo; un po'; B1; Allgemein/Zeit; Abbiamo aspettato un po' di tempo, poi siamo andati a casa.; Wir warteten eine Weile, dann gingen wir nach Hause.
+it-xe-0231; Beginn; l'inizio; il principio; B1; Allgemein/Zeit; Per favore, siate puntuali per l'inizio del concerto.; Bitte seid zum Beginn des Konzerts pünktlich.
+it-xe-0232; Schluss (Ende); la fine; la conclusione; B1; Allgemein/Zeit; Alla fine della lezione abbiamo cantato una canzone.; Zum Schluss der Stunde haben wir ein Lied gesungen.
+it-xe-0233; Eile; la fretta; ; B1; Allgemein/Zeit; Scusami, ma oggi ho molta fretta.; Entschuldigung, aber ich bin heute sehr in Eile.
+it-xe-0234; dringend; urgente; ; B1; Allgemein/Zeit; Devo fare una telefonata urgente.; Ich muss einen dringenden Anruf machen.
+it-xe-0235; nachher; più tardi; dopo; B1; Allgemein/Zeit; Ti richiamo più tardi, adesso sono occupato.; Ich rufe dich nachher zurück, jetzt bin ich beschäftigt.
+it-xe-0236; inzwischen; nel frattempo; intanto; B1; Allgemein/Zeit; Io preparo il tè e tu nel frattempo apparecchi la tavola.; Ich mache den Tee, und inzwischen kannst du den Tisch decken.
+it-xe-0237; zuletzt; l'ultima volta; per ultimo; B1; Allgemein/Zeit; Quando l'hai visto l'ultima volta?; Wann hast du ihn zuletzt gesehen?
+it-xe-0238; neulich; l'altro giorno; di recente; B1; Allgemein/Zeit; L'altro giorno ho visto tua sorella in città.; Ich habe neulich deine Schwester in der Stadt gesehen.
+it-xe-0239; vorhin; poco fa; ; B1; Allgemein/Zeit; Tua madre ha chiamato poco fa.; Deine Mutter hat vorhin angerufen.
+it-xe-0240; rechtzeitig; in tempo; ; B1; Allgemein/Zeit; Siamo arrivati alla stazione appena in tempo.; Wir sind gerade noch rechtzeitig am Bahnhof angekommen.
+it-xe-0241; wöchentlich; ogni settimana; settimanalmente, settimanale; B1; Allgemein/Zeit; Questa rivista musicale esce ogni settimana il giovedì.; Diese Musikzeitschrift erscheint wöchentlich am Donnerstag.
+it-xe-0242; monatlich; ogni mese; mensilmente, mensile; B1; Allgemein/Zeit; L'affitto dell'appartamento si paga ogni mese.; Die Miete für die Wohnung wird monatlich bezahlt.
+it-xe-0243; jährlich; ogni anno; annualmente, annuale; B1; Allgemein/Zeit; La festa si svolge ogni anno a luglio.; Das Fest findet jährlich im Juli statt.
+it-xe-0244; gleichzeitig; contemporaneamente; allo stesso tempo; B1; Allgemein/Zeit; Non riesco ad ascoltare e scrivere contemporaneamente.; Ich kann nicht gleichzeitig zuhören und schreiben.
+it-xe-0245; vorig; scorso; precedente; B1; Allgemein/Zeit; Ci siamo incontrati la settimana scorsa al cinema.; Wir haben uns vorige Woche im Kino getroffen.
+it-xe-0246; zukünftig; futuro; ; B1; Allgemein/Zeit; Ieri abbiamo conosciuto il suo futuro marito.; Wir haben gestern ihren zukünftigen Mann kennengelernt.
+it-xe-0247; Ewigkeit; l'eternità; ; B1; Allgemein/Zeit; Dal medico abbiamo dovuto aspettare un'eternità.; Wir mussten beim Arzt eine Ewigkeit warten.
+it-xe-0248; Tempo; il ritmo; la velocità, l'andatura; B1; Allgemein/Zeit; Camminavamo nel bosco a un ritmo lento.; Wir gingen in langsamem Tempo durch den Wald.
+it-xe-0249; ständig; continuamente; costantemente, di continuo; B1; Allgemein/Zeit; Il mio fratellino fa continuamente domande.; Mein kleiner Bruder stellt ständig Fragen.
+it-xe-0250; bereits; già; ; B1; Allgemein/Zeit; Quando siamo arrivati, il treno era già partito.; Der Zug war bereits abgefahren, als wir ankamen.
+it-xe-0251; irgendwann; prima o poi; un giorno; B1; Allgemein/Zeit; Prima o poi vorrei visitare l'Australia.; Irgendwann möchte ich Australien besuchen.
+it-xe-0252; Zeitverschwendung; la perdita di tempo; lo spreco di tempo; B1; Allgemein/Zeit; Questa riunione è una completa perdita di tempo.; Dieses Treffen ist reine Zeitverschwendung.
+it-xe-0253; Zeitpunkt; il momento; ; B2; Allgemein/Zeit; In quel momento nessuno sapeva del problema.; Zu diesem Zeitpunkt wusste niemand von dem Problem.
+it-xe-0254; mittlerweile; ormai; nel frattempo; B2; Allgemein/Zeit; Ormai tutti sanno del loro matrimonio.; Mittlerweile wissen alle von ihrer Hochzeit.
+it-xe-0255; demnächst; prossimamente; a breve, tra poco; B2; Allgemein/Zeit; Il nuovo centro commerciale aprirà prossimamente.; Das neue Einkaufszentrum öffnet demnächst.
+it-xe-0256; stets; sempre; ; B2; Allgemein/Zeit; È sempre gentile con i suoi clienti.; Sie ist stets freundlich zu ihren Kunden.
+it-xe-0257; allmählich; gradualmente; pian piano, a poco a poco; B2; Allgemein/Zeit; Il tempo sta gradualmente migliorando.; Das Wetter wird allmählich besser.
+it-xe-0258; vorübergehend; temporaneamente; provvisoriamente; B2; Allgemein/Zeit; Il negozio è temporaneamente chiuso per lavori.; Der Laden ist vorübergehend wegen Reparaturen geschlossen.
+it-xe-0259; dauerhaft; duraturo; permanente, definitivo; B2; Allgemein/Zeit; Stiamo cercando una soluzione duratura al problema.; Wir suchen nach einer dauerhaften Lösung für das Problem.
+it-xe-0260; kurzfristig; all'ultimo momento; a breve termine; B2; Allgemein/Zeit; Il concerto è stato annullato all'ultimo momento.; Das Konzert wurde kurzfristig abgesagt.
+it-xe-0261; langfristig; a lungo termine; ; B2; Allgemein/Zeit; A lungo termine vogliamo comprare una casa.; Langfristig wollen wir ein Haus kaufen.
+it-xe-0262; Jahrtausend; il millennio; ; B2; Allgemein/Zeit; Abbiamo festeggiato insieme l'inizio del nuovo millennio.; Wir haben den Beginn des neuen Jahrtausends zusammen gefeiert.
+it-xe-0263; wohin; dove; ; A1; Allgemein/Raum; Dove andate in vacanza quest'anno?; Wohin fahrt ihr dieses Jahr in den Urlaub?
+it-xe-0264; woher; da dove; ; A1; Allgemein/Raum; Da dove viene il tuo nuovo vicino?; Woher kommt dein neuer Nachbar?
+it-xe-0265; neben; accanto a; vicino a; A1; Allgemein/Raum; Vieni a sederti accanto a me.; Komm und setz dich neben mich.
+it-xe-0266; vor (räumlich); davanti a; ; A1; Allgemein/Raum; Davanti a casa nostra c'è un grande albero.; Vor unserem Haus steht ein großer Baum.
+it-xe-0267; nach (Richtung); in; a, per; A1; Allgemein/Raum; Domani andiamo in Spagna in aereo.; Morgen fliegen wir nach Spanien.
+it-xe-0268; oben; sopra; di sopra, in alto; A2; Allgemein/Raum; Il bagno è di sopra a sinistra.; Das Badezimmer ist oben links.
+it-xe-0269; unten; sotto; di sotto, in basso; A2; Allgemein/Raum; La cucina è di sotto, accanto al soggiorno.; Die Küche ist unten neben dem Wohnzimmer.
+it-xe-0270; vorne; davanti; ; A2; Allgemein/Raum; Sull'autobus mi piace sedermi davanti.; Ich sitze im Bus gern vorne.
+it-xe-0271; hinten; dietro; in fondo; A2; Allgemein/Raum; Gli alunni seduti dietro non sentono la professoressa.; Die Schüler hinten können die Lehrerin nicht hören.
+it-xe-0272; drinnen; dentro; al chiuso; A2; Allgemein/Raum; Quando piove, giochiamo dentro casa.; Wenn es regnet, spielen wir drinnen.
+it-xe-0273; überall; dappertutto; ovunque; A2; Allgemein/Raum; Ho cercato i miei occhiali dappertutto.; Ich habe überall nach meiner Brille gesucht.
+it-xe-0274; irgendwo; da qualche parte; ; A2; Allgemein/Raum; Ho lasciato l'ombrello da qualche parte in città.; Ich habe meinen Schirm irgendwo in der Stadt liegen lassen.
+it-xe-0275; zurück; indietro; di ritorno; A2; Allgemein/Raum; Torniamo indietro, abbiamo sbagliato strada.; Gehen wir zurück, wir haben den falschen Weg genommen.
+it-xe-0276; nebenan; accanto; qui accanto; A2; Allgemein/Raum; La nuova famiglia che abita accanto ha tre figli.; Die neue Familie nebenan hat drei Kinder.
+it-xe-0277; gegenüber; di fronte a; ; A2; Allgemein/Raum; La panetteria è di fronte alla banca.; Die Bäckerei ist gegenüber der Bank.
+it-xe-0278; entlang; lungo; ; A2; Allgemein/Raum; Abbiamo camminato lungo il fiume fino al ponte.; Wir gingen am Fluss entlang bis zur Brücke.
+it-xe-0279; Länge; la lunghezza; ; A2; Allgemein/Raum; La lunghezza della stanza è di cinque metri.; Die Länge des Zimmers beträgt fünf Meter.
+it-xe-0280; Höhe; l'altezza; ; A2; Allgemein/Raum; La torre ha un'altezza di cinquanta metri.; Der Turm hat eine Höhe von fünfzig Metern.
+it-xe-0281; Form; la forma; ; A2; Allgemein/Raum; La torta ha la forma di un cuore.; Der Kuchen hat die Form eines Herzens.
+it-xe-0282; Loch; il buco; ; A2; Allgemein/Raum; Ho un buco nel calzino.; In meiner Socke ist ein Loch.
+it-xe-0283; Pfeil; la freccia; ; A2; Allgemein/Raum; Segui le frecce fino all'uscita.; Folge den Pfeilen zum Ausgang.
+it-xe-0284; Kreuz; la croce; la crocetta; A2; Allgemein/Raum; Metti una croce accanto alla risposta giusta.; Mach ein Kreuz neben die richtige Antwort.
+it-xe-0285; Rechteck; il rettangolo; ; A2; Allgemein/Raum; Disegna un rettangolo e un cerchio.; Zeichne ein Rechteck und einen Kreis.
+it-xe-0286; Breite; la larghezza; ; B1; Allgemein/Raum; Prima misura la larghezza della finestra.; Miss zuerst die Breite des Fensters.
+it-xe-0287; Tiefe; la profondità; ; B1; Allgemein/Raum; La vasca ha una profondità di tre metri.; Das Becken hat eine Tiefe von drei Metern.
+it-xe-0288; entfernt; distante; lontano; B1; Allgemein/Raum; Il paese è distante dieci chilometri.; Das Dorf ist zehn Kilometer entfernt.
+it-xe-0289; außen; all'esterno; fuori, esternamente; B1; Allgemein/Raum; All'esterno la casa è dipinta di bianco.; Das Haus ist außen weiß gestrichen.
+it-xe-0290; außerhalb; fuori; al di fuori di; B1; Allgemein/Raum; Abitiamo appena fuori dalla città.; Wir wohnen knapp außerhalb der Stadt.
+it-xe-0291; nirgends; da nessuna parte; ; B1; Allgemein/Raum; La mia chiave non si trovava da nessuna parte.; Mein Schlüssel war nirgends zu finden.
+it-xe-0292; woanders; altrove; da un'altra parte; B1; Allgemein/Raum; Andiamo altrove, qui c'è troppa gente.; Lass uns woanders hingehen, hier ist es zu voll.
+it-xe-0293; unterwegs; per strada; in viaggio; B1; Allgemein/Raum; Ti chiamo quando sono per strada.; Ich rufe dich an, wenn ich unterwegs bin.
+it-xe-0294; rückwärts; all'indietro; in retromarcia; B1; Allgemein/Raum; Per lo spavento ha fatto un passo all'indietro.; Vor Schreck hat sie einen Schritt rückwärts gemacht.
+it-xe-0295; Zentrum; il centro; ; B1; Allgemein/Raum; Il nostro albergo si trova proprio nel centro della città.; Unser Hotel liegt direkt im Zentrum der Stadt.
+it-xe-0296; Abstand; la distanza; ; B1; Allgemein/Raum; Per favore, mantieni la distanza dall'auto davanti.; Bitte halte Abstand zum vorderen Auto.
+it-xe-0297; Umgebung; i dintorni; la zona; B1; Allgemein/Raum; Nei dintorni ci sono molte belle passeggiate.; In der Umgebung gibt es viele schöne Spazierwege.
+it-xe-0298; Lage (Ort); la posizione; ; B1; Allgemein/Raum; L'albergo è in una posizione perfetta sul mare.; Das Hotel hat eine perfekte Lage am Meer.
+it-xe-0299; Kurve; la curva; ; B1; Allgemein/Raum; Vai piano, più avanti c'è una curva stretta.; Fahr langsam, vorne kommt eine scharfe Kurve.
+it-xe-0300; Hintergrund; lo sfondo; ; B1; Allgemein/Raum; Sullo sfondo della foto si vedono le montagne.; Im Hintergrund des Fotos sieht man die Berge.
+it-xe-0301; Lücke; il varco; la lacuna; B1; Allgemein/Raum; Il gatto si è infilato in un varco nella recinzione.; Die Katze zwängte sich durch eine Lücke im Zaun.
+it-xe-0302; Ordnung; l'ordine; ; B1; Allgemein/Raum; Per favore, tieni in ordine la tua camera.; Bitte halte in deinem Zimmer Ordnung.
+it-xe-0303; sich befinden; trovarsi; ; B1; Allgemein/Raum; I bagni si trovano al primo piano.; Die Toiletten befinden sich im ersten Stock.
+it-xe-0304; krumm; storto; curvo; B1; Allgemein/Raum; Il vecchio camminava con un bastone storto.; Der alte Mann ging an einem krummen Stock.
+it-xe-0305; spitz; appuntito; aguzzo; B1; Allgemein/Raum; La matita è molto appuntita.; Der Bleistift ist sehr spitz.
+it-xe-0306; eckig; squadrato; spigoloso; B1; Allgemein/Raum; Per la cucina abbiamo comprato un tavolo squadrato.; Wir haben einen eckigen Tisch für die Küche gekauft.
+it-xe-0307; quadratisch; quadrato; ; B1; Allgemein/Raum; Il giardino dietro casa nostra è quasi quadrato.; Der Garten hinter unserem Haus ist fast quadratisch.
+it-xe-0308; Nähe; la vicinanza; ; B2; Allgemein/Raum; La vicinanza all'aeroporto è un grande vantaggio.; Die Nähe zum Flughafen ist ein großer Vorteil.
+it-xe-0309; umgeben; circondare; ; B2; Allgemein/Raum; Il castello è circondato da un fossato profondo.; Das Schloss ist von einem tiefen Graben umgeben.
+it-xe-0310; hohl; cavo; vuoto; B2; Allgemein/Raum; Il vecchio albero è completamente cavo all'interno.; Der alte Baum ist innen völlig hohl.
+it-xe-0311; gebogen; curvo; piegato; B2; Allgemein/Raum; Il ponte ha una forma leggermente curva.; Die Brücke hat eine leicht gebogene Form.
+it-xe-0312; schräg; inclinato; obliquo, spiovente; B2; Allgemein/Raum; La mia camera in mansarda ha il soffitto inclinato.; Mein Dachzimmer hat eine schräge Decke.
+it-xe-0313; senkrecht; verticale; ; B2; Allgemein/Raum; Traccia una linea verticale nel mezzo.; Zieh eine senkrechte Linie in der Mitte nach unten.
+it-xe-0314; waagerecht; orizzontale; ; B2; Allgemein/Raum; La mensola deve essere perfettamente orizzontale.; Das Regal muss ganz waagerecht sein.
+it-xe-0315; unterhalb; al di sotto di; sotto; B2; Allgemein/Raum; Il lago si trova al di sotto del castello.; Der See liegt unterhalb der Burg.
+it-xe-0316; umgekehrt; viceversa; al contrario; B2; Allgemein/Raum; Non è lui che aiuta me, ma viceversa.; Nicht er hilft mir, sondern umgekehrt.
+it-xe-0317; jenseits; al di là di; oltre; C1; Allgemein/Raum; Al di là delle montagne si trova un'ampia valle.; Jenseits der Berge liegt ein weites Tal.
+it-xe-0318; Rest; il resto; ; A2; Allgemein/Mengen; Puoi prendere il resto della torta.; Du kannst den Rest vom Kuchen haben.
+it-xe-0319; Viertel (Bruchteil); il quarto; ; A2; Allgemein/Mengen; Ho mangiato un quarto della pizza.; Ich habe ein Viertel der Pizza gegessen.
+it-xe-0320; Million; il milione; ; A2; Allgemein/Mengen; La città ha più di un milione di abitanti.; Die Stadt hat mehr als eine Million Einwohner.
+it-xe-0321; Meter; il metro; ; A2; Allgemein/Mengen; La piscina è lunga venticinque metri.; Das Schwimmbecken ist fünfundzwanzig Meter lang.
+it-xe-0322; Zentimeter; il centimetro; ; A2; Allgemein/Mengen; La mia sorellina è cresciuta di cinque centimetri.; Meine kleine Schwester ist fünf Zentimeter gewachsen.
+it-xe-0323; Kilometer; il chilometro; ; A2; Allgemein/Mengen; Oggi abbiamo camminato per più di dieci chilometri.; Wir sind heute mehr als zehn Kilometer gelaufen.
+it-xe-0324; Gramm; il grammo; ; A2; Allgemein/Mengen; Ti servono duecento grammi di farina.; Du brauchst zweihundert Gramm Mehl.
+it-xe-0325; Kilo; il chilo; ; A2; Allgemein/Mengen; Al mercato un chilo di mele costa due euro.; Ein Kilo Äpfel kostet auf dem Markt zwei Euro.
+it-xe-0326; Kilogramm; il chilogrammo; ; A2; Allgemein/Mengen; La valigia non deve pesare più di venti chilogrammi.; Der Koffer darf nicht mehr als zwanzig Kilogramm wiegen.
+it-xe-0327; Liter; il litro; ; A2; Allgemein/Mengen; Beviamo circa due litri d'acqua al giorno.; Wir trinken etwa zwei Liter Wasser am Tag.
+it-xe-0328; Reihe; la fila; ; A2; Allgemein/Mengen; Al cinema eravamo seduti in terza fila.; Wir saßen im Kino in der dritten Reihe.
+it-xe-0329; doppelt; doppio; ; A2; Allgemein/Mengen; Online questa camicia ha un prezzo doppio.; Online kostet dieses Hemd den doppelten Preis.
+it-xe-0330; mehrere; parecchi; diversi, vari; A2; Allgemein/Mengen; Ho provato a chiamarti parecchie volte.; Ich habe mehrere Male versucht, dich anzurufen.
+it-xe-0331; weniger; meno; ; A2; Allgemein/Mengen; Voglio passare meno tempo al cellulare.; Ich will weniger Zeit am Handy verbringen.
+it-xe-0332; übrig; avanzato; rimasto; A2; Allgemein/Mengen; C'è ancora della pizza avanzata?; Ist noch Pizza übrig?
+it-xe-0333; Drittel; il terzo; ; B1; Allgemein/Mengen; Un terzo della classe era malato.; Ein Drittel der Klasse war krank.
+it-xe-0334; Anzahl; il numero; ; B1; Allgemein/Mengen; Quest'anno il numero degli studenti è aumentato.; Die Anzahl der Schüler ist dieses Jahr gestiegen.
+it-xe-0335; Dutzend; la dozzina; ; B1; Allgemein/Mengen; Al mercato ho comprato una dozzina di uova.; Ich habe auf dem Markt ein Dutzend Eier gekauft.
+it-xe-0336; Milliarde; il miliardo; ; B1; Allgemein/Mengen; Il nuovo stadio è costato un miliardo di euro.; Das neue Stadion hat eine Milliarde Euro gekostet.
+it-xe-0337; Inhalt; il contenuto; ; B1; Allgemein/Mengen; Il contenuto della scatola è caduto per terra.; Der Inhalt der Schachtel fiel auf den Boden.
+it-xe-0338; Tonne (Gewicht); la tonnellata; ; B1; Allgemein/Mengen; Il camion può trasportare dieci tonnellate di sabbia.; Der Lastwagen kann zehn Tonnen Sand transportieren.
+it-xe-0339; Pfund (Gewicht); mezzo chilo; la libbra; B1; Allgemein/Mengen; Posso avere mezzo chilo di pomodori, per favore?; Kann ich bitte ein Pfund Tomaten haben?
+it-xe-0340; Quadratmeter; il metro quadrato; ; B1; Allgemein/Mengen; L'appartamento è di settanta metri quadrati.; Die Wohnung hat siebzig Quadratmeter.
+it-xe-0341; Haufen; il mucchio; il cumulo; B1; Allgemein/Mengen; Sul pavimento c'è un mucchio di vestiti sporchi.; Auf dem Boden liegt ein Haufen schmutziger Kleider.
+it-xe-0342; Kleinigkeit; la piccolezza; la sciocchezza; B1; Allgemein/Mengen; Non arrabbiarti per una piccolezza.; Reg dich nicht über eine Kleinigkeit auf.
+it-xe-0343; Auswahl; la scelta; la selezione, l'assortimento; B1; Allgemein/Mengen; Il negozio ha un'ampia scelta di scarpe sportive.; Der Laden hat eine große Auswahl an Sportschuhen.
+it-xe-0344; mehrmals; più volte; diverse volte; B1; Allgemein/Mengen; Ho letto la lettera più volte.; Ich habe den Brief mehrmals gelesen.
+it-xe-0345; pro; a; per; B1; Allgemein/Mengen; I biglietti costano dieci euro a persona.; Die Karten kosten zehn Euro pro Person.
+it-xe-0346; teilweise; in parte; parzialmente; B1; Allgemein/Mengen; La strada era in parte bloccata dalla neve.; Die Straße war teilweise durch Schnee blockiert.
+it-xe-0347; Ziffer; la cifra; ; B1; Allgemein/Mengen; Il codice segreto della porta ha quattro cifre.; Der Geheimcode für die Tür hat vier Ziffern.
+it-xe-0348; verdoppeln; raddoppiare; ; B1; Allgemein/Mengen; Quest'anno il numero dei visitatori è raddoppiato.; Die Zahl der Besucher hat sich dieses Jahr verdoppelt.
+it-xe-0349; gesamt; intero; complessivo; B1; Allgemein/Mengen; L'intera classe è andata in gita.; Die gesamte Klasse ist mit auf den Ausflug gefahren.
+it-xe-0350; Stapel; la pila; ; B2; Allgemein/Mengen; Sulla cattedra c'era una pila di libri.; Auf dem Lehrerpult lag ein Stapel Bücher.
+it-xe-0351; Maximum; il massimo; ; B2; Allgemein/Mengen; La temperatura ha raggiunto un massimo di 35 gradi.; Die Temperatur erreichte ein Maximum von 35 Grad.
+it-xe-0352; Minimum; il minimo; ; B2; Allgemein/Mengen; Per il gioco ci serve un minimo di dieci giocatori.; Für das Spiel brauchen wir ein Minimum von zehn Spielern.
+it-xe-0353; zahlreich; numeroso; ; B2; Allgemein/Mengen; Numerosi fan aspettavano davanti all'albergo.; Zahlreiche Fans warteten vor dem Hotel.
+it-xe-0354; Anteil; la parte; la quota; B2; Allgemein/Mengen; Ognuno deve pagare la sua parte del conto.; Jeder muss seinen Anteil an der Rechnung zahlen.
+it-xe-0355; Einheit; l'unità; ; B2; Allgemein/Mengen; Il metro è un'unità di lunghezza.; Der Meter ist eine Einheit für die Länge.
+it-xe-0356; erheblich; notevole; considerevole; B2; Allgemein/Mengen; La tempesta di stanotte ha causato danni notevoli in città.; Der Sturm letzte Nacht hat in der Stadt erheblichen Schaden angerichtet.
+it-xe-0357; Großteil; la maggior parte; ; B2; Allgemein/Mengen; La maggior parte degli alunni è venuta in autobus.; Der Großteil der Schüler kam mit dem Bus.
+it-xe-0358; Anstieg; l'aumento; la crescita; B2; Allgemein/Mengen; C'è stato un forte aumento dei prezzi.; Es gab einen starken Anstieg der Preise.
+it-xe-0359; Rückgang; il calo; la diminuzione; B2; Allgemein/Mengen; In città c'è stato un calo del turismo.; Die Stadt verzeichnet einen Rückgang im Tourismus.
+it-xe-0360; gering; basso; scarso, ridotto; B2; Allgemein/Mengen; Oggi il rischio di pioggia è basso.; Das Risiko für Regen ist heute gering.
+it-xe-0361; unzählig; innumerevole; ; C1; Allgemein/Mengen; Ho sentito questa canzone innumerevoli volte.; Ich habe dieses Lied unzählige Male gehört.
+it-xe-0362; zuhören; ascoltare; ; A1; Allgemein/Denken & Sprechen; Per favore, ascolta bene le istruzioni.; Bitte hör den Anweisungen gut zu.
+it-xe-0363; bitten; chiedere; pregare; A2; Allgemein/Denken & Sprechen; Mi ha chiesto di chiudere la finestra.; Sie bat mich, das Fenster zu schließen.
+it-xe-0364; beantworten; rispondere; ; A2; Allgemein/Denken & Sprechen; Per favore, rispondi a tutte le domande del foglio.; Bitte beantworte alle Fragen auf dem Blatt.
+it-xe-0365; reden; parlare; ; A2; Allgemein/Denken & Sprechen; Abbiamo parlato del film per ore.; Wir haben stundenlang über den Film geredet.
+it-xe-0366; sich unterhalten; chiacchierare; conversare; A2; Allgemein/Denken & Sprechen; Dopo cena abbiamo chiacchierato a lungo.; Wir haben uns nach dem Essen lange unterhalten.
+it-xe-0367; grüßen; salutare; ; A2; Allgemein/Denken & Sprechen; Saluta sempre i vicini con gentilezza.; Er grüßt die Nachbarn immer freundlich.
+it-xe-0368; gratulieren; congratularsi; fare gli auguri; A2; Allgemein/Denken & Sprechen; Ci siamo congratulati con lei per il nuovo lavoro.; Wir haben ihr zu ihrer neuen Stelle gratuliert.
+it-xe-0369; nachdenken; riflettere; pensare; B1; Allgemein/Denken & Sprechen; Ho bisogno di un po' di tempo per rifletterci.; Ich brauche etwas Zeit, um darüber nachzudenken.
+it-xe-0370; überlegen (nachdenken); pensarci; considerare; B1; Allgemein/Denken & Sprechen; Ci penso su fino a domani, poi ti rispondo.; Ich überlege es mir bis morgen, dann antworte ich dir.
+it-xe-0371; erraten; indovinare; ; B1; Allgemein/Denken & Sprechen; Non indovinerai mai chi mi ha chiamato.; Du errätst nie, wer mich angerufen hat.
+it-xe-0372; vermuten; supporre; presumere; B1; Allgemein/Denken & Sprechen; Suppongo che abbia perso di nuovo l'autobus.; Ich vermute, er hat wieder den Bus verpasst.
+it-xe-0373; sich irren; sbagliarsi; ; B1; Allgemein/Denken & Sprechen; Credo che su questo tu ti sbagli.; Ich glaube, da irrst du dich.
+it-xe-0374; sich merken; tenere a mente; memorizzare, ricordarsi; B1; Allgemein/Denken & Sprechen; Riesci a tenere a mente il mio nuovo numero di telefono?; Kannst du dir meine neue Telefonnummer merken?
+it-xe-0375; sich konzentrieren; concentrarsi; ; B1; Allgemein/Denken & Sprechen; Non riesco a concentrarmi quando c'è così tanto rumore.; Ich kann mich nicht konzentrieren, wenn es so laut ist.
+it-xe-0376; missverstehen; fraintendere; ; B1; Allgemein/Denken & Sprechen; Scusa, credo che tu mi abbia frainteso.; Entschuldigung, ich glaube, du hast mich missverstanden.
+it-xe-0377; besprechen; discutere; parlare di; B1; Allgemein/Denken & Sprechen; Discutiamo il piano dopo pranzo.; Lass uns den Plan nach dem Mittagessen besprechen.
+it-xe-0378; ansprechen; rivolgere la parola; rivolgersi a; B1; Allgemein/Denken & Sprechen; Alla fermata dell'autobus uno sconosciuto mi ha rivolto la parola.; An der Bushaltestelle hat mich ein Fremder angesprochen.
+it-xe-0379; zweifeln; dubitare; ; B1; Allgemein/Denken & Sprechen; Non ho mai dubitato di te nemmeno per un attimo.; Ich habe keinen Moment an dir gezweifelt.
+it-xe-0380; nennen; chiamare; nominare; B1; Allgemein/Denken & Sprechen; Hanno chiamato il figlio come il nonno.; Sie nannten ihren Sohn nach seinem Großvater.
+it-xe-0381; mitteilen; comunicare; informare; B1; Allgemein/Denken & Sprechen; Per favore, ci comunichi il suo nuovo indirizzo.; Bitte teilen Sie uns Ihre neue Adresse mit.
+it-xe-0382; schweigen; tacere; stare zitto; B1; Allgemein/Denken & Sprechen; Non disse nulla e tacque a lungo.; Sie sagte nichts und schwieg lange.
+it-xe-0383; loben; lodare; elogiare; B1; Allgemein/Denken & Sprechen; L'insegnante l'ha lodata per il suo buon lavoro.; Die Lehrerin lobte sie für ihre gute Arbeit.
+it-xe-0384; schimpfen; sgridare; rimproverare; B1; Allgemein/Denken & Sprechen; La mamma mi ha sgridato perché sono tornato a casa tardi.; Meine Mama hat geschimpft, weil ich zu spät nach Hause kam.
+it-xe-0385; sich ausdrücken; esprimersi; ; B1; Allgemein/Denken & Sprechen; Fa fatica a esprimersi in inglese.; Es fällt ihm schwer, sich auf Englisch auszudrücken.
+it-xe-0386; Tipp; il suggerimento; il consiglio; A2; Allgemein/Denken & Sprechen; Puoi darmi un suggerimento per l'esame?; Kannst du mir einen Tipp für die Prüfung geben?
+it-xe-0387; Wunsch; il desiderio; ; A2; Allgemein/Denken & Sprechen; Il mio desiderio più grande è un viaggio in Canada.; Mein größter Wunsch ist eine Reise nach Kanada.
+it-xe-0388; Gegenteil; il contrario; l'opposto; A2; Allgemein/Denken & Sprechen; Il contrario di grande è piccolo.; Das Gegenteil von groß ist klein.
+it-xe-0389; Ahnung; l'idea; ; B1; Allgemein/Denken & Sprechen; Non ho idea di dove abiti.; Ich habe keine Ahnung, wo er wohnt.
+it-xe-0390; Gedächtnis; la memoria; ; B1; Allgemein/Denken & Sprechen; Mio nonno ha un'ottima memoria.; Mein Großvater hat ein sehr gutes Gedächtnis.
+it-xe-0391; Lüge; la bugia; la menzogna; B1; Allgemein/Denken & Sprechen; Questa è una bugia e lo sai.; Das ist eine Lüge, und das weißt du.
+it-xe-0392; Sinn; il senso; ; B1; Allgemein/Denken & Sprechen; Non ha senso aspettare ancora.; Es hat keinen Sinn, noch länger zu warten.
+it-xe-0393; Hinweis; l'indizio; l'indicazione; B1; Allgemein/Denken & Sprechen; L'insegnante ci ha dato un indizio per l'ultima domanda.; Die Lehrerin gab uns einen Hinweis zur letzten Frage.
+it-xe-0394; Ratschlag; il consiglio; ; B1; Allgemein/Denken & Sprechen; Grazie per il tuo buon consiglio.; Danke für deinen guten Ratschlag.
+it-xe-0395; Warnung; l'avvertimento; l'avviso; B1; Allgemein/Denken & Sprechen; Non ha voluto ascoltare il mio avvertimento.; Er wollte nicht auf meine Warnung hören.
+it-xe-0396; Kompliment; il complimento; ; B1; Allgemein/Denken & Sprechen; Mi ha fatto un bel complimento per il mio vestito.; Sie hat mir ein nettes Kompliment für mein Kleid gemacht.
+it-xe-0397; Unsinn; le sciocchezze; le stupidaggini; B1; Allgemein/Denken & Sprechen; Non dire sciocchezze, non è vero.; Red keinen Unsinn, das stimmt nicht.
+it-xe-0398; Erlaubnis; il permesso; ; B1; Allgemein/Denken & Sprechen; Per la gita scolastica ti serve il permesso dei tuoi genitori.; Für den Schulausflug brauchst du die Erlaubnis deiner Eltern.
+it-xe-0399; sich erkundigen; informarsi; ; B2; Allgemein/Denken & Sprechen; Mi sono informato sugli orari dei treni.; Ich habe mich nach den Abfahrtszeiten der Züge erkundigt.
+it-xe-0400; sich täuschen; sbagliarsi; ingannarsi; B2; Allgemein/Denken & Sprechen; Se non mi sbaglio, il negozio chiude alle sei.; Wenn ich mich nicht täusche, schließt der Laden um sechs.
+it-xe-0401; feststellen; constatare; accorgersi, notare; B2; Allgemein/Denken & Sprechen; Abbiamo constatato che la finestra era aperta.; Wir stellten fest, dass das Fenster offen war.
+it-xe-0402; zitieren; citare; ; B2; Allgemein/Denken & Sprechen; Gli piace citare scrittori famosi.; Er zitiert gern berühmte Schriftsteller.
+it-xe-0403; schwören; giurare; ; B2; Allgemein/Denken & Sprechen; Giuro che non ho preso i tuoi soldi.; Ich schwöre, dass ich dein Geld nicht genommen habe.
+it-xe-0404; äußern; esprimere; manifestare; B2; Allgemein/Denken & Sprechen; Ha espresso i suoi dubbi sul progetto.; Sie äußerte ihre Zweifel an dem Plan.
+it-xe-0405; begründen; motivare; giustificare; B2; Allgemein/Denken & Sprechen; Nel tema devi motivare la tua opinione.; Du musst deine Meinung im Aufsatz begründen.
+it-xe-0406; tippen (wetten); scommettere; ; B2; Allgemein/Denken & Sprechen; Scommetto che sabato la nostra squadra vincerà.; Ich tippe, dass unsere Mannschaft am Samstag gewinnt.
+it-xe-0407; gestehen; confessare; ; B2; Allgemein/Denken & Sprechen; Alla fine confessò di aver mentito.; Schließlich gestand er, dass er gelogen hatte.
+it-xe-0408; Ansicht; il parere; l'opinione; B2; Allgemein/Denken & Sprechen; A mio parere il progetto è troppo costoso.; Meiner Ansicht nach ist der Plan zu teuer.
+it-xe-0409; Vermutung; l'ipotesi; la supposizione; B2; Allgemein/Denken & Sprechen; La mia ipotesi è che si sia dimenticata di noi.; Meine Vermutung ist, dass sie uns vergessen hat.
+it-xe-0410; Verstand; la ragione; il senno; B2; Allgemein/Denken & Sprechen; Hai perso completamente la ragione?; Hast du völlig den Verstand verloren?
+it-xe-0411; Irrtum; l'errore; lo sbaglio; B2; Allgemein/Denken & Sprechen; È stato un errore, mi dispiace.; Das war ein Irrtum, es tut mir leid.
+it-xe-0412; Behauptung; l'affermazione; ; B2; Allgemein/Denken & Sprechen; Non c'è nessuna prova per questa affermazione.; Für diese Behauptung gibt es keinen Beweis.
+it-xe-0413; Bemerkung; l'osservazione; il commento; B2; Allgemein/Denken & Sprechen; La sua osservazione scortese l'ha ferita.; Seine unhöfliche Bemerkung hat sie verletzt.
+it-xe-0414; Überzeugung; la convinzione; ; B2; Allgemein/Denken & Sprechen; Ha parlato dei suoi progetti con grande convinzione.; Er sprach mit großer Überzeugung über seine Pläne.
+it-xe-0415; Zusammenhang; il nesso; il collegamento; B2; Allgemein/Denken & Sprechen; Non vedo il nesso tra i due avvenimenti.; Ich sehe keinen Zusammenhang zwischen den beiden Ereignissen.
+it-xe-0416; berücksichtigen; tenere conto di; considerare; C1; Allgemein/Denken & Sprechen; Dobbiamo tenere conto anche del tempo atmosferico.; Wir müssen auch das Wetter berücksichtigen.
+it-xe-0417; Vorwurf; il rimprovero; l'accusa; C1; Allgemein/Denken & Sprechen; Le sue parole mi sono sembrate un rimprovero.; Seine Worte klangen für mich wie ein Vorwurf.
+it-xe-0418; Andeutung; l'accenno; l'allusione; C1; Allgemein/Denken & Sprechen; Ha fatto un accenno al fatto che potrebbe lasciare la ditta.; Er machte eine Andeutung, dass er die Firma verlassen könnte.
+it-xe-0419; Wut; la rabbia; l'ira; A2; Mensch/Gefühle; Dopo la lite tremava di rabbia.; Nach dem Streit zitterte er vor Wut.
+it-xe-0420; fröhlich; allegro; ; A2; Mensch/Gefühle; La mattina è sempre allegra.; Sie ist morgens immer fröhlich.
+it-xe-0421; unglücklich; infelice; ; A2; Mensch/Gefühle; Nella sua vecchia scuola era molto infelice.; Er war an seiner alten Schule sehr unglücklich.
+it-xe-0422; entspannt; rilassato; ; A2; Mensch/Gefühle; Dopo le vacanze mi sento davvero rilassato.; Nach dem Urlaub fühle ich mich richtig entspannt.
+it-xe-0423; gut gelaunt; di buon umore; ; A2; Mensch/Gefühle; Come mai oggi sei così di buon umore?; Warum bist du heute so gut gelaunt?
+it-xe-0424; schlecht gelaunt; di cattivo umore; ; A2; Mensch/Gefühle; Il lunedì papà è sempre di cattivo umore.; Papa ist montags immer schlecht gelaunt.
+it-xe-0425; sich ärgern; arrabbiarsi; irritarsi; B1; Mensch/Gefühle; Mi sono arrabbiato perché nessuno me l'aveva detto.; Ich habe mich geärgert, dass es mir niemand gesagt hatte.
+it-xe-0426; sich aufregen; agitarsi; innervosirsi; B1; Mensch/Gefühle; Non agitarti, è solo un gioco.; Reg dich nicht auf, es ist nur ein Spiel.
+it-xe-0427; sich fürchten; avere paura; temere; B1; Mensch/Gefühle; La mia sorellina ha paura del buio.; Meine kleine Schwester fürchtet sich im Dunkeln.
+it-xe-0428; sich wohlfühlen; trovarsi bene; sentirsi a proprio agio; B1; Mensch/Gefühle; Nella mia nuova classe mi trovo molto bene.; In meiner neuen Klasse fühle ich mich sehr wohl.
+it-xe-0429; erschrecken; spaventare; ; B1; Mensch/Gefühle; Mi hai spaventato, non ti ho sentito entrare.; Du hast mich erschreckt, ich habe dich nicht kommen hören.
+it-xe-0430; Panik; il panico; ; B1; Mensch/Gefühle; Quando è scattato l'allarme antincendio è scoppiato il panico.; Als der Feueralarm losging, brach Panik aus.
+it-xe-0431; erstaunt; stupito; meravigliato; B1; Mensch/Gefühle; Eravamo stupiti di quanto fosse grande la città.; Wir waren erstaunt, wie groß die Stadt war.
+it-xe-0432; beleidigt; offeso; ; B1; Mensch/Gefühle; Era offesa perché avevamo dimenticato il suo compleanno.; Sie war beleidigt, weil wir ihren Geburtstag vergessen hatten.
+it-xe-0433; verwirrt; confuso; ; B1; Mensch/Gefühle; La sua spiegazione mi ha confuso completamente.; Seine Erklärung hat mich völlig verwirrt.
+it-xe-0434; genervt; infastidito; seccato; B1; Mensch/Gefühle; Sono davvero infastidito dal rumore dei vicini.; Ich bin wirklich genervt von dem Lärm nebenan.
+it-xe-0435; Heimweh; la nostalgia di casa; ; B1; Mensch/Gefühle; Durante la gita scolastica aveva nostalgia di casa.; Auf der Klassenfahrt hatte sie Heimweh.
+it-xe-0436; beneiden; invidiare; ; B2; Mensch/Gefühle; Ti invidio per le tue lunghe vacanze.; Ich beneide dich um deine langen Ferien.
+it-xe-0437; bedauern; rammaricarsi; dispiacersi; B2; Mensch/Gefühle; Mi rammarico di non poterti aiutare.; Ich bedauere, dass ich dir nicht helfen kann.
+it-xe-0438; Einsamkeit; la solitudine; ; B2; Mensch/Gefühle; Molti anziani soffrono di solitudine.; Viele alte Menschen leiden unter Einsamkeit.
+it-xe-0439; Zufriedenheit; la soddisfazione; ; B2; Mensch/Gefühle; La soddisfazione dei clienti è molto importante per noi.; Die Zufriedenheit der Kunden ist uns sehr wichtig.
+it-xe-0440; Emotion; l'emozione; ; B2; Mensch/Gefühle; Raramente mostra le sue emozioni in pubblico.; Er zeigt seine Emotionen selten in der Öffentlichkeit.
+it-xe-0441; Ekel; il disgusto; lo schifo; B2; Mensch/Gefühle; Guardava il ragno con disgusto.; Sie betrachtete die Spinne mit Ekel.
+it-xe-0442; Vorfreude; la gioia dell'attesa; l'attesa; B2; Mensch/Gefühle; La gioia dell'attesa del Natale è la cosa più bella.; Die Vorfreude auf Weihnachten ist das Schönste.
+it-xe-0443; deprimiert; depresso; ; B2; Mensch/Gefühle; Da quando ha perso il lavoro è piuttosto depresso.; Seit er seine Stelle verloren hat, ist er ziemlich deprimiert.
+it-xe-0444; hoffnungslos; senza speranza; disperato; B2; Mensch/Gefühle; La situazione sembrava senza speranza, ma non ci siamo arresi.; Die Lage schien hoffnungslos, aber wir gaben nicht auf.
+it-xe-0445; sprachlos; senza parole; ; B2; Mensch/Gefühle; Quando ho sentito la notizia, sono rimasto senza parole.; Als ich die Nachricht hörte, war ich sprachlos.
+it-xe-0446; frustriert; frustrato; ; B2; Mensch/Gefühle; Mi sento frustrato quando il computer è così lento.; Ich bin frustriert, wenn mein Computer so langsam ist.
+it-xe-0447; Trost; il conforto; la consolazione; C1; Mensch/Gefühle; Le sue parole gentili sono state di grande conforto per me.; Ihre freundlichen Worte waren ein großer Trost für mich.
+it-xe-0448; Reue; il pentimento; il rimorso; C1; Mensch/Gefühle; Il ladro non ha mostrato alcun pentimento.; Der Dieb zeigte überhaupt keine Reue.
+it-xe-0449; Kummer; il dispiacere; la pena; C1; Mensch/Gefühle; Cercava di nascondere il suo dispiacere ai bambini.; Sie versuchte, ihren Kummer vor den Kindern zu verbergen.
+it-xe-0450; gerührt; commosso; ; C1; Mensch/Gefühle; Siamo rimasti profondamente commossi dal suo discorso.; Wir waren von seiner Rede tief gerührt.
+it-xe-0451; frech; sfacciato; impertinente; A2; Mensch/Charakter; Non essere così sfacciato con la nonna!; Sei nicht so frech zu deiner Oma!
+it-xe-0452; unordentlich; disordinato; ; A2; Mensch/Charakter; La camera di mio fratello è sempre molto disordinata.; Das Zimmer meines Bruders ist immer sehr unordentlich.
+it-xe-0453; gemein; cattivo; meschino; A2; Mensch/Charakter; È stato davvero cattivo da parte tua ridere di lui.; Es war echt gemein von dir, ihn auszulachen.
+it-xe-0454; unfreundlich; scortese; sgarbato; A2; Mensch/Charakter; Il cameriere del bar era molto scortese.; Der Kellner im Café war sehr unfreundlich.
+it-xe-0455; kreativ; creativo; ; A2; Mensch/Charakter; Mia zia è molto creativa e dipinge bei quadri.; Meine Tante ist sehr kreativ und malt schöne Bilder.
+it-xe-0456; sympathisch; simpatico; ; A2; Mensch/Charakter; Trovo molto simpatico il nostro nuovo vicino.; Ich finde unseren neuen Nachbarn sehr sympathisch.
+it-xe-0457; humorvoll; spiritoso; ; B1; Mensch/Charakter; Il nostro professore di matematica è severo ma spiritoso.; Unser Mathelehrer ist streng, aber humorvoll.
+it-xe-0458; optimistisch; ottimista; ; B1; Mensch/Charakter; Sono ottimista sul fatto che vinceremo la partita.; Ich bin optimistisch, dass wir das Spiel gewinnen.
+it-xe-0459; pessimistisch; pessimista; ; B1; Mensch/Charakter; Non essere così pessimista, andrà tutto bene.; Sei nicht so pessimistisch, es wird schon gut gehen.
+it-xe-0460; unzuverlässig; inaffidabile; ; B1; Mensch/Charakter; È gentile, ma davvero molto inaffidabile.; Er ist nett, aber sehr unzuverlässig.
+it-xe-0461; fantasievoll; fantasioso; ; B1; Mensch/Charakter; Quando giocano, i bambini piccoli sono spesso molto fantasiosi.; Kleine Kinder sind beim Spielen oft sehr fantasievoll.
+it-xe-0462; tapfer; coraggioso; ; B1; Mensch/Charakter; Dal dentista il bambino è stato molto coraggioso.; Der kleine Junge war beim Zahnarzt sehr tapfer.
+it-xe-0463; begabt; dotato; talentuoso; B1; Mensch/Charakter; È una giovane musicista molto dotata.; Sie ist eine sehr begabte junge Musikerin.
+it-xe-0464; Angeber; lo sbruffone; la sbruffona, il fanfarone; B1; Mensch/Charakter; Smettila di vantarti, sei proprio uno sbruffone!; Hör auf anzugeben, du bist so ein Angeber!
+it-xe-0465; Persönlichkeit; la personalità; ; B1; Mensch/Charakter; Ha una personalità forte e cordiale.; Sie hat eine starke und freundliche Persönlichkeit.
+it-xe-0466; Eigenschaft; la qualità; la caratteristica; B1; Mensch/Charakter; La pazienza è una delle sue qualità migliori.; Geduld ist eine seiner besten Eigenschaften.
+it-xe-0467; Ehrlichkeit; l'onestà; la sincerità; B1; Mensch/Charakter; Apprezzo l'onestà più di ogni altra cosa.; Ich schätze Ehrlichkeit mehr als alles andere.
+it-xe-0468; vergesslich; smemorato; ; B1; Mensch/Charakter; Mio nonno sta diventando un po' smemorato.; Mein Opa wird langsam ein bisschen vergesslich.
+it-xe-0469; chaotisch; caotico; disordinato; B1; Mensch/Charakter; Il mio coinquilino è simpatico, ma un po' caotico.; Mein Mitbewohner ist nett, aber etwas chaotisch.
+it-xe-0470; feige; vigliacco; codardo; B2; Mensch/Charakter; È stato vigliacco scappare dal problema.; Es war feige, vor dem Problem davonzulaufen.
+it-xe-0471; eingebildet; presuntuoso; pieno di sé; B2; Mensch/Charakter; Da quando è diventato famoso è così presuntuoso.; Seit er berühmt ist, ist er so eingebildet.
+it-xe-0472; gesellig; socievole; ; B2; Mensch/Charakter; È molto socievole e adora le feste.; Sie ist sehr gesellig und liebt Partys.
+it-xe-0473; empfindlich; sensibile; suscettibile; B2; Mensch/Charakter; È molto sensibile alle critiche.; Er ist sehr empfindlich gegenüber Kritik.
+it-xe-0474; entschlossen; determinato; deciso; B2; Mensch/Charakter; È determinata a superare l'esame di guida.; Sie ist fest entschlossen, ihre Führerscheinprüfung zu bestehen.
+it-xe-0475; naiv; ingenuo; ; B2; Mensch/Charakter; È stato ingenuo credere a tutto quello che diceva.; Es war naiv, ihm alles zu glauben.
+it-xe-0476; leichtsinnig; imprudente; sconsiderato; B2; Mensch/Charakter; È stato imprudente lasciare la porta aperta.; Es war leichtsinnig, die Tür offen zu lassen.
+it-xe-0477; Selbstvertrauen; la fiducia in se stessi; l'autostima; B2; Mensch/Charakter; Il nuovo lavoro le ha dato più fiducia in se stessa.; Die neue Stelle hat ihr mehr Selbstvertrauen gegeben.
+it-xe-0478; zurückhaltend; riservato; ; B2; Mensch/Charakter; All'inizio era silenzioso e piuttosto riservato.; Am Anfang war er still und eher zurückhaltend.
+it-xe-0479; brav; buono; bravo; A2; Mensch/Charakter; Oggi i bambini sono stati molto buoni.; Die Kinder waren heute sehr brav.
+it-xe-0480; sparsam; parsimonioso; economo; B1; Mensch/Charakter; Mia nonna è molto parsimoniosa e non spreca niente.; Meine Oma ist sehr sparsam und verschwendet nichts.
+it-xe-0481; nachdenklich; pensieroso; riflessivo; B2; Mensch/Charakter; Dopo il film era silenzioso e pensieroso.; Nach dem Film war er still und nachdenklich.
+it-xe-0482; Fleiß; la diligenza; l'impegno; B2; Mensch/Charakter; Ha superato l'esame grazie alla sua diligenza.; Sie hat die Prüfung dank ihres Fleißes bestanden.
+it-xe-0483; ausgeglichen; equilibrato; ; C1; Mensch/Charakter; Lo yoga mi aiuta a rimanere calmo ed equilibrato.; Yoga hilft mir, ruhig und ausgeglichen zu bleiben.
+it-xe-0484; aufrichtig; sincero; ; C1; Mensch/Charakter; La prego di accettare le mie sincere scuse per il ritardo.; Bitte nehmen Sie meine aufrichtige Entschuldigung für die Verspätung an.
+it-xe-0485; taktvoll; pieno di tatto; discreto; C1; Mensch/Charakter; Gli ha dato una risposta piena di tatto.; Sie gab ihm eine taktvolle Antwort.
+it-xe-0486; Tugend; la virtù; ; C1; Mensch/Charakter; La pazienza non è una delle mie virtù.; Geduld gehört nicht zu meinen Tugenden.
+it-xe-0487; gutmütig; bonario; di buon cuore; C1; Mensch/Charakter; Il nostro vecchio cane è pigro ma molto bonario.; Unser alter Hund ist faul, aber sehr gutmütig.

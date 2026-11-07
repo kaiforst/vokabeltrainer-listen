@@ -1,0 +1,444 @@
+# Italienisch: Ausbau Gesellschaft: Politik, Recht, Religion, Feste, Geld und Wirtschaft im Alltag, Geschichte, Kultur und Kunst, Wissenschaft, Sport, Hobbys und Spiele
+id; Deutsch; Italienisch; Weitere Antworten; Niveau; Themen; Beispiel Italienisch; Beispiel Deutsch
+it-xd-0001; Wahllokal; il seggio elettorale; il seggio; C1; Gesellschaft/Politik/Staat & Wahlen; Il seggio elettorale apre alle sette del mattino.; Das Wahllokal öffnet um sieben Uhr morgens.
+it-xd-0002; Stimmzettel; la scheda elettorale; la scheda; C1; Gesellschaft/Politik/Staat & Wahlen; Si traccia una croce sulla scheda elettorale.; Man macht ein Kreuz auf dem Stimmzettel.
+it-xd-0003; abstimmen; votare; ; B1; Gesellschaft/Politik/Demokratie; La classe ha votato sulla data della gita.; Die Klasse hat über das Datum des Ausflugs abgestimmt.
+it-xd-0004; Wahlergebnis; il risultato elettorale; il risultato delle elezioni; B1; Gesellschaft/Politik/Staat & Wahlen; Il risultato elettorale è stato annunciato a tarda notte.; Das Wahlergebnis wurde spät in der Nacht bekannt gegeben.
+it-xd-0005; Ministerium; il ministero; ; B1; Gesellschaft/Politik/Staat & Wahlen; Lavora per il Ministero dell'Istruzione a Roma.; Sie arbeitet für das Bildungsministerium in Rom.
+it-xd-0006; Gesetzentwurf; il disegno di legge; la proposta di legge; C1; Gesellschaft/Politik/Staat & Wahlen; Il Parlamento discuterà il disegno di legge la prossima settimana.; Das Parlament berät nächste Woche über den Gesetzentwurf.
+it-xd-0007; Reform; la riforma; ; B2; Gesellschaft/Politik/Staat & Wahlen; Molti insegnanti sostengono la riforma della scuola.; Viele Lehrer unterstützen die Schulreform.
+it-xd-0008; Republik; la repubblica; ; B1; Gesellschaft/Politik/Staat & Wahlen; L'Italia è una repubblica dal 1946.; Italien ist seit 1946 eine Republik.
+it-xd-0009; Monarchie; la monarchia; ; B2; Gesellschaft/Politik/Staat & Wahlen; La Spagna è una monarchia con un re.; Spanien ist eine Monarchie mit einem König.
+it-xd-0010; Königreich; il regno; ; B1; Gesellschaft/Politik/Staat & Wahlen; La Norvegia è un piccolo regno del Nord.; Norwegen ist ein kleines Königreich im Norden.
+it-xd-0011; national; nazionale; ; B1; Gesellschaft/Politik/Staat & Wahlen; Oggi in Italia è una festa nazionale.; Heute ist in Italien ein nationaler Feiertag.
+it-xd-0012; Volk; il popolo; ; B1; Gesellschaft/Politik/Demokratie; In una democrazia il potere appartiene al popolo.; In einer Demokratie geht die Macht vom Volk aus.
+it-xd-0013; Unabhängigkeit; l'indipendenza; ; B1; Gesellschaft/Politik/Staat & Wahlen; Il paese ha festeggiato cinquant'anni di indipendenza.; Das Land feierte fünfzig Jahre Unabhängigkeit.
+it-xd-0014; Flagge; la bandiera; ; A2; Gesellschaft/Politik/Staat & Wahlen; La bandiera sul municipio è rossa e bianca.; Die Flagge auf dem Rathaus ist rot und weiß.
+it-xd-0015; Nationalhymne; l'inno nazionale; ; B1; Gesellschaft/Politik/Staat & Wahlen; I giocatori hanno cantato l'inno nazionale prima della partita.; Die Spieler sangen vor dem Spiel die Nationalhymne.
+it-xd-0016; Antrag (bei einer Behörde); la domanda; la richiesta; B1; Gesellschaft/Politik/Staat & Wahlen; Ho compilato la domanda per un nuovo passaporto.; Ich habe den Antrag für einen neuen Pass ausgefüllt.
+it-xd-0017; Bürokratie; la burocrazia; ; C1; Gesellschaft/Politik/Staat & Wahlen; Molte piccole imprese si lamentano della troppa burocrazia.; Viele kleine Firmen klagen über zu viel Bürokratie.
+it-xd-0018; Stadtrat; il consiglio comunale; ; B2; Gesellschaft/Politik/Staat & Wahlen; Il consiglio comunale ha votato per una nuova piscina.; Der Stadtrat stimmte für ein neues Schwimmbad.
+it-xd-0019; Regierungschef; il capo del governo; ; B2; Gesellschaft/Politik/Staat & Wahlen; I capi di governo si sono incontrati a Bruxelles.; Die Regierungschefs trafen sich in Brüssel.
+it-xd-0020; Diktatur; la dittatura; ; B1; Gesellschaft/Politik/Demokratie; In una dittatura le persone non possono parlare liberamente.; Menschen in einer Diktatur können nicht frei sprechen.
+it-xd-0021; Diktator; il dittatore; ; B1; Gesellschaft/Politik/Demokratie; Il dittatore ha governato il paese per trent'anni.; Der Diktator beherrschte das Land dreißig Jahre lang.
+it-xd-0022; Protest; la protesta; ; B1; Gesellschaft/Politik/Demokratie; Migliaia di studenti si sono uniti alla protesta.; Tausende Studenten schlossen sich dem Protest an.
+it-xd-0023; protestieren; protestare; ; B1; Gesellschaft/Politik/Demokratie; I giovani hanno protestato contro la nuova legge.; Junge Leute protestierten gegen das neue Gesetz.
+it-xd-0024; Petition; la petizione; ; B2; Gesellschaft/Politik/Demokratie; Più di diecimila persone hanno firmato la petizione.; Über zehntausend Menschen unterschrieben die Petition.
+it-xd-0025; Aktivist; l'attivista; ; B2; Gesellschaft/Politik/Demokratie; Gli attivisti volevano più protezione per il bosco.; Die Aktivisten wollten mehr Schutz für den Wald.
+it-xd-0026; radikal; radicale; ; B2; Gesellschaft/Politik/Parteien; Il partito vuole cambiamenti radicali nel sistema fiscale.; Die Partei will radikale Änderungen am Steuersystem.
+it-xd-0027; Ideologie; l'ideologia; ; C1; Gesellschaft/Politik/Parteien; La loro ideologia non lascia spazio ad altre opinioni.; Ihre Ideologie lässt keinen Raum für andere Meinungen.
+it-xd-0028; Extremismus; l'estremismo; ; C1; Gesellschaft/Politik/Demokratie; Le scuole dovrebbero insegnare ai giovani a riconoscere l'estremismo.; Schulen sollten jungen Menschen beibringen, Extremismus zu erkennen.
+it-xd-0029; Populismus; il populismo; ; C1; Gesellschaft/Politik/Parteien; Il populismo offre spesso risposte semplici a domande difficili.; Populismus bietet oft einfache Antworten auf schwierige Fragen.
+it-xd-0030; Parteivorsitzender; il leader del partito; il segretario del partito, il presidente del partito; B2; Gesellschaft/Politik/Parteien; Il leader del partito ha tenuto un discorso dopo le elezioni.; Der Parteivorsitzende hielt nach der Wahl eine Rede.
+it-xd-0031; Wahlversprechen; la promessa elettorale; ; B2; Gesellschaft/Politik/Parteien; Il governo non ha mantenuto molte delle sue promesse elettorali.; Die Regierung hat viele ihrer Wahlversprechen gebrochen.
+it-xd-0032; Steuerzahler; il contribuente; la contribuente; B2; Gesellschaft/Politik/Staat & Wahlen; Il nuovo ponte è costato milioni ai contribuenti.; Die neue Brücke hat die Steuerzahler Millionen gekostet.
+it-xd-0033; Botschaft (Vertretung); l'ambasciata; ; B1; Gesellschaft/Politik/Internationales; Il visto si può chiedere all'ambasciata.; Ein Visum kann man bei der Botschaft beantragen.
+it-xd-0034; Konsulat; il consolato; ; C1; Gesellschaft/Politik/Internationales; Il consolato lo ha aiutato dopo che aveva perso il passaporto.; Das Konsulat half ihm, nachdem er seinen Pass verloren hatte.
+it-xd-0035; Gipfeltreffen; il vertice; il summit; B2; Gesellschaft/Politik/Internationales; Il vertice si terrà a Parigi la prossima primavera.; Das Gipfeltreffen findet nächsten Frühling in Paris statt.
+it-xd-0036; Sanktion; la sanzione; ; C1; Gesellschaft/Politik/Internationales; L'Unione Europea ha deciso nuove sanzioni.; Die Europäische Union beschloss neue Sanktionen.
+it-xd-0037; Krise; la crisi; ; B1; Gesellschaft/Politik/Internationales; Durante la crisi il governo ha dovuto agire in fretta.; Die Regierung musste in der Krise schnell handeln.
+it-xd-0038; Konflikt; il conflitto; ; B1; Gesellschaft/Politik/Internationales; Entrambe le parti vogliono una fine pacifica del conflitto.; Beide Seiten wollen ein friedliches Ende des Konflikts.
+it-xd-0039; Militär; l'esercito; le forze armate; B1; Gesellschaft/Politik/Internationales; Dopo l'alluvione l'esercito ha aiutato la popolazione.; Nach dem Hochwasser half das Militär der Bevölkerung.
+it-xd-0040; Bürgerkrieg; la guerra civile; ; B2; Gesellschaft/Politik/Internationales; Milioni di persone sono fuggite dalla guerra civile.; Millionen Menschen flohen vor dem Bürgerkrieg.
+it-xd-0041; Waffenstillstand; il cessate il fuoco; la tregua; C1; Gesellschaft/Politik/Internationales; Il cessate il fuoco è iniziato domenica a mezzanotte.; Der Waffenstillstand begann am Sonntag um Mitternacht.
+it-xd-0042; Friedensvertrag; il trattato di pace; ; B2; Gesellschaft/Politik/Internationales; I due paesi hanno firmato un trattato di pace.; Die beiden Länder unterzeichneten einen Friedensvertrag.
+it-xd-0043; Terrorismus; il terrorismo; ; B2; Gesellschaft/Politik/Internationales; Molti paesi collaborano nella lotta contro il terrorismo.; Viele Länder arbeiten im Kampf gegen den Terrorismus zusammen.
+it-xd-0044; Terroranschlag; l'attentato terroristico; l'attentato; B2; Gesellschaft/Politik/Internationales; Nell'attentato terroristico nessuno è rimasto ferito.; Bei dem Terroranschlag wurde niemand verletzt.
+it-xd-0045; Geisel; l'ostaggio; ; B2; Gesellschaft/Politik/Internationales; Tutti gli ostaggi sono stati liberati il giorno dopo.; Alle Geiseln wurden am nächsten Tag befreit.
+it-xd-0046; Weltmacht; la potenza mondiale; ; B2; Gesellschaft/Politik/Internationales; La Cina è diventata una potenza mondiale.; China ist zu einer Weltmacht geworden.
+it-xd-0047; Supermacht; la superpotenza; ; B2; Gesellschaft/Politik/Internationales; Durante la Guerra fredda c'erano due superpotenze.; Während des Kalten Krieges gab es zwei Supermächte.
+it-xd-0048; Atomwaffe; l'arma nucleare; l'arma atomica; B2; Gesellschaft/Politik/Internationales; Molte persone vogliono un mondo senza armi nucleari.; Viele Menschen wollen eine Welt ohne Atomwaffen.
+it-xd-0049; Entwicklungsland; il paese in via di sviluppo; ; B2; Gesellschaft/Politik/Internationales; In molti paesi in via di sviluppo l'acqua pulita è ancora un problema.; Sauberes Wasser ist in vielen Entwicklungsländern noch ein Problem.
+it-xd-0050; Entwicklungshilfe; gli aiuti allo sviluppo; l'aiuto allo sviluppo; C1; Gesellschaft/Politik/Internationales; Il paese riceve aiuti allo sviluppo per costruire nuove scuole.; Das Land erhält Entwicklungshilfe für den Bau neuer Schulen.
+it-xd-0051; Globalisierung; la globalizzazione; ; B2; Gesellschaft/Politik/Internationales; La globalizzazione ha cambiato il nostro modo di lavorare.; Die Globalisierung hat unsere Art zu arbeiten verändert.
+it-xd-0052; sozial; sociale; ; B1; Gesellschaft/Soziales; Il comune vuole più edilizia sociale per le famiglie.; Die Stadt will mehr sozialen Wohnungsbau für Familien.
+it-xd-0053; Obdachloser; il senzatetto; ; B1; Gesellschaft/Soziales; Un senzatetto dormiva nell'ingresso di un palazzo.; Ein Obdachloser schlief im Hauseingang eines Gebäudes.
+it-xd-0054; Sozialhilfe; l'assistenza sociale; il sussidio sociale; C1; Gesellschaft/Soziales; Dopo aver perso il lavoro viveva di assistenza sociale.; Nachdem er seine Arbeit verloren hatte, lebte er von Sozialhilfe.
+it-xd-0055; Wohltätigkeit; la beneficenza; ; B2; Gesellschaft/Soziales; Mia nonna si impegna molto nella beneficenza.; Meine Großmutter engagiert sich sehr für Wohltätigkeit.
+it-xd-0056; Hilfsorganisation; l'organizzazione umanitaria; ; B2; Gesellschaft/Soziales; Un'organizzazione umanitaria ha portato cibo al villaggio.; Eine Hilfsorganisation brachte Lebensmittel in das Dorf.
+it-xd-0057; Rassismus; il razzismo; ; B1; Gesellschaft/Soziales; La squadra di calcio ha preso una posizione chiara contro il razzismo.; Der Fußballverein bezog klar Stellung gegen Rassismus.
+it-xd-0058; rassistisch; razzista; ; B2; Gesellschaft/Soziales; Il commento era razzista e ha ferito molte persone.; Der Kommentar war rassistisch und verletzte viele Menschen.
+it-xd-0059; Toleranz; la tolleranza; ; B1; Gesellschaft/Soziales; La convivenza ha bisogno di tolleranza e rispetto.; Zusammenleben braucht Toleranz und Respekt.
+it-xd-0060; Mittelschicht; il ceto medio; la classe media; B2; Gesellschaft/Soziales; Anche per il ceto medio i prezzi stanno aumentando.; Auch für die Mittelschicht steigen die Preise.
+it-xd-0061; Arbeiterklasse; la classe operaia; ; B2; Gesellschaft/Soziales; Mio nonno veniva dalla classe operaia.; Mein Großvater kam aus der Arbeiterklasse.
+it-xd-0062; Oberschicht; la classe alta; il ceto alto; C1; Gesellschaft/Soziales; In passato solo la classe alta poteva studiare.; Früher konnte nur die Oberschicht studieren.
+it-xd-0063; Privatsphäre; la privacy; la riservatezza, la sfera privata; B2; Gesellschaft/Soziales; Ognuno ha diritto alla propria privacy.; Jeder hat ein Recht auf Privatsphäre.
+it-xd-0064; Feminismus; il femminismo; ; C1; Gesellschaft/Soziales; Il suo libro parla della storia del femminismo.; Ihr Buch handelt von der Geschichte des Feminismus.
+it-xd-0065; Flucht; la fuga; ; B1; Gesellschaft/Soziales; La famiglia ci ha raccontato della sua fuga dalla guerra.; Die Familie erzählte uns von ihrer Flucht vor dem Krieg.
+it-xd-0066; auswandern; emigrare; ; B1; Gesellschaft/Soziales; Mia zia è emigrata in Canada vent'anni fa.; Meine Tante ist vor zwanzig Jahren nach Kanada ausgewandert.
+it-xd-0067; einwandern; immigrare; ; B2; Gesellschaft/Soziales; I suoi genitori sono immigrati in Germania negli anni Settanta.; Ihre Eltern sind in den Siebzigern nach Deutschland eingewandert.
+it-xd-0068; Migrant; il migrante; la migrante; B2; Gesellschaft/Soziales; Molti migranti lavorano negli ospedali delle grandi città.; Viele Migranten arbeiten in den Krankenhäusern großer Städte.
+it-xd-0069; Asyl; l'asilo; l'asilo politico; C1; Gesellschaft/Soziales; Il giovane ha chiesto asilo in Germania.; Der junge Mann bat in Deutschland um Asyl.
+it-xd-0070; Asylbewerber; il richiedente asilo; la richiedente asilo; B2; Gesellschaft/Soziales; I richiedenti asilo imparano il tedesco alla scuola serale.; Die Asylbewerber lernen an der Abendschule Deutsch.
+it-xd-0071; Dieb; il ladro; la ladra; A2; Gesellschaft/Recht; Il ladro è scappato con la mia borsa.; Der Dieb rannte mit meiner Handtasche davon.
+it-xd-0072; Diebstahl; il furto; ; B1; Gesellschaft/Recht; Ha denunciato il furto della sua macchina.; Sie zeigte den Diebstahl ihres Autos an.
+it-xd-0073; Taschendieb; il borseggiatore; la borseggiatrice; B1; Gesellschaft/Recht; Sul treno affollato attenzione ai borseggiatori.; Pass im vollen Zug auf Taschendiebe auf.
+it-xd-0074; Ladendiebstahl; il taccheggio; il furto nei negozi; B2; Gesellschaft/Recht; Il negozio ha installato telecamere contro il taccheggio.; Das Geschäft hat Kameras gegen Ladendiebstahl installiert.
+it-xd-0075; Einbruch; il furto con scasso; l'effrazione; B1; Gesellschaft/Recht; Ieri notte c'è stato un furto con scasso nella nostra via.; Letzte Nacht gab es einen Einbruch in unserer Straße.
+it-xd-0076; Einbrecher; lo scassinatore; il ladro d'appartamento; B1; Gesellschaft/Recht; Lo scassinatore è entrato dalla finestra della cucina.; Der Einbrecher kam durch das Küchenfenster herein.
+it-xd-0077; Raub; la rapina; ; B2; Gesellschaft/Recht; Dopo la rapina sono stati arrestati due uomini.; Nach dem Raub wurden zwei Männer festgenommen.
+it-xd-0078; Räuber; il rapinatore; la rapinatrice; B1; Gesellschaft/Recht; I rapinatori sono fuggiti in una macchina nera.; Die Räuber flohen in einem schwarzen Auto.
+it-xd-0079; Mord; l'omicidio; ; B1; Gesellschaft/Recht; Il commissario cerca di risolvere l'omicidio.; Der Kommissar versucht, den Mord aufzuklären.
+it-xd-0080; Mörder; l'assassino; l'omicida, l'assassina; B1; Gesellschaft/Recht; Alla fine del libro scopriamo chi è l'assassino.; Am Ende des Buches erfahren wir, wer der Mörder ist.
+it-xd-0081; ermorden; assassinare; ; B2; Gesellschaft/Recht; Il re fu assassinato da suo fratello.; Der König wurde von seinem eigenen Bruder ermordet.
+it-xd-0082; töten; uccidere; ; B1; Gesellschaft/Recht; Il cacciatore non voleva uccidere il capriolo.; Der Jäger wollte das Reh nicht töten.
+it-xd-0083; Betrug; la truffa; la frode; B2; Gesellschaft/Recht; È finito in prigione per truffa.; Er kam wegen Betrugs ins Gefängnis.
+it-xd-0084; Betrüger; il truffatore; la truffatrice; B2; Gesellschaft/Recht; Un truffatore ha chiamato e le ha chiesto i dati bancari.; Ein Betrüger rief an und fragte nach ihren Bankdaten.
+it-xd-0085; Verdächtiger; il sospettato; la sospettata; B2; Gesellschaft/Recht; La polizia sta ancora cercando il sospettato.; Die Polizei sucht noch nach dem Verdächtigen.
+it-xd-0086; verdächtigen; sospettare; ; B2; Gesellschaft/Recht; La polizia sospetta il vicino del furto.; Die Polizei verdächtigt den Nachbarn des Diebstahls.
+it-xd-0087; verhaften; arrestare; ; B1; Gesellschaft/Recht; La polizia ha arrestato l'uomo all'aeroporto.; Die Polizei verhaftete den Mann am Flughafen.
+it-xd-0088; Gefangener; il prigioniero; il detenuto, la prigioniera; B1; Gesellschaft/Recht; I prigionieri possono telefonare alle famiglie una volta alla settimana.; Die Gefangenen dürfen einmal pro Woche ihre Familien anrufen.
+it-xd-0089; Gefängnisstrafe; la pena detentiva; la condanna al carcere; B2; Gesellschaft/Recht; Ha ricevuto una pena detentiva di tre anni.; Er bekam eine Gefängnisstrafe von drei Jahren.
+it-xd-0090; Geldstrafe; la multa; la sanzione pecuniaria; B1; Gesellschaft/Recht; Ha dovuto pagare una multa di duecento euro.; Sie musste eine Geldstrafe von zweihundert Euro zahlen.
+it-xd-0091; Todesstrafe; la pena di morte; ; B2; Gesellschaft/Recht; Nell'Unione Europea non esiste la pena di morte.; In der Europäischen Union gibt es keine Todesstrafe.
+it-xd-0092; Bewährung; la condizionale; la sospensione condizionale; C1; Gesellschaft/Recht; Il giovane automobilista ha avuto sei mesi con la condizionale.; Der junge Fahrer bekam sechs Monate auf Bewährung.
+it-xd-0093; Ermittlung; l'indagine; ; B2; Gesellschaft/Recht; L'indagine è durata più di un anno.; Die Ermittlung dauerte mehr als ein Jahr.
+it-xd-0094; ermitteln; indagare; ; B2; Gesellschaft/Recht; La polizia indaga sulle cause dell'incendio.; Die Polizei ermittelt die Ursache des Brandes.
+it-xd-0095; Detektiv; il detective; l'investigatore, l'investigatrice; A2; Gesellschaft/Recht; Il detective ha trovato un indizio importante.; Der Detektiv fand einen wichtigen Hinweis.
+it-xd-0096; Kriminalität; la criminalità; ; B2; Gesellschaft/Recht; La criminalità nel centro città è diminuita.; Die Kriminalität in der Innenstadt ist gesunken.
+it-xd-0097; gewalttätig; violento; ; B2; Gesellschaft/Recht; In serata la protesta è diventata violenta.; Am Abend wurde der Protest gewalttätig.
+it-xd-0098; Pistole; la pistola; ; B1; Gesellschaft/Recht; Il rapinatore teneva in mano una pistola.; Der Räuber hielt eine Pistole in der Hand.
+it-xd-0099; Handschellen; le manette; ; B2; Gesellschaft/Recht; Il poliziotto ha messo le manette al ladro.; Der Polizist legte dem Dieb Handschellen an.
+it-xd-0100; illegal; illegale; ; B1; Gesellschaft/Recht; Parcheggiare davanti alla scuola è illegale.; Vor der Schule zu parken ist illegal.
+it-xd-0101; Verbot; il divieto; ; B1; Gesellschaft/Recht; Nel centro storico c'è il divieto di fuochi d'artificio.; In der Altstadt gibt es ein Verbot für Feuerwerk.
+it-xd-0102; Vorschrift; la norma; il regolamento, la disposizione; B2; Gesellschaft/Recht; Secondo le norme i cani devono stare al guinzaglio.; Laut Vorschrift müssen Hunde an der Leine sein.
+it-xd-0103; Prozess (vor Gericht); il processo; ; B2; Gesellschaft/Recht; Il processo inizierà a marzo davanti al tribunale di Milano.; Der Prozess beginnt im März vor dem Gericht in Mailand.
+it-xd-0104; Gerichtssaal; l'aula di tribunale; l'aula del tribunale; B2; Gesellschaft/Recht; Decine di giornalisti aspettavano fuori dall'aula di tribunale.; Dutzende Journalisten warteten vor dem Gerichtssaal.
+it-xd-0105; anklagen; accusare; imputare; B2; Gesellschaft/Recht; L'uomo è stato accusato di furto.; Der Mann wurde wegen Diebstahls angeklagt.
+it-xd-0106; Zeugenaussage; la testimonianza; la deposizione; C1; Gesellschaft/Recht; La sua testimonianza ha aiutato il giudice a decidere.; Ihre Zeugenaussage half dem Richter bei der Entscheidung.
+it-xd-0107; Freispruch; l'assoluzione; ; C1; Gesellschaft/Recht; Il processo si è concluso con un'assoluzione.; Der Prozess endete mit einem Freispruch.
+it-xd-0108; Lösegeld; il riscatto; ; C1; Gesellschaft/Recht; I rapitori hanno chiesto un riscatto enorme.; Die Entführer forderten ein riesiges Lösegeld.
+it-xd-0109; entführen; rapire; sequestrare; B2; Gesellschaft/Recht; Nel film la ragazza viene rapita dai pirati.; Das Mädchen im Film wird von Piraten entführt.
+it-xd-0110; Entführung; il rapimento; il sequestro; B2; Gesellschaft/Recht; Il rapimento era su tutti i giornali.; Die Entführung stand in allen Zeitungen.
+it-xd-0111; erpressen; ricattare; ; C1; Gesellschaft/Recht; Qualcuno ha cercato di ricattare il ministro con delle foto.; Jemand versuchte, den Minister mit Fotos zu erpressen.
+it-xd-0112; Bestechung; la corruzione; ; C1; Gesellschaft/Recht; Il sindaco è stato accusato di corruzione.; Der Bürgermeister wurde der Bestechung beschuldigt.
+it-xd-0113; fälschen; falsificare; contraffare; B2; Gesellschaft/Recht; Ha falsificato la firma di suo padre sulla lettera.; Er fälschte die Unterschrift seines Vaters auf dem Brief.
+it-xd-0114; schmuggeln; contrabbandare; ; B2; Gesellschaft/Recht; Hanno cercato di contrabbandare sigarette oltre il confine.; Sie versuchten, Zigaretten über die Grenze zu schmuggeln.
+it-xd-0115; Vandalismus; il vandalismo; ; C1; Gesellschaft/Recht; La pensilina dell'autobus è stata distrutta da atti di vandalismo.; Das Wartehäuschen wurde durch Vandalismus zerstört.
+it-xd-0116; Eigentum; la proprietà; ; B2; Gesellschaft/Recht; Questo terreno è di proprietà del comune.; Dieses Grundstück ist Eigentum der Stadt.
+it-xd-0117; Gott; Dio; ; A2; Gesellschaft/Religion; Molte persone del paese credono in Dio.; Viele Menschen im Dorf glauben an Gott.
+it-xd-0118; beten; pregare; ; A2; Gesellschaft/Religion; Mia nonna prega ogni sera prima di andare a letto.; Meine Großmutter betet jeden Abend vor dem Schlafengehen.
+it-xd-0119; Gebet; la preghiera; ; B1; Gesellschaft/Religion; Prima di pranzo i bambini hanno detto una breve preghiera.; Die Kinder sprachen vor dem Mittagessen ein kurzes Gebet.
+it-xd-0120; Gottesdienst; la messa; la funzione religiosa; B1; Gesellschaft/Religion; La messa della domenica comincia alle dieci.; Der Gottesdienst am Sonntag beginnt um zehn.
+it-xd-0121; Priester; il sacerdote; il prete; B1; Gesellschaft/Religion; Il sacerdote ha salutato tutti alla porta della chiesa.; Der Priester begrüßte alle an der Kirchentür.
+it-xd-0122; Pfarrer; il parroco; il prete, il pastore; B1; Gesellschaft/Religion; Il parroco del nostro paese è molto gentile.; Der Pfarrer unseres Dorfes ist sehr freundlich.
+it-xd-0123; Bibel; la Bibbia; ; A2; Gesellschaft/Religion; La Bibbia è stata tradotta in molte lingue.; Die Bibel wurde in viele Sprachen übersetzt.
+it-xd-0124; Koran; il Corano; ; B1; Gesellschaft/Religion; Ogni giorno legge alcune pagine del Corano.; Er liest jeden Tag ein paar Seiten im Koran.
+it-xd-0125; Christ; il cristiano; la cristiana; B1; Gesellschaft/Religion; I cristiani di tutto il mondo festeggiano il Natale e la Pasqua.; Christen auf der ganzen Welt feiern Weihnachten und Ostern.
+it-xd-0126; Christentum; il cristianesimo; ; B1; Gesellschaft/Religion; Il cristianesimo è arrivato molto presto in questa regione.; Das Christentum kam sehr früh in diese Gegend.
+it-xd-0127; Islam; l'islam; ; B1; Gesellschaft/Religion; Nell'ora di religione abbiamo imparato qualcosa sull'islam.; Im Religionsunterricht haben wir etwas über den Islam gelernt.
+it-xd-0128; Muslim; il musulmano; la musulmana; B1; Gesellschaft/Religion; Durante il Ramadan molti musulmani non mangiano di giorno.; Viele Muslime essen im Ramadan tagsüber nichts.
+it-xd-0129; Ramadan; il Ramadan; ; B1; Gesellschaft/Religion; Il Ramadan finisce con una grande festa.; Der Ramadan endet mit einem großen Fest.
+it-xd-0130; Judentum; l'ebraismo; ; B2; Gesellschaft/Religion; L'ebraismo è una delle religioni più antiche del mondo.; Das Judentum ist eine der ältesten Religionen der Welt.
+it-xd-0131; jüdisch; ebraico; ebreo; B1; Gesellschaft/Religion; Abbiamo visitato il Museo ebraico di Berlino.; Wir haben das Jüdische Museum in Berlin besucht.
+it-xd-0132; Buddhismus; il buddismo; il buddhismo; B2; Gesellschaft/Religion; In Thailandia ha cominciato a interessarsi al buddismo.; In Thailand begann sie sich für den Buddhismus zu interessieren.
+it-xd-0133; Hinduismus; l'induismo; ; B2; Gesellschaft/Religion; L'induismo è la religione principale dell'India.; Der Hinduismus ist die wichtigste Religion in Indien.
+it-xd-0134; Moschee; la moschea; ; B1; Gesellschaft/Religion; La nuova moschea ha una torre alta e bianca.; Die neue Moschee hat einen hohen weißen Turm.
+it-xd-0135; Synagoge; la sinagoga; ; B1; Gesellschaft/Religion; La vecchia sinagoga oggi è un museo.; Die alte Synagoge ist heute ein Museum.
+it-xd-0136; Tempel; il tempio; ; A2; Gesellschaft/Religion; Prima di entrare nel tempio ci siamo tolti le scarpe.; Bevor wir den Tempel betraten, zogen wir die Schuhe aus.
+it-xd-0137; Kloster; il monastero; il convento; B1; Gesellschaft/Religion; I monaci di questo monastero producono la loro birra.; Die Mönche in diesem Kloster brauen ihr eigenes Bier.
+it-xd-0138; Mönch; il monaco; ; B1; Gesellschaft/Religion; Il monaco viveva da solo in montagna.; Der Mönch lebte allein in den Bergen.
+it-xd-0139; Nonne; la suora; la monaca; B1; Gesellschaft/Religion; Le suore gestiscono una piccola scuola per ragazze.; Die Nonnen leiten eine kleine Mädchenschule.
+it-xd-0140; Papst; il papa; ; B1; Gesellschaft/Religion; Il papa vive in Vaticano a Roma.; Der Papst lebt im Vatikan in Rom.
+it-xd-0141; Bischof; il vescovo; ; B2; Gesellschaft/Religion; Domenica scorsa il vescovo ha visitato la nostra chiesa.; Der Bischof besuchte letzten Sonntag unsere Kirche.
+it-xd-0142; Engel; l'angelo; ; A2; Gesellschaft/Religion; In cima all'albero c'è un piccolo angelo dorato.; Oben auf dem Baum sitzt ein kleiner goldener Engel.
+it-xd-0143; Teufel; il diavolo; ; B1; Gesellschaft/Religion; Nella storia il diavolo vuole comprare un'anima.; In der Geschichte will der Teufel eine Seele kaufen.
+it-xd-0144; Seele; l'anima; ; B1; Gesellschaft/Religion; Molte religioni credono che l'anima continui a vivere.; Viele Religionen glauben, dass die Seele weiterlebt.
+it-xd-0145; Sünde; il peccato; ; B2; Gesellschaft/Religion; Secondo la Bibbia mentire è un peccato.; Laut der Bibel ist Lügen eine Sünde.
+it-xd-0146; heilig; santo; sacro; B1; Gesellschaft/Religion; Gerusalemme è una città santa per tre religioni.; Jerusalem ist für drei Religionen eine heilige Stadt.
+it-xd-0147; Heiliger; il santo; la santa; B2; Gesellschaft/Religion; La chiesa porta il nome di un santo del posto.; Die Kirche ist nach einem Heiligen aus der Gegend benannt.
+it-xd-0148; Kreuz; la croce; ; A2; Gesellschaft/Religion; Sopra la porta è appesa una croce di legno.; Über der Tür hängt ein Kreuz aus Holz.
+it-xd-0149; taufen; battezzare; ; C1; Gesellschaft/Religion; Il bambino è stato battezzato nella chiesa del paese.; Das Baby wurde in der Dorfkirche getauft.
+it-xd-0150; Konfirmation; la cresima; la confermazione; C1; Gesellschaft/Religion; Per la cresima ha ricevuto un orologio da sua zia.; Zur Konfirmation bekam sie von ihrer Tante eine Uhr.
+it-xd-0151; segnen; benedire; ; B2; Gesellschaft/Religion; Il parroco ha benedetto la giovane coppia.; Der Pfarrer segnete das junge Paar.
+it-xd-0152; Segen; la benedizione; ; B2; Gesellschaft/Religion; La coppia ha chiesto la benedizione della Chiesa.; Das Paar bat um den Segen der Kirche.
+it-xd-0153; fasten; digiunare; ; B2; Gesellschaft/Religion; Alcune persone digiunano per quaranta giorni prima di Pasqua.; Manche Menschen fasten vierzig Tage vor Ostern.
+it-xd-0154; Pilger; il pellegrino; la pellegrina; C1; Gesellschaft/Religion; Ogni anno migliaia di pellegrini camminano fino a Santiago.; Jedes Jahr wandern Tausende Pilger nach Santiago.
+it-xd-0155; Atheist; l'ateo; l'atea; C1; Gesellschaft/Religion; È ateo e non va mai in chiesa.; Er ist Atheist und geht nie in die Kirche.
+it-xd-0156; Religionsfreiheit; la libertà religiosa; la libertà di religione; B2; Gesellschaft/Religion; In Europa la libertà religiosa è un diritto fondamentale.; In Europa ist Religionsfreiheit ein Grundrecht.
+it-xd-0157; Ritual; il rituale; il rito; B2; Gesellschaft/Religion; Accendere le candele è un rituale antico.; Kerzen anzuzünden ist ein altes Ritual.
+it-xd-0158; Zeremonie; la cerimonia; ; B1; Gesellschaft/Religion; La cerimonia si è svolta in una piccola cappella.; Die Zeremonie fand in einer kleinen Kapelle statt.
+it-xd-0159; Meditation; la meditazione; ; B1; Gesellschaft/Religion; Dieci minuti di meditazione mi aiutano a rilassarmi.; Zehn Minuten Meditation helfen mir beim Entspannen.
+it-xd-0160; Weihnachten; il Natale; ; A1; Freizeit/Feste & Feiern; Ogni anno a Natale andiamo a trovare i nonni.; Jedes Jahr an Weihnachten besuchen wir die Großeltern.
+it-xd-0161; Weihnachtsbaum; l'albero di Natale; ; A1; Freizeit/Feste & Feiern; I bambini stanno decorando l'albero di Natale.; Die Kinder schmücken den Weihnachtsbaum.
+it-xd-0162; Weihnachtsmann; Babbo Natale; ; A1; Freizeit/Feste & Feiern; Babbo Natale porta i regali durante la notte.; Der Weihnachtsmann bringt die Geschenke in der Nacht.
+it-xd-0163; Heiligabend; la vigilia di Natale; ; A2; Freizeit/Feste & Feiern; La vigilia di Natale apriamo i regali.; An Heiligabend packen wir unsere Geschenke aus.
+it-xd-0164; Advent; l'Avvento; ; B1; Freizeit/Feste & Feiern; Durante l'Avvento accendiamo una nuova candela ogni domenica.; Im Advent zünden wir jeden Sonntag eine neue Kerze an.
+it-xd-0165; Ostern; la Pasqua; ; A1; Freizeit/Feste & Feiern; A Pasqua viene a trovarci tutta la famiglia.; An Ostern kommt die ganze Familie zu Besuch.
+it-xd-0166; Osterei; l'uovo di Pasqua; ; A1; Freizeit/Feste & Feiern; I bambini cercano le uova di Pasqua in giardino.; Die Kinder suchen im Garten Ostereier.
+it-xd-0167; Pfingsten; la Pentecoste; ; B1; Freizeit/Feste & Feiern; A Pentecoste andiamo in campeggio sul lago.; An Pfingsten fahren wir zum Zelten an den See.
+it-xd-0168; Silvester; San Silvestro; la notte di San Silvestro, l'ultimo dell'anno; A2; Freizeit/Feste & Feiern; A San Silvestro guardiamo i fuochi d'artificio.; An Silvester schauen wir uns das Feuerwerk an.
+it-xd-0169; Neujahr; il Capodanno; il primo dell'anno; A2; Freizeit/Feste & Feiern; A Capodanno tutti dormono fino a tardi.; An Neujahr schlafen alle lange.
+it-xd-0170; Karneval; il Carnevale; ; A2; Freizeit/Feste & Feiern; A Carnevale i bambini si travestono da pirati.; Im Karneval verkleiden sich die Kinder als Piraten.
+it-xd-0171; Muttertag; la festa della mamma; ; A2; Freizeit/Feste & Feiern; Per la festa della mamma preparo la colazione a mia madre.; Am Muttertag mache ich meiner Mutter Frühstück.
+it-xd-0172; Valentinstag; San Valentino; la festa di San Valentino; A2; Freizeit/Feste & Feiern; A San Valentino le ha mandato delle rose rosse.; Am Valentinstag schickte er ihr rote Rosen.
+it-xd-0173; Halloween; Halloween; ; A2; Freizeit/Feste & Feiern; A Halloween i bambini vanno di porta in porta.; An Halloween gehen Kinder von Tür zu Tür.
+it-xd-0174; Fest (Feier); la festa; la celebrazione; A2; Freizeit/Feste & Feiern; Tutto il paese è venuto alla festa in piazza.; Das ganze Dorf kam zum Fest auf dem Marktplatz.
+it-xd-0175; Gastgeber; il padrone di casa; la padrona di casa; B1; Freizeit/Feste & Feiern; I nostri padroni di casa avevano preparato una cena splendida.; Unsere Gastgeber hatten ein wunderbares Abendessen gekocht.
+it-xd-0176; Luftballon; il palloncino; ; A1; Freizeit/Feste & Feiern; Per la festa ci servono cinquanta palloncini.; Wir brauchen fünfzig Luftballons für die Party.
+it-xd-0177; gratulieren; congratularsi; fare gli auguri; A2; Freizeit/Feste & Feiern; Ci siamo congratulati con lei per l'esame superato.; Wir haben ihr zur bestandenen Prüfung gratuliert.
+it-xd-0178; Glückwunsch; le congratulazioni; gli auguri; A2; Freizeit/Feste & Feiern; Congratulazioni per aver superato l'esame di guida!; Herzlichen Glückwunsch zur bestandenen Führerscheinprüfung!
+it-xd-0179; Geldschein; la banconota; ; A2; Wirtschaft/Finanzen/Geld & Zahlung; Il distributore automatico non accetta banconote grandi.; Der Automat nimmt keine großen Geldscheine.
+it-xd-0180; Kleingeld; gli spiccioli; la moneta; A2; Wirtschaft/Finanzen/Geld & Zahlung; Hai degli spiccioli per il parchimetro?; Hast du Kleingeld für die Parkuhr?
+it-xd-0181; Taschengeld; la paghetta; ; A2; Wirtschaft/Finanzen/Geld & Zahlung; Ricevo dieci euro di paghetta alla settimana.; Ich bekomme zehn Euro Taschengeld in der Woche.
+it-xd-0182; Sparschwein; il salvadanaio; ; A2; Wirtschaft/Finanzen/Geld & Zahlung; Mette ogni moneta nel suo salvadanaio.; Sie steckt jede Münze in ihr Sparschwein.
+it-xd-0183; Ersparnisse; i risparmi; ; B1; Wirtschaft/Finanzen/Geld & Zahlung; Hanno speso tutti i loro risparmi per il viaggio.; Sie haben ihre ganzen Ersparnisse für die Reise ausgegeben.
+it-xd-0184; Finanzen; le finanze; ; B1; Wirtschaft/Finanzen/Geld & Zahlung; Mio padre si occupa delle finanze della famiglia.; Mein Vater kümmert sich um die Finanzen der Familie.
+it-xd-0185; finanziell; finanziario; economico; B1; Wirtschaft/Finanzen/Geld & Zahlung; Molti studenti hanno difficoltà finanziarie alla fine del mese.; Viele Studenten haben am Monatsende finanzielle Probleme.
+it-xd-0186; finanzieren; finanziare; ; B2; Wirtschaft/Finanzen/Geld & Zahlung; Come pensi di finanziare i tuoi studi?; Wie willst du dein Studium finanzieren?
+it-xd-0187; Luxus; il lusso; ; B1; Wirtschaft/Finanzen/Geld & Zahlung; Il taxi è un lusso che mi concedo raramente.; Ein Taxi ist ein Luxus, den ich mir selten gönne.
+it-xd-0188; kostbar; prezioso; ; B2; Wirtschaft/Finanzen/Geld & Zahlung; Il museo custodisce le pietre preziose in una cassaforte.; Das Museum bewahrt die kostbaren Steine in einem Tresor auf.
+it-xd-0189; Falschgeld; il denaro falso; i soldi falsi; B2; Wirtschaft/Finanzen/Geld & Zahlung; La commessa si è accorta del denaro falso.; Die Verkäuferin bemerkte das Falschgeld.
+it-xd-0190; Geldsorgen; i problemi di soldi; i problemi economici, le preoccupazioni economiche; B2; Wirtschaft/Finanzen/Geld & Zahlung; Da quando ha perso il lavoro ha problemi di soldi.; Seit er seine Arbeit verloren hat, hat er Geldsorgen.
+it-xd-0191; verschwenderisch; sprecone; spendaccione; B2; Wirtschaft/Finanzen/Geld & Zahlung; Non essere così sprecone con l'acqua calda.; Sei nicht so verschwenderisch mit dem warmen Wasser.
+it-xd-0192; Kaution; la cauzione; il deposito cauzionale; B2; Wirtschaft/Finanzen/Geld & Zahlung; Abbiamo pagato una cauzione di due mensilità d'affitto.; Wir haben eine Kaution von zwei Monatsmieten bezahlt.
+it-xd-0193; Rate; la rata; ; B2; Wirtschaft/Finanzen/Geld & Zahlung; Paghiamo la macchina in rate mensili.; Wir bezahlen das Auto in monatlichen Raten.
+it-xd-0194; Bankkonto; il conto in banca; il conto corrente, il conto bancario; A2; Wirtschaft/Finanzen/Bank; Per lo stipendio ti serve un conto in banca.; Für dein Gehalt brauchst du ein Bankkonto.
+it-xd-0195; Kontonummer; il numero di conto; ; A2; Wirtschaft/Finanzen/Bank; Scrivi per favore il tuo numero di conto sul modulo.; Bitte schreib deine Kontonummer auf das Formular.
+it-xd-0196; Bankkarte; il bancomat; la carta di debito; A2; Wirtschaft/Finanzen/Bank; Lo sportello automatico si è tenuto il mio bancomat.; Der Automat hat meine Bankkarte eingezogen.
+it-xd-0197; Kontostand; il saldo del conto; il saldo; B1; Wirtschaft/Finanzen/Bank; Controllo il saldo del conto sul cellulare.; Ich prüfe meinen Kontostand auf dem Handy.
+it-xd-0198; Sparkonto; il conto di risparmio; il libretto di risparmio; B1; Wirtschaft/Finanzen/Bank; I miei nonni hanno aperto un conto di risparmio per me.; Meine Großeltern haben ein Sparkonto für mich eröffnet.
+it-xd-0199; Online-Banking; l'home banking; l'online banking, la banca online; B1; Wirtschaft/Finanzen/Bank; Con l'home banking puoi pagare le bollette da casa.; Mit Online-Banking kannst du Rechnungen von zu Hause bezahlen.
+it-xd-0200; Überziehungskredit; lo scoperto di conto; lo scoperto, il fido; C1; Wirtschaft/Finanzen/Bank; Lo scoperto di conto è un modo caro per prendere soldi in prestito.; Ein Überziehungskredit ist eine teure Art, sich Geld zu leihen.
+it-xd-0201; Darlehen; il prestito; ; B2; Wirtschaft/Finanzen/Bank; Hanno chiesto un prestito per comprare la casa.; Sie haben ein Darlehen aufgenommen, um das Haus zu kaufen.
+it-xd-0202; Lebenshaltungskosten; il costo della vita; ; B2; Wirtschaft/Finanzen/Konjunktur; Nelle grandi città il costo della vita è alto.; Die Lebenshaltungskosten in Großstädten sind hoch.
+it-xd-0203; Preisanstieg; l'aumento dei prezzi; il rincaro; B2; Wirtschaft/Finanzen/Konjunktur; Tutti parlano dell'aumento dei prezzi dell'energia.; Alle reden über den Preisanstieg bei der Energie.
+it-xd-0204; Wirtschaftskrise; la crisi economica; ; B2; Wirtschaft/Finanzen/Konjunktur; Durante la crisi economica molte persone hanno perso il lavoro.; In der Wirtschaftskrise verloren viele Menschen ihre Arbeit.
+it-xd-0205; Finanzkrise; la crisi finanziaria; ; B2; Wirtschaft/Finanzen/Konjunktur; Durante la crisi finanziaria hanno chiuso diverse banche.; Während der Finanzkrise schlossen mehrere Banken.
+it-xd-0206; wirtschaftlich; economico; ; B1; Wirtschaft/Finanzen/Konjunktur; La regione ha gravi problemi economici.; Die Region hat ernste wirtschaftliche Probleme.
+it-xd-0207; Industrie; l'industria; ; B1; Wirtschaft/Finanzen/Unternehmen; L'industria di questa regione ha bisogno di più lavoratori qualificati.; Die Industrie in dieser Region braucht mehr Fachkräfte.
+it-xd-0208; Export; l'esportazione; l'export; B1; Wirtschaft/Finanzen/Markt & Handel; Le automobili sono l'esportazione più importante del paese.; Autos sind der wichtigste Export des Landes.
+it-xd-0209; Import; l'importazione; l'import; B1; Wirtschaft/Finanzen/Markt & Handel; L'importazione di banane dal Sudamerica è aumentata.; Der Import von Bananen aus Südamerika ist gestiegen.
+it-xd-0210; Marktwirtschaft; l'economia di mercato; ; C1; Wirtschaft/Finanzen/Markt & Handel; In un'economia di mercato i prezzi dipendono dalla domanda e dall'offerta.; In einer Marktwirtschaft hängen die Preise von Angebot und Nachfrage ab.
+it-xd-0211; Kapitalismus; il capitalismo; ; C1; Wirtschaft/Finanzen/Markt & Handel; L'autore di questo libro critica il capitalismo moderno.; Der Autor dieses Buches kritisiert den modernen Kapitalismus.
+it-xd-0212; Sozialismus; il socialismo; ; C1; Gesellschaft/Politik/Parteien; Il partito voleva costruire il socialismo.; Die Partei wollte den Sozialismus aufbauen.
+it-xd-0213; Kommunismus; il comunismo; ; B2; Gesellschaft/Politik/Parteien; Il comunismo è finito nell'Europa dell'Est intorno al 1990.; Der Kommunismus endete in Osteuropa um 1990.
+it-xd-0214; Millionär; il milionario; la milionaria; B1; Wirtschaft/Finanzen/Geld & Zahlung; Dopo la vincita alla lotteria era diventato milionario.; Nach dem Lottogewinn war er Millionär.
+it-xd-0215; Erbschaft; l'eredità; ; B2; Wirtschaft/Finanzen/Geld & Zahlung; Ha comprato l'appartamento con l'eredità della nonna.; Sie kaufte die Wohnung von der Erbschaft ihrer Großmutter.
+it-xd-0216; erben; ereditare; ; B2; Wirtschaft/Finanzen/Geld & Zahlung; Ha ereditato la casa da suo zio.; Er hat das Haus von seinem Onkel geerbt.
+it-xd-0217; Steuersatz; l'aliquota fiscale; l'aliquota; B2; Wirtschaft/Finanzen/Steuern; Per i generi alimentari l'aliquota fiscale è più bassa.; Der Steuersatz für Lebensmittel ist niedriger.
+it-xd-0218; Steuerrückerstattung; il rimborso fiscale; il rimborso delle tasse; C1; Wirtschaft/Finanzen/Steuern; Ho usato il rimborso fiscale per una vacanza.; Ich habe meine Steuerrückerstattung für einen Urlaub verwendet.
+it-xd-0219; historisch; storico; ; B1; Kultur/Geschichte; Il film si basa su fatti storici.; Der Film beruht auf historischen Ereignissen.
+it-xd-0220; Historiker; lo storico; la storica; B1; Kultur/Geschichte; Gli storici discutono ancora sulle cause della guerra.; Historiker streiten noch über die Ursachen des Krieges.
+it-xd-0221; Epoche; l'epoca; l'era; B2; Kultur/Geschichte; Il Rinascimento fu un'epoca di grandi artisti.; Die Renaissance war eine Epoche großer Künstler.
+it-xd-0222; Steinzeit; l'età della pietra; ; B1; Kultur/Geschichte; Nell'età della pietra gli uomini facevano gli attrezzi di pietra.; Die Menschen in der Steinzeit stellten Werkzeuge aus Stein her.
+it-xd-0223; Höhlenmalerei; la pittura rupestre; ; B2; Kultur/Geschichte; Queste pitture rupestri hanno più di trentamila anni.; Diese Höhlenmalereien sind über dreißigtausend Jahre alt.
+it-xd-0224; Pyramide; la piramide; ; A2; Kultur/Geschichte; Le piramidi d'Egitto sono molto antiche.; Die Pyramiden in Ägypten sind sehr alt.
+it-xd-0225; Mumie; la mummia; ; B1; Kultur/Geschichte; Il museo ha una vera mummia egizia.; Das Museum hat eine echte ägyptische Mumie.
+it-xd-0226; Antike; l'antichità; ; C1; Kultur/Geschichte; Il teatro è nato nell'antichità in Grecia.; Das Theater ist in der Antike in Griechenland entstanden.
+it-xd-0227; Römer; il romano; ; A2; Kultur/Geschichte; I Romani costruirono strade in tutta Europa.; Die Römer bauten Straßen in ganz Europa.
+it-xd-0228; Reich (Herrschaftsgebiet); l'impero; ; B1; Kultur/Geschichte; L'Impero romano era grandissimo e molto potente.; Das Römische Reich war riesig und sehr mächtig.
+it-xd-0229; Herrscher; il sovrano; il regnante; B1; Kultur/Geschichte; Il sovrano voleva rendere il suo impero ancora più grande.; Der Herrscher wollte sein Reich noch größer machen.
+it-xd-0230; Thron; il trono; ; B1; Kultur/Geschichte; Il giovane principe salì al trono a sedici anni.; Der junge Prinz bestieg mit sechzehn den Thron.
+it-xd-0231; Krone; la corona; ; A2; Kultur/Geschichte; La corona della regina è custodita nella torre.; Die Krone der Königin wird im Turm aufbewahrt.
+it-xd-0232; Krönung; l'incoronazione; ; C1; Kultur/Geschichte; Milioni di persone hanno visto l'incoronazione in televisione.; Millionen sahen die Krönung im Fernsehen.
+it-xd-0233; Prinz; il principe; ; A1; Kultur/Geschichte; Il principe viveva in un grande castello.; Der Prinz wohnte in einem großen Schloss.
+it-xd-0234; Prinzessin; la principessa; ; A1; Kultur/Geschichte; La bambina vuole essere una principessa.; Das kleine Mädchen will eine Prinzessin sein.
+it-xd-0235; Adel; la nobiltà; l'aristocrazia; C1; Kultur/Geschichte; In passato la nobiltà possedeva gran parte della terra.; Früher besaß der Adel den größten Teil des Landes.
+it-xd-0236; Schwert; la spada; ; B1; Kultur/Geschichte; Il cavaliere estrasse la spada e cavalcò verso il castello.; Der Ritter zog sein Schwert und ritt auf die Burg zu.
+it-xd-0237; Rüstung; l'armatura; ; B2; Kultur/Geschichte; L'armatura di un cavaliere era molto pesante.; Die Rüstung eines Ritters war sehr schwer.
+it-xd-0238; Schlacht; la battaglia; ; B1; Kultur/Geschichte; Migliaia di soldati morirono nella battaglia.; In der Schlacht starben Tausende Soldaten.
+it-xd-0239; Eroberung; la conquista; ; C1; Kultur/Geschichte; La conquista della città durò tre mesi.; Die Eroberung der Stadt dauerte drei Monate.
+it-xd-0240; Wikinger; il vichingo; ; B1; Kultur/Geschichte; I Vichinghi arrivarono in nave fino in America.; Die Wikinger segelten bis nach Amerika.
+it-xd-0241; Pest; la peste; ; B2; Kultur/Geschichte; Nel Medioevo la peste uccise molte persone.; Die Pest tötete im Mittelalter viele Menschen.
+it-xd-0242; Ruine; la rovina; il rudere; B1; Kultur/Geschichte; Abbiamo fatto un picnic tra le rovine del castello.; Wir machten ein Picknick zwischen den Ruinen der Burg.
+it-xd-0243; Schatz; il tesoro; ; A2; Kultur/Geschichte; I pirati seppellirono il loro tesoro su un'isola.; Die Piraten vergruben ihren Schatz auf einer Insel.
+it-xd-0244; Entdecker; l'esploratore; l'esploratrice; B1; Kultur/Geschichte; L'esploratore viaggiò lungo il Rio delle Amazzoni.; Der Entdecker reiste den Amazonas hinunter.
+it-xd-0245; Renaissance; il Rinascimento; ; B2; Kultur/Geschichte; Firenze è famosa per l'arte del Rinascimento.; Florenz ist berühmt für die Kunst der Renaissance.
+it-xd-0246; Kolonie; la colonia; ; B2; Kultur/Geschichte; L'India un tempo era una colonia britannica.; Indien war einst eine britische Kolonie.
+it-xd-0247; Kolonialismus; il colonialismo; ; C1; Kultur/Geschichte; Molti paesi africani sentono ancora gli effetti del colonialismo.; Viele afrikanische Länder spüren noch die Folgen des Kolonialismus.
+it-xd-0248; Sklaverei; la schiavitù; ; B1; Kultur/Geschichte; La schiavitù fu abolita nel diciannovesimo secolo.; Die Sklaverei wurde im neunzehnten Jahrhundert abgeschafft.
+it-xd-0249; Aufklärung (Epoche); l'Illuminismo; ; C1; Kultur/Geschichte; Kant è uno dei grandi pensatori dell'Illuminismo.; Kant ist einer der großen Denker der Aufklärung.
+it-xd-0250; Industrialisierung; l'industrializzazione; ; C1; Kultur/Geschichte; L'industrializzazione portò molte persone nelle città.; Die Industrialisierung brachte viele Menschen in die Städte.
+it-xd-0251; Aufstand; la rivolta; l'insurrezione, la ribellione; C1; Kultur/Geschichte; La rivolta fu repressa dall'esercito in pochi giorni.; Der Aufstand wurde in wenigen Tagen von der Armee niedergeschlagen.
+it-xd-0252; Rebell; il ribelle; la ribelle; B2; Kultur/Geschichte; I ribelli presero il controllo della capitale.; Die Rebellen übernahmen die Kontrolle über die Hauptstadt.
+it-xd-0253; Weltkrieg; la guerra mondiale; ; B1; Kultur/Geschichte; Il mio bisnonno combatté nella Prima guerra mondiale.; Mein Urgroßvater kämpfte im Ersten Weltkrieg.
+it-xd-0254; Nationalsozialismus; il nazionalsocialismo; il nazismo; B2; Kultur/Geschichte; A scuola studiamo molto il nazionalsocialismo.; In der Schule lernen wir viel über den Nationalsozialismus.
+it-xd-0255; Holocaust; l'Olocausto; la Shoah; B1; Kultur/Geschichte; Durante l'Olocausto furono uccisi sei milioni di ebrei.; Im Holocaust wurden sechs Millionen Juden ermordet.
+it-xd-0256; Verfolgung; la persecuzione; ; C1; Kultur/Geschichte; Molti scrittori lasciarono il paese a causa della persecuzione.; Viele Schriftsteller verließen wegen der Verfolgung das Land.
+it-xd-0257; Widerstand; la resistenza; ; B2; Kultur/Geschichte; Gli studenti facevano parte della resistenza contro Hitler.; Die Studenten gehörten zum Widerstand gegen Hitler.
+it-xd-0258; Propaganda; la propaganda; ; C1; Kultur/Geschichte; I giornali erano pieni di propaganda.; Die Zeitungen waren voller Propaganda.
+it-xd-0259; Wiedervereinigung; la riunificazione; ; C1; Kultur/Geschichte; La riunificazione tedesca avvenne nel 1990.; Die deutsche Wiedervereinigung fand 1990 statt.
+it-xd-0260; Archäologie; l'archeologia; ; B2; Kultur/Geschichte; Vuole studiare archeologia all'università di Roma.; Sie möchte an der Universität in Rom Archäologie studieren.
+it-xd-0261; Kultur; la cultura; ; A2; Kultur/Kunst & Museum; Mi piace conoscere la cultura di altri paesi.; Ich lerne gern die Kultur anderer Länder kennen.
+it-xd-0262; kulturell; culturale; ; B1; Kultur/Kunst & Museum; La città ha una ricca vita culturale.; Die Stadt hat ein reiches kulturelles Leben.
+it-xd-0263; Malerei; la pittura; ; B1; Kultur/Kunst & Museum; Mia sorella si interessa molto di pittura moderna.; Meine Schwester interessiert sich sehr für moderne Malerei.
+it-xd-0264; Maler (Künstler); il pittore; la pittrice; A2; Kultur/Kunst & Museum; Van Gogh è un famoso pittore olandese.; Van Gogh ist ein berühmter niederländischer Maler.
+it-xd-0265; Kunstgeschichte; la storia dell'arte; ; B1; Kultur/Kunst & Museum; Mia sorella studia storia dell'arte a Bologna.; Meine Schwester studiert Kunstgeschichte in Bologna.
+it-xd-0266; Statue; la statua; ; A2; Kultur/Kunst & Museum; In mezzo alla piazza c'è una statua di bronzo.; Mitten auf dem Platz steht eine Statue aus Bronze.
+it-xd-0267; Skizze; lo schizzo; ; B1; Kultur/Kunst & Museum; L'artista ha fatto un rapido schizzo del ponte.; Der Künstler machte eine schnelle Skizze der Brücke.
+it-xd-0268; Atelier; l'atelier; lo studio; B2; Kultur/Kunst & Museum; Il pittore lavora in un atelier luminoso sotto il tetto.; Der Maler arbeitet in einem hellen Atelier unter dem Dach.
+it-xd-0269; Talent; il talento; ; B1; Kultur/Kunst & Museum; Ha un vero talento per il disegno.; Sie hat ein echtes Talent zum Zeichnen.
+it-xd-0270; begabt; dotato; talentuoso; B1; Kultur/Kunst & Museum; È un giovane musicista molto dotato.; Er ist ein sehr begabter junger Musiker.
+it-xd-0271; kreativ; creativo; ; B1; Kultur/Kunst & Museum; Durante l'ora di arte possiamo essere creativi.; Im Kunstunterricht dürfen wir kreativ sein.
+it-xd-0272; Kreativität; la creatività; ; B2; Kultur/Kunst & Museum; Questo lavoro richiede molta creatività e pazienza.; Diese Arbeit erfordert viel Kreativität und Geduld.
+it-xd-0273; Inspiration; l'ispirazione; ; B2; Kultur/Kunst & Museum; Il mare era la sua più grande ispirazione.; Das Meer war seine größte Inspiration.
+it-xd-0274; Eintritt; l'ingresso; l'entrata, il biglietto d'ingresso; A2; Kultur/Kunst & Museum; La domenica l'ingresso al museo è gratuito.; Sonntags ist der Eintritt ins Museum frei.
+it-xd-0275; Graffiti; i graffiti; ; B1; Kultur/Kunst & Museum; Alcuni pensano che i graffiti siano vera arte.; Manche Leute halten Graffiti für echte Kunst.
+it-xd-0276; Held; l'eroe; l'eroina; A2; Kultur/Literatur; L'eroe della storia è un giovane contadino.; Der Held der Geschichte ist ein junger Bauer.
+it-xd-0277; Bösewicht; il cattivo; ; B1; Kultur/Literatur; Alla fine il cattivo viene catturato.; Am Ende wird der Bösewicht gefasst.
+it-xd-0278; Hauptfigur; il protagonista; la protagonista, il personaggio principale; B1; Kultur/Literatur; La protagonista del romanzo è una ragazza di dodici anni.; Die Hauptfigur des Romans ist ein zwölfjähriges Mädchen.
+it-xd-0279; Erzähler; il narratore; la narratrice; B2; Kultur/Literatur; Il narratore racconta la storia al passato.; Der Erzähler erzählt die Geschichte in der Vergangenheit.
+it-xd-0280; Kurzgeschichte; il racconto; il racconto breve; A2; Kultur/Literatur; Durante la lezione d'inglese abbiamo letto un racconto.; Im Englischunterricht haben wir eine Kurzgeschichte gelesen.
+it-xd-0281; Abenteuer; l'avventura; ; A2; Kultur/Literatur; Il libro è pieno di avventure emozionanti.; Das Buch ist voller spannender Abenteuer.
+it-xd-0282; Biografie; la biografia; ; B1; Kultur/Literatur; Sto leggendo una biografia di Marie Curie.; Ich lese eine Biografie über Marie Curie.
+it-xd-0283; Autobiografie; l'autobiografia; ; B2; Kultur/Literatur; La cantante ha scritto la sua autobiografia a quarant'anni.; Die Sängerin schrieb mit vierzig ihre Autobiografie.
+it-xd-0284; Sachbuch; il saggio; il libro di saggistica; B2; Kultur/Literatur; Preferisce leggere saggi piuttosto che romanzi.; Er liest lieber Sachbücher als Romane.
+it-xd-0285; Titel; il titolo; ; A2; Kultur/Literatur; Non mi ricordo il titolo del libro.; Ich kann mich nicht an den Titel des Buches erinnern.
+it-xd-0286; Fabel; la favola; ; B1; Kultur/Literatur; Nelle favole gli animali possono parlare.; In Fabeln können Tiere sprechen.
+it-xd-0287; Legende; la leggenda; ; B1; Kultur/Literatur; Secondo la leggenda un drago viveva nella grotta.; Der Legende nach lebte ein Drache in der Höhle.
+it-xd-0288; Mythos; il mito; ; B2; Kultur/Literatur; Abbiamo letto miti greci su dei ed eroi.; Wir lasen griechische Mythen über Götter und Helden.
+it-xd-0289; Reim; la rima; ; B1; Kultur/Literatur; I bambini adorano le poesie con rime divertenti.; Kinder lieben Gedichte mit lustigen Reimen.
+it-xd-0290; Hexe; la strega; ; A2; Kultur/Literatur; Nella fiaba la strega vive in un bosco.; Im Märchen wohnt die Hexe in einem Wald.
+it-xd-0291; Drache; il drago; ; A2; Kultur/Literatur; Il cavaliere doveva combattere contro un drago.; Der Ritter musste gegen einen Drachen kämpfen.
+it-xd-0292; Science-Fiction; la fantascienza; ; B1; Kultur/Literatur; Mio fratello legge solo libri di fantascienza.; Mein Bruder liest nur Science-Fiction.
+it-xd-0293; Theaterstück; l'opera teatrale; lo spettacolo teatrale, la recita; A2; Kultur/Theater & Film; A fine anno la nostra classe mette in scena un'opera teatrale.; Unsere Klasse führt zum Schuljahresende ein Theaterstück auf.
+it-xd-0294; Drama; il dramma; ; B1; Kultur/Theater & Film; Il dramma parla di una famiglia in crisi.; Das Drama handelt von einer Familie in der Krise.
+it-xd-0295; Akt (Theater); l'atto; ; B2; Kultur/Theater & Film; L'eroe della tragedia muore nell'ultimo atto.; Der Held der Tragödie stirbt im letzten Akt.
+it-xd-0296; Szene; la scena; ; B1; Kultur/Theater & Film; La scena migliore del film si svolge sulla spiaggia.; Die beste Szene des Films spielt am Strand.
+it-xd-0297; Musical; il musical; ; A2; Kultur/Theater & Film; Abbiamo visto un musical a Milano.; Wir haben in Mailand ein Musical gesehen.
+it-xd-0298; Ballett; il balletto; ; A2; Kultur/Theater & Film; Stasera andiamo a vedere un balletto alla Scala.; Heute Abend sehen wir uns ein Ballett in der Scala an.
+it-xd-0299; Tänzer; il ballerino; la ballerina; A2; Kultur/Theater & Film; I ballerini si allenavano per ore ogni giorno.; Die Tänzer übten jeden Tag stundenlang.
+it-xd-0300; Clown; il pagliaccio; il clown; A1; Kultur/Theater & Film; Il pagliaccio ha fatto ridere tutti i bambini.; Der Clown brachte alle Kinder zum Lachen.
+it-xd-0301; Zauberer; il mago; il prestigiatore; A2; Kultur/Theater & Film; Il mago ha tirato fuori un coniglio dal cappello.; Der Zauberer zog ein Kaninchen aus seinem Hut.
+it-xd-0302; Komiker; il comico; la comica; B1; Kultur/Theater & Film; Il comico raccontava barzellette sulla sua famiglia.; Der Komiker erzählte Witze über seine Familie.
+it-xd-0303; Zeichentrickfilm; il cartone animato; il film d'animazione; A2; Kultur/Theater & Film; I bambini stanno guardando un cartone animato.; Die Kinder schauen einen Zeichentrickfilm.
+it-xd-0304; Horrorfilm; il film horror; il film dell'orrore; A2; Kultur/Theater & Film; Non guardo mai un film horror da solo.; Ich schaue nie allein einen Horrorfilm.
+it-xd-0305; Thriller; il thriller; ; B1; Kultur/Theater & Film; Il thriller era così avvincente che non riuscivo a dormire.; Der Thriller war so spannend, dass ich nicht schlafen konnte.
+it-xd-0306; Fortsetzung; il seguito; ; B2; Kultur/Theater & Film; Il seguito non è bello come il primo film.; Die Fortsetzung ist nicht so gut wie der erste Film.
+it-xd-0307; Kritiker; il critico; ; B2; Kultur/Theater & Film; I critici erano entusiasti del nuovo spettacolo.; Die Kritiker waren von dem neuen Stück begeistert.
+it-xd-0308; Festival; il festival; ; A2; Kultur/Musik; A luglio andiamo a un festival di musica.; Im Juli gehen wir auf ein Musikfestival.
+it-xd-0309; Musiker; il musicista; la musicista; A2; Kultur/Musik; Il musicista per strada suonava il violino.; Der Musiker auf der Straße spielte Geige.
+it-xd-0310; Instrument; lo strumento; lo strumento musicale; A2; Kultur/Musik; Suoni uno strumento nel tempo libero?; Spielst du in deiner Freizeit ein Instrument?
+it-xd-0311; Trommel; il tamburo; ; A2; Kultur/Musik; Il bambino suonava un piccolo tamburo.; Der Junge schlug auf eine kleine Trommel.
+it-xd-0312; Blockflöte; il flauto dolce; ; A2; Kultur/Musik; Molti bambini imparano il flauto dolce alla scuola elementare.; Viele Kinder lernen in der Grundschule Blockflöte.
+it-xd-0313; Saxofon; il sassofono; ; B1; Kultur/Musik; Suona il sassofono in un gruppo jazz.; Er spielt Saxofon in einer Jazzband.
+it-xd-0314; Klarinette; il clarinetto; ; B1; Kultur/Musik; Suona il clarinetto da sei anni.; Sie spielt seit sechs Jahren Klarinette.
+it-xd-0315; Cello; il violoncello; ; B1; Kultur/Musik; Il violoncello ha un suono profondo e caldo.; Das Cello hat einen tiefen, warmen Klang.
+it-xd-0316; Mundharmonika; l'armonica a bocca; l'armonica; B1; Kultur/Musik; Mio nonno suona l'armonica a bocca vicino al fuoco.; Mein Großvater spielt am Feuer Mundharmonika.
+it-xd-0317; Akkordeon; la fisarmonica; ; B1; Kultur/Musik; Un vecchio signore suonava la fisarmonica per strada.; Ein alter Mann spielte auf der Straße Akkordeon.
+it-xd-0318; Popmusik; la musica pop; il pop; A2; Kultur/Musik; La maggior parte dei miei amici ascolta musica pop.; Die meisten meiner Freunde hören Popmusik.
+it-xd-0319; Rockmusik; la musica rock; il rock; A2; Kultur/Musik; Mio padre ama ancora la musica rock degli anni Settanta.; Mein Vater liebt noch immer die Rockmusik der Siebziger.
+it-xd-0320; Hip-Hop; l'hip hop; ; A2; Kultur/Musik; Nel tempo libero balla l'hip hop con gli amici.; In seiner Freizeit tanzt er mit Freunden Hip-Hop.
+it-xd-0321; Jazz; il jazz; ; B1; Kultur/Musik; Il venerdì in questo locale si suona jazz dal vivo.; Freitags gibt es in diesem Lokal Live-Jazz.
+it-xd-0322; Klassik; la musica classica; ; B1; Kultur/Musik; Quando studio ascolto sempre musica classica.; Beim Lernen höre ich immer Klassik.
+it-xd-0323; Volksmusik; la musica popolare; la musica folk; B1; Kultur/Musik; Alla festa suonavano musica popolare tradizionale.; Auf dem Fest spielten sie traditionelle Volksmusik.
+it-xd-0324; Album; l'album; ; A2; Kultur/Musik; Il gruppo ha appena pubblicato un nuovo album.; Die Band hat gerade ein neues Album herausgebracht.
+it-xd-0325; Liedtext; il testo della canzone; il testo; B1; Kultur/Musik; Conosco a memoria il testo della canzone.; Ich kenne den Liedtext auswendig.
+it-xd-0326; Refrain; il ritornello; ; B2; Kultur/Musik; Tutti hanno cantato il ritornello insieme alla band.; Alle sangen den Refrain mit der Band mit.
+it-xd-0327; Schallplatte; il disco; il disco in vinile, il vinile; B1; Kultur/Musik; I miei genitori hanno ancora centinaia di vecchi dischi.; Meine Eltern haben noch Hunderte alter Schallplatten.
+it-xd-0328; Tournee; la tournée; il tour; B2; Kultur/Musik; Il gruppo è in tournée in Asia.; Die Band ist auf Tournee in Asien.
+it-xd-0329; wissenschaftlich; scientifico; ; B1; Wissenschaft/Forschung & Methode; Non c'è nessuna prova scientifica per questa idea.; Für diese Idee gibt es keinen wissenschaftlichen Beweis.
+it-xd-0330; Forscher; il ricercatore; la ricercatrice; B1; Wissenschaft/Forschung & Methode; I ricercatori hanno scoperto una nuova specie di rana.; Die Forscher entdeckten eine neue Froschart.
+it-xd-0331; Studie; lo studio; ; B2; Wissenschaft/Forschung & Methode; Un nuovo studio mostra che il sonno ci aiuta a imparare.; Eine neue Studie zeigt, dass Schlaf uns beim Lernen hilft.
+it-xd-0332; Analyse; l'analisi; ; B2; Wissenschaft/Forschung & Methode; L'analisi dei dati ha richiesto diverse settimane.; Die Analyse der Daten dauerte mehrere Wochen.
+it-xd-0333; analysieren; analizzare; ; B2; Wissenschaft/Forschung & Methode; Gli scienziati hanno analizzato l'acqua del lago.; Die Wissenschaftler analysierten das Wasser aus dem See.
+it-xd-0334; Beobachtung; l'osservazione; ; B2; Wissenschaft/Forschung & Methode; Scrivi le tue osservazioni sul quaderno.; Schreib deine Beobachtungen in dein Heft.
+it-xd-0335; Probe (Untersuchung); il campione; ; B2; Wissenschaft/Forschung & Methode; Il medico ha mandato il campione al laboratorio.; Der Arzt schickte die Probe ins Labor.
+it-xd-0336; Mikroskop; il microscopio; ; B1; Wissenschaft/Forschung & Methode; Al microscopio si possono vedere le cellule.; Unter dem Mikroskop kann man die Zellen sehen.
+it-xd-0337; Lupe; la lente d'ingrandimento; ; B1; Wissenschaft/Forschung & Methode; Il bambino osservava la formica con una lente d'ingrandimento.; Der Junge betrachtete die Ameise durch eine Lupe.
+it-xd-0338; Formel; la formula; ; B1; Wissenschaft/Forschung & Methode; Devi imparare questa formula per la verifica.; Diese Formel musst du für den Test lernen.
+it-xd-0339; Erfinder; l'inventore; l'inventrice; B1; Wissenschaft/Forschung & Methode; L'inventore del telefono divenne molto famoso.; Der Erfinder des Telefons wurde sehr berühmt.
+it-xd-0340; Biologe; il biologo; la biologa; B1; Wissenschaft/Biologie; Il biologo studia gli uccelli dell'Artico.; Der Biologe erforscht Vögel in der Arktis.
+it-xd-0341; Skelett; lo scheletro; ; B1; Wissenschaft/Biologie; Il museo espone lo scheletro di una balena.; Das Museum zeigt das Skelett eines Wals.
+it-xd-0342; Fossil; il fossile; ; B2; Wissenschaft/Biologie; Nella roccia abbiamo trovato il fossile di un piccolo pesce.; Wir fanden im Stein das Fossil eines kleinen Fisches.
+it-xd-0343; Physiker; il fisico; ; B2; Wissenschaft/Physik; Albert Einstein era un fisico famoso.; Albert Einstein war ein berühmter Physiker.
+it-xd-0344; Elektrizität; l'elettricità; ; B1; Wissenschaft/Physik; Le prime automobili funzionavano a elettricità.; Die ersten Autos fuhren mit Elektrizität.
+it-xd-0345; Schall; il suono; ; B2; Wissenschaft/Physik; Il suono viaggia più lentamente della luce.; Schall breitet sich langsamer aus als Licht.
+it-xd-0346; Lichtgeschwindigkeit; la velocità della luce; ; B2; Wissenschaft/Physik; Niente può superare la velocità della luce.; Nichts kann die Lichtgeschwindigkeit übertreffen.
+it-xd-0347; Dampf; il vapore; ; B1; Wissenschaft/Physik; Quando l'acqua bolle si trasforma in vapore.; Wenn Wasser kocht, wird es zu Dampf.
+it-xd-0348; Siedepunkt; il punto di ebollizione; ; B2; Wissenschaft/Physik; Il punto di ebollizione dell'acqua è a cento gradi.; Der Siedepunkt von Wasser liegt bei hundert Grad.
+it-xd-0349; Gefrierpunkt; il punto di congelamento; ; B2; Wissenschaft/Physik; Stanotte la temperatura è scesa sotto il punto di congelamento.; Letzte Nacht fiel die Temperatur unter den Gefrierpunkt.
+it-xd-0350; Metall; il metallo; ; A2; Wissenschaft/Chemie; Questa sedia da giardino è fatta di metallo.; Dieser Gartenstuhl ist aus Metall.
+it-xd-0351; Eisen; il ferro; ; A2; Wissenschaft/Chemie; Il vecchio cancello del giardino è di ferro.; Das alte Gartentor ist aus Eisen.
+it-xd-0352; Stahl; l'acciaio; ; B1; Wissenschaft/Chemie; Questo ponte è costruito interamente in acciaio.; Diese Brücke ist ganz aus Stahl gebaut.
+it-xd-0353; Mischung; la miscela; il miscuglio; B1; Wissenschaft/Chemie; L'aria è una miscela di gas diversi.; Luft ist eine Mischung aus verschiedenen Gasen.
+it-xd-0354; plus; più; ; A1; Wissenschaft/Mathematik; Due più tre fa cinque.; Zwei plus drei ist fünf.
+it-xd-0355; minus; meno; ; A1; Wissenschaft/Mathematik; Dieci meno quattro fa sei.; Zehn minus vier ist sechs.
+it-xd-0356; mal (beim Rechnen); per; ; A1; Wissenschaft/Mathematik; Tre per quattro fa dodici.; Drei mal vier ist zwölf.
+it-xd-0357; geteilt durch; diviso; diviso per; A1; Wissenschaft/Mathematik; Venti diviso cinque fa quattro.; Zwanzig geteilt durch fünf ist vier.
+it-xd-0358; addieren; addizionare; sommare; A2; Wissenschaft/Mathematik; Prima addiziona i due numeri tra loro.; Addiere zuerst die beiden Zahlen.
+it-xd-0359; subtrahieren; sottrarre; ; A2; Wissenschaft/Mathematik; Sottrai sette da venti e scrivi il risultato.; Subtrahiere sieben von zwanzig und schreib das Ergebnis auf.
+it-xd-0360; multiplizieren; moltiplicare; ; A2; Wissenschaft/Mathematik; Moltiplica la lunghezza per la larghezza.; Multipliziere die Länge mit der Breite.
+it-xd-0361; dividieren; dividere; ; A2; Wissenschaft/Mathematik; Nell'ultimo passaggio dividi il risultato per due.; Im letzten Schritt dividierst du das Ergebnis durch zwei.
+it-xd-0362; Berechnung; il calcolo; ; B2; Wissenschaft/Mathematik; Nel tuo calcolo c'è un errore.; In deiner Berechnung ist ein Fehler.
+it-xd-0363; Ziffer; la cifra; ; B1; Wissenschaft/Mathematik; Il mio numero di telefono ha undici cifre.; Meine Telefonnummer hat elf Ziffern.
+it-xd-0364; Quadratwurzel; la radice quadrata; ; B2; Wissenschaft/Mathematik; La radice quadrata di nove è tre.; Die Quadratwurzel aus neun ist drei.
+it-xd-0365; Rechteck; il rettangolo; ; A2; Wissenschaft/Mathematik; Disegna un rettangolo alla lavagna con il righello.; Zeichne mit dem Lineal ein Rechteck an die Tafel.
+it-xd-0366; Würfel (Geometrie); il cubo; ; B1; Wissenschaft/Mathematik; Un cubo ha sei facce della stessa grandezza.; Ein Würfel hat sechs gleich große Flächen.
+it-xd-0367; Kugel (Geometrie); la sfera; ; B2; Wissenschaft/Mathematik; La Terra è quasi una sfera perfetta.; Die Erde ist fast eine perfekte Kugel.
+it-xd-0368; Durchmesser; il diametro; ; B2; Wissenschaft/Mathematik; La ruota ha un diametro di sessanta centimetri.; Das Rad hat einen Durchmesser von sechzig Zentimetern.
+it-xd-0369; parallel; parallelo; ; B1; Wissenschaft/Mathematik; Le due linee alla lavagna sono parallele.; Die beiden Linien an der Tafel sind parallel.
+it-xd-0370; Geometrie; la geometria; ; B1; Wissenschaft/Mathematik; In geometria stiamo studiando i triangoli.; In Geometrie lernen wir gerade etwas über Dreiecke.
+it-xd-0371; Universum; l'universo; ; B1; Wissenschaft/Raumfahrt; L'universo ha circa quattordici miliardi di anni.; Das Universum ist etwa vierzehn Milliarden Jahre alt.
+it-xd-0372; Komet; la cometa; ; B1; Wissenschaft/Raumfahrt; Nel cielo notturno si vedeva una cometa luminosa.; Am Nachthimmel war ein heller Komet zu sehen.
+it-xd-0373; Mondlandung; lo sbarco sulla Luna; l'allunaggio; B1; Wissenschaft/Raumfahrt; Mio nonno ha visto lo sbarco sulla Luna in televisione.; Mein Großvater sah die Mondlandung im Fernsehen.
+it-xd-0374; Außerirdischer; l'alieno; l'extraterrestre; B1; Wissenschaft/Raumfahrt; Il film parla di un alieno che visita la Terra.; Der Film handelt von einem Außerirdischen, der die Erde besucht.
+it-xd-0375; Sportler; l'atleta; lo sportivo, la sportiva; A2; Freizeit/Sport/Sportarten; Gli atleti si allenavano ogni giorno prima delle gare.; Die Sportler trainierten vor den Wettkämpfen jeden Tag.
+it-xd-0376; Golf; il golf; ; A2; Freizeit/Sport/Sportarten; Mio zio gioca a golf ogni domenica.; Mein Onkel spielt jeden Sonntag Golf.
+it-xd-0377; Hockey; l'hockey; l'hockey su prato; A2; Freizeit/Sport/Sportarten; Gioca a hockey nella squadra della scuola.; Sie spielt Hockey in der Schulmannschaft.
+it-xd-0378; Eishockey; l'hockey su ghiaccio; ; A2; Freizeit/Sport/Sportarten; L'hockey su ghiaccio è molto popolare in Canada.; Eishockey ist in Kanada sehr beliebt.
+it-xd-0379; Rugby; il rugby; ; B1; Freizeit/Sport/Sportarten; Il rugby è un gioco duro con molto contatto fisico.; Rugby ist ein hartes Spiel mit viel Körperkontakt.
+it-xd-0380; Badminton; il badminton; ; A2; Freizeit/Sport/Sportarten; In estate giochiamo a badminton in giardino.; Im Sommer spielen wir im Garten Badminton.
+it-xd-0381; Bowling; il bowling; ; A2; Freizeit/Sport/Sportarten; Per il mio compleanno siamo andati a giocare a bowling.; Zu meinem Geburtstag waren wir beim Bowling.
+it-xd-0382; Boxen; il pugilato; la boxe; B1; Freizeit/Sport/Sportarten; Mia madre pensa che il pugilato sia uno sport pericoloso.; Meine Mutter findet Boxen einen gefährlichen Sport.
+it-xd-0383; Judo; il judo; ; A2; Freizeit/Sport/Sportarten; Il mio fratellino fa judo due volte alla settimana.; Mein kleiner Bruder macht zweimal pro Woche Judo.
+it-xd-0384; Kampfsport; le arti marziali; l'arte marziale; B1; Freizeit/Sport/Sportarten; Il karate e il judo sono arti marziali molto popolari.; Karate und Judo sind beliebte Kampfsportarten.
+it-xd-0385; Fechten; la scherma; ; B2; Freizeit/Sport/Sportarten; La scherma è da molto tempo uno sport olimpico.; Fechten ist schon lange eine olympische Sportart.
+it-xd-0386; Yoga; lo yoga; ; A2; Freizeit/Sport/Sportarten; Mia madre fa yoga ogni mattina.; Meine Mutter macht jeden Morgen Yoga.
+it-xd-0387; Marathon; la maratona; ; B1; Freizeit/Sport/Sportarten; Ha corso la sua prima maratona a cinquant'anni.; Mit fünfzig lief er seinen ersten Marathon.
+it-xd-0388; segeln; andare in barca a vela; veleggiare; A2; Freizeit/Sport/Sportarten; D'estate andiamo in barca a vela sul lago di Garda.; Im Sommer segeln wir auf dem Gardasee.
+it-xd-0389; rudern; remare; ; B1; Freizeit/Sport/Sportarten; Hanno remato attraverso il lago su una vecchia barca.; Sie ruderten in einem alten Boot über den See.
+it-xd-0390; surfen (Wellen); fare surf; surfare; A2; Freizeit/Sport/Sportarten; Abbiamo imparato a fare surf in Portogallo.; Wir haben in Portugal surfen gelernt.
+it-xd-0391; tauchen; fare immersioni; immergersi; A2; Freizeit/Sport/Sportarten; Nel Mar Rosso abbiamo fatto immersioni con le tartarughe.; Im Roten Meer sind wir mit Schildkröten getaucht.
+it-xd-0392; Bergsteigen; l'alpinismo; ; B1; Freizeit/Sport/Sportarten; L'alpinismo sulle Alpi può essere pericoloso.; Bergsteigen in den Alpen kann gefährlich sein.
+it-xd-0393; Wintersport; gli sport invernali; ; A2; Freizeit/Sport/Sportarten; Amiamo gli sport invernali come lo sci e il pattinaggio.; Wir lieben Wintersport wie Skifahren und Eislaufen.
+it-xd-0394; Mannschaftssport; lo sport di squadra; ; B1; Freizeit/Sport/Sportarten; Il calcio è lo sport di squadra più popolare in Europa.; Fußball ist der beliebteste Mannschaftssport in Europa.
+it-xd-0395; Weitsprung; il salto in lungo; ; B1; Freizeit/Sport/Sportarten; Ha vinto il salto in lungo con quasi sei metri.; Sie gewann den Weitsprung mit fast sechs Metern.
+it-xd-0396; Hochsprung; il salto in alto; ; B1; Freizeit/Sport/Sportarten; Nel salto in alto ha superato i due metri.; Im Hochsprung schaffte er zwei Meter.
+it-xd-0397; Spielstand; il punteggio; il risultato; B1; Freizeit/Sport/Wettkampf; Qual è il punteggio alla fine del primo tempo?; Wie ist der Spielstand zur Halbzeit?
+it-xd-0398; Unentschieden; il pareggio; ; B1; Freizeit/Sport/Wettkampf; La partita è finita con un pareggio.; Das Spiel endete mit einem Unentschieden.
+it-xd-0399; Freistoß; il calcio di punizione; la punizione; B1; Freizeit/Sport/Wettkampf; Ha segnato direttamente su calcio di punizione.; Er traf direkt aus einem Freistoß.
+it-xd-0400; Eckball; il calcio d'angolo; il corner; B2; Freizeit/Sport/Wettkampf; Il gol è arrivato dopo un calcio d'angolo.; Das Tor fiel nach einem Eckball.
+it-xd-0401; Kopfball; il colpo di testa; ; B2; Freizeit/Sport/Wettkampf; Ha segnato il gol della vittoria con un colpo di testa.; Er erzielte das Siegtor mit einem Kopfball.
+it-xd-0402; Verteidiger (Sport); il difensore; ; B1; Freizeit/Sport/Wettkampf; Il difensore ha fermato la palla poco prima della linea.; Der Verteidiger stoppte den Ball kurz vor der Linie.
+it-xd-0403; Fan; il tifoso; il fan, la tifosa; A2; Freizeit/Sport/Wettkampf, Kultur/Musik; I tifosi hanno cantato per tutta la partita.; Die Fans sangen während des ganzen Spiels.
+it-xd-0404; Heimspiel; la partita in casa; ; B1; Freizeit/Sport/Wettkampf; In questa stagione la nostra squadra ha vinto tutte le partite in casa.; Unsere Mannschaft hat in dieser Saison alle Heimspiele gewonnen.
+it-xd-0405; Auswärtsspiel; la partita in trasferta; la trasferta; B1; Freizeit/Sport/Wettkampf; Molti tifosi sono andati alla partita in trasferta.; Viele Fans reisten zum Auswärtsspiel.
+it-xd-0406; Finale; la finale; ; A2; Freizeit/Sport/Wettkampf; Dopo una grande partita l'Italia è arrivata in finale.; Nach einem tollen Spiel erreichte Italien das Finale.
+it-xd-0407; Weltmeisterschaft; il campionato mondiale; i Mondiali, il campionato del mondo; A2; Freizeit/Sport/Wettkampf; Il campionato mondiale di calcio si gioca ogni quattro anni.; Die Fußballweltmeisterschaft findet alle vier Jahre statt.
+it-xd-0408; Meister (Sport); il campione; la campionessa; B1; Freizeit/Sport/Wettkampf; La nostra squadra è diventata campione per la prima volta.; Unser Verein wurde zum ersten Mal Meister.
+it-xd-0409; Goldmedaille; la medaglia d'oro; ; A2; Freizeit/Sport/Wettkampf; Ha vinto una medaglia d'oro nel nuoto.; Sie gewann eine Goldmedaille im Schwimmen.
+it-xd-0410; Weltrekord; il record mondiale; il record del mondo; B1; Freizeit/Sport/Wettkampf; Ha battuto il record mondiale di un secondo.; Er brach den Weltrekord um eine Sekunde.
+it-xd-0411; Siegerehrung; la premiazione; ; B2; Freizeit/Sport/Wettkampf; Durante la premiazione non riusciva a smettere di sorridere.; Bei der Siegerehrung konnte sie nicht aufhören zu lächeln.
+it-xd-0412; Gewinner; il vincitore; la vincitrice; A2; Freizeit/Sport/Wettkampf; Il vincitore riceve un premio di cento euro.; Der Gewinner bekommt einen Preis von hundert Euro.
+it-xd-0413; Verlierer; il perdente; lo sconfitto; B1; Freizeit/Sport/Wettkampf; A nessuno piace essere il perdente.; Niemand ist gern der Verlierer.
+it-xd-0414; Ziellinie; il traguardo; la linea del traguardo; B1; Freizeit/Sport/Wettkampf; È caduto poco prima del traguardo.; Kurz vor der Ziellinie stürzte er.
+it-xd-0415; jubeln; esultare; ; B1; Freizeit/Sport/Wettkampf; I tifosi hanno esultato quando è arrivato il gol.; Die Fans jubelten, als das Tor fiel.
+it-xd-0416; Profi; il professionista; la professionista; B1; Freizeit/Sport/Verein; Gioca a calcio da professionista da dieci anni.; Er spielt seit zehn Jahren als Profi Fußball.
+it-xd-0417; Freizeit; il tempo libero; ; A1; Freizeit/Hobbys; Che cosa fai nel tempo libero?; Was machst du in deiner Freizeit?
+it-xd-0418; Fotografie; la fotografia; ; B1; Freizeit/Hobbys; Da anni la fotografia è il suo hobby.; Die Fotografie ist seit Jahren sein Hobby.
+it-xd-0419; häkeln; lavorare all'uncinetto; fare l'uncinetto; B2; Freizeit/Hobbys; Mia nonna lavora all'uncinetto ogni sera davanti alla televisione.; Meine Großmutter häkelt jeden Abend vor dem Fernseher.
+it-xd-0420; Freizeitpark; il parco divertimenti; il parco a tema; A2; Freizeit/Ausgehen; Per il mio compleanno siamo andati al parco divertimenti.; An meinem Geburtstag waren wir im Freizeitpark.
+it-xd-0421; Achterbahn; le montagne russe; ; A2; Freizeit/Ausgehen; Sulle montagne russe avevo molta paura.; In der Achterbahn hatte ich große Angst.
+it-xd-0422; Jahrmarkt; il luna park; la fiera; B1; Freizeit/Ausgehen; Questa settimana in piazza c'è il luna park.; Diese Woche ist auf dem Marktplatz Jahrmarkt.
+it-xd-0423; Spielzeug; il giocattolo; i giocattoli; A1; Freizeit/Spiele; I bambini mettono a posto i loro giocattoli.; Die Kinder räumen ihr Spielzeug weg.
+it-xd-0424; Puppe; la bambola; ; A1; Freizeit/Spiele; Mia figlia gioca ogni giorno con la sua bambola.; Meine Tochter spielt jeden Tag mit ihrer Puppe.
+it-xd-0425; Teddybär; l'orsacchiotto; l'orsetto di peluche; A1; Freizeit/Spiele; Non riesce a dormire senza il suo orsacchiotto.; Ohne seinen Teddybären kann er nicht schlafen.
+it-xd-0426; Kuscheltier; il peluche; il pupazzo di peluche; A2; Freizeit/Spiele; Ha portato in vacanza il suo peluche preferito.; Sie hat ihr liebstes Kuscheltier mit in den Urlaub genommen.
+it-xd-0427; Schaukel; l'altalena; ; A2; Freizeit/Spiele; Al parco i bambini stanno giocando sull'altalena.; Im Park spielen die Kinder auf der Schaukel.
+it-xd-0428; Rutsche; lo scivolo; ; A2; Freizeit/Spiele; Lo scivolo del parco giochi è molto alto.; Die Rutsche auf dem Spielplatz ist sehr hoch.
+it-xd-0429; Verstecken; il nascondino; ; A2; Freizeit/Spiele; Dai, giochiamo a nascondino in giardino!; Komm, lass uns im Garten Verstecken spielen!
+it-xd-0430; Drachen (Spielzeug); l'aquilone; ; A2; Freizeit/Spiele; In autunno facciamo volare l'aquilone nei campi.; Im Herbst lassen wir auf den Feldern unseren Drachen steigen.
+it-xd-0431; Videospiel; il videogioco; ; A2; Freizeit/Spiele; Passa troppo tempo a giocare ai videogiochi.; Er verbringt zu viel Zeit mit Videospielen.
+it-xd-0432; Computerspiel; il gioco per computer; ; A2; Freizeit/Spiele; Questo gioco per computer è per ragazzi sopra i dodici anni.; Dieses Computerspiel ist für Kinder über zwölf.
+it-xd-0433; Spielkonsole; la console; la console per videogiochi; B1; Freizeit/Spiele; A Natale ha ricevuto una nuova console.; Er hat zu Weihnachten eine neue Spielkonsole bekommen.
+it-xd-0434; würfeln (Spiel); tirare il dado; lanciare il dado, tirare i dadi; A2; Freizeit/Spiele; Adesso tocca a te tirare il dado.; Jetzt bist du dran zu würfeln.
+it-xd-0435; Rätsel; l'indovinello; l'enigma, il rompicapo; A2; Freizeit/Spiele; Riesci a risolvere questo indovinello in un minuto?; Kannst du dieses Rätsel in einer Minute lösen?
+it-xd-0436; Kreuzworträtsel; il cruciverba; ; B1; Freizeit/Spiele; Mio padre fa il cruciverba ogni mattina.; Mein Vater löst jeden Morgen das Kreuzworträtsel.
+it-xd-0437; Quiz; il quiz; ; A2; Freizeit/Spiele; La nostra squadra ha vinto il quiz della serata al bar.; Unser Team hat das Quiz des Abends in der Bar gewonnen.
+it-xd-0438; Zaubertrick; il trucco di magia; il gioco di prestigio; A2; Freizeit/Spiele; Mio zio ci ha mostrato un trucco di magia con le carte.; Mein Onkel zeigte uns einen Zaubertrick mit Karten.
+it-xd-0439; Spielverderber; il guastafeste; ; B2; Freizeit/Spiele; Non fare il guastafeste e gioca con noi.; Sei kein Spielverderber und spiel mit uns.
+it-xd-0440; Glücksspiel; il gioco d'azzardo; ; B2; Freizeit/Spiele; Il gioco d'azzardo può diventare presto una dipendenza.; Glücksspiel kann schnell zur Sucht werden.
+it-xd-0441; wetten; scommettere; ; B1; Freizeit/Spiele; Scommetto dieci euro che vince la nostra squadra.; Ich wette zehn Euro, dass unsere Mannschaft gewinnt.
+it-xd-0442; Lotterie; la lotteria; ; B1; Freizeit/Spiele; Da anni gioca alla lotteria ogni settimana.; Sie spielt seit Jahren jede Woche Lotterie.

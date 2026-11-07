@@ -81,7 +81,7 @@ for (const datei of dateien) {
       lemmas.de.add(basis(de));
     }
     if (antwort && lang) {
-      for (const a of [antwort, ...(weitere ? weitere.split(",") : [])]) lemmas[lang].add(norm(a.replace(/^to /i, "")));
+      for (const a of [antwort, ...(weitere ? weitere.split(",") : [])]) lemmas[lang].add(norm(a.trim().replace(/^to /i, "")));
       lemmas[lang].add(norm(antwort));
     }
     const schluessel = paarSchluessel(lang, de, antwort);

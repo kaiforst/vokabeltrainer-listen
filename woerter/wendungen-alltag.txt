@@ -23,7 +23,7 @@ wa-0020; eine Pause machen; to take a break; to have a break; A1; Wendungen/Allt
 wa-0021; nach Hause gehen; to go home; ; A1; Wendungen/Alltag/Tagesablauf; It is late, so I want to go home now.; Es ist spät, deshalb will ich jetzt nach Hause gehen.
 wa-0022; nach Hause kommen; to come home; to get home; A1; Wendungen/Alltag/Tagesablauf; My mum comes home from work at six.; Meine Mutter kommt um sechs von der Arbeit nach Hause.
 wa-0023; zu Hause sein; to be at home; to be home; A1; Wendungen/Alltag/Tagesablauf; Is anybody at home this afternoon?; Ist heute Nachmittag jemand zu Hause?
-wa-0024; zu Hause bleiben; to stay at home; to stay home; A1; Wendungen/Alltag/Tagesablauf; I stayed at home yesterday because I felt ill.; Ich bin gestern zu Hause geblieben, weil ich mich krank fühlte.
+wa-0024; zu Hause bleiben; to stay at home; to stay home, to stay in; A1; Wendungen/Alltag/Tagesablauf; I stayed at home yesterday because I felt ill.; Ich bin gestern zu Hause geblieben, weil ich mich krank fühlte.
 wa-0025; zu spät kommen; to be late; ; A1; Wendungen/Alltag/Tagesablauf; Sorry I'm late, the bus was full.; Entschuldigung, dass ich zu spät komme, der Bus war voll.
 wa-0026; Zeit haben; to have time; ; A1; Wendungen/Alltag/Tagesablauf; Do you have time for a coffee later?; Hast du später Zeit für einen Kaffee?
 wa-0027; Zeit verbringen; to spend time; ; A2; Wendungen/Alltag/Tagesablauf; I like to spend time with my grandparents.; Ich verbringe gern Zeit mit meinen Großeltern.
@@ -177,7 +177,7 @@ wa-0174; im Angebot sein; to be on offer; to be on special offer; A2; Wendungen/
 wa-0175; zum halben Preis; at half price; half price; A2; Wendungen/Alltag/Einkaufen; In the sale everything is at half price.; Im Schlussverkauf gibt es alles zum halben Preis.
 wa-0176; Rabatt bekommen; to get a discount; ; B1; Wendungen/Alltag/Einkaufen; Students get a discount at the cinema.; Schüler bekommen im Kino Rabatt.
 wa-0177; ein Schnäppchen machen; to get a bargain; to find a bargain; B1; Wendungen/Alltag/Einkaufen; At the flea market I got a real bargain.; Auf dem Flohmarkt habe ich ein echtes Schnäppchen gemacht.
-wa-0178; ausverkauft sein; to be sold out; ; A2; Wendungen/Alltag/Einkaufen; Sorry, the tickets for tonight are sold out.; Tut mir leid, die Karten für heute Abend sind ausverkauft.
+wa-0178; ausverkauft sein; to be sold out; to sell out; A2; Wendungen/Alltag/Einkaufen; Sorry, the tickets for tonight are sold out.; Tut mir leid, die Karten für heute Abend sind ausverkauft.
 wa-0179; geöffnet haben; to be open; ; A1; Wendungen/Alltag/Einkaufen; The bakery is open on Sundays until noon.; Die Bäckerei hat sonntags bis Mittag geöffnet.
 wa-0180; geschlossen haben; to be closed; ; A1; Wendungen/Alltag/Einkaufen; Most shops are closed on Sundays in Germany.; In Deutschland haben die meisten Geschäfte sonntags geschlossen.
 wa-0181; online bestellen; to order online; ; A2; Wendungen/Alltag/Einkaufen; I often order books and clothes online.; Ich bestelle Bücher und Kleidung oft online.

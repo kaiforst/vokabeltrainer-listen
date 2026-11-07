@@ -888,13 +888,75 @@
       "version": 2,
       "count": 989,
       "lang": "it"
+    },
+    {
+      "id": "wendungen-alltag",
+      "file": "woerter/wendungen-alltag.txt",
+      "version": 1,
+      "count": 310
+    },
+    {
+      "id": "wendungen-schule-arbeit",
+      "file": "woerter/wendungen-schule-arbeit.txt",
+      "version": 1,
+      "count": 274
+    },
+    {
+      "id": "redewendungen",
+      "file": "woerter/redewendungen.txt",
+      "version": 1,
+      "count": 345
+    },
+    {
+      "id": "sprichwoerter",
+      "file": "woerter/sprichwoerter.txt",
+      "version": 1,
+      "count": 129
+    },
+    {
+      "id": "phrasal-verbs",
+      "file": "woerter/phrasal-verbs.txt",
+      "version": 1,
+      "count": 257
     }
   ],
   "aliases": {
     "file": "aliase.txt",
-    "version": 1,
-    "count": 6344
+    "version": 2,
+    "count": 6392
   },
+  "forms": [
+    {
+      "lang": "de",
+      "file": "formen/de.txt",
+      "version": 1,
+      "count": 2531
+    },
+    {
+      "lang": "en",
+      "file": "formen/en.txt",
+      "version": 1,
+      "count": 292
+    },
+    {
+      "lang": "es",
+      "file": "formen/es.txt",
+      "version": 1,
+      "count": 823
+    },
+    {
+      "lang": "fr",
+      "file": "formen/fr.txt",
+      "version": 1,
+      "count": 954
+    },
+    {
+      "lang": "it",
+      "file": "formen/it.txt",
+      "version": 1,
+      "count": 1031
+    }
+  ],
   "lists": [
     {
       "id": "grundwortschatz-start",
@@ -3260,10 +3322,328 @@
           "Karstens Empfehlung/Wörter"
         ]
       }
+    },
+    {
+      "id": "wendungen-alltag-a1",
+      "name": "Alltagswendungen – A1",
+      "description": "Die ersten festen Verbindungen: Tagesablauf, Uhrzeit, Essen, Einkaufen",
+      "level": "A1",
+      "count": 137,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Alltag"
+        ],
+        "levels": [
+          "A1"
+        ]
+      }
+    },
+    {
+      "id": "wendungen-alltag-a2",
+      "name": "Alltagswendungen – A2/B1",
+      "description": "Feste Verbindungen für Haushalt, Freizeit, Reisen und Unterwegs",
+      "level": "A2",
+      "count": 173,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Alltag"
+        ],
+        "levels": [
+          "A2",
+          "B1"
+        ]
+      }
+    },
+    {
+      "id": "wendungen-zeitangaben",
+      "name": "Wendungen: Zeitangaben",
+      "description": "Uhrzeit, Tageszeiten, wie oft, seit wann",
+      "level": "A1",
+      "count": 60,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Alltag/Zeitangaben"
+        ]
+      }
+    },
+    {
+      "id": "wendungen-tagesablauf-wohnen",
+      "name": "Wendungen: Tagesablauf & Wohnen",
+      "description": "Vom Zähneputzen bis zum Wäschewaschen",
+      "level": "A1",
+      "count": 50,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Alltag/Tagesablauf",
+          "Wendungen/Alltag/Wohnen"
+        ]
+      }
+    },
+    {
+      "id": "wendungen-essen-einkaufen",
+      "name": "Wendungen: Essen & Einkaufen",
+      "description": "Im Restaurant, im Laden, an der Kasse",
+      "level": "A1",
+      "count": 80,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Alltag/Essen & Trinken",
+          "Wendungen/Alltag/Einkaufen"
+        ]
+      }
+    },
+    {
+      "id": "wendungen-freizeit",
+      "name": "Wendungen: Freizeit",
+      "description": "Sport, Musik, Kino und Treffen mit Freunden",
+      "level": "A1",
+      "count": 50,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Alltag/Freizeit"
+        ]
+      }
+    },
+    {
+      "id": "wendungen-reisen-unterwegs",
+      "name": "Wendungen: Reisen & Unterwegs",
+      "description": "Urlaub, Fahrkarten, nach dem Weg fragen",
+      "level": "A1",
+      "count": 50,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Alltag/Reisen",
+          "Wendungen/Alltag/Unterwegs"
+        ]
+      }
+    },
+    {
+      "id": "wendungen-schule",
+      "name": "Wendungen: Schule & Studium",
+      "description": "Feste Wendungen für Unterricht, Hausaufgaben und Prüfungen",
+      "level": "A2",
+      "count": 60,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Schule"
+        ]
+      }
+    },
+    {
+      "id": "wendungen-arbeit",
+      "name": "Wendungen: Arbeit & Beruf",
+      "description": "Bewerbung, Arbeitsalltag, Besprechungen, Telefon und E-Mail",
+      "level": "B1",
+      "count": 105,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Arbeit"
+        ]
+      }
+    },
+    {
+      "id": "wendungen-gespraech",
+      "name": "Wendungen: Gespräch & Meinung",
+      "description": "Höflich nachfragen, Meinung sagen, zustimmen und widersprechen",
+      "level": "B1",
+      "count": 109,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Gespräch"
+        ]
+      }
+    },
+    {
+      "id": "redewendungen-b2",
+      "name": "Redewendungen – B1/B2",
+      "description": "Bildhafte Wendungen, die man oft hört: Daumen drücken, die Nase voll haben",
+      "level": "B2",
+      "count": 171,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Redewendungen"
+        ],
+        "levels": [
+          "B1",
+          "B2"
+        ]
+      }
+    },
+    {
+      "id": "redewendungen-c1",
+      "name": "Redewendungen – C1/C2",
+      "description": "Bildhafte Wendungen für Fortgeschrittene",
+      "level": "C1",
+      "count": 174,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Redewendungen"
+        ],
+        "levels": [
+          "C1",
+          "C2"
+        ]
+      }
+    },
+    {
+      "id": "sprichwoerter-b2",
+      "name": "Sprichwörter – B1/B2",
+      "description": "Bekannte Sprichwörter: Übung macht den Meister, Zeit ist Geld …",
+      "level": "B2",
+      "count": 73,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Sprichwörter"
+        ],
+        "levels": [
+          "B1",
+          "B2"
+        ]
+      }
+    },
+    {
+      "id": "sprichwoerter-c1",
+      "name": "Sprichwörter – C1/C2",
+      "description": "Anspruchsvollere Sprichwörter für Fortgeschrittene",
+      "level": "C1",
+      "count": 56,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Sprichwörter"
+        ],
+        "levels": [
+          "C1",
+          "C2"
+        ]
+      }
+    },
+    {
+      "id": "phrasal-verbs-a2",
+      "name": "Phrasal Verbs – A2",
+      "description": "Die wichtigsten Verb-Partikel-Verbindungen für den Alltag",
+      "level": "A2",
+      "count": 59,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Phrasal Verbs"
+        ],
+        "levels": [
+          "A2"
+        ]
+      }
+    },
+    {
+      "id": "phrasal-verbs-b1",
+      "name": "Phrasal Verbs – B1",
+      "description": "Häufige Phrasal Verbs für Alltag, Schule, Reisen und Beziehungen",
+      "level": "B1",
+      "count": 108,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Phrasal Verbs"
+        ],
+        "levels": [
+          "B1"
+        ]
+      }
+    },
+    {
+      "id": "phrasal-verbs-b2",
+      "name": "Phrasal Verbs – B2/C1",
+      "description": "Phrasal Verbs für Arbeit, Gespräche und anspruchsvollere Texte",
+      "level": "B2",
+      "count": 90,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Phrasal Verbs"
+        ],
+        "levels": [
+          "B2",
+          "C1"
+        ]
+      }
+    },
+    {
+      "id": "phrasal-verbs-alltag",
+      "name": "Phrasal Verbs: Alltag & Zuhause",
+      "description": "Tagesablauf, Haushalt, Kleidung, Einkaufen, Essen",
+      "level": "A2",
+      "count": 70,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Phrasal Verbs/Alltag",
+          "Phrasal Verbs/Zuhause",
+          "Phrasal Verbs/Kleidung",
+          "Phrasal Verbs/Einkaufen",
+          "Phrasal Verbs/Essen"
+        ]
+      }
+    },
+    {
+      "id": "phrasal-verbs-menschen",
+      "name": "Phrasal Verbs: Menschen & Gefühle",
+      "description": "Beziehungen, Gefühle, Gespräch",
+      "level": "B1",
+      "count": 55,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Phrasal Verbs/Beziehungen",
+          "Phrasal Verbs/Gefühle",
+          "Phrasal Verbs/Gespräch"
+        ]
+      }
+    },
+    {
+      "id": "phrasal-verbs-unterwegs",
+      "name": "Phrasal Verbs: Reisen & Freizeit",
+      "description": "Unterwegs, Verkehr, Ausgehen, Hobbys",
+      "level": "A2",
+      "count": 35,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Phrasal Verbs/Reisen",
+          "Phrasal Verbs/Freizeit"
+        ]
+      }
+    },
+    {
+      "id": "phrasal-verbs-schule-arbeit",
+      "name": "Phrasal Verbs: Schule & Arbeit",
+      "description": "Lernen, Büro, Technik",
+      "level": "B1",
+      "count": 52,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Phrasal Verbs/Schule",
+          "Phrasal Verbs/Arbeit",
+          "Phrasal Verbs/Technik"
+        ]
+      }
     }
   ],
   "areas": {
-    "version": 10,
+    "version": 11,
     "tree": [
       {
         "name": "Einstieg",
@@ -3483,6 +3863,58 @@
           "fr-wirtschaft-finanzen",
           "es-wirtschaft-finanzen",
           "it-wirtschaft-finanzen"
+        ]
+      },
+      {
+        "name": "Wendungen & Redewendungen",
+        "lists": [],
+        "areas": [
+          {
+            "name": "Alltag",
+            "lists": [
+              "wendungen-alltag-a1",
+              "wendungen-alltag-a2",
+              "wendungen-zeitangaben",
+              "wendungen-tagesablauf-wohnen",
+              "wendungen-essen-einkaufen",
+              "wendungen-freizeit",
+              "wendungen-reisen-unterwegs"
+            ]
+          },
+          {
+            "name": "Schule, Arbeit & Gespräch",
+            "lists": [
+              "wendungen-schule",
+              "wendungen-arbeit",
+              "wendungen-gespraech"
+            ]
+          },
+          {
+            "name": "Redewendungen",
+            "lists": [
+              "redewendungen-b2",
+              "redewendungen-c1"
+            ]
+          },
+          {
+            "name": "Sprichwörter",
+            "lists": [
+              "sprichwoerter-b2",
+              "sprichwoerter-c1"
+            ]
+          },
+          {
+            "name": "Phrasal Verbs",
+            "lists": [
+              "phrasal-verbs-a2",
+              "phrasal-verbs-b1",
+              "phrasal-verbs-b2",
+              "phrasal-verbs-alltag",
+              "phrasal-verbs-menschen",
+              "phrasal-verbs-unterwegs",
+              "phrasal-verbs-schule-arbeit"
+            ]
+          }
         ]
       },
       {

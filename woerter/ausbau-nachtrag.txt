@@ -67,6 +67,7 @@ xf-0064; neigen; to tend; ; B2; Allgemein/Verben; My brother tends to exaggerate
 xf-0065; spüren; to feel; to sense; B1; Allgemein/Verben; I could feel the cold wind on my face.; Ich konnte den kalten Wind im Gesicht spüren.
 xf-0066; sich anfühlen; to feel; ; B1; Allgemein/Verben; This blanket feels really soft and warm.; Diese Decke fühlt sich richtig weich und warm an.
 xf-0067; sich auswirken; to affect; to have an effect; B2; Allgemein/Verben; Lack of sleep affects your concentration at school.; Schlafmangel wirkt sich auf deine Konzentration in der Schule aus.
+xf-0403; wählen (aussuchen); to choose; to pick, to select; A2; Allgemein/Verben; You can choose between three different desserts.; Du kannst zwischen drei verschiedenen Nachspeisen wählen.
 xf-0068; sich fragen; to wonder; ; B1; Allgemein/Denken & Sprechen; I wonder why she hasn't called me back.; Ich frage mich, warum sie mich nicht zurückgerufen hat.
 xf-0069; meinen (der Meinung sein); to think; to believe; A2; Allgemein/Denken & Sprechen; What do you think, should we take the bus?; Was meinst du, sollen wir den Bus nehmen?
 xf-0070; meinen (sagen wollen); to mean; ; A2; Allgemein/Denken & Sprechen; Sorry, I don't understand what you mean.; Entschuldigung, ich verstehe nicht, was du meinst.
@@ -140,7 +141,7 @@ xf-0137; keiner; nobody; no one, none; A2; Allgemein/Kleine Wörter; Nobody knew
 xf-0138; kein; no; not any; A1; Allgemein/Kleine Wörter; Sorry, I have no time today.; Tut mir leid, ich habe heute keine Zeit.
 xf-0139; dieser; this; ; A1; Allgemein/Kleine Wörter; I really like this jumper, but it's too expensive.; Dieser Pullover gefällt mir sehr, aber er ist zu teuer.
 xf-0140; deshalb; that's why; therefore, so; A2; Allgemein/Kleine Wörter; I was ill, that's why I didn't come.; Ich war krank, deshalb bin ich nicht gekommen.
-xf-0141; daher; therefore; that's why, so; B1; Allgemein/Kleine Wörter; The road is closed, therefore we have to drive around.; Die Straße ist gesperrt, daher müssen wir einen Umweg fahren.
+xf-0141; daher; therefore; that's why, so; B1; Allgemein/Kleine Wörter; The road is closed and therefore we have to take a detour.; Die Straße ist gesperrt, daher müssen wir einen Umweg fahren.
 xf-0142; beinahe; almost; nearly; B1; Allgemein/Kleine Wörter; I almost missed the train this morning.; Ich hätte heute Morgen beinahe den Zug verpasst.
 xf-0143; einschließlich; including; ; B1; Allgemein/Kleine Wörter; The room costs eighty euros, including breakfast.; Das Zimmer kostet achtzig Euro, einschließlich Frühstück.
 xf-0144; anders als; different from; unlike; B1; Allgemein/Kleine Wörter; My new phone is very different from my old one.; Mein neues Handy ist ganz anders als mein altes.

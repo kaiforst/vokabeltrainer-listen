@@ -1,0 +1,312 @@
+# Alltagswendungen: feste Verbindungen aus Schulbüchern und Alltag (Tagesablauf, Zeitangaben, Wohnen, Essen, Einkaufen, Freizeit, Reisen)
+id; Deutsch; Englisch; Weitere Antworten; Niveau; Themen; Beispiel Englisch; Beispiel Deutsch
+wa-0001; sich die Zähne putzen; to brush one's teeth; to brush your teeth; A1; Wendungen/Alltag/Tagesablauf; I brush my teeth twice a day.; Ich putze mir zweimal am Tag die Zähne.
+wa-0002; sich die Hände waschen; to wash one's hands; to wash your hands; A1; Wendungen/Alltag/Tagesablauf; Please wash your hands before we eat.; Bitte wasch dir die Hände, bevor wir essen.
+wa-0003; sich das Gesicht waschen; to wash one's face; to wash your face; A1; Wendungen/Alltag/Tagesablauf; I wash my face with cold water every morning.; Ich wasche mir jeden Morgen das Gesicht mit kaltem Wasser.
+wa-0004; sich die Haare waschen; to wash one's hair; to wash your hair; A1; Wendungen/Alltag/Tagesablauf; I wash my hair every second day.; Ich wasche mir jeden zweiten Tag die Haare.
+wa-0005; sich die Haare kämmen; to comb one's hair; to comb your hair; A2; Wendungen/Alltag/Tagesablauf; She combs her hair in front of the mirror.; Sie kämmt sich vor dem Spiegel die Haare.
+wa-0006; sich die Nase putzen; to blow one's nose; to blow your nose; A2; Wendungen/Alltag/Tagesablauf; Here is a tissue to blow your nose.; Hier ist ein Taschentuch, damit du dir die Nase putzen kannst.
+wa-0007; das Haus verlassen; to leave the house; ; A2; Wendungen/Alltag/Tagesablauf; I leave the house at half past seven every day.; Ich verlasse jeden Tag um halb acht das Haus.
+wa-0008; ein Bad nehmen; to have a bath; to take a bath; A2; Wendungen/Alltag/Tagesablauf; On cold evenings I like to have a hot bath.; An kalten Abenden nehme ich gern ein heißes Bad.
+wa-0009; sich umziehen; to get changed; ; A2; Wendungen/Alltag/Tagesablauf; I need to get changed before the party.; Ich muss mich vor der Party umziehen.
+wa-0010; sich fertig machen; to get ready; ; A2; Wendungen/Alltag/Tagesablauf; I need ten more minutes to get ready.; Ich brauche noch zehn Minuten, um mich fertig zu machen.
+wa-0011; das Bett machen; to make the bed; to make one's bed, to make your bed; A2; Wendungen/Alltag/Tagesablauf; Please make your bed before you leave the house.; Bitte mach dein Bett, bevor du aus dem Haus gehst.
+wa-0012; den Wecker stellen; to set the alarm; to set the alarm clock; A2; Wendungen/Alltag/Tagesablauf; I set the alarm for half past six.; Ich habe den Wecker auf halb sieben gestellt.
+wa-0013; Frühstück machen; to make breakfast; ; A1; Wendungen/Alltag/Tagesablauf; On Sundays my dad makes breakfast for everyone.; Sonntags macht mein Vater für alle Frühstück.
+wa-0014; zu Mittag essen; to have lunch; to eat lunch; A1; Wendungen/Alltag/Tagesablauf; We usually have lunch at about one o'clock.; Wir essen normalerweise gegen ein Uhr zu Mittag.
+wa-0015; zu Abend essen; to have dinner; to eat dinner, to have supper; A1; Wendungen/Alltag/Tagesablauf; We have dinner together at seven every evening.; Wir essen jeden Abend um sieben zusammen zu Abend.
+wa-0016; ins Bett gehen; to go to bed; ; A1; Wendungen/Alltag/Tagesablauf; I am tired, so I am going to bed now.; Ich bin müde, deshalb gehe ich jetzt ins Bett.
+wa-0017; gut schlafen; to sleep well; ; A1; Wendungen/Alltag/Tagesablauf; Did you sleep well in the new bed?; Hast du im neuen Bett gut geschlafen?
+wa-0018; einen Mittagsschlaf machen; to have a nap; to take a nap; A2; Wendungen/Alltag/Tagesablauf; Grandpa has a nap after lunch every day.; Opa macht jeden Tag nach dem Mittagessen einen Mittagsschlaf.
+wa-0019; sich die Zeit vertreiben; to pass the time; ; B1; Wendungen/Alltag/Tagesablauf; We played cards to pass the time on the train.; Wir haben Karten gespielt, um uns im Zug die Zeit zu vertreiben.
+wa-0020; eine Pause machen; to take a break; to have a break; A1; Wendungen/Alltag/Tagesablauf; Let's take a break and get something to drink.; Lass uns eine Pause machen und etwas zu trinken holen.
+wa-0021; nach Hause gehen; to go home; ; A1; Wendungen/Alltag/Tagesablauf; It is late, so I want to go home now.; Es ist spät, deshalb will ich jetzt nach Hause gehen.
+wa-0022; nach Hause kommen; to come home; to get home; A1; Wendungen/Alltag/Tagesablauf; My mum comes home from work at six.; Meine Mutter kommt um sechs von der Arbeit nach Hause.
+wa-0023; zu Hause sein; to be at home; to be home; A1; Wendungen/Alltag/Tagesablauf; Is anybody at home this afternoon?; Ist heute Nachmittag jemand zu Hause?
+wa-0024; zu Hause bleiben; to stay at home; to stay home; A1; Wendungen/Alltag/Tagesablauf; I stayed at home yesterday because I felt ill.; Ich bin gestern zu Hause geblieben, weil ich mich krank fühlte.
+wa-0025; zu spät kommen; to be late; ; A1; Wendungen/Alltag/Tagesablauf; Sorry I'm late, the bus was full.; Entschuldigung, dass ich zu spät komme, der Bus war voll.
+wa-0026; Zeit haben; to have time; ; A1; Wendungen/Alltag/Tagesablauf; Do you have time for a coffee later?; Hast du später Zeit für einen Kaffee?
+wa-0027; Zeit verbringen; to spend time; ; A2; Wendungen/Alltag/Tagesablauf; I like to spend time with my grandparents.; Ich verbringe gern Zeit mit meinen Großeltern.
+wa-0028; den Hund ausführen; to walk the dog; to take the dog for a walk; A2; Wendungen/Alltag/Tagesablauf; I walk the dog every morning before breakfast.; Ich führe jeden Morgen vor dem Frühstück den Hund aus.
+wa-0029; sein Zimmer aufräumen; to tidy one's room; to tidy your room; A1; Wendungen/Alltag/Wohnen; You can go out when you have tidied your room.; Du darfst rausgehen, wenn du dein Zimmer aufgeräumt hast.
+wa-0030; den Tisch abräumen; to clear the table; ; A2; Wendungen/Alltag/Wohnen; Can you help me clear the table, please?; Kannst du mir bitte helfen, den Tisch abzuräumen?
+wa-0031; das Geschirr spülen; to do the washing-up; to wash the dishes, to do the dishes; A2; Wendungen/Alltag/Wohnen; After dinner my brother does the washing-up.; Nach dem Abendessen spült mein Bruder das Geschirr.
+wa-0032; Wäsche waschen; to do the laundry; to do the washing; A2; Wendungen/Alltag/Wohnen; I usually do the laundry on Saturday mornings.; Ich wasche normalerweise samstagmorgens Wäsche.
+wa-0033; die Hausarbeit machen; to do the housework; ; A2; Wendungen/Alltag/Wohnen; Who does the housework in your family?; Wer macht in deiner Familie die Hausarbeit?
+wa-0034; die Wohnung putzen; to clean the flat; to clean the apartment; A1; Wendungen/Alltag/Wohnen; We clean the flat together every Saturday.; Wir putzen jeden Samstag zusammen die Wohnung.
+wa-0035; das Abendessen kochen; to cook dinner; to make dinner; A1; Wendungen/Alltag/Wohnen; Tonight it is my turn to cook dinner.; Heute Abend bin ich dran, das Abendessen zu kochen.
+wa-0036; die Blumen gießen; to water the flowers; to water the plants; A2; Wendungen/Alltag/Wohnen; Could you water the flowers while we are away?; Könntest du die Blumen gießen, während wir weg sind?
+wa-0037; den Rasen mähen; to mow the lawn; to cut the grass; A2; Wendungen/Alltag/Wohnen; My dad mows the lawn every Saturday in summer.; Mein Vater mäht im Sommer jeden Samstag den Rasen.
+wa-0038; den Mülleimer leeren; to empty the bin; to empty the rubbish bin; A2; Wendungen/Alltag/Wohnen; Whose turn is it to empty the bin?; Wer ist dran, den Mülleimer zu leeren?
+wa-0039; die Betten beziehen; to change the sheets; to change the bed; B1; Wendungen/Alltag/Wohnen; I change the sheets on all the beds every week.; Ich beziehe jede Woche alle Betten neu.
+wa-0040; die Tür abschließen; to lock the door; ; A2; Wendungen/Alltag/Wohnen; Don't forget to lock the door when you leave.; Vergiss nicht, die Tür abzuschließen, wenn du gehst.
+wa-0041; eine Wohnung mieten; to rent a flat; to rent an apartment; A2; Wendungen/Alltag/Wohnen; We want to rent a flat near the city centre.; Wir wollen eine Wohnung in der Nähe der Innenstadt mieten.
+wa-0042; die Miete zahlen; to pay the rent; ; A2; Wendungen/Alltag/Wohnen; We pay the rent at the start of each month.; Wir zahlen die Miete am Anfang jedes Monats.
+wa-0043; in eine andere Stadt ziehen; to move to another town; to move to another city; A2; Wendungen/Alltag/Wohnen; We are moving to another town next summer.; Wir ziehen nächsten Sommer in eine andere Stadt.
+wa-0044; im Erdgeschoss; on the ground floor; ; A2; Wendungen/Alltag/Wohnen; The kitchen and the living room are on the ground floor.; Küche und Wohnzimmer sind im Erdgeschoss.
+wa-0045; im ersten Stock; on the first floor; ; A2; Wendungen/Alltag/Wohnen; Our flat is on the first floor.; Unsere Wohnung ist im ersten Stock.
+wa-0046; auf dem Land wohnen; to live in the country; to live in the countryside; A2; Wendungen/Alltag/Wohnen; My grandparents live in the country near a small village.; Meine Großeltern wohnen auf dem Land in der Nähe eines kleinen Dorfes.
+wa-0047; in der Stadt wohnen; to live in the city; to live in town; A2; Wendungen/Alltag/Wohnen; I prefer to live in the city because of the shops.; Ich wohne lieber in der Stadt, wegen der Geschäfte.
+wa-0048; Besuch haben; to have visitors; to have guests; A2; Wendungen/Alltag/Wohnen; We are having visitors from Spain this weekend.; Wir haben dieses Wochenende Besuch aus Spanien.
+wa-0049; sich wie zu Hause fühlen; to feel at home; ; A2; Wendungen/Alltag/Wohnen; We felt at home in the new flat very quickly.; Wir haben uns in der neuen Wohnung sehr schnell wie zu Hause gefühlt.
+wa-0050; Fühl dich wie zu Hause!; make yourself at home; ; A2; Wendungen/Alltag/Wohnen; Come in and make yourself at home!; Komm rein und fühl dich wie zu Hause!
+wa-0051; am Morgen; in the morning; ; A1; Wendungen/Alltag/Zeitangaben; I always drink a cup of tea in the morning.; Am Morgen trinke ich immer eine Tasse Tee.
+wa-0052; am Nachmittag; in the afternoon; ; A1; Wendungen/Alltag/Zeitangaben; We often go swimming in the afternoon.; Am Nachmittag gehen wir oft schwimmen.
+wa-0053; am Abend; in the evening; ; A1; Wendungen/Alltag/Zeitangaben; In the evening we watch a film together.; Am Abend schauen wir zusammen einen Film.
+wa-0054; in der Nacht; at night; ; A1; Wendungen/Alltag/Zeitangaben; It is very quiet here at night.; In der Nacht ist es hier sehr ruhig.
+wa-0055; am Mittag; at midday; at noon, at lunchtime; A2; Wendungen/Alltag/Zeitangaben; The shop closes at midday on Saturdays.; Samstags schließt das Geschäft am Mittag.
+wa-0056; um Mitternacht; at midnight; ; A2; Wendungen/Alltag/Zeitangaben; On New Year's Eve the fireworks start at midnight.; An Silvester beginnt das Feuerwerk um Mitternacht.
+wa-0057; am Wochenende; at the weekend; on the weekend; A1; Wendungen/Alltag/Zeitangaben; What are you doing at the weekend?; Was machst du am Wochenende?
+wa-0058; unter der Woche; during the week; on weekdays; A2; Wendungen/Alltag/Zeitangaben; During the week I go to bed early.; Unter der Woche gehe ich früh ins Bett.
+wa-0059; übers Wochenende; over the weekend; ; A2; Wendungen/Alltag/Zeitangaben; We are visiting my aunt over the weekend.; Übers Wochenende besuchen wir meine Tante.
+wa-0060; jeden Tag; every day; ; A1; Wendungen/Alltag/Zeitangaben; I drink a glass of milk every day.; Ich trinke jeden Tag ein Glas Milch.
+wa-0061; jeden Morgen; every morning; ; A1; Wendungen/Alltag/Zeitangaben; Every morning I take the bus at eight.; Jeden Morgen nehme ich um acht den Bus.
+wa-0062; jede Woche; every week; ; A1; Wendungen/Alltag/Zeitangaben; We go to the market every week.; Wir gehen jede Woche auf den Markt.
+wa-0063; zweimal pro Woche; twice a week; ; A2; Wendungen/Alltag/Zeitangaben; I go swimming twice a week.; Ich gehe zweimal pro Woche schwimmen.
+wa-0064; einmal im Monat; once a month; ; A2; Wendungen/Alltag/Zeitangaben; We visit our grandparents once a month.; Wir besuchen einmal im Monat unsere Großeltern.
+wa-0065; den ganzen Tag; all day; all day long; A1; Wendungen/Alltag/Zeitangaben; It rained all day, so we stayed inside.; Es hat den ganzen Tag geregnet, also sind wir drinnen geblieben.
+wa-0066; die ganze Nacht; all night; all night long; A2; Wendungen/Alltag/Zeitangaben; The baby next door cried all night.; Das Baby nebenan hat die ganze Nacht geweint.
+wa-0067; die ganze Zeit; all the time; the whole time; A2; Wendungen/Alltag/Zeitangaben; My little brother talks all the time.; Mein kleiner Bruder redet die ganze Zeit.
+wa-0068; heute Morgen; this morning; ; A1; Wendungen/Alltag/Zeitangaben; I missed the bus this morning.; Ich habe heute Morgen den Bus verpasst.
+wa-0069; heute Nachmittag; this afternoon; ; A1; Wendungen/Alltag/Zeitangaben; Shall we go to the park this afternoon?; Sollen wir heute Nachmittag in den Park gehen?
+wa-0070; heute Abend; tonight; this evening; A1; Wendungen/Alltag/Zeitangaben; What are you doing tonight after dinner?; Was machst du heute Abend nach dem Essen?
+wa-0071; gestern Abend; last night; yesterday evening; A1; Wendungen/Alltag/Zeitangaben; Did you watch the match last night?; Hast du gestern Abend das Spiel gesehen?
+wa-0072; morgen früh; tomorrow morning; ; A1; Wendungen/Alltag/Zeitangaben; I will call you tomorrow morning.; Ich rufe dich morgen früh an.
+wa-0073; letzte Woche; last week; ; A1; Wendungen/Alltag/Zeitangaben; Last week we were in London.; Letzte Woche waren wir in London.
+wa-0074; nächste Woche; next week; ; A1; Wendungen/Alltag/Zeitangaben; My cousin is coming to visit next week.; Mein Cousin kommt nächste Woche zu Besuch.
+wa-0075; letztes Jahr; last year; ; A1; Wendungen/Alltag/Zeitangaben; Last year we went to Spain on holiday.; Letztes Jahr sind wir nach Spanien in Urlaub gefahren.
+wa-0076; nächstes Jahr; next year; ; A1; Wendungen/Alltag/Zeitangaben; Next year I want to learn to swim.; Nächstes Jahr will ich schwimmen lernen.
+wa-0077; vor zwei Tagen; two days ago; ; A1; Wendungen/Alltag/Zeitangaben; I bought these shoes two days ago.; Ich habe diese Schuhe vor zwei Tagen gekauft.
+wa-0078; in zwei Wochen; in two weeks; in two weeks' time; A2; Wendungen/Alltag/Zeitangaben; The summer holidays start in two weeks.; Die Sommerferien beginnen in zwei Wochen.
+wa-0079; seit drei Jahren; for three years; ; A2; Wendungen/Alltag/Zeitangaben; We have lived in this flat for three years.; Wir wohnen seit drei Jahren in dieser Wohnung.
+wa-0080; seit Montag; since Monday; ; A2; Wendungen/Alltag/Zeitangaben; It has been raining since Monday.; Es regnet seit Montag.
+wa-0081; im Moment; at the moment; right now; A1; Wendungen/Alltag/Zeitangaben; I am very busy at the moment.; Im Moment bin ich sehr beschäftigt.
+wa-0082; zum ersten Mal; for the first time; ; A2; Wendungen/Alltag/Zeitangaben; Last summer I saw the sea for the first time.; Letzten Sommer habe ich zum ersten Mal das Meer gesehen.
+wa-0083; zum letzten Mal; for the last time; ; A2; Wendungen/Alltag/Zeitangaben; I am asking you for the last time.; Ich frage dich zum letzten Mal.
+wa-0084; noch einmal; once more; one more time, again; A1; Wendungen/Alltag/Zeitangaben; The cake didn't work, so let's try once more.; Der Kuchen ist nichts geworden, also versuchen wir es noch einmal.
+wa-0085; ab und zu; now and then; every now and then, now and again; A2; Wendungen/Alltag/Zeitangaben; We eat at a restaurant now and then.; Ab und zu essen wir im Restaurant.
+wa-0086; von Zeit zu Zeit; from time to time; ; B1; Wendungen/Alltag/Zeitangaben; From time to time I write a letter to my aunt.; Von Zeit zu Zeit schreibe ich meiner Tante einen Brief.
+wa-0087; früher oder später; sooner or later; ; B1; Wendungen/Alltag/Zeitangaben; Sooner or later we will have to buy a new car.; Früher oder später müssen wir ein neues Auto kaufen.
+wa-0088; so schnell wie möglich; as soon as possible; as quickly as possible; A2; Wendungen/Alltag/Zeitangaben; Please answer my message as soon as possible.; Bitte antworte so schnell wie möglich auf meine Nachricht.
+wa-0089; Viertel nach drei; quarter past three; a quarter past three; A1; Wendungen/Alltag/Zeitangaben; The film starts at quarter past three.; Der Film fängt um Viertel nach drei an.
+wa-0090; Viertel vor vier; quarter to four; a quarter to four; A1; Wendungen/Alltag/Zeitangaben; We have to be at the station at quarter to four.; Wir müssen um Viertel vor vier am Bahnhof sein.
+wa-0091; halb vier; half past three; ; A1; Wendungen/Alltag/Zeitangaben; The swimming pool closes at half past three on Sundays.; Sonntags schließt das Schwimmbad um halb vier.
+wa-0092; Wie spät ist es?; what time is it?; what's the time?; A1; Wendungen/Alltag/Zeitangaben; Sorry, what time is it? I haven't got a watch.; Entschuldigung, wie spät ist es? Ich habe keine Uhr.
+wa-0093; Um wie viel Uhr?; what time?; at what time?; A1; Wendungen/Alltag/Zeitangaben; What time does the next train leave?; Um wie viel Uhr fährt der nächste Zug?
+wa-0094; am Anfang; at the beginning; at the start; A2; Wendungen/Alltag/Zeitangaben; At the beginning I didn't understand a word.; Am Anfang habe ich kein Wort verstanden.
+wa-0095; am Ende des Monats; at the end of the month; ; A2; Wendungen/Alltag/Zeitangaben; We get our pocket money at the end of the month.; Wir bekommen unser Taschengeld am Ende des Monats.
+wa-0096; am nächsten Tag; the next day; the following day; A2; Wendungen/Alltag/Zeitangaben; We arrived late and went to the beach the next day.; Wir kamen spät an und gingen am nächsten Tag an den Strand.
+wa-0097; tagsüber; during the day; in the daytime; A2; Wendungen/Alltag/Zeitangaben; During the day it is warm, but the nights are cold.; Tagsüber ist es warm, aber die Nächte sind kalt.
+wa-0098; in der Zwischenzeit; in the meantime; meanwhile; B1; Wendungen/Alltag/Zeitangaben; Dinner is almost ready. In the meantime you can lay the table.; Das Essen ist fast fertig. In der Zwischenzeit kannst du den Tisch decken.
+wa-0099; auf einmal; all of a sudden; suddenly, all at once; B1; Wendungen/Alltag/Zeitangaben; All of a sudden it started to rain heavily.; Auf einmal fing es an, stark zu regnen.
+wa-0100; in letzter Zeit; lately; recently; B1; Wendungen/Alltag/Zeitangaben; Lately I have been sleeping very badly.; In letzter Zeit schlafe ich sehr schlecht.
+wa-0101; eine halbe Stunde; half an hour; ; A1; Wendungen/Alltag/Zeitangaben; The bus journey takes half an hour.; Die Busfahrt dauert eine halbe Stunde.
+wa-0102; eineinhalb Stunden; an hour and a half; one and a half hours; A2; Wendungen/Alltag/Zeitangaben; The film is an hour and a half long.; Der Film ist eineinhalb Stunden lang.
+wa-0103; eine Viertelstunde; a quarter of an hour; ; A2; Wendungen/Alltag/Zeitangaben; The train is a quarter of an hour late.; Der Zug hat eine Viertelstunde Verspätung.
+wa-0104; in einer Stunde; in an hour; in an hour's time; A1; Wendungen/Alltag/Zeitangaben; Dinner will be ready in an hour.; Das Essen ist in einer Stunde fertig.
+wa-0105; von Montag bis Freitag; from Monday to Friday; Monday to Friday; A1; Wendungen/Alltag/Zeitangaben; The library is open from Monday to Friday.; Die Bücherei hat von Montag bis Freitag geöffnet.
+wa-0106; Tag und Nacht; day and night; night and day; A2; Wendungen/Alltag/Zeitangaben; The shop at the station is open day and night.; Der Laden am Bahnhof hat Tag und Nacht geöffnet.
+wa-0107; rund um die Uhr; around the clock; round the clock; B1; Wendungen/Alltag/Zeitangaben; Nurses in hospitals work around the clock.; Pflegekräfte im Krankenhaus arbeiten rund um die Uhr.
+wa-0108; über Nacht; overnight; ; B1; Wendungen/Alltag/Zeitangaben; Leave the dough in the fridge overnight.; Lass den Teig über Nacht im Kühlschrank.
+wa-0109; vor Kurzem; recently; ; B1; Wendungen/Alltag/Zeitangaben; We moved to this town only recently.; Wir sind erst vor Kurzem in diese Stadt gezogen.
+wa-0110; seit Langem; for a long time; for ages; B1; Wendungen/Alltag/Zeitangaben; I haven't seen my cousin for a long time.; Ich habe meinen Cousin seit Langem nicht gesehen.
+wa-0111; Hunger haben; to be hungry; ; A1; Wendungen/Alltag/Essen & Trinken; I am really hungry, what's for lunch?; Ich habe richtig Hunger, was gibt es zum Mittagessen?
+wa-0112; Durst haben; to be thirsty; ; A1; Wendungen/Alltag/Essen & Trinken; I am thirsty, can I have some water?; Ich habe Durst, kann ich etwas Wasser haben?
+wa-0113; Hunger bekommen; to get hungry; ; A2; Wendungen/Alltag/Essen & Trinken; After swimming I always get very hungry.; Nach dem Schwimmen bekomme ich immer großen Hunger.
+wa-0114; satt sein; to be full; ; A2; Wendungen/Alltag/Essen & Trinken; No more cake for me, thanks, I'm full.; Kein Kuchen mehr für mich, danke, ich bin satt.
+wa-0115; Guten Appetit!; enjoy your meal; ; A1; Wendungen/Alltag/Essen & Trinken; Dinner is ready, enjoy your meal!; Das Essen ist fertig, guten Appetit!
+wa-0116; Bedien dich!; help yourself; ; A2; Wendungen/Alltag/Essen & Trinken; There is plenty of cake, so help yourself!; Es gibt genug Kuchen, also bedien dich!
+wa-0117; Was gibt es zum Abendessen?; what's for dinner?; what is for dinner?; A1; Wendungen/Alltag/Essen & Trinken; Mum, what's for dinner tonight? I'm hungry.; Mama, was gibt es heute zum Abendessen? Ich habe Hunger.
+wa-0118; zum Frühstück; for breakfast; ; A1; Wendungen/Alltag/Essen & Trinken; I usually have toast and jam for breakfast.; Zum Frühstück esse ich meistens Toast mit Marmelade.
+wa-0119; zum Nachtisch; for dessert; for pudding; A2; Wendungen/Alltag/Essen & Trinken; We had ice cream for dessert.; Zum Nachtisch gab es Eis.
+wa-0120; etwas zu essen; something to eat; ; A1; Wendungen/Alltag/Essen & Trinken; Let's get something to eat before the film.; Lass uns vor dem Film etwas zu essen holen.
+wa-0121; etwas zu trinken; something to drink; ; A1; Wendungen/Alltag/Essen & Trinken; Would you like something to drink?; Möchtest du etwas zu trinken?
+wa-0122; eine Tasse Kaffee; a cup of coffee; ; A1; Wendungen/Alltag/Essen & Trinken; Would you like a cup of coffee?; Möchtest du eine Tasse Kaffee?
+wa-0123; ein Glas Wasser; a glass of water; ; A1; Wendungen/Alltag/Essen & Trinken; Can I have a glass of water, please?; Kann ich bitte ein Glas Wasser haben?
+wa-0124; eine Flasche Wasser; a bottle of water; ; A1; Wendungen/Alltag/Essen & Trinken; Always take a bottle of water on a hike.; Nimm auf eine Wanderung immer eine Flasche Wasser mit.
+wa-0125; eine Scheibe Brot; a slice of bread; a piece of bread; A1; Wendungen/Alltag/Essen & Trinken; I'd like a slice of bread with cheese.; Ich hätte gern eine Scheibe Brot mit Käse.
+wa-0126; ein Stück Kuchen; a piece of cake; a slice of cake; A1; Wendungen/Alltag/Essen & Trinken; Would you like another piece of cake?; Möchtest du noch ein Stück Kuchen?
+wa-0127; eine Tafel Schokolade; a bar of chocolate; ; A2; Wendungen/Alltag/Essen & Trinken; I bought a bar of chocolate for the journey.; Ich habe eine Tafel Schokolade für die Fahrt gekauft.
+wa-0128; eine Packung Milch; a carton of milk; ; A2; Wendungen/Alltag/Essen & Trinken; Can you buy a carton of milk on your way home?; Kannst du auf dem Heimweg eine Packung Milch kaufen?
+wa-0129; eine Prise Salz; a pinch of salt; ; B1; Wendungen/Alltag/Essen & Trinken; Add a pinch of salt to the soup.; Gib eine Prise Salz in die Suppe.
+wa-0130; Kaffee kochen; to make coffee; ; A1; Wendungen/Alltag/Essen & Trinken; Shall I make coffee for everyone?; Soll ich für alle Kaffee kochen?
+wa-0131; Tee kochen; to make tea; to make a cup of tea; A1; Wendungen/Alltag/Essen & Trinken; My grandma makes tea every afternoon at four.; Meine Oma kocht jeden Nachmittag um vier Tee.
+wa-0132; einen Kuchen backen; to bake a cake; ; A1; Wendungen/Alltag/Essen & Trinken; For my birthday my mum always bakes a cake.; Zu meinem Geburtstag backt meine Mutter immer einen Kuchen.
+wa-0133; zum Kochen bringen; to bring to the boil; to bring to a boil; B1; Wendungen/Alltag/Essen & Trinken; Bring the water to the boil and add the pasta.; Bring das Wasser zum Kochen und gib die Nudeln dazu.
+wa-0134; sich an das Rezept halten; to follow the recipe; to follow a recipe; B1; Wendungen/Alltag/Essen & Trinken; I followed the recipe exactly, but the cake is flat.; Ich habe mich genau an das Rezept gehalten, aber der Kuchen ist flach.
+wa-0135; sich gesund ernähren; to eat healthily; to have a healthy diet; A2; Wendungen/Alltag/Essen & Trinken; I try to eat healthily and drink lots of water.; Ich versuche, mich gesund zu ernähren und viel Wasser zu trinken.
+wa-0136; eine Diät machen; to be on a diet; ; A2; Wendungen/Alltag/Essen & Trinken; My mum is on a diet, so no cake for her.; Meine Mutter macht eine Diät, also keinen Kuchen für sie.
+wa-0137; eine Mahlzeit auslassen; to skip a meal; ; B1; Wendungen/Alltag/Essen & Trinken; You shouldn't skip meals when you do a lot of sport.; Du solltest keine Mahlzeit auslassen, wenn du viel Sport machst.
+wa-0138; allergisch sein gegen; to be allergic to; ; B1; Wendungen/Alltag/Essen & Trinken; I am allergic to nuts, so I can't eat this.; Ich bin allergisch gegen Nüsse, deshalb kann ich das nicht essen.
+wa-0139; Das schmeckt gut.; it tastes good; this tastes good; A1; Wendungen/Alltag/Essen & Trinken; Try the soup, it tastes really good!; Probier die Suppe, die schmeckt richtig gut!
+wa-0140; einen Tisch reservieren; to book a table; to reserve a table; A2; Wendungen/Alltag/Essen & Trinken; I would like to book a table for four people.; Ich möchte einen Tisch für vier Personen reservieren.
+wa-0141; Essen bestellen; to order food; ; A2; Wendungen/Alltag/Essen & Trinken; Let's order food tonight, I'm too tired to cook.; Lass uns heute Abend Essen bestellen, ich bin zu müde zum Kochen.
+wa-0142; Was möchten Sie trinken?; what would you like to drink?; ; A1; Wendungen/Alltag/Essen & Trinken; Good evening, what would you like to drink?; Guten Abend, was möchten Sie trinken?
+wa-0143; ich hätte gern; I would like; I'd like; A1; Wendungen/Alltag/Essen & Trinken; I would like a glass of orange juice, please.; Ich hätte gern ein Glas Orangensaft, bitte.
+wa-0144; zum Mitnehmen; to take away; takeaway; A2; Wendungen/Alltag/Essen & Trinken; One cheese sandwich to take away, please.; Ein Käsesandwich zum Mitnehmen, bitte.
+wa-0145; durchgebraten; well done; ; B1; Wendungen/Alltag/Essen & Trinken; I'd like my steak well done, please.; Ich hätte mein Steak gern durchgebraten.
+wa-0146; Die Rechnung, bitte!; the bill please; the check please; A1; Wendungen/Alltag/Essen & Trinken; Excuse me, the bill, please. We are in a hurry.; Entschuldigung, die Rechnung, bitte. Wir haben es eilig.
+wa-0147; Zusammen oder getrennt?; together or separately?; ; A2; Wendungen/Alltag/Essen & Trinken; Are you paying together or separately?; Zahlen Sie zusammen oder getrennt?
+wa-0148; Trinkgeld geben; to leave a tip; to give a tip; A2; Wendungen/Alltag/Essen & Trinken; In Germany people usually leave a tip of about ten percent.; In Deutschland gibt man meistens etwa zehn Prozent Trinkgeld.
+wa-0149; Das geht auf mich.; it's on me; this is on me; B1; Wendungen/Alltag/Essen & Trinken; Keep your money, dinner is on me tonight.; Lass dein Geld stecken, das Essen geht heute auf mich.
+wa-0150; jemanden zum Essen einladen; to invite someone for dinner; to invite someone to dinner; A2; Wendungen/Alltag/Essen & Trinken; For her birthday I invited my mum for dinner.; Zu ihrem Geburtstag habe ich meine Mutter zum Essen eingeladen.
+wa-0151; den Einkauf erledigen; to do the shopping; ; A2; Wendungen/Alltag/Einkaufen; On Saturdays I do the shopping for the whole week.; Samstags erledige ich den Einkauf für die ganze Woche.
+wa-0152; eine Einkaufsliste schreiben; to write a shopping list; to make a shopping list; A1; Wendungen/Alltag/Einkaufen; Before I go to the supermarket I write a shopping list.; Bevor ich in den Supermarkt gehe, schreibe ich eine Einkaufsliste.
+wa-0153; einen Schaufensterbummel machen; to go window-shopping; ; B1; Wendungen/Alltag/Einkaufen; On Saturdays we like to go window-shopping in town.; Samstags machen wir gern einen Schaufensterbummel in der Stadt.
+wa-0154; Kann ich Ihnen helfen?; can I help you?; ; A1; Wendungen/Alltag/Einkaufen; Good morning, can I help you?; Guten Morgen, kann ich Ihnen helfen?
+wa-0155; Was darf es sein?; what can I get you?; what would you like?; A2; Wendungen/Alltag/Einkaufen; Good morning, what can I get you?; Guten Morgen, was darf es sein?
+wa-0156; Ich schaue mich nur um.; I'm just looking; I am just looking; A2; Wendungen/Alltag/Einkaufen; No, thank you, I'm just looking.; Nein danke, ich schaue mich nur um.
+wa-0157; Was kostet das?; how much is this?; how much is it?, how much does it cost?; A1; Wendungen/Alltag/Einkaufen; Excuse me, how much is this? There is no price tag.; Entschuldigung, was kostet das? Es ist kein Preisschild dran.
+wa-0158; Welche Größe haben Sie?; what size are you?; what size do you take?; A2; Wendungen/Alltag/Einkaufen; What size are you? We have this shirt in small and medium.; Welche Größe haben Sie? Wir haben das Hemd in S und M.
+wa-0159; Das steht dir gut.; it suits you; that suits you; A2; Wendungen/Alltag/Einkaufen; You should buy that dress, it really suits you.; Du solltest das Kleid kaufen, es steht dir wirklich gut.
+wa-0160; ein Paar Schuhe; a pair of shoes; ; A1; Wendungen/Alltag/Einkaufen; I need a new pair of shoes for the wedding.; Ich brauche ein neues Paar Schuhe für die Hochzeit.
+wa-0161; ein halbes Kilo; half a kilo; ; A2; Wendungen/Alltag/Einkaufen; I'd like half a kilo of tomatoes, please.; Ich hätte gern ein halbes Kilo Tomaten.
+wa-0162; ein Dutzend Eier; a dozen eggs; ; A2; Wendungen/Alltag/Einkaufen; We need a dozen eggs for the cakes.; Für die Kuchen brauchen wir ein Dutzend Eier.
+wa-0163; Sonst noch etwas?; anything else?; ; A1; Wendungen/Alltag/Einkaufen; Here is your bread. Anything else?; Hier ist Ihr Brot. Sonst noch etwas?
+wa-0164; Das ist alles.; that's all; that is all; A1; Wendungen/Alltag/Einkaufen; No, thank you, that's all for today.; Nein danke, das ist alles für heute.
+wa-0165; Brauchen Sie eine Tüte?; do you need a bag?; ; A1; Wendungen/Alltag/Einkaufen; Do you need a bag for your shopping?; Brauchen Sie eine Tüte für Ihre Einkäufe?
+wa-0166; Hier, bitte.; here you are; here you go; A1; Wendungen/Alltag/Einkaufen; Here you are, your change and the receipt.; Hier, bitte, Ihr Wechselgeld und der Kassenbon.
+wa-0167; Stimmt so!; keep the change; ; A2; Wendungen/Alltag/Einkaufen; Here are twenty euros, keep the change.; Hier sind zwanzig Euro, stimmt so.
+wa-0168; Schlange stehen; to queue; to stand in line, to wait in line; A2; Wendungen/Alltag/Einkaufen; We had to queue for twenty minutes at the checkout.; Wir mussten an der Kasse zwanzig Minuten Schlange stehen.
+wa-0169; an der Kasse; at the checkout; at the till; A2; Wendungen/Alltag/Einkaufen; You can pay for everything at the checkout over there.; Du kannst alles dort drüben an der Kasse bezahlen.
+wa-0170; mit Karte bezahlen; to pay by card; to pay with a card; A1; Wendungen/Alltag/Einkaufen; Can I pay by card or only in cash?; Kann ich mit Karte bezahlen oder nur bar?
+wa-0171; bar bezahlen; to pay in cash; to pay cash; A1; Wendungen/Alltag/Einkaufen; In this little café you have to pay in cash.; In diesem kleinen Café muss man bar bezahlen.
+wa-0172; in Raten zahlen; to pay in instalments; to pay in installments; B1; Wendungen/Alltag/Einkaufen; We are paying for the new sofa in instalments.; Wir bezahlen das neue Sofa in Raten.
+wa-0173; um eine Quittung bitten; to ask for a receipt; ; A2; Wendungen/Alltag/Einkaufen; Always ask for a receipt when you buy something expensive.; Bitte immer um eine Quittung, wenn du etwas Teures kaufst.
+wa-0174; im Angebot sein; to be on offer; to be on special offer; A2; Wendungen/Alltag/Einkaufen; Strawberries are on offer this week.; Erdbeeren sind diese Woche im Angebot.
+wa-0175; zum halben Preis; at half price; half price; A2; Wendungen/Alltag/Einkaufen; In the sale everything is at half price.; Im Schlussverkauf gibt es alles zum halben Preis.
+wa-0176; Rabatt bekommen; to get a discount; ; B1; Wendungen/Alltag/Einkaufen; Students get a discount at the cinema.; Schüler bekommen im Kino Rabatt.
+wa-0177; ein Schnäppchen machen; to get a bargain; to find a bargain; B1; Wendungen/Alltag/Einkaufen; At the flea market I got a real bargain.; Auf dem Flohmarkt habe ich ein echtes Schnäppchen gemacht.
+wa-0178; ausverkauft sein; to be sold out; ; A2; Wendungen/Alltag/Einkaufen; Sorry, the tickets for tonight are sold out.; Tut mir leid, die Karten für heute Abend sind ausverkauft.
+wa-0179; geöffnet haben; to be open; ; A1; Wendungen/Alltag/Einkaufen; The bakery is open on Sundays until noon.; Die Bäckerei hat sonntags bis Mittag geöffnet.
+wa-0180; geschlossen haben; to be closed; ; A1; Wendungen/Alltag/Einkaufen; Most shops are closed on Sundays in Germany.; In Deutschland haben die meisten Geschäfte sonntags geschlossen.
+wa-0181; online bestellen; to order online; ; A2; Wendungen/Alltag/Einkaufen; I often order books and clothes online.; Ich bestelle Bücher und Kleidung oft online.
+wa-0182; etwas umtauschen; to exchange something; ; A2; Wendungen/Alltag/Einkaufen; Can I exchange these shoes for a bigger size?; Kann ich diese Schuhe in eine größere Größe umtauschen?
+wa-0183; etwas zurückgeben; to return something; ; A2; Wendungen/Alltag/Einkaufen; I want to return this jacket because it is too small.; Ich möchte diese Jacke zurückgeben, weil sie zu klein ist.
+wa-0184; sein Geld zurückbekommen; to get a refund; ; B1; Wendungen/Alltag/Einkaufen; The radio was broken, so I got a refund.; Das Radio war kaputt, also habe ich mein Geld zurückbekommen.
+wa-0185; Geld ausgeben; to spend money; ; A2; Wendungen/Alltag/Einkaufen; I spend too much money on clothes.; Ich gebe zu viel Geld für Kleidung aus.
+wa-0186; Geld sparen; to save money; ; A2; Wendungen/Alltag/Einkaufen; I am saving money for a new bike.; Ich spare Geld für ein neues Fahrrad.
+wa-0187; Geld abheben; to withdraw money; ; A2; Wendungen/Alltag/Einkaufen; I need to withdraw money from the cash machine.; Ich muss am Geldautomaten Geld abheben.
+wa-0188; Geld wechseln; to change money; to exchange money; A2; Wendungen/Alltag/Einkaufen; We changed money at the airport before the trip.; Wir haben vor der Reise am Flughafen Geld gewechselt.
+wa-0189; sich etwas leisten können; to afford something; to be able to afford something; B1; Wendungen/Alltag/Einkaufen; We can't afford a new car this year.; Wir können uns dieses Jahr kein neues Auto leisten.
+wa-0190; pleite sein; to be broke; ; B1; Wendungen/Alltag/Einkaufen; I can't come to the cinema, I'm broke this month.; Ich kann nicht mit ins Kino, ich bin diesen Monat pleite.
+wa-0191; Sport treiben; to do sport; to play sport, to do sports; A1; Wendungen/Alltag/Freizeit; I do sport three times a week.; Ich treibe dreimal pro Woche Sport.
+wa-0192; Fußball spielen; to play football; to play soccer; A1; Wendungen/Alltag/Freizeit; We play football in the park every Saturday.; Wir spielen jeden Samstag im Park Fußball.
+wa-0193; einem Verein beitreten; to join a club; ; A2; Wendungen/Alltag/Freizeit; I want to join the tennis club in our town.; Ich möchte dem Tennisverein in unserer Stadt beitreten.
+wa-0194; schwimmen gehen; to go swimming; ; A1; Wendungen/Alltag/Freizeit; In summer we often go swimming in the lake.; Im Sommer gehen wir oft im See schwimmen.
+wa-0195; joggen gehen; to go jogging; to go running, to go for a run; A1; Wendungen/Alltag/Freizeit; My dad goes jogging every morning before work.; Mein Vater geht jeden Morgen vor der Arbeit joggen.
+wa-0196; wandern gehen; to go hiking; to go walking; A2; Wendungen/Alltag/Freizeit; In the holidays we went hiking in the mountains.; In den Ferien sind wir in den Bergen wandern gegangen.
+wa-0197; einen Schneemann bauen; to build a snowman; to make a snowman; A1; Wendungen/Alltag/Freizeit; After lunch the children built a big snowman.; Nach dem Mittagessen haben die Kinder einen großen Schneemann gebaut.
+wa-0198; reiten gehen; to go riding; to go horse riding; A2; Wendungen/Alltag/Freizeit; My best friend goes riding every Saturday.; Meine beste Freundin geht jeden Samstag reiten.
+wa-0199; tanzen gehen; to go dancing; ; A2; Wendungen/Alltag/Freizeit; On Saturday night we went dancing in town.; Am Samstagabend sind wir in der Stadt tanzen gegangen.
+wa-0200; angeln gehen; to go fishing; ; A2; Wendungen/Alltag/Freizeit; My grandpa and I often go fishing at the lake.; Mein Opa und ich gehen oft am See angeln.
+wa-0201; ins Fitnessstudio gehen; to go to the gym; ; A1; Wendungen/Alltag/Freizeit; I go to the gym twice a week after work.; Ich gehe zweimal pro Woche nach der Arbeit ins Fitnessstudio.
+wa-0202; Yoga machen; to do yoga; ; A2; Wendungen/Alltag/Freizeit; My mum does yoga every morning before breakfast.; Meine Mutter macht jeden Morgen vor dem Frühstück Yoga.
+wa-0203; fit bleiben; to stay fit; to keep fit; A2; Wendungen/Alltag/Freizeit; I go swimming twice a week to stay fit.; Ich gehe zweimal pro Woche schwimmen, um fit zu bleiben.
+wa-0204; eine Radtour machen; to go on a bike ride; to go for a bike ride; A2; Wendungen/Alltag/Freizeit; Last Sunday we went on a bike ride along the river.; Letzten Sonntag haben wir eine Radtour am Fluss entlang gemacht.
+wa-0205; einen Ausflug machen; to go on a trip; to go on an outing, to go on an excursion; A2; Wendungen/Alltag/Freizeit; On Sunday we went on a trip to the seaside.; Am Sonntag haben wir einen Ausflug ans Meer gemacht.
+wa-0206; ein Picknick machen; to have a picnic; ; A1; Wendungen/Alltag/Freizeit; If the weather is nice, let's have a picnic in the park.; Wenn das Wetter schön ist, lass uns ein Picknick im Park machen.
+wa-0207; eine Grillparty machen; to have a barbecue; ; A2; Wendungen/Alltag/Freizeit; Tonight we are having a barbecue in the garden.; Heute Abend machen wir eine Grillparty im Garten.
+wa-0208; im Garten arbeiten; to work in the garden; to do the gardening; A2; Wendungen/Alltag/Freizeit; My mum loves working in the garden at the weekend.; Meine Mutter arbeitet am Wochenende gern im Garten.
+wa-0209; ins Kino gehen; to go to the cinema; to go to the movies; A1; Wendungen/Alltag/Freizeit; Shall we go to the cinema tonight?; Sollen wir heute Abend ins Kino gehen?
+wa-0210; ins Theater gehen; to go to the theatre; to go to the theater; A2; Wendungen/Alltag/Freizeit; We go to the theatre two or three times a year.; Wir gehen zwei- oder dreimal im Jahr ins Theater.
+wa-0211; ins Konzert gehen; to go to a concert; ; A2; Wendungen/Alltag/Freizeit; Next week we are going to a concert in Berlin.; Nächste Woche gehen wir in Berlin ins Konzert.
+wa-0212; einen Film sehen; to watch a film; to watch a movie, to see a film; A1; Wendungen/Alltag/Freizeit; Let's watch a film at home tonight.; Lass uns heute Abend zu Hause einen Film sehen.
+wa-0213; Was läuft im Fernsehen?; what's on TV?; what's on television?; A2; Wendungen/Alltag/Freizeit; What's on TV tonight? Anything good?; Was läuft heute Abend im Fernsehen? Etwas Gutes?
+wa-0214; Musik hören; to listen to music; ; A1; Wendungen/Alltag/Freizeit; I always listen to music on the bus.; Im Bus höre ich immer Musik.
+wa-0215; Zeitung lesen; to read the newspaper; to read the paper; A1; Wendungen/Alltag/Freizeit; My grandpa reads the newspaper every morning.; Mein Opa liest jeden Morgen Zeitung.
+wa-0216; im Internet surfen; to surf the internet; to surf the web; A2; Wendungen/Alltag/Freizeit; I surf the internet for an hour every evening.; Ich surfe jeden Abend eine Stunde im Internet.
+wa-0217; ein Instrument spielen; to play an instrument; ; A2; Wendungen/Alltag/Freizeit; Do you play an instrument, like the piano?; Spielst du ein Instrument, zum Beispiel Klavier?
+wa-0218; Gitarre spielen; to play the guitar; ; A1; Wendungen/Alltag/Freizeit; My brother has played the guitar for two years.; Mein Bruder spielt seit zwei Jahren Gitarre.
+wa-0219; Klavier spielen; to play the piano; ; A1; Wendungen/Alltag/Freizeit; She plays the piano every day after lunch.; Sie spielt jeden Tag nach dem Mittagessen Klavier.
+wa-0220; Karten spielen; to play cards; ; A1; Wendungen/Alltag/Freizeit; In the evenings we often play cards with Grandma.; Abends spielen wir oft mit Oma Karten.
+wa-0221; Schach spielen; to play chess; ; A2; Wendungen/Alltag/Freizeit; My grandpa taught me to play chess.; Mein Opa hat mir beigebracht, Schach zu spielen.
+wa-0222; Computerspiele spielen; to play computer games; to play video games; A1; Wendungen/Alltag/Freizeit; My brother plays computer games all weekend.; Mein Bruder spielt das ganze Wochenende Computerspiele.
+wa-0223; Du bist dran.; it's your turn; it is your turn; A1; Wendungen/Alltag/Freizeit; Throw the dice, it's your turn!; Würfel, du bist dran!
+wa-0224; ein Foto machen; to take a photo; to take a picture; A1; Wendungen/Alltag/Freizeit; Can you take a photo of us, please?; Kannst du bitte ein Foto von uns machen?
+wa-0225; Freunde treffen; to meet friends; ; A1; Wendungen/Alltag/Freizeit; On Fridays I meet friends in town.; Freitags treffe ich Freunde in der Stadt.
+wa-0226; eine Party machen; to have a party; to throw a party, to give a party; A2; Wendungen/Alltag/Freizeit; We are having a party for my sister's birthday.; Wir machen eine Party zum Geburtstag meiner Schwester.
+wa-0227; Spaß haben; to have fun; to have a good time; A1; Wendungen/Alltag/Freizeit; We had a lot of fun at the beach.; Wir hatten am Strand viel Spaß.
+wa-0228; Viel Spaß!; have fun!; have a good time, enjoy yourself; A1; Wendungen/Alltag/Freizeit; Have fun at the party tonight!; Viel Spaß heute Abend auf der Party!
+wa-0229; sich langweilen; to be bored; to get bored; A1; Wendungen/Alltag/Freizeit; I am bored, there is nothing on TV.; Ich langweile mich, im Fernsehen läuft nichts.
+wa-0230; Lust haben auf etwas; to feel like something; to fancy something; A2; Wendungen/Alltag/Freizeit; I feel like a pizza tonight.; Ich habe heute Abend Lust auf Pizza.
+wa-0231; Wie wäre es mit …?; how about; what about; A2; Wendungen/Alltag/Freizeit; How about a game of cards after dinner?; Wie wäre es mit einer Runde Karten nach dem Abendessen?
+wa-0232; Ich bin dabei!; I'm in; I am in, count me in; B1; Wendungen/Alltag/Freizeit; A picnic on Sunday? Sounds great, I'm in!; Ein Picknick am Sonntag? Klingt super, ich bin dabei!
+wa-0233; einen Tag frei haben; to have a day off; to have the day off; A2; Wendungen/Alltag/Freizeit; I have a day off tomorrow, so let's go to the zoo.; Ich habe morgen einen Tag frei, also lass uns in den Zoo gehen.
+wa-0234; Mitglied sein in; to be a member of; ; A2; Wendungen/Alltag/Freizeit; I am a member of the local football club.; Ich bin Mitglied im Fußballverein hier im Ort.
+wa-0235; sich interessieren für; to be interested in; ; A2; Wendungen/Alltag/Freizeit; My brother is very interested in old cars.; Mein Bruder interessiert sich sehr für alte Autos.
+wa-0236; gut sein in; to be good at; ; A1; Wendungen/Alltag/Freizeit; My sister is very good at drawing.; Meine Schwester ist sehr gut im Zeichnen.
+wa-0237; ein Spiel gewinnen; to win a game; to win a match; A1; Wendungen/Alltag/Freizeit; Our team won the game three to one.; Unsere Mannschaft hat das Spiel drei zu eins gewonnen.
+wa-0238; ein Spiel verlieren; to lose a game; to lose a match; A1; Wendungen/Alltag/Freizeit; We lost the game, but it was still fun.; Wir haben das Spiel verloren, aber es hat trotzdem Spaß gemacht.
+wa-0239; ein Tor schießen; to score a goal; ; A2; Wendungen/Alltag/Freizeit; Lisa scored two goals in the last match.; Lisa hat im letzten Spiel zwei Tore geschossen.
+wa-0240; unentschieden spielen; to draw; ; B1; Wendungen/Alltag/Freizeit; Yesterday we drew against the best team in the league.; Gestern haben wir gegen die beste Mannschaft der Liga unentschieden gespielt.
+wa-0241; in Urlaub fahren; to go on holiday; to go on vacation; A1; Wendungen/Alltag/Reisen; Next summer we are going on holiday to Italy.; Nächsten Sommer fahren wir nach Italien in Urlaub.
+wa-0242; im Urlaub sein; to be on holiday; to be on vacation; A1; Wendungen/Alltag/Reisen; My boss is on holiday until Monday.; Mein Chef ist bis Montag im Urlaub.
+wa-0243; eine Reise buchen; to book a trip; to book a holiday; A2; Wendungen/Alltag/Reisen; We booked a trip to Greece online.; Wir haben online eine Reise nach Griechenland gebucht.
+wa-0244; ein Zimmer buchen; to book a room; to reserve a room; A2; Wendungen/Alltag/Reisen; I booked a room with a view of the sea.; Ich habe ein Zimmer mit Meerblick gebucht.
+wa-0245; einen Flug buchen; to book a flight; ; A2; Wendungen/Alltag/Reisen; We booked a cheap flight to Barcelona.; Wir haben einen günstigen Flug nach Barcelona gebucht.
+wa-0246; den Koffer packen; to pack one's suitcase; to pack your suitcase, to pack; A2; Wendungen/Alltag/Reisen; Have you packed your suitcase yet?; Hast du deinen Koffer schon gepackt?
+wa-0247; den Koffer auspacken; to unpack one's suitcase; to unpack your suitcase, to unpack; A2; Wendungen/Alltag/Reisen; First we unpacked our suitcases, then we went to the beach.; Zuerst haben wir die Koffer ausgepackt, dann sind wir an den Strand gegangen.
+wa-0248; zelten gehen; to go camping; ; A2; Wendungen/Alltag/Reisen; Every summer we go camping by a lake in Sweden.; Jeden Sommer gehen wir an einem See in Schweden zelten.
+wa-0249; ein Zelt aufbauen; to pitch a tent; ; B1; Wendungen/Alltag/Reisen; We pitched our tent next to the river.; Wir haben unser Zelt neben dem Fluss aufgebaut.
+wa-0250; im Hotel übernachten; to stay at a hotel; to stay in a hotel; A2; Wendungen/Alltag/Reisen; We stayed at a small hotel near the station.; Wir haben in einem kleinen Hotel in der Nähe des Bahnhofs übernachtet.
+wa-0251; bei Freunden übernachten; to stay with friends; ; A2; Wendungen/Alltag/Reisen; When we visit Berlin, we stay with friends.; Wenn wir Berlin besuchen, übernachten wir bei Freunden.
+wa-0252; Gute Reise!; have a good trip; have a nice trip, have a safe journey; A1; Wendungen/Alltag/Reisen; Have a good trip and send us a postcard!; Gute Reise, und schick uns eine Postkarte!
+wa-0253; auf Reisen sein; to be travelling; to be traveling; B1; Wendungen/Alltag/Reisen; My uncle is travelling in Asia for three months.; Mein Onkel ist drei Monate in Asien auf Reisen.
+wa-0254; Sehenswürdigkeiten besichtigen; to go sightseeing; to see the sights; A2; Wendungen/Alltag/Reisen; In Rome we went sightseeing every day.; In Rom haben wir jeden Tag Sehenswürdigkeiten besichtigt.
+wa-0255; an den Strand gehen; to go to the beach; ; A1; Wendungen/Alltag/Reisen; Every morning we went to the beach after breakfast.; Jeden Morgen sind wir nach dem Frühstück an den Strand gegangen.
+wa-0256; am Meer; by the sea; at the seaside; A2; Wendungen/Alltag/Reisen; We spent two weeks in a small house by the sea.; Wir haben zwei Wochen in einem kleinen Haus am Meer verbracht.
+wa-0257; in den Bergen; in the mountains; ; A1; Wendungen/Alltag/Reisen; We spent our holiday in the mountains.; Wir haben unseren Urlaub in den Bergen verbracht.
+wa-0258; im Ausland; abroad; ; A2; Wendungen/Alltag/Reisen; My cousin is studying abroad for a year.; Mein Cousin studiert ein Jahr im Ausland.
+wa-0259; Heimweh haben; to be homesick; to feel homesick; A2; Wendungen/Alltag/Reisen; On my first night at camp I was very homesick.; In der ersten Nacht im Ferienlager hatte ich großes Heimweh.
+wa-0260; sich einen Sonnenbrand holen; to get sunburnt; to get sunburned; A2; Wendungen/Alltag/Reisen; Use sun cream, or you will get sunburnt.; Nimm Sonnencreme, sonst holst du dir einen Sonnenbrand.
+wa-0261; mit dem Zug fahren; to go by train; to take the train; A1; Wendungen/Alltag/Unterwegs; We went by train from Munich to Vienna.; Wir sind mit dem Zug von München nach Wien gefahren.
+wa-0262; mit dem Bus fahren; to go by bus; to take the bus; A1; Wendungen/Alltag/Unterwegs; I go by bus because it is too far to walk.; Ich fahre mit dem Bus, weil es zu Fuß zu weit ist.
+wa-0263; mit dem Auto fahren; to go by car; ; A1; Wendungen/Alltag/Unterwegs; We usually go by car to visit my grandparents.; Wir fahren meistens mit dem Auto zu meinen Großeltern.
+wa-0264; Wie weit ist es?; how far is it?; ; A1; Wendungen/Alltag/Unterwegs; How far is it to the next petrol station?; Wie weit ist es bis zur nächsten Tankstelle?
+wa-0265; ein Taxi nehmen; to take a taxi; to get a taxi; A1; Wendungen/Alltag/Unterwegs; It's late, let's take a taxi home.; Es ist spät, lass uns ein Taxi nach Hause nehmen.
+wa-0266; eine Fahrkarte kaufen; to buy a ticket; ; A1; Wendungen/Alltag/Unterwegs; You can buy a ticket from the machine.; Du kannst am Automaten eine Fahrkarte kaufen.
+wa-0267; eine einfache Fahrkarte; a single ticket; a one-way ticket; A2; Wendungen/Alltag/Unterwegs; A single ticket to Oxford, please.; Eine einfache Fahrkarte nach Oxford, bitte.
+wa-0268; einen Platz reservieren; to reserve a seat; to book a seat; A2; Wendungen/Alltag/Unterwegs; On long journeys it is a good idea to reserve a seat.; Bei langen Fahrten ist es gut, einen Platz zu reservieren.
+wa-0269; Ist dieser Platz noch frei?; is this seat free?; is this seat taken?; A2; Wendungen/Alltag/Unterwegs; Excuse me, is this seat free?; Entschuldigung, ist dieser Platz noch frei?
+wa-0270; an der nächsten Haltestelle; at the next stop; ; A1; Wendungen/Alltag/Unterwegs; We have to change at the next stop.; Wir müssen an der nächsten Haltestelle umsteigen.
+wa-0271; den Zug verpassen; to miss the train; ; A2; Wendungen/Alltag/Unterwegs; Hurry, or we will miss the train!; Beeil dich, sonst verpassen wir den Zug!
+wa-0272; Verspätung haben; to be delayed; to be late; A2; Wendungen/Alltag/Unterwegs; Our flight was delayed by two hours.; Unser Flug hatte zwei Stunden Verspätung.
+wa-0273; Wie lange dauert die Fahrt?; how long does the journey take?; how long is the journey?; A2; Wendungen/Alltag/Unterwegs; How long does the journey to London take by train?; Wie lange dauert die Fahrt nach London mit dem Zug?
+wa-0274; im Stau stehen; to be stuck in traffic; to be stuck in a traffic jam; A2; Wendungen/Alltag/Unterwegs; Sorry I'm late, I was stuck in traffic.; Entschuldigung, dass ich zu spät bin, ich stand im Stau.
+wa-0275; den Führerschein machen; to learn to drive; to take driving lessons; A2; Wendungen/Alltag/Unterwegs; My brother is learning to drive at the moment.; Mein Bruder macht gerade den Führerschein.
+wa-0276; das Fahrrad abschließen; to lock one's bike; to lock your bike; A2; Wendungen/Alltag/Unterwegs; Always lock your bike when you leave it at the station.; Schließ dein Fahrrad immer ab, wenn du es am Bahnhof stehen lässt.
+wa-0277; die Straße überqueren; to cross the road; to cross the street; A1; Wendungen/Alltag/Unterwegs; Look left and right before you cross the road.; Schau nach links und rechts, bevor du die Straße überquerst.
+wa-0278; Wie komme ich zum Bahnhof?; how do I get to the station?; ; A1; Wendungen/Alltag/Unterwegs; Excuse me, how do I get to the station?; Entschuldigung, wie komme ich zum Bahnhof?
+wa-0279; nach dem Weg fragen; to ask for directions; to ask the way; A2; Wendungen/Alltag/Unterwegs; We got lost and had to ask for directions.; Wir hatten uns verlaufen und mussten nach dem Weg fragen.
+wa-0280; sich verlaufen; to get lost; ; A2; Wendungen/Alltag/Unterwegs; I got lost in the old town yesterday.; Ich habe mich gestern in der Altstadt verlaufen.
+wa-0281; links abbiegen; to turn left; ; A1; Wendungen/Alltag/Unterwegs; Turn left at the traffic lights.; Bieg an der Ampel links ab.
+wa-0282; rechts abbiegen; to turn right; ; A1; Wendungen/Alltag/Unterwegs; After the church, turn right into Station Road.; Bieg nach der Kirche rechts in die Bahnhofstraße ab.
+wa-0283; geradeaus gehen; to go straight on; to go straight ahead; A1; Wendungen/Alltag/Unterwegs; Go straight on until you see the post office.; Geh geradeaus, bis du die Post siehst.
+wa-0284; auf der linken Seite; on the left; on the left-hand side; A1; Wendungen/Alltag/Unterwegs; The bank is on the left, next to the café.; Die Bank ist auf der linken Seite, neben dem Café.
+wa-0285; auf der rechten Seite; on the right; on the right-hand side; A1; Wendungen/Alltag/Unterwegs; You will see the museum on the right.; Du siehst das Museum auf der rechten Seite.
+wa-0286; an der Ecke; on the corner; at the corner; A1; Wendungen/Alltag/Unterwegs; There is a bakery on the corner of our street.; An der Ecke unserer Straße gibt es eine Bäckerei.
+wa-0287; in der Nähe; nearby; near here, close by; A1; Wendungen/Alltag/Unterwegs; Excuse me, is there a supermarket nearby?; Entschuldigung, gibt es hier in der Nähe einen Supermarkt?
+wa-0288; weit weg; far away; ; A1; Wendungen/Alltag/Unterwegs; The beach isn't far away, so we can walk.; Der Strand ist nicht weit weg, also können wir zu Fuß gehen.
+wa-0289; gegenüber von; opposite; across from; A2; Wendungen/Alltag/Unterwegs; The bus stop is opposite the bank.; Die Bushaltestelle ist gegenüber von der Bank.
+wa-0290; in der Innenstadt; in the city centre; in the town centre; A2; Wendungen/Alltag/Unterwegs; We met in a café in the city centre.; Wir haben uns in einem Café in der Innenstadt getroffen.
+wa-0291; zum Arzt gehen; to go to the doctor's; to go to the doctor, to see a doctor; A1; Wendungen/Alltag/Gesundheit; I have a sore throat, so I'm going to the doctor's.; Ich habe Halsschmerzen, deshalb gehe ich zum Arzt.
+wa-0292; einen Termin haben; to have an appointment; ; A2; Wendungen/Alltag/Gesundheit; I have an appointment at the dentist's at three.; Ich habe um drei einen Termin beim Zahnarzt.
+wa-0293; Fieber haben; to have a temperature; to have a fever; A2; Wendungen/Alltag/Gesundheit; My little brother has a temperature and is staying in bed.; Mein kleiner Bruder hat Fieber und bleibt im Bett.
+wa-0294; Kopfschmerzen haben; to have a headache; ; A1; Wendungen/Alltag/Gesundheit; I have a headache because I slept badly.; Ich habe Kopfschmerzen, weil ich schlecht geschlafen habe.
+wa-0295; sich krank fühlen; to feel ill; to feel unwell; A2; Wendungen/Alltag/Gesundheit; If you feel ill tomorrow, stay at home.; Wenn du dich morgen krank fühlst, bleib zu Hause.
+wa-0296; Mir ist schlecht.; I feel sick; I feel ill; A2; Wendungen/Alltag/Gesundheit; Can we stop the car? I feel sick.; Können wir anhalten? Mir ist schlecht.
+wa-0297; eine Tablette nehmen; to take a tablet; to take a pill; A2; Wendungen/Alltag/Gesundheit; Take one tablet three times a day after meals.; Nimm dreimal täglich nach dem Essen eine Tablette.
+wa-0298; sich das Bein brechen; to break one's leg; to break your leg; A2; Wendungen/Alltag/Gesundheit; He broke his leg skiing last winter.; Er hat sich letzten Winter beim Skifahren das Bein gebrochen.
+wa-0299; Gute Besserung!; get well soon; ; A1; Wendungen/Alltag/Gesundheit; I'm sorry you are ill. Get well soon!; Schade, dass du krank bist. Gute Besserung!
+wa-0300; Wie ist das Wetter?; what's the weather like?; what is the weather like?; A1; Wendungen/Alltag/Wetter; What's the weather like in London today?; Wie ist das Wetter heute in London?
+wa-0301; bei schönem Wetter; in good weather; when the weather is nice; A2; Wendungen/Alltag/Wetter; In good weather we have breakfast on the balcony.; Bei schönem Wetter frühstücken wir auf dem Balkon.
+wa-0302; nass werden; to get wet; ; A1; Wendungen/Alltag/Wetter; Take an umbrella, or you will get wet.; Nimm einen Schirm mit, sonst wirst du nass.
+wa-0303; Mir ist kalt.; I'm cold; I am cold; A1; Wendungen/Alltag/Wetter; Can you close the window? I'm cold.; Kannst du das Fenster zumachen? Mir ist kalt.
+wa-0304; Mir ist heiß.; I'm hot; I am hot; A1; Wendungen/Alltag/Wetter; I'm hot, can I open the window?; Mir ist heiß, darf ich das Fenster aufmachen?
+wa-0305; Geburtstag feiern; to celebrate one's birthday; to celebrate your birthday; A1; Wendungen/Alltag/Feste & Wünsche; How are you going to celebrate your birthday?; Wie feierst du deinen Geburtstag?
+wa-0306; ein Geschenk einpacken; to wrap a present; to wrap a gift; A2; Wendungen/Alltag/Feste & Wünsche; Can you help me wrap the presents for Grandma?; Kannst du mir helfen, die Geschenke für Oma einzupacken?
+wa-0307; Alles Gute zum Geburtstag!; happy birthday; ; A1; Wendungen/Alltag/Feste & Wünsche; Happy birthday, Anna! Here is a little present.; Alles Gute zum Geburtstag, Anna! Hier ist ein kleines Geschenk.
+wa-0308; Frohe Weihnachten!; Merry Christmas; Happy Christmas; A1; Wendungen/Alltag/Feste & Wünsche; Merry Christmas and see you next year!; Frohe Weihnachten und bis nächstes Jahr!
+wa-0309; Frohes neues Jahr!; Happy New Year; ; A1; Wendungen/Alltag/Feste & Wünsche; Happy New Year! Did you see the fireworks?; Frohes neues Jahr! Hast du das Feuerwerk gesehen?
+wa-0310; Schönes Wochenende!; have a nice weekend; have a good weekend; A1; Wendungen/Alltag/Feste & Wünsche; See you on Monday, and have a nice weekend!; Bis Montag, und schönes Wochenende!

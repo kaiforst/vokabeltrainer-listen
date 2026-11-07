@@ -145,3 +145,30 @@ Geschäfts- und Politiklisten.
 - `node scripts/pruefe.mjs`: 0 Fehler, 11 Hinweise (die oben genannten).
 - Stichprobe: alle 247 übernommenen Zeilen neben der englischen gelesen, dazu 30 Zeilen (22 geänderte, 8 aus
   fr-bedeutungen) erneut auf Übersetzung, Niveau und Beispiel durchgesehen; keine weitere Korrektur nötig.
+
+## Merge-Hinweise der Hauptsession (aliase.txt)
+
+Stand nach dem letzten Commit, `node scripts/pruefe.mjs`:
+
+- fr-fh-0065: Wortpaar weicht von fr-bb-0030 ab (fr|preis gewinn|le prix / fr|preis kosten|le prix)
+- fr-ke-0497: Wortpaar weicht von fr-mk-0121 ab (fr|reichweite fahrzeug|l'autonomie / fr|reichweite medien|la portee)
+- fr-ke-0696: Wortpaar weicht von fr-gw-0072 ab (fr|tragen last|porter / fr|tragen kleidung|porter)
+- fr-ke-0950: Wortpaar weicht von fr-pg-0041 ab (fr|stimme beim sprechen|la voix / fr|stimme bei der wahl|la voix)
+- fr-ru-0021: Wortpaar weicht von fr-fh-0016 ab (fr|karte landkarte|la carte / fr|karte spielkarte|la carte)
+- fr-vm-0019: Wortpaar weicht von fr-fh-0016 ab (fr|karte landkarte|la carte / fr|karte spielkarte|la carte)
+- fr-vt-0038: Wortpaar weicht von fr-sf-0074 ab (fr|verlangerung frist vertrag|la prolongation / fr|verlangerung sport|la prolongation)
+- fr-wi-0033: Wortpaar weicht von fr-sf-0062 ab (fr|kraft physik|la force / fr|kraft korperlich|la force)
+- fr-wu-0019: Wortpaar weicht von fr-et-0039 ab (fr|eis gefrorenes wasser|la glace / fr|eis speiseeis|la glace)
+
+Diese Alias-Zeilen verbinden jetzt zwei verschiedene Bedeutungen (Klammerhinweis aus M-en) und werden beim Mergen aus
+aliase.txt entfernt. Danach `node scripts/aliase.mjs`: Es legt die neuen Aliase für gleiche Wortpaare an:
+
+- fr | aufstehen morgens aus dem bett | se lever  →  fr-al-0127  ←  fr-ke-0749
+- fr | nachricht mitteilung | le message  →  fr-gw-0441  ←  fr-bb-0035, fr-ke-0359, fr-tc-0038
+- fr | geschaft laden | le magasin  →  fr-gw-0239  ←  fr-mv-0004, fr-eg-0004, fr-ke-0605, fr-wf-0008
+- fr | sich erinnern | se souvenir  →  fr-gw-0307  ←  fr-ke-0834
+- fr | annehmen vermuten | supposer  →  fr-gw-0511  ←  fr-ke-0679
+- fr | muster design | le motif  →  fr-km-0067  ←  fr-ke-0441
+
+Damit hängen fr-ke-0834 („sich erinnern“) und fr-ke-0497 („Reichweite (Fahrzeug)“) wie im Englischen an gw-0307
+bzw. vm-0128, soweit die Antwort dort gleich ist.

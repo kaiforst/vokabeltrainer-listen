@@ -179,3 +179,27 @@ es-ke-0088 können + saber); beim Setzen der Hinweise diese Weiteren Antworten e
 - Alle 247 übernommenen Zeilen einzeln neben dem Original geprüft; alle 59 Zeilen in es-bedeutungen.txt und eine
   Stichprobe von 30 geänderten bzw. neuen Zeilen nochmals auf Übersetzung, Niveau und Beispielsatz durchgesehen.
 - Feld Deutsch, Niveau, Themen und IDs bestehender Zeilen unverändert (nur Antwort, Weitere Antworten, Beispiele).
+
+## Merge-Hinweise der Hauptsession (aliase.txt)
+
+Stand nach dem letzten Commit, `node scripts/pruefe.mjs`:
+
+- es-ke-0497: Wortpaar weicht von es-mk-0121 ab (es|reichweite fahrzeug|la autonomia / es|reichweite medien|el alcance)
+- es-ke-0696: Wortpaar weicht von es-gw-0072 ab (es|tragen last|llevar / es|tragen kleidung|llevar)
+- es-ke-0834: Wortpaar weicht von es-gw-0572 ab (es|sich erinnern|acordarse / es|erinnern jemanden|recordar)
+- es-kg-0043: Wortpaar weicht von es-gw-0355 ab (es|rezept arzt|la receta / es|rezept kochen|la receta)
+- es-vt-0038: Wortpaar weicht von es-sf-0074 ab (es|verlangerung frist vertrag|la prorroga / es|verlangerung sport|la prorroga)
+- es-wi-0033: Wortpaar weicht von es-sf-0062 ab (es|kraft physik|la fuerza / es|kraft korperlich|la fuerza)
+
+Diese Alias-Zeilen verbinden jetzt zwei verschiedene Bedeutungen (Klammerhinweis aus M-en) und werden beim Mergen aus
+aliase.txt entfernt. Danach `node scripts/aliase.mjs`: Es legt die neuen Aliase für gleiche Wortpaare an:
+
+- es | aufstehen morgens aus dem bett | levantarse  →  es-al-0127  ←  es-ke-0749
+- es | nachricht mitteilung | el mensaje  →  es-gw-0441  ←  es-bb-0035, es-ke-0359, es-tc-0038
+- es | geschaft laden | la tienda  →  es-gw-0239  ←  es-mv-0004, es-eg-0004, es-ke-0605, es-wf-0008
+- es | große | la talla  →  es-eg-0045  ←  es-ke-0564, es-km-0050
+- es | annehmen vermuten | suponer  →  es-gw-0511  ←  es-ke-0679
+- es | sturm | el temporal  →  es-wu-0030  ←  es-ke-0606
+
+Damit hängen es-ke-0834 („sich erinnern“) und es-ke-0497 („Reichweite (Fahrzeug)“) wie im Englischen an gw-0307
+bzw. vm-0128, soweit die Antwort dort gleich ist.

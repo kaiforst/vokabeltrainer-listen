@@ -52,7 +52,7 @@ ke-0049; Rücken, Rückseite; back; ; A1; Karstens Empfehlung/Wörter; His back 
 ke-0050; schlecht; bad; ; A1; Karstens Empfehlung/Wörter; The film was really bad, sorry.; Der Film war wirklich schlecht, tut mir leid.
 ke-0051; Tasche, Beutel; bag; ; A1; Karstens Empfehlung/Wörter; Do you need a bag for that?; Brauchen Sie dafür eine Tasche?
 ke-0052; Bäckerei; bakery; ; A2; Karstens Empfehlung/Wörter; The bakery opens at six in the morning.; Die Bäckerei öffnet um sechs Uhr morgens.
-ke-0053; Bank; bank; ; A2; Karstens Empfehlung/Wörter; The bank closes at four in the afternoon.; Die Bank schließt um vier Uhr nachmittags.
+ke-0053; Bank (Geldinstitut); bank; ; A2; Karstens Empfehlung/Wörter; The bank closes at four in the afternoon.; Die Bank schließt um vier Uhr nachmittags.
 ke-0054; wunderschön; beautiful; ; A1; Karstens Empfehlung/Wörter; The garden looks beautiful in spring.; Im Frühling sieht der Garten wunderschön aus.
 ke-0055; weil; because; ; A1; Karstens Empfehlung/Wörter; I am staying at home because I am ill.; Ich bleibe zu Hause, weil ich krank bin.
 ke-0056; Bett; bed; ; A1; Karstens Empfehlung/Wörter; I go to bed at ten o'clock.; Ich gehe um zehn Uhr ins Bett.
@@ -84,11 +84,11 @@ ke-0081; Schwager; brother-in-law; ; B1; Karstens Empfehlung/Wörter; My brother
 ke-0082; braun; brown; ; A1; Karstens Empfehlung/Wörter; My dog has big brown eyes.; Mein Hund hat große braune Augen.
 ke-0083; Gebäude; building; ; A2; Karstens Empfehlung/Wörter; This building is the tallest in the country.; Dieses Gebäude ist das höchste im Land.
 ke-0084; Bus; bus; ; A1; Karstens Empfehlung/Wörter; The bus to the city comes every ten minutes.; Der Bus in die Stadt kommt alle zehn Minuten.
-ke-0085; Geschäft; business; ; A2; Karstens Empfehlung/Wörter; The business with the new partner is going well.; Das Geschäft mit dem neuen Partner läuft gut.
+ke-0085; Geschäft (Handel); business; ; A2; Karstens Empfehlung/Wörter; The business with the new partner is going well.; Das Geschäft mit dem neuen Partner läuft gut.
 ke-0086; aber; but; ; A1; Karstens Empfehlung/Wörter; I like apples, but I do not like pears.; Ich mag Äpfel, aber ich mag keine Birnen.
 ke-0087; ruhig, still, unbewegt; calm; ; A1; Karstens Empfehlung/Wörter; Please stay calm, everything is fine.; Bitte bleib ruhig, alles ist in Ordnung.
 ke-0088; können; can; ; A1; Karstens Empfehlung/Verben; I can swim very well.; Ich kann sehr gut schwimmen.
-ke-0089; Krebs; cancer; ; B1; Karstens Empfehlung/Wörter; Several people in the town got cancer.; Mehrere Menschen im Ort erkrankten an Krebs.
+ke-0089; Krebs (Krankheit); cancer; ; B1; Karstens Empfehlung/Wörter; Several people in the town got cancer.; Mehrere Menschen im Ort erkrankten an Krebs.
 ke-0090; offen, ehrlich, aufrichtig; candid; ; C1; Karstens Empfehlung/Wörter; Thank you for your candid answer.; Danke für deine offene Antwort.
 ke-0091; schlau, geschickt, gerissen; canny; ; C2; Karstens Empfehlung/Wörter; The canny fox found a way into the garden.; Der schlaue Fuchs fand einen Weg in den Garten.
 ke-0092; Hauptstadt; capital; ; A2; Karstens Empfehlung/Wörter; Berlin is the capital of Germany.; Berlin ist die Hauptstadt von Deutschland.
@@ -130,7 +130,7 @@ ke-0127; verwirrend; confusing; ; B1; Karstens Empfehlung/Wörter; The rules of 
 ke-0128; zufrieden; content; ; B2; Karstens Empfehlung/Wörter; The cat looked content in the warm sun.; Die Katze sah in der warmen Sonne zufrieden aus.
 ke-0129; Kosten; cost; ; B1; Karstens Empfehlung/Wörter; The cost of the school trip is fifty euros.; Die Kosten für den Schulausflug betragen fünfzig Euro.
 ke-0130; könnte; could; ; A2; Karstens Empfehlung/Verben; Could you help me with my bag, please?; Könntest du mir bitte mit meiner Tasche helfen?
-ke-0131; Land; country; land; A1; Karstens Empfehlung/Wörter; Germany is a large country in Europe.; Deutschland ist ein großes Land in Europa.
+ke-0131; Land (Staat); country; land; A1; Karstens Empfehlung/Wörter; Germany is a large country in Europe.; Deutschland ist ein großes Land in Europa.
 ke-0132; ländlicher Raum; countryside; ; A2; Karstens Empfehlung/Wörter; My grandparents live in the countryside.; Meine Großeltern leben im ländlichen Raum.
 ke-0133; Kurs, Verlauf; course; ; B1; Karstens Empfehlung/Wörter; The river changed its course after the flood.; Der Fluss änderte nach dem Hochwasser seinen Verlauf.
 ke-0134; Hof, Hinterhof, Gericht; court; ; A2; Karstens Empfehlung/Wörter; The court will decide the case tomorrow.; Das Gericht entscheidet den Fall morgen.
@@ -199,19 +199,19 @@ ke-0196; Ereignis, Vorfall; event; ; B1; Karstens Empfehlung/Wörter; The fall o
 ke-0197; jemals; ever; ; A2; Karstens Empfehlung/Wörter; Have you ever been to the sea?; Warst du jemals am Meer?
 ke-0198; jeder, jede, jedes; every; each; A1; Karstens Empfehlung/Wörter; I brush my teeth every morning.; Ich putze mir jeden Morgen die Zähne.
 ke-0199; Beweis; evidence; ; B1; Karstens Empfehlung/Wörter; The police found no evidence against the young man.; Die Polizei fand keinen Beweis gegen den jungen Mann.
-ke-0200; böse; evil; ; B1; Karstens Empfehlung/Wörter; The witch in the story is very evil.; Die Hexe in der Geschichte ist sehr böse.
+ke-0200; böse (schlecht, gemein); evil; ; B1; Karstens Empfehlung/Wörter; The witch in the story is very evil.; Die Hexe in der Geschichte ist sehr böse.
 ke-0201; genau; exactly; ; A2; Karstens Empfehlung/Wörter; That is exactly what I wanted.; Das ist genau das, was ich wollte.
 ke-0202; Beispiel; example; ; A2; Karstens Empfehlung/Wörter; Can you give me an example, please?; Kannst du mir bitte ein Beispiel geben?
 ke-0203; aufgeregt; excited; ; A2; Karstens Empfehlung/Wörter; The kids are excited about the school trip.; Die Kinder sind wegen des Schulausflugs aufgeregt.
 ke-0204; Erfahrung; experience; ; A2; Karstens Empfehlung/Wörter; She has a lot of experience with children.; Sie hat viel Erfahrung mit Kindern.
-ke-0205; erfahren; experienced; ; B1; Karstens Empfehlung/Wörter; Our coach is very experienced.; Unser Trainer ist sehr erfahren.
+ke-0205; erfahren (mit viel Erfahrung); experienced; ; B1; Karstens Empfehlung/Wörter; Our coach is very experienced.; Unser Trainer ist sehr erfahren.
 ke-0206; Auge; eye; ; A1; Karstens Empfehlung/Wörter; Her left eye is red and itchy.; Ihr linkes Auge ist rot und juckt.
 ke-0207; Gesicht; face; ; A1; Karstens Empfehlung/Wörter; Wash your face before breakfast.; Wasch dir vor dem Frühstück das Gesicht.
 ke-0208; Fakt, Tatsache; fact; ; B1; Karstens Empfehlung/Wörter; It is a fact that whales are mammals.; Es ist eine Tatsache, dass Wale Säugetiere sind.
 ke-0209; treu; faithful; ; B2; Karstens Empfehlung/Wörter; He has always been faithful to her.; Er war ihr immer treu.
 ke-0210; falsch, gefälscht; fake; ; B1; Karstens Empfehlung/Wörter; This is not real money, it is fake.; Das ist kein echtes Geld, es ist gefälscht.
 ke-0211; Familie; family; ; A1; Karstens Empfehlung/Wörter; Our family eats together every evening.; Unsere Familie isst jeden Abend zusammen.
-ke-0212; weit; far; ; A1; Karstens Empfehlung/Wörter; Is the station far from here?; Ist der Bahnhof weit von hier?
+ke-0212; weit (Entfernung); far; ; A1; Karstens Empfehlung/Wörter; Is the station far from here?; Ist der Bahnhof weit von hier?
 ke-0213; schnell; fast; quickly; A1; Karstens Empfehlung/Wörter; This train is very fast and modern.; Dieser Zug ist sehr schnell und modern.
 ke-0214; Vater; father; ; A1; Karstens Empfehlung/Wörter; My father works at the airport.; Mein Vater arbeitet am Flughafen.
 ke-0215; Angst; fear; ; A1; Karstens Empfehlung/Wörter; The child has fear of big dogs.; Das Kind hat Angst vor großen Hunden.
@@ -284,7 +284,7 @@ ke-0281; hilfsbereit; helpful; ; B1; Karstens Empfehlung/Wörter; The helpful ne
 ke-0282; hilflos; helpless; ; B2; Karstens Empfehlung/Wörter; The little bird was helpless without its mother.; Der kleine Vogel war ohne seine Mutter hilflos.
 ke-0283; hier; here; ; A1; Karstens Empfehlung/Wörter; Come here and look at this.; Komm her und schau dir das hier an.
 ke-0284; hoch; high; ; A1; Karstens Empfehlung/Wörter; The mountain is very high.; Der Berg ist sehr hoch.
-ke-0285; Geschichte; history; ; A1; Karstens Empfehlung/Wörter; I find German history very interesting.; Ich finde die deutsche Geschichte sehr interessant.
+ke-0285; Geschichte (Vergangenheit); history; ; A1; Karstens Empfehlung/Wörter; I find German history very interesting.; Ich finde die deutsche Geschichte sehr interessant.
 ke-0286; Treffer, Schlag; hit; ; B1; Karstens Empfehlung/Wörter; Her second throw at the target was a direct hit.; Ihr zweiter Wurf auf die Zielscheibe war ein Treffer.
 ke-0287; Zuhause, Heimat; home; ; A1; Karstens Empfehlung/Wörter; I go home after school.; Nach der Schule gehe ich nach Hause.
 ke-0288; ehrlich; honest; ; B1; Karstens Empfehlung/Wörter; To be honest, I didn't like the film.; Um ehrlich zu sein, der Film hat mir nicht gefallen.
@@ -324,7 +324,7 @@ ke-0321; Kindergarten; kindergarten; nursery school; A1; Karstens Empfehlung/Wö
 ke-0322; Küche; kitchen; ; A1; Karstens Empfehlung/Wörter; We cook dinner together in the kitchen.; Wir kochen das Abendessen zusammen in der Küche.
 ke-0323; Wissen; knowledge; ; B1; Karstens Empfehlung/Wörter; My grandpa has a lot of knowledge about birds.; Mein Opa hat viel Wissen über Vögel.
 ke-0324; See; lake; ; A2; Karstens Empfehlung/Wörter; In summer we swim in the lake.; Im Sommer schwimmen wir im See.
-ke-0325; Land; land; country; A2; Karstens Empfehlung/Wörter; The farmer owns a lot of land.; Der Bauer besitzt viel Land.
+ke-0325; Land (Boden); land; country; A2; Karstens Empfehlung/Wörter; The farmer owns a lot of land.; Der Bauer besitzt viel Land.
 ke-0326; Sprache; language; ; A1; Karstens Empfehlung/Wörter; English is an easy language for me.; Englisch ist eine leichte Sprache für mich.
 ke-0327; groß; large; big; A1; Karstens Empfehlung/Wörter; We live in a large house with a garden.; Wir wohnen in einem großen Haus mit Garten.
 ke-0328; spät; late; ; A1; Karstens Empfehlung/Wörter; Sorry, I am late, the bus was slow.; Entschuldigung, ich bin zu spät, der Bus war langsam.
@@ -372,7 +372,7 @@ ke-0369; Geld; money; ; A1; Karstens Empfehlung/Wörter; I save money for a new 
 ke-0370; Monat; month; ; A1; Karstens Empfehlung/Wörter; July is my favourite month of the year.; Juli ist mein Lieblingsmonat im Jahr.
 ke-0371; mehr; more; ; A1; Karstens Empfehlung/Wörter; Can I have some more milk, please?; Kann ich bitte mehr Milch haben?
 ke-0372; Morgen; morning; ; A1; Karstens Empfehlung/Wörter; I drink coffee every morning at seven.; Ich trinke jeden Morgen um sieben Kaffee.
-ke-0373; Mutter; mother; ; A1; Karstens Empfehlung/Wörter; My mother makes the best cake.; Meine Mutter macht den besten Kuchen.
+ke-0373; Mutter (Elternteil); mother; ; A1; Karstens Empfehlung/Wörter; My mother makes the best cake.; Meine Mutter macht den besten Kuchen.
 ke-0374; Berg; mountain; ; A1; Karstens Empfehlung/Wörter; The mountain is covered with snow in winter.; Der Berg ist im Winter mit Schnee bedeckt.
 ke-0375; Mund; mouth; ; A1; Karstens Empfehlung/Wörter; Please open your mouth for the doctor.; Bitte öffnen Sie den Mund für den Arzt.
 ke-0376; Bewegung; movement; ; B1; Karstens Empfehlung/Wörter; The cat watched every movement of the mouse.; Die Katze beobachtete jede Bewegung der Maus.
@@ -390,7 +390,7 @@ ke-0387; notwendig; necessary; ; B1; Karstens Empfehlung/Wörter; It is necessar
 ke-0388; Neffe; nephew; ; A2; Karstens Empfehlung/Wörter; Her nephew plays football in a small club.; Ihr Neffe spielt Fußball in einem kleinen Verein.
 ke-0389; nie; never; ; A1; Karstens Empfehlung/Wörter; He never drinks coffee after dinner.; Er trinkt nach dem Abendessen nie Kaffee.
 ke-0390; neu; new; ; A1; Karstens Empfehlung/Wörter; I need new shoes for the winter.; Ich brauche neue Schuhe für den Winter.
-ke-0391; Nachricht; news; ; A2; Karstens Empfehlung/Wörter; I have some good news for you.; Ich habe eine gute Nachricht für dich.
+ke-0391; Nachricht (Neuigkeit); news; ; A2; Karstens Empfehlung/Wörter; I have some good news for you.; Ich habe eine gute Nachricht für dich.
 ke-0392; Zeitung; newspaper; ; A1; Karstens Empfehlung/Wörter; My father reads the newspaper every morning.; Mein Vater liest jeden Morgen die Zeitung.
 ke-0393; nächster, nächste, nächstes; next; ; A1; Karstens Empfehlung/Wörter; See you next week.; Bis nächste Woche.
 ke-0394; nett; nice; ; A1; Karstens Empfehlung/Wörter; Our new neighbour is really nice.; Unser neuer Nachbar ist wirklich nett.
@@ -440,7 +440,7 @@ ke-0437; Party; party; ; A1; Karstens Empfehlung/Wörter; The party starts at ei
 ke-0438; vergangen, vorbei, Vergangenheit; past; ; A2; Karstens Empfehlung/Wörter; In the past, people wrote many letters.; In der Vergangenheit schrieben die Menschen viele Briefe.
 ke-0439; Geduld; patience; ; B1; Karstens Empfehlung/Wörter; You need a lot of patience to learn the piano.; Man braucht viel Geduld, um Klavier zu lernen.
 ke-0440; geduldig; patient; ; B1; Karstens Empfehlung/Wörter; You have to be patient with small children.; Mit kleinen Kindern muss man geduldig sein.
-ke-0441; Muster; pattern; ; B1; Karstens Empfehlung/Wörter; I like the pattern on your new shirt.; Mir gefällt das Muster auf deinem neuen Hemd.
+ke-0441; Muster (Design); pattern; ; B1; Karstens Empfehlung/Wörter; I like the pattern on your new shirt.; Mir gefällt das Muster auf deinem neuen Hemd.
 ke-0442; Friede; peace; ; B1; Karstens Empfehlung/Wörter; After the long war, there was finally peace.; Nach dem langen Krieg herrschte endlich Friede.
 ke-0443; Leute; people; ; A1; Karstens Empfehlung/Wörter; Many people wait in front of the shop.; Viele Leute warten vor dem Geschäft.
 ke-0444; Leistung; performance; ; B2; Karstens Empfehlung/Wörter; Her performance was excellent during the whole year.; Ihre Leistung war das ganze Jahr über ausgezeichnet.
@@ -473,7 +473,7 @@ ke-0470; Gegenwart, Geschenk, gegenwärtig; present; ; A2; Karstens Empfehlung/W
 ke-0471; Präsident; president; ; A2; Karstens Empfehlung/Wörter; The president visited our city last week.; Der Präsident besuchte letzte Woche unsere Stadt.
 ke-0472; Druck; pressure; ; B1; Karstens Empfehlung/Wörter; The pressure in the tire is too low.; Der Druck im Reifen ist zu niedrig.
 ke-0473; hübsch (weiblich); pretty; ; A1; Karstens Empfehlung/Wörter; You look very pretty in that dress.; Du siehst in dem Kleid sehr hübsch aus.
-ke-0474; Preis; price; ; A2; Karstens Empfehlung/Wörter; The price includes delivery and installation.; Der Preis beinhaltet Lieferung und Montage.
+ke-0474; Preis (Kosten); price; ; A2; Karstens Empfehlung/Wörter; The price includes delivery and installation.; Der Preis beinhaltet Lieferung und Montage.
 ke-0475; privat; private; ; B1; Karstens Empfehlung/Wörter; This is a private garden, you cannot go in.; Das ist ein privater Garten, du darfst nicht hinein.
 ke-0476; wahrscheinlich; probably; likely; A2; Karstens Empfehlung/Wörter; It will probably rain this afternoon.; Heute Nachmittag wird es wahrscheinlich regnen.
 ke-0477; Problem; problem; ; A2; Karstens Empfehlung/Wörter; We found a problem with the software.; Wir haben ein Problem mit der Software gefunden.
@@ -496,7 +496,7 @@ ke-0493; Radio, Funk; radio; ; A1; Karstens Empfehlung/Wörter; We listen to the
 ke-0494; Bahnhof; railway station; train station; A2; Karstens Empfehlung/Wörter; We met at the railway station at eight.; Wir trafen uns um acht am Bahnhof.
 ke-0495; Regen; rain; ; A1; Karstens Empfehlung/Wörter; We need more rain for the garden.; Wir brauchen mehr Regen für den Garten.
 ke-0496; regnerisch; rainy; ; A2; Karstens Empfehlung/Wörter; It was a cold and rainy day.; Es war ein kalter und regnerischer Tag.
-ke-0497; Reichweite; range; ; C1; Karstens Empfehlung/Wörter; The range drops noticeably in cold weather.; Die Reichweite sinkt bei kaltem Wetter deutlich.
+ke-0497; Reichweite (Fahrzeug); range; ; C1; Karstens Empfehlung/Wörter; The range drops noticeably in cold weather.; Die Reichweite sinkt bei kaltem Wetter deutlich.
 ke-0498; lieber; rather; ; B1; Karstens Empfehlung/Wörter; I would rather stay at home today.; Ich würde heute lieber zu Hause bleiben.
 ke-0499; fertig, bereit; ready; ; A1; Karstens Empfehlung/Wörter; Are you ready to go?; Bist du bereit zu gehen?
 ke-0500; wirklich; real; really; A2; Karstens Empfehlung/Wörter; Is that a real diamond?; Ist das ein echter Diamant?
@@ -529,7 +529,7 @@ ke-0526; grob, rau, uneben; rough; ; B1; Karstens Empfehlung/Wörter; The road t
 ke-0527; rund, rundlich; round; ; A2; Karstens Empfehlung/Wörter; We sat at a round table.; Wir saßen an einem runden Tisch.
 ke-0528; unhöflich; rude; ; B1; Karstens Empfehlung/Wörter; It is rude to talk with your mouth full.; Es ist unhöflich, mit vollem Mund zu sprechen.
 ke-0529; sicher; safe; ; A2; Karstens Empfehlung/Wörter; Keep your passport in a safe place.; Bewahre deinen Reisepass an einem sicheren Ort auf.
-ke-0530; gleich; same; ; A2; Karstens Empfehlung/Wörter; We are in the same class.; Wir sind in der gleichen Klasse.
+ke-0530; gleich (derselbe); same; ; A2; Karstens Empfehlung/Wörter; We are in the same class.; Wir sind in der gleichen Klasse.
 ke-0531; Samstag; Saturday; ; A1; Karstens Empfehlung/Wörter; On Saturday we go to the market.; Am Samstag gehen wir auf den Markt.
 ke-0532; Schauplatz, Szene; scene; ; B1; Karstens Empfehlung/Wörter; The last scene of the film was very funny.; Die letzte Szene des Films war sehr lustig.
 ke-0533; Schule; school; ; A1; Karstens Empfehlung/Wörter; Our school is near the big park.; Unsere Schule ist in der Nähe des großen Parks.
@@ -582,7 +582,7 @@ ke-0579; Lied; song; ; A2; Karstens Empfehlung/Wörter; This song reminds me of 
 ke-0580; bald; soon; ; A2; Karstens Empfehlung/Wörter; We will be home soon.; Wir sind bald zu Hause.
 ke-0581; Geräusch, Klang; sound; ; A2; Karstens Empfehlung/Wörter; I love the sound of the rain.; Ich liebe das Geräusch des Regens.
 ke-0582; Suppe; soup; ; A1; Karstens Empfehlung/Wörter; Grandma makes a warm soup in winter.; Oma macht im Winter eine warme Suppe.
-ke-0583; sauer; sour; ; B1; Karstens Empfehlung/Wörter; The lemon sauce is pleasantly sour.; Die Zitronensoße ist angenehm sauer.
+ke-0583; sauer (Geschmack); sour; ; B1; Karstens Empfehlung/Wörter; The lemon sauce is pleasantly sour.; Die Zitronensoße ist angenehm sauer.
 ke-0584; Quelle, Ursprung; source; ; B2; Karstens Empfehlung/Wörter; A good journalist always checks his sources carefully.; Ein guter Journalist prüft seine Quellen immer sorgfältig.
 ke-0585; Süden; south; ; A2; Karstens Empfehlung/Wörter; Birds fly to the south in autumn.; Im Herbst fliegen die Vögel in den Süden.
 ke-0586; südlich; southern; ; B1; Karstens Empfehlung/Wörter; We spent our holiday in southern Italy.; Wir haben unseren Urlaub im südlichen Italien verbracht.
@@ -608,7 +608,7 @@ ke-0605; Geschäft, Laden; store; shop; A1; Karstens Empfehlung/Wörter; I bough
 ke-0606; Sturm; storm; ; A2; Karstens Empfehlung/Wörter; The storm broke many old trees.; Der Sturm brach viele alte Bäume.
 ke-0607; stürmisch; stormy; ; B1; Karstens Empfehlung/Wörter; It was a dark and stormy night.; Es war eine dunkle und stürmische Nacht.
 ke-0608; Geschichte, Erzählung; story; ; A1; Karstens Empfehlung/Wörter; I find German history very interesting.; Ich finde die deutsche Geschichte sehr interessant.
-ke-0609; gerade; straight; ; A2; Karstens Empfehlung/Wörter; Go straight ahead and then turn left.; Geh geradeaus und dann links.
+ke-0609; gerade (nicht krumm); straight; ; A2; Karstens Empfehlung/Wörter; Go straight ahead and then turn left.; Geh geradeaus und dann links.
 ke-0610; Bach; stream; ; B1; Karstens Empfehlung/Wörter; A clear stream runs behind the house.; Hinter dem Haus fließt ein klarer Bach.
 ke-0611; Straße; street; road; A1; Karstens Empfehlung/Wörter; Our street is quiet at night.; Unsere Straße ist nachts ruhig.
 ke-0612; stark, kräftig, stabil; strong; ; A1; Karstens Empfehlung/Wörter; You have to be strong in hard times.; In schweren Zeiten muss man stark sein.
@@ -641,14 +641,14 @@ ke-0638; Lehrer; teacher; ; A1; Karstens Empfehlung/Wörter; Our teacher explain
 ke-0639; zart, weich; tender; ; B2; Karstens Empfehlung/Wörter; The meat was so tender it melted.; Das Fleisch war so zart dass es zerging.
 ke-0640; Begriff, Semester; term; ; B2; Karstens Empfehlung/Wörter; The first term starts in September.; Das erste Semester beginnt im September.
 ke-0641; furchtbar, schrecklich; terrible; ; A2; Karstens Empfehlung/Wörter; The weather was terrible during our holiday.; Das Wetter war schrecklich während unseres Urlaubs.
-ke-0642; als; than; ; A2; Karstens Empfehlung/Wörter; My brother is older than me.; Mein Bruder ist älter als ich.
+ke-0642; als (Vergleich); than; ; A2; Karstens Empfehlung/Wörter; My brother is older than me.; Mein Bruder ist älter als ich.
 ke-0643; dass; that; ; A2; Karstens Empfehlung/Wörter; I think that it will rain today.; Ich denke, dass es heute regnet.
 ke-0644; dann, danach, damals; then; ; A1; Karstens Empfehlung/Wörter; We had lunch and then we went to the park.; Wir aßen zu Mittag und dann gingen wir in den Park.
 ke-0645; Theorie; theory; ; B1; Karstens Empfehlung/Wörter; A good theory can be tested by experiments.; Eine gute Theorie lässt sich durch Experimente prüfen.
 ke-0646; da, dort; there; ; A1; Karstens Empfehlung/Wörter; Your jacket is over there.; Deine Jacke ist dort drüben.
 ke-0647; daher, deshalb; therefore; ; B2; Karstens Empfehlung/Wörter; It was raining, therefore we stayed inside.; Es regnete, deshalb blieben wir drinnen.
 ke-0648; diese (Plural); these; ; A1; Karstens Empfehlung/Wörter; These apples are very sweet.; Diese Äpfel sind sehr süß.
-ke-0649; dick; thick; ; A2; Karstens Empfehlung/Wörter; This book is very thick.; Dieses Buch ist sehr dick.
+ke-0649; dick (Gegenstand); thick; ; A2; Karstens Empfehlung/Wörter; This book is very thick.; Dieses Buch ist sehr dick.
 ke-0650; dünn; thin; ; A2; Karstens Empfehlung/Wörter; Cut the bread into thin slices.; Schneide das Brot in dünne Scheiben.
 ke-0651; Ding, Sache; thing; ; A1; Karstens Empfehlung/Wörter; I have to buy a few things for school.; Ich muss ein paar Dinge für die Schule kaufen.
 ke-0652; dieser, diese, dieses; this; ; A1; Karstens Empfehlung/Wörter; This is my best friend Tom.; Das ist mein bester Freund Tom.
@@ -695,7 +695,7 @@ ke-0692; etwas kaufen; to buy something; to buy; A1; Karstens Empfehlung/Verben;
 ke-0693; rufen; to call; ; A2; Karstens Empfehlung/Verben; Mum called us in for dinner.; Mama rief uns zum Abendessen herein.
 ke-0694; jemanden anrufen; to call someone; ; A2; Karstens Empfehlung/Verben; I will call my grandma tonight.; Ich werde heute Abend meine Oma anrufen.
 ke-0695; sich kümmern um; to care for; ; B1; Karstens Empfehlung/Verben; She cares for her little sister after school.; Nach der Schule kümmert sie sich um ihre kleine Schwester.
-ke-0696; tragen; to carry; ; A2; Karstens Empfehlung/Verben; Can you help me carry this box?; Kannst du mir helfen, diese Kiste zu tragen?
+ke-0696; tragen (Last); to carry; ; A2; Karstens Empfehlung/Verben; Can you help me carry this box?; Kannst du mir helfen, diese Kiste zu tragen?
 ke-0697; fangen; to catch; ; A2; Karstens Empfehlung/Verben; The dog loves to catch the ball.; Der Hund liebt es, den Ball zu fangen.
 ke-0698; verursachen; to cause; ; B1; Karstens Empfehlung/Verben; The heavy rain caused serious problems on the roads.; Der starke Regen verursachte ernste Probleme auf den Straßen.
 ke-0699; ändern; to change; ; A2; Karstens Empfehlung/Verben; I want to change my seat.; Ich möchte meinen Platz ändern.
@@ -753,7 +753,7 @@ ke-0750; geben; to give; ; A1; Karstens Empfehlung/Verben; Please give me the bo
 ke-0751; gehen, fahren; to go; ; A1; Karstens Empfehlung/Verben; We go to school every morning.; Wir gehen jeden Morgen zur Schule.
 ke-0752; spazieren gehen; to go for a walk; ; A2; Karstens Empfehlung/Verben; Let us go for a walk in the park.; Lass uns im Park spazieren gehen.
 ke-0753; wachsen; to grow; ; A2; Karstens Empfehlung/Verben; These flowers grow very fast in summer.; Diese Blumen wachsen im Sommer sehr schnell.
-ke-0754; raten; to guess; ; A2; Karstens Empfehlung/Verben; Can you guess how old my grandmother is?; Kannst du raten, wie alt meine Großmutter ist?
+ke-0754; raten (schätzen); to guess; ; A2; Karstens Empfehlung/Verben; Can you guess how old my grandmother is?; Kannst du raten, wie alt meine Großmutter ist?
 ke-0755; passieren, geschehen; to happen; ; A2; Karstens Empfehlung/Verben; What happened at school today?; Was ist heute in der Schule passiert?
 ke-0756; etwas haben; to have something; to have; A1; Karstens Empfehlung/Verben; I have a little brother and a dog.; Ich habe einen kleinen Bruder und einen Hund.
 ke-0757; etwas tun müssen; to have to do something; to have to; A2; Karstens Empfehlung/Verben; I have to do my homework first.; Ich muss zuerst meine Hausaufgaben machen.
@@ -762,7 +762,7 @@ ke-0759; helfen; to help; ; A1; Karstens Empfehlung/Verben; Can you help me with
 ke-0760; jemandem aushelfen, einspringen; to help someone out; to help out; B1; Karstens Empfehlung/Verben; Can you help me out with the shopping?; Kannst du mir beim Einkaufen aushelfen?
 ke-0761; jemandem mit etwas helfen; to help someone with something; ; A2; Karstens Empfehlung/Verben; My big sister helps me with my maths homework.; Meine große Schwester hilft mir bei den Matheaufgaben.
 ke-0762; schlagen, treffen; to hit; ; B1; Karstens Empfehlung/Verben; He hit the ball very hard.; Er hat den Ball sehr fest geschlagen.
-ke-0763; halten; to hold; ; A2; Karstens Empfehlung/Verben; Please hold my bag for a moment.; Bitte halt kurz meine Tasche.
+ke-0763; halten (festhalten); to hold; ; A2; Karstens Empfehlung/Verben; Please hold my bag for a moment.; Bitte halt kurz meine Tasche.
 ke-0764; hoffen; to hope; ; A1; Karstens Empfehlung/Verben; I hope the weather is nice tomorrow.; Ich hoffe, das Wetter ist morgen schön.
 ke-0765; sich vorstellen; to imagine; ; B1; Karstens Empfehlung/Verben; Try to imagine a world without borders.; Versuche, dir eine Welt ohne Grenzen vorzustellen.
 ke-0766; verbessern; to improve; ; A2; Karstens Empfehlung/Verben; I want to improve my English this year.; Ich möchte dieses Jahr mein Englisch verbessern.
@@ -833,7 +833,7 @@ ke-0830; verringern, reduzieren; to reduce; ; B1; Karstens Empfehlung/Verben; We
 ke-0831; nachdenken, überlegen; to reflect; ; B2; Karstens Empfehlung/Verben; Take some time to reflect on your answer.; Nimm dir etwas Zeit, um über deine Antwort nachzudenken.
 ke-0832; in Zusammenhang bringen; to relate; ; C1; Karstens Empfehlung/Verben; Can you relate the story to your own life?; Kannst du die Geschichte mit deinem eigenen Leben in Zusammenhang bringen?
 ke-0833; übrigbleiben, verbleiben; to remain; ; B2; Karstens Empfehlung/Verben; Only two pieces of cake remained.; Nur zwei Stück Kuchen blieben übrig.
-ke-0834; erinnern; to remember; ; A2; Karstens Empfehlung/Verben; I can't remember his phone number.; Ich kann mich nicht an seine Telefonnummer erinnern.
+ke-0834; sich erinnern; to remember; ; A2; Karstens Empfehlung/Verben; I can't remember his phone number.; Ich kann mich nicht an seine Telefonnummer erinnern.
 ke-0835; entfernen; to remove; ; B1; Karstens Empfehlung/Verben; Please remove your shoes before you come in.; Bitte entferne deine Schuhe, bevor du hereinkommst.
 ke-0836; berichten; to report; ; B1; Karstens Empfehlung/Verben; Several newspapers reported about the new law.; Mehrere Zeitungen berichteten über das neue Gesetz.
 ke-0837; benötigen; to require; ; B2; Karstens Empfehlung/Verben; This plant requires a lot of sun.; Diese Pflanze benötigt viel Sonne.
@@ -949,7 +949,7 @@ ke-0946; Opfer; victim; ; B1; Karstens Empfehlung/Wörter; The victim received s
 ke-0947; Aussicht, Blick, Standpunkt; view; ; B1; Karstens Empfehlung/Wörter; The view from the terrace is simply fantastic.; Die Aussicht von der Terrasse ist einfach fantastisch.
 ke-0948; Dorf, Ort; village; ; A1; Karstens Empfehlung/Wörter; My grandparents live in a quiet village.; Meine Großeltern wohnen in einem ruhigen Dorf.
 ke-0949; Gewalt; violence; ; B1; Karstens Empfehlung/Wörter; … degenerate into physical violence …; … in körperliche Gewalt ausarten …
-ke-0950; Stimme; voice; ; A2; Karstens Empfehlung/Wörter; She has a beautiful voice.; Sie hat eine wunderschöne Stimme.
+ke-0950; Stimme (beim Sprechen); voice; ; A2; Karstens Empfehlung/Wörter; She has a beautiful voice.; Sie hat eine wunderschöne Stimme.
 ke-0951; Wand, Mauer; wall; ; A2; Karstens Empfehlung/Wörter; We painted the wall a light blue.; Wir haben die Wand hellblau gestrichen.
 ke-0952; Krieg; war; ; A2; Karstens Empfehlung/Wörter; The war lasted almost thirty years.; Der Krieg dauerte fast dreißig Jahre.
 ke-0953; warm; warm; ; A1; Karstens Empfehlung/Wörter; Take a warm jacket, it is windy.; Nimm eine warme Jacke, es ist windig.

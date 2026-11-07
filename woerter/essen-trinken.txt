@@ -37,7 +37,7 @@ et-0035; Schinken; ham; ; A2; Alltag/Essen/Lebensmittel; I would like a roll wit
 et-0036; Nudeln; pasta; noodles; A2; Alltag/Essen/Lebensmittel; The children want pasta with tomato sauce.; Die Kinder wollen Nudeln mit Tomatensoße.
 et-0037; Salat; salad; ; A2; Alltag/Essen/Mahlzeiten; I ordered a green salad with my steak.; Ich habe einen grünen Salat zum Steak bestellt.
 et-0038; Schokolade; chocolate; ; A2; Alltag/Essen/Lebensmittel; Dark chocolate is less sweet than milk chocolate.; Dunkle Schokolade ist weniger süß als Milchschokolade.
-et-0039; Eis; ice cream; ; A2; Alltag/Essen/Lebensmittel; The children want ice cream after dinner.; Die Kinder wollen nach dem Abendessen Eis.
+et-0039; Eis (Speiseeis); ice cream; ; A2; Alltag/Essen/Lebensmittel; The children want ice cream after dinner.; Die Kinder wollen nach dem Abendessen Eis.
 et-0040; Honig; honey; ; A2; Alltag/Essen/Lebensmittel; She puts honey in her tea.; Sie gibt Honig in ihren Tee.
 et-0041; Mehl; flour; ; A2; Alltag/Essen/Kochen; We need flour and eggs for the dough.; Wir brauchen Mehl und Eier für den Teig.
 et-0042; Öl; oil; ; A2; Alltag/Essen/Kochen; Heat some oil in the pan first.; Erhitze zuerst etwas Öl in der Pfanne.
@@ -65,16 +65,16 @@ et-0063; Nachtisch; dessert; sweet course; B1; Alltag/Essen/Restaurant; For dess
 et-0064; Trinkgeld; tip; gratuity; B1; Alltag/Essen/Restaurant; He left a generous tip for the waiter.; Er gab dem Kellner ein großzügiges Trinkgeld.
 et-0065; reservieren; to reserve; to book; B1; Alltag/Essen/Restaurant; I would like to reserve a table for four.; Ich möchte einen Tisch für vier Personen reservieren.
 et-0066; empfehlen; to recommend; ; B1; Alltag/Essen/Restaurant; Can you recommend a good local restaurant?; Kannst du ein gutes lokales Restaurant empfehlen?
-et-0067; Rezept; recipe; ; B1; Alltag/Essen/Kochen; This recipe comes from my Italian grandmother.; Dieses Rezept stammt von meiner italienischen Großmutter.
+et-0067; Rezept (Kochen); recipe; ; B1; Alltag/Essen/Kochen; This recipe comes from my Italian grandmother.; Dieses Rezept stammt von meiner italienischen Großmutter.
 et-0068; Zutat; ingredient; ; B1; Alltag/Essen/Kochen; The most important ingredient is fresh garlic.; Die wichtigste Zutat ist frischer Knoblauch.
 et-0069; würzen; to season; to spice; B1; Alltag/Essen/Kochen; Season the meat well before you fry it.; Würze das Fleisch gut bevor du es brätst.
 et-0070; probieren; to try; to sample; B1; Alltag/Essen/Geschmack; You must try this amazing cheese.; Du musst diesen fantastischen Käse probieren.
 et-0071; schmecken; to taste; ; B1; Alltag/Essen/Geschmack; The sauce should taste slightly sweet.; Die Soße sollte leicht süß schmecken.
 et-0072; süß; sweet; ; B1; Alltag/Essen/Geschmack; This dessert is too sweet for me.; Dieser Nachtisch ist mir zu süß.
-et-0073; sauer; sour; ; B1; Alltag/Essen/Geschmack; The lemon sauce is pleasantly sour.; Die Zitronensoße ist angenehm sauer.
+et-0073; sauer (Geschmack); sour; ; B1; Alltag/Essen/Geschmack; The lemon sauce is pleasantly sour.; Die Zitronensoße ist angenehm sauer.
 et-0074; salzig; salty; ; B1; Alltag/Essen/Geschmack; The chips were far too salty.; Die Pommes waren viel zu salzig.
 et-0075; bitter; bitter; ; B1; Alltag/Essen/Geschmack; Good dark chocolate tastes slightly bitter.; Gute dunkle Schokolade schmeckt leicht bitter.
-et-0076; scharf; spicy; hot; B1; Alltag/Essen/Geschmack; I love spicy food from Thailand.; Ich liebe scharfes Essen aus Thailand.
+et-0076; scharf (Essen); spicy; hot; B1; Alltag/Essen/Geschmack; I love spicy food from Thailand.; Ich liebe scharfes Essen aus Thailand.
 et-0077; lecker; delicious; tasty; B1; Alltag/Essen/Geschmack; The homemade pizza was absolutely delicious.; Die selbstgemachte Pizza war absolut lecker.
 et-0078; frisch; fresh; ; B1; Alltag/Essen/Lebensmittel; The fish at this market is always fresh.; Der Fisch auf diesem Markt ist immer frisch.
 et-0079; roh; raw; ; B1; Alltag/Essen/Kochen; You can eat carrots raw or cooked.; Man kann Karotten roh oder gekocht essen.
@@ -105,7 +105,7 @@ et-0103; anbraten; to sear; to brown; B2; Alltag/Essen/Kochen; Sear the steak on
 et-0104; dämpfen; to steam; ; B2; Alltag/Essen/Kochen; You should steam the vegetables gently.; Du solltest das Gemüse schonend dämpfen.
 et-0105; schmoren; to braise; to stew; B2; Alltag/Essen/Kochen; Braise the beef slowly for three hours.; Schmore das Rindfleisch langsam drei Stunden lang.
 et-0106; rühren; to stir; ; B2; Alltag/Essen/Kochen; Stir the sauce so it does not burn.; Rühre die Soße damit sie nicht anbrennt.
-et-0107; gießen; to pour; ; B2; Alltag/Essen/Kochen; Pour the batter slowly into the pan.; Gieße den Teig langsam in die Pfanne.
+et-0107; gießen (Flüssigkeit); to pour; ; B2; Alltag/Essen/Kochen; Pour the batter slowly into the pan.; Gieße den Teig langsam in die Pfanne.
 et-0108; abschmecken; to season to taste; ; B2; Alltag/Essen/Kochen; Season the soup to taste before serving.; Schmecke die Suppe vor dem Servieren ab.
 et-0109; Herd; stove; cooker; B2; Alltag/Essen/Kochen; Did you turn off the stove?; Hast du den Herd ausgemacht?
 et-0110; Backofen; oven; ; B2; Alltag/Essen/Kochen; Preheat the oven to two hundred degrees.; Heize den Backofen auf zweihundert Grad vor.
@@ -114,7 +114,7 @@ et-0112; Schüssel; bowl; ; B2; Alltag/Essen/Kochen; Mix all ingredients in a la
 et-0113; Geschirr; dishes; crockery, tableware; B2; Alltag/Essen/Mahlzeiten; Who is washing the dishes tonight?; Wer spült heute Abend das Geschirr?
 et-0114; Besteck; cutlery; silverware; B2; Alltag/Essen/Mahlzeiten; Please put the cutlery on the table.; Leg bitte das Besteck auf den Tisch.
 et-0115; Mahlzeit; meal; ; B2; Alltag/Essen/Mahlzeiten; A warm meal in the evening feels good.; Eine warme Mahlzeit am Abend tut gut.
-et-0116; Imbiss; snack bar; food stall; B2; Alltag/Essen/Restaurant; There is a good snack bar near the station.; In der Nähe des Bahnhofs gibt es einen guten Imbiss.
+et-0116; Imbiss (Lokal); snack bar; food stall; B2; Alltag/Essen/Restaurant; There is a good snack bar near the station.; In der Nähe des Bahnhofs gibt es einen guten Imbiss.
 et-0117; Feinschmecker; gourmet; foodie; B2; Alltag/Essen/Geschmack; My uncle is a real gourmet.; Mein Onkel ist ein echter Feinschmecker.
 et-0118; herzhaft; savoury; hearty; B2; Alltag/Essen/Geschmack; I prefer savoury breakfasts to sweet ones.; Ich mag herzhaftes Frühstück lieber als süßes.
 et-0119; zart; tender; ; B2; Alltag/Essen/Geschmack; The meat was so tender it melted.; Das Fleisch war so zart dass es zerging.

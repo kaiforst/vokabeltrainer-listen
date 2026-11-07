@@ -14,7 +14,7 @@ gc-0012; freundlich; friendly; ; A1; Mensch/Gefühle/Charakter; The staff in thi
 gc-0013; wütend; angry; furious; A1; Mensch/Gefühle/Emotionen; He gets angry when the bus is late.; Er wird wütend, wenn der Bus zu spät kommt.
 gc-0014; Spaß; fun; ; A1; Mensch/Gefühle/Stimmungen; The children had a lot of fun today.; Die Kinder hatten heute viel Spaß.
 gc-0015; mögen; to like; ; A1; Mensch/Gefühle/Emotionen; I like people who can listen well.; Ich mag Menschen, die gut zuhören können.
-gc-0016; Glück; happiness; luck; A1; Mensch/Gefühle/Emotionen; Money alone does not bring happiness.; Geld allein bringt kein Glück.
+gc-0016; Glück (glücklich sein); happiness; luck; A1; Mensch/Gefühle/Emotionen; Money alone does not bring happiness.; Geld allein bringt kein Glück.
 gc-0017; allein; alone; ; A1; Mensch/Gefühle/Stimmungen; Sometimes I like to be alone at home.; Manchmal bin ich gern allein zu Hause.
 gc-0018; langweilig; boring; dull; A1; Mensch/Gefühle/Stimmungen; The movie was long and very boring.; Der Film war lang und sehr langweilig.
 gc-0019; lustig; funny; amusing; A1; Mensch/Gefühle/Charakter; My uncle is funny and tells great jokes.; Mein Onkel ist lustig und erzählt tolle Witze.
@@ -30,7 +30,7 @@ gc-0028; Hoffnung; hope; ; A2; Mensch/Gefühle/Emotionen; There is still hope fo
 gc-0029; Sorge; worry; concern; A2; Mensch/Gefühle/Emotionen; Her biggest worry is losing her job.; Ihre größte Sorge ist, die Arbeit zu verlieren.
 gc-0030; sich freuen; to be pleased; ; A2; Mensch/Gefühle/Emotionen; I am pleased about every little success.; Ich freue mich über jeden kleinen Erfolg.
 gc-0031; nervös; nervous; jittery; A2; Mensch/Gefühle/Stimmungen; He is always nervous before an exam.; Vor einer Prüfung ist er immer nervös.
-gc-0032; sauer; mad; annoyed; A2; Mensch/Gefühle/Emotionen; She is mad because he forgot her birthday.; Sie ist sauer, weil er ihren Geburtstag vergessen hat.
+gc-0032; sauer (verärgert); mad; annoyed, angry, cross; A2; Mensch/Gefühle/Emotionen; She is mad because he forgot her birthday.; Sie ist sauer, weil er ihren Geburtstag vergessen hat.
 gc-0033; zufrieden; satisfied; content; A2; Mensch/Gefühle/Stimmungen; I am satisfied with the result of the test.; Ich bin mit dem Ergebnis des Tests zufrieden.
 gc-0034; überrascht; surprised; ; A2; Mensch/Gefühle/Emotionen; We were surprised by the sudden invitation.; Wir waren von der plötzlichen Einladung überrascht.
 gc-0035; Überraschung; surprise; ; A2; Mensch/Gefühle/Emotionen; The party was a complete surprise for her.; Die Party war eine völlige Überraschung für sie.
@@ -50,8 +50,8 @@ gc-0048; ehrlich; honest; truthful; A2; Mensch/Gefühle/Charakter; Be honest wit
 gc-0049; lügen; to lie; ; A2; Mensch/Gefühle/Verhalten; You should never lie to your friends.; Du solltest deine Freunde niemals anlügen.
 gc-0050; klug; smart; clever, intelligent; A2; Mensch/Gefühle/Charakter; She is smart and learns languages quickly.; Sie ist klug und lernt Sprachen schnell.
 gc-0051; dumm; stupid; dumb; A2; Mensch/Gefühle/Charakter; It was stupid to leave without a jacket.; Es war dumm, ohne Jacke loszugehen.
-gc-0052; faul; lazy; idle; A2; Mensch/Gefühle/Charakter; On Sundays we are all a bit lazy.; Sonntags sind wir alle ein bisschen faul.
-gc-0053; fleißig; hard-working; diligent; A2; Mensch/Gefühle/Charakter; The hard-working student finished the project early.; Der fleißige Student beendete das Projekt früh.
+gc-0052; faul (träge); lazy; idle; A2; Mensch/Gefühle/Charakter; On Sundays we are all a bit lazy.; Sonntags sind wir alle ein bisschen faul.
+gc-0053; fleißig; hard-working; diligent, hardworking; A2; Mensch/Gefühle/Charakter; The hard-working student finished the project early.; Der fleißige Student beendete das Projekt früh.
 gc-0054; geduldig; patient; ; A2; Mensch/Gefühle/Charakter; A good teacher is patient with beginners.; Ein guter Lehrer ist geduldig mit Anfängern.
 gc-0055; ungeduldig; impatient; ; A2; Mensch/Gefühle/Charakter; He gets impatient when he has to wait.; Er wird ungeduldig, wenn er warten muss.
 gc-0056; Humor; humor; humour; A2; Mensch/Gefühle/Charakter; Her dry humor makes everyone laugh.; Ihr trockener Humor bringt alle zum Lachen.
@@ -73,7 +73,7 @@ gc-0071; Schuld; guilt; fault; B1; Mensch/Gefühle/Emotionen; He felt deep guilt
 gc-0072; schuldig; guilty; ; B1; Mensch/Gefühle/Emotionen; She felt guilty for forgetting the appointment.; Sie fühlte sich schuldig, weil sie den Termin vergessen hatte.
 gc-0073; erleichtert; relieved; ; B1; Mensch/Gefühle/Emotionen; We were relieved when the storm passed.; Wir waren erleichtert, als der Sturm vorüber war.
 gc-0074; Erleichterung; relief; ; B1; Mensch/Gefühle/Emotionen; She sighed with relief after the exam.; Nach der Prüfung seufzte sie vor Erleichterung.
-gc-0075; besorgt; worried; concerned; B1; Mensch/Gefühle/Emotionen; His parents are worried about his grades.; Seine Eltern sind besorgt wegen seiner Noten.
+gc-0075; besorgt; worried; concerned, anxious; B1; Mensch/Gefühle/Emotionen; His parents are worried about his grades.; Seine Eltern sind besorgt wegen seiner Noten.
 gc-0076; aufgeregt; excited; thrilled; B1; Mensch/Gefühle/Stimmungen; The children are excited about the school trip.; Die Kinder sind wegen des Schulausflugs aufgeregt.
 gc-0077; Aufregung; excitement; ; B1; Mensch/Gefühle/Stimmungen; In all the excitement she forgot her keys.; In der ganzen Aufregung vergaß sie ihre Schlüssel.
 gc-0078; verliebt; in love; smitten; B1; Mensch/Gefühle/Beziehungen; The two have been in love for years.; Die beiden sind seit Jahren ineinander verliebt.
@@ -82,7 +82,7 @@ gc-0080; Dankbarkeit; gratitude; thankfulness; B1; Mensch/Gefühle/Emotionen; Sh
 gc-0081; Mitleid; pity; sympathy; B1; Mensch/Gefühle/Emotionen; He felt pity for the freezing stray cat.; Er hatte Mitleid mit der frierenden Streunerkatze.
 gc-0082; Mitgefühl; compassion; ; B1; Mensch/Gefühle/Emotionen; True compassion means listening without judging others.; Wahres Mitgefühl bedeutet zuzuhören, ohne andere zu verurteilen.
 gc-0083; zuverlässig; reliable; dependable; B1; Mensch/Gefühle/Charakter; A reliable friend keeps his promises.; Ein zuverlässiger Freund hält seine Versprechen.
-gc-0084; selbstbewusst; self-confident; ; B1; Mensch/Gefühle/Charakter; She gave a self-confident answer in the interview.; Sie gab im Vorstellungsgespräch eine selbstbewusste Antwort.
+gc-0084; selbstbewusst; self-confident; confident; B1; Mensch/Gefühle/Charakter; She gave a self-confident answer in the interview.; Sie gab im Vorstellungsgespräch eine selbstbewusste Antwort.
 gc-0085; bescheiden; modest; unassuming; B1; Mensch/Gefühle/Charakter; Despite his success he stayed modest and friendly.; Trotz seines Erfolgs blieb er bescheiden und freundlich.
 gc-0086; großzügig; generous; ; B1; Mensch/Gefühle/Charakter; Our generous aunt always brings us presents.; Unsere großzügige Tante bringt uns immer Geschenke mit.
 gc-0087; geizig; stingy; miserly; B1; Mensch/Gefühle/Charakter; He is too stingy to buy a round.; Er ist zu geizig, um eine Runde auszugeben.
@@ -108,7 +108,7 @@ gc-0106; Bewunderung; admiration; ; B2; Mensch/Gefühle/Emotionen; The students 
 gc-0107; Begeisterung; enthusiasm; ; B2; Mensch/Gefühle/Emotionen; Her enthusiasm for the idea convinced the team.; Ihre Begeisterung für die Idee überzeugte das Team.
 gc-0108; begeistert; enthusiastic; delighted; B2; Mensch/Gefühle/Emotionen; The audience was enthusiastic about the new play.; Das Publikum war von dem neuen Stück begeistert.
 gc-0109; Zorn; wrath; rage; B2; Mensch/Gefühle/Emotionen; His wrath faded as quickly as it came.; Sein Zorn verflog so schnell, wie er gekommen war.
-gc-0110; Furcht; dread; ; B2; Mensch/Gefühle/Emotionen; A quiet dread of failure kept him awake.; Eine stille Furcht vor dem Scheitern hielt ihn wach.
+gc-0110; Furcht; dread; fear; B2; Mensch/Gefühle/Emotionen; A quiet dread of failure kept him awake.; Eine stille Furcht vor dem Scheitern hielt ihn wach.
 gc-0111; einfühlsam; empathetic; empathic; B2; Mensch/Gefühle/Charakter; The empathetic nurse calmed the frightened patient.; Die einfühlsame Pflegerin beruhigte den verängstigten Patienten.
 gc-0112; Einfühlungsvermögen; empathy; ; B2; Mensch/Gefühle/Charakter; Good leaders need empathy for their teams.; Gute Führungskräfte brauchen Einfühlungsvermögen für ihre Teams.
 gc-0113; reizbar; irritable; touchy; B2; Mensch/Gefühle/Stimmungen; Without enough sleep he becomes very irritable.; Ohne genug Schlaf wird er sehr reizbar.

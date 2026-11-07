@@ -17,7 +17,7 @@ nt-0015; Affe; monkey; ape; A1; Natur/Tiere/Wildtiere; The monkey jumps from tre
 nt-0016; Baum; tree; ; A1; Natur/Pflanzen; The old tree gives us shade in summer.; Der alte Baum spendet uns im Sommer Schatten.
 nt-0017; Blume; flower; ; A1; Natur/Pflanzen; She picked a flower for her mother.; Sie pflückte eine Blume für ihre Mutter.
 nt-0018; Gras; grass; ; A1; Natur/Pflanzen; The grass is still wet from the rain.; Das Gras ist noch nass vom Regen.
-nt-0019; Blatt; leaf; ; A1; Natur/Pflanzen; A yellow leaf fell from the tree.; Ein gelbes Blatt fiel vom Baum.
+nt-0019; Blatt (Baum); leaf; ; A1; Natur/Pflanzen; A yellow leaf fell from the tree.; Ein gelbes Blatt fiel vom Baum.
 nt-0020; Wald; forest; woods; A1; Natur/Landschaft; We walk through the forest every Sunday.; Wir gehen jeden Sonntag durch den Wald.
 nt-0021; Berg; mountain; ; A1; Natur/Landschaft; The mountain is covered with snow in winter.; Der Berg ist im Winter mit Schnee bedeckt.
 nt-0022; See; lake; ; A1; Natur/Landschaft; We swim in the lake every summer.; Wir schwimmen jeden Sommer im See.
@@ -37,7 +37,7 @@ nt-0035; Löwe; lion; ; A2; Natur/Tiere/Wildtiere; The lion rests in the shade a
 nt-0036; Tiger; tiger; ; A2; Natur/Tiere/Wildtiere; The tiger is an excellent and patient hunter.; Der Tiger ist ein hervorragender und geduldiger Jäger.
 nt-0037; Elefant; elephant; ; A2; Natur/Tiere/Wildtiere; The elephant drinks a lot of water daily.; Der Elefant trinkt täglich sehr viel Wasser.
 nt-0038; Giraffe; giraffe; ; A2; Natur/Tiere/Wildtiere; The giraffe eats leaves from the tallest trees.; Die Giraffe frisst Blätter von den höchsten Bäumen.
-nt-0039; Schlange; snake; ; A2; Natur/Tiere/Wildtiere; A green snake was lying on the warm stone.; Eine grüne Schlange lag auf dem warmen Stein.
+nt-0039; Schlange (Tier); snake; ; A2; Natur/Tiere/Wildtiere; A green snake was lying on the warm stone.; Eine grüne Schlange lag auf dem warmen Stein.
 nt-0040; Frosch; frog; ; A2; Natur/Tiere/Wildtiere; The frog jumps into the pond with a splash.; Der Frosch springt mit einem Platscher in den Teich.
 nt-0041; Biene; bee; ; A2; Natur/Tiere/Insekten; The bee flies from flower to flower.; Die Biene fliegt von Blüte zu Blüte.
 nt-0042; Fliege; fly; ; A2; Natur/Tiere/Insekten; A fly is buzzing around the kitchen.; Eine Fliege summt durch die Küche.
@@ -73,7 +73,7 @@ nt-0071; Raubtier; predator; beast of prey; B1; Natur/Tiere/Wildtiere; The lynx 
 nt-0072; Beute; prey; ; B1; Natur/Tiere/Wildtiere; The owl silently approaches its prey.; Die Eule nähert sich lautlos ihrer Beute.
 nt-0073; Herde; herd; ; B1; Natur/Tiere/Wildtiere; A herd of cows blocked the small road.; Eine Herde Kühe blockierte die kleine Straße.
 nt-0074; Schwarm; swarm; flock; B1; Natur/Tiere/Insekten; A swarm of bees settled in the old tree.; Ein Bienenschwarm ließ sich im alten Baum nieder.
-nt-0075; Art; species; ; B1; Natur/Tiere/Wildtiere; This butterfly species is very rare here.; Diese Schmetterlingsart ist hier sehr selten.
+nt-0075; Art (Biologie); species; ; B1; Natur/Tiere/Wildtiere; This butterfly species is very rare here.; Diese Schmetterlingsart ist hier sehr selten.
 nt-0076; Lebensraum; habitat; ; B1; Natur/Tiere/Wildtiere; Wetlands are an important habitat for many birds.; Feuchtgebiete sind ein wichtiger Lebensraum für viele Vögel.
 nt-0077; Umwelt; environment; ; B1; Natur/Landschaft; We should all protect our environment better.; Wir sollten alle unsere Umwelt besser schützen.
 nt-0078; Naturschutz; nature conservation; conservation; B1; Natur/Landschaft; Nature conservation starts in your own garden.; Naturschutz beginnt im eigenen Garten.
@@ -86,14 +86,14 @@ nt-0084; Teich; pond; ; B1; Natur/Landschaft; Frogs and dragonflies live at our 
 nt-0085; Wüste; desert; ; B1; Natur/Landschaft; Hardly anything grows in the dry desert.; In der trockenen Wüste wächst kaum etwas.
 nt-0086; Höhle; cave; den; B1; Natur/Landschaft; Bats spend the winter in this cave.; Fledermäuse überwintern in dieser Höhle.
 nt-0087; Gipfel; summit; peak; B1; Natur/Landschaft; We reached the summit after five hours.; Nach fünf Stunden erreichten wir den Gipfel.
-nt-0088; Boden; soil; ground; B1; Natur/Pflanzen; Healthy soil is full of tiny creatures.; Gesunder Boden ist voller winziger Lebewesen.
+nt-0088; Boden (Erde); soil; ground; B1; Natur/Pflanzen; Healthy soil is full of tiny creatures.; Gesunder Boden ist voller winziger Lebewesen.
 nt-0089; Samen; seed; ; B1; Natur/Pflanzen; We sowed the seeds in early spring.; Wir haben die Samen im Frühjahr ausgesät.
-nt-0090; Stamm; trunk; ; B1; Natur/Pflanzen; The trunk of the beech is smooth and grey.; Der Stamm der Buche ist glatt und grau.
+nt-0090; Stamm (Baum); trunk; ; B1; Natur/Pflanzen; The trunk of the beech is smooth and grey.; Der Stamm der Buche ist glatt und grau.
 nt-0091; Rinde; bark; ; B1; Natur/Pflanzen; Deer sometimes eat the bark of young trees.; Rehe fressen manchmal die Rinde junger Bäume.
 nt-0092; blühen; to bloom; to blossom, to flower; B1; Natur/Pflanzen; The cherry trees bloom in late April.; Die Kirschbäume blühen Ende April.
 nt-0093; Eiche; oak; oak tree; B1; Natur/Pflanzen; The old oak is over three hundred years old.; Die alte Eiche ist über dreihundert Jahre alt.
 nt-0094; Birke; birch; birch tree; B1; Natur/Pflanzen; You can recognise a birch by its white bark.; Eine Birke erkennt man an ihrer weißen Rinde.
-nt-0095; Kiefer; pine; pine tree; B1; Natur/Pflanzen; The pine grows well on sandy ground.; Die Kiefer wächst gut auf sandigem Boden.
+nt-0095; Kiefer (Baum); pine; pine tree; B1; Natur/Pflanzen; The pine grows well on sandy ground.; Die Kiefer wächst gut auf sandigem Boden.
 nt-0096; Kralle; claw; ; B2; Natur/Tiere/Wildtiere; The hawk grabbed the mouse with its claws.; Der Habicht packte die Maus mit seinen Krallen.
 nt-0097; Geweih; antlers; ; B2; Natur/Tiere/Wildtiere; The stag loses its antlers every year.; Der Hirsch verliert jedes Jahr sein Geweih.
 nt-0098; Huf; hoof; ; B2; Natur/Tiere/Haustiere; The farrier checked the horse's left hoof.; Der Hufschmied prüfte den linken Huf des Pferdes.
@@ -141,7 +141,7 @@ nt-0139; Artenschutz; species protection; ; C1; Natur/Tiere/Wildtiere; Strict sp
 nt-0140; Monokultur; monoculture; ; C1; Natur/Pflanzen; A monoculture is far more vulnerable to pests.; Eine Monokultur ist deutlich anfälliger für Schädlinge.
 nt-0141; Photosynthese; photosynthesis; ; C1; Natur/Pflanzen; Through photosynthesis, plants turn light into energy.; Durch Photosynthese wandeln Pflanzen Licht in Energie um.
 nt-0142; Keimling; seedling; sprout; C1; Natur/Pflanzen; The tiny seedling needs warmth and steady moisture.; Der winzige Keimling braucht Wärme und gleichmäßige Feuchtigkeit.
-nt-0143; Bestand; population; stock; C1; Natur/Tiere/Wildtiere; The wolf population in this region is growing slowly.; Der Bestand an Wölfen wächst in dieser Region langsam.
+nt-0143; Bestand (Tiere); population; stock; C1; Natur/Tiere/Wildtiere; The wolf population in this region is growing slowly.; Der Bestand an Wölfen wächst in dieser Region langsam.
 nt-0144; Renaturierung; ecological restoration; renaturation; C2; Natur/Landschaft; The ecological restoration of the river took ten years.; Die Renaturierung des Flusses dauerte zehn Jahre.
 nt-0145; Zersiedelung; urban sprawl; ; C2; Natur/Landschaft; Urban sprawl is eating away at the open countryside.; Die Zersiedelung frisst sich in die offene Landschaft.
 nt-0146; Flächenversiegelung; soil sealing; land sealing; C2; Natur/Landschaft; Soil sealing prevents rainwater from reaching the groundwater.; Die Flächenversiegelung verhindert, dass Regenwasser ins Grundwasser gelangt.

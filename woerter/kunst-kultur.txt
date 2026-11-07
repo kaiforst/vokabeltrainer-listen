@@ -13,7 +13,7 @@ kk-0011; Ausstellung; exhibition; show; B1; Kultur/Kunst & Museum; The exhibitio
 kk-0012; Galerie; gallery; ; B1; Kultur/Kunst & Museum; A small gallery shows local artists every month.; Eine kleine Galerie zeigt jeden Monat lokale Künstler.
 kk-0013; Skulptur; sculpture; ; B1; Kultur/Kunst & Museum; The sculpture in the park is made of bronze.; Die Skulptur im Park ist aus Bronze.
 kk-0014; Porträt; portrait; ; B1; Kultur/Kunst & Museum; The king ordered a portrait of his family.; Der König gab ein Porträt seiner Familie in Auftrag.
-kk-0015; Leinwand; canvas; ; B1; Kultur/Kunst & Museum; She stretched a new canvas for her next work.; Sie spannte eine neue Leinwand für ihr nächstes Werk.
+kk-0015; Leinwand (Malerei); canvas; ; B1; Kultur/Kunst & Museum; She stretched a new canvas for her next work.; Sie spannte eine neue Leinwand für ihr nächstes Werk.
 kk-0016; Kunstwerk; work of art; artwork; B1; Kultur/Kunst & Museum; Every work of art tells its own story.; Jedes Kunstwerk erzählt seine eigene Geschichte.
 kk-0017; Sammlung; collection; ; B1; Kultur/Kunst & Museum; The museum owns a famous collection of old coins.; Das Museum besitzt eine berühmte Sammlung alter Münzen.
 kk-0018; Meisterwerk; masterpiece; ; B2; Kultur/Kunst & Museum; Critics call the painting an absolute masterpiece.; Kritiker nennen das Gemälde ein absolutes Meisterwerk.
@@ -37,10 +37,10 @@ kk-0035; Bühne; stage; ; A2; Kultur/Theater & Film; The children stood nervousl
 kk-0036; Komödie; comedy; ; A2; Kultur/Theater & Film; We laughed a lot during the comedy.; Wir haben während der Komödie viel gelacht.
 kk-0037; Eintrittskarte; ticket; admission ticket; A2; Kultur/Theater & Film; I bought two tickets for the evening show.; Ich habe zwei Eintrittskarten für die Abendvorstellung gekauft.
 kk-0038; Publikum; audience; ; B1; Kultur/Theater & Film; The audience clapped for almost ten minutes.; Das Publikum klatschte fast zehn Minuten lang.
-kk-0039; Vorstellung; performance; show; B1; Kultur/Theater & Film; The last performance was completely sold out.; Die letzte Vorstellung war komplett ausverkauft.
+kk-0039; Vorstellung (Theater); performance; show; B1; Kultur/Theater & Film; The last performance was completely sold out.; Die letzte Vorstellung war komplett ausverkauft.
 kk-0040; Regisseur; director; film director; B1; Kultur/Theater & Film; The director explained the scene to the actors.; Der Regisseur erklärte den Schauspielern die Szene.
 kk-0041; Dramaturgie; dramaturgy; dramatic structure; C2; Kultur/Theater & Film; The dramaturgy of the play builds tension very slowly.; Die Dramaturgie des Stücks baut die Spannung sehr langsam auf.
-kk-0042; Probe; rehearsal; ; B1; Kultur/Theater & Film; The final rehearsal lasted until midnight.; Die letzte Probe dauerte bis Mitternacht.
+kk-0042; Probe (Theater); rehearsal; ; B1; Kultur/Theater & Film; The final rehearsal lasted until midnight.; Die letzte Probe dauerte bis Mitternacht.
 kk-0043; Applaus; applause; ; B1; Kultur/Theater & Film; The singer thanked the crowd for the warm applause.; Die Sängerin dankte dem Publikum für den herzlichen Applaus.
 kk-0044; Vorhang; curtain; ; B1; Kultur/Theater & Film; The curtain rose and the play began.; Der Vorhang hob sich und das Stück begann.
 kk-0045; Tragödie; tragedy; ; B1; Kultur/Theater & Film; The tragedy ends with the death of the hero.; Die Tragödie endet mit dem Tod des Helden.
@@ -49,7 +49,7 @@ kk-0047; Drehbuch; screenplay; script; B2; Kultur/Theater & Film; She wrote the 
 kk-0048; Hauptrolle; leading role; main role; B2; Kultur/Theater & Film; He got the leading role in the new series.; Er bekam die Hauptrolle in der neuen Serie.
 kk-0049; Nebenrolle; supporting role; minor role; B2; Kultur/Theater & Film; Even in a supporting role she impressed the critics.; Selbst in einer Nebenrolle beeindruckte sie die Kritiker.
 kk-0050; Premiere; premiere; opening night; B2; Kultur/Theater & Film; Many stars came to the premiere in Munich.; Viele Stars kamen zur Premiere nach München.
-kk-0051; Besetzung; cast; ; B2; Kultur/Theater & Film; The film convinces with an excellent cast.; Der Film überzeugt mit einer hervorragenden Besetzung.
+kk-0051; Besetzung (Film, Theater); cast; ; B2; Kultur/Theater & Film; The film convinces with an excellent cast.; Der Film überzeugt mit einer hervorragenden Besetzung.
 kk-0052; Spielfilm; feature film; ; B2; Kultur/Theater & Film; Her first feature film won several international prizes.; Ihr erster Spielfilm gewann mehrere internationale Preise.
 kk-0053; Synchronisation; dubbing; ; C1; Kultur/Theater & Film; In Germany the dubbing of foreign films is very common.; In Deutschland ist die Synchronisation ausländischer Filme sehr verbreitet.
 kk-0054; Bühnenbild; stage set; set design; C1; Kultur/Theater & Film; The minimalist stage set focused attention on the actors.; Das minimalistische Bühnenbild lenkte die Aufmerksamkeit auf die Schauspieler.
@@ -69,16 +69,16 @@ kk-0067; veröffentlichen; to publish; ; B1; Kultur/Literatur; She wants to publ
 kk-0068; Übersetzung; translation; ; B1; Kultur/Literatur; The English translation appeared two years later.; Die englische Übersetzung erschien zwei Jahre später.
 kk-0069; Figur; character; figure; B1; Kultur/Literatur; The main character changes completely during the story.; Die Hauptfigur verändert sich im Laufe der Geschichte völlig.
 kk-0070; Kapitel; chapter; ; A2; Kultur/Literatur; I read the first chapter on the train.; Ich habe das erste Kapitel im Zug gelesen.
-kk-0071; Gattung; genre; literary genre; C1; Kultur/Literatur; The short story is a demanding literary genre.; Die Kurzgeschichte ist eine anspruchsvolle literarische Gattung.
+kk-0071; Gattung (Literatur); genre; literary genre; C1; Kultur/Literatur; The short story is a demanding literary genre.; Die Kurzgeschichte ist eine anspruchsvolle literarische Gattung.
 kk-0072; Sinnbild; emblem; symbol, allegory; C2; Kultur/Literatur; The white dove serves as an emblem of peace.; Die weiße Taube dient als Sinnbild des Friedens.
-kk-0073; Handlung; plot; storyline; B2; Kultur/Literatur; The plot takes several surprising turns.; Die Handlung nimmt mehrere überraschende Wendungen.
+kk-0073; Handlung (Geschichte); plot; storyline; B2; Kultur/Literatur; The plot takes several surprising turns.; Die Handlung nimmt mehrere überraschende Wendungen.
 kk-0074; Lyrik; poetry; ; B2; Kultur/Literatur; Modern poetry often works without any rhyme.; Moderne Lyrik kommt oft ganz ohne Reim aus.
 kk-0075; Erzählung; tale; narrative, story; B2; Kultur/Literatur; The tale is set in a small fishing village.; Die Erzählung spielt in einem kleinen Fischerdorf.
 kk-0076; Sprichwort; proverb; saying; B2; Kultur/Literatur; An old proverb says that time heals all wounds.; Ein altes Sprichwort sagt, dass Zeit alle Wunden heilt.
 kk-0077; Lesung; reading; ; B2; Kultur/Literatur; The author held a reading in the city library.; Der Autor hielt eine Lesung in der Stadtbibliothek.
-kk-0078; Auflage; edition; print run; C1; Kultur/Literatur; The first edition sold out within a week.; Die erste Auflage war innerhalb einer Woche vergriffen.
+kk-0078; Auflage (Ausgabe); edition; print run; C1; Kultur/Literatur; The first edition sold out within a week.; Die erste Auflage war innerhalb einer Woche vergriffen.
 kk-0079; Metapher; metaphor; ; C1; Kultur/Literatur; The poet uses the sea as a metaphor for freedom.; Der Dichter benutzt das Meer als Metapher für Freiheit.
-kk-0080; Nachlass; literary estate; estate; C2; Kultur/Literatur; Scholars are studying the literary estate of the writer.; Forscher untersuchen den Nachlass des Schriftstellers.
+kk-0080; Nachlass (Erbe); literary estate; estate; C2; Kultur/Literatur; Scholars are studying the literary estate of the writer.; Forscher untersuchen den Nachlass des Schriftstellers.
 kk-0081; Musik; music; ; A1; Kultur/Musik; I listen to music on my way to work.; Ich höre Musik auf dem Weg zur Arbeit.
 kk-0082; Lied; song; ; A1; Kultur/Musik; This song was very popular last summer.; Dieses Lied war letzten Sommer sehr beliebt.
 kk-0083; singen; to sing; ; A1; Kultur/Musik; The children sing a song every morning.; Die Kinder singen jeden Morgen ein Lied.
@@ -109,7 +109,7 @@ kk-0107; Kirche; church; ; A2; Kultur/Architektur; The old church stands in the 
 kk-0108; Turm; tower; ; A2; Kultur/Architektur; From the tower you can see the whole city.; Vom Turm aus sieht man die ganze Stadt.
 kk-0109; Brücke; bridge; ; A2; Kultur/Architektur; The bridge connects the two parts of town.; Die Brücke verbindet die beiden Stadtteile.
 kk-0110; Gebäude; building; ; A2; Kultur/Architektur; This building is the tallest in the country.; Dieses Gebäude ist das höchste im Land.
-kk-0111; Schloss; castle; palace; B1; Kultur/Architektur, Reisen/Urlaub/Sightseeing; The castle on the hill attracts many tourists.; Das Schloss auf dem Hügel zieht viele Touristen an.
+kk-0111; Schloss (Gebäude); castle; palace; B1; Kultur/Architektur, Reisen/Urlaub/Sightseeing; The castle on the hill attracts many tourists.; Das Schloss auf dem Hügel zieht viele Touristen an.
 kk-0112; Architekt; architect; ; B1; Kultur/Architektur; The architect designed a modern school building.; Der Architekt entwarf ein modernes Schulgebäude.
 kk-0113; Architektur; architecture; ; B1; Kultur/Architektur; She is studying architecture at a university in Munich.; Sie studiert Architektur an einer Universität in München.
 kk-0114; Denkmal; monument; memorial; B1; Kultur/Architektur; The monument reminds us of the victims of the war.; Das Denkmal erinnert uns an die Opfer des Krieges.
@@ -124,7 +124,7 @@ kk-0122; Kuppel; dome; ; B2; Kultur/Architektur; The golden dome shines in the e
 kk-0123; Grundriss; floor plan; layout; C1; Kultur/Architektur; The floor plan shows four rooms and two baths.; Der Grundriss zeigt vier Zimmer und zwei Bäder.
 kk-0124; Stadtplanung; urban planning; town planning; C1; Kultur/Architektur; Good urban planning creates space for people, not cars.; Gute Stadtplanung schafft Raum für Menschen, nicht für Autos.
 kk-0125; Gewölbe; vault; vaulted ceiling; C2; Kultur/Architektur; The old wine cellar has an impressive stone vault.; Der alte Weinkeller hat ein beeindruckendes Steingewölbe.
-kk-0126; Geschichte; history; story; A1; Kultur/Geschichte; I find German history very interesting.; Ich finde die deutsche Geschichte sehr interessant.
+kk-0126; Geschichte (Vergangenheit); history; story; A1; Kultur/Geschichte; I find German history very interesting.; Ich finde die deutsche Geschichte sehr interessant.
 kk-0127; König; king; ; A2; Kultur/Geschichte; The king lived in a huge palace.; Der König lebte in einem riesigen Palast.
 kk-0128; Königin; queen; ; A2; Kultur/Geschichte; The queen waved to the people from the balcony.; Die Königin winkte den Menschen vom Balkon zu.
 kk-0129; Krieg; war; ; A2; Kultur/Geschichte; The war lasted almost thirty years.; Der Krieg dauerte fast dreißig Jahre.
@@ -142,7 +142,7 @@ kk-0140; Archäologe; archaeologist; ; B2; Kultur/Geschichte; The archaeologist 
 kk-0141; Herrschaft; rule; reign, dominion; B2; Kultur/Geschichte; Under his rule the empire grew very quickly.; Unter seiner Herrschaft wuchs das Reich sehr schnell.
 kk-0142; erobern; to conquer; ; B2; Kultur/Geschichte; The Romans tried to conquer the whole region.; Die Römer versuchten, die ganze Region zu erobern.
 kk-0143; Niederlage; defeat; ; B2; Kultur/Geschichte; The defeat finally ended the long war.; Die Niederlage beendete endlich den langen Krieg.
-kk-0144; Erbe; heritage; legacy, inheritance; B2; Kultur/Geschichte; The old town is part of our cultural heritage.; Die Altstadt ist Teil unseres kulturellen Erbes.
+kk-0144; Erbe (Kultur); heritage; legacy, inheritance; B2; Kultur/Geschichte; The old town is part of our cultural heritage.; Die Altstadt ist Teil unseres kulturellen Erbes.
 kk-0145; Ausgrabung; excavation; dig; C1; Kultur/Geschichte; The excavation uncovered the walls of a Roman villa.; Die Ausgrabung legte die Mauern einer römischen Villa frei.
 kk-0146; Altertum; antiquity; ancient times; C1; Kultur/Geschichte; Trade routes already connected Europe and Asia in antiquity.; Schon im Altertum verbanden Handelswege Europa und Asien.
 kk-0147; Überlieferung; tradition; lore; C1; Kultur/Geschichte; According to old tradition the town was founded by monks.; Der Überlieferung nach wurde die Stadt von Mönchen gegründet.

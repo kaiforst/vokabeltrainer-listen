@@ -17,7 +17,7 @@ bb-0015; Kalender; calendar; diary; A1; Business/Büro/Meetings; The meeting is 
 bb-0016; Notiz; note; memo; A1; Business/Büro/Meetings; She makes a note during the phone call.; Sie macht sich während des Telefonats eine Notiz.
 bb-0017; Kunde; customer; client; A1; Business/Büro/Geschäftspartner; The customer is happy with our service.; Der Kunde ist zufrieden mit unserem Service.
 bb-0018; Frage; question; ; A1; Business/Büro/Meetings; Do you have a question about the plan?; Haben Sie eine Frage zum Plan?
-bb-0019; Antwort; answer; reply; A1; Business/Büro/E-Mail & Telefon; I need your answer by tomorrow morning.; Ich brauche Ihre Antwort bis morgen früh.
+bb-0019; Antwort; answer; reply, response; A1; Business/Büro/E-Mail & Telefon; I need your answer by tomorrow morning.; Ich brauche Ihre Antwort bis morgen früh.
 bb-0020; Meeting; meeting; ; A1; Business/Büro/Meetings; The meeting starts at ten in room two.; Das Meeting beginnt um zehn in Raum zwei.
 bb-0021; Unternehmen; company; business, enterprise; A2; Business/Büro/Geschäftspartner; The company opens a new office in Hamburg.; Das Unternehmen eröffnet ein neues Büro in Hamburg.
 bb-0022; Besprechungsraum; meeting room; conference room; A2; Business/Büro/Meetings; The meeting room is free after lunch.; Der Besprechungsraum ist nach dem Mittagessen frei.
@@ -28,12 +28,12 @@ bb-0026; Team; team; ; A2; Business/Büro/Projekte; Our team meets every Monday 
 bb-0027; Auftrag; order; assignment, commission; A2; Business/Büro/Geschäftspartner; We received a big order from France.; Wir haben einen großen Auftrag aus Frankreich erhalten.
 bb-0028; Rechnung; invoice; bill; A2; Business/Büro/Finanzen; Please pay the invoice within two weeks.; Bitte bezahlen Sie die Rechnung innerhalb von zwei Wochen.
 bb-0029; Angebot; offer; quotation, proposal; A2; Business/Büro/Verhandlung; We will send you our offer on Friday.; Wir schicken Ihnen unser Angebot am Freitag.
-bb-0030; Preis; price; ; A2; Business/Büro/Verhandlung; The price includes delivery and installation.; Der Preis beinhaltet Lieferung und Montage.
+bb-0030; Preis (Kosten); price; ; A2; Business/Büro/Verhandlung; The price includes delivery and installation.; Der Preis beinhaltet Lieferung und Montage.
 bb-0031; Vertrag; contract; ; A2; Business/Büro/Verhandlung; Both partners sign the contract today.; Beide Partner unterschreiben heute den Vertrag.
 bb-0032; unterschreiben; to sign; ; A2; Business/Büro/Verhandlung; Please sign the document on the last page.; Bitte unterschreiben Sie das Dokument auf der letzten Seite.
 bb-0033; senden; to send; to mail; A2; Business/Büro/E-Mail & Telefon; I will send you the file right away.; Ich sende Ihnen die Datei sofort.
 bb-0034; empfangen; to receive; to get; A2; Business/Büro/E-Mail & Telefon; Did you receive my message from yesterday?; Haben Sie meine Nachricht von gestern empfangen?
-bb-0035; Nachricht; message; ; A2; Business/Büro/E-Mail & Telefon; Please leave a message after the tone.; Bitte hinterlassen Sie eine Nachricht nach dem Ton.
+bb-0035; Nachricht (Mitteilung); message; ; A2; Business/Büro/E-Mail & Telefon; Please leave a message after the tone.; Bitte hinterlassen Sie eine Nachricht nach dem Ton.
 bb-0036; Anruf; call; phone call; A2; Business/Büro/E-Mail & Telefon; I expect an important call from our partner.; Ich erwarte einen wichtigen Anruf von unserem Partner.
 bb-0037; zurückrufen; to call back; to return a call; A2; Business/Büro/E-Mail & Telefon; Could you call back in an hour please?; Könnten Sie bitte in einer Stunde zurückrufen?
 bb-0038; Kopierer; copier; photocopier, copy machine; A2; Business/Büro/Ausstattung; The copier on the second floor is broken.; Der Kopierer im zweiten Stock ist kaputt.
@@ -46,11 +46,11 @@ bb-0044; Ordner; folder; binder, file folder; A2; Business/Büro/Ausstattung; Al
 bb-0045; Dokument; document; ; A2; Business/Büro/Projekte; Please check the document before the meeting.; Bitte prüfen Sie das Dokument vor dem Meeting.
 bb-0046; Datei; file; ; A2; Business/Büro/E-Mail & Telefon; The file is too big for an email.; Die Datei ist zu groß für eine E-Mail.
 bb-0047; Besucher; visitor; guest; A2; Business/Büro/Geschäftspartner; Our visitors arrive at the reception at nine.; Unsere Besucher kommen um neun am Empfang an.
-bb-0048; Geschäft; business; deal; A2; Business/Büro/Geschäftspartner; The business with the new partner is going well.; Das Geschäft mit dem neuen Partner läuft gut.
+bb-0048; Geschäft (Handel); business; deal; A2; Business/Büro/Geschäftspartner; The business with the new partner is going well.; Das Geschäft mit dem neuen Partner läuft gut.
 bb-0049; Lieferung; delivery; shipment; A2; Business/Büro/Geschäftspartner; The delivery arrives on Thursday at the latest.; Die Lieferung kommt spätestens am Donnerstag an.
 bb-0050; liefern; to deliver; ; A2; Business/Büro/Geschäftspartner; We deliver the goods within five working days.; Wir liefern die Ware innerhalb von fünf Werktagen.
 bb-0051; Tagesordnung; agenda; ; B1; Business/Büro/Meetings; The first point on the agenda is the budget.; Der erste Punkt auf der Tagesordnung ist das Budget.
-bb-0052; Protokoll; minutes; meeting minutes; B1; Business/Büro/Meetings; Who will write the minutes of the meeting?; Wer schreibt das Protokoll der Besprechung?
+bb-0052; Protokoll (Sitzung); minutes; meeting minutes; B1; Business/Büro/Meetings; Who will write the minutes of the meeting?; Wer schreibt das Protokoll der Besprechung?
 bb-0053; Teilnehmer; participant; attendee; B1; Business/Büro/Meetings; Every participant receives the documents in advance.; Jeder Teilnehmer erhält die Unterlagen im Voraus.
 bb-0054; teilnehmen; to participate; to attend, to take part; B1; Business/Büro/Meetings; Twelve colleagues will participate in the workshop.; Zwölf Kollegen werden am Workshop teilnehmen.
 bb-0055; verschieben; to postpone; to reschedule; B1; Business/Büro/Meetings; We have to postpone the meeting until Thursday.; Wir müssen das Meeting auf Donnerstag verschieben.
@@ -79,15 +79,15 @@ bb-0077; Filiale; branch; branch office; B1; Business/Büro/Geschäftspartner; T
 bb-0078; Zentrale; headquarters; head office; B1; Business/Büro/Geschäftspartner; The headquarters of the company are in Zurich.; Die Zentrale des Unternehmens ist in Zürich.
 bb-0079; Präsentation; presentation; ; B1; Business/Büro/Präsentation; Her presentation about the new product was excellent.; Ihre Präsentation über das neue Produkt war ausgezeichnet.
 bb-0080; präsentieren; to present; ; B1; Business/Büro/Präsentation; He will present the results on Wednesday.; Er präsentiert die Ergebnisse am Mittwoch.
-bb-0081; Folie; slide; ; B1; Business/Büro/Präsentation; The next slide shows our sales figures.; Die nächste Folie zeigt unsere Verkaufszahlen.
+bb-0081; Folie (Präsentation); slide; ; B1; Business/Büro/Präsentation; The next slide shows our sales figures.; Die nächste Folie zeigt unsere Verkaufszahlen.
 bb-0082; Diagramm; chart; diagram, graph; B1; Business/Büro/Präsentation; The chart compares the results of three years.; Das Diagramm vergleicht die Ergebnisse von drei Jahren.
 bb-0083; Zusammenfassung; summary; ; B1; Business/Büro/Präsentation; A short summary follows at the end.; Eine kurze Zusammenfassung folgt am Ende.
 bb-0084; zusammenfassen; to summarize; to sum up; B1; Business/Büro/Präsentation; Let me summarize the most important points.; Lassen Sie mich die wichtigsten Punkte zusammenfassen.
-bb-0085; Ziel; goal; objective, target; B1; Business/Büro/Projekte; Our goal is to finish the project in June.; Unser Ziel ist es, das Projekt im Juni abzuschließen.
+bb-0085; Ziel; goal; objective, target, aim; B1; Business/Büro/Projekte; Our goal is to finish the project in June.; Unser Ziel ist es, das Projekt im Juni abzuschließen.
 bb-0086; Ergebnis; result; outcome; B1; Business/Büro/Projekte; The result of the test was very positive.; Das Ergebnis des Tests war sehr positiv.
 bb-0087; Bericht; report; ; B1; Business/Büro/Projekte; The monthly report is due on the first.; Der monatliche Bericht ist am Ersten fällig.
 bb-0088; Budget; budget; ; B1; Business/Büro/Finanzen; The budget for marketing was increased this year.; Das Budget für Marketing wurde dieses Jahr erhöht.
-bb-0089; Kosten; costs; expenditure; B1; Business/Büro/Finanzen; The costs for the project are rising quickly.; Die Kosten für das Projekt steigen schnell.
+bb-0089; Kosten; costs; expenditure, cost; B1; Business/Büro/Finanzen; The costs for the project are rising quickly.; Die Kosten für das Projekt steigen schnell.
 bb-0090; Gewinn; profit; gain; B1; Business/Büro/Finanzen; The company made a good profit last year.; Das Unternehmen machte letztes Jahr einen guten Gewinn.
 bb-0091; Verlust; loss; ; B2; Business/Büro/Finanzen; The firm reported a loss in the second quarter.; Die Firma meldete im zweiten Quartal einen Verlust.
 bb-0092; Umsatz; turnover; revenue, sales; B2; Business/Büro/Finanzen; Our turnover grew by ten percent this year.; Unser Umsatz wuchs dieses Jahr um zehn Prozent.
@@ -102,7 +102,7 @@ bb-0100; Umsetzung; implementation; realization; B2; Business/Büro/Projekte; Th
 bb-0101; Meilenstein; milestone; ; B2; Business/Büro/Projekte; We reached an important milestone last week.; Wir haben letzte Woche einen wichtigen Meilenstein erreicht.
 bb-0102; Projektleiter; project manager; project lead; B2; Business/Büro/Projekte; The project manager coordinates all teams and deadlines.; Der Projektleiter koordiniert alle Teams und Termine.
 bb-0103; zuständig; responsible; in charge; B2; Business/Büro/Projekte; Who is responsible for the customer data?; Wer ist für die Kundendaten zuständig?
-bb-0104; Abstimmung; coordination; alignment; B2; Business/Büro/Meetings; Close coordination between the departments saves time.; Enge Abstimmung zwischen den Abteilungen spart Zeit.
+bb-0104; Abstimmung (Koordination); coordination; alignment; B2; Business/Büro/Meetings; Close coordination between the departments saves time.; Enge Abstimmung zwischen den Abteilungen spart Zeit.
 bb-0105; Rücksprache; consultation; ; B2; Business/Büro/Meetings; Please make no promises without consultation with me.; Bitte machen Sie keine Zusagen ohne Rücksprache mit mir.
 bb-0106; Entscheidung; decision; ; B2; Business/Büro/Meetings; The final decision will be made on Friday.; Die endgültige Entscheidung fällt am Freitag.
 bb-0107; entscheiden; to decide; ; B2; Business/Büro/Meetings; We must decide on the offer this week.; Wir müssen diese Woche über das Angebot entscheiden.
@@ -118,12 +118,12 @@ bb-0116; Rabatt; discount; ; B2; Business/Büro/Verhandlung; We offer a discount
 bb-0117; Zahlungsbedingungen; payment terms; terms of payment; B2; Business/Büro/Finanzen; The payment terms allow thirty days after delivery.; Die Zahlungsbedingungen erlauben dreißig Tage nach Lieferung.
 bb-0118; Mahnung; reminder; payment reminder; B2; Business/Büro/Finanzen; The customer received a reminder for the open invoice.; Der Kunde erhielt eine Mahnung für die offene Rechnung.
 bb-0119; überweisen; to transfer; ; B2; Business/Büro/Finanzen; Please transfer the amount to our account.; Bitte überweisen Sie den Betrag auf unser Konto.
-bb-0120; Überweisung; bank transfer; remittance; B2; Business/Büro/Finanzen; The bank transfer arrived after two days.; Die Überweisung kam nach zwei Tagen an.
+bb-0120; Überweisung (Bank); bank transfer; remittance; B2; Business/Büro/Finanzen; The bank transfer arrived after two days.; Die Überweisung kam nach zwei Tagen an.
 bb-0121; Spesen; expenses; expense allowance; B2; Business/Büro/Finanzen; He claims his expenses after every business trip.; Er rechnet seine Spesen nach jeder Geschäftsreise ab.
 bb-0122; Geschäftsreise; business trip; ; B2; Business/Büro/Geschäftspartner; She is on a business trip to Vienna.; Sie ist auf Geschäftsreise in Wien.
 bb-0123; Visitenkarte; business card; ; B2; Business/Büro/Geschäftspartner; He gave me his business card at the fair.; Er gab mir auf der Messe seine Visitenkarte.
 bb-0124; Netzwerk; network; ; B2; Business/Büro/Geschäftspartner; A strong network helps in difficult projects.; Ein starkes Netzwerk hilft bei schwierigen Projekten.
-bb-0125; Messe; trade fair; exhibition, trade show; B2; Business/Büro/Geschäftspartner; Our company presents two new products at the trade fair.; Unsere Firma präsentiert zwei neue Produkte auf der Messe.
+bb-0125; Messe (Ausstellung); trade fair; exhibition, trade show; B2; Business/Büro/Geschäftspartner; Our company presents two new products at the trade fair.; Unsere Firma präsentiert zwei neue Produkte auf der Messe.
 bb-0126; Verhandlungsspielraum; room for negotiation; negotiating leeway; C1; Business/Büro/Verhandlung; There is little room for negotiation on the price.; Beim Preis gibt es wenig Verhandlungsspielraum.
 bb-0127; Zugeständnis; concession; ; C1; Business/Büro/Verhandlung; Both sides made a concession to reach a deal.; Beide Seiten machten ein Zugeständnis, um eine Einigung zu erreichen.
 bb-0128; Einwand; objection; ; C1; Business/Büro/Verhandlung; He raised an objection against the tight schedule.; Er erhob einen Einwand gegen den engen Zeitplan.

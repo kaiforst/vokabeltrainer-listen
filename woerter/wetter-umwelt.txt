@@ -4,7 +4,7 @@ wu-0002; Regen; rain; ; A1; Natur/Umwelt/Wetter; We need more rain for the garde
 wu-0003; Schnee; snow; ; A1; Natur/Umwelt/Wetter; The snow is white and very cold.; Der Schnee ist weiß und sehr kalt.
 wu-0004; Wind; wind; ; A1; Natur/Umwelt/Wetter; The wind is very strong today.; Der Wind ist heute sehr stark.
 wu-0005; Wolke; cloud; ; A1; Natur/Umwelt/Wetter; There is a big cloud over the house.; Über dem Haus ist eine große Wolke.
-wu-0006; Himmel; sky; ; A1; Natur/Umwelt/Wetter; The sky is blue this morning.; Der Himmel ist heute Morgen blau.
+wu-0006; Himmel (Wetter, Sterne); sky; ; A1; Natur/Umwelt/Wetter; The sky is blue this morning.; Der Himmel ist heute Morgen blau.
 wu-0007; Wetter; weather; ; A1; Natur/Umwelt/Wetter; The weather is nice this week.; Das Wetter ist diese Woche schön.
 wu-0008; warm; warm; ; A1; Natur/Umwelt/Wetter; It is warm in the garden today.; Es ist heute warm im Garten.
 wu-0009; kalt; cold; ; A1; Natur/Umwelt/Wetter; It is very cold outside in January.; Draußen ist es im Januar sehr kalt.
@@ -17,10 +17,10 @@ wu-0015; Baum; tree; ; A1; Natur/Umwelt/Natur; The old tree stands in our garden
 wu-0016; Blume; flower; ; A1; Natur/Umwelt/Natur; This flower is red and beautiful.; Diese Blume ist rot und schön.
 wu-0017; Wasser; water; ; A1; Natur/Umwelt/Natur; Clean water is important for everyone.; Sauberes Wasser ist für alle wichtig.
 wu-0018; Luft; air; ; A1; Natur/Umwelt/Natur; The air in the mountains is fresh.; Die Luft in den Bergen ist frisch.
-wu-0019; Eis; ice; ; A1; Natur/Umwelt/Wetter; In winter there is ice on the lake.; Im Winter ist Eis auf dem See.
+wu-0019; Eis (gefrorenes Wasser); ice; ; A1; Natur/Umwelt/Wetter; In winter there is ice on the lake.; Im Winter ist Eis auf dem See.
 wu-0020; regnen; to rain; ; A1; Natur/Umwelt/Wetter; I think it will rain tomorrow afternoon.; Ich glaube, morgen Nachmittag wird es regnen.
 wu-0021; schneien; to snow; ; A1; Natur/Umwelt/Wetter; It started to snow in the night.; In der Nacht begann es zu schneien.
-wu-0022; scheinen; to shine; ; A1; Natur/Umwelt/Wetter; The sun will shine again on Sunday.; Am Sonntag wird die Sonne wieder scheinen.
+wu-0022; scheinen (Sonne); to shine; ; A1; Natur/Umwelt/Wetter; The sun will shine again on Sunday.; Am Sonntag wird die Sonne wieder scheinen.
 wu-0023; Natur; nature; ; A1; Natur/Umwelt/Natur; We love walking in nature on weekends.; Am Wochenende gehen wir gern in der Natur spazieren.
 wu-0024; Gras; grass; ; A1; Natur/Umwelt/Natur; The grass is green after the rain.; Nach dem Regen ist das Gras grün.
 wu-0025; Müll; rubbish; garbage, trash; A1; Natur/Umwelt/Recycling; Please put the rubbish in the bin.; Bitte wirf den Müll in die Tonne.

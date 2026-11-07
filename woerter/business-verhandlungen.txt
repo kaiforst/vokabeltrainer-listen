@@ -1,5 +1,5 @@
 id; Deutsch; Englisch; Weitere Antworten; Niveau; Themen; Beispiel Englisch; Beispiel Deutsch
-vh-0001; Preis; price; cost; A1; Business/Verhandlung/Angebot; The price is too high for us.; Der Preis ist zu hoch für uns.
+vh-0001; Preis (Kosten); price; cost; A1; Business/Verhandlung/Angebot; The price is too high for us.; Der Preis ist zu hoch für uns.
 vh-0002; kaufen; to buy; to purchase; A1; Business/Verhandlung/Abschluss, Alltag/Einkaufen; We want to buy the new machine next month.; Wir wollen die neue Maschine nächsten Monat kaufen.
 vh-0003; verkaufen; to sell; ; A1; Business/Verhandlung/Abschluss; They sell their products in many countries.; Sie verkaufen ihre Produkte in vielen Ländern.
 vh-0004; anbieten; to offer; ; A1; Business/Verhandlung/Angebot; We can offer you a better price today.; Wir können Ihnen heute einen besseren Preis anbieten.
@@ -19,7 +19,7 @@ vh-0017; Lösung; solution; ; A2; Business/Verhandlung/Zugeständnisse; Let us f
 vh-0018; vorschlagen; to suggest; to propose; A2; Business/Verhandlung/Angebot; I suggest we talk about the price first.; Ich schlage vor, dass wir zuerst über den Preis sprechen.
 vh-0019; zustimmen; to agree; ; A2; Business/Verhandlung/Abschluss; We agree to your new proposal.; Wir stimmen Ihrem neuen Vorschlag zu.
 vh-0020; Lieferung; delivery; ; A2; Business/Verhandlung/Positionen; The delivery will arrive in two weeks.; Die Lieferung kommt in zwei Wochen an.
-vh-0021; Kosten; costs; expenses; A2; Business/Verhandlung/Angebot; The costs are higher than we thought.; Die Kosten sind höher als gedacht.
+vh-0021; Kosten; costs; expenses, cost; A2; Business/Verhandlung/Angebot; The costs are higher than we thought.; Die Kosten sind höher als gedacht.
 vh-0022; bezahlen; to pay; ; A2; Business/Verhandlung/Abschluss; We will pay the invoice within thirty days.; Wir bezahlen die Rechnung innerhalb von dreißig Tagen.
 vh-0023; Termin; appointment; date; A2; Business/Verhandlung/Vorbereitung; Can we arrange an appointment for next Tuesday?; Können wir einen Termin für nächsten Dienstag vereinbaren?
 vh-0024; vorbereiten; to prepare; ; A2; Business/Verhandlung/Vorbereitung; We need to prepare well for the meeting.; Wir müssen uns gut auf das Treffen vorbereiten.
@@ -49,28 +49,28 @@ vh-0047; Vorteil; advantage; benefit; B1; Business/Verhandlung/Taktik; This solu
 vh-0048; Nachteil; disadvantage; drawback; B1; Business/Verhandlung/Einwände; The main disadvantage is the long delivery time.; Der größte Nachteil ist die lange Lieferzeit.
 vh-0049; Verhandlungspartner; negotiating partner; ; B1; Business/Verhandlung/Positionen; Our negotiating partner arrived late to the meeting.; Unser Verhandlungspartner kam zu spät zum Treffen.
 vh-0050; ein Angebot machen; to make an offer; ; B1; Business/Verhandlung/Wendungen; We would like to make you an offer.; Wir möchten Ihnen ein Angebot machen.
-vh-0051; Preisnachlass; price reduction; ; B1; Business/Verhandlung/Angebot; We can grant a price reduction for large orders.; Bei großen Bestellungen können wir einen Preisnachlass gewähren.
+vh-0051; Preisnachlass; price reduction; markdown, discount; B1; Business/Verhandlung/Angebot; We can grant a price reduction for large orders.; Bei großen Bestellungen können wir einen Preisnachlass gewähren.
 vh-0052; Zahlungsbedingungen; payment terms; ; B1; Business/Verhandlung/Positionen; Let us talk about the payment terms now.; Sprechen wir jetzt über die Zahlungsbedingungen.
 vh-0053; Lieferzeit; delivery time; ; B1; Business/Verhandlung/Positionen; The delivery time is about four weeks.; Die Lieferzeit beträgt etwa vier Wochen.
 vh-0054; Budget; budget; ; B1; Business/Verhandlung/Vorbereitung; Our budget for this project is limited.; Unser Budget für dieses Projekt ist begrenzt.
 vh-0055; Alternative; alternative; option; B1; Business/Verhandlung/Taktik; We should always have an alternative in mind.; Wir sollten immer eine Alternative im Kopf haben.
 vh-0056; flexibel; flexible; ; B1; Business/Verhandlung/Zugeständnisse; We are flexible about the delivery date.; Beim Liefertermin sind wir flexibel.
 vh-0057; fair; fair; ; B1; Business/Verhandlung/Positionen; We want a fair deal for both sides.; Wir wollen ein faires Geschäft für beide Seiten.
-vh-0058; Abschluss; conclusion; closing; B1; Business/Verhandlung/Abschluss; We are close to the conclusion of the deal.; Wir stehen kurz vor dem Abschluss des Geschäfts.
-vh-0059; abschließen; to conclude; to close; B1; Business/Verhandlung/Abschluss; We concluded the contract after two meetings.; Wir schlossen den Vertrag nach zwei Treffen ab.
+vh-0058; Abschluss (Geschäft); conclusion; closing; B1; Business/Verhandlung/Abschluss; We are close to the conclusion of the deal.; Wir stehen kurz vor dem Abschluss des Geschäfts.
+vh-0059; abschließen (Vertrag); to conclude; to close; B1; Business/Verhandlung/Abschluss; We concluded the contract after two meetings.; Wir schlossen den Vertrag nach zwei Treffen ab.
 vh-0060; Bedenken; concerns; doubts; B1; Business/Verhandlung/Einwände; We still have some concerns about the costs.; Wir haben noch einige Bedenken wegen der Kosten.
 vh-0061; Hauptpunkt; main point; key point; B1; Business/Verhandlung/Vorbereitung; The main point today is the new price.; Der Hauptpunkt heute ist der neue Preis.
 vh-0062; klären; to clarify; ; B1; Business/Verhandlung/Einwände; We need to clarify a few open questions.; Wir müssen noch ein paar offene Fragen klären.
 vh-0063; bestätigen; to confirm; ; B1; Business/Verhandlung/Abschluss; Please confirm the order by email.; Bitte bestätigen Sie die Bestellung per E-Mail.
-vh-0064; Protokoll; minutes; ; B1; Business/Verhandlung/Abschluss; She wrote the minutes of the meeting.; Sie schrieb das Protokoll der Sitzung.
+vh-0064; Protokoll (Sitzung); minutes; ; B1; Business/Verhandlung/Abschluss; She wrote the minutes of the meeting.; Sie schrieb das Protokoll der Sitzung.
 vh-0065; Zusammenfassung; summary; ; B1; Business/Verhandlung/Abschluss; Here is a short summary of our results.; Hier ist eine kurze Zusammenfassung unserer Ergebnisse.
 vh-0066; Verhandlungsziel; negotiation objective; ; B2; Business/Verhandlung/Vorbereitung; Define your negotiation objective before you enter the room.; Definieren Sie Ihr Verhandlungsziel, bevor Sie den Raum betreten.
 vh-0067; Ausgangsposition; starting position; ; B2; Business/Verhandlung/Positionen; Our starting position in these talks is quite strong.; Unsere Ausgangsposition in diesen Gesprächen ist ziemlich stark.
 vh-0068; Spielraum; leeway; room for maneuver; B2; Business/Verhandlung/Zugeständnisse; We have little leeway on the final price.; Beim Endpreis haben wir wenig Spielraum.
 vh-0069; entgegenkommen; to accommodate; ; B2; Business/Verhandlung/Zugeständnisse; We tried to accommodate the client on the terms.; Wir versuchten, dem Kunden bei den Bedingungen entgegenzukommen.
-vh-0070; Einigung; settlement; ; B2; Business/Verhandlung/Abschluss; Both parties finally reached a settlement.; Beide Parteien erzielten schließlich eine Einigung.
+vh-0070; Einigung; settlement; agreement; B2; Business/Verhandlung/Abschluss; Both parties finally reached a settlement.; Beide Parteien erzielten schließlich eine Einigung.
 vh-0071; sich auf halbem Weg treffen; to meet halfway; ; B2; Business/Verhandlung/Wendungen; Let us meet halfway and split the difference.; Treffen wir uns auf halbem Weg und teilen die Differenz.
-vh-0072; Taktik; tactic; ; B2; Business/Verhandlung/Taktik; Silence can be a powerful tactic in negotiations.; Schweigen kann in Verhandlungen eine wirkungsvolle Taktik sein.
+vh-0072; Taktik; tactic; tactics; B2; Business/Verhandlung/Taktik; Silence can be a powerful tactic in negotiations.; Schweigen kann in Verhandlungen eine wirkungsvolle Taktik sein.
 vh-0073; Zeitdruck; time pressure; ; B2; Business/Verhandlung/Taktik; They used time pressure to force a quick decision.; Sie nutzten Zeitdruck, um eine schnelle Entscheidung zu erzwingen.
 vh-0074; Machtverhältnis; balance of power; ; B2; Business/Verhandlung/Positionen; The balance of power changed after the merger.; Das Machtverhältnis änderte sich nach der Fusion.
 vh-0075; Verhandlungstisch; negotiating table; ; B2; Business/Verhandlung/Wendungen; Both sides returned to the negotiating table yesterday.; Beide Seiten kehrten gestern an den Verhandlungstisch zurück.
@@ -86,12 +86,12 @@ vh-0084; Vertragsentwurf; draft contract; contract draft; B2; Business/Verhandlu
 vh-0085; Klausel; clause; ; B2; Business/Verhandlung/Abschluss; This clause protects us against late delivery.; Diese Klausel schützt uns vor verspäteter Lieferung.
 vh-0086; verbindlich; binding; ; B2; Business/Verhandlung/Abschluss; This offer is binding until the end of the month.; Dieses Angebot ist bis Monatsende verbindlich.
 vh-0087; unverbindlich; non-binding; without obligation; B2; Business/Verhandlung/Angebot; We will send you a non-binding offer first.; Wir schicken Ihnen zunächst ein unverbindliches Angebot.
-vh-0088; Angebotsfrist; offer deadline; ; B2; Business/Verhandlung/Angebot; The offer deadline expires at the end of the week.; Die Angebotsfrist läuft Ende der Woche ab.
+vh-0088; Angebotsfrist; offer deadline; submission deadline; B2; Business/Verhandlung/Angebot; The offer deadline expires at the end of the week.; Die Angebotsfrist läuft Ende der Woche ab.
 vh-0089; Preisverhandlung; price negotiation; ; B2; Business/Verhandlung/Angebot; The price negotiation took longer than expected.; Die Preisverhandlung dauerte länger als erwartet.
 vh-0090; Mengenrabatt; volume discount; bulk discount; B2; Business/Verhandlung/Angebot; We offer a volume discount from one hundred units.; Ab hundert Stück bieten wir einen Mengenrabatt an.
 vh-0091; Zahlungsziel; payment period; ; B2; Business/Verhandlung/Positionen; We agreed on a payment period of sixty days.; Wir vereinbarten ein Zahlungsziel von sechzig Tagen.
 vh-0092; Anzahlung; down payment; deposit; B2; Business/Verhandlung/Abschluss; We require a down payment of twenty percent.; Wir verlangen eine Anzahlung von zwanzig Prozent.
-vh-0093; Ratenzahlung; installment payment; payment by installments; B2; Business/Verhandlung/Zugeständnisse; They asked for installment payment over twelve months.; Sie baten um Ratenzahlung über zwölf Monate.
+vh-0093; Ratenzahlung; installment payment; payment by installments, payment by instalments; B2; Business/Verhandlung/Zugeständnisse; They asked for installment payment over twelve months.; Sie baten um Ratenzahlung über zwölf Monate.
 vh-0094; Vertragsverhandlung; contract negotiation; ; B2; Business/Verhandlung/Abschluss; The contract negotiation will continue next week.; Die Vertragsverhandlung wird nächste Woche fortgesetzt.
 vh-0095; Verhandlungsrunde; round of negotiations; negotiation round; B2; Business/Verhandlung/Taktik; The third round of negotiations starts on Monday.; Die dritte Verhandlungsrunde beginnt am Montag.
 vh-0096; Entscheidungsträger; decision-maker; ; B2; Business/Verhandlung/Positionen; Make sure the real decision-maker is at the table.; Stellen Sie sicher, dass der echte Entscheidungsträger am Tisch sitzt.
@@ -127,7 +127,7 @@ vh-0125; einen Rückzieher machen; to back out; ; C1; Business/Verhandlung/Wendu
 vh-0126; Zwischenlösung; interim solution; temporary solution; C1; Business/Verhandlung/Zugeständnisse; We agreed on an interim solution for six months.; Wir einigten uns auf eine Zwischenlösung für sechs Monate.
 vh-0127; Verhandlungsabbruch; breakdown of negotiations; ; C1; Business/Verhandlung/Taktik; A breakdown of negotiations would hurt both companies.; Ein Verhandlungsabbruch würde beiden Unternehmen schaden.
 vh-0128; abbrechen; to break off; ; C1; Business/Verhandlung/Taktik; They broke off the talks without any explanation.; Sie brachen die Gespräche ohne jede Erklärung ab.
-vh-0129; Schlichtung; arbitration; ; C1; Business/Verhandlung/Einwände; The parties agreed to settle the dispute through arbitration.; Die Parteien einigten sich, den Streit durch Schlichtung zu lösen.
+vh-0129; Schlichtung; arbitration; conciliation; C1; Business/Verhandlung/Einwände; The parties agreed to settle the dispute through arbitration.; Die Parteien einigten sich, den Streit durch Schlichtung zu lösen.
 vh-0130; Vermittlung; mediation; ; C1; Business/Verhandlung/Einwände; Thanks to his mediation the talks continued.; Dank seiner Vermittlung gingen die Gespräche weiter.
 vh-0131; beiderseitig; mutual; ; C1; Business/Verhandlung/Positionen; The contract was ended by mutual consent.; Der Vertrag wurde in beiderseitigem Einvernehmen beendet.
 vh-0132; stichhaltig; sound; valid, convincing; C1; Business/Verhandlung/Einwände; She presented a sound argument for the higher price.; Sie präsentierte ein stichhaltiges Argument für den höheren Preis.

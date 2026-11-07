@@ -3,7 +3,7 @@ vt-0001; Vertrag; contract; agreement; A1; Business/Vertrag/Vertragsarten; We si
 vt-0002; Firma; company; firm, business; A1; Business/Vertrag/Parteien; Our company works with many international partners.; Unsere Firma arbeitet mit vielen internationalen Partnern.
 vt-0003; unterschreiben; to sign; ; A1; Business/Vertrag/Abschluss & Unterschrift; Please sign the document on the last page.; Bitte unterschreiben Sie das Dokument auf der letzten Seite.
 vt-0004; Datum; date; ; A1; Business/Vertrag/Abschluss & Unterschrift; The date on the contract is wrong.; Das Datum auf dem Vertrag ist falsch.
-vt-0005; Preis; price; ; A1; Business/Vertrag/Klauseln; The price is fixed in the contract.; Der Preis ist im Vertrag festgelegt.
+vt-0005; Preis (Kosten); price; ; A1; Business/Vertrag/Klauseln; The price is fixed in the contract.; Der Preis ist im Vertrag festgelegt.
 vt-0006; Unterschrift; signature; ; A2; Business/Vertrag/Abschluss & Unterschrift; We still need your signature on page two.; Wir brauchen noch Ihre Unterschrift auf Seite zwei.
 vt-0007; Dokument; document; paper; A2; Business/Vertrag/Abschluss & Unterschrift; Please read the document carefully before you sign.; Bitte lesen Sie das Dokument sorgfältig, bevor Sie unterschreiben.
 vt-0008; Kopie; copy; duplicate; A2; Business/Vertrag/Abschluss & Unterschrift; Each party receives a copy of the contract.; Jede Partei erhält eine Kopie des Vertrags.
@@ -33,10 +33,10 @@ vt-0031; befristeter Vertrag; fixed-term contract; temporary contract; B1; Busin
 vt-0032; unbefristeter Vertrag; permanent contract; open-ended contract; B1; Business/Vertrag/Vertragsarten; After two years she received a permanent contract.; Nach zwei Jahren erhielt sie einen unbefristeten Vertrag.
 vt-0033; Klausel; clause; ; B1; Business/Vertrag/Klauseln; This clause limits our liability in special cases.; Diese Klausel begrenzt unsere Haftung in besonderen Fällen.
 vt-0034; Anhang; annex; appendix, attachment; B1; Business/Vertrag/Klauseln; The prices are listed in the annex.; Die Preise sind im Anhang aufgeführt.
-vt-0035; Laufzeit; contract term; duration, term; B1; Business/Vertrag/Laufzeit & Kündigung; The contract term is five years with an option.; Die Laufzeit beträgt fünf Jahre mit einer Option.
+vt-0035; Laufzeit (Vertrag); contract term; duration, term; B1; Business/Vertrag/Laufzeit & Kündigung; The contract term is five years with an option.; Die Laufzeit beträgt fünf Jahre mit einer Option.
 vt-0036; Kündigung; termination; cancellation, notice; B1; Business/Vertrag/Laufzeit & Kündigung; The termination must be sent in written form.; Die Kündigung muss in schriftlicher Form gesendet werden.
-vt-0037; kündigen; to terminate; to cancel; B1; Business/Vertrag/Laufzeit & Kündigung; Either party may terminate the contract in writing.; Jede Partei kann den Vertrag schriftlich kündigen.
-vt-0038; Verlängerung; extension; renewal; B1; Business/Vertrag/Laufzeit & Kündigung; We asked for an extension of the delivery period.; Wir baten um eine Verlängerung des Lieferzeitraums.
+vt-0037; kündigen (Vertrag); to terminate; to cancel; B1; Business/Vertrag/Laufzeit & Kündigung; Either party may terminate the contract in writing.; Jede Partei kann den Vertrag schriftlich kündigen.
+vt-0038; Verlängerung (Frist, Vertrag); extension; renewal; B1; Business/Vertrag/Laufzeit & Kündigung; We asked for an extension of the delivery period.; Wir baten um eine Verlängerung des Lieferzeitraums.
 vt-0039; Vertragspartner; contracting party; contract partner; B1; Business/Vertrag/Parteien; Each contracting party has clear duties and rights.; Jeder Vertragspartner hat klare Pflichten und Rechte.
 vt-0040; Partei; party; side; B1; Business/Vertrag/Parteien; Each party must fulfil its duties on time.; Jede Partei muss ihre Pflichten pünktlich erfüllen.
 vt-0041; Lieferant; supplier; vendor; B1; Business/Vertrag/Parteien; Our supplier delivers the goods every two weeks.; Unser Lieferant liefert die Waren alle zwei Wochen.
@@ -48,7 +48,7 @@ vt-0046; Recht; right; ; B1; Business/Vertrag/Rechtsbegriffe; You have the right
 vt-0047; Regelung; regulation; rule, arrangement; B1; Business/Vertrag/Rechtsbegriffe; The new regulation applies to all our contracts.; Die neue Regelung gilt für alle unsere Verträge.
 vt-0048; Zahlung; payment; ; B1; Business/Vertrag/Klauseln; The first payment is due after the signing.; Die erste Zahlung ist nach der Unterzeichnung fällig.
 vt-0049; Rabatt; discount; price reduction; B1; Business/Vertrag/Klauseln; We offer a discount for early payment.; Wir bieten einen Rabatt für frühzeitige Zahlung an.
-vt-0050; Garantie; guarantee; ; B1; Business/Vertrag/Haftung & Gewährleistung; The machine comes with a three-year guarantee.; Die Maschine hat eine Garantie von drei Jahren.
+vt-0050; Garantie; guarantee; warranty; B1; Business/Vertrag/Haftung & Gewährleistung; The machine comes with a three-year guarantee.; Die Maschine hat eine Garantie von drei Jahren.
 vt-0051; Schaden; damage; loss, harm; B1; Business/Vertrag/Haftung & Gewährleistung; The damage was caused during the transport.; Der Schaden entstand während des Transports.
 vt-0052; Versicherung; insurance; ; B1; Business/Vertrag/Haftung & Gewährleistung; The insurance covers damage during the delivery.; Die Versicherung deckt Schäden während der Lieferung ab.
 vt-0053; Risiko; risk; ; B1; Business/Vertrag/Haftung & Gewährleistung; The supplier carries the risk until the delivery.; Der Lieferant trägt das Risiko bis zur Lieferung.
@@ -56,8 +56,8 @@ vt-0054; verhandeln; to negotiate; ; B1; Business/Vertrag/Abschluss & Unterschri
 vt-0055; Verhandlung; negotiation; ; B1; Business/Vertrag/Abschluss & Unterschrift; The negotiation about the new contract took months.; Die Verhandlung über den neuen Vertrag dauerte Monate.
 vt-0056; Kompromiss; compromise; ; B1; Business/Vertrag/Abschluss & Unterschrift; After long talks both sides found a compromise.; Nach langen Gesprächen fanden beide Seiten einen Kompromiss.
 vt-0057; zustimmen; to agree; to consent; B1; Business/Vertrag/Abschluss & Unterschrift; Both partners agree to the new conditions.; Beide Partner stimmen den neuen Bedingungen zu.
-vt-0058; Streit; dispute; conflict, disagreement; B1; Business/Vertrag/Streitfall; The dispute about the payment lasted several months.; Der Streit über die Zahlung dauerte mehrere Monate.
-vt-0059; Gericht; court; ; B1; Business/Vertrag/Streitfall, Gesellschaft/Recht; The case went to court after failed talks.; Der Fall ging nach gescheiterten Gesprächen vor Gericht.
+vt-0058; Streit; dispute; conflict, disagreement, argument; B1; Business/Vertrag/Streitfall; The dispute about the payment lasted several months.; Der Streit über die Zahlung dauerte mehrere Monate.
+vt-0059; Gericht (Justiz); court; ; B1; Business/Vertrag/Streitfall, Gesellschaft/Recht; The case went to court after failed talks.; Der Fall ging nach gescheiterten Gesprächen vor Gericht.
 vt-0060; Beweis; evidence; proof; B1; Business/Vertrag/Streitfall; The email is clear evidence of the agreement.; Die E-Mail ist ein klarer Beweis für die Vereinbarung.
 vt-0061; ungültig; invalid; void; B1; Business/Vertrag/Rechtsbegriffe; Without a signature the contract is invalid.; Ohne Unterschrift ist der Vertrag ungültig.
 vt-0062; schriftlich; in writing; written; B1; Business/Vertrag/Abschluss & Unterschrift; All changes must be made in writing.; Alle Änderungen müssen schriftlich erfolgen.
@@ -76,7 +76,7 @@ vt-0074; Vertragsstrafe; contractual penalty; penalty; B2; Business/Vertrag/Klau
 vt-0075; Gewährleistung; warranty; ; B2; Business/Vertrag/Haftung & Gewährleistung; The warranty covers all defects for two years.; Die Gewährleistung deckt alle Mängel für zwei Jahre ab.
 vt-0076; Haftung; liability; ; B2; Business/Vertrag/Haftung & Gewährleistung; Our liability is limited to the contract value.; Unsere Haftung ist auf den Vertragswert begrenzt.
 vt-0077; haften; to be liable; ; B2; Business/Vertrag/Haftung & Gewährleistung; The seller is liable for hidden defects.; Der Verkäufer haftet für versteckte Mängel.
-vt-0078; Mangel; defect; fault, flaw; B2; Business/Vertrag/Haftung & Gewährleistung; We found a serious defect in the machine.; Wir haben einen schweren Mangel an der Maschine gefunden.
+vt-0078; Mangel (Fehler); defect; fault, flaw; B2; Business/Vertrag/Haftung & Gewährleistung; We found a serious defect in the machine.; Wir haben einen schweren Mangel an der Maschine gefunden.
 vt-0079; Schadensersatz; damages; compensation; B2; Business/Vertrag/Haftung & Gewährleistung; The client demands damages for the late delivery.; Der Auftraggeber fordert Schadensersatz für die verspätete Lieferung.
 vt-0080; Fälligkeit; due date; maturity; B2; Business/Vertrag/Klauseln; The due date for the invoice is next Monday.; Die Fälligkeit der Rechnung ist nächsten Montag.
 vt-0081; fällig; due; payable; B2; Business/Vertrag/Klauseln; The second payment is due in June.; Die zweite Zahlung ist im Juni fällig.
@@ -90,16 +90,16 @@ vt-0088; Allgemeine Geschäftsbedingungen; general terms and conditions; terms o
 vt-0089; Rechtsabteilung; legal department; ; B2; Business/Vertrag/Parteien; The legal department reviews every new agreement.; Die Rechtsabteilung prüft jede neue Vereinbarung.
 vt-0090; rechtsverbindlich; legally binding; ; B2; Business/Vertrag/Rechtsbegriffe; The offer becomes legally binding after the acceptance.; Das Angebot wird nach der Annahme rechtsverbindlich.
 vt-0091; verbindlich; binding; obligatory; B2; Business/Vertrag/Rechtsbegriffe; The delivery dates in the annex are binding.; Die Liefertermine im Anhang sind verbindlich.
-vt-0092; Annahme; acceptance; ; B2; Business/Vertrag/Abschluss & Unterschrift; The contract begins with the acceptance of the offer.; Der Vertrag beginnt mit der Annahme des Angebots.
+vt-0092; Annahme (eines Angebots); acceptance; ; B2; Business/Vertrag/Abschluss & Unterschrift; The contract begins with the acceptance of the offer.; Der Vertrag beginnt mit der Annahme des Angebots.
 vt-0093; Verlängerungsoption; renewal option; extension option; B2; Business/Vertrag/Laufzeit & Kündigung; The lease includes a renewal option for five years.; Der Mietvertrag enthält eine Verlängerungsoption für fünf Jahre.
-vt-0094; Probezeit; probationary period; trial period; B2; Business/Vertrag/Laufzeit & Kündigung; The probationary period lasts six months in total.; Die Probezeit dauert insgesamt sechs Monate.
+vt-0094; Probezeit; probationary period; trial period, probation period; B2; Business/Vertrag/Laufzeit & Kündigung; The probationary period lasts six months in total.; Die Probezeit dauert insgesamt sechs Monate.
 vt-0095; Zahlungsverzug; late payment; default in payment; B2; Business/Vertrag/Klauseln; In the case of late payment we charge interest.; Bei Zahlungsverzug berechnen wir Zinsen.
 vt-0096; Mahnung; payment reminder; reminder, dunning letter; B2; Business/Vertrag/Klauseln; We sent a payment reminder after four weeks.; Wir haben nach vier Wochen eine Mahnung geschickt.
 vt-0097; in Kraft treten; to come into effect; to come into force, to take effect; B2; Business/Vertrag/Laufzeit & Kündigung; The new agreement comes into effect in January.; Die neue Vereinbarung tritt im Januar in Kraft.
 vt-0098; auslaufen; to expire; to run out; B2; Business/Vertrag/Laufzeit & Kündigung; The old supply contract expires at the end of March.; Der alte Liefervertrag läuft Ende März aus.
 vt-0099; Ablaufdatum; expiry date; expiration date; B2; Business/Vertrag/Laufzeit & Kündigung; Please note the expiry date of the licence.; Bitte beachten Sie das Ablaufdatum der Lizenz.
 vt-0100; Mediation; mediation; ; B2; Business/Vertrag/Streitfall; Both companies chose mediation instead of a court case.; Beide Firmen wählten Mediation statt eines Gerichtsverfahrens.
-vt-0101; Vergleich; settlement; ; B2; Business/Vertrag/Streitfall; The parties reached a settlement before the trial.; Die Parteien erzielten einen Vergleich vor dem Prozess.
+vt-0101; Vergleich (vor Gericht); settlement; ; B2; Business/Vertrag/Streitfall; The parties reached a settlement before the trial.; Die Parteien erzielten einen Vergleich vor dem Prozess.
 vt-0102; Klage; lawsuit; legal action; B2; Business/Vertrag/Streitfall; The supplier filed a lawsuit against our company.; Der Lieferant reichte eine Klage gegen unsere Firma ein.
 vt-0103; Urteil; judgment; verdict, ruling; B2; Business/Vertrag/Streitfall; The court announced its judgment after two weeks.; Das Gericht verkündete sein Urteil nach zwei Wochen.
 vt-0104; Anspruch; claim; entitlement; B2; Business/Vertrag/Rechtsbegriffe; We have a claim to free repairs under warranty.; Wir haben einen Anspruch auf kostenlose Reparaturen im Rahmen der Gewährleistung.
@@ -120,20 +120,20 @@ vt-0118; Preisanpassungsklausel; price adjustment clause; escalation clause; C1;
 vt-0119; Ausschlussklausel; exclusion clause; exemption clause; C1; Business/Vertrag/Klauseln; The exclusion clause does not cover intentional damage.; Die Ausschlussklausel deckt vorsätzliche Schäden nicht ab.
 vt-0120; Verzugszinsen; default interest; late payment interest; C1; Business/Vertrag/Haftung & Gewährleistung; We charge default interest of nine percent per year.; Wir berechnen Verzugszinsen von neun Prozent pro Jahr.
 vt-0121; Präambel; preamble; recitals; C1; Business/Vertrag/Klauseln; The preamble describes the purpose of the cooperation.; Die Präambel beschreibt den Zweck der Zusammenarbeit.
-vt-0122; Rücktritt; withdrawal; rescission; C1; Business/Vertrag/Laufzeit & Kündigung; The buyer declared his withdrawal from the contract.; Der Käufer erklärte seinen Rücktritt vom Vertrag.
+vt-0122; Rücktritt (vom Vertrag); withdrawal; rescission; C1; Business/Vertrag/Laufzeit & Kündigung; The buyer declared his withdrawal from the contract.; Der Käufer erklärte seinen Rücktritt vom Vertrag.
 vt-0123; widerrufen; to revoke; to rescind; C1; Business/Vertrag/Laufzeit & Kündigung; The customer can revoke the order within two weeks.; Der Kunde kann die Bestellung innerhalb von zwei Wochen widerrufen.
-vt-0124; Widerruf; revocation; ; C1; Business/Vertrag/Laufzeit & Kündigung; The revocation must reach us before the delivery.; Der Widerruf muss uns vor der Lieferung erreichen.
+vt-0124; Widerruf; revocation; cancellation; C1; Business/Vertrag/Laufzeit & Kündigung; The revocation must reach us before the delivery.; Der Widerruf muss uns vor der Lieferung erreichen.
 vt-0125; stillschweigende Verlängerung; automatic renewal; tacit renewal; C1; Business/Vertrag/Laufzeit & Kündigung; The contract contains an automatic renewal of twelve months.; Der Vertrag enthält eine stillschweigende Verlängerung von zwölf Monaten.
-vt-0126; fristlose Kündigung; termination without notice; summary termination; C1; Business/Vertrag/Laufzeit & Kündigung; A serious breach justifies a termination without notice.; Ein schwerer Verstoß rechtfertigt eine fristlose Kündigung.
+vt-0126; fristlose Kündigung; termination without notice; summary termination, summary dismissal; C1; Business/Vertrag/Laufzeit & Kündigung; A serious breach justifies a termination without notice.; Ein schwerer Verstoß rechtfertigt eine fristlose Kündigung.
 vt-0127; Vertragsgegenstand; subject matter of the contract; subject of the contract; C1; Business/Vertrag/Klauseln; The subject matter of the contract is described in detail.; Der Vertragsgegenstand wird im Detail beschrieben.
 vt-0128; Leistungsumfang; scope of services; scope of work; C1; Business/Vertrag/Klauseln; The scope of services includes installation and training.; Der Leistungsumfang umfasst Installation und Schulung.
 vt-0129; Geltungsbereich; scope of application; area of application; C1; Business/Vertrag/Rechtsbegriffe; The scope of application covers all European subsidiaries.; Der Geltungsbereich umfasst alle europäischen Tochtergesellschaften.
 vt-0130; Inkrafttreten; entry into force; commencement; C1; Business/Vertrag/Laufzeit & Kündigung; The entry into force is planned for next April.; Das Inkrafttreten ist für nächsten April geplant.
 vt-0131; Schiedsverfahren; arbitration; arbitration proceedings; C1; Business/Vertrag/Streitfall; The parties agreed on arbitration instead of state courts.; Die Parteien einigten sich auf ein Schiedsverfahren statt staatlicher Gerichte.
-vt-0132; Schlichtung; conciliation; ; C1; Business/Vertrag/Streitfall; A neutral expert led the conciliation between the firms.; Ein neutraler Experte leitete die Schlichtung zwischen den Firmen.
+vt-0132; Schlichtung; conciliation; arbitration; C1; Business/Vertrag/Streitfall; A neutral expert led the conciliation between the firms.; Ein neutraler Experte leitete die Schlichtung zwischen den Firmen.
 vt-0133; außergerichtliche Einigung; out-of-court settlement; amicable settlement; C1; Business/Vertrag/Streitfall; Both sides preferred an out-of-court settlement to save costs.; Beide Seiten bevorzugten eine außergerichtliche Einigung, um Kosten zu sparen.
 vt-0134; Rechtsstreit; litigation; legal dispute; C1; Business/Vertrag/Streitfall; The litigation over the patent lasted three years.; Der Rechtsstreit über das Patent dauerte drei Jahre.
-vt-0135; Berufung; appeal; ; C1; Business/Vertrag/Streitfall; Our company filed an appeal against the judgment.; Unsere Firma legte Berufung gegen das Urteil ein.
+vt-0135; Berufung (Gericht); appeal; ; C1; Business/Vertrag/Streitfall; Our company filed an appeal against the judgment.; Unsere Firma legte Berufung gegen das Urteil ein.
 vt-0136; geltend machen; to assert a claim; to claim, to enforce; C1; Business/Vertrag/Rechtsbegriffe; You must assert a claim within the limitation period.; Sie müssen einen Anspruch innerhalb der Verjährungsfrist geltend machen.
 vt-0137; beglaubigen; to certify; to notarize, to authenticate; C1; Business/Vertrag/Abschluss & Unterschrift; The notary certified the copies of the contract.; Der Notar beglaubigte die Kopien des Vertrags.
 vt-0138; gegenzeichnen; to countersign; ; C1; Business/Vertrag/Abschluss & Unterschrift; The managing director must countersign every large order.; Der Geschäftsführer muss jede große Bestellung gegenzeichnen.
@@ -146,6 +146,6 @@ vt-0144; nichtig; null and void; void ab initio; C2; Business/Vertrag/Rechtsbegr
 vt-0145; Gegenleistung; consideration; counter-performance; C2; Business/Vertrag/Rechtsbegriffe; Under English law every contract needs a consideration.; Nach englischem Recht braucht jeder Vertrag eine Gegenleistung.
 vt-0146; Abtretung; assignment; cession; C2; Business/Vertrag/Rechtsbegriffe; The assignment of claims requires our written consent.; Die Abtretung von Ansprüchen erfordert unsere schriftliche Zustimmung.
 vt-0147; schadlos halten; to indemnify; to hold harmless; C2; Business/Vertrag/Haftung & Gewährleistung; The supplier must indemnify us against third-party claims.; Der Lieferant muss uns gegen Ansprüche Dritter schadlos halten.
-vt-0148; Bürgschaft; surety; guaranty, suretyship; C2; Business/Vertrag/Haftung & Gewährleistung; The bank provided a surety for the large order.; Die Bank stellte eine Bürgschaft für den großen Auftrag.
+vt-0148; Bürgschaft; surety; guaranty, suretyship, guarantee; C2; Business/Vertrag/Haftung & Gewährleistung; The bank provided a surety for the large order.; Die Bank stellte eine Bürgschaft für den großen Auftrag.
 vt-0149; paraphieren; to initial; ; C2; Business/Vertrag/Abschluss & Unterschrift; Please initial every page of the final version.; Bitte paraphieren Sie jede Seite der endgültigen Fassung.
 vt-0150; Schiedsgericht; arbitral tribunal; court of arbitration; C2; Business/Vertrag/Streitfall; The arbitral tribunal decided in favour of the contractor.; Das Schiedsgericht entschied zugunsten des Auftragnehmers.

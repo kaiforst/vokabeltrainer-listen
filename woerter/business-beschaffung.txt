@@ -7,14 +7,14 @@ ba-0005; Leistungsverzeichnis; bill of quantities; specification of services; C2
 ba-0006; Leistungsbeschreibung; statement of work; service description; C1; Business/Beschaffung/Ausschreibung; The statement of work describes every task in detail.; Die Leistungsbeschreibung beschreibt jede Aufgabe im Detail.
 ba-0007; Lastenheft; requirements specification; user requirements document; C1; Business/Beschaffung/Ausschreibung; The requirements specification was written by the client's engineers.; Das Lastenheft wurde von den Ingenieuren des Auftraggebers geschrieben.
 ba-0008; Pflichtenheft; functional specification; technical specification; C2; Business/Beschaffung/Ausschreibung; The supplier delivered the functional specification two weeks late.; Der Lieferant lieferte das Pflichtenheft zwei Wochen zu spät.
-ba-0009; Angebotsfrist; submission deadline; bid deadline, tender deadline; B2; Business/Beschaffung/Ausschreibung; The submission deadline was extended by ten days.; Die Angebotsfrist wurde um zehn Tage verlängert.
+ba-0009; Angebotsfrist; submission deadline; bid deadline, tender deadline, offer deadline; B2; Business/Beschaffung/Ausschreibung; The submission deadline was extended by ten days.; Die Angebotsfrist wurde um zehn Tage verlängert.
 ba-0010; Ausschreibungsunterlagen; tender documents; bidding documents; B2; Business/Beschaffung/Ausschreibung; You can download the tender documents from the portal.; Sie können die Ausschreibungsunterlagen vom Portal herunterladen.
 ba-0011; Bekanntmachung; contract notice; announcement, publication; B2; Business/Beschaffung/Ausschreibung; The contract notice appeared in the official journal.; Die Bekanntmachung erschien im Amtsblatt.
 ba-0012; Anfrage; inquiry; enquiry, request; B1; Business/Beschaffung/Ausschreibung; We received an inquiry about our planning services.; Wir erhielten eine Anfrage zu unseren Planungsleistungen.
 ba-0013; Angebotsanfrage; request for quotation; RFQ; B2; Business/Beschaffung/Ausschreibung; The request for quotation was sent to five companies.; Die Angebotsanfrage wurde an fünf Unternehmen gesendet.
 ba-0014; Teilnahmeantrag; request to participate; application to participate; C2; Business/Beschaffung/Ausschreibung; Our request to participate must arrive before Friday noon.; Unser Teilnahmeantrag muss vor Freitagmittag eingehen.
 ba-0015; Bieterfragen; bidder questions; clarification questions; C1; Business/Beschaffung/Ausschreibung; All bidder questions will be answered in writing.; Alle Bieterfragen werden schriftlich beantwortet.
-ba-0016; Los; lot; contract lot; B2; Business/Beschaffung/Ausschreibung; The project was divided into one lot per region.; Das Projekt wurde in ein Los pro Region aufgeteilt.
+ba-0016; Los (Ausschreibung); lot; contract lot; B2; Business/Beschaffung/Ausschreibung; The project was divided into one lot per region.; Das Projekt wurde in ein Los pro Region aufgeteilt.
 ba-0017; Eignungskriterien; suitability criteria; qualification criteria; C1; Business/Beschaffung/Ausschreibung; The suitability criteria include experience and financial strength.; Die Eignungskriterien umfassen Erfahrung und finanzielle Stärke.
 ba-0018; Frist; deadline; time limit; B1; Business/Beschaffung/Ausschreibung; The deadline for questions is next Wednesday at noon.; Die Frist für Fragen ist nächsten Mittwoch um zwölf.
 ba-0019; verlängern; to extend; to prolong; A2; Business/Beschaffung/Ausschreibung; They decided to extend the deadline by one week.; Sie beschlossen, die Frist um eine Woche zu verlängern.
@@ -22,9 +22,9 @@ ba-0020; veröffentlichen; to publish; to announce; B1; Business/Beschaffung/Aus
 ba-0021; Angebot; offer; bid, quotation; A2; Business/Beschaffung/Angebot & Bewertung; Their offer was cheaper but technically much weaker.; Ihr Angebot war billiger, aber technisch viel schwächer.
 ba-0022; Angebotsabgabe; bid submission; submission of tenders; B2; Business/Beschaffung/Angebot & Bewertung; Bid submission is only possible through the online portal.; Die Angebotsabgabe ist nur über das Online-Portal möglich.
 ba-0023; Bieter; bidder; tenderer; B2; Business/Beschaffung/Angebot & Bewertung; Seven bidders handed in an offer on time.; Sieben Bieter reichten fristgerecht ein Angebot ein.
-ba-0024; Preis; price; ; A1; Business/Beschaffung/Angebot & Bewertung; The price for the software is too high.; Der Preis für die Software ist zu hoch.
+ba-0024; Preis (Kosten); price; ; A1; Business/Beschaffung/Angebot & Bewertung; The price for the software is too high.; Der Preis für die Software ist zu hoch.
 ba-0025; Preisliste; price list; ; A2; Business/Beschaffung/Angebot & Bewertung; Please send us your current price list for cables.; Bitte senden Sie uns Ihre aktuelle Preisliste für Kabel.
-ba-0026; Kosten; costs; expenses; A2; Business/Beschaffung/Angebot & Bewertung; The costs for transport are not included yet.; Die Kosten für den Transport sind noch nicht enthalten.
+ba-0026; Kosten; costs; expenses, cost; A2; Business/Beschaffung/Angebot & Bewertung; The costs for transport are not included yet.; Die Kosten für den Transport sind noch nicht enthalten.
 ba-0027; Kostenvoranschlag; cost estimate; estimate; B2; Business/Beschaffung/Angebot & Bewertung; The workshop prepared a cost estimate for the repair.; Die Werkstatt erstellte einen Kostenvoranschlag für die Reparatur.
 ba-0028; kalkulieren; to calculate; to cost, to work out; B1; Business/Beschaffung/Angebot & Bewertung; We have to calculate the project price very carefully.; Wir müssen den Projektpreis sehr sorgfältig kalkulieren.
 ba-0029; Kalkulation; costing; calculation; B2; Business/Beschaffung/Angebot & Bewertung; The costing shows a small margin for risks.; Die Kalkulation zeigt eine kleine Marge für Risiken.
@@ -44,17 +44,17 @@ ba-0042; Preis-Leistungs-Verhältnis; value for money; price-performance ratio; 
 ba-0043; Angebotsöffnung; bid opening; opening of tenders; B2; Business/Beschaffung/Angebot & Bewertung; The bid opening took place in a closed meeting.; Die Angebotsöffnung fand in einer geschlossenen Sitzung statt.
 ba-0044; vergleichen; to compare; ; A2; Business/Beschaffung/Angebot & Bewertung; We compare the offers before we make a decision.; Wir vergleichen die Angebote, bevor wir eine Entscheidung treffen.
 ba-0045; Vergleich; comparison; ; B1; Business/Beschaffung/Angebot & Bewertung; The comparison of all bids took nearly a month.; Der Vergleich aller Angebote dauerte fast einen Monat.
-ba-0046; Zuschlag; contract award; award; C1; Business/Beschaffung/Zuschlag & Vergabe; The contract award went to the regional supplier.; Der Zuschlag ging an den regionalen Lieferanten.
+ba-0046; Zuschlag (Ausschreibung); contract award; award; C1; Business/Beschaffung/Zuschlag & Vergabe; The contract award went to the regional supplier.; Der Zuschlag ging an den regionalen Lieferanten.
 ba-0047; den Zuschlag erhalten; to win the contract; to be awarded the contract; B2; Business/Beschaffung/Zuschlag & Vergabe; Our consortium hopes to win the contract next month.; Unser Konsortium hofft, nächsten Monat den Zuschlag zu erhalten.
 ba-0048; Vergabe; awarding; contract awarding; C1; Business/Beschaffung/Zuschlag & Vergabe; The awarding of the project was delayed by complaints.; Die Vergabe des Projekts verzögerte sich durch Beschwerden.
 ba-0049; Vergabeverfahren; award procedure; procurement procedure; C1; Business/Beschaffung/Zuschlag & Vergabe; The award procedure follows strict European rules.; Das Vergabeverfahren folgt strengen europäischen Regeln.
-ba-0050; vergeben; to award; to place; B2; Business/Beschaffung/Zuschlag & Vergabe; The city will award the contract in early summer.; Die Stadt wird den Auftrag im Frühsommer vergeben.
+ba-0050; vergeben (Auftrag); to award; to place; B2; Business/Beschaffung/Zuschlag & Vergabe; The city will award the contract in early summer.; Die Stadt wird den Auftrag im Frühsommer vergeben.
 ba-0051; Auftrag; order; commission, job; B1; Business/Beschaffung/Zuschlag & Vergabe; We won a large order for the new terminal.; Wir haben einen großen Auftrag für das neue Terminal gewonnen.
 ba-0052; Auftraggeber; client; principal, customer; B1; Business/Beschaffung/Zuschlag & Vergabe; The client expects a weekly report on progress.; Der Auftraggeber erwartet einen wöchentlichen Bericht über den Fortschritt.
 ba-0053; Auftragnehmer; contractor; ; B1; Business/Beschaffung/Zuschlag & Vergabe; The contractor is responsible for all safety measures.; Der Auftragnehmer ist für alle Sicherheitsmaßnahmen verantwortlich.
 ba-0054; beauftragen; to commission; to engage, to instruct; B2; Business/Beschaffung/Zuschlag & Vergabe; We will commission an external firm for the tests.; Wir werden eine externe Firma mit den Tests beauftragen.
 ba-0055; benachrichtigen; to notify; to inform; B1; Business/Beschaffung/Zuschlag & Vergabe; We will notify all bidders about the decision tomorrow.; Wir werden morgen alle Bieter über die Entscheidung benachrichtigen.
-ba-0056; ablehnen; to reject; to turn down; B1; Business/Beschaffung/Zuschlag & Vergabe; The committee had to reject two incomplete offers.; Der Ausschuss musste zwei unvollständige Angebote ablehnen.
+ba-0056; ablehnen; to reject; to turn down, to refuse, to decline; B1; Business/Beschaffung/Zuschlag & Vergabe; The committee had to reject two incomplete offers.; Der Ausschuss musste zwei unvollständige Angebote ablehnen.
 ba-0057; Ablehnung; rejection; refusal; B1; Business/Beschaffung/Zuschlag & Vergabe; The rejection letter must give at least one reason.; Das Ablehnungsschreiben muss mindestens einen Grund nennen.
 ba-0058; Wettbewerb; competition; ; B1; Business/Beschaffung/Zuschlag & Vergabe; Strong competition between suppliers usually lowers the prices.; Starker Wettbewerb zwischen Lieferanten senkt normalerweise die Preise.
 ba-0059; Wettbewerber; competitor; rival; B1; Business/Beschaffung/Zuschlag & Vergabe; Our main competitor offered a much shorter delivery time.; Unser Hauptwettbewerber bot eine viel kürzere Lieferzeit an.
@@ -88,16 +88,16 @@ ba-0086; Referenz; reference; ; B1; Business/Beschaffung/Lieferanten; Please nam
 ba-0087; Zertifikat; certificate; certification; B1; Business/Beschaffung/Lieferanten; The supplier holds a certificate for quality management.; Der Lieferant besitzt ein Zertifikat für Qualitätsmanagement.
 ba-0088; Qualitätsmanagement; quality management; ; B2; Business/Beschaffung/Lieferanten; Good quality management prevents expensive mistakes in production.; Gutes Qualitätsmanagement verhindert teure Fehler in der Produktion.
 ba-0089; Qualitätssicherung; quality assurance; QA; B2; Business/Beschaffung/Lieferanten; Quality assurance tests a sample from every delivery.; Die Qualitätssicherung testet eine Stichprobe aus jeder Lieferung.
-ba-0090; Muster; sample; specimen; B1; Business/Beschaffung/Lieferanten; Send us a sample before we order large quantities.; Senden Sie uns ein Muster, bevor wir große Mengen bestellen.
+ba-0090; Muster (Warenprobe); sample; specimen; B1; Business/Beschaffung/Lieferanten; Send us a sample before we order large quantities.; Senden Sie uns ein Muster, bevor wir große Mengen bestellen.
 ba-0091; Katalog; catalogue; catalog; A2; Business/Beschaffung/Lieferanten; The new catalogue shows all products with prices.; Der neue Katalog zeigt alle Produkte mit Preisen.
 ba-0092; Konditionen; terms; conditions; B2; Business/Beschaffung/Lieferanten; We negotiated better terms for the coming year.; Wir haben bessere Konditionen für das kommende Jahr ausgehandelt.
 ba-0093; verhandeln; to negotiate; to bargain; B1; Business/Beschaffung/Lieferanten; We will negotiate the prices with three suppliers.; Wir werden die Preise mit drei Lieferanten verhandeln.
 ba-0094; Verhandlung; negotiation; ; B1; Business/Beschaffung/Lieferanten; The negotiation about delivery times lasted two days.; Die Verhandlung über Lieferzeiten dauerte zwei Tage.
 ba-0095; Geschäftsbeziehung; business relationship; business relations; B2; Business/Beschaffung/Lieferanten; A long business relationship is built on trust.; Eine lange Geschäftsbeziehung baut auf Vertrauen auf.
-ba-0096; Bestellung; purchase order; order placement; B2; Business/Beschaffung/Bestellung & Lieferung; The purchase order was approved by the department head.; Die Bestellung wurde vom Abteilungsleiter freigegeben.
+ba-0096; Bestellung; purchase order; order placement, order; B2; Business/Beschaffung/Bestellung & Lieferung; The purchase order was approved by the department head.; Die Bestellung wurde vom Abteilungsleiter freigegeben.
 ba-0097; bestellen; to order; ; A1; Business/Beschaffung/Bestellung & Lieferung; We order new paper for the office every month.; Wir bestellen jeden Monat neues Papier für das Büro.
 ba-0098; kaufen; to buy; to purchase; A1; Business/Beschaffung/Bestellung & Lieferung; The company wants to buy twenty new laptops.; Die Firma möchte zwanzig neue Laptops kaufen.
-ba-0099; Einkauf; purchasing; purchasing department; B1; Business/Beschaffung/Bestellung & Lieferung; Purchasing checks every order above five thousand euros.; Der Einkauf prüft jede Bestellung über fünftausend Euro.
+ba-0099; Einkauf (Abteilung); purchasing; purchasing department; B1; Business/Beschaffung/Bestellung & Lieferung; Purchasing checks every order above five thousand euros.; Der Einkauf prüft jede Bestellung über fünftausend Euro.
 ba-0100; Beschaffung; procurement; sourcing; B2; Business/Beschaffung/Bestellung & Lieferung; Procurement of spare parts takes longer than planned.; Die Beschaffung von Ersatzteilen dauert länger als geplant.
 ba-0101; beschaffen; to procure; to source, to obtain; C1; Business/Beschaffung/Bestellung & Lieferung; We must procure special cables for the control room.; Wir müssen spezielle Kabel für den Kontrollraum beschaffen.
 ba-0102; Ware; goods; merchandise; A2; Business/Beschaffung/Bestellung & Lieferung; The goods arrived in perfect condition this morning.; Die Ware kam heute Morgen in einwandfreiem Zustand an.
@@ -126,9 +126,9 @@ ba-0124; Mängelrüge; notice of defects; defect notification; C1; Business/Besc
 ba-0125; Wareneingang; goods receipt; incoming goods; B2; Business/Beschaffung/Bestellung & Lieferung; Every goods receipt is recorded in the system.; Jeder Wareneingang wird im System erfasst.
 ba-0126; Lieferkette; supply chain; ; B2; Business/Beschaffung/Lieferkette; A stable supply chain needs more than one supplier.; Eine stabile Lieferkette braucht mehr als einen Lieferanten.
 ba-0127; Logistik; logistics; ; B1; Business/Beschaffung/Lieferkette; Logistics costs rose sharply because of fuel prices.; Die Logistikkosten stiegen wegen der Kraftstoffpreise stark an.
-ba-0128; Lager; warehouse; storehouse, depot; A2; Business/Beschaffung/Lieferkette; The warehouse near the airport stores all spare parts.; Das Lager nahe dem Flughafen bewahrt alle Ersatzteile auf.
-ba-0129; Lagerbestand; stock level; inventory level; B2; Business/Beschaffung/Lieferkette; The stock level is checked automatically every night.; Der Lagerbestand wird jede Nacht automatisch geprüft.
-ba-0130; Bestand; stock; inventory; B1; Business/Beschaffung/Lieferkette; Our stock of cables will last about two months.; Unser Bestand an Kabeln reicht etwa zwei Monate.
+ba-0128; Lager (Waren); warehouse; storehouse, depot; A2; Business/Beschaffung/Lieferkette; The warehouse near the airport stores all spare parts.; Das Lager nahe dem Flughafen bewahrt alle Ersatzteile auf.
+ba-0129; Lagerbestand; stock level; inventory level, inventory; B2; Business/Beschaffung/Lieferkette; The stock level is checked automatically every night.; Der Lagerbestand wird jede Nacht automatisch geprüft.
+ba-0130; Bestand (Lager); stock; inventory; B1; Business/Beschaffung/Lieferkette; Our stock of cables will last about two months.; Unser Bestand an Kabeln reicht etwa zwei Monate.
 ba-0131; Nachschub; replenishment; resupply; B2; Business/Beschaffung/Lieferkette; Replenishment is triggered when stock falls below the minimum.; Der Nachschub wird ausgelöst, wenn der Bestand unter das Minimum fällt.
 ba-0132; Engpass; bottleneck; ; C1; Business/Beschaffung/Lieferkette; The bottleneck in production was the old packaging machine.; Der Engpass in der Produktion war die alte Verpackungsmaschine.
 ba-0133; Lieferengpass; supply shortage; delivery bottleneck; C1; Business/Beschaffung/Lieferkette; The supply shortage of chips delayed many car deliveries.; Der Lieferengpass bei Chips verzögerte viele Autoauslieferungen.
@@ -146,6 +146,6 @@ ba-0144; Verlängerungsoption; extension option; renewal option; C1; Business/Be
 ba-0145; Abruf; call-off; call-off order; C2; Business/Beschaffung/Rahmenverträge; Each call-off under the framework agreement needs a form.; Jeder Abruf aus dem Rahmenvertrag benötigt ein Formular.
 ba-0146; Vertragsstrafe; contractual penalty; penalty clause; C1; Business/Beschaffung/Rahmenverträge; A contractual penalty applies for every week of delay.; Für jede Woche Verzögerung gilt eine Vertragsstrafe.
 ba-0147; Gewährleistung; warranty; statutory warranty; C1; Business/Beschaffung/Rahmenverträge; The warranty for the equipment runs for two years.; Die Gewährleistung für die Geräte läuft zwei Jahre.
-ba-0148; Garantie; guarantee; ; B1; Business/Beschaffung/Rahmenverträge; The manufacturer gives a five-year guarantee on the motor.; Der Hersteller gibt fünf Jahre Garantie auf den Motor.
+ba-0148; Garantie; guarantee; warranty; B1; Business/Beschaffung/Rahmenverträge; The manufacturer gives a five-year guarantee on the motor.; Der Hersteller gibt fünf Jahre Garantie auf den Motor.
 ba-0149; Haftung; liability; ; B2; Business/Beschaffung/Rahmenverträge; The liability of the supplier is limited in the contract.; Die Haftung des Lieferanten ist im Vertrag begrenzt.
 ba-0150; Vertragsbedingungen; contract terms; terms and conditions; B2; Business/Beschaffung/Rahmenverträge; Read the contract terms carefully before you sign anything.; Lesen Sie die Vertragsbedingungen genau, bevor Sie etwas unterschreiben.

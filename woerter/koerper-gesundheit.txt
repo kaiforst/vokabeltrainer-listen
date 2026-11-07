@@ -41,14 +41,14 @@ kg-0039; Bauchschmerzen; stomach ache; tummy ache; A2; Gesundheit/Symptome; The 
 kg-0040; Halsschmerzen; sore throat; ; A2; Gesundheit/Symptome; Warm tea helps against a sore throat.; Warmer Tee hilft gegen Halsschmerzen.
 kg-0041; Grippe; flu; influenza; A2; Gesundheit/Krankheiten; Many people get the flu in January.; Viele Menschen bekommen im Januar die Grippe.
 kg-0042; Medikament; medicine; medication, drug; A2; Gesundheit/Apotheke & Medikamente; This medicine helps quickly against the pain.; Dieses Medikament hilft schnell gegen die Schmerzen.
-kg-0043; Rezept; prescription; ; A2; Gesundheit/Apotheke & Medikamente; You need a prescription for these tablets.; Für diese Tabletten brauchen Sie ein Rezept.
+kg-0043; Rezept (Arzt); prescription; ; A2; Gesundheit/Apotheke & Medikamente; You need a prescription for these tablets.; Für diese Tabletten brauchen Sie ein Rezept.
 kg-0044; Termin; appointment; ; A2; Gesundheit/Beim Arzt; I made an appointment for Friday morning.; Ich habe einen Termin für Freitagmorgen gemacht.
 kg-0045; Krankenschwester; nurse; ; A2; Gesundheit/Krankenhaus; The nurse checks the patients every hour.; Die Krankenschwester sieht jede Stunde nach den Patienten.
 kg-0046; Patient; patient; ; A2; Gesundheit/Krankenhaus; The patient feels much better today.; Dem Patienten geht es heute viel besser.
 kg-0047; Wartezimmer; waiting room; ; A2; Gesundheit/Beim Arzt; The waiting room was full this morning.; Das Wartezimmer war heute Morgen voll.
 kg-0048; Spritze; injection; shot, jab; A2; Gesundheit/Beim Arzt; The injection only hurt for a second.; Die Spritze hat nur eine Sekunde wehgetan.
 kg-0049; Pflaster; plaster; band-aid; A2; Gesundheit/Apotheke & Medikamente; Put a plaster on the small cut.; Kleb ein Pflaster auf den kleinen Schnitt.
-kg-0050; Verband; bandage; dressing; A2; Gesundheit/Beim Arzt; The doctor changed the bandage on my hand.; Der Arzt wechselte den Verband an meiner Hand.
+kg-0050; Verband (Wunde); bandage; dressing; A2; Gesundheit/Beim Arzt; The doctor changed the bandage on my hand.; Der Arzt wechselte den Verband an meiner Hand.
 kg-0051; Salbe; ointment; cream; A2; Gesundheit/Apotheke & Medikamente; Use this ointment twice a day.; Benutzen Sie diese Salbe zweimal am Tag.
 kg-0052; Unfall; accident; ; A2; Gesundheit/Krankenhaus; After the accident he needed help quickly.; Nach dem Unfall brauchte er schnell Hilfe.
 kg-0053; Notruf; emergency call; ; A2; Gesundheit/Krankenhaus; She made an emergency call right away.; Sie setzte sofort einen Notruf ab.
@@ -92,7 +92,7 @@ kg-0090; schwitzen; to sweat; ; B1; Gesundheit/Symptome; He was sweating heavily
 kg-0091; impfen; to vaccinate; ; B1; Gesundheit/Beim Arzt; The doctor vaccinated the children against measles.; Der Arzt impfte die Kinder gegen Masern.
 kg-0092; Impfung; vaccination; jab; B1; Gesundheit/Beim Arzt; The vaccination protects you for many years.; Die Impfung schützt dich viele Jahre lang.
 kg-0093; Krankenversicherung; health insurance; ; B1; Gesundheit/Beim Arzt; In Germany everyone needs health insurance.; In Deutschland braucht jeder eine Krankenversicherung.
-kg-0094; Überweisung; referral; ; B1; Gesundheit/Beim Arzt; I need a referral to the specialist.; Ich brauche eine Überweisung zum Facharzt.
+kg-0094; Überweisung (zum Facharzt); referral; ; B1; Gesundheit/Beim Arzt; I need a referral to the specialist.; Ich brauche eine Überweisung zum Facharzt.
 kg-0095; Notaufnahme; emergency room; A&E; B1; Gesundheit/Krankenhaus; They drove straight to the emergency room.; Sie fuhren direkt in die Notaufnahme.
 kg-0096; Diagnose; diagnosis; ; B2; Gesundheit/Beim Arzt; The diagnosis came as a complete surprise.; Die Diagnose kam völlig überraschend.
 kg-0097; Behandlung; treatment; ; B2; Gesundheit/Beim Arzt; The treatment lasts about three months in total.; Die Behandlung dauert insgesamt etwa drei Monate.
@@ -143,7 +143,7 @@ kg-0141; Heilungsprozess; healing process; ; C1; Gesundheit/Krankenhaus; Rest an
 kg-0142; Rehabilitation; rehabilitation; rehab; C1; Gesundheit/Krankenhaus; After the operation she started rehabilitation immediately.; Nach der Operation begann sie sofort mit der Rehabilitation.
 kg-0143; Arzneimittel; pharmaceutical; medicinal product; C1; Gesundheit/Apotheke & Medikamente; Every new pharmaceutical is tested for years.; Jedes neue Arzneimittel wird jahrelang getestet.
 kg-0144; Anamnese; medical history; case history; C2; Gesundheit/Beim Arzt; The doctor took a detailed medical history first.; Der Arzt erhob zuerst eine ausführliche Anamnese.
-kg-0145; Prognose; prognosis; outlook; C2; Gesundheit/Krankenhaus; Despite the illness the prognosis is good.; Trotz der Krankheit ist die Prognose gut.
+kg-0145; Prognose (Medizin); prognosis; outlook; C2; Gesundheit/Krankenhaus; Despite the illness the prognosis is good.; Trotz der Krankheit ist die Prognose gut.
 kg-0146; bösartig; malignant; ; C2; Gesundheit/Krankheiten; Fortunately the tumour was not malignant.; Zum Glück war der Tumor nicht bösartig.
 kg-0147; gutartig; benign; ; C2; Gesundheit/Krankheiten; The growth turned out to be benign.; Die Geschwulst erwies sich als gutartig.
 kg-0148; Beipackzettel; package leaflet; patient information leaflet; C2; Gesundheit/Apotheke & Medikamente; Read the package leaflet before taking the medicine.; Lesen Sie vor der Einnahme den Beipackzettel.

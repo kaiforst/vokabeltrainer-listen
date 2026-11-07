@@ -171,7 +171,7 @@ ap-0168; Wartezeit; waiting time; wait time; A2; Business/Airport/Terminalbetrie
 ap-0169; Durchsatz; throughput; ; C1; Business/Airport/Terminalbetrieb; Each security lane has a throughput of 180 passengers per hour.; Jede Kontrollspur hat einen Durchsatz von 180 Passagieren pro Stunde.
 ap-0170; Personalplanung; staff planning; workforce planning, staff scheduling, rostering; B2; Business/Airport/Terminalbetrieb; Staff planning for the summer schedule starts in March.; Die Personalplanung für den Sommerflugplan beginnt im März.
 ap-0171; Dienstplan; roster; duty roster, rota, schedule; B2; Business/Airport/Terminalbetrieb; The roster for next week is on the notice board.; Der Dienstplan für nächste Woche hängt am schwarzen Brett.
-ap-0172; Schicht; shift; ; B1; Business/Airport/Terminalbetrieb; My shift starts at five in the morning.; Meine Schicht beginnt um fünf Uhr morgens.
+ap-0172; Schicht (Arbeit); shift; ; B1; Business/Airport/Terminalbetrieb; My shift starts at five in the morning.; Meine Schicht beginnt um fünf Uhr morgens.
 ap-0173; Betriebsleitzentrale; operations control centre; operations control center, operations centre, operations center; C1; Business/Airport/Terminalbetrieb; The operations control centre coordinates all flights and gates.; Die Betriebsleitzentrale koordiniert alle Flüge und Gates.
 ap-0174; Flugplan; flight schedule; timetable, schedule; A2; Business/Airport/Terminalbetrieb; The winter flight schedule starts at the end of October.; Der Winterflugplan beginnt Ende Oktober.
 ap-0175; Zeitnische; slot; time slot; B2; Business/Airport/Terminalbetrieb; The aircraft missed its slot and has to wait 40 minutes.; Das Flugzeug hat seine Zeitnische verpasst und muss 40 Minuten warten.
@@ -188,7 +188,7 @@ ap-0185; Notfallplan; contingency plan; emergency plan; C1; Business/Airport/Ter
 ap-0186; Barrierefreiheit; accessibility; ; B2; Business/Airport/Terminalbetrieb; Accessibility is a priority in the new terminal design.; Barrierefreiheit hat bei der Gestaltung des neuen Terminals Priorität.
 ap-0187; Beschilderung; signage; signs; B2; Business/Airport/Terminalbetrieb; The new signage makes it easier to find the gates.; Die neue Beschilderung macht es leichter, die Gates zu finden.
 ap-0188; Wegeleitsystem; wayfinding; wayfinding system; C1; Business/Airport/Terminalbetrieb; Good wayfinding reduces the number of passengers who miss their flight.; Ein gutes Wegeleitsystem verringert die Zahl der Passagiere, die ihren Flug verpassen.
-ap-0189; Laufband; moving walkway; travelator, travolator, moving sidewalk; B1; Business/Airport/Terminalbetrieb; Take the moving walkway to reach the B gates faster.; Nehmen Sie das Laufband, um die B-Gates schneller zu erreichen.
+ap-0189; Laufband (Flughafen); moving walkway; travelator, travolator, moving sidewalk; B1; Business/Airport/Terminalbetrieb; Take the moving walkway to reach the B gates faster.; Nehmen Sie das Laufband, um die B-Gates schneller zu erreichen.
 ap-0190; Rolltreppe; escalator; ; A2; Business/Airport/Terminalbetrieb; The escalator to the arrivals hall is out of service.; Die Rolltreppe zur Ankunftshalle ist außer Betrieb.
 ap-0191; Verspätung; delay; ; A1; Business/Airport/Unregelmäßigkeiten; We apologise for the delay of about 50 minutes.; Wir entschuldigen uns für die Verspätung von etwa 50 Minuten.
 ap-0192; verspätet; delayed; ; A1; Business/Airport/Unregelmäßigkeiten; Flight EW 240 is delayed due to weather conditions.; Flug EW 240 ist wegen der Wetterlage verspätet.

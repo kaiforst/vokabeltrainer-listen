@@ -3,13 +3,13 @@ wf-0001; Geld; money; ; A1; Wirtschaft/Finanzen/Geld & Zahlung; How much money d
 wf-0002; kaufen; to buy; to purchase; A1; Wirtschaft/Finanzen/Markt & Handel; We want to buy fresh bread today.; Wir wollen heute frisches Brot kaufen.
 wf-0003; verkaufen; to sell; ; A1; Wirtschaft/Finanzen/Markt & Handel; He wants to sell his old car.; Er will sein altes Auto verkaufen.
 wf-0004; bezahlen; to pay; ; A1; Wirtschaft/Finanzen/Geld & Zahlung; Can I pay with my card here?; Kann ich hier mit Karte bezahlen?
-wf-0005; Preis; price; ; A1; Wirtschaft/Finanzen/Markt & Handel; The price for coffee went up again.; Der Preis für Kaffee ist wieder gestiegen.
+wf-0005; Preis (Kosten); price; ; A1; Wirtschaft/Finanzen/Markt & Handel; The price for coffee went up again.; Der Preis für Kaffee ist wieder gestiegen.
 wf-0006; teuer; expensive; costly; A1; Wirtschaft/Finanzen/Markt & Handel; This hotel is too expensive for us.; Dieses Hotel ist zu teuer für uns.
 wf-0007; billig; cheap; inexpensive; A1; Wirtschaft/Finanzen/Markt & Handel; Vegetables are cheap at the market today.; Gemüse ist heute auf dem Markt billig.
-wf-0008; Geschäft; shop; store, business; A1; Wirtschaft/Finanzen/Markt & Handel; The shop opens at nine in the morning.; Das Geschäft öffnet um neun Uhr morgens.
+wf-0008; Geschäft (Laden); shop; store, business; A1; Wirtschaft/Finanzen/Markt & Handel; The shop opens at nine in the morning.; Das Geschäft öffnet um neun Uhr morgens.
 wf-0009; arbeiten; to work; ; A1; Wirtschaft/Finanzen/Arbeit & Einkommen; She works in a bank in Frankfurt.; Sie arbeitet in einer Bank in Frankfurt.
 wf-0010; Firma; company; firm; A1; Wirtschaft/Finanzen/Unternehmen; My company has offices in three cities.; Meine Firma hat Büros in drei Städten.
-wf-0011; Bank; bank; ; A2; Wirtschaft/Finanzen/Bank; The bank closes at four in the afternoon.; Die Bank schließt um vier Uhr nachmittags.
+wf-0011; Bank (Geldinstitut); bank; ; A2; Wirtschaft/Finanzen/Bank; The bank closes at four in the afternoon.; Die Bank schließt um vier Uhr nachmittags.
 wf-0012; Konto; account; bank account; A2; Wirtschaft/Finanzen/Bank; I opened an account for my daughter.; Ich habe ein Konto für meine Tochter eröffnet.
 wf-0013; sparen; to save; to save money; A2; Wirtschaft/Finanzen/Bank; We save money for a long vacation.; Wir sparen Geld für einen langen Urlaub.
 wf-0014; Kunde; customer; client; A2; Wirtschaft/Finanzen/Markt & Handel; The customer asked for a smaller size.; Der Kunde fragte nach einer kleineren Größe.
@@ -19,7 +19,7 @@ wf-0017; Markt; market; ; A2; Wirtschaft/Finanzen/Markt & Handel; The market for
 wf-0018; Angebot; offer; supply, deal; A2; Wirtschaft/Finanzen/Markt & Handel; The offer is valid until Friday only.; Das Angebot gilt nur bis Freitag.
 wf-0019; verdienen; to earn; to make money; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; She earns good money as an engineer.; Sie verdient als Ingenieurin gutes Geld.
 wf-0020; Gehalt; salary; ; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; The salary is paid at the end of the month.; Das Gehalt wird am Ende des Monats gezahlt.
-wf-0021; Lohn; wage; wages, pay; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; The wage is paid in cash every week.; Der Lohn wird jede Woche bar ausgezahlt.
+wf-0021; Lohn (Bezahlung); wage; wages, pay; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; The wage is paid in cash every week.; Der Lohn wird jede Woche bar ausgezahlt.
 wf-0022; Chef; boss; manager; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; My boss is on a business trip today.; Mein Chef ist heute auf Geschäftsreise.
 wf-0023; Mitarbeiter; employee; staff member; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; The company hired twenty new employees this spring.; Die Firma stellte in diesem Frühjahr zwanzig neue Mitarbeiter ein.
 wf-0024; Beruf; profession; job, occupation; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; Nursing is a demanding but important profession.; Pflege ist ein anstrengender, aber wichtiger Beruf.
@@ -40,25 +40,25 @@ wf-0038; gründen; to found; to establish, to set up; B1; Wirtschaft/Finanzen/Un
 wf-0039; Gewinn; profit; gain; B1; Wirtschaft/Finanzen/Unternehmen; The profit doubled within only two years.; Der Gewinn verdoppelte sich innerhalb von nur zwei Jahren.
 wf-0040; Verlust; loss; ; B1; Wirtschaft/Finanzen/Unternehmen; The airline reported a heavy loss this quarter.; Die Fluggesellschaft meldete in diesem Quartal einen hohen Verlust.
 wf-0041; Umsatz; turnover; sales; B1; Wirtschaft/Finanzen/Unternehmen; The turnover grew by ten percent last year.; Der Umsatz wuchs letztes Jahr um zehn Prozent.
-wf-0042; Kosten; costs; expenses; B1; Wirtschaft/Finanzen/Unternehmen; The costs for energy rose sharply again.; Die Kosten für Energie stiegen erneut stark.
+wf-0042; Kosten; costs; expenses, cost; B1; Wirtschaft/Finanzen/Unternehmen; The costs for energy rose sharply again.; Die Kosten für Energie stiegen erneut stark.
 wf-0043; Einkommen; income; ; B1; Wirtschaft/Finanzen/Arbeit & Einkommen; Her income depends on the number of orders.; Ihr Einkommen hängt von der Zahl der Aufträge ab.
-wf-0044; Einnahmen; revenue; earnings, takings; B1; Wirtschaft/Finanzen/Unternehmen; The revenue of the museum comes mainly from tickets.; Die Einnahmen des Museums stammen hauptsächlich aus Eintrittskarten.
+wf-0044; Einnahmen; revenue; earnings, takings, income; B1; Wirtschaft/Finanzen/Unternehmen; The revenue of the museum comes mainly from tickets.; Die Einnahmen des Museums stammen hauptsächlich aus Eintrittskarten.
 wf-0045; Handel; trade; commerce; B1; Wirtschaft/Finanzen/Markt & Handel; Trade between the two countries is growing steadily.; Der Handel zwischen den beiden Ländern wächst stetig.
-wf-0046; handeln; to trade; to deal; B1; Wirtschaft/Finanzen/Markt & Handel; The firm trades in coffee and fine spices.; Die Firma handelt mit Kaffee und feinen Gewürzen.
+wf-0046; handeln (Handel treiben); to trade; to deal; B1; Wirtschaft/Finanzen/Markt & Handel; The firm trades in coffee and fine spices.; Die Firma handelt mit Kaffee und feinen Gewürzen.
 wf-0047; exportieren; to export; ; B1; Wirtschaft/Finanzen/Markt & Handel; Germany exports machines to the whole world.; Deutschland exportiert Maschinen in die ganze Welt.
 wf-0048; importieren; to import; ; B1; Wirtschaft/Finanzen/Markt & Handel; We import most of our fruit from Spain.; Wir importieren das meiste Obst aus Spanien.
 wf-0049; Lieferung; delivery; shipment, consignment; B1; Wirtschaft/Finanzen/Markt & Handel; The delivery arrived two days earlier than planned.; Die Lieferung kam zwei Tage früher als geplant.
 wf-0050; Ware; goods; merchandise; B1; Wirtschaft/Finanzen/Markt & Handel; The goods are checked before they leave the factory.; Die Ware wird geprüft, bevor sie das Werk verlässt.
-wf-0051; Lager; warehouse; stock, storage; B1; Wirtschaft/Finanzen/Markt & Handel; The warehouse is full before the holiday season.; Das Lager ist vor der Weihnachtszeit voll.
+wf-0051; Lager (Waren); warehouse; stock, storage; B1; Wirtschaft/Finanzen/Markt & Handel; The warehouse is full before the holiday season.; Das Lager ist vor der Weihnachtszeit voll.
 wf-0052; Nachfrage; demand; ; B1; Wirtschaft/Finanzen/Markt & Handel; The demand for heat pumps is rising quickly.; Die Nachfrage nach Wärmepumpen steigt schnell.
 wf-0053; Wettbewerb; competition; contest; B1; Wirtschaft/Finanzen/Markt & Handel; Strong competition keeps the prices very low.; Starker Wettbewerb hält die Preise sehr niedrig.
 wf-0054; Konkurrent; competitor; rival; B1; Wirtschaft/Finanzen/Markt & Handel; Our biggest competitor lowered its prices yesterday.; Unser größter Konkurrent senkte gestern seine Preise.
 wf-0055; Rabatt; discount; reduction; B1; Wirtschaft/Finanzen/Markt & Handel; Students get a discount of twenty percent.; Studenten bekommen einen Rabatt von zwanzig Prozent.
 wf-0056; Schulden; debt; debts; B1; Wirtschaft/Finanzen/Bank; He paid off his debt within three years.; Er zahlte seine Schulden innerhalb von drei Jahren ab.
-wf-0057; leihen; to lend; to borrow; B1; Wirtschaft/Finanzen/Bank; Can you lend me fifty euros until Friday?; Kannst du mir fünfzig Euro bis Freitag leihen?
+wf-0057; leihen (jemandem etwas); to lend; to borrow; B1; Wirtschaft/Finanzen/Bank; Can you lend me fifty euros until Friday?; Kannst du mir fünfzig Euro bis Freitag leihen?
 wf-0058; überweisen; to transfer money; to transfer, to remit; B1; Wirtschaft/Finanzen/Bank; I transferred the rent to the landlord today.; Ich habe die Miete heute an den Vermieter überwiesen.
-wf-0059; Überweisung; bank transfer; transfer, remittance; B1; Wirtschaft/Finanzen/Bank; The bank transfer takes about one working day.; Die Überweisung dauert ungefähr einen Werktag.
-wf-0060; abheben; to withdraw; ; B1; Wirtschaft/Finanzen/Bank; She withdrew two hundred euros for the trip.; Sie hob zweihundert Euro für die Reise ab.
+wf-0059; Überweisung (Bank); bank transfer; transfer, remittance; B1; Wirtschaft/Finanzen/Bank; The bank transfer takes about one working day.; Die Überweisung dauert ungefähr einen Werktag.
+wf-0060; abheben (Geld); to withdraw; ; B1; Wirtschaft/Finanzen/Bank; She withdrew two hundred euros for the trip.; Sie hob zweihundert Euro für die Reise ab.
 wf-0061; einzahlen; to deposit; to pay in; B1; Wirtschaft/Finanzen/Bank; He deposits a small amount every single month.; Er zahlt jeden einzelnen Monat einen kleinen Betrag ein.
 wf-0062; Aktie; share; stock; B1; Wirtschaft/Finanzen/Investieren & Börse; The share lost five percent of its value.; Die Aktie verlor fünf Prozent ihres Wertes.
 wf-0063; Börse; stock exchange; stock market; B1; Wirtschaft/Finanzen/Investieren & Börse; The stock exchange reacted calmly to the news.; Die Börse reagierte gelassen auf die Nachrichten.
@@ -102,7 +102,7 @@ wf-0100; Einkommensteuer; income tax; ; B2; Wirtschaft/Finanzen/Steuern; The inc
 wf-0101; Steuererklärung; tax return; tax declaration; B2; Wirtschaft/Finanzen/Steuern; I submit my tax return online every spring.; Ich reiche meine Steuererklärung jedes Frühjahr online ein.
 wf-0102; Steuerberater; tax advisor; tax consultant; B2; Wirtschaft/Finanzen/Steuern; My tax advisor found several deductions for me.; Mein Steuerberater fand mehrere Abzugsmöglichkeiten für mich.
 wf-0103; Finanzamt; tax office; ; B2; Wirtschaft/Finanzen/Steuern; The tax office sent a reminder in October.; Das Finanzamt schickte im Oktober eine Mahnung.
-wf-0104; absetzen; to deduct; to write off; B2; Wirtschaft/Finanzen/Steuern; You can deduct travel costs from your taxes.; Du kannst Fahrtkosten von der Steuer absetzen.
+wf-0104; absetzen (steuerlich); to deduct; to write off; B2; Wirtschaft/Finanzen/Steuern; You can deduct travel costs from your taxes.; Du kannst Fahrtkosten von der Steuer absetzen.
 wf-0105; Buchhaltung; accounting; bookkeeping; B2; Wirtschaft/Finanzen/Unternehmen; Clean accounting saves trouble with the tax office.; Eine saubere Buchhaltung erspart Ärger mit dem Finanzamt.
 wf-0106; Bilanz; balance sheet; ; B2; Wirtschaft/Finanzen/Unternehmen; The balance sheet shows all assets and liabilities.; Die Bilanz zeigt alle Vermögenswerte und Verbindlichkeiten.
 wf-0107; Hypothek; mortgage; ; B2; Wirtschaft/Finanzen/Bank; They took out a mortgage on the house.; Sie nahmen eine Hypothek auf das Haus auf.

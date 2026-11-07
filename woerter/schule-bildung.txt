@@ -14,18 +14,18 @@ sb-0012; lesen; to read; ; A1; Bildung/Lernen; I like to read books in the eveni
 sb-0013; schreiben; to write; ; A1; Bildung/Lernen; The pupils write a short text about their family.; Die Schüler schreiben einen kurzen Text über ihre Familie.
 sb-0014; rechnen; to calculate; to do sums; A1; Bildung/Lernen; The children calculate with small numbers first.; Die Kinder rechnen zuerst mit kleinen Zahlen.
 sb-0015; fragen; to ask; ; A1; Bildung/Schule/Unterricht; You can always ask if something is unclear.; Du kannst immer fragen, wenn etwas unklar ist.
-sb-0016; antworten; to answer; to reply; A1; Bildung/Schule/Unterricht; Think first, then answer in full sentences.; Denk zuerst nach und antworte dann in ganzen Sätzen.
+sb-0016; antworten; to answer; to reply, to respond; A1; Bildung/Schule/Unterricht; Think first, then answer in full sentences.; Denk zuerst nach und antworte dann in ganzen Sätzen.
 sb-0017; Frage; question; ; A1; Bildung/Schule/Unterricht; I have a question about the homework.; Ich habe eine Frage zu den Hausaufgaben.
-sb-0018; Antwort; answer; ; A1; Bildung/Schule/Unterricht; The right answer is on the next page.; Die richtige Antwort steht auf der nächsten Seite.
+sb-0018; Antwort; answer; reply, response; A1; Bildung/Schule/Unterricht; The right answer is on the next page.; Die richtige Antwort steht auf der nächsten Seite.
 sb-0019; Hausaufgaben; homework; ; A1; Bildung/Schule/Unterricht; I do my homework after lunch.; Ich mache meine Hausaufgaben nach dem Mittagessen.
 sb-0020; Pause; break; recess; A1; Bildung/Schule/Unterricht; We play football during the big break.; In der großen Pause spielen wir Fußball.
 sb-0021; Mathematik; maths; mathematics, math; A1; Bildung/Schule/Fächer; We have maths on Monday and Thursday.; Montags und donnerstags haben wir Mathematik.
 sb-0022; Englisch; English; ; A1; Bildung/Schule/Fächer; In English we sing songs and play games.; In Englisch singen wir Lieder und spielen Spiele.
 sb-0023; Deutsch; German; ; A1; Bildung/Schule/Fächer; In German we are reading a short novel.; In Deutsch lesen wir gerade einen kurzen Roman.
-sb-0024; Sport; physical education; PE, sports; A1; Bildung/Schule/Fächer; We play basketball in physical education today.; Im Sport spielen wir heute Basketball.
+sb-0024; Sport (Schulfach); physical education; PE, sports; A1; Bildung/Schule/Fächer; We play basketball in physical education today.; Im Sport spielen wir heute Basketball.
 sb-0025; Musik; music; ; A1; Bildung/Schule/Fächer; In music we are learning a new song.; In Musik lernen wir ein neues Lied.
 sb-0026; Kunst; art; ; A2; Bildung/Schule/Fächer; In art we paint with watercolours.; In Kunst malen wir mit Wasserfarben.
-sb-0027; Geschichte; history; ; A2; Bildung/Schule/Fächer; In history we are learning about ancient Rome.; In Geschichte lernen wir gerade etwas über das alte Rom.
+sb-0027; Geschichte (Vergangenheit); history; ; A2; Bildung/Schule/Fächer; In history we are learning about ancient Rome.; In Geschichte lernen wir gerade etwas über das alte Rom.
 sb-0028; Erdkunde; geography; ; A2; Bildung/Schule/Fächer; In geography we draw maps of Europe.; In Erdkunde zeichnen wir Karten von Europa.
 sb-0029; Biologie; biology; ; A2; Bildung/Schule/Fächer; In biology we study plants and animals.; In Biologie untersuchen wir Pflanzen und Tiere.
 sb-0030; Chemie; chemistry; ; A2; Bildung/Schule/Fächer; We do exciting experiments in chemistry.; In Chemie machen wir spannende Experimente.
@@ -34,11 +34,11 @@ sb-0032; Informatik; computer science; IT, computing; A2; Bildung/Schule/Fächer
 sb-0033; Fach; subject; school subject; A2; Bildung/Schule/Fächer; Which subject do you like best at school?; Welches Fach magst du in der Schule am liebsten?
 sb-0034; Stundenplan; timetable; schedule; A2; Bildung/Schule/Unterricht; The new timetable starts after the holidays.; Der neue Stundenplan beginnt nach den Ferien.
 sb-0035; Unterricht; lesson; lessons, instruction; A2; Bildung/Schule/Unterricht; The lesson begins at eight o'clock sharp.; Der Unterricht beginnt pünktlich um acht Uhr.
-sb-0036; Note; grade; mark; A2; Bildung/Schule/Prüfungen; She got a good grade in the test.; Sie hat eine gute Note im Test bekommen.
-sb-0037; Zeugnis; report card; school report; A2; Bildung/Schule/Prüfungen; He showed his parents his report card.; Er zeigte seinen Eltern sein Zeugnis.
+sb-0036; Note (Schule); grade; mark; A2; Bildung/Schule/Prüfungen; She got a good grade in the test.; Sie hat eine gute Note im Test bekommen.
+sb-0037; Zeugnis (Schule); report card; school report; A2; Bildung/Schule/Prüfungen; He showed his parents his report card.; Er zeigte seinen Eltern sein Zeugnis.
 sb-0038; Prüfung; exam; examination; A2; Bildung/Schule/Prüfungen; The exam takes place next Friday morning.; Die Prüfung findet nächsten Freitagmorgen statt.
 sb-0039; Test; test; quiz; A2; Bildung/Schule/Prüfungen; We write a short test every two weeks.; Wir schreiben alle zwei Wochen einen kurzen Test.
-sb-0040; bestehen; to pass; ; A2; Bildung/Schule/Prüfungen; I am sure you will pass the exam.; Ich bin sicher, dass du die Prüfung bestehst.
+sb-0040; bestehen (Prüfung); to pass; ; A2; Bildung/Schule/Prüfungen; I am sure you will pass the exam.; Ich bin sicher, dass du die Prüfung bestehst.
 sb-0041; durchfallen; to fail; to flunk; A2; Bildung/Schule/Prüfungen; Nobody wants to fail the final test.; Niemand will beim letzten Test durchfallen.
 sb-0042; üben; to practise; to practice; A2; Bildung/Lernen; You should practise the new words every day.; Du solltest die neuen Wörter jeden Tag üben.
 sb-0043; wiederholen; to repeat; to revise, to review; A2; Bildung/Lernen; Let us repeat the grammar from last week.; Lass uns die Grammatik von letzter Woche wiederholen.
@@ -61,7 +61,7 @@ sb-0059; Grundschule; primary school; elementary school; A2; Bildung/Schule/Schu
 sb-0060; Ferien; holidays; vacation, school holidays; A2; Bildung/Schule/Unterricht; The holidays begin next week on Friday.; Die Ferien beginnen nächste Woche am Freitag.
 sb-0061; Gymnasium; grammar school; high school; B1; Bildung/Schule/Schulformen; She attends a grammar school in Frankfurt.; Sie besucht ein Gymnasium in Frankfurt.
 sb-0062; weiterführende Schule; secondary school; ; B1; Bildung/Schule/Schulformen; After year four the children choose a secondary school.; Nach der vierten Klasse wählen die Kinder eine weiterführende Schule.
-sb-0063; Abschluss; qualification; school-leaving qualification, degree; B1; Bildung/Schule/Prüfungen; A good qualification opens many doors later.; Ein guter Abschluss öffnet später viele Türen.
+sb-0063; Abschluss (Schule); qualification; school-leaving qualification, degree; B1; Bildung/Schule/Prüfungen; A good qualification opens many doors later.; Ein guter Abschluss öffnet später viele Türen.
 sb-0064; Abitur; A-levels; high school diploma, school-leaving exam; B1; Bildung/Schule/Prüfungen; He passed his A-levels with very good marks.; Er hat sein Abitur mit sehr guten Noten bestanden.
 sb-0065; Universität; university; ; B1; Bildung/Universität; She studies law at the university in Mainz.; Sie studiert Jura an der Universität in Mainz.
 sb-0066; Student; student; university student; B1; Bildung/Universität; As a student he lived in a small flat.; Als Student wohnte er in einer kleinen Wohnung.
@@ -77,7 +77,7 @@ sb-0075; Dozent; lecturer; instructor; B1; Bildung/Universität; Our lecturer al
 sb-0076; Professor; professor; ; B1; Bildung/Universität; The professor has taught here for twenty years.; Der Professor lehrt hier seit zwanzig Jahren.
 sb-0077; Klausur; written exam; exam paper; B1; Bildung/Universität; The written exam lasts exactly ninety minutes.; Die Klausur dauert genau neunzig Minuten.
 sb-0078; mündliche Prüfung; oral exam; oral examination; B1; Bildung/Schule/Prüfungen; She was nervous before her oral exam.; Vor ihrer mündlichen Prüfung war sie nervös.
-sb-0079; Hausarbeit; term paper; essay, assignment; B1; Bildung/Universität; I have to write a term paper about Kafka.; Ich muss eine Hausarbeit über Kafka schreiben.
+sb-0079; Hausarbeit (Studium); term paper; essay, assignment; B1; Bildung/Universität; I have to write a term paper about Kafka.; Ich muss eine Hausarbeit über Kafka schreiben.
 sb-0080; Referat; presentation; talk; B1; Bildung/Schule/Unterricht; Tomorrow I will give a presentation about volcanoes.; Morgen halte ich ein Referat über Vulkane.
 sb-0081; Notizen; notes; ; B1; Bildung/Lernen; Good notes help you a lot before exams.; Gute Notizen helfen dir vor Prüfungen sehr.
 sb-0082; auswendig lernen; to memorise; to learn by heart, to memorize; B1; Bildung/Lernen; We had to memorise a poem for Monday.; Wir mussten für Montag ein Gedicht auswendig lernen.
@@ -98,7 +98,7 @@ sb-0096; Ausbildung; apprenticeship; vocational training, training; B2; Bildung/
 sb-0097; Schulpflicht; compulsory education; compulsory schooling; B2; Bildung/Bildungspolitik; In Germany compulsory education starts at the age of six.; In Deutschland beginnt die Schulpflicht mit sechs Jahren.
 sb-0098; Lehrplan; curriculum; syllabus; B2; Bildung/Schule/Unterricht; The new curriculum puts more weight on digital skills.; Der neue Lehrplan legt mehr Gewicht auf digitale Kompetenzen.
 sb-0099; Leistung; performance; achievement; B2; Bildung/Schule/Prüfungen; Her performance improved clearly in the second half.; Ihre Leistung verbesserte sich in der zweiten Jahreshälfte deutlich.
-sb-0100; Bewertung; assessment; evaluation, grading; B2; Bildung/Schule/Prüfungen; The assessment of oral work is often difficult.; Die Bewertung mündlicher Leistungen ist oft schwierig.
+sb-0100; Bewertung (Schule); assessment; evaluation, grading; B2; Bildung/Schule/Prüfungen; The assessment of oral work is often difficult.; Die Bewertung mündlicher Leistungen ist oft schwierig.
 sb-0101; Abschlussprüfung; final exam; final examination, finals; B2; Bildung/Schule/Prüfungen; The final exam covers the material of two years.; Die Abschlussprüfung umfasst den Stoff von zwei Jahren.
 sb-0102; Bachelorarbeit; bachelor's thesis; ; B2; Bildung/Universität; He is writing his bachelor's thesis on renewable energy.; Er schreibt seine Bachelorarbeit über erneuerbare Energien.
 sb-0103; Masterarbeit; master's thesis; ; B2; Bildung/Universität; Her master's thesis was published as a short book.; Ihre Masterarbeit wurde als kleines Buch veröffentlicht.
@@ -116,12 +116,12 @@ sb-0114; Prüfungsordnung; examination regulations; ; B2; Bildung/Universität; 
 sb-0115; Leistungspunkt; credit point; credit, ECTS point; B2; Bildung/Universität; This seminar is worth five credit points.; Dieses Seminar bringt fünf Leistungspunkte.
 sb-0116; Pflichtfach; compulsory subject; mandatory subject; B2; Bildung/Universität; Statistics is a compulsory subject in this programme.; Statistik ist in diesem Studiengang ein Pflichtfach.
 sb-0117; Wahlfach; elective; optional subject, elective subject; B2; Bildung/Universität; She chose Spanish as an elective this semester.; Sie wählte dieses Semester Spanisch als Wahlfach.
-sb-0118; Weiterbildung; further education; continuing education, professional development; B2; Bildung/Lernen; The company pays for further education courses.; Die Firma bezahlt Kurse zur Weiterbildung.
+sb-0118; Weiterbildung; further education; continuing education, professional development, further training; B2; Bildung/Lernen; The company pays for further education courses.; Die Firma bezahlt Kurse zur Weiterbildung.
 sb-0119; Fernstudium; distance learning; distance education; B2; Bildung/Universität; Distance learning lets you study alongside your job.; Ein Fernstudium lässt dich neben dem Beruf studieren.
 sb-0120; Praktikum; internship; work placement; B2; Bildung/Universität; He did an internship at an engineering firm.; Er machte ein Praktikum in einem Ingenieurbüro.
 sb-0121; Bewerbung; application; ; B2; Bildung/Universität; Her application for the master's programme was successful.; Ihre Bewerbung für den Masterstudiengang war erfolgreich.
 sb-0122; Lebenslauf; CV; curriculum vitae, resume; B2; Bildung/Universität; Please attach your CV to the application.; Bitte füge der Bewerbung deinen Lebenslauf bei.
-sb-0123; Zulassung; admission; acceptance; B2; Bildung/Universität; She is still waiting for her admission to university.; Sie wartet noch auf ihre Zulassung zur Universität.
+sb-0123; Zulassung (Studium); admission; acceptance; B2; Bildung/Universität; She is still waiting for her admission to university.; Sie wartet noch auf ihre Zulassung zur Universität.
 sb-0124; Einschreibung; enrolment; enrollment, registration; B2; Bildung/Universität; The deadline for enrolment ends in mid-September.; Die Frist für die Einschreibung endet Mitte September.
 sb-0125; Abschlussfeier; graduation ceremony; graduation; B2; Bildung/Universität; The whole family came to her graduation ceremony.; Die ganze Familie kam zu ihrer Abschlussfeier.
 sb-0126; Chancengleichheit; equal opportunities; equality of opportunity; C1; Bildung/Bildungspolitik; Equal opportunities in education remain a distant goal.; Chancengleichheit in der Bildung bleibt ein fernes Ziel.

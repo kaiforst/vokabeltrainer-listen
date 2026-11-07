@@ -2,7 +2,7 @@ id; Deutsch; Englisch; Weitere Antworten; Niveau; Themen; Beispiel Englisch; Bei
 mv-0001; Produkt; product; ; A1; Business/Marketing & Vertrieb/Marke; Our new product is very popular.; Unser neues Produkt ist sehr beliebt.
 mv-0002; Markt; market; ; A1; Business/Marketing & Vertrieb/Marktforschung; The market for electric cars is growing fast.; Der Markt für Elektroautos wächst schnell.
 mv-0003; Kunde; customer; client; A1; Business/Marketing & Vertrieb/Kundenbindung; The customer is always our first priority.; Der Kunde hat für uns immer oberste Priorität.
-mv-0004; Geschäft; shop; store; A1; Business/Marketing & Vertrieb/Vertrieb & Akquise, Alltag/Einkaufen; The shop opens at nine in the morning.; Das Geschäft öffnet morgens um neun.
+mv-0004; Geschäft (Laden); shop; store; A1; Business/Marketing & Vertrieb/Vertrieb & Akquise, Alltag/Einkaufen; The shop opens at nine in the morning.; Das Geschäft öffnet morgens um neun.
 mv-0005; verkaufen; to sell; ; A1; Business/Marketing & Vertrieb/Vertrieb & Akquise; We sell our products online and in shops.; Wir verkaufen unsere Produkte online und im Geschäft.
 mv-0006; Werbung; advertising; ; A2; Business/Marketing & Vertrieb/Kampagne & Werbung; Good advertising tells a simple story.; Gute Werbung erzählt eine einfache Geschichte.
 mv-0007; Marke; brand; ; A2; Business/Marketing & Vertrieb/Marke; This brand is known all over the world.; Diese Marke ist auf der ganzen Welt bekannt.
@@ -11,8 +11,8 @@ mv-0009; Plakat; poster; ; A2; Business/Marketing & Vertrieb/Kampagne & Werbung;
 mv-0010; Prospekt; brochure; leaflet; A2; Business/Marketing & Vertrieb/Kampagne & Werbung; You will find all prices in the brochure.; Alle Preise finden Sie im Prospekt.
 mv-0011; Preisliste; price list; ; A2; Business/Marketing & Vertrieb/Preis; We will send you our current price list.; Wir schicken Ihnen unsere aktuelle Preisliste.
 mv-0012; Kundenservice; customer service; customer support; A2; Business/Marketing & Vertrieb/Kundenbindung; Our customer service answers within one day.; Unser Kundenservice antwortet innerhalb eines Tages.
-mv-0013; Verkäufer; salesperson; seller; A2; Business/Marketing & Vertrieb/Vertrieb & Akquise; The salesperson explained the product very well.; Der Verkäufer erklärte das Produkt sehr gut.
-mv-0014; Bestellung; order; ; A2; Business/Marketing & Vertrieb/Vertrieb & Akquise; Your order will arrive on Thursday.; Ihre Bestellung kommt am Donnerstag an.
+mv-0013; Verkäufer; salesperson; seller, shop assistant; A2; Business/Marketing & Vertrieb/Vertrieb & Akquise; The salesperson explained the product very well.; Der Verkäufer erklärte das Produkt sehr gut.
+mv-0014; Bestellung; order; purchase order; A2; Business/Marketing & Vertrieb/Vertrieb & Akquise; Your order will arrive on Thursday.; Ihre Bestellung kommt am Donnerstag an.
 mv-0015; bestellen; to order; ; A2; Business/Marketing & Vertrieb/Vertrieb & Akquise; You can order the product on our website.; Sie können das Produkt auf unserer Website bestellen.
 mv-0016; liefern; to deliver; ; A2; Business/Marketing & Vertrieb/Vertrieb & Akquise; We deliver within two working days.; Wir liefern innerhalb von zwei Werktagen.
 mv-0017; Qualität; quality; ; A2; Business/Marketing & Vertrieb/Marke; Our customers value the high quality.; Unsere Kunden schätzen die hohe Qualität.
@@ -20,7 +20,7 @@ mv-0018; günstig; cheap; inexpensive, affordable; A2; Business/Marketing & Vert
 mv-0019; teuer; expensive; ; A2; Business/Marketing & Vertrieb/Preis; The new model is more expensive than the old one.; Das neue Modell ist teurer als das alte.
 mv-0020; Katalog; catalog; catalogue; A2; Business/Marketing & Vertrieb/Kampagne & Werbung; The new catalog arrives in October.; Der neue Katalog erscheint im Oktober.
 mv-0021; Webseite; website; ; A2; Business/Marketing & Vertrieb/Online-Marketing; Our website shows all current offers.; Unsere Webseite zeigt alle aktuellen Angebote.
-mv-0022; Anzeige; advertisement; ad; A2; Business/Marketing & Vertrieb/Kampagne & Werbung; We placed an advertisement in the local newspaper.; Wir schalteten eine Anzeige in der Lokalzeitung.
+mv-0022; Anzeige (Werbung); advertisement; ad; A2; Business/Marketing & Vertrieb/Kampagne & Werbung; We placed an advertisement in the local newspaper.; Wir schalteten eine Anzeige in der Lokalzeitung.
 mv-0023; Logo; logo; ; A2; Business/Marketing & Vertrieb/Marke; Everyone recognizes the logo of this company.; Jeder erkennt das Logo dieser Firma.
 mv-0024; Slogan; slogan; ; A2; Business/Marketing & Vertrieb/Marke; A good slogan is short and easy to remember.; Ein guter Slogan ist kurz und leicht zu merken.
 mv-0025; Umfrage; survey; poll; A2; Business/Marketing & Vertrieb/Marktforschung; We did a survey among our customers.; Wir machten eine Umfrage unter unseren Kunden.
@@ -47,7 +47,7 @@ mv-0045; Newsletter; newsletter; ; B1; Business/Marketing & Vertrieb/Online-Mark
 mv-0046; Soziale Medien; social media; ; B1; Business/Marketing & Vertrieb/Online-Marketing; We reach young customers through social media.; Über soziale Medien erreichen wir junge Kunden.
 mv-0047; Online-Shop; online store; web shop; B1; Business/Marketing & Vertrieb/Online-Marketing; Our online store is open around the clock.; Unser Online-Shop ist rund um die Uhr geöffnet.
 mv-0048; Suchmaschine; search engine; ; B1; Business/Marketing & Vertrieb/Online-Marketing; Most customers find us through a search engine.; Die meisten Kunden finden uns über eine Suchmaschine.
-mv-0049; Muster; sample; ; B1; Business/Marketing & Vertrieb/Vertrieb & Akquise; We can send you a free sample.; Wir können Ihnen ein kostenloses Muster schicken.
+mv-0049; Muster (Warenprobe); sample; ; B1; Business/Marketing & Vertrieb/Vertrieb & Akquise; We can send you a free sample.; Wir können Ihnen ein kostenloses Muster schicken.
 mv-0050; Stammkunde; regular customer; ; B1; Business/Marketing & Vertrieb/Kundenbindung; Regular customers receive a special discount.; Stammkunden erhalten einen besonderen Rabatt.
 mv-0051; Neukunde; new customer; ; B1; Business/Marketing & Vertrieb/Vertrieb & Akquise; Every new customer gets a welcome gift.; Jeder Neukunde bekommt ein Willkommensgeschenk.
 mv-0052; Beschwerde; complaint; ; B1; Business/Marketing & Vertrieb/Kundenbindung; We take every complaint very seriously.; Wir nehmen jede Beschwerde sehr ernst.
@@ -59,9 +59,9 @@ mv-0057; Trend; trend; ; B1; Business/Marketing & Vertrieb/Marktforschung; We fo
 mv-0058; Statistik; statistics; ; B1; Business/Marketing & Vertrieb/Marktforschung; The statistics show a clear change in buying habits.; Die Statistik zeigt eine klare Veränderung im Kaufverhalten.
 mv-0059; Fragebogen; questionnaire; ; B1; Business/Marketing & Vertrieb/Marktforschung; Please fill in the questionnaire after your purchase.; Bitte füllen Sie nach dem Kauf den Fragebogen aus.
 mv-0060; Interview; interview; ; B1; Business/Marketing & Vertrieb/Marktforschung; We did interviews with fifty customers.; Wir führten Interviews mit fünfzig Kunden.
-mv-0061; Bewertung; rating; review; B1; Business/Marketing & Vertrieb/Online-Marketing; The product has an average rating of four stars.; Das Produkt hat eine durchschnittliche Bewertung von vier Sternen.
+mv-0061; Bewertung (von Kunden); rating; review; B1; Business/Marketing & Vertrieb/Online-Marketing; The product has an average rating of four stars.; Das Produkt hat eine durchschnittliche Bewertung von vier Sternen.
 mv-0062; Gutschein; voucher; coupon; B1; Business/Marketing & Vertrieb/Kundenbindung; Every participant receives a voucher for ten euros.; Jeder Teilnehmer erhält einen Gutschein über zehn Euro.
-mv-0063; Schlussverkauf; clearance sale; ; B1; Business/Marketing & Vertrieb/Preis; The clearance sale starts right after Christmas.; Der Schlussverkauf beginnt direkt nach Weihnachten.
+mv-0063; Schlussverkauf; clearance sale; sale; B1; Business/Marketing & Vertrieb/Preis; The clearance sale starts right after Christmas.; Der Schlussverkauf beginnt direkt nach Weihnachten.
 mv-0064; Verpackung; packaging; ; B1; Business/Marketing & Vertrieb/Marke; Attractive packaging can increase sales significantly.; Attraktive Verpackung kann den Verkauf deutlich steigern.
 mv-0065; Filiale; branch; ; B1; Business/Marketing & Vertrieb/Vertrieb & Akquise; We opened a new branch in Hamburg.; Wir eröffneten eine neue Filiale in Hamburg.
 mv-0066; Marketingstrategie; marketing strategy; ; B2; Business/Marketing & Vertrieb/Marke; Our marketing strategy focuses on young professionals.; Unsere Marketingstrategie konzentriert sich auf junge Berufstätige.
@@ -84,11 +84,11 @@ mv-0082; Kundenbindung; customer retention; customer loyalty; B2; Business/Marke
 mv-0083; Treueprogramm; loyalty program; ; B2; Business/Marketing & Vertrieb/Kundenbindung; Our loyalty program rewards frequent buyers with points.; Unser Treueprogramm belohnt Vielkäufer mit Punkten.
 mv-0084; Produkteinführung; product launch; ; B2; Business/Marketing & Vertrieb/Kampagne & Werbung; The product launch is planned for early March.; Die Produkteinführung ist für Anfang März geplant.
 mv-0085; Werbebudget; advertising budget; ; B2; Business/Marketing & Vertrieb/Kampagne & Werbung; We doubled the advertising budget for the launch.; Für den Start verdoppelten wir das Werbebudget.
-mv-0086; Reichweite; reach; coverage; B2; Business/Marketing & Vertrieb/Online-Marketing; Our posts achieved a much higher reach this month.; Unsere Beiträge erzielten diesen Monat eine viel höhere Reichweite.
+mv-0086; Reichweite (Medien); reach; coverage; B2; Business/Marketing & Vertrieb/Online-Marketing; Our posts achieved a much higher reach this month.; Unsere Beiträge erzielten diesen Monat eine viel höhere Reichweite.
 mv-0087; Öffentlichkeitsarbeit; public relations; PR; B2; Business/Marketing & Vertrieb/Kampagne & Werbung; Good public relations builds trust over time.; Gute Öffentlichkeitsarbeit schafft mit der Zeit Vertrauen.
 mv-0088; Pressemitteilung; press release; ; B2; Business/Marketing & Vertrieb/Kampagne & Werbung; We published a press release about the merger.; Wir veröffentlichten eine Pressemitteilung zur Fusion.
 mv-0089; Sponsoring; sponsorship; ; B2; Business/Marketing & Vertrieb/Kampagne & Werbung; The sponsorship of the local club pays off.; Das Sponsoring des örtlichen Vereins zahlt sich aus.
-mv-0090; Messe; trade fair; trade show; B2; Business/Marketing & Vertrieb/Vertrieb & Akquise; We present our new products at the trade fair.; Auf der Messe präsentieren wir unsere neuen Produkte.
+mv-0090; Messe (Ausstellung); trade fair; trade show; B2; Business/Marketing & Vertrieb/Vertrieb & Akquise; We present our new products at the trade fair.; Auf der Messe präsentieren wir unsere neuen Produkte.
 mv-0091; Werbegeschenk; promotional gift; giveaway; B2; Business/Marketing & Vertrieb/Kampagne & Werbung; Visitors loved the small promotional gifts at our stand.; Die Besucher liebten die kleinen Werbegeschenke an unserem Stand.
 mv-0092; Direktmarketing; direct marketing; ; B2; Business/Marketing & Vertrieb/Kampagne & Werbung; Direct marketing works well for existing customers.; Direktmarketing funktioniert gut bei Bestandskunden.
 mv-0093; Mundpropaganda; word of mouth; word-of-mouth advertising; B2; Business/Marketing & Vertrieb/Kundenbindung; Word of mouth brought us many new customers.; Mundpropaganda brachte uns viele neue Kunden.

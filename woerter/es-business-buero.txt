@@ -29,12 +29,12 @@ es-bb-0026; Team; el equipo; ; A2; Business/Büro/Projekte; Nuestro equipo se re
 es-bb-0027; Auftrag; el pedido; el encargo; A2; Business/Büro/Geschäftspartner; Hemos recibido un pedido grande de Francia.; Wir haben einen großen Auftrag aus Frankreich erhalten.
 es-bb-0028; Rechnung; la factura; ; A2; Business/Büro/Finanzen; Por favor, pague la factura en un plazo de dos semanas.; Bitte bezahlen Sie die Rechnung innerhalb von zwei Wochen.
 es-bb-0029; Angebot; la oferta; el presupuesto, la propuesta; A2; Business/Büro/Verhandlung; El viernes le enviamos nuestra oferta.; Wir schicken Ihnen unser Angebot am Freitag.
-es-bb-0030; Preis; el precio; ; A2; Business/Büro/Verhandlung; El precio incluye la entrega y el montaje.; Der Preis beinhaltet Lieferung und Montage.
+es-bb-0030; Preis (Kosten); el precio; ; A2; Business/Büro/Verhandlung; El precio incluye la entrega y el montaje.; Der Preis beinhaltet Lieferung und Montage.
 es-bb-0031; Vertrag; el contrato; ; A2; Business/Büro/Verhandlung; Hoy los dos socios firman el contrato.; Beide Partner unterschreiben heute den Vertrag.
 es-bb-0032; unterschreiben; firmar; ; A2; Business/Büro/Verhandlung; Por favor, firme el documento en la última página.; Bitte unterschreiben Sie das Dokument auf der letzten Seite.
 es-bb-0033; senden; enviar; mandar; A2; Business/Büro/E-Mail & Telefon; Le envío el archivo ahora mismo.; Ich sende Ihnen die Datei sofort.
 es-bb-0034; empfangen; recibir; ; A2; Business/Büro/E-Mail & Telefon; ¿Recibió mi mensaje de ayer?; Haben Sie meine Nachricht von gestern empfangen?
-es-bb-0035; Nachricht; el mensaje; el recado; A2; Business/Büro/E-Mail & Telefon; Por favor, deje un mensaje después de la señal.; Bitte hinterlassen Sie eine Nachricht nach dem Ton.
+es-bb-0035; Nachricht (Mitteilung); el mensaje; el recado; A2; Business/Büro/E-Mail & Telefon; Por favor, deje un mensaje después de la señal.; Bitte hinterlassen Sie eine Nachricht nach dem Ton.
 es-bb-0036; Anruf; la llamada; la llamada telefónica; A2; Business/Büro/E-Mail & Telefon; Espero una llamada importante de nuestro socio.; Ich erwarte einen wichtigen Anruf von unserem Partner.
 es-bb-0037; zurückrufen; devolver la llamada; volver a llamar; A2; Business/Büro/E-Mail & Telefon; ¿Podría devolver la llamada dentro de una hora, por favor?; Könnten Sie bitte in einer Stunde zurückrufen?
 es-bb-0038; Kopierer; la fotocopiadora; la copiadora; A2; Business/Büro/Ausstattung; La fotocopiadora de la segunda planta está estropeada.; Der Kopierer im zweiten Stock ist kaputt.
@@ -47,11 +47,11 @@ es-bb-0044; Ordner; la carpeta; el archivador, el clasificador; A2; Business/Bü
 es-bb-0045; Dokument; el documento; ; A2; Business/Büro/Projekte; Por favor, revise el documento antes de la reunión.; Bitte prüfen Sie das Dokument vor dem Meeting.
 es-bb-0046; Datei; el archivo; el fichero; A2; Business/Büro/E-Mail & Telefon; El archivo es demasiado grande para un correo electrónico.; Die Datei ist zu groß für eine E-Mail.
 es-bb-0047; Besucher; el visitante; la visitante, la visita; A2; Business/Büro/Geschäftspartner; Nuestros visitantes llegan a la recepción a las nueve.; Unsere Besucher kommen um neun am Empfang an.
-es-bb-0048; Geschäft; el negocio; ; A2; Business/Büro/Geschäftspartner; El negocio con el nuevo socio va bien.; Das Geschäft mit dem neuen Partner läuft gut.
+es-bb-0048; Geschäft (Handel); el negocio; ; A2; Business/Büro/Geschäftspartner; El negocio con el nuevo socio va bien.; Das Geschäft mit dem neuen Partner läuft gut.
 es-bb-0049; Lieferung; la entrega; el envío, el suministro; A2; Business/Büro/Geschäftspartner; La entrega llega el jueves como muy tarde.; Die Lieferung kommt spätestens am Donnerstag an.
 es-bb-0050; liefern; entregar; suministrar, enviar; A2; Business/Büro/Geschäftspartner; Entregamos la mercancía en un plazo de cinco días laborables.; Wir liefern die Ware innerhalb von fünf Werktagen.
 es-bb-0051; Tagesordnung; el orden del día; la agenda; B1; Business/Büro/Meetings; El primer punto del orden del día es el presupuesto.; Der erste Punkt auf der Tagesordnung ist das Budget.
-es-bb-0052; Protokoll; el acta; las actas; B1; Business/Büro/Meetings; ¿Quién va a redactar el acta de la reunión?; Wer schreibt das Protokoll der Besprechung?
+es-bb-0052; Protokoll (Sitzung); el acta; las actas; B1; Business/Büro/Meetings; ¿Quién va a redactar el acta de la reunión?; Wer schreibt das Protokoll der Besprechung?
 es-bb-0053; Teilnehmer; el participante; la participante, el asistente, la asistente; B1; Business/Büro/Meetings; Cada participante recibe la documentación por adelantado.; Jeder Teilnehmer erhält die Unterlagen im Voraus.
 es-bb-0054; teilnehmen; participar; asistir, tomar parte; B1; Business/Büro/Meetings; Doce compañeros participarán en el taller.; Zwölf Kollegen werden am Workshop teilnehmen.
 es-bb-0055; verschieben; aplazar; posponer, retrasar; B1; Business/Büro/Meetings; Tenemos que aplazar la reunión hasta el jueves.; Wir müssen das Meeting auf Donnerstag verschieben.
@@ -80,7 +80,7 @@ es-bb-0077; Filiale; la sucursal; la filial, la delegación; B1; Business/Büro/
 es-bb-0078; Zentrale; la sede central; la sede, la central, la oficina central; B1; Business/Büro/Geschäftspartner; La sede central de la empresa está en Zúrich.; Die Zentrale des Unternehmens ist in Zürich.
 es-bb-0079; Präsentation; la presentación; ; B1; Business/Büro/Präsentation; Su presentación sobre el nuevo producto fue excelente.; Ihre Präsentation über das neue Produkt war ausgezeichnet.
 es-bb-0080; präsentieren; presentar; ; B1; Business/Büro/Präsentation; Él presentará los resultados el miércoles.; Er präsentiert die Ergebnisse am Mittwoch.
-es-bb-0081; Folie; la diapositiva; la transparencia; B1; Business/Büro/Präsentation; La siguiente diapositiva muestra nuestras cifras de ventas.; Die nächste Folie zeigt unsere Verkaufszahlen.
+es-bb-0081; Folie (Präsentation); la diapositiva; la transparencia; B1; Business/Büro/Präsentation; La siguiente diapositiva muestra nuestras cifras de ventas.; Die nächste Folie zeigt unsere Verkaufszahlen.
 es-bb-0082; Diagramm; el gráfico; el diagrama; B1; Business/Büro/Präsentation; El gráfico compara los resultados de tres años.; Das Diagramm vergleicht die Ergebnisse von drei Jahren.
 es-bb-0083; Zusammenfassung; el resumen; ; B1; Business/Büro/Präsentation; Al final sigue un breve resumen.; Eine kurze Zusammenfassung folgt am Ende.
 es-bb-0084; zusammenfassen; resumir; ; B1; Business/Büro/Präsentation; Permítanme resumir los puntos más importantes.; Lassen Sie mich die wichtigsten Punkte zusammenfassen.
@@ -103,7 +103,7 @@ es-bb-0100; Umsetzung; la implementación; la puesta en práctica, la realizaci�
 es-bb-0101; Meilenstein; el hito; ; B2; Business/Büro/Projekte; La semana pasada alcanzamos un hito importante.; Wir haben letzte Woche einen wichtigen Meilenstein erreicht.
 es-bb-0102; Projektleiter; el jefe de proyecto; la jefa de proyecto, el director de proyecto, el project manager; B2; Business/Büro/Projekte; El jefe de proyecto coordina todos los equipos y plazos.; Der Projektleiter koordiniert alle Teams und Termine.
 es-bb-0103; zuständig; responsable; encargado, competente; B2; Business/Büro/Projekte; ¿Quién es responsable de los datos de clientes?; Wer ist für die Kundendaten zuständig?
-es-bb-0104; Abstimmung; la coordinación; ; B2; Business/Büro/Meetings; Una estrecha coordinación entre los departamentos ahorra tiempo.; Enge Abstimmung zwischen den Abteilungen spart Zeit.
+es-bb-0104; Abstimmung (Koordination); la coordinación; ; B2; Business/Büro/Meetings; Una estrecha coordinación entre los departamentos ahorra tiempo.; Enge Abstimmung zwischen den Abteilungen spart Zeit.
 es-bb-0105; Rücksprache; la consulta; ; B2; Business/Büro/Meetings; Por favor, no haga promesas sin consulta previa conmigo.; Bitte machen Sie keine Zusagen ohne Rücksprache mit mir.
 es-bb-0106; Entscheidung; la decisión; ; B2; Business/Büro/Meetings; La decisión definitiva se tomará el viernes.; Die endgültige Entscheidung fällt am Freitag.
 es-bb-0107; entscheiden; decidir; ; B2; Business/Büro/Meetings; Tenemos que decidir sobre la oferta esta semana.; Wir müssen diese Woche über das Angebot entscheiden.
@@ -119,12 +119,12 @@ es-bb-0116; Rabatt; el descuento; la rebaja; B2; Business/Büro/Verhandlung; Ofr
 es-bb-0117; Zahlungsbedingungen; las condiciones de pago; ; B2; Business/Büro/Finanzen; Las condiciones de pago permiten treinta días después de la entrega.; Die Zahlungsbedingungen erlauben dreißig Tage nach Lieferung.
 es-bb-0118; Mahnung; el recordatorio de pago; el requerimiento de pago, el aviso de pago; B2; Business/Büro/Finanzen; El cliente recibió un recordatorio de pago por la factura pendiente.; Der Kunde erhielt eine Mahnung für die offene Rechnung.
 es-bb-0119; überweisen; transferir; hacer una transferencia; B2; Business/Büro/Finanzen; Por favor, transfiera el importe a nuestra cuenta.; Bitte überweisen Sie den Betrag auf unser Konto.
-es-bb-0120; Überweisung; la transferencia; la transferencia bancaria; B2; Business/Büro/Finanzen; La transferencia llegó después de dos días.; Die Überweisung kam nach zwei Tagen an.
+es-bb-0120; Überweisung (Bank); la transferencia; la transferencia bancaria; B2; Business/Büro/Finanzen; La transferencia llegó después de dos días.; Die Überweisung kam nach zwei Tagen an.
 es-bb-0121; Spesen; los gastos; las dietas, los gastos de viaje; B2; Business/Büro/Finanzen; Después de cada viaje de negocios pasa sus gastos.; Er rechnet seine Spesen nach jeder Geschäftsreise ab.
 es-bb-0122; Geschäftsreise; el viaje de negocios; el viaje de trabajo; B2; Business/Büro/Geschäftspartner; Está de viaje de negocios en Viena.; Sie ist auf Geschäftsreise in Wien.
 es-bb-0123; Visitenkarte; la tarjeta de visita; la tarjeta; B2; Business/Büro/Geschäftspartner; En la feria me dio su tarjeta de visita.; Er gab mir auf der Messe seine Visitenkarte.
 es-bb-0124; Netzwerk; la red de contactos; la red; B2; Business/Büro/Geschäftspartner; Una buena red de contactos ayuda en proyectos difíciles.; Ein starkes Netzwerk hilft bei schwierigen Projekten.
-es-bb-0125; Messe; la feria; la feria comercial, la exposición; B2; Business/Büro/Geschäftspartner; Nuestra empresa presenta dos productos nuevos en la feria.; Unsere Firma präsentiert zwei neue Produkte auf der Messe.
+es-bb-0125; Messe (Ausstellung); la feria; la feria comercial, la exposición; B2; Business/Büro/Geschäftspartner; Nuestra empresa presenta dos productos nuevos en la feria.; Unsere Firma präsentiert zwei neue Produkte auf der Messe.
 es-bb-0126; Verhandlungsspielraum; el margen de negociación; el margen; C1; Business/Büro/Verhandlung; En el precio hay poco margen de negociación.; Beim Preis gibt es wenig Verhandlungsspielraum.
 es-bb-0127; Zugeständnis; la concesión; ; C1; Business/Büro/Verhandlung; Ambas partes hicieron una concesión para llegar a un acuerdo.; Beide Seiten machten ein Zugeständnis, um eine Einigung zu erreichen.
 es-bb-0128; Einwand; la objeción; el reparo; C1; Business/Büro/Verhandlung; Puso una objeción al apretado calendario.; Er erhob einen Einwand gegen den engen Zeitplan.

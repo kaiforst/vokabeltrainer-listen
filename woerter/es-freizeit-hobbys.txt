@@ -15,7 +15,7 @@ es-fh-0012; Foto; la foto; la fotografía; A1; Freizeit/Hobbys; Hace una foto de
 es-fh-0013; malen; pintar; ; A1; Freizeit/Basteln & Handwerk; Los niños pintan dibujos de colores para su abuela.; Die Kinder malen bunte Bilder für ihre Großmutter.
 es-fh-0014; schwimmen; nadar; ; A1; Freizeit/Hobbys, Freizeit/Sport/Sportarten; En verano nadamos en el lago.; Im Sommer schwimmen wir im See.
 es-fh-0015; Ball; la pelota; el balón; A1; Freizeit/Spiele; El perro me trae la pelota.; Der Hund bringt mir den Ball zurück.
-es-fh-0016; Karte; la carta; el naipe; A1; Freizeit/Spiele; Tiene la mejor carta en la mano.; Sie hält die beste Spielkarte in der Hand.
+es-fh-0016; Karte (Spielkarte); la carta; el naipe; A1; Freizeit/Spiele; Tiene la mejor carta en la mano.; Sie hält die beste Spielkarte in der Hand.
 es-fh-0017; Gitarre; la guitarra; ; A1; Freizeit/Musik; Mi hermano toca la guitarra todas las noches.; Mein Bruder spielt jeden Abend Gitarre.
 es-fh-0018; Kino; el cine; ; A1; Freizeit/Ausgehen; El viernes por la noche vamos al cine.; Wir gehen am Freitagabend ins Kino.
 es-fh-0019; Geburtstag; el cumpleaños; ; A1; Freizeit/Feste & Feiern; Este año su cumpleaños es en mayo.; Ihr Geburtstag ist dieses Jahr im Mai.
@@ -26,7 +26,7 @@ es-fh-0023; fernsehen; ver la tele; ver la televisión; A1; Freizeit/Hobbys; Por
 es-fh-0024; kochen; cocinar; hacer la comida; A1; Freizeit/Hobbys, Alltag/Essen/Kochen; Los domingos cocino para toda la familia.; Sonntags koche ich für die ganze Familie.
 es-fh-0025; Garten; el jardín; el huerto; A1; Freizeit/Hobbys; Trabaja en su jardín todos los fines de semana.; Sie arbeitet jedes Wochenende in ihrem Garten.
 es-fh-0026; Brettspiel; el juego de mesa; ; A2; Freizeit/Spiele; Los días de lluvia jugamos a un juego de mesa.; An Regentagen spielen wir ein Brettspiel.
-es-fh-0027; Würfel; el dado; los dados; A2; Freizeit/Spiele; Tira el dado y avanza tres casillas.; Wirf den Würfel und ziehe drei Felder vor.
+es-fh-0027; Würfel (Spiel); el dado; los dados; A2; Freizeit/Spiele; Tira el dado y avanza tres casillas.; Wirf den Würfel und ziehe drei Felder vor.
 es-fh-0028; gewinnen; ganar; ; A2; Freizeit/Spiele; Esta vez quiere ganar la partida.; Sie will das Spiel diesmal gewinnen.
 es-fh-0029; verlieren; perder; ; A2; Freizeit/Spiele; A nadie le gusta perder dos partidas seguidas.; Niemand verliert gern zwei Spiele hintereinander.
 es-fh-0030; Konzert; el concierto; ; A2; Freizeit/Musik; El concierto empieza a las ocho en el parque.; Das Konzert beginnt um acht im Park.
@@ -64,7 +64,7 @@ es-fh-0061; Schach; el ajedrez; ; B1; Freizeit/Spiele; Juega al ajedrez con su p
 es-fh-0062; Kartenspiel; el juego de cartas; ; B1; Freizeit/Spiele; Este juego de cartas es muy fácil de aprender.; Dieses Kartenspiel ist sehr leicht zu lernen.
 es-fh-0063; Wettbewerb; el concurso; la competición; B1; Freizeit/Spiele; Ganó el primer premio en el concurso de fotografía.; Sie gewann den ersten Preis beim Fotowettbewerb.
 es-fh-0064; Turnier; el torneo; ; B1; Freizeit/Spiele; El club organiza un torneo de ajedrez cada primavera.; Der Verein organisiert jedes Frühjahr ein Schachturnier.
-es-fh-0065; Preis; el premio; ; B1; Freizeit/Spiele; El premio para el ganador es un viaje de fin de semana.; Der Preis für den Sieger ist eine Wochenendreise.
+es-fh-0065; Preis (Gewinn); el premio; ; B1; Freizeit/Spiele; El premio para el ganador es un viaje de fin de semana.; Der Preis für den Sieger ist eine Wochenendreise.
 es-fh-0066; Bühne; el escenario; ; B1; Freizeit/Musik; El grupo salió al escenario a las nueve.; Die Band betrat um neun die Bühne.
 es-fh-0067; Auftritt; la actuación; ; B1; Freizeit/Musik; Su primera actuación llenó de orgullo a toda la familia.; Ihr erster Auftritt machte die ganze Familie stolz.
 es-fh-0068; Publikum; el público; ; B1; Freizeit/Musik; El público aplaudió casi diez minutos seguidos.; Das Publikum klatschte fast zehn ganze Minuten.
@@ -73,24 +73,24 @@ es-fh-0070; Veranstaltung; el evento; el acto; B1; Freizeit/Ausgehen; El evento 
 es-fh-0071; stattfinden; tener lugar; celebrarse; B1; Freizeit/Feste & Feiern; El festival tendrá lugar a finales de agosto.; Das Fest findet Ende August statt.
 es-fh-0072; Schlagzeug; la batería; ; B1; Freizeit/Musik; Toca la batería desde los doce años.; Er spielt Schlagzeug, seit er zwölf ist.
 es-fh-0073; Geige; el violín; ; B1; Freizeit/Musik; El violín es un instrumento difícil, pero precioso.; Die Geige ist ein schwieriges, aber schönes Instrument.
-es-fh-0074; Band; el grupo; la banda; B1; Freizeit/Musik; Su grupo toca en un garaje cerca de la estación.; Ihre Band spielt in einer Garage am Bahnhof.
+es-fh-0074; Band (Musikgruppe); el grupo; la banda; B1; Freizeit/Musik; Su grupo toca en un garaje cerca de la estación.; Ihre Band spielt in einer Garage am Bahnhof.
 es-fh-0075; proben; ensayar; ; B1; Freizeit/Musik; El grupo ensaya dos veces por semana para el espectáculo.; Die Gruppe probt zweimal pro Woche für die Show.
 es-fh-0076; Melodie; la melodía; ; B1; Freizeit/Musik; La melodía se me quedó en la cabeza durante días.; Die Melodie blieb mir tagelang im Kopf.
 es-fh-0077; Roman; la novela; ; B1; Freizeit/Lesen; Está escribiendo una novela sobre su abuela.; Sie schreibt einen Roman über ihre Großmutter.
 es-fh-0078; Krimi; la novela policíaca; la novela negra, la policíaca; B1; Freizeit/Lesen; Me terminé la novela policíaca en una noche.; Ich habe den Krimi in einer Nacht ausgelesen.
 es-fh-0079; Gedicht; el poema; la poesía; B1; Freizeit/Lesen; Le escribió un poema corto por su cumpleaños.; Er schrieb ein kurzes Gedicht zu ihrem Geburtstag.
 es-fh-0080; Lesezeichen; el marcapáginas; el separador, el punto de libro; B1; Freizeit/Lesen; Mi marcapáginas es una vieja postal de Roma.; Mein Lesezeichen ist eine alte Postkarte aus Rom.
-es-fh-0081; Handlung; la trama; el argumento; B1; Freizeit/Lesen; La trama del libro está llena de sorpresas.; Die Handlung des Buches ist voller Überraschungen.
+es-fh-0081; Handlung (Geschichte); la trama; el argumento; B1; Freizeit/Lesen; La trama del libro está llena de sorpresas.; Die Handlung des Buches ist voller Überraschungen.
 es-fh-0082; stricken; tejer; hacer punto; B1; Freizeit/Basteln & Handwerk; Mi tía teje calcetines calentitos para toda la familia.; Meine Tante strickt warme Socken für die ganze Familie.
 es-fh-0083; nähen; coser; ; B1; Freizeit/Basteln & Handwerk; Se cose sus propios vestidos con tela vieja.; Sie näht ihre eigenen Kleider aus altem Stoff.
 es-fh-0084; Werkstatt; el taller; ; B1; Freizeit/Basteln & Handwerk; Construye mesitas en su pequeño taller.; Er baut kleine Tische in seiner kleinen Werkstatt.
 es-fh-0085; Feuerwerk; los fuegos artificiales; ; B1; Freizeit/Feste & Feiern; Los fuegos artificiales sobre el río duraron veinte minutos.; Das Feuerwerk über dem Fluss dauerte zwanzig Minuten.
-es-fh-0086; Umzug; el desfile; la cabalgata, la procesión; B1; Freizeit/Feste & Feiern; El colorido desfile avanza despacio por el casco antiguo.; Der bunte Umzug zieht langsam durch die Altstadt.
+es-fh-0086; Umzug (Festzug); el desfile; la cabalgata, la procesión; B1; Freizeit/Feste & Feiern; El colorido desfile avanza despacio por el casco antiguo.; Der bunte Umzug zieht langsam durch die Altstadt.
 es-fh-0087; Kostüm; el disfraz; el traje; B1; Freizeit/Feste & Feiern; Su disfraz ganó un pequeño premio en la fiesta.; Ihr Kostüm gewann einen kleinen Preis auf der Party.
 es-fh-0088; Kneipe; el bar; la taberna; B1; Freizeit/Ausgehen; Quedamos en el bar de la esquina.; Wir treffen uns in der Kneipe um die Ecke.
 es-fh-0089; Zuschauer; el espectador; la espectadora; B1; Freizeit/Ausgehen; Cada espectador recibió una bebida gratis antes del espectáculo.; Jeder Zuschauer bekam vor der Show ein Freigetränk.
 es-fh-0090; unterhalten; entretener; divertir; B1; Freizeit/Ausgehen; El mago entretuvo a los niños durante una hora.; Der Zauberer unterhielt die Kinder eine Stunde lang.
-es-fh-0091; Unterhaltung; el entretenimiento; la diversión; B1; Freizeit/Ausgehen; El hotel ofrece entretenimiento para grandes y pequeños.; Das Hotel bietet Unterhaltung für Jung und Alt.
+es-fh-0091; Unterhaltung (Vergnügen); el entretenimiento; la diversión; B1; Freizeit/Ausgehen; El hotel ofrece entretenimiento para grandes y pequeños.; Das Hotel bietet Unterhaltung für Jung und Alt.
 es-fh-0092; Entspannung; la relajación; el descanso; B1; Freizeit/Hobbys; Para mi ocupada madre, la jardinería es pura relajación.; Gartenarbeit ist für meine beschäftigte Mutter pure Entspannung.
 es-fh-0093; entspannen; relajarse; descansar; B1; Freizeit/Hobbys; Después del trabajo se relaja con música suave.; Nach der Arbeit entspannt er bei leiser Musik.
 es-fh-0094; Billard; el billar; ; B1; Freizeit/Spiele; Juegan al billar en la sala del fondo.; Sie spielen dort im Hinterzimmer Billard.
@@ -109,7 +109,7 @@ es-fh-0106; Komponist; el compositor; la compositora; B2; Freizeit/Musik; El com
 es-fh-0107; komponieren; componer; ; B2; Freizeit/Musik; Compone piezas cortas para piano y violín.; Sie komponiert kurze Stücke für Klavier und Geige.
 es-fh-0108; Notenblatt; la partitura; ; B2; Freizeit/Musik; Perdió la partitura justo antes del concierto.; Er verlor sein Notenblatt direkt vor dem Konzert.
 es-fh-0109; Literatur; la literatura; ; B2; Freizeit/Lesen; Sabe mucho de literatura francesa moderna.; Sie weiß viel über moderne französische Literatur.
-es-fh-0110; Spannung; el suspense; la tensión, el suspenso; B2; Freizeit/Lesen; El autor construye el suspense despacio, pero con seguridad.; Der Autor baut die Spannung langsam, aber sicher auf.
+es-fh-0110; Spannung (Buch, Film); el suspense; la tensión, el suspenso; B2; Freizeit/Lesen; El autor construye el suspense despacio, pero con seguridad.; Der Autor baut die Spannung langsam, aber sicher auf.
 es-fh-0111; Nachtleben; la vida nocturna; ; B2; Freizeit/Ausgehen; La vida nocturna de este barrio nunca se detiene del todo.; Das Nachtleben in diesem Viertel hört nie wirklich auf.
 es-fh-0112; Stimmung; el ambiente; el humor; B2; Freizeit/Feste & Feiern; El ambiente de la fiesta era cálido y relajado.; Die Stimmung auf dem Fest war warm und entspannt.
 es-fh-0113; ausgelassen; eufórico; desenfrenado, animado; B2; Freizeit/Feste & Feiern; La multitud eufórica bailó hasta la madrugada.; Die ausgelassene Menge tanzte bis in den frühen Morgen.

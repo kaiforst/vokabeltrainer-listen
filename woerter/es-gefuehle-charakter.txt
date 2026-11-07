@@ -15,7 +15,7 @@ es-gc-0012; freundlich; amable; ; A1; Mensch/Gefühle/Charakter; El personal de 
 es-gc-0013; wütend; enfadado; enojado, furioso; A1; Mensch/Gefühle/Emotionen; Se pone muy enfadado cuando el autobús llega tarde.; Er wird wütend, wenn der Bus zu spät kommt.
 es-gc-0014; Spaß; la diversión; ; A1; Mensch/Gefühle/Stimmungen; Hoy ha sido un día de mucha diversión para los niños.; Die Kinder hatten heute viel Spaß.
 es-gc-0015; mögen; gustar; caer bien; A1; Mensch/Gefühle/Emotionen; Me gustan las personas que saben escuchar.; Ich mag Menschen, die gut zuhören können.
-es-gc-0016; Glück; la felicidad; la suerte; A1; Mensch/Gefühle/Emotionen; El dinero por sí solo no da la felicidad.; Geld allein bringt kein Glück.
+es-gc-0016; Glück (glücklich sein); la felicidad; la suerte; A1; Mensch/Gefühle/Emotionen; El dinero por sí solo no da la felicidad.; Geld allein bringt kein Glück.
 es-gc-0017; allein; solo; ; A1; Mensch/Gefühle/Stimmungen; A veces me gusta estar solo en casa.; Manchmal bin ich gern allein zu Hause.
 es-gc-0018; langweilig; aburrido; pesado, soso; A1; Mensch/Gefühle/Stimmungen; La película fue larga y muy aburrida.; Der Film war lang und sehr langweilig.
 es-gc-0019; lustig; divertido; gracioso; A1; Mensch/Gefühle/Charakter; Mi tío es divertido y cuenta chistes geniales.; Mein Onkel ist lustig und erzählt tolle Witze.
@@ -31,7 +31,7 @@ es-gc-0028; Hoffnung; la esperanza; ; A2; Mensch/Gefühle/Emotionen; Todavía ha
 es-gc-0029; Sorge; la preocupación; ; A2; Mensch/Gefühle/Emotionen; Su mayor preocupación es perder el trabajo.; Ihre größte Sorge ist, die Arbeit zu verlieren.
 es-gc-0030; sich freuen; alegrarse; ; A2; Mensch/Gefühle/Emotionen; Me alegro de cada pequeño éxito.; Ich freue mich über jeden kleinen Erfolg.
 es-gc-0031; nervös; nervioso; ; A2; Mensch/Gefühle/Stimmungen; Antes de un examen siempre está nervioso.; Vor einer Prüfung ist er immer nervös.
-es-gc-0032; sauer; mosqueado; molesto, enfadado; A2; Mensch/Gefühle/Emotionen; Está mosqueada porque él olvidó su cumpleaños.; Sie ist sauer, weil er ihren Geburtstag vergessen hat.
+es-gc-0032; sauer (verärgert); mosqueado; molesto, enfadado; A2; Mensch/Gefühle/Emotionen; Está mosqueada porque él olvidó su cumpleaños.; Sie ist sauer, weil er ihren Geburtstag vergessen hat.
 es-gc-0033; zufrieden; satisfecho; contento; A2; Mensch/Gefühle/Stimmungen; Estoy satisfecho con el resultado del examen.; Ich bin mit dem Ergebnis des Tests zufrieden.
 es-gc-0034; überrascht; sorprendido; ; A2; Mensch/Gefühle/Emotionen; La invitación repentina nos dejó sorprendidos.; Wir waren von der plötzlichen Einladung überrascht.
 es-gc-0035; Überraschung; la sorpresa; ; A2; Mensch/Gefühle/Emotionen; La fiesta fue una sorpresa total para ella.; Die Party war eine völlige Überraschung für sie.
@@ -51,7 +51,7 @@ es-gc-0048; ehrlich; sincero; honesto, honrado; A2; Mensch/Gefühle/Charakter; S
 es-gc-0049; lügen; mentir; ; A2; Mensch/Gefühle/Verhalten; Nunca deberías mentir a tus amigos.; Du solltest deine Freunde niemals anlügen.
 es-gc-0050; klug; listo; inteligente; A2; Mensch/Gefühle/Charakter; Es lista y aprende idiomas rápido.; Sie ist klug und lernt Sprachen schnell.
 es-gc-0051; dumm; tonto; estúpido; A2; Mensch/Gefühle/Charakter; Fue tonto salir sin chaqueta.; Es war dumm, ohne Jacke loszugehen.
-es-gc-0052; faul; vago; perezoso; A2; Mensch/Gefühle/Charakter; Los domingos todos somos un poco vagos.; Sonntags sind wir alle ein bisschen faul.
+es-gc-0052; faul (träge); vago; perezoso; A2; Mensch/Gefühle/Charakter; Los domingos todos somos un poco vagos.; Sonntags sind wir alle ein bisschen faul.
 es-gc-0053; fleißig; trabajador; aplicado, diligente; A2; Mensch/Gefühle/Charakter; El estudiante trabajador terminó el proyecto pronto.; Der fleißige Student beendete das Projekt früh.
 es-gc-0054; geduldig; paciente; ; A2; Mensch/Gefühle/Charakter; Un buen profesor es paciente con los principiantes.; Ein guter Lehrer ist geduldig mit Anfängern.
 es-gc-0055; ungeduldig; impaciente; ; A2; Mensch/Gefühle/Charakter; Se pone impaciente cuando tiene que esperar.; Er wird ungeduldig, wenn er warten muss.

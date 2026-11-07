@@ -6,7 +6,7 @@ es-kg-0003; Bein; la pierna; ; A1; Gesundheit/Körper; Su pierna izquierda todav
 es-kg-0004; Hand; la mano; ; A1; Gesundheit/Körper; Lávate las manos antes de cenar, por favor.; Bitte wasch dir vor dem Abendessen die Hände.
 es-kg-0005; Fuß; el pie; ; A1; Gesundheit/Körper; Me duele el pie derecho al andar.; Mein rechter Fuß tut beim Gehen weh.
 es-kg-0006; Auge; el ojo; ; A1; Gesundheit/Körper; Tiene el ojo izquierdo rojo y le pica.; Ihr linkes Auge ist rot und juckt.
-es-kg-0007; Ohr; la oreja; el oído; A1; Gesundheit/Körper; Al niño le duele una oreja.; Das Kind hat Schmerzen in einem Ohr.
+es-kg-0007; Ohr; la oreja; el oído; A1; Gesundheit/Körper; Mi hermano lleva un pendiente en la oreja izquierda.; Mein Bruder trägt einen Ohrring im linken Ohr.
 es-kg-0008; Nase; la nariz; ; A1; Gesundheit/Körper; Tengo la nariz tapada por el resfriado.; Meine Nase ist wegen der Erkältung verstopft.
 es-kg-0009; Mund; la boca; ; A1; Gesundheit/Körper; Abra la boca para el médico, por favor.; Bitte öffnen Sie den Mund für den Arzt.
 es-kg-0010; Zahn; el diente; la muela; A1; Gesundheit/Körper; Me duele un diente desde ayer.; Ein Zahn tut seit gestern weh.
@@ -42,14 +42,14 @@ es-kg-0039; Bauchschmerzen; el dolor de barriga; el dolor de tripa, el dolor de 
 es-kg-0040; Halsschmerzen; el dolor de garganta; ; A2; Gesundheit/Symptome; El té caliente ayuda contra el dolor de garganta.; Warmer Tee hilft gegen Halsschmerzen.
 es-kg-0041; Grippe; la gripe; la gripa; A2; Gesundheit/Krankheiten; Mucha gente coge la gripe en enero.; Viele Menschen bekommen im Januar die Grippe.
 es-kg-0042; Medikament; el medicamento; la medicina; A2; Gesundheit/Apotheke & Medikamente; Este medicamento alivia el dolor rápidamente.; Dieses Medikament hilft schnell gegen die Schmerzen.
-es-kg-0043; Rezept; la receta; ; A2; Gesundheit/Apotheke & Medikamente; Para estas pastillas necesita una receta.; Für diese Tabletten brauchen Sie ein Rezept.
+es-kg-0043; Rezept (Arzt); la receta; ; A2; Gesundheit/Apotheke & Medikamente; Para estas pastillas necesita una receta.; Für diese Tabletten brauchen Sie ein Rezept.
 es-kg-0044; Termin; la cita; ; A2; Gesundheit/Beim Arzt; He pedido cita para el viernes por la mañana.; Ich habe einen Termin für Freitagmorgen gemacht.
 es-kg-0045; Krankenschwester; la enfermera; el enfermero; A2; Gesundheit/Krankenhaus; La enfermera ve a los pacientes cada hora.; Die Krankenschwester sieht jede Stunde nach den Patienten.
 es-kg-0046; Patient; el paciente; la paciente; A2; Gesundheit/Krankenhaus; Hoy el paciente se encuentra mucho mejor.; Dem Patienten geht es heute viel besser.
 es-kg-0047; Wartezimmer; la sala de espera; ; A2; Gesundheit/Beim Arzt; Esta mañana la sala de espera estaba llena.; Das Wartezimmer war heute Morgen voll.
 es-kg-0048; Spritze; la inyección; el pinchazo; A2; Gesundheit/Beim Arzt; La inyección solo me dolió un segundo.; Die Spritze hat nur eine Sekunde wehgetan.
 es-kg-0049; Pflaster; la tirita; la curita; A2; Gesundheit/Apotheke & Medikamente; Ponte una tirita en el cortecito.; Kleb ein Pflaster auf den kleinen Schnitt.
-es-kg-0050; Verband; el vendaje; la venda; A2; Gesundheit/Beim Arzt; El médico me cambió el vendaje de la mano.; Der Arzt wechselte den Verband an meiner Hand.
+es-kg-0050; Verband (Wunde); el vendaje; la venda; A2; Gesundheit/Beim Arzt; El médico me cambió el vendaje de la mano.; Der Arzt wechselte den Verband an meiner Hand.
 es-kg-0051; Salbe; la pomada; la crema, el ungüento; A2; Gesundheit/Apotheke & Medikamente; Use esta pomada dos veces al día.; Benutzen Sie diese Salbe zweimal am Tag.
 es-kg-0052; Unfall; el accidente; ; A2; Gesundheit/Krankenhaus; Después del accidente necesitó ayuda rápidamente.; Nach dem Unfall brauchte er schnell Hilfe.
 es-kg-0053; Notruf; la llamada de emergencia; el número de emergencias; A2; Gesundheit/Krankenhaus; Hizo una llamada de emergencia enseguida.; Sie setzte sofort einen Notruf ab.
@@ -93,7 +93,7 @@ es-kg-0090; schwitzen; sudar; ; B1; Gesundheit/Symptome; Sudaba mucho por la fie
 es-kg-0091; impfen; vacunar; ; B1; Gesundheit/Beim Arzt; El médico vacunó a los niños contra el sarampión.; Der Arzt impfte die Kinder gegen Masern.
 es-kg-0092; Impfung; la vacuna; la vacunación; B1; Gesundheit/Beim Arzt; La vacuna te protege durante muchos años.; Die Impfung schützt dich viele Jahre lang.
 es-kg-0093; Krankenversicherung; el seguro médico; el seguro de salud; B1; Gesundheit/Beim Arzt; En Alemania todo el mundo necesita un seguro médico.; In Deutschland braucht jeder eine Krankenversicherung.
-es-kg-0094; Überweisung; el volante; la derivación, la remisión; B1; Gesundheit/Beim Arzt; Necesito un volante para el especialista.; Ich brauche eine Überweisung zum Facharzt.
+es-kg-0094; Überweisung (zum Facharzt); el volante; la derivación, la remisión; B1; Gesundheit/Beim Arzt; Necesito un volante para el especialista.; Ich brauche eine Überweisung zum Facharzt.
 es-kg-0095; Notaufnahme; la sala de urgencias; urgencias, las urgencias; B1; Gesundheit/Krankenhaus; Fueron directamente a la sala de urgencias.; Sie fuhren direkt in die Notaufnahme.
 es-kg-0096; Diagnose; el diagnóstico; ; B2; Gesundheit/Beim Arzt; El diagnóstico fue una sorpresa total.; Die Diagnose kam völlig überraschend.
 es-kg-0097; Behandlung; el tratamiento; ; B2; Gesundheit/Beim Arzt; El tratamiento dura unos tres meses en total.; Die Behandlung dauert insgesamt etwa drei Monate.
@@ -144,7 +144,7 @@ es-kg-0141; Heilungsprozess; el proceso de curación; la cicatrización; C1; Ges
 es-kg-0142; Rehabilitation; la rehabilitación; ; C1; Gesundheit/Krankenhaus; Después de la operación empezó enseguida la rehabilitación.; Nach der Operation begann sie sofort mit der Rehabilitation.
 es-kg-0143; Arzneimittel; el fármaco; el medicamento; C1; Gesundheit/Apotheke & Medikamente; Cada nuevo fármaco se prueba durante años.; Jedes neue Arzneimittel wird jahrelang getestet.
 es-kg-0144; Anamnese; la anamnesis; el historial médico, la historia clínica; C2; Gesundheit/Beim Arzt; Primero el médico hizo una anamnesis detallada.; Der Arzt erhob zuerst eine ausführliche Anamnese.
-es-kg-0145; Prognose; el pronóstico; ; C2; Gesundheit/Krankenhaus; A pesar de la enfermedad, el pronóstico es bueno.; Trotz der Krankheit ist die Prognose gut.
+es-kg-0145; Prognose (Medizin); el pronóstico; ; C2; Gesundheit/Krankenhaus; A pesar de la enfermedad, el pronóstico es bueno.; Trotz der Krankheit ist die Prognose gut.
 es-kg-0146; bösartig; maligno; ; C2; Gesundheit/Krankheiten; Por suerte, el tumor no era maligno.; Zum Glück war der Tumor nicht bösartig.
 es-kg-0147; gutartig; benigno; ; C2; Gesundheit/Krankheiten; El bulto resultó ser benigno.; Die Geschwulst erwies sich als gutartig.
 es-kg-0148; Beipackzettel; el prospecto; ; C2; Gesundheit/Apotheke & Medikamente; Lea el prospecto antes de tomar el medicamento.; Lesen Sie vor der Einnahme den Beipackzettel.

@@ -5,7 +5,7 @@ es-wu-0002; Regen; la lluvia; ; A1; Natur/Umwelt/Wetter; Necesitamos más lluvia
 es-wu-0003; Schnee; la nieve; ; A1; Natur/Umwelt/Wetter; La nieve es blanca y está muy fría.; Der Schnee ist weiß und sehr kalt.
 es-wu-0004; Wind; el viento; ; A1; Natur/Umwelt/Wetter; Hoy el viento es muy fuerte.; Der Wind ist heute sehr stark.
 es-wu-0005; Wolke; la nube; ; A1; Natur/Umwelt/Wetter; Hay una nube grande encima de la casa.; Über dem Haus ist eine große Wolke.
-es-wu-0006; Himmel; el cielo; ; A1; Natur/Umwelt/Wetter; Esta mañana el cielo está azul.; Der Himmel ist heute Morgen blau.
+es-wu-0006; Himmel (Wetter, Sterne); el cielo; ; A1; Natur/Umwelt/Wetter; Esta mañana el cielo está azul.; Der Himmel ist heute Morgen blau.
 es-wu-0007; Wetter; el tiempo; el clima; A1; Natur/Umwelt/Wetter; Esta semana hace buen tiempo.; Das Wetter ist diese Woche schön.
 es-wu-0008; warm; cálido; templado; A1; Natur/Umwelt/Wetter; Hoy hace una tarde cálida en el jardín.; Es ist heute warm im Garten.
 es-wu-0009; kalt; frío; ; A1; Natur/Umwelt/Wetter; En enero hace mucho frío fuera.; Draußen ist es im Januar sehr kalt.
@@ -18,10 +18,10 @@ es-wu-0015; Baum; el árbol; ; A1; Natur/Umwelt/Natur; El viejo árbol está en 
 es-wu-0016; Blume; la flor; ; A1; Natur/Umwelt/Natur; Esta flor es roja y bonita.; Diese Blume ist rot und schön.
 es-wu-0017; Wasser; el agua; ; A1; Natur/Umwelt/Natur; El agua limpia es importante para todos.; Sauberes Wasser ist für alle wichtig.
 es-wu-0018; Luft; el aire; ; A1; Natur/Umwelt/Natur; El aire de la montaña es fresco.; Die Luft in den Bergen ist frisch.
-es-wu-0019; Eis; el hielo; ; A1; Natur/Umwelt/Wetter; En invierno hay hielo en el lago.; Im Winter ist Eis auf dem See.
+es-wu-0019; Eis (gefrorenes Wasser); el hielo; ; A1; Natur/Umwelt/Wetter; En invierno hay hielo en el lago.; Im Winter ist Eis auf dem See.
 es-wu-0020; regnen; llover; ; A1; Natur/Umwelt/Wetter; Creo que mañana por la tarde va a llover.; Ich glaube, morgen Nachmittag wird es regnen.
 es-wu-0021; schneien; nevar; ; A1; Natur/Umwelt/Wetter; Por la noche empezó a nevar.; In der Nacht begann es zu schneien.
-es-wu-0022; scheinen; brillar; lucir; A1; Natur/Umwelt/Wetter; El domingo el sol volverá a brillar.; Am Sonntag wird die Sonne wieder scheinen.
+es-wu-0022; scheinen (Sonne); brillar; lucir; A1; Natur/Umwelt/Wetter; El domingo el sol volverá a brillar.; Am Sonntag wird die Sonne wieder scheinen.
 es-wu-0023; Natur; la naturaleza; ; A1; Natur/Umwelt/Natur; Los fines de semana nos gusta pasear por la naturaleza.; Am Wochenende gehen wir gern in der Natur spazieren.
 es-wu-0024; Gras; la hierba; el césped, el pasto; A1; Natur/Umwelt/Natur; Después de la lluvia la hierba está verde.; Nach dem Regen ist das Gras grün.
 es-wu-0025; Müll; la basura; ; A1; Natur/Umwelt/Recycling; Por favor, tira la basura al contenedor.; Bitte wirf den Müll in die Tonne.

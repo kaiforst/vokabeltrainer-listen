@@ -15,7 +15,7 @@ es-al-0012; Treppe; la escalera; las escaleras; A2; Alltag/Zuhause/Räume; Sube 
 es-al-0013; Wand; la pared; ; A2; Alltag/Zuhause/Räume; Pintamos la pared de azul claro.; Wir haben die Wand hellblau gestrichen.
 es-al-0014; Flur; el pasillo; el recibidor, la entrada; B1; Alltag/Zuhause/Räume; Tus zapatos están en el pasillo, junto a la puerta.; Deine Schuhe stehen im Flur neben der Tür.
 es-al-0015; Dachboden; el desván; el ático, la buhardilla; B1; Alltag/Zuhause/Räume; Las cajas viejas están guardadas arriba en el desván.; Alte Kartons lagern oben auf dem Dachboden.
-es-al-0016; Decke; el techo; ; B1; Alltag/Zuhause/Räume; La lámpara cuelga del techo encima de la mesa.; Die Lampe hängt von der Decke über dem Tisch.
+es-al-0016; Decke (im Zimmer); el techo; ; B1; Alltag/Zuhause/Räume; La lámpara cuelga del techo encima de la mesa.; Die Lampe hängt von der Decke über dem Tisch.
 es-al-0017; Arbeitszimmer; el despacho; el estudio; B1; Alltag/Zuhause/Räume; Trabaja desde casa en su tranquilo despacho.; Er arbeitet zu Hause in seinem ruhigen Arbeitszimmer.
 es-al-0018; Abstellraum; el trastero; el cuarto trastero, la despensa; B2; Alltag/Zuhause/Räume; La aspiradora está en el trastero.; Der Staubsauger steht im Abstellraum.
 es-al-0019; Dachgeschoss; el ático; la buhardilla, el último piso; B2; Alltag/Zuhause/Räume; Convirtieron el ático en un piso luminoso.; Sie haben das Dachgeschoss in eine helle Wohnung umgebaut.
@@ -74,7 +74,7 @@ es-al-0071; Besen; la escoba; ; B1; Alltag/Zuhause/Haushalt; Barre la terraza co
 es-al-0072; Eimer; el cubo; el balde, la cubeta; B1; Alltag/Zuhause/Haushalt; Llena el cubo de agua caliente, por favor.; Füll den Eimer bitte mit warmem Wasser.
 es-al-0073; Staub; el polvo; ; B1; Alltag/Zuhause/Haushalt; Debajo de la cama hay mucho polvo.; Unter dem Bett liegt viel Staub.
 es-al-0074; Fleck; la mancha; ; B1; Alltag/Zuhause/Haushalt; Hay una mancha de café en el mantel.; Auf der Tischdecke ist ein Kaffeefleck.
-es-al-0075; Hausarbeit; las tareas domésticas; las tareas de la casa, los quehaceres; B1; Alltag/Zuhause/Haushalt; Nos repartimos las tareas domésticas de forma justa.; Wir teilen uns die Hausarbeit gerecht auf.
+es-al-0075; Hausarbeit (Haushalt); las tareas domésticas; las tareas de la casa, los quehaceres; B1; Alltag/Zuhause/Haushalt; Nos repartimos las tareas domésticas de forma justa.; Wir teilen uns die Hausarbeit gerecht auf.
 es-al-0076; Trockner; la secadora; ; B1; Alltag/Zuhause/Haushalt; Mete las toallas mojadas en la secadora.; Leg die nassen Handtücher in den Trockner.
 es-al-0077; Waschmittel; el detergente; el jabón para la ropa; B2; Alltag/Zuhause/Haushalt; Otra vez se nos ha acabado el detergente.; Das Waschmittel ist schon wieder alle.
 es-al-0078; Putzmittel; el producto de limpieza; el limpiador; B2; Alltag/Zuhause/Haushalt; Este producto de limpieza va muy bien para el cristal.; Dieses Putzmittel wirkt gut auf Glas.
@@ -88,12 +88,12 @@ es-al-0085; Mülltrennung; la separación de residuos; el reciclaje, la separaci
 es-al-0086; Schimmel; el moho; ; C1; Alltag/Zuhause/Haushalt; Encontramos moho detrás del armario del baño.; Wir haben hinter dem Badezimmerschrank Schimmel gefunden.
 es-al-0087; verstopft; atascado; obstruido, tapado; C1; Alltag/Zuhause/Haushalt; El desagüe de la ducha vuelve a estar atascado.; Der Abfluss in der Dusche ist wieder verstopft.
 es-al-0088; undicht; que gotea; con fugas, que pierde agua; C1; Alltag/Zuhause/Haushalt; Es un grifo viejo que gotea toda la noche.; Der alte Wasserhahn ist undicht und tropft die ganze Nacht.
-es-al-0089; Sicherung; el fusible; los plomos; C1; Alltag/Zuhause/Haushalt; Saltó el fusible cuando encendí el horno.; Die Sicherung flog raus, als ich den Backofen anmachte.
+es-al-0089; Sicherung (Strom); el fusible; los plomos; C1; Alltag/Zuhause/Haushalt; Saltó el fusible cuando encendí el horno.; Die Sicherung flog raus, als ich den Backofen anmachte.
 es-al-0090; entrümpeln; hacer limpieza; despejar, vaciar; C2; Alltag/Zuhause/Haushalt; Queremos hacer limpieza en el sótano este fin de semana.; Wir wollen am Wochenende den Keller entrümpeln.
 es-al-0091; Werkzeug; la herramienta; las herramientas; A2; Alltag/Zuhause/Werkzeug; Para este trabajo necesitas la herramienta adecuada.; Für diese Arbeit brauchst du das richtige Werkzeug.
 es-al-0092; Hammer; el martillo; ; A2; Alltag/Zuhause/Werkzeug; Clavó el clavo con el martillo.; Er schlug den Nagel mit dem Hammer ein.
 es-al-0093; reparieren; reparar; arreglar; B1; Alltag/Zuhause/Werkzeug; Mi padre sabe reparar casi todo él mismo.; Mein Vater kann fast alles selbst reparieren.
-es-al-0094; Leiter; la escalera de mano; la escalera; B1; Alltag/Zuhause/Werkzeug; Sujeta la escalera de mano mientras subo.; Halt die Leiter fest, während ich hinaufsteige.
+es-al-0094; Leiter (zum Steigen); la escalera de mano; la escalera; B1; Alltag/Zuhause/Werkzeug; Sujeta la escalera de mano mientras subo.; Halt die Leiter fest, während ich hinaufsteige.
 es-al-0095; Nagel; el clavo; ; B1; Alltag/Zuhause/Werkzeug; El cuadro cuelga de un pequeño clavo.; Das Bild hängt an einem kleinen Nagel.
 es-al-0096; Schraube; el tornillo; ; B1; Alltag/Zuhause/Werkzeug; Este tornillo está flojo y hay que apretarlo.; Diese Schraube ist locker und muss angezogen werden.
 es-al-0097; Schraubenzieher; el destornillador; el desarmador; B2; Alltag/Zuhause/Werkzeug; Pásame el destornillador pequeño, por favor.; Gib mir bitte den kleinen Schraubenzieher.
@@ -107,7 +107,7 @@ es-al-0104; Dübel; el taco; la espiga; C2; Alltag/Zuhause/Werkzeug; Sin taco, e
 es-al-0105; Garten; el jardín; el patio; A1; Alltag/Zuhause/Garten; Los niños están jugando en el jardín.; Die Kinder spielen im Garten.
 es-al-0106; Blume; la flor; ; A1; Alltag/Zuhause/Garten; Cogió una flor para su madre.; Sie pflückte eine Blume für ihre Mutter.
 es-al-0107; Baum; el árbol; ; A2; Alltag/Zuhause/Garten; En nuestro jardín hay un viejo manzano, un árbol precioso.; In unserem Garten steht ein alter Apfelbaum.
-es-al-0108; gießen; regar; ; A2; Alltag/Zuhause/Garten; Riega las plantas mientras estoy fuera, por favor.; Gieß bitte die Pflanzen, während ich weg bin.
+es-al-0108; gießen (Pflanzen); regar; ; A2; Alltag/Zuhause/Garten; Riega las plantas mientras estoy fuera, por favor.; Gieß bitte die Pflanzen, während ich weg bin.
 es-al-0109; Rasen; el césped; el pasto, la grama; B1; Alltag/Zuhause/Garten; Hay que cortar el césped cada dos semanas.; Der Rasen muss alle zwei Wochen gemäht werden.
 es-al-0110; Zaun; la valla; la cerca, el cercado; B1; Alltag/Zuhause/Garten; Una valla blanca rodea el jardín.; Ein weißer Zaun verläuft um den Garten.
 es-al-0111; Terrasse; la terraza; el patio; B1; Alltag/Zuhause/Garten; Tomamos café en la terraza al sol.; Wir tranken Kaffee auf der sonnigen Terrasse.
@@ -126,7 +126,7 @@ es-al-0123; Spaten; la pala; ; C1; Alltag/Zuhause/Garten; Cavar con la pala es u
 es-al-0124; Gartenschere; las tijeras de podar; la podadera; C1; Alltag/Zuhause/Garten; Cortó las rosas con sus tijeras de podar.; Sie schnitt die Rosen mit ihrer Gartenschere.
 es-al-0125; jäten; quitar las malas hierbas; desherbar, escardar, desyerbar; C2; Alltag/Zuhause/Garten; Me pasé toda la tarde quitando las malas hierbas de los parterres.; Ich habe den ganzen Nachmittag die Beete gejätet.
 es-al-0126; düngen; abonar; fertilizar; C2; Alltag/Zuhause/Garten; Deberías abonar las rosas dos veces al año.; Du solltest die Rosen zweimal im Jahr düngen.
-es-al-0127; aufstehen; levantarse; ; A1; Alltag/Zuhause/Tagesablauf; Me levanto todas las mañanas a las siete.; Ich stehe jeden Morgen um sieben auf.
+es-al-0127; aufstehen (morgens, aus dem Bett); levantarse; ; A1; Alltag/Zuhause/Tagesablauf; Me levanto todas las mañanas a las siete.; Ich stehe jeden Morgen um sieben auf.
 es-al-0128; frühstücken; desayunar; ; A1; Alltag/Zuhause/Tagesablauf; Los domingos desayunamos juntos.; Sonntags frühstücken wir zusammen.
 es-al-0129; kochen; cocinar; hacer la comida; A1; Alltag/Zuhause/Tagesablauf, Alltag/Essen/Kochen; Esta noche cocino pasta para la familia.; Heute Abend koche ich Nudeln für die Familie.
 es-al-0130; einkaufen; ir de compras; hacer la compra, comprar; A1; Alltag/Zuhause/Tagesablauf, Alltag/Einkaufen/Geschäfte; Los viernes vamos de compras al supermercado.; Freitags gehen wir im Supermarkt einkaufen.

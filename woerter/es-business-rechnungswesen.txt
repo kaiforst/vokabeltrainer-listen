@@ -2,7 +2,7 @@
 id; Deutsch; Spanisch; Weitere Antworten; Niveau; Themen; Beispiel Spanisch; Beispiel Deutsch
 es-rc-0001; Geld; el dinero; ; A1; Business/Rechnungswesen/Rechnung & Zahlung, Alltag/Einkaufen; La empresa necesita dinero para pagar sus facturas.; Das Unternehmen braucht Geld, um seine Rechnungen zu bezahlen.
 es-rc-0002; bezahlen; pagar; abonar; A1; Business/Rechnungswesen/Rechnung & Zahlung; Por favor, pague la factura antes de finales de mayo.; Bitte bezahlen Sie die Rechnung bis Ende Mai.
-es-rc-0003; Preis; el precio; ; A1; Business/Rechnungswesen/Rechnung & Zahlung, Alltag/Einkaufen; El precio del nuevo software es muy alto.; Der Preis der neuen Software ist sehr hoch.
+es-rc-0003; Preis (Kosten); el precio; ; A1; Business/Rechnungswesen/Rechnung & Zahlung, Alltag/Einkaufen; El precio del nuevo software es muy alto.; Der Preis der neuen Software ist sehr hoch.
 es-rc-0004; kaufen; comprar; adquirir; A1; Business/Rechnungswesen/Rechnung & Zahlung; Queremos comprar ordenadores nuevos para la oficina.; Wir wollen neue Computer für das Büro kaufen.
 es-rc-0005; Konto; la cuenta; la cuenta bancaria; A1; Business/Rechnungswesen/Buchhaltung; El dinero llegó a nuestra cuenta el lunes.; Das Geld kam am Montag auf unserem Konto an.
 es-rc-0006; Rechnung; la factura; ; A2; Business/Rechnungswesen/Rechnung & Zahlung; Enviamos la factura justo después de la entrega.; Wir senden die Rechnung direkt nach der Lieferung.
@@ -16,7 +16,7 @@ es-rc-0013; Kunde; el cliente; la clienta; A2; Business/Rechnungswesen/Rechnung 
 es-rc-0014; Lieferant; el proveedor; la proveedora; A2; Business/Rechnungswesen/Rechnung & Zahlung; Nuestro proveedor ofrece buenos precios y una entrega rápida.; Unser Lieferant bietet gute Preise und schnelle Lieferung.
 es-rc-0015; Zahlung; el pago; ; A2; Business/Rechnungswesen/Rechnung & Zahlung; Recibimos su pago la semana pasada, muchas gracias.; Wir haben Ihre Zahlung letzte Woche erhalten, vielen Dank.
 es-rc-0016; Bargeld; el dinero en efectivo; el efectivo, el metálico; A2; Business/Rechnungswesen/Rechnung & Zahlung; Muchas empresas ya no aceptan dinero en efectivo.; Viele Unternehmen akzeptieren kein Bargeld mehr.
-es-rc-0017; Überweisung; la transferencia; la transferencia bancaria; A2; Business/Rechnungswesen/Rechnung & Zahlung; Un pago por transferencia tarda uno o dos días.; Eine Zahlung per Überweisung dauert ein bis zwei Tage.
+es-rc-0017; Überweisung (Bank); la transferencia; la transferencia bancaria; A2; Business/Rechnungswesen/Rechnung & Zahlung; Un pago por transferencia tarda uno o dos días.; Eine Zahlung per Überweisung dauert ein bis zwei Tage.
 es-rc-0018; Kreditkarte; la tarjeta de crédito; ; A2; Business/Rechnungswesen/Rechnung & Zahlung; Puede pagar el hotel con su tarjeta de crédito.; Sie können das Hotel mit Ihrer Kreditkarte bezahlen.
 es-rc-0019; Rabatt; el descuento; la rebaja; A2; Business/Rechnungswesen/Rechnung & Zahlung; Hacemos un descuento en los pedidos grandes.; Wir geben einen Rabatt für große Bestellungen.
 es-rc-0020; Gewinn; el beneficio; la ganancia, las ganancias; A2; Business/Rechnungswesen/Bilanz & GuV; El beneficio aumentó un diez por ciento el año pasado.; Der Gewinn stieg im letzten Jahr um zehn Prozent.
@@ -67,7 +67,7 @@ es-rc-0064; Kosten senken; reducir costes; recortar costes, bajar los costes; B1
 es-rc-0065; in Rechnung stellen; facturar; cobrar; B1; Business/Rechnungswesen/Rechnung & Zahlung; Facturamos las horas adicionales a la tarifa habitual.; Wir stellen die zusätzlichen Stunden zum üblichen Satz in Rechnung.
 es-rc-0066; Gewinn- und Verlustrechnung; la cuenta de pérdidas y ganancias; la cuenta de resultados; B2; Business/Rechnungswesen/Bilanz & GuV; La cuenta de pérdidas y ganancias muestra los ingresos y los gastos.; Die Gewinn- und Verlustrechnung zeigt Erträge und Aufwendungen.
 es-rc-0067; Abschreibung; la amortización; la depreciación; B2; Business/Rechnungswesen/Bilanz & GuV; La amortización reduce el valor contable de nuestras máquinas.; Die Abschreibung mindert den Buchwert unserer Maschinen.
-es-rc-0068; abschreiben; amortizar; depreciar; B2; Business/Rechnungswesen/Buchhaltung; Amortizamos los nuevos vehículos en seis años.; Wir schreiben die neuen Fahrzeuge über sechs Jahre ab.
+es-rc-0068; abschreiben (Buchhaltung); amortizar; depreciar; B2; Business/Rechnungswesen/Buchhaltung; Amortizamos los nuevos vehículos en seis años.; Wir schreiben die neuen Fahrzeuge über sechs Jahre ab.
 es-rc-0069; Cashflow; el flujo de caja; el cash flow; B2; Business/Rechnungswesen/Controlling & Kennzahlen; Un flujo de caja sano mantiene la flexibilidad de la empresa.; Ein gesunder Cashflow hält das Unternehmen flexibel.
 es-rc-0070; Liquidität; la liquidez; ; B2; Business/Rechnungswesen/Controlling & Kennzahlen; La empresa mejoró su liquidez vendiendo existencias antiguas.; Das Unternehmen verbesserte seine Liquidität durch den Verkauf alter Bestände.
 es-rc-0071; Forderungen; las cuentas por cobrar; los derechos de cobro, los deudores, las cuentas a cobrar; B2; Business/Rechnungswesen/Bilanz & GuV; Nuestras cuentas por cobrar aumentaron porque muchos clientes pagan tarde.; Unsere Forderungen stiegen, weil viele Kunden spät zahlen.

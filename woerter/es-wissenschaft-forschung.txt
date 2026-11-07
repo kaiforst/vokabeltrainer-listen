@@ -25,14 +25,14 @@ es-wi-0022; Daten; los datos; ; B1; Wissenschaft/Forschung & Methode; Los sensor
 es-wi-0023; messen; medir; ; A2; Wissenschaft/Forschung & Methode; Medimos la temperatura tres veces al día.; Wir messen die Temperatur dreimal am Tag.
 es-wi-0024; Messgenauigkeit; la precisión de medida; la precisión de medición, la precisión; C2; Wissenschaft/Forschung & Methode; El nuevo instrumento duplica la precisión de medida del sistema.; Das neue Instrument verdoppelt die Messgenauigkeit des Systems.
 es-wi-0025; vergleichen; comparar; ; A2; Wissenschaft/Forschung & Methode; Los alumnos comparan los resultados de ambos grupos.; Die Schüler vergleichen die Ergebnisse beider Gruppen.
-es-wi-0026; Annahme; la suposición; el supuesto; B2; Wissenschaft/Forschung & Methode; El modelo se basa en una suposición sencilla.; Das Modell beruht auf einer einfachen Annahme.
+es-wi-0026; Annahme (Vermutung); la suposición; el supuesto; B2; Wissenschaft/Forschung & Methode; El modelo se basa en una suposición sencilla.; Das Modell beruht auf einer einfachen Annahme.
 es-wi-0027; Erkenntnis; el hallazgo; la conclusión, el conocimiento; C1; Wissenschaft/Forschung & Methode; El estudio condujo a un hallazgo sorprendente sobre el sueño.; Die Studie führte zu einer überraschenden Erkenntnis über den Schlaf.
 es-wi-0028; Gutachten; el dictamen; el informe pericial; C1; Wissenschaft/Forschung & Methode; El tribunal pidió un dictamen a la universidad.; Das Gericht forderte ein Gutachten der Universität an.
 es-wi-0029; Versuchsreihe; la serie de experimentos; la serie de ensayos; C1; Wissenschaft/Forschung & Methode; La larga serie de experimentos confirmó los primeros resultados.; Die lange Versuchsreihe bestätigte die ersten Ergebnisse.
 es-wi-0030; Grundlagenforschung; la investigación básica; la investigación fundamental; C2; Wissenschaft/Forschung & Methode; La investigación básica a menudo solo da frutos después de décadas.; Grundlagenforschung zahlt sich oft erst nach Jahrzehnten aus.
 es-wi-0031; Licht; la luz; ; A1; Wissenschaft/Physik; La luz es más rápida que cualquier otra cosa que conozcamos.; Licht ist schneller als alles andere, das wir kennen.
 es-wi-0032; Energie; la energía; ; A2; Wissenschaft/Physik; El sol nos da luz y energía.; Die Sonne gibt uns Licht und Energie.
-es-wi-0033; Kraft; la fuerza; ; B1; Wissenschaft/Physik; Una fuerza intensa atrae el imán hacia el metal.; Eine starke Kraft zieht den Magneten zum Metall.
+es-wi-0033; Kraft (Physik); la fuerza; ; B1; Wissenschaft/Physik; Una fuerza intensa atrae el imán hacia el metal.; Eine starke Kraft zieht den Magneten zum Metall.
 es-wi-0034; Geschwindigkeit; la velocidad; ; B2; Wissenschaft/Physik; El cohete alcanza una velocidad enorme en pocos minutos.; Die Rakete erreicht innerhalb von Minuten eine enorme Geschwindigkeit.
 es-wi-0035; Temperatur; la temperatura; ; A2; Wissenschaft/Physik; La temperatura del laboratorio tiene que mantenerse constante.; Die Temperatur im Labor muss konstant bleiben.
 es-wi-0036; Trägheit; la inercia; ; C2; Wissenschaft/Physik; Por su inercia, la bola pesada sigue rodando.; Wegen seiner Trägheit rollt der schwere Ball weiter.
@@ -49,7 +49,7 @@ es-wi-0046; Strahlung; la radiación; ; B2; Wissenschaft/Physik; El aparato mide
 es-wi-0047; Leitfähigkeit; la conductividad; ; C1; Wissenschaft/Physik; El cobre es conocido por su excelente conductividad eléctrica.; Kupfer ist für seine ausgezeichnete elektrische Leitfähigkeit bekannt.
 es-wi-0048; Quantenmechanik; la mecánica cuántica; ; C1; Wissenschaft/Physik; La mecánica cuántica describe el extraño mundo de las partículas diminutas.; Die Quantenmechanik beschreibt die seltsame Welt winziger Teilchen.
 es-wi-0049; Relativitätstheorie; la teoría de la relatividad; la relatividad; C1; Wissenschaft/Physik; Einstein publicó su teoría de la relatividad en 1905.; Einstein veröffentlichte seine Relativitätstheorie im Jahr 1905.
-es-wi-0050; Spannung; la tensión; el voltaje; B2; Wissenschaft/Physik; La tensión de este cable es peligrosamente alta.; Die Spannung in diesem Kabel ist gefährlich hoch.
+es-wi-0050; Spannung (Strom); la tensión; el voltaje; B2; Wissenschaft/Physik; La tensión de este cable es peligrosamente alta.; Die Spannung in diesem Kabel ist gefährlich hoch.
 es-wi-0051; Brechung; la refracción; ; C2; Wissenschaft/Physik; La refracción de la luz hace que la pajita parezca doblada.; Die Brechung des Lichts lässt den Strohhalm gebogen aussehen.
 es-wi-0052; Wechselwirkung; la interacción; ; C1; Wissenschaft/Physik; Los investigadores estudian la interacción entre la luz y la materia.; Forscher untersuchen die Wechselwirkung zwischen Licht und Materie.
 es-wi-0053; Wasser; el agua; ; A1; Wissenschaft/Chemie; El agua hierve a cien grados centígrados.; Wasser kocht bei hundert Grad Celsius.
@@ -63,12 +63,12 @@ es-wi-0060; Säure; el ácido; ; B2; Wissenschaft/Chemie; El ácido disuelve len
 es-wi-0061; Salz; la sal; ; A2; Wissenschaft/Chemie; La sal se disuelve rápidamente en agua caliente.; Salz löst sich schnell in warmem Wasser.
 es-wi-0062; Gas; el gas; ; A2; Wissenschaft/Chemie; El globo está lleno de un gas ligero.; Der Ballon ist mit einem leichten Gas gefüllt.
 es-wi-0063; Flüssigkeit; el líquido; el fluido; B1; Wissenschaft/Chemie; Vierte el líquido con cuidado en el tubo de vidrio.; Gieß die Flüssigkeit vorsichtig in das Glasrohr.
-es-wi-0064; Stoff; la sustancia; el material; B1; Wissenschaft/Chemie; Esta sustancia es inofensiva para personas y animales.; Dieser Stoff ist für Menschen und Tiere harmlos.
+es-wi-0064; Stoff (Chemie); la sustancia; el material; B1; Wissenschaft/Chemie; Esta sustancia es inofensiva para personas y animales.; Dieser Stoff ist für Menschen und Tiere harmlos.
 es-wi-0065; Aggregatzustand; el estado de agregación; el estado de la materia; C2; Wissenschaft/Chemie; El hielo, el agua y el vapor son tres estados de agregación.; Eis, Wasser und Dampf sind drei Aggregatzustände.
 es-wi-0066; Reaktion; la reacción; ; B1; Wissenschaft/Chemie; La reacción produce calor y una sustancia nueva.; Die Reaktion erzeugt Wärme und einen neuen Stoff.
 es-wi-0067; Element; el elemento; ; B1; Wissenschaft/Chemie; El oxígeno es el elemento más abundante de la corteza terrestre.; Sauerstoff ist das häufigste Element der Erdkruste.
 es-wi-0068; Molekül; la molécula; ; B2; Wissenschaft/Chemie; Una molécula de agua está formada por tres átomos.; Ein Wassermolekül besteht aus drei Atomen.
-es-wi-0069; Verbindung; el compuesto; el compuesto químico; B2; Wissenschaft/Chemie; La sal es un compuesto de sodio y cloro.; Salz ist eine Verbindung aus Natrium und Chlor.
+es-wi-0069; Verbindung (Chemie); el compuesto; el compuesto químico; B2; Wissenschaft/Chemie; La sal es un compuesto de sodio y cloro.; Salz ist eine Verbindung aus Natrium und Chlor.
 es-wi-0070; auflösen; disolver; disolverse; B2; Wissenschaft/Chemie; La pastilla se disuelve por completo en un vaso de agua.; Die Tablette löst sich vollständig in einem Glas Wasser auf.
 es-wi-0071; Katalysator; el catalizador; ; C1; Wissenschaft/Chemie; Un catalizador acelera la reacción sin consumirse.; Ein Katalysator beschleunigt die Reaktion, ohne verbraucht zu werden.
 es-wi-0072; Destillation; la destilación; ; C2; Wissenschaft/Chemie; La destilación separa el alcohol del agua calentando con cuidado.; Die Destillation trennt Alkohol durch vorsichtiges Erhitzen vom Wasser.
@@ -84,7 +84,7 @@ es-wi-0081; Virus; el virus; ; B1; Wissenschaft/Biologie; El virus se propaga so
 es-wi-0082; Gen; el gen; ; B2; Wissenschaft/Biologie; Un solo gen puede influir en el color de los ojos.; Ein einzelnes Gen kann die Augenfarbe beeinflussen.
 es-wi-0083; Vererbung; la herencia genética; la herencia; B2; Wissenschaft/Biologie; La herencia genética explica por qué los hijos se parecen a sus padres.; Die Vererbung erklärt, warum Kinder ihren Eltern ähneln.
 es-wi-0084; Evolution; la evolución; ; B2; Wissenschaft/Biologie; La evolución actúa a lo largo de muchos millones de años.; Die Evolution wirkt über viele Millionen Jahre.
-es-wi-0085; Art; la especie; ; B1; Wissenschaft/Biologie; Esta especie rara solo vive en una isla.; Diese seltene Art lebt nur auf einer Insel.
+es-wi-0085; Art (Biologie); la especie; ; B1; Wissenschaft/Biologie; Esta especie rara solo vive en una isla.; Diese seltene Art lebt nur auf einer Insel.
 es-wi-0086; Lebensraum; el hábitat; ; B2; Wissenschaft/Biologie; Las ranas están perdiendo su hábitat natural.; Die Frösche verlieren ihren natürlichen Lebensraum.
 es-wi-0087; Ökosystem; el ecosistema; ; B2; Wissenschaft/Biologie; Un bosque es un ecosistema complejo con innumerables especies.; Ein Wald ist ein komplexes Ökosystem mit unzähligen Arten.
 es-wi-0088; Stoffwechsel; el metabolismo; ; C1; Wissenschaft/Biologie; El ejercicio regular acelera el metabolismo humano.; Regelmäßige Bewegung beschleunigt den menschlichen Stoffwechsel.
@@ -103,7 +103,7 @@ es-wi-0100; Dreieck; el triángulo; ; A2; Wissenschaft/Mathematik; Un triángulo
 es-wi-0101; Kreis; el círculo; la circunferencia; A2; Wissenschaft/Mathematik; Dibuja un círculo con un radio de cinco centímetros.; Zeichne einen Kreis mit einem Radius von fünf Zentimetern.
 es-wi-0102; Quadrat; el cuadrado; ; B1; Wissenschaft/Mathematik; Un cuadrado tiene cuatro lados iguales.; Ein Quadrat hat vier gleich lange Seiten.
 es-wi-0103; Gleichung; la ecuación; ; B1; Wissenschaft/Mathematik; Resuelve la ecuación y comprueba tu resultado.; Löse die Gleichung und überprüfe dein Ergebnis.
-es-wi-0104; Bruch; la fracción; el quebrado; B1; Wissenschaft/Mathematik; Una fracción como un medio es fácil de imaginar.; Ein Bruch wie ein Halb ist leicht vorstellbar.
+es-wi-0104; Bruch (Mathematik); la fracción; el quebrado; B1; Wissenschaft/Mathematik; Una fracción como un medio es fácil de imaginar.; Ein Bruch wie ein Halb ist leicht vorstellbar.
 es-wi-0105; Durchschnitt; la media; el promedio; B1; Wissenschaft/Mathematik; La media de las tres notas es un dos.; Der Durchschnitt der drei Noten ist zwei.
 es-wi-0106; Wahrscheinlichkeit; la probabilidad; ; B2; Wissenschaft/Mathematik; La probabilidad de lluvia mañana es muy baja.; Die Wahrscheinlichkeit für Regen morgen ist sehr gering.
 es-wi-0107; Integralrechnung; el cálculo integral; ; C2; Wissenschaft/Mathematik; Con el cálculo integral se calculan áreas bajo curvas.; Mit der Integralrechnung berechnet man Flächen unter Kurven.
@@ -134,7 +134,7 @@ es-wi-0131; Sonne; el sol; ; A1; Wissenschaft/Raumfahrt; El sol sale por el este
 es-wi-0132; Mond; la luna; ; A1; Wissenschaft/Raumfahrt; Esta noche la luna parece especialmente grande.; Der Mond sieht heute Nacht besonders groß aus.
 es-wi-0133; Stern; la estrella; ; A1; Wissenschaft/Raumfahrt; En el desierto se ve claramente cada estrella.; In der Wüste sieht man jeden Stern deutlich.
 es-wi-0134; Erde; la Tierra; la tierra; A1; Wissenschaft/Raumfahrt; La Tierra da una vuelta alrededor del sol cada año.; Die Erde umkreist die Sonne einmal im Jahr.
-es-wi-0135; Himmel; el cielo; ; A2; Wissenschaft/Raumfahrt; El cielo nocturno sobre las montañas estaba lleno de estrellas.; Der Nachthimmel über den Bergen war voller Sterne.
+es-wi-0135; Himmel (Wetter, Sterne); el cielo; ; A2; Wissenschaft/Raumfahrt; El cielo nocturno sobre las montañas estaba lleno de estrellas.; Der Nachthimmel über den Bergen war voller Sterne.
 es-wi-0136; Rakete; el cohete; ; A2; Wissenschaft/Raumfahrt; El cohete despegó temprano por la mañana.; Die Rakete startete früh am Morgen.
 es-wi-0137; Planet; el planeta; ; A2; Wissenschaft/Raumfahrt; Marte es el cuarto planeta desde el sol.; Der Mars ist der vierte Planet von der Sonne aus.
 es-wi-0138; Weltraum; el espacio; el espacio exterior; B1; Wissenschaft/Raumfahrt; En el espacio no hay aire para respirar.; Im Weltraum gibt es keine Luft zum Atmen.

@@ -18,7 +18,7 @@ es-nt-0015; Affe; el mono; ; A1; Natur/Tiere/Wildtiere; El mono salta de árbol 
 es-nt-0016; Baum; el árbol; ; A1; Natur/Pflanzen; El viejo árbol nos da sombra en verano.; Der alte Baum spendet uns im Sommer Schatten.
 es-nt-0017; Blume; la flor; ; A1; Natur/Pflanzen; Cogió una flor para su madre.; Sie pflückte eine Blume für ihre Mutter.
 es-nt-0018; Gras; la hierba; el césped, el pasto; A1; Natur/Pflanzen; La hierba todavía está mojada por la lluvia.; Das Gras ist noch nass vom Regen.
-es-nt-0019; Blatt; la hoja; ; A1; Natur/Pflanzen; Una hoja amarilla cayó del árbol.; Ein gelbes Blatt fiel vom Baum.
+es-nt-0019; Blatt (Baum); la hoja; ; A1; Natur/Pflanzen; Una hoja amarilla cayó del árbol.; Ein gelbes Blatt fiel vom Baum.
 es-nt-0020; Wald; el bosque; ; A1; Natur/Landschaft; Todos los domingos paseamos por el bosque.; Wir gehen jeden Sonntag durch den Wald.
 es-nt-0021; Berg; la montaña; el monte; A1; Natur/Landschaft; En invierno la montaña está cubierta de nieve.; Der Berg ist im Winter mit Schnee bedeckt.
 es-nt-0022; See; el lago; ; A1; Natur/Landschaft; Cada verano nadamos en el lago.; Wir schwimmen jeden Sommer im See.
@@ -38,7 +38,7 @@ es-nt-0035; Löwe; el león; la leona; A2; Natur/Tiere/Wildtiere; El león desca
 es-nt-0036; Tiger; el tigre; ; A2; Natur/Tiere/Wildtiere; El tigre es un cazador excelente y paciente.; Der Tiger ist ein hervorragender und geduldiger Jäger.
 es-nt-0037; Elefant; el elefante; ; A2; Natur/Tiere/Wildtiere; El elefante bebe muchísima agua cada día.; Der Elefant trinkt täglich sehr viel Wasser.
 es-nt-0038; Giraffe; la jirafa; ; A2; Natur/Tiere/Wildtiere; La jirafa come hojas de los árboles más altos.; Die Giraffe frisst Blätter von den höchsten Bäumen.
-es-nt-0039; Schlange; la serpiente; la culebra; A2; Natur/Tiere/Wildtiere; Una serpiente verde estaba tumbada sobre la piedra caliente.; Eine grüne Schlange lag auf dem warmen Stein.
+es-nt-0039; Schlange (Tier); la serpiente; la culebra; A2; Natur/Tiere/Wildtiere; Una serpiente verde estaba tumbada sobre la piedra caliente.; Eine grüne Schlange lag auf dem warmen Stein.
 es-nt-0040; Frosch; la rana; ; A2; Natur/Tiere/Wildtiere; La rana salta al estanque con un chapoteo.; Der Frosch springt mit einem Platscher in den Teich.
 es-nt-0041; Biene; la abeja; ; A2; Natur/Tiere/Insekten; La abeja vuela de flor en flor.; Die Biene fliegt von Blüte zu Blüte.
 es-nt-0042; Fliege; la mosca; ; A2; Natur/Tiere/Insekten; Una mosca zumba por la cocina.; Eine Fliege summt durch die Küche.
@@ -74,7 +74,7 @@ es-nt-0071; Raubtier; el depredador; la fiera, el animal de presa; B1; Natur/Tie
 es-nt-0072; Beute; la presa; ; B1; Natur/Tiere/Wildtiere; El búho se acerca sin hacer ruido a su presa.; Die Eule nähert sich lautlos ihrer Beute.
 es-nt-0073; Herde; el rebaño; la manada; B1; Natur/Tiere/Wildtiere; Un rebaño de vacas bloqueaba la pequeña carretera.; Eine Herde Kühe blockierte die kleine Straße.
 es-nt-0074; Schwarm; el enjambre; la bandada, el banco; B1; Natur/Tiere/Insekten; Un enjambre de abejas se instaló en el viejo árbol.; Ein Bienenschwarm ließ sich im alten Baum nieder.
-es-nt-0075; Art; la especie; ; B1; Natur/Tiere/Wildtiere; Esta especie de mariposa es muy rara aquí.; Diese Schmetterlingsart ist hier sehr selten.
+es-nt-0075; Art (Biologie); la especie; ; B1; Natur/Tiere/Wildtiere; Esta especie de mariposa es muy rara aquí.; Diese Schmetterlingsart ist hier sehr selten.
 es-nt-0076; Lebensraum; el hábitat; ; B1; Natur/Tiere/Wildtiere; Los humedales son un hábitat importante para muchas aves.; Feuchtgebiete sind ein wichtiger Lebensraum für viele Vögel.
 es-nt-0077; Umwelt; el medio ambiente; el entorno; B1; Natur/Landschaft; Todos deberíamos proteger mejor el medio ambiente.; Wir sollten alle unsere Umwelt besser schützen.
 es-nt-0078; Naturschutz; la conservación de la naturaleza; la protección de la naturaleza; B1; Natur/Landschaft; La conservación de la naturaleza empieza en tu propio jardín.; Naturschutz beginnt im eigenen Garten.
@@ -87,14 +87,14 @@ es-nt-0084; Teich; el estanque; la charca; B1; Natur/Landschaft; En nuestro esta
 es-nt-0085; Wüste; el desierto; ; B1; Natur/Landschaft; En el desierto seco no crece casi nada.; In der trockenen Wüste wächst kaum etwas.
 es-nt-0086; Höhle; la cueva; la caverna, la guarida; B1; Natur/Landschaft; Los murciélagos pasan el invierno en esta cueva.; Fledermäuse überwintern in dieser Höhle.
 es-nt-0087; Gipfel; la cumbre; la cima; B1; Natur/Landschaft; Llegamos a la cumbre después de cinco horas.; Nach fünf Stunden erreichten wir den Gipfel.
-es-nt-0088; Boden; el suelo; la tierra; B1; Natur/Pflanzen; Un suelo sano está lleno de diminutos seres vivos.; Gesunder Boden ist voller winziger Lebewesen.
+es-nt-0088; Boden (Erde); el suelo; la tierra; B1; Natur/Pflanzen; Un suelo sano está lleno de diminutos seres vivos.; Gesunder Boden ist voller winziger Lebewesen.
 es-nt-0089; Samen; la semilla; las semillas; B1; Natur/Pflanzen; Sembramos las semillas a principios de primavera.; Wir haben die Samen im Frühjahr ausgesät.
-es-nt-0090; Stamm; el tronco; ; B1; Natur/Pflanzen; El tronco del haya es liso y gris.; Der Stamm der Buche ist glatt und grau.
+es-nt-0090; Stamm (Baum); el tronco; ; B1; Natur/Pflanzen; El tronco del haya es liso y gris.; Der Stamm der Buche ist glatt und grau.
 es-nt-0091; Rinde; la corteza; ; B1; Natur/Pflanzen; Los corzos a veces se comen la corteza de los árboles jóvenes.; Rehe fressen manchmal die Rinde junger Bäume.
 es-nt-0092; blühen; florecer; estar en flor; B1; Natur/Pflanzen; Los cerezos florecen a finales de abril.; Die Kirschbäume blühen Ende April.
 es-nt-0093; Eiche; el roble; la encina; B1; Natur/Pflanzen; El viejo roble tiene más de trescientos años.; Die alte Eiche ist über dreihundert Jahre alt.
 es-nt-0094; Birke; el abedul; ; B1; Natur/Pflanzen; Un abedul se reconoce por su corteza blanca.; Eine Birke erkennt man an ihrer weißen Rinde.
-es-nt-0095; Kiefer; el pino; ; B1; Natur/Pflanzen; El pino crece bien en suelos arenosos.; Die Kiefer wächst gut auf sandigem Boden.
+es-nt-0095; Kiefer (Baum); el pino; ; B1; Natur/Pflanzen; El pino crece bien en suelos arenosos.; Die Kiefer wächst gut auf sandigem Boden.
 es-nt-0096; Kralle; la garra; la uña; B2; Natur/Tiere/Wildtiere; El azor atrapó al ratón con sus garras.; Der Habicht packte die Maus mit seinen Krallen.
 es-nt-0097; Geweih; la cornamenta; las astas; B2; Natur/Tiere/Wildtiere; El ciervo pierde la cornamenta cada año.; Der Hirsch verliert jedes Jahr sein Geweih.
 es-nt-0098; Huf; el casco; la pezuña; B2; Natur/Tiere/Haustiere; El herrador revisó el casco izquierdo del caballo.; Der Hufschmied prüfte den linken Huf des Pferdes.
@@ -142,7 +142,7 @@ es-nt-0139; Artenschutz; la protección de especies; la conservación de especie
 es-nt-0140; Monokultur; el monocultivo; ; C1; Natur/Pflanzen; Un monocultivo es mucho más vulnerable a las plagas.; Eine Monokultur ist deutlich anfälliger für Schädlinge.
 es-nt-0141; Photosynthese; la fotosíntesis; ; C1; Natur/Pflanzen; Mediante la fotosíntesis, las plantas transforman la luz en energía.; Durch Photosynthese wandeln Pflanzen Licht in Energie um.
 es-nt-0142; Keimling; la plántula; el brote, el germen; C1; Natur/Pflanzen; La diminuta plántula necesita calor y una humedad constante.; Der winzige Keimling braucht Wärme und gleichmäßige Feuchtigkeit.
-es-nt-0143; Bestand; la población; ; C1; Natur/Tiere/Wildtiere; La población de lobos crece lentamente en esta región.; Der Bestand an Wölfen wächst in dieser Region langsam.
+es-nt-0143; Bestand (Tiere); la población; ; C1; Natur/Tiere/Wildtiere; La población de lobos crece lentamente en esta región.; Der Bestand an Wölfen wächst in dieser Region langsam.
 es-nt-0144; Renaturierung; la renaturalización; la restauración ecológica; C2; Natur/Landschaft; La renaturalización del río duró diez años.; Die Renaturierung des Flusses dauerte zehn Jahre.
 es-nt-0145; Zersiedelung; la expansión urbana descontrolada; la dispersión urbana, la expansión urbana; C2; Natur/Landschaft; La expansión urbana descontrolada se está comiendo el campo abierto.; Die Zersiedelung frisst sich in die offene Landschaft.
 es-nt-0146; Flächenversiegelung; el sellado del suelo; la impermeabilización del suelo; C2; Natur/Landschaft; El sellado del suelo impide que el agua de lluvia llegue a las aguas subterráneas.; Die Flächenversiegelung verhindert, dass Regenwasser ins Grundwasser gelangt.

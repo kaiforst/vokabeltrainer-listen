@@ -18,10 +18,10 @@ es-vm-0015; Taxi; el taxi; ; A1; Reisen/Verkehr/Auto; Anoche cogimos un taxi des
 es-vm-0016; U-Bahn; el metro; el subte; A1; Reisen/Verkehr/Bus & Bahn; Aquí el metro pasa cada cinco minutos.; Die U-Bahn fährt hier alle fünf Minuten.
 es-vm-0017; Weg; el camino; ; A1; Reisen/Verkehr/Wegbeschreibung; ¿Me puede indicar el camino al puerto?; Können Sie mir den Weg zum Hafen zeigen?
 es-vm-0018; Brücke; el puente; ; A1; Reisen/Verkehr/Straße & Regeln; El viejo puente cruza el ancho río.; Die alte Brücke führt über den breiten Fluss.
-es-vm-0019; Karte; el mapa; ; A1; Reisen/Verkehr/Wegbeschreibung; Antes del viaje miramos el mapa.; Wir haben uns vor der Fahrt die Karte angesehen.
+es-vm-0019; Karte (Landkarte); el mapa; ; A1; Reisen/Verkehr/Wegbeschreibung; Antes del viaje miramos el mapa.; Wir haben uns vor der Fahrt die Karte angesehen.
 es-vm-0020; schnell; rápido; veloz; A1; Reisen/Verkehr/Straße & Regeln; Este tren nuevo es muy rápido y cómodo.; Dieser neue Zug ist sehr schnell und bequem.
 es-vm-0021; langsam; lento; despacio; A1; Reisen/Verkehr/Straße & Regeln; Hoy el tráfico en el centro es muy lento.; Der Verkehr in der Innenstadt ist heute sehr langsam.
-es-vm-0022; halten; parar; detenerse; A1; Reisen/Verkehr/Bus & Bahn; El autobús para justo en el museo.; Der Bus hält direkt am Museum.
+es-vm-0022; halten (anhalten); parar; detenerse; A1; Reisen/Verkehr/Bus & Bahn; El autobús para justo en el museo.; Der Bus hält direkt am Museum.
 es-vm-0023; Stadtplan; el plano de la ciudad; el plano, el mapa de la ciudad; A1; Reisen/Verkehr/Wegbeschreibung; El plano de la ciudad muestra todas las líneas de autobús.; Der Stadtplan zeigt alle Buslinien.
 es-vm-0024; Fahrer; el conductor; la conductora, el chófer; A1; Reisen/Verkehr/Auto; El conductor nos esperó en el hotel.; Der Fahrer hat am Hotel auf uns gewartet.
 es-vm-0025; Parkplatz; el aparcamiento; la plaza de aparcamiento, el estacionamiento; A1; Reisen/Verkehr/Auto; El aparcamiento detrás de la tienda es gratuito.; Der Parkplatz hinter dem Geschäft ist kostenlos.
@@ -42,7 +42,7 @@ es-vm-0039; umsteigen; hacer transbordo; cambiar de tren; A2; Reisen/Verkehr/Bus
 es-vm-0040; einsteigen; subir; subirse, montarse; A2; Reisen/Verkehr/Bus & Bahn; Suba rápido, por favor, que se cierran las puertas.; Bitte steigen Sie schnell ein, die Türen schließen.
 es-vm-0041; aussteigen; bajar; bajarse; A2; Reisen/Verkehr/Bus & Bahn; Bajamos en la próxima estación.; Wir steigen an der nächsten Station aus.
 es-vm-0042; Helm; el casco; ; A2; Reisen/Verkehr/Fahrrad; Ponte siempre el casco cuando vayas en bici.; Trag immer einen Helm, wenn du Rad fährst.
-es-vm-0043; Rad; la rueda; ; A2; Reisen/Verkehr/Fahrrad; La rueda delantera de mi bici está rota.; Das Vorderrad meines Fahrrads ist kaputt.
+es-vm-0043; Rad (am Fahrzeug); la rueda; ; A2; Reisen/Verkehr/Fahrrad; La rueda delantera de mi bici está rota.; Das Vorderrad meines Fahrrads ist kaputt.
 es-vm-0044; Reifen; el neumático; la llanta, la goma; A2; Reisen/Verkehr/Auto; El neumático izquierdo pierde aire poco a poco.; Der linke Reifen verliert langsam Luft.
 es-vm-0045; Bremse; el freno; ; A2; Reisen/Verkehr/Fahrrad; Revisa los frenos antes de cada salida larga.; Prüfe die Bremsen vor jeder langen Tour.
 es-vm-0046; bremsen; frenar; ; A2; Reisen/Verkehr/Auto; Tuvo que frenar de golpe por un gato.; Er musste wegen einer Katze plötzlich bremsen.
@@ -76,7 +76,7 @@ es-vm-0073; Sicherheitsgurt; el cinturón de seguridad; el cinturón; B1; Reisen
 es-vm-0074; sich anschnallen; abrocharse el cinturón; ponerse el cinturón; B1; Reisen/Verkehr/Auto; Abróchate el cinturón antes de que arranquemos, por favor.; Bitte schnall dich an, bevor wir losfahren.
 es-vm-0075; Umleitung; el desvío; ; B1; Reisen/Verkehr/Straße & Regeln; El desvío alarga el viaje diez minutos.; Die Umleitung verlängert die Fahrt um zehn Minuten.
 es-vm-0076; Baustelle; las obras; la obra; B1; Reisen/Verkehr/Straße & Regeln; Las obras de la calle principal provocan grandes retrasos.; Die Baustelle auf der Hauptstraße verursacht lange Verzögerungen.
-es-vm-0077; Spur; el carril; ; B1; Reisen/Verkehr/Straße & Regeln; Siga por el carril derecho hasta la salida.; Bleiben Sie bis zur Ausfahrt auf der rechten Spur.
+es-vm-0077; Spur (Fahrbahn); el carril; ; B1; Reisen/Verkehr/Straße & Regeln; Siga por el carril derecho hasta la salida.; Bleiben Sie bis zur Ausfahrt auf der rechten Spur.
 es-vm-0078; Navigationssystem; el navegador; el GPS, el sistema de navegación; B1; Reisen/Verkehr/Wegbeschreibung; El navegador ha encontrado una ruta más rápida.; Das Navigationssystem hat eine schnellere Route gefunden.
 es-vm-0079; Ladestation; la estación de carga; el punto de recarga, el cargador; B1; Reisen/Verkehr/Tanken & Laden; En el supermercado hay una estación de carga.; Am Supermarkt gibt es eine Ladestation.
 es-vm-0080; Elektroauto; el coche eléctrico; el auto eléctrico; B1; Reisen/Verkehr/Tanken & Laden; Nuestro coche eléctrico es muy silencioso en la ciudad.; Unser Elektroauto ist in der Stadt sehr leise.
@@ -119,7 +119,7 @@ es-vm-0116; Fahrkartenautomat; la máquina expendedora de billetes; la máquina 
 es-vm-0117; Verkehrsmittel; el medio de transporte; ; B2; Reisen/Verkehr/Bus & Bahn; La bicicleta es mi medio de transporte favorito.; Das Fahrrad ist mein liebstes Verkehrsmittel.
 es-vm-0118; Probefahrt; la prueba de conducción; la prueba; B2; Reisen/Verkehr/Auto; Hemos quedado para una prueba de conducción el sábado por la mañana.; Wir haben für Samstagvormittag eine Probefahrt vereinbart.
 es-vm-0119; Gebrauchtwagen; el coche de segunda mano; el coche usado; B2; Reisen/Verkehr/Auto; Se compró un coche de segunda mano con pocos kilómetros.; Er kaufte einen Gebrauchtwagen mit geringer Laufleistung.
-es-vm-0120; Zulassung; la matriculación; ; B2; Reisen/Verkehr/Auto; La matriculación del coche nuevo tardó dos semanas.; Die Zulassung des neuen Autos dauerte zwei Wochen.
+es-vm-0120; Zulassung (Fahrzeug); la matriculación; ; B2; Reisen/Verkehr/Auto; La matriculación del coche nuevo tardó dos semanas.; Die Zulassung des neuen Autos dauerte zwei Wochen.
 es-vm-0121; Verkehrskontrolle; el control de tráfico; el control policial; B2; Reisen/Verkehr/Straße & Regeln; La policía hizo un control de tráfico por la noche.; Die Polizei führte nachts eine Verkehrskontrolle durch.
 es-vm-0122; Alkoholtest; el control de alcoholemia; la prueba de alcoholemia; B2; Reisen/Verkehr/Straße & Regeln; El conductor tuvo que someterse a un control de alcoholemia.; Der Fahrer musste einen Alkoholtest machen.
 es-vm-0123; Reifenwechsel; el cambio de neumáticos; el cambio de ruedas; B2; Reisen/Verkehr/Auto; Pide cita para el cambio de neumáticos antes de que llegue el invierno.; Vereinbare den Reifenwechsel, bevor der Winter kommt.
@@ -127,7 +127,7 @@ es-vm-0124; Fahrprüfung; el examen de conducir; el examen práctico; B2; Reisen
 es-vm-0125; Standstreifen; el arcén; el acotamiento, la banquina; B2; Reisen/Verkehr/Straße & Regeln; Para en el arcén solo en caso de emergencia.; Halte auf dem Standstreifen nur im Notfall.
 es-vm-0126; Verkehrswende; la transición de la movilidad; la transición en el transporte; C1; Reisen/Verkehr/Straße & Regeln; La transición de la movilidad exige un mejor transporte público.; Die Verkehrswende erfordert einen besseren öffentlichen Nahverkehr.
 es-vm-0127; Elektromobilität; la movilidad eléctrica; la electromovilidad; C1; Reisen/Verkehr/Tanken & Laden; La movilidad eléctrica depende de una red de carga densa.; Die Elektromobilität hängt von einem dichten Ladenetz ab.
-es-vm-0128; Reichweite; la autonomía; el alcance; C1; Reisen/Verkehr/Tanken & Laden; Con frío la autonomía baja notablemente.; Die Reichweite sinkt bei kaltem Wetter deutlich.
+es-vm-0128; Reichweite (Fahrzeug); la autonomía; el alcance; C1; Reisen/Verkehr/Tanken & Laden; Con frío la autonomía baja notablemente.; Die Reichweite sinkt bei kaltem Wetter deutlich.
 es-vm-0129; Emissionen; las emisiones; ; C1; Reisen/Verkehr/Straße & Regeln; La ciudad quiere reducir a la mitad las emisiones del tráfico.; Die Stadt will die Emissionen des Verkehrs halbieren.
 es-vm-0130; Feinstaub; las partículas finas; las partículas en suspensión; C1; Reisen/Verkehr/Straße & Regeln; Los niveles de partículas finas volvieron a superar el límite.; Die Feinstaubwerte überschritten erneut den Grenzwert.
 es-vm-0131; Umweltzone; la zona de bajas emisiones; ; C1; Reisen/Verkehr/Straße & Regeln; Los coches diésel antiguos no pueden entrar en la zona de bajas emisiones.; Ältere Dieselautos dürfen nicht in die Umweltzone fahren.

@@ -52,7 +52,7 @@ es-ke-0049; Rücken, Rückseite; la espalda; el dorso, la parte trasera, la part
 es-ke-0050; schlecht; malo; mal; A1; Karstens Empfehlung/Wörter; La película fue muy mala, lo siento.; Der Film war wirklich schlecht, tut mir leid.
 es-ke-0051; Tasche, Beutel; la bolsa; el bolso; A1; Karstens Empfehlung/Wörter; ¿Necesita una bolsa para eso?; Brauchen Sie dafür eine Tasche?
 es-ke-0052; Bäckerei; la panadería; ; A2; Karstens Empfehlung/Wörter; La panadería abre a las seis de la mañana.; Die Bäckerei öffnet um sechs Uhr morgens.
-es-ke-0053; Bank; el banco; ; A2; Karstens Empfehlung/Wörter; El banco cierra a las cuatro de la tarde.; Die Bank schließt um vier Uhr nachmittags.
+es-ke-0053; Bank (Geldinstitut); el banco; ; A2; Karstens Empfehlung/Wörter; El banco cierra a las cuatro de la tarde.; Die Bank schließt um vier Uhr nachmittags.
 es-ke-0054; wunderschön; precioso; hermoso, bellísimo, muy bonito, bello; A1; Karstens Empfehlung/Wörter; Desde la montaña hay una vista preciosa.; Vom Berg aus hat man eine wunderschöne Aussicht.
 es-ke-0055; weil; porque; ; A1; Karstens Empfehlung/Wörter; Me quedo en casa porque estoy resfriado.; Ich bleibe zu Hause, weil ich erkältet bin.
 es-ke-0056; Bett; la cama; ; A1; Karstens Empfehlung/Wörter; Me voy a la cama a las diez.; Ich gehe um zehn Uhr ins Bett.
@@ -84,11 +84,11 @@ es-ke-0081; Schwager; el cuñado; ; B1; Karstens Empfehlung/Wörter; Mi cuñado 
 es-ke-0082; braun; marrón; café; A1; Karstens Empfehlung/Wörter; Mi perro tiene los ojos marrones.; Mein Hund hat braune Augen.
 es-ke-0083; Gebäude; el edificio; ; A2; Karstens Empfehlung/Wörter; Este edificio es el más alto del país.; Dieses Gebäude ist das höchste im Land.
 es-ke-0084; Bus; el autobús; el bus, el camión; A1; Karstens Empfehlung/Wörter; El autobús al centro pasa cada diez minutos.; Der Bus in die Stadt kommt alle zehn Minuten.
-es-ke-0085; Geschäft; el negocio; la empresa; A2; Karstens Empfehlung/Wörter; El negocio con el nuevo socio va bien.; Das Geschäft mit dem neuen Partner läuft gut.
+es-ke-0085; Geschäft (Handel); el negocio; la empresa; A2; Karstens Empfehlung/Wörter; El negocio con el nuevo socio va bien.; Das Geschäft mit dem neuen Partner läuft gut.
 es-ke-0086; aber; pero; ; A1; Karstens Empfehlung/Wörter; Quiero ir a la playa, pero está lloviendo.; Ich will an den Strand, aber es regnet.
 es-ke-0087; ruhig, still, unbewegt; tranquilo; calmado, quieto, sereno; A1; Karstens Empfehlung/Wörter; Por favor, quédate tranquilo, todo está bien.; Bitte bleib ruhig, alles ist in Ordnung.
 es-ke-0088; können; poder; saber; A1; Karstens Empfehlung/Verben; ¿Puedes ayudarme con esta caja tan pesada?; Kannst du mir mit dieser schweren Kiste helfen?
-es-ke-0089; Krebs; el cáncer; ; B1; Karstens Empfehlung/Wörter; Los médicos investigan nuevos tratamientos contra el cáncer.; Die Ärzte erforschen neue Behandlungen gegen Krebs.
+es-ke-0089; Krebs (Krankheit); el cáncer; ; B1; Karstens Empfehlung/Wörter; Los médicos investigan nuevos tratamientos contra el cáncer.; Die Ärzte erforschen neue Behandlungen gegen Krebs.
 es-ke-0090; offen, ehrlich, aufrichtig; franco; sincero, honesto, abierto; C1; Karstens Empfehlung/Wörter; Te voy a ser franco: no me gusta la idea.; Ich will offen zu dir sein: Die Idee gefällt mir nicht.
 es-ke-0091; schlau, geschickt, gerissen; astuto; listo, hábil, sagaz; C2; Karstens Empfehlung/Wörter; El zorro es un animal muy astuto.; Der Fuchs ist ein sehr schlaues Tier.
 es-ke-0092; Hauptstadt; la capital; ; A2; Karstens Empfehlung/Wörter; Madrid es la capital de España.; Madrid ist die Hauptstadt von Spanien.
@@ -121,7 +121,7 @@ es-ke-0118; bewölkt, trüb; nublado; nuboso; A2; Karstens Empfehlung/Wörter; H
 es-ke-0119; ungeschickt, tollpatschig; torpe; patoso; B2; Karstens Empfehlung/Wörter; Soy un poco torpe y siempre se me caen las cosas.; Ich bin etwas tollpatschig und mir fällt immer etwas herunter.
 es-ke-0120; kalt; frío; ; A1; Karstens Empfehlung/Wörter; El agua del lago está fría.; Das Wasser im See ist kalt.
 es-ke-0121; Sammlung; la colección; ; A2; Karstens Empfehlung/Wörter; Su colección de sellos llena tres álbumes gruesos.; Seine Sammlung von Briefmarken füllt drei dicke Alben.
-es-ke-0122; Farbe; el color; ; A1; Karstens Empfehlung/Wörter; ¿Qué color te gusta más para las camisas?; Welche Farbe magst du bei Hemden am liebsten?
+es-ke-0122; Farbe (Farbton); el color; ; A1; Karstens Empfehlung/Wörter; ¿Qué color te gusta más para las camisas?; Welche Farbe magst du bei Hemden am liebsten?
 es-ke-0123; Gemeinde, Gemeinschaft; la comunidad; el municipio; B2; Karstens Empfehlung/Wörter; Una comunidad fuerte apoya a sus miembros más débiles.; Eine starke Gemeinschaft unterstützt ihre schwächsten Mitglieder.
 es-ke-0124; Begleitung, Firma; la compañía; la empresa; A1; Karstens Empfehlung/Wörter; Me encanta la compañía de mis amigos.; Ich genieße die Begleitung meiner Freunde.
 es-ke-0125; Bedingung; la condición; ; B1; Karstens Empfehlung/Wörter; Una buena luz es una condición importante para hacer fotos.; Gutes Licht ist eine wichtige Bedingung für das Fotografieren.
@@ -130,7 +130,7 @@ es-ke-0127; verwirrend; confuso; desconcertante; B1; Karstens Empfehlung/Wörter
 es-ke-0128; zufrieden; satisfecho; contento; B2; Karstens Empfehlung/Wörter; La mayoría de los clientes quedaron satisfechos con el nuevo servicio.; Die meisten Kunden waren mit dem neuen Service zufrieden.
 es-ke-0129; Kosten; el coste; el costo, los costes, los costos; B1; Karstens Empfehlung/Wörter; El coste del viaje es demasiado alto.; Die Kosten der Reise sind zu hoch.
 es-ke-0130; könnte; poder; podría; A2; Karstens Empfehlung/Verben; Mañana podría llover por la tarde.; Morgen könnte es am Nachmittag regnen.
-es-ke-0131; Land; el país; la tierra; A1; Karstens Empfehlung/Wörter; Alemania es un país grande de Europa.; Deutschland ist ein großes Land in Europa.
+es-ke-0131; Land (Staat); el país; ; A1; Karstens Empfehlung/Wörter; Alemania es un país grande de Europa.; Deutschland ist ein großes Land in Europa.
 es-ke-0132; ländlicher Raum; el campo; la zona rural; A2; Karstens Empfehlung/Wörter; Mis abuelos viven en el campo, lejos de la ciudad.; Meine Großeltern leben im ländlichen Raum, weit weg von der Stadt.
 es-ke-0133; Kurs, Verlauf; el curso; el transcurso, el desarrollo; B1; Karstens Empfehlung/Wörter; En el curso del año aprendemos muchas cosas nuevas.; Im Verlauf des Jahres lernen wir viele neue Dinge.
 es-ke-0134; Hof, Hinterhof, Gericht; el patio; el tribunal, la corte; A2; Karstens Empfehlung/Wörter; En el recreo jugamos al fútbol en el patio.; In der Pause spielen wir auf dem Hof Fußball.
@@ -198,19 +198,19 @@ es-ke-0195; Abend; la tarde; la noche; A1; Karstens Empfehlung/Wörter; Esta tar
 es-ke-0196; Ereignis, Vorfall; el acontecimiento; el evento, el suceso, el incidente; B1; Karstens Empfehlung/Wörter; La caída del muro fue un acontecimiento histórico.; Der Mauerfall war ein historisches Ereignis.
 es-ke-0197; jemals; alguna vez; jamás, nunca; A2; Karstens Empfehlung/Wörter; ¿Has estado alguna vez en el mar?; Warst du jemals am Meer?
 es-ke-0199; Beweis; la prueba; las pruebas, la evidencia; B1; Karstens Empfehlung/Wörter; La policía no encontró ninguna prueba contra el joven.; Die Polizei fand keinen Beweis gegen den jungen Mann.
-es-ke-0200; böse; malvado; malo; B1; Karstens Empfehlung/Wörter; En la película, la bruja malvada vive en un castillo.; Im Film lebt die böse Hexe in einem Schloss.
+es-ke-0200; böse (schlecht, gemein); malvado; malo; B1; Karstens Empfehlung/Wörter; En la película, la bruja malvada vive en un castillo.; Im Film lebt die böse Hexe in einem Schloss.
 es-ke-0201; genau; exactamente; exacto; A2; Karstens Empfehlung/Wörter; Llegamos exactamente a las nueve en punto.; Wir kamen genau um neun Uhr an.
 es-ke-0202; Beispiel; el ejemplo; ; A2; Karstens Empfehlung/Wörter; ¿Puedes darme un ejemplo de esta regla?; Kannst du mir ein Beispiel für diese Regel geben?
 es-ke-0203; aufgeregt; emocionado; entusiasmado, nervioso; A2; Karstens Empfehlung/Wörter; Los niños están emocionados por la excursión del colegio.; Die Kinder sind wegen des Schulausflugs aufgeregt.
 es-ke-0204; Erfahrung; la experiencia; ; A2; Karstens Empfehlung/Wörter; Tiene mucha experiencia con niños.; Sie hat viel Erfahrung mit Kindern.
-es-ke-0205; erfahren; experimentado; con experiencia; B1; Karstens Empfehlung/Wörter; Nuestro guía es un montañero muy experimentado.; Unser Führer ist ein sehr erfahrener Bergsteiger.
+es-ke-0205; erfahren (mit viel Erfahrung); experimentado; con experiencia; B1; Karstens Empfehlung/Wörter; Nuestro guía es un montañero muy experimentado.; Unser Führer ist ein sehr erfahrener Bergsteiger.
 es-ke-0206; Auge; el ojo; ; A1; Karstens Empfehlung/Wörter; Tiene el ojo izquierdo rojo y le pica.; Ihr linkes Auge ist rot und juckt.
 es-ke-0207; Gesicht; la cara; el rostro; A1; Karstens Empfehlung/Wörter; Tienes la cara roja por el sol.; Du hast von der Sonne ein rotes Gesicht.
 es-ke-0208; Fakt, Tatsache; el hecho; ; B1; Karstens Empfehlung/Wörter; Es un hecho que la Tierra gira alrededor del Sol.; Es ist eine Tatsache, dass sich die Erde um die Sonne dreht.
 es-ke-0209; treu; fiel; leal; B2; Karstens Empfehlung/Wörter; Siempre le ha sido fiel.; Er war ihr immer treu.
 es-ke-0210; falsch, gefälscht; falso; falsificado; B1; Karstens Empfehlung/Wörter; Ese billete es falso, no lo aceptes.; Dieser Geldschein ist gefälscht, nimm ihn nicht an.
 es-ke-0211; Familie; la familia; ; A1; Karstens Empfehlung/Wörter; Nuestra familia cena junta todas las noches.; Unsere Familie isst jeden Abend zusammen.
-es-ke-0212; weit; lejos; lejano; A1; Karstens Empfehlung/Wörter; La playa está demasiado lejos para ir andando.; Der Strand ist zu weit weg, um zu Fuß zu gehen.
+es-ke-0212; weit (Entfernung); lejos; lejano; A1; Karstens Empfehlung/Wörter; La playa está demasiado lejos para ir andando.; Der Strand ist zu weit weg, um zu Fuß zu gehen.
 es-ke-0213; schnell; rápido; rápidamente, deprisa; A1; Karstens Empfehlung/Wörter; Este tren es muy rápido y moderno.; Dieser Zug ist sehr schnell und modern.
 es-ke-0214; Vater; el padre; ; A1; Karstens Empfehlung/Wörter; Mi padre trabaja en el aeropuerto.; Mein Vater arbeitet am Flughafen.
 es-ke-0215; Angst; el miedo; el temor; A1; Karstens Empfehlung/Wörter; El niño tiene miedo de los perros grandes.; Das Kind hat Angst vor großen Hunden.
@@ -283,7 +283,7 @@ es-ke-0281; hilfsbereit; servicial; atento; B1; Karstens Empfehlung/Wörter; El 
 es-ke-0282; hilflos; indefenso; desamparado; B2; Karstens Empfehlung/Wörter; El pajarito estaba indefenso en el suelo.; Das Vögelchen lag hilflos auf dem Boden.
 es-ke-0283; hier; aquí; acá; A1; Karstens Empfehlung/Wörter; Ven aquí, quiero enseñarte una cosa.; Komm hierher, ich will dir etwas zeigen.
 es-ke-0284; hoch; alto; ; A1; Karstens Empfehlung/Wörter; Esa torre es muy alta.; Dieser Turm ist sehr hoch.
-es-ke-0285; Geschichte; la historia; ; A1; Karstens Empfehlung/Wörter; La historia alemana me parece muy interesante.; Ich finde die deutsche Geschichte sehr interessant.
+es-ke-0285; Geschichte (Vergangenheit); la historia; ; A1; Karstens Empfehlung/Wörter; La historia alemana me parece muy interesante.; Ich finde die deutsche Geschichte sehr interessant.
 es-ke-0286; Treffer, Schlag; el golpe; el acierto, el éxito; B1; Karstens Empfehlung/Wörter; Se dio un golpe en la rodilla jugando al fútbol.; Er bekam beim Fußballspielen einen Schlag aufs Knie.
 es-ke-0287; Zuhause, Heimat; el hogar; la casa, la patria; A1; Karstens Empfehlung/Wörter; Después del viaje es bonito volver al hogar.; Nach der Reise ist es schön, in die Heimat zurückzukehren.
 es-ke-0288; ehrlich; honesto; honrado, sincero; B1; Karstens Empfehlung/Wörter; Siempre es mejor ser honesto con tus amigos.; Es ist immer besser, ehrlich zu deinen Freunden zu sein.
@@ -323,7 +323,7 @@ es-ke-0321; Kindergarten; la guardería; el jardín de infancia, el jardín de i
 es-ke-0322; Küche; la cocina; ; A1; Karstens Empfehlung/Wörter; Preparamos la cena juntos en la cocina.; Wir kochen das Abendessen zusammen in der Küche.
 es-ke-0323; Wissen; el conocimiento; los conocimientos, el saber; B1; Karstens Empfehlung/Wörter; Los libros nos dan mucho conocimiento.; Bücher geben uns viel Wissen.
 es-ke-0324; See; el lago; ; A2; Karstens Empfehlung/Wörter; En verano nadamos en el lago.; Im Sommer schwimmen wir im See.
-es-ke-0325; Land; la tierra; el país, el terreno; A2; Karstens Empfehlung/Wörter; Después de muchos días en el barco, vieron tierra.; Nach vielen Tagen auf dem Schiff sahen sie Land.
+es-ke-0325; Land (Boden); la tierra; el terreno; A2; Karstens Empfehlung/Wörter; Después de muchos días en el barco, vieron tierra.; Nach vielen Tagen auf dem Schiff sahen sie Land.
 es-ke-0326; Sprache; el idioma; la lengua; A1; Karstens Empfehlung/Wörter; El inglés es un idioma fácil para mí.; Englisch ist eine leichte Sprache für mich.
 es-ke-0328; spät; tarde; ; A1; Karstens Empfehlung/Wörter; Perdona, llego tarde, el autobús iba lento.; Entschuldigung, ich bin zu spät, der Bus war langsam.
 es-ke-0329; Gesetz; la ley; ; B1; Karstens Empfehlung/Wörter; La nueva ley entrará en vigor en enero.; Das neue Gesetz tritt im Januar in Kraft.
@@ -370,7 +370,7 @@ es-ke-0369; Geld; el dinero; la plata; A1; Karstens Empfehlung/Wörter; Ahorro d
 es-ke-0370; Monat; el mes; ; A1; Karstens Empfehlung/Wörter; Julio es mi mes favorito del año.; Juli ist mein Lieblingsmonat im Jahr.
 es-ke-0371; mehr; más; ; A1; Karstens Empfehlung/Wörter; ¿Quieres más sopa o ya estás lleno?; Willst du mehr Suppe oder bist du schon satt?
 es-ke-0372; Morgen; la mañana; ; A1; Karstens Empfehlung/Wörter; Todas las mañanas tomo café a las siete.; Ich trinke jeden Morgen um sieben Kaffee.
-es-ke-0373; Mutter; la madre; ; A1; Karstens Empfehlung/Wörter; Mi madre hace el mejor pastel.; Meine Mutter macht den besten Kuchen.
+es-ke-0373; Mutter (Elternteil); la madre; ; A1; Karstens Empfehlung/Wörter; Mi madre hace el mejor pastel.; Meine Mutter macht den besten Kuchen.
 es-ke-0374; Berg; la montaña; el monte; A1; Karstens Empfehlung/Wörter; En invierno la montaña está cubierta de nieve.; Der Berg ist im Winter mit Schnee bedeckt.
 es-ke-0375; Mund; la boca; ; A1; Karstens Empfehlung/Wörter; Abra la boca para el médico, por favor.; Bitte öffnen Sie den Mund für den Arzt.
 es-ke-0376; Bewegung; el movimiento; ; B1; Karstens Empfehlung/Wörter; El movimiento de las olas me da sueño.; Die Bewegung der Wellen macht mich müde.
@@ -387,7 +387,7 @@ es-ke-0387; notwendig; necesario; ; B1; Karstens Empfehlung/Wörter; Es necesari
 es-ke-0388; Neffe; el sobrino; ; A2; Karstens Empfehlung/Wörter; Su sobrino juega al fútbol en un club pequeño.; Ihr Neffe spielt Fußball in einem kleinen Verein.
 es-ke-0389; nie; nunca; jamás; A1; Karstens Empfehlung/Wörter; Él nunca toma café después de cenar.; Er trinkt nach dem Abendessen nie Kaffee.
 es-ke-0390; neu; nuevo; ; A1; Karstens Empfehlung/Wörter; Necesito zapatos nuevos para el invierno.; Ich brauche neue Schuhe für den Winter.
-es-ke-0391; Nachricht; las noticias; la noticia; A2; Karstens Empfehlung/Wörter; Mi padre ve las noticias todas las noches.; Mein Vater sieht jeden Abend die Nachrichten.
+es-ke-0391; Nachricht (Neuigkeit); las noticias; la noticia; A2; Karstens Empfehlung/Wörter; Mi padre ve las noticias todas las noches.; Mein Vater sieht jeden Abend die Nachrichten.
 es-ke-0392; Zeitung; el periódico; el diario; A1; Karstens Empfehlung/Wörter; Mi padre lee el periódico todas las mañanas.; Mein Vater liest jeden Morgen die Zeitung.
 es-ke-0393; nächster, nächste, nächstes; siguiente; próximo; A1; Karstens Empfehlung/Wörter; La siguiente parada es la nuestra.; Die nächste Haltestelle ist unsere.
 es-ke-0394; nett; agradable; simpático, bonito, majo; A1; Karstens Empfehlung/Wörter; La nueva compañera de clase es muy agradable.; Die neue Mitschülerin ist sehr nett.
@@ -436,7 +436,7 @@ es-ke-0437; Party; la fiesta; ; A1; Karstens Empfehlung/Wörter; La fiesta empie
 es-ke-0438; vergangen, vorbei, Vergangenheit; pasado; el pasado; A2; Karstens Empfehlung/Wörter; El verano pasado fuimos de vacaciones a la costa.; Im vergangenen Sommer fuhren wir in den Urlaub an die Küste.
 es-ke-0439; Geduld; la paciencia; ; B1; Karstens Empfehlung/Wörter; Hay que tener paciencia con los más pequeños.; Man muss mit den Kleinsten Geduld haben.
 es-ke-0440; geduldig; paciente; ; B1; Karstens Empfehlung/Wörter; Con los niños pequeños hay que ser paciente.; Mit kleinen Kindern muss man geduldig sein.
-es-ke-0441; Muster; el patrón; el modelo, el dibujo; B1; Karstens Empfehlung/Wörter; Mi jersey tiene un patrón de rayas azules.; Mein Pullover hat ein Muster aus blauen Streifen.
+es-ke-0441; Muster (Design); el patrón; el modelo, el dibujo, el estampado; B1; Karstens Empfehlung/Wörter; Mi jersey tiene un patrón de rayas azules.; Mein Pullover hat ein Muster aus blauen Streifen.
 es-ke-0442; Friede; la paz; ; B1; Karstens Empfehlung/Wörter; Todos queremos vivir en paz.; Wir alle wollen in Frieden leben.
 es-ke-0443; Leute; la gente; las personas; A1; Karstens Empfehlung/Wörter; Mucha gente espera delante de la tienda.; Viele Leute warten vor dem Geschäft.
 es-ke-0444; Leistung; el rendimiento; la actuación, el desempeño; B2; Karstens Empfehlung/Wörter; Su rendimiento fue excelente durante todo el año.; Ihre Leistung war das ganze Jahr über ausgezeichnet.
@@ -468,7 +468,7 @@ es-ke-0470; Gegenwart, Geschenk, gegenwärtig; el presente; el regalo, presente,
 es-ke-0471; Präsident; el presidente; la presidenta; A2; Karstens Empfehlung/Wörter; El presidente visitó nuestra ciudad la semana pasada.; Der Präsident besuchte letzte Woche unsere Stadt.
 es-ke-0472; Druck; la presión; ; B1; Karstens Empfehlung/Wörter; La presión del neumático es demasiado baja.; Der Druck im Reifen ist zu niedrig.
 es-ke-0473; hübsch (weiblich); guapa; bonita, linda; A1; Karstens Empfehlung/Wörter; Tu hermana está muy guapa con ese vestido.; Deine Schwester sieht in diesem Kleid sehr hübsch aus.
-es-ke-0474; Preis; el precio; ; A2; Karstens Empfehlung/Wörter; El precio incluye la entrega y el montaje.; Der Preis beinhaltet Lieferung und Montage.
+es-ke-0474; Preis (Kosten); el precio; ; A2; Karstens Empfehlung/Wörter; El precio incluye la entrega y el montaje.; Der Preis beinhaltet Lieferung und Montage.
 es-ke-0475; privat; privado; ; B1; Karstens Empfehlung/Wörter; Esta playa es privada y no se puede entrar.; Dieser Strand ist privat und man darf ihn nicht betreten.
 es-ke-0476; wahrscheinlich; probablemente; ; A2; Karstens Empfehlung/Wörter; Probablemente lloverá durante todo el fin de semana.; Wahrscheinlich wird es das ganze Wochenende regnen.
 es-ke-0477; Problem; el problema; ; A2; Karstens Empfehlung/Wörter; Hemos encontrado un problema con el software.; Wir haben ein Problem mit der Software gefunden.
@@ -491,7 +491,7 @@ es-ke-0493; Radio, Funk; la radio; ; A1; Karstens Empfehlung/Wörter; En el coch
 es-ke-0494; Bahnhof; la estación de tren; la estación; A2; Karstens Empfehlung/Wörter; Quedamos al mediodía en la estación de tren.; Wir treffen uns mittags am Bahnhof.
 es-ke-0495; Regen; la lluvia; ; A1; Karstens Empfehlung/Wörter; Necesitamos más lluvia para el jardín.; Wir brauchen mehr Regen für den Garten.
 es-ke-0496; regnerisch; lluvioso; ; A2; Karstens Empfehlung/Wörter; Noviembre es un mes muy lluvioso aquí.; Der November ist hier ein sehr regnerischer Monat.
-es-ke-0497; Reichweite; el alcance; el rango, la gama; C1; Karstens Empfehlung/Wörter; Los vídeos divertidos aumentan rápidamente el alcance de un canal.; Lustige Videos erhöhen schnell die Reichweite eines Kanals.
+es-ke-0497; Reichweite (Fahrzeug); la autonomía; el alcance; C1; Karstens Empfehlung/Wörter; Con frío la autonomía del coche eléctrico baja mucho.; Bei Kälte sinkt die Reichweite des Elektroautos stark.
 es-ke-0498; lieber; más bien; preferiblemente; B1; Karstens Empfehlung/Wörter; No quiero ir al cine, prefiero más bien pasear.; Ich will nicht ins Kino, ich gehe lieber spazieren.
 es-ke-0499; fertig, bereit; listo; preparado; A1; Karstens Empfehlung/Wörter; ¿Estás listo para salir de casa?; Bist du bereit, aus dem Haus zu gehen?
 es-ke-0500; wirklich; real; verdadero, realmente; A2; Karstens Empfehlung/Wörter; La película cuenta una historia real.; Der Film erzählt eine wirkliche Geschichte.
@@ -523,7 +523,7 @@ es-ke-0526; grob, rau, uneben; áspero; rugoso, desigual; B1; Karstens Empfehlun
 es-ke-0527; rund, rundlich; redondo; ; A2; Karstens Empfehlung/Wörter; La mesa de la cocina es redonda.; Der Küchentisch ist rund.
 es-ke-0528; unhöflich; maleducado; grosero, descortés; B1; Karstens Empfehlung/Wörter; Es de maleducados interrumpir a los demás.; Es ist unhöflich, andere Menschen zu unterbrechen.
 es-ke-0529; sicher; seguro; ; A2; Karstens Empfehlung/Wörter; Guarda tu pasaporte en un lugar seguro.; Bewahre deinen Reisepass an einem sicheren Ort auf.
-es-ke-0530; gleich; mismo; igual; A2; Karstens Empfehlung/Wörter; Mi amiga y yo llevamos la misma camiseta.; Meine Freundin und ich tragen das gleiche T-Shirt.
+es-ke-0530; gleich (derselbe); mismo; igual; A2; Karstens Empfehlung/Wörter; Mi amiga y yo llevamos la misma camiseta.; Meine Freundin und ich tragen das gleiche T-Shirt.
 es-ke-0531; Samstag; el sábado; ; A1; Karstens Empfehlung/Wörter; El sábado vamos al mercado.; Am Samstag gehen wir auf den Markt.
 es-ke-0532; Schauplatz, Szene; la escena; el escenario; B1; Karstens Empfehlung/Wörter; La última escena de la película es muy emocionante.; Die letzte Szene des Films ist sehr spannend.
 es-ke-0533; Schule; la escuela; el colegio; A1; Karstens Empfehlung/Wörter; Mi escuela tiene un patio muy grande.; Meine Schule hat einen sehr großen Hof.
@@ -557,7 +557,7 @@ es-ke-0560; Schwester; la hermana; ; A1; Karstens Empfehlung/Wörter; Mi hermana
 es-ke-0561; Schwägerin; la cuñada; ; B1; Karstens Empfehlung/Wörter; Mi cuñada espera su segundo hijo.; Meine Schwägerin erwartet ihr zweites Kind.
 es-ke-0562; Grundstück, Stätte, Standort; el sitio; el lugar, el terreno, la ubicación; B2; Karstens Empfehlung/Wörter; Este es el sitio donde van a construir el nuevo polideportivo.; Das ist der Standort, an dem die neue Sporthalle gebaut wird.
 es-ke-0563; Situation; la situación; ; B1; Karstens Empfehlung/Wörter; Es una situación difícil para toda la familia.; Es ist eine schwierige Situation für die ganze Familie.
-es-ke-0564; Größe; el tamaño; la talla; A2; Karstens Empfehlung/Wörter; ¿Qué tamaño de zapatos usas?; Welche Größe haben deine Schuhe?
+es-ke-0564; Größe; la talla; el tamaño; A2; Karstens Empfehlung/Wörter; ¿Tiene esta camisa en la talla M?; Haben Sie dieses Hemd in Größe M?
 es-ke-0565; Fähigkeit, Können; la habilidad; la destreza; A2; Karstens Empfehlung/Wörter; Cocinar es una habilidad útil para todo el mundo.; Kochen ist eine nützliche Fähigkeit für jeden.
 es-ke-0566; Haut; la piel; ; A2; Karstens Empfehlung/Wörter; En invierno, la piel seca necesita una buena crema.; Trockene Haut braucht im Winter eine gute Creme.
 es-ke-0567; langsam; lento; ; A1; Karstens Empfehlung/Wörter; Hoy el autobús viejo va muy lento.; Der alte Bus ist heute sehr langsam.
@@ -576,7 +576,7 @@ es-ke-0579; Lied; la canción; ; A2; Karstens Empfehlung/Wörter; Esta canción 
 es-ke-0580; bald; pronto; ; A2; Karstens Empfehlung/Wörter; ¡Hasta pronto, nos vemos mañana!; Bis bald, wir sehen uns morgen!
 es-ke-0581; Geräusch, Klang; el sonido; el ruido; A2; Karstens Empfehlung/Wörter; Me encanta el sonido de la lluvia en la ventana.; Ich liebe das Geräusch des Regens am Fenster.
 es-ke-0582; Suppe; la sopa; ; A1; Karstens Empfehlung/Wörter; En invierno la abuela hace una sopa caliente.; Oma macht im Winter eine warme Suppe.
-es-ke-0583; sauer; ácido; agrio; B1; Karstens Empfehlung/Wörter; La salsa de limón es agradablemente ácida.; Die Zitronensoße ist angenehm sauer.
+es-ke-0583; sauer (Geschmack); ácido; agrio; B1; Karstens Empfehlung/Wörter; La salsa de limón es agradablemente ácida.; Die Zitronensoße ist angenehm sauer.
 es-ke-0584; Quelle, Ursprung; la fuente; el origen; B2; Karstens Empfehlung/Wörter; Un buen periodista siempre comprueba sus fuentes con cuidado.; Ein guter Journalist prüft seine Quellen immer sorgfältig.
 es-ke-0585; Süden; el sur; ; A2; Karstens Empfehlung/Wörter; En el sur de España hace mucho sol.; Im Süden Spaniens scheint viel die Sonne.
 es-ke-0586; südlich; meridional; del sur; B1; Karstens Empfehlung/Wörter; Andalucía está en la parte meridional de España.; Andalusien liegt im südlichen Teil Spaniens.
@@ -599,10 +599,10 @@ es-ke-0602; Stiefschwester; la hermanastra; ; B1; Karstens Empfehlung/Wörter; M
 es-ke-0603; still; tranquilo; silencioso, callado; A2; Karstens Empfehlung/Wörter; Por la noche el pueblo está muy tranquilo.; Nachts ist das Dorf sehr still.
 es-ke-0604; Vorrat; las existencias; el stock, la reserva; B2; Karstens Empfehlung/Wörter; La tienda no tiene existencias de esa camiseta.; Das Geschäft hat keinen Vorrat an diesem T-Shirt.
 es-ke-0605; Geschäft, Laden; la tienda; el comercio; A1; Karstens Empfehlung/Wörter; La tienda abre a las nueve de la mañana.; Das Geschäft öffnet morgens um neun.
-es-ke-0606; Sturm; la tormenta; ; A2; Karstens Empfehlung/Wörter; Anoche hubo una tormenta con muchos truenos.; Letzte Nacht gab es einen Sturm mit viel Donner.
+es-ke-0606; Sturm; el temporal; el vendaval, la tormenta; A2; Karstens Empfehlung/Wörter; El temporal rompió muchos árboles viejos.; Der Sturm brach viele alte Bäume.
 es-ke-0607; stürmisch; tormentoso; ; B1; Karstens Empfehlung/Wörter; Hoy el mar está tormentoso y no podemos bañarnos.; Heute ist das Meer stürmisch und wir können nicht baden.
 es-ke-0608; Geschichte, Erzählung; la historia; el cuento, el relato; A1; Karstens Empfehlung/Wörter; La historia alemana me parece muy interesante.; Ich finde die deutsche Geschichte sehr interessant.
-es-ke-0609; gerade; recto; derecho; A2; Karstens Empfehlung/Wörter; Dibuja una línea recta con la regla.; Zeichne mit dem Lineal eine gerade Linie.
+es-ke-0609; gerade (nicht krumm); recto; derecho; A2; Karstens Empfehlung/Wörter; Dibuja una línea recta con la regla.; Zeichne mit dem Lineal eine gerade Linie.
 es-ke-0610; Bach; el arroyo; ; B1; Karstens Empfehlung/Wörter; Detrás de la casa corre un arroyo cristalino.; Hinter dem Haus fließt ein klarer Bach.
 es-ke-0611; Straße; la calle; ; A1; Karstens Empfehlung/Wörter; Nuestra calle es tranquila por la noche.; Unsere Straße ist nachts ruhig.
 es-ke-0612; stark, kräftig, stabil; fuerte; robusto; A1; Karstens Empfehlung/Wörter; En los momentos difíciles hay que ser fuerte.; In schweren Zeiten muss man stark sein.
@@ -635,14 +635,14 @@ es-ke-0638; Lehrer; el profesor; la profesora, el maestro, la maestra; A1; Karst
 es-ke-0639; zart, weich; tierno; suave, blando; B2; Karstens Empfehlung/Wörter; La carne estaba tan tierna que se deshacía.; Das Fleisch war so zart dass es zerging.
 es-ke-0640; Begriff, Semester; el término; el semestre, el trimestre; B2; Karstens Empfehlung/Wörter; No entiendo este término científico.; Ich verstehe diesen wissenschaftlichen Begriff nicht.
 es-ke-0641; furchtbar, schrecklich; terrible; horrible, espantoso; A2; Karstens Empfehlung/Wörter; Durante nuestras vacaciones hizo un tiempo terrible.; Das Wetter war schrecklich während unseres Urlaubs.
-es-ke-0642; als; que; ; A2; Karstens Empfehlung/Wörter; Mi perro es más grande que el tuyo.; Mein Hund ist größer als deiner.
+es-ke-0642; als (Vergleich); que; ; A2; Karstens Empfehlung/Wörter; Mi perro es más grande que el tuyo.; Mein Hund ist größer als deiner.
 es-ke-0643; dass; que; ; A2; Karstens Empfehlung/Wörter; Creo que mañana va a hacer buen tiempo.; Ich glaube, dass morgen gutes Wetter wird.
 es-ke-0644; dann, danach, damals; entonces; luego, después; A1; Karstens Empfehlung/Wörter; Terminamos de comer y entonces salimos al jardín.; Wir aßen fertig und dann gingen wir in den Garten.
 es-ke-0645; Theorie; la teoría; ; B1; Karstens Empfehlung/Wörter; Una buena teoría se puede comprobar con experimentos.; Eine gute Theorie lässt sich durch Experimente prüfen.
 es-ke-0646; da, dort; allí; ahí, allá; A1; Karstens Empfehlung/Wörter; Deja tu abrigo allí, junto a la puerta.; Lass deinen Mantel dort neben der Tür.
 es-ke-0647; daher, deshalb; por lo tanto; por eso, por consiguiente; B2; Karstens Empfehlung/Wörter; Está lloviendo, por lo tanto nos quedamos en casa.; Es regnet, daher bleiben wir zu Hause.
 es-ke-0648; diese (Plural); estos; estas; A1; Karstens Empfehlung/Wörter; Estos zapatos son nuevos y muy cómodos.; Diese Schuhe sind neu und sehr bequem.
-es-ke-0649; dick; grueso; gordo; A2; Karstens Empfehlung/Wörter; Este libro es demasiado grueso para leerlo en una semana.; Dieses Buch ist zu dick, um es in einer Woche zu lesen.
+es-ke-0649; dick (Gegenstand); grueso; gordo; A2; Karstens Empfehlung/Wörter; Este libro es demasiado grueso para leerlo en una semana.; Dieses Buch ist zu dick, um es in einer Woche zu lesen.
 es-ke-0650; dünn; delgado; fino; A2; Karstens Empfehlung/Wörter; El gato está muy delgado porque no come.; Die Katze ist sehr dünn, weil sie nicht frisst.
 es-ke-0651; Ding, Sache; la cosa; ; A1; Karstens Empfehlung/Wörter; Hay una cosa que quiero contarte.; Es gibt eine Sache, die ich dir erzählen will.
 es-ke-0652; dieser, diese, dieses; este; esta, esto; A1; Karstens Empfehlung/Wörter; Este parque es mi favorito de la ciudad.; Dieser Park ist mein Lieblingspark in der Stadt.
@@ -689,7 +689,7 @@ es-ke-0692; etwas kaufen; comprar; ; A1; Karstens Empfehlung/Verben; Compramos p
 es-ke-0693; rufen; llamar; ; A2; Karstens Empfehlung/Verben; La profesora llama a los alumnos por su nombre.; Die Lehrerin ruft die Schüler bei ihrem Namen.
 es-ke-0694; jemanden anrufen; llamar por teléfono; llamar; A2; Karstens Empfehlung/Verben; Esta noche voy a llamar por teléfono a mi abuela.; Heute Abend rufe ich meine Oma an.
 es-ke-0695; sich kümmern um; cuidar de; cuidar, ocuparse de; B1; Karstens Empfehlung/Verben; Cuida de su madre enferma.; Sie kümmert sich um ihre kranke Mutter.
-es-ke-0696; tragen; llevar; cargar; A2; Karstens Empfehlung/Verben; Ella lleva un vestido rojo en la fiesta.; Sie trägt ein rotes Kleid auf der Party.
+es-ke-0696; tragen (Last); llevar; cargar; A2; Karstens Empfehlung/Verben; ¿Me ayudas a llevar esta caja tan pesada?; Hilfst du mir, diese schwere Kiste zu tragen?
 es-ke-0697; fangen; atrapar; coger, pillar, agarrar; A2; Karstens Empfehlung/Verben; Al perro le encanta atrapar la pelota.; Der Hund liebt es, den Ball zu fangen.
 es-ke-0698; verursachen; causar; provocar, ocasionar; B1; Karstens Empfehlung/Verben; La lluvia intensa causó graves problemas en las carreteras.; Der starke Regen verursachte ernste Probleme auf den Straßen.
 es-ke-0699; ändern; cambiar; ; A2; Karstens Empfehlung/Verben; Quiero cambiar el color de mi habitación.; Ich will die Farbe meines Zimmers ändern.
@@ -747,7 +747,7 @@ es-ke-0750; geben; dar; ; A1; Karstens Empfehlung/Verben; Por favor, dame el lib
 es-ke-0751; gehen, fahren; ir; ; A1; Karstens Empfehlung/Verben; Vamos al colegio todas las mañanas.; Wir gehen jeden Morgen zur Schule.
 es-ke-0752; spazieren gehen; dar un paseo; pasear; A2; Karstens Empfehlung/Verben; Después de cenar, vamos a dar un paseo por el parque.; Nach dem Abendessen gehen wir im Park spazieren.
 es-ke-0753; wachsen; crecer; ; A2; Karstens Empfehlung/Verben; Estas flores crecen muy rápido en verano.; Diese Blumen wachsen im Sommer sehr schnell.
-es-ke-0754; raten; adivinar; ; A2; Karstens Empfehlung/Verben; ¿Puedes adivinar cuántos años tiene mi abuela?; Kannst du raten, wie alt meine Großmutter ist?
+es-ke-0754; raten (schätzen); adivinar; ; A2; Karstens Empfehlung/Verben; ¿Puedes adivinar cuántos años tiene mi abuela?; Kannst du raten, wie alt meine Großmutter ist?
 es-ke-0755; passieren, geschehen; pasar; suceder, ocurrir; A2; Karstens Empfehlung/Verben; ¿Qué ha pasado en el patio durante el recreo?; Was ist während der Pause auf dem Hof passiert?
 es-ke-0756; etwas haben; tener; ; A1; Karstens Empfehlung/Verben; Tenemos dos gatos y un perro.; Wir haben zwei Katzen und einen Hund.
 es-ke-0757; etwas tun müssen; tener que hacer algo; tener que; A2; Karstens Empfehlung/Verben; Hoy tengo que hacer algo importante para el colegio.; Heute muss ich etwas Wichtiges für die Schule tun.
@@ -756,7 +756,7 @@ es-ke-0759; helfen; ayudar; ; A1; Karstens Empfehlung/Verben; ¿Puedes ayudarme 
 es-ke-0760; jemandem aushelfen, einspringen; echar una mano; echar una mano a alguien, ayudar; B1; Karstens Empfehlung/Verben; ¿Me echas una mano con la mudanza el sábado?; Hilfst du mir am Samstag beim Umzug aus?
 es-ke-0761; jemandem mit etwas helfen; ayudar a alguien con algo; ; A2; Karstens Empfehlung/Verben; Me gusta ayudar a alguien con algo difícil.; Ich helfe gern jemandem mit etwas Schwierigem.
 es-ke-0762; schlagen, treffen; golpear; pegar, dar; B1; Karstens Empfehlung/Verben; El niño golpea la pelota con mucha fuerza.; Der Junge schlägt den Ball mit viel Kraft.
-es-ke-0763; halten; sostener; agarrar, tener; A2; Karstens Empfehlung/Verben; ¿Puedes sostener mi mochila un momento?; Kannst du kurz meinen Rucksack halten?
+es-ke-0763; halten (festhalten); sostener; agarrar, tener; A2; Karstens Empfehlung/Verben; ¿Puedes sostener mi mochila un momento?; Kannst du kurz meinen Rucksack halten?
 es-ke-0764; hoffen; esperar; ; A1; Karstens Empfehlung/Verben; Espero que mañana haga buen tiempo.; Ich hoffe, das Wetter ist morgen schön.
 es-ke-0765; sich vorstellen; imaginarse; imaginar; B1; Karstens Empfehlung/Verben; Imagínate que vives en un castillo.; Stell dir vor, du wohnst in einem Schloss.
 es-ke-0766; verbessern; mejorar; ; A2; Karstens Empfehlung/Verben; Este año quiero mejorar mi inglés.; Ich möchte dieses Jahr mein Englisch verbessern.
@@ -827,7 +827,7 @@ es-ke-0830; verringern, reduzieren; reducir; disminuir; B1; Karstens Empfehlung/
 es-ke-0831; nachdenken, überlegen; reflexionar; pensar; B2; Karstens Empfehlung/Verben; Antes de contestar, reflexiona un poco sobre la pregunta.; Bevor du antwortest, denk ein wenig über die Frage nach.
 es-ke-0832; in Zusammenhang bringen; relacionar; ; C1; Karstens Empfehlung/Verben; Relaciona cada palabra con su dibujo.; Bringe jedes Wort mit seinem Bild in Zusammenhang.
 es-ke-0833; übrigbleiben, verbleiben; quedar; permanecer; B2; Karstens Empfehlung/Verben; Solo quedan dos galletas en el paquete.; In der Packung bleiben nur noch zwei Kekse übrig.
-es-ke-0834; erinnern; recordar; acordarse; A2; Karstens Empfehlung/Verben; Por favor, recuérdame que compre leche esta tarde.; Bitte erinnere mich daran, heute Abend Milch zu kaufen.
+es-ke-0834; sich erinnern; acordarse; recordar; A2; Karstens Empfehlung/Verben; No me acuerdo de su número de teléfono.; Ich kann mich nicht an seine Telefonnummer erinnern.
 es-ke-0835; entfernen; quitar; eliminar; B1; Karstens Empfehlung/Verben; Quita los platos de la mesa, por favor.; Entferne bitte die Teller vom Tisch.
 es-ke-0836; berichten; informar; ; B1; Karstens Empfehlung/Verben; Los jefes de equipo informan semanalmente al jefe de proyecto.; Die Teamleiter berichten dem Projektleiter wöchentlich.
 es-ke-0837; benötigen; requerir; necesitar; B2; Karstens Empfehlung/Verben; Este trabajo requiere mucha paciencia.; Diese Arbeit benötigt viel Geduld.
@@ -943,7 +943,7 @@ es-ke-0946; Opfer; la víctima; ; B1; Karstens Empfehlung/Wörter; La víctima r
 es-ke-0947; Aussicht, Blick, Standpunkt; la vista; el punto de vista, la opinión; B1; Karstens Empfehlung/Wörter; Las vistas desde la terraza son sencillamente fantásticas.; Die Aussicht von der Terrasse ist einfach fantastisch.
 es-ke-0948; Dorf, Ort; el pueblo; la aldea; A1; Karstens Empfehlung/Wörter; Mis abuelos viven en un pueblo tranquilo.; Meine Großeltern wohnen in einem ruhigen Dorf.
 es-ke-0949; Gewalt; la violencia; ; B1; Karstens Empfehlung/Wörter; En nuestro colegio no aceptamos ningún tipo de violencia.; An unserer Schule akzeptieren wir keine Art von Gewalt.
-es-ke-0950; Stimme; la voz; ; A2; Karstens Empfehlung/Wörter; Mi amiga tiene una voz muy bonita.; Meine Freundin hat eine sehr schöne Stimme.
+es-ke-0950; Stimme (beim Sprechen); la voz; ; A2; Karstens Empfehlung/Wörter; Mi amiga tiene una voz muy bonita.; Meine Freundin hat eine sehr schöne Stimme.
 es-ke-0951; Wand, Mauer; la pared; el muro; A2; Karstens Empfehlung/Wörter; Pintamos la pared de azul claro.; Wir haben die Wand hellblau gestrichen.
 es-ke-0952; Krieg; la guerra; ; A2; Karstens Empfehlung/Wörter; La guerra duró casi treinta años.; Der Krieg dauerte fast dreißig Jahre.
 es-ke-0953; warm; cálido; caliente; A1; Karstens Empfehlung/Wörter; Llévate una chaqueta caliente, que hace viento.; Nimm eine warme Jacke, es ist windig.

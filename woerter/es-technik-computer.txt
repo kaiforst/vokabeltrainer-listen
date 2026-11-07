@@ -37,7 +37,7 @@ es-tc-0034; Ladegerät; el cargador; ; A2; Technik/Computer/Smartphone; Perdí e
 es-tc-0035; Kopfhörer; los auriculares; los cascos; A2; Technik/Computer/Geräte; Escucha música con sus auriculares.; Er hört Musik mit seinen Kopfhörern.
 es-tc-0036; Lautsprecher; el altavoz; el parlante, la bocina; A2; Technik/Computer/Geräte; El altavoz suena lo bastante fuerte para la fiesta.; Der Lautsprecher ist laut genug für die Party.
 es-tc-0037; Smartphone; el smartphone; el teléfono inteligente; A2; Technik/Computer/Smartphone; Hoy en día casi todo el mundo tiene un smartphone.; Fast jeder hat heutzutage ein Smartphone.
-es-tc-0038; Nachricht; el mensaje; ; A2; Technik/Computer/Smartphone; Esta mañana me mandó un mensaje.; Sie hat mir heute Morgen eine Nachricht geschickt.
+es-tc-0038; Nachricht (Mitteilung); el mensaje; ; A2; Technik/Computer/Smartphone; Esta mañana me mandó un mensaje.; Sie hat mir heute Morgen eine Nachricht geschickt.
 es-tc-0039; Benutzer; el usuario; la usuaria; A2; Technik/Computer/Software; El nuevo usuario necesita primero una contraseña.; Der neue Benutzer braucht zuerst ein Passwort.
 es-tc-0040; Benutzername; el nombre de usuario; el usuario; A2; Technik/Computer/Sicherheit; Por favor, introduce tu nombre de usuario y tu contraseña.; Bitte gib deinen Benutzernamen und dein Passwort ein.
 es-tc-0041; Suchmaschine; el buscador; el motor de búsqueda; A2; Technik/Computer/Internet; Encontré la respuesta con un buscador.; Ich habe die Antwort mit einer Suchmaschine gefunden.
@@ -53,12 +53,12 @@ es-tc-0050; funktionieren; funcionar; ; A2; Technik/Computer/Geräte; La impreso
 es-tc-0051; Software; el software; ; B1; Technik/Computer/Software; La empresa desarrolla software para pequeños negocios.; Die Firma entwickelt Software für kleine Unternehmen.
 es-tc-0052; Hardware; el hardware; ; B1; Technik/Computer/Hardware; Un buen hardware es importante para los juegos modernos.; Gute Hardware ist wichtig für moderne Spiele.
 es-tc-0053; Festplatte; el disco duro; ; B1; Technik/Computer/Hardware; Mi disco duro vuelve a estar casi lleno.; Meine Festplatte ist schon wieder fast voll.
-es-tc-0054; Speicher; la memoria; el almacenamiento; B1; Technik/Computer/Hardware; Al móvil ya no le queda suficiente memoria.; Das Handy hat nicht mehr genug Speicher.
+es-tc-0054; Speicher (Computer); la memoria; el almacenamiento; B1; Technik/Computer/Hardware; Al móvil ya no le queda suficiente memoria.; Das Handy hat nicht mehr genug Speicher.
 es-tc-0055; Betriebssystem; el sistema operativo; ; B1; Technik/Computer/Software; El nuevo sistema operativo va mucho más rápido.; Das neue Betriebssystem läuft viel schneller.
 es-tc-0056; Anwendung; la aplicación; el programa; B1; Technik/Computer/Software; Esta aplicación solo funciona en ordenadores más nuevos.; Diese Anwendung läuft nur auf neueren Computern.
 es-tc-0057; installieren; instalar; ; B1; Technik/Computer/Software; Primero tienes que instalar el programa.; Du musst das Programm zuerst installieren.
 es-tc-0058; aktualisieren; actualizar; ; B1; Technik/Computer/Software; Por favor, actualiza la app a la última versión.; Bitte aktualisiere die App auf die neueste Version.
-es-tc-0059; Einstellung; el ajuste; la configuración, la opción; B1; Technik/Computer/Software; Puedes cambiar este ajuste en el menú.; Du kannst diese Einstellung im Menü ändern.
+es-tc-0059; Einstellung (Technik); el ajuste; la configuración, la opción; B1; Technik/Computer/Software; Puedes cambiar este ajuste en el menú.; Du kannst diese Einstellung im Menü ändern.
 es-tc-0060; Virus; el virus; el virus informático; B1; Technik/Computer/Sicherheit; Un virus puede destruir rápidamente archivos importantes.; Ein Virus kann wichtige Dateien schnell zerstören.
 es-tc-0061; Sicherheit; la seguridad; ; B1; Technik/Computer/Sicherheit; La seguridad es muy importante en internet.; Sicherheit ist im Internet sehr wichtig.
 es-tc-0062; sicher; seguro; ; B1; Technik/Computer/Sicherheit; Elige una contraseña segura con muchos caracteres.; Wähle ein sicheres Passwort mit vielen Zeichen.

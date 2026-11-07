@@ -1,0 +1,340 @@
+# Mehrdeutige deutsche Wörter (Spanisch, Paket M-es): Klammerhinweise aus dem Englischen übernommen (Fall c, 247 Zeilen), es-bd-0001 … 0054 übersetzt (Fall d) und eigene Fälle des Spanischen (b, c, d ab es-bd-0501). Fall a ist nicht aufgeführt.
+# Fall b: gleichwertige Übersetzung ergänzt; c: Klammerhinweis (übernommen) bzw. Hinweisvorschlag für alle Sprachen in pakete/M-es.md, Feld Deutsch dort unverändert; d: Bedeutung neu in woerter/es-bedeutungen.txt.
+id; Deutsch; Antwort; Fall; Bedeutungen; Änderung
+es-al-0016; Decke (im Zimmer); el techo; c; Zimmerdecke / Bettdecke; Klammer aus al-0016 übernommen
+es-al-0075; Hausarbeit (Haushalt); las tareas domésticas; c; Haushalt / Studium; Klammer aus al-0075 übernommen
+es-al-0089; Sicherung (Strom); el fusible; c; Strom / Datensicherung; Klammer aus al-0089 übernommen
+es-al-0094; Leiter (zum Steigen); la escalera de mano; c; zum Steigen / Chef; Klammer aus al-0094 übernommen
+es-al-0108; gießen (Pflanzen); regar; c; Pflanzen / Flüssigkeit; Klammer aus al-0108 übernommen
+es-al-0127; aufstehen (morgens, aus dem Bett); levantarse; c; morgens aus dem Bett / vom Stuhl; Klammer aus al-0127 übernommen
+es-ab-0043; Stelle (Arbeitsplatz); el puesto; c; Arbeitsplatz / Ort; Klammer aus ab-0043 übernommen
+es-ab-0046; kündigen (Stelle); dimitir; c; Arbeitsstelle / Vertrag; Klammer aus ab-0046 übernommen
+es-ab-0063; Zeugnis (Arbeit); el certificado; c; Arbeit / Schule; Klammer aus ab-0063 übernommen, Weitere Antworten el título und el boletín de notas (gehören zu Zeugnis Schule) ersetzt durch el certificado de trabajo
+es-ab-0075; Schicht (Arbeit); el turno; c; Arbeit / Lage; Klammer aus ab-0075 übernommen
+es-ab-0077; Lohn (Bezahlung); el salario; c; Bezahlung / Belohnung; Klammer aus ab-0077 übernommen
+es-ab-0081; einstellen (Personal); contratar; c; Personal / Gerät / beenden; Klammer aus ab-0081 übernommen
+es-ab-0110; Berufung (Lebensaufgabe); la vocación; c; Lebensaufgabe / vor Gericht; Klammer aus ab-0110 übernommen
+es-ap-0172; Schicht (Arbeit); el turno; c; Arbeit / Lage; Klammer aus ap-0172 übernommen
+es-ap-0189; Laufband (Flughafen); el pasillo rodante; c; Flughafen / Fitness; Klammer aus ap-0189 übernommen
+es-ba-0016; Los (Ausschreibung); el lote; c; Ausschreibung / Lotterie / Schicksal; Klammer aus ba-0016 übernommen
+es-ba-0024; Preis (Kosten); el precio; c; Kosten / Gewinn; Klammer aus ba-0024 übernommen
+es-ba-0046; Zuschlag (Ausschreibung); la adjudicación; c; Ausschreibung / Aufpreis; Klammer aus ba-0046 übernommen
+es-ba-0050; vergeben (Auftrag); adjudicar; c; Auftrag / verzeihen; Klammer aus ba-0050 übernommen
+es-ba-0090; Muster (Warenprobe); la muestra; c; Warenprobe / Design; Klammer aus ba-0090 übernommen
+es-ba-0099; Einkauf (Abteilung); el departamento de compras; c; Abteilung / Einkaufen; Klammer aus ba-0099 übernommen
+es-ba-0128; Lager (Waren); el almacén; c; Waren / Zeltlager; Klammer aus ba-0128 übernommen
+es-ba-0130; Bestand (Lager); las existencias; c; Warenbestand / Tierbestand; Klammer aus ba-0130 übernommen
+es-bb-0030; Preis (Kosten); el precio; c; Kosten / Gewinn; Klammer aus bb-0030 übernommen
+es-bb-0035; Nachricht (Mitteilung); el mensaje; c; Mitteilung / Neuigkeit; Klammer aus bb-0035 übernommen
+es-bb-0048; Geschäft (Handel); el negocio; c; Laden / Handel; Klammer aus bb-0048 übernommen
+es-bb-0052; Protokoll (Sitzung); el acta; c; Sitzung / Regelwerk; Klammer aus bb-0052 übernommen
+es-bb-0081; Folie (Präsentation); la diapositiva; c; Präsentation / Alufolie; Klammer aus bb-0081 übernommen
+es-bb-0104; Abstimmung (Koordination); la coordinación; c; Koordination / Wahl, Votum; Klammer aus bb-0104 übernommen
+es-bb-0120; Überweisung (Bank); la transferencia; c; Bank / zum Facharzt; Klammer aus bb-0120 übernommen
+es-bb-0125; Messe (Ausstellung); la feria; c; Ausstellung / Gottesdienst; Klammer aus bb-0125 übernommen
+es-mv-0004; Geschäft (Laden); la tienda; c; Laden / Handel; Klammer aus mv-0004 übernommen
+es-mv-0022; Anzeige (Werbung); el anuncio; c; Werbung / bei der Polizei / Display; Klammer aus mv-0022 übernommen
+es-mv-0049; Muster (Warenprobe); la muestra; c; Warenprobe / Design; Klammer aus mv-0049 übernommen
+es-mv-0061; Bewertung (von Kunden); la valoración; c; von Kunden / Leistungsbewertung; Klammer aus mv-0061 übernommen
+es-mv-0086; Reichweite (Medien); el alcance; c; Medien / Fahrzeug, Akku; Klammer aus mv-0086 übernommen
+es-mv-0090; Messe (Ausstellung); la feria; c; Ausstellung / Gottesdienst; Klammer aus mv-0090 übernommen
+es-pw-0007; einstellen (Personal); contratar; c; Personal / Gerät / beenden; Klammer aus pw-0007 übernommen
+es-pw-0047; Lohn (Bezahlung); el salario; c; Bezahlung / Belohnung; Klammer aus pw-0047 übernommen
+es-pw-0111; Auszeit (vom Beruf); el año sabático; c; vom Beruf / im Sport; Klammer aus pw-0111 übernommen
+es-pw-0134; kündigen (Stelle); dimitir; c; Arbeitsstelle / Vertrag; Klammer aus pw-0134 übernommen
+es-pm-0065; abschließen (beenden); completar; c; beenden / Vertrag schließen / Tür verschließen; Klammer aus pm-0065 übernommen
+es-pm-0074; Mittel (Geld); los fondos; c; Geld / Werkzeug, Weg / Medikament; Klammer aus pm-0074 übernommen
+es-pm-0078; einstellen (Personal); contratar; c; Personal / Gerät / beenden; Klammer aus pm-0078 übernommen
+es-pm-0087; Protokoll (Sitzung); el acta; c; Sitzung / Regelwerk; Klammer aus pm-0087 übernommen
+es-pm-0096; schätzen (ungefähr berechnen); estimar; c; ungefähr berechnen / wertschätzen; Klammer aus pm-0096 übernommen
+es-pm-0097; Abnahme (Projekt); la aceptación; c; Übergabe eines Werks / Rückgang; Klammer aus pm-0097 übernommen
+es-rc-0003; Preis (Kosten); el precio; c; Kosten / Gewinn; Klammer aus rc-0003 übernommen
+es-rc-0017; Überweisung (Bank); la transferencia; c; Bank / zum Facharzt; Klammer aus rc-0017 übernommen
+es-rc-0068; abschreiben (Buchhaltung); amortizar; c; Wertverlust buchen / von jemandem kopieren; Klammer aus rc-0068 übernommen
+es-vh-0001; Preis (Kosten); el precio; c; Kosten / Gewinn; Klammer aus vh-0001 übernommen
+es-vh-0058; Abschluss (Geschäft); el cierre; c; Geschäftsabschluss / Schul- oder Studienabschluss; Klammer aus vh-0058 übernommen
+es-vh-0059; abschließen (Vertrag); cerrar; c; beenden / Vertrag schließen / Tür verschließen; Klammer aus vh-0059 übernommen
+es-vh-0064; Protokoll (Sitzung); el acta; c; Sitzung / Regelwerk; Klammer aus vh-0064 übernommen
+es-vh-0076; Sackgasse (ausweglose Lage); el punto muerto; c; Straße ohne Ausgang / ausweglose Lage; Klammer aus vh-0076 übernommen
+es-vt-0005; Preis (Kosten); el precio; c; Kosten / Gewinn; Klammer aus vt-0005 übernommen
+es-vt-0035; Laufzeit (Vertrag); la duración del contrato; c; Vertrag / Film; Klammer aus vt-0035 übernommen
+es-vt-0037; kündigen (Vertrag); rescindir; c; Arbeitsstelle / Vertrag; Klammer aus vt-0037 übernommen
+es-vt-0038; Verlängerung (Frist, Vertrag); la prórroga; c; Frist, Vertrag / Sport; Klammer aus vt-0038 übernommen
+es-vt-0059; Gericht (Justiz); el tribunal; c; Justiz / Speise; Klammer aus vt-0059 übernommen
+es-vt-0078; Mangel (Fehler); el defecto; c; Fehler / Fehlen; Klammer aus vt-0078 übernommen
+es-vt-0092; Annahme (eines Angebots); la aceptación; c; Annehmen / Vermutung; Klammer aus vt-0092 übernommen
+es-vt-0101; Vergleich (vor Gericht); el acuerdo transaccional; c; Gegenüberstellung / vor Gericht; Klammer aus vt-0101 übernommen
+es-vt-0122; Rücktritt (vom Vertrag); el desistimiento; c; vom Vertrag / vom Amt; Klammer aus vt-0122 übernommen
+es-vt-0135; Berufung (Gericht); el recurso de apelación; c; Lebensaufgabe / vor Gericht; Klammer aus vt-0135 übernommen
+es-eg-0003; Preis (Kosten); el precio; c; Kosten / Gewinn; Klammer aus eg-0003 übernommen
+es-eg-0004; Geschäft (Laden); la tienda; c; Laden / Handel; Klammer aus eg-0004 übernommen
+es-eg-0014; Tasche (zum Tragen); la bolsa; c; zum Tragen / an der Kleidung; Klammer aus eg-0014 übernommen
+es-eg-0030; Bank (Geldinstitut); el banco; c; Geldinstitut / zum Sitzen; Klammer aus eg-0030 übernommen
+es-eg-0053; Schein (Geldschein); el billete; c; Geldschein / Bescheinigung / Anschein; Klammer aus eg-0053 übernommen
+es-eg-0066; Bewertung (von Kunden); la valoración; c; von Kunden / Leistungsbewertung; Klammer aus eg-0066 übernommen
+es-eg-0073; handeln (feilschen); regatear; c; feilschen / Handel treiben / tun; Klammer aus eg-0073 übernommen
+es-eg-0086; Überweisung (Bank); la transferencia; c; Bank / zum Facharzt; Klammer aus eg-0086 übernommen
+es-eg-0087; abheben (Geld); sacar; c; Geld abheben / Flugzeug hebt ab; Klammer aus eg-0087 übernommen
+es-eg-0092; leihen (jemandem etwas); prestar; c; jemandem etwas leihen / sich etwas leihen; Klammer aus eg-0092 übernommen
+es-et-0039; Eis (Speiseeis); el helado; c; Speiseeis / gefrorenes Wasser; Klammer aus et-0039 übernommen
+es-et-0067; Rezept (Kochen); la receta; c; Kochen / Arzt; Klammer aus et-0067 übernommen
+es-et-0073; sauer (Geschmack); ácido; c; Geschmack / verärgert; Klammer aus et-0073 übernommen
+es-et-0076; scharf (Essen); picante; c; Essen / Messer; Klammer aus et-0076 übernommen
+es-et-0107; gießen (Flüssigkeit); verter; c; Pflanzen / Flüssigkeit; Klammer aus et-0107 übernommen
+es-et-0116; Imbiss (Lokal); el puesto de comida; c; Lokal / kleine Mahlzeit; Klammer aus et-0116 übernommen
+es-fb-0002; Mutter (Elternteil); la madre; c; Elternteil / Schraube; Klammer aus fb-0002 übernommen
+es-fb-0041; Freund (Partner); el novio; c; Partner / Freund; Klammer aus fb-0041 übernommen, Weitere Antwort el amigo entfernt (Freund im Sinne von Kumpel)
+es-fb-0042; Freundin (Partnerin); la novia; c; Partnerin / Freundin; Klammer aus fb-0042 übernommen, Weitere Antwort la amiga entfernt (Freundin im Sinne von Kumpel)
+es-fb-0112; Erbe (Nachlass); la herencia; c; das Erbe / der Erbe; Klammer aus fb-0112 übernommen
+es-fb-0140; schätzen (wertschätzen); valorar; c; ungefähr berechnen / wertschätzen; Klammer aus fb-0140 übernommen
+es-fh-0016; Karte (Spielkarte); la carta; c; Spielkarte / Landkarte / Fahrkarte, Eintrittskarte; Klammer aus fh-0016 übernommen
+es-fh-0027; Würfel (Spiel); el dado; c; Spielwürfel / geometrischer Körper, Eiswürfel; Klammer aus fh-0027 übernommen
+es-fh-0065; Preis (Gewinn); el premio; c; Kosten / Gewinn; Klammer aus fh-0065 übernommen
+es-fh-0074; Band (Musikgruppe); el grupo; c; Musikgruppe / Buch / zum Binden; Klammer aus fh-0074 übernommen
+es-fh-0081; Handlung (Geschichte); la trama; c; Geschichte eines Buchs oder Films / Tat; Klammer aus fh-0081 übernommen
+es-fh-0086; Umzug (Festzug); el desfile; c; Festzug / Wohnungswechsel; Klammer aus fh-0086 übernommen
+es-fh-0091; Unterhaltung (Vergnügen); el entretenimiento; c; Vergnügen / Gespräch; Klammer aus fh-0091 übernommen
+es-fh-0110; Spannung (Buch, Film); el suspense; c; Buch, Film / Strom; Klammer aus fh-0110 übernommen
+es-gc-0016; Glück (glücklich sein); la felicidad; c; glücklich sein / Glück haben; Klammer aus gc-0016 übernommen
+es-gc-0032; sauer (verärgert); mosqueado; c; Geschmack / verärgert; Klammer aus gc-0032 übernommen
+es-gc-0052; faul (träge); vago; c; träge / verdorben; Klammer aus gc-0052 übernommen
+es-gw-0006; Entschuldigung (Ausruf); perdón; c; Ausruf / Bitte um Verzeihung; Klammer aus gw-0006 übernommen
+es-gw-0072; tragen (Kleidung); llevar; c; Kleidung / Last; Klammer aus gw-0072 übernommen, Weitere Antwort cargar entfernt (gehört zu tragen Last)
+es-gw-0096; Mutter (Elternteil); la madre; c; Elternteil / Schraube; Klammer aus gw-0096 übernommen
+es-gw-0239; Geschäft (Laden); la tienda; c; Laden / Handel; Klammer aus gw-0239 übernommen
+es-gw-0285; raten (schätzen); adivinar; c; schätzen / empfehlen; Klammer aus gw-0285 übernommen
+es-gw-0313; Leiter (zum Steigen); la escalera; c; zum Steigen / Chef; Klammer aus gw-0313 übernommen
+es-gw-0355; Rezept (Kochen); la receta; c; Kochen / Arzt; Klammer aus gw-0355 übernommen
+es-gw-0359; Imbiss (kleine Mahlzeit); el tentempié; c; Lokal / kleine Mahlzeit; Klammer aus gw-0359 übernommen
+es-gw-0395; faul (träge); perezoso; c; träge / verdorben; Klammer aus gw-0395 übernommen
+es-gw-0417; Schloss (Gebäude); el castillo; c; Gebäude / an der Tür; Klammer aus gw-0417 übernommen
+es-gw-0427; Platz (in der Stadt); la plaza; c; in der Stadt / Ort, Raum / Sitzplatz; Klammer aus gw-0427 übernommen
+es-gw-0441; Nachricht (Mitteilung); el mensaje; c; Mitteilung / Neuigkeit; Klammer aus gw-0441 übernommen, Weitere Antwort la noticia entfernt (gehört zu Nachricht Neuigkeit)
+es-gw-0450; Rat (Ratschlag); el consejo; c; Ratschlag / Gremium; Klammer aus gw-0450 übernommen
+es-gw-0481; Decke (zum Zudecken); la manta; c; Zimmerdecke / Bettdecke; Klammer aus gw-0481 übernommen
+es-gw-0484; Glück (Glück haben); la suerte; c; glücklich sein / Glück haben; Klammer aus gw-0484 übernommen
+es-gw-0494; Note (Schule); la nota; c; Schule / Musik; Klammer aus gw-0494 übernommen
+es-gw-0511; annehmen (vermuten); suponer; c; vermuten / akzeptieren; Klammer aus gw-0511 übernommen
+es-gw-0551; vorstellen (jemanden); presentar; c; jemanden / sich etwas vorstellen; Klammer aus gw-0551 übernommen
+es-gw-0572; erinnern (jemanden); recordar; c; jemanden erinnern / sich erinnern; Klammer aus gw-0572 übernommen
+es-gw-0588; verlegen (beschämt); avergonzado; c; beschämt / verschieben, verlieren; Klammer aus gw-0588 übernommen
+es-gw-0658; Einstellung (Haltung); la actitud; c; Haltung / Technik / Personal; Klammer aus gw-0658 übernommen
+es-gw-0670; Folge (Konsequenz); la consecuencia; c; Konsequenz / Episode; Klammer aus gw-0670 übernommen
+es-gw-0715; Lohn (Bezahlung); el salario; c; Bezahlung / Belohnung; Klammer aus gw-0715 übernommen
+es-gw-0854; Annahme (Vermutung); la suposición; c; Annehmen / Vermutung; Klammer aus gw-0854 übernommen
+es-gw-0989; vermessen (anmaßend); presuntuoso; c; anmaßend / Verb; Klammer aus gw-0989 übernommen
+es-ke-0053; Bank (Geldinstitut); el banco; c; Geldinstitut / zum Sitzen; Klammer aus ke-0053 übernommen
+es-ke-0085; Geschäft (Handel); el negocio; c; Laden / Handel; Klammer aus ke-0085 übernommen
+es-ke-0089; Krebs (Krankheit); el cáncer; c; Krankheit / Tier; Klammer aus ke-0089 übernommen
+es-ke-0122; Farbe (Farbton); el color; c; Farbton / Farbe zum Malen, Anstrich; Klammer aus ke-0122 übernommen
+es-ke-0131; Land (Staat); el país; c; Staat / Boden / ländliche Gegend; Klammer aus ke-0131 übernommen, Weitere Antwort la tierra entfernt (gehört zu Land Boden)
+es-ke-0200; böse (schlecht, gemein); malvado; c; schlecht / verärgert / unartig; Klammer aus ke-0200 übernommen
+es-ke-0205; erfahren (mit viel Erfahrung); experimentado; c; Adjektiv / Verb; Klammer aus ke-0205 übernommen
+es-ke-0212; weit (Entfernung); lejos; c; Entfernung / Kleidung; Klammer aus ke-0212 übernommen
+es-ke-0285; Geschichte (Vergangenheit); la historia; c; Vergangenheit / Erzählung; Klammer aus ke-0285 übernommen
+es-ke-0325; Land (Boden); la tierra; c; Staat / Boden / ländliche Gegend; Klammer aus ke-0325 übernommen, Weitere Antwort el país entfernt (gehört zu Land Staat)
+es-ke-0373; Mutter (Elternteil); la madre; c; Elternteil / Schraube; Klammer aus ke-0373 übernommen
+es-ke-0391; Nachricht (Neuigkeit); las noticias; c; Mitteilung / Neuigkeit; Klammer aus ke-0391 übernommen
+es-ke-0441; Muster (Design); el patrón; c; Warenprobe / Design; Klammer aus ke-0441 übernommen
+es-ke-0474; Preis (Kosten); el precio; c; Kosten / Gewinn; Klammer aus ke-0474 übernommen
+es-ke-0497; Reichweite (Fahrzeug); la autonomía; c; Medien / Fahrzeug, Akku; Klammer aus ke-0497 übernommen, Antwort el alcance → la autonomía wie es-vm-0128, Weitere el alcance (el rango und la gama entfernt), Beispiel neu (war Reichweite eines Kanals)
+es-ke-0530; gleich (derselbe); mismo; c; derselbe / sofort / gleichwertig; Klammer aus ke-0530 übernommen
+es-ke-0583; sauer (Geschmack); ácido; c; Geschmack / verärgert; Klammer aus ke-0583 übernommen
+es-ke-0609; gerade (nicht krumm); recto; c; nicht krumm / zeitlich / Zahl; Klammer aus ke-0609 übernommen
+es-ke-0642; als (Vergleich); que; c; Vergleich / zeitlich / in der Rolle; Klammer aus ke-0642 übernommen
+es-ke-0649; dick (Gegenstand); grueso; c; Gegenstand / Körper; Klammer aus ke-0649 übernommen
+es-ke-0696; tragen (Last); llevar; c; Kleidung / Last; Klammer aus ke-0696 übernommen, Beispiel neu (war ein Kleid tragen)
+es-ke-0754; raten (schätzen); adivinar; c; schätzen / empfehlen; Klammer aus ke-0754 übernommen
+es-ke-0763; halten (festhalten); sostener; c; festhalten / anhalten; Klammer aus ke-0763 übernommen
+es-ke-0834; sich erinnern; acordarse; c; jemanden erinnern / sich erinnern; Deutsch wie ke-0834 („erinnern“ → „sich erinnern“), Antwort recordar → acordarse wie es-gw-0307, Weitere recordar, Beispiel neu (war recuérdame = jemanden erinnern)
+es-ke-0950; Stimme (beim Sprechen); la voz; c; beim Sprechen / bei der Wahl; Klammer aus ke-0950 übernommen
+es-km-0004; Rock (Kleidungsstück); la falda; c; Kleidungsstück / Musik; Klammer aus km-0004 übernommen
+es-km-0016; Tasche (zum Tragen); la bolsa; c; zum Tragen / an der Kleidung; Klammer aus km-0016 übernommen
+es-km-0019; anziehen (Kleidung); ponerse; c; Kleidung / anlocken; Klammer aus km-0019 übernommen
+es-km-0020; ausziehen (Kleidung); quitarse; c; Kleidung / aus der Wohnung; Klammer aus km-0020 übernommen
+es-km-0021; tragen (Kleidung); llevar; c; Kleidung / Last; Klammer aus km-0021 übernommen
+es-km-0025; Farbe (Farbton); el color; c; Farbton / Farbe zum Malen, Anstrich; Klammer aus km-0025 übernommen
+es-km-0054; weit (Kleidung); ancho; c; Entfernung / Kleidung; Klammer aus km-0054 übernommen
+es-km-0060; Preis (Kosten); el precio; c; Kosten / Gewinn; Klammer aus km-0060 übernommen
+es-km-0061; Stoff (Textil); la tela; c; Textil / Chemie; Klammer aus km-0061 übernommen
+es-km-0067; Muster (Design); el estampado; c; Warenprobe / Design; Klammer aus km-0067 übernommen
+es-km-0077; Absatz (Schuh); el tacón; c; am Schuh / im Text / Verkauf; Klammer aus km-0077 übernommen
+es-km-0098; Futter (im Mantel); el forro; c; im Kleidungsstück / für Tiere; Klammer aus km-0098 übernommen
+es-km-0126; Garderobe (Kleidung); el vestuario; c; Kleidung / Ablage für Mäntel; Klammer aus km-0126 übernommen
+es-km-0133; Spitze (Stoff); el encaje; c; Stoff / oberes Ende; Klammer aus km-0133 übernommen
+es-kg-0043; Rezept (Arzt); la receta; c; Kochen / Arzt; Klammer aus kg-0043 übernommen
+es-kg-0050; Verband (Wunde); el vendaje; c; Wunde / Vereinigung; Klammer aus kg-0050 übernommen
+es-kg-0094; Überweisung (zum Facharzt); el volante; c; Bank / zum Facharzt; Klammer aus kg-0094 übernommen
+es-kg-0145; Prognose (Medizin); el pronóstico; c; Medizin / Vorhersage; Klammer aus kg-0145 übernommen
+es-kk-0005; Farbe (Farbton); el color; c; Farbton / Farbe zum Malen, Anstrich; Klammer aus kk-0005 übernommen, Weitere Antwort la pintura entfernt (Farbe zum Malen)
+es-kk-0015; Leinwand (Malerei); el lienzo; c; Malerei / Kino; Klammer aus kk-0015 übernommen
+es-kk-0039; Vorstellung (Theater); la función; c; Theater / Gedanke / Bekanntmachen; Klammer aus kk-0039 übernommen
+es-kk-0042; Probe (Theater); el ensayo; c; Theater / Warenprobe / Test; Klammer aus kk-0042 übernommen
+es-kk-0051; Besetzung (Film, Theater); el reparto; c; Rollen / militärisch; Klammer aus kk-0051 übernommen
+es-kk-0071; Gattung (Literatur); el género; c; Literatur / Biologie; Klammer aus kk-0071 übernommen
+es-kk-0073; Handlung (Geschichte); la trama; c; Geschichte eines Buchs oder Films / Tat; Klammer aus kk-0073 übernommen
+es-kk-0078; Auflage (Ausgabe); la edición; c; Ausgabe eines Buchs / Zahl der Exemplare / Bedingung; Klammer aus kk-0078 übernommen
+es-kk-0080; Nachlass (Erbe); el legado; c; Erbe / Preisnachlass; Klammer aus kk-0080 übernommen
+es-kk-0111; Schloss (Gebäude); el castillo; c; Gebäude / an der Tür; Klammer aus kk-0111 übernommen
+es-kk-0126; Geschichte (Vergangenheit); la historia; c; Vergangenheit / Erzählung; Klammer aus kk-0126 übernommen
+es-kk-0144; Erbe (Kultur); el patrimonio; c; das Erbe / der Erbe; Klammer aus kk-0144 übernommen
+es-mk-0064; Kanal (Medien); el canal; c; Medien / Wasserstraße; Klammer aus mk-0064 übernommen
+es-mk-0069; Anzeige (Werbung); el anuncio; c; Werbung / bei der Polizei / Display; Klammer aus mk-0069 übernommen
+es-mk-0100; Quelle (Herkunft); la fuente; c; Wasserquelle / Herkunft einer Information; Klammer aus mk-0100 übernommen
+es-mk-0105; Auflage (Zahl der Exemplare); la tirada; c; Ausgabe eines Buchs / Zahl der Exemplare / Bedingung; Klammer aus mk-0105 übernommen
+es-mk-0121; Reichweite (Medien); el alcance; c; Medien / Fahrzeug, Akku; Klammer aus mk-0121 übernommen
+es-nt-0019; Blatt (Baum); la hoja; c; vom Baum / Papier; Klammer aus nt-0019 übernommen
+es-nt-0039; Schlange (Tier); la serpiente; c; Tier / Warteschlange; Klammer aus nt-0039 übernommen
+es-nt-0075; Art (Biologie); la especie; c; Tier- oder Pflanzenart / Sorte / Weise; Klammer aus nt-0075 übernommen
+es-nt-0088; Boden (Erde); el suelo; c; Erde / Fußboden; Klammer aus nt-0088 übernommen
+es-nt-0090; Stamm (Baum); el tronco; c; Baum / Volksstamm; Klammer aus nt-0090 übernommen
+es-nt-0095; Kiefer (Baum); el pino; c; Baum / Knochen; Klammer aus nt-0095 übernommen
+es-nt-0143; Bestand (Tiere); la población; c; Warenbestand / Tierbestand; Klammer aus nt-0143 übernommen
+es-pg-0001; Land (Staat); el país; c; Staat / Boden / ländliche Gegend; Klammer aus pg-0001 übernommen
+es-pg-0014; wählen (bei einer Wahl); votar; c; bei einer Wahl / aussuchen / Telefon; Klammer aus pg-0014 übernommen
+es-pg-0029; Gericht (Justiz); el tribunal; c; Justiz / Speise; Klammer aus pg-0029 übernommen
+es-pg-0041; Stimme (bei der Wahl); el voto; c; beim Sprechen / bei der Wahl; Klammer aus pg-0041 übernommen, Weitere Antwort la voz entfernt (gehört zu Stimme beim Sprechen)
+es-pg-0106; Rücktritt (vom Amt); la dimisión; c; vom Vertrag / vom Amt; Klammer aus pg-0106 übernommen
+es-pg-0110; Berufung (Gericht); la apelación; c; Lebensaufgabe / vor Gericht; Klammer aus pg-0110 übernommen
+es-ru-0007; Tasche (zum Tragen); la bolsa; c; zum Tragen / an der Kleidung; Klammer aus ru-0007 übernommen
+es-ru-0017; Land (Staat); el país; c; Staat / Boden / ländliche Gegend; Klammer aus ru-0017 übernommen
+es-ru-0021; Karte (Landkarte); el mapa; c; Spielkarte / Landkarte / Fahrkarte, Eintrittskarte; Klammer aus ru-0021 übernommen
+es-ru-0043; Schloss (Gebäude); el castillo; c; Gebäude / an der Tür; Klammer aus ru-0043 übernommen
+es-ru-0064; Pension (Unterkunft); la pensión; c; Unterkunft / Ruhestandsgeld; Klammer aus ru-0064 übernommen
+es-ru-0081; abheben (Flugzeug); despegar; c; Geld abheben / Flugzeug hebt ab; Klammer aus ru-0081 übernommen
+es-ru-0086; Führung (Besichtigung); la visita guiada; c; Besichtigung / Leitung / im Spiel; Klammer aus ru-0086 übernommen
+es-ru-0100; Zuschlag (Aufpreis); el suplemento; c; Ausschreibung / Aufpreis; Klammer aus ru-0100 übernommen
+es-sb-0024; Sport (Schulfach); la educación física; c; Schulfach / allgemein; Klammer aus sb-0024 übernommen, Weitere Antwort el deporte entfernt (Sport allgemein)
+es-sb-0027; Geschichte (Vergangenheit); la historia; c; Vergangenheit / Erzählung; Klammer aus sb-0027 übernommen
+es-sb-0036; Note (Schule); la nota; c; Schule / Musik; Klammer aus sb-0036 übernommen
+es-sb-0037; Zeugnis (Schule); el boletín de notas; c; Arbeit / Schule; Klammer aus sb-0037 übernommen
+es-sb-0040; bestehen (Prüfung); aprobar; c; Prüfung / existieren / bestehen aus; Klammer aus sb-0040 übernommen
+es-sb-0063; Abschluss (Schule); el título; c; Geschäftsabschluss / Schul- oder Studienabschluss; Klammer aus sb-0063 übernommen
+es-sb-0079; Hausarbeit (Studium); el trabajo escrito; c; Haushalt / Studium; Klammer aus sb-0079 übernommen
+es-sb-0100; Bewertung (Schule); la evaluación; c; von Kunden / Leistungsbewertung; Klammer aus sb-0100 übernommen
+es-sb-0123; Zulassung (Studium); la admisión; c; Studium / Fahrzeug; Klammer aus sb-0123 übernommen
+es-sf-0008; Tor (Sport); el gol; c; Sport / Eingang; Klammer aus sf-0008 übernommen
+es-sf-0062; Kraft (körperlich); la fuerza; c; körperlich / Physik; Klammer aus sf-0062 übernommen
+es-sf-0067; Laufband (Fitness); la cinta de correr; c; Flughafen / Fitness; Klammer aus sf-0067 übernommen
+es-sf-0074; Verlängerung (Sport); la prórroga; c; Frist, Vertrag / Sport; Klammer aus sf-0074 übernommen
+es-sf-0088; Abstieg (Sport); el descenso; c; Sport / vom Berg; Klammer aus sf-0088 übernommen
+es-tc-0038; Nachricht (Mitteilung); el mensaje; c; Mitteilung / Neuigkeit; Klammer aus tc-0038 übernommen
+es-tc-0054; Speicher (Computer); la memoria; c; Computer / Dachboden; Klammer aus tc-0054 übernommen
+es-tc-0059; Einstellung (Technik); el ajuste; c; Haltung / Technik / Personal; Klammer aus tc-0059 übernommen
+es-vm-0019; Karte (Landkarte); el mapa; c; Spielkarte / Landkarte / Fahrkarte, Eintrittskarte; Klammer aus vm-0019 übernommen
+es-vm-0022; halten (anhalten); parar; c; festhalten / anhalten; Klammer aus vm-0022 übernommen
+es-vm-0043; Rad (am Fahrzeug); la rueda; c; am Fahrzeug / Fahrrad; Klammer aus vm-0043 übernommen
+es-vm-0077; Spur (Fahrbahn); el carril; c; Fahrbahn / Abdruck; Klammer aus vm-0077 übernommen
+es-vm-0120; Zulassung (Fahrzeug); la matriculación; c; Studium / Fahrzeug; Klammer aus vm-0120 übernommen
+es-vm-0128; Reichweite (Fahrzeug); la autonomía; c; Medien / Fahrzeug, Akku; Klammer aus vm-0128 übernommen
+es-wu-0006; Himmel (Wetter, Sterne); el cielo; c; Paradies / Wetter, Sterne; Klammer aus wu-0006 übernommen
+es-wu-0019; Eis (gefrorenes Wasser); el hielo; c; Speiseeis / gefrorenes Wasser; Klammer aus wu-0019 übernommen
+es-wu-0022; scheinen (Sonne); brillar; c; Sonne / den Anschein haben; Klammer aus wu-0022 übernommen
+es-wf-0005; Preis (Kosten); el precio; c; Kosten / Gewinn; Klammer aus wf-0005 übernommen
+es-wf-0008; Geschäft (Laden); la tienda; c; Laden / Handel; Klammer aus wf-0008 übernommen
+es-wf-0011; Bank (Geldinstitut); el banco; c; Geldinstitut / zum Sitzen; Klammer aus wf-0011 übernommen
+es-wf-0021; Lohn (Bezahlung); el salario; c; Bezahlung / Belohnung; Klammer aus wf-0021 übernommen
+es-wf-0046; handeln (Handel treiben); comerciar; c; feilschen / Handel treiben / tun; Klammer aus wf-0046 übernommen
+es-wf-0051; Lager (Waren); el almacén; c; Waren / Zeltlager; Klammer aus wf-0051 übernommen
+es-wf-0057; leihen (jemandem etwas); prestar; c; jemandem etwas leihen / sich etwas leihen; Klammer aus wf-0057 übernommen, Weitere Antwort pedir prestado entfernt (sich etwas leihen)
+es-wf-0059; Überweisung (Bank); la transferencia; c; Bank / zum Facharzt; Klammer aus wf-0059 übernommen
+es-wf-0060; abheben (Geld); sacar dinero; c; Geld abheben / Flugzeug hebt ab; Klammer aus wf-0060 übernommen
+es-wf-0104; absetzen (steuerlich); desgravar; c; von der Steuer / jemanden aussteigen lassen / Hut; Klammer aus wf-0104 übernommen
+es-wi-0026; Annahme (Vermutung); la suposición; c; Annehmen / Vermutung; Klammer aus wi-0026 übernommen
+es-wi-0033; Kraft (Physik); la fuerza; c; körperlich / Physik; Klammer aus wi-0033 übernommen
+es-wi-0050; Spannung (Strom); la tensión; c; Buch, Film / Strom; Klammer aus wi-0050 übernommen
+es-wi-0064; Stoff (Chemie); la sustancia; c; Textil / Chemie; Klammer aus wi-0064 übernommen
+es-wi-0069; Verbindung (Chemie); el compuesto; c; Zusammenhang / Chemie; Klammer aus wi-0069 übernommen
+es-wi-0085; Art (Biologie); la especie; c; Tier- oder Pflanzenart / Sorte / Weise; Klammer aus wi-0085 übernommen
+es-wi-0104; Bruch (Mathematik); la fracción; c; Mathematik / Knochenbruch / Bruch einer Regel; Klammer aus wi-0104 übernommen
+es-wi-0135; Himmel (Wetter, Sterne); el cielo; c; Paradies / Wetter, Sterne; Klammer aus wi-0135 übernommen
+es-bd-0001; Bank (zum Sitzen); el banco; d; Geldinstitut / zum Sitzen; aus bd-0001 übersetzt, Antwort gleich wie Bank (Geldinstitut) el banco
+es-bd-0002; Schloss (an der Tür); la cerradura; d; Gebäude / an der Tür; aus bd-0002 übersetzt
+es-bd-0003; abschließen (Tür); cerrar con llave; d; beenden / Vertrag schließen / Tür verschließen; aus bd-0003 übersetzt
+es-bd-0004; Tasche (an der Kleidung); el bolsillo; d; zum Tragen / an der Kleidung; aus bd-0004 übersetzt
+es-bd-0005; Boden (Fußboden); el suelo; d; Erde / Fußboden; aus bd-0005 übersetzt, Antwort gleich wie Boden (Erde) el suelo
+es-bd-0006; Gericht (Speise); el plato; d; Justiz / Speise; aus bd-0006 übersetzt
+es-bd-0007; scharf (Messer); afilado; d; Essen / Messer; aus bd-0007 übersetzt
+es-bd-0008; faul (verdorben); podrido; d; träge / verdorben; aus bd-0008 übersetzt
+es-bd-0009; Schlange (zum Anstehen); la cola; d; Tier / Warteschlange; aus bd-0009 übersetzt
+es-bd-0010; Umzug (Wohnungswechsel); la mudanza; d; Festzug / Wohnungswechsel; aus bd-0010 übersetzt
+es-bd-0011; ausziehen (aus der Wohnung); mudarse; d; Kleidung / aus der Wohnung; aus bd-0011 übersetzt, Antwort gleich wie umziehen (Wohnung) es-xa-0011 mudarse, Spanisch hat kein eigenes übliches Verb
+es-bd-0012; anziehen (anlocken); atraer; d; Kleidung / anlocken; aus bd-0012 übersetzt
+es-bd-0013; Tor (Eingang); el portón; d; Sport / Eingang; aus bd-0013 übersetzt
+es-bd-0014; Garderobe (für Mäntel); el guardarropa; d; Kleidung / Ablage für Mäntel; aus bd-0014 übersetzt, el guardarropa steht auch als Weitere Antwort bei Garderobe (Kleidung) es-km-0126, das Wort hat im Spanischen beide Bedeutungen
+es-bd-0015; Futter (für Tiere); el pienso; d; im Kleidungsstück / für Tiere; aus bd-0015 übersetzt
+es-bd-0016; einstellen (Gerät); ajustar; d; Personal / Gerät / beenden; aus bd-0016 übersetzt
+es-bd-0017; Mutter (Schraube); la tuerca; d; Elternteil / Schraube; aus bd-0017 übersetzt
+es-bd-0018; Brunnen (Springbrunnen); la fuente; d; zum Wasserholen / Springbrunnen; aus bd-0018 übersetzt
+es-bd-0019; Blatt (Papier); la hoja; d; vom Baum / Papier; aus bd-0019 übersetzt, Antwort gleich wie Blatt (Baum) la hoja
+es-bd-0020; Land (ländliche Gegend); el campo; d; Staat / Boden / ländliche Gegend; aus bd-0020 übersetzt
+es-bd-0021; Lager (Zeltlager); el campamento; d; Waren / Zeltlager; aus bd-0021 übersetzt
+es-bd-0022; Band (zum Binden); la cinta; d; Musikgruppe / Buch / zum Binden; aus bd-0022 übersetzt
+es-bd-0023; Kiefer (Knochen); la mandíbula; d; Baum / Knochen; aus bd-0023 übersetzt
+es-bd-0024; dick (Körper); gordo; d; Gegenstand / Körper; aus bd-0024 übersetzt, gordo steht auch als Weitere Antwort bei dick (Gegenstand) es-ke-0649 (un libro gordo ist umgangssprachlich richtig)
+es-bd-0025; Entschuldigung (Bitte um Verzeihung); la disculpa; d; Ausruf / Bitte um Verzeihung; aus bd-0025 übersetzt
+es-bd-0026; vergeben (verzeihen); perdonar; d; Auftrag / verzeihen; aus bd-0026 übersetzt
+es-bd-0027; Unterhaltung (Gespräch); la conversación; d; Vergnügen / Gespräch; aus bd-0027 übersetzt
+es-bd-0028; erfahren (herausfinden); enterarse; d; Adjektiv / Verb; aus bd-0028 übersetzt
+es-bd-0029; als (zeitlich); cuando; d; Vergleich / zeitlich / in der Rolle; aus bd-0029 übersetzt
+es-bd-0030; gerade (zeitlich); acabar de; d; nicht krumm / zeitlich / Zahl; aus bd-0030 übersetzt
+es-bd-0031; gleich (sofort); enseguida; d; derselbe / sofort / gleichwertig; aus bd-0031 übersetzt
+es-bd-0032; scheinen (den Anschein haben); parecer; d; Sonne / den Anschein haben; aus bd-0032 übersetzt
+es-bd-0033; annehmen (akzeptieren); aceptar; d; vermuten / akzeptieren; aus bd-0033 übersetzt
+es-bd-0034; raten (empfehlen); aconsejar; d; schätzen / empfehlen; aus bd-0034 übersetzt
+es-bd-0035; Krebs (Tier); el cangrejo; d; Krankheit / Tier; aus bd-0035 übersetzt
+es-bd-0036; Spitze (oberes Ende); la punta; d; Stoff / oberes Ende; aus bd-0036 übersetzt
+es-bd-0037; Schicht (Lage); la capa; d; Arbeit / Lage; aus bd-0037 übersetzt
+es-bd-0038; Abstieg (vom Berg); el descenso; d; Sport / vom Berg; aus bd-0038 übersetzt, Antwort gleich wie Abstieg (Sport) el descenso
+es-bd-0039; Kanal (Wasserstraße); el canal; d; Medien / Wasserstraße; aus bd-0039 übersetzt, Antwort gleich wie Kanal (Medien) el canal
+es-bd-0040; Absatz (im Text); el párrafo; d; am Schuh / im Text / Verkauf; aus bd-0040 übersetzt
+es-bd-0041; abschreiben (kopieren); copiar; d; Wertverlust buchen / von jemandem kopieren; aus bd-0041 übersetzt
+es-bd-0042; Note (Musik); la nota; d; Schule / Musik; aus bd-0042 übersetzt, Antwort gleich wie Note (Schule) la nota
+es-bd-0043; Band (Buch); el tomo; d; Musikgruppe / Buch / zum Binden; aus bd-0043 übersetzt
+es-bd-0044; Leiter (Chef); el director; d; zum Steigen / Chef; aus bd-0044 übersetzt
+es-bd-0045; Führung (Leitung); el liderazgo; d; Besichtigung / Leitung / im Spiel; aus bd-0045 übersetzt
+es-bd-0046; Mangel (Fehlen); la falta; d; Fehler / Fehlen; aus bd-0046 übersetzt
+es-bd-0047; Abnahme (Rückgang); la disminución; d; Übergabe eines Werks / Rückgang; aus bd-0047 übersetzt
+es-bd-0048; Abstimmung (Wahl); la votación; d; Koordination / Wahl, Votum; aus bd-0048 übersetzt
+es-bd-0049; Rat (Gremium); el consejo; d; Ratschlag / Gremium; aus bd-0049 übersetzt, Antwort gleich wie Rat (Ratschlag) el consejo
+es-bd-0050; Verband (Vereinigung); la asociación; d; Wunde / Vereinigung; aus bd-0050 übersetzt
+es-bd-0051; Messe (Gottesdienst); la misa; d; Ausstellung / Gottesdienst; aus bd-0051 übersetzt
+es-bd-0052; Folge (einer Serie); el episodio; d; Konsequenz / Episode; aus bd-0052 übersetzt
+es-bd-0053; Leinwand (Kino); la pantalla; d; Malerei / Kino; aus bd-0053 übersetzt
+es-bd-0054; Rock (Musik); el rock; d; Kleidungsstück / Musik; aus bd-0054 übersetzt
+es-ke-0606; Sturm; el temporal; b; eine Bedeutung (el temporal, la tormenta); Antwort la tormenta → el temporal wie es-wu-0030 (Original ke-0606 ist Alias von wu-0030), Weitere el vendaval und la tormenta, Beispiel neu (war Gewitter mit Donner, jetzt wie Original)
+es-ke-0441; Muster (Design); el patrón; b; eine Bedeutung (el patrón, el estampado); Weitere Antworten + el estampado (wie es-km-0067)
+es-et-0007; Fisch; el pescado; c; Tier (el pez) / als Speise (el pescado); keine, Hinweisvorschlag Fisch (als Speise) für et-0007 und gw-0160
+es-gw-0160; Fisch; el pescado; c; Tier (el pez) / als Speise (el pescado); keine, Hinweisvorschlag Fisch (als Speise)
+es-nt-0004; Fisch; el pez; c; Tier (el pez) / als Speise (el pescado); keine, Hinweisvorschlag Fisch (Tier)
+es-ke-0225; Fisch; el pez; c; Tier (el pez) / als Speise (el pescado); keine, Hinweisvorschlag Fisch (Tier), aber das Original ke-0225 hat ein Beispiel zur Speise (Alias von gw-0160), siehe pakete/M-es.md
+es-gw-0428; Ecke; la esquina; c; Straßenecke (la esquina) / im Zimmer (el rincón); keine, Hinweisvorschlag Ecke (Straße), neue Zeile es-bd-0501
+es-vm-0060; Ecke; la esquina; c; Straßenecke (la esquina) / im Zimmer (el rincón); keine, Hinweisvorschlag Ecke (Straße)
+es-gw-0176; Glas; el vaso; c; zum Trinken (el vaso) / Material (el vidrio); keine, Hinweisvorschlag Glas (zum Trinken) auch für al-0043, et-0055, ke-0252
+es-wu-0048; Glas; el vidrio; c; zum Trinken (el vaso) / Material (el vidrio); keine, Hinweisvorschlag Glas (Material), Original ist Alias von gw-0176
+es-gw-0474; Vorhang; la cortina; c; am Fenster (la cortina) / im Theater (el telón); keine, Hinweisvorschlag Vorhang (am Fenster) auch für al-0032
+es-kk-0044; Vorhang; el telón; c; am Fenster (la cortina) / im Theater (el telón); keine, Hinweisvorschlag Vorhang (Theater), Original ist Alias von gw-0474
+es-ru-0091; Welle; la ola; c; im Wasser (la ola) / Physik (la onda); keine, Hinweisvorschlag Welle (Wasser)
+es-wi-0039; Welle; la onda; c; im Wasser (la ola) / Physik (la onda); keine, Hinweisvorschlag Welle (Physik), Original ist Alias von ru-0091
+es-pg-0015; Partei; el partido; c; politische Partei (el partido) / Vertragspartei (la parte); keine, Hinweisvorschlag Partei (Politik)
+es-vt-0040; Partei; la parte; c; politische Partei (el partido) / Vertragspartei (la parte); keine, Hinweisvorschlag Partei (Vertrag), Original ist Alias von pg-0015
+es-gw-0666; Wettbewerb; el concurso; c; Preisausschreiben, Contest (el concurso) / Konkurrenz (la competencia); keine, Hinweisvorschlag Wettbewerb (um einen Preis) auch für fh-0063
+es-wf-0053; Wettbewerb; la competencia; c; Preisausschreiben, Contest (el concurso) / Konkurrenz (la competencia); keine, Hinweisvorschlag Wettbewerb (Konkurrenz) auch für ba-0058, mv-0031, Originale sind Aliase von gw-0666
+es-fh-0003; Spiel; el juego; c; zum Spielen (el juego) / Sportspiel, Match (el partido); keine, Hinweisvorschlag Spiel (Gesellschaftsspiel) auch für ke-0245, tc-0017
+es-sf-0007; Spiel; el partido; c; zum Spielen (el juego) / Sportspiel, Match (el partido); keine, Hinweisvorschlag Spiel (Sport), Original ist Alias von fh-0003
+es-sb-0020; Pause; el recreo; c; Schulpause (el recreo) / Arbeitspause (el descanso); keine, Hinweisvorschlag Pause (Schule)
+es-nt-0011; Huhn; la gallina; c; Tier (la gallina) / Fleisch (el pollo); keine, beide Zeilen nehmen beide Antworten an, Hinweisvorschlag Huhn (Tier) und Huhn (Fleisch), niedrige Priorität
+es-wu-0010; heiß; caluroso; c; Wetter (caluroso, hace calor) / Gegenstand, Speise (caliente); keine, Hinweisvorschlag heiß (Wetter), Original ist Alias von gw-0211
+es-gw-0211; heiß; caliente; c; Wetter (caluroso, hace calor) / Gegenstand, Speise (caliente); keine, Hinweisvorschlag heiß (Speise, Gegenstand) auch für ke-0291
+es-ke-0564; Größe; la talla; c; Kleidergröße (la talla) / Ausmaß (el tamaño); Antwort el tamaño → la talla, Weitere el tamaño, Beispiel neu wie Original ke-0564 (war ¿Qué tamaño de zapatos usas?, Schuhgröße heißt el número)
+es-kg-0007; Ohr; la oreja; c; äußeres Ohr (la oreja) / Gehör, inneres Ohr (el oído); Beispiel neu (Ohrenschmerzen heißt dolor de oído, passt nicht zu la oreja), Hinweisvorschlag niedrige Priorität
+es-ke-0068; Rechnung; la factura; c; im Restaurant (la cuenta) / Geschäftsrechnung (la factura); keine, beide Antworten zählen, Original ke-0068 hat aber ein Restaurant-Beispiel, siehe pakete/M-es.md
+es-gw-0042; spielen; jugar; c; Spiel, Sport (jugar) / Instrument (tocar); keine, neue Zeile es-bd-0505, Hinweisvorschlag spielen (Spiel, Sport)
+es-ke-0088; können; poder; c; möglich sein, dürfen (poder) / gelernt haben (saber); keine, neue Zeile es-bd-0503, Original ke-0088 hat das Beispiel I can swim (= saber), siehe pakete/M-es.md
+es-gw-0093; Kind; el niño; c; junger Mensch (el niño) / Sohn oder Tochter (el hijo); keine, neue Zeile es-bd-0502, Hinweisvorschlag Kind (junger Mensch)
+es-kg-0003; Bein; la pierna; c; beim Menschen (la pierna) / Tier, Möbel (la pata); keine, neue Zeile es-bd-0504, Hinweisvorschlag Bein (Mensch)
+es-bd-0501; Ecke (im Zimmer); el rincón; d; Straßenecke (la esquina) / im Zimmer (el rincón); neue Zeile in woerter/es-bedeutungen.txt
+es-bd-0502; Kind (Sohn oder Tochter); el hijo; d; junger Mensch (el niño) / Sohn oder Tochter (el hijo); neue Zeile in woerter/es-bedeutungen.txt
+es-bd-0503; können (gelernt haben); saber; d; möglich sein, dürfen (poder) / gelernt haben (saber); neue Zeile in woerter/es-bedeutungen.txt
+es-bd-0504; Bein (Tier, Möbel); la pata; d; beim Menschen (la pierna) / Tier, Möbel (la pata); neue Zeile in woerter/es-bedeutungen.txt
+es-bd-0505; spielen (Instrument); tocar; d; Spiel, Sport (jugar) / Instrument (tocar); neue Zeile in woerter/es-bedeutungen.txt

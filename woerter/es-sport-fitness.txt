@@ -7,7 +7,7 @@ es-sf-0004; laufen; correr; ; A1; Freizeit/Sport/Training; Corre tres kilómetro
 es-sf-0005; spielen; jugar; ; A1; Freizeit/Sport/Sportarten; Los niños juegan al tenis después del colegio.; Die Kinder spielen nach der Schule Tennis.
 es-sf-0006; Tennis; el tenis; ; A1; Freizeit/Sport/Sportarten; Los domingos juega al tenis con su hermano.; Sie spielt sonntags mit ihrem Bruder Tennis.
 es-sf-0007; Spiel; el partido; el juego; A1; Freizeit/Sport/Wettkampf; Hoy el partido empieza a las tres.; Das Spiel beginnt heute um drei Uhr.
-es-sf-0008; Tor; el gol; la portería; A1; Freizeit/Sport/Wettkampf; Nuestro equipo marcó un gol en el último minuto.; Unsere Mannschaft schoss in der letzten Minute ein Tor.
+es-sf-0008; Tor (Sport); el gol; la portería; A1; Freizeit/Sport/Wettkampf; Nuestro equipo marcó un gol en el último minuto.; Unsere Mannschaft schoss in der letzten Minute ein Tor.
 es-sf-0009; Mannschaft; el equipo; ; A1; Freizeit/Sport/Verein; Nuestro equipo entrena dos veces por semana.; Unsere Mannschaft trainiert zweimal pro Woche.
 es-sf-0010; gewinnen; ganar; ; A1; Freizeit/Sport/Wettkampf; Queremos ganar el próximo partido.; Wir wollen das nächste Spiel gewinnen.
 es-sf-0011; verlieren; perder; ; A1; Freizeit/Sport/Wettkampf; A nadie le gusta perder un partido importante.; Niemand verliert gern ein wichtiges Spiel.
@@ -61,19 +61,19 @@ es-sf-0058; Badeanzug; el bañador; el traje de baño; A2; Freizeit/Sport/Ausrü
 es-sf-0059; Helm; el casco; ; A2; Freizeit/Sport/Ausrüstung; Ponte siempre el casco cuando vayas en bici.; Trag auf dem Fahrrad immer einen Helm.
 es-sf-0060; fit; en forma; ; A2; Freizeit/Sport/Fitnessstudio; Entrenar con regularidad te mantiene en forma y fuerte.; Regelmäßiges Training hält dich fit und stark.
 es-sf-0061; Ausdauer; la resistencia; el aguante, el fondo; B1; Freizeit/Sport/Training; Las carreras largas desarrollan la resistencia con los meses.; Lange Läufe bauen über Monate Ausdauer auf.
-es-sf-0062; Kraft; la fuerza; ; B1; Freizeit/Sport/Training; Para escalar se necesitan fuerza y técnica.; Zum Klettern braucht man Kraft und Technik.
+es-sf-0062; Kraft (körperlich); la fuerza; ; B1; Freizeit/Sport/Training; Para escalar se necesitan fuerza y técnica.; Zum Klettern braucht man Kraft und Technik.
 es-sf-0063; Beweglichkeit; la flexibilidad; la movilidad; B1; Freizeit/Sport/Training; El yoga mejora la flexibilidad y la calma interior.; Yoga verbessert die Beweglichkeit und die innere Ruhe.
 es-sf-0064; Geschwindigkeit; la velocidad; ; B1; Freizeit/Sport/Training; Su velocidad en distancias cortas es impresionante.; Seine Geschwindigkeit auf kurzen Strecken ist beeindruckend.
 es-sf-0065; Muskelkater; las agujetas; el dolor muscular; B1; Freizeit/Sport/Training; Después de la primera clase tenía agujetas.; Nach der ersten Stunde hatte ich Muskelkater.
 es-sf-0066; Hantel; la mancuerna; la pesa; B1; Freizeit/Sport/Fitnessstudio; Levanta una mancuerna pesada con cada brazo.; Er hebt mit jedem Arm eine schwere Hantel.
-es-sf-0067; Laufband; la cinta de correr; la cinta; B1; Freizeit/Sport/Fitnessstudio; Cuando llueve corre en la cinta de correr.; Bei Regen läuft sie auf dem Laufband.
+es-sf-0067; Laufband (Fitness); la cinta de correr; la cinta; B1; Freizeit/Sport/Fitnessstudio; Cuando llueve corre en la cinta de correr.; Bei Regen läuft sie auf dem Laufband.
 es-sf-0068; Gewichte heben; levantar pesas; hacer pesas; B1; Freizeit/Sport/Fitnessstudio; Levanta pesas tres veces por semana.; Er hebt dreimal pro Woche Gewichte.
 es-sf-0069; Liegestütz; la flexión; la flexión de brazos, la lagartija; B1; Freizeit/Sport/Fitnessstudio; ¿Puedes hacer veinte flexiones sin parar?; Schaffst du zwanzig Liegestütze ohne Pause?
 es-sf-0070; Klimmzug; la dominada; ; B1; Freizeit/Sport/Fitnessstudio; Una dominada bien hecha es más difícil de lo que parece.; Ein sauberer Klimmzug ist schwerer, als er aussieht.
 es-sf-0071; Kniebeuge; la sentadilla; ; B1; Freizeit/Sport/Fitnessstudio; Haz cada sentadilla despacio y con control.; Mach jede Kniebeuge langsam und kontrolliert.
 es-sf-0072; Runde; la vuelta; el largo; B1; Freizeit/Sport/Training; Cada mañana nada veinte vueltas.; Sie schwimmt jeden Morgen zwanzig Runden.
 es-sf-0073; Halbzeit; el descanso; el medio tiempo, la media parte; B1; Freizeit/Sport/Wettkampf; Al descanso todavía iban cero a cero.; Zur Halbzeit stand es noch null zu null.
-es-sf-0074; Verlängerung; la prórroga; el tiempo extra, la prolongación; B1; Freizeit/Sport/Wettkampf; La final se decidió en la prórroga.; Das Finale wurde in der Verlängerung entschieden.
+es-sf-0074; Verlängerung (Sport); la prórroga; el tiempo extra, la prolongación; B1; Freizeit/Sport/Wettkampf; La final se decidió en la prórroga.; Das Finale wurde in der Verlängerung entschieden.
 es-sf-0075; Elfmeter; el penalti; el penal, el penalty; B1; Freizeit/Sport/Wettkampf; Marcó el penalti con total facilidad.; Er verwandelte den Elfmeter mit Leichtigkeit.
 es-sf-0076; Abseits; el fuera de juego; el offside; B1; Freizeit/Sport/Wettkampf; El gol no valió por fuera de juego.; Das Tor zählte wegen Abseits nicht.
 es-sf-0077; Foul; la falta; ; B1; Freizeit/Sport/Wettkampf; El árbitro vio enseguida la dura falta.; Der Schiedsrichter sah das harte Foul sofort.
@@ -87,7 +87,7 @@ es-sf-0084; Liga; la liga; la división; B1; Freizeit/Sport/Wettkampf; Ahora el 
 es-sf-0085; Turnier; el torneo; ; B1; Freizeit/Sport/Wettkampf; El torneo se celebra aquí todos los veranos.; Das Turnier findet hier jeden Sommer statt.
 es-sf-0086; Saison; la temporada; ; B1; Freizeit/Sport/Wettkampf; La nueva temporada empieza a finales de agosto.; Die neue Saison beginnt Ende August.
 es-sf-0087; Aufstieg; el ascenso; ; B1; Freizeit/Sport/Wettkampf; Este año los aficionados sueñan con el ascenso.; Die Fans träumen dieses Jahr vom Aufstieg.
-es-sf-0088; Abstieg; el descenso; ; B1; Freizeit/Sport/Wettkampf; La temporada pasada el club se libró por poco del descenso.; Der Verein entging letzte Saison knapp dem Abstieg.
+es-sf-0088; Abstieg (Sport); el descenso; ; B1; Freizeit/Sport/Wettkampf; La temporada pasada el club se libró por poco del descenso.; Der Verein entging letzte Saison knapp dem Abstieg.
 es-sf-0089; Rekord; el récord; la plusmarca; B1; Freizeit/Sport/Wettkampf; Batió el récord nacional por dos segundos.; Sie brach den nationalen Rekord um zwei Sekunden.
 es-sf-0090; Weltmeister; el campeón del mundo; la campeona del mundo, el campeón mundial; B1; Freizeit/Sport/Wettkampf; Fue campeón del mundo siendo muy joven.; Er wurde in jungen Jahren Weltmeister.
 es-sf-0091; Olympische Spiele; los Juegos Olímpicos; las Olimpiadas; B1; Freizeit/Sport/Wettkampf; Los Juegos Olímpicos se celebran cada cuatro años.; Die Olympischen Spiele finden alle vier Jahre statt.

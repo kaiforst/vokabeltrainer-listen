@@ -1,6 +1,6 @@
 # Spanisch: Politik & Gesellschaft
 id; Deutsch; Spanisch; Weitere Antworten; Niveau; Themen; Beispiel Spanisch; Beispiel Deutsch
-es-pg-0001; Land; el país; la nación; A1; Gesellschaft/Politik/Staat & Wahlen; Alemania es un país grande de Europa.; Deutschland ist ein großes Land in Europa.
+es-pg-0001; Land (Staat); el país; la nación; A1; Gesellschaft/Politik/Staat & Wahlen; Alemania es un país grande de Europa.; Deutschland ist ein großes Land in Europa.
 es-pg-0002; Stadt; la ciudad; el pueblo; A1; Gesellschaft/Soziales; Nuestra ciudad está construyendo una biblioteca nueva.; Unsere Stadt baut eine neue Bibliothek.
 es-pg-0003; Mensch; el ser humano; la persona, el hombre; A1; Gesellschaft/Soziales; Todo ser humano merece respeto y dignidad.; Jeder Mensch verdient Respekt und Würde.
 es-pg-0004; Leute; la gente; las personas; A1; Gesellschaft/Soziales; Mucha gente vino a la asamblea vecinal.; Viele Leute kamen zur Bürgerversammlung.
@@ -13,7 +13,7 @@ es-pg-0010; Kind; el niño; la niña; A1; Gesellschaft/Soziales; Todo niño tien
 es-pg-0011; Politik; la política; ; A2; Gesellschaft/Politik/Demokratie; A muchos jóvenes les interesa la política.; Viele junge Leute interessieren sich für Politik.
 es-pg-0012; Politiker; el político; la política; A2; Gesellschaft/Politik/Parteien; El político respondió a las preguntas del público.; Der Politiker beantwortete Fragen aus dem Publikum.
 es-pg-0013; Wahl; las elecciones; la elección; A2; Gesellschaft/Politik/Staat & Wahlen; Las próximas elecciones son en septiembre.; Die nächste Wahl findet im September statt.
-es-pg-0014; wählen; votar; elegir; A2; Gesellschaft/Politik/Staat & Wahlen; Puedes votar cuando tengas dieciocho años.; Du darfst wählen, wenn du achtzehn bist.
+es-pg-0014; wählen (bei einer Wahl); votar; elegir; A2; Gesellschaft/Politik/Staat & Wahlen; Puedes votar cuando tengas dieciocho años.; Du darfst wählen, wenn du achtzehn bist.
 es-pg-0015; Partei; el partido; el partido político; A2; Gesellschaft/Politik/Parteien; ¿Qué partido apoyas este año?; Welche Partei unterstützt du dieses Jahr?
 es-pg-0016; Regierung; el Gobierno; el gobierno; A2; Gesellschaft/Politik/Staat & Wahlen; El Gobierno anunció un nuevo programa educativo.; Die Regierung kündigte ein neues Bildungsprogramm an.
 es-pg-0017; Gesetz; la ley; ; A2; Gesellschaft/Recht; La nueva ley entra en vigor en enero.; Das neue Gesetz gilt ab Januar.
@@ -28,7 +28,7 @@ es-pg-0025; Freiheit; la libertad; ; A2; Gesellschaft/Politik/Demokratie; La lib
 es-pg-0026; Recht; el derecho; ; A2; Gesellschaft/Recht; Todo el mundo tiene derecho a la libertad de expresión.; Jeder hat das Recht auf freie Meinungsäußerung.
 es-pg-0027; Meinung; la opinión; el parecer; A2; Gesellschaft/Politik/Demokratie; Aquí todos pueden dar su opinión abiertamente.; Jeder darf hier offen seine Meinung sagen.
 es-pg-0028; Demonstration; la manifestación; la protesta; A2; Gesellschaft/Politik/Demokratie; Miles de personas se sumaron a la manifestación en la capital.; Tausende nahmen an der Demonstration in der Hauptstadt teil.
-es-pg-0029; Gericht; el tribunal; el juzgado; A2; Gesellschaft/Recht; El tribunal decidirá el caso mañana.; Das Gericht entscheidet den Fall morgen.
+es-pg-0029; Gericht (Justiz); el tribunal; el juzgado; A2; Gesellschaft/Recht; El tribunal decidirá el caso mañana.; Das Gericht entscheidet den Fall morgen.
 es-pg-0030; Verein; la asociación; el club; A2; Gesellschaft/Ehrenamt; Nuestra asociación organiza una fiesta de verano cada año.; Unser Verein organisiert jedes Jahr ein Sommerfest.
 es-pg-0031; Mitglied; el miembro; el socio, la socia, la miembro; A2; Gesellschaft/Ehrenamt; Es miembro desde hace diez años.; Sie ist seit zehn Jahren Mitglied.
 es-pg-0032; Nachrichten; las noticias; el telediario, el informativo; A2; Gesellschaft/Politik/Demokratie; Veo las noticias todas las noches a las ocho.; Ich schaue jeden Abend um acht die Nachrichten.
@@ -40,7 +40,7 @@ es-pg-0037; Parlament; el Parlamento; el parlamento; B1; Gesellschaft/Politik/St
 es-pg-0038; Kanzler; el canciller; la canciller; B1; Gesellschaft/Politik/Staat & Wahlen; El canciller dio un discurso sobre Europa.; Der Kanzler hielt eine Rede über Europa.
 es-pg-0039; Minister; el ministro; la ministra; B1; Gesellschaft/Politik/Staat & Wahlen; El ministro presentó los planes para nuevos colegios.; Der Minister stellte die Pläne für neue Schulen vor.
 es-pg-0040; Abgeordneter; el diputado; la diputada, el parlamentario; B1; Gesellschaft/Politik/Staat & Wahlen; Nuestro diputado visita a menudo la región.; Unser Abgeordneter besucht die Region oft.
-es-pg-0041; Stimme; el voto; la voz; B1; Gesellschaft/Politik/Staat & Wahlen; En unas elecciones reñidas cada voto cuenta.; Jede Stimme zählt bei einer knappen Wahl.
+es-pg-0041; Stimme (bei der Wahl); el voto; ; B1; Gesellschaft/Politik/Staat & Wahlen; En unas elecciones reñidas cada voto cuenta.; Jede Stimme zählt bei einer knappen Wahl.
 es-pg-0042; Mehrheit; la mayoría; ; B1; Gesellschaft/Politik/Staat & Wahlen; El partido obtuvo ayer una clara mayoría.; Die Partei gewann gestern eine klare Mehrheit.
 es-pg-0043; Minderheit; la minoría; ; B1; Gesellschaft/Soziales; La ley protege los derechos de todas las minorías.; Das Gesetz schützt die Rechte jeder Minderheit.
 es-pg-0044; Opposition; la oposición; ; B1; Gesellschaft/Politik/Parteien; La oposición criticó duramente los nuevos presupuestos.; Die Opposition kritisierte den neuen Haushalt scharf.
@@ -105,11 +105,11 @@ es-pg-0102; Grundrecht; el derecho fundamental; ; B2; Gesellschaft/Recht; La edu
 es-pg-0103; Zensur; la censura; ; B2; Gesellschaft/Politik/Demokratie; La censura no tiene cabida en un país libre.; Zensur hat in einem freien Land keinen Platz.
 es-pg-0104; Korruption; la corrupción; ; B2; Gesellschaft/Politik/Demokratie; La nueva unidad lucha contra la corrupción en la administración.; Die neue Einheit bekämpft Korruption in Behörden.
 es-pg-0105; Skandal; el escándalo; ; B2; Gesellschaft/Politik/Demokratie; El escándalo obligó al senador a dimitir.; Der Skandal zwang den Senator zum Rücktritt.
-es-pg-0106; Rücktritt; la dimisión; la renuncia; B2; Gesellschaft/Politik/Demokratie; El ministro anunció su dimisión el lunes.; Der Minister erklärte am Montag seinen Rücktritt.
+es-pg-0106; Rücktritt (vom Amt); la dimisión; la renuncia; B2; Gesellschaft/Politik/Demokratie; El ministro anunció su dimisión el lunes.; Der Minister erklärte am Montag seinen Rücktritt.
 es-pg-0107; zurücktreten; dimitir; renunciar; B2; Gesellschaft/Politik/Demokratie; El alcalde dimitió tras perder el referéndum.; Der Bürgermeister trat nach der verlorenen Volksabstimmung zurück.
 es-pg-0108; Klage; la demanda; la denuncia; B2; Gesellschaft/Recht; La empresa presentó una demanda contra el ayuntamiento.; Die Firma reichte eine Klage gegen die Stadt ein.
 es-pg-0109; verklagen; demandar; denunciar; B2; Gesellschaft/Recht; Demandó a la empresa por salarios no pagados.; Sie verklagte die Firma wegen ausstehender Löhne.
-es-pg-0110; Berufung; la apelación; el recurso de apelación; B2; Gesellschaft/Recht; Su abogado anunció una apelación contra la sentencia.; Sein Anwalt kündigte Berufung gegen das Urteil an.
+es-pg-0110; Berufung (Gericht); la apelación; el recurso de apelación; B2; Gesellschaft/Recht; Su abogado anunció una apelación contra la sentencia.; Sein Anwalt kündigte Berufung gegen das Urteil an.
 es-pg-0111; Beweis; la prueba; ; B2; Gesellschaft/Recht; El tribunal no encontró ninguna prueba contra el conductor.; Das Gericht fand keinen Beweis gegen den Fahrer.
 es-pg-0112; Staatsanwalt; el fiscal; la fiscal; B2; Gesellschaft/Recht; El fiscal pidió una larga pena de prisión.; Der Staatsanwalt forderte eine lange Haftstrafe.
 es-pg-0113; Angeklagter; el acusado; la acusada; B2; Gesellschaft/Recht; El acusado guardó silencio durante el juicio.; Der Angeklagte schwieg während des Prozesses.

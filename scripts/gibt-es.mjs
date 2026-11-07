@@ -7,7 +7,8 @@
  *   node scripts/gibt-es.mjs --lang fr Hund                      in den französischen Dateien
  *   node scripts/gibt-es.mjs --datei kandidaten.txt              eine Zeile je Kandidat; „Deutsch; Antwort“ geht auch
  *
- * Ausgabe je Kandidat: „neu“ oder die Fundstellen (id, Deutsch – Antwort). Wendungen und Lesewörter zählen mit.
+ * Ausgabe je Kandidat: „neu“, „DA“ (steht als eigenes Wort) oder „TEIL“ (nur in einem Komma-Feld wie „passieren,
+ * geschehen“), jeweils mit Fundstellen (id, Deutsch – Antwort). Wendungen und Lesewörter zählen mit.
  */
 import { readFileSync } from "node:fs";
 import { join } from "node:path";
@@ -32,6 +33,7 @@ if (!kandidaten.length) {
 const genau = (s) => s.replace(/\s*\([^)]*\)/g, " ").replace(/\s+/g, " ").trim().normalize("NFC");
 const teile = (de) => new Set([genau(de), ...genau(de).split(",").map((t) => t.trim())]);
 const proDeutsch = new Map();
+const proTeil = new Map();
 const proAehnlich = new Map();
 const proAntwort = new Map();
 const add = (m, k, v) => k && (m.get(k) ?? m.set(k, []).get(k)).push(v);
@@ -41,8 +43,9 @@ for (const q of ladeKatalog().words) {
     const f = z.split(";").map((x) => x.trim());
     if (f.length < 8 || z.startsWith("#")) continue;
     const fund = `${f[0]} (${f[1]} – ${f[2] || "Lesen"})`;
+    add(proDeutsch, genau(f[1]), fund);
     for (const teil of teile(f[1])) {
-      add(proDeutsch, genau(teil), fund);
+      if (teil !== genau(f[1])) add(proTeil, teil, fund);
       add(proAehnlich, basis(teil), fund);
     }
     for (const a of [f[2], ...f[3].split(",")]) {
@@ -56,12 +59,15 @@ let neu = 0;
 for (const k of kandidaten) {
   const [de, antwort] = k.split(";").map((x) => x.trim());
   const deutsch = proDeutsch.get(genau(de)) ?? [];
-  const aehnlich = deutsch.length ? [] : (proAehnlich.get(basis(de)) ?? []);
+  // Nur als Teil eines Komma-Felds („geschehen“ in „passieren, geschehen“): steht nicht als eigenes Wort im Katalog
+  const teil = deutsch.length ? [] : (proTeil.get(genau(de)) ?? []);
+  const aehnlich = deutsch.length || teil.length ? [] : (proAehnlich.get(basis(de)) ?? []);
   // Gleiche Antwort bei anderem Deutsch: meist eine andere Bedeutung („bat“ bei Schläger) – nur ein Hinweis
-  const auchAntwort = antwort ? (proAntwort.get(norm(antwort)) ?? []).filter((f) => !deutsch.includes(f)) : [];
-  if (!deutsch.length) neu++;
+  const auchAntwort = antwort ? (proAntwort.get(norm(antwort)) ?? []).filter((f) => !deutsch.includes(f) && !teil.includes(f)) : [];
+  if (!deutsch.length && !teil.length) neu++;
   const zeige = (l) => l.slice(0, 4).join("; ");
   if (deutsch.length) console.log(`DA   ${k}  →  ${zeige(deutsch)}`);
+  else if (teil.length) console.log(`TEIL ${k}  →  ${zeige(teil)}`);
   else console.log(`neu  ${k}${aehnlich.length ? `  (ähnlich geschrieben: ${zeige(aehnlich)})` : ""}${auchAntwort.length ? `  (Antwort auch bei: ${zeige(auchAntwort)})` : ""}`);
 }
 console.log(`\n${neu} von ${kandidaten.length} neu (${lang}).`);

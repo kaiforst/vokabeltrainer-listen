@@ -46,7 +46,7 @@
     {
       "id": "freizeit-hobbys",
       "file": "woerter/freizeit-hobbys.txt",
-      "version": 3,
+      "version": 4,
       "count": 150
     },
     {
@@ -64,7 +64,7 @@
     {
       "id": "kleidung-mode",
       "file": "woerter/kleidung-mode.txt",
-      "version": 3,
+      "version": 4,
       "count": 150
     },
     {
@@ -76,13 +76,13 @@
     {
       "id": "kunst-kultur",
       "file": "woerter/kunst-kultur.txt",
-      "version": 3,
+      "version": 4,
       "count": 150
     },
     {
       "id": "medien-kommunikation",
       "file": "woerter/medien-kommunikation.txt",
-      "version": 2,
+      "version": 3,
       "count": 150
     },
     {
@@ -178,7 +178,7 @@
     {
       "id": "business-verhandlungen",
       "file": "woerter/business-verhandlungen.txt",
-      "version": 2,
+      "version": 3,
       "count": 150
     },
     {
@@ -865,7 +865,7 @@
     {
       "id": "karsten",
       "file": "woerter/karsten.txt",
-      "version": 4,
+      "version": 5,
       "count": 996
     },
     {
@@ -1120,22 +1120,22 @@
     {
       "id": "fr-ausbau-grundwoerter",
       "file": "woerter/fr-ausbau-grundwoerter.txt",
-      "version": 1,
-      "count": 487,
+      "version": 2,
+      "count": 486,
       "lang": "fr"
     },
     {
       "id": "es-ausbau-grundwoerter",
       "file": "woerter/es-ausbau-grundwoerter.txt",
-      "version": 1,
-      "count": 487,
+      "version": 2,
+      "count": 486,
       "lang": "es"
     },
     {
       "id": "it-ausbau-grundwoerter",
       "file": "woerter/it-ausbau-grundwoerter.txt",
-      "version": 1,
-      "count": 487,
+      "version": 2,
+      "count": 486,
       "lang": "it"
     },
     {
@@ -5876,8 +5876,8 @@
       "description": "Themenübergreifende Grundwörter für Fortgeschrittene",
       "level": "B2",
       "answerLang": "fr",
-      "count": 98,
-      "version": 1,
+      "count": 97,
+      "version": 2,
       "filter": {
         "topics": [
           "Allgemein"
@@ -5894,8 +5894,8 @@
       "description": "Themenübergreifende Grundwörter für Fortgeschrittene",
       "level": "B2",
       "answerLang": "es",
-      "count": 98,
-      "version": 1,
+      "count": 97,
+      "version": 2,
       "filter": {
         "topics": [
           "Allgemein"
@@ -5912,8 +5912,8 @@
       "description": "Themenübergreifende Grundwörter für Fortgeschrittene",
       "level": "B2",
       "answerLang": "it",
-      "count": 98,
-      "version": 1,
+      "count": 97,
+      "version": 2,
       "filter": {
         "topics": [
           "Allgemein"
@@ -6053,8 +6053,8 @@
       "description": "Präpositionen, Konjunktionen und Adverbien",
       "level": "B1",
       "answerLang": "fr",
-      "count": 62,
-      "version": 1,
+      "count": 61,
+      "version": 2,
       "filter": {
         "topics": [
           "Allgemein/Kleine Wörter"
@@ -6067,8 +6067,8 @@
       "description": "Präpositionen, Konjunktionen und Adverbien",
       "level": "B1",
       "answerLang": "es",
-      "count": 62,
-      "version": 1,
+      "count": 61,
+      "version": 2,
       "filter": {
         "topics": [
           "Allgemein/Kleine Wörter"
@@ -6081,8 +6081,8 @@
       "description": "Präpositionen, Konjunktionen und Adverbien",
       "level": "B1",
       "answerLang": "it",
-      "count": 62,
-      "version": 1,
+      "count": 61,
+      "version": 2,
       "filter": {
         "topics": [
           "Allgemein/Kleine Wörter"

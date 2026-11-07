@@ -174,3 +174,28 @@ Keine anderen neuen ⚠.
 - Alle 247 übernommenen Zeilen neben dem englischen Original gelesen, alle 58 neuen Zeilen geschrieben und
   durchgesehen; Stichprobe 30 Zeilen (geänderte und neue) auf Übersetzung, Niveau und Beispiel: keine weitere
   Korrektur nötig.
+
+## Merge-Hinweise der Hauptsession (aliase.txt)
+
+Stand nach dem letzten Commit, `node scripts/pruefe.mjs`:
+
+- it-ke-0696: Wortpaar weicht von it-gw-0072 ab (it|tragen last|portare / it|tragen kleidung|portare)
+- it-ke-0834: Wortpaar weicht von it-gw-0572 ab (it|sich erinnern|ricordare / it|erinnern jemanden|ricordare)
+- it-kg-0043: Wortpaar weicht von it-gw-0355 ab (it|rezept arzt|la ricetta / it|rezept kochen|la ricetta)
+- it-mv-0061: Wortpaar weicht von it-sb-0100 ab (it|bewertung von kunden|la valutazione / it|bewertung schule|la valutazione)
+- it-sf-0067: Wortpaar weicht von it-ap-0189 ab (it|laufband fitness|il tapis roulant / it|laufband flughafen|il tapis roulant)
+- it-wi-0033: Wortpaar weicht von it-sf-0062 ab (it|kraft physik|la forza / it|kraft korperlich|la forza)
+
+Diese Alias-Zeilen verbinden jetzt zwei verschiedene Bedeutungen (Klammerhinweis aus M-en) und werden beim Mergen aus
+aliase.txt entfernt. Danach `node scripts/aliase.mjs`: Es legt die neuen Aliase für gleiche Wortpaare an:
+
+- it | aufstehen morgens aus dem bett | alzarsi  →  it-al-0127  ←  it-ke-0749
+- it | nachricht mitteilung | il messaggio  →  it-gw-0441  ←  it-bb-0035, it-ke-0359, it-tc-0038
+- it | geschaft laden | il negozio  →  it-gw-0239  ←  it-mv-0004, it-eg-0004, it-ke-0605, it-wf-0008
+- it | sitzen | essere seduto  →  it-gw-0081  ←  it-ke-0860
+- it | annehmen vermuten | supporre  →  it-gw-0511  ←  it-ke-0679
+- it | muster design | il motivo  →  it-km-0067  ←  it-ke-0441
+- it | reichweite fahrzeug | l'autonomia  →  it-vm-0128  ←  it-ke-0497
+
+Damit hängen it-ke-0834 („sich erinnern“) und it-ke-0497 („Reichweite (Fahrzeug)“) wie im Englischen an gw-0307
+bzw. vm-0128, soweit die Antwort dort gleich ist.

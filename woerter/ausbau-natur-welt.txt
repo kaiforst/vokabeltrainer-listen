@@ -12,7 +12,7 @@ xc-0009; Truthahn; turkey; ; B1; Natur/Tiere/Haustiere; Many families eat turkey
 xc-0010; Hamster; hamster; ; A2; Natur/Tiere/Haustiere; My hamster sleeps all day and runs all night.; Mein Hamster schläft den ganzen Tag und rennt die ganze Nacht.
 xc-0011; Meerschweinchen; guinea pig; ; A2; Natur/Tiere/Haustiere; The children feed the guinea pig every morning.; Die Kinder füttern jeden Morgen das Meerschweinchen.
 xc-0012; Goldfisch; goldfish; ; A2; Natur/Tiere/Haustiere; Two goldfish swim in the bowl on her desk.; Zwei Goldfische schwimmen im Glas auf ihrem Schreibtisch.
-xc-0013; Pony; pony; ; A2; Natur/Tiere/Haustiere; My little sister rides a pony every Saturday.; Meine kleine Schwester reitet jeden Samstag auf einem Pony.
+xc-0013; Pony (Tier); pony; ; A2; Natur/Tiere/Haustiere; My little sister rides a pony every Saturday.; Meine kleine Schwester reitet jeden Samstag auf einem Pony.
 xc-0014; Käfig; cage; ; B1; Natur/Tiere/Haustiere; The bird sings in its cage by the window.; Der Vogel singt in seinem Käfig am Fenster.
 xc-0015; Stall; stable; ; B1; Natur/Tiere/Haustiere; The horses spend the night in the stable.; Die Pferde verbringen die Nacht im Stall.
 xc-0016; Tierarzt; vet; veterinarian, veterinary surgeon; A2; Natur/Tiere/Haustiere; We have to take the dog to the vet.; Wir müssen mit dem Hund zum Tierarzt.
@@ -100,7 +100,7 @@ xc-0097; Weide (Wiese); pasture; ; C1; Natur/Landwirtschaft; The cows spend the 
 xc-0098; Ernte; harvest; ; B1; Natur/Landwirtschaft; The rain came just before the harvest.; Der Regen kam kurz vor der Ernte.
 xc-0099; Getreide; grain; cereal, cereals; B2; Natur/Landwirtschaft; The region grows mainly grain and potatoes.; In der Region werden vor allem Getreide und Kartoffeln angebaut.
 xc-0100; Weizen; wheat; ; B1; Natur/Landwirtschaft; Bread is usually made from wheat.; Brot wird meistens aus Weizen gemacht.
-xc-0101; Mais; maize; corn; B1; Natur/Landwirtschaft; The maize is already higher than the fence.; Der Mais ist schon höher als der Zaun.
+xc-0101; Mais (Pflanze); maize; corn; B1; Natur/Landwirtschaft; The maize is already higher than the fence.; Der Mais ist schon höher als der Zaun.
 xc-0102; Stroh; straw; ; B2; Natur/Landwirtschaft; The animals sleep on fresh straw.; Die Tiere schlafen auf frischem Stroh.
 xc-0103; Landwirtschaft; agriculture; farming; B1; Natur/Landwirtschaft; Many people in the village work in agriculture.; Viele Menschen im Dorf arbeiten in der Landwirtschaft.
 xc-0104; Bauer; farmer; ; A2; Natur/Landwirtschaft; The farmer gets up at five to milk the cows.; Der Bauer steht um fünf auf, um die Kühe zu melken.
@@ -327,7 +327,7 @@ xc-0324; Reihenhaus; terraced house; row house; B2; Alltag/Stadt/Gebäude; They 
 xc-0325; Einfamilienhaus; detached house; single-family house; B2; Alltag/Stadt/Gebäude; Many families dream of a detached house with a garden.; Viele Familien träumen von einem Einfamilienhaus mit Garten.
 xc-0326; Wohnblock; block of flats; apartment block; B2; Alltag/Stadt/Gebäude; They grew up in a large block of flats.; Sie sind in einem großen Wohnblock aufgewachsen.
 xc-0327; Abriss; demolition; ; C1; Alltag/Stadt/Gebäude; The demolition of the old factory starts next year.; Der Abriss der alten Fabrik beginnt nächstes Jahr.
-xc-0328; Botschaft (diplomatische Vertretung); embassy; ; B1; Alltag/Stadt/Gebäude; You can get a new passport at the embassy.; Einen neuen Pass bekommt man bei der Botschaft.
+xc-0328; Botschaft (Vertretung); embassy; ; B1; Alltag/Stadt/Gebäude; You can get a new passport at the embassy.; Einen neuen Pass bekommt man bei der Botschaft.
 xc-0329; Marktplatz; market square; marketplace; A2; Alltag/Stadt/Straßen & Plätze; There is a farmers' market on the market square every Saturday.; Jeden Samstag ist auf dem Marktplatz ein Bauernmarkt.
 xc-0330; Gasse; alley; alleyway, lane; B2; Alltag/Stadt/Straßen & Plätze; We got lost in the narrow alleys of the old town.; Wir haben uns in den engen Gassen der Altstadt verlaufen.
 xc-0331; Hauptstraße; main road; main street, high street; A2; Alltag/Stadt/Straßen & Plätze; The bakery is on the main road next to the bank.; Die Bäckerei ist an der Hauptstraße neben der Bank.

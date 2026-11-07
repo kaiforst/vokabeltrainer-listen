@@ -1002,12 +1002,147 @@
       "version": 1,
       "count": 129,
       "lang": "it"
+    },
+    {
+      "id": "ausbau-alltag",
+      "file": "woerter/ausbau-alltag.txt",
+      "version": 1,
+      "count": 443
+    },
+    {
+      "id": "fr-ausbau-alltag",
+      "file": "woerter/fr-ausbau-alltag.txt",
+      "version": 1,
+      "count": 443,
+      "lang": "fr"
+    },
+    {
+      "id": "es-ausbau-alltag",
+      "file": "woerter/es-ausbau-alltag.txt",
+      "version": 1,
+      "count": 443,
+      "lang": "es"
+    },
+    {
+      "id": "it-ausbau-alltag",
+      "file": "woerter/it-ausbau-alltag.txt",
+      "version": 1,
+      "count": 443,
+      "lang": "it"
+    },
+    {
+      "id": "ausbau-schule-arbeit",
+      "file": "woerter/ausbau-schule-arbeit.txt",
+      "version": 1,
+      "count": 440
+    },
+    {
+      "id": "fr-ausbau-schule-arbeit",
+      "file": "woerter/fr-ausbau-schule-arbeit.txt",
+      "version": 1,
+      "count": 440,
+      "lang": "fr"
+    },
+    {
+      "id": "es-ausbau-schule-arbeit",
+      "file": "woerter/es-ausbau-schule-arbeit.txt",
+      "version": 1,
+      "count": 440,
+      "lang": "es"
+    },
+    {
+      "id": "it-ausbau-schule-arbeit",
+      "file": "woerter/it-ausbau-schule-arbeit.txt",
+      "version": 1,
+      "count": 440,
+      "lang": "it"
+    },
+    {
+      "id": "ausbau-natur-welt",
+      "file": "woerter/ausbau-natur-welt.txt",
+      "version": 1,
+      "count": 461
+    },
+    {
+      "id": "fr-ausbau-natur-welt",
+      "file": "woerter/fr-ausbau-natur-welt.txt",
+      "version": 1,
+      "count": 461,
+      "lang": "fr"
+    },
+    {
+      "id": "es-ausbau-natur-welt",
+      "file": "woerter/es-ausbau-natur-welt.txt",
+      "version": 1,
+      "count": 461,
+      "lang": "es"
+    },
+    {
+      "id": "it-ausbau-natur-welt",
+      "file": "woerter/it-ausbau-natur-welt.txt",
+      "version": 1,
+      "count": 461,
+      "lang": "it"
+    },
+    {
+      "id": "ausbau-gesellschaft",
+      "file": "woerter/ausbau-gesellschaft.txt",
+      "version": 1,
+      "count": 442
+    },
+    {
+      "id": "fr-ausbau-gesellschaft",
+      "file": "woerter/fr-ausbau-gesellschaft.txt",
+      "version": 1,
+      "count": 442,
+      "lang": "fr"
+    },
+    {
+      "id": "es-ausbau-gesellschaft",
+      "file": "woerter/es-ausbau-gesellschaft.txt",
+      "version": 1,
+      "count": 442,
+      "lang": "es"
+    },
+    {
+      "id": "it-ausbau-gesellschaft",
+      "file": "woerter/it-ausbau-gesellschaft.txt",
+      "version": 1,
+      "count": 442,
+      "lang": "it"
+    },
+    {
+      "id": "ausbau-grundwoerter",
+      "file": "woerter/ausbau-grundwoerter.txt",
+      "version": 1,
+      "count": 487
+    },
+    {
+      "id": "fr-ausbau-grundwoerter",
+      "file": "woerter/fr-ausbau-grundwoerter.txt",
+      "version": 1,
+      "count": 487,
+      "lang": "fr"
+    },
+    {
+      "id": "es-ausbau-grundwoerter",
+      "file": "woerter/es-ausbau-grundwoerter.txt",
+      "version": 1,
+      "count": 487,
+      "lang": "es"
+    },
+    {
+      "id": "it-ausbau-grundwoerter",
+      "file": "woerter/it-ausbau-grundwoerter.txt",
+      "version": 1,
+      "count": 487,
+      "lang": "it"
     }
   ],
   "aliases": {
     "file": "aliase.txt",
-    "version": 3,
-    "count": 6395
+    "version": 4,
+    "count": 6576
   },
   "forms": [
     {
@@ -1155,8 +1290,8 @@
       "id": "alltag-zuhause",
       "name": "Alltag & Zuhause",
       "description": "A1–C2, mit Beispielsätzen",
-      "count": 150,
-      "version": 1,
+      "count": 245,
+      "version": 2,
       "filter": {
         "topics": [
           "Alltag/Zuhause"
@@ -1167,8 +1302,8 @@
       "id": "arbeit-beruf",
       "name": "Arbeit & Beruf",
       "description": "A1–C2, mit Beispielsätzen",
-      "count": 155,
-      "version": 2,
+      "count": 222,
+      "version": 3,
       "filter": {
         "topics": [
           "Arbeit"
@@ -1191,8 +1326,8 @@
       "id": "einkaufen-geld",
       "name": "Einkaufen & Geld",
       "description": "A1–C2, mit Beispielsätzen",
-      "count": 158,
-      "version": 2,
+      "count": 178,
+      "version": 3,
       "filter": {
         "topics": [
           "Alltag/Einkaufen"
@@ -1203,8 +1338,8 @@
       "id": "essen-trinken",
       "name": "Essen & Trinken",
       "description": "A1–C2, mit Beispielsätzen",
-      "count": 152,
-      "version": 1,
+      "count": 243,
+      "version": 2,
       "filter": {
         "topics": [
           "Alltag/Essen"
@@ -1215,8 +1350,8 @@
       "id": "familie-beziehungen",
       "name": "Familie & Beziehungen",
       "description": "A1–C2, mit Beispielsätzen",
-      "count": 150,
-      "version": 1,
+      "count": 200,
+      "version": 2,
       "filter": {
         "topics": [
           "Alltag/Familie"
@@ -1227,8 +1362,8 @@
       "id": "freizeit-hobbys",
       "name": "Freizeit & Hobbys",
       "description": "A1–C2, mit Beispielsätzen",
-      "count": 153,
-      "version": 1,
+      "count": 198,
+      "version": 2,
       "filter": {
         "topics": [
           "Freizeit/Hobbys",
@@ -1245,11 +1380,12 @@
       "id": "gefuehle-charakter",
       "name": "Gefühle & Charakter",
       "description": "A1–C2, mit Beispielsätzen",
-      "count": 150,
-      "version": 1,
+      "count": 219,
+      "version": 2,
       "filter": {
         "topics": [
-          "Mensch"
+          "Mensch/Gefühle",
+          "Mensch/Charakter"
         ]
       }
     },
@@ -1269,8 +1405,8 @@
       "id": "kleidung-mode",
       "name": "Kleidung & Mode",
       "description": "A1–C2, mit Beispielsätzen",
-      "count": 150,
-      "version": 1,
+      "count": 180,
+      "version": 2,
       "filter": {
         "topics": [
           "Alltag/Kleidung"
@@ -1281,8 +1417,8 @@
       "id": "koerper-gesundheit",
       "name": "Körper & Gesundheit",
       "description": "A1–C2, mit Beispielsätzen",
-      "count": 152,
-      "version": 1,
+      "count": 296,
+      "version": 2,
       "filter": {
         "topics": [
           "Gesundheit"
@@ -1293,8 +1429,8 @@
       "id": "kunst-kultur",
       "name": "Kunst & Kultur",
       "description": "A1–C2, mit Beispielsätzen",
-      "count": 151,
-      "version": 1,
+      "count": 262,
+      "version": 2,
       "filter": {
         "topics": [
           "Kultur"
@@ -1305,8 +1441,8 @@
       "id": "medien-kommunikation",
       "name": "Medien & Kommunikation",
       "description": "A1–C2, mit Beispielsätzen",
-      "count": 150,
-      "version": 1,
+      "count": 199,
+      "version": 2,
       "filter": {
         "topics": [
           "Medien"
@@ -1317,8 +1453,8 @@
       "id": "natur-tiere",
       "name": "Natur & Tiere",
       "description": "A1–C2, mit Beispielsätzen",
-      "count": 150,
-      "version": 1,
+      "count": 273,
+      "version": 2,
       "filter": {
         "topics": [
           "Natur/Tiere",
@@ -1331,8 +1467,8 @@
       "id": "politik-gesellschaft",
       "name": "Politik & Gesellschaft",
       "description": "A1–C2, mit Beispielsätzen",
-      "count": 153,
-      "version": 1,
+      "count": 314,
+      "version": 2,
       "filter": {
         "topics": [
           "Gesellschaft"
@@ -1343,8 +1479,8 @@
       "id": "reisen-urlaub",
       "name": "Reisen & Urlaub",
       "description": "A1–C2, mit Beispielsätzen",
-      "count": 158,
-      "version": 2,
+      "count": 204,
+      "version": 3,
       "filter": {
         "topics": [
           "Reisen/Urlaub"
@@ -1355,8 +1491,8 @@
       "id": "schule-bildung",
       "name": "Schule & Bildung",
       "description": "A1–C2, mit Beispielsätzen",
-      "count": 150,
-      "version": 1,
+      "count": 337,
+      "version": 2,
       "filter": {
         "topics": [
           "Bildung"
@@ -1367,8 +1503,8 @@
       "id": "sport-fitness",
       "name": "Sport & Fitness",
       "description": "A1–C2, mit Beispielsätzen",
-      "count": 153,
-      "version": 1,
+      "count": 195,
+      "version": 2,
       "filter": {
         "topics": [
           "Freizeit/Sport"
@@ -1379,8 +1515,8 @@
       "id": "technik-computer",
       "name": "Technik & Computer",
       "description": "A1–C2, mit Beispielsätzen",
-      "count": 150,
-      "version": 1,
+      "count": 259,
+      "version": 2,
       "filter": {
         "topics": [
           "Technik"
@@ -1391,8 +1527,8 @@
       "id": "verkehr-mobilitaet",
       "name": "Verkehr & Mobilität",
       "description": "A1–C2, mit Beispielsätzen",
-      "count": 152,
-      "version": 1,
+      "count": 213,
+      "version": 2,
       "filter": {
         "topics": [
           "Reisen/Verkehr"
@@ -1403,8 +1539,8 @@
       "id": "wetter-umwelt",
       "name": "Wetter & Umwelt",
       "description": "A1–C2, mit Beispielsätzen",
-      "count": 150,
-      "version": 1,
+      "count": 239,
+      "version": 2,
       "filter": {
         "topics": [
           "Natur/Umwelt"
@@ -1415,8 +1551,8 @@
       "id": "wirtschaft-finanzen",
       "name": "Wirtschaft & Finanzen",
       "description": "A1–C2, mit Beispielsätzen",
-      "count": 150,
-      "version": 1,
+      "count": 188,
+      "version": 2,
       "filter": {
         "topics": [
           "Wirtschaft"
@@ -1427,8 +1563,8 @@
       "id": "wissenschaft-forschung",
       "name": "Wissenschaft & Forschung",
       "description": "A1–C2, mit Beispielsätzen",
-      "count": 150,
-      "version": 1,
+      "count": 196,
+      "version": 2,
       "filter": {
         "topics": [
           "Wissenschaft"
@@ -2076,8 +2212,8 @@
       "name": "Französisch: Alltag & Zuhause",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "fr",
-      "count": 150,
-      "version": 1,
+      "count": 245,
+      "version": 2,
       "filter": {
         "topics": [
           "Alltag/Zuhause"
@@ -2089,8 +2225,8 @@
       "name": "Französisch: Arbeit & Beruf",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "fr",
-      "count": 155,
-      "version": 1,
+      "count": 222,
+      "version": 2,
       "filter": {
         "topics": [
           "Arbeit"
@@ -2115,8 +2251,8 @@
       "name": "Französisch: Einkaufen & Geld",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "fr",
-      "count": 158,
-      "version": 1,
+      "count": 178,
+      "version": 2,
       "filter": {
         "topics": [
           "Alltag/Einkaufen"
@@ -2128,8 +2264,8 @@
       "name": "Französisch: Essen & Trinken",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "fr",
-      "count": 152,
-      "version": 1,
+      "count": 243,
+      "version": 2,
       "filter": {
         "topics": [
           "Alltag/Essen"
@@ -2141,8 +2277,8 @@
       "name": "Französisch: Familie & Beziehungen",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "fr",
-      "count": 150,
-      "version": 1,
+      "count": 200,
+      "version": 2,
       "filter": {
         "topics": [
           "Alltag/Familie"
@@ -2154,8 +2290,8 @@
       "name": "Französisch: Freizeit & Hobbys",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "fr",
-      "count": 153,
-      "version": 1,
+      "count": 198,
+      "version": 2,
       "filter": {
         "topics": [
           "Freizeit/Hobbys",
@@ -2173,11 +2309,12 @@
       "name": "Französisch: Gefühle & Charakter",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "fr",
-      "count": 150,
-      "version": 1,
+      "count": 219,
+      "version": 2,
       "filter": {
         "topics": [
-          "Mensch"
+          "Mensch/Gefühle",
+          "Mensch/Charakter"
         ]
       }
     },
@@ -2186,8 +2323,8 @@
       "name": "Französisch: Kleidung & Mode",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "fr",
-      "count": 150,
-      "version": 1,
+      "count": 180,
+      "version": 2,
       "filter": {
         "topics": [
           "Alltag/Kleidung"
@@ -2199,8 +2336,8 @@
       "name": "Französisch: Körper & Gesundheit",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "fr",
-      "count": 152,
-      "version": 1,
+      "count": 296,
+      "version": 2,
       "filter": {
         "topics": [
           "Gesundheit"
@@ -2212,8 +2349,8 @@
       "name": "Französisch: Kunst & Kultur",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "fr",
-      "count": 151,
-      "version": 1,
+      "count": 262,
+      "version": 2,
       "filter": {
         "topics": [
           "Kultur"
@@ -2225,8 +2362,8 @@
       "name": "Französisch: Medien & Kommunikation",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "fr",
-      "count": 150,
-      "version": 1,
+      "count": 199,
+      "version": 2,
       "filter": {
         "topics": [
           "Medien"
@@ -2238,8 +2375,8 @@
       "name": "Französisch: Natur & Tiere",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "fr",
-      "count": 150,
-      "version": 1,
+      "count": 273,
+      "version": 2,
       "filter": {
         "topics": [
           "Natur/Tiere",
@@ -2253,8 +2390,8 @@
       "name": "Französisch: Politik & Gesellschaft",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "fr",
-      "count": 153,
-      "version": 1,
+      "count": 314,
+      "version": 2,
       "filter": {
         "topics": [
           "Gesellschaft"
@@ -2266,8 +2403,8 @@
       "name": "Französisch: Reisen & Urlaub",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "fr",
-      "count": 158,
-      "version": 1,
+      "count": 204,
+      "version": 2,
       "filter": {
         "topics": [
           "Reisen/Urlaub"
@@ -2279,8 +2416,8 @@
       "name": "Französisch: Schule & Bildung",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "fr",
-      "count": 150,
-      "version": 1,
+      "count": 337,
+      "version": 2,
       "filter": {
         "topics": [
           "Bildung"
@@ -2292,8 +2429,8 @@
       "name": "Französisch: Sport & Fitness",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "fr",
-      "count": 153,
-      "version": 1,
+      "count": 195,
+      "version": 2,
       "filter": {
         "topics": [
           "Freizeit/Sport"
@@ -2305,8 +2442,8 @@
       "name": "Französisch: Technik & Computer",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "fr",
-      "count": 150,
-      "version": 1,
+      "count": 259,
+      "version": 2,
       "filter": {
         "topics": [
           "Technik"
@@ -2318,8 +2455,8 @@
       "name": "Französisch: Verkehr & Mobilität",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "fr",
-      "count": 152,
-      "version": 1,
+      "count": 213,
+      "version": 2,
       "filter": {
         "topics": [
           "Reisen/Verkehr"
@@ -2331,8 +2468,8 @@
       "name": "Französisch: Wetter & Umwelt",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "fr",
-      "count": 150,
-      "version": 1,
+      "count": 239,
+      "version": 2,
       "filter": {
         "topics": [
           "Natur/Umwelt"
@@ -2344,8 +2481,8 @@
       "name": "Französisch: Wirtschaft & Finanzen",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "fr",
-      "count": 150,
-      "version": 1,
+      "count": 188,
+      "version": 2,
       "filter": {
         "topics": [
           "Wirtschaft"
@@ -2357,8 +2494,8 @@
       "name": "Französisch: Wissenschaft & Forschung",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "fr",
-      "count": 150,
-      "version": 1,
+      "count": 196,
+      "version": 2,
       "filter": {
         "topics": [
           "Wissenschaft"
@@ -2475,8 +2612,8 @@
       "name": "Spanisch: Alltag & Zuhause",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "es",
-      "count": 150,
-      "version": 1,
+      "count": 245,
+      "version": 2,
       "filter": {
         "topics": [
           "Alltag/Zuhause"
@@ -2488,8 +2625,8 @@
       "name": "Spanisch: Arbeit & Beruf",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "es",
-      "count": 155,
-      "version": 1,
+      "count": 222,
+      "version": 2,
       "filter": {
         "topics": [
           "Arbeit"
@@ -2514,8 +2651,8 @@
       "name": "Spanisch: Einkaufen & Geld",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "es",
-      "count": 158,
-      "version": 1,
+      "count": 178,
+      "version": 2,
       "filter": {
         "topics": [
           "Alltag/Einkaufen"
@@ -2527,8 +2664,8 @@
       "name": "Spanisch: Essen & Trinken",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "es",
-      "count": 152,
-      "version": 1,
+      "count": 243,
+      "version": 2,
       "filter": {
         "topics": [
           "Alltag/Essen"
@@ -2540,8 +2677,8 @@
       "name": "Spanisch: Familie & Beziehungen",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "es",
-      "count": 150,
-      "version": 1,
+      "count": 200,
+      "version": 2,
       "filter": {
         "topics": [
           "Alltag/Familie"
@@ -2553,8 +2690,8 @@
       "name": "Spanisch: Freizeit & Hobbys",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "es",
-      "count": 153,
-      "version": 1,
+      "count": 198,
+      "version": 2,
       "filter": {
         "topics": [
           "Freizeit/Hobbys",
@@ -2572,11 +2709,12 @@
       "name": "Spanisch: Gefühle & Charakter",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "es",
-      "count": 150,
-      "version": 1,
+      "count": 219,
+      "version": 2,
       "filter": {
         "topics": [
-          "Mensch"
+          "Mensch/Gefühle",
+          "Mensch/Charakter"
         ]
       }
     },
@@ -2585,8 +2723,8 @@
       "name": "Spanisch: Kleidung & Mode",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "es",
-      "count": 150,
-      "version": 1,
+      "count": 180,
+      "version": 2,
       "filter": {
         "topics": [
           "Alltag/Kleidung"
@@ -2598,8 +2736,8 @@
       "name": "Spanisch: Körper & Gesundheit",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "es",
-      "count": 152,
-      "version": 1,
+      "count": 296,
+      "version": 2,
       "filter": {
         "topics": [
           "Gesundheit"
@@ -2611,8 +2749,8 @@
       "name": "Spanisch: Kunst & Kultur",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "es",
-      "count": 151,
-      "version": 1,
+      "count": 262,
+      "version": 2,
       "filter": {
         "topics": [
           "Kultur"
@@ -2624,8 +2762,8 @@
       "name": "Spanisch: Medien & Kommunikation",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "es",
-      "count": 150,
-      "version": 1,
+      "count": 199,
+      "version": 2,
       "filter": {
         "topics": [
           "Medien"
@@ -2637,8 +2775,8 @@
       "name": "Spanisch: Natur & Tiere",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "es",
-      "count": 150,
-      "version": 1,
+      "count": 273,
+      "version": 2,
       "filter": {
         "topics": [
           "Natur/Tiere",
@@ -2652,8 +2790,8 @@
       "name": "Spanisch: Politik & Gesellschaft",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "es",
-      "count": 153,
-      "version": 1,
+      "count": 314,
+      "version": 2,
       "filter": {
         "topics": [
           "Gesellschaft"
@@ -2665,8 +2803,8 @@
       "name": "Spanisch: Reisen & Urlaub",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "es",
-      "count": 158,
-      "version": 1,
+      "count": 204,
+      "version": 2,
       "filter": {
         "topics": [
           "Reisen/Urlaub"
@@ -2678,8 +2816,8 @@
       "name": "Spanisch: Schule & Bildung",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "es",
-      "count": 150,
-      "version": 1,
+      "count": 337,
+      "version": 2,
       "filter": {
         "topics": [
           "Bildung"
@@ -2691,8 +2829,8 @@
       "name": "Spanisch: Sport & Fitness",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "es",
-      "count": 153,
-      "version": 1,
+      "count": 195,
+      "version": 2,
       "filter": {
         "topics": [
           "Freizeit/Sport"
@@ -2704,8 +2842,8 @@
       "name": "Spanisch: Technik & Computer",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "es",
-      "count": 150,
-      "version": 1,
+      "count": 259,
+      "version": 2,
       "filter": {
         "topics": [
           "Technik"
@@ -2717,8 +2855,8 @@
       "name": "Spanisch: Verkehr & Mobilität",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "es",
-      "count": 152,
-      "version": 1,
+      "count": 213,
+      "version": 2,
       "filter": {
         "topics": [
           "Reisen/Verkehr"
@@ -2730,8 +2868,8 @@
       "name": "Spanisch: Wetter & Umwelt",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "es",
-      "count": 150,
-      "version": 1,
+      "count": 239,
+      "version": 2,
       "filter": {
         "topics": [
           "Natur/Umwelt"
@@ -2743,8 +2881,8 @@
       "name": "Spanisch: Wirtschaft & Finanzen",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "es",
-      "count": 150,
-      "version": 1,
+      "count": 188,
+      "version": 2,
       "filter": {
         "topics": [
           "Wirtschaft"
@@ -2756,8 +2894,8 @@
       "name": "Spanisch: Wissenschaft & Forschung",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "es",
-      "count": 150,
-      "version": 1,
+      "count": 196,
+      "version": 2,
       "filter": {
         "topics": [
           "Wissenschaft"
@@ -2874,8 +3012,8 @@
       "name": "Italienisch: Alltag & Zuhause",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "it",
-      "count": 150,
-      "version": 1,
+      "count": 245,
+      "version": 2,
       "filter": {
         "topics": [
           "Alltag/Zuhause"
@@ -2887,8 +3025,8 @@
       "name": "Italienisch: Arbeit & Beruf",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "it",
-      "count": 155,
-      "version": 1,
+      "count": 222,
+      "version": 2,
       "filter": {
         "topics": [
           "Arbeit"
@@ -2913,8 +3051,8 @@
       "name": "Italienisch: Einkaufen & Geld",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "it",
-      "count": 158,
-      "version": 1,
+      "count": 178,
+      "version": 2,
       "filter": {
         "topics": [
           "Alltag/Einkaufen"
@@ -2926,8 +3064,8 @@
       "name": "Italienisch: Essen & Trinken",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "it",
-      "count": 152,
-      "version": 1,
+      "count": 243,
+      "version": 2,
       "filter": {
         "topics": [
           "Alltag/Essen"
@@ -2939,8 +3077,8 @@
       "name": "Italienisch: Familie & Beziehungen",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "it",
-      "count": 150,
-      "version": 1,
+      "count": 200,
+      "version": 2,
       "filter": {
         "topics": [
           "Alltag/Familie"
@@ -2952,8 +3090,8 @@
       "name": "Italienisch: Freizeit & Hobbys",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "it",
-      "count": 153,
-      "version": 1,
+      "count": 198,
+      "version": 2,
       "filter": {
         "topics": [
           "Freizeit/Hobbys",
@@ -2971,11 +3109,12 @@
       "name": "Italienisch: Gefühle & Charakter",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "it",
-      "count": 150,
-      "version": 1,
+      "count": 219,
+      "version": 2,
       "filter": {
         "topics": [
-          "Mensch"
+          "Mensch/Gefühle",
+          "Mensch/Charakter"
         ]
       }
     },
@@ -2984,8 +3123,8 @@
       "name": "Italienisch: Kleidung & Mode",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "it",
-      "count": 150,
-      "version": 1,
+      "count": 180,
+      "version": 2,
       "filter": {
         "topics": [
           "Alltag/Kleidung"
@@ -2997,8 +3136,8 @@
       "name": "Italienisch: Körper & Gesundheit",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "it",
-      "count": 152,
-      "version": 1,
+      "count": 296,
+      "version": 2,
       "filter": {
         "topics": [
           "Gesundheit"
@@ -3010,8 +3149,8 @@
       "name": "Italienisch: Kunst & Kultur",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "it",
-      "count": 151,
-      "version": 1,
+      "count": 262,
+      "version": 2,
       "filter": {
         "topics": [
           "Kultur"
@@ -3023,8 +3162,8 @@
       "name": "Italienisch: Medien & Kommunikation",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "it",
-      "count": 150,
-      "version": 1,
+      "count": 199,
+      "version": 2,
       "filter": {
         "topics": [
           "Medien"
@@ -3036,8 +3175,8 @@
       "name": "Italienisch: Natur & Tiere",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "it",
-      "count": 150,
-      "version": 1,
+      "count": 273,
+      "version": 2,
       "filter": {
         "topics": [
           "Natur/Tiere",
@@ -3051,8 +3190,8 @@
       "name": "Italienisch: Politik & Gesellschaft",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "it",
-      "count": 153,
-      "version": 1,
+      "count": 314,
+      "version": 2,
       "filter": {
         "topics": [
           "Gesellschaft"
@@ -3064,8 +3203,8 @@
       "name": "Italienisch: Reisen & Urlaub",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "it",
-      "count": 158,
-      "version": 1,
+      "count": 204,
+      "version": 2,
       "filter": {
         "topics": [
           "Reisen/Urlaub"
@@ -3077,8 +3216,8 @@
       "name": "Italienisch: Schule & Bildung",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "it",
-      "count": 150,
-      "version": 1,
+      "count": 337,
+      "version": 2,
       "filter": {
         "topics": [
           "Bildung"
@@ -3090,8 +3229,8 @@
       "name": "Italienisch: Sport & Fitness",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "it",
-      "count": 153,
-      "version": 1,
+      "count": 195,
+      "version": 2,
       "filter": {
         "topics": [
           "Freizeit/Sport"
@@ -3103,8 +3242,8 @@
       "name": "Italienisch: Technik & Computer",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "it",
-      "count": 150,
-      "version": 1,
+      "count": 259,
+      "version": 2,
       "filter": {
         "topics": [
           "Technik"
@@ -3116,8 +3255,8 @@
       "name": "Italienisch: Verkehr & Mobilität",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "it",
-      "count": 152,
-      "version": 1,
+      "count": 213,
+      "version": 2,
       "filter": {
         "topics": [
           "Reisen/Verkehr"
@@ -3129,8 +3268,8 @@
       "name": "Italienisch: Wetter & Umwelt",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "it",
-      "count": 150,
-      "version": 1,
+      "count": 239,
+      "version": 2,
       "filter": {
         "topics": [
           "Natur/Umwelt"
@@ -3142,8 +3281,8 @@
       "name": "Italienisch: Wirtschaft & Finanzen",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "it",
-      "count": 150,
-      "version": 1,
+      "count": 188,
+      "version": 2,
       "filter": {
         "topics": [
           "Wirtschaft"
@@ -3155,8 +3294,8 @@
       "name": "Italienisch: Wissenschaft & Forschung",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "it",
-      "count": 150,
-      "version": 1,
+      "count": 196,
+      "version": 2,
       "filter": {
         "topics": [
           "Wissenschaft"
@@ -4390,10 +4529,1732 @@
           "Phrasal Verbs/Technik"
         ]
       }
+    },
+    {
+      "id": "aussehen-lebensphasen",
+      "name": "Aussehen & Lebensphasen",
+      "description": "Menschen beschreiben: Haare, Gesicht, Statur, vom Säugling bis zum Senior",
+      "level": "A2",
+      "count": 41,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Mensch/Aussehen",
+          "Mensch/Lebensphasen"
+        ]
+      }
+    },
+    {
+      "id": "fr-aussehen-lebensphasen",
+      "name": "Französisch: Aussehen & Lebensphasen",
+      "description": "Menschen beschreiben: Haare, Gesicht, Statur, vom Säugling bis zum Senior",
+      "level": "A2",
+      "answerLang": "fr",
+      "count": 41,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Mensch/Aussehen",
+          "Mensch/Lebensphasen"
+        ]
+      }
+    },
+    {
+      "id": "es-aussehen-lebensphasen",
+      "name": "Spanisch: Aussehen & Lebensphasen",
+      "description": "Menschen beschreiben: Haare, Gesicht, Statur, vom Säugling bis zum Senior",
+      "level": "A2",
+      "answerLang": "es",
+      "count": 41,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Mensch/Aussehen",
+          "Mensch/Lebensphasen"
+        ]
+      }
+    },
+    {
+      "id": "it-aussehen-lebensphasen",
+      "name": "Italienisch: Aussehen & Lebensphasen",
+      "description": "Menschen beschreiben: Haare, Gesicht, Statur, vom Säugling bis zum Senior",
+      "level": "A2",
+      "answerLang": "it",
+      "count": 41,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Mensch/Aussehen",
+          "Mensch/Lebensphasen"
+        ]
+      }
+    },
+    {
+      "id": "haushalt-geraete",
+      "name": "Haushalt & Geräte",
+      "description": "Putzen, Wäsche, Renovieren und die Geräte im Haus",
+      "level": "A2",
+      "count": 58,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Alltag/Zuhause/Haushalt",
+          "Alltag/Zuhause/Geräte"
+        ]
+      }
+    },
+    {
+      "id": "fr-haushalt-geraete",
+      "name": "Französisch: Haushalt & Geräte",
+      "description": "Putzen, Wäsche, Renovieren und die Geräte im Haus",
+      "level": "A2",
+      "answerLang": "fr",
+      "count": 58,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Alltag/Zuhause/Haushalt",
+          "Alltag/Zuhause/Geräte"
+        ]
+      }
+    },
+    {
+      "id": "es-haushalt-geraete",
+      "name": "Spanisch: Haushalt & Geräte",
+      "description": "Putzen, Wäsche, Renovieren und die Geräte im Haus",
+      "level": "A2",
+      "answerLang": "es",
+      "count": 58,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Alltag/Zuhause/Haushalt",
+          "Alltag/Zuhause/Geräte"
+        ]
+      }
+    },
+    {
+      "id": "it-haushalt-geraete",
+      "name": "Italienisch: Haushalt & Geräte",
+      "description": "Putzen, Wäsche, Renovieren und die Geräte im Haus",
+      "level": "A2",
+      "answerLang": "it",
+      "count": 58,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Alltag/Zuhause/Haushalt",
+          "Alltag/Zuhause/Geräte"
+        ]
+      }
+    },
+    {
+      "id": "werkzeug-handwerk",
+      "name": "Werkzeug & Handwerk",
+      "description": "Werkzeuge, Material und was man damit macht",
+      "level": "B1",
+      "count": 49,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Alltag/Zuhause/Werkzeug",
+          "Technik/Material"
+        ]
+      }
+    },
+    {
+      "id": "fr-werkzeug-handwerk",
+      "name": "Französisch: Werkzeug & Handwerk",
+      "description": "Werkzeuge, Material und was man damit macht",
+      "level": "B1",
+      "answerLang": "fr",
+      "count": 49,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Alltag/Zuhause/Werkzeug",
+          "Technik/Material"
+        ]
+      }
+    },
+    {
+      "id": "es-werkzeug-handwerk",
+      "name": "Spanisch: Werkzeug & Handwerk",
+      "description": "Werkzeuge, Material und was man damit macht",
+      "level": "B1",
+      "answerLang": "es",
+      "count": 49,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Alltag/Zuhause/Werkzeug",
+          "Technik/Material"
+        ]
+      }
+    },
+    {
+      "id": "it-werkzeug-handwerk",
+      "name": "Italienisch: Werkzeug & Handwerk",
+      "description": "Werkzeuge, Material und was man damit macht",
+      "level": "B1",
+      "answerLang": "it",
+      "count": 49,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Alltag/Zuhause/Werkzeug",
+          "Technik/Material"
+        ]
+      }
+    },
+    {
+      "id": "lebensmittel",
+      "name": "Lebensmittel",
+      "description": "Obst, Gemüse, Fleisch, Gewürze und mehr",
+      "level": "A1",
+      "count": 99,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Alltag/Essen/Lebensmittel"
+        ]
+      }
+    },
+    {
+      "id": "fr-lebensmittel",
+      "name": "Französisch: Lebensmittel",
+      "description": "Obst, Gemüse, Fleisch, Gewürze und mehr",
+      "level": "A1",
+      "answerLang": "fr",
+      "count": 99,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Alltag/Essen/Lebensmittel"
+        ]
+      }
+    },
+    {
+      "id": "es-lebensmittel",
+      "name": "Spanisch: Lebensmittel",
+      "description": "Obst, Gemüse, Fleisch, Gewürze und mehr",
+      "level": "A1",
+      "answerLang": "es",
+      "count": 99,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Alltag/Essen/Lebensmittel"
+        ]
+      }
+    },
+    {
+      "id": "it-lebensmittel",
+      "name": "Italienisch: Lebensmittel",
+      "description": "Obst, Gemüse, Fleisch, Gewürze und mehr",
+      "level": "A1",
+      "answerLang": "it",
+      "count": 99,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Alltag/Essen/Lebensmittel"
+        ]
+      }
+    },
+    {
+      "id": "koerperpflege",
+      "name": "Körperpflege",
+      "description": "Vom Shampoo bis zur Zahnseide",
+      "level": "A2",
+      "count": 16,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Gesundheit/Körperpflege"
+        ]
+      }
+    },
+    {
+      "id": "fr-koerperpflege",
+      "name": "Französisch: Körperpflege",
+      "description": "Vom Shampoo bis zur Zahnseide",
+      "level": "A2",
+      "answerLang": "fr",
+      "count": 16,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Gesundheit/Körperpflege"
+        ]
+      }
+    },
+    {
+      "id": "es-koerperpflege",
+      "name": "Spanisch: Körperpflege",
+      "description": "Vom Shampoo bis zur Zahnseide",
+      "level": "A2",
+      "answerLang": "es",
+      "count": 16,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Gesundheit/Körperpflege"
+        ]
+      }
+    },
+    {
+      "id": "it-koerperpflege",
+      "name": "Italienisch: Körperpflege",
+      "description": "Vom Shampoo bis zur Zahnseide",
+      "level": "A2",
+      "answerLang": "it",
+      "count": 16,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Gesundheit/Körperpflege"
+        ]
+      }
+    },
+    {
+      "id": "symptome-krankheiten",
+      "name": "Symptome & Krankheiten",
+      "description": "Was weh tut und was man hat",
+      "level": "B1",
+      "count": 98,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Gesundheit/Symptome",
+          "Gesundheit/Krankheiten"
+        ]
+      }
+    },
+    {
+      "id": "fr-symptome-krankheiten",
+      "name": "Französisch: Symptome & Krankheiten",
+      "description": "Was weh tut und was man hat",
+      "level": "B1",
+      "answerLang": "fr",
+      "count": 98,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Gesundheit/Symptome",
+          "Gesundheit/Krankheiten"
+        ]
+      }
+    },
+    {
+      "id": "es-symptome-krankheiten",
+      "name": "Spanisch: Symptome & Krankheiten",
+      "description": "Was weh tut und was man hat",
+      "level": "B1",
+      "answerLang": "es",
+      "count": 98,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Gesundheit/Symptome",
+          "Gesundheit/Krankheiten"
+        ]
+      }
+    },
+    {
+      "id": "it-symptome-krankheiten",
+      "name": "Italienisch: Symptome & Krankheiten",
+      "description": "Was weh tut und was man hat",
+      "level": "B1",
+      "answerLang": "it",
+      "count": 98,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Gesundheit/Symptome",
+          "Gesundheit/Krankheiten"
+        ]
+      }
+    },
+    {
+      "id": "stadt-gebaeude",
+      "name": "Stadt & Gebäude",
+      "description": "Gebäude, Straßen und Plätze, Leben in der Stadt",
+      "level": "B1",
+      "count": 42,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Alltag/Stadt"
+        ]
+      }
+    },
+    {
+      "id": "fr-stadt-gebaeude",
+      "name": "Französisch: Stadt & Gebäude",
+      "description": "Gebäude, Straßen und Plätze, Leben in der Stadt",
+      "level": "B1",
+      "answerLang": "fr",
+      "count": 42,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Alltag/Stadt"
+        ]
+      }
+    },
+    {
+      "id": "es-stadt-gebaeude",
+      "name": "Spanisch: Stadt & Gebäude",
+      "description": "Gebäude, Straßen und Plätze, Leben in der Stadt",
+      "level": "B1",
+      "answerLang": "es",
+      "count": 42,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Alltag/Stadt"
+        ]
+      }
+    },
+    {
+      "id": "it-stadt-gebaeude",
+      "name": "Italienisch: Stadt & Gebäude",
+      "description": "Gebäude, Straßen und Plätze, Leben in der Stadt",
+      "level": "B1",
+      "answerLang": "it",
+      "count": 42,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Alltag/Stadt"
+        ]
+      }
+    },
+    {
+      "id": "laender-nationalitaeten",
+      "name": "Länder & Nationalitäten",
+      "description": "Kontinente, Länder Europas und der Welt, Nationalitäten",
+      "level": "A1",
+      "count": 59,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Reisen/Länder & Nationalitäten"
+        ]
+      }
+    },
+    {
+      "id": "fr-laender-nationalitaeten",
+      "name": "Französisch: Länder & Nationalitäten",
+      "description": "Kontinente, Länder Europas und der Welt, Nationalitäten",
+      "level": "A1",
+      "answerLang": "fr",
+      "count": 59,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Reisen/Länder & Nationalitäten"
+        ]
+      }
+    },
+    {
+      "id": "es-laender-nationalitaeten",
+      "name": "Spanisch: Länder & Nationalitäten",
+      "description": "Kontinente, Länder Europas und der Welt, Nationalitäten",
+      "level": "A1",
+      "answerLang": "es",
+      "count": 59,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Reisen/Länder & Nationalitäten"
+        ]
+      }
+    },
+    {
+      "id": "it-laender-nationalitaeten",
+      "name": "Italienisch: Länder & Nationalitäten",
+      "description": "Kontinente, Länder Europas und der Welt, Nationalitäten",
+      "level": "A1",
+      "answerLang": "it",
+      "count": 59,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Reisen/Länder & Nationalitäten"
+        ]
+      }
+    },
+    {
+      "id": "feste-feiertage",
+      "name": "Feste & Feiertage",
+      "description": "Weihnachten, Ostern, Silvester, Geburtstag und Feiern",
+      "level": "A2",
+      "count": 43,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Freizeit/Feste & Feiern"
+        ]
+      }
+    },
+    {
+      "id": "fr-feste-feiertage",
+      "name": "Französisch: Feste & Feiertage",
+      "description": "Weihnachten, Ostern, Silvester, Geburtstag und Feiern",
+      "level": "A2",
+      "answerLang": "fr",
+      "count": 43,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Freizeit/Feste & Feiern"
+        ]
+      }
+    },
+    {
+      "id": "es-feste-feiertage",
+      "name": "Spanisch: Feste & Feiertage",
+      "description": "Weihnachten, Ostern, Silvester, Geburtstag und Feiern",
+      "level": "A2",
+      "answerLang": "es",
+      "count": 43,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Freizeit/Feste & Feiern"
+        ]
+      }
+    },
+    {
+      "id": "it-feste-feiertage",
+      "name": "Italienisch: Feste & Feiertage",
+      "description": "Weihnachten, Ostern, Silvester, Geburtstag und Feiern",
+      "level": "A2",
+      "answerLang": "it",
+      "count": 43,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Freizeit/Feste & Feiern"
+        ]
+      }
+    },
+    {
+      "id": "musik-instrumente",
+      "name": "Musik & Instrumente",
+      "description": "Instrumente, Musikrichtungen, Konzert",
+      "level": "A2",
+      "count": 74,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Kultur/Musik",
+          "Freizeit/Musik"
+        ]
+      }
+    },
+    {
+      "id": "fr-musik-instrumente",
+      "name": "Französisch: Musik & Instrumente",
+      "description": "Instrumente, Musikrichtungen, Konzert",
+      "level": "A2",
+      "answerLang": "fr",
+      "count": 74,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Kultur/Musik",
+          "Freizeit/Musik"
+        ]
+      }
+    },
+    {
+      "id": "es-musik-instrumente",
+      "name": "Spanisch: Musik & Instrumente",
+      "description": "Instrumente, Musikrichtungen, Konzert",
+      "level": "A2",
+      "answerLang": "es",
+      "count": 74,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Kultur/Musik",
+          "Freizeit/Musik"
+        ]
+      }
+    },
+    {
+      "id": "it-musik-instrumente",
+      "name": "Italienisch: Musik & Instrumente",
+      "description": "Instrumente, Musikrichtungen, Konzert",
+      "level": "A2",
+      "answerLang": "it",
+      "count": 74,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Kultur/Musik",
+          "Freizeit/Musik"
+        ]
+      }
+    },
+    {
+      "id": "berufe",
+      "name": "Berufe",
+      "description": "Von Klempner bis Softwareentwickler",
+      "level": "A2",
+      "count": 55,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Arbeit/Beruf/Berufe"
+        ]
+      }
+    },
+    {
+      "id": "fr-berufe",
+      "name": "Französisch: Berufe",
+      "description": "Von Klempner bis Softwareentwickler",
+      "level": "A2",
+      "answerLang": "fr",
+      "count": 55,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Arbeit/Beruf/Berufe"
+        ]
+      }
+    },
+    {
+      "id": "es-berufe",
+      "name": "Spanisch: Berufe",
+      "description": "Von Klempner bis Softwareentwickler",
+      "level": "A2",
+      "answerLang": "es",
+      "count": 55,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Arbeit/Beruf/Berufe"
+        ]
+      }
+    },
+    {
+      "id": "it-berufe",
+      "name": "Italienisch: Berufe",
+      "description": "Von Klempner bis Softwareentwickler",
+      "level": "A2",
+      "answerLang": "it",
+      "count": 55,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Arbeit/Beruf/Berufe"
+        ]
+      }
+    },
+    {
+      "id": "buero-arbeitsplatz",
+      "name": "Büro & Arbeitsplatz",
+      "description": "Hefter, Locher, Aktenschrank und Schutzhelm",
+      "level": "B1",
+      "count": 20,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Arbeit/Beruf/Arbeitsplatz"
+        ]
+      }
+    },
+    {
+      "id": "fr-buero-arbeitsplatz",
+      "name": "Französisch: Büro & Arbeitsplatz",
+      "description": "Hefter, Locher, Aktenschrank und Schutzhelm",
+      "level": "B1",
+      "answerLang": "fr",
+      "count": 20,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Arbeit/Beruf/Arbeitsplatz"
+        ]
+      }
+    },
+    {
+      "id": "es-buero-arbeitsplatz",
+      "name": "Spanisch: Büro & Arbeitsplatz",
+      "description": "Hefter, Locher, Aktenschrank und Schutzhelm",
+      "level": "B1",
+      "answerLang": "es",
+      "count": 20,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Arbeit/Beruf/Arbeitsplatz"
+        ]
+      }
+    },
+    {
+      "id": "it-buero-arbeitsplatz",
+      "name": "Italienisch: Büro & Arbeitsplatz",
+      "description": "Hefter, Locher, Aktenschrank und Schutzhelm",
+      "level": "B1",
+      "answerLang": "it",
+      "count": 20,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Arbeit/Beruf/Arbeitsplatz"
+        ]
+      }
+    },
+    {
+      "id": "recht-kriminalitaet",
+      "name": "Recht & Kriminalität",
+      "description": "Polizei, Gericht, Straftaten",
+      "level": "B1",
+      "count": 82,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Gesellschaft/Recht"
+        ]
+      }
+    },
+    {
+      "id": "fr-recht-kriminalitaet",
+      "name": "Französisch: Recht & Kriminalität",
+      "description": "Polizei, Gericht, Straftaten",
+      "level": "B1",
+      "answerLang": "fr",
+      "count": 82,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Gesellschaft/Recht"
+        ]
+      }
+    },
+    {
+      "id": "es-recht-kriminalitaet",
+      "name": "Spanisch: Recht & Kriminalität",
+      "description": "Polizei, Gericht, Straftaten",
+      "level": "B1",
+      "answerLang": "es",
+      "count": 82,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Gesellschaft/Recht"
+        ]
+      }
+    },
+    {
+      "id": "it-recht-kriminalitaet",
+      "name": "Italienisch: Recht & Kriminalität",
+      "description": "Polizei, Gericht, Straftaten",
+      "level": "B1",
+      "answerLang": "it",
+      "count": 82,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Gesellschaft/Recht"
+        ]
+      }
+    },
+    {
+      "id": "politik-international",
+      "name": "Krieg, Frieden & Weltpolitik",
+      "description": "Konflikte, Diplomatie, Globalisierung",
+      "level": "B2",
+      "count": 19,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Gesellschaft/Politik/Internationales"
+        ]
+      }
+    },
+    {
+      "id": "fr-politik-international",
+      "name": "Französisch: Krieg, Frieden & Weltpolitik",
+      "description": "Konflikte, Diplomatie, Globalisierung",
+      "level": "B2",
+      "answerLang": "fr",
+      "count": 19,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Gesellschaft/Politik/Internationales"
+        ]
+      }
+    },
+    {
+      "id": "es-politik-international",
+      "name": "Spanisch: Krieg, Frieden & Weltpolitik",
+      "description": "Konflikte, Diplomatie, Globalisierung",
+      "level": "B2",
+      "answerLang": "es",
+      "count": 19,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Gesellschaft/Politik/Internationales"
+        ]
+      }
+    },
+    {
+      "id": "it-politik-international",
+      "name": "Italienisch: Krieg, Frieden & Weltpolitik",
+      "description": "Konflikte, Diplomatie, Globalisierung",
+      "level": "B2",
+      "answerLang": "it",
+      "count": 19,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Gesellschaft/Politik/Internationales"
+        ]
+      }
+    },
+    {
+      "id": "religion",
+      "name": "Religion & Glaube",
+      "description": "Religionen, Kirche, Feiertage im Kirchenjahr",
+      "level": "B1",
+      "count": 43,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Gesellschaft/Religion"
+        ]
+      }
+    },
+    {
+      "id": "fr-religion",
+      "name": "Französisch: Religion & Glaube",
+      "description": "Religionen, Kirche, Feiertage im Kirchenjahr",
+      "level": "B1",
+      "answerLang": "fr",
+      "count": 43,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Gesellschaft/Religion"
+        ]
+      }
+    },
+    {
+      "id": "es-religion",
+      "name": "Spanisch: Religion & Glaube",
+      "description": "Religionen, Kirche, Feiertage im Kirchenjahr",
+      "level": "B1",
+      "answerLang": "es",
+      "count": 43,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Gesellschaft/Religion"
+        ]
+      }
+    },
+    {
+      "id": "it-religion",
+      "name": "Italienisch: Religion & Glaube",
+      "description": "Religionen, Kirche, Feiertage im Kirchenjahr",
+      "level": "B1",
+      "answerLang": "it",
+      "count": 43,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Gesellschaft/Religion"
+        ]
+      }
+    },
+    {
+      "id": "geschichte",
+      "name": "Geschichte",
+      "description": "Von der Steinzeit bis zur Wiedervereinigung",
+      "level": "B1",
+      "count": 67,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Kultur/Geschichte"
+        ]
+      }
+    },
+    {
+      "id": "fr-geschichte",
+      "name": "Französisch: Geschichte",
+      "description": "Von der Steinzeit bis zur Wiedervereinigung",
+      "level": "B1",
+      "answerLang": "fr",
+      "count": 67,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Kultur/Geschichte"
+        ]
+      }
+    },
+    {
+      "id": "es-geschichte",
+      "name": "Spanisch: Geschichte",
+      "description": "Von der Steinzeit bis zur Wiedervereinigung",
+      "level": "B1",
+      "answerLang": "es",
+      "count": 67,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Kultur/Geschichte"
+        ]
+      }
+    },
+    {
+      "id": "it-geschichte",
+      "name": "Italienisch: Geschichte",
+      "description": "Von der Steinzeit bis zur Wiedervereinigung",
+      "level": "B1",
+      "answerLang": "it",
+      "count": 67,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Kultur/Geschichte"
+        ]
+      }
+    },
+    {
+      "id": "schule-klassenzimmer",
+      "name": "Im Klassenzimmer",
+      "description": "Schulsachen, Unterricht und Schulleben",
+      "level": "A2",
+      "count": 142,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Bildung/Schule"
+        ]
+      }
+    },
+    {
+      "id": "fr-schule-klassenzimmer",
+      "name": "Französisch: Im Klassenzimmer",
+      "description": "Schulsachen, Unterricht und Schulleben",
+      "level": "A2",
+      "answerLang": "fr",
+      "count": 142,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Bildung/Schule"
+        ]
+      }
+    },
+    {
+      "id": "es-schule-klassenzimmer",
+      "name": "Spanisch: Im Klassenzimmer",
+      "description": "Schulsachen, Unterricht und Schulleben",
+      "level": "A2",
+      "answerLang": "es",
+      "count": 142,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Bildung/Schule"
+        ]
+      }
+    },
+    {
+      "id": "it-schule-klassenzimmer",
+      "name": "Italienisch: Im Klassenzimmer",
+      "description": "Schulsachen, Unterricht und Schulleben",
+      "level": "A2",
+      "answerLang": "it",
+      "count": 142,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Bildung/Schule"
+        ]
+      }
+    },
+    {
+      "id": "sprache-grammatik",
+      "name": "Sprache & Grammatik",
+      "description": "Wortarten, Zeitformen, Satzzeichen, Aussprache und Fachwörter rund ums Sprachenlernen",
+      "level": "B1",
+      "count": 85,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Bildung/Sprache"
+        ]
+      }
+    },
+    {
+      "id": "fr-sprache-grammatik",
+      "name": "Französisch: Sprache & Grammatik",
+      "description": "Wortarten, Zeitformen, Satzzeichen, Aussprache und Fachwörter rund ums Sprachenlernen",
+      "level": "B1",
+      "answerLang": "fr",
+      "count": 85,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Bildung/Sprache"
+        ]
+      }
+    },
+    {
+      "id": "es-sprache-grammatik",
+      "name": "Spanisch: Sprache & Grammatik",
+      "description": "Wortarten, Zeitformen, Satzzeichen, Aussprache und Fachwörter rund ums Sprachenlernen",
+      "level": "B1",
+      "answerLang": "es",
+      "count": 85,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Bildung/Sprache"
+        ]
+      }
+    },
+    {
+      "id": "it-sprache-grammatik",
+      "name": "Italienisch: Sprache & Grammatik",
+      "description": "Wortarten, Zeitformen, Satzzeichen, Aussprache und Fachwörter rund ums Sprachenlernen",
+      "level": "B1",
+      "answerLang": "it",
+      "count": 85,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Bildung/Sprache"
+        ]
+      }
+    },
+    {
+      "id": "rechnen-geometrie",
+      "name": "Rechnen & Geometrie",
+      "description": "Plus, minus, mal, geteilt; Formen und Zahlen",
+      "level": "A2",
+      "count": 37,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wissenschaft/Mathematik"
+        ]
+      }
+    },
+    {
+      "id": "fr-rechnen-geometrie",
+      "name": "Französisch: Rechnen & Geometrie",
+      "description": "Plus, minus, mal, geteilt; Formen und Zahlen",
+      "level": "A2",
+      "answerLang": "fr",
+      "count": 37,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wissenschaft/Mathematik"
+        ]
+      }
+    },
+    {
+      "id": "es-rechnen-geometrie",
+      "name": "Spanisch: Rechnen & Geometrie",
+      "description": "Plus, minus, mal, geteilt; Formen und Zahlen",
+      "level": "A2",
+      "answerLang": "es",
+      "count": 37,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wissenschaft/Mathematik"
+        ]
+      }
+    },
+    {
+      "id": "it-rechnen-geometrie",
+      "name": "Italienisch: Rechnen & Geometrie",
+      "description": "Plus, minus, mal, geteilt; Formen und Zahlen",
+      "level": "A2",
+      "answerLang": "it",
+      "count": 37,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wissenschaft/Mathematik"
+        ]
+      }
+    },
+    {
+      "id": "strom-maschinen",
+      "name": "Strom, Geräte & Maschinen",
+      "description": "Stecker, Kurzschluss, Wartung und Gebrauchsanweisung",
+      "level": "B1",
+      "count": 25,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Technik/Elektrik",
+          "Technik/Maschinen"
+        ]
+      }
+    },
+    {
+      "id": "fr-strom-maschinen",
+      "name": "Französisch: Strom, Geräte & Maschinen",
+      "description": "Stecker, Kurzschluss, Wartung und Gebrauchsanweisung",
+      "level": "B1",
+      "answerLang": "fr",
+      "count": 25,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Technik/Elektrik",
+          "Technik/Maschinen"
+        ]
+      }
+    },
+    {
+      "id": "es-strom-maschinen",
+      "name": "Spanisch: Strom, Geräte & Maschinen",
+      "description": "Stecker, Kurzschluss, Wartung und Gebrauchsanweisung",
+      "level": "B1",
+      "answerLang": "es",
+      "count": 25,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Technik/Elektrik",
+          "Technik/Maschinen"
+        ]
+      }
+    },
+    {
+      "id": "it-strom-maschinen",
+      "name": "Italienisch: Strom, Geräte & Maschinen",
+      "description": "Stecker, Kurzschluss, Wartung und Gebrauchsanweisung",
+      "level": "B1",
+      "answerLang": "it",
+      "count": 25,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Technik/Elektrik",
+          "Technik/Maschinen"
+        ]
+      }
+    },
+    {
+      "id": "geografie",
+      "name": "Geografie",
+      "description": "Erde, Kontinente, Himmelsrichtungen und Karten",
+      "level": "B1",
+      "count": 30,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Natur/Geografie"
+        ]
+      }
+    },
+    {
+      "id": "fr-geografie",
+      "name": "Französisch: Geografie",
+      "description": "Erde, Kontinente, Himmelsrichtungen und Karten",
+      "level": "B1",
+      "answerLang": "fr",
+      "count": 30,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Natur/Geografie"
+        ]
+      }
+    },
+    {
+      "id": "es-geografie",
+      "name": "Spanisch: Geografie",
+      "description": "Erde, Kontinente, Himmelsrichtungen und Karten",
+      "level": "B1",
+      "answerLang": "es",
+      "count": 30,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Natur/Geografie"
+        ]
+      }
+    },
+    {
+      "id": "it-geografie",
+      "name": "Italienisch: Geografie",
+      "description": "Erde, Kontinente, Himmelsrichtungen und Karten",
+      "level": "B1",
+      "answerLang": "it",
+      "count": 30,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Natur/Geografie"
+        ]
+      }
+    },
+    {
+      "id": "allgemein-a2",
+      "name": "Grundwörter plus – A1/A2",
+      "description": "Themenübergreifende Grundwörter für den Anfang",
+      "level": "A2",
+      "count": 125,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Allgemein"
+        ],
+        "levels": [
+          "A1",
+          "A2"
+        ]
+      }
+    },
+    {
+      "id": "fr-allgemein-a2",
+      "name": "Französisch: Grundwörter plus – A1/A2",
+      "description": "Themenübergreifende Grundwörter für den Anfang",
+      "level": "A2",
+      "answerLang": "fr",
+      "count": 125,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Allgemein"
+        ],
+        "levels": [
+          "A1",
+          "A2"
+        ]
+      }
+    },
+    {
+      "id": "es-allgemein-a2",
+      "name": "Spanisch: Grundwörter plus – A1/A2",
+      "description": "Themenübergreifende Grundwörter für den Anfang",
+      "level": "A2",
+      "answerLang": "es",
+      "count": 125,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Allgemein"
+        ],
+        "levels": [
+          "A1",
+          "A2"
+        ]
+      }
+    },
+    {
+      "id": "it-allgemein-a2",
+      "name": "Italienisch: Grundwörter plus – A1/A2",
+      "description": "Themenübergreifende Grundwörter für den Anfang",
+      "level": "A2",
+      "answerLang": "it",
+      "count": 125,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Allgemein"
+        ],
+        "levels": [
+          "A1",
+          "A2"
+        ]
+      }
+    },
+    {
+      "id": "allgemein-b1",
+      "name": "Grundwörter plus – B1",
+      "description": "Themenübergreifende Grundwörter, Mittelstufe",
+      "level": "B1",
+      "count": 195,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Allgemein"
+        ],
+        "levels": [
+          "B1"
+        ]
+      }
+    },
+    {
+      "id": "fr-allgemein-b1",
+      "name": "Französisch: Grundwörter plus – B1",
+      "description": "Themenübergreifende Grundwörter, Mittelstufe",
+      "level": "B1",
+      "answerLang": "fr",
+      "count": 195,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Allgemein"
+        ],
+        "levels": [
+          "B1"
+        ]
+      }
+    },
+    {
+      "id": "es-allgemein-b1",
+      "name": "Spanisch: Grundwörter plus – B1",
+      "description": "Themenübergreifende Grundwörter, Mittelstufe",
+      "level": "B1",
+      "answerLang": "es",
+      "count": 195,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Allgemein"
+        ],
+        "levels": [
+          "B1"
+        ]
+      }
+    },
+    {
+      "id": "it-allgemein-b1",
+      "name": "Italienisch: Grundwörter plus – B1",
+      "description": "Themenübergreifende Grundwörter, Mittelstufe",
+      "level": "B1",
+      "answerLang": "it",
+      "count": 195,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Allgemein"
+        ],
+        "levels": [
+          "B1"
+        ]
+      }
+    },
+    {
+      "id": "allgemein-b2",
+      "name": "Grundwörter plus – B2/C1",
+      "description": "Themenübergreifende Grundwörter für Fortgeschrittene",
+      "level": "B2",
+      "count": 98,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Allgemein"
+        ],
+        "levels": [
+          "B2",
+          "C1"
+        ]
+      }
+    },
+    {
+      "id": "fr-allgemein-b2",
+      "name": "Französisch: Grundwörter plus – B2/C1",
+      "description": "Themenübergreifende Grundwörter für Fortgeschrittene",
+      "level": "B2",
+      "answerLang": "fr",
+      "count": 98,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Allgemein"
+        ],
+        "levels": [
+          "B2",
+          "C1"
+        ]
+      }
+    },
+    {
+      "id": "es-allgemein-b2",
+      "name": "Spanisch: Grundwörter plus – B2/C1",
+      "description": "Themenübergreifende Grundwörter für Fortgeschrittene",
+      "level": "B2",
+      "answerLang": "es",
+      "count": 98,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Allgemein"
+        ],
+        "levels": [
+          "B2",
+          "C1"
+        ]
+      }
+    },
+    {
+      "id": "it-allgemein-b2",
+      "name": "Italienisch: Grundwörter plus – B2/C1",
+      "description": "Themenübergreifende Grundwörter für Fortgeschrittene",
+      "level": "B2",
+      "answerLang": "it",
+      "count": 98,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Allgemein"
+        ],
+        "levels": [
+          "B2",
+          "C1"
+        ]
+      }
+    },
+    {
+      "id": "allgemein-verben",
+      "name": "Häufige Verben",
+      "description": "Allgemeine Verben ohne festes Sachgebiet",
+      "level": "B1",
+      "count": 87,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Allgemein/Verben"
+        ]
+      }
+    },
+    {
+      "id": "fr-allgemein-verben",
+      "name": "Französisch: Häufige Verben",
+      "description": "Allgemeine Verben ohne festes Sachgebiet",
+      "level": "B1",
+      "answerLang": "fr",
+      "count": 87,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Allgemein/Verben"
+        ]
+      }
+    },
+    {
+      "id": "es-allgemein-verben",
+      "name": "Spanisch: Häufige Verben",
+      "description": "Allgemeine Verben ohne festes Sachgebiet",
+      "level": "B1",
+      "answerLang": "es",
+      "count": 87,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Allgemein/Verben"
+        ]
+      }
+    },
+    {
+      "id": "it-allgemein-verben",
+      "name": "Italienisch: Häufige Verben",
+      "description": "Allgemeine Verben ohne festes Sachgebiet",
+      "level": "B1",
+      "answerLang": "it",
+      "count": 87,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Allgemein/Verben"
+        ]
+      }
+    },
+    {
+      "id": "allgemein-adjektive",
+      "name": "Häufige Adjektive",
+      "description": "Allgemeine Eigenschaftswörter",
+      "level": "B1",
+      "count": 58,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Allgemein/Adjektive"
+        ]
+      }
+    },
+    {
+      "id": "fr-allgemein-adjektive",
+      "name": "Französisch: Häufige Adjektive",
+      "description": "Allgemeine Eigenschaftswörter",
+      "level": "B1",
+      "answerLang": "fr",
+      "count": 58,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Allgemein/Adjektive"
+        ]
+      }
+    },
+    {
+      "id": "es-allgemein-adjektive",
+      "name": "Spanisch: Häufige Adjektive",
+      "description": "Allgemeine Eigenschaftswörter",
+      "level": "B1",
+      "answerLang": "es",
+      "count": 58,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Allgemein/Adjektive"
+        ]
+      }
+    },
+    {
+      "id": "it-allgemein-adjektive",
+      "name": "Italienisch: Häufige Adjektive",
+      "description": "Allgemeine Eigenschaftswörter",
+      "level": "B1",
+      "answerLang": "it",
+      "count": 58,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Allgemein/Adjektive"
+        ]
+      }
+    },
+    {
+      "id": "allgemein-kleine-woerter",
+      "name": "Kleine Wörter",
+      "description": "Präpositionen, Konjunktionen und Adverbien",
+      "level": "B1",
+      "count": 62,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Allgemein/Kleine Wörter"
+        ]
+      }
+    },
+    {
+      "id": "fr-allgemein-kleine-woerter",
+      "name": "Französisch: Kleine Wörter",
+      "description": "Präpositionen, Konjunktionen und Adverbien",
+      "level": "B1",
+      "answerLang": "fr",
+      "count": 62,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Allgemein/Kleine Wörter"
+        ]
+      }
+    },
+    {
+      "id": "es-allgemein-kleine-woerter",
+      "name": "Spanisch: Kleine Wörter",
+      "description": "Präpositionen, Konjunktionen und Adverbien",
+      "level": "B1",
+      "answerLang": "es",
+      "count": 62,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Allgemein/Kleine Wörter"
+        ]
+      }
+    },
+    {
+      "id": "it-allgemein-kleine-woerter",
+      "name": "Italienisch: Kleine Wörter",
+      "description": "Präpositionen, Konjunktionen und Adverbien",
+      "level": "B1",
+      "answerLang": "it",
+      "count": 62,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Allgemein/Kleine Wörter"
+        ]
+      }
+    },
+    {
+      "id": "allgemein-zeit-raum",
+      "name": "Zeit, Raum & Richtung",
+      "description": "Zeitangaben, Orte, Richtungen und Formen",
+      "level": "A2",
+      "count": 110,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Allgemein/Zeit",
+          "Allgemein/Raum"
+        ]
+      }
+    },
+    {
+      "id": "fr-allgemein-zeit-raum",
+      "name": "Französisch: Zeit, Raum & Richtung",
+      "description": "Zeitangaben, Orte, Richtungen und Formen",
+      "level": "A2",
+      "answerLang": "fr",
+      "count": 110,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Allgemein/Zeit",
+          "Allgemein/Raum"
+        ]
+      }
+    },
+    {
+      "id": "es-allgemein-zeit-raum",
+      "name": "Spanisch: Zeit, Raum & Richtung",
+      "description": "Zeitangaben, Orte, Richtungen und Formen",
+      "level": "A2",
+      "answerLang": "es",
+      "count": 110,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Allgemein/Zeit",
+          "Allgemein/Raum"
+        ]
+      }
+    },
+    {
+      "id": "it-allgemein-zeit-raum",
+      "name": "Italienisch: Zeit, Raum & Richtung",
+      "description": "Zeitangaben, Orte, Richtungen und Formen",
+      "level": "A2",
+      "answerLang": "it",
+      "count": 110,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Allgemein/Zeit",
+          "Allgemein/Raum"
+        ]
+      }
+    },
+    {
+      "id": "allgemein-mengen",
+      "name": "Mengen & Maße",
+      "description": "Zahlen, Anteile, Maße und Gewichte",
+      "level": "B1",
+      "count": 44,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Allgemein/Mengen"
+        ]
+      }
+    },
+    {
+      "id": "fr-allgemein-mengen",
+      "name": "Französisch: Mengen & Maße",
+      "description": "Zahlen, Anteile, Maße und Gewichte",
+      "level": "B1",
+      "answerLang": "fr",
+      "count": 44,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Allgemein/Mengen"
+        ]
+      }
+    },
+    {
+      "id": "es-allgemein-mengen",
+      "name": "Spanisch: Mengen & Maße",
+      "description": "Zahlen, Anteile, Maße und Gewichte",
+      "level": "B1",
+      "answerLang": "es",
+      "count": 44,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Allgemein/Mengen"
+        ]
+      }
+    },
+    {
+      "id": "it-allgemein-mengen",
+      "name": "Italienisch: Mengen & Maße",
+      "description": "Zahlen, Anteile, Maße und Gewichte",
+      "level": "B1",
+      "answerLang": "it",
+      "count": 44,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Allgemein/Mengen"
+        ]
+      }
+    },
+    {
+      "id": "allgemein-denken-sprechen",
+      "name": "Denken & Sprechen",
+      "description": "Meinung, Gespräch, Erinnern und Verstehen",
+      "level": "B1",
+      "count": 57,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Allgemein/Denken & Sprechen"
+        ]
+      }
+    },
+    {
+      "id": "fr-allgemein-denken-sprechen",
+      "name": "Französisch: Denken & Sprechen",
+      "description": "Meinung, Gespräch, Erinnern und Verstehen",
+      "level": "B1",
+      "answerLang": "fr",
+      "count": 57,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Allgemein/Denken & Sprechen"
+        ]
+      }
+    },
+    {
+      "id": "es-allgemein-denken-sprechen",
+      "name": "Spanisch: Denken & Sprechen",
+      "description": "Meinung, Gespräch, Erinnern und Verstehen",
+      "level": "B1",
+      "answerLang": "es",
+      "count": 57,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Allgemein/Denken & Sprechen"
+        ]
+      }
+    },
+    {
+      "id": "it-allgemein-denken-sprechen",
+      "name": "Italienisch: Denken & Sprechen",
+      "description": "Meinung, Gespräch, Erinnern und Verstehen",
+      "level": "B1",
+      "answerLang": "it",
+      "count": 57,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Allgemein/Denken & Sprechen"
+        ]
+      }
     }
   ],
   "areas": {
-    "version": 12,
+    "version": 13,
     "tree": [
       {
         "name": "Einstieg",
@@ -4448,12 +6309,61 @@
         "areas": []
       },
       {
+        "name": "Häufige Wörter",
+        "lists": [
+          "allgemein-a2",
+          "fr-allgemein-a2",
+          "es-allgemein-a2",
+          "it-allgemein-a2",
+          "allgemein-b1",
+          "fr-allgemein-b1",
+          "es-allgemein-b1",
+          "it-allgemein-b1",
+          "allgemein-b2",
+          "fr-allgemein-b2",
+          "es-allgemein-b2",
+          "it-allgemein-b2",
+          "allgemein-verben",
+          "fr-allgemein-verben",
+          "es-allgemein-verben",
+          "it-allgemein-verben",
+          "allgemein-adjektive",
+          "fr-allgemein-adjektive",
+          "es-allgemein-adjektive",
+          "it-allgemein-adjektive",
+          "allgemein-kleine-woerter",
+          "fr-allgemein-kleine-woerter",
+          "es-allgemein-kleine-woerter",
+          "it-allgemein-kleine-woerter",
+          "allgemein-zeit-raum",
+          "fr-allgemein-zeit-raum",
+          "es-allgemein-zeit-raum",
+          "it-allgemein-zeit-raum",
+          "allgemein-mengen",
+          "fr-allgemein-mengen",
+          "es-allgemein-mengen",
+          "it-allgemein-mengen",
+          "allgemein-denken-sprechen",
+          "fr-allgemein-denken-sprechen",
+          "es-allgemein-denken-sprechen",
+          "it-allgemein-denken-sprechen"
+        ]
+      },
+      {
         "name": "Alltag",
         "lists": [
           "alltag-zuhause",
           "fr-alltag-zuhause",
           "es-alltag-zuhause",
           "it-alltag-zuhause",
+          "haushalt-geraete",
+          "fr-haushalt-geraete",
+          "es-haushalt-geraete",
+          "it-haushalt-geraete",
+          "werkzeug-handwerk",
+          "fr-werkzeug-handwerk",
+          "es-werkzeug-handwerk",
+          "it-werkzeug-handwerk",
           "familie-beziehungen",
           "fr-familie-beziehungen",
           "es-familie-beziehungen",
@@ -4462,6 +6372,10 @@
           "fr-essen-trinken",
           "es-essen-trinken",
           "it-essen-trinken",
+          "lebensmittel",
+          "fr-lebensmittel",
+          "es-lebensmittel",
+          "it-lebensmittel",
           "einkaufen-geld",
           "fr-einkaufen-geld",
           "es-einkaufen-geld",
@@ -4474,14 +6388,30 @@
           "fr-koerper-gesundheit",
           "es-koerper-gesundheit",
           "it-koerper-gesundheit",
+          "koerperpflege",
+          "fr-koerperpflege",
+          "es-koerperpflege",
+          "it-koerperpflege",
+          "symptome-krankheiten",
+          "fr-symptome-krankheiten",
+          "es-symptome-krankheiten",
+          "it-symptome-krankheiten",
           "gefuehle-charakter",
           "fr-gefuehle-charakter",
           "es-gefuehle-charakter",
           "it-gefuehle-charakter",
+          "aussehen-lebensphasen",
+          "fr-aussehen-lebensphasen",
+          "es-aussehen-lebensphasen",
+          "it-aussehen-lebensphasen",
           "verkehr-mobilitaet",
           "fr-verkehr-mobilitaet",
           "es-verkehr-mobilitaet",
-          "it-verkehr-mobilitaet"
+          "it-verkehr-mobilitaet",
+          "stadt-gebaeude",
+          "fr-stadt-gebaeude",
+          "es-stadt-gebaeude",
+          "it-stadt-gebaeude"
         ]
       },
       {
@@ -4491,6 +6421,10 @@
           "fr-reisen-urlaub",
           "es-reisen-urlaub",
           "it-reisen-urlaub",
+          "laender-nationalitaeten",
+          "fr-laender-nationalitaeten",
+          "es-laender-nationalitaeten",
+          "it-laender-nationalitaeten",
           "verkehr-mobilitaet",
           "fr-verkehr-mobilitaet",
           "es-verkehr-mobilitaet",
@@ -4503,6 +6437,10 @@
           "fr-freizeit-hobbys",
           "es-freizeit-hobbys",
           "it-freizeit-hobbys",
+          "feste-feiertage",
+          "fr-feste-feiertage",
+          "es-feste-feiertage",
+          "it-feste-feiertage",
           "sport-fitness",
           "fr-sport-fitness",
           "es-sport-fitness",
@@ -4510,7 +6448,11 @@
           "kunst-kultur",
           "fr-kunst-kultur",
           "es-kunst-kultur",
-          "it-kunst-kultur"
+          "it-kunst-kultur",
+          "musik-instrumente",
+          "fr-musik-instrumente",
+          "es-musik-instrumente",
+          "it-musik-instrumente"
         ]
       },
       {
@@ -4533,6 +6475,14 @@
               "fr-arbeit-beruf",
               "es-arbeit-beruf",
               "it-arbeit-beruf",
+              "berufe",
+              "fr-berufe",
+              "es-berufe",
+              "it-berufe",
+              "buero-arbeitsplatz",
+              "fr-buero-arbeitsplatz",
+              "es-buero-arbeitsplatz",
+              "it-buero-arbeitsplatz",
               "business-buero",
               "fr-business-buero",
               "es-business-buero",
@@ -4585,22 +6535,58 @@
           "fr-politik-gesellschaft",
           "es-politik-gesellschaft",
           "it-politik-gesellschaft",
+          "recht-kriminalitaet",
+          "fr-recht-kriminalitaet",
+          "es-recht-kriminalitaet",
+          "it-recht-kriminalitaet",
+          "politik-international",
+          "fr-politik-international",
+          "es-politik-international",
+          "it-politik-international",
+          "religion",
+          "fr-religion",
+          "es-religion",
+          "it-religion",
+          "geschichte",
+          "fr-geschichte",
+          "es-geschichte",
+          "it-geschichte",
           "schule-bildung",
           "fr-schule-bildung",
           "es-schule-bildung",
           "it-schule-bildung",
+          "schule-klassenzimmer",
+          "fr-schule-klassenzimmer",
+          "es-schule-klassenzimmer",
+          "it-schule-klassenzimmer",
+          "sprache-grammatik",
+          "fr-sprache-grammatik",
+          "es-sprache-grammatik",
+          "it-sprache-grammatik",
           "wissenschaft-forschung",
           "fr-wissenschaft-forschung",
           "es-wissenschaft-forschung",
           "it-wissenschaft-forschung",
+          "rechnen-geometrie",
+          "fr-rechnen-geometrie",
+          "es-rechnen-geometrie",
+          "it-rechnen-geometrie",
           "technik-computer",
           "fr-technik-computer",
           "es-technik-computer",
           "it-technik-computer",
+          "strom-maschinen",
+          "fr-strom-maschinen",
+          "es-strom-maschinen",
+          "it-strom-maschinen",
           "natur-tiere",
           "fr-natur-tiere",
           "es-natur-tiere",
           "it-natur-tiere",
+          "geografie",
+          "fr-geografie",
+          "es-geografie",
+          "it-geografie",
           "wetter-umwelt",
           "fr-wetter-umwelt",
           "es-wetter-umwelt",

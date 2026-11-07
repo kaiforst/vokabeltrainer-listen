@@ -1,0 +1,403 @@
+# Spanisch: Ausbau Nachtrag: Teilwörter aus Komma-Feldern, abstrakte Begriffe und liegen gebliebene Wörter
+id; Deutsch; Spanisch; Weitere Antworten; Niveau; Themen; Beispiel Spanisch; Beispiel Deutsch
+es-xf-0001; anfangen; empezar; comenzar; A1; Allgemein/Verben; La película empieza en diez minutos, así que date prisa.; Der Film fängt in zehn Minuten an, also beeil dich.
+es-xf-0002; aussehen; parecer; ; A1; Allgemein/Verben; Hoy pareces muy cansado, ¿estás bien?; Du siehst heute sehr müde aus, geht es dir gut?
+es-xf-0003; anschauen; mirar; ver; A1; Allgemein/Verben; ¿Puedo mirar luego tus fotos de las vacaciones?; Kann ich mir später deine Urlaubsfotos anschauen?
+es-xf-0004; liegen; estar tumbado; estar acostado; A1; Allgemein/Verben; El gato está tumbado al sol en el sofá.; Die Katze liegt in der Sonne auf dem Sofa.
+es-xf-0005; leben; vivir; ; A1; Allgemein/Verben; Mis abuelos viven en un pueblo pequeño junto al mar.; Meine Großeltern leben in einem kleinen Dorf am Meer.
+es-xf-0006; dürfen; poder; tener permiso; A1; Allgemein/Verben; Los niños no pueden jugar en la obra.; Kinder dürfen nicht auf der Baustelle spielen.
+es-xf-0007; aufmachen; abrir; ; A1; Allgemein/Verben; ¿Puedes abrir la ventana, por favor? Hace mucho calor.; Kannst du bitte das Fenster aufmachen? Es ist sehr warm.
+es-xf-0008; passieren; pasar; ocurrir; A2; Allgemein/Verben; ¿Qué ha pasado hoy en el colegio? Pareces triste.; Was ist heute in der Schule passiert? Du siehst traurig aus.
+es-xf-0009; geschehen; pasar; ocurrir, suceder; B1; Allgemein/Verben; Nadie sabe exactamente cómo pasó el accidente.; Niemand weiß genau, wie der Unfall geschehen ist.
+es-xf-0010; fallen; caer; caerse; A2; Allgemein/Verben; En octubre caen las hojas de los árboles.; Im Oktober fallen die Blätter von den Bäumen.
+es-xf-0011; stürzen; caerse; caer; B1; Allgemein/Verben; Mi abuela se cayó en el hielo y se rompió el brazo.; Oma ist auf dem Eis gestürzt und hat sich den Arm gebrochen.
+es-xf-0012; verlassen; salir de; irse de; A2; Allgemein/Verben; Salimos de casa todas las mañanas a las siete y media.; Wir verlassen jeden Morgen um halb acht das Haus.
+es-xf-0013; versuchen; intentar; tratar de; A2; Allgemein/Verben; Intentaré llamarte otra vez esta noche.; Ich werde versuchen, dich heute Abend noch mal anzurufen.
+es-xf-0014; verbringen; pasar; ; A2; Allgemein/Verben; Hemos pasado todo el fin de semana en el lago.; Wir haben das ganze Wochenende am See verbracht.
+es-xf-0015; setzen; poner; sentar, colocar; B1; Allgemein/Verben; Puso al bebé con cuidado en el cochecito.; Sie setzte das Baby vorsichtig in den Kinderwagen.
+es-xf-0016; stellen (hinstellen); poner; colocar; A2; Allgemein/Verben; Pon el jarrón en la mesa de la cocina, por favor.; Stell die Vase bitte auf den Küchentisch.
+es-xf-0017; schlagen; golpear; pegar; A2; Allgemein/Verben; Nunca hay que golpear a un animal, ni siquiera con rabia.; Man darf ein Tier nie schlagen, auch nicht aus Wut.
+es-xf-0018; besiegen; vencer; derrotar; B1; Allgemein/Verben; Nuestro equipo venció al campeón en la final.; Unsere Mannschaft hat im Finale den Meister besiegt.
+es-xf-0019; kontrollieren; comprobar; controlar, revisar; B1; Allgemein/Verben; En el tren el revisor comprobó nuestros billetes.; Der Schaffner hat im Zug unsere Fahrkarten kontrolliert.
+es-xf-0020; schreien; gritar; chillar; A2; Allgemein/Verben; Los niños gritaban de alegría en la montaña rusa.; Die Kinder schrien vor Freude auf der Achterbahn.
+es-xf-0021; brüllen; gritar; vociferar; B1; Allgemein/Verben; El entrenador les gritaba a los jugadores desde la banda.; Der Trainer brüllte die Spieler vom Spielfeldrand aus an.
+es-xf-0022; zuschauen; mirar; ver; A2; Allgemein/Verben; No juego al fútbol, solo me gusta mirar.; Ich spiele nicht Fußball, ich schaue nur gern zu.
+es-xf-0023; blicken; mirar; ; B1; Allgemein/Verben; Miró por la ventana con cara triste.; Sie blickte mit traurigem Gesicht aus dem Fenster.
+es-xf-0024; sortieren; ordenar; clasificar; A2; Allgemein/Verben; Ordena los calcetines por colores antes de guardarlos.; Sortier die Socken nach Farbe, bevor du sie wegräumst.
+es-xf-0025; ordnen; ordenar; organizar; B1; Allgemein/Verben; Ordenó sus libros por orden alfabético.; Er hat seine Bücher alphabetisch geordnet.
+es-xf-0026; starten; empezar; comenzar; A2; Allgemein/Verben; La carrera empieza puntualmente a las nueve.; Das Rennen startet pünktlich um neun Uhr.
+es-xf-0027; anhalten; parar; detenerse; B1; Allgemein/Verben; El autobús paró de repente en medio de la calle.; Der Bus hielt plötzlich mitten auf der Straße an.
+es-xf-0028; stoppen; parar; detener; A2; Allgemein/Verben; La policía paró el coche en la frontera.; Die Polizei hat das Auto an der Grenze gestoppt.
+es-xf-0029; gelingen; conseguir; lograr; B1; Allgemein/Verben; Por fin he conseguido una entrada para el concierto.; Es ist mir endlich gelungen, eine Karte für das Konzert zu bekommen.
+es-xf-0030; leiden; sufrir; ; B1; Allgemein/Verben; En verano mucha gente sufre por el calor.; Im Sommer leiden viele Menschen unter der Hitze.
+es-xf-0031; ertragen; soportar; aguantar; B2; Allgemein/Verben; Ya no soporto más esta música tan alta.; Ich kann diese laute Musik nicht länger ertragen.
+es-xf-0032; bedecken; cubrir; ; B1; Allgemein/Verben; Durante la noche la nieve cubrió todo el jardín.; Über Nacht bedeckte Schnee den ganzen Garten.
+es-xf-0033; reduzieren; reducir; rebajar; B1; Allgemein/Verben; La tienda ha reducido todos los precios un veinte por ciento.; Der Laden hat alle Preise um zwanzig Prozent reduziert.
+es-xf-0034; sich nähern; acercarse; aproximarse; B1; Allgemein/Verben; En el parque se nos acercó despacio un perro grande.; Im Park näherte sich uns langsam ein großer Hund.
+es-xf-0035; zurückkehren; volver; regresar; B1; Allgemein/Verben; Después de diez años en el extranjero volvió a su ciudad natal.; Nach zehn Jahren im Ausland kehrte sie in ihre Heimatstadt zurück.
+es-xf-0036; fortfahren; continuar; seguir; B1; Allgemein/Verben; Después de una breve pausa la profesora continuó con la clase.; Nach einer kurzen Pause fuhr die Lehrerin mit dem Unterricht fort.
+es-xf-0037; umkehren; dar la vuelta; volver atrás; B1; Allgemein/Verben; La carretera estaba cortada, así que tuvimos que dar la vuelta.; Die Straße war gesperrt, also mussten wir umkehren.
+es-xf-0038; vorbeigehen; pasar por delante; pasar; A2; Allgemein/Verben; Todas las mañanas paso por delante de la panadería.; Ich gehe jeden Morgen an der Bäckerei vorbei.
+es-xf-0039; eintreten; entrar; ; B1; Allgemein/Verben; Llama a la puerta antes de entrar en la habitación, por favor.; Bitte klopf an, bevor du in das Zimmer eintrittst.
+es-xf-0040; wenden; dar la vuelta; girar, cambiar de sentido; B1; Allgemein/Verben; Dio la vuelta con el coche en la calle estrecha.; Er hat das Auto in der engen Straße gewendet.
+es-xf-0041; bilden; formar; ; B1; Allgemein/Verben; Los niños formaron un círculo alrededor de la profesora.; Die Kinder bildeten einen Kreis um die Lehrerin.
+es-xf-0042; formen; formar; dar forma, moldear; B1; Allgemein/Verben; Forma bolitas con la masa usando las manos.; Form den Teig mit den Händen zu kleinen Kugeln.
+es-xf-0043; herstellen; fabricar; producir; B1; Allgemein/Verben; En esta fábrica se fabrican piezas para coches y autobuses.; In dieser Fabrik werden Teile für Autos und Busse hergestellt.
+es-xf-0044; fertigstellen; terminar; acabar, completar; B2; Allgemein/Verben; El nuevo puente se terminará el año que viene.; Die neue Brücke wird nächstes Jahr fertiggestellt.
+es-xf-0045; entwerfen; diseñar; ; B1; Allgemein/Verben; Ella diseñó el cartel para el concierto del colegio.; Sie hat das Plakat für das Schulkonzert entworfen.
+es-xf-0046; gestalten; diseñar; crear; B2; Allgemein/Verben; Los alumnos diseñaron ellos mismos los carteles del aula.; Die Schüler haben die Plakate im Klassenzimmer selbst gestaltet.
+es-xf-0047; festlegen; fijar; determinar, establecer; B2; Allgemein/Verben; Todavía tenemos que fijar una fecha para la reunión.; Wir müssen noch einen Termin für das Treffen festlegen.
+es-xf-0048; anwenden; aplicar; ; B1; Allgemein/Verben; Intenta ahora aplicar la regla a estas frases.; Versuch jetzt, die Regel auf diese Sätze anzuwenden.
+es-xf-0049; leiten; dirigir; ; B1; Allgemein/Verben; La señora García dirige el colegio desde hace muchos años.; Frau García leitet die Schule seit vielen Jahren.
+es-xf-0050; betreiben; gestionar; llevar; B2; Allgemein/Verben; Su familia gestiona un pequeño hotel junto al lago.; Seine Familie betreibt ein kleines Hotel am See.
+es-xf-0051; beherrschen; dominar; ; B2; Allgemein/Verben; Se tarda años en dominar una lengua extranjera.; Es dauert Jahre, eine Fremdsprache zu beherrschen.
+es-xf-0052; enthüllen; revelar; desvelar; B2; Allgemein/Verben; El mago nunca revela cómo funcionan sus trucos.; Der Zauberer enthüllt nie, wie seine Tricks funktionieren.
+es-xf-0053; ansteigen; subir; aumentar; B1; Allgemein/Verben; Después de las fuertes lluvias ha subido el nivel del río.; Nach dem starken Regen ist der Wasserstand des Flusses angestiegen.
+es-xf-0054; sich ereignen; ocurrir; producirse; B2; Allgemein/Verben; El accidente ocurrió tarde por la noche en la autopista.; Der Unfall ereignete sich spät in der Nacht auf der Autobahn.
+es-xf-0055; übrig bleiben; quedar; sobrar; B1; Allgemein/Verben; Solo han quedado dos trozos de pizza.; Es sind nur noch zwei Stücke Pizza übrig geblieben.
+es-xf-0056; aushelfen; echar una mano; ayudar; B1; Allgemein/Verben; Mi primo echa una mano en la tienda de su tío.; Mein Cousin hilft im Laden seines Onkels aus.
+es-xf-0057; einspringen; sustituir; reemplazar; B2; Allgemein/Verben; Cuando la cantante se puso enferma, la sustituyó su hermana.; Als die Sängerin krank war, ist ihre Schwester eingesprungen.
+es-xf-0058; vorführen; mostrar; hacer una demostración; B2; Allgemein/Verben; El vendedor nos mostró cómo funciona la nueva aspiradora.; Der Verkäufer führte uns vor, wie der neue Staubsauger funktioniert.
+es-xf-0059; leisten (vollbringen); lograr; conseguir; B2; Allgemein/Verben; El equipo ha logrado mucho esta temporada.; Die Mannschaft hat in dieser Saison viel geleistet.
+es-xf-0060; gebrauchen; usar; utilizar; B1; Allgemein/Verben; ¿Todavía puedes usar estas cajas viejas para tu mudanza?; Kannst du diese alten Kisten noch für deinen Umzug gebrauchen?
+es-xf-0061; abwarten; esperar; esperar a ver; B1; Allgemein/Verben; Vamos a esperar a ver qué dice el médico.; Lass uns abwarten, was der Arzt sagt.
+es-xf-0062; anhaben; llevar; llevar puesto; A2; Allgemein/Verben; En la fiesta llevaba un vestido rojo.; Sie hatte auf der Party ein rotes Kleid an.
+es-xf-0063; siegen; ganar; vencer; B2; Allgemein/Verben; Al final el equipo más pequeño ganó la final.; Am Ende hat die kleinere Mannschaft im Finale gesiegt.
+es-xf-0064; neigen; tender; ; B2; Allgemein/Verben; Mi hermano tiende a exagerar cuando cuenta algo.; Mein Bruder neigt dazu, beim Erzählen zu übertreiben.
+es-xf-0065; spüren; sentir; notar, percibir; B1; Allgemein/Verben; Sentía el viento frío en la cara.; Ich spürte den kalten Wind im Gesicht.
+es-xf-0067; sich auswirken; afectar; repercutir; B2; Allgemein/Verben; La falta de sueño afecta a tu concentración en clase.; Schlafmangel wirkt sich auf deine Konzentration im Unterricht aus.
+es-xf-0403; wählen (aussuchen); elegir; escoger; A2; Allgemein/Verben; Puedes elegir entre tres postres distintos.; Du kannst zwischen drei verschiedenen Nachspeisen wählen.
+es-xf-0068; sich fragen; preguntarse; ; B1; Allgemein/Denken & Sprechen; Me pregunto por qué no me ha devuelto la llamada.; Ich frage mich, warum sie mich nicht zurückgerufen hat.
+es-xf-0069; meinen (der Meinung sein); pensar; creer, opinar; A2; Allgemein/Denken & Sprechen; ¿Tú qué piensas? ¿Cogemos el autobús?; Was meinst du? Nehmen wir den Bus?
+es-xf-0070; meinen (sagen wollen); querer decir; ; A2; Allgemein/Denken & Sprechen; Perdona, no entiendo lo que quieres decir.; Entschuldigung, ich verstehe nicht, was du meinst.
+es-xf-0071; merken; darse cuenta; notar; B1; Allgemein/Denken & Sprechen; ¿Te has dado cuenta de que tiene un peinado nuevo?; Hast du gemerkt, dass er eine neue Frisur hat?
+es-xf-0072; Aussage; la declaración; la afirmación; B1; Allgemein/Denken & Sprechen; El testigo hizo una declaración en la comisaría.; Der Zeuge hat bei der Polizei eine Aussage gemacht.
+es-xf-0073; Begriff; el término; el concepto; B2; Allgemein/Denken & Sprechen; ¿Me puedes explicar este término con palabras sencillas?; Kannst du mir diesen Begriff mit einfachen Worten erklären?
+es-xf-0074; Vernunft; la razón; el sentido común; B2; Allgemein/Denken & Sprechen; Entra en razón y quédate en casa esta noche.; Nimm Vernunft an und bleib heute Abend zu Hause.
+es-xf-0075; Logik; la lógica; ; B1; Allgemein/Denken & Sprechen; No consigo seguir la lógica de su argumento.; Ich kann der Logik seines Arguments nicht folgen.
+es-xf-0076; Beschreibung; la descripción; ; A2; Allgemein/Denken & Sprechen; Lee con atención la descripción del piso.; Lies die Beschreibung der Wohnung sorgfältig durch.
+es-xf-0077; Begründung; la justificación; ; B2; Allgemein/Denken & Sprechen; Tu respuesta es correcta, pero falta la justificación.; Deine Antwort ist richtig, aber die Begründung fehlt.
+es-xf-0078; Mitteilung; el mensaje; la comunicación, el aviso; B1; Allgemein/Denken & Sprechen; Hoy hemos recibido un mensaje corto del colegio.; Wir haben heute eine kurze Mitteilung von der Schule bekommen.
+es-xf-0079; Versprechen; la promesa; ; A2; Allgemein/Denken & Sprechen; Me hiciste una promesa, así que cúmplela, por favor.; Du hast mir ein Versprechen gegeben, also halte es bitte.
+es-xf-0080; Gewissheit; la certeza; la seguridad; B2; Allgemein/Denken & Sprechen; Ahora sabemos con certeza que el plan funciona.; Jetzt wissen wir mit Gewissheit, dass der Plan funktioniert.
+es-xf-0081; Vorstellung (Idee); la idea; la noción; B2; Allgemein/Denken & Sprechen; No tengo ni idea de cómo es el piso nuevo.; Ich habe keine Vorstellung, wie die neue Wohnung aussieht.
+es-xf-0082; Zustimmung; la aprobación; el consentimiento, el acuerdo; B2; Allgemein/Denken & Sprechen; El plan necesita la aprobación de todos los padres.; Der Plan braucht die Zustimmung aller Eltern.
+es-xf-0083; Lob; el elogio; la alabanza; B1; Allgemein/Denken & Sprechen; Un elogio a tiempo puede motivar mucho a los niños.; Ein bisschen Lob kann Kinder sehr motivieren.
+es-xf-0084; Absprache; el acuerdo; ; B2; Allgemein/Denken & Sprechen; Previo acuerdo, también podemos entregar los sábados.; Nach Absprache können wir auch samstags liefern.
+es-xf-0085; Tatsache; el hecho; ; B1; Allgemein/Denken & Sprechen; Es un hecho que fumar perjudica la salud.; Es ist eine Tatsache, dass Rauchen der Gesundheit schadet.
+es-xf-0086; Fakt; el hecho; el dato; B1; Allgemein/Denken & Sprechen; Estos son los hechos, todo lo demás es un rumor.; Das sind die Fakten, alles andere ist ein Gerücht.
+es-xf-0087; klar; claro; ; A2; Allgemein/Adjektive; Las instrucciones son cortas y claras.; Die Anleitung ist kurz und klar.
+es-xf-0088; deutlich; claro; evidente; B1; Allgemein/Adjektive; Hay una clara diferencia entre las dos fotos.; Es gibt einen deutlichen Unterschied zwischen den beiden Fotos.
+es-xf-0089; frei; libre; ; A1; Allgemein/Adjektive; Perdone, ¿está libre este asiento junto a la ventana?; Entschuldigung, ist dieser Platz am Fenster frei?
+es-xf-0090; hart; duro; ; A2; Allgemein/Adjektive; El pan es viejo y está muy duro.; Das Brot ist alt und sehr hart.
+es-xf-0091; flach; plano; llano; A2; Allgemein/Adjektive; Esta televisión nueva es muy plana.; Dieser neue Fernseher ist sehr flach.
+es-xf-0092; bereit; listo; preparado; A2; Allgemein/Adjektive; ¿Estás listo? Tenemos que irnos ya.; Bist du bereit? Wir müssen jetzt los.
+es-xf-0093; kräftig; fuerte; robusto; B1; Allgemein/Adjektive; Tiene los brazos fuertes de trabajar en la granja.; Von der Arbeit auf dem Hof hat er kräftige Arme.
+es-xf-0094; großartig; genial; estupendo, magnífico; B1; Allgemein/Adjektive; Lo de hacer una barbacoa fue una idea genial, ¡gracias!; Die Grillparty war eine großartige Idee, danke!
+es-xf-0095; fantastisch; fantástico; ; A2; Allgemein/Adjektive; La vista desde arriba es fantástica.; Die Aussicht von oben ist fantastisch.
+es-xf-0096; grob; aproximado; ; B2; Allgemein/Adjektive; Esto es solo un plan aproximado del viaje.; Das ist nur ein grober Plan für die Reise.
+es-xf-0097; rau; áspero; ; B1; Allgemein/Adjektive; Tengo las manos muy ásperas por el frío.; Meine Hände sind vom kalten Wetter ganz rau.
+es-xf-0098; uneben; irregular; desigual; B2; Allgemein/Adjektive; Cuidado, aquí el camino es muy irregular.; Pass auf, der Weg ist hier sehr uneben.
+es-xf-0099; zäh; duro; ; B2; Allgemein/Adjektive; La carne estaba tan dura que no me la pude comer.; Das Fleisch war so zäh, dass ich es nicht essen konnte.
+es-xf-0100; stabil; estable; resistente, sólido; B1; Allgemein/Adjektive; ¿Es esta escalera lo bastante estable para subirse?; Ist diese Leiter stabil genug, um darauf zu steigen?
+es-xf-0101; enorm; enorme; ; B1; Allgemein/Adjektive; El nuevo estadio de fútbol de nuestra ciudad es enorme.; Das neue Fußballstadion in unserer Stadt ist enorm.
+es-xf-0102; anders; diferente; distinto; A2; Allgemein/Adjektive; Mi colegio nuevo es muy diferente del antiguo.; Meine neue Schule ist ganz anders als die alte.
+es-xf-0103; unterschiedlich; distinto; diferente; B1; Allgemein/Adjektive; Las dos hermanas tienen aficiones muy distintas.; Die beiden Schwestern haben sehr unterschiedliche Hobbys.
+es-xf-0104; ungleich; desigual; ; B2; Allgemein/Adjektive; Fue una lucha desigual desde el principio.; Es war von Anfang an ein ungleicher Kampf.
+es-xf-0105; gefälscht; falso; falsificado; B2; Allgemein/Adjektive; La policía encontró mucho dinero falso en el coche.; Die Polizei fand viel gefälschtes Geld im Auto.
+es-xf-0106; legal; legal; ; B1; Allgemein/Adjektive; ¿Es legal ir en bicicleta sin luz?; Ist es legal, ohne Licht Fahrrad zu fahren?
+es-xf-0107; öffentlich; público; ; B1; Allgemein/Adjektive; En los edificios públicos no se puede fumar.; In öffentlichen Gebäuden ist Rauchen nicht erlaubt.
+es-xf-0108; örtlich; local; ; B2; Allgemein/Adjektive; La reunión empieza a las ocho, hora local.; Das Treffen beginnt um acht Uhr örtlicher Zeit.
+es-xf-0109; schrill; estridente; agudo; B2; Allgemein/Adjektive; Por la noche nos despertó un ruido estridente.; Wir wurden in der Nacht von einem schrillen Geräusch geweckt.
+es-xf-0110; ganz (komplett); entero; completo; A2; Allgemein/Adjektive; Se comió la tarta entera ella sola.; Sie hat den ganzen Kuchen allein gegessen.
+es-xf-0111; eingeschaltet; encendido; conectado; B1; Allgemein/Adjektive; ¿Sigue encendido el horno de la cocina?; Ist der Ofen in der Küche noch eingeschaltet?
+es-xf-0112; liebevoll; cariñoso; ; B1; Mensch/Charakter; Es una madre muy cariñosa con sus tres hijos.; Sie ist eine sehr liebevolle Mutter für ihre drei Kinder.
+es-xf-0113; herzlich; cordial; caluroso; B1; Mensch/Charakter; Nuestros anfitriones nos dieron una bienvenida muy cordial.; Unsere Gastgeber haben uns sehr herzlich empfangen.
+es-xf-0114; schlau; listo; astuto; A2; Mensch/Charakter; El zorro del cuento es muy listo.; Der Fuchs in der Geschichte ist sehr schlau.
+es-xf-0115; geschickt; hábil; mañoso; B1; Mensch/Charakter; Mi abuelo es muy hábil con las manos.; Mein Opa ist mit den Händen sehr geschickt.
+es-xf-0116; ungeschickt; torpe; ; B1; Mensch/Charakter; Soy tan torpe que se me ha vuelto a caer el vaso.; Ich bin so ungeschickt, mir ist schon wieder das Glas runtergefallen.
+es-xf-0117; tollpatschig; patoso; torpe; B2; Mensch/Charakter; Nuestro cachorro todavía es un poco patoso en las escaleras.; Unser Welpe ist auf der Treppe noch etwas tollpatschig.
+es-xf-0118; anständig; decente; honrado; B1; Mensch/Charakter; Es un hombre decente que siempre ayuda a sus vecinos.; Er ist ein anständiger Mann, der immer seinen Nachbarn hilft.
+es-xf-0119; aufgeschlossen; abierto; abierto de mente; B2; Mensch/Charakter; Mi abuela es muy abierta a las ideas nuevas.; Meine Oma ist neuen Ideen gegenüber sehr aufgeschlossen.
+es-xf-0120; desinteressiert; indiferente; sin interés; B2; Mensch/Charakter; Los alumnos parecían aburridos e indiferentes.; Die Schüler sahen gelangweilt und desinteressiert aus.
+es-xf-0121; mitfühlend; compasivo; ; B2; Mensch/Charakter; La enfermera era amable y muy compasiva.; Die Krankenschwester war freundlich und sehr mitfühlend.
+es-xf-0122; verständnisvoll; comprensivo; ; B2; Mensch/Charakter; Tengo suerte de tener unos padres tan comprensivos.; Ich habe Glück, so verständnisvolle Eltern zu haben.
+es-xf-0123; angeben (sich wichtig machen); presumir; fardar; B1; Mensch/Charakter; Siempre presume de su móvil caro.; Er gibt immer mit seinem teuren Handy an.
+es-xf-0124; prahlen; jactarse; presumir, alardear; B2; Mensch/Charakter; Le gusta jactarse de sus buenas notas.; Sie prahlt gern mit ihren guten Noten.
+es-xf-0125; Stolz; el orgullo; ; B1; Mensch/Gefühle; Sus ojos estaban llenos de orgullo cuando ganó su hijo.; Seine Augen waren voller Stolz, als sein Sohn gewann.
+es-xf-0126; sich sorgen; preocuparse; ; B1; Mensch/Gefühle; Mis padres se preocupan cuando llego tarde a casa.; Meine Eltern sorgen sich, wenn ich spät nach Hause komme.
+es-xf-0127; von; de; ; A1; Allgemein/Kleine Wörter; He recibido una carta larga de mi tía.; Ich habe einen langen Brief von meiner Tante bekommen.
+es-xf-0128; aus (Herkunft); de; ; A1; Allgemein/Kleine Wörter; Mi mejor amiga es de Italia.; Meine beste Freundin kommt aus Italien.
+es-xf-0129; aus (heraus); de; fuera de; A1; Allgemein/Kleine Wörter; Sacó las llaves de su bolso.; Er nahm die Schlüssel aus seiner Tasche.
+es-xf-0130; aus (ausgeschaltet); apagado; ; A2; Allgemein/Kleine Wörter; ¿La tele está apagada o todavía encendida?; Ist der Fernseher aus oder noch an?
+es-xf-0131; auf (Präposition); sobre; en, encima de; A1; Allgemein/Kleine Wörter; Tus gafas están sobre la mesa de la cocina.; Deine Brille liegt auf dem Küchentisch.
+es-xf-0132; auf (offen); abierto; ; A2; Allgemein/Kleine Wörter; ¿La panadería de la esquina está abierta los domingos?; Hat die Bäckerei an der Ecke sonntags auf?
+es-xf-0133; wenn (Bedingung); si; ; A1; Allgemein/Kleine Wörter; Si mañana llueve, nos quedamos en casa.; Wenn es morgen regnet, bleiben wir zu Hause.
+es-xf-0134; wenn (zeitlich); cuando; ; A2; Allgemein/Kleine Wörter; Cuando llego a casa, siempre me tomo una taza de té.; Wenn ich nach Hause komme, trinke ich immer eine Tasse Tee.
+es-xf-0135; welcher; cuál; qué; A1; Allgemein/Kleine Wörter; ¿Cuál de estos autobuses va a la estación?; Welcher von diesen Bussen fährt zum Bahnhof?
+es-xf-0136; jeder; cada; ; A1; Allgemein/Kleine Wörter; Cada alumno recibe un libro nuevo al principio del curso.; Jeder Schüler bekommt am Anfang des Schuljahres ein neues Buch.
+es-xf-0137; keiner; nadie; ninguno; A2; Allgemein/Kleine Wörter; Nadie sabía la respuesta a la última pregunta.; Keiner wusste die Antwort auf die letzte Frage.
+es-xf-0138; kein; ningún; ninguna; A1; Allgemein/Kleine Wörter; No tengo ningún hermano, soy hija única.; Ich habe keinen Bruder, ich bin Einzelkind.
+es-xf-0139; dieser; este; ; A1; Allgemein/Kleine Wörter; Este jersey me gusta mucho, pero es demasiado caro.; Dieser Pullover gefällt mir sehr, aber er ist zu teuer.
+es-xf-0140; deshalb; por eso; por lo tanto; A2; Allgemein/Kleine Wörter; Estaba enfermo, por eso no vine.; Ich war krank, deshalb bin ich nicht gekommen.
+es-xf-0141; daher; por lo tanto; por eso; B1; Allgemein/Kleine Wörter; La calle está cortada, por lo tanto tenemos que dar un rodeo.; Die Straße ist gesperrt, daher müssen wir einen Umweg fahren.
+es-xf-0142; beinahe; casi; ; B1; Allgemein/Kleine Wörter; Esta mañana casi pierdo el tren.; Ich hätte heute Morgen beinahe den Zug verpasst.
+es-xf-0143; einschließlich; incluido; incluyendo; B1; Allgemein/Kleine Wörter; La habitación cuesta ochenta euros, desayuno incluido.; Das Zimmer kostet achtzig Euro, einschließlich Frühstück.
+es-xf-0144; anders als; a diferencia de; distinto de; B1; Allgemein/Kleine Wörter; A diferencia de mi móvil antiguo, el nuevo es muy rápido.; Anders als mein altes Handy ist das neue sehr schnell.
+es-xf-0145; in der Tat; en efecto; de hecho, efectivamente; B2; Allgemein/Kleine Wörter; Fue, en efecto, el mejor concierto del año.; Es war in der Tat das beste Konzert des Jahres.
+es-xf-0146; etwa; aproximadamente; más o menos, alrededor de; A2; Allgemein/Mengen; En coche el viaje dura aproximadamente dos horas.; Die Fahrt dauert mit dem Auto etwa zwei Stunden.
+es-xf-0147; alles; todo; ; A1; Allgemein/Mengen; Gracias por todo lo que has hecho por mí.; Danke für alles, was du für mich getan hast.
+es-xf-0148; manche; algunos; ; A2; Allgemein/Mengen; Algunas personas prefieren el té al café.; Manche Leute trinken lieber Tee als Kaffee.
+es-xf-0149; Sorte; el tipo; la clase, la variedad; A2; Allgemein/Mengen; ¿Qué tipo de manzanas te gustan más?; Welche Sorte Äpfel magst du am liebsten?
+es-xf-0150; Zunahme; el aumento; el incremento; B2; Allgemein/Mengen; Ha habido un fuerte aumento del tráfico en el centro.; Es gab eine starke Zunahme des Verkehrs in der Innenstadt.
+es-xf-0151; wieder; otra vez; de nuevo; A1; Allgemein/Zeit; ¡Otra vez me he olvidado las llaves, qué rabia!; Ich habe schon wieder meine Schlüssel vergessen, wie ärgerlich!
+es-xf-0152; dann; luego; después, entonces; A1; Allgemein/Zeit; Primero comemos y luego vamos al cine.; Zuerst essen wir, und dann gehen wir ins Kino.
+es-xf-0153; nach (zeitlich); después de; ; A1; Allgemein/Zeit; Después del colegio suelo ir al entrenamiento de fútbol.; Nach der Schule gehe ich meistens zum Fußballtraining.
+es-xf-0154; hinterher; después; luego, más tarde; B1; Allgemein/Zeit; Fuimos a pasear y después nos tomamos un café.; Wir sind spazieren gegangen und haben hinterher einen Kaffee getrunken.
+es-xf-0155; endlich; por fin; finalmente; A2; Allgemein/Zeit; ¡Por fin han empezado las largas vacaciones de verano!; Endlich haben die langen Sommerferien angefangen!
+es-xf-0156; Moment; el momento; ; A2; Allgemein/Zeit; Un momento, por favor, ahora mismo vuelvo.; Einen Moment bitte, ich bin gleich zurück.
+es-xf-0157; nächste; próximo; siguiente; A1; Allgemein/Zeit; La próxima semana volamos a Alemania.; Nächste Woche fliegen wir nach Deutschland.
+es-xf-0158; seit; desde; desde hace; A2; Allgemein/Zeit; Aprendo inglés desde los ocho años.; Ich lerne Englisch, seit ich acht bin.
+es-xf-0159; vorbei (zu Ende); terminado; acabado; A2; Allgemein/Zeit; La película ya ha terminado, podemos irnos.; Der Film ist schon vorbei, wir können gehen.
+es-xf-0160; vergangen; pasado; último; B1; Allgemein/Zeit; Durante las semanas pasadas ha llovido mucho.; In den vergangenen Wochen hat es viel geregnet.
+es-xf-0161; gegenwärtig; actual; ; B2; Allgemein/Zeit; La situación actual es difícil para muchas familias.; Die gegenwärtige Lage ist für viele Familien schwierig.
+es-xf-0162; dort; allí; ahí, allá; A1; Allgemein/Raum; ¿Ves aquella casa roja de allí?; Siehst du das rote Haus dort drüben?
+es-xf-0163; weg; fuera; ; A2; Allgemein/Raum; ¡Fuera de aquí, quiero estar solo!; Geh weg, ich will allein sein!
+es-xf-0164; herum; alrededor; ; B1; Allgemein/Raum; Caminamos alrededor del lago en una hora.; Wir sind in einer Stunde um den See herum gelaufen.
+es-xf-0165; um (räumlich); alrededor de; ; A2; Allgemein/Raum; Nos sentamos alrededor del fuego y cantamos canciones.; Wir saßen um das Feuer und sangen Lieder.
+es-xf-0166; über (räumlich); por encima de; sobre; A2; Allgemein/Raum; Una avioneta pasó por encima de nuestra casa.; Ein kleines Flugzeug ist über unser Haus geflogen.
+es-xf-0168; hinunter; abajo; hacia abajo; B1; Allgemein/Raum; Los niños corrieron colina abajo hacia el lago.; Die Kinder rannten den Hügel hinunter zum See.
+es-xf-0169; hinauf; arriba; hacia arriba; B1; Allgemein/Raum; Subimos la escalera hasta arriba para ver las vistas.; Wir sind die Treppe hinaufgestiegen, um die Aussicht zu sehen.
+es-xf-0170; nach oben; arriba; hacia arriba; A2; Allgemein/Raum; Ve arriba y coge tu chaqueta.; Geh nach oben und hol deine Jacke.
+es-xf-0171; oberhalb; por encima de; encima de; B1; Allgemein/Raum; Por encima del pueblo hay una pequeña cabaña.; Oberhalb des Dorfes gibt es eine kleine Hütte.
+es-xf-0172; nah; cerca; ; A2; Allgemein/Raum; El hotel está muy cerca de la playa.; Das Hotel liegt ganz nah am Strand.
+es-xf-0173; Ort (Platz); el lugar; el sitio; A2; Allgemein/Raum; Es el lugar perfecto para un pícnic.; Das ist der perfekte Ort für ein Picknick.
+es-xf-0174; Gebiet; la zona; el área; A2; Allgemein/Raum; Esta zona es famosa por su vino.; Dieses Gebiet ist bekannt für seinen Wein.
+es-xf-0175; Region; la región; ; B1; Allgemein/Raum; En esta región nieva a menudo en invierno.; In dieser Region schneit es im Winter oft.
+es-xf-0176; Standort; la ubicación; el emplazamiento; B2; Allgemein/Raum; La empresa busca una nueva ubicación para su oficina.; Die Firma sucht einen neuen Standort für ihr Büro.
+es-xf-0177; Linie; la línea; ; A2; Allgemein/Raum; Dibuja una línea recta con la regla.; Zeichne mit dem Lineal eine gerade Linie.
+es-xf-0178; Rand; el borde; ; B1; Allgemein/Raum; No te acerques tanto al borde del acantilado.; Stell dich nicht so nah an den Rand der Klippe.
+es-xf-0179; Kante; el borde; el canto; B1; Allgemein/Raum; Se golpeó la cabeza con el borde de la mesa.; Er hat sich den Kopf an der Kante des Tisches gestoßen.
+es-xf-0180; Mitte; el medio; el centro; A2; Allgemein/Raum; En medio del jardín hay un árbol grande.; In der Mitte des Gartens steht ein großer Baum.
+es-xf-0181; Mittelpunkt; el centro; ; B1; Allgemein/Raum; En la fiesta el bebé fue el centro de atención.; Auf der Feier war das Baby der Mittelpunkt.
+es-xf-0182; Vorderseite; la parte delantera; ; B1; Allgemein/Raum; Escribe tu nombre en la parte delantera del sobre.; Schreib deinen Namen auf die Vorderseite des Umschlags.
+es-xf-0183; Rückseite; el reverso; la parte de atrás, la parte trasera; B1; Allgemein/Raum; Las soluciones están en el reverso de la página.; Die Lösungen stehen auf der Rückseite der Seite.
+es-xf-0184; Raum (Platz); el espacio; el sitio; B1; Allgemein/Raum; En nuestro piso no hay espacio suficiente para un piano.; In unserer Wohnung ist nicht genug Raum für ein Klavier.
+es-xf-0185; rund (Form); redondo; ; A2; Allgemein/Raum; Hemos comprado una mesa redonda para la cocina.; Wir haben einen runden Tisch für die Küche gekauft.
+es-xf-0186; schief; torcido; ; B2; Allgemein/Raum; El cuadro de la pared está torcido.; Das Bild an der Wand hängt schief.
+es-xf-0187; Ausgang; la salida; ; A2; Allgemein/Raum; Perdone, ¿dónde está la salida del aparcamiento?; Entschuldigung, wo ist der Ausgang vom Parkhaus?
+es-xf-0188; Eingang; la entrada; ; A2; Allgemein/Raum; Quedamos en la entrada de la estación.; Wir treffen uns am Eingang des Bahnhofs.
+es-xf-0189; Sache; la cosa; ; A2; Allgemein/Begriffe; Recoge tus cosas, nos vamos en diez minutos.; Pack deine Sachen, wir fahren in zehn Minuten los.
+es-xf-0190; Ding; la cosa; el objeto; A2; Allgemein/Begriffe; ¿Qué es esa cosa tan rara del tejado?; Was ist das für ein komisches Ding auf dem Dach?
+es-xf-0191; Fall; el caso; ; B1; Allgemein/Begriffe; En ese caso nos quedamos en casa.; In diesem Fall bleiben wir zu Hause.
+es-xf-0192; Zustand; el estado; ; B1; Allgemein/Begriffe; El coche viejo todavía está en muy buen estado.; Das alte Auto ist noch in sehr gutem Zustand.
+es-xf-0193; Veränderung; el cambio; ; B1; Allgemein/Begriffe; Mudarse a otra ciudad es un gran cambio.; Der Umzug in eine andere Stadt ist eine große Veränderung.
+es-xf-0194; Wandel; el cambio; la transformación; B2; Allgemein/Begriffe; El pueblo ha vivido un gran cambio en los últimos años.; Das Dorf hat in den letzten Jahren einen großen Wandel erlebt.
+es-xf-0195; Versuch (Bemühung); el intento; ; B1; Allgemein/Begriffe; Aprobó el examen de conducir al primer intento.; Er hat die Fahrprüfung beim ersten Versuch bestanden.
+es-xf-0196; Mühe; el esfuerzo; la molestia; B1; Allgemein/Begriffe; Gracias por el esfuerzo que has hecho con la fiesta.; Danke für die Mühe, die du dir mit der Party gemacht hast.
+es-xf-0197; Gefahr; el peligro; ; A2; Allgemein/Begriffe; Los médicos dicen que ya está fuera de peligro.; Die Ärzte sagen, er ist jetzt außer Gefahr.
+es-xf-0198; Schutz; la protección; ; B1; Allgemein/Begriffe; Esta crema ofrece una buena protección contra el sol.; Diese Creme bietet guten Schutz vor der Sonne.
+es-xf-0199; Durcheinander; el desorden; el lío; B1; Allgemein/Begriffe; Después de la fiesta la cocina era un desorden total.; Nach der Party war in der Küche ein totales Durcheinander.
+es-xf-0200; Zufall; la casualidad; la coincidencia; B1; Allgemein/Begriffe; ¡Qué casualidad encontrarte aquí en la playa!; Was für ein Zufall, dich hier am Strand zu treffen!
+es-xf-0201; Pech; la mala suerte; ; A2; Allgemein/Begriffe; En las vacaciones tuvimos mala suerte con el tiempo.; Wir hatten im Urlaub Pech mit dem Wetter.
+es-xf-0202; Ruhe; la tranquilidad; la calma; B1; Allgemein/Begriffe; Necesito un poco de tranquilidad para hacer los deberes.; Ich brauche etwas Ruhe, um meine Hausaufgaben zu machen.
+es-xf-0203; Stille; el silencio; ; B1; Allgemein/Begriffe; Después de sus palabras hubo un silencio total en la sala.; Nach seinen Worten herrschte völlige Stille im Saal.
+es-xf-0204; Geräusch; el ruido; el sonido; A2; Allgemein/Begriffe; ¿Has oído ese ruido raro en el sótano?; Hast du das komische Geräusch im Keller gehört?
+es-xf-0205; Höhepunkt; el punto culminante; el punto álgido; B1; Allgemein/Begriffe; Los fuegos artificiales fueron el punto culminante de la noche.; Das Feuerwerk war der Höhepunkt des Abends.
+es-xf-0206; Gegensatz; el contraste; lo contrario; B2; Allgemein/Begriffe; En contraste con su hermana, Lena es muy tranquila.; Im Gegensatz zu ihrer Schwester ist Lena sehr ruhig.
+es-xf-0207; Kontrast; el contraste; ; B1; Allgemein/Begriffe; Me gusta el contraste entre la pared oscura y el sofá blanco.; Mir gefällt der Kontrast zwischen der dunklen Wand und dem weißen Sofa.
+es-xf-0208; Hauptsache; lo principal; lo más importante; B1; Allgemein/Begriffe; Lo principal es que nadie resultó herido en el accidente.; Die Hauptsache ist, dass bei dem Unfall niemand verletzt wurde.
+es-xf-0209; Realität; la realidad; ; B1; Allgemein/Begriffe; En realidad el hotel era mucho más pequeño que en las fotos.; In der Realität war das Hotel viel kleiner als auf den Fotos.
+es-xf-0210; Neuigkeit; la noticia; la novedad; B1; Allgemein/Begriffe; ¡Tengo una noticia emocionante para ti!; Ich habe eine spannende Neuigkeit für dich!
+es-xf-0211; Gemeinsamkeit; el punto en común; la similitud; B2; Allgemein/Begriffe; Aparte de la música, no tenemos muchos puntos en común.; Außer der Musik haben wir nicht viele Gemeinsamkeiten.
+es-xf-0212; Verständnis; la comprensión; ; B1; Allgemein/Begriffe; Muchas gracias por su comprensión y su paciencia.; Vielen Dank für Ihr Verständnis und Ihre Geduld.
+es-xf-0213; Überblick; la visión general; el panorama; B1; Allgemein/Begriffe; Este capítulo ofrece una breve visión general del tema.; Dieses Kapitel gibt einen kurzen Überblick über das Thema.
+es-xf-0214; Anlass; la ocasión; el motivo; B2; Allgemein/Begriffe; Para la ocasión abrimos una botella de cava.; Zu diesem Anlass haben wir eine Flasche Sekt geöffnet.
+es-xf-0215; Ansatz; el enfoque; el planteamiento; B2; Allgemein/Begriffe; Necesitamos un enfoque totalmente nuevo para este problema.; Wir brauchen einen ganz neuen Ansatz für dieses Problem.
+es-xf-0216; Ausweg; la salida; la solución; B1; Allgemein/Begriffe; Tiene que haber una salida a esta situación.; Es muss einen Ausweg aus dieser Lage geben.
+es-xf-0217; Bedarf; la demanda; la necesidad; B2; Allgemein/Begriffe; En esta región hay una gran demanda de profesores.; In dieser Region gibt es großen Bedarf an Lehrern.
+es-xf-0218; Bedürfnis; la necesidad; ; B1; Allgemein/Begriffe; Los bebés tienen una gran necesidad de dormir.; Babys haben ein großes Bedürfnis nach Schlaf.
+es-xf-0219; Bereich; el ámbito; el campo, el área; B1; Allgemein/Begriffe; Trabaja en el ámbito de la salud infantil.; Sie arbeitet schon lange im Bereich der Kindergesundheit.
+es-xf-0220; Einzelheit; el detalle; ; B1; Allgemein/Begriffe; ¡Cuéntamelo todo, hasta el último detalle!; Erzähl mir alles, bis in die letzte Einzelheit!
+es-xf-0221; Kontakt; el contacto; ; A2; Allgemein/Begriffe; ¿Sigues en contacto con tus antiguos compañeros de clase?; Hast du noch Kontakt zu deinen alten Klassenkameraden?
+es-xf-0222; Merkmal; la característica; el rasgo; B2; Allgemein/Begriffe; El pelo rojo es una característica típica de su familia.; Rote Haare sind ein typisches Merkmal ihrer Familie.
+es-xf-0223; Prinzip; el principio; ; B1; Allgemein/Begriffe; Por principio no le presto dinero a nadie.; Aus Prinzip leihe ich niemandem Geld.
+es-xf-0224; Grundsatz; el principio; ; B2; Allgemein/Begriffe; La honestidad es uno de sus principios más importantes.; Ehrlichkeit ist einer seiner wichtigsten Grundsätze.
+es-xf-0225; Verhältnis (Beziehung); la relación; ; B1; Allgemein/Begriffe; Tengo muy buena relación con mi hermano.; Ich habe ein sehr gutes Verhältnis zu meinem Bruder.
+es-xf-0226; Abwechslung; la variedad; el cambio; B1; Allgemein/Begriffe; Me gusta la variedad en el trabajo.; Ich mag Abwechslung bei der Arbeit.
+es-xf-0227; Belohnung; la recompensa; el premio; B1; Allgemein/Begriffe; Como recompensa por las buenas notas fuimos al zoo.; Als Belohnung für die guten Noten sind wir in den Zoo gegangen.
+es-xf-0228; Respekt; el respeto; ; A2; Allgemein/Begriffe; Deberíamos tratar a todos con respeto.; Wir sollten alle mit Respekt behandeln.
+es-xf-0229; Erwartung; la expectativa; ; B1; Allgemein/Begriffe; La película no cumplió mis expectativas.; Der Film hat meine Erwartungen nicht erfüllt.
+es-xf-0230; Chaos; el caos; ; B1; Allgemein/Begriffe; La nieve provocó el caos en las carreteras.; Der Schnee verursachte ein Chaos auf den Straßen.
+es-xf-0231; Schicksal; el destino; ; B2; Allgemein/Begriffe; Fue el destino que nos conociéramos en ese tren.; Es war Schicksal, dass wir uns in diesem Zug kennengelernt haben.
+es-xf-0232; Grundlage; la base; el fundamento; B2; Allgemein/Begriffe; La confianza es la base de toda amistad.; Vertrauen ist die Grundlage jeder Freundschaft.
+es-xf-0233; Quatsch; la tontería; la bobada; A2; Allgemein/Begriffe; ¡No digas tonterías, eso no es verdad!; Red keinen Quatsch, das stimmt doch nicht!
+es-xf-0234; Aufwand; el esfuerzo; ; B2; Allgemein/Begriffe; El resultado no valió todo el esfuerzo.; Das Ergebnis war den ganzen Aufwand nicht wert.
+es-xf-0235; Vorbild; el modelo; el ejemplo; B1; Allgemein/Begriffe; Mi hermana mayor siempre ha sido mi modelo a seguir.; Meine große Schwester war schon immer mein Vorbild.
+es-xf-0236; Vorsicht; la precaución; el cuidado; B1; Allgemein/Begriffe; Conduce con precaución, por favor, las carreteras están heladas.; Bitte fahr mit Vorsicht, die Straßen sind glatt.
+es-xf-0237; Absage; la cancelación; la anulación; B1; Allgemein/Begriffe; La cancelación del concierto decepcionó a muchos fans.; Die Absage des Konzerts hat viele Fans enttäuscht.
+es-xf-0238; Zusage; la confirmación; la aceptación; B2; Allgemein/Begriffe; Ya tengo la confirmación del hotel para agosto.; Ich habe schon die Zusage vom Hotel für August.
+es-xf-0239; Ursache; la causa; ; B1; Allgemein/Begriffe; La policía todavía busca la causa del incendio.; Die Polizei sucht noch nach der Ursache des Brandes.
+es-xf-0240; Nutzen; el beneficio; la utilidad; B2; Allgemein/Begriffe; Hacer ejercicio con regularidad tiene un gran beneficio para la salud.; Regelmäßige Bewegung hat einen großen Nutzen für die Gesundheit.
+es-xf-0241; Eignung; la aptitud; la idoneidad; B2; Allgemein/Begriffe; La prueba evalúa tu aptitud para la profesión.; Der Test prüft deine Eignung für den Beruf.
+es-xf-0242; Tat; el acto; la acción; B2; Allgemein/Begriffe; Rescatar al perro del río fue un acto valiente.; Den Hund aus dem Fluss zu retten war eine mutige Tat.
+es-xf-0243; Aktivität; la actividad; ; B1; Allgemein/Begriffe; En verano nadar es mi actividad favorita.; Im Sommer ist Schwimmen meine liebste Aktivität.
+es-xf-0244; Gegenstand; el objeto; ; B1; Allgemein/Begriffe; Los objetos punzantes no están permitidos en el avión.; Spitze Gegenstände sind im Flugzeug nicht erlaubt.
+es-xf-0245; Effekt; el efecto; ; B1; Allgemein/Begriffe; El nuevo medicamento no tuvo ningún efecto.; Das neue Medikament hatte überhaupt keinen Effekt.
+es-xf-0246; Vorfall; el incidente; ; B2; Allgemein/Begriffe; La profesora informó del incidente a la dirección.; Die Lehrerin hat den Vorfall der Schulleitung gemeldet.
+es-xf-0247; Funktion; la función; ; B1; Allgemein/Begriffe; ¿Qué función tiene este botón rojo del mando?; Welche Funktion hat dieser rote Knopf auf der Fernbedienung?
+es-xf-0248; Struktur; la estructura; ; B2; Allgemein/Begriffe; La estructura del texto es clara y lógica.; Die Struktur des Textes ist klar und logisch.
+es-xf-0249; System; el sistema; ; B1; Allgemein/Begriffe; El colegio tiene un sistema nuevo para los deberes.; Die Schule hat ein neues System für Hausaufgaben.
+es-xf-0250; Reihenfolge; el orden; ; B1; Allgemein/Begriffe; Pon las imágenes en el orden correcto.; Bring die Bilder in die richtige Reihenfolge.
+es-xf-0251; Typ (Art); el tipo; la clase; B1; Allgemein/Begriffe; Este tipo de calefacción ahorra mucha energía.; Dieser Typ von Heizung spart viel Energie.
+es-xf-0252; Typ (Mensch); el tipo; el tío; B1; Allgemein/Begriffe; ¿Quién es ese tipo que está al lado de tu hermana?; Wer ist der Typ neben deiner Schwester?
+es-xf-0253; Kerl; el tío; el tipo; B1; Allgemein/Begriffe; Es un tío muy majo, te va a caer bien.; Er ist ein echt netter Kerl, du wirst ihn mögen.
+es-xf-0254; Weise; la manera; el modo, la forma; B1; Allgemein/Begriffe; Lo explicó de una manera muy sencilla.; Sie hat es auf sehr einfache Weise erklärt.
+es-xf-0255; Vorhaben; el plan; el proyecto; B2; Allgemein/Begriffe; Por culpa del tiempo tuvimos que renunciar a nuestro plan.; Wegen des Wetters mussten wir unser Vorhaben aufgeben.
+es-xf-0256; Zeug; las cosas; ; B1; Allgemein/Begriffe; ¿Puedes quitar tus cosas de la mesa, por favor?; Kannst du bitte dein Zeug vom Tisch nehmen?
+es-xf-0257; Kram; los trastos; las cosas; B2; Allgemein/Begriffe; El desván está lleno de trastos viejos.; Der Dachboden ist voll mit altem Kram.
+es-xf-0258; Heimat; la patria; la tierra natal; B1; Allgemein/Begriffe; Después de la guerra mucha gente tuvo que abandonar su patria.; Nach dem Krieg mussten viele Menschen ihre Heimat verlassen.
+es-xf-0259; Stufe (Niveau); el nivel; la etapa; B1; Allgemein/Begriffe; Ahora estamos en el segundo nivel del curso.; Wir sind jetzt auf der zweiten Stufe des Kurses.
+es-xf-0260; Blick (Aussicht); la vista; ; B1; Allgemein/Begriffe; Desde nuestra habitación tenemos una vista preciosa de las montañas.; Von unserem Zimmer haben wir einen tollen Blick auf die Berge.
+es-xf-0261; Blick (Anschauen); la mirada; ; B1; Allgemein/Begriffe; Cuando llegué tarde, me lanzó una mirada furiosa.; Als ich zu spät kam, warf sie mir einen wütenden Blick zu.
+es-xf-0262; Spur (Abdruck); el rastro; la huella; B2; Allgemein/Begriffe; El ladrón desapareció sin dejar rastro.; Der Dieb verschwand ohne jede Spur.
+es-xf-0263; Beitrag (Anteil); la contribución; la aportación; B2; Allgemein/Begriffe; Todos hicieron una pequeña contribución para el regalo.; Jeder hat einen kleinen Beitrag zu dem Geschenk geleistet.
+es-xf-0264; Mittel (Methode); el medio; ; B2; Allgemein/Begriffe; Ir en bici es un medio barato para llegar al colegio.; Radfahren ist ein günstiges Mittel, um zur Schule zu kommen.
+es-xf-0265; Anblick; la vista; el espectáculo; B2; Allgemein/Begriffe; La puesta de sol sobre el mar era una vista preciosa.; Der Sonnenuntergang über dem Meer war ein schöner Anblick.
+es-xf-0266; Chance; la oportunidad; ; A2; Allgemein/Begriffe; Es tu última oportunidad, ¡no la desaproveches!; Das ist deine letzte Chance, also verschwende sie nicht!
+es-xf-0267; Einblick; la visión; ; B2; Allgemein/Begriffe; El viaje nos dio una visión de la vida en una granja.; Die Reise gab uns einen Einblick in das Leben auf dem Bauernhof.
+es-xf-0268; Erlebnis; la experiencia; la vivencia; B1; Allgemein/Begriffe; El concierto fue una experiencia inolvidable para todos.; Das Konzert war für uns alle ein unvergessliches Erlebnis.
+es-xf-0269; Gefallen; el favor; ; B1; Allgemein/Begriffe; ¿Me haces un favor y le das de comer a mi gato?; Kannst du mir einen Gefallen tun und meine Katze füttern?
+es-xf-0270; Haltung (Einstellung); la actitud; ; B2; Allgemein/Begriffe; Tiene una actitud muy positiva ante la vida.; Sie hat eine sehr positive Haltung zum Leben.
+es-xf-0271; Illusion; la ilusión; ; B2; Allgemein/Begriffe; No te hagas ilusiones, el examen será difícil.; Mach dir keine Illusionen, die Prüfung wird schwer.
+es-xf-0272; Missgeschick; el percance; el contratiempo; B2; Allgemein/Begriffe; He tenido un pequeño percance con la cafetera.; Ich hatte ein kleines Missgeschick mit der Kaffeemaschine.
+es-xf-0273; Notwendigkeit; la necesidad; ; B2; Allgemein/Begriffe; En una gran ciudad el coche no es una necesidad.; In einer Großstadt ist ein Auto keine Notwendigkeit.
+es-xf-0274; Ruf (Ansehen); la reputación; la fama; B2; Allgemein/Begriffe; El restaurante tiene una reputación excelente en la ciudad.; Das Restaurant hat in der Stadt einen ausgezeichneten Ruf.
+es-xf-0275; Unsicherheit; la incertidumbre; la inseguridad; B2; Allgemein/Begriffe; Todavía hay mucha incertidumbre sobre las nuevas normas.; Über die neuen Regeln herrscht noch große Unsicherheit.
+es-xf-0276; Unterbrechung; la interrupción; ; B1; Allgemein/Begriffe; Hemos trabajado seis horas sin interrupción.; Wir haben sechs Stunden ohne Unterbrechung gearbeitet.
+es-xf-0277; Vorstellungskraft; la imaginación; ; B2; Allgemein/Begriffe; Para escribir cuentos hace falta mucha imaginación.; Zum Geschichtenschreiben braucht man viel Vorstellungskraft.
+es-xf-0278; Zugang; el acceso; ; B1; Allgemein/Begriffe; Todos los huéspedes tienen acceso gratuito a internet.; Alle Gäste haben kostenlosen Zugang zum Internet.
+es-xf-0279; attraktiv; atractivo; ; B1; Mensch/Aussehen; A todos les parece muy atractiva la nueva profesora.; Alle finden die neue Lehrerin sehr attraktiv.
+es-xf-0280; Zuhause; el hogar; la casa; A2; Alltag/Zuhause/Haushalt; Nuestro hogar es pequeño pero muy acogedor.; Unser Zuhause ist klein, aber sehr gemütlich.
+es-xf-0281; aufgeräumt; ordenado; ; A2; Alltag/Zuhause/Haushalt; ¡Hoy tu habitación está muy ordenada, bien hecho!; Dein Zimmer ist heute richtig aufgeräumt, gut gemacht!
+es-xf-0282; Kiste; la caja; ; A2; Alltag/Zuhause/Haushalt; Hemos metido todos los libros en cajas grandes.; Wir haben alle Bücher in große Kisten gepackt.
+es-xf-0283; Schachtel; la caja; la cajita; A2; Alltag/Zuhause/Haushalt; Guarda sus cartas viejas en una caja pequeña.; Sie bewahrt ihre alten Briefe in einer kleinen Schachtel auf.
+es-xf-0284; Beutel; la bolsa; ; B1; Alltag/Zuhause/Haushalt; Mete los bocadillos para la excursión en una bolsa.; Steck die Brote für den Ausflug in einen Beutel.
+es-xf-0285; Müllsack; la bolsa de basura; ; B1; Alltag/Zuhause/Haushalt; ¿Puedes sacar la bolsa de basura, por favor?; Kannst du bitte den Müllsack nach draußen bringen?
+es-xf-0286; Fußboden; el suelo; ; A2; Alltag/Zuhause/Räume; Los niños estaban sentados en el suelo jugando.; Die Kinder saßen auf dem Fußboden und spielten.
+es-xf-0287; Etage; la planta; el piso; A2; Alltag/Zuhause/Räume; Nuestro piso está en la tercera planta.; Unsere Wohnung ist in der dritten Etage.
+es-xf-0288; Raum (Zimmer); la habitación; la sala; A2; Alltag/Zuhause/Räume; La habitación más grande de la casa es la cocina.; Der größte Raum im Haus ist die Küche.
+es-xf-0289; Stufe (Treppe); el escalón; el peldaño; A2; Alltag/Zuhause/Räume; Cuidado, el primer escalón es muy alto.; Pass auf, die erste Stufe ist sehr hoch.
+es-xf-0290; Garage; el garaje; ; A2; Alltag/Zuhause/Räume; Papá mete el coche en el garaje todas las noches.; Papa stellt das Auto jeden Abend in die Garage.
+es-xf-0291; Schornstein; la chimenea; ; B1; Alltag/Zuhause/Räume; Salía humo negro de la chimenea de la casa vecina.; Aus dem Schornstein des Nachbarhauses kam schwarzer Rauch.
+es-xf-0292; Hof (am Haus); el patio; ; B1; Alltag/Zuhause/Garten; Los niños juegan al fútbol en el patio.; Die Kinder spielen im Hof Fußball.
+es-xf-0293; Grundstück; el terreno; la parcela, el solar; B2; Alltag/Zuhause/Garten; Han comprado un terreno y quieren construir una casa.; Sie haben ein Grundstück gekauft und wollen ein Haus bauen.
+es-xf-0294; Essen; la comida; ; A1; Alltag/Essen/Mahlzeiten; La comida de este restaurante está muy buena.; Das Essen in diesem Restaurant ist richtig gut.
+es-xf-0295; Lebensmittel; los alimentos; la comida; A2; Alltag/Essen/Lebensmittel; Compramos los alimentos los sábados en el mercado.; Unsere Lebensmittel kaufen wir samstags auf dem Markt.
+es-xf-0296; Forelle; la trucha; ; B2; Alltag/Essen/Lebensmittel; Para cenar había trucha fresca con patatas.; Zum Abendessen gab es frische Forelle mit Kartoffeln.
+es-xf-0297; zubereiten; preparar; ; B1; Alltag/Essen/Kochen; Este plato se prepara en solo veinte minutos.; Dieses Gericht ist in nur zwanzig Minuten zubereitet.
+es-xf-0298; Laden; la tienda; ; A2; Alltag/Einkaufen/Geschäfte; La pequeña tienda de la esquina vende pan recién hecho.; Der kleine Laden an der Ecke verkauft frisches Brot.
+es-xf-0299; Geldverschwendung; el derroche de dinero; el despilfarro; B1; Alltag/Einkaufen/Geld; Esos zapatos tan caros son un auténtico derroche de dinero.; Diese teuren Schuhe sind wirklich eine reine Geldverschwendung.
+es-xf-0300; Großstadt; la gran ciudad; la ciudad; A2; Alltag/Stadt/Stadtleben; Preferiría vivir en el campo que en una gran ciudad.; Ich würde lieber auf dem Land als in einer Großstadt leben.
+es-xf-0301; Bürogebäude; el edificio de oficinas; ; B1; Alltag/Stadt/Gebäude; Mi madre trabaja en la décima planta de un edificio de oficinas.; Meine Mutter arbeitet im zehnten Stock eines Bürogebäudes.
+es-xf-0302; Lagerhalle; el almacén; la nave; B2; Alltag/Stadt/Gebäude; Los paquetes se guardan en un almacén enorme.; Die Pakete werden in einer riesigen Lagerhalle aufbewahrt.
+es-xf-0303; Regenmantel; el impermeable; el chubasquero; A2; Alltag/Kleidung/Kleidungsstücke; Llévate el impermeable, va a llover.; Nimm deinen Regenmantel mit, es wird regnen.
+es-xf-0304; Laufschuhe; las zapatillas de correr; ; B1; Alltag/Kleidung/Schuhe & Accessoires; Necesito unas zapatillas de correr nuevas para el maratón.; Ich brauche neue Laufschuhe für den Marathon.
+es-xf-0305; Verabredung; la cita; ; B1; Alltag/Familie/Freundschaft; Lo siento, esta noche ya tengo una cita.; Tut mir leid, ich habe heute Abend schon eine Verabredung.
+es-xf-0306; Geburtsurkunde; la partida de nacimiento; el certificado de nacimiento; B2; Alltag/Familie/Lebensereignisse; Para el pasaporte necesitas la partida de nacimiento.; Für den Reisepass brauchst du deine Geburtsurkunde.
+es-xf-0307; Wertsachen; los objetos de valor; ; B1; Reisen/Urlaub/Unterkunft; Dejen sus objetos de valor en la caja fuerte del hotel.; Bitte lassen Sie Ihre Wertsachen im Hotelsafe.
+es-xf-0308; Mückenspray; el repelente de mosquitos; el antimosquitos; B2; Reisen/Urlaub/Gepäck; No olvides el repelente de mosquitos para la acampada.; Vergiss das Mückenspray für den Campingausflug nicht.
+es-xf-0309; Körper; el cuerpo; ; A1; Gesundheit/Körper; El deporte es bueno para el cuerpo y la mente.; Sport ist gut für Körper und Geist.
+es-xf-0310; riechen; oler; ; A2; Gesundheit/Körper; En la cocina huele a pan recién hecho.; In der Küche riecht es nach frischem Brot.
+es-xf-0311; nackt; desnudo; ; B1; Gesundheit/Körper; El bebé estaba desnudo sobre la toalla.; Das Baby lag nackt auf dem Handtuch.
+es-xf-0312; verletzt; herido; ; A2; Gesundheit/Symptome; En el accidente resultaron heridas dos personas.; Bei dem Unfall wurden zwei Menschen verletzt.
+es-xf-0313; Sonnenstich; la insolación; ; B2; Gesundheit/Krankheiten; Ponte un sombrero, si no te dará una insolación.; Setz einen Hut auf, sonst bekommst du einen Sonnenstich.
+es-xf-0314; Kurs (Unterricht); el curso; la clase; A2; Bildung/Lernen; Estoy haciendo un curso en la escuela de adultos.; Ich mache einen Kurs an der Volkshochschule.
+es-xf-0315; Wiederholung; el repaso; la repetición; B1; Bildung/Lernen; Antes del examen tenemos una hora de repaso.; Vor dem Test haben wir eine Stunde zur Wiederholung.
+es-xf-0316; Zeile; la línea; ; A2; Bildung/Sprache/Lesen & Schreiben; Lee en voz alta las tres primeras líneas, por favor.; Lies bitte die ersten drei Zeilen laut vor.
+es-xf-0317; Gliederung; el esquema; la estructura; B2; Bildung/Sprache/Lesen & Schreiben; Haz un esquema antes de escribir tu redacción.; Mach eine Gliederung, bevor du deinen Aufsatz schreibst.
+es-xf-0318; nachsprechen; repetir; ; B1; Bildung/Sprache/Wörter & Aussprache; Escuchad con atención y repetid las palabras en voz alta.; Hört gut zu und sprecht die Wörter laut nach.
+es-xf-0319; Geografie; la geografía; ; A2; Bildung/Schule/Fächer; En geografía aprendemos cosas sobre ríos y montañas.; In Geografie lernen wir etwas über Flüsse und Berge.
+es-xf-0320; Zeichenblock; el bloc de dibujo; ; B1; Bildung/Schule/Schulsachen; Para la clase de plástica necesitas un bloc de dibujo y lápices.; Für den Kunstunterricht brauchst du einen Zeichenblock und Bleistifte.
+es-xf-0321; Betrieb (Firma); la empresa; la compañía; B1; Arbeit/Beruf/Arbeitsplatz; Hizo su formación en una pequeña empresa de la ciudad.; Sie hat ihre Ausbildung in einem kleinen Betrieb in der Stadt gemacht.
+es-xf-0322; Dienst; el servicio; el turno; B1; Arbeit/Beruf/Arbeitsalltag; Hoy la enfermera está de servicio hasta medianoche.; Die Krankenschwester hat heute bis Mitternacht Dienst.
+es-xf-0323; beruflich; profesional; laboral; B1; Arbeit/Beruf/Arbeitsalltag; Mi padre viaja a menudo por motivos profesionales.; Mein Vater reist oft aus beruflichen Gründen.
+es-xf-0324; Handwerk; el oficio; la artesanía; B2; Arbeit/Beruf/Berufe; La carpintería es un oficio antiguo que requiere mucha habilidad.; Die Tischlerei ist ein altes Handwerk, das viel Geschick braucht.
+es-xf-0325; Bankangestellter; el empleado de banco; la empleada de banco; B1; Arbeit/Beruf/Berufe; El empleado de banco me ayudó a abrir una cuenta.; Der Bankangestellte hat mir geholfen, ein Konto zu eröffnen.
+es-xf-0326; Sozialarbeiter; el trabajador social; la trabajadora social; B1; Arbeit/Beruf/Berufe; El trabajador social visita a la familia una vez por semana.; Der Sozialarbeiter besucht die Familie einmal pro Woche.
+es-xf-0327; Feuerwehrmann; el bombero; ; A2; Arbeit/Beruf/Berufe; Cuando era pequeño quería ser bombero.; Als ich klein war, wollte ich Feuerwehrmann werden.
+es-xf-0328; Krankenpfleger; el enfermero; la enfermera; B1; Arbeit/Beruf/Berufe; Mi hermano trabaja de enfermero en el hospital infantil.; Mein Bruder arbeitet als Krankenpfleger im Kinderkrankenhaus.
+es-xf-0329; Altenpfleger; el cuidador de ancianos; la cuidadora de ancianos; B2; Arbeit/Beruf/Berufe; Mi tío trabaja de cuidador de ancianos en una residencia.; Mein Onkel arbeitet als Altenpfleger in einem Pflegeheim.
+es-xf-0330; Chemiker; el químico; la química; B2; Arbeit/Beruf/Berufe; Como químico, desarrolla nuevos medicamentos para una empresa farmacéutica.; Als Chemiker entwickelt er neue Medikamente für eine Pharmafirma.
+es-xf-0331; Makler; el agente inmobiliario; la agente inmobiliaria; B2; Arbeit/Beruf/Berufe; Encontramos nuestro piso nuevo a través de un agente inmobiliario.; Wir haben unsere neue Wohnung über einen Makler gefunden.
+es-xf-0332; Gärtnern; la jardinería; ; B1; Freizeit/Hobbys; Mi abuela dedica cada minuto libre a la jardinería.; Meine Oma verbringt jede freie Minute mit Gärtnern.
+es-xf-0333; Tanzkurs; el curso de baile; las clases de baile; A2; Freizeit/Hobbys; Nos conocimos hace dos años en un curso de baile.; Wir haben uns vor zwei Jahren in einem Tanzkurs kennengelernt.
+es-xf-0334; Fotoapparat; la cámara de fotos; la cámara; A2; Freizeit/Hobbys; Me llevé mi vieja cámara de fotos de vacaciones.; Ich habe meinen alten Fotoapparat mit in den Urlaub genommen.
+es-xf-0335; Tagebuch; el diario; ; A2; Freizeit/Hobbys; Cada noche antes de dormir escribe en su diario.; Sie schreibt jeden Abend vor dem Schlafen in ihr Tagebuch.
+es-xf-0336; Modelleisenbahn; el tren en miniatura; la maqueta de tren; B1; Freizeit/Hobbys; Mi padre ha montado un tren en miniatura en el sótano.; Mein Vater hat im Keller eine Modelleisenbahn aufgebaut.
+es-xf-0337; Vogelbeobachtung; la observación de aves; ; B1; Freizeit/Hobbys; La observación de aves es una afición tranquila para madrugadores.; Vogelbeobachtung ist ein ruhiges Hobby für Frühaufsteher.
+es-xf-0338; Musikvideo; el videoclip; el vídeo musical; A2; Freizeit/Musik; El nuevo videoclip del grupo tiene millones de visitas.; Das neue Musikvideo der Band hat Millionen Aufrufe.
+es-xf-0339; Karaoke; el karaoke; ; B1; Freizeit/Ausgehen; El viernes fuimos a un bar y cantamos en el karaoke.; Am Freitag waren wir in einer Bar und haben Karaoke gesungen.
+es-xf-0340; Kasino; el casino; ; B1; Freizeit/Ausgehen; Perdió mucho dinero en el casino.; Er hat im Kasino viel Geld verloren.
+es-xf-0341; Domino; el dominó; ; A2; Freizeit/Spiele; Los días de lluvia jugamos al dominó con el abuelo.; An Regentagen spielen wir mit Opa Domino.
+es-xf-0342; Murmel; la canica; ; A2; Freizeit/Spiele; El niño encontró una canica azul debajo del sofá.; Der Junge fand eine blaue Murmel unter dem Sofa.
+es-xf-0343; Seifenblase; la pompa de jabón; la burbuja; A2; Freizeit/Spiele; La niña perseguía pompas de jabón en el jardín.; Das kleine Mädchen jagte im Garten Seifenblasen hinterher.
+es-xf-0344; Wette; la apuesta; ; B1; Freizeit/Spiele; Hicimos una apuesta sobre quién ganaría el partido.; Wir haben eine Wette abgeschlossen, wer das Spiel gewinnt.
+es-xf-0345; Spielregel; la regla del juego; la regla; B1; Freizeit/Spiele; Antes de empezar, lee bien las reglas del juego.; Lies die Spielregeln gut durch, bevor du anfängst.
+es-xf-0346; Liebesgeschichte; la historia de amor; ; A2; Freizeit/Lesen; El libro cuenta una triste historia de amor en tiempos de guerra.; Das Buch erzählt eine traurige Liebesgeschichte aus Kriegszeiten.
+es-xf-0347; Bergsteiger; el alpinista; la alpinista, el montañero, la montañera; B1; Freizeit/Sport/Sportarten; Los alpinistas llegaron a la cumbre de madrugada.; Die Bergsteiger erreichten früh am Morgen den Gipfel.
+es-xf-0348; Bogenschießen; el tiro con arco; ; B1; Freizeit/Sport/Sportarten; En el campamento de verano probé el tiro con arco.; Im Sommerlager habe ich Bogenschießen ausprobiert.
+es-xf-0349; Brustschwimmen; la braza; ; B1; Freizeit/Sport/Sportarten; La braza es el primer estilo que aprenden casi todos los niños.; Brustschwimmen ist der erste Schwimmstil, den fast alle Kinder lernen.
+es-xf-0350; Baseball; el béisbol; ; A2; Freizeit/Sport/Sportarten; El béisbol es muy popular en Estados Unidos y en Japón.; Baseball ist in den USA und in Japan sehr beliebt.
+es-xf-0351; Kajak; el kayak; ; B1; Freizeit/Sport/Ausrüstung; Bajamos el río en kayak durante toda la tarde.; Wir sind den ganzen Nachmittag mit dem Kajak den Fluss hinuntergepaddelt.
+es-xf-0352; Schlitten; el trineo; ; A2; Freizeit/Sport/Ausrüstung; Cuando nieva, llevamos el trineo a la colina.; Wenn es schneit, nehmen wir den Schlitten mit auf den Hügel.
+es-xf-0353; Stoppuhr; el cronómetro; ; B1; Freizeit/Sport/Training; El entrenador midió nuestra carrera con un cronómetro.; Der Trainer hat unseren Lauf mit einer Stoppuhr gemessen.
+es-xf-0354; Tribüne; la grada; la tribuna; B2; Freizeit/Sport/Wettkampf; Los aficionados cantaban muy fuerte en la grada.; Die Fans auf der Tribüne sangen sehr laut.
+es-xf-0355; Podium; el podio; ; B2; Freizeit/Sport/Wettkampf; Los tres ganadores subieron orgullosos al podio.; Die drei Sieger stiegen stolz auf das Podium.
+es-xf-0356; Torschütze; el goleador; la goleadora; B2; Freizeit/Sport/Wettkampf; La temporada pasada fue el máximo goleador de la liga.; Er war letzte Saison der beste Torschütze der Liga.
+es-xf-0357; Filmstar; la estrella de cine; ; A2; Kultur/Theater & Film; En nuestro hotel se alojaba una famosa estrella de cine.; In unserem Hotel wohnte ein berühmter Filmstar.
+es-xf-0358; Trailer; el tráiler; el avance; B1; Kultur/Theater & Film; El tráiler de la nueva película parece muy emocionante.; Der Trailer für den neuen Film sieht richtig spannend aus.
+es-xf-0359; Harfe; el arpa; ; B1; Kultur/Musik; Toca el arpa desde los seis años.; Sie spielt Harfe, seit sie sechs ist.
+es-xf-0360; Klang; el sonido; ; B1; Kultur/Musik; Me encanta el sonido del piano por la noche.; Ich liebe den Klang des Klaviers am Abend.
+es-xf-0361; Rahmen; el marco; ; B1; Kultur/Kunst & Museum; El cuadro está en un pesado marco dorado.; Das Gemälde hängt in einem schweren goldenen Rahmen.
+es-xf-0362; ausstellen (zeigen); exponer; ; B1; Kultur/Kunst & Museum; El museo expone cuadros de artistas jóvenes.; Das Museum stellt Bilder von jungen Künstlern aus.
+es-xf-0363; reimen; rimar; ; B1; Kultur/Literatur; En este poema riman los versos de dos en dos.; In diesem Gedicht reimen sich immer zwei Zeilen.
+es-xf-0364; Zeitalter; la era; la época; B2; Kultur/Geschichte; Vivimos en la era de internet.; Wir leben im Zeitalter des Internets.
+es-xf-0365; Zeitleiste; la línea del tiempo; la cronología; B2; Kultur/Geschichte; Dibuja una línea del tiempo con los acontecimientos más importantes.; Zeichne eine Zeitleiste der wichtigsten Ereignisse.
+es-xf-0366; Kaiserin; la emperatriz; ; B2; Kultur/Geschichte; La emperatriz vivía en un palacio enorme en Viena.; Die Kaiserin lebte in einem riesigen Palast in Wien.
+es-xf-0367; Kreuzzug; la cruzada; ; C1; Kultur/Geschichte; La primera cruzada empezó a finales del siglo once.; Der erste Kreuzzug begann am Ende des elften Jahrhunderts.
+es-xf-0368; Glocke; la campana; ; A2; Gesellschaft/Religion; Todos los domingos por la mañana suenan las campanas de la iglesia.; Jeden Sonntagmorgen läuten die Glocken der Kirche.
+es-xf-0369; Kapelle (Kirche); la capilla; ; B2; Gesellschaft/Religion; En lo alto de la colina hay una pequeña capilla.; Oben auf dem Hügel steht eine kleine Kapelle.
+es-xf-0370; Paradies; el paraíso; ; B1; Gesellschaft/Religion; Esta playa es un auténtico paraíso para los surfistas.; Dieser Strand ist ein echtes Paradies für Surfer.
+es-xf-0371; Predigt; el sermón; la homilía; B2; Gesellschaft/Religion; El cura dio un sermón corto sobre la esperanza.; Der Pfarrer hielt eine kurze Predigt über die Hoffnung.
+es-xf-0372; Altar; el altar; ; B2; Gesellschaft/Religion; En el altar había flores frescas.; Auf dem Altar standen frische Blumen.
+es-xf-0373; Prophet; el profeta; ; B2; Gesellschaft/Religion; Muchas religiones cuentan historias sobre profetas.; Viele Religionen erzählen Geschichten über Propheten.
+es-xf-0374; Pilgerfahrt; la peregrinación; ; B2; Gesellschaft/Religion; Cada año miles de personas hacen una peregrinación a Santiago.; Jedes Jahr machen Tausende Menschen eine Pilgerfahrt nach Santiago.
+es-xf-0375; Krimineller; el delincuente; la delincuente, el criminal; B1; Gesellschaft/Recht; La policía detuvo al delincuente en el aeropuerto.; Die Polizei hat den Kriminellen am Flughafen gefasst.
+es-xf-0376; Terrorist; el terrorista; la terrorista; B2; Gesellschaft/Recht; Los terroristas fueron detenidos antes del atentado.; Die Terroristen wurden vor dem Anschlag festgenommen.
+es-xf-0377; Bankraub; el atraco a un banco; el robo de un banco; B1; Gesellschaft/Recht; La película trata de un atraco a un banco en Madrid.; Der Film handelt von einem Bankraub in Madrid.
+es-xf-0378; Erpressung; el chantaje; la extorsión; B2; Gesellschaft/Recht; Fue a la cárcel por chantaje.; Er kam wegen Erpressung ins Gefängnis.
+es-xf-0379; Notwehr; la legítima defensa; ; B2; Gesellschaft/Recht; El tribunal decidió que había actuado en legítima defensa.; Das Gericht entschied, dass er in Notwehr gehandelt hat.
+es-xf-0380; Gerichtsverhandlung; el juicio; ; B2; Gesellschaft/Recht; El juicio se celebrará el mes que viene.; Die Gerichtsverhandlung findet nächsten Monat statt.
+es-xf-0381; Leiche; el cadáver; el cuerpo; B2; Gesellschaft/Recht; Un paseante encontró un cadáver en el bosque.; Ein Spaziergänger hat im Wald eine Leiche gefunden.
+es-xf-0382; gesetzlich; legal; ; B2; Gesellschaft/Recht; Ir al colegio es una obligación legal para todos los niños.; Der Schulbesuch ist eine gesetzliche Pflicht für alle Kinder.
+es-xf-0383; Besitzer; el propietario; la propietaria, el dueño, la dueña; B1; Gesellschaft/Recht; El propietario del perro tiene que pagar los daños.; Der Besitzer des Hundes muss den Schaden bezahlen.
+es-xf-0384; Tresor; la caja fuerte; ; B2; Wirtschaft/Finanzen/Bank; El dinero se guarda en una caja fuerte del banco.; Das Geld wird in einem Tresor in der Bank aufbewahrt.
+es-xf-0385; Droge; la droga; ; B1; Gesellschaft/Soziales; El alcohol también es una droga peligrosa.; Alkohol ist auch eine gefährliche Droge.
+es-xf-0386; obdachlos; sin hogar; sin techo; B1; Gesellschaft/Soziales; En invierno muchas personas sin hogar duermen en albergues.; Im Winter schlafen viele obdachlose Menschen in Notunterkünften.
+es-xf-0387; Nation; la nación; ; B1; Gesellschaft/Politik/Internationales; Toda la nación celebró la victoria.; Die ganze Nation hat den Sieg gefeiert.
+es-xf-0388; Wehrdienst; el servicio militar; ; B2; Gesellschaft/Politik/Staat & Wahlen; En algunos países el servicio militar todavía es obligatorio.; In manchen Ländern ist der Wehrdienst noch Pflicht.
+es-xf-0389; staatlich; estatal; público; B2; Gesellschaft/Politik/Staat & Wahlen; Trabaja para una empresa estatal en Madrid.; Sie arbeitet für ein staatliches Unternehmen in Madrid.
+es-xf-0390; Weltall; el universo; el espacio; B1; Wissenschaft/Raumfahrt; ¿Crees que estamos solos en el universo?; Glaubst du, dass wir allein im Weltall sind?
+es-xf-0391; Asteroid; el asteroide; ; B2; Wissenschaft/Raumfahrt; Un pequeño asteroide pasó muy cerca de la Tierra.; Ein kleiner Asteroid ist sehr nah an der Erde vorbeigeflogen.
+es-xf-0392; Sternbild; la constelación; ; B2; Wissenschaft/Raumfahrt; En una noche despejada se pueden ver muchas constelaciones.; In einer klaren Nacht kann man viele Sternbilder sehen.
+es-xf-0393; Vakuum; el vacío; ; B2; Wissenschaft/Physik; El sonido no puede propagarse en el vacío.; Schall kann sich nicht in einem Vakuum ausbreiten.
+es-xf-0394; Genetik; la genética; ; B2; Wissenschaft/Biologie; Quiere estudiar genética en la universidad.; Sie möchte an der Universität Genetik studieren.
+es-xf-0395; Organismus; el organismo; ; B2; Wissenschaft/Biologie; Las bacterias son organismos vivos muy pequeños.; Bakterien sind sehr kleine lebende Organismen.
+es-xf-0396; Hormon; la hormona; ; B2; Wissenschaft/Biologie; Con el estrés el cuerpo produce ciertas hormonas.; Bei Stress bildet der Körper bestimmte Hormone.
+es-xf-0397; Dezimalzahl; el número decimal; el decimal; B2; Wissenschaft/Mathematik; Escribe esta fracción como número decimal, por favor.; Schreib diesen Bruch bitte als Dezimalzahl.
+es-xf-0398; Kupfer; el cobre; ; B1; Technik/Material; Los cables eléctricos antiguos suelen ser de cobre.; Alte Stromkabel sind oft aus Kupfer.
+es-xf-0399; Silber; la plata; ; A2; Technik/Material; Por su cumpleaños le regalaron un anillo de plata.; Sie hat zum Geburtstag einen Ring aus Silber bekommen.
+es-xf-0400; Katastrophe; la catástrofe; el desastre; B1; Natur/Umwelt/Naturkatastrophen; La inundación fue una catástrofe para toda la región.; Die Flut war eine Katastrophe für die ganze Region.
+es-xf-0401; bewölkt; nublado; ; A2; Natur/Umwelt/Wetter; Por la mañana estará nublado y luego hará sol.; Am Vormittag ist es bewölkt, später sonnig.
+es-xf-0402; beißen; morder; ; A2; Natur/Tiere/Haustiere; Tranquilo, nuestro perro es muy bueno y no muerde.; Keine Sorge, unser Hund ist ganz lieb und beißt nicht.

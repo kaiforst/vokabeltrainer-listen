@@ -153,9 +153,9 @@ es-ke-0088 können + saber); beim Setzen der Hinweise diese Weiteren Antworten e
 - **es-ke-0649 dick (Gegenstand)** behält gordo als Weitere (un libro gordo ist umgangssprachlich üblich), obwohl gordo
   auch die Antwort von es-bd-0024 dick (Körper) ist.
 - **ausziehen (aus der Wohnung)** = mudarse wie umziehen; das genauere „irse del piso, dejar el piso“ steht als Weitere.
-- **gerade (zeitlich)**: Englisch „just“ (gerade eben) – im Spanischen wäre das „acabar de“, kein Einzelwort. Ich habe
-  die Lesart „gerade jetzt“ genommen (ahora mismo, Weitere justo, en este momento) und den deutschen Beispielsatz
-  entsprechend geändert („Ich kann gerade nicht sprechen …“).
+- **gerade (zeitlich)**: Englisch „just“ (gerade eben) mit Beispiel „She has just left the house“. Die Hauptsession hat
+  es-bd-0030 an das Original und an fr („venir de“) und it („appena“) angeglichen: Antwort „acabar de“ (kein Einzelwort),
+  Weitere „ahora mismo, en este momento“ (wie Englisch „right now, at the moment“), Beispiel „Mi hermana acaba de salir de casa.“
 - **Neue Zeilen nicht in den Klammer-Sprachstil des Originals?** Hinweise wie „Kind (Sohn oder Tochter)“ und „können
   (gelernt haben)“ sind länger als die englischen; bitte beim Mergen für alle Sprachen gleich formulieren.
 - **sein (ser/estar)**: der klassische Fall, aber nicht mit einem Klammerhinweis lösbar; es-gw-0021 und es-ke-0682

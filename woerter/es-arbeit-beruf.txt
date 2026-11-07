@@ -42,10 +42,10 @@ es-ab-0039; Teilzeit; a tiempo parcial; la jornada parcial, media jornada; A2; A
 es-ab-0040; Vollzeit; a tiempo completo; la jornada completa, jornada completa; A2; Arbeit/Beruf/Vertrag & Gehalt; Él trabaja a tiempo completo en un banco grande.; Er arbeitet Vollzeit in einer großen Bank.
 es-ab-0041; Bewerbung; la candidatura; la solicitud de empleo, la solicitud; A2; Arbeit/Beruf/Bewerbung; Hoy envío mi candidatura por correo electrónico.; Ich schicke meine Bewerbung heute per E-Mail.
 es-ab-0042; Lebenslauf; el currículum; el currículum vítae, el currículo, el CV; A2; Arbeit/Beruf/Bewerbung; Por favor, añada una foto a su currículum.; Bitte fügen Sie Ihrem Lebenslauf ein Foto hinzu.
-es-ab-0043; Stelle; el puesto; la plaza, la vacante; A2; Arbeit/Beruf/Bewerbung; El nuevo puesto empieza el uno de mayo.; Die neue Stelle beginnt am ersten Mai.
+es-ab-0043; Stelle (Arbeitsplatz); el puesto; la plaza, la vacante; A2; Arbeit/Beruf/Bewerbung; El nuevo puesto empieza el uno de mayo.; Die neue Stelle beginnt am ersten Mai.
 es-ab-0044; Arbeitsplatz; el lugar de trabajo; el puesto de trabajo; A2; Arbeit/Beruf/Arbeitsalltag; Mi lugar de trabajo es luminoso y muy tranquilo.; Mein Arbeitsplatz ist hell und sehr ruhig.
 es-ab-0045; Überstunden; las horas extra; las horas extras, las horas extraordinarias; A2; Arbeit/Beruf/Arbeitsalltag; A final de mes hace a menudo horas extra.; Er macht am Monatsende oft Überstunden.
-es-ab-0046; kündigen; dimitir; renunciar, dejar el trabajo, presentar la dimisión; A2; Arbeit/Beruf/Kündigung; Ella quiere dimitir porque su trabajo es aburrido.; Sie will ihren langweiligen Job kündigen.
+es-ab-0046; kündigen (Stelle); dimitir; renunciar, dejar el trabajo, presentar la dimisión; A2; Arbeit/Beruf/Kündigung; Ella quiere dimitir porque su trabajo es aburrido.; Sie will ihren langweiligen Job kündigen.
 es-ab-0047; Rentner; el jubilado; la jubilada, el pensionista; A2; Arbeit/Beruf/Rechte & Soziales; El jubilado disfruta de su tiempo libre en el jardín.; Der Rentner genießt seine freie Zeit im Garten.
 es-ab-0048; Praktikum; las prácticas; el período de prácticas, la pasantía; A2; Arbeit/Beruf/Karriere; Estoy haciendo prácticas en un periódico.; Ich mache ein Praktikum bei einer Zeitung.
 es-ab-0049; Ausbildung; la formación profesional; el aprendizaje, la FP; A2; Arbeit/Beruf/Karriere; En agosto empieza la formación profesional de electricista.; Er beginnt im August eine Ausbildung als Elektriker.
@@ -62,7 +62,7 @@ es-ab-0059; Erfahrung; la experiencia; ; B1; Arbeit/Beruf/Bewerbung; Tiene mucho
 es-ab-0060; Fähigkeit; la habilidad; la capacidad, la aptitud; B1; Arbeit/Beruf/Bewerbung; La buena comunicación es una habilidad importante en esta profesión.; Gute Kommunikation ist eine wichtige Fähigkeit in diesem Beruf.
 es-ab-0061; Stärke; el punto fuerte; la fortaleza, la fuerza; B1; Arbeit/Beruf/Bewerbung; Por favor, háblenos de su mayor punto fuerte.; Bitte erzählen Sie uns von Ihrer größten Stärke.
 es-ab-0062; Schwäche; el punto débil; la debilidad; B1; Arbeit/Beruf/Bewerbung; Todo el mundo debería conocer bien sus propios puntos débiles.; Jeder sollte seine eigenen Schwächen gut kennen.
-es-ab-0063; Zeugnis; el certificado; el título, el boletín de notas; B1; Arbeit/Beruf/Bewerbung; Por favor, adjunte su certificado a la candidatura.; Bitte fügen Sie der Bewerbung Ihr Zeugnis bei.
+es-ab-0063; Zeugnis (Arbeit); el certificado; el certificado de trabajo; B1; Arbeit/Beruf/Bewerbung; Por favor, adjunte su certificado a la candidatura.; Bitte fügen Sie der Bewerbung Ihr Zeugnis bei.
 es-ab-0064; Anforderung; el requisito; la exigencia; B1; Arbeit/Beruf/Bewerbung; Los requisitos de este puesto son muy altos.; Diese Stelle hat sehr hohe Anforderungen.
 es-ab-0065; Verantwortung; la responsabilidad; ; B1; Arbeit/Beruf/Arbeitsalltag; Ella asume la responsabilidad de todo el proyecto.; Sie übernimmt die Verantwortung für das ganze Projekt.
 es-ab-0066; Aufgabe; la tarea; la función; B1; Arbeit/Beruf/Arbeitsalltag; Mi primera tarea es contestar los correos de los clientes.; Meine erste Aufgabe ist es, Kunden-E-Mails zu beantworten.
@@ -74,13 +74,13 @@ es-ab-0071; Gewerkschaft; el sindicato; ; B1; Arbeit/Beruf/Rechte & Soziales; El
 es-ab-0072; Streik; la huelga; el paro; B1; Arbeit/Beruf/Rechte & Soziales; La huelga en el aeropuerto duró dos días.; Der Streik am Flughafen dauerte zwei Tage.
 es-ab-0073; streiken; hacer huelga; ponerse en huelga, ir a la huelga; B1; Arbeit/Beruf/Rechte & Soziales; Los maquinistas quieren hacer huelga mañana.; Die Lokführer wollen morgen streiken.
 es-ab-0074; Arbeitszeit; el horario de trabajo; la jornada laboral, el horario laboral; B1; Arbeit/Beruf/Arbeitsalltag; En esta empresa el horario de trabajo es flexible.; Unsere Arbeitszeiten sind in dieser Firma flexibel.
-es-ab-0075; Schicht; el turno; ; B1; Arbeit/Beruf/Arbeitsalltag; Mi turno empieza a las seis de la mañana.; Meine Schicht beginnt um sechs Uhr morgens.
+es-ab-0075; Schicht (Arbeit); el turno; ; B1; Arbeit/Beruf/Arbeitsalltag; Mi turno empieza a las seis de la mañana.; Meine Schicht beginnt um sechs Uhr morgens.
 es-ab-0076; Mindestlohn; el salario mínimo; el sueldo mínimo; B1; Arbeit/Beruf/Vertrag & Gehalt; El salario mínimo volverá a subir el año que viene.; Der Mindestlohn steigt nächstes Jahr wieder.
-es-ab-0077; Lohn; el salario; la paga, el jornal; B1; Arbeit/Beruf/Vertrag & Gehalt; Los obreros cobran su salario todos los viernes.; Die Arbeiter erhalten ihren Lohn jeden Freitag.
+es-ab-0077; Lohn (Bezahlung); el salario; la paga, el jornal; B1; Arbeit/Beruf/Vertrag & Gehalt; Los obreros cobran su salario todos los viernes.; Die Arbeiter erhalten ihren Lohn jeden Freitag.
 es-ab-0078; Steuer; el impuesto; ; B1; Arbeit/Beruf/Rechte & Soziales; Pago menos impuestos que el año pasado.; Ich zahle weniger Steuern als letztes Jahr.
 es-ab-0079; Versicherung; el seguro; ; B1; Arbeit/Beruf/Rechte & Soziales; Un buen seguro es importante para todo trabajador.; Eine gute Versicherung ist für jeden Arbeitnehmer wichtig.
 es-ab-0080; Rente; la pensión; la jubilación; B1; Arbeit/Beruf/Rechte & Soziales; Mi abuelo cobra una pequeña pensión todos los meses.; Mein Großvater bekommt jeden Monat eine kleine Rente.
-es-ab-0081; einstellen; contratar; emplear; B1; Arbeit/Beruf/Karriere; La empresa quiere contratar a tres desarrolladores nuevos.; Die Firma möchte drei neue Entwickler einstellen.
+es-ab-0081; einstellen (Personal); contratar; emplear; B1; Arbeit/Beruf/Karriere; La empresa quiere contratar a tres desarrolladores nuevos.; Die Firma möchte drei neue Entwickler einstellen.
 es-ab-0082; entlassen; despedir; echar; B1; Arbeit/Beruf/Kündigung; La fábrica despidió a veinte trabajadores en octubre.; Die Fabrik entließ im Oktober zwanzig Arbeiter.
 es-ab-0083; Berufserfahrung; la experiencia profesional; la experiencia laboral; B1; Arbeit/Beruf/Bewerbung; Este puesto requiere cinco años de experiencia profesional.; Diese Stelle erfordert fünf Jahre Berufserfahrung.
 es-ab-0084; Anschreiben; la carta de presentación; ; B1; Arbeit/Beruf/Bewerbung; Una buena carta de presentación debe ser breve y clara.; Ein gutes Anschreiben sollte kurz und klar sein.
@@ -109,7 +109,7 @@ es-ab-0106; Nettogehalt; el sueldo neto; el salario neto; B2; Arbeit/Beruf/Vertr
 es-ab-0107; Sozialversicherung; la Seguridad Social; el seguro social; B2; Arbeit/Beruf/Rechte & Soziales; La Seguridad Social protege a los trabajadores en tiempos difíciles.; Die Sozialversicherung schützt Arbeitnehmer in schwierigen Zeiten.
 es-ab-0108; Altersvorsorge; la previsión para la jubilación; el plan de pensiones, el ahorro para la jubilación; B2; Arbeit/Beruf/Rechte & Soziales; La previsión privada para la jubilación es cada vez más importante.; Private Altersvorsorge wird immer wichtiger.
 es-ab-0109; Quereinsteiger; el profesional reconvertido; la profesional reconvertida; B2; Arbeit/Beruf/Karriere; Como profesional reconvertido, aprendió rápido lo básico.; Als Quereinsteiger lernte er schnell die Grundlagen.
-es-ab-0110; Berufung; la vocación; ; B2; Arbeit/Beruf/Karriere; Enseñar no es solo su profesión, sino su vocación.; Unterrichten ist nicht nur ihr Beruf, sondern ihre Berufung.
+es-ab-0110; Berufung (Lebensaufgabe); la vocación; ; B2; Arbeit/Beruf/Karriere; Enseñar no es solo su profesión, sino su vocación.; Unterrichten ist nicht nur ihr Beruf, sondern ihre Berufung.
 es-ab-0111; Arbeitsmarkt; el mercado laboral; el mercado de trabajo; B2; Arbeit/Beruf/Karriere; El mercado laboral para ingenieros es muy bueno.; Der Arbeitsmarkt für Ingenieure ist sehr gut.
 es-ab-0112; Fachkraft; el trabajador cualificado; la trabajadora cualificada, el profesional cualificado, el especialista; B2; Arbeit/Beruf/Karriere; La región necesita con urgencia a todo trabajador cualificado.; Die Region braucht dringend jede Fachkraft.
 es-ab-0113; Arbeitslosigkeit; el desempleo; el paro; B2; Arbeit/Beruf/Rechte & Soziales; El desempleo bajó ligeramente en el último trimestre.; Die Arbeitslosigkeit sank im letzten Quartal leicht.

@@ -4,13 +4,13 @@ es-wf-0001; Geld; el dinero; la plata; A1; Wirtschaft/Finanzen/Geld & Zahlung; �
 es-wf-0002; kaufen; comprar; adquirir; A1; Wirtschaft/Finanzen/Markt & Handel; Hoy queremos comprar pan fresco.; Wir wollen heute frisches Brot kaufen.
 es-wf-0003; verkaufen; vender; ; A1; Wirtschaft/Finanzen/Markt & Handel; Quiere vender su coche viejo.; Er will sein altes Auto verkaufen.
 es-wf-0004; bezahlen; pagar; ; A1; Wirtschaft/Finanzen/Geld & Zahlung; ¿Puedo pagar aquí con tarjeta?; Kann ich hier mit Karte bezahlen?
-es-wf-0005; Preis; el precio; ; A1; Wirtschaft/Finanzen/Markt & Handel; El precio del café ha vuelto a subir.; Der Preis für Kaffee ist wieder gestiegen.
+es-wf-0005; Preis (Kosten); el precio; ; A1; Wirtschaft/Finanzen/Markt & Handel; El precio del café ha vuelto a subir.; Der Preis für Kaffee ist wieder gestiegen.
 es-wf-0006; teuer; caro; costoso; A1; Wirtschaft/Finanzen/Markt & Handel; Este hotel es demasiado caro para nosotros.; Dieses Hotel ist zu teuer für uns.
 es-wf-0007; billig; barato; económico; A1; Wirtschaft/Finanzen/Markt & Handel; Hoy la verdura está barata en el mercado.; Gemüse ist heute auf dem Markt billig.
-es-wf-0008; Geschäft; la tienda; el comercio, el negocio; A1; Wirtschaft/Finanzen/Markt & Handel; La tienda abre a las nueve de la mañana.; Das Geschäft öffnet um neun Uhr morgens.
+es-wf-0008; Geschäft (Laden); la tienda; el comercio, el negocio; A1; Wirtschaft/Finanzen/Markt & Handel; La tienda abre a las nueve de la mañana.; Das Geschäft öffnet um neun Uhr morgens.
 es-wf-0009; arbeiten; trabajar; ; A1; Wirtschaft/Finanzen/Arbeit & Einkommen; Trabaja en un banco de Fráncfort.; Sie arbeitet in einer Bank in Frankfurt.
 es-wf-0010; Firma; la empresa; la firma, la compañía; A1; Wirtschaft/Finanzen/Unternehmen; Mi empresa tiene oficinas en tres ciudades.; Meine Firma hat Büros in drei Städten.
-es-wf-0011; Bank; el banco; ; A2; Wirtschaft/Finanzen/Bank; El banco cierra a las cuatro de la tarde.; Die Bank schließt um vier Uhr nachmittags.
+es-wf-0011; Bank (Geldinstitut); el banco; ; A2; Wirtschaft/Finanzen/Bank; El banco cierra a las cuatro de la tarde.; Die Bank schließt um vier Uhr nachmittags.
 es-wf-0012; Konto; la cuenta; la cuenta bancaria; A2; Wirtschaft/Finanzen/Bank; He abierto una cuenta para mi hija.; Ich habe ein Konto für meine Tochter eröffnet.
 es-wf-0013; sparen; ahorrar; ; A2; Wirtschaft/Finanzen/Bank; Ahorramos dinero para unas vacaciones largas.; Wir sparen Geld für einen langen Urlaub.
 es-wf-0014; Kunde; el cliente; la clienta; A2; Wirtschaft/Finanzen/Markt & Handel; El cliente pidió una talla más pequeña.; Der Kunde fragte nach einer kleineren Größe.
@@ -20,7 +20,7 @@ es-wf-0017; Markt; el mercado; ; A2; Wirtschaft/Finanzen/Markt & Handel; El merc
 es-wf-0018; Angebot; la oferta; ; A2; Wirtschaft/Finanzen/Markt & Handel; La oferta solo es válida hasta el viernes.; Das Angebot gilt nur bis Freitag.
 es-wf-0019; verdienen; ganar; cobrar; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; Como ingeniera gana un buen dinero.; Sie verdient als Ingenieurin gutes Geld.
 es-wf-0020; Gehalt; el sueldo; el salario; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; El sueldo se paga a final de mes.; Das Gehalt wird am Ende des Monats gezahlt.
-es-wf-0021; Lohn; el salario; el jornal, la paga; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; El salario se paga en efectivo cada semana.; Der Lohn wird jede Woche bar ausgezahlt.
+es-wf-0021; Lohn (Bezahlung); el salario; el jornal, la paga; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; El salario se paga en efectivo cada semana.; Der Lohn wird jede Woche bar ausgezahlt.
 es-wf-0022; Chef; el jefe; la jefa; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; Mi jefe está hoy de viaje de negocios.; Mein Chef ist heute auf Geschäftsreise.
 es-wf-0023; Mitarbeiter; el empleado; la empleada, el trabajador, la trabajadora; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; La empresa contrató a veinte empleados nuevos esta primavera.; Die Firma stellte in diesem Frühjahr zwanzig neue Mitarbeiter ein.
 es-wf-0024; Beruf; la profesión; el oficio; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; La enfermería es una profesión dura pero importante.; Pflege ist ein anstrengender, aber wichtiger Beruf.
@@ -45,21 +45,21 @@ es-wf-0042; Kosten; los costes; los costos, los gastos; B1; Wirtschaft/Finanzen/
 es-wf-0043; Einkommen; los ingresos; la renta; B1; Wirtschaft/Finanzen/Arbeit & Einkommen; Sus ingresos dependen del número de encargos.; Ihr Einkommen hängt von der Zahl der Aufträge ab.
 es-wf-0044; Einnahmen; la recaudación; los ingresos; B1; Wirtschaft/Finanzen/Unternehmen; La recaudación del museo procede sobre todo de las entradas.; Die Einnahmen des Museums stammen hauptsächlich aus Eintrittskarten.
 es-wf-0045; Handel; el comercio; ; B1; Wirtschaft/Finanzen/Markt & Handel; El comercio entre los dos países crece de forma constante.; Der Handel zwischen den beiden Ländern wächst stetig.
-es-wf-0046; handeln; comerciar; negociar; B1; Wirtschaft/Finanzen/Markt & Handel; La empresa comercia con café y especias finas.; Die Firma handelt mit Kaffee und feinen Gewürzen.
+es-wf-0046; handeln (Handel treiben); comerciar; negociar; B1; Wirtschaft/Finanzen/Markt & Handel; La empresa comercia con café y especias finas.; Die Firma handelt mit Kaffee und feinen Gewürzen.
 es-wf-0047; exportieren; exportar; ; B1; Wirtschaft/Finanzen/Markt & Handel; Alemania exporta máquinas a todo el mundo.; Deutschland exportiert Maschinen in die ganze Welt.
 es-wf-0048; importieren; importar; ; B1; Wirtschaft/Finanzen/Markt & Handel; Importamos la mayor parte de la fruta de España.; Wir importieren das meiste Obst aus Spanien.
 es-wf-0049; Lieferung; la entrega; el envío, el pedido; B1; Wirtschaft/Finanzen/Markt & Handel; La entrega llegó dos días antes de lo previsto.; Die Lieferung kam zwei Tage früher als geplant.
 es-wf-0050; Ware; la mercancía; el género, los productos; B1; Wirtschaft/Finanzen/Markt & Handel; La mercancía se revisa antes de salir de la fábrica.; Die Ware wird geprüft, bevor sie das Werk verlässt.
-es-wf-0051; Lager; el almacén; el depósito; B1; Wirtschaft/Finanzen/Markt & Handel; El almacén está lleno antes de Navidad.; Das Lager ist vor der Weihnachtszeit voll.
+es-wf-0051; Lager (Waren); el almacén; el depósito; B1; Wirtschaft/Finanzen/Markt & Handel; El almacén está lleno antes de Navidad.; Das Lager ist vor der Weihnachtszeit voll.
 es-wf-0052; Nachfrage; la demanda; ; B1; Wirtschaft/Finanzen/Markt & Handel; La demanda de bombas de calor sube rápidamente.; Die Nachfrage nach Wärmepumpen steigt schnell.
 es-wf-0053; Wettbewerb; la competencia; la competitividad; B1; Wirtschaft/Finanzen/Markt & Handel; La fuerte competencia mantiene los precios muy bajos.; Starker Wettbewerb hält die Preise sehr niedrig.
 es-wf-0054; Konkurrent; el competidor; la competidora, el rival; B1; Wirtschaft/Finanzen/Markt & Handel; Nuestro mayor competidor bajó ayer sus precios.; Unser größter Konkurrent senkte gestern seine Preise.
 es-wf-0055; Rabatt; el descuento; la rebaja; B1; Wirtschaft/Finanzen/Markt & Handel; Los estudiantes tienen un descuento del veinte por ciento.; Studenten bekommen einen Rabatt von zwanzig Prozent.
 es-wf-0056; Schulden; las deudas; la deuda; B1; Wirtschaft/Finanzen/Bank; Pagó sus deudas en tres años.; Er zahlte seine Schulden innerhalb von drei Jahren ab.
-es-wf-0057; leihen; prestar; pedir prestado; B1; Wirtschaft/Finanzen/Bank; ¿Me puedes prestar cincuenta euros hasta el viernes?; Kannst du mir fünfzig Euro bis Freitag leihen?
+es-wf-0057; leihen (jemandem etwas); prestar; ; B1; Wirtschaft/Finanzen/Bank; ¿Me puedes prestar cincuenta euros hasta el viernes?; Kannst du mir fünfzig Euro bis Freitag leihen?
 es-wf-0058; überweisen; transferir; hacer una transferencia; B1; Wirtschaft/Finanzen/Bank; Hoy le he transferido el alquiler al casero.; Ich habe die Miete heute an den Vermieter überwiesen.
-es-wf-0059; Überweisung; la transferencia; la transferencia bancaria; B1; Wirtschaft/Finanzen/Bank; La transferencia tarda aproximadamente un día laborable.; Die Überweisung dauert ungefähr einen Werktag.
-es-wf-0060; abheben; sacar dinero; sacar, retirar; B1; Wirtschaft/Finanzen/Bank; Sacó doscientos euros para el viaje.; Sie hob zweihundert Euro für die Reise ab.
+es-wf-0059; Überweisung (Bank); la transferencia; la transferencia bancaria; B1; Wirtschaft/Finanzen/Bank; La transferencia tarda aproximadamente un día laborable.; Die Überweisung dauert ungefähr einen Werktag.
+es-wf-0060; abheben (Geld); sacar dinero; sacar, retirar; B1; Wirtschaft/Finanzen/Bank; Sacó doscientos euros para el viaje.; Sie hob zweihundert Euro für die Reise ab.
 es-wf-0061; einzahlen; ingresar; depositar; B1; Wirtschaft/Finanzen/Bank; Ingresa una pequeña cantidad todos los meses.; Er zahlt jeden einzelnen Monat einen kleinen Betrag ein.
 es-wf-0062; Aktie; la acción; ; B1; Wirtschaft/Finanzen/Investieren & Börse; La acción perdió el cinco por ciento de su valor.; Die Aktie verlor fünf Prozent ihres Wertes.
 es-wf-0063; Börse; la bolsa; la bolsa de valores; B1; Wirtschaft/Finanzen/Investieren & Börse; La bolsa reaccionó con calma a las noticias.; Die Börse reagierte gelassen auf die Nachrichten.
@@ -103,7 +103,7 @@ es-wf-0100; Einkommensteuer; el impuesto sobre la renta; el IRPF; B2; Wirtschaft
 es-wf-0101; Steuererklärung; la declaración de la renta; la declaración de impuestos; B2; Wirtschaft/Finanzen/Steuern; Cada primavera presento la declaración de la renta por internet.; Ich reiche meine Steuererklärung jedes Frühjahr online ein.
 es-wf-0102; Steuerberater; el asesor fiscal; la asesora fiscal, el gestor; B2; Wirtschaft/Finanzen/Steuern; Mi asesor fiscal me encontró varias deducciones.; Mein Steuerberater fand mehrere Abzugsmöglichkeiten für mich.
 es-wf-0103; Finanzamt; la Agencia Tributaria; Hacienda, la oficina de Hacienda; B2; Wirtschaft/Finanzen/Steuern; La Agencia Tributaria envió un requerimiento en octubre.; Das Finanzamt schickte im Oktober eine Mahnung.
-es-wf-0104; absetzen; desgravar; deducir; B2; Wirtschaft/Finanzen/Steuern; Puedes desgravar los gastos de desplazamiento en tus impuestos.; Du kannst Fahrtkosten von der Steuer absetzen.
+es-wf-0104; absetzen (steuerlich); desgravar; deducir; B2; Wirtschaft/Finanzen/Steuern; Puedes desgravar los gastos de desplazamiento en tus impuestos.; Du kannst Fahrtkosten von der Steuer absetzen.
 es-wf-0105; Buchhaltung; la contabilidad; ; B2; Wirtschaft/Finanzen/Unternehmen; Una contabilidad ordenada ahorra problemas con Hacienda.; Eine saubere Buchhaltung erspart Ärger mit dem Finanzamt.
 es-wf-0106; Bilanz; el balance; ; B2; Wirtschaft/Finanzen/Unternehmen; El balance muestra todos los activos y pasivos.; Die Bilanz zeigt alle Vermögenswerte und Verbindlichkeiten.
 es-wf-0107; Hypothek; la hipoteca; ; B2; Wirtschaft/Finanzen/Bank; Pidieron una hipoteca sobre la casa.; Sie nahmen eine Hypothek auf das Haus auf.

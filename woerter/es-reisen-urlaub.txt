@@ -6,7 +6,7 @@ es-ru-0003; Urlaub; las vacaciones; ; A1; Reisen/Urlaub/Planung & Buchung; Mis v
 es-ru-0004; Hotel; el hotel; ; A1; Reisen/Urlaub/Unterkunft; El hotel está justo al lado de la playa.; Das Hotel liegt direkt am Strand.
 es-ru-0005; Zimmer; la habitación; el cuarto; A1; Reisen/Urlaub/Unterkunft; Nuestra habitación tiene vistas al mar.; Unser Zimmer hat Blick auf das Meer.
 es-ru-0006; Koffer; la maleta; la valija; A1; Reisen/Urlaub/Gepäck; Mi maleta pesa mucho por los libros.; Mein Koffer ist wegen der Bücher schwer.
-es-ru-0007; Tasche; la bolsa; el bolso; A1; Reisen/Urlaub/Gepäck; La bolsa con los billetes está en el coche.; Die Tasche mit den Tickets liegt im Auto.
+es-ru-0007; Tasche (zum Tragen); la bolsa; el bolso; A1; Reisen/Urlaub/Gepäck; La bolsa con los billetes está en el coche.; Die Tasche mit den Tickets liegt im Auto.
 es-ru-0008; Flugzeug; el avión; ; A1; Reisen/Urlaub/Flughafen; El avión sale a las seis de la mañana.; Das Flugzeug fliegt um sechs Uhr morgens ab.
 es-ru-0009; fliegen; volar; ir en avión; A1; Reisen/Urlaub/Flughafen; El sábado temprano volamos a Lisboa.; Wir fliegen am Samstag früh nach Lissabon.
 es-ru-0010; Flughafen; el aeropuerto; ; A1; Reisen/Urlaub/Flughafen; El aeropuerto está a treinta minutos de la ciudad.; Der Flughafen liegt dreißig Minuten von der Stadt entfernt.
@@ -16,11 +16,11 @@ es-ru-0013; Auto; el coche; el carro, el auto; A1; Reisen/Urlaub/Unterwegs; Vamo
 es-ru-0014; Bus; el autobús; el bus, el autocar; A1; Reisen/Urlaub/Unterwegs; El autobús al casco antiguo pasa cada diez minutos.; Der Bus in die Altstadt kommt alle zehn Minuten.
 es-ru-0015; Fahrkarte; el billete; el boleto, el pasaje; A1; Reisen/Urlaub/Unterwegs; Un billete hasta el lago cuesta cuatro euros.; Eine Fahrkarte zum See kostet vier Euro.
 es-ru-0016; Stadt; la ciudad; ; A1; Reisen/Urlaub/Sightseeing; La ciudad antigua es preciosa con la luz del atardecer.; Die alte Stadt ist im Abendlicht wunderschön.
-es-ru-0017; Land; el país; ; A1; Reisen/Urlaub/Planung & Buchung; Portugal es un país maravilloso para ir de vacaciones.; Portugal ist ein wunderbares Land für einen Urlaub.
+es-ru-0017; Land (Staat); el país; ; A1; Reisen/Urlaub/Planung & Buchung; Portugal es un país maravilloso para ir de vacaciones.; Portugal ist ein wunderbares Land für einen Urlaub.
 es-ru-0018; Meer; el mar; ; A1; Reisen/Urlaub/Strand & Natur; En septiembre el mar está templado y tranquilo.; Das Meer ist im September warm und ruhig.
 es-ru-0019; Strand; la playa; ; A1; Reisen/Urlaub/Strand & Natur; Los niños juegan en la playa todo el día.; Die Kinder spielen den ganzen Tag am Strand.
 es-ru-0020; Sonne; el sol; ; A1; Reisen/Urlaub/Strand & Natur; Aquí el sol brilla casi todos los días.; Die Sonne scheint hier fast jeden Tag.
-es-ru-0021; Karte; el mapa; ; A1; Reisen/Urlaub/Unterwegs; Sin mapa estaríamos perdidos aquí.; Ohne Karte wären wir hier verloren.
+es-ru-0021; Karte (Landkarte); el mapa; ; A1; Reisen/Urlaub/Unterwegs; Sin mapa estaríamos perdidos aquí.; Ohne Karte wären wir hier verloren.
 es-ru-0022; Kamera; la cámara; la cámara de fotos; A1; Reisen/Urlaub/Sightseeing; Llévate la cámara, hoy la luz es perfecta.; Nimm die Kamera mit, das Licht ist heute perfekt.
 es-ru-0023; Taxi; el taxi; ; A1; Reisen/Urlaub/Unterwegs; Cogemos un taxi del aeropuerto al hotel.; Wir nehmen ein Taxi vom Flughafen zum Hotel.
 es-ru-0024; Straße; la calle; la carretera; A1; Reisen/Urlaub/Unterwegs; Esta calle lleva directamente al puerto viejo.; Diese Straße führt direkt zum alten Hafen.
@@ -42,7 +42,7 @@ es-ru-0039; Reiseführer; la guía de viaje; la guía turística, la guía; A2; 
 es-ru-0040; besuchen; visitar; ; A2; Reisen/Urlaub/Sightseeing; Visitamos el viejo castillo que hay sobre la ciudad.; Wir besuchen die alte Burg über der Stadt.
 es-ru-0041; Museum; el museo; ; A2; Reisen/Urlaub/Sightseeing, Kultur; El primer domingo el museo es gratis.; Das Museum ist am ersten Sonntag kostenlos.
 es-ru-0042; Kirche; la iglesia; ; A2; Reisen/Urlaub/Sightseeing; La pequeña iglesia de la colina es muy antigua.; Die kleine Kirche auf dem Hügel ist sehr alt.
-es-ru-0043; Schloss; el castillo; el palacio; A2; Reisen/Urlaub/Sightseeing; En verano el castillo abre sus jardines.; Das Schloss öffnet im Sommer seine Gärten.
+es-ru-0043; Schloss (Gebäude); el castillo; el palacio; A2; Reisen/Urlaub/Sightseeing; En verano el castillo abre sus jardines.; Das Schloss öffnet im Sommer seine Gärten.
 es-ru-0044; Insel; la isla; ; A2; Reisen/Urlaub/Strand & Natur; La pequeña isla solo tiene un hotelito.; Die kleine Insel hat nur ein kleines Hotel.
 es-ru-0045; See; el lago; ; A2; Reisen/Urlaub/Strand & Natur; Nadamos en el lago antes del desayuno.; Wir schwimmen vor dem Frühstück im See.
 es-ru-0046; Berg; la montaña; el monte; A2; Reisen/Urlaub/Strand & Natur; Desde la montaña se ve todo el valle.; Vom Berg sieht man das ganze Tal.
@@ -63,7 +63,7 @@ es-ru-0060; Stadtplan; el plano de la ciudad; el plano, el mapa de la ciudad; A2
 es-ru-0061; Unterkunft; el alojamiento; ; B1; Reisen/Urlaub/Unterkunft; Encontramos un alojamiento barato cerca del casco antiguo.; Wir fanden eine günstige Unterkunft nahe der Altstadt.
 es-ru-0062; Ferienwohnung; el apartamento turístico; el apartamento de vacaciones; B1; Reisen/Urlaub/Unterkunft; El apartamento turístico tiene balcón y una cocina pequeña.; Die Ferienwohnung hat einen Balkon und eine kleine Küche.
 es-ru-0063; Jugendherberge; el albergue juvenil; el albergue; B1; Reisen/Urlaub/Unterkunft; El albergue juvenil es barato y muy limpio.; Die Jugendherberge ist günstig und sehr sauber.
-es-ru-0064; Pension; la pensión; el hostal; B1; Reisen/Urlaub/Unterkunft; La pensión la lleva una amable pareja de ancianos.; Die Pension wird von einem freundlichen alten Paar geführt.
+es-ru-0064; Pension (Unterkunft); la pensión; el hostal; B1; Reisen/Urlaub/Unterkunft; La pensión la lleva una amable pareja de ancianos.; Die Pension wird von einem freundlichen alten Paar geführt.
 es-ru-0065; Doppelzimmer; la habitación doble; ; B1; Reisen/Urlaub/Unterkunft; Una habitación doble con desayuno cuesta noventa euros.; Ein Doppelzimmer mit Frühstück kostet neunzig Euro.
 es-ru-0066; Einzelzimmer; la habitación individual; ; B1; Reisen/Urlaub/Unterkunft; La última habitación individual ya estaba ocupada ayer.; Das letzte Einzelzimmer war gestern schon vergeben.
 es-ru-0067; Halbpension; la media pensión; ; B1; Reisen/Urlaub/Unterkunft; Elegimos media pensión porque al mediodía comemos fuera.; Wir wählten Halbpension, weil wir mittags unterwegs essen.
@@ -80,12 +80,12 @@ es-ru-0077; Zoll; la aduana; ; B1; Reisen/Urlaub/Flughafen; En la aduana nadie q
 es-ru-0078; Flugbegleiter; el auxiliar de vuelo; la auxiliar de vuelo, el azafato, la azafata; B1; Reisen/Urlaub/Flughafen; El auxiliar de vuelo nos trajo agua y café.; Der Flugbegleiter brachte uns Wasser und Kaffee.
 es-ru-0079; Landung; el aterrizaje; ; B1; Reisen/Urlaub/Flughafen; El aterrizaje fue suave a pesar del fuerte viento.; Die Landung war trotz des starken Windes sanft.
 es-ru-0080; landen; aterrizar; ; B1; Reisen/Urlaub/Flughafen; Esta noche aterrizamos en Madrid poco después de medianoche.; Wir landen heute kurz nach Mitternacht in Madrid.
-es-ru-0081; abheben; despegar; ; B1; Reisen/Urlaub/Flughafen; El avión despegó con un pequeño retraso.; Das Flugzeug hob mit kurzer Verspätung ab.
+es-ru-0081; abheben (Flugzeug); despegar; ; B1; Reisen/Urlaub/Flughafen; El avión despegó con un pequeño retraso.; Das Flugzeug hob mit kurzer Verspätung ab.
 es-ru-0082; Notausgang; la salida de emergencia; ; B1; Reisen/Urlaub/Flughafen; La salida de emergencia está señalizada con carteles verdes.; Der Notausgang ist mit grünen Schildern markiert.
 es-ru-0083; Sehenswürdigkeit; el lugar de interés; la atracción turística, el monumento; B1; Reisen/Urlaub/Sightseeing; La catedral es el lugar de interés más famoso de la ciudad.; Die Kathedrale ist die berühmteste Sehenswürdigkeit der Stadt.
 es-ru-0084; Denkmal; el monumento; ; B1; Reisen/Urlaub/Sightseeing; El monumento de la plaza rinde homenaje a un poeta local.; Das Denkmal auf dem Platz ehrt einen hiesigen Dichter.
 es-ru-0085; Altstadt; el casco antiguo; el centro histórico, el casco viejo; B1; Reisen/Urlaub/Sightseeing; Nos perdimos por las callejuelas del casco antiguo.; Wir verliefen uns in den engen Gassen der Altstadt.
-es-ru-0086; Führung; la visita guiada; ; B1; Reisen/Urlaub/Sightseeing; La visita guiada por el castillo dura una hora.; Die Führung durch das Schloss dauert eine Stunde.
+es-ru-0086; Führung (Besichtigung); la visita guiada; ; B1; Reisen/Urlaub/Sightseeing; La visita guiada por el castillo dura una hora.; Die Führung durch das Schloss dauert eine Stunde.
 es-ru-0087; Souvenir; el recuerdo; el souvenir; B1; Reisen/Urlaub/Sightseeing; Compró un pequeño recuerdo para sus compañeros.; Sie kaufte ein kleines Souvenir für ihre Kollegen.
 es-ru-0088; Sonnenbrand; la quemadura solar; la quemadura de sol; B1; Reisen/Urlaub/Strand & Natur; Después de una sola tarde ya tenía una quemadura solar.; Nach einem Nachmittag hatte er schon einen Sonnenbrand.
 es-ru-0089; Liegestuhl; la tumbona; la hamaca, el camastro; B1; Reisen/Urlaub/Strand & Natur; A las nueve todas las tumbonas de la piscina estaban ocupadas.; Jeder Liegestuhl am Pool war um neun besetzt.
@@ -99,7 +99,7 @@ es-ru-0096; Pauschalreise; el viaje organizado; el paquete turístico; B2; Reise
 es-ru-0097; Reiseveranstalter; el operador turístico; el turoperador; B2; Reisen/Urlaub/Planung & Buchung; El operador turístico nos informó del cambio de horario.; Der Reiseveranstalter informierte uns über die Planänderung.
 es-ru-0098; Reiseversicherung; el seguro de viaje; ; B2; Reisen/Urlaub/Planung & Buchung; Un buen seguro de viaje también cubre el equipaje perdido.; Eine gute Reiseversicherung deckt auch verlorenes Gepäck ab.
 es-ru-0099; Anzahlung; el anticipo; la señal, el pago inicial; B2; Reisen/Urlaub/Planung & Buchung; Pagamos un anticipo de doscientos euros.; Wir leisteten eine Anzahlung von zweihundert Euro.
-es-ru-0100; Zuschlag; el suplemento; el recargo; B2; Reisen/Urlaub/Planung & Buchung; Las habitaciones con vistas al mar tienen un suplemento.; Für Zimmer mit Meerblick gibt es einen Zuschlag.
+es-ru-0100; Zuschlag (Aufpreis); el suplemento; el recargo; B2; Reisen/Urlaub/Planung & Buchung; Las habitaciones con vistas al mar tienen un suplemento.; Für Zimmer mit Meerblick gibt es einen Zuschlag.
 es-ru-0101; Hochsaison; la temporada alta; ; B2; Reisen/Urlaub/Planung & Buchung; En temporada alta aquí los precios casi se duplican.; In der Hochsaison verdoppeln sich hier fast die Preise.
 es-ru-0102; Nebensaison; la temporada baja; ; B2; Reisen/Urlaub/Planung & Buchung; En temporada baja las playas están maravillosamente vacías.; In der Nebensaison sind die Strände herrlich leer.
 es-ru-0103; Übernachtung; la pernoctación; la noche, la estancia; B2; Reisen/Urlaub/Unterkunft; El precio incluye una pernoctación con desayuno.; Der Preis beinhaltet eine Übernachtung mit Frühstück.

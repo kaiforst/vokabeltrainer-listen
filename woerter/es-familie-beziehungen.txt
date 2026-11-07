@@ -1,7 +1,7 @@
 # Spanisch: Familie & Beziehungen
 id; Deutsch; Spanisch; Weitere Antworten; Niveau; Themen; Beispiel Spanisch; Beispiel Deutsch
 es-fb-0001; Familie; la familia; ; A1; Alltag/Familie/Verwandtschaft; Mi familia vive en un pueblo pequeño.; Meine Familie lebt in einer kleinen Stadt.
-es-fb-0002; Mutter; la madre; la mamá, mamá; A1; Alltag/Familie/Verwandtschaft; Mi madre me llama todos los domingos por la noche.; Meine Mutter ruft mich jeden Sonntagabend an.
+es-fb-0002; Mutter (Elternteil); la madre; la mamá, mamá; A1; Alltag/Familie/Verwandtschaft; Mi madre me llama todos los domingos por la noche.; Meine Mutter ruft mich jeden Sonntagabend an.
 es-fb-0003; Vater; el padre; el papá, papá; A1; Alltag/Familie/Verwandtschaft; Su padre trabaja en el aeropuerto.; Sein Vater arbeitet am Flughafen.
 es-fb-0004; Eltern; los padres; ; A1; Alltag/Familie/Verwandtschaft; Mis padres llevan treinta años casados.; Meine Eltern sind seit dreißig Jahren verheiratet.
 es-fb-0005; Kind; el niño; la niña, el hijo, la hija; A1; Alltag/Familie/Verwandtschaft; El niño está jugando con el perro.; Das Kind spielt mit dem Hund.
@@ -40,8 +40,8 @@ es-fb-0037; Alleinerziehende; la madre soltera; la madre sola, el padre soltero;
 es-fb-0038; Stammbaum; el árbol genealógico; ; B2; Alltag/Familie/Verwandtschaft; Reconstruyó su árbol genealógico trescientos años atrás.; Er verfolgte seinen Stammbaum dreihundert Jahre zurück.
 es-fb-0039; Verwandtschaft; la parentela; la familia, los parientes; C1; Alltag/Familie/Verwandtschaft; Toda la parentela se reunió en Semana Santa.; Die ganze Verwandtschaft traf sich an Ostern.
 es-fb-0040; Vormund; el tutor legal; la tutora legal, el tutor; C1; Alltag/Familie/Verwandtschaft; Después del accidente, su tío se convirtió en su tutor legal.; Nach dem Unfall wurde ihr Onkel ihr Vormund.
-es-fb-0041; Freund; el novio; el amigo; A1; Alltag/Familie/Partnerschaft; Su novio le trae flores todos los viernes.; Ihr Freund bringt ihr jeden Freitag Blumen.
-es-fb-0042; Freundin; la novia; la amiga; A1; Alltag/Familie/Partnerschaft; Esta noche cocina para su novia.; Er kocht heute Abend für seine Freundin.
+es-fb-0041; Freund (Partner); el novio; ; A1; Alltag/Familie/Partnerschaft; Su novio le trae flores todos los viernes.; Ihr Freund bringt ihr jeden Freitag Blumen.
+es-fb-0042; Freundin (Partnerin); la novia; ; A1; Alltag/Familie/Partnerschaft; Esta noche cocina para su novia.; Er kocht heute Abend für seine Freundin.
 es-fb-0043; Liebe; el amor; ; A1; Alltag/Familie/Partnerschaft; El amor es lo más importante de la vida.; Liebe ist das Wichtigste im Leben.
 es-fb-0044; lieben; querer; amar; A2; Alltag/Familie/Partnerschaft; Te quiero más que a nada en el mundo.; Ich liebe dich über alles.
 es-fb-0045; Paar; la pareja; el par; A2; Alltag/Familie/Partnerschaft; La joven pareja se va a vivir junta.; Das junge Paar zieht zusammen.
@@ -111,7 +111,7 @@ es-fb-0108; Trauzeuge; el testigo de boda; el testigo, el padrino; B2; Alltag/Fa
 es-fb-0109; Beerdigung; el entierro; el funeral; B2; Alltag/Familie/Lebensereignisse; Muchos viejos amigos vinieron al entierro.; Viele alte Freunde kamen zur Beerdigung.
 es-fb-0110; Trauer; el duelo; el luto, la pena, la tristeza; B2; Alltag/Familie/Lebensereignisse; El duelo necesita tiempo y el apoyo de los demás.; Trauer braucht Zeit und die Unterstützung anderer.
 es-fb-0111; Ruhestand; la jubilación; el retiro; B2; Alltag/Familie/Lebensereignisse; Mi padre disfruta de su merecida jubilación.; Mein Vater genießt seinen wohlverdienten Ruhestand.
-es-fb-0112; Erbe; la herencia; ; B2; Alltag/Familie/Lebensereignisse; Los hermanos discutieron por la herencia de sus padres.; Die Geschwister stritten über das Erbe ihrer Eltern.
+es-fb-0112; Erbe (Nachlass); la herencia; ; B2; Alltag/Familie/Lebensereignisse; Los hermanos discutieron por la herencia de sus padres.; Die Geschwister stritten über das Erbe ihrer Eltern.
 es-fb-0113; Standesamt; el registro civil; el juzgado; B2; Alltag/Familie/Lebensereignisse; Se casaron en la intimidad en el registro civil.; Sie heirateten in aller Stille auf dem Standesamt.
 es-fb-0114; Trauung; la ceremonia de boda; la ceremonia nupcial, el enlace; C1; Alltag/Familie/Lebensereignisse; La ceremonia de boda tuvo lugar en el antiguo ayuntamiento.; Die Trauung fand im alten Rathaus statt.
 es-fb-0115; Nachwuchs; la descendencia; el bebé, los hijos; C1; Alltag/Familie/Lebensereignisse; La joven pareja espera descendencia para mayo.; Das junge Paar erwartet im Mai Nachwuchs.
@@ -139,7 +139,7 @@ es-fb-0136; sich vertragen; hacer las paces; volver a llevarse bien; B2; Alltag/
 es-fb-0137; beleidigen; insultar; ofender; B2; Alltag/Familie/Miteinander; No quería insultar a tu primo.; Er wollte deinen Cousin nicht beleidigen.
 es-fb-0138; Missverständnis; el malentendido; ; B2; Alltag/Familie/Miteinander; Toda la discusión fue solo un tonto malentendido.; Der ganze Streit war nur ein dummes Missverständnis.
 es-fb-0139; respektieren; respetar; ; B2; Alltag/Familie/Miteinander; Los niños deberían aprender a respetar otras opiniones.; Kinder sollten lernen, andere Meinungen zu respektieren.
-es-fb-0140; schätzen; valorar; apreciar; B2; Alltag/Familie/Miteinander; Valoro mucho tu consejo sincero.; Ich schätze deinen ehrlichen Rat sehr.
+es-fb-0140; schätzen (wertschätzen); valorar; apreciar; B2; Alltag/Familie/Miteinander; Valoro mucho tu consejo sincero.; Ich schätze deinen ehrlichen Rat sehr.
 es-fb-0141; vernachlässigen; descuidar; desatender, abandonar; B2; Alltag/Familie/Miteinander; Descuidó a sus amigos durante los años de mucho estrés.; Er vernachlässigte seine Freunde in den stressigen Jahren.
 es-fb-0142; sich versöhnen; reconciliarse; hacer las paces; C1; Alltag/Familie/Miteinander; Los hermanos se reconciliaron tras muchos años de silencio.; Die Brüder versöhnten sich nach vielen Jahren des Schweigens.
 es-fb-0143; Mitgefühl; la compasión; la empatía; C1; Alltag/Familie/Miteinander; Mostró una gran compasión por la familia en duelo.; Sie zeigte großes Mitgefühl für die trauernde Familie.

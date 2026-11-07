@@ -5,7 +5,7 @@ es-gw-0002; Tschüss; adiós; chao, hasta luego; A1; Grundwortschatz/Kommunikati
 es-gw-0003; Danke; gracias; muchas gracias; A1; Grundwortschatz/Kommunikation; Gracias por el bonito regalo.; Danke für das schöne Geschenk.
 es-gw-0004; Bitte; por favor; ; A1; Grundwortschatz/Kommunikation; ¿Me pone un café, por favor?; Kann ich bitte einen Kaffee haben?
 es-gw-0005; Gern geschehen; de nada; no hay de qué; A1; Grundwortschatz/Kommunikation; De nada, no ha sido ningún problema.; Gern geschehen, das war kein Problem.
-es-gw-0006; Entschuldigung; perdón; disculpe, perdone, lo siento; A1; Grundwortschatz/Kommunikation; Perdone, ¿dónde está la estación?; Entschuldigung, wo ist der Bahnhof?
+es-gw-0006; Entschuldigung (Ausruf); perdón; disculpe, perdone, lo siento; A1; Grundwortschatz/Kommunikation; Perdone, ¿dónde está la estación?; Entschuldigung, wo ist der Bahnhof?
 es-gw-0007; Ja; sí; ; A1; Grundwortschatz/Kommunikation; Sí, me gustaría tomar un poco de té.; Ja, ich möchte gern etwas Tee.
 es-gw-0008; Nein; no; ; A1; Grundwortschatz/Kommunikation; No, hoy no tengo tiempo.; Nein, ich habe heute keine Zeit.
 es-gw-0009; Guten Morgen; buenos días; ; A1; Grundwortschatz/Kommunikation; Buenos días, ¿has dormido bien?; Guten Morgen, hast du gut geschlafen?
@@ -71,7 +71,7 @@ es-gw-0068; ankommen; llegar; ; A1; Grundwortschatz/Verben; El tren llega a las 
 es-gw-0069; zeigen; enseñar; mostrar; A1; Grundwortschatz/Verben; ¿Puedes enseñarme el camino al hotel?; Kannst du mir den Weg zum Hotel zeigen?
 es-gw-0070; glauben; creer; ; A1; Grundwortschatz/Verben; Te creo, la historia es verdad.; Ich glaube dir, die Geschichte ist wahr.
 es-gw-0071; hoffen; esperar; ojalá; A1; Grundwortschatz/Verben; Espero que mañana haga buen tiempo.; Ich hoffe, das Wetter ist morgen schön.
-es-gw-0072; tragen; llevar; llevar puesto, cargar; A1; Grundwortschatz/Verben; Ella lleva un vestido rojo en la fiesta.; Sie trägt ein rotes Kleid auf der Party.
+es-gw-0072; tragen (Kleidung); llevar; llevar puesto; A1; Grundwortschatz/Verben; Ella lleva un vestido rojo en la fiesta.; Sie trägt ein rotes Kleid auf der Party.
 es-gw-0073; kosten; costar; valer; A1; Grundwortschatz/Verben; ¿Cuánto cuesta este billete, por favor?; Wie viel kostet diese Fahrkarte, bitte?
 es-gw-0074; bekommen; recibir; obtener; A1; Grundwortschatz/Verben; Hoy recibo una carta de mi tía.; Ich bekomme heute einen Brief von meiner Tante.
 es-gw-0075; vergessen; olvidar; olvidarse de; A1; Grundwortschatz/Verben; ¡No te olvides las llaves en casa!; Vergiss deine Schlüssel nicht zu Hause!
@@ -95,7 +95,7 @@ es-gw-0092; Frau; la mujer; la esposa; A1; Grundwortschatz/Menschen & Familie; L
 es-gw-0093; Kind; el niño; la niña, el crío; A1; Grundwortschatz/Menschen & Familie; El niño juega con una pelota pequeña.; Das Kind spielt mit einem kleinen Ball.
 es-gw-0094; Junge; el chico; el niño, el muchacho; A1; Grundwortschatz/Menschen & Familie; El chico va al colegio en bici.; Der Junge fährt mit dem Rad zur Schule.
 es-gw-0095; Mädchen; la chica; la niña, la muchacha; A1; Grundwortschatz/Menschen & Familie; La chica lee un libro sobre caballos.; Das Mädchen liest ein Buch über Pferde.
-es-gw-0096; Mutter; la madre; la mamá; A1; Grundwortschatz/Menschen & Familie; Mi madre hace el mejor pastel.; Meine Mutter macht den besten Kuchen.
+es-gw-0096; Mutter (Elternteil); la madre; la mamá; A1; Grundwortschatz/Menschen & Familie; Mi madre hace el mejor pastel.; Meine Mutter macht den besten Kuchen.
 es-gw-0097; Vater; el padre; el papá; A1; Grundwortschatz/Menschen & Familie; Mi padre trabaja en el aeropuerto.; Mein Vater arbeitet am Flughafen.
 es-gw-0098; Eltern; los padres; ; A1; Grundwortschatz/Menschen & Familie; Mis padres viven en un pueblo pequeño.; Meine Eltern wohnen in einem kleinen Dorf.
 es-gw-0099; Bruder; el hermano; ; A1; Grundwortschatz/Menschen & Familie; Mi hermano es un año mayor que yo.; Mein Bruder ist ein Jahr älter als ich.
@@ -238,7 +238,7 @@ es-gw-0235; Bad; el baño; el cuarto de baño; A1; Grundwortschatz/Orte; El bañ
 es-gw-0236; Stadt; la ciudad; ; A1; Grundwortschatz/Orte; Fráncfort es una ciudad grande con aeropuerto.; Frankfurt ist eine große Stadt mit einem Flughafen.
 es-gw-0237; Dorf; el pueblo; la aldea; A1; Grundwortschatz/Orte; Mis abuelos viven en un pueblo tranquilo.; Meine Großeltern wohnen in einem ruhigen Dorf.
 es-gw-0238; Straße; la calle; la carretera; A1; Grundwortschatz/Orte; Nuestra calle es tranquila por la noche.; Unsere Straße ist nachts ruhig.
-es-gw-0239; Geschäft; la tienda; el comercio; A1; Grundwortschatz/Orte; La tienda abre a las nueve de la mañana.; Das Geschäft öffnet morgens um neun.
+es-gw-0239; Geschäft (Laden); la tienda; el comercio; A1; Grundwortschatz/Orte; La tienda abre a las nueve de la mañana.; Das Geschäft öffnet morgens um neun.
 es-gw-0240; Supermarkt; el supermercado; ; A1; Grundwortschatz/Orte; Hoy el supermercado abre hasta las diez.; Der Supermarkt hat heute bis zehn geöffnet.
 es-gw-0241; Bahnhof; la estación; la estación de tren; A1; Grundwortschatz/Orte; Quedamos a las cinco en la estación.; Wir treffen uns um fünf am Bahnhof.
 es-gw-0242; Flughafen; el aeropuerto; ; A1; Grundwortschatz/Orte, Reisen/Urlaub/Flughafen; El aeropuerto está a treinta minutos de aquí.; Der Flughafen ist dreißig Minuten von hier.
@@ -284,7 +284,7 @@ es-gw-0281; ausfüllen; rellenar; llenar, cumplimentar; A2; Grundwortschatz/Verb
 es-gw-0282; reparieren; reparar; arreglar; A2; Grundwortschatz/Verben; Mi padre reparó la lavadora estropeada.; Mein Vater reparierte die kaputte Waschmaschine.
 es-gw-0283; folgen; seguir; ; A2; Grundwortschatz/Verben; Siga esta calle hasta la iglesia.; Folgen Sie dieser Straße bis zur Kirche.
 es-gw-0284; wachsen; crecer; ; A2; Grundwortschatz/Verben; Estas flores crecen muy rápido en verano.; Diese Blumen wachsen im Sommer sehr schnell.
-es-gw-0285; raten; adivinar; ; A2; Grundwortschatz/Verben; ¿Puedes adivinar cuántos años tiene mi abuela?; Kannst du raten, wie alt meine Großmutter ist?
+es-gw-0285; raten (schätzen); adivinar; ; A2; Grundwortschatz/Verben; ¿Puedes adivinar cuántos años tiene mi abuela?; Kannst du raten, wie alt meine Großmutter ist?
 es-gw-0286; hassen; odiar; ; A2; Grundwortschatz/Verben; Odio levantarme temprano los lunes.; Ich hasse es, montags früh aufzustehen.
 es-gw-0287; wiegen; pesar; ; A2; Grundwortschatz/Verben; Ahora el bebé pesa unos cuatro kilos.; Das Baby wiegt jetzt ungefähr vier Kilo.
 es-gw-0288; verletzen; herir; lesionar, hacer daño; A2; Grundwortschatz/Verben; Se lesionó la pierna durante el partido de fútbol.; Er verletzte sich beim Fußballspiel am Bein.
@@ -312,7 +312,7 @@ es-gw-0309; stehlen; robar; ; A2; Grundwortschatz/Verben; Alguien me ha robado l
 es-gw-0310; werfen; lanzar; tirar, echar; A2; Grundwortschatz/Verben; ¡Lánzame la pelota, por favor!; Wirf mir bitte den Ball zu!
 es-gw-0311; Erwachsener; el adulto; la adulta, el mayor; A2; Grundwortschatz/Menschen & Familie; En el museo los niños pagan menos que los adultos.; Kinder zahlen im Museum weniger als Erwachsene.
 es-gw-0312; Jugendlicher; el adolescente; la adolescente, el joven; A2; Grundwortschatz/Menschen & Familie; Muchos adolescentes pasan horas con el móvil.; Viele Jugendliche verbringen Stunden an ihren Handys.
-es-gw-0313; Leiter; la escalera; la escalera de mano; A2; Grundwortschatz/Alltag; Subió por la escalera para llegar al tejado.; Er stieg die Leiter hinauf, um das Dach zu erreichen.
+es-gw-0313; Leiter (zum Steigen); la escalera; la escalera de mano; A2; Grundwortschatz/Alltag; Subió por la escalera para llegar al tejado.; Er stieg die Leiter hinauf, um das Dach zu erreichen.
 es-gw-0314; Kollege; el compañero de trabajo; el colega, la compañera de trabajo; A2; Grundwortschatz/Menschen & Familie; Como todos los días con mis compañeros de trabajo.; Ich esse jeden Tag mit meinen Kollegen zu Mittag.
 es-gw-0315; Gast; el invitado; la invitada, el huésped; A2; Grundwortschatz/Menschen & Familie; Los invitados llegaron a las siete de la tarde.; Die Gäste kamen um sieben Uhr abends an.
 es-gw-0316; Besucher; el visitante; la visitante; A2; Grundwortschatz/Menschen & Familie; El castillo recibe muchos visitantes en verano.; Das Schloss bekommt im Sommer viele Besucher.
@@ -354,11 +354,11 @@ es-gw-0351; Mahlzeit; la comida; ; A2; Grundwortschatz/Essen & Trinken; El desay
 es-gw-0352; Nachtisch; el postre; ; A2; Grundwortschatz/Essen & Trinken; De postre tomamos helado.; Wir hatten Eis zum Nachtisch.
 es-gw-0353; Vorspeise; el entrante; el primer plato, la entrada; A2; Grundwortschatz/Essen & Trinken; De entrante pedí una ensalada pequeña.; Als Vorspeise bestellte ich einen kleinen Salat.
 es-gw-0354; Hauptgericht; el plato principal; el segundo plato, el plato fuerte; A2; Grundwortschatz/Essen & Trinken; El plato principal era pescado con arroz.; Das Hauptgericht war Fisch mit Reis.
-es-gw-0355; Rezept; la receta; ; A2; Grundwortschatz/Essen & Trinken; Mi abuela me dio su receta de pastel.; Meine Großmutter gab mir ihr Kuchenrezept.
+es-gw-0355; Rezept (Kochen); la receta; ; A2; Grundwortschatz/Essen & Trinken; Mi abuela me dio su receta de pastel.; Meine Großmutter gab mir ihr Kuchenrezept.
 es-gw-0356; Zutat; el ingrediente; ; A2; Grundwortschatz/Essen & Trinken; Para este plato solo necesitamos cinco ingredientes.; Wir brauchen nur fünf Zutaten für dieses Gericht.
 es-gw-0357; Geschmack; el sabor; el gusto; A2; Grundwortschatz/Essen & Trinken; No me gusta el sabor de esta sopa.; Ich mag den Geschmack dieser Suppe nicht.
 es-gw-0358; lecker; rico; delicioso, sabroso, bueno; A2; Grundwortschatz/Essen & Trinken; La pizza de este restaurante está muy rica.; Die Pizza in diesem Restaurant ist wirklich lecker.
-es-gw-0359; Imbiss; el tentempié; el aperitivo, el bocadillo, la merienda; A2; Grundwortschatz/Essen & Trinken; Compramos un tentempié rápido en la estación.; Wir kauften einen schnellen Imbiss am Bahnhof.
+es-gw-0359; Imbiss (kleine Mahlzeit); el tentempié; el aperitivo, el bocadillo, la merienda; A2; Grundwortschatz/Essen & Trinken; Compramos un tentempié rápido en la estación.; Wir kauften einen schnellen Imbiss am Bahnhof.
 es-gw-0360; Kellner; el camarero; el mesero, la camarera; A2; Grundwortschatz/Essen & Trinken; El camarero nos trajo la carta enseguida.; Der Kellner brachte uns schnell die Speisekarte.
 es-gw-0361; Rechnung; la cuenta; la factura; A2; Grundwortschatz/Essen & Trinken; ¿Nos trae la cuenta, por favor?; Könnten wir bitte die Rechnung haben?
 es-gw-0362; Trinkgeld; la propina; ; A2; Grundwortschatz/Essen & Trinken; Le dejamos una pequeña propina al camarero tan amable.; Wir ließen dem freundlichen Kellner ein kleines Trinkgeld da.
@@ -394,7 +394,7 @@ es-gw-0391; neblig; neblinoso; brumoso, con niebla; A2; Grundwortschatz/Adjektiv
 es-gw-0392; Seil; la cuerda; la soga; A2; Grundwortschatz/Alltag; Los niños saltaban por encima de la cuerda larga.; Die Kinder sprangen über das lange Seil.
 es-gw-0393; laut; ruidoso; fuerte, alto; A2; Grundwortschatz/Adjektive; La música de la fiesta estaba demasiado fuerte.; Die Musik auf der Party war zu laut.
 es-gw-0394; leise; callado; silencioso, bajo, en voz baja; A2; Grundwortschatz/Adjektive; Por favor, estate callado, el bebé está durmiendo.; Bitte sei leise, das Baby schläft.
-es-gw-0395; faul; perezoso; vago; A2; Grundwortschatz/Adjektive; Los domingos suelo ser un poco perezoso.; Sonntags bin ich oft ein bisschen faul.
+es-gw-0395; faul (träge); perezoso; vago; A2; Grundwortschatz/Adjektive; Los domingos suelo ser un poco perezoso.; Sonntags bin ich oft ein bisschen faul.
 es-gw-0396; einsam; solitario; solo; A2; Grundwortschatz/Adjektive; Se sentía solo en la nueva y gran ciudad.; Er fühlte sich einsam in der großen neuen Stadt.
 es-gw-0397; modern; moderno; ; A2; Grundwortschatz/Adjektive; Viven en un piso moderno junto al parque.; Sie wohnen in einer modernen Wohnung am Park.
 es-gw-0398; schmal; estrecho; angosto; A2; Grundwortschatz/Adjektive; El casco antiguo tiene muchas calles estrechas.; Die Altstadt hat viele schmale Gassen.
@@ -416,7 +416,7 @@ es-gw-0413; überrascht; sorprendido; ; A2; Grundwortschatz/Adjektive; Nos queda
 es-gw-0414; ordentlich; ordenado; pulcro; A2; Grundwortschatz/Adjektive; Su escritorio siempre está limpio y ordenado.; Ihr Schreibtisch ist immer sauber und ordentlich.
 es-gw-0415; nützlich; útil; práctico; A2; Grundwortschatz/Adjektive; Un diccionario es útil cuando se aprende inglés.; Ein Wörterbuch ist nützlich, wenn man Englisch lernt.
 es-gw-0416; Brücke; el puente; ; A2; Grundwortschatz/Orte; Cruzamos el viejo puente de piedra.; Wir gingen über die alte Steinbrücke.
-es-gw-0417; Schloss; el castillo; el palacio; A2; Grundwortschatz/Orte; El castillo está sobre una colina encima de la ciudad.; Das Schloss steht auf einem Hügel über der Stadt.
+es-gw-0417; Schloss (Gebäude); el castillo; el palacio; A2; Grundwortschatz/Orte; El castillo está sobre una colina encima de la ciudad.; Das Schloss steht auf einem Hügel über der Stadt.
 es-gw-0418; Küste; la costa; ; A2; Grundwortschatz/Orte; Pasamos las vacaciones en la costa francesa.; Wir verbrachten unseren Urlaub an der französischen Küste.
 es-gw-0419; Wald; el bosque; ; A2; Grundwortschatz/Orte; A menudo vamos a pasear por el bosque.; Wir gehen oft im Wald spazieren.
 es-gw-0420; Insel; la isla; ; A2; Grundwortschatz/Orte; La pequeña isla solo tiene un pueblo.; Die kleine Insel hat nur ein Dorf.
@@ -426,7 +426,7 @@ es-gw-0423; Bauernhof; la granja; ; A2; Grundwortschatz/Orte; A los niños les e
 es-gw-0424; Fabrik; la fábrica; ; A2; Grundwortschatz/Orte; Trabaja en una fábrica de coches cerca de Fráncfort.; Er arbeitet in einer Autofabrik bei Frankfurt.
 es-gw-0425; Stadion; el estadio; ; A2; Grundwortschatz/Orte; El estadio estaba lleno para el gran partido.; Das Stadion war beim großen Spiel voll.
 es-gw-0426; Turm; la torre; ; A2; Grundwortschatz/Orte; Desde la torre se ve toda la ciudad.; Vom Turm kann man die ganze Stadt sehen.
-es-gw-0427; Platz; la plaza; ; A2; Grundwortschatz/Orte; Todos los viernes hay mercado en la plaza.; Auf dem Platz ist jeden Freitag ein Markt.
+es-gw-0427; Platz (in der Stadt); la plaza; ; A2; Grundwortschatz/Orte; Todos los viernes hay mercado en la plaza.; Auf dem Platz ist jeden Freitag ein Markt.
 es-gw-0428; Ecke; la esquina; el rincón; A2; Grundwortschatz/Orte; La panadería está justo a la vuelta de la esquina.; Die Bäckerei ist gleich um die Ecke.
 es-gw-0429; Gegend; la zona; la región, la comarca; A2; Grundwortschatz/Orte; Esta zona es conocida por su buen vino.; Diese Gegend ist bekannt für ihren guten Wein.
 es-gw-0430; Pfad; el sendero; el camino, la senda; A2; Grundwortschatz/Orte; Un sendero estrecho baja hasta la playa.; Ein schmaler Pfad führt hinunter zum Strand.
@@ -440,7 +440,7 @@ es-gw-0437; Buchhandlung; la librería; ; A2; Grundwortschatz/Orte; Compré esta
 es-gw-0438; Spielplatz; el parque infantil; el área de juegos; A2; Grundwortschatz/Orte; Los niños están jugando en el parque infantil.; Die Kinder spielen auf dem Spielplatz.
 es-gw-0439; Parkplatz; el aparcamiento; el parking, el estacionamiento; A2; Grundwortschatz/Orte; El aparcamiento detrás del supermercado es gratuito.; Der Parkplatz hinter dem Supermarkt ist kostenlos.
 es-gw-0440; Tankstelle; la gasolinera; la estación de servicio; A2; Grundwortschatz/Orte; Paramos en una gasolinera de la autopista.; Wir hielten an einer Tankstelle auf der Autobahn.
-es-gw-0441; Nachricht; el mensaje; la noticia; A2; Grundwortschatz/Kommunikation; Te he enviado un mensaje esta mañana.; Ich habe dir heute Morgen eine Nachricht geschickt.
+es-gw-0441; Nachricht (Mitteilung); el mensaje; ; A2; Grundwortschatz/Kommunikation; Te he enviado un mensaje esta mañana.; Ich habe dir heute Morgen eine Nachricht geschickt.
 es-gw-0442; Neuigkeiten; las novedades; las noticias; A2; Grundwortschatz/Kommunikation; ¿Te has enterado de las novedades sobre Tom?; Hast du die Neuigkeiten über Tom gehört?
 es-gw-0443; Gespräch; la conversación; la charla; A2; Grundwortschatz/Kommunikation; Tuvimos una larga conversación sobre nuestros planes.; Wir hatten ein langes Gespräch über unsere Pläne.
 es-gw-0444; Meinung; la opinión; ; A2; Grundwortschatz/Kommunikation; En mi opinión, la película era demasiado larga.; Meiner Meinung nach war der Film zu lang.
@@ -449,7 +449,7 @@ es-gw-0446; Erklärung; la explicación; ; A2; Grundwortschatz/Kommunikation; El
 es-gw-0447; Geheimnis; el secreto; ; A2; Grundwortschatz/Kommunikation; ¿Puedes guardar un secreto, por favor?; Kannst du bitte ein Geheimnis für dich behalten?
 es-gw-0448; Witz; el chiste; la broma; A2; Grundwortschatz/Kommunikation; Contó un chiste muy gracioso durante la cena.; Er erzählte beim Abendessen einen lustigen Witz.
 es-gw-0449; Streit; la discusión; la pelea, la riña; A2; Grundwortschatz/Kommunikation; Tuvieron una discusión por el dinero.; Sie hatten einen Streit um das Geld.
-es-gw-0450; Rat; el consejo; ; A2; Grundwortschatz/Kommunikation; Mi padre me dio un buen consejo.; Mein Vater gab mir einen guten Rat.
+es-gw-0450; Rat (Ratschlag); el consejo; ; A2; Grundwortschatz/Kommunikation; Mi padre me dio un buen consejo.; Mein Vater gab mir einen guten Rat.
 es-gw-0451; Einladung; la invitación; ; A2; Grundwortschatz/Kommunikation; Gracias por la invitación a tu fiesta.; Danke für die Einladung zu deiner Party.
 es-gw-0452; Anruf; la llamada; la llamada telefónica; A2; Grundwortschatz/Kommunikation; Recibí una llamada de mi viejo amigo.; Ich bekam einen Anruf von meinem alten Freund.
 es-gw-0453; Postkarte; la postal; la tarjeta postal; A2; Grundwortschatz/Kommunikation; Nos envió una postal desde Italia.; Sie schickte uns eine Postkarte aus Italien.
@@ -480,10 +480,10 @@ es-gw-0477; Werkzeug; la herramienta; ; A2; Grundwortschatz/Alltag; Para arregla
 es-gw-0478; Taschenlampe; la linterna; ; A2; Grundwortschatz/Alltag; Llévate una linterna, en el sótano está oscuro.; Nimm eine Taschenlampe, im Keller ist es dunkel.
 es-gw-0479; Batterie; la batería; la pila; A2; Grundwortschatz/Alltag; La batería de mi móvil está casi descargada.; Die Batterie meines Handys ist fast leer.
 es-gw-0480; Schublade; el cajón; ; A2; Grundwortschatz/Alltag; Las tijeras están en el cajón de arriba.; Die Schere ist in der obersten Schublade.
-es-gw-0481; Decke; la manta; la frazada, la cobija; A2; Grundwortschatz/Alltag; Le puso una manta calentita al niño.; Sie legte eine warme Decke über das Kind.
+es-gw-0481; Decke (zum Zudecken); la manta; la frazada, la cobija; A2; Grundwortschatz/Alltag; Le puso una manta calentita al niño.; Sie legte eine warme Decke über das Kind.
 es-gw-0482; Kissen; la almohada; el cojín; A2; Grundwortschatz/Alltag; No puedo dormir sin mi propia almohada.; Ich kann ohne mein eigenes Kissen nicht schlafen.
 es-gw-0483; Wecker; el despertador; ; A2; Grundwortschatz/Alltag; Mi despertador suena a las seis y media.; Mein Wecker klingelt um halb sieben.
-es-gw-0484; Glück; la suerte; ; A2; Grundwortschatz/Alltag; Con un poco de suerte todavía conseguimos entradas.; Mit etwas Glück bekommen wir noch Karten.
+es-gw-0484; Glück (Glück haben); la suerte; ; A2; Grundwortschatz/Alltag; Con un poco de suerte todavía conseguimos entradas.; Mit etwas Glück bekommen wir noch Karten.
 es-gw-0485; Pflanze; la planta; ; A2; Grundwortschatz/Alltag; La planta de la ventana necesita más agua.; Die Pflanze am Fenster braucht mehr Wasser.
 es-gw-0486; Beruf; la profesión; el oficio, la ocupación; A2; Grundwortschatz/Arbeit & Schule; Le encanta su profesión de enfermera.; Sie liebt ihren Beruf als Krankenschwester.
 es-gw-0487; Gehalt; el sueldo; el salario; A2; Grundwortschatz/Arbeit & Schule; El nuevo trabajo tiene un sueldo mejor.; Der neue Job bringt ein besseres Gehalt.
@@ -493,7 +493,7 @@ es-gw-0490; Vorstellungsgespräch; la entrevista de trabajo; la entrevista; A2; 
 es-gw-0491; Erfahrung; la experiencia; ; A2; Grundwortschatz/Arbeit & Schule; Tiene mucha experiencia con niños.; Sie hat viel Erfahrung mit Kindern.
 es-gw-0492; Erfolg; el éxito; ; A2; Grundwortschatz/Arbeit & Schule; La fiesta del colegio fue todo un éxito.; Das Schulfest war ein großer Erfolg.
 es-gw-0493; Prüfung; el examen; la prueba; A2; Grundwortschatz/Arbeit & Schule; Tengo que estudiar para mi examen de inglés.; Ich muss für meine Englischprüfung lernen.
-es-gw-0494; Note; la nota; la calificación; A2; Grundwortschatz/Arbeit & Schule; Sacó la mejor nota de la clase.; Er bekam die beste Note in der Klasse.
+es-gw-0494; Note (Schule); la nota; la calificación; A2; Grundwortschatz/Arbeit & Schule; Sacó la mejor nota de la clase.; Er bekam die beste Note in der Klasse.
 es-gw-0495; Fach; la asignatura; la materia; A2; Grundwortschatz/Arbeit & Schule; Mi asignatura favorita en el colegio es historia.; Mein Lieblingsfach in der Schule ist Geschichte.
 es-gw-0496; Pause; el descanso; la pausa, el recreo; A2; Grundwortschatz/Arbeit & Schule; Hagamos un breve descanso después de esta clase.; Machen wir nach dieser Stunde eine kurze Pause.
 es-gw-0497; Projekt; el proyecto; ; A2; Grundwortschatz/Arbeit & Schule; Nuestra clase está trabajando en un proyecto de ciencias.; Unsere Klasse arbeitet an einem Wissenschaftsprojekt.
@@ -510,7 +510,7 @@ es-gw-0507; zu schätzen wissen; agradecer; apreciar, valorar; B1; Grundwortscha
 es-gw-0508; genehmigen; aprobar; autorizar, permitir; B1; Grundwortschatz/Verben; Por fin el ayuntamiento aprobó los planos del nuevo colegio.; Die Stadt genehmigte endlich die Pläne für die neue Schule.
 es-gw-0509; streiten; discutir; pelearse, reñir; B1; Grundwortschatz/Verben; Discuten a menudo por el dinero y las tareas de casa.; Sie streiten oft über Geld und Hausarbeit.
 es-gw-0510; vereinbaren; acordar; quedar en, concertar; B1; Grundwortschatz/Verben; Acordamos una reunión para el martes que viene por la mañana.; Wir vereinbarten ein Treffen für nächsten Dienstagmorgen.
-es-gw-0511; annehmen; suponer; asumir, presumir; B1; Grundwortschatz/Verben; Supongo que el tren llegará puntual.; Ich nehme an, dass der Zug pünktlich sein wird.
+es-gw-0511; annehmen (vermuten); suponer; asumir, presumir; B1; Grundwortschatz/Verben; Supongo que el tren llegará puntual.; Ich nehme an, dass der Zug pünktlich sein wird.
 es-gw-0512; vermeiden; evitar; ; B1; Grundwortschatz/Verben; Intenta evitar errores revisando tu trabajo dos veces.; Versuche Fehler zu vermeiden, indem du deine Arbeit zweimal prüfst.
 es-gw-0513; sich verhalten; comportarse; portarse; B1; Grundwortschatz/Verben; Los niños se comportaron muy bien durante el largo viaje.; Die Kinder verhielten sich während der langen Reise sehr gut.
 es-gw-0514; verschütten; derramar; tirar, verter; B1; Grundwortschatz/Verben; Ten cuidado de no derramar café sobre el teclado.; Pass auf, dass du keinen Kaffee über die Tastatur verschüttest.
@@ -550,7 +550,7 @@ es-gw-0547; jagen; perseguir; cazar; B1; Grundwortschatz/Verben; Al perro le enc
 es-gw-0548; erhöhen; aumentar; subir, elevar; B1; Grundwortschatz/Verben; El ayuntamiento aumentó el precio de los billetes de autobús.; Die Stadt erhöhte den Preis für Busfahrkarten.
 es-gw-0549; bestehen auf; insistir en; ; B1; Grundwortschatz/Verben; Insistió en pagar ella misma la comida.; Sie bestand darauf, das Essen selbst zu bezahlen.
 es-gw-0550; beabsichtigen; tener la intención de; pretender, proponerse; B1; Grundwortschatz/Verben; Tenemos la intención de visitar Portugal el próximo verano.; Wir beabsichtigen, nächsten Sommer Portugal zu besuchen.
-es-gw-0551; vorstellen; presentar; ; B1; Grundwortschatz/Verben, Grundwortschatz/Kommunikation; Déjame presentarte a mi compañera Anna.; Lass mich dir meine Kollegin Anna vorstellen.
+es-gw-0551; vorstellen (jemanden); presentar; ; B1; Grundwortschatz/Verben, Grundwortschatz/Kommunikation; Déjame presentarte a mi compañera Anna.; Lass mich dir meine Kollegin Anna vorstellen.
 es-gw-0552; erfinden; inventar; ; B1; Grundwortschatz/Verben; ¿Quién inventó en realidad el primer teléfono móvil?; Wer hat eigentlich das erste Handy erfunden?
 es-gw-0553; einbeziehen; incluir; implicar, involucrar, conllevar; B1; Grundwortschatz/Verben; El puesto incluye muchos viajes al extranjero.; Die Stelle beinhaltet viele Reisen ins Ausland.
 es-gw-0554; beurteilen; juzgar; valorar, evaluar; B1; Grundwortschatz/Verben; No deberías juzgar a la gente por su ropa.; Du solltest Menschen nicht nach ihrer Kleidung beurteilen.
@@ -571,7 +571,7 @@ es-gw-0568; niesen; estornudar; ; B1; Grundwortschatz/Verben; Estornudó tres ve
 es-gw-0569; ablehnen; rechazar; negarse a; B1; Grundwortschatz/Verben; Rechazó responder a cualquier pregunta personal.; Sie lehnte es ab, persönliche Fragen zu beantworten.
 es-gw-0570; bereuen; arrepentirse de; lamentar; B1; Grundwortschatz/Verben, Grundwortschatz/Gefühle & Meinung; Te arrepentirás de esta decisión más adelante, créeme.; Du wirst diese Entscheidung später bereuen, glaub mir.
 es-gw-0571; sich verlassen auf; confiar en; contar con, fiarse de; B1; Grundwortschatz/Verben; Siempre puedes confiar en tus mejores amigos.; Du kannst dich immer auf deine besten Freunde verlassen.
-es-gw-0572; erinnern; recordar; ; B1; Grundwortschatz/Verben, Grundwortschatz/Alltag; Por favor, recuérdame que compre leche esta tarde.; Bitte erinnere mich daran, heute Abend Milch zu kaufen.
+es-gw-0572; erinnern (jemanden); recordar; ; B1; Grundwortschatz/Verben, Grundwortschatz/Alltag; Por favor, recuérdame que compre leche esta tarde.; Bitte erinnere mich daran, heute Abend Milch zu kaufen.
 es-gw-0573; ersetzen; sustituir; reemplazar, cambiar; B1; Grundwortschatz/Verben; Tenemos que sustituir pronto la impresora vieja.; Wir müssen den alten Drucker bald ersetzen.
 es-gw-0574; erfordern; requerir; exigir, necesitar; B1; Grundwortschatz/Verben; Este puesto requiere paciencia y buenas habilidades de comunicación.; Diese Stelle erfordert Geduld und gute kommunikative Fähigkeiten.
 es-gw-0575; reagieren; reaccionar; responder; B1; Grundwortschatz/Verben; ¿Cómo reaccionó ante la sorprendente noticia?; Wie hat sie auf die überraschende Nachricht reagiert?
@@ -587,7 +587,7 @@ es-gw-0584; praktisch; práctico; cómodo; B1; Grundwortschatz/Adjektive; La ban
 es-gw-0585; neugierig; curioso; ; B1; Grundwortschatz/Adjektive; El niño curioso hacía preguntas sobre todo.; Das neugierige Kind stellte Fragen zu allem.
 es-gw-0586; aktuell; actual; ; B1; Grundwortschatz/Adjektive; La situación actual en las carreteras es complicada.; Die aktuelle Lage auf den Straßen ist schwierig.
 es-gw-0587; enttäuscht; decepcionado; desilusionado; B1; Grundwortschatz/Adjektive, Grundwortschatz/Gefühle & Meinung; Nos quedamos decepcionados con el hotel y el servicio.; Wir waren von dem Hotel und dem Service enttäuscht.
-es-gw-0588; verlegen; avergonzado; cortado, apurado; B1; Grundwortschatz/Adjektive, Grundwortschatz/Gefühle & Meinung; Se sintió avergonzado cuando olvidó su nombre.; Er war verlegen, als er ihren Namen vergaß.
+es-gw-0588; verlegen (beschämt); avergonzado; cortado, apurado; B1; Grundwortschatz/Adjektive, Grundwortschatz/Gefühle & Meinung; Se sintió avergonzado cuando olvidó su nombre.; Er war verlegen, als er ihren Namen vergaß.
 es-gw-0589; riesig; enorme; gigantesco, inmenso; B1; Grundwortschatz/Adjektive; Viven en una casa enorme junto al lago.; Sie wohnen in einem riesigen Haus am See.
 es-gw-0590; wesentlich; esencial; fundamental, imprescindible; B1; Grundwortschatz/Adjektive; Una buena planificación es esencial para un proyecto de éxito.; Gute Planung ist wesentlich für ein erfolgreiches Projekt.
 es-gw-0591; erschöpft; agotado; exhausto, rendido; B1; Grundwortschatz/Adjektive; Después de la larga caminata estábamos completamente agotados.; Nach der langen Wanderung waren wir völlig erschöpft.
@@ -657,7 +657,7 @@ es-gw-0654; Leistung; el logro; ; B1; Grundwortschatz/Abstrakte Begriffe; Ganar 
 es-gw-0655; Vereinbarung; el acuerdo; el convenio; B1; Grundwortschatz/Kommunikation; Las dos empresas firmaron por fin un acuerdo.; Die beiden Firmen unterzeichneten endlich eine Vereinbarung.
 es-gw-0656; Ziel; el objetivo; la meta, el fin; B1; Grundwortschatz/Abstrakte Begriffe; El objetivo del curso es mejorar tu expresión oral.; Das Ziel des Kurses ist es, dein Sprechen zu verbessern.
 es-gw-0657; Menge; la cantidad; ; B1; Grundwortschatz/Abstrakte Begriffe; Se gastó una gran cantidad de dinero en el proyecto.; Eine große Menge Geld wurde für das Projekt ausgegeben.
-es-gw-0658; Einstellung; la actitud; ; B1; Grundwortschatz/Gefühle & Meinung; Su actitud positiva la ayudó en tiempos difíciles.; Ihre positive Einstellung half ihr in schwierigen Zeiten.
+es-gw-0658; Einstellung (Haltung); la actitud; ; B1; Grundwortschatz/Gefühle & Meinung; Su actitud positiva la ayudó en tiempos difíciles.; Ihre positive Einstellung half ihr in schwierigen Zeiten.
 es-gw-0659; Publikum; el público; ; B1; Grundwortschatz/Gesellschaft; El público aplaudió con fuerza al final del espectáculo.; Das Publikum klatschte am Ende der Vorstellung laut.
 es-gw-0660; Behörde; la autoridad; el organismo oficial; B1; Grundwortschatz/Gesellschaft; Debes comunicar el accidente a la autoridad local.; Du musst den Unfall der örtlichen Behörde melden.
 es-gw-0661; Durchschnitt; la media; el promedio; B1; Grundwortschatz/Abstrakte Begriffe; Sus notas están por encima de la media de la clase.; Seine Noten liegen über dem Durchschnitt der Klasse.
@@ -669,7 +669,7 @@ es-gw-0666; Wettbewerb; el concurso; la competición, la competencia; B1; Grundw
 es-gw-0667; Beschwerde; la queja; la reclamación; B1; Grundwortschatz/Kommunikation; El hotel recibió varias quejas por la música alta.; Das Hotel erhielt mehrere Beschwerden über die laute Musik.
 es-gw-0668; Bedingung; la condición; ; B1; Grundwortschatz/Abstrakte Begriffe; Una buena luz es una condición importante para hacer fotos.; Gutes Licht ist eine wichtige Bedingung für das Fotografieren.
 es-gw-0669; Verbindung; la relación; la conexión, el vínculo; B1; Grundwortschatz/Abstrakte Begriffe; Existe una clara relación entre el tabaco y el cáncer.; Es gibt eine klare Verbindung zwischen Rauchen und Krebs.
-es-gw-0670; Folge; la consecuencia; ; B1; Grundwortschatz/Abstrakte Begriffe; La nueva ley tuvo graves consecuencias para las tiendas pequeñas.; Das neue Gesetz hatte ernste Folgen für kleine Geschäfte.
+es-gw-0670; Folge (Konsequenz); la consecuencia; ; B1; Grundwortschatz/Abstrakte Begriffe; La nueva ley tuvo graves consecuencias para las tiendas pequeñas.; Das neue Gesetz hatte ernste Folgen für kleine Geschäfte.
 es-gw-0671; Entwicklung; el desarrollo; ; B1; Grundwortschatz/Abstrakte Begriffe; El desarrollo del centro de la ciudad duró varios años.; Die Entwicklung des Stadtzentrums dauerte mehrere Jahre.
 es-gw-0672; Pflicht; el deber; la obligación; B1; Grundwortschatz/Gesellschaft; Es tu deber informar a la policía.; Es ist deine Pflicht, die Polizei zu informieren.
 es-gw-0673; Wirtschaft; la economía; ; B1; Grundwortschatz/Gesellschaft; La economía del país crece lentamente.; Die Wirtschaft des Landes wächst langsam.
@@ -714,7 +714,7 @@ es-gw-0711; Zweck; el propósito; el fin, la finalidad, el objetivo; B1; Grundwo
 es-gw-0712; Beziehung; la relación; ; B1; Grundwortschatz/Gefühle & Meinung; Mantienen una relación estrecha desde hace muchos años.; Sie haben seit vielen Jahren eine enge Beziehung.
 es-gw-0713; Forschung; la investigación; ; B1; Grundwortschatz/Arbeit & Schule; La investigación moderna ha cambiado el tratamiento de muchas enfermedades.; Die moderne Forschung hat die Behandlung vieler Krankheiten verändert.
 es-gw-0714; Verantwortung; la responsabilidad; ; B1; Grundwortschatz/Abstrakte Begriffe; Como jefa de equipo tiene mucha responsabilidad.; Als Teamleiterin trägt sie viel Verantwortung.
-es-gw-0715; Lohn; el salario; el sueldo, la paga; B1; Grundwortschatz/Arbeit & Schule; Los trabajadores pidieron un salario más alto.; Die Arbeiter baten um einen höheren Lohn.
+es-gw-0715; Lohn (Bezahlung); el salario; el sueldo, la paga; B1; Grundwortschatz/Arbeit & Schule; Los trabajadores pidieron un salario más alto.; Die Arbeiter baten um einen höheren Lohn.
 es-gw-0716; Gesellschaft; la sociedad; ; B1; Grundwortschatz/Gesellschaft; Las personas mayores desempeñan un papel importante en nuestra sociedad.; Ältere Menschen spielen eine wichtige Rolle in unserer Gesellschaft.
 es-gw-0717; Lösung; la solución; ; B1; Grundwortschatz/Abstrakte Begriffe; Juntos encontraremos una solución a este problema.; Gemeinsam werden wir eine Lösung für dieses Problem finden.
 es-gw-0718; Stärke; la fuerza; el punto fuerte, la fortaleza; B1; Grundwortschatz/Abstrakte Begriffe; La paciencia es uno de sus mayores puntos fuertes.; Geduld ist eine ihrer größten Stärken.
@@ -853,7 +853,7 @@ es-gw-0850; Auswirkung; el impacto; el efecto, la repercusión; B2; Grundwortsch
 es-gw-0851; Wahrnehmung; la percepción; ; B2; Grundwortschatz/Abstrakte Begriffe; Nuestra percepción del tiempo cambia con la edad.; Unsere Wahrnehmung der Zeit verändert sich mit dem Alter.
 es-gw-0852; Verpflichtung; el compromiso; la obligación; B2; Grundwortschatz/Abstrakte Begriffe; Este fin de semana tengo varios compromisos familiares.; Ich habe an diesem Wochenende mehrere familiäre Verpflichtungen.
 es-gw-0853; Absicht; la intención; el propósito; B2; Grundwortschatz/Abstrakte Begriffe; Nunca fue mi intención hacerte daño.; Es war nie meine Absicht, dich zu verletzen.
-es-gw-0854; Annahme; la suposición; el supuesto, la hipótesis; B2; Grundwortschatz/Abstrakte Begriffe; Tu conclusión se basa en una suposición falsa.; Deine Schlussfolgerung beruht auf einer falschen Annahme.
+es-gw-0854; Annahme (Vermutung); la suposición; el supuesto, la hipótesis; B2; Grundwortschatz/Abstrakte Begriffe; Tu conclusión se basa en una suposición falsa.; Deine Schlussfolgerung beruht auf einer falschen Annahme.
 es-gw-0855; Einwand; la objeción; el reparo; B2; Grundwortschatz/Abstrakte Begriffe, Grundwortschatz/Kommunikation; ¿Hay alguna objeción a esta propuesta?; Gibt es Einwände gegen diesen Vorschlag?
 es-gw-0856; makellos; impecable; perfecto, intachable; B2; Grundwortschatz/Adjektive; Su actuación en el concierto fue sencillamente impecable.; Ihr Auftritt beim Konzert war einfach makellos.
 es-gw-0857; Erkenntnis; el conocimiento; la conclusión, el hallazgo, la revelación; B2; Grundwortschatz/Abstrakte Begriffe; El estudio aporta nuevos conocimientos sobre el comportamiento humano.; Die Studie liefert neue Erkenntnisse über menschliches Verhalten.
@@ -988,7 +988,7 @@ es-gw-0985; hanebüchen; disparatado; absurdo, descabellado, inaudito; C2; Grund
 es-gw-0986; spitzfindig; quisquilloso; puntilloso, rebuscado, sofístico; C2; Grundwortschatz/Adjektive; Sus objeciones quisquillosas retrasaron las negociaciones durante horas.; Seine spitzfindigen Einwände verzögerten die Verhandlungen um Stunden.
 es-gw-0987; unverblümt; directo; franco, sin rodeos, tajante; C2; Grundwortschatz/Adjektive; Dio una respuesta directa a la delicada pregunta.; Sie gab eine unverblümte Antwort auf die heikle Frage.
 es-gw-0988; erhaben; sublime; majestuoso, grandioso; C2; Grundwortschatz/Adjektive; La vista desde la cumbre era sencillamente sublime.; Der Blick vom Gipfel war schlicht erhaben.
-es-gw-0989; vermessen; presuntuoso; temerario, osado; C2; Grundwortschatz/Adjektive; Sería presuntuoso prometer una solución rápida.; Es wäre vermessen, eine schnelle Lösung zu versprechen.
+es-gw-0989; vermessen (anmaßend); presuntuoso; temerario, osado; C2; Grundwortschatz/Adjektive; Sería presuntuoso prometer una solución rápida.; Es wäre vermessen, eine schnelle Lösung zu versprechen.
 es-gw-0990; schlechthin; por excelencia; ; C2; Grundwortschatz/Adverbien; Para muchos, es la actriz de teatro por excelencia.; Für viele ist sie die Bühnenschauspielerin schlechthin.
 es-gw-0991; unweigerlich; inevitablemente; irremediablemente, indefectiblemente; C2; Grundwortschatz/Adverbien; Tal descuido conduce inevitablemente a errores graves.; Solche Nachlässigkeit führt unweigerlich zu schweren Fehlern.
 es-gw-0992; obendrein; encima; además, para colmo, por si fuera poco; C2; Grundwortschatz/Adverbien; La habitación era diminuta y, encima, cara.; Das Zimmer war winzig und obendrein teuer.

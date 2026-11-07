@@ -1,6 +1,6 @@
 # Spanisch: Business – Verhandlungen
 id; Deutsch; Spanisch; Weitere Antworten; Niveau; Themen; Beispiel Spanisch; Beispiel Deutsch
-es-vh-0001; Preis; el precio; el coste; A1; Business/Verhandlung/Angebot; Para nosotros, el precio es demasiado alto.; Der Preis ist zu hoch für uns.
+es-vh-0001; Preis (Kosten); el precio; el coste; A1; Business/Verhandlung/Angebot; Para nosotros, el precio es demasiado alto.; Der Preis ist zu hoch für uns.
 es-vh-0002; kaufen; comprar; adquirir; A1; Business/Verhandlung/Abschluss, Alltag/Einkaufen; Queremos comprar la nueva máquina el mes que viene.; Wir wollen die neue Maschine nächsten Monat kaufen.
 es-vh-0003; verkaufen; vender; ; A1; Business/Verhandlung/Abschluss; Venden sus productos en muchos países.; Sie verkaufen ihre Produkte in vielen Ländern.
 es-vh-0004; anbieten; ofrecer; ; A1; Business/Verhandlung/Angebot; Hoy podemos ofrecerle un precio mejor.; Wir können Ihnen heute einen besseren Preis anbieten.
@@ -57,13 +57,13 @@ es-vh-0054; Budget; el presupuesto; ; B1; Business/Verhandlung/Vorbereitung; Nue
 es-vh-0055; Alternative; la alternativa; la opción; B1; Business/Verhandlung/Taktik; Siempre deberíamos tener una alternativa en mente.; Wir sollten immer eine Alternative im Kopf haben.
 es-vh-0056; flexibel; flexible; ; B1; Business/Verhandlung/Zugeständnisse; En cuanto a la fecha de entrega, somos flexibles.; Beim Liefertermin sind wir flexibel.
 es-vh-0057; fair; justo; equitativo; B1; Business/Verhandlung/Positionen; Queremos un negocio justo para ambas partes.; Wir wollen ein faires Geschäft für beide Seiten.
-es-vh-0058; Abschluss; el cierre; la conclusión; B1; Business/Verhandlung/Abschluss; Estamos muy cerca del cierre del negocio.; Wir stehen kurz vor dem Abschluss des Geschäfts.
-es-vh-0059; abschließen; cerrar; concluir, formalizar; B1; Business/Verhandlung/Abschluss; Cerramos el contrato después de dos reuniones.; Wir schlossen den Vertrag nach zwei Treffen ab.
+es-vh-0058; Abschluss (Geschäft); el cierre; la conclusión; B1; Business/Verhandlung/Abschluss; Estamos muy cerca del cierre del negocio.; Wir stehen kurz vor dem Abschluss des Geschäfts.
+es-vh-0059; abschließen (Vertrag); cerrar; concluir, formalizar; B1; Business/Verhandlung/Abschluss; Cerramos el contrato después de dos reuniones.; Wir schlossen den Vertrag nach zwei Treffen ab.
 es-vh-0060; Bedenken; las dudas; las reservas, las preocupaciones, los reparos; B1; Business/Verhandlung/Einwände; Todavía tenemos algunas dudas sobre los costes.; Wir haben noch einige Bedenken wegen der Kosten.
 es-vh-0061; Hauptpunkt; el punto principal; el punto clave; B1; Business/Verhandlung/Vorbereitung; Hoy el punto principal es el nuevo precio.; Der Hauptpunkt heute ist der neue Preis.
 es-vh-0062; klären; aclarar; ; B1; Business/Verhandlung/Einwände; Todavía tenemos que aclarar algunas cuestiones pendientes.; Wir müssen noch ein paar offene Fragen klären.
 es-vh-0063; bestätigen; confirmar; ; B1; Business/Verhandlung/Abschluss; Por favor, confirme el pedido por correo electrónico.; Bitte bestätigen Sie die Bestellung per E-Mail.
-es-vh-0064; Protokoll; el acta; las actas; B1; Business/Verhandlung/Abschluss; Ella redactó el acta de la reunión.; Sie schrieb das Protokoll der Sitzung.
+es-vh-0064; Protokoll (Sitzung); el acta; las actas; B1; Business/Verhandlung/Abschluss; Ella redactó el acta de la reunión.; Sie schrieb das Protokoll der Sitzung.
 es-vh-0065; Zusammenfassung; el resumen; ; B1; Business/Verhandlung/Abschluss; Aquí tiene un breve resumen de nuestros resultados.; Hier ist eine kurze Zusammenfassung unserer Ergebnisse.
 es-vh-0066; Verhandlungsziel; el objetivo de la negociación; ; B2; Business/Verhandlung/Vorbereitung; Defina su objetivo de la negociación antes de entrar en la sala.; Definieren Sie Ihr Verhandlungsziel, bevor Sie den Raum betreten.
 es-vh-0067; Ausgangsposition; la posición de partida; el punto de partida; B2; Business/Verhandlung/Positionen; Nuestra posición de partida en estas conversaciones es bastante fuerte.; Unsere Ausgangsposition in diesen Gesprächen ist ziemlich stark.
@@ -75,7 +75,7 @@ es-vh-0072; Taktik; la táctica; ; B2; Business/Verhandlung/Taktik; El silencio 
 es-vh-0073; Zeitdruck; la presión del tiempo; la presión temporal, las prisas; B2; Business/Verhandlung/Taktik; Usaron la presión del tiempo para forzar una decisión rápida.; Sie nutzten Zeitdruck, um eine schnelle Entscheidung zu erzwingen.
 es-vh-0074; Machtverhältnis; la correlación de fuerzas; la relación de fuerzas, el equilibrio de poder; B2; Business/Verhandlung/Positionen; La correlación de fuerzas cambió después de la fusión.; Das Machtverhältnis änderte sich nach der Fusion.
 es-vh-0075; Verhandlungstisch; la mesa de negociación; ; B2; Business/Verhandlung/Wendungen; Ambas partes volvieron ayer a la mesa de negociación.; Beide Seiten kehrten gestern an den Verhandlungstisch zurück.
-es-vh-0076; Sackgasse; el punto muerto; el callejón sin salida; B2; Business/Verhandlung/Taktik; Tras dos días, las conversaciones llegaron a un punto muerto.; Die Gespräche endeten nach zwei Tagen in einer Sackgasse.
+es-vh-0076; Sackgasse (ausweglose Lage); el punto muerto; el callejón sin salida; B2; Business/Verhandlung/Taktik; Tras dos días, las conversaciones llegaron a un punto muerto.; Die Gespräche endeten nach zwei Tagen in einer Sackgasse.
 es-vh-0077; Durchbruch; el avance; el gran avance, el paso decisivo; B2; Business/Verhandlung/Abschluss; Ayer, ya tarde por la noche, logramos un avance decisivo.; Spät gestern Abend gelang uns ein Durchbruch.
 es-vh-0078; Stillstand; el estancamiento; la paralización, el parón; B2; Business/Verhandlung/Taktik; Las negociaciones llegaron a un estancamiento total.; Die Verhandlungen kamen zu einem völligen Stillstand.
 es-vh-0079; überdenken; reconsiderar; replantearse, repensar; B2; Business/Verhandlung/Einwände; Por favor, reconsidere nuestra oferta antes de decidir.; Bitte überdenken Sie unser Angebot, bevor Sie entscheiden.

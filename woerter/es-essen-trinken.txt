@@ -38,7 +38,7 @@ es-et-0035; Schinken; el jamón; ; A2; Alltag/Essen/Lebensmittel; Quería un boc
 es-et-0036; Nudeln; la pasta; los fideos; A2; Alltag/Essen/Lebensmittel; Los niños quieren pasta con salsa de tomate.; Die Kinder wollen Nudeln mit Tomatensoße.
 es-et-0037; Salat; la ensalada; ; A2; Alltag/Essen/Mahlzeiten; He pedido una ensalada verde con el filete.; Ich habe einen grünen Salat zum Steak bestellt.
 es-et-0038; Schokolade; el chocolate; ; A2; Alltag/Essen/Lebensmittel; El chocolate negro es menos dulce que el chocolate con leche.; Dunkle Schokolade ist weniger süß als Milchschokolade.
-es-et-0039; Eis; el helado; ; A2; Alltag/Essen/Lebensmittel; Los niños quieren helado después de la cena.; Die Kinder wollen nach dem Abendessen Eis.
+es-et-0039; Eis (Speiseeis); el helado; ; A2; Alltag/Essen/Lebensmittel; Los niños quieren helado después de la cena.; Die Kinder wollen nach dem Abendessen Eis.
 es-et-0040; Honig; la miel; ; A2; Alltag/Essen/Lebensmittel; Se pone miel en el té.; Sie gibt Honig in ihren Tee.
 es-et-0041; Mehl; la harina; ; A2; Alltag/Essen/Kochen; Para la masa necesitamos harina y huevos.; Wir brauchen Mehl und Eier für den Teig.
 es-et-0042; Öl; el aceite; ; A2; Alltag/Essen/Kochen; Primero calienta un poco de aceite en la sartén.; Erhitze zuerst etwas Öl in der Pfanne.
@@ -66,16 +66,16 @@ es-et-0063; Nachtisch; el postre; ; B1; Alltag/Essen/Restaurant; De postre compa
 es-et-0064; Trinkgeld; la propina; ; B1; Alltag/Essen/Restaurant; Le dejó al camarero una propina generosa.; Er gab dem Kellner ein großzügiges Trinkgeld.
 es-et-0065; reservieren; reservar; ; B1; Alltag/Essen/Restaurant; Quería reservar una mesa para cuatro.; Ich möchte einen Tisch für vier Personen reservieren.
 es-et-0066; empfehlen; recomendar; ; B1; Alltag/Essen/Restaurant; ¿Me puedes recomendar un buen restaurante de la zona?; Kannst du ein gutes lokales Restaurant empfehlen?
-es-et-0067; Rezept; la receta; ; B1; Alltag/Essen/Kochen; Esta receta es de mi abuela italiana.; Dieses Rezept stammt von meiner italienischen Großmutter.
+es-et-0067; Rezept (Kochen); la receta; ; B1; Alltag/Essen/Kochen; Esta receta es de mi abuela italiana.; Dieses Rezept stammt von meiner italienischen Großmutter.
 es-et-0068; Zutat; el ingrediente; ; B1; Alltag/Essen/Kochen; El ingrediente más importante es el ajo fresco.; Die wichtigste Zutat ist frischer Knoblauch.
 es-et-0069; würzen; condimentar; sazonar, aliñar; B1; Alltag/Essen/Kochen; Condimenta bien la carne antes de freírla.; Würze das Fleisch gut bevor du es brätst.
 es-et-0070; probieren; probar; ; B1; Alltag/Essen/Geschmack; Tienes que probar este queso fantástico.; Du musst diesen fantastischen Käse probieren.
 es-et-0071; schmecken; saber; ; B1; Alltag/Essen/Geschmack; La salsa debería saber un poco dulce.; Die Soße sollte leicht süß schmecken.
 es-et-0072; süß; dulce; ; B1; Alltag/Essen/Geschmack; Este postre es demasiado dulce para mí.; Dieser Nachtisch ist mir zu süß.
-es-et-0073; sauer; ácido; agrio; B1; Alltag/Essen/Geschmack; La salsa de limón es agradablemente ácida.; Die Zitronensoße ist angenehm sauer.
+es-et-0073; sauer (Geschmack); ácido; agrio; B1; Alltag/Essen/Geschmack; La salsa de limón es agradablemente ácida.; Die Zitronensoße ist angenehm sauer.
 es-et-0074; salzig; salado; ; B1; Alltag/Essen/Geschmack; Las patatas fritas estaban demasiado saladas.; Die Pommes waren viel zu salzig.
 es-et-0075; bitter; amargo; ; B1; Alltag/Essen/Geschmack; El buen chocolate negro sabe un poco amargo.; Gute dunkle Schokolade schmeckt leicht bitter.
-es-et-0076; scharf; picante; ; B1; Alltag/Essen/Geschmack; Me encanta la comida picante de Tailandia.; Ich liebe scharfes Essen aus Thailand.
+es-et-0076; scharf (Essen); picante; ; B1; Alltag/Essen/Geschmack; Me encanta la comida picante de Tailandia.; Ich liebe scharfes Essen aus Thailand.
 es-et-0077; lecker; rico; delicioso, sabroso; B1; Alltag/Essen/Geschmack; La pizza casera estaba muy rica.; Die selbstgemachte Pizza war absolut lecker.
 es-et-0078; frisch; fresco; ; B1; Alltag/Essen/Lebensmittel; El pescado de este mercado siempre está fresco.; Der Fisch auf diesem Markt ist immer frisch.
 es-et-0079; roh; crudo; ; B1; Alltag/Essen/Kochen; Las zanahorias se pueden comer crudas o cocidas.; Man kann Karotten roh oder gekocht essen.
@@ -106,7 +106,7 @@ es-et-0103; anbraten; dorar; sofreír, marcar; B2; Alltag/Essen/Kochen; Dora el 
 es-et-0104; dämpfen; cocer al vapor; hacer al vapor; B2; Alltag/Essen/Kochen; Deberías cocer la verdura al vapor con cuidado.; Du solltest das Gemüse schonend dämpfen.
 es-et-0105; schmoren; estofar; guisar; B2; Alltag/Essen/Kochen; Estofa la ternera a fuego lento durante tres horas.; Schmore das Rindfleisch langsam drei Stunden lang.
 es-et-0106; rühren; remover; revolver; B2; Alltag/Essen/Kochen; Remueve la salsa para que no se queme.; Rühre die Soße damit sie nicht anbrennt.
-es-et-0107; gießen; verter; echar; B2; Alltag/Essen/Kochen; Vierte la masa despacio en la sartén.; Gieße den Teig langsam in die Pfanne.
+es-et-0107; gießen (Flüssigkeit); verter; echar; B2; Alltag/Essen/Kochen; Vierte la masa despacio en la sartén.; Gieße den Teig langsam in die Pfanne.
 es-et-0108; abschmecken; sazonar al gusto; rectificar de sal, rectificar; B2; Alltag/Essen/Kochen; Antes de servir, sazona la sopa al gusto.; Schmecke die Suppe vor dem Servieren ab.
 es-et-0109; Herd; el fogón; la cocina, la estufa, la placa; B2; Alltag/Essen/Kochen; ¿Has apagado el fogón?; Hast du den Herd ausgemacht?
 es-et-0110; Backofen; el horno; ; B2; Alltag/Essen/Kochen; Precalienta el horno a doscientos grados.; Heize den Backofen auf zweihundert Grad vor.
@@ -115,7 +115,7 @@ es-et-0112; Schüssel; el bol; el cuenco, la fuente; B2; Alltag/Essen/Kochen; Me
 es-et-0113; Geschirr; la vajilla; los platos; B2; Alltag/Essen/Mahlzeiten; ¿Quién friega la vajilla esta noche?; Wer spült heute Abend das Geschirr?
 es-et-0114; Besteck; los cubiertos; ; B2; Alltag/Essen/Mahlzeiten; Pon los cubiertos en la mesa, por favor.; Leg bitte das Besteck auf den Tisch.
 es-et-0115; Mahlzeit; la comida; ; B2; Alltag/Essen/Mahlzeiten; Una comida caliente por la noche sienta bien.; Eine warme Mahlzeit am Abend tut gut.
-es-et-0116; Imbiss; el puesto de comida; el local de comida rápida, el quiosco; B2; Alltag/Essen/Restaurant; Cerca de la estación hay un buen puesto de comida.; In der Nähe des Bahnhofs gibt es einen guten Imbiss.
+es-et-0116; Imbiss (Lokal); el puesto de comida; el local de comida rápida, el quiosco; B2; Alltag/Essen/Restaurant; Cerca de la estación hay un buen puesto de comida.; In der Nähe des Bahnhofs gibt es einen guten Imbiss.
 es-et-0117; Feinschmecker; el gourmet; la gourmet, el sibarita, el gastrónomo; B2; Alltag/Essen/Geschmack; Mi tío es un auténtico gourmet.; Mein Onkel ist ein echter Feinschmecker.
 es-et-0118; herzhaft; salado; sustancioso, contundente; B2; Alltag/Essen/Geschmack; Prefiero los desayunos salados y contundentes a los dulces.; Ich mag herzhaftes Frühstück lieber als süßes.
 es-et-0119; zart; tierno; ; B2; Alltag/Essen/Geschmack; La carne estaba tan tierna que se deshacía.; Das Fleisch war so zart dass es zerging.

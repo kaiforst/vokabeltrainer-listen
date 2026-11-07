@@ -3,7 +3,7 @@ id; Deutsch; Spanisch; Weitere Antworten; Niveau; Themen; Beispiel Spanisch; Bei
 es-km-0001; Hemd; la camisa; ; A1; Alltag/Kleidung/Kleidungsstücke; Hoy lleva una camisa blanca.; Er trägt heute ein weißes Hemd.
 es-km-0002; Hose; los pantalones; el pantalón; A1; Alltag/Kleidung/Kleidungsstücke; Estos pantalones me quedan demasiado largos.; Diese Hose ist mir zu lang.
 es-km-0003; Kleid; el vestido; ; A1; Alltag/Kleidung/Kleidungsstücke; Se compró un vestido rojo para la fiesta.; Sie hat ein rotes Kleid für die Party gekauft.
-es-km-0004; Rock; la falda; la pollera; A1; Alltag/Kleidung/Kleidungsstücke; Mi hermana lleva a menudo una falda azul.; Meine Schwester trägt oft einen blauen Rock.
+es-km-0004; Rock (Kleidungsstück); la falda; la pollera; A1; Alltag/Kleidung/Kleidungsstücke; Mi hermana lleva a menudo una falda azul.; Meine Schwester trägt oft einen blauen Rock.
 es-km-0005; Schuh; el zapato; ; A1; Alltag/Kleidung/Schuhe & Accessoires; Tengo un agujero en el zapato izquierdo.; In meinem linken Schuh ist ein Loch.
 es-km-0006; Jacke; la chaqueta; la cazadora, la chamarra; A1; Alltag/Kleidung/Kleidungsstücke; Coge la chaqueta, que fuera hace frío.; Nimm deine Jacke, denn draußen ist es kalt.
 es-km-0007; Mantel; el abrigo; ; A1; Alltag/Kleidung/Kleidungsstücke; En invierno llevo un abrigo calentito.; Im Winter trage ich einen warmen Mantel.
@@ -15,16 +15,16 @@ es-km-0012; Hut; el sombrero; ; A1; Alltag/Kleidung/Schuhe & Accessoires; Mi abu
 es-km-0013; Schal; la bufanda; ; A1; Alltag/Kleidung/Schuhe & Accessoires; Me regaló una bufanda calentita por Navidad.; Sie hat mir zu Weihnachten einen warmen Schal geschenkt.
 es-km-0014; Handschuh; el guante; ; A1; Alltag/Kleidung/Schuhe & Accessoires; He perdido un guante en la nieve.; Ich habe einen Handschuh im Schnee verloren.
 es-km-0015; Gürtel; el cinturón; ; A1; Alltag/Kleidung/Schuhe & Accessoires; Necesita un cinturón nuevo para sus pantalones.; Er braucht einen neuen Gürtel für seine Hose.
-es-km-0016; Tasche; la bolsa; el bolso; A1; Alltag/Kleidung/Schuhe & Accessoires; Su bolsa está llena de ropa vieja.; Ihre Tasche ist voller alter Kleidung.
+es-km-0016; Tasche (zum Tragen); la bolsa; el bolso; A1; Alltag/Kleidung/Schuhe & Accessoires; Su bolsa está llena de ropa vieja.; Ihre Tasche ist voller alter Kleidung.
 es-km-0017; Knopf; el botón; ; A1; Alltag/Kleidung/Kleidungsstücke; Ayer se me cayó un botón del abrigo.; Gestern ist ein Knopf von meinem Mantel abgefallen.
 es-km-0018; Stiefel; la bota; las botas; A1; Alltag/Kleidung/Schuhe & Accessoires; Estas botas me mantienen los pies calientes y secos.; Diese Stiefel halten meine Füße warm und trocken.
-es-km-0019; anziehen; ponerse; ; A1; Alltag/Kleidung/Kleidungsstücke; Ponte los zapatos antes de salir, por favor.; Bitte zieh deine Schuhe an, bevor wir gehen.
-es-km-0020; ausziehen; quitarse; sacarse; A1; Alltag/Kleidung/Kleidungsstücke; Quítate la chaqueta mojada en la puerta.; Zieh deine nasse Jacke an der Tür aus.
-es-km-0021; tragen; llevar; vestir, usar; A1; Alltag/Kleidung/Stil; En verano le gusta llevar colores claros.; Sie trägt im Sommer gern helle Farben.
+es-km-0019; anziehen (Kleidung); ponerse; ; A1; Alltag/Kleidung/Kleidungsstücke; Ponte los zapatos antes de salir, por favor.; Bitte zieh deine Schuhe an, bevor wir gehen.
+es-km-0020; ausziehen (Kleidung); quitarse; sacarse; A1; Alltag/Kleidung/Kleidungsstücke; Quítate la chaqueta mojada en la puerta.; Zieh deine nasse Jacke an der Tür aus.
+es-km-0021; tragen (Kleidung); llevar; vestir, usar; A1; Alltag/Kleidung/Stil; En verano le gusta llevar colores claros.; Sie trägt im Sommer gern helle Farben.
 es-km-0022; kaufen; comprar; ; A1; Alltag/Kleidung/Einkauf & Passform, Alltag/Einkaufen; Quiero comprar un abrigo de invierno nuevo.; Ich möchte einen neuen Wintermantel kaufen.
 es-km-0023; neu; nuevo; ; A1; Alltag/Kleidung/Einkauf & Passform; Mis zapatos nuevos todavía están un poco duros.; Meine neuen Schuhe sind noch etwas steif.
 es-km-0024; alt; viejo; antiguo; A1; Alltag/Kleidung/Einkauf & Passform; Este jersey viejo sigue siendo mi prenda favorita.; Dieser alte Pullover ist immer noch mein Lieblingsstück.
-es-km-0025; Farbe; el color; ; A1; Alltag/Kleidung/Stil; ¿Qué color te gusta más para las camisas?; Welche Farbe magst du bei Hemden am liebsten?
+es-km-0025; Farbe (Farbton); el color; ; A1; Alltag/Kleidung/Stil; ¿Qué color te gusta más para las camisas?; Welche Farbe magst du bei Hemden am liebsten?
 es-km-0026; Bluse; la blusa; ; A2; Alltag/Kleidung/Kleidungsstücke; Se planchó la blusa para la reunión.; Sie hat ihre Bluse für die Besprechung gebügelt.
 es-km-0027; Anzug; el traje; ; A2; Alltag/Kleidung/Kleidungsstücke; En el trabajo lleva un traje oscuro.; Er trägt bei der Arbeit einen dunklen Anzug.
 es-km-0028; Krawatte; la corbata; ; A2; Alltag/Kleidung/Schuhe & Accessoires; Su corbata no combina con su camisa.; Seine Krawatte passt nicht zu seinem Hemd.
@@ -53,20 +53,20 @@ es-km-0050; Größe; la talla; el tamaño; A2; Alltag/Kleidung/Einkauf & Passfor
 es-km-0051; anprobieren; probarse; ; A2; Alltag/Kleidung/Einkauf & Passform; ¿Puedo probarme estos zapatos en marrón?; Kann ich diese Schuhe in Braun anprobieren?
 es-km-0052; passen; quedar bien; sentar bien; A2; Alltag/Kleidung/Einkauf & Passform; Estos vaqueros me quedan bien de cintura, perfectos.; Diese Jeans passt an der Taille perfekt.
 es-km-0053; eng; estrecho; ajustado, apretado; A2; Alltag/Kleidung/Einkauf & Passform; El vestido es demasiado estrecho en los hombros.; Das Kleid ist an den Schultern zu eng.
-es-km-0054; weit; ancho; holgado, amplio; A2; Alltag/Kleidung/Einkauf & Passform; Con el calor del verano le gustan las camisas anchas.; Er mag weite Hemden in der Sommerhitze.
+es-km-0054; weit (Kleidung); ancho; holgado, amplio; A2; Alltag/Kleidung/Einkauf & Passform; Con el calor del verano le gustan las camisas anchas.; Er mag weite Hemden in der Sommerhitze.
 es-km-0055; bequem; cómodo; ; A2; Alltag/Kleidung/Einkauf & Passform; Estas zapatillas son muy cómodas para paseos largos.; Diese Turnschuhe sind wirklich bequem für lange Spaziergänge.
 es-km-0056; billig; barato; ; A2; Alltag/Kleidung/Einkauf & Passform; La chaqueta era barata, pero sorprendentemente buena.; Die Jacke war billig, aber überraschend gut.
 es-km-0057; teuer; caro; ; A2; Alltag/Kleidung/Einkauf & Passform; Este abrigo es demasiado caro para mí.; Dieser Mantel ist mir zu teuer.
 es-km-0058; Umkleidekabine; el probador; el vestidor; A2; Alltag/Kleidung/Einkauf & Passform; El probador está al fondo de la tienda.; Die Umkleidekabine ist hinten im Laden.
 es-km-0059; Kasse; la caja; ; A2; Alltag/Kleidung/Einkauf & Passform, Alltag/Einkaufen; Había una cola larga en la caja.; An der Kasse war eine lange Schlange.
-es-km-0060; Preis; el precio; ; A2; Alltag/Kleidung/Einkauf & Passform; En las rebajas el precio es más bajo.; Der Preis ist im Schlussverkauf niedriger.
-es-km-0061; Stoff; la tela; el tejido; B1; Alltag/Kleidung/Stoffe & Muster; Esta tela es muy suave sobre la piel.; Dieser Stoff fühlt sich auf der Haut sehr weich an.
+es-km-0060; Preis (Kosten); el precio; ; A2; Alltag/Kleidung/Einkauf & Passform; En las rebajas el precio es más bajo.; Der Preis ist im Schlussverkauf niedriger.
+es-km-0061; Stoff (Textil); la tela; el tejido; B1; Alltag/Kleidung/Stoffe & Muster; Esta tela es muy suave sobre la piel.; Dieser Stoff fühlt sich auf der Haut sehr weich an.
 es-km-0062; Baumwolle; el algodón; ; B1; Alltag/Kleidung/Stoffe & Muster; La camisa es de algodón puro.; Das Hemd ist aus reiner Baumwolle.
 es-km-0063; Wolle; la lana; ; B1; Alltag/Kleidung/Stoffe & Muster; La lana abriga incluso cuando está mojada.; Wolle hält warm, selbst wenn sie nass ist.
 es-km-0064; Leder; el cuero; la piel; B1; Alltag/Kleidung/Stoffe & Muster; Los buenos zapatos de cuero duran muchos años.; Gute Lederschuhe halten viele Jahre.
 es-km-0065; Seide; la seda; ; B1; Alltag/Kleidung/Stoffe & Muster; Llevaba un pañuelo de seda fina.; Sie trug einen Schal aus feiner Seide.
 es-km-0066; Leinen; el lino; ; B1; Alltag/Kleidung/Stoffe & Muster; El lino es ligero, pero se arruga muy rápido.; Leinen ist leicht, knittert aber sehr schnell.
-es-km-0067; Muster; el estampado; el dibujo, el patrón; B1; Alltag/Kleidung/Stoffe & Muster; Me gusta el estampado de tu camisa nueva.; Mir gefällt das Muster auf deinem neuen Hemd.
+es-km-0067; Muster (Design); el estampado; el dibujo, el patrón; B1; Alltag/Kleidung/Stoffe & Muster; Me gusta el estampado de tu camisa nueva.; Mir gefällt das Muster auf deinem neuen Hemd.
 es-km-0068; gestreift; de rayas; a rayas, rayado; B1; Alltag/Kleidung/Stoffe & Muster; Eligió una camisa de rayas para la entrevista.; Er wählte ein gestreiftes Hemd für das Vorstellungsgespräch.
 es-km-0069; kariert; de cuadros; a cuadros; B1; Alltag/Kleidung/Stoffe & Muster; Le encantan las camisas de cuadros en colores otoñales.; Sie liebt karierte Hemden in Herbstfarben.
 es-km-0070; gepunktet; de lunares; a lunares, de puntos; B1; Alltag/Kleidung/Stoffe & Muster; El vestido de lunares parece alegre y fresco.; Das gepunktete Kleid wirkt verspielt und frisch.
@@ -76,7 +76,7 @@ es-km-0073; Kragen; el cuello; ; B1; Alltag/Kleidung/Kleidungsstücke; El cuello
 es-km-0074; Ärmel; la manga; ; B1; Alltag/Kleidung/Kleidungsstücke; Las mangas son un poco cortas.; Die Ärmel sind ein bisschen zu kurz.
 es-km-0075; Hosentasche; el bolsillo; ; B1; Alltag/Kleidung/Kleidungsstücke; Siempre lleva las llaves en el bolsillo del pantalón.; Er hat seine Schlüssel immer in der Hosentasche.
 es-km-0076; Kapuze; la capucha; ; B1; Alltag/Kleidung/Kleidungsstücke; Ponte la capucha, que está lloviendo.; Zieh die Kapuze hoch, es regnet.
-es-km-0077; Absatz; el tacón; el taco; B1; Alltag/Kleidung/Schuhe & Accessoires; Se le rompió el tacón del zapato en la escalera.; Der Absatz ihres Schuhs brach auf der Treppe ab.
+es-km-0077; Absatz (Schuh); el tacón; el taco; B1; Alltag/Kleidung/Schuhe & Accessoires; Se le rompió el tacón del zapato en la escalera.; Der Absatz ihres Schuhs brach auf der Treppe ab.
 es-km-0078; Schnürsenkel; el cordón; ; B1; Alltag/Kleidung/Schuhe & Accessoires; Llevas el cordón desatado, ten cuidado.; Dein Schnürsenkel ist offen, pass auf.
 es-km-0079; umtauschen; cambiar; ; B1; Alltag/Kleidung/Einkauf & Passform; ¿Puedo cambiar este jersey por uno más grande?; Kann ich diesen Pullover gegen einen größeren umtauschen?
 es-km-0080; zurückgeben; devolver; ; B1; Alltag/Kleidung/Einkauf & Passform; Puede devolver los zapatos en un plazo de dos semanas.; Sie können die Schuhe innerhalb von zwei Wochen zurückgeben.
@@ -97,7 +97,7 @@ es-km-0094; Strumpfhose; las medias; los pantis, las pantimedias; B1; Alltag/Kle
 es-km-0095; Unterhemd; la camiseta interior; la camiseta de tirantes; B1; Alltag/Kleidung/Kleidungsstücke; En invierno siempre lleva una camiseta interior.; Im Winter trägt er immer ein Unterhemd.
 es-km-0096; Naht; la costura; ; B2; Alltag/Kleidung/Pflege & Schneiderei; La costura de la manga se está abriendo.; Die Naht am Ärmel geht langsam auf.
 es-km-0097; Saum; el dobladillo; el bajo; B2; Alltag/Kleidung/Pflege & Schneiderei; Hay que acortar el dobladillo del vestido.; Der Saum des Kleides muss gekürzt werden.
-es-km-0098; Futter; el forro; ; B2; Alltag/Kleidung/Stoffe & Muster; El abrigo tiene un forro calentito para el invierno.; Der Mantel hat ein warmes Futter für den Winter.
+es-km-0098; Futter (im Mantel); el forro; ; B2; Alltag/Kleidung/Stoffe & Muster; El abrigo tiene un forro calentito para el invierno.; Der Mantel hat ein warmes Futter für den Winter.
 es-km-0099; Kleiderbügel; la percha; el gancho; B2; Alltag/Kleidung/Pflege & Schneiderei; Cuelga el traje en una percha ahora mismo.; Häng den Anzug sofort auf einen Kleiderbügel.
 es-km-0100; bügeln; planchar; ; B2; Alltag/Kleidung/Pflege & Schneiderei; Esta noche todavía tengo que planchar cinco camisas.; Ich muss heute Abend noch fünf Hemden bügeln.
 es-km-0101; Schneider; el sastre; la sastra, la modista; B2; Alltag/Kleidung/Pflege & Schneiderei; El sastre acortó los pantalones en un día.; Der Schneider hat die Hose an einem Tag gekürzt.
@@ -125,14 +125,14 @@ es-km-0122; Kaschmir; la cachemira; el cachemir; B2; Alltag/Kleidung/Stoffe & Mu
 es-km-0123; atmungsaktiv; transpirable; ; B2; Alltag/Kleidung/Stoffe & Muster; Esta chaqueta es impermeable y transpirable a la vez.; Diese Jacke ist wasserdicht und zugleich atmungsaktiv.
 es-km-0124; knitterfrei; antiarrugas; que no se arruga, inarrugable; B2; Alltag/Kleidung/Stoffe & Muster; Las camisas antiarrugas son prácticas para los viajes de negocios.; Knitterfreie Hemden sind praktisch für Geschäftsreisen.
 es-km-0125; Umhang; la capa; ; B2; Alltag/Kleidung/Kleidungsstücke; En el escenario, el actor llevaba una larga capa negra.; Der Schauspieler trug auf der Bühne einen langen schwarzen Umhang.
-es-km-0126; Garderobe; el vestuario; el guardarropa, el fondo de armario; C1; Alltag/Kleidung/Stil; Renueva su vestuario dos veces al año.; Sie erneuert ihre Garderobe zweimal im Jahr.
+es-km-0126; Garderobe (Kleidung); el vestuario; el guardarropa, el fondo de armario; C1; Alltag/Kleidung/Stil; Renueva su vestuario dos veces al año.; Sie erneuert ihre Garderobe zweimal im Jahr.
 es-km-0127; Maßanzug; el traje a medida; ; C1; Alltag/Kleidung/Pflege & Schneiderei; Un traje a medida sienta mejor que cualquier otro.; Ein Maßanzug sitzt besser als jeder andere.
 es-km-0128; Konfektionsware; la ropa de confección; el prêt-à-porter, la ropa de serie; C1; Alltag/Kleidung/Mode & Design; La ropa de confección es más barata que la ropa a medida.; Konfektionsware ist günstiger als maßgeschneiderte Kleidung.
 es-km-0129; Stoffmuster; la muestra de tela; ; C1; Alltag/Kleidung/Stoffe & Muster; El sastre nos enseñó varias muestras de tela en azul.; Der Schneider zeigte uns mehrere Stoffmuster in Blau.
 es-km-0130; Webart; el tejido; el tipo de tejido, la trama; C1; Alltag/Kleidung/Stoffe & Muster; El tejido denso hace que la tela sea muy resistente.; Die dichte Webart macht den Stoff sehr strapazierfähig.
 es-km-0131; Schnitt; el corte; ; C1; Alltag/Kleidung/Mode & Design; El corte moderno hace que el abrigo parezca más estilizado.; Der moderne Schnitt lässt den Mantel schlanker wirken.
 es-km-0132; Stickerei; el bordado; ; C1; Alltag/Kleidung/Stoffe & Muster; La blusa tiene un bordado fino en el cuello.; Die Bluse hat eine feine Stickerei am Kragen.
-es-km-0133; Spitze; el encaje; ; C1; Alltag/Kleidung/Stoffe & Muster; El vestido de novia estaba adornado con encaje blanco.; Das Hochzeitskleid war mit weißer Spitze verziert.
+es-km-0133; Spitze (Stoff); el encaje; ; C1; Alltag/Kleidung/Stoffe & Muster; El vestido de novia estaba adornado con encaje blanco.; Das Hochzeitskleid war mit weißer Spitze verziert.
 es-km-0134; Rüsche; el volante; el fruncido; C1; Alltag/Kleidung/Stoffe & Muster; La falda tiene unos volantes juguetones en el bajo.; Der Rock hat verspielte Rüschen am Saum.
 es-km-0135; Passform; el ajuste; el entalle; C1; Alltag/Kleidung/Einkauf & Passform; El ajuste de estos pantalones es simplemente perfecto.; Die Passform dieser Hose ist einfach perfekt.
 es-km-0136; Textilindustrie; la industria textil; ; C1; Alltag/Kleidung/Mode & Design; La industria textil se está volviendo poco a poco más sostenible.; Die Textilindustrie wird langsam nachhaltiger.

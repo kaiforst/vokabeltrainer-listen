@@ -24,7 +24,16 @@ Liste>` und trägt `"answerLang"`; Name „Französisch: Essen & Trinken“. Die
 mehreren Flaggen: Zusammen gehören Listen mit gleichem `"group"` oder, ohne Angabe, mit gleicher id ohne Sprachkürzel
 vorne. Im Baum stehen alle Fassungen hintereinander, damit auch ältere App-Stände sie am richtigen Platz zeigen.
 
+**Aliase:** Steht dasselbe Wortpaar (Sprache, Deutsch, Antwort) in mehreren Wortdateien, zeigt jede weitere ID in
+`aliase.txt` auf eine Haupt-ID (Grundwortschatz, sonst die älteste Quelle), Zeilen `Alias; Haupt`. In
+`katalog.json` steht dazu `"aliases": { "file": "aliase.txt", "version": …, "count": … }`. Die Wortzeilen bleiben
+in ihren Dateien, ältere App-Stände ignorieren die Aliase. Neuere App-Stände zeigen jedes Wort nur einmal, führen den
+Lernstand auf der Haupt-ID zusammen und lassen die Haupt-ID in allen Listen erscheinen, in denen einer ihrer Aliase
+stünde. `node scripts/aliase.mjs` nimmt neue Dubletten auf (`--trocken` zeigt nur an); einmal vergebene Aliase und
+Haupt-IDs ändern sich nie, denn an ihnen hängt Lernstand.
+
 **Prüfen:** `node scripts/pruefe.mjs` prüft alle Wortdateien (Felder, IDs, Niveaus, Dubletten in einer Datei,
-`count` in `katalog.json`) und `formen/*.txt`. Mit Dateinamen nur diese, mit `--dubletten` zusätzlich alle
+`count` in `katalog.json`), `aliase.txt` (IDs vorhanden, keine Ketten, gleiches Wortpaar, Dubletten ohne Alias) und
+`formen/*.txt`. Mit Dateinamen nur diese, mit `--dubletten` zusätzlich alle
 Wortpaare, die in mehreren Dateien stehen, samt vorgeschlagener Haupt-ID. Erweiterungen in parallelen Sessions:
 Prompt und Pakete in `docs/wortschatz-prompt.md` im App-Repo.

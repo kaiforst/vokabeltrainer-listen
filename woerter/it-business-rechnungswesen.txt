@@ -2,7 +2,7 @@
 id; Deutsch; Italienisch; Weitere Antworten; Niveau; Themen; Beispiel Italienisch; Beispiel Deutsch
 it-rc-0001; Geld; il denaro; i soldi; A1; Business/Rechnungswesen/Rechnung & Zahlung, Alltag/Einkaufen; L'azienda ha bisogno di denaro per pagare le sue fatture.; Das Unternehmen braucht Geld, um seine Rechnungen zu bezahlen.
 it-rc-0002; bezahlen; pagare; ; A1; Business/Rechnungswesen/Rechnung & Zahlung; Paghi la fattura entro la fine di maggio, per favore.; Bitte bezahlen Sie die Rechnung bis Ende Mai.
-it-rc-0003; Preis; il prezzo; ; A1; Business/Rechnungswesen/Rechnung & Zahlung, Alltag/Einkaufen; Il prezzo del nuovo software è molto alto.; Der Preis der neuen Software ist sehr hoch.
+it-rc-0003; Preis (Kosten); il prezzo; ; A1; Business/Rechnungswesen/Rechnung & Zahlung, Alltag/Einkaufen; Il prezzo del nuovo software è molto alto.; Der Preis der neuen Software ist sehr hoch.
 it-rc-0004; kaufen; comprare; acquistare; A1; Business/Rechnungswesen/Rechnung & Zahlung; Vogliamo comprare computer nuovi per l'ufficio.; Wir wollen neue Computer für das Büro kaufen.
 it-rc-0005; Konto; il conto; il conto bancario; A1; Business/Rechnungswesen/Buchhaltung; Il denaro è arrivato sul nostro conto lunedì.; Das Geld kam am Montag auf unserem Konto an.
 it-rc-0006; Rechnung; la fattura; il conto; A2; Business/Rechnungswesen/Rechnung & Zahlung; Inviamo la fattura subito dopo la consegna.; Wir senden die Rechnung direkt nach der Lieferung.
@@ -16,7 +16,7 @@ it-rc-0013; Kunde; il cliente; la cliente; A2; Business/Rechnungswesen/Rechnung 
 it-rc-0014; Lieferant; il fornitore; la fornitrice; A2; Business/Rechnungswesen/Rechnung & Zahlung; Il nostro fornitore offre buoni prezzi e consegne rapide.; Unser Lieferant bietet gute Preise und schnelle Lieferung.
 it-rc-0015; Zahlung; il pagamento; ; A2; Business/Rechnungswesen/Rechnung & Zahlung; Abbiamo ricevuto il suo pagamento la settimana scorsa, grazie.; Wir haben Ihre Zahlung letzte Woche erhalten, vielen Dank.
 it-rc-0016; Bargeld; i contanti; il contante, il denaro contante; A2; Business/Rechnungswesen/Rechnung & Zahlung; Molte aziende non accettano più i contanti.; Viele Unternehmen akzeptieren kein Bargeld mehr.
-it-rc-0017; Überweisung; il bonifico; il bonifico bancario; A2; Business/Rechnungswesen/Rechnung & Zahlung; Un pagamento con bonifico richiede uno o due giorni.; Eine Zahlung per Überweisung dauert ein bis zwei Tage.
+it-rc-0017; Überweisung (Bank); il bonifico; il bonifico bancario; A2; Business/Rechnungswesen/Rechnung & Zahlung; Un pagamento con bonifico richiede uno o due giorni.; Eine Zahlung per Überweisung dauert ein bis zwei Tage.
 it-rc-0018; Kreditkarte; la carta di credito; ; A2; Business/Rechnungswesen/Rechnung & Zahlung; Può pagare l'albergo con la sua carta di credito.; Sie können das Hotel mit Ihrer Kreditkarte bezahlen.
 it-rc-0019; Rabatt; lo sconto; la riduzione di prezzo; A2; Business/Rechnungswesen/Rechnung & Zahlung; Facciamo uno sconto per gli ordini di grandi dimensioni.; Wir geben einen Rabatt für große Bestellungen.
 it-rc-0020; Gewinn; l'utile; il profitto, il guadagno; A2; Business/Rechnungswesen/Bilanz & GuV; L'anno scorso l'utile è cresciuto del dieci per cento.; Der Gewinn stieg im letzten Jahr um zehn Prozent.
@@ -67,7 +67,7 @@ it-rc-0064; Kosten senken; ridurre i costi; tagliare i costi, abbattere i costi;
 it-rc-0065; in Rechnung stellen; fatturare; addebitare; B1; Business/Rechnungswesen/Rechnung & Zahlung; Fattureremo le ore aggiuntive alla tariffa abituale.; Wir stellen die zusätzlichen Stunden zum üblichen Satz in Rechnung.
 it-rc-0066; Gewinn- und Verlustrechnung; il conto economico; ; B2; Business/Rechnungswesen/Bilanz & GuV; Il conto economico mostra ricavi e costi.; Die Gewinn- und Verlustrechnung zeigt Erträge und Aufwendungen.
 it-rc-0067; Abschreibung; l'ammortamento; ; B2; Business/Rechnungswesen/Bilanz & GuV; L'ammortamento riduce il valore contabile delle nostre macchine.; Die Abschreibung mindert den Buchwert unserer Maschinen.
-it-rc-0068; abschreiben; ammortizzare; svalutare; B2; Business/Rechnungswesen/Buchhaltung; Ammortizziamo i nuovi veicoli in sei anni.; Wir schreiben die neuen Fahrzeuge über sechs Jahre ab.
+it-rc-0068; abschreiben (Buchhaltung); ammortizzare; svalutare; B2; Business/Rechnungswesen/Buchhaltung; Ammortizziamo i nuovi veicoli in sei anni.; Wir schreiben die neuen Fahrzeuge über sechs Jahre ab.
 it-rc-0069; Cashflow; il cash flow; il flusso di cassa; B2; Business/Rechnungswesen/Controlling & Kennzahlen; Un cash flow sano mantiene l'azienda flessibile.; Ein gesunder Cashflow hält das Unternehmen flexibel.
 it-rc-0070; Liquidität; la liquidità; ; B2; Business/Rechnungswesen/Controlling & Kennzahlen; L'azienda ha migliorato la sua liquidità vendendo vecchie scorte.; Das Unternehmen verbesserte seine Liquidität durch den Verkauf alter Bestände.
 it-rc-0071; Forderungen; i crediti; i crediti verso clienti; B2; Business/Rechnungswesen/Bilanz & GuV; I nostri crediti sono aumentati perché molti clienti pagano in ritardo.; Unsere Forderungen stiegen, weil viele Kunden spät zahlen.

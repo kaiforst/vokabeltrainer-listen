@@ -15,7 +15,7 @@ it-al-0012; Treppe; la scala; le scale; A2; Alltag/Zuhause/Räume; Prendi le sca
 it-al-0013; Wand; la parete; il muro; A2; Alltag/Zuhause/Räume; Abbiamo dipinto la parete di azzurro.; Wir haben die Wand hellblau gestrichen.
 it-al-0014; Flur; il corridoio; l'ingresso; B1; Alltag/Zuhause/Räume; Le tue scarpe sono nel corridoio vicino alla porta.; Deine Schuhe stehen im Flur neben der Tür.
 it-al-0015; Dachboden; la soffitta; il solaio; B1; Alltag/Zuhause/Räume; Le vecchie scatole sono in soffitta.; Alte Kartons lagern oben auf dem Dachboden.
-it-al-0016; Decke; il soffitto; ; B1; Alltag/Zuhause/Räume; La lampada pende dal soffitto sopra il tavolo.; Die Lampe hängt von der Decke über dem Tisch.
+it-al-0016; Decke (im Zimmer); il soffitto; ; B1; Alltag/Zuhause/Räume; La lampada pende dal soffitto sopra il tavolo.; Die Lampe hängt von der Decke über dem Tisch.
 it-al-0017; Arbeitszimmer; lo studio; ; B1; Alltag/Zuhause/Räume; Lavora da casa nel suo studio tranquillo.; Er arbeitet zu Hause in seinem ruhigen Arbeitszimmer.
 it-al-0018; Abstellraum; il ripostiglio; lo sgabuzzino; B2; Alltag/Zuhause/Räume; L'aspirapolvere è nel ripostiglio.; Der Staubsauger steht im Abstellraum.
 it-al-0019; Dachgeschoss; il sottotetto; la mansarda, l'ultimo piano; B2; Alltag/Zuhause/Räume; Hanno trasformato il sottotetto in un appartamento luminoso.; Sie haben das Dachgeschoss in eine helle Wohnung umgebaut.
@@ -74,7 +74,7 @@ it-al-0071; Besen; la scopa; ; B1; Alltag/Zuhause/Haushalt; Spazza la terrazza c
 it-al-0072; Eimer; il secchio; ; B1; Alltag/Zuhause/Haushalt; Riempi il secchio di acqua calda, per favore.; Füll den Eimer bitte mit warmem Wasser.
 it-al-0073; Staub; la polvere; ; B1; Alltag/Zuhause/Haushalt; Sotto il letto c'è molta polvere.; Unter dem Bett liegt viel Staub.
 it-al-0074; Fleck; la macchia; ; B1; Alltag/Zuhause/Haushalt; Sulla tovaglia c'è una macchia di caffè.; Auf der Tischdecke ist ein Kaffeefleck.
-it-al-0075; Hausarbeit; le faccende domestiche; i lavori di casa, i lavori domestici; B1; Alltag/Zuhause/Haushalt; Ci dividiamo le faccende domestiche in modo equo.; Wir teilen uns die Hausarbeit gerecht auf.
+it-al-0075; Hausarbeit (Haushalt); le faccende domestiche; i lavori di casa, i lavori domestici; B1; Alltag/Zuhause/Haushalt; Ci dividiamo le faccende domestiche in modo equo.; Wir teilen uns die Hausarbeit gerecht auf.
 it-al-0076; Trockner; l'asciugatrice; ; B1; Alltag/Zuhause/Haushalt; Metti gli asciugamani bagnati nell'asciugatrice.; Leg die nassen Handtücher in den Trockner.
 it-al-0077; Waschmittel; il detersivo; il detersivo per bucato; B2; Alltag/Zuhause/Haushalt; Abbiamo di nuovo finito il detersivo.; Das Waschmittel ist schon wieder alle.
 it-al-0078; Putzmittel; il detergente; il prodotto per la pulizia; B2; Alltag/Zuhause/Haushalt; Questo detergente funziona bene sul vetro.; Dieses Putzmittel wirkt gut auf Glas.
@@ -88,12 +88,12 @@ it-al-0085; Mülltrennung; la raccolta differenziata; la differenziata; C1; Allt
 it-al-0086; Schimmel; la muffa; ; C1; Alltag/Zuhause/Haushalt; Abbiamo trovato la muffa dietro l'armadietto del bagno.; Wir haben hinter dem Badezimmerschrank Schimmel gefunden.
 it-al-0087; verstopft; intasato; otturato; C1; Alltag/Zuhause/Haushalt; Lo scarico della doccia è di nuovo intasato.; Der Abfluss in der Dusche ist wieder verstopft.
 it-al-0088; undicht; che perde; non a tenuta; C1; Alltag/Zuhause/Haushalt; Il vecchio rubinetto perde e gocciola tutta la notte.; Der alte Wasserhahn ist undicht und tropft die ganze Nacht.
-it-al-0089; Sicherung; il fusibile; il salvavita, l'interruttore automatico; C1; Alltag/Zuhause/Haushalt; È saltato il fusibile quando ho acceso il forno.; Die Sicherung flog raus, als ich den Backofen anmachte.
+it-al-0089; Sicherung (Strom); il fusibile; il salvavita, l'interruttore automatico; C1; Alltag/Zuhause/Haushalt; È saltato il fusibile quando ho acceso il forno.; Die Sicherung flog raus, als ich den Backofen anmachte.
 it-al-0090; entrümpeln; sgomberare; svuotare, fare spazio; C2; Alltag/Zuhause/Haushalt; Questo fine settimana vogliamo sgomberare la cantina.; Wir wollen am Wochenende den Keller entrümpeln.
 it-al-0091; Werkzeug; l'attrezzo; lo strumento, gli attrezzi; A2; Alltag/Zuhause/Werkzeug; Per questo lavoro ti serve l'attrezzo giusto.; Für diese Arbeit brauchst du das richtige Werkzeug.
 it-al-0092; Hammer; il martello; ; A2; Alltag/Zuhause/Werkzeug; Ha piantato il chiodo con il martello.; Er schlug den Nagel mit dem Hammer ein.
 it-al-0093; reparieren; riparare; aggiustare; B1; Alltag/Zuhause/Werkzeug; Mio padre sa riparare quasi tutto da solo.; Mein Vater kann fast alles selbst reparieren.
-it-al-0094; Leiter; la scala a pioli; la scala; B1; Alltag/Zuhause/Werkzeug; Tieni ferma la scala a pioli mentre salgo.; Halt die Leiter fest, während ich hinaufsteige.
+it-al-0094; Leiter (zum Steigen); la scala a pioli; la scala; B1; Alltag/Zuhause/Werkzeug; Tieni ferma la scala a pioli mentre salgo.; Halt die Leiter fest, während ich hinaufsteige.
 it-al-0095; Nagel; il chiodo; ; B1; Alltag/Zuhause/Werkzeug; Il quadro è appeso a un piccolo chiodo.; Das Bild hängt an einem kleinen Nagel.
 it-al-0096; Schraube; la vite; ; B1; Alltag/Zuhause/Werkzeug; Questa vite è allentata e va stretta.; Diese Schraube ist locker und muss angezogen werden.
 it-al-0097; Schraubenzieher; il cacciavite; ; B2; Alltag/Zuhause/Werkzeug; Passami il cacciavite piccolo, per favore.; Gib mir bitte den kleinen Schraubenzieher.
@@ -107,7 +107,7 @@ it-al-0104; Dübel; il tassello; ; C2; Alltag/Zuhause/Werkzeug; Senza tassello l
 it-al-0105; Garten; il giardino; ; A1; Alltag/Zuhause/Garten; I bambini giocano in giardino.; Die Kinder spielen im Garten.
 it-al-0106; Blume; il fiore; ; A1; Alltag/Zuhause/Garten; Ha raccolto un fiore per sua madre.; Sie pflückte eine Blume für ihre Mutter.
 it-al-0107; Baum; l'albero; ; A2; Alltag/Zuhause/Garten; Nel nostro giardino c'è un vecchio albero di mele.; In unserem Garten steht ein alter Apfelbaum.
-it-al-0108; gießen; annaffiare; innaffiare; A2; Alltag/Zuhause/Garten; Per favore, annaffia le piante mentre sono via.; Gieß bitte die Pflanzen, während ich weg bin.
+it-al-0108; gießen (Pflanzen); annaffiare; innaffiare; A2; Alltag/Zuhause/Garten; Per favore, annaffia le piante mentre sono via.; Gieß bitte die Pflanzen, während ich weg bin.
 it-al-0109; Rasen; il prato; l'erba; B1; Alltag/Zuhause/Garten; Il prato va tagliato ogni due settimane.; Der Rasen muss alle zwei Wochen gemäht werden.
 it-al-0110; Zaun; la recinzione; lo steccato, il recinto; B1; Alltag/Zuhause/Garten; Una recinzione bianca circonda il giardino.; Ein weißer Zaun verläuft um den Garten.
 it-al-0111; Terrasse; la terrazza; il terrazzo; B1; Alltag/Zuhause/Garten; Abbiamo preso il caffè sulla terrazza al sole.; Wir tranken Kaffee auf der sonnigen Terrasse.
@@ -126,7 +126,7 @@ it-al-0123; Spaten; la vanga; ; C1; Alltag/Zuhause/Garten; Scavare con la vanga 
 it-al-0124; Gartenschere; le cesoie; le forbici da giardino; C1; Alltag/Zuhause/Garten; Ha tagliato le rose con le cesoie.; Sie schnitt die Rosen mit ihrer Gartenschere.
 it-al-0125; jäten; diserbare; togliere le erbacce, estirpare le erbacce; C2; Alltag/Zuhause/Garten; Ho passato tutto il pomeriggio a diserbare le aiuole.; Ich habe den ganzen Nachmittag die Beete gejätet.
 it-al-0126; düngen; concimare; fertilizzare; C2; Alltag/Zuhause/Garten; Dovresti concimare le rose due volte all'anno.; Du solltest die Rosen zweimal im Jahr düngen.
-it-al-0127; aufstehen; alzarsi; ; A1; Alltag/Zuhause/Tagesablauf; Mi alzo alle sette ogni mattina.; Ich stehe jeden Morgen um sieben auf.
+it-al-0127; aufstehen (morgens, aus dem Bett); alzarsi; ; A1; Alltag/Zuhause/Tagesablauf; Mi alzo alle sette ogni mattina.; Ich stehe jeden Morgen um sieben auf.
 it-al-0128; frühstücken; fare colazione; ; A1; Alltag/Zuhause/Tagesablauf; La domenica facciamo colazione insieme.; Sonntags frühstücken wir zusammen.
 it-al-0129; kochen; cucinare; ; A1; Alltag/Zuhause/Tagesablauf, Alltag/Essen/Kochen; Stasera cucino la pasta per la famiglia.; Heute Abend koche ich Nudeln für die Familie.
 it-al-0130; einkaufen; fare la spesa; fare spese, fare acquisti; A1; Alltag/Zuhause/Tagesablauf, Alltag/Einkaufen/Geschäfte; Il venerdì facciamo la spesa al supermercato.; Freitags gehen wir im Supermarkt einkaufen.

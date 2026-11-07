@@ -5,7 +5,7 @@ it-gw-0002; Tschüss; ciao; arrivederci, ciao ciao; A1; Grundwortschatz/Kommunik
 it-gw-0003; Danke; grazie; ; A1; Grundwortschatz/Kommunikation; Grazie per il bel regalo.; Danke für das schöne Geschenk.
 it-gw-0004; Bitte; per favore; per piacere; A1; Grundwortschatz/Kommunikation; Posso avere un caffè, per favore?; Kann ich bitte einen Kaffee haben?
 it-gw-0005; Gern geschehen; prego; di niente, non c'è di che, di nulla; A1; Grundwortschatz/Kommunikation; Prego, non è stato un problema.; Gern geschehen, das war kein Problem.
-it-gw-0006; Entschuldigung; scusi; scusa, mi scusi; A1; Grundwortschatz/Kommunikation; Scusi, dov'è la stazione?; Entschuldigung, wo ist der Bahnhof?
+it-gw-0006; Entschuldigung (Ausruf); scusi; scusa, mi scusi; A1; Grundwortschatz/Kommunikation; Scusi, dov'è la stazione?; Entschuldigung, wo ist der Bahnhof?
 it-gw-0007; Ja; sì; ; A1; Grundwortschatz/Kommunikation; Sì, vorrei volentieri un po' di tè.; Ja, ich möchte gern etwas Tee.
 it-gw-0008; Nein; no; ; A1; Grundwortschatz/Kommunikation; No, oggi non ho tempo.; Nein, ich habe heute keine Zeit.
 it-gw-0009; Guten Morgen; buongiorno; buon giorno; A1; Grundwortschatz/Kommunikation; Buongiorno, hai dormito bene?; Guten Morgen, hast du gut geschlafen?
@@ -71,7 +71,7 @@ it-gw-0068; ankommen; arrivare; ; A1; Grundwortschatz/Verben; Il treno arriva al
 it-gw-0069; zeigen; mostrare; far vedere, indicare; A1; Grundwortschatz/Verben; Mi puoi mostrare la strada per l'albergo?; Kannst du mir den Weg zum Hotel zeigen?
 it-gw-0070; glauben; credere; ; A1; Grundwortschatz/Verben; Ti credo, la storia è vera.; Ich glaube dir, die Geschichte ist wahr.
 it-gw-0071; hoffen; sperare; ; A1; Grundwortschatz/Verben; Spero che domani faccia bel tempo.; Ich hoffe, das Wetter ist morgen schön.
-it-gw-0072; tragen; portare; indossare; A1; Grundwortschatz/Verben; Alla festa porta un vestito rosso.; Sie trägt ein rotes Kleid auf der Party.
+it-gw-0072; tragen (Kleidung); portare; indossare; A1; Grundwortschatz/Verben; Alla festa porta un vestito rosso.; Sie trägt ein rotes Kleid auf der Party.
 it-gw-0073; kosten; costare; ; A1; Grundwortschatz/Verben; Quanto costa questo biglietto, per favore?; Wie viel kostet diese Fahrkarte, bitte?
 it-gw-0074; bekommen; ricevere; ottenere; A1; Grundwortschatz/Verben; Oggi ricevo una lettera da mia zia.; Ich bekomme heute einen Brief von meiner Tante.
 it-gw-0075; vergessen; dimenticare; scordare; A1; Grundwortschatz/Verben; Non dimenticare le chiavi a casa!; Vergiss deine Schlüssel nicht zu Hause!
@@ -95,7 +95,7 @@ it-gw-0092; Frau; la donna; la moglie; A1; Grundwortschatz/Menschen & Familie; L
 it-gw-0093; Kind; il bambino; la bambina; A1; Grundwortschatz/Menschen & Familie; Il bambino gioca con una pallina.; Das Kind spielt mit einem kleinen Ball.
 it-gw-0094; Junge; il ragazzo; il ragazzino, il bambino; A1; Grundwortschatz/Menschen & Familie; Il ragazzo va a scuola in bicicletta.; Der Junge fährt mit dem Rad zur Schule.
 it-gw-0095; Mädchen; la ragazza; la ragazzina, la bambina; A1; Grundwortschatz/Menschen & Familie; La ragazza legge un libro sui cavalli.; Das Mädchen liest ein Buch über Pferde.
-it-gw-0096; Mutter; la madre; la mamma; A1; Grundwortschatz/Menschen & Familie; Mia madre fa la torta più buona.; Meine Mutter macht den besten Kuchen.
+it-gw-0096; Mutter (Elternteil); la madre; la mamma; A1; Grundwortschatz/Menschen & Familie; Mia madre fa la torta più buona.; Meine Mutter macht den besten Kuchen.
 it-gw-0097; Vater; il padre; il papà, il babbo; A1; Grundwortschatz/Menschen & Familie; Mio padre lavora all'aeroporto.; Mein Vater arbeitet am Flughafen.
 it-gw-0098; Eltern; i genitori; ; A1; Grundwortschatz/Menschen & Familie; I miei genitori abitano in un piccolo paese.; Meine Eltern wohnen in einem kleinen Dorf.
 it-gw-0099; Bruder; il fratello; ; A1; Grundwortschatz/Menschen & Familie; Mio fratello ha un anno più di me.; Mein Bruder ist ein Jahr älter als ich.
@@ -238,7 +238,7 @@ it-gw-0235; Bad; il bagno; ; A1; Grundwortschatz/Orte; Il bagno è accanto alla 
 it-gw-0236; Stadt; la città; ; A1; Grundwortschatz/Orte; Francoforte è una grande città con un aeroporto.; Frankfurt ist eine große Stadt mit einem Flughafen.
 it-gw-0237; Dorf; il paese; il villaggio, il paesino; A1; Grundwortschatz/Orte; I miei nonni abitano in un paese tranquillo.; Meine Großeltern wohnen in einem ruhigen Dorf.
 it-gw-0238; Straße; la strada; la via; A1; Grundwortschatz/Orte; Di notte la nostra strada è tranquilla.; Unsere Straße ist nachts ruhig.
-it-gw-0239; Geschäft; il negozio; ; A1; Grundwortschatz/Orte; Il negozio apre alle nove di mattina.; Das Geschäft öffnet morgens um neun.
+it-gw-0239; Geschäft (Laden); il negozio; ; A1; Grundwortschatz/Orte; Il negozio apre alle nove di mattina.; Das Geschäft öffnet morgens um neun.
 it-gw-0240; Supermarkt; il supermercato; ; A1; Grundwortschatz/Orte; Oggi il supermercato è aperto fino alle dieci.; Der Supermarkt hat heute bis zehn geöffnet.
 it-gw-0241; Bahnhof; la stazione; la stazione ferroviaria; A1; Grundwortschatz/Orte; Ci incontriamo alle cinque alla stazione.; Wir treffen uns um fünf am Bahnhof.
 it-gw-0242; Flughafen; l'aeroporto; ; A1; Grundwortschatz/Orte, Reisen/Urlaub/Flughafen; L'aeroporto è a trenta minuti da qui.; Der Flughafen ist dreißig Minuten von hier.
@@ -284,7 +284,7 @@ it-gw-0281; ausfüllen; compilare; riempire; A2; Grundwortschatz/Verben; Per fav
 it-gw-0282; reparieren; riparare; aggiustare; A2; Grundwortschatz/Verben; Mio padre ha riparato la lavatrice rotta.; Mein Vater reparierte die kaputte Waschmaschine.
 it-gw-0283; folgen; seguire; ; A2; Grundwortschatz/Verben; Segua questa strada fino alla chiesa.; Folgen Sie dieser Straße bis zur Kirche.
 it-gw-0284; wachsen; crescere; ; A2; Grundwortschatz/Verben; D'estate questi fiori crescono molto in fretta.; Diese Blumen wachsen im Sommer sehr schnell.
-it-gw-0285; raten; indovinare; ; A2; Grundwortschatz/Verben; Riesci a indovinare quanti anni ha mia nonna?; Kannst du raten, wie alt meine Großmutter ist?
+it-gw-0285; raten (schätzen); indovinare; ; A2; Grundwortschatz/Verben; Riesci a indovinare quanti anni ha mia nonna?; Kannst du raten, wie alt meine Großmutter ist?
 it-gw-0286; hassen; odiare; ; A2; Grundwortschatz/Verben; Odio alzarmi presto il lunedì.; Ich hasse es, montags früh aufzustehen.
 it-gw-0287; wiegen; pesare; ; A2; Grundwortschatz/Verben; Adesso il bambino pesa circa quattro chili.; Das Baby wiegt jetzt ungefähr vier Kilo.
 it-gw-0288; verletzen; ferire; fare male; A2; Grundwortschatz/Verben; Si è ferito alla gamba durante la partita di calcio.; Er verletzte sich beim Fußballspiel am Bein.
@@ -312,7 +312,7 @@ it-gw-0309; stehlen; rubare; ; A2; Grundwortschatz/Verben; Qualcuno mi ha rubato
 it-gw-0310; werfen; lanciare; gettare, tirare, buttare; A2; Grundwortschatz/Verben; Lanciami la palla, per favore!; Wirf mir bitte den Ball zu!
 it-gw-0311; Erwachsener; l'adulto; ; A2; Grundwortschatz/Menschen & Familie; Al museo i bambini pagano meno degli adulti.; Kinder zahlen im Museum weniger als Erwachsene.
 it-gw-0312; Jugendlicher; l'adolescente; il ragazzo, il giovane; A2; Grundwortschatz/Menschen & Familie; Molti adolescenti passano ore al cellulare.; Viele Jugendliche verbringen Stunden an ihren Handys.
-it-gw-0313; Leiter; la scala; la scala a pioli; A2; Grundwortschatz/Alltag; È salito sulla scala per arrivare al tetto.; Er stieg die Leiter hinauf, um das Dach zu erreichen.
+it-gw-0313; Leiter (zum Steigen); la scala; la scala a pioli; A2; Grundwortschatz/Alltag; È salito sulla scala per arrivare al tetto.; Er stieg die Leiter hinauf, um das Dach zu erreichen.
 it-gw-0314; Kollege; il collega; ; A2; Grundwortschatz/Menschen & Familie; Ogni giorno pranzo con i miei colleghi.; Ich esse jeden Tag mit meinen Kollegen zu Mittag.
 it-gw-0315; Gast; l'ospite; l'invitato; A2; Grundwortschatz/Menschen & Familie; Gli ospiti sono arrivati alle sette di sera.; Die Gäste kamen um sieben Uhr abends an.
 it-gw-0316; Besucher; il visitatore; ; A2; Grundwortschatz/Menschen & Familie; D'estate il castello riceve molti visitatori.; Das Schloss bekommt im Sommer viele Besucher.
@@ -354,11 +354,11 @@ it-gw-0351; Mahlzeit; il pasto; ; A2; Grundwortschatz/Essen & Trinken; Per me la
 it-gw-0352; Nachtisch; il dessert; il dolce; A2; Grundwortschatz/Essen & Trinken; Come dessert abbiamo preso il gelato.; Wir hatten Eis zum Nachtisch.
 it-gw-0353; Vorspeise; l'antipasto; ; A2; Grundwortschatz/Essen & Trinken; Come antipasto ho ordinato una piccola insalata.; Als Vorspeise bestellte ich einen kleinen Salat.
 it-gw-0354; Hauptgericht; il piatto principale; il secondo, la portata principale; A2; Grundwortschatz/Essen & Trinken; Il piatto principale era pesce con riso.; Das Hauptgericht war Fisch mit Reis.
-it-gw-0355; Rezept; la ricetta; ; A2; Grundwortschatz/Essen & Trinken; Mia nonna mi ha dato la sua ricetta della torta.; Meine Großmutter gab mir ihr Kuchenrezept.
+it-gw-0355; Rezept (Kochen); la ricetta; ; A2; Grundwortschatz/Essen & Trinken; Mia nonna mi ha dato la sua ricetta della torta.; Meine Großmutter gab mir ihr Kuchenrezept.
 it-gw-0356; Zutat; l'ingrediente; ; A2; Grundwortschatz/Essen & Trinken; Per questo piatto ci servono solo cinque ingredienti.; Wir brauchen nur fünf Zutaten für dieses Gericht.
 it-gw-0357; Geschmack; il sapore; il gusto; A2; Grundwortschatz/Essen & Trinken; Non mi piace il sapore di questa zuppa.; Ich mag den Geschmack dieser Suppe nicht.
 it-gw-0358; lecker; buono; gustoso, delizioso, squisito; A2; Grundwortschatz/Essen & Trinken; La pizza di questo ristorante è davvero buona.; Die Pizza in diesem Restaurant ist wirklich lecker.
-it-gw-0359; Imbiss; lo spuntino; la merenda, lo snack; A2; Grundwortschatz/Essen & Trinken; Alla stazione abbiamo comprato uno spuntino veloce.; Wir kauften einen schnellen Imbiss am Bahnhof.
+it-gw-0359; Imbiss (kleine Mahlzeit); lo spuntino; la merenda, lo snack; A2; Grundwortschatz/Essen & Trinken; Alla stazione abbiamo comprato uno spuntino veloce.; Wir kauften einen schnellen Imbiss am Bahnhof.
 it-gw-0360; Kellner; il cameriere; ; A2; Grundwortschatz/Essen & Trinken; Il cameriere ci ha portato subito il menù.; Der Kellner brachte uns schnell die Speisekarte.
 it-gw-0361; Rechnung; il conto; la fattura; A2; Grundwortschatz/Essen & Trinken; Potremmo avere il conto, per favore?; Könnten wir bitte die Rechnung haben?
 it-gw-0362; Trinkgeld; la mancia; ; A2; Grundwortschatz/Essen & Trinken; Abbiamo lasciato una piccola mancia al cameriere gentile.; Wir ließen dem freundlichen Kellner ein kleines Trinkgeld da.
@@ -394,7 +394,7 @@ it-gw-0391; neblig; nebbioso; ; A2; Grundwortschatz/Adjektive; Qui a novembre è
 it-gw-0392; Seil; la corda; la fune; A2; Grundwortschatz/Alltag; I bambini sono saltati sopra la lunga corda.; Die Kinder sprangen über das lange Seil.
 it-gw-0393; laut; forte; rumoroso; A2; Grundwortschatz/Adjektive; Alla festa la musica era troppo forte.; Die Musik auf der Party war zu laut.
 it-gw-0394; leise; silenzioso; piano, sottovoce, tranquillo; A2; Grundwortschatz/Adjektive; Per favore, sii silenzioso, il bambino dorme.; Bitte sei leise, das Baby schläft.
-it-gw-0395; faul; pigro; ; A2; Grundwortschatz/Adjektive; La domenica sono spesso un po' pigro.; Sonntags bin ich oft ein bisschen faul.
+it-gw-0395; faul (träge); pigro; ; A2; Grundwortschatz/Adjektive; La domenica sono spesso un po' pigro.; Sonntags bin ich oft ein bisschen faul.
 it-gw-0396; einsam; solo; solitario; A2; Grundwortschatz/Adjektive; Si sentiva solo nella grande città nuova.; Er fühlte sich einsam in der großen neuen Stadt.
 it-gw-0397; modern; moderno; ; A2; Grundwortschatz/Adjektive; Abitano in un appartamento moderno vicino al parco.; Sie wohnen in einer modernen Wohnung am Park.
 it-gw-0398; schmal; stretto; ; A2; Grundwortschatz/Adjektive; Il centro storico ha molte vie strette.; Die Altstadt hat viele schmale Gassen.
@@ -416,7 +416,7 @@ it-gw-0413; überrascht; sorpreso; stupito; A2; Grundwortschatz/Adjektive; Siamo
 it-gw-0414; ordentlich; ordinato; in ordine; A2; Grundwortschatz/Adjektive; La sua scrivania è sempre pulita e ordinata.; Ihr Schreibtisch ist immer sauber und ordentlich.
 it-gw-0415; nützlich; utile; ; A2; Grundwortschatz/Adjektive; Un dizionario è utile quando si impara l'inglese.; Ein Wörterbuch ist nützlich, wenn man Englisch lernt.
 it-gw-0416; Brücke; il ponte; ; A2; Grundwortschatz/Orte; Abbiamo attraversato il vecchio ponte di pietra.; Wir gingen über die alte Steinbrücke.
-it-gw-0417; Schloss; il castello; il palazzo; A2; Grundwortschatz/Orte; Il castello si trova su una collina sopra la città.; Das Schloss steht auf einem Hügel über der Stadt.
+it-gw-0417; Schloss (Gebäude); il castello; il palazzo; A2; Grundwortschatz/Orte; Il castello si trova su una collina sopra la città.; Das Schloss steht auf einem Hügel über der Stadt.
 it-gw-0418; Küste; la costa; ; A2; Grundwortschatz/Orte; Abbiamo passato le vacanze sulla costa francese.; Wir verbrachten unseren Urlaub an der französischen Küste.
 it-gw-0419; Wald; il bosco; la foresta; A2; Grundwortschatz/Orte; Andiamo spesso a passeggiare nel bosco.; Wir gehen oft im Wald spazieren.
 it-gw-0420; Insel; l'isola; ; A2; Grundwortschatz/Orte; La piccola isola ha un solo paese.; Die kleine Insel hat nur ein Dorf.
@@ -426,7 +426,7 @@ it-gw-0423; Bauernhof; la fattoria; la cascina; A2; Grundwortschatz/Orte; I bamb
 it-gw-0424; Fabrik; la fabbrica; lo stabilimento; A2; Grundwortschatz/Orte; Lavora in una fabbrica di automobili vicino a Francoforte.; Er arbeitet in einer Autofabrik bei Frankfurt.
 it-gw-0425; Stadion; lo stadio; ; A2; Grundwortschatz/Orte; Per la grande partita lo stadio era pieno.; Das Stadion war beim großen Spiel voll.
 it-gw-0426; Turm; la torre; ; A2; Grundwortschatz/Orte; Dalla torre si vede tutta la città.; Vom Turm kann man die ganze Stadt sehen.
-it-gw-0427; Platz; la piazza; ; A2; Grundwortschatz/Orte; Ogni venerdì in piazza c'è il mercato.; Auf dem Platz ist jeden Freitag ein Markt.
+it-gw-0427; Platz (in der Stadt); la piazza; ; A2; Grundwortschatz/Orte; Ogni venerdì in piazza c'è il mercato.; Auf dem Platz ist jeden Freitag ein Markt.
 it-gw-0428; Ecke; l'angolo; ; A2; Grundwortschatz/Orte; Il panificio è proprio dietro l'angolo.; Die Bäckerei ist gleich um die Ecke.
 it-gw-0429; Gegend; la zona; la regione, l'area; A2; Grundwortschatz/Orte; Questa zona è famosa per il suo buon vino.; Diese Gegend ist bekannt für ihren guten Wein.
 it-gw-0430; Pfad; il sentiero; ; A2; Grundwortschatz/Orte; Uno stretto sentiero scende fino alla spiaggia.; Ein schmaler Pfad führt hinunter zum Strand.
@@ -440,7 +440,7 @@ it-gw-0437; Buchhandlung; la libreria; ; A2; Grundwortschatz/Orte; Ho comprato q
 it-gw-0438; Spielplatz; il parco giochi; ; A2; Grundwortschatz/Orte; I bambini giocano al parco giochi.; Die Kinder spielen auf dem Spielplatz.
 it-gw-0439; Parkplatz; il parcheggio; ; A2; Grundwortschatz/Orte; Il parcheggio dietro il supermercato è gratuito.; Der Parkplatz hinter dem Supermarkt ist kostenlos.
 it-gw-0440; Tankstelle; il distributore di benzina; la stazione di servizio, il benzinaio; A2; Grundwortschatz/Orte; Ci siamo fermati a un distributore di benzina in autostrada.; Wir hielten an einer Tankstelle auf der Autobahn.
-it-gw-0441; Nachricht; il messaggio; ; A2; Grundwortschatz/Kommunikation; Stamattina ti ho mandato un messaggio.; Ich habe dir heute Morgen eine Nachricht geschickt.
+it-gw-0441; Nachricht (Mitteilung); il messaggio; ; A2; Grundwortschatz/Kommunikation; Stamattina ti ho mandato un messaggio.; Ich habe dir heute Morgen eine Nachricht geschickt.
 it-gw-0442; Neuigkeiten; le novità; le notizie; A2; Grundwortschatz/Kommunikation; Hai sentito le novità su Tom?; Hast du die Neuigkeiten über Tom gehört?
 it-gw-0443; Gespräch; la conversazione; il colloquio, la chiacchierata; A2; Grundwortschatz/Kommunikation; Abbiamo avuto una lunga conversazione sui nostri progetti.; Wir hatten ein langes Gespräch über unsere Pläne.
 it-gw-0444; Meinung; l'opinione; il parere; A2; Grundwortschatz/Kommunikation; Secondo la mia opinione il film era troppo lungo.; Meiner Meinung nach war der Film zu lang.
@@ -449,7 +449,7 @@ it-gw-0446; Erklärung; la spiegazione; ; A2; Grundwortschatz/Kommunikation; L'i
 it-gw-0447; Geheimnis; il segreto; ; A2; Grundwortschatz/Kommunikation; Per favore, sai mantenere un segreto?; Kannst du bitte ein Geheimnis für dich behalten?
 it-gw-0448; Witz; la barzelletta; la battuta; A2; Grundwortschatz/Kommunikation; A cena ha raccontato una barzelletta divertente.; Er erzählte beim Abendessen einen lustigen Witz.
 it-gw-0449; Streit; il litigio; la lite, la discussione; A2; Grundwortschatz/Kommunikation; Hanno avuto un litigio per i soldi.; Sie hatten einen Streit um das Geld.
-it-gw-0450; Rat; il consiglio; ; A2; Grundwortschatz/Kommunikation; Mio padre mi ha dato un buon consiglio.; Mein Vater gab mir einen guten Rat.
+it-gw-0450; Rat (Ratschlag); il consiglio; ; A2; Grundwortschatz/Kommunikation; Mio padre mi ha dato un buon consiglio.; Mein Vater gab mir einen guten Rat.
 it-gw-0451; Einladung; l'invito; ; A2; Grundwortschatz/Kommunikation; Grazie per l'invito alla tua festa.; Danke für die Einladung zu deiner Party.
 it-gw-0452; Anruf; la telefonata; la chiamata; A2; Grundwortschatz/Kommunikation; Ho ricevuto una telefonata da un mio vecchio amico.; Ich bekam einen Anruf von meinem alten Freund.
 it-gw-0453; Postkarte; la cartolina; ; A2; Grundwortschatz/Kommunikation; Ci ha mandato una cartolina dall'Italia.; Sie schickte uns eine Postkarte aus Italien.
@@ -480,10 +480,10 @@ it-gw-0477; Werkzeug; l'attrezzo; gli attrezzi, lo strumento, l'utensile; A2; Gr
 it-gw-0478; Taschenlampe; la torcia; la pila, la torcia elettrica; A2; Grundwortschatz/Alltag; Prendi una torcia, in cantina è buio.; Nimm eine Taschenlampe, im Keller ist es dunkel.
 it-gw-0479; Batterie; la batteria; la pila; A2; Grundwortschatz/Alltag; La batteria del mio cellulare è quasi scarica.; Die Batterie meines Handys ist fast leer.
 it-gw-0480; Schublade; il cassetto; ; A2; Grundwortschatz/Alltag; Le forbici sono nel primo cassetto in alto.; Die Schere ist in der obersten Schublade.
-it-gw-0481; Decke; la coperta; ; A2; Grundwortschatz/Alltag; Ha messo una coperta calda sul bambino.; Sie legte eine warme Decke über das Kind.
+it-gw-0481; Decke (zum Zudecken); la coperta; ; A2; Grundwortschatz/Alltag; Ha messo una coperta calda sul bambino.; Sie legte eine warme Decke über das Kind.
 it-gw-0482; Kissen; il cuscino; il guanciale; A2; Grundwortschatz/Alltag; Non riesco a dormire senza il mio cuscino.; Ich kann ohne mein eigenes Kissen nicht schlafen.
 it-gw-0483; Wecker; la sveglia; ; A2; Grundwortschatz/Alltag; La mia sveglia suona alle sei e mezza.; Mein Wecker klingelt um halb sieben.
-it-gw-0484; Glück; la fortuna; ; A2; Grundwortschatz/Alltag; Con un po' di fortuna troviamo ancora i biglietti.; Mit etwas Glück bekommen wir noch Karten.
+it-gw-0484; Glück (Glück haben); la fortuna; ; A2; Grundwortschatz/Alltag; Con un po' di fortuna troviamo ancora i biglietti.; Mit etwas Glück bekommen wir noch Karten.
 it-gw-0485; Pflanze; la pianta; ; A2; Grundwortschatz/Alltag; La pianta vicino alla finestra ha bisogno di più acqua.; Die Pflanze am Fenster braucht mehr Wasser.
 it-gw-0486; Beruf; la professione; il mestiere, il lavoro; A2; Grundwortschatz/Arbeit & Schule; Ama la sua professione di infermiera.; Sie liebt ihren Beruf als Krankenschwester.
 it-gw-0487; Gehalt; lo stipendio; il salario; A2; Grundwortschatz/Arbeit & Schule; Il nuovo lavoro offre uno stipendio migliore.; Der neue Job bringt ein besseres Gehalt.
@@ -493,7 +493,7 @@ it-gw-0490; Vorstellungsgespräch; il colloquio di lavoro; il colloquio; A2; Gru
 it-gw-0491; Erfahrung; l'esperienza; ; A2; Grundwortschatz/Arbeit & Schule; Ha molta esperienza con i bambini.; Sie hat viel Erfahrung mit Kindern.
 it-gw-0492; Erfolg; il successo; ; A2; Grundwortschatz/Arbeit & Schule; La festa della scuola è stata un grande successo.; Das Schulfest war ein großer Erfolg.
 it-gw-0493; Prüfung; l'esame; la prova; A2; Grundwortschatz/Arbeit & Schule; Devo studiare per l'esame d'inglese.; Ich muss für meine Englischprüfung lernen.
-it-gw-0494; Note; il voto; ; A2; Grundwortschatz/Arbeit & Schule; Ha preso il voto più alto della classe.; Er bekam die beste Note in der Klasse.
+it-gw-0494; Note (Schule); il voto; ; A2; Grundwortschatz/Arbeit & Schule; Ha preso il voto più alto della classe.; Er bekam die beste Note in der Klasse.
 it-gw-0495; Fach; la materia; ; A2; Grundwortschatz/Arbeit & Schule; La mia materia preferita a scuola è la storia.; Mein Lieblingsfach in der Schule ist Geschichte.
 it-gw-0496; Pause; la pausa; l'intervallo, la ricreazione; A2; Grundwortschatz/Arbeit & Schule; Dopo questa lezione facciamo una breve pausa.; Machen wir nach dieser Stunde eine kurze Pause.
 it-gw-0497; Projekt; il progetto; ; A2; Grundwortschatz/Arbeit & Schule; La nostra classe lavora a un progetto di scienze.; Unsere Klasse arbeitet an einem Wissenschaftsprojekt.
@@ -510,7 +510,7 @@ it-gw-0507; zu schätzen wissen; apprezzare; ; B1; Grundwortschatz/Verben; Appre
 it-gw-0508; genehmigen; approvare; autorizzare, permettere; B1; Grundwortschatz/Verben; Il comune ha finalmente approvato i progetti per la nuova scuola.; Die Stadt genehmigte endlich die Pläne für die neue Schule.
 it-gw-0509; streiten; litigare; discutere; B1; Grundwortschatz/Verben; Litigano spesso per i soldi e le faccende di casa.; Sie streiten oft über Geld und Hausarbeit.
 it-gw-0510; vereinbaren; fissare; concordare, stabilire; B1; Grundwortschatz/Verben; Abbiamo fissato un incontro per il prossimo martedì mattina.; Wir vereinbarten ein Treffen für nächsten Dienstagmorgen.
-it-gw-0511; annehmen; supporre; presumere; B1; Grundwortschatz/Verben; Suppongo che il treno sarà puntuale.; Ich nehme an, dass der Zug pünktlich sein wird.
+it-gw-0511; annehmen (vermuten); supporre; presumere; B1; Grundwortschatz/Verben; Suppongo che il treno sarà puntuale.; Ich nehme an, dass der Zug pünktlich sein wird.
 it-gw-0512; vermeiden; evitare; ; B1; Grundwortschatz/Verben; Cerca di evitare gli errori controllando il tuo lavoro due volte.; Versuche Fehler zu vermeiden, indem du deine Arbeit zweimal prüfst.
 it-gw-0513; sich verhalten; comportarsi; ; B1; Grundwortschatz/Verben; Durante il lungo viaggio i bambini si sono comportati molto bene.; Die Kinder verhielten sich während der langen Reise sehr gut.
 it-gw-0514; verschütten; rovesciare; versare; B1; Grundwortschatz/Verben; Stai attento a non rovesciare il caffè sulla tastiera.; Pass auf, dass du keinen Kaffee über die Tastatur verschüttest.
@@ -550,7 +550,7 @@ it-gw-0547; jagen; inseguire; cacciare, rincorrere; B1; Grundwortschatz/Verben; 
 it-gw-0548; erhöhen; aumentare; alzare; B1; Grundwortschatz/Verben; Il comune ha aumentato il prezzo dei biglietti dell'autobus.; Die Stadt erhöhte den Preis für Busfahrkarten.
 it-gw-0549; bestehen auf; insistere; ; B1; Grundwortschatz/Verben; Ha insistito per pagare lei stessa il pranzo.; Sie bestand darauf, das Essen selbst zu bezahlen.
 it-gw-0550; beabsichtigen; avere intenzione di; intendere, proporsi di; B1; Grundwortschatz/Verben; Abbiamo intenzione di visitare il Portogallo la prossima estate.; Wir beabsichtigen, nächsten Sommer Portugal zu besuchen.
-it-gw-0551; vorstellen; presentare; ; B1; Grundwortschatz/Verben, Grundwortschatz/Kommunikation; Lascia che ti presenti la mia collega Anna.; Lass mich dir meine Kollegin Anna vorstellen.
+it-gw-0551; vorstellen (jemanden); presentare; ; B1; Grundwortschatz/Verben, Grundwortschatz/Kommunikation; Lascia che ti presenti la mia collega Anna.; Lass mich dir meine Kollegin Anna vorstellen.
 it-gw-0552; erfinden; inventare; ; B1; Grundwortschatz/Verben; Chi ha inventato in realtà il primo cellulare?; Wer hat eigentlich das erste Handy erfunden?
 it-gw-0553; einbeziehen; includere; coinvolgere, comportare; B1; Grundwortschatz/Verben; Il lavoro include molti viaggi all'estero.; Die Stelle beinhaltet viele Reisen ins Ausland.
 it-gw-0554; beurteilen; giudicare; valutare; B1; Grundwortschatz/Verben; Non dovresti giudicare le persone dai vestiti.; Du solltest Menschen nicht nach ihrer Kleidung beurteilen.
@@ -571,7 +571,7 @@ it-gw-0568; niesen; starnutire; ; B1; Grundwortschatz/Verben; Ha starnutito tre 
 it-gw-0569; ablehnen; rifiutare; respingere; B1; Grundwortschatz/Verben; Si è rifiutata di rispondere a domande personali.; Sie lehnte es ab, persönliche Fragen zu beantworten.
 it-gw-0570; bereuen; pentirsi; rimpiangere; B1; Grundwortschatz/Verben, Grundwortschatz/Gefühle & Meinung; Credimi, più tardi ti pentirai di questa decisione.; Du wirst diese Entscheidung später bereuen, glaub mir.
 it-gw-0571; sich verlassen auf; contare su; fidarsi di, affidarsi a; B1; Grundwortschatz/Verben; Puoi sempre contare sui tuoi migliori amici.; Du kannst dich immer auf deine besten Freunde verlassen.
-it-gw-0572; erinnern; ricordare; rammentare; B1; Grundwortschatz/Verben, Grundwortschatz/Alltag; Per favore, ricordami di comprare il latte stasera.; Bitte erinnere mich daran, heute Abend Milch zu kaufen.
+it-gw-0572; erinnern (jemanden); ricordare; rammentare; B1; Grundwortschatz/Verben, Grundwortschatz/Alltag; Per favore, ricordami di comprare il latte stasera.; Bitte erinnere mich daran, heute Abend Milch zu kaufen.
 it-gw-0573; ersetzen; sostituire; rimpiazzare; B1; Grundwortschatz/Verben; Dobbiamo sostituire presto la vecchia stampante.; Wir müssen den alten Drucker bald ersetzen.
 it-gw-0574; erfordern; richiedere; esigere; B1; Grundwortschatz/Verben; Questo lavoro richiede pazienza e buone capacità comunicative.; Diese Stelle erfordert Geduld und gute kommunikative Fähigkeiten.
 it-gw-0575; reagieren; reagire; ; B1; Grundwortschatz/Verben; Come ha reagito alla notizia sorprendente?; Wie hat sie auf die überraschende Nachricht reagiert?
@@ -587,7 +587,7 @@ it-gw-0584; praktisch; pratico; comodo; B1; Grundwortschatz/Adjektive; L'home ba
 it-gw-0585; neugierig; curioso; ; B1; Grundwortschatz/Adjektive; Il bambino curioso faceva domande su tutto.; Das neugierige Kind stellte Fragen zu allem.
 it-gw-0586; aktuell; attuale; ; B1; Grundwortschatz/Adjektive; La situazione attuale sulle strade è difficile.; Die aktuelle Lage auf den Straßen ist schwierig.
 it-gw-0587; enttäuscht; deluso; ; B1; Grundwortschatz/Adjektive, Grundwortschatz/Gefühle & Meinung; Siamo rimasti delusi dall'albergo e dal servizio.; Wir waren von dem Hotel und dem Service enttäuscht.
-it-gw-0588; verlegen; imbarazzato; in imbarazzo; B1; Grundwortschatz/Adjektive, Grundwortschatz/Gefühle & Meinung; Era imbarazzato quando ha dimenticato il suo nome.; Er war verlegen, als er ihren Namen vergaß.
+it-gw-0588; verlegen (beschämt); imbarazzato; in imbarazzo; B1; Grundwortschatz/Adjektive, Grundwortschatz/Gefühle & Meinung; Era imbarazzato quando ha dimenticato il suo nome.; Er war verlegen, als er ihren Namen vergaß.
 it-gw-0589; riesig; enorme; gigantesco, immenso; B1; Grundwortschatz/Adjektive; Abitano in una casa enorme sul lago.; Sie wohnen in einem riesigen Haus am See.
 it-gw-0590; wesentlich; essenziale; fondamentale; B1; Grundwortschatz/Adjektive; Una buona pianificazione è essenziale per un progetto di successo.; Gute Planung ist wesentlich für ein erfolgreiches Projekt.
 it-gw-0591; erschöpft; esausto; sfinito, stremato; B1; Grundwortschatz/Adjektive; Dopo la lunga escursione eravamo completamente esausti.; Nach der langen Wanderung waren wir völlig erschöpft.
@@ -657,7 +657,7 @@ it-gw-0654; Leistung; il risultato; la prestazione, il successo; B1; Grundwortsc
 it-gw-0655; Vereinbarung; l'accordo; l'intesa; B1; Grundwortschatz/Kommunikation; Le due aziende hanno finalmente firmato un accordo.; Die beiden Firmen unterzeichneten endlich eine Vereinbarung.
 it-gw-0656; Ziel; l'obiettivo; lo scopo, la meta, il fine; B1; Grundwortschatz/Abstrakte Begriffe; L'obiettivo del corso è migliorare la tua capacità di parlare.; Das Ziel des Kurses ist es, dein Sprechen zu verbessern.
 it-gw-0657; Menge; la quantità; ; B1; Grundwortschatz/Abstrakte Begriffe; Una grande quantità di denaro è stata spesa per il progetto.; Eine große Menge Geld wurde für das Projekt ausgegeben.
-it-gw-0658; Einstellung; l'atteggiamento; ; B1; Grundwortschatz/Gefühle & Meinung; Il suo atteggiamento positivo l'ha aiutata nei momenti difficili.; Ihre positive Einstellung half ihr in schwierigen Zeiten.
+it-gw-0658; Einstellung (Haltung); l'atteggiamento; ; B1; Grundwortschatz/Gefühle & Meinung; Il suo atteggiamento positivo l'ha aiutata nei momenti difficili.; Ihre positive Einstellung half ihr in schwierigen Zeiten.
 it-gw-0659; Publikum; il pubblico; ; B1; Grundwortschatz/Gesellschaft; Il pubblico ha applaudito forte alla fine dello spettacolo.; Das Publikum klatschte am Ende der Vorstellung laut.
 it-gw-0660; Behörde; l'autorità; l'ente; B1; Grundwortschatz/Gesellschaft; Devi denunciare l'incidente all'autorità locale.; Du musst den Unfall der örtlichen Behörde melden.
 it-gw-0661; Durchschnitt; la media; ; B1; Grundwortschatz/Abstrakte Begriffe; I suoi voti sono sopra la media della classe.; Seine Noten liegen über dem Durchschnitt der Klasse.
@@ -669,7 +669,7 @@ it-gw-0666; Wettbewerb; il concorso; la gara, la competizione; B1; Grundwortscha
 it-gw-0667; Beschwerde; il reclamo; la lamentela; B1; Grundwortschatz/Kommunikation; L'albergo ha ricevuto diversi reclami per la musica ad alto volume.; Das Hotel erhielt mehrere Beschwerden über die laute Musik.
 it-gw-0668; Bedingung; la condizione; ; B1; Grundwortschatz/Abstrakte Begriffe; Una buona luce è una condizione importante per fare foto.; Gutes Licht ist eine wichtige Bedingung für das Fotografieren.
 it-gw-0669; Verbindung; il collegamento; il legame, la connessione; B1; Grundwortschatz/Abstrakte Begriffe; C'è un chiaro collegamento tra il fumo e il cancro.; Es gibt eine klare Verbindung zwischen Rauchen und Krebs.
-it-gw-0670; Folge; la conseguenza; ; B1; Grundwortschatz/Abstrakte Begriffe; La nuova legge ha avuto gravi conseguenze per i piccoli negozi.; Das neue Gesetz hatte ernste Folgen für kleine Geschäfte.
+it-gw-0670; Folge (Konsequenz); la conseguenza; ; B1; Grundwortschatz/Abstrakte Begriffe; La nuova legge ha avuto gravi conseguenze per i piccoli negozi.; Das neue Gesetz hatte ernste Folgen für kleine Geschäfte.
 it-gw-0671; Entwicklung; lo sviluppo; ; B1; Grundwortschatz/Abstrakte Begriffe; Lo sviluppo del centro città ha richiesto diversi anni.; Die Entwicklung des Stadtzentrums dauerte mehrere Jahre.
 it-gw-0672; Pflicht; il dovere; l'obbligo; B1; Grundwortschatz/Gesellschaft; È tuo dovere informare la polizia.; Es ist deine Pflicht, die Polizei zu informieren.
 it-gw-0673; Wirtschaft; l'economia; ; B1; Grundwortschatz/Gesellschaft; L'economia del paese cresce lentamente.; Die Wirtschaft des Landes wächst langsam.
@@ -714,7 +714,7 @@ it-gw-0711; Zweck; lo scopo; il fine; B1; Grundwortschatz/Abstrakte Begriffe; Lo
 it-gw-0712; Beziehung; il rapporto; la relazione; B1; Grundwortschatz/Gefühle & Meinung; Hanno un rapporto stretto da molti anni.; Sie haben seit vielen Jahren eine enge Beziehung.
 it-gw-0713; Forschung; la ricerca; ; B1; Grundwortschatz/Arbeit & Schule; La ricerca moderna ha cambiato la cura di molte malattie.; Die moderne Forschung hat die Behandlung vieler Krankheiten verändert.
 it-gw-0714; Verantwortung; la responsabilità; ; B1; Grundwortschatz/Abstrakte Begriffe; Come caposquadra ha molta responsabilità.; Als Teamleiterin trägt sie viel Verantwortung.
-it-gw-0715; Lohn; il salario; la paga, lo stipendio; B1; Grundwortschatz/Arbeit & Schule; Gli operai hanno chiesto un salario più alto.; Die Arbeiter baten um einen höheren Lohn.
+it-gw-0715; Lohn (Bezahlung); il salario; la paga, lo stipendio; B1; Grundwortschatz/Arbeit & Schule; Gli operai hanno chiesto un salario più alto.; Die Arbeiter baten um einen höheren Lohn.
 it-gw-0716; Gesellschaft; la società; ; B1; Grundwortschatz/Gesellschaft; Le persone anziane hanno un ruolo importante nella nostra società.; Ältere Menschen spielen eine wichtige Rolle in unserer Gesellschaft.
 it-gw-0717; Lösung; la soluzione; ; B1; Grundwortschatz/Abstrakte Begriffe; Insieme troveremo una soluzione a questo problema.; Gemeinsam werden wir eine Lösung für dieses Problem finden.
 it-gw-0718; Stärke; il punto di forza; la forza; B1; Grundwortschatz/Abstrakte Begriffe; La pazienza è uno dei suoi maggiori punti di forza.; Geduld ist eine ihrer größten Stärken.
@@ -853,7 +853,7 @@ it-gw-0850; Auswirkung; l'impatto; l'effetto, la ripercussione; B2; Grundwortsch
 it-gw-0851; Wahrnehmung; la percezione; ; B2; Grundwortschatz/Abstrakte Begriffe; La nostra percezione del tempo cambia con l'età.; Unsere Wahrnehmung der Zeit verändert sich mit dem Alter.
 it-gw-0852; Verpflichtung; l'impegno; l'obbligo; B2; Grundwortschatz/Abstrakte Begriffe; Questo fine settimana ho diversi impegni familiari.; Ich habe an diesem Wochenende mehrere familiäre Verpflichtungen.
 it-gw-0853; Absicht; l'intenzione; lo scopo; B2; Grundwortschatz/Abstrakte Begriffe; Non è mai stata mia intenzione ferirti.; Es war nie meine Absicht, dich zu verletzen.
-it-gw-0854; Annahme; il presupposto; l'ipotesi, la supposizione; B2; Grundwortschatz/Abstrakte Begriffe; La tua conclusione si basa su un presupposto sbagliato.; Deine Schlussfolgerung beruht auf einer falschen Annahme.
+it-gw-0854; Annahme (Vermutung); il presupposto; l'ipotesi, la supposizione; B2; Grundwortschatz/Abstrakte Begriffe; La tua conclusione si basa su un presupposto sbagliato.; Deine Schlussfolgerung beruht auf einer falschen Annahme.
 it-gw-0855; Einwand; l'obiezione; ; B2; Grundwortschatz/Abstrakte Begriffe, Grundwortschatz/Kommunikation; Ci sono obiezioni a questa proposta?; Gibt es Einwände gegen diesen Vorschlag?
 it-gw-0856; makellos; impeccabile; perfetto, senza difetti; B2; Grundwortschatz/Adjektive; La sua esibizione al concerto è stata semplicemente impeccabile.; Ihr Auftritt beim Konzert war einfach makellos.
 it-gw-0857; Erkenntnis; la conoscenza; la scoperta, l'intuizione, la consapevolezza; B2; Grundwortschatz/Abstrakte Begriffe; Lo studio fornisce nuove conoscenze sul comportamento umano.; Die Studie liefert neue Erkenntnisse über menschliches Verhalten.
@@ -988,7 +988,7 @@ it-gw-0985; hanebüchen; assurdo; inverosimile, ridicolo, strampalato; C2; Grund
 it-gw-0986; spitzfindig; cavilloso; pedante, sofistico; C2; Grundwortschatz/Adjektive; Le sue obiezioni cavillose hanno ritardato le trattative di ore.; Seine spitzfindigen Einwände verzögerten die Verhandlungen um Stunden.
 it-gw-0987; unverblümt; schietto; franco, diretto, brusco; C2; Grundwortschatz/Adjektive; Ha dato una risposta schietta alla domanda delicata.; Sie gab eine unverblümte Antwort auf die heikle Frage.
 it-gw-0988; erhaben; sublime; maestoso, elevato; C2; Grundwortschatz/Adjektive; La vista dalla vetta era semplicemente sublime.; Der Blick vom Gipfel war schlicht erhaben.
-it-gw-0989; vermessen; presuntuoso; arrogante, temerario; C2; Grundwortschatz/Adjektive; Sarebbe presuntuoso promettere una soluzione rapida.; Es wäre vermessen, eine schnelle Lösung zu versprechen.
+it-gw-0989; vermessen (anmaßend); presuntuoso; arrogante, temerario; C2; Grundwortschatz/Adjektive; Sarebbe presuntuoso promettere una soluzione rapida.; Es wäre vermessen, eine schnelle Lösung zu versprechen.
 it-gw-0990; schlechthin; per eccellenza; per antonomasia; C2; Grundwortschatz/Adverbien; Per molti è l'attrice di teatro per eccellenza.; Für viele ist sie die Bühnenschauspielerin schlechthin.
 it-gw-0991; unweigerlich; inevitabilmente; immancabilmente; C2; Grundwortschatz/Adverbien; Una tale negligenza porta inevitabilmente a gravi errori.; Solche Nachlässigkeit führt unweigerlich zu schweren Fehlern.
 it-gw-0992; obendrein; per di più; inoltre, oltretutto; C2; Grundwortschatz/Adverbien; La camera era minuscola e per di più cara.; Das Zimmer war winzig und obendrein teuer.

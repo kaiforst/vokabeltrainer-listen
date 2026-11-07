@@ -18,7 +18,7 @@ it-nt-0015; Affe; la scimmia; ; A1; Natur/Tiere/Wildtiere; La scimmia salta da u
 it-nt-0016; Baum; l'albero; ; A1; Natur/Pflanzen; Il vecchio albero ci fa ombra d'estate.; Der alte Baum spendet uns im Sommer Schatten.
 it-nt-0017; Blume; il fiore; ; A1; Natur/Pflanzen; Ha raccolto un fiore per sua madre.; Sie pflückte eine Blume für ihre Mutter.
 it-nt-0018; Gras; l'erba; ; A1; Natur/Pflanzen; L'erba è ancora bagnata dalla pioggia.; Das Gras ist noch nass vom Regen.
-it-nt-0019; Blatt; la foglia; ; A1; Natur/Pflanzen; Una foglia gialla è caduta dall'albero.; Ein gelbes Blatt fiel vom Baum.
+it-nt-0019; Blatt (Baum); la foglia; ; A1; Natur/Pflanzen; Una foglia gialla è caduta dall'albero.; Ein gelbes Blatt fiel vom Baum.
 it-nt-0020; Wald; il bosco; la foresta; A1; Natur/Landschaft; Ogni domenica camminiamo nel bosco.; Wir gehen jeden Sonntag durch den Wald.
 it-nt-0021; Berg; la montagna; il monte; A1; Natur/Landschaft; D'inverno la montagna è coperta di neve.; Der Berg ist im Winter mit Schnee bedeckt.
 it-nt-0022; See; il lago; ; A1; Natur/Landschaft; Ogni estate nuotiamo nel lago.; Wir schwimmen jeden Sommer im See.
@@ -38,7 +38,7 @@ it-nt-0035; Löwe; il leone; ; A2; Natur/Tiere/Wildtiere; A mezzogiorno il leone
 it-nt-0036; Tiger; la tigre; ; A2; Natur/Tiere/Wildtiere; La tigre è una cacciatrice eccellente e paziente.; Der Tiger ist ein hervorragender und geduldiger Jäger.
 it-nt-0037; Elefant; l'elefante; ; A2; Natur/Tiere/Wildtiere; L'elefante beve moltissima acqua ogni giorno.; Der Elefant trinkt täglich sehr viel Wasser.
 it-nt-0038; Giraffe; la giraffa; ; A2; Natur/Tiere/Wildtiere; La giraffa mangia le foglie degli alberi più alti.; Die Giraffe frisst Blätter von den höchsten Bäumen.
-it-nt-0039; Schlange; il serpente; la serpe; A2; Natur/Tiere/Wildtiere; Un serpente verde era sdraiato sulla pietra calda.; Eine grüne Schlange lag auf dem warmen Stein.
+it-nt-0039; Schlange (Tier); il serpente; la serpe; A2; Natur/Tiere/Wildtiere; Un serpente verde era sdraiato sulla pietra calda.; Eine grüne Schlange lag auf dem warmen Stein.
 it-nt-0040; Frosch; la rana; ; A2; Natur/Tiere/Wildtiere; La rana salta nello stagno con uno splash.; Der Frosch springt mit einem Platscher in den Teich.
 it-nt-0041; Biene; l'ape; ; A2; Natur/Tiere/Insekten; L'ape vola di fiore in fiore.; Die Biene fliegt von Blüte zu Blüte.
 it-nt-0042; Fliege; la mosca; ; A2; Natur/Tiere/Insekten; Una mosca ronza per la cucina.; Eine Fliege summt durch die Küche.
@@ -74,7 +74,7 @@ it-nt-0071; Raubtier; il predatore; il carnivoro, la belva; B1; Natur/Tiere/Wild
 it-nt-0072; Beute; la preda; ; B1; Natur/Tiere/Wildtiere; Il gufo si avvicina silenziosamente alla sua preda.; Die Eule nähert sich lautlos ihrer Beute.
 it-nt-0073; Herde; la mandria; il gregge; B1; Natur/Tiere/Wildtiere; Una mandria di mucche bloccava la stradina.; Eine Herde Kühe blockierte die kleine Straße.
 it-nt-0074; Schwarm; lo sciame; lo stormo, il banco; B1; Natur/Tiere/Insekten; Uno sciame di api si è posato sul vecchio albero.; Ein Bienenschwarm ließ sich im alten Baum nieder.
-it-nt-0075; Art; la specie; ; B1; Natur/Tiere/Wildtiere; Questa specie di farfalla è molto rara qui.; Diese Schmetterlingsart ist hier sehr selten.
+it-nt-0075; Art (Biologie); la specie; ; B1; Natur/Tiere/Wildtiere; Questa specie di farfalla è molto rara qui.; Diese Schmetterlingsart ist hier sehr selten.
 it-nt-0076; Lebensraum; l'habitat; ; B1; Natur/Tiere/Wildtiere; Le zone umide sono un habitat importante per molti uccelli.; Feuchtgebiete sind ein wichtiger Lebensraum für viele Vögel.
 it-nt-0077; Umwelt; l'ambiente; ; B1; Natur/Landschaft; Dovremmo tutti proteggere meglio il nostro ambiente.; Wir sollten alle unsere Umwelt besser schützen.
 it-nt-0078; Naturschutz; la tutela della natura; la protezione della natura, la conservazione della natura; B1; Natur/Landschaft; La tutela della natura comincia nel proprio giardino.; Naturschutz beginnt im eigenen Garten.
@@ -87,14 +87,14 @@ it-nt-0084; Teich; lo stagno; il laghetto; B1; Natur/Landschaft; Nel nostro stag
 it-nt-0085; Wüste; il deserto; ; B1; Natur/Landschaft; Nel deserto arido non cresce quasi niente.; In der trockenen Wüste wächst kaum etwas.
 it-nt-0086; Höhle; la grotta; la caverna, la tana; B1; Natur/Landschaft; I pipistrelli passano l'inverno in questa grotta.; Fledermäuse überwintern in dieser Höhle.
 it-nt-0087; Gipfel; la vetta; la cima; B1; Natur/Landschaft; Dopo cinque ore abbiamo raggiunto la vetta.; Nach fünf Stunden erreichten wir den Gipfel.
-it-nt-0088; Boden; il terreno; il suolo; B1; Natur/Pflanzen; Un terreno sano è pieno di minuscoli esseri viventi.; Gesunder Boden ist voller winziger Lebewesen.
+it-nt-0088; Boden (Erde); il terreno; il suolo; B1; Natur/Pflanzen; Un terreno sano è pieno di minuscoli esseri viventi.; Gesunder Boden ist voller winziger Lebewesen.
 it-nt-0089; Samen; il seme; i semi; B1; Natur/Pflanzen; Abbiamo seminato i semi all'inizio della primavera.; Wir haben die Samen im Frühjahr ausgesät.
-it-nt-0090; Stamm; il tronco; ; B1; Natur/Pflanzen; Il tronco del faggio è liscio e grigio.; Der Stamm der Buche ist glatt und grau.
+it-nt-0090; Stamm (Baum); il tronco; ; B1; Natur/Pflanzen; Il tronco del faggio è liscio e grigio.; Der Stamm der Buche ist glatt und grau.
 it-nt-0091; Rinde; la corteccia; ; B1; Natur/Pflanzen; A volte i caprioli mangiano la corteccia degli alberi giovani.; Rehe fressen manchmal die Rinde junger Bäume.
 it-nt-0092; blühen; fiorire; ; B1; Natur/Pflanzen; I ciliegi fioriscono a fine aprile.; Die Kirschbäume blühen Ende April.
 it-nt-0093; Eiche; la quercia; ; B1; Natur/Pflanzen; La vecchia quercia ha più di trecento anni.; Die alte Eiche ist über dreihundert Jahre alt.
 it-nt-0094; Birke; la betulla; ; B1; Natur/Pflanzen; La betulla si riconosce dalla corteccia bianca.; Eine Birke erkennt man an ihrer weißen Rinde.
-it-nt-0095; Kiefer; il pino; ; B1; Natur/Pflanzen; Il pino cresce bene su terreno sabbioso.; Die Kiefer wächst gut auf sandigem Boden.
+it-nt-0095; Kiefer (Baum); il pino; ; B1; Natur/Pflanzen; Il pino cresce bene su terreno sabbioso.; Die Kiefer wächst gut auf sandigem Boden.
 it-nt-0096; Kralle; l'artiglio; gli artigli; B2; Natur/Tiere/Wildtiere; L'astore ha afferrato il topo con gli artigli.; Der Habicht packte die Maus mit seinen Krallen.
 it-nt-0097; Geweih; le corna; il palco; B2; Natur/Tiere/Wildtiere; Il cervo perde le corna ogni anno.; Der Hirsch verliert jedes Jahr sein Geweih.
 it-nt-0098; Huf; lo zoccolo; ; B2; Natur/Tiere/Haustiere; Il maniscalco ha controllato lo zoccolo sinistro del cavallo.; Der Hufschmied prüfte den linken Huf des Pferdes.
@@ -142,7 +142,7 @@ it-nt-0139; Artenschutz; la tutela delle specie; la protezione delle specie; C1;
 it-nt-0140; Monokultur; la monocoltura; ; C1; Natur/Pflanzen; Una monocoltura è molto più vulnerabile ai parassiti.; Eine Monokultur ist deutlich anfälliger für Schädlinge.
 it-nt-0141; Photosynthese; la fotosintesi; ; C1; Natur/Pflanzen; Con la fotosintesi le piante trasformano la luce in energia.; Durch Photosynthese wandeln Pflanzen Licht in Energie um.
 it-nt-0142; Keimling; la plantula; il germoglio; C1; Natur/Pflanzen; La minuscola plantula ha bisogno di calore e di umidità costante.; Der winzige Keimling braucht Wärme und gleichmäßige Feuchtigkeit.
-it-nt-0143; Bestand; la popolazione; il numero di esemplari; C1; Natur/Tiere/Wildtiere; In questa regione la popolazione di lupi cresce lentamente.; Der Bestand an Wölfen wächst in dieser Region langsam.
+it-nt-0143; Bestand (Tiere); la popolazione; il numero di esemplari; C1; Natur/Tiere/Wildtiere; In questa regione la popolazione di lupi cresce lentamente.; Der Bestand an Wölfen wächst in dieser Region langsam.
 it-nt-0144; Renaturierung; la rinaturalizzazione; il ripristino ambientale; C2; Natur/Landschaft; La rinaturalizzazione del fiume è durata dieci anni.; Die Renaturierung des Flusses dauerte zehn Jahre.
 it-nt-0145; Zersiedelung; la dispersione urbana; l'espansione urbana incontrollata, lo sprawl urbano; C2; Natur/Landschaft; La dispersione urbana divora il paesaggio aperto.; Die Zersiedelung frisst sich in die offene Landschaft.
 it-nt-0146; Flächenversiegelung; l'impermeabilizzazione del suolo; il consumo di suolo; C2; Natur/Landschaft; L'impermeabilizzazione del suolo impedisce all'acqua piovana di raggiungere la falda.; Die Flächenversiegelung verhindert, dass Regenwasser ins Grundwasser gelangt.

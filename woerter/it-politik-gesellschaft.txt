@@ -1,6 +1,6 @@
 # Italienisch: Politik & Gesellschaft
 id; Deutsch; Italienisch; Weitere Antworten; Niveau; Themen; Beispiel Italienisch; Beispiel Deutsch
-it-pg-0001; Land; il paese; la nazione; A1; Gesellschaft/Politik/Staat & Wahlen; La Germania è un grande paese in Europa.; Deutschland ist ein großes Land in Europa.
+it-pg-0001; Land (Staat); il paese; la nazione; A1; Gesellschaft/Politik/Staat & Wahlen; La Germania è un grande paese in Europa.; Deutschland ist ein großes Land in Europa.
 it-pg-0002; Stadt; la città; ; A1; Gesellschaft/Soziales; La nostra città sta costruendo una nuova biblioteca.; Unsere Stadt baut eine neue Bibliothek.
 it-pg-0003; Mensch; l'essere umano; la persona, l'uomo; A1; Gesellschaft/Soziales; Ogni essere umano merita rispetto e dignità.; Jeder Mensch verdient Respekt und Würde.
 it-pg-0004; Leute; la gente; le persone; A1; Gesellschaft/Soziales; Molta gente è venuta all'assemblea cittadina.; Viele Leute kamen zur Bürgerversammlung.
@@ -13,7 +13,7 @@ it-pg-0010; Kind; il bambino; la bambina, il figlio; A1; Gesellschaft/Soziales; 
 it-pg-0011; Politik; la politica; ; A2; Gesellschaft/Politik/Demokratie; Molti giovani si interessano di politica.; Viele junge Leute interessieren sich für Politik.
 it-pg-0012; Politiker; il politico; ; A2; Gesellschaft/Politik/Parteien; Il politico ha risposto alle domande del pubblico.; Der Politiker beantwortete Fragen aus dem Publikum.
 it-pg-0013; Wahl; l'elezione; le elezioni; A2; Gesellschaft/Politik/Staat & Wahlen; Le prossime elezioni si terranno a settembre.; Die nächste Wahl findet im September statt.
-it-pg-0014; wählen; votare; eleggere; A2; Gesellschaft/Politik/Staat & Wahlen; Puoi votare quando hai diciotto anni.; Du darfst wählen, wenn du achtzehn bist.
+it-pg-0014; wählen (bei einer Wahl); votare; eleggere; A2; Gesellschaft/Politik/Staat & Wahlen; Puoi votare quando hai diciotto anni.; Du darfst wählen, wenn du achtzehn bist.
 it-pg-0015; Partei; il partito; ; A2; Gesellschaft/Politik/Parteien; Quale partito sostieni quest'anno?; Welche Partei unterstützt du dieses Jahr?
 it-pg-0016; Regierung; il governo; ; A2; Gesellschaft/Politik/Staat & Wahlen; Il governo ha annunciato un nuovo programma per l'istruzione.; Die Regierung kündigte ein neues Bildungsprogramm an.
 it-pg-0017; Gesetz; la legge; ; A2; Gesellschaft/Recht; La nuova legge entra in vigore a gennaio.; Das neue Gesetz gilt ab Januar.
@@ -28,7 +28,7 @@ it-pg-0025; Freiheit; la libertà; ; A2; Gesellschaft/Politik/Demokratie; La lib
 it-pg-0026; Recht; il diritto; ; A2; Gesellschaft/Recht; Ognuno ha il diritto di esprimere liberamente la propria opinione.; Jeder hat das Recht auf freie Meinungsäußerung.
 it-pg-0027; Meinung; l'opinione; il parere; A2; Gesellschaft/Politik/Demokratie; Qui ognuno può dire apertamente la sua opinione.; Jeder darf hier offen seine Meinung sagen.
 it-pg-0028; Demonstration; la manifestazione; la protesta; A2; Gesellschaft/Politik/Demokratie; Migliaia di persone hanno partecipato alla manifestazione nella capitale.; Tausende nahmen an der Demonstration in der Hauptstadt teil.
-it-pg-0029; Gericht; il tribunale; la corte; A2; Gesellschaft/Recht; Il tribunale deciderà il caso domani.; Das Gericht entscheidet den Fall morgen.
+it-pg-0029; Gericht (Justiz); il tribunale; la corte; A2; Gesellschaft/Recht; Il tribunale deciderà il caso domani.; Das Gericht entscheidet den Fall morgen.
 it-pg-0030; Verein; l'associazione; il circolo, il club; A2; Gesellschaft/Ehrenamt; La nostra associazione organizza ogni anno una festa d'estate.; Unser Verein organisiert jedes Jahr ein Sommerfest.
 it-pg-0031; Mitglied; il membro; il socio, la socia; A2; Gesellschaft/Ehrenamt; È membro da dieci anni.; Sie ist seit zehn Jahren Mitglied.
 it-pg-0032; Nachrichten; le notizie; il telegiornale, il tg; A2; Gesellschaft/Politik/Demokratie; Ogni sera alle otto guardo le notizie in tv.; Ich schaue jeden Abend um acht die Nachrichten.
@@ -40,7 +40,7 @@ it-pg-0037; Parlament; il parlamento; ; B1; Gesellschaft/Politik/Staat & Wahlen;
 it-pg-0038; Kanzler; il cancelliere; la cancelliera; B1; Gesellschaft/Politik/Staat & Wahlen; Il cancelliere ha tenuto un discorso sull'Europa.; Der Kanzler hielt eine Rede über Europa.
 it-pg-0039; Minister; il ministro; la ministra; B1; Gesellschaft/Politik/Staat & Wahlen; Il ministro ha presentato i piani per nuove scuole.; Der Minister stellte die Pläne für neue Schulen vor.
 it-pg-0040; Abgeordneter; il deputato; la deputata, il parlamentare; B1; Gesellschaft/Politik/Staat & Wahlen; Il nostro deputato visita spesso la regione.; Unser Abgeordneter besucht die Region oft.
-it-pg-0041; Stimme; il voto; la voce; B1; Gesellschaft/Politik/Staat & Wahlen; In un'elezione combattuta ogni voto conta.; Jede Stimme zählt bei einer knappen Wahl.
+it-pg-0041; Stimme (bei der Wahl); il voto; ; B1; Gesellschaft/Politik/Staat & Wahlen; In un'elezione combattuta ogni voto conta.; Jede Stimme zählt bei einer knappen Wahl.
 it-pg-0042; Mehrheit; la maggioranza; ; B1; Gesellschaft/Politik/Staat & Wahlen; Ieri il partito ha ottenuto una chiara maggioranza.; Die Partei gewann gestern eine klare Mehrheit.
 it-pg-0043; Minderheit; la minoranza; ; B1; Gesellschaft/Soziales; La legge tutela i diritti di ogni minoranza.; Das Gesetz schützt die Rechte jeder Minderheit.
 it-pg-0044; Opposition; l'opposizione; ; B1; Gesellschaft/Politik/Parteien; L'opposizione ha criticato duramente il nuovo bilancio.; Die Opposition kritisierte den neuen Haushalt scharf.
@@ -105,11 +105,11 @@ it-pg-0102; Grundrecht; il diritto fondamentale; ; B2; Gesellschaft/Recht; In mo
 it-pg-0103; Zensur; la censura; ; B2; Gesellschaft/Politik/Demokratie; In un paese libero la censura non ha posto.; Zensur hat in einem freien Land keinen Platz.
 it-pg-0104; Korruption; la corruzione; ; B2; Gesellschaft/Politik/Demokratie; La nuova unità combatte la corruzione negli uffici pubblici.; Die neue Einheit bekämpft Korruption in Behörden.
 it-pg-0105; Skandal; lo scandalo; ; B2; Gesellschaft/Politik/Demokratie; Lo scandalo ha costretto il senatore alle dimissioni.; Der Skandal zwang den Senator zum Rücktritt.
-it-pg-0106; Rücktritt; le dimissioni; ; B2; Gesellschaft/Politik/Demokratie; Lunedì il ministro ha annunciato le sue dimissioni.; Der Minister erklärte am Montag seinen Rücktritt.
+it-pg-0106; Rücktritt (vom Amt); le dimissioni; ; B2; Gesellschaft/Politik/Demokratie; Lunedì il ministro ha annunciato le sue dimissioni.; Der Minister erklärte am Montag seinen Rücktritt.
 it-pg-0107; zurücktreten; dimettersi; ; B2; Gesellschaft/Politik/Demokratie; Il sindaco si è dimesso dopo il referendum perso.; Der Bürgermeister trat nach der verlorenen Volksabstimmung zurück.
 it-pg-0108; Klage; la causa; l'azione legale, la denuncia; B2; Gesellschaft/Recht; L'azienda ha intentato una causa contro il comune.; Die Firma reichte eine Klage gegen die Stadt ein.
 it-pg-0109; verklagen; fare causa; citare in giudizio, denunciare; B2; Gesellschaft/Recht; Ha fatto causa all'azienda per stipendi non pagati.; Sie verklagte die Firma wegen ausstehender Löhne.
-it-pg-0110; Berufung; il ricorso in appello; l'appello, il ricorso; B2; Gesellschaft/Recht; Il suo avvocato ha annunciato ricorso in appello contro la sentenza.; Sein Anwalt kündigte Berufung gegen das Urteil an.
+it-pg-0110; Berufung (Gericht); il ricorso in appello; l'appello, il ricorso; B2; Gesellschaft/Recht; Il suo avvocato ha annunciato ricorso in appello contro la sentenza.; Sein Anwalt kündigte Berufung gegen das Urteil an.
 it-pg-0111; Beweis; la prova; ; B2; Gesellschaft/Recht; Il tribunale non ha trovato nessuna prova contro il conducente.; Das Gericht fand keinen Beweis gegen den Fahrer.
 it-pg-0112; Staatsanwalt; il pubblico ministero; il procuratore, la procuratrice, il pm; B2; Gesellschaft/Recht; Il pubblico ministero ha chiesto una lunga pena detentiva.; Der Staatsanwalt forderte eine lange Haftstrafe.
 it-pg-0113; Angeklagter; l'imputato; l'imputata, l'accusato; B2; Gesellschaft/Recht; L'imputato è rimasto in silenzio durante il processo.; Der Angeklagte schwieg während des Prozesses.

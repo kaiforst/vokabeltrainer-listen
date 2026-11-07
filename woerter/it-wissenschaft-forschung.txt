@@ -25,14 +25,14 @@ it-wi-0022; Daten; i dati; ; B1; Wissenschaft/Forschung & Methode; I sensori rac
 it-wi-0023; messen; misurare; ; A2; Wissenschaft/Forschung & Methode; Misuriamo la temperatura tre volte al giorno.; Wir messen die Temperatur dreimal am Tag.
 it-wi-0024; Messgenauigkeit; la precisione di misura; l'accuratezza di misura, la precisione; C2; Wissenschaft/Forschung & Methode; Il nuovo strumento raddoppia la precisione di misura del sistema.; Das neue Instrument verdoppelt die Messgenauigkeit des Systems.
 it-wi-0025; vergleichen; confrontare; paragonare; A2; Wissenschaft/Forschung & Methode; Gli alunni confrontano i risultati dei due gruppi.; Die Schüler vergleichen die Ergebnisse beider Gruppen.
-it-wi-0026; Annahme; il presupposto; l'assunto, la supposizione; B2; Wissenschaft/Forschung & Methode; Il modello si basa su un presupposto semplice.; Das Modell beruht auf einer einfachen Annahme.
+it-wi-0026; Annahme (Vermutung); il presupposto; l'assunto, la supposizione; B2; Wissenschaft/Forschung & Methode; Il modello si basa su un presupposto semplice.; Das Modell beruht auf einer einfachen Annahme.
 it-wi-0027; Erkenntnis; la constatazione; la conoscenza, l'intuizione; C1; Wissenschaft/Forschung & Methode; Lo studio ha portato a una constatazione sorprendente sul sonno.; Die Studie führte zu einer überraschenden Erkenntnis über den Schlaf.
 it-wi-0028; Gutachten; la perizia; il parere; C1; Wissenschaft/Forschung & Methode; Il tribunale ha richiesto una perizia all'università.; Das Gericht forderte ein Gutachten der Universität an.
 it-wi-0029; Versuchsreihe; la serie di esperimenti; la serie di prove; C1; Wissenschaft/Forschung & Methode; La lunga serie di esperimenti ha confermato i primi risultati.; Die lange Versuchsreihe bestätigte die ersten Ergebnisse.
 it-wi-0030; Grundlagenforschung; la ricerca di base; la ricerca fondamentale; C2; Wissenschaft/Forschung & Methode; La ricerca di base spesso dà frutti solo dopo decenni.; Grundlagenforschung zahlt sich oft erst nach Jahrzehnten aus.
 it-wi-0031; Licht; la luce; ; A1; Wissenschaft/Physik; La luce è più veloce di qualsiasi altra cosa che conosciamo.; Licht ist schneller als alles andere, das wir kennen.
 it-wi-0032; Energie; l'energia; ; A2; Wissenschaft/Physik; Il sole ci dà luce ed energia.; Die Sonne gibt uns Licht und Energie.
-it-wi-0033; Kraft; la forza; ; B1; Wissenschaft/Physik; Una forza intensa attira il magnete verso il metallo.; Eine starke Kraft zieht den Magneten zum Metall.
+it-wi-0033; Kraft (Physik); la forza; ; B1; Wissenschaft/Physik; Una forza intensa attira il magnete verso il metallo.; Eine starke Kraft zieht den Magneten zum Metall.
 it-wi-0034; Geschwindigkeit; la velocità; ; B2; Wissenschaft/Physik; Il razzo raggiunge una velocità enorme in pochi minuti.; Die Rakete erreicht innerhalb von Minuten eine enorme Geschwindigkeit.
 it-wi-0035; Temperatur; la temperatura; ; A2; Wissenschaft/Physik; La temperatura del laboratorio deve restare costante.; Die Temperatur im Labor muss konstant bleiben.
 it-wi-0036; Trägheit; l'inerzia; ; C2; Wissenschaft/Physik; Per inerzia la palla pesante continua a rotolare.; Wegen seiner Trägheit rollt der schwere Ball weiter.
@@ -49,7 +49,7 @@ it-wi-0046; Strahlung; la radiazione; le radiazioni; B2; Wissenschaft/Physik; Lo
 it-wi-0047; Leitfähigkeit; la conducibilità; la conduttività; C1; Wissenschaft/Physik; Il rame è noto per la sua ottima conducibilità elettrica.; Kupfer ist für seine ausgezeichnete elektrische Leitfähigkeit bekannt.
 it-wi-0048; Quantenmechanik; la meccanica quantistica; ; C1; Wissenschaft/Physik; La meccanica quantistica descrive lo strano mondo delle particelle minuscole.; Die Quantenmechanik beschreibt die seltsame Welt winziger Teilchen.
 it-wi-0049; Relativitätstheorie; la teoria della relatività; la relatività; C1; Wissenschaft/Physik; Einstein pubblicò la sua teoria della relatività nel 1905.; Einstein veröffentlichte seine Relativitätstheorie im Jahr 1905.
-it-wi-0050; Spannung; la tensione; il voltaggio; B2; Wissenschaft/Physik; La tensione in questo cavo è pericolosamente alta.; Die Spannung in diesem Kabel ist gefährlich hoch.
+it-wi-0050; Spannung (Strom); la tensione; il voltaggio; B2; Wissenschaft/Physik; La tensione in questo cavo è pericolosamente alta.; Die Spannung in diesem Kabel ist gefährlich hoch.
 it-wi-0051; Brechung; la rifrazione; ; C2; Wissenschaft/Physik; La rifrazione della luce fa sembrare piegata la cannuccia.; Die Brechung des Lichts lässt den Strohhalm gebogen aussehen.
 it-wi-0052; Wechselwirkung; l'interazione; ; C1; Wissenschaft/Physik; I ricercatori studiano l'interazione tra luce e materia.; Forscher untersuchen die Wechselwirkung zwischen Licht und Materie.
 it-wi-0053; Wasser; l'acqua; ; A1; Wissenschaft/Chemie; L'acqua bolle a cento gradi Celsius.; Wasser kocht bei hundert Grad Celsius.
@@ -63,12 +63,12 @@ it-wi-0060; Säure; l'acido; ; B2; Wissenschaft/Chemie; L'acido scioglie lentame
 it-wi-0061; Salz; il sale; ; A2; Wissenschaft/Chemie; Il sale si scioglie rapidamente nell'acqua calda.; Salz löst sich schnell in warmem Wasser.
 it-wi-0062; Gas; il gas; ; A2; Wissenschaft/Chemie; Il palloncino è pieno di un gas leggero.; Der Ballon ist mit einem leichten Gas gefüllt.
 it-wi-0063; Flüssigkeit; il liquido; il fluido; B1; Wissenschaft/Chemie; Versa con attenzione il liquido nel tubo di vetro.; Gieß die Flüssigkeit vorsichtig in das Glasrohr.
-it-wi-0064; Stoff; la sostanza; il materiale; B1; Wissenschaft/Chemie; Questa sostanza è innocua per persone e animali.; Dieser Stoff ist für Menschen und Tiere harmlos.
+it-wi-0064; Stoff (Chemie); la sostanza; il materiale; B1; Wissenschaft/Chemie; Questa sostanza è innocua per persone e animali.; Dieser Stoff ist für Menschen und Tiere harmlos.
 it-wi-0065; Aggregatzustand; lo stato di aggregazione; lo stato della materia; C2; Wissenschaft/Chemie; Ghiaccio, acqua e vapore sono tre stati di aggregazione.; Eis, Wasser und Dampf sind drei Aggregatzustände.
 it-wi-0066; Reaktion; la reazione; ; B1; Wissenschaft/Chemie; La reazione produce calore e una nuova sostanza.; Die Reaktion erzeugt Wärme und einen neuen Stoff.
 it-wi-0067; Element; l'elemento; ; B1; Wissenschaft/Chemie; L'ossigeno è l'elemento più diffuso nella crosta terrestre.; Sauerstoff ist das häufigste Element der Erdkruste.
 it-wi-0068; Molekül; la molecola; ; B2; Wissenschaft/Chemie; Una molecola d'acqua è formata da tre atomi.; Ein Wassermolekül besteht aus drei Atomen.
-it-wi-0069; Verbindung; il composto; il composto chimico; B2; Wissenschaft/Chemie; Il sale è un composto di sodio e cloro.; Salz ist eine Verbindung aus Natrium und Chlor.
+it-wi-0069; Verbindung (Chemie); il composto; il composto chimico; B2; Wissenschaft/Chemie; Il sale è un composto di sodio e cloro.; Salz ist eine Verbindung aus Natrium und Chlor.
 it-wi-0070; auflösen; sciogliersi; sciogliere, dissolvere; B2; Wissenschaft/Chemie; La compressa si scioglie completamente in un bicchiere d'acqua.; Die Tablette löst sich vollständig in einem Glas Wasser auf.
 it-wi-0071; Katalysator; il catalizzatore; ; C1; Wissenschaft/Chemie; Un catalizzatore accelera la reazione senza consumarsi.; Ein Katalysator beschleunigt die Reaktion, ohne verbraucht zu werden.
 it-wi-0072; Destillation; la distillazione; ; C2; Wissenschaft/Chemie; La distillazione separa l'alcol dall'acqua con un riscaldamento attento.; Die Destillation trennt Alkohol durch vorsichtiges Erhitzen vom Wasser.
@@ -84,7 +84,7 @@ it-wi-0081; Virus; il virus; ; B1; Wissenschaft/Biologie; Il virus si diffonde s
 it-wi-0082; Gen; il gene; ; B2; Wissenschaft/Biologie; Un singolo gene può influenzare il colore degli occhi.; Ein einzelnes Gen kann die Augenfarbe beeinflussen.
 it-wi-0083; Vererbung; l'ereditarietà; la trasmissione ereditaria; B2; Wissenschaft/Biologie; L'ereditarietà spiega perché i figli assomigliano ai genitori.; Die Vererbung erklärt, warum Kinder ihren Eltern ähneln.
 it-wi-0084; Evolution; l'evoluzione; ; B2; Wissenschaft/Biologie; L'evoluzione agisce nell'arco di molti milioni di anni.; Die Evolution wirkt über viele Millionen Jahre.
-it-wi-0085; Art; la specie; ; B1; Wissenschaft/Biologie; Questa specie rara vive solo su un'isola.; Diese seltene Art lebt nur auf einer Insel.
+it-wi-0085; Art (Biologie); la specie; ; B1; Wissenschaft/Biologie; Questa specie rara vive solo su un'isola.; Diese seltene Art lebt nur auf einer Insel.
 it-wi-0086; Lebensraum; l'habitat; ; B2; Wissenschaft/Biologie; Le rane stanno perdendo il loro habitat naturale.; Die Frösche verlieren ihren natürlichen Lebensraum.
 it-wi-0087; Ökosystem; l'ecosistema; ; B2; Wissenschaft/Biologie; Un bosco è un ecosistema complesso con innumerevoli specie.; Ein Wald ist ein komplexes Ökosystem mit unzähligen Arten.
 it-wi-0088; Stoffwechsel; il metabolismo; ; C1; Wissenschaft/Biologie; L'attività fisica regolare accelera il metabolismo umano.; Regelmäßige Bewegung beschleunigt den menschlichen Stoffwechsel.
@@ -103,7 +103,7 @@ it-wi-0100; Dreieck; il triangolo; ; A2; Wissenschaft/Mathematik; Un triangolo h
 it-wi-0101; Kreis; il cerchio; ; A2; Wissenschaft/Mathematik; Disegna un cerchio con un raggio di cinque centimetri.; Zeichne einen Kreis mit einem Radius von fünf Zentimetern.
 it-wi-0102; Quadrat; il quadrato; ; B1; Wissenschaft/Mathematik; Un quadrato ha quattro lati della stessa lunghezza.; Ein Quadrat hat vier gleich lange Seiten.
 it-wi-0103; Gleichung; l'equazione; ; B1; Wissenschaft/Mathematik; Risolvi l'equazione e controlla il risultato.; Löse die Gleichung und überprüfe dein Ergebnis.
-it-wi-0104; Bruch; la frazione; ; B1; Wissenschaft/Mathematik; Una frazione come un mezzo è facile da immaginare.; Ein Bruch wie ein Halb ist leicht vorstellbar.
+it-wi-0104; Bruch (Mathematik); la frazione; ; B1; Wissenschaft/Mathematik; Una frazione come un mezzo è facile da immaginare.; Ein Bruch wie ein Halb ist leicht vorstellbar.
 it-wi-0105; Durchschnitt; la media; ; B1; Wissenschaft/Mathematik; La media dei tre voti è due.; Der Durchschnitt der drei Noten ist zwei.
 it-wi-0106; Wahrscheinlichkeit; la probabilità; ; B2; Wissenschaft/Mathematik; La probabilità di pioggia domani è molto bassa.; Die Wahrscheinlichkeit für Regen morgen ist sehr gering.
 it-wi-0107; Integralrechnung; il calcolo integrale; ; C2; Wissenschaft/Mathematik; Con il calcolo integrale si calcolano le aree sotto le curve.; Mit der Integralrechnung berechnet man Flächen unter Kurven.
@@ -134,7 +134,7 @@ it-wi-0131; Sonne; il sole; ; A1; Wissenschaft/Raumfahrt; Ogni mattina il sole s
 it-wi-0132; Mond; la luna; ; A1; Wissenschaft/Raumfahrt; Stanotte la luna sembra particolarmente grande.; Der Mond sieht heute Nacht besonders groß aus.
 it-wi-0133; Stern; la stella; ; A1; Wissenschaft/Raumfahrt; Nel deserto si vede chiaramente ogni stella.; In der Wüste sieht man jeden Stern deutlich.
 it-wi-0134; Erde; la Terra; ; A1; Wissenschaft/Raumfahrt; La Terra gira intorno al sole una volta all'anno.; Die Erde umkreist die Sonne einmal im Jahr.
-it-wi-0135; Himmel; il cielo; ; A2; Wissenschaft/Raumfahrt; Il cielo notturno sopra le montagne era pieno di stelle.; Der Nachthimmel über den Bergen war voller Sterne.
+it-wi-0135; Himmel (Wetter, Sterne); il cielo; ; A2; Wissenschaft/Raumfahrt; Il cielo notturno sopra le montagne era pieno di stelle.; Der Nachthimmel über den Bergen war voller Sterne.
 it-wi-0136; Rakete; il razzo; ; A2; Wissenschaft/Raumfahrt; Il razzo è partito di mattina presto.; Die Rakete startete früh am Morgen.
 it-wi-0137; Planet; il pianeta; ; A2; Wissenschaft/Raumfahrt; Marte è il quarto pianeta a partire dal sole.; Der Mars ist der vierte Planet von der Sonne aus.
 it-wi-0138; Weltraum; lo spazio; lo spazio cosmico; B1; Wissenschaft/Raumfahrt; Nello spazio non c'è aria da respirare.; Im Weltraum gibt es keine Luft zum Atmen.

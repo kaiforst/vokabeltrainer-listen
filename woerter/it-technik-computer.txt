@@ -37,7 +37,7 @@ it-tc-0034; Ladegerät; il caricabatterie; il caricatore; A2; Technik/Computer/S
 it-tc-0035; Kopfhörer; le cuffie; gli auricolari; A2; Technik/Computer/Geräte; Ascolta la musica con le cuffie.; Er hört Musik mit seinen Kopfhörern.
 it-tc-0036; Lautsprecher; l'altoparlante; la cassa, lo speaker; A2; Technik/Computer/Geräte; L'altoparlante è abbastanza forte per la festa.; Der Lautsprecher ist laut genug für die Party.
 it-tc-0037; Smartphone; lo smartphone; ; A2; Technik/Computer/Smartphone; Oggi quasi tutti hanno uno smartphone.; Fast jeder hat heutzutage ein Smartphone.
-it-tc-0038; Nachricht; il messaggio; ; A2; Technik/Computer/Smartphone; Stamattina mi ha mandato un messaggio.; Sie hat mir heute Morgen eine Nachricht geschickt.
+it-tc-0038; Nachricht (Mitteilung); il messaggio; ; A2; Technik/Computer/Smartphone; Stamattina mi ha mandato un messaggio.; Sie hat mir heute Morgen eine Nachricht geschickt.
 it-tc-0039; Benutzer; l'utente; ; A2; Technik/Computer/Software; Il nuovo utente ha bisogno prima di una password.; Der neue Benutzer braucht zuerst ein Passwort.
 it-tc-0040; Benutzername; il nome utente; ; A2; Technik/Computer/Sicherheit; Per favore, inserisci il tuo nome utente e la tua password.; Bitte gib deinen Benutzernamen und dein Passwort ein.
 it-tc-0041; Suchmaschine; il motore di ricerca; ; A2; Technik/Computer/Internet; Ho trovato la risposta con un motore di ricerca.; Ich habe die Antwort mit einer Suchmaschine gefunden.
@@ -53,12 +53,12 @@ it-tc-0050; funktionieren; funzionare; ; A2; Technik/Computer/Geräte; La stampa
 it-tc-0051; Software; il software; ; B1; Technik/Computer/Software; L'azienda sviluppa software per piccole imprese.; Die Firma entwickelt Software für kleine Unternehmen.
 it-tc-0052; Hardware; l'hardware; ; B1; Technik/Computer/Hardware; Un buon hardware è importante per i giochi moderni.; Gute Hardware ist wichtig für moderne Spiele.
 it-tc-0053; Festplatte; il disco rigido; l'hard disk; B1; Technik/Computer/Hardware; Il mio disco rigido è di nuovo quasi pieno.; Meine Festplatte ist schon wieder fast voll.
-it-tc-0054; Speicher; la memoria; ; B1; Technik/Computer/Hardware; Il telefono non ha più abbastanza memoria.; Das Handy hat nicht mehr genug Speicher.
+it-tc-0054; Speicher (Computer); la memoria; ; B1; Technik/Computer/Hardware; Il telefono non ha più abbastanza memoria.; Das Handy hat nicht mehr genug Speicher.
 it-tc-0055; Betriebssystem; il sistema operativo; ; B1; Technik/Computer/Software; Il nuovo sistema operativo è molto più veloce.; Das neue Betriebssystem läuft viel schneller.
 it-tc-0056; Anwendung; l'applicazione; il programma; B1; Technik/Computer/Software; Questa applicazione funziona solo su computer più recenti.; Diese Anwendung läuft nur auf neueren Computern.
 it-tc-0057; installieren; installare; ; B1; Technik/Computer/Software; Prima devi installare il programma.; Du musst das Programm zuerst installieren.
 it-tc-0058; aktualisieren; aggiornare; ; B1; Technik/Computer/Software; Per favore, aggiorna l'app all'ultima versione.; Bitte aktualisiere die App auf die neueste Version.
-it-tc-0059; Einstellung; l'impostazione; ; B1; Technik/Computer/Software; Puoi cambiare questa impostazione nel menu.; Du kannst diese Einstellung im Menü ändern.
+it-tc-0059; Einstellung (Technik); l'impostazione; ; B1; Technik/Computer/Software; Puoi cambiare questa impostazione nel menu.; Du kannst diese Einstellung im Menü ändern.
 it-tc-0060; Virus; il virus; ; B1; Technik/Computer/Sicherheit; Un virus può distruggere rapidamente file importanti.; Ein Virus kann wichtige Dateien schnell zerstören.
 it-tc-0061; Sicherheit; la sicurezza; ; B1; Technik/Computer/Sicherheit; Su internet la sicurezza è molto importante.; Sicherheit ist im Internet sehr wichtig.
 it-tc-0062; sicher; sicuro; ; B1; Technik/Computer/Sicherheit; Scegli una password sicura con molti caratteri.; Wähle ein sicheres Passwort mit vielen Zeichen.

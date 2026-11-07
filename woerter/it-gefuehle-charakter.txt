@@ -15,7 +15,7 @@ it-gc-0012; freundlich; gentile; cordiale; A1; Mensch/Gefühle/Charakter; Il per
 it-gc-0013; wütend; arrabbiato; furioso; A1; Mensch/Gefühle/Emotionen; Diventa arrabbiato quando l'autobus è in ritardo.; Er wird wütend, wenn der Bus zu spät kommt.
 it-gc-0014; Spaß; il divertimento; ; A1; Mensch/Gefühle/Stimmungen; Oggi per i bambini è stato un gran divertimento.; Die Kinder hatten heute viel Spaß.
 it-gc-0015; mögen; piacere; voler bene; A1; Mensch/Gefühle/Emotionen; Mi piacciono le persone che sanno ascoltare.; Ich mag Menschen, die gut zuhören können.
-it-gc-0016; Glück; la felicità; la fortuna; A1; Mensch/Gefühle/Emotionen; Il denaro da solo non porta la felicità.; Geld allein bringt kein Glück.
+it-gc-0016; Glück (glücklich sein); la felicità; ; A1; Mensch/Gefühle/Emotionen; Il denaro da solo non porta la felicità.; Geld allein bringt kein Glück.
 it-gc-0017; allein; da solo; solo; A1; Mensch/Gefühle/Stimmungen; A volte mi piace stare da solo a casa.; Manchmal bin ich gern allein zu Hause.
 it-gc-0018; langweilig; noioso; ; A1; Mensch/Gefühle/Stimmungen; Il film era lungo e molto noioso.; Der Film war lang und sehr langweilig.
 it-gc-0019; lustig; divertente; buffo, spiritoso; A1; Mensch/Gefühle/Charakter; Mio zio è divertente e racconta barzellette fantastiche.; Mein Onkel ist lustig und erzählt tolle Witze.
@@ -31,7 +31,7 @@ it-gc-0028; Hoffnung; la speranza; ; A2; Mensch/Gefühle/Emotionen; C'è ancora 
 it-gc-0029; Sorge; la preoccupazione; il pensiero; A2; Mensch/Gefühle/Emotionen; La sua preoccupazione più grande è perdere il lavoro.; Ihre größte Sorge ist, die Arbeit zu verlieren.
 it-gc-0030; sich freuen; rallegrarsi; essere contento, essere felice; A2; Mensch/Gefühle/Emotionen; Mi rallegro di ogni piccolo successo.; Ich freue mich über jeden kleinen Erfolg.
 it-gc-0031; nervös; nervoso; agitato; A2; Mensch/Gefühle/Stimmungen; Prima di un esame è sempre nervoso.; Vor einer Prüfung ist er immer nervös.
-it-gc-0032; sauer; seccato; arrabbiato, irritato; A2; Mensch/Gefühle/Emotionen; È seccata perché lui ha dimenticato il suo compleanno.; Sie ist sauer, weil er ihren Geburtstag vergessen hat.
+it-gc-0032; sauer (verärgert); seccato; arrabbiato, irritato; A2; Mensch/Gefühle/Emotionen; È seccata perché lui ha dimenticato il suo compleanno.; Sie ist sauer, weil er ihren Geburtstag vergessen hat.
 it-gc-0033; zufrieden; soddisfatto; contento; A2; Mensch/Gefühle/Stimmungen; Sono soddisfatto del risultato del test.; Ich bin mit dem Ergebnis des Tests zufrieden.
 it-gc-0034; überrascht; sorpreso; ; A2; Mensch/Gefühle/Emotionen; Siamo stati sorpresi dall'invito improvviso.; Wir waren von der plötzlichen Einladung überrascht.
 it-gc-0035; Überraschung; la sorpresa; ; A2; Mensch/Gefühle/Emotionen; La festa è stata una sorpresa totale per lei.; Die Party war eine völlige Überraschung für sie.
@@ -51,7 +51,7 @@ it-gc-0048; ehrlich; sincero; onesto; A2; Mensch/Gefühle/Charakter; Sii sincero
 it-gc-0049; lügen; mentire; dire bugie; A2; Mensch/Gefühle/Verhalten; Non dovresti mai mentire ai tuoi amici.; Du solltest deine Freunde niemals anlügen.
 it-gc-0050; klug; intelligente; sveglio; A2; Mensch/Gefühle/Charakter; È intelligente e impara le lingue in fretta.; Sie ist klug und lernt Sprachen schnell.
 it-gc-0051; dumm; stupido; sciocco; A2; Mensch/Gefühle/Charakter; È stato stupido uscire senza giacca.; Es war dumm, ohne Jacke loszugehen.
-it-gc-0052; faul; pigro; ; A2; Mensch/Gefühle/Charakter; La domenica siamo tutti un po' pigri.; Sonntags sind wir alle ein bisschen faul.
+it-gc-0052; faul (träge); pigro; ; A2; Mensch/Gefühle/Charakter; La domenica siamo tutti un po' pigri.; Sonntags sind wir alle ein bisschen faul.
 it-gc-0053; fleißig; diligente; laborioso, studioso; A2; Mensch/Gefühle/Charakter; Lo studente diligente ha finito il progetto in anticipo.; Der fleißige Student beendete das Projekt früh.
 it-gc-0054; geduldig; paziente; ; A2; Mensch/Gefühle/Charakter; Un buon insegnante è paziente con i principianti.; Ein guter Lehrer ist geduldig mit Anfängern.
 it-gc-0055; ungeduldig; impaziente; ; A2; Mensch/Gefühle/Charakter; Diventa impaziente quando deve aspettare.; Er wird ungeduldig, wenn er warten muss.

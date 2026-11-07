@@ -1,7 +1,7 @@
 # Italienisch: Familie & Beziehungen
 id; Deutsch; Italienisch; Weitere Antworten; Niveau; Themen; Beispiel Italienisch; Beispiel Deutsch
 it-fb-0001; Familie; la famiglia; ; A1; Alltag/Familie/Verwandtschaft; La mia famiglia vive in una piccola città.; Meine Familie lebt in einer kleinen Stadt.
-it-fb-0002; Mutter; la madre; la mamma; A1; Alltag/Familie/Verwandtschaft; Mia madre mi chiama ogni domenica sera.; Meine Mutter ruft mich jeden Sonntagabend an.
+it-fb-0002; Mutter (Elternteil); la madre; la mamma; A1; Alltag/Familie/Verwandtschaft; Mia madre mi chiama ogni domenica sera.; Meine Mutter ruft mich jeden Sonntagabend an.
 it-fb-0003; Vater; il padre; il papà, il babbo; A1; Alltag/Familie/Verwandtschaft; Suo padre lavora all'aeroporto.; Sein Vater arbeitet am Flughafen.
 it-fb-0004; Eltern; i genitori; ; A1; Alltag/Familie/Verwandtschaft; I miei genitori sono sposati da trent'anni.; Meine Eltern sind seit dreißig Jahren verheiratet.
 it-fb-0005; Kind; il bambino; la bambina, il figlio, la figlia; A1; Alltag/Familie/Verwandtschaft; Il bambino gioca con il cane.; Das Kind spielt mit dem Hund.
@@ -40,8 +40,8 @@ it-fb-0037; Alleinerziehende; la madre single; il genitore single, la mamma sing
 it-fb-0038; Stammbaum; l'albero genealogico; ; B2; Alltag/Familie/Verwandtschaft; Ha ricostruito il suo albero genealogico fino a trecento anni fa.; Er verfolgte seinen Stammbaum dreihundert Jahre zurück.
 it-fb-0039; Verwandtschaft; il parentado; la parentela, i parenti; C1; Alltag/Familie/Verwandtschaft; Tutto il parentado si è riunito a Pasqua.; Die ganze Verwandtschaft traf sich an Ostern.
 it-fb-0040; Vormund; il tutore; la tutrice, il tutore legale; C1; Alltag/Familie/Verwandtschaft; Dopo l'incidente suo zio è diventato il suo tutore.; Nach dem Unfall wurde ihr Onkel ihr Vormund.
-it-fb-0041; Freund; il ragazzo; il fidanzato, l'amico; A1; Alltag/Familie/Partnerschaft; Il suo ragazzo le porta dei fiori ogni venerdì.; Ihr Freund bringt ihr jeden Freitag Blumen.
-it-fb-0042; Freundin; la ragazza; la fidanzata, l'amica; A1; Alltag/Familie/Partnerschaft; Stasera cucina per la sua ragazza.; Er kocht heute Abend für seine Freundin.
+it-fb-0041; Freund (Partner); il ragazzo; il fidanzato; A1; Alltag/Familie/Partnerschaft; Il suo ragazzo le porta dei fiori ogni venerdì.; Ihr Freund bringt ihr jeden Freitag Blumen.
+it-fb-0042; Freundin (Partnerin); la ragazza; la fidanzata; A1; Alltag/Familie/Partnerschaft; Stasera cucina per la sua ragazza.; Er kocht heute Abend für seine Freundin.
 it-fb-0043; Liebe; l'amore; ; A1; Alltag/Familie/Partnerschaft; L'amore è la cosa più importante della vita.; Liebe ist das Wichtigste im Leben.
 it-fb-0044; lieben; amare; voler bene; A2; Alltag/Familie/Partnerschaft; Ti amo più di ogni altra cosa.; Ich liebe dich über alles.
 it-fb-0045; Paar; la coppia; ; A2; Alltag/Familie/Partnerschaft; La giovane coppia va a vivere insieme.; Das junge Paar zieht zusammen.
@@ -111,7 +111,7 @@ it-fb-0108; Trauzeuge; il testimone di nozze; il testimone, la testimone; B2; Al
 it-fb-0109; Beerdigung; il funerale; la sepoltura; B2; Alltag/Familie/Lebensereignisse; Molti vecchi amici sono venuti al funerale.; Viele alte Freunde kamen zur Beerdigung.
 it-fb-0110; Trauer; il lutto; il dolore; B2; Alltag/Familie/Lebensereignisse; Il lutto ha bisogno di tempo e del sostegno degli altri.; Trauer braucht Zeit und die Unterstützung anderer.
 it-fb-0111; Ruhestand; la pensione; il pensionamento; B2; Alltag/Familie/Lebensereignisse; Mio padre si gode la sua meritata pensione.; Mein Vater genießt seinen wohlverdienten Ruhestand.
-it-fb-0112; Erbe; l'eredità; ; B2; Alltag/Familie/Lebensereignisse; I fratelli hanno litigato per l'eredità dei genitori.; Die Geschwister stritten über das Erbe ihrer Eltern.
+it-fb-0112; Erbe (Nachlass); l'eredità; ; B2; Alltag/Familie/Lebensereignisse; I fratelli hanno litigato per l'eredità dei genitori.; Die Geschwister stritten über das Erbe ihrer Eltern.
 it-fb-0113; Standesamt; l'ufficio di stato civile; il comune, il municipio; B2; Alltag/Familie/Lebensereignisse; Si sono sposati in tutta tranquillità all'ufficio di stato civile.; Sie heirateten in aller Stille auf dem Standesamt.
 it-fb-0114; Trauung; la cerimonia nuziale; il rito nuziale; C1; Alltag/Familie/Lebensereignisse; La cerimonia nuziale si è svolta nel vecchio municipio.; Die Trauung fand im alten Rathaus statt.
 it-fb-0115; Nachwuchs; il lieto evento; la prole, un figlio; C1; Alltag/Familie/Lebensereignisse; La giovane coppia aspetta il lieto evento a maggio.; Das junge Paar erwartet im Mai Nachwuchs.
@@ -139,7 +139,7 @@ it-fb-0136; sich vertragen; fare pace; riappacificarsi; B2; Alltag/Familie/Mitei
 it-fb-0137; beleidigen; offendere; insultare; B2; Alltag/Familie/Miteinander; Non voleva offendere tuo cugino.; Er wollte deinen Cousin nicht beleidigen.
 it-fb-0138; Missverständnis; il malinteso; l'equivoco; B2; Alltag/Familie/Miteinander; Tutta la lite era solo uno stupido malinteso.; Der ganze Streit war nur ein dummes Missverständnis.
 it-fb-0139; respektieren; rispettare; ; B2; Alltag/Familie/Miteinander; I bambini dovrebbero imparare a rispettare le opinioni degli altri.; Kinder sollten lernen, andere Meinungen zu respektieren.
-it-fb-0140; schätzen; apprezzare; ; B2; Alltag/Familie/Miteinander; Apprezzo molto il tuo consiglio sincero.; Ich schätze deinen ehrlichen Rat sehr.
+it-fb-0140; schätzen (wertschätzen); apprezzare; ; B2; Alltag/Familie/Miteinander; Apprezzo molto il tuo consiglio sincero.; Ich schätze deinen ehrlichen Rat sehr.
 it-fb-0141; vernachlässigen; trascurare; ; B2; Alltag/Familie/Miteinander; Ha trascurato i suoi amici negli anni più stressanti.; Er vernachlässigte seine Freunde in den stressigen Jahren.
 it-fb-0142; sich versöhnen; riconciliarsi; rappacificarsi; C1; Alltag/Familie/Miteinander; I fratelli si sono riconciliati dopo molti anni di silenzio.; Die Brüder versöhnten sich nach vielen Jahren des Schweigens.
 it-fb-0143; Mitgefühl; la compassione; l'empatia, la partecipazione; C1; Alltag/Familie/Miteinander; Ha mostrato grande compassione per la famiglia in lutto.; Sie zeigte großes Mitgefühl für die trauernde Familie.

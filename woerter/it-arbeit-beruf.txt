@@ -42,10 +42,10 @@ it-ab-0039; Teilzeit; il part-time; il tempo parziale; A2; Arbeit/Beruf/Vertrag 
 it-ab-0040; Vollzeit; il tempo pieno; il full-time; A2; Arbeit/Beruf/Vertrag & Gehalt; Lavora a tempo pieno in una grande banca.; Er arbeitet Vollzeit in einer großen Bank.
 it-ab-0041; Bewerbung; la candidatura; la domanda di lavoro; A2; Arbeit/Beruf/Bewerbung; Oggi invio la mia candidatura per e-mail.; Ich schicke meine Bewerbung heute per E-Mail.
 it-ab-0042; Lebenslauf; il curriculum; il curriculum vitae, il CV; A2; Arbeit/Beruf/Bewerbung; Per favore, aggiunga una foto al suo curriculum.; Bitte fügen Sie Ihrem Lebenslauf ein Foto hinzu.
-it-ab-0043; Stelle; il posto; la posizione; A2; Arbeit/Beruf/Bewerbung; Il nuovo posto inizia il primo maggio.; Die neue Stelle beginnt am ersten Mai.
+it-ab-0043; Stelle (Arbeitsplatz); il posto; la posizione; A2; Arbeit/Beruf/Bewerbung; Il nuovo posto inizia il primo maggio.; Die neue Stelle beginnt am ersten Mai.
 it-ab-0044; Arbeitsplatz; la postazione di lavoro; il luogo di lavoro; A2; Arbeit/Beruf/Arbeitsalltag; La mia postazione di lavoro è luminosa e molto tranquilla.; Mein Arbeitsplatz ist hell und sehr ruhig.
 it-ab-0045; Überstunden; gli straordinari; le ore di straordinario; A2; Arbeit/Beruf/Arbeitsalltag; A fine mese fa spesso gli straordinari.; Er macht am Monatsende oft Überstunden.
-it-ab-0046; kündigen; licenziarsi; dare le dimissioni, dimettersi; A2; Arbeit/Beruf/Kündigung; Vuole licenziarsi dal suo lavoro noioso.; Sie will ihren langweiligen Job kündigen.
+it-ab-0046; kündigen (Stelle); licenziarsi; dare le dimissioni, dimettersi; A2; Arbeit/Beruf/Kündigung; Vuole licenziarsi dal suo lavoro noioso.; Sie will ihren langweiligen Job kündigen.
 it-ab-0047; Rentner; il pensionato; la pensionata; A2; Arbeit/Beruf/Rechte & Soziales; Il pensionato si gode il tempo libero in giardino.; Der Rentner genießt seine freie Zeit im Garten.
 it-ab-0048; Praktikum; il tirocinio; lo stage; A2; Arbeit/Beruf/Karriere; Faccio un tirocinio presso un giornale.; Ich mache ein Praktikum bei einer Zeitung.
 it-ab-0049; Ausbildung; la formazione professionale; l'apprendistato; A2; Arbeit/Beruf/Karriere; Ad agosto inizia la formazione professionale come elettricista.; Er beginnt im August eine Ausbildung als Elektriker.
@@ -62,7 +62,7 @@ it-ab-0059; Erfahrung; l'esperienza; ; B1; Arbeit/Beruf/Bewerbung; Ha molti anni
 it-ab-0060; Fähigkeit; la capacità; l'abilità, la competenza; B1; Arbeit/Beruf/Bewerbung; Una buona comunicazione è una capacità importante in questo lavoro.; Gute Kommunikation ist eine wichtige Fähigkeit in diesem Beruf.
 it-ab-0061; Stärke; il punto di forza; la forza; B1; Arbeit/Beruf/Bewerbung; Ci parli del suo più grande punto di forza.; Bitte erzählen Sie uns von Ihrer größten Stärke.
 it-ab-0062; Schwäche; il punto debole; la debolezza; B1; Arbeit/Beruf/Bewerbung; Ognuno dovrebbe conoscere bene i propri punti deboli.; Jeder sollte seine eigenen Schwächen gut kennen.
-it-ab-0063; Zeugnis; il certificato; l'attestato, la pagella; B1; Arbeit/Beruf/Bewerbung; Alleghi il suo certificato alla candidatura.; Bitte fügen Sie der Bewerbung Ihr Zeugnis bei.
+it-ab-0063; Zeugnis (Arbeit); il certificato; l'attestato; B1; Arbeit/Beruf/Bewerbung; Alleghi il suo certificato alla candidatura.; Bitte fügen Sie der Bewerbung Ihr Zeugnis bei.
 it-ab-0064; Anforderung; il requisito; la richiesta; B1; Arbeit/Beruf/Bewerbung; Questo posto ha requisiti molto alti.; Diese Stelle hat sehr hohe Anforderungen.
 it-ab-0065; Verantwortung; la responsabilità; ; B1; Arbeit/Beruf/Arbeitsalltag; Si assume la responsabilità dell'intero progetto.; Sie übernimmt die Verantwortung für das ganze Projekt.
 it-ab-0066; Aufgabe; il compito; la mansione; B1; Arbeit/Beruf/Arbeitsalltag; Il mio primo compito è rispondere alle e-mail dei clienti.; Meine erste Aufgabe ist es, Kunden-E-Mails zu beantworten.
@@ -74,13 +74,13 @@ it-ab-0071; Gewerkschaft; il sindacato; ; B1; Arbeit/Beruf/Rechte & Soziales; Il
 it-ab-0072; Streik; lo sciopero; ; B1; Arbeit/Beruf/Rechte & Soziales; Lo sciopero all'aeroporto è durato due giorni.; Der Streik am Flughafen dauerte zwei Tage.
 it-ab-0073; streiken; scioperare; fare sciopero; B1; Arbeit/Beruf/Rechte & Soziales; I macchinisti vogliono scioperare domani.; Die Lokführer wollen morgen streiken.
 it-ab-0074; Arbeitszeit; l'orario di lavoro; ; B1; Arbeit/Beruf/Arbeitsalltag; In questa azienda l'orario di lavoro è flessibile.; Unsere Arbeitszeiten sind in dieser Firma flexibel.
-it-ab-0075; Schicht; il turno; ; B1; Arbeit/Beruf/Arbeitsalltag; Il mio turno inizia alle sei del mattino.; Meine Schicht beginnt um sechs Uhr morgens.
+it-ab-0075; Schicht (Arbeit); il turno; ; B1; Arbeit/Beruf/Arbeitsalltag; Il mio turno inizia alle sei del mattino.; Meine Schicht beginnt um sechs Uhr morgens.
 it-ab-0076; Mindestlohn; il salario minimo; ; B1; Arbeit/Beruf/Vertrag & Gehalt; L'anno prossimo il salario minimo aumenterà di nuovo.; Der Mindestlohn steigt nächstes Jahr wieder.
-it-ab-0077; Lohn; il salario; la paga; B1; Arbeit/Beruf/Vertrag & Gehalt; Gli operai ricevono il salario ogni venerdì.; Die Arbeiter erhalten ihren Lohn jeden Freitag.
+it-ab-0077; Lohn (Bezahlung); il salario; la paga; B1; Arbeit/Beruf/Vertrag & Gehalt; Gli operai ricevono il salario ogni venerdì.; Die Arbeiter erhalten ihren Lohn jeden Freitag.
 it-ab-0078; Steuer; l'imposta; la tassa; B1; Arbeit/Beruf/Rechte & Soziales; Pago meno imposte dell'anno scorso.; Ich zahle weniger Steuern als letztes Jahr.
 it-ab-0079; Versicherung; l'assicurazione; ; B1; Arbeit/Beruf/Rechte & Soziales; Una buona assicurazione è importante per ogni lavoratore.; Eine gute Versicherung ist für jeden Arbeitnehmer wichtig.
 it-ab-0080; Rente; la pensione; ; B1; Arbeit/Beruf/Rechte & Soziales; Mio nonno riceve ogni mese una piccola pensione.; Mein Großvater bekommt jeden Monat eine kleine Rente.
-it-ab-0081; einstellen; assumere; ; B1; Arbeit/Beruf/Karriere; L'azienda vuole assumere tre nuovi sviluppatori.; Die Firma möchte drei neue Entwickler einstellen.
+it-ab-0081; einstellen (Personal); assumere; ; B1; Arbeit/Beruf/Karriere; L'azienda vuole assumere tre nuovi sviluppatori.; Die Firma möchte drei neue Entwickler einstellen.
 it-ab-0082; entlassen; licenziare; ; B1; Arbeit/Beruf/Kündigung; A ottobre la fabbrica ha licenziato venti operai.; Die Fabrik entließ im Oktober zwanzig Arbeiter.
 it-ab-0083; Berufserfahrung; l'esperienza professionale; l'esperienza lavorativa; B1; Arbeit/Beruf/Bewerbung; Questo posto richiede cinque anni di esperienza professionale.; Diese Stelle erfordert fünf Jahre Berufserfahrung.
 it-ab-0084; Anschreiben; la lettera di presentazione; la lettera motivazionale; B1; Arbeit/Beruf/Bewerbung; Una buona lettera di presentazione dovrebbe essere breve e chiara.; Ein gutes Anschreiben sollte kurz und klar sein.
@@ -109,7 +109,7 @@ it-ab-0106; Nettogehalt; lo stipendio netto; la retribuzione netta; B2; Arbeit/B
 it-ab-0107; Sozialversicherung; la previdenza sociale; l'assicurazione sociale; B2; Arbeit/Beruf/Rechte & Soziales; La previdenza sociale protegge i lavoratori nei momenti difficili.; Die Sozialversicherung schützt Arbeitnehmer in schwierigen Zeiten.
 it-ab-0108; Altersvorsorge; la previdenza per la vecchiaia; il fondo pensione, la previdenza complementare; B2; Arbeit/Beruf/Rechte & Soziales; La previdenza privata per la vecchiaia diventa sempre più importante.; Private Altersvorsorge wird immer wichtiger.
 it-ab-0109; Quereinsteiger; la persona che cambia carriera; ; B2; Arbeit/Beruf/Karriere; Come persona che cambia carriera ha imparato in fretta le basi.; Als Quereinsteiger lernte er schnell die Grundlagen.
-it-ab-0110; Berufung; la vocazione; ; B2; Arbeit/Beruf/Karriere; Insegnare non è solo il suo lavoro, ma la sua vocazione.; Unterrichten ist nicht nur ihr Beruf, sondern ihre Berufung.
+it-ab-0110; Berufung (Lebensaufgabe); la vocazione; ; B2; Arbeit/Beruf/Karriere; Insegnare non è solo il suo lavoro, ma la sua vocazione.; Unterrichten ist nicht nur ihr Beruf, sondern ihre Berufung.
 it-ab-0111; Arbeitsmarkt; il mercato del lavoro; ; B2; Arbeit/Beruf/Karriere; Il mercato del lavoro per gli ingegneri è molto buono.; Der Arbeitsmarkt für Ingenieure ist sehr gut.
 it-ab-0112; Fachkraft; il lavoratore qualificato; lo specialista, la lavoratrice qualificata; B2; Arbeit/Beruf/Karriere; La regione ha urgente bisogno di ogni lavoratore qualificato.; Die Region braucht dringend jede Fachkraft.
 it-ab-0113; Arbeitslosigkeit; la disoccupazione; ; B2; Arbeit/Beruf/Rechte & Soziales; Nell'ultimo trimestre la disoccupazione è scesa leggermente.; Die Arbeitslosigkeit sank im letzten Quartal leicht.

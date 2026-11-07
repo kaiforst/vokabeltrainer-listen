@@ -18,10 +18,10 @@ it-vm-0015; Taxi; il taxi; ; A1; Reisen/Verkehr/Auto; Ieri sera abbiamo preso un
 it-vm-0016; U-Bahn; la metropolitana; la metro; A1; Reisen/Verkehr/Bus & Bahn; Qui la metropolitana passa ogni cinque minuti.; Die U-Bahn fährt hier alle fünf Minuten.
 it-vm-0017; Weg; la via; la strada, il percorso; A1; Reisen/Verkehr/Wegbeschreibung; Mi sa indicare la via per il porto?; Können Sie mir den Weg zum Hafen zeigen?
 it-vm-0018; Brücke; il ponte; ; A1; Reisen/Verkehr/Straße & Regeln; Il vecchio ponte attraversa il fiume largo.; Die alte Brücke führt über den breiten Fluss.
-it-vm-0019; Karte; la cartina; la mappa; A1; Reisen/Verkehr/Wegbeschreibung; Prima del viaggio abbiamo guardato la cartina.; Wir haben uns vor der Fahrt die Karte angesehen.
+it-vm-0019; Karte (Landkarte); la cartina; la mappa; A1; Reisen/Verkehr/Wegbeschreibung; Prima del viaggio abbiamo guardato la cartina.; Wir haben uns vor der Fahrt die Karte angesehen.
 it-vm-0020; schnell; veloce; rapido; A1; Reisen/Verkehr/Straße & Regeln; Questo treno nuovo è molto veloce e comodo.; Dieser neue Zug ist sehr schnell und bequem.
 it-vm-0021; langsam; lento; lentamente; A1; Reisen/Verkehr/Straße & Regeln; Oggi il traffico in centro è molto lento.; Der Verkehr in der Innenstadt ist heute sehr langsam.
-it-vm-0022; halten; fermarsi; fermare; A1; Reisen/Verkehr/Bus & Bahn; L'autobus si ferma proprio davanti al museo.; Der Bus hält direkt am Museum.
+it-vm-0022; halten (anhalten); fermarsi; fermare; A1; Reisen/Verkehr/Bus & Bahn; L'autobus si ferma proprio davanti al museo.; Der Bus hält direkt am Museum.
 it-vm-0023; Stadtplan; la pianta della città; la mappa della città, la cartina della città; A1; Reisen/Verkehr/Wegbeschreibung; La pianta della città mostra tutte le linee degli autobus.; Der Stadtplan zeigt alle Buslinien.
 it-vm-0024; Fahrer; l'autista; il conducente, la conducente; A1; Reisen/Verkehr/Auto; L'autista ci ha aspettato all'albergo.; Der Fahrer hat am Hotel auf uns gewartet.
 it-vm-0025; Parkplatz; il parcheggio; il posto auto; A1; Reisen/Verkehr/Auto; Il parcheggio dietro il negozio è gratuito.; Der Parkplatz hinter dem Geschäft ist kostenlos.
@@ -42,7 +42,7 @@ it-vm-0039; umsteigen; cambiare; cambiare treno; A2; Reisen/Verkehr/Bus & Bahn; 
 it-vm-0040; einsteigen; salire; ; A2; Reisen/Verkehr/Bus & Bahn; Salite in fretta, per favore, le porte si chiudono.; Bitte steigen Sie schnell ein, die Türen schließen.
 it-vm-0041; aussteigen; scendere; ; A2; Reisen/Verkehr/Bus & Bahn; Scendiamo alla prossima stazione.; Wir steigen an der nächsten Station aus.
 it-vm-0042; Helm; il casco; ; A2; Reisen/Verkehr/Fahrrad; Metti sempre il casco quando vai in bicicletta.; Trag immer einen Helm, wenn du Rad fährst.
-it-vm-0043; Rad; la ruota; ; A2; Reisen/Verkehr/Fahrrad; La ruota anteriore della mia bici è rotta.; Das Vorderrad meines Fahrrads ist kaputt.
+it-vm-0043; Rad (am Fahrzeug); la ruota; ; A2; Reisen/Verkehr/Fahrrad; La ruota anteriore della mia bici è rotta.; Das Vorderrad meines Fahrrads ist kaputt.
 it-vm-0044; Reifen; lo pneumatico; la gomma, il pneumatico; A2; Reisen/Verkehr/Auto; Lo pneumatico sinistro perde aria lentamente.; Der linke Reifen verliert langsam Luft.
 it-vm-0045; Bremse; il freno; ; A2; Reisen/Verkehr/Fahrrad; Controlla i freni prima di ogni lungo giro.; Prüfe die Bremsen vor jeder langen Tour.
 it-vm-0046; bremsen; frenare; ; A2; Reisen/Verkehr/Auto; Ha dovuto frenare all'improvviso per un gatto.; Er musste wegen einer Katze plötzlich bremsen.
@@ -76,7 +76,7 @@ it-vm-0073; Sicherheitsgurt; la cintura di sicurezza; la cintura; B1; Reisen/Ver
 it-vm-0074; sich anschnallen; allacciare la cintura; allacciarsi la cintura, mettere la cintura; B1; Reisen/Verkehr/Auto; Per favore, allaccia la cintura prima di partire.; Bitte schnall dich an, bevor wir losfahren.
 it-vm-0075; Umleitung; la deviazione; ; B1; Reisen/Verkehr/Straße & Regeln; La deviazione allunga il viaggio di dieci minuti.; Die Umleitung verlängert die Fahrt um zehn Minuten.
 it-vm-0076; Baustelle; i lavori stradali; il cantiere; B1; Reisen/Verkehr/Straße & Regeln; I lavori stradali sulla strada principale causano lunghi ritardi.; Die Baustelle auf der Hauptstraße verursacht lange Verzögerungen.
-it-vm-0077; Spur; la corsia; ; B1; Reisen/Verkehr/Straße & Regeln; Resti sulla corsia di destra fino all'uscita.; Bleiben Sie bis zur Ausfahrt auf der rechten Spur.
+it-vm-0077; Spur (Fahrbahn); la corsia; ; B1; Reisen/Verkehr/Straße & Regeln; Resti sulla corsia di destra fino all'uscita.; Bleiben Sie bis zur Ausfahrt auf der rechten Spur.
 it-vm-0078; Navigationssystem; il navigatore; il navigatore satellitare, il GPS; B1; Reisen/Verkehr/Wegbeschreibung; Il navigatore ha trovato un percorso più veloce.; Das Navigationssystem hat eine schnellere Route gefunden.
 it-vm-0079; Ladestation; la colonnina di ricarica; la stazione di ricarica; B1; Reisen/Verkehr/Tanken & Laden; Al supermercato c'è una colonnina di ricarica.; Am Supermarkt gibt es eine Ladestation.
 it-vm-0080; Elektroauto; l'auto elettrica; la macchina elettrica; B1; Reisen/Verkehr/Tanken & Laden; In città la nostra auto elettrica è molto silenziosa.; Unser Elektroauto ist in der Stadt sehr leise.
@@ -119,7 +119,7 @@ it-vm-0116; Fahrkartenautomat; la biglietteria automatica; il distributore di bi
 it-vm-0117; Verkehrsmittel; il mezzo di trasporto; il mezzo; B2; Reisen/Verkehr/Bus & Bahn; La bicicletta è il mio mezzo di trasporto preferito.; Das Fahrrad ist mein liebstes Verkehrsmittel.
 it-vm-0118; Probefahrt; il giro di prova; la prova su strada; B2; Reisen/Verkehr/Auto; Abbiamo fissato un giro di prova per sabato mattina.; Wir haben für Samstagvormittag eine Probefahrt vereinbart.
 it-vm-0119; Gebrauchtwagen; l'auto usata; la macchina usata; B2; Reisen/Verkehr/Auto; Ha comprato un'auto usata con pochi chilometri.; Er kaufte einen Gebrauchtwagen mit geringer Laufleistung.
-it-vm-0120; Zulassung; l'immatricolazione; ; B2; Reisen/Verkehr/Auto; L'immatricolazione della macchina nuova ha richiesto due settimane.; Die Zulassung des neuen Autos dauerte zwei Wochen.
+it-vm-0120; Zulassung (Fahrzeug); l'immatricolazione; ; B2; Reisen/Verkehr/Auto; L'immatricolazione della macchina nuova ha richiesto due settimane.; Die Zulassung des neuen Autos dauerte zwei Wochen.
 it-vm-0121; Verkehrskontrolle; il controllo stradale; il posto di blocco; B2; Reisen/Verkehr/Straße & Regeln; Di notte la polizia ha effettuato un controllo stradale.; Die Polizei führte nachts eine Verkehrskontrolle durch.
 it-vm-0122; Alkoholtest; l'alcoltest; il test alcolemico, la prova del palloncino; B2; Reisen/Verkehr/Straße & Regeln; Il conducente ha dovuto fare l'alcoltest.; Der Fahrer musste einen Alkoholtest machen.
 it-vm-0123; Reifenwechsel; il cambio gomme; il cambio degli pneumatici; B2; Reisen/Verkehr/Auto; Prenota il cambio gomme prima che arrivi l'inverno.; Vereinbare den Reifenwechsel, bevor der Winter kommt.
@@ -127,7 +127,7 @@ it-vm-0124; Fahrprüfung; l'esame di guida; l'esame della patente; B2; Reisen/Ve
 it-vm-0125; Standstreifen; la corsia di emergenza; ; B2; Reisen/Verkehr/Straße & Regeln; Fermati sulla corsia di emergenza solo in caso di necessità.; Halte auf dem Standstreifen nur im Notfall.
 it-vm-0126; Verkehrswende; la transizione della mobilità; la svolta nei trasporti; C1; Reisen/Verkehr/Straße & Regeln; La transizione della mobilità richiede un trasporto pubblico migliore.; Die Verkehrswende erfordert einen besseren öffentlichen Nahverkehr.
 it-vm-0127; Elektromobilität; la mobilità elettrica; l'elettromobilità; C1; Reisen/Verkehr/Tanken & Laden; La mobilità elettrica dipende da una rete di ricarica fitta.; Die Elektromobilität hängt von einem dichten Ladenetz ab.
-it-vm-0128; Reichweite; l'autonomia; ; C1; Reisen/Verkehr/Tanken & Laden; Con il freddo l'autonomia cala sensibilmente.; Die Reichweite sinkt bei kaltem Wetter deutlich.
+it-vm-0128; Reichweite (Fahrzeug); l'autonomia; ; C1; Reisen/Verkehr/Tanken & Laden; Con il freddo l'autonomia cala sensibilmente.; Die Reichweite sinkt bei kaltem Wetter deutlich.
 it-vm-0129; Emissionen; le emissioni; ; C1; Reisen/Verkehr/Straße & Regeln; La città vuole dimezzare le emissioni del traffico.; Die Stadt will die Emissionen des Verkehrs halbieren.
 it-vm-0130; Feinstaub; le polveri sottili; il particolato; C1; Reisen/Verkehr/Straße & Regeln; I valori delle polveri sottili hanno di nuovo superato il limite.; Die Feinstaubwerte überschritten erneut den Grenzwert.
 it-vm-0131; Umweltzone; la zona a basse emissioni; la zona a traffico limitato, la ZTL; C1; Reisen/Verkehr/Straße & Regeln; Le vecchie auto diesel non possono entrare nella zona a basse emissioni.; Ältere Dieselautos dürfen nicht in die Umweltzone fahren.

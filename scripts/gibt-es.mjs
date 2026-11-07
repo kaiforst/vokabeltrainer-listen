@@ -26,8 +26,13 @@ if (!kandidaten.length) {
   process.exit(1);
 }
 
-// Index: Deutsch ohne Klammer und Antworten (auch ohne „to“) → Fundstellen
+// Index: Deutsch ohne Klammer (genau: mit Umlauten und Groß-/Kleinschreibung; Komma-Felder wie „passieren, geschehen“
+// zerlegt) und Antworten (auch ohne „to“) → Fundstellen. Gleich nur nach der App-Normalisierung („sägen“/„sagen“,
+// „Fest“/„fest“) ist bloß ein Hinweis.
+const genau = (s) => s.replace(/\s*\([^)]*\)/g, " ").replace(/\s+/g, " ").trim().normalize("NFC");
+const teile = (de) => new Set([genau(de), ...genau(de).split(",").map((t) => t.trim())]);
 const proDeutsch = new Map();
+const proAehnlich = new Map();
 const proAntwort = new Map();
 const add = (m, k, v) => k && (m.get(k) ?? m.set(k, []).get(k)).push(v);
 for (const q of ladeKatalog().words) {
@@ -36,7 +41,10 @@ for (const q of ladeKatalog().words) {
     const f = z.split(";").map((x) => x.trim());
     if (f.length < 8 || z.startsWith("#")) continue;
     const fund = `${f[0]} (${f[1]} – ${f[2] || "Lesen"})`;
-    add(proDeutsch, basis(f[1]), fund);
+    for (const teil of teile(f[1])) {
+      add(proDeutsch, genau(teil), fund);
+      add(proAehnlich, basis(teil), fund);
+    }
     for (const a of [f[2], ...f[3].split(",")]) {
       add(proAntwort, norm(a.trim()), fund);
       add(proAntwort, norm(a.trim().replace(/^to /i, "")), fund);
@@ -47,12 +55,13 @@ for (const q of ladeKatalog().words) {
 let neu = 0;
 for (const k of kandidaten) {
   const [de, antwort] = k.split(";").map((x) => x.trim());
-  const deutsch = proDeutsch.get(basis(de)) ?? [];
+  const deutsch = proDeutsch.get(genau(de)) ?? [];
+  const aehnlich = deutsch.length ? [] : (proAehnlich.get(basis(de)) ?? []);
   // Gleiche Antwort bei anderem Deutsch: meist eine andere Bedeutung („bat“ bei Schläger) – nur ein Hinweis
   const auchAntwort = antwort ? (proAntwort.get(norm(antwort)) ?? []).filter((f) => !deutsch.includes(f)) : [];
   if (!deutsch.length) neu++;
   const zeige = (l) => l.slice(0, 4).join("; ");
   if (deutsch.length) console.log(`DA   ${k}  →  ${zeige(deutsch)}`);
-  else console.log(`neu  ${k}${auchAntwort.length ? `  (Antwort auch bei: ${zeige(auchAntwort)})` : ""}`);
+  else console.log(`neu  ${k}${aehnlich.length ? `  (ähnlich geschrieben: ${zeige(aehnlich)})` : ""}${auchAntwort.length ? `  (Antwort auch bei: ${zeige(auchAntwort)})` : ""}`);
 }
 console.log(`\n${neu} von ${kandidaten.length} neu (${lang}).`);

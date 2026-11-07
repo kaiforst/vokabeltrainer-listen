@@ -4,7 +4,7 @@ fr-vt-0001; Vertrag; le contrat; ; A1; Business/Vertrag/Vertragsarten; Nous avon
 fr-vt-0002; Firma; l'entreprise; la société, la firme; A1; Business/Vertrag/Parteien; Notre entreprise travaille avec de nombreux partenaires internationaux.; Unsere Firma arbeitet mit vielen internationalen Partnern.
 fr-vt-0003; unterschreiben; signer; ; A1; Business/Vertrag/Abschluss & Unterschrift; Veuillez signer le document à la dernière page.; Bitte unterschreiben Sie das Dokument auf der letzten Seite.
 fr-vt-0004; Datum; la date; ; A1; Business/Vertrag/Abschluss & Unterschrift; La date sur le contrat est fausse.; Das Datum auf dem Vertrag ist falsch.
-fr-vt-0005; Preis; le prix; ; A1; Business/Vertrag/Klauseln; Le prix est fixé dans le contrat.; Der Preis ist im Vertrag festgelegt.
+fr-vt-0005; Preis (Kosten); le prix; ; A1; Business/Vertrag/Klauseln; Le prix est fixé dans le contrat.; Der Preis ist im Vertrag festgelegt.
 fr-vt-0006; Unterschrift; la signature; ; A2; Business/Vertrag/Abschluss & Unterschrift; Il nous manque encore votre signature à la page deux.; Wir brauchen noch Ihre Unterschrift auf Seite zwei.
 fr-vt-0007; Dokument; le document; ; A2; Business/Vertrag/Abschluss & Unterschrift; Veuillez lire attentivement le document avant de signer.; Bitte lesen Sie das Dokument sorgfältig, bevor Sie unterschreiben.
 fr-vt-0008; Kopie; la copie; l'exemplaire, le double; A2; Business/Vertrag/Abschluss & Unterschrift; Chaque partie reçoit une copie du contrat.; Jede Partei erhält eine Kopie des Vertrags.
@@ -34,10 +34,10 @@ fr-vt-0031; befristeter Vertrag; le contrat à durée déterminée; le CDD; B1; 
 fr-vt-0032; unbefristeter Vertrag; le contrat à durée indéterminée; le CDI; B1; Business/Vertrag/Vertragsarten; Au bout de deux ans, elle a obtenu un contrat à durée indéterminée.; Nach zwei Jahren erhielt sie einen unbefristeten Vertrag.
 fr-vt-0033; Klausel; la clause; ; B1; Business/Vertrag/Klauseln; Cette clause limite notre responsabilité dans des cas particuliers.; Diese Klausel begrenzt unsere Haftung in besonderen Fällen.
 fr-vt-0034; Anhang; l'annexe; ; B1; Business/Vertrag/Klauseln; Les prix sont indiqués dans l'annexe.; Die Preise sind im Anhang aufgeführt.
-fr-vt-0035; Laufzeit; la durée du contrat; la durée; B1; Business/Vertrag/Laufzeit & Kündigung; La durée du contrat est de cinq ans, avec une option.; Die Laufzeit beträgt fünf Jahre mit einer Option.
+fr-vt-0035; Laufzeit (Vertrag); la durée du contrat; la durée; B1; Business/Vertrag/Laufzeit & Kündigung; La durée du contrat est de cinq ans, avec une option.; Die Laufzeit beträgt fünf Jahre mit einer Option.
 fr-vt-0036; Kündigung; la résiliation; la dénonciation; B1; Business/Vertrag/Laufzeit & Kündigung; La résiliation doit être envoyée par écrit.; Die Kündigung muss in schriftlicher Form gesendet werden.
-fr-vt-0037; kündigen; résilier; mettre fin à; B1; Business/Vertrag/Laufzeit & Kündigung; Chaque partie peut résilier le contrat par écrit.; Jede Partei kann den Vertrag schriftlich kündigen.
-fr-vt-0038; Verlängerung; la prolongation; le renouvellement, la reconduction; B1; Business/Vertrag/Laufzeit & Kündigung; Nous avons demandé une prolongation du délai de livraison.; Wir baten um eine Verlängerung des Lieferzeitraums.
+fr-vt-0037; kündigen (Vertrag); résilier; mettre fin à; B1; Business/Vertrag/Laufzeit & Kündigung; Chaque partie peut résilier le contrat par écrit.; Jede Partei kann den Vertrag schriftlich kündigen.
+fr-vt-0038; Verlängerung (Frist, Vertrag); la prolongation; le renouvellement, la reconduction; B1; Business/Vertrag/Laufzeit & Kündigung; Nous avons demandé une prolongation du délai de livraison.; Wir baten um eine Verlängerung des Lieferzeitraums.
 fr-vt-0039; Vertragspartner; le cocontractant; la partie contractante, le partenaire contractuel; B1; Business/Vertrag/Parteien; Chaque cocontractant a des droits et des devoirs clairs.; Jeder Vertragspartner hat klare Pflichten und Rechte.
 fr-vt-0040; Partei; la partie; ; B1; Business/Vertrag/Parteien; Chaque partie doit remplir ses obligations dans les délais.; Jede Partei muss ihre Pflichten pünktlich erfüllen.
 fr-vt-0041; Lieferant; le fournisseur; la fournisseuse; B1; Business/Vertrag/Parteien; Notre fournisseur livre la marchandise toutes les deux semaines.; Unser Lieferant liefert die Waren alle zwei Wochen.
@@ -58,7 +58,7 @@ fr-vt-0055; Verhandlung; la négociation; ; B1; Business/Vertrag/Abschluss & Unt
 fr-vt-0056; Kompromiss; le compromis; ; B1; Business/Vertrag/Abschluss & Unterschrift; Après de longues discussions, les deux parties ont trouvé un compromis.; Nach langen Gesprächen fanden beide Seiten einen Kompromiss.
 fr-vt-0057; zustimmen; approuver; être d'accord, consentir, accepter; B1; Business/Vertrag/Abschluss & Unterschrift; Les deux partenaires approuvent les nouvelles conditions.; Beide Partner stimmen den neuen Bedingungen zu.
 fr-vt-0058; Streit; le litige; le différend, le conflit; B1; Business/Vertrag/Streitfall; Le litige sur le paiement a duré plusieurs mois.; Der Streit über die Zahlung dauerte mehrere Monate.
-fr-vt-0059; Gericht; le tribunal; la justice; B1; Business/Vertrag/Streitfall, Gesellschaft/Recht; Après l'échec des discussions, l'affaire a été portée devant le tribunal.; Der Fall ging nach gescheiterten Gesprächen vor Gericht.
+fr-vt-0059; Gericht (Justiz); le tribunal; la justice; B1; Business/Vertrag/Streitfall, Gesellschaft/Recht; Après l'échec des discussions, l'affaire a été portée devant le tribunal.; Der Fall ging nach gescheiterten Gesprächen vor Gericht.
 fr-vt-0060; Beweis; la preuve; ; B1; Business/Vertrag/Streitfall; L'e-mail est une preuve claire de l'accord.; Die E-Mail ist ein klarer Beweis für die Vereinbarung.
 fr-vt-0061; ungültig; invalide; non valable; B1; Business/Vertrag/Rechtsbegriffe; Sans signature, le contrat est invalide.; Ohne Unterschrift ist der Vertrag ungültig.
 fr-vt-0062; schriftlich; par écrit; écrit; B1; Business/Vertrag/Abschluss & Unterschrift; Toutes les modifications doivent être faites par écrit.; Alle Änderungen müssen schriftlich erfolgen.
@@ -77,7 +77,7 @@ fr-vt-0074; Vertragsstrafe; la pénalité contractuelle; la clause pénale, les 
 fr-vt-0075; Gewährleistung; la garantie légale; la garantie de conformité, la garantie des vices cachés; B2; Business/Vertrag/Haftung & Gewährleistung; La garantie légale couvre tous les défauts pendant deux ans.; Die Gewährleistung deckt alle Mängel für zwei Jahre ab.
 fr-vt-0076; Haftung; la responsabilité; ; B2; Business/Vertrag/Haftung & Gewährleistung; Notre responsabilité est limitée à la valeur du contrat.; Unsere Haftung ist auf den Vertragswert begrenzt.
 fr-vt-0077; haften; être responsable; répondre de; B2; Business/Vertrag/Haftung & Gewährleistung; Le vendeur est responsable des vices cachés.; Der Verkäufer haftet für versteckte Mängel.
-fr-vt-0078; Mangel; le défaut; le vice; B2; Business/Vertrag/Haftung & Gewährleistung; Nous avons trouvé un défaut grave sur la machine.; Wir haben einen schweren Mangel an der Maschine gefunden.
+fr-vt-0078; Mangel (Fehler); le défaut; le vice; B2; Business/Vertrag/Haftung & Gewährleistung; Nous avons trouvé un défaut grave sur la machine.; Wir haben einen schweren Mangel an der Maschine gefunden.
 fr-vt-0079; Schadensersatz; les dommages et intérêts; les dommages-intérêts, l'indemnisation; B2; Business/Vertrag/Haftung & Gewährleistung; Le donneur d'ordre réclame des dommages et intérêts pour la livraison tardive.; Der Auftraggeber fordert Schadensersatz für die verspätete Lieferung.
 fr-vt-0080; Fälligkeit; l'échéance; la date d'échéance; B2; Business/Vertrag/Klauseln; L'échéance de la facture est lundi prochain.; Die Fälligkeit der Rechnung ist nächsten Montag.
 fr-vt-0081; fällig; exigible; dû, payable; B2; Business/Vertrag/Klauseln; Le deuxième paiement est exigible en juin.; Die zweite Zahlung ist im Juni fällig.
@@ -91,7 +91,7 @@ fr-vt-0088; Allgemeine Geschäftsbedingungen; les conditions générales de vent
 fr-vt-0089; Rechtsabteilung; le service juridique; la direction juridique; B2; Business/Vertrag/Parteien; Le service juridique examine chaque nouvel accord.; Die Rechtsabteilung prüft jede neue Vereinbarung.
 fr-vt-0090; rechtsverbindlich; juridiquement contraignant; juridiquement obligatoire; B2; Business/Vertrag/Rechtsbegriffe; L'offre devient juridiquement contraignante après son acceptation.; Das Angebot wird nach der Annahme rechtsverbindlich.
 fr-vt-0091; verbindlich; ferme; contraignant, obligatoire, impératif; B2; Business/Vertrag/Rechtsbegriffe; Les dates de livraison figurant en annexe sont fermes.; Die Liefertermine im Anhang sind verbindlich.
-fr-vt-0092; Annahme; l'acceptation; ; B2; Business/Vertrag/Abschluss & Unterschrift; Le contrat prend effet avec l'acceptation de l'offre.; Der Vertrag beginnt mit der Annahme des Angebots.
+fr-vt-0092; Annahme (eines Angebots); l'acceptation; ; B2; Business/Vertrag/Abschluss & Unterschrift; Le contrat prend effet avec l'acceptation de l'offre.; Der Vertrag beginnt mit der Annahme des Angebots.
 fr-vt-0093; Verlängerungsoption; l'option de renouvellement; l'option de prolongation; B2; Business/Vertrag/Laufzeit & Kündigung; Le bail comprend une option de renouvellement de cinq ans.; Der Mietvertrag enthält eine Verlängerungsoption für fünf Jahre.
 fr-vt-0094; Probezeit; la période d'essai; ; B2; Business/Vertrag/Laufzeit & Kündigung; La période d'essai dure six mois au total.; Die Probezeit dauert insgesamt sechs Monate.
 fr-vt-0095; Zahlungsverzug; le retard de paiement; le défaut de paiement; B2; Business/Vertrag/Klauseln; En cas de retard de paiement, nous facturons des intérêts.; Bei Zahlungsverzug berechnen wir Zinsen.
@@ -100,7 +100,7 @@ fr-vt-0097; in Kraft treten; entrer en vigueur; prendre effet; B2; Business/Vert
 fr-vt-0098; auslaufen; expirer; arriver à échéance, prendre fin; B2; Business/Vertrag/Laufzeit & Kündigung; L'ancien contrat d'approvisionnement expire fin mars.; Der alte Liefervertrag läuft Ende März aus.
 fr-vt-0099; Ablaufdatum; la date d'expiration; ; B2; Business/Vertrag/Laufzeit & Kündigung; Veuillez noter la date d'expiration de la licence.; Bitte beachten Sie das Ablaufdatum der Lizenz.
 fr-vt-0100; Mediation; la médiation; ; B2; Business/Vertrag/Streitfall; Les deux entreprises ont choisi la médiation plutôt qu'un procès.; Beide Firmen wählten Mediation statt eines Gerichtsverfahrens.
-fr-vt-0101; Vergleich; la transaction; l'accord transactionnel, l'arrangement; B2; Business/Vertrag/Streitfall; Les parties sont parvenues à une transaction avant le procès.; Die Parteien erzielten einen Vergleich vor dem Prozess.
+fr-vt-0101; Vergleich (vor Gericht); la transaction; l'accord transactionnel, l'arrangement; B2; Business/Vertrag/Streitfall; Les parties sont parvenues à une transaction avant le procès.; Die Parteien erzielten einen Vergleich vor dem Prozess.
 fr-vt-0102; Klage; l'action en justice; la plainte, la poursuite; B2; Business/Vertrag/Streitfall; Le fournisseur a intenté une action en justice contre notre entreprise.; Der Lieferant reichte eine Klage gegen unsere Firma ein.
 fr-vt-0103; Urteil; le jugement; le verdict, la décision, l'arrêt; B2; Business/Vertrag/Streitfall; Le tribunal a rendu son jugement au bout de deux semaines.; Das Gericht verkündete sein Urteil nach zwei Wochen.
 fr-vt-0104; Anspruch; le droit à; la prétention, la réclamation; B2; Business/Vertrag/Rechtsbegriffe; Nous avons droit à des réparations gratuites au titre de la garantie légale.; Wir haben einen Anspruch auf kostenlose Reparaturen im Rahmen der Gewährleistung.
@@ -121,7 +121,7 @@ fr-vt-0118; Preisanpassungsklausel; la clause d'indexation; la clause de révisi
 fr-vt-0119; Ausschlussklausel; la clause d'exclusion; la clause exonératoire, la clause limitative de responsabilité; C1; Business/Vertrag/Klauseln; La clause d'exclusion ne couvre pas les dommages intentionnels.; Die Ausschlussklausel deckt vorsätzliche Schäden nicht ab.
 fr-vt-0120; Verzugszinsen; les intérêts de retard; les intérêts moratoires; C1; Business/Vertrag/Haftung & Gewährleistung; Nous facturons des intérêts de retard de neuf pour cent par an.; Wir berechnen Verzugszinsen von neun Prozent pro Jahr.
 fr-vt-0121; Präambel; le préambule; ; C1; Business/Vertrag/Klauseln; Le préambule décrit l'objet de la coopération.; Die Präambel beschreibt den Zweck der Zusammenarbeit.
-fr-vt-0122; Rücktritt; la résolution; le retrait; C1; Business/Vertrag/Laufzeit & Kündigung; L'acheteur a notifié la résolution du contrat.; Der Käufer erklärte seinen Rücktritt vom Vertrag.
+fr-vt-0122; Rücktritt (vom Vertrag); la résolution; le retrait; C1; Business/Vertrag/Laufzeit & Kündigung; L'acheteur a notifié la résolution du contrat.; Der Käufer erklärte seinen Rücktritt vom Vertrag.
 fr-vt-0123; widerrufen; se rétracter; révoquer, annuler; C1; Business/Vertrag/Laufzeit & Kündigung; Le client peut se rétracter dans un délai de deux semaines après la commande.; Der Kunde kann die Bestellung innerhalb von zwei Wochen widerrufen.
 fr-vt-0124; Widerruf; la rétractation; la révocation; C1; Business/Vertrag/Laufzeit & Kündigung; La rétractation doit nous parvenir avant la livraison.; Der Widerruf muss uns vor der Lieferung erreichen.
 fr-vt-0125; stillschweigende Verlängerung; la tacite reconduction; le renouvellement automatique; C1; Business/Vertrag/Laufzeit & Kündigung; Le contrat prévoit une tacite reconduction de douze mois.; Der Vertrag enthält eine stillschweigende Verlängerung von zwölf Monaten.
@@ -134,7 +134,7 @@ fr-vt-0131; Schiedsverfahren; l'arbitrage; la procédure d'arbitrage; C1; Busine
 fr-vt-0132; Schlichtung; la conciliation; ; C1; Business/Vertrag/Streitfall; Un expert neutre a mené la conciliation entre les entreprises.; Ein neutraler Experte leitete die Schlichtung zwischen den Firmen.
 fr-vt-0133; außergerichtliche Einigung; le règlement à l'amiable; l'accord amiable, la transaction; C1; Business/Vertrag/Streitfall; Les deux parties ont préféré un règlement à l'amiable pour économiser des frais.; Beide Seiten bevorzugten eine außergerichtliche Einigung, um Kosten zu sparen.
 fr-vt-0134; Rechtsstreit; le contentieux; le litige judiciaire, le procès; C1; Business/Vertrag/Streitfall; Le contentieux sur le brevet a duré trois ans.; Der Rechtsstreit über das Patent dauerte drei Jahre.
-fr-vt-0135; Berufung; l'appel; le recours; C1; Business/Vertrag/Streitfall; Notre entreprise a interjeté appel du jugement.; Unsere Firma legte Berufung gegen das Urteil ein.
+fr-vt-0135; Berufung (Gericht); l'appel; le recours; C1; Business/Vertrag/Streitfall; Notre entreprise a interjeté appel du jugement.; Unsere Firma legte Berufung gegen das Urteil ein.
 fr-vt-0136; geltend machen; faire valoir; revendiquer; C1; Business/Vertrag/Rechtsbegriffe; Vous devez faire valoir votre droit dans le délai de prescription.; Sie müssen einen Anspruch innerhalb der Verjährungsfrist geltend machen.
 fr-vt-0137; beglaubigen; certifier; authentifier, légaliser; C1; Business/Vertrag/Abschluss & Unterschrift; Le notaire a certifié conformes les copies du contrat.; Der Notar beglaubigte die Kopien des Vertrags.
 fr-vt-0138; gegenzeichnen; contresigner; ; C1; Business/Vertrag/Abschluss & Unterschrift; Le directeur général doit contresigner chaque commande importante.; Der Geschäftsführer muss jede große Bestellung gegenzeichnen.

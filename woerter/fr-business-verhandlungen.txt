@@ -1,6 +1,6 @@
 # Französisch: Business – Verhandlungen
 id; Deutsch; Französisch; Weitere Antworten; Niveau; Themen; Beispiel Französisch; Beispiel Deutsch
-fr-vh-0001; Preis; le prix; ; A1; Business/Verhandlung/Angebot; Le prix est trop élevé pour nous.; Der Preis ist zu hoch für uns.
+fr-vh-0001; Preis (Kosten); le prix; ; A1; Business/Verhandlung/Angebot; Le prix est trop élevé pour nous.; Der Preis ist zu hoch für uns.
 fr-vh-0002; kaufen; acheter; ; A1; Business/Verhandlung/Abschluss, Alltag/Einkaufen; Nous voulons acheter la nouvelle machine le mois prochain.; Wir wollen die neue Maschine nächsten Monat kaufen.
 fr-vh-0003; verkaufen; vendre; ; A1; Business/Verhandlung/Abschluss; Ils vendent leurs produits dans de nombreux pays.; Sie verkaufen ihre Produkte in vielen Ländern.
 fr-vh-0004; anbieten; offrir; proposer; A1; Business/Verhandlung/Angebot; Aujourd'hui, nous pouvons vous offrir un meilleur prix.; Wir können Ihnen heute einen besseren Preis anbieten.
@@ -57,13 +57,13 @@ fr-vh-0054; Budget; le budget; ; B1; Business/Verhandlung/Vorbereitung; Notre bu
 fr-vh-0055; Alternative; l'alternative; la solution de rechange, l'option; B1; Business/Verhandlung/Taktik; Nous devrions toujours avoir une alternative en tête.; Wir sollten immer eine Alternative im Kopf haben.
 fr-vh-0056; flexibel; flexible; souple; B1; Business/Verhandlung/Zugeständnisse; Nous sommes flexibles sur la date de livraison.; Beim Liefertermin sind wir flexibel.
 fr-vh-0057; fair; équitable; juste, correct; B1; Business/Verhandlung/Positionen; Nous voulons un accord équitable pour les deux parties.; Wir wollen ein faires Geschäft für beide Seiten.
-fr-vh-0058; Abschluss; la conclusion; la finalisation, la signature; B1; Business/Verhandlung/Abschluss; Nous sommes proches de la conclusion de l'affaire.; Wir stehen kurz vor dem Abschluss des Geschäfts.
-fr-vh-0059; abschließen; conclure; ; B1; Business/Verhandlung/Abschluss; Nous avons conclu le contrat après deux rencontres.; Wir schlossen den Vertrag nach zwei Treffen ab.
+fr-vh-0058; Abschluss (Geschäft); la conclusion; la finalisation, la signature; B1; Business/Verhandlung/Abschluss; Nous sommes proches de la conclusion de l'affaire.; Wir stehen kurz vor dem Abschluss des Geschäfts.
+fr-vh-0059; abschließen (Vertrag); conclure; ; B1; Business/Verhandlung/Abschluss; Nous avons conclu le contrat après deux rencontres.; Wir schlossen den Vertrag nach zwei Treffen ab.
 fr-vh-0060; Bedenken; les inquiétudes; les doutes, les réserves, les préoccupations; B1; Business/Verhandlung/Einwände; Nous avons encore quelques inquiétudes au sujet des coûts.; Wir haben noch einige Bedenken wegen der Kosten.
 fr-vh-0061; Hauptpunkt; le point principal; le point clé, le point essentiel; B1; Business/Verhandlung/Vorbereitung; Le point principal aujourd'hui, c'est le nouveau prix.; Der Hauptpunkt heute ist der neue Preis.
 fr-vh-0062; klären; clarifier; éclaircir, régler; B1; Business/Verhandlung/Einwände; Nous devons encore clarifier quelques questions en suspens.; Wir müssen noch ein paar offene Fragen klären.
 fr-vh-0063; bestätigen; confirmer; ; B1; Business/Verhandlung/Abschluss; Veuillez confirmer la commande par e-mail.; Bitte bestätigen Sie die Bestellung per E-Mail.
-fr-vh-0064; Protokoll; le compte rendu; le procès-verbal; B1; Business/Verhandlung/Abschluss; Elle a rédigé le compte rendu de la séance.; Sie schrieb das Protokoll der Sitzung.
+fr-vh-0064; Protokoll (Sitzung); le compte rendu; le procès-verbal; B1; Business/Verhandlung/Abschluss; Elle a rédigé le compte rendu de la séance.; Sie schrieb das Protokoll der Sitzung.
 fr-vh-0065; Zusammenfassung; le résumé; la synthèse; B1; Business/Verhandlung/Abschluss; Voici un bref résumé de nos résultats.; Hier ist eine kurze Zusammenfassung unserer Ergebnisse.
 fr-vh-0066; Verhandlungsziel; l'objectif de négociation; ; B2; Business/Verhandlung/Vorbereitung; Définissez votre objectif de négociation avant d'entrer dans la salle.; Definieren Sie Ihr Verhandlungsziel, bevor Sie den Raum betreten.
 fr-vh-0067; Ausgangsposition; la position de départ; ; B2; Business/Verhandlung/Positionen; Notre position de départ dans ces discussions est assez forte.; Unsere Ausgangsposition in diesen Gesprächen ist ziemlich stark.
@@ -75,7 +75,7 @@ fr-vh-0072; Taktik; la tactique; ; B2; Business/Verhandlung/Taktik; Le silence p
 fr-vh-0073; Zeitdruck; la pression du temps; la contrainte de temps, l'urgence; B2; Business/Verhandlung/Taktik; Ils ont utilisé la pression du temps pour forcer une décision rapide.; Sie nutzten Zeitdruck, um eine schnelle Entscheidung zu erzwingen.
 fr-vh-0074; Machtverhältnis; le rapport de force; le rapport de forces; B2; Business/Verhandlung/Positionen; Le rapport de force a changé après la fusion.; Das Machtverhältnis änderte sich nach der Fusion.
 fr-vh-0075; Verhandlungstisch; la table des négociations; la table de négociation; B2; Business/Verhandlung/Wendungen; Hier, les deux parties sont revenues à la table des négociations.; Beide Seiten kehrten gestern an den Verhandlungstisch zurück.
-fr-vh-0076; Sackgasse; l'impasse; ; B2; Business/Verhandlung/Taktik; Au bout de deux jours, les discussions ont abouti à une impasse.; Die Gespräche endeten nach zwei Tagen in einer Sackgasse.
+fr-vh-0076; Sackgasse (ausweglose Lage); l'impasse; ; B2; Business/Verhandlung/Taktik; Au bout de deux jours, les discussions ont abouti à une impasse.; Die Gespräche endeten nach zwei Tagen in einer Sackgasse.
 fr-vh-0077; Durchbruch; la percée; l'avancée décisive; B2; Business/Verhandlung/Abschluss; Tard hier soir, nous avons réalisé une percée.; Spät gestern Abend gelang uns ein Durchbruch.
 fr-vh-0078; Stillstand; le point mort; l'arrêt, la paralysie; B2; Business/Verhandlung/Taktik; Les négociations sont complètement au point mort.; Die Verhandlungen kamen zu einem völligen Stillstand.
 fr-vh-0079; überdenken; reconsidérer; réexaminer, repenser; B2; Business/Verhandlung/Einwände; Veuillez reconsidérer notre offre avant de décider.; Bitte überdenken Sie unser Angebot, bevor Sie entscheiden.

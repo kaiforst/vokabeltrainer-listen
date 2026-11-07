@@ -18,7 +18,7 @@ fr-nt-0015; Affe; le singe; ; A1; Natur/Tiere/Wildtiere; Le singe saute d'arbre 
 fr-nt-0016; Baum; l'arbre; ; A1; Natur/Pflanzen; Le vieil arbre nous donne de l'ombre en été.; Der alte Baum spendet uns im Sommer Schatten.
 fr-nt-0017; Blume; la fleur; ; A1; Natur/Pflanzen; Elle a cueilli une fleur pour sa mère.; Sie pflückte eine Blume für ihre Mutter.
 fr-nt-0018; Gras; l'herbe; le gazon; A1; Natur/Pflanzen; L'herbe est encore mouillée par la pluie.; Das Gras ist noch nass vom Regen.
-fr-nt-0019; Blatt; la feuille; ; A1; Natur/Pflanzen; Une feuille jaune est tombée de l'arbre.; Ein gelbes Blatt fiel vom Baum.
+fr-nt-0019; Blatt (Baum); la feuille; ; A1; Natur/Pflanzen; Une feuille jaune est tombée de l'arbre.; Ein gelbes Blatt fiel vom Baum.
 fr-nt-0020; Wald; la forêt; le bois; A1; Natur/Landschaft; Nous nous promenons dans la forêt tous les dimanches.; Wir gehen jeden Sonntag durch den Wald.
 fr-nt-0021; Berg; la montagne; le mont; A1; Natur/Landschaft; La montagne est couverte de neige en hiver.; Der Berg ist im Winter mit Schnee bedeckt.
 fr-nt-0022; See; le lac; ; A1; Natur/Landschaft; Nous nous baignons dans le lac chaque été.; Wir schwimmen jeden Sommer im See.
@@ -38,7 +38,7 @@ fr-nt-0035; Löwe; le lion; la lionne; A2; Natur/Tiere/Wildtiere; Le lion se rep
 fr-nt-0036; Tiger; le tigre; ; A2; Natur/Tiere/Wildtiere; Le tigre est un chasseur excellent et patient.; Der Tiger ist ein hervorragender und geduldiger Jäger.
 fr-nt-0037; Elefant; l'éléphant; ; A2; Natur/Tiere/Wildtiere; L'éléphant boit beaucoup d'eau chaque jour.; Der Elefant trinkt täglich sehr viel Wasser.
 fr-nt-0038; Giraffe; la girafe; ; A2; Natur/Tiere/Wildtiere; La girafe mange les feuilles des plus grands arbres.; Die Giraffe frisst Blätter von den höchsten Bäumen.
-fr-nt-0039; Schlange; le serpent; ; A2; Natur/Tiere/Wildtiere; Un serpent vert était couché sur la pierre chaude.; Eine grüne Schlange lag auf dem warmen Stein.
+fr-nt-0039; Schlange (Tier); le serpent; ; A2; Natur/Tiere/Wildtiere; Un serpent vert était couché sur la pierre chaude.; Eine grüne Schlange lag auf dem warmen Stein.
 fr-nt-0040; Frosch; la grenouille; ; A2; Natur/Tiere/Wildtiere; La grenouille saute dans l'étang avec un plouf.; Der Frosch springt mit einem Platscher in den Teich.
 fr-nt-0041; Biene; l'abeille; ; A2; Natur/Tiere/Insekten; L'abeille vole de fleur en fleur.; Die Biene fliegt von Blüte zu Blüte.
 fr-nt-0042; Fliege; la mouche; ; A2; Natur/Tiere/Insekten; Une mouche bourdonne dans la cuisine.; Eine Fliege summt durch die Küche.
@@ -74,7 +74,7 @@ fr-nt-0071; Raubtier; le prédateur; le carnassier, le fauve; B1; Natur/Tiere/Wi
 fr-nt-0072; Beute; la proie; ; B1; Natur/Tiere/Wildtiere; La chouette s'approche sans bruit de sa proie.; Die Eule nähert sich lautlos ihrer Beute.
 fr-nt-0073; Herde; le troupeau; ; B1; Natur/Tiere/Wildtiere; Un troupeau de vaches bloquait la petite route.; Eine Herde Kühe blockierte die kleine Straße.
 fr-nt-0074; Schwarm; l'essaim; la nuée, le banc; B1; Natur/Tiere/Insekten; Un essaim d'abeilles s'est installé dans le vieil arbre.; Ein Bienenschwarm ließ sich im alten Baum nieder.
-fr-nt-0075; Art; l'espèce; ; B1; Natur/Tiere/Wildtiere; Cette espèce de papillon est très rare ici.; Diese Schmetterlingsart ist hier sehr selten.
+fr-nt-0075; Art (Biologie); l'espèce; ; B1; Natur/Tiere/Wildtiere; Cette espèce de papillon est très rare ici.; Diese Schmetterlingsart ist hier sehr selten.
 fr-nt-0076; Lebensraum; l'habitat; le milieu de vie; B1; Natur/Tiere/Wildtiere; Les zones humides sont un habitat important pour de nombreux oiseaux.; Feuchtgebiete sind ein wichtiger Lebensraum für viele Vögel.
 fr-nt-0077; Umwelt; l'environnement; ; B1; Natur/Landschaft; Nous devrions tous mieux protéger notre environnement.; Wir sollten alle unsere Umwelt besser schützen.
 fr-nt-0078; Naturschutz; la protection de la nature; ; B1; Natur/Landschaft; La protection de la nature commence dans son propre jardin.; Naturschutz beginnt im eigenen Garten.
@@ -87,14 +87,14 @@ fr-nt-0084; Teich; l'étang; la mare; B1; Natur/Landschaft; Des grenouilles et d
 fr-nt-0085; Wüste; le désert; ; B1; Natur/Landschaft; Presque rien ne pousse dans le désert aride.; In der trockenen Wüste wächst kaum etwas.
 fr-nt-0086; Höhle; la grotte; la caverne, la tanière; B1; Natur/Landschaft; Des chauves-souris passent l'hiver dans cette grotte.; Fledermäuse überwintern in dieser Höhle.
 fr-nt-0087; Gipfel; le sommet; ; B1; Natur/Landschaft; Nous avons atteint le sommet au bout de cinq heures.; Nach fünf Stunden erreichten wir den Gipfel.
-fr-nt-0088; Boden; le sol; la terre; B1; Natur/Pflanzen; Un sol sain est plein de minuscules êtres vivants.; Gesunder Boden ist voller winziger Lebewesen.
+fr-nt-0088; Boden (Erde); le sol; la terre; B1; Natur/Pflanzen; Un sol sain est plein de minuscules êtres vivants.; Gesunder Boden ist voller winziger Lebewesen.
 fr-nt-0089; Samen; la graine; la semence; B1; Natur/Pflanzen; Nous avons semé les graines au début du printemps.; Wir haben die Samen im Frühjahr ausgesät.
-fr-nt-0090; Stamm; le tronc; ; B1; Natur/Pflanzen; Le tronc du hêtre est lisse et gris.; Der Stamm der Buche ist glatt und grau.
+fr-nt-0090; Stamm (Baum); le tronc; ; B1; Natur/Pflanzen; Le tronc du hêtre est lisse et gris.; Der Stamm der Buche ist glatt und grau.
 fr-nt-0091; Rinde; l'écorce; ; B1; Natur/Pflanzen; Les chevreuils mangent parfois l'écorce des jeunes arbres.; Rehe fressen manchmal die Rinde junger Bäume.
 fr-nt-0092; blühen; fleurir; être en fleur; B1; Natur/Pflanzen; Les cerisiers fleurissent fin avril.; Die Kirschbäume blühen Ende April.
 fr-nt-0093; Eiche; le chêne; ; B1; Natur/Pflanzen; Le vieux chêne a plus de trois cents ans.; Die alte Eiche ist über dreihundert Jahre alt.
 fr-nt-0094; Birke; le bouleau; ; B1; Natur/Pflanzen; On reconnaît un bouleau à son écorce blanche.; Eine Birke erkennt man an ihrer weißen Rinde.
-fr-nt-0095; Kiefer; le pin; ; B1; Natur/Pflanzen; Le pin pousse bien sur un sol sablonneux.; Die Kiefer wächst gut auf sandigem Boden.
+fr-nt-0095; Kiefer (Baum); le pin; ; B1; Natur/Pflanzen; Le pin pousse bien sur un sol sablonneux.; Die Kiefer wächst gut auf sandigem Boden.
 fr-nt-0096; Kralle; la griffe; la serre; B2; Natur/Tiere/Wildtiere; L'autour a saisi la souris avec ses griffes.; Der Habicht packte die Maus mit seinen Krallen.
 fr-nt-0097; Geweih; les bois; la ramure; B2; Natur/Tiere/Wildtiere; Le cerf perd ses bois chaque année.; Der Hirsch verliert jedes Jahr sein Geweih.
 fr-nt-0098; Huf; le sabot; ; B2; Natur/Tiere/Haustiere; Le maréchal-ferrant a examiné le sabot gauche du cheval.; Der Hufschmied prüfte den linken Huf des Pferdes.
@@ -142,7 +142,7 @@ fr-nt-0139; Artenschutz; la protection des espèces; ; C1; Natur/Tiere/Wildtiere
 fr-nt-0140; Monokultur; la monoculture; ; C1; Natur/Pflanzen; Une monoculture est beaucoup plus vulnérable aux parasites.; Eine Monokultur ist deutlich anfälliger für Schädlinge.
 fr-nt-0141; Photosynthese; la photosynthèse; ; C1; Natur/Pflanzen; Grâce à la photosynthèse, les plantes transforment la lumière en énergie.; Durch Photosynthese wandeln Pflanzen Licht in Energie um.
 fr-nt-0142; Keimling; la plantule; la pousse, le germe; C1; Natur/Pflanzen; La minuscule plantule a besoin de chaleur et d'une humidité constante.; Der winzige Keimling braucht Wärme und gleichmäßige Feuchtigkeit.
-fr-nt-0143; Bestand; la population; les effectifs; C1; Natur/Tiere/Wildtiere; La population de loups augmente lentement dans cette région.; Der Bestand an Wölfen wächst in dieser Region langsam.
+fr-nt-0143; Bestand (Tiere); la population; les effectifs; C1; Natur/Tiere/Wildtiere; La population de loups augmente lentement dans cette région.; Der Bestand an Wölfen wächst in dieser Region langsam.
 fr-nt-0144; Renaturierung; la renaturation; la restauration écologique; C2; Natur/Landschaft; La renaturation de la rivière a duré dix ans.; Die Renaturierung des Flusses dauerte zehn Jahre.
 fr-nt-0145; Zersiedelung; l'étalement urbain; le mitage; C2; Natur/Landschaft; L'étalement urbain grignote les paysages ouverts.; Die Zersiedelung frisst sich in die offene Landschaft.
 fr-nt-0146; Flächenversiegelung; l'imperméabilisation des sols; l'artificialisation des sols; C2; Natur/Landschaft; L'imperméabilisation des sols empêche l'eau de pluie d'atteindre les nappes phréatiques.; Die Flächenversiegelung verhindert, dass Regenwasser ins Grundwasser gelangt.

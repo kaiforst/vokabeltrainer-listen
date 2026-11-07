@@ -42,14 +42,14 @@ fr-kg-0039; Bauchschmerzen; le mal de ventre; les maux de ventre; A2; Gesundheit
 fr-kg-0040; Halsschmerzen; le mal de gorge; ; A2; Gesundheit/Symptome; Le thé chaud aide contre le mal de gorge.; Warmer Tee hilft gegen Halsschmerzen.
 fr-kg-0041; Grippe; la grippe; ; A2; Gesundheit/Krankheiten; Beaucoup de gens attrapent la grippe en janvier.; Viele Menschen bekommen im Januar die Grippe.
 fr-kg-0042; Medikament; le médicament; ; A2; Gesundheit/Apotheke & Medikamente; Ce médicament soulage vite la douleur.; Dieses Medikament hilft schnell gegen die Schmerzen.
-fr-kg-0043; Rezept; l'ordonnance; ; A2; Gesundheit/Apotheke & Medikamente; Pour ces comprimés, il vous faut une ordonnance.; Für diese Tabletten brauchen Sie ein Rezept.
+fr-kg-0043; Rezept (Arzt); l'ordonnance; ; A2; Gesundheit/Apotheke & Medikamente; Pour ces comprimés, il vous faut une ordonnance.; Für diese Tabletten brauchen Sie ein Rezept.
 fr-kg-0044; Termin; le rendez-vous; ; A2; Gesundheit/Beim Arzt; J'ai pris rendez-vous pour vendredi matin.; Ich habe einen Termin für Freitagmorgen gemacht.
 fr-kg-0045; Krankenschwester; l'infirmière; l'infirmier; A2; Gesundheit/Krankenhaus; L'infirmière passe voir les patients toutes les heures.; Die Krankenschwester sieht jede Stunde nach den Patienten.
 fr-kg-0046; Patient; le patient; la patiente, le malade; A2; Gesundheit/Krankenhaus; Le patient va beaucoup mieux aujourd'hui.; Dem Patienten geht es heute viel besser.
 fr-kg-0047; Wartezimmer; la salle d'attente; ; A2; Gesundheit/Beim Arzt; La salle d'attente était pleine ce matin.; Das Wartezimmer war heute Morgen voll.
 fr-kg-0048; Spritze; la piqûre; l'injection; A2; Gesundheit/Beim Arzt; La piqûre n'a fait mal qu'une seconde.; Die Spritze hat nur eine Sekunde wehgetan.
 fr-kg-0049; Pflaster; le pansement; le pansement adhésif; A2; Gesundheit/Apotheke & Medikamente; Mets un pansement sur la petite coupure.; Kleb ein Pflaster auf den kleinen Schnitt.
-fr-kg-0050; Verband; le bandage; ; A2; Gesundheit/Beim Arzt; Le médecin a changé le bandage de ma main.; Der Arzt wechselte den Verband an meiner Hand.
+fr-kg-0050; Verband (Wunde); le bandage; le pansement; A2; Gesundheit/Beim Arzt; Le médecin a changé le bandage de ma main.; Der Arzt wechselte den Verband an meiner Hand.
 fr-kg-0051; Salbe; la pommade; la crème; A2; Gesundheit/Apotheke & Medikamente; Utilisez cette pommade deux fois par jour.; Benutzen Sie diese Salbe zweimal am Tag.
 fr-kg-0052; Unfall; l'accident; ; A2; Gesundheit/Krankenhaus; Après l'accident, il a eu besoin d'aide rapidement.; Nach dem Unfall brauchte er schnell Hilfe.
 fr-kg-0053; Notruf; l'appel d'urgence; ; A2; Gesundheit/Krankenhaus; Elle a passé un appel d'urgence tout de suite.; Sie setzte sofort einen Notruf ab.
@@ -93,7 +93,7 @@ fr-kg-0090; schwitzen; transpirer; suer; B1; Gesundheit/Symptome; Il transpirait
 fr-kg-0091; impfen; vacciner; ; B1; Gesundheit/Beim Arzt; Le médecin a vacciné les enfants contre la rougeole.; Der Arzt impfte die Kinder gegen Masern.
 fr-kg-0092; Impfung; la vaccination; le vaccin; B1; Gesundheit/Beim Arzt; La vaccination te protège pendant de nombreuses années.; Die Impfung schützt dich viele Jahre lang.
 fr-kg-0093; Krankenversicherung; l'assurance maladie; ; B1; Gesundheit/Beim Arzt; En Allemagne, tout le monde doit avoir une assurance maladie.; In Deutschland braucht jeder eine Krankenversicherung.
-fr-kg-0094; Überweisung; la lettre d'orientation; le courrier du médecin; B1; Gesundheit/Beim Arzt; J'ai besoin d'une lettre d'orientation pour le spécialiste.; Ich brauche eine Überweisung zum Facharzt.
+fr-kg-0094; Überweisung (zum Facharzt); la lettre d'orientation; le courrier du médecin; B1; Gesundheit/Beim Arzt; J'ai besoin d'une lettre d'orientation pour le spécialiste.; Ich brauche eine Überweisung zum Facharzt.
 fr-kg-0095; Notaufnahme; les urgences; le service des urgences; B1; Gesundheit/Krankenhaus; Ils sont allés directement aux urgences.; Sie fuhren direkt in die Notaufnahme.
 fr-kg-0096; Diagnose; le diagnostic; ; B2; Gesundheit/Beim Arzt; Le diagnostic a été une surprise totale.; Die Diagnose kam völlig überraschend.
 fr-kg-0097; Behandlung; le traitement; ; B2; Gesundheit/Beim Arzt; Le traitement dure environ trois mois au total.; Die Behandlung dauert insgesamt etwa drei Monate.
@@ -144,7 +144,7 @@ fr-kg-0141; Heilungsprozess; le processus de guérison; la cicatrisation; C1; Ge
 fr-kg-0142; Rehabilitation; la rééducation; la réadaptation; C1; Gesundheit/Krankenhaus; Après l'opération, elle a tout de suite commencé la rééducation.; Nach der Operation begann sie sofort mit der Rehabilitation.
 fr-kg-0143; Arzneimittel; le produit pharmaceutique; le médicament; C1; Gesundheit/Apotheke & Medikamente; Chaque nouveau produit pharmaceutique est testé pendant des années.; Jedes neue Arzneimittel wird jahrelang getestet.
 fr-kg-0144; Anamnese; l'anamnèse; les antécédents médicaux; C2; Gesundheit/Beim Arzt; Le médecin a d'abord fait une anamnèse détaillée.; Der Arzt erhob zuerst eine ausführliche Anamnese.
-fr-kg-0145; Prognose; le pronostic; ; C2; Gesundheit/Krankenhaus; Malgré la maladie, le pronostic est bon.; Trotz der Krankheit ist die Prognose gut.
+fr-kg-0145; Prognose (Medizin); le pronostic; ; C2; Gesundheit/Krankenhaus; Malgré la maladie, le pronostic est bon.; Trotz der Krankheit ist die Prognose gut.
 fr-kg-0146; bösartig; malin; ; C2; Gesundheit/Krankheiten; Heureusement, la tumeur n'était pas maligne.; Zum Glück war der Tumor nicht bösartig.
 fr-kg-0147; gutartig; bénin; ; C2; Gesundheit/Krankheiten; La grosseur s'est révélée bénigne.; Die Geschwulst erwies sich als gutartig.
 fr-kg-0148; Beipackzettel; la notice; la notice d'utilisation; C2; Gesundheit/Apotheke & Medikamente; Lisez la notice avant de prendre le médicament.; Lesen Sie vor der Einnahme den Beipackzettel.

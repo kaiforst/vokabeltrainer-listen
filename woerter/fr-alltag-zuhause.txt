@@ -15,7 +15,7 @@ fr-al-0012; Treppe; l'escalier; les escaliers; A2; Alltag/Zuhause/Räume; Prends
 fr-al-0013; Wand; le mur; ; A2; Alltag/Zuhause/Räume; Nous avons peint le mur en bleu clair.; Wir haben die Wand hellblau gestrichen.
 fr-al-0014; Flur; le couloir; l'entrée; B1; Alltag/Zuhause/Räume; Tes chaussures sont dans le couloir, à côté de la porte.; Deine Schuhe stehen im Flur neben der Tür.
 fr-al-0015; Dachboden; le grenier; ; B1; Alltag/Zuhause/Räume; De vieux cartons sont entreposés au grenier.; Alte Kartons lagern oben auf dem Dachboden.
-fr-al-0016; Decke; le plafond; ; B1; Alltag/Zuhause/Räume; La lampe est suspendue au plafond, au-dessus de la table.; Die Lampe hängt von der Decke über dem Tisch.
+fr-al-0016; Decke (im Zimmer); le plafond; ; B1; Alltag/Zuhause/Räume; La lampe est suspendue au plafond, au-dessus de la table.; Die Lampe hängt von der Decke über dem Tisch.
 fr-al-0017; Arbeitszimmer; le bureau; ; B1; Alltag/Zuhause/Räume; Il travaille à la maison dans son bureau tranquille.; Er arbeitet zu Hause in seinem ruhigen Arbeitszimmer.
 fr-al-0018; Abstellraum; le débarras; le cagibi, la remise; B2; Alltag/Zuhause/Räume; L'aspirateur est dans le débarras.; Der Staubsauger steht im Abstellraum.
 fr-al-0019; Dachgeschoss; les combles; le dernier étage, l'étage mansardé; B2; Alltag/Zuhause/Räume; Ils ont transformé les combles en un appartement lumineux.; Sie haben das Dachgeschoss in eine helle Wohnung umgebaut.
@@ -74,7 +74,7 @@ fr-al-0071; Besen; le balai; ; B1; Alltag/Zuhause/Haushalt; Elle balaie la terra
 fr-al-0072; Eimer; le seau; ; B1; Alltag/Zuhause/Haushalt; Remplis le seau d'eau chaude, s'il te plaît.; Füll den Eimer bitte mit warmem Wasser.
 fr-al-0073; Staub; la poussière; ; B1; Alltag/Zuhause/Haushalt; Il y a beaucoup de poussière sous le lit.; Unter dem Bett liegt viel Staub.
 fr-al-0074; Fleck; la tache; ; B1; Alltag/Zuhause/Haushalt; Il y a une tache de café sur la nappe.; Auf der Tischdecke ist ein Kaffeefleck.
-fr-al-0075; Hausarbeit; les tâches ménagères; le ménage, les travaux ménagers; B1; Alltag/Zuhause/Haushalt; Nous partageons équitablement les tâches ménagères.; Wir teilen uns die Hausarbeit gerecht auf.
+fr-al-0075; Hausarbeit (Haushalt); les tâches ménagères; le ménage, les travaux ménagers; B1; Alltag/Zuhause/Haushalt; Nous partageons équitablement les tâches ménagères.; Wir teilen uns die Hausarbeit gerecht auf.
 fr-al-0076; Trockner; le sèche-linge; ; B1; Alltag/Zuhause/Haushalt; Mets les serviettes mouillées dans le sèche-linge.; Leg die nassen Handtücher in den Trockner.
 fr-al-0077; Waschmittel; la lessive; le détergent; B2; Alltag/Zuhause/Haushalt; Il n'y a de nouveau plus de lessive.; Das Waschmittel ist schon wieder alle.
 fr-al-0078; Putzmittel; le produit d'entretien; le produit ménager, le produit de nettoyage; B2; Alltag/Zuhause/Haushalt; Ce produit d'entretien est efficace sur le verre.; Dieses Putzmittel wirkt gut auf Glas.
@@ -88,12 +88,12 @@ fr-al-0085; Mülltrennung; le tri des déchets; le tri sélectif; C1; Alltag/Zuh
 fr-al-0086; Schimmel; la moisissure; les moisissures; C1; Alltag/Zuhause/Haushalt; Nous avons trouvé de la moisissure derrière le meuble de la salle de bains.; Wir haben hinter dem Badezimmerschrank Schimmel gefunden.
 fr-al-0087; verstopft; bouché; ; C1; Alltag/Zuhause/Haushalt; Le siphon de la douche est de nouveau bouché.; Der Abfluss in der Dusche ist wieder verstopft.
 fr-al-0088; undicht; qui fuit; fuyant, non étanche; C1; Alltag/Zuhause/Haushalt; Le vieux robinet qui fuit goutte toute la nuit.; Der alte Wasserhahn ist undicht und tropft die ganze Nacht.
-fr-al-0089; Sicherung; le fusible; le disjoncteur; C1; Alltag/Zuhause/Haushalt; Le fusible a sauté quand j'ai allumé le four.; Die Sicherung flog raus, als ich den Backofen anmachte.
+fr-al-0089; Sicherung (Strom); le fusible; le disjoncteur; C1; Alltag/Zuhause/Haushalt; Le fusible a sauté quand j'ai allumé le four.; Die Sicherung flog raus, als ich den Backofen anmachte.
 fr-al-0090; entrümpeln; débarrasser; désencombrer, vider; C2; Alltag/Zuhause/Haushalt; Nous voulons débarrasser la cave ce week-end.; Wir wollen am Wochenende den Keller entrümpeln.
 fr-al-0091; Werkzeug; l'outil; les outils; A2; Alltag/Zuhause/Werkzeug; Pour ce travail, tu as besoin du bon outil.; Für diese Arbeit brauchst du das richtige Werkzeug.
 fr-al-0092; Hammer; le marteau; ; A2; Alltag/Zuhause/Werkzeug; Il a enfoncé le clou avec le marteau.; Er schlug den Nagel mit dem Hammer ein.
 fr-al-0093; reparieren; réparer; ; B1; Alltag/Zuhause/Werkzeug; Mon père sait presque tout réparer lui-même.; Mein Vater kann fast alles selbst reparieren.
-fr-al-0094; Leiter; l'échelle; l'escabeau; B1; Alltag/Zuhause/Werkzeug; Tiens l'échelle pendant que je monte.; Halt die Leiter fest, während ich hinaufsteige.
+fr-al-0094; Leiter (zum Steigen); l'échelle; l'escabeau; B1; Alltag/Zuhause/Werkzeug; Tiens l'échelle pendant que je monte.; Halt die Leiter fest, während ich hinaufsteige.
 fr-al-0095; Nagel; le clou; ; B1; Alltag/Zuhause/Werkzeug; Le tableau est accroché à un petit clou.; Das Bild hängt an einem kleinen Nagel.
 fr-al-0096; Schraube; la vis; ; B1; Alltag/Zuhause/Werkzeug; Cette vis est desserrée et doit être resserrée.; Diese Schraube ist locker und muss angezogen werden.
 fr-al-0097; Schraubenzieher; le tournevis; ; B2; Alltag/Zuhause/Werkzeug; Passe-moi le petit tournevis, s'il te plaît.; Gib mir bitte den kleinen Schraubenzieher.
@@ -107,7 +107,7 @@ fr-al-0104; Dübel; la cheville; ; C2; Alltag/Zuhause/Werkzeug; Sans cheville, l
 fr-al-0105; Garten; le jardin; ; A1; Alltag/Zuhause/Garten; Les enfants jouent dans le jardin.; Die Kinder spielen im Garten.
 fr-al-0106; Blume; la fleur; ; A1; Alltag/Zuhause/Garten; Elle a cueilli une fleur pour sa mère.; Sie pflückte eine Blume für ihre Mutter.
 fr-al-0107; Baum; l'arbre; ; A2; Alltag/Zuhause/Garten; Dans notre jardin, il y a un vieil arbre, un pommier.; In unserem Garten steht ein alter Apfelbaum.
-fr-al-0108; gießen; arroser; ; A2; Alltag/Zuhause/Garten; Arrose les plantes pendant mon absence, s'il te plaît.; Gieß bitte die Pflanzen, während ich weg bin.
+fr-al-0108; gießen (Pflanzen); arroser; ; A2; Alltag/Zuhause/Garten; Arrose les plantes pendant mon absence, s'il te plaît.; Gieß bitte die Pflanzen, während ich weg bin.
 fr-al-0109; Rasen; la pelouse; le gazon; B1; Alltag/Zuhause/Garten; Il faut tondre la pelouse toutes les deux semaines.; Der Rasen muss alle zwei Wochen gemäht werden.
 fr-al-0110; Zaun; la clôture; ; B1; Alltag/Zuhause/Garten; Une clôture blanche entoure le jardin.; Ein weißer Zaun verläuft um den Garten.
 fr-al-0111; Terrasse; la terrasse; ; B1; Alltag/Zuhause/Garten; Nous avons pris un café sur la terrasse ensoleillée.; Wir tranken Kaffee auf der sonnigen Terrasse.
@@ -126,7 +126,7 @@ fr-al-0123; Spaten; la bêche; ; C1; Alltag/Zuhause/Garten; Creuser avec une bê
 fr-al-0124; Gartenschere; le sécateur; ; C1; Alltag/Zuhause/Garten; Elle a coupé les roses avec son sécateur.; Sie schnitt die Rosen mit ihrer Gartenschere.
 fr-al-0125; jäten; désherber; arracher les mauvaises herbes; C2; Alltag/Zuhause/Garten; J'ai passé tout l'après-midi à désherber les parterres.; Ich habe den ganzen Nachmittag die Beete gejätet.
 fr-al-0126; düngen; fertiliser; mettre de l'engrais; C2; Alltag/Zuhause/Garten; Tu devrais fertiliser les rosiers deux fois par an.; Du solltest die Rosen zweimal im Jahr düngen.
-fr-al-0127; aufstehen; se lever; ; A1; Alltag/Zuhause/Tagesablauf; Je me lève à sept heures tous les matins.; Ich stehe jeden Morgen um sieben auf.
+fr-al-0127; aufstehen (morgens, aus dem Bett); se lever; ; A1; Alltag/Zuhause/Tagesablauf; Je me lève à sept heures tous les matins.; Ich stehe jeden Morgen um sieben auf.
 fr-al-0128; frühstücken; prendre le petit-déjeuner; prendre le petit déjeuner; A1; Alltag/Zuhause/Tagesablauf; Le dimanche, nous prenons le petit-déjeuner ensemble.; Sonntags frühstücken wir zusammen.
 fr-al-0129; kochen; cuisiner; faire la cuisine; A1; Alltag/Zuhause/Tagesablauf, Alltag/Essen/Kochen; Ce soir, je cuisine des pâtes pour la famille.; Heute Abend koche ich Nudeln für die Familie.
 fr-al-0130; einkaufen; faire les courses; faire des courses, faire du shopping; A1; Alltag/Zuhause/Tagesablauf, Alltag/Einkaufen/Geschäfte; Le vendredi, nous faisons les courses au supermarché.; Freitags gehen wir im Supermarkt einkaufen.

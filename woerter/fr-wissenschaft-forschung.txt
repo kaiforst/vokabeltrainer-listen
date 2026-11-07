@@ -25,14 +25,14 @@ fr-wi-0022; Daten; les données; ; B1; Wissenschaft/Forschung & Methode; Les cap
 fr-wi-0023; messen; mesurer; ; A2; Wissenschaft/Forschung & Methode; Nous mesurons la température trois fois par jour.; Wir messen die Temperatur dreimal am Tag.
 fr-wi-0024; Messgenauigkeit; la précision de mesure; la précision; C2; Wissenschaft/Forschung & Methode; Le nouvel instrument double la précision de mesure du système.; Das neue Instrument verdoppelt die Messgenauigkeit des Systems.
 fr-wi-0025; vergleichen; comparer; ; A2; Wissenschaft/Forschung & Methode; Les élèves comparent les résultats des deux groupes.; Die Schüler vergleichen die Ergebnisse beider Gruppen.
-fr-wi-0026; Annahme; la supposition; le postulat, l'hypothèse; B2; Wissenschaft/Forschung & Methode; Le modèle repose sur une supposition simple.; Das Modell beruht auf einer einfachen Annahme.
+fr-wi-0026; Annahme (Vermutung); la supposition; le postulat, l'hypothèse; B2; Wissenschaft/Forschung & Methode; Le modèle repose sur une supposition simple.; Das Modell beruht auf einer einfachen Annahme.
 fr-wi-0027; Erkenntnis; le constat; la connaissance, la conclusion; C1; Wissenschaft/Forschung & Methode; L'étude a conduit à un constat surprenant sur le sommeil.; Die Studie führte zu einer überraschenden Erkenntnis über den Schlaf.
 fr-wi-0028; Gutachten; le rapport d'expertise; l'expertise, l'avis d'expert; C1; Wissenschaft/Forschung & Methode; Le tribunal a demandé un rapport d'expertise à l'université.; Das Gericht forderte ein Gutachten der Universität an.
 fr-wi-0029; Versuchsreihe; la série d'expériences; la série d'essais; C1; Wissenschaft/Forschung & Methode; La longue série d'expériences a confirmé les premiers résultats.; Die lange Versuchsreihe bestätigte die ersten Ergebnisse.
 fr-wi-0030; Grundlagenforschung; la recherche fondamentale; ; C2; Wissenschaft/Forschung & Methode; La recherche fondamentale ne porte souvent ses fruits qu'après des décennies.; Grundlagenforschung zahlt sich oft erst nach Jahrzehnten aus.
 fr-wi-0031; Licht; la lumière; ; A1; Wissenschaft/Physik; La lumière va plus vite que tout ce que nous connaissons.; Licht ist schneller als alles andere, das wir kennen.
 fr-wi-0032; Energie; l'énergie; ; A2; Wissenschaft/Physik; Le soleil nous donne de la lumière et de l'énergie.; Die Sonne gibt uns Licht und Energie.
-fr-wi-0033; Kraft; la force; ; B1; Wissenschaft/Physik; Une force puissante attire l'aimant vers le métal.; Eine starke Kraft zieht den Magneten zum Metall.
+fr-wi-0033; Kraft (Physik); la force; ; B1; Wissenschaft/Physik; Une force puissante attire l'aimant vers le métal.; Eine starke Kraft zieht den Magneten zum Metall.
 fr-wi-0034; Geschwindigkeit; la vitesse; ; B2; Wissenschaft/Physik; La fusée atteint une vitesse énorme en quelques minutes.; Die Rakete erreicht innerhalb von Minuten eine enorme Geschwindigkeit.
 fr-wi-0035; Temperatur; la température; ; A2; Wissenschaft/Physik; La température du laboratoire doit rester constante.; Die Temperatur im Labor muss konstant bleiben.
 fr-wi-0036; Trägheit; l'inertie; ; C2; Wissenschaft/Physik; En raison de son inertie, la lourde boule continue de rouler.; Wegen seiner Trägheit rollt der schwere Ball weiter.
@@ -49,7 +49,7 @@ fr-wi-0046; Strahlung; le rayonnement; les radiations; B2; Wissenschaft/Physik; 
 fr-wi-0047; Leitfähigkeit; la conductivité; ; C1; Wissenschaft/Physik; Le cuivre est connu pour son excellente conductivité électrique.; Kupfer ist für seine ausgezeichnete elektrische Leitfähigkeit bekannt.
 fr-wi-0048; Quantenmechanik; la mécanique quantique; ; C1; Wissenschaft/Physik; La mécanique quantique décrit le monde étrange des minuscules particules.; Die Quantenmechanik beschreibt die seltsame Welt winziger Teilchen.
 fr-wi-0049; Relativitätstheorie; la théorie de la relativité; la relativité; C1; Wissenschaft/Physik; Einstein a publié sa théorie de la relativité en 1905.; Einstein veröffentlichte seine Relativitätstheorie im Jahr 1905.
-fr-wi-0050; Spannung; la tension; ; B2; Wissenschaft/Physik; La tension dans ce câble est dangereusement élevée.; Die Spannung in diesem Kabel ist gefährlich hoch.
+fr-wi-0050; Spannung (Strom); la tension; ; B2; Wissenschaft/Physik; La tension dans ce câble est dangereusement élevée.; Die Spannung in diesem Kabel ist gefährlich hoch.
 fr-wi-0051; Brechung; la réfraction; ; C2; Wissenschaft/Physik; La réfraction de la lumière fait paraître la paille tordue.; Die Brechung des Lichts lässt den Strohhalm gebogen aussehen.
 fr-wi-0052; Wechselwirkung; l'interaction; ; C1; Wissenschaft/Physik; Les chercheurs étudient l'interaction entre la lumière et la matière.; Forscher untersuchen die Wechselwirkung zwischen Licht und Materie.
 fr-wi-0053; Wasser; l'eau; ; A1; Wissenschaft/Chemie; L'eau bout à cent degrés Celsius.; Wasser kocht bei hundert Grad Celsius.
@@ -63,12 +63,12 @@ fr-wi-0060; Säure; l'acide; ; B2; Wissenschaft/Chemie; L'acide dissout lentemen
 fr-wi-0061; Salz; le sel; ; A2; Wissenschaft/Chemie; Le sel se dissout rapidement dans l'eau chaude.; Salz löst sich schnell in warmem Wasser.
 fr-wi-0062; Gas; le gaz; ; A2; Wissenschaft/Chemie; Le ballon est rempli d'un gaz léger.; Der Ballon ist mit einem leichten Gas gefüllt.
 fr-wi-0063; Flüssigkeit; le liquide; ; B1; Wissenschaft/Chemie; Verse le liquide avec précaution dans le tube en verre.; Gieß die Flüssigkeit vorsichtig in das Glasrohr.
-fr-wi-0064; Stoff; la substance; la matière; B1; Wissenschaft/Chemie; Cette substance est inoffensive pour les humains et les animaux.; Dieser Stoff ist für Menschen und Tiere harmlos.
+fr-wi-0064; Stoff (Chemie); la substance; la matière; B1; Wissenschaft/Chemie; Cette substance est inoffensive pour les humains et les animaux.; Dieser Stoff ist für Menschen und Tiere harmlos.
 fr-wi-0065; Aggregatzustand; l'état de la matière; l'état physique; C2; Wissenschaft/Chemie; La glace, l'eau et la vapeur sont trois états de la matière.; Eis, Wasser und Dampf sind drei Aggregatzustände.
 fr-wi-0066; Reaktion; la réaction; ; B1; Wissenschaft/Chemie; La réaction produit de la chaleur et une nouvelle substance.; Die Reaktion erzeugt Wärme und einen neuen Stoff.
 fr-wi-0067; Element; l'élément; ; B1; Wissenschaft/Chemie; L'oxygène est l'élément le plus répandu de la croûte terrestre.; Sauerstoff ist das häufigste Element der Erdkruste.
 fr-wi-0068; Molekül; la molécule; ; B2; Wissenschaft/Chemie; Une molécule d'eau se compose de trois atomes.; Ein Wassermolekül besteht aus drei Atomen.
-fr-wi-0069; Verbindung; le composé; le composé chimique; B2; Wissenschaft/Chemie; Le sel est un composé de sodium et de chlore.; Salz ist eine Verbindung aus Natrium und Chlor.
+fr-wi-0069; Verbindung (Chemie); le composé; le composé chimique; B2; Wissenschaft/Chemie; Le sel est un composé de sodium et de chlore.; Salz ist eine Verbindung aus Natrium und Chlor.
 fr-wi-0070; auflösen; dissoudre; se dissoudre; B2; Wissenschaft/Chemie; Le comprimé se dissout complètement dans un verre d'eau.; Die Tablette löst sich vollständig in einem Glas Wasser auf.
 fr-wi-0071; Katalysator; le catalyseur; ; C1; Wissenschaft/Chemie; Un catalyseur accélère la réaction sans être consommé.; Ein Katalysator beschleunigt die Reaktion, ohne verbraucht zu werden.
 fr-wi-0072; Destillation; la distillation; ; C2; Wissenschaft/Chemie; La distillation sépare l'alcool de l'eau par un chauffage prudent.; Die Destillation trennt Alkohol durch vorsichtiges Erhitzen vom Wasser.
@@ -84,7 +84,7 @@ fr-wi-0081; Virus; le virus; ; B1; Wissenschaft/Biologie; Le virus se transmet p
 fr-wi-0082; Gen; le gène; ; B2; Wissenschaft/Biologie; Un seul gène peut influencer la couleur des yeux.; Ein einzelnes Gen kann die Augenfarbe beeinflussen.
 fr-wi-0083; Vererbung; l'hérédité; ; B2; Wissenschaft/Biologie; L'hérédité explique pourquoi les enfants ressemblent à leurs parents.; Die Vererbung erklärt, warum Kinder ihren Eltern ähneln.
 fr-wi-0084; Evolution; l'évolution; ; B2; Wissenschaft/Biologie; L'évolution agit sur de nombreux millions d'années.; Die Evolution wirkt über viele Millionen Jahre.
-fr-wi-0085; Art; l'espèce; ; B1; Wissenschaft/Biologie; Cette espèce rare ne vit que sur une seule île.; Diese seltene Art lebt nur auf einer Insel.
+fr-wi-0085; Art (Biologie); l'espèce; ; B1; Wissenschaft/Biologie; Cette espèce rare ne vit que sur une seule île.; Diese seltene Art lebt nur auf einer Insel.
 fr-wi-0086; Lebensraum; l'habitat; le milieu de vie; B2; Wissenschaft/Biologie; Les grenouilles perdent leur habitat naturel.; Die Frösche verlieren ihren natürlichen Lebensraum.
 fr-wi-0087; Ökosystem; l'écosystème; ; B2; Wissenschaft/Biologie; Une forêt est un écosystème complexe avec d'innombrables espèces.; Ein Wald ist ein komplexes Ökosystem mit unzähligen Arten.
 fr-wi-0088; Stoffwechsel; le métabolisme; ; C1; Wissenschaft/Biologie; Une activité physique régulière accélère le métabolisme humain.; Regelmäßige Bewegung beschleunigt den menschlichen Stoffwechsel.
@@ -103,7 +103,7 @@ fr-wi-0100; Dreieck; le triangle; ; A2; Wissenschaft/Mathematik; Un triangle a t
 fr-wi-0101; Kreis; le cercle; ; A2; Wissenschaft/Mathematik; Trace un cercle de cinq centimètres de rayon.; Zeichne einen Kreis mit einem Radius von fünf Zentimetern.
 fr-wi-0102; Quadrat; le carré; ; B1; Wissenschaft/Mathematik; Un carré a quatre côtés de même longueur.; Ein Quadrat hat vier gleich lange Seiten.
 fr-wi-0103; Gleichung; l'équation; ; B1; Wissenschaft/Mathematik; Résous l'équation et vérifie ton résultat.; Löse die Gleichung und überprüfe dein Ergebnis.
-fr-wi-0104; Bruch; la fraction; ; B1; Wissenschaft/Mathematik; Une fraction comme un demi est facile à imaginer.; Ein Bruch wie ein Halb ist leicht vorstellbar.
+fr-wi-0104; Bruch (Mathematik); la fraction; ; B1; Wissenschaft/Mathematik; Une fraction comme un demi est facile à imaginer.; Ein Bruch wie ein Halb ist leicht vorstellbar.
 fr-wi-0105; Durchschnitt; la moyenne; ; B1; Wissenschaft/Mathematik; La moyenne des trois notes est de deux.; Der Durchschnitt der drei Noten ist zwei.
 fr-wi-0106; Wahrscheinlichkeit; la probabilité; ; B2; Wissenschaft/Mathematik; La probabilité qu'il pleuve demain est très faible.; Die Wahrscheinlichkeit für Regen morgen ist sehr gering.
 fr-wi-0107; Integralrechnung; le calcul intégral; ; C2; Wissenschaft/Mathematik; Le calcul intégral permet de calculer les aires sous les courbes.; Mit der Integralrechnung berechnet man Flächen unter Kurven.
@@ -134,7 +134,7 @@ fr-wi-0131; Sonne; le soleil; ; A1; Wissenschaft/Raumfahrt; Le soleil se lève �
 fr-wi-0132; Mond; la lune; ; A1; Wissenschaft/Raumfahrt; La lune paraît particulièrement grande cette nuit.; Der Mond sieht heute Nacht besonders groß aus.
 fr-wi-0133; Stern; l'étoile; ; A1; Wissenschaft/Raumfahrt; Dans le désert, on voit clairement chaque étoile.; In der Wüste sieht man jeden Stern deutlich.
 fr-wi-0134; Erde; la Terre; la terre; A1; Wissenschaft/Raumfahrt; La Terre fait le tour du Soleil une fois par an.; Die Erde umkreist die Sonne einmal im Jahr.
-fr-wi-0135; Himmel; le ciel; ; A2; Wissenschaft/Raumfahrt; Le ciel nocturne au-dessus des montagnes était plein d'étoiles.; Der Nachthimmel über den Bergen war voller Sterne.
+fr-wi-0135; Himmel (Wetter, Sterne); le ciel; ; A2; Wissenschaft/Raumfahrt; Le ciel nocturne au-dessus des montagnes était plein d'étoiles.; Der Nachthimmel über den Bergen war voller Sterne.
 fr-wi-0136; Rakete; la fusée; ; A2; Wissenschaft/Raumfahrt; La fusée a décollé tôt le matin.; Die Rakete startete früh am Morgen.
 fr-wi-0137; Planet; la planète; ; A2; Wissenschaft/Raumfahrt; Mars est la quatrième planète à partir du Soleil.; Der Mars ist der vierte Planet von der Sonne aus.
 fr-wi-0138; Weltraum; l'espace; ; B1; Wissenschaft/Raumfahrt; Dans l'espace, il n'y a pas d'air pour respirer.; Im Weltraum gibt es keine Luft zum Atmen.

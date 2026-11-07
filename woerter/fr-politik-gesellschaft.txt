@@ -1,6 +1,6 @@
 # Französisch: Politik & Gesellschaft
 id; Deutsch; Französisch; Weitere Antworten; Niveau; Themen; Beispiel Französisch; Beispiel Deutsch
-fr-pg-0001; Land; le pays; la nation; A1; Gesellschaft/Politik/Staat & Wahlen; L'Allemagne est un grand pays d'Europe.; Deutschland ist ein großes Land in Europa.
+fr-pg-0001; Land (Staat); le pays; la nation; A1; Gesellschaft/Politik/Staat & Wahlen; L'Allemagne est un grand pays d'Europe.; Deutschland ist ein großes Land in Europa.
 fr-pg-0002; Stadt; la ville; ; A1; Gesellschaft/Soziales; Notre ville construit une nouvelle bibliothèque.; Unsere Stadt baut eine neue Bibliothek.
 fr-pg-0003; Mensch; l'être humain; l'homme, la personne; A1; Gesellschaft/Soziales; Chaque être humain mérite le respect et la dignité.; Jeder Mensch verdient Respekt und Würde.
 fr-pg-0004; Leute; les gens; ; A1; Gesellschaft/Soziales; Beaucoup de gens sont venus à la réunion publique.; Viele Leute kamen zur Bürgerversammlung.
@@ -13,7 +13,7 @@ fr-pg-0010; Kind; l'enfant; ; A1; Gesellschaft/Soziales; Chaque enfant a droit �
 fr-pg-0011; Politik; la politique; ; A2; Gesellschaft/Politik/Demokratie; Beaucoup de jeunes s'intéressent à la politique.; Viele junge Leute interessieren sich für Politik.
 fr-pg-0012; Politiker; l'homme politique; la femme politique, le politicien, la politicienne; A2; Gesellschaft/Politik/Parteien; L'homme politique a répondu aux questions du public.; Der Politiker beantwortete Fragen aus dem Publikum.
 fr-pg-0013; Wahl; l'élection; le scrutin; A2; Gesellschaft/Politik/Staat & Wahlen; La prochaine élection aura lieu en septembre.; Die nächste Wahl findet im September statt.
-fr-pg-0014; wählen; voter; élire; A2; Gesellschaft/Politik/Staat & Wahlen; Tu as le droit de voter quand tu as dix-huit ans.; Du darfst wählen, wenn du achtzehn bist.
+fr-pg-0014; wählen (bei einer Wahl); voter; élire; A2; Gesellschaft/Politik/Staat & Wahlen; Tu as le droit de voter quand tu as dix-huit ans.; Du darfst wählen, wenn du achtzehn bist.
 fr-pg-0015; Partei; le parti; le parti politique; A2; Gesellschaft/Politik/Parteien; Quel parti est-ce que tu soutiens cette année ?; Welche Partei unterstützt du dieses Jahr?
 fr-pg-0016; Regierung; le gouvernement; ; A2; Gesellschaft/Politik/Staat & Wahlen; Le gouvernement a annoncé un nouveau programme éducatif.; Die Regierung kündigte ein neues Bildungsprogramm an.
 fr-pg-0017; Gesetz; la loi; ; A2; Gesellschaft/Recht; La nouvelle loi s'applique à partir de janvier.; Das neue Gesetz gilt ab Januar.
@@ -28,7 +28,7 @@ fr-pg-0025; Freiheit; la liberté; ; A2; Gesellschaft/Politik/Demokratie; La lib
 fr-pg-0026; Recht; le droit; ; A2; Gesellschaft/Recht; Chacun a le droit de s'exprimer librement.; Jeder hat das Recht auf freie Meinungsäußerung.
 fr-pg-0027; Meinung; l'opinion; l'avis; A2; Gesellschaft/Politik/Demokratie; Ici, chacun peut dire ouvertement son opinion.; Jeder darf hier offen seine Meinung sagen.
 fr-pg-0028; Demonstration; la manifestation; la manif; A2; Gesellschaft/Politik/Demokratie; Des milliers de personnes ont participé à la manifestation dans la capitale.; Tausende nahmen an der Demonstration in der Hauptstadt teil.
-fr-pg-0029; Gericht; le tribunal; la cour; A2; Gesellschaft/Recht; Le tribunal tranchera l'affaire demain.; Das Gericht entscheidet den Fall morgen.
+fr-pg-0029; Gericht (Justiz); le tribunal; la cour; A2; Gesellschaft/Recht; Le tribunal tranchera l'affaire demain.; Das Gericht entscheidet den Fall morgen.
 fr-pg-0030; Verein; l'association; le club; A2; Gesellschaft/Ehrenamt; Notre association organise une fête d'été chaque année.; Unser Verein organisiert jedes Jahr ein Sommerfest.
 fr-pg-0031; Mitglied; le membre; ; A2; Gesellschaft/Ehrenamt; Elle est membre depuis dix ans.; Sie ist seit zehn Jahren Mitglied.
 fr-pg-0032; Nachrichten; les informations; les infos, le journal; A2; Gesellschaft/Politik/Demokratie; Je regarde les informations tous les soirs à huit heures.; Ich schaue jeden Abend um acht die Nachrichten.
@@ -40,7 +40,7 @@ fr-pg-0037; Parlament; le Parlement; ; B1; Gesellschaft/Politik/Staat & Wahlen; 
 fr-pg-0038; Kanzler; le chancelier; la chancelière; B1; Gesellschaft/Politik/Staat & Wahlen; Le chancelier a prononcé un discours sur l'Europe.; Der Kanzler hielt eine Rede über Europa.
 fr-pg-0039; Minister; le ministre; la ministre; B1; Gesellschaft/Politik/Staat & Wahlen; Le ministre a présenté les projets de nouvelles écoles.; Der Minister stellte die Pläne für neue Schulen vor.
 fr-pg-0040; Abgeordneter; le député; la députée; B1; Gesellschaft/Politik/Staat & Wahlen; Notre député vient souvent dans la région.; Unser Abgeordneter besucht die Region oft.
-fr-pg-0041; Stimme; la voix; le vote; B1; Gesellschaft/Politik/Staat & Wahlen; Dans une élection serrée, chaque voix compte.; Jede Stimme zählt bei einer knappen Wahl.
+fr-pg-0041; Stimme (bei der Wahl); la voix; le vote; B1; Gesellschaft/Politik/Staat & Wahlen; Dans une élection serrée, chaque voix compte.; Jede Stimme zählt bei einer knappen Wahl.
 fr-pg-0042; Mehrheit; la majorité; ; B1; Gesellschaft/Politik/Staat & Wahlen; Le parti a obtenu hier une nette majorité.; Die Partei gewann gestern eine klare Mehrheit.
 fr-pg-0043; Minderheit; la minorité; ; B1; Gesellschaft/Soziales; La loi protège les droits de chaque minorité.; Das Gesetz schützt die Rechte jeder Minderheit.
 fr-pg-0044; Opposition; l'opposition; ; B1; Gesellschaft/Politik/Parteien; L'opposition a vivement critiqué le nouveau budget.; Die Opposition kritisierte den neuen Haushalt scharf.
@@ -105,11 +105,11 @@ fr-pg-0102; Grundrecht; le droit fondamental; ; B2; Gesellschaft/Recht; L'éduca
 fr-pg-0103; Zensur; la censure; ; B2; Gesellschaft/Politik/Demokratie; La censure n'a pas sa place dans un pays libre.; Zensur hat in einem freien Land keinen Platz.
 fr-pg-0104; Korruption; la corruption; ; B2; Gesellschaft/Politik/Demokratie; La nouvelle unité lutte contre la corruption dans les administrations.; Die neue Einheit bekämpft Korruption in Behörden.
 fr-pg-0105; Skandal; le scandale; l'affaire; B2; Gesellschaft/Politik/Demokratie; Le scandale a contraint le sénateur à démissionner.; Der Skandal zwang den Senator zum Rücktritt.
-fr-pg-0106; Rücktritt; la démission; ; B2; Gesellschaft/Politik/Demokratie; Le ministre a annoncé sa démission lundi.; Der Minister erklärte am Montag seinen Rücktritt.
+fr-pg-0106; Rücktritt (vom Amt); la démission; ; B2; Gesellschaft/Politik/Demokratie; Le ministre a annoncé sa démission lundi.; Der Minister erklärte am Montag seinen Rücktritt.
 fr-pg-0107; zurücktreten; démissionner; ; B2; Gesellschaft/Politik/Demokratie; Le maire a démissionné après le référendum perdu.; Der Bürgermeister trat nach der verlorenen Volksabstimmung zurück.
 fr-pg-0108; Klage; la plainte; l'action en justice, le recours; B2; Gesellschaft/Recht; L'entreprise a porté plainte contre la ville.; Die Firma reichte eine Klage gegen die Stadt ein.
 fr-pg-0109; verklagen; poursuivre en justice; porter plainte contre, attaquer en justice; B2; Gesellschaft/Recht; Elle a poursuivi l'entreprise en justice pour des salaires impayés.; Sie verklagte die Firma wegen ausstehender Löhne.
-fr-pg-0110; Berufung; l'appel; ; B2; Gesellschaft/Recht; Son avocat a annoncé qu'il ferait appel du jugement.; Sein Anwalt kündigte Berufung gegen das Urteil an.
+fr-pg-0110; Berufung (Gericht); l'appel; ; B2; Gesellschaft/Recht; Son avocat a annoncé qu'il ferait appel du jugement.; Sein Anwalt kündigte Berufung gegen das Urteil an.
 fr-pg-0111; Beweis; la preuve; ; B2; Gesellschaft/Recht; Le tribunal n'a trouvé aucune preuve contre le conducteur.; Das Gericht fand keinen Beweis gegen den Fahrer.
 fr-pg-0112; Staatsanwalt; le procureur; la procureure; B2; Gesellschaft/Recht; Le procureur a requis une longue peine de prison.; Der Staatsanwalt forderte eine lange Haftstrafe.
 fr-pg-0113; Angeklagter; l'accusé; le prévenu, l'accusée; B2; Gesellschaft/Recht; L'accusé est resté silencieux pendant le procès.; Der Angeklagte schwieg während des Prozesses.

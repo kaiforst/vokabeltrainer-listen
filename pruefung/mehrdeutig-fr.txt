@@ -1,0 +1,349 @@
+# Mehrdeutige deutsche Wörter (Französisch, Paket M-fr): die 247 aus dem Englischen übernommenen Klammerhinweise, eigene Fälle des Französischen und die übersetzten neuen Bedeutungen.
+# Fall b: gleichwertige Übersetzung ergänzt (oder falsche entfernt), c: Klammerhinweis (übernommen oder als Vorschlag in pakete/M-fr.md), d: Bedeutung neu in woerter/fr-bedeutungen.txt.
+id; Deutsch; Antwort; Fall; Bedeutungen; Änderung
+fr-al-0016; Decke (im Zimmer); le plafond; c; Decke (im Zimmer) = le plafond / Decke (zum Zudecken) = la couverture; Klammer aus al-0016 übernommen
+fr-al-0075; Hausarbeit (Haushalt); les tâches ménagères; c; Hausarbeit (Haushalt) = les tâches ménagères / Hausarbeit (Studium) = le dossier; Klammer aus al-0075 übernommen
+fr-al-0089; Sicherung (Strom); le fusible; c; Sicherung (Strom) = le fusible (andere Bedeutung nicht im Katalog); Klammer aus al-0089 übernommen
+fr-al-0094; Leiter (zum Steigen); l'échelle; c; Leiter (zum Steigen) = l'échelle / Leiter (Chef) = le directeur; Klammer aus al-0094 übernommen
+fr-al-0108; gießen (Pflanzen); arroser; c; gießen (Pflanzen) = arroser / gießen (Flüssigkeit) = verser; Klammer aus al-0108 übernommen
+fr-al-0127; aufstehen (morgens, aus dem Bett); se lever; c; aufstehen (morgens, aus dem Bett) = se lever / aufstehen (von einem Stuhl) = se lever; Klammer aus al-0127 übernommen
+fr-ab-0043; Stelle (Arbeitsplatz); le poste; c; Stelle (Arbeitsplatz) = le poste (andere Bedeutung nicht im Katalog); Klammer aus ab-0043 übernommen
+fr-ab-0046; kündigen (Stelle); démissionner; c; kündigen (Stelle) = démissionner / kündigen (Vertrag) = résilier; Klammer aus ab-0046 übernommen
+fr-ab-0063; Zeugnis (Arbeit); le certificat; c; Zeugnis (Arbeit) = le certificat / Zeugnis (Schule) = le bulletin scolaire; Klammer aus ab-0063 übernommen, Weitere Antworten: le diplôme und le bulletin (Schulzeugnis) entfernt, + le certificat de travail
+fr-ab-0075; Schicht (Arbeit); le service; c; Schicht (Arbeit) = le service / Schicht (Lage) = la couche; Klammer aus ab-0075 übernommen
+fr-ab-0077; Lohn (Bezahlung); la paie; c; Lohn (Bezahlung) = la paie oder le salaire (andere Bedeutung nicht im Katalog); Klammer aus ab-0077 übernommen
+fr-ab-0081; einstellen (Personal); embaucher; c; einstellen (Personal) = embaucher / einstellen (Gerät) = régler; Klammer aus ab-0081 übernommen
+fr-ab-0110; Berufung (Lebensaufgabe); la vocation; c; Berufung (Lebensaufgabe) = la vocation / Berufung (Gericht) = l'appel; Klammer aus ab-0110 übernommen
+fr-ap-0172; Schicht (Arbeit); le service; c; Schicht (Arbeit) = le service / Schicht (Lage) = la couche; Klammer aus ap-0172 übernommen
+fr-ap-0189; Laufband (Flughafen); le tapis roulant; c; Laufband (Flughafen) = le tapis roulant / Laufband (Fitness) = le tapis de course; Klammer aus ap-0189 übernommen
+fr-ba-0016; Los (Ausschreibung); le lot; c; Los (Ausschreibung) = le lot (andere Bedeutung nicht im Katalog); Klammer aus ba-0016 übernommen
+fr-ba-0024; Preis (Kosten); le prix; c; Preis (Kosten) = le prix / Preis (Gewinn) = le prix; Klammer aus ba-0024 übernommen
+fr-ba-0046; Zuschlag (Ausschreibung); l'adjudication; c; Zuschlag (Ausschreibung) = l'adjudication / Zuschlag (Aufpreis) = le supplément; Klammer aus ba-0046 übernommen
+fr-ba-0050; vergeben (Auftrag); attribuer; c; vergeben (verzeihen) = pardonner / vergeben (Auftrag) = attribuer; Klammer aus ba-0050 übernommen
+fr-ba-0090; Muster (Warenprobe); l'échantillon; c; Muster (Warenprobe) = l'échantillon / Muster (Design) = le motif; Klammer aus ba-0090 übernommen, Weitere Antworten: le modèle (Muster als Vorlage) entfernt
+fr-ba-0099; Einkauf (Abteilung); le service achats; c; Einkauf (Abteilung) = le service achats (andere Bedeutung nicht im Katalog); Klammer aus ba-0099 übernommen
+fr-ba-0128; Lager (Waren); l'entrepôt; c; Lager (Zeltlager) = le camp / Lager (Waren) = l'entrepôt; Klammer aus ba-0128 übernommen
+fr-ba-0130; Bestand (Lager); le stock; c; Bestand (Lager) = le stock / Bestand (Tiere) = la population; Klammer aus ba-0130 übernommen
+fr-bb-0030; Preis (Kosten); le prix; c; Preis (Kosten) = le prix / Preis (Gewinn) = le prix; Klammer aus bb-0030 übernommen
+fr-bb-0035; Nachricht (Mitteilung); le message; c; Nachricht (Mitteilung) = le message / Nachricht (Neuigkeit) = les nouvelles; Klammer aus bb-0035 übernommen
+fr-bb-0048; Geschäft (Handel); les affaires; c; Geschäft (Handel) = les affaires / Geschäft (Laden) = le magasin; Klammer aus bb-0048 übernommen
+fr-bb-0052; Protokoll (Sitzung); le compte rendu; c; Protokoll (Sitzung) = le compte rendu (andere Bedeutung nicht im Katalog); Klammer aus bb-0052 übernommen
+fr-bb-0081; Folie (Präsentation); la diapositive; c; Folie (Präsentation) = la diapositive (andere Bedeutung nicht im Katalog); Klammer aus bb-0081 übernommen
+fr-bb-0104; Abstimmung (Koordination); la coordination; c; Abstimmung (Wahl) = le vote / Abstimmung (Koordination) = la coordination; Klammer aus bb-0104 übernommen
+fr-bb-0120; Überweisung (Bank); le virement; c; Überweisung (Bank) = le virement / Überweisung (zum Facharzt) = la lettre d'orientation; Klammer aus bb-0120 übernommen
+fr-bb-0125; Messe (Ausstellung); le salon; c; Messe (Gottesdienst) = la messe / Messe (Ausstellung) = le salon; Klammer aus bb-0125 übernommen
+fr-mv-0004; Geschäft (Laden); le magasin; c; Geschäft (Handel) = les affaires / Geschäft (Laden) = le magasin; Klammer aus mv-0004 übernommen
+fr-mv-0022; Anzeige (Werbung); l'annonce; c; Anzeige (Werbung) = l'annonce (andere Bedeutung nicht im Katalog); Klammer aus mv-0022 übernommen
+fr-mv-0049; Muster (Warenprobe); l'échantillon; c; Muster (Warenprobe) = l'échantillon / Muster (Design) = le motif; Klammer aus mv-0049 übernommen
+fr-mv-0061; Bewertung (von Kunden); la note; c; Bewertung (von Kunden) = la note oder l'avis / Bewertung (Schule) = l'évaluation; Klammer aus mv-0061 übernommen
+fr-mv-0086; Reichweite (Medien); la portée; c; Reichweite (Medien) = la portée / Reichweite (Fahrzeug) = l'autonomie; Klammer aus mv-0086 übernommen
+fr-mv-0090; Messe (Ausstellung); le salon; c; Messe (Gottesdienst) = la messe / Messe (Ausstellung) = le salon; Klammer aus mv-0090 übernommen
+fr-pw-0007; einstellen (Personal); embaucher; c; einstellen (Personal) = embaucher / einstellen (Gerät) = régler; Klammer aus pw-0007 übernommen
+fr-pw-0047; Lohn (Bezahlung); la paie; c; Lohn (Bezahlung) = la paie oder le salaire (andere Bedeutung nicht im Katalog); Klammer aus pw-0047 übernommen
+fr-pw-0111; Auszeit (vom Beruf); le congé sabbatique; c; Auszeit (vom Beruf) = le congé sabbatique (andere Bedeutung nicht im Katalog); Klammer aus pw-0111 übernommen
+fr-pw-0134; kündigen (Stelle); démissionner; c; kündigen (Stelle) = démissionner / kündigen (Vertrag) = résilier; Klammer aus pw-0134 übernommen
+fr-pm-0065; abschließen (beenden); achever; c; abschließen (Tür) = fermer à clé / abschließen (beenden) = achever / abschließen (Vertrag) = conclure; Klammer aus pm-0065 übernommen
+fr-pm-0074; Mittel (Geld); les fonds; c; Mittel (Geld) = les fonds (andere Bedeutung nicht im Katalog); Klammer aus pm-0074 übernommen
+fr-pm-0078; einstellen (Personal); embaucher; c; einstellen (Personal) = embaucher / einstellen (Gerät) = régler; Klammer aus pm-0078 übernommen
+fr-pm-0087; Protokoll (Sitzung); le compte rendu; c; Protokoll (Sitzung) = le compte rendu (andere Bedeutung nicht im Katalog); Klammer aus pm-0087 übernommen
+fr-pm-0096; schätzen (ungefähr berechnen); estimer; c; schätzen (ungefähr berechnen) = estimer / schätzen (wertschätzen) = apprécier; Klammer aus pm-0096 übernommen
+fr-pm-0097; Abnahme (Projekt); la réception; c; Abnahme (Rückgang) = la baisse / Abnahme (Projekt) = la réception; Klammer aus pm-0097 übernommen
+fr-rc-0003; Preis (Kosten); le prix; c; Preis (Kosten) = le prix / Preis (Gewinn) = le prix; Klammer aus rc-0003 übernommen
+fr-rc-0017; Überweisung (Bank); le virement; c; Überweisung (Bank) = le virement / Überweisung (zum Facharzt) = la lettre d'orientation; Klammer aus rc-0017 übernommen
+fr-rc-0068; abschreiben (Buchhaltung); amortir; c; abschreiben (kopieren) = copier / abschreiben (Buchhaltung) = amortir; Klammer aus rc-0068 übernommen
+fr-vh-0001; Preis (Kosten); le prix; c; Preis (Kosten) = le prix / Preis (Gewinn) = le prix; Klammer aus vh-0001 übernommen
+fr-vh-0058; Abschluss (Geschäft); la conclusion; c; Abschluss (Geschäft) = la conclusion / Abschluss (Schule) = le diplôme; Klammer aus vh-0058 übernommen
+fr-vh-0059; abschließen (Vertrag); conclure; c; abschließen (Tür) = fermer à clé / abschließen (beenden) = achever / abschließen (Vertrag) = conclure; Klammer aus vh-0059 übernommen
+fr-vh-0064; Protokoll (Sitzung); le compte rendu; c; Protokoll (Sitzung) = le compte rendu (andere Bedeutung nicht im Katalog); Klammer aus vh-0064 übernommen
+fr-vh-0076; Sackgasse (ausweglose Lage); l'impasse; c; Sackgasse (Straße) = l'impasse / Sackgasse (ausweglose Lage) = l'impasse; Klammer aus vh-0076 übernommen
+fr-vt-0005; Preis (Kosten); le prix; c; Preis (Kosten) = le prix / Preis (Gewinn) = le prix; Klammer aus vt-0005 übernommen
+fr-vt-0035; Laufzeit (Vertrag); la durée du contrat; c; Laufzeit (Vertrag) = la durée du contrat (andere Bedeutung nicht im Katalog); Klammer aus vt-0035 übernommen
+fr-vt-0037; kündigen (Vertrag); résilier; c; kündigen (Stelle) = démissionner / kündigen (Vertrag) = résilier; Klammer aus vt-0037 übernommen
+fr-vt-0038; Verlängerung (Frist, Vertrag); la prolongation; c; Verlängerung (Frist, Vertrag) = la prolongation / Verlängerung (Sport) = la prolongation; Klammer aus vt-0038 übernommen
+fr-vt-0059; Gericht (Justiz); le tribunal; c; Gericht (Speise) = le plat / Gericht (Justiz) = le tribunal; Klammer aus vt-0059 übernommen
+fr-vt-0078; Mangel (Fehler); le défaut; c; Mangel (Fehlen) = le manque / Mangel (Fehler) = le défaut; Klammer aus vt-0078 übernommen
+fr-vt-0092; Annahme (eines Angebots); l'acceptation; c; Annahme (eines Angebots) = l'acceptation / Annahme (Vermutung) = l'hypothèse oder la supposition; Klammer aus vt-0092 übernommen
+fr-vt-0101; Vergleich (vor Gericht); la transaction; c; Vergleich (vor Gericht) = la transaction (andere Bedeutung nicht im Katalog); Klammer aus vt-0101 übernommen
+fr-vt-0122; Rücktritt (vom Vertrag); la résolution; c; Rücktritt (vom Vertrag) = la résolution / Rücktritt (vom Amt) = la démission; Klammer aus vt-0122 übernommen
+fr-vt-0135; Berufung (Gericht); l'appel; c; Berufung (Lebensaufgabe) = la vocation / Berufung (Gericht) = l'appel; Klammer aus vt-0135 übernommen
+fr-eg-0003; Preis (Kosten); le prix; c; Preis (Kosten) = le prix / Preis (Gewinn) = le prix; Klammer aus eg-0003 übernommen
+fr-eg-0004; Geschäft (Laden); le magasin; c; Geschäft (Handel) = les affaires / Geschäft (Laden) = le magasin; Klammer aus eg-0004 übernommen
+fr-eg-0014; Tasche (zum Tragen); le sac; c; Tasche (an der Kleidung) = la poche / Tasche (zum Tragen) = le sac; Klammer aus eg-0014 übernommen
+fr-eg-0030; Bank (Geldinstitut); la banque; c; Bank (zum Sitzen) = le banc / Bank (Geldinstitut) = la banque; Klammer aus eg-0030 übernommen
+fr-eg-0053; Schein (Geldschein); le billet; c; Schein (Geldschein) = le billet (andere Bedeutung nicht im Katalog); Klammer aus eg-0053 übernommen
+fr-eg-0066; Bewertung (von Kunden); l'avis; c; Bewertung (von Kunden) = la note oder l'avis / Bewertung (Schule) = l'évaluation; Klammer aus eg-0066 übernommen
+fr-eg-0073; handeln (feilschen); marchander; c; handeln (feilschen) = marchander / handeln (Handel treiben) = faire du commerce; Klammer aus eg-0073 übernommen
+fr-eg-0086; Überweisung (Bank); le virement; c; Überweisung (Bank) = le virement / Überweisung (zum Facharzt) = la lettre d'orientation; Klammer aus eg-0086 übernommen
+fr-eg-0087; abheben (Geld); retirer; c; abheben (Geld) = retirer / abheben (Flugzeug) = décoller; Klammer aus eg-0087 übernommen
+fr-eg-0092; leihen (jemandem etwas); prêter; c; leihen (jemandem etwas) = prêter (andere Bedeutung nicht im Katalog); Klammer aus eg-0092 übernommen
+fr-et-0039; Eis (Speiseeis); la glace; c; Eis (Speiseeis) = la glace / Eis (gefrorenes Wasser) = la glace; Klammer aus et-0039 übernommen
+fr-et-0067; Rezept (Kochen); la recette; c; Rezept (Kochen) = la recette / Rezept (Arzt) = l'ordonnance; Klammer aus et-0067 übernommen
+fr-et-0073; sauer (Geschmack); acide; c; sauer (Geschmack) = acide / sauer (verärgert) = fâché; Klammer aus et-0073 übernommen
+fr-et-0076; scharf (Essen); épicé; c; scharf (Messer) = tranchant / scharf (Essen) = épicé; Klammer aus et-0076 übernommen
+fr-et-0107; gießen (Flüssigkeit); verser; c; gießen (Pflanzen) = arroser / gießen (Flüssigkeit) = verser; Klammer aus et-0107 übernommen
+fr-et-0116; Imbiss (Lokal); le snack; c; Imbiss (Lokal) = le snack / Imbiss (kleine Mahlzeit) = le casse-croûte; Klammer aus et-0116 übernommen
+fr-fb-0002; Mutter (Elternteil); la mère; c; Mutter (Schraube) = l'écrou / Mutter (Elternteil) = la mère; Klammer aus fb-0002 übernommen
+fr-fb-0041; Freund (Partner); le petit ami; c; Freund (Partner) = le petit ami (andere Bedeutung nicht im Katalog); Klammer aus fb-0041 übernommen, Weitere Antworten: l'ami (Freund ohne Partnerschaft) entfernt
+fr-fb-0042; Freundin (Partnerin); la petite amie; c; Freundin (Partnerin) = la petite amie (andere Bedeutung nicht im Katalog); Klammer aus fb-0042 übernommen, Weitere Antworten: l'amie (Freundin ohne Partnerschaft) entfernt
+fr-fb-0112; Erbe (Nachlass); l'héritage; c; Erbe (Nachlass) = l'héritage / Erbe (Kultur) = le patrimoine; Klammer aus fb-0112 übernommen
+fr-fb-0140; schätzen (wertschätzen); apprécier; c; schätzen (ungefähr berechnen) = estimer / schätzen (wertschätzen) = apprécier; Klammer aus fb-0140 übernommen
+fr-fh-0016; Karte (Spielkarte); la carte; c; Karte (Spielkarte) = la carte / Karte (Landkarte) = la carte; Klammer aus fh-0016 übernommen
+fr-fh-0027; Würfel (Spiel); le dé; c; Würfel (Geometrie) = le cube / Würfel (Spiel) = le dé; Klammer aus fh-0027 übernommen
+fr-fh-0065; Preis (Gewinn); le prix; c; Preis (Kosten) = le prix / Preis (Gewinn) = le prix; Klammer aus fh-0065 übernommen
+fr-fh-0074; Band (Musikgruppe); le groupe; c; Band (zum Binden) = le ruban / Band (Buch) = le volume / Band (Musikgruppe) = le groupe; Klammer aus fh-0074 übernommen
+fr-fh-0081; Handlung (Geschichte); l'intrigue; c; Handlung (Geschichte) = l'intrigue (andere Bedeutung nicht im Katalog); Klammer aus fh-0081 übernommen
+fr-fh-0086; Umzug (Festzug); le défilé; c; Umzug (Wohnungswechsel) = le déménagement / Umzug (Festzug) = le défilé; Klammer aus fh-0086 übernommen
+fr-fh-0091; Unterhaltung (Vergnügen); le divertissement; c; Unterhaltung (Gespräch) = la conversation / Unterhaltung (Vergnügen) = le divertissement; Klammer aus fh-0091 übernommen
+fr-fh-0110; Spannung (Buch, Film); le suspense; c; Spannung (Buch, Film) = le suspense / Spannung (Strom) = la tension; Klammer aus fh-0110 übernommen
+fr-gc-0016; Glück (glücklich sein); le bonheur; c; Glück (glücklich sein) = le bonheur / Glück (Glück haben) = la chance; Klammer aus gc-0016 übernommen, Weitere Antworten: la chance (Glück haben) entfernt
+fr-gc-0032; sauer (verärgert); fâché; c; sauer (Geschmack) = acide / sauer (verärgert) = fâché; Klammer aus gc-0032 übernommen
+fr-gc-0052; faul (träge); paresseux; c; faul (verdorben) = pourri / faul (träge) = paresseux; Klammer aus gc-0052 übernommen
+fr-gw-0006; Entschuldigung (Ausruf); excusez-moi; c; Entschuldigung (Bitte um Verzeihung) = les excuses / Entschuldigung (Ausruf) = excusez-moi; Klammer aus gw-0006 übernommen
+fr-gw-0072; tragen (Kleidung); porter; c; tragen (Kleidung) = porter / tragen (Last) = porter; Klammer aus gw-0072 übernommen
+fr-gw-0096; Mutter (Elternteil); la mère; c; Mutter (Schraube) = l'écrou / Mutter (Elternteil) = la mère; Klammer aus gw-0096 übernommen
+fr-gw-0239; Geschäft (Laden); le magasin; c; Geschäft (Handel) = les affaires / Geschäft (Laden) = le magasin; Klammer aus gw-0239 übernommen
+fr-gw-0285; raten (schätzen); deviner; c; raten (empfehlen) = conseiller / raten (schätzen) = deviner; Klammer aus gw-0285 übernommen
+fr-gw-0313; Leiter (zum Steigen); l'échelle; c; Leiter (zum Steigen) = l'échelle / Leiter (Chef) = le directeur; Klammer aus gw-0313 übernommen
+fr-gw-0355; Rezept (Kochen); la recette; c; Rezept (Kochen) = la recette / Rezept (Arzt) = l'ordonnance; Klammer aus gw-0355 übernommen
+fr-gw-0359; Imbiss (kleine Mahlzeit); le casse-croûte; c; Imbiss (Lokal) = le snack / Imbiss (kleine Mahlzeit) = le casse-croûte; Klammer aus gw-0359 übernommen
+fr-gw-0395; faul (träge); paresseux; c; faul (verdorben) = pourri / faul (träge) = paresseux; Klammer aus gw-0395 übernommen
+fr-gw-0417; Schloss (Gebäude); le château; c; Schloss (an der Tür) = la serrure / Schloss (Gebäude) = le château; Klammer aus gw-0417 übernommen
+fr-gw-0427; Platz (in der Stadt); la place; c; Platz (in der Stadt) = la place (andere Bedeutung nicht im Katalog); Klammer aus gw-0427 übernommen
+fr-gw-0441; Nachricht (Mitteilung); le message; c; Nachricht (Mitteilung) = le message / Nachricht (Neuigkeit) = les nouvelles; Klammer aus gw-0441 übernommen, Weitere Antworten: la nouvelle (Neuigkeit) entfernt
+fr-gw-0450; Rat (Ratschlag); le conseil; c; Rat (Gremium) = le conseil / Rat (Ratschlag) = le conseil; Klammer aus gw-0450 übernommen
+fr-gw-0481; Decke (zum Zudecken); la couverture; c; Decke (im Zimmer) = le plafond / Decke (zum Zudecken) = la couverture; Klammer aus gw-0481 übernommen
+fr-gw-0484; Glück (Glück haben); la chance; c; Glück (glücklich sein) = le bonheur / Glück (Glück haben) = la chance; Klammer aus gw-0484 übernommen
+fr-gw-0494; Note (Schule); la note; c; Note (Musik) = la note / Note (Schule) = la note; Klammer aus gw-0494 übernommen
+fr-gw-0511; annehmen (vermuten); supposer; c; annehmen (akzeptieren) = accepter / annehmen (vermuten) = supposer; Klammer aus gw-0511 übernommen
+fr-gw-0551; vorstellen (jemanden); présenter; c; vorstellen (jemanden) = présenter (andere Bedeutung nicht im Katalog); Klammer aus gw-0551 übernommen
+fr-gw-0572; erinnern (jemanden); rappeler; c; erinnern (jemanden) = rappeler (andere Bedeutung nicht im Katalog); Klammer aus gw-0572 übernommen
+fr-gw-0588; verlegen (beschämt); gêné; c; verlegen (beschämt) = gêné (andere Bedeutung nicht im Katalog); Klammer aus gw-0588 übernommen
+fr-gw-0658; Einstellung (Haltung); l'attitude; c; Einstellung (Haltung) = l'attitude / Einstellung (Technik) = le paramètre; Klammer aus gw-0658 übernommen
+fr-gw-0670; Folge (Konsequenz); la conséquence; c; Folge (einer Serie) = l'épisode / Folge (Konsequenz) = la conséquence; Klammer aus gw-0670 übernommen
+fr-gw-0715; Lohn (Bezahlung); le salaire; c; Lohn (Bezahlung) = la paie oder le salaire (andere Bedeutung nicht im Katalog); Klammer aus gw-0715 übernommen
+fr-gw-0854; Annahme (Vermutung); l'hypothèse; c; Annahme (eines Angebots) = l'acceptation / Annahme (Vermutung) = l'hypothèse oder la supposition; Klammer aus gw-0854 übernommen
+fr-gw-0989; vermessen (anmaßend); présomptueux; c; vermessen (anmaßend) = présomptueux (andere Bedeutung nicht im Katalog); Klammer aus gw-0989 übernommen
+fr-ke-0053; Bank (Geldinstitut); la banque; c; Bank (zum Sitzen) = le banc / Bank (Geldinstitut) = la banque; Klammer aus ke-0053 übernommen
+fr-ke-0085; Geschäft (Handel); les affaires; c; Geschäft (Handel) = les affaires / Geschäft (Laden) = le magasin; Klammer aus ke-0085 übernommen
+fr-ke-0089; Krebs (Krankheit); le cancer; c; Krebs (Tier) = le crabe / Krebs (Krankheit) = le cancer; Klammer aus ke-0089 übernommen
+fr-ke-0122; Farbe (Farbton); la couleur; c; Farbe (zum Streichen) = la peinture / Farbe (Farbton) = la couleur; Klammer aus ke-0122 übernommen
+fr-ke-0131; Land (Staat); le pays; c; Land (ländliche Gegend) = la campagne / Land (Staat) = le pays / Land (Boden) = la terre; Klammer aus ke-0131 übernommen
+fr-ke-0200; böse (schlecht, gemein); méchant; c; böse (schlecht, gemein) = méchant (andere Bedeutung nicht im Katalog); Klammer aus ke-0200 übernommen
+fr-ke-0205; erfahren (mit viel Erfahrung); expérimenté; c; erfahren (herausfinden) = apprendre / erfahren (mit viel Erfahrung) = expérimenté; Klammer aus ke-0205 übernommen
+fr-ke-0212; weit (Entfernung); loin; c; weit (Entfernung) = loin / weit (Kleidung) = ample; Klammer aus ke-0212 übernommen
+fr-ke-0285; Geschichte (Vergangenheit); l'histoire; c; Geschichte (Vergangenheit) = l'histoire (andere Bedeutung nicht im Katalog); Klammer aus ke-0285 übernommen
+fr-ke-0325; Land (Boden); la terre; c; Land (ländliche Gegend) = la campagne / Land (Staat) = le pays / Land (Boden) = la terre; Klammer aus ke-0325 übernommen, Weitere Antworten: le pays (Staat) entfernt, Beispiel neu (Land besitzen statt Land sehen)
+fr-ke-0373; Mutter (Elternteil); la mère; c; Mutter (Schraube) = l'écrou / Mutter (Elternteil) = la mère; Klammer aus ke-0373 übernommen
+fr-ke-0391; Nachricht (Neuigkeit); les nouvelles; c; Nachricht (Mitteilung) = le message / Nachricht (Neuigkeit) = les nouvelles; Klammer aus ke-0391 übernommen
+fr-ke-0441; Muster (Design); le motif; c; Muster (Warenprobe) = l'échantillon / Muster (Design) = le motif; Klammer aus ke-0441 übernommen, Antwort le modèle (Schnittmuster) → le motif, Weitere Antworten le dessin, Beispiel neu
+fr-ke-0474; Preis (Kosten); le prix; c; Preis (Kosten) = le prix / Preis (Gewinn) = le prix; Klammer aus ke-0474 übernommen
+fr-ke-0497; Reichweite (Fahrzeug); l'autonomie; c; Reichweite (Medien) = la portée / Reichweite (Fahrzeug) = l'autonomie; Klammer aus ke-0497 übernommen, Antwort la portée (Medien) → l'autonomie, Beispiel neu (Elektroauto statt Videos)
+fr-ke-0530; gleich (derselbe); même; c; gleich (sofort) = tout de suite / gleich (derselbe) = même; Klammer aus ke-0530 übernommen
+fr-ke-0583; sauer (Geschmack); acide; c; sauer (Geschmack) = acide / sauer (verärgert) = fâché; Klammer aus ke-0583 übernommen
+fr-ke-0609; gerade (nicht krumm); droit; c; gerade (zeitlich) = venir de / gerade (nicht krumm) = droit; Klammer aus ke-0609 übernommen, Weitere Antworten: tout droit (geradeaus) entfernt
+fr-ke-0642; als (Vergleich); que; c; als (zeitlich) = quand / als (Vergleich) = que; Klammer aus ke-0642 übernommen
+fr-ke-0649; dick (Gegenstand); épais; c; dick (Körper) = gros / dick (Gegenstand) = épais; Klammer aus ke-0649 übernommen
+fr-ke-0696; tragen (Last); porter; c; tragen (Kleidung) = porter / tragen (Last) = porter; Klammer aus ke-0696 übernommen, Beispiel neu (Karton tragen statt Kleid tragen)
+fr-ke-0754; raten (schätzen); deviner; c; raten (empfehlen) = conseiller / raten (schätzen) = deviner; Klammer aus ke-0754 übernommen
+fr-ke-0763; halten (festhalten); tenir; c; halten (festhalten) = tenir / halten (anhalten) = s'arrêter; Klammer aus ke-0763 übernommen
+fr-ke-0834; sich erinnern; se souvenir; c; sich erinnern = se souvenir / erinnern (jemanden) = rappeler; Deutsch „erinnern“ → „sich erinnern“ wie ke-0834, Antwort und Beispiel passen
+fr-ke-0950; Stimme (beim Sprechen); la voix; c; Stimme (beim Sprechen) = la voix / Stimme (bei der Wahl) = la voix; Klammer aus ke-0950 übernommen, Beispiel neu (Stimme am Telefon statt Stimme bei der Wahl)
+fr-km-0004; Rock (Kleidungsstück); la jupe; c; Rock (Musik) = le rock / Rock (Kleidungsstück) = la jupe; Klammer aus km-0004 übernommen
+fr-km-0016; Tasche (zum Tragen); le sac; c; Tasche (an der Kleidung) = la poche / Tasche (zum Tragen) = le sac; Klammer aus km-0016 übernommen
+fr-km-0019; anziehen (Kleidung); mettre; c; anziehen (anlocken) = attirer / anziehen (Kleidung) = mettre; Klammer aus km-0019 übernommen
+fr-km-0020; ausziehen (Kleidung); enlever; c; ausziehen (aus der Wohnung) = déménager / ausziehen (Kleidung) = enlever; Klammer aus km-0020 übernommen
+fr-km-0021; tragen (Kleidung); porter; c; tragen (Kleidung) = porter / tragen (Last) = porter; Klammer aus km-0021 übernommen
+fr-km-0025; Farbe (Farbton); la couleur; c; Farbe (zum Streichen) = la peinture / Farbe (Farbton) = la couleur; Klammer aus km-0025 übernommen
+fr-km-0054; weit (Kleidung); ample; c; weit (Entfernung) = loin / weit (Kleidung) = ample; Klammer aus km-0054 übernommen
+fr-km-0060; Preis (Kosten); le prix; c; Preis (Kosten) = le prix / Preis (Gewinn) = le prix; Klammer aus km-0060 übernommen
+fr-km-0061; Stoff (Textil); le tissu; c; Stoff (Textil) = le tissu / Stoff (Chemie) = la substance; Klammer aus km-0061 übernommen
+fr-km-0067; Muster (Design); le motif; c; Muster (Warenprobe) = l'échantillon / Muster (Design) = le motif; Klammer aus km-0067 übernommen
+fr-km-0077; Absatz (Schuh); le talon; c; Absatz (im Text) = le paragraphe / Absatz (Schuh) = le talon; Klammer aus km-0077 übernommen
+fr-km-0098; Futter (im Mantel); la doublure; c; Futter (für Tiere) = la nourriture pour animaux / Futter (im Mantel) = la doublure; Klammer aus km-0098 übernommen
+fr-km-0126; Garderobe (Kleidung); la garde-robe; c; Garderobe (für Mäntel) = le vestiaire / Garderobe (Kleidung) = la garde-robe; Klammer aus km-0126 übernommen
+fr-km-0133; Spitze (Stoff); la dentelle; c; Spitze (oberes Ende) = la pointe / Spitze (Stoff) = la dentelle; Klammer aus km-0133 übernommen
+fr-kg-0043; Rezept (Arzt); l'ordonnance; c; Rezept (Kochen) = la recette / Rezept (Arzt) = l'ordonnance; Klammer aus kg-0043 übernommen
+fr-kg-0050; Verband (Wunde); le bandage; c; Verband (Vereinigung) = l'association / Verband (Wunde) = le bandage; Klammer aus kg-0050 übernommen, Weitere Antworten + le pansement (gleich üblich)
+fr-kg-0094; Überweisung (zum Facharzt); la lettre d'orientation; c; Überweisung (Bank) = le virement / Überweisung (zum Facharzt) = la lettre d'orientation; Klammer aus kg-0094 übernommen
+fr-kg-0145; Prognose (Medizin); le pronostic; c; Prognose (Medizin) = le pronostic (andere Bedeutung nicht im Katalog); Klammer aus kg-0145 übernommen
+fr-kk-0005; Farbe (Farbton); la couleur; c; Farbe (zum Streichen) = la peinture / Farbe (Farbton) = la couleur; Klammer aus kk-0005 übernommen, Weitere Antworten: la peinture (Farbe zum Malen) entfernt
+fr-kk-0015; Leinwand (Malerei); la toile; c; Leinwand (Kino) = l'écran / Leinwand (Malerei) = la toile; Klammer aus kk-0015 übernommen
+fr-kk-0039; Vorstellung (Theater); la représentation; c; Vorstellung (Theater) = la représentation (andere Bedeutung nicht im Katalog); Klammer aus kk-0039 übernommen
+fr-kk-0042; Probe (Theater); la répétition; c; Probe (Untersuchung) = l'échantillon / Probe (Theater) = la répétition; Klammer aus kk-0042 übernommen
+fr-kk-0051; Besetzung (Film, Theater); la distribution; c; Besetzung (Film, Theater) = la distribution (andere Bedeutung nicht im Katalog); Klammer aus kk-0051 übernommen
+fr-kk-0071; Gattung (Literatur); le genre; c; Gattung (Literatur) = le genre (andere Bedeutung nicht im Katalog); Klammer aus kk-0071 übernommen
+fr-kk-0073; Handlung (Geschichte); l'intrigue; c; Handlung (Geschichte) = l'intrigue (andere Bedeutung nicht im Katalog); Klammer aus kk-0073 übernommen
+fr-kk-0078; Auflage (Ausgabe); l'édition; c; Auflage (Ausgabe) = l'édition / Auflage (Zahl der Exemplare) = le tirage; Klammer aus kk-0078 übernommen
+fr-kk-0080; Nachlass (Erbe); les archives posthumes; c; Nachlass (Erbe) = les archives posthumes (andere Bedeutung nicht im Katalog); Klammer aus kk-0080 übernommen
+fr-kk-0111; Schloss (Gebäude); le château; c; Schloss (an der Tür) = la serrure / Schloss (Gebäude) = le château; Klammer aus kk-0111 übernommen
+fr-kk-0126; Geschichte (Vergangenheit); l'histoire; c; Geschichte (Vergangenheit) = l'histoire (andere Bedeutung nicht im Katalog); Klammer aus kk-0126 übernommen
+fr-kk-0144; Erbe (Kultur); le patrimoine; c; Erbe (Nachlass) = l'héritage / Erbe (Kultur) = le patrimoine; Klammer aus kk-0144 übernommen
+fr-mk-0064; Kanal (Medien); la chaîne; c; Kanal (Wasserstraße) = le canal / Kanal (Medien) = la chaîne; Klammer aus mk-0064 übernommen
+fr-mk-0069; Anzeige (Werbung); l'annonce; c; Anzeige (Werbung) = l'annonce (andere Bedeutung nicht im Katalog); Klammer aus mk-0069 übernommen
+fr-mk-0100; Quelle (Herkunft); la source; c; Quelle (Wasser) = la source / Quelle (Herkunft) = la source; Klammer aus mk-0100 übernommen
+fr-mk-0105; Auflage (Zahl der Exemplare); le tirage; c; Auflage (Ausgabe) = l'édition / Auflage (Zahl der Exemplare) = le tirage; Klammer aus mk-0105 übernommen
+fr-mk-0121; Reichweite (Medien); la portée; c; Reichweite (Medien) = la portée / Reichweite (Fahrzeug) = l'autonomie; Klammer aus mk-0121 übernommen
+fr-nt-0019; Blatt (Baum); la feuille; c; Blatt (Papier) = la feuille / Blatt (Baum) = la feuille; Klammer aus nt-0019 übernommen
+fr-nt-0039; Schlange (Tier); le serpent; c; Schlange (zum Anstehen) = la file d'attente / Schlange (Tier) = le serpent; Klammer aus nt-0039 übernommen
+fr-nt-0075; Art (Biologie); l'espèce; c; Art (Biologie) = l'espèce (andere Bedeutung nicht im Katalog); Klammer aus nt-0075 übernommen
+fr-nt-0088; Boden (Erde); le sol; c; Boden (Fußboden) = le sol / Boden (Erde) = le sol; Klammer aus nt-0088 übernommen
+fr-nt-0090; Stamm (Baum); le tronc; c; Stamm (Baum) = le tronc (andere Bedeutung nicht im Katalog); Klammer aus nt-0090 übernommen
+fr-nt-0095; Kiefer (Baum); le pin; c; Kiefer (Knochen) = la mâchoire / Kiefer (Baum) = le pin; Klammer aus nt-0095 übernommen
+fr-nt-0143; Bestand (Tiere); la population; c; Bestand (Lager) = le stock / Bestand (Tiere) = la population; Klammer aus nt-0143 übernommen
+fr-pg-0001; Land (Staat); le pays; c; Land (ländliche Gegend) = la campagne / Land (Staat) = le pays / Land (Boden) = la terre; Klammer aus pg-0001 übernommen
+fr-pg-0014; wählen (bei einer Wahl); voter; c; wählen (bei einer Wahl) = voter (andere Bedeutung nicht im Katalog); Klammer aus pg-0014 übernommen
+fr-pg-0029; Gericht (Justiz); le tribunal; c; Gericht (Speise) = le plat / Gericht (Justiz) = le tribunal; Klammer aus pg-0029 übernommen
+fr-pg-0041; Stimme (bei der Wahl); la voix; c; Stimme (beim Sprechen) = la voix / Stimme (bei der Wahl) = la voix; Klammer aus pg-0041 übernommen
+fr-pg-0106; Rücktritt (vom Amt); la démission; c; Rücktritt (vom Vertrag) = la résolution / Rücktritt (vom Amt) = la démission; Klammer aus pg-0106 übernommen
+fr-pg-0110; Berufung (Gericht); l'appel; c; Berufung (Lebensaufgabe) = la vocation / Berufung (Gericht) = l'appel; Klammer aus pg-0110 übernommen
+fr-ru-0007; Tasche (zum Tragen); le sac; c; Tasche (an der Kleidung) = la poche / Tasche (zum Tragen) = le sac; Klammer aus ru-0007 übernommen
+fr-ru-0017; Land (Staat); le pays; c; Land (ländliche Gegend) = la campagne / Land (Staat) = le pays / Land (Boden) = la terre; Klammer aus ru-0017 übernommen
+fr-ru-0021; Karte (Landkarte); la carte; c; Karte (Spielkarte) = la carte / Karte (Landkarte) = la carte; Klammer aus ru-0021 übernommen
+fr-ru-0043; Schloss (Gebäude); le château; c; Schloss (an der Tür) = la serrure / Schloss (Gebäude) = le château; Klammer aus ru-0043 übernommen
+fr-ru-0064; Pension (Unterkunft); la pension; c; Pension (Unterkunft) = la pension (andere Bedeutung nicht im Katalog); Klammer aus ru-0064 übernommen
+fr-ru-0081; abheben (Flugzeug); décoller; c; abheben (Geld) = retirer / abheben (Flugzeug) = décoller; Klammer aus ru-0081 übernommen
+fr-ru-0086; Führung (Besichtigung); la visite guidée; c; Führung (Leitung) = la direction / Führung (Besichtigung) = la visite guidée; Klammer aus ru-0086 übernommen
+fr-ru-0100; Zuschlag (Aufpreis); le supplément; c; Zuschlag (Ausschreibung) = l'adjudication / Zuschlag (Aufpreis) = le supplément; Klammer aus ru-0100 übernommen
+fr-sb-0024; Sport (Schulfach); l'éducation physique; c; Sport (Schulfach) = l'éducation physique (andere Bedeutung nicht im Katalog); Klammer aus sb-0024 übernommen
+fr-sb-0027; Geschichte (Vergangenheit); l'histoire; c; Geschichte (Vergangenheit) = l'histoire (andere Bedeutung nicht im Katalog); Klammer aus sb-0027 übernommen
+fr-sb-0036; Note (Schule); la note; c; Note (Musik) = la note / Note (Schule) = la note; Klammer aus sb-0036 übernommen
+fr-sb-0037; Zeugnis (Schule); le bulletin scolaire; c; Zeugnis (Arbeit) = le certificat / Zeugnis (Schule) = le bulletin scolaire; Klammer aus sb-0037 übernommen
+fr-sb-0040; bestehen (Prüfung); réussir; c; bestehen (Prüfung) = réussir (andere Bedeutung nicht im Katalog); Klammer aus sb-0040 übernommen
+fr-sb-0063; Abschluss (Schule); le diplôme; c; Abschluss (Geschäft) = la conclusion / Abschluss (Schule) = le diplôme; Klammer aus sb-0063 übernommen
+fr-sb-0079; Hausarbeit (Studium); le dossier; c; Hausarbeit (Haushalt) = les tâches ménagères / Hausarbeit (Studium) = le dossier; Klammer aus sb-0079 übernommen
+fr-sb-0100; Bewertung (Schule); l'évaluation; c; Bewertung (von Kunden) = la note oder l'avis / Bewertung (Schule) = l'évaluation; Klammer aus sb-0100 übernommen
+fr-sb-0123; Zulassung (Studium); l'admission; c; Zulassung (Studium) = l'admission / Zulassung (Fahrzeug) = l'immatriculation; Klammer aus sb-0123 übernommen
+fr-sf-0008; Tor (Sport); le but; c; Tor (Eingang) = le portail / Tor (Sport) = le but; Klammer aus sf-0008 übernommen
+fr-sf-0062; Kraft (körperlich); la force; c; Kraft (körperlich) = la force / Kraft (Physik) = la force; Klammer aus sf-0062 übernommen
+fr-sf-0067; Laufband (Fitness); le tapis de course; c; Laufband (Flughafen) = le tapis roulant / Laufband (Fitness) = le tapis de course; Klammer aus sf-0067 übernommen
+fr-sf-0074; Verlängerung (Sport); la prolongation; c; Verlängerung (Frist, Vertrag) = la prolongation / Verlängerung (Sport) = la prolongation; Klammer aus sf-0074 übernommen
+fr-sf-0088; Abstieg (Sport); la relégation; c; Abstieg (vom Berg) = la descente / Abstieg (Sport) = la relégation; Klammer aus sf-0088 übernommen
+fr-tc-0038; Nachricht (Mitteilung); le message; c; Nachricht (Mitteilung) = le message / Nachricht (Neuigkeit) = les nouvelles; Klammer aus tc-0038 übernommen
+fr-tc-0054; Speicher (Computer); la mémoire; c; Speicher (Computer) = la mémoire (andere Bedeutung nicht im Katalog); Klammer aus tc-0054 übernommen
+fr-tc-0059; Einstellung (Technik); le paramètre; c; Einstellung (Haltung) = l'attitude / Einstellung (Technik) = le paramètre; Klammer aus tc-0059 übernommen
+fr-vm-0019; Karte (Landkarte); la carte; c; Karte (Spielkarte) = la carte / Karte (Landkarte) = la carte; Klammer aus vm-0019 übernommen
+fr-vm-0022; halten (anhalten); s'arrêter; c; halten (festhalten) = tenir / halten (anhalten) = s'arrêter; Klammer aus vm-0022 übernommen
+fr-vm-0043; Rad (am Fahrzeug); la roue; c; Rad (am Fahrzeug) = la roue (andere Bedeutung nicht im Katalog); Klammer aus vm-0043 übernommen
+fr-vm-0077; Spur (Fahrbahn); la file; c; Spur (Fahrbahn) = la file (andere Bedeutung nicht im Katalog); Klammer aus vm-0077 übernommen
+fr-vm-0120; Zulassung (Fahrzeug); l'immatriculation; c; Zulassung (Studium) = l'admission / Zulassung (Fahrzeug) = l'immatriculation; Klammer aus vm-0120 übernommen
+fr-vm-0128; Reichweite (Fahrzeug); l'autonomie; c; Reichweite (Medien) = la portée / Reichweite (Fahrzeug) = l'autonomie; Klammer aus vm-0128 übernommen
+fr-wu-0006; Himmel (Wetter, Sterne); le ciel; c; Himmel (Wetter, Sterne) = le ciel (andere Bedeutung nicht im Katalog); Klammer aus wu-0006 übernommen
+fr-wu-0019; Eis (gefrorenes Wasser); la glace; c; Eis (Speiseeis) = la glace / Eis (gefrorenes Wasser) = la glace; Klammer aus wu-0019 übernommen
+fr-wu-0022; scheinen (Sonne); briller; c; scheinen (den Anschein haben) = sembler / scheinen (Sonne) = briller; Klammer aus wu-0022 übernommen
+fr-wf-0005; Preis (Kosten); le prix; c; Preis (Kosten) = le prix / Preis (Gewinn) = le prix; Klammer aus wf-0005 übernommen
+fr-wf-0008; Geschäft (Laden); le magasin; c; Geschäft (Handel) = les affaires / Geschäft (Laden) = le magasin; Klammer aus wf-0008 übernommen
+fr-wf-0011; Bank (Geldinstitut); la banque; c; Bank (zum Sitzen) = le banc / Bank (Geldinstitut) = la banque; Klammer aus wf-0011 übernommen
+fr-wf-0021; Lohn (Bezahlung); la paie; c; Lohn (Bezahlung) = la paie oder le salaire (andere Bedeutung nicht im Katalog); Klammer aus wf-0021 übernommen
+fr-wf-0046; handeln (Handel treiben); faire du commerce; c; handeln (feilschen) = marchander / handeln (Handel treiben) = faire du commerce; Klammer aus wf-0046 übernommen
+fr-wf-0051; Lager (Waren); l'entrepôt; c; Lager (Zeltlager) = le camp / Lager (Waren) = l'entrepôt; Klammer aus wf-0051 übernommen
+fr-wf-0057; leihen (jemandem etwas); prêter; c; leihen (jemandem etwas) = prêter (andere Bedeutung nicht im Katalog); Klammer aus wf-0057 übernommen, Weitere Antworten: emprunter (sich etwas leihen) entfernt
+fr-wf-0059; Überweisung (Bank); le virement; c; Überweisung (Bank) = le virement / Überweisung (zum Facharzt) = la lettre d'orientation; Klammer aus wf-0059 übernommen
+fr-wf-0060; abheben (Geld); retirer; c; abheben (Geld) = retirer / abheben (Flugzeug) = décoller; Klammer aus wf-0060 übernommen
+fr-wf-0104; absetzen (steuerlich); déduire; c; absetzen (steuerlich) = déduire (andere Bedeutung nicht im Katalog); Klammer aus wf-0104 übernommen
+fr-wi-0026; Annahme (Vermutung); la supposition; c; Annahme (eines Angebots) = l'acceptation / Annahme (Vermutung) = l'hypothèse oder la supposition; Klammer aus wi-0026 übernommen
+fr-wi-0033; Kraft (Physik); la force; c; Kraft (körperlich) = la force / Kraft (Physik) = la force; Klammer aus wi-0033 übernommen
+fr-wi-0050; Spannung (Strom); la tension; c; Spannung (Buch, Film) = le suspense / Spannung (Strom) = la tension; Klammer aus wi-0050 übernommen
+fr-wi-0064; Stoff (Chemie); la substance; c; Stoff (Textil) = le tissu / Stoff (Chemie) = la substance; Klammer aus wi-0064 übernommen
+fr-wi-0069; Verbindung (Chemie); le composé; c; Verbindung (Chemie) = le composé (andere Bedeutung nicht im Katalog); Klammer aus wi-0069 übernommen
+fr-wi-0085; Art (Biologie); l'espèce; c; Art (Biologie) = l'espèce (andere Bedeutung nicht im Katalog); Klammer aus wi-0085 übernommen
+fr-wi-0104; Bruch (Mathematik); la fraction; c; Bruch (Mathematik) = la fraction (andere Bedeutung nicht im Katalog); Klammer aus wi-0104 übernommen
+fr-wi-0135; Himmel (Wetter, Sterne); le ciel; c; Himmel (Wetter, Sterne) = le ciel (andere Bedeutung nicht im Katalog); Klammer aus wi-0135 übernommen
+fr-ke-0050; schlecht; mauvais; b; eine Bedeutung (mauvais als Adjektiv, mal als Adverb); Weitere Antworten + mal (wie gw-0202)
+fr-ke-0567; langsam; lent; b; eine Bedeutung (lent als Adjektiv, lentement als Adverb); Weitere Antworten + lentement (wie gw-0210)
+fr-ke-0490; schnell; rapidement; b; eine Bedeutung (rapide als Adjektiv, vite oder rapidement als Adverb); Weitere Antworten + rapide (wie gw-0209 vite annimmt)
+fr-ke-0337; wahrscheinlich; probable; b; eine Bedeutung (probable als Adjektiv, probablement als Adverb); Weitere Antworten + probablement
+fr-gw-0603; wahrscheinlich; probable; b; eine Bedeutung (probable als Adjektiv, probablement als Adverb); Weitere Antworten + probablement
+fr-ke-0476; wahrscheinlich; probablement; b; eine Bedeutung (probable als Adjektiv, probablement als Adverb); Weitere Antworten + probable
+fr-gw-0347; während; pendant; b; eine Bedeutung (pendant als Präposition, pendant que als Konjunktion); Weitere Antworten + pendant que (Englisch nimmt during und while an)
+fr-ke-0171; während; pendant; b; eine Bedeutung (pendant als Präposition, pendant que als Konjunktion); Weitere Antworten + pendant que
+fr-ke-0970; während; pendant que; b; eine Bedeutung (pendant als Präposition, pendant que als Konjunktion); Weitere Antworten + pendant
+fr-et-0016; Kuchen; le gâteau; b; eine Bedeutung (le gâteau, la tarte für Obstkuchen); Weitere Antworten + la tarte (wie gw-0165)
+fr-ke-0611; Straße; la rue; b; eine Bedeutung (la rue in der Stadt, la route über Land); Weitere Antworten + la route (wie gw-0238)
+fr-ke-0742; fliegen; voler; b; eine Bedeutung (voler, prendre l'avion für Reisende); Weitere Antworten + prendre l'avion, aller en avion (das Beispiel benutzt prendre l'avion)
+fr-ke-0247; Tankstelle; la station-service; b; eine Bedeutung (la station-service, la station d'essence); Weitere Antworten + la station d'essence (wie gw-0440)
+fr-ke-0988; Arbeit; le travail; b; eine Bedeutung (le travail, umgangssprachlich le boulot); Weitere Antworten + le boulot (wie gw-0114)
+fr-ke-0606; Sturm; la tempête; b; Sturm = la tempête / Gewitter = l'orage (wu-0026); Weitere Antworten: l'orage entfernt (heißt Gewitter, nicht Sturm)
+fr-ab-0036; Werkstatt; l'atelier; c; Werkstatt (Handwerk) = l'atelier / Werkstatt (Auto) = le garage; Beispiel neu (Schreiner in der Werkstatt statt Auto in der Werkstatt, passt zu l'atelier), Hinweisvorschlag Werkstatt in pakete/M-fr.md
+fr-vm-0069; Werkstatt; le garage; c; Werkstatt (Handwerk) = l'atelier / Werkstatt (Auto) = le garage; keine, Hinweisvorschlag „Werkstatt (Auto)“
+fr-pg-0015; Partei; le parti; c; Partei (Politik) = le parti / Partei (Vertrag) = la partie; keine, Hinweisvorschlag „Partei (Politik)“
+fr-vt-0040; Partei; la partie; c; Partei (Politik) = le parti / Partei (Vertrag) = la partie; keine, Hinweisvorschlag „Partei (Vertrag)“
+fr-ba-0058; Wettbewerb; la concurrence; c; Wettbewerb (Konkurrenz) = la concurrence / Wettbewerb (um einen Preis) = le concours; keine, Hinweisvorschlag „Wettbewerb (Konkurrenz)“
+fr-mv-0031; Wettbewerb; la concurrence; c; Wettbewerb (Konkurrenz) = la concurrence / Wettbewerb (um einen Preis) = le concours; keine, Hinweisvorschlag „Wettbewerb (Konkurrenz)“
+fr-wf-0053; Wettbewerb; la concurrence; c; Wettbewerb (Konkurrenz) = la concurrence / Wettbewerb (um einen Preis) = le concours; keine, Hinweisvorschlag „Wettbewerb (Konkurrenz)“
+fr-fh-0063; Wettbewerb; le concours; c; Wettbewerb (Konkurrenz) = la concurrence / Wettbewerb (um einen Preis) = le concours; keine, Hinweisvorschlag „Wettbewerb (um einen Preis)“
+fr-gw-0666; Wettbewerb; le concours; c; Wettbewerb (Konkurrenz) = la concurrence / Wettbewerb (um einen Preis) = le concours; keine, Hinweisvorschlag „Wettbewerb (um einen Preis)“
+fr-ab-0053; Kündigung; le licenciement; c; Kündigung (Arbeitsstelle) = le licenciement oder la démission / Kündigung (Vertrag) = la résiliation; keine, Hinweisvorschlag „Kündigung (Arbeitsstelle)“
+fr-pw-0133; Kündigung; le licenciement; c; Kündigung (Arbeitsstelle) = le licenciement oder la démission / Kündigung (Vertrag) = la résiliation; keine, Hinweisvorschlag „Kündigung (Arbeitsstelle)“
+fr-vt-0036; Kündigung; la résiliation; c; Kündigung (Arbeitsstelle) = le licenciement oder la démission / Kündigung (Vertrag) = la résiliation; keine, Hinweisvorschlag „Kündigung (Vertrag)“
+fr-ru-0026; buchen; réserver; c; buchen (Reise) = réserver / buchen (Buchhaltung) = comptabiliser; keine, Hinweisvorschlag „buchen (Reise, Hotel)“
+fr-rc-0052; buchen; comptabiliser; c; buchen (Reise) = réserver / buchen (Buchhaltung) = comptabiliser; keine, Hinweisvorschlag „buchen (Buchhaltung)“
+fr-gw-0669; Verbindung; le lien; c; Verbindung (Zusammenhang) = le lien / Verbindung (Internet, Telefon) = la connexion / Verbindung (Chemie) = le composé; keine, Hinweisvorschlag „Verbindung (Zusammenhang)“
+fr-tc-0045; Verbindung; la connexion; c; Verbindung (Zusammenhang) = le lien / Verbindung (Internet, Telefon) = la connexion / Verbindung (Chemie) = le composé; keine, Hinweisvorschlag „Verbindung (Internet, Telefon)“
+fr-et-0060; Rechnung; l'addition; c; Rechnung (im Restaurant) = l'addition / Rechnung (für Waren, Leistungen) = la facture; keine, Hinweisvorschlag „Rechnung (im Restaurant)“
+fr-gw-0361; Rechnung; l'addition; c; Rechnung (im Restaurant) = l'addition / Rechnung (für Waren, Leistungen) = la facture; keine, Hinweisvorschlag „Rechnung (im Restaurant)“
+fr-ru-0091; Welle; la vague; c; Welle (im Wasser) = la vague / Welle (Physik) = l'onde; keine, Hinweisvorschlag „Welle (im Wasser)“
+fr-wi-0039; Welle; l'onde; c; Welle (im Wasser) = la vague / Welle (Physik) = l'onde; keine, Hinweisvorschlag „Welle (Physik)“
+fr-ru-0040; besuchen; visiter; c; besuchen (jemanden) = rendre visite à / besuchen (einen Ort) = visiter; keine, Hinweisvorschlag „besuchen (einen Ort)“
+fr-ke-0895; besuchen; visiter; c; besuchen (jemanden) = rendre visite à / besuchen (einen Ort) = visiter; keine, Hinweisvorschlag „besuchen (einen Ort)“ (Beispiel Burg, nimmt rendre visite à an)
+fr-gw-0066; besuchen; rendre visite à; c; besuchen (jemanden) = rendre visite à / besuchen (einen Ort) = visiter; keine, Hinweisvorschlag „besuchen (jemanden)“ (nimmt visiter an)
+fr-fb-0077; besuchen; rendre visite à; c; besuchen (jemanden) = rendre visite à / besuchen (einen Ort) = visiter; keine, Hinweisvorschlag „besuchen (jemanden)“ (nimmt visiter an)
+fr-mk-0037; wiederholen; répéter; c; wiederholen (noch einmal sagen) = répéter / wiederholen (Lernstoff) = réviser; keine, Hinweisvorschlag „wiederholen (noch einmal sagen)“
+fr-sb-0043; wiederholen; réviser; c; wiederholen (noch einmal sagen) = répéter / wiederholen (Lernstoff) = réviser; keine, Hinweisvorschlag „wiederholen (Lernstoff)“ (nimmt répéter an)
+fr-ke-0280; schwer; lourd; c; schwer (Gewicht) = lourd / schwer (schwierig) = difficile; keine, Hinweisvorschlag „schwer (Gewicht)“ für alle Sprachen
+fr-gw-0217; schwer; difficile; c; schwer (Gewicht) = lourd / schwer (schwierig) = difficile; keine, Hinweisvorschlag „schwer (schwierig)“ für alle Sprachen (nimmt lourd an)
+fr-ru-0005; Zimmer; la chambre; c; Zimmer (im Hotel, Schlafzimmer) = la chambre / Zimmer (Raum einer Wohnung) = la pièce; keine, Hinweisvorschlag „Zimmer (im Hotel)“ (die anderen Zimmer-Zeilen nehmen beide an)
+fr-tc-0023; Ordner; le dossier; c; Ordner (Computer) = le dossier / Ordner (aus Pappe) = le classeur; keine, Hinweisvorschlag „Ordner (Computer)“ (bb-0044 nimmt le dossier an)
+fr-bd-0001; Bank (zum Sitzen); le banc; d; Bank (zum Sitzen) = le banc / Bank (Geldinstitut) = la banque; übersetzt aus bd-0001
+fr-bd-0002; Schloss (an der Tür); la serrure; d; Schloss (an der Tür) = la serrure / Schloss (Gebäude) = le château; übersetzt aus bd-0002
+fr-bd-0003; abschließen (Tür); fermer à clé; d; abschließen (Tür) = fermer à clé / abschließen (beenden) = achever / abschließen (Vertrag) = conclure; übersetzt aus bd-0003
+fr-bd-0004; Tasche (an der Kleidung); la poche; d; Tasche (an der Kleidung) = la poche / Tasche (zum Tragen) = le sac; übersetzt aus bd-0004
+fr-bd-0005; Boden (Fußboden); le sol; d; Boden (Fußboden) = le sol / Boden (Erde) = le sol; übersetzt aus bd-0005
+fr-bd-0006; Gericht (Speise); le plat; d; Gericht (Speise) = le plat / Gericht (Justiz) = le tribunal; übersetzt aus bd-0006
+fr-bd-0007; scharf (Messer); tranchant; d; scharf (Messer) = tranchant / scharf (Essen) = épicé; übersetzt aus bd-0007
+fr-bd-0008; faul (verdorben); pourri; d; faul (verdorben) = pourri / faul (träge) = paresseux; übersetzt aus bd-0008
+fr-bd-0009; Schlange (zum Anstehen); la file d'attente; d; Schlange (zum Anstehen) = la file d'attente / Schlange (Tier) = le serpent; übersetzt aus bd-0009
+fr-bd-0010; Umzug (Wohnungswechsel); le déménagement; d; Umzug (Wohnungswechsel) = le déménagement / Umzug (Festzug) = le défilé; übersetzt aus bd-0010
+fr-bd-0011; ausziehen (aus der Wohnung); déménager; d; ausziehen (aus der Wohnung) = déménager / ausziehen (Kleidung) = enlever; übersetzt aus bd-0011
+fr-bd-0012; anziehen (anlocken); attirer; d; anziehen (anlocken) = attirer / anziehen (Kleidung) = mettre; übersetzt aus bd-0012
+fr-bd-0013; Tor (Eingang); le portail; d; Tor (Eingang) = le portail / Tor (Sport) = le but; übersetzt aus bd-0013
+fr-bd-0014; Garderobe (für Mäntel); le vestiaire; d; Garderobe (für Mäntel) = le vestiaire / Garderobe (Kleidung) = la garde-robe; übersetzt aus bd-0014
+fr-bd-0015; Futter (für Tiere); la nourriture pour animaux; d; Futter (für Tiere) = la nourriture pour animaux / Futter (im Mantel) = la doublure; übersetzt aus bd-0015
+fr-bd-0016; einstellen (Gerät); régler; d; einstellen (Personal) = embaucher / einstellen (Gerät) = régler; übersetzt aus bd-0016
+fr-bd-0017; Mutter (Schraube); l'écrou; d; Mutter (Schraube) = l'écrou / Mutter (Elternteil) = la mère; übersetzt aus bd-0017
+fr-bd-0018; Brunnen (Springbrunnen); la fontaine; d; Brunnen (Springbrunnen) = la fontaine (andere Bedeutung nicht im Katalog); übersetzt aus bd-0018
+fr-bd-0019; Blatt (Papier); la feuille; d; Blatt (Papier) = la feuille / Blatt (Baum) = la feuille; übersetzt aus bd-0019
+fr-bd-0020; Land (ländliche Gegend); la campagne; d; Land (ländliche Gegend) = la campagne / Land (Staat) = le pays / Land (Boden) = la terre; übersetzt aus bd-0020
+fr-bd-0021; Lager (Zeltlager); le camp; d; Lager (Zeltlager) = le camp / Lager (Waren) = l'entrepôt; übersetzt aus bd-0021
+fr-bd-0022; Band (zum Binden); le ruban; d; Band (zum Binden) = le ruban / Band (Buch) = le volume / Band (Musikgruppe) = le groupe; übersetzt aus bd-0022
+fr-bd-0023; Kiefer (Knochen); la mâchoire; d; Kiefer (Knochen) = la mâchoire / Kiefer (Baum) = le pin; übersetzt aus bd-0023
+fr-bd-0024; dick (Körper); gros; d; dick (Körper) = gros / dick (Gegenstand) = épais; übersetzt aus bd-0024
+fr-bd-0025; Entschuldigung (Bitte um Verzeihung); les excuses; d; Entschuldigung (Bitte um Verzeihung) = les excuses / Entschuldigung (Ausruf) = excusez-moi; übersetzt aus bd-0025
+fr-bd-0026; vergeben (verzeihen); pardonner; d; vergeben (verzeihen) = pardonner / vergeben (Auftrag) = attribuer; übersetzt aus bd-0026
+fr-bd-0027; Unterhaltung (Gespräch); la conversation; d; Unterhaltung (Gespräch) = la conversation / Unterhaltung (Vergnügen) = le divertissement; übersetzt aus bd-0027
+fr-bd-0028; erfahren (herausfinden); apprendre; d; erfahren (herausfinden) = apprendre / erfahren (mit viel Erfahrung) = expérimenté; übersetzt aus bd-0028
+fr-bd-0029; als (zeitlich); quand; d; als (zeitlich) = quand / als (Vergleich) = que; übersetzt aus bd-0029
+fr-bd-0030; gerade (zeitlich); venir de; d; gerade (zeitlich) = venir de / gerade (nicht krumm) = droit; übersetzt aus bd-0030
+fr-bd-0031; gleich (sofort); tout de suite; d; gleich (sofort) = tout de suite / gleich (derselbe) = même; übersetzt aus bd-0031
+fr-bd-0032; scheinen (den Anschein haben); sembler; d; scheinen (den Anschein haben) = sembler / scheinen (Sonne) = briller; übersetzt aus bd-0032
+fr-bd-0033; annehmen (akzeptieren); accepter; d; annehmen (akzeptieren) = accepter / annehmen (vermuten) = supposer; übersetzt aus bd-0033
+fr-bd-0034; raten (empfehlen); conseiller; d; raten (empfehlen) = conseiller / raten (schätzen) = deviner; übersetzt aus bd-0034
+fr-bd-0035; Krebs (Tier); le crabe; d; Krebs (Tier) = le crabe / Krebs (Krankheit) = le cancer; übersetzt aus bd-0035
+fr-bd-0036; Spitze (oberes Ende); la pointe; d; Spitze (oberes Ende) = la pointe / Spitze (Stoff) = la dentelle; übersetzt aus bd-0036
+fr-bd-0037; Schicht (Lage); la couche; d; Schicht (Arbeit) = le service / Schicht (Lage) = la couche; übersetzt aus bd-0037
+fr-bd-0038; Abstieg (vom Berg); la descente; d; Abstieg (vom Berg) = la descente / Abstieg (Sport) = la relégation; übersetzt aus bd-0038
+fr-bd-0039; Kanal (Wasserstraße); le canal; d; Kanal (Wasserstraße) = le canal / Kanal (Medien) = la chaîne; übersetzt aus bd-0039
+fr-bd-0040; Absatz (im Text); le paragraphe; d; Absatz (im Text) = le paragraphe / Absatz (Schuh) = le talon; übersetzt aus bd-0040
+fr-bd-0041; abschreiben (kopieren); copier; d; abschreiben (kopieren) = copier / abschreiben (Buchhaltung) = amortir; übersetzt aus bd-0041
+fr-bd-0042; Note (Musik); la note; d; Note (Musik) = la note / Note (Schule) = la note; übersetzt aus bd-0042
+fr-bd-0043; Band (Buch); le volume; d; Band (zum Binden) = le ruban / Band (Buch) = le volume / Band (Musikgruppe) = le groupe; übersetzt aus bd-0043
+fr-bd-0044; Leiter (Chef); le directeur; d; Leiter (zum Steigen) = l'échelle / Leiter (Chef) = le directeur; übersetzt aus bd-0044
+fr-bd-0045; Führung (Leitung); la direction; d; Führung (Leitung) = la direction / Führung (Besichtigung) = la visite guidée; übersetzt aus bd-0045
+fr-bd-0046; Mangel (Fehlen); le manque; d; Mangel (Fehlen) = le manque / Mangel (Fehler) = le défaut; übersetzt aus bd-0046
+fr-bd-0047; Abnahme (Rückgang); la baisse; d; Abnahme (Rückgang) = la baisse / Abnahme (Projekt) = la réception; übersetzt aus bd-0047
+fr-bd-0048; Abstimmung (Wahl); le vote; d; Abstimmung (Wahl) = le vote / Abstimmung (Koordination) = la coordination; übersetzt aus bd-0048
+fr-bd-0049; Rat (Gremium); le conseil; d; Rat (Gremium) = le conseil / Rat (Ratschlag) = le conseil; übersetzt aus bd-0049
+fr-bd-0050; Verband (Vereinigung); l'association; d; Verband (Vereinigung) = l'association / Verband (Wunde) = le bandage; übersetzt aus bd-0050
+fr-bd-0051; Messe (Gottesdienst); la messe; d; Messe (Gottesdienst) = la messe / Messe (Ausstellung) = le salon; übersetzt aus bd-0051
+fr-bd-0052; Folge (einer Serie); l'épisode; d; Folge (einer Serie) = l'épisode / Folge (Konsequenz) = la conséquence; übersetzt aus bd-0052
+fr-bd-0053; Leinwand (Kino); l'écran; d; Leinwand (Kino) = l'écran / Leinwand (Malerei) = la toile; übersetzt aus bd-0053
+fr-bd-0054; Rock (Musik); le rock; d; Rock (Musik) = le rock / Rock (Kleidungsstück) = la jupe; übersetzt aus bd-0054

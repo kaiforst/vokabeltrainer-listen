@@ -4,13 +4,13 @@ fr-wf-0001; Geld; l'argent; ; A1; Wirtschaft/Finanzen/Geld & Zahlung; Combien d'
 fr-wf-0002; kaufen; acheter; ; A1; Wirtschaft/Finanzen/Markt & Handel; Nous voulons acheter du pain frais aujourd'hui.; Wir wollen heute frisches Brot kaufen.
 fr-wf-0003; verkaufen; vendre; ; A1; Wirtschaft/Finanzen/Markt & Handel; Il veut vendre sa vieille voiture.; Er will sein altes Auto verkaufen.
 fr-wf-0004; bezahlen; payer; régler; A1; Wirtschaft/Finanzen/Geld & Zahlung; Est-ce que je peux payer par carte ici ?; Kann ich hier mit Karte bezahlen?
-fr-wf-0005; Preis; le prix; ; A1; Wirtschaft/Finanzen/Markt & Handel; Le prix du café a encore augmenté.; Der Preis für Kaffee ist wieder gestiegen.
+fr-wf-0005; Preis (Kosten); le prix; ; A1; Wirtschaft/Finanzen/Markt & Handel; Le prix du café a encore augmenté.; Der Preis für Kaffee ist wieder gestiegen.
 fr-wf-0006; teuer; cher; coûteux; A1; Wirtschaft/Finanzen/Markt & Handel; Cet hôtel est trop cher pour nous.; Dieses Hotel ist zu teuer für uns.
 fr-wf-0007; billig; bon marché; pas cher; A1; Wirtschaft/Finanzen/Markt & Handel; Aujourd'hui, les légumes sont bon marché au marché.; Gemüse ist heute auf dem Markt billig.
-fr-wf-0008; Geschäft; le magasin; la boutique, le commerce; A1; Wirtschaft/Finanzen/Markt & Handel; Le magasin ouvre à neuf heures du matin.; Das Geschäft öffnet um neun Uhr morgens.
+fr-wf-0008; Geschäft (Laden); le magasin; la boutique, le commerce; A1; Wirtschaft/Finanzen/Markt & Handel; Le magasin ouvre à neuf heures du matin.; Das Geschäft öffnet um neun Uhr morgens.
 fr-wf-0009; arbeiten; travailler; ; A1; Wirtschaft/Finanzen/Arbeit & Einkommen; Elle travaille dans une banque à Francfort.; Sie arbeitet in einer Bank in Frankfurt.
 fr-wf-0010; Firma; la société; l'entreprise, la firme, la boîte; A1; Wirtschaft/Finanzen/Unternehmen; Ma société a des bureaux dans trois villes.; Meine Firma hat Büros in drei Städten.
-fr-wf-0011; Bank; la banque; ; A2; Wirtschaft/Finanzen/Bank; La banque ferme à quatre heures de l'après-midi.; Die Bank schließt um vier Uhr nachmittags.
+fr-wf-0011; Bank (Geldinstitut); la banque; ; A2; Wirtschaft/Finanzen/Bank; La banque ferme à quatre heures de l'après-midi.; Die Bank schließt um vier Uhr nachmittags.
 fr-wf-0012; Konto; le compte; le compte bancaire; A2; Wirtschaft/Finanzen/Bank; J'ai ouvert un compte pour ma fille.; Ich habe ein Konto für meine Tochter eröffnet.
 fr-wf-0013; sparen; économiser; épargner, mettre de côté; A2; Wirtschaft/Finanzen/Bank; Nous économisons de l'argent pour de longues vacances.; Wir sparen Geld für einen langen Urlaub.
 fr-wf-0014; Kunde; le client; la cliente; A2; Wirtschaft/Finanzen/Markt & Handel; Le client a demandé une taille plus petite.; Der Kunde fragte nach einer kleineren Größe.
@@ -20,7 +20,7 @@ fr-wf-0017; Markt; le marché; ; A2; Wirtschaft/Finanzen/Markt & Handel; Le marc
 fr-wf-0018; Angebot; l'offre; la promotion; A2; Wirtschaft/Finanzen/Markt & Handel; L'offre n'est valable que jusqu'à vendredi.; Das Angebot gilt nur bis Freitag.
 fr-wf-0019; verdienen; gagner; gagner de l'argent; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; Elle gagne bien sa vie comme ingénieure.; Sie verdient als Ingenieurin gutes Geld.
 fr-wf-0020; Gehalt; le salaire; ; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; Le salaire est versé à la fin du mois.; Das Gehalt wird am Ende des Monats gezahlt.
-fr-wf-0021; Lohn; la paie; la paye, le salaire; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; La paie est versée en espèces chaque semaine.; Der Lohn wird jede Woche bar ausgezahlt.
+fr-wf-0021; Lohn (Bezahlung); la paie; la paye, le salaire; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; La paie est versée en espèces chaque semaine.; Der Lohn wird jede Woche bar ausgezahlt.
 fr-wf-0022; Chef; le patron; le chef, la patronne, la cheffe; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; Mon patron est en voyage d'affaires aujourd'hui.; Mein Chef ist heute auf Geschäftsreise.
 fr-wf-0023; Mitarbeiter; l'employé; l'employée, le collaborateur, la collaboratrice, le salarié; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; L'entreprise a embauché vingt nouveaux employés ce printemps.; Die Firma stellte in diesem Frühjahr zwanzig neue Mitarbeiter ein.
 fr-wf-0024; Beruf; le métier; la profession; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; Infirmier est un métier difficile mais important.; Pflege ist ein anstrengender, aber wichtiger Beruf.
@@ -45,21 +45,21 @@ fr-wf-0042; Kosten; les coûts; les frais; B1; Wirtschaft/Finanzen/Unternehmen; 
 fr-wf-0043; Einkommen; le revenu; les revenus; B1; Wirtschaft/Finanzen/Arbeit & Einkommen; Son revenu dépend du nombre de commandes.; Ihr Einkommen hängt von der Zahl der Aufträge ab.
 fr-wf-0044; Einnahmen; les recettes; ; B1; Wirtschaft/Finanzen/Unternehmen; Les recettes du musée proviennent surtout des billets d'entrée.; Die Einnahmen des Museums stammen hauptsächlich aus Eintrittskarten.
 fr-wf-0045; Handel; le commerce; les échanges; B1; Wirtschaft/Finanzen/Markt & Handel; Le commerce entre les deux pays progresse régulièrement.; Der Handel zwischen den beiden Ländern wächst stetig.
-fr-wf-0046; handeln; faire du commerce; commercer; B1; Wirtschaft/Finanzen/Markt & Handel; L'entreprise fait du commerce de café et d'épices fines.; Die Firma handelt mit Kaffee und feinen Gewürzen.
+fr-wf-0046; handeln (Handel treiben); faire du commerce; commercer; B1; Wirtschaft/Finanzen/Markt & Handel; L'entreprise fait du commerce de café et d'épices fines.; Die Firma handelt mit Kaffee und feinen Gewürzen.
 fr-wf-0047; exportieren; exporter; ; B1; Wirtschaft/Finanzen/Markt & Handel; L'Allemagne exporte des machines dans le monde entier.; Deutschland exportiert Maschinen in die ganze Welt.
 fr-wf-0048; importieren; importer; ; B1; Wirtschaft/Finanzen/Markt & Handel; Nous importons la plupart de nos fruits d'Espagne.; Wir importieren das meiste Obst aus Spanien.
 fr-wf-0049; Lieferung; la livraison; ; B1; Wirtschaft/Finanzen/Markt & Handel; La livraison est arrivée deux jours plus tôt que prévu.; Die Lieferung kam zwei Tage früher als geplant.
 fr-wf-0050; Ware; la marchandise; les marchandises; B1; Wirtschaft/Finanzen/Markt & Handel; La marchandise est contrôlée avant de quitter l'usine.; Die Ware wird geprüft, bevor sie das Werk verlässt.
-fr-wf-0051; Lager; l'entrepôt; le stock; B1; Wirtschaft/Finanzen/Markt & Handel; L'entrepôt est plein avant la période de Noël.; Das Lager ist vor der Weihnachtszeit voll.
+fr-wf-0051; Lager (Waren); l'entrepôt; le stock; B1; Wirtschaft/Finanzen/Markt & Handel; L'entrepôt est plein avant la période de Noël.; Das Lager ist vor der Weihnachtszeit voll.
 fr-wf-0052; Nachfrage; la demande; ; B1; Wirtschaft/Finanzen/Markt & Handel; La demande de pompes à chaleur augmente rapidement.; Die Nachfrage nach Wärmepumpen steigt schnell.
 fr-wf-0053; Wettbewerb; la concurrence; la compétition; B1; Wirtschaft/Finanzen/Markt & Handel; Une forte concurrence maintient les prix très bas.; Starker Wettbewerb hält die Preise sehr niedrig.
 fr-wf-0054; Konkurrent; le concurrent; la concurrente; B1; Wirtschaft/Finanzen/Markt & Handel; Notre plus grand concurrent a baissé ses prix hier.; Unser größter Konkurrent senkte gestern seine Preise.
 fr-wf-0055; Rabatt; la remise; la réduction, le rabais; B1; Wirtschaft/Finanzen/Markt & Handel; Les étudiants ont droit à une remise de vingt pour cent.; Studenten bekommen einen Rabatt von zwanzig Prozent.
 fr-wf-0056; Schulden; les dettes; la dette; B1; Wirtschaft/Finanzen/Bank; Il a remboursé ses dettes en trois ans.; Er zahlte seine Schulden innerhalb von drei Jahren ab.
-fr-wf-0057; leihen; prêter; emprunter; B1; Wirtschaft/Finanzen/Bank; Tu peux me prêter cinquante euros jusqu'à vendredi ?; Kannst du mir fünfzig Euro bis Freitag leihen?
+fr-wf-0057; leihen (jemandem etwas); prêter; ; B1; Wirtschaft/Finanzen/Bank; Tu peux me prêter cinquante euros jusqu'à vendredi ?; Kannst du mir fünfzig Euro bis Freitag leihen?
 fr-wf-0058; überweisen; virer; faire un virement; B1; Wirtschaft/Finanzen/Bank; J'ai viré le loyer au propriétaire aujourd'hui.; Ich habe die Miete heute an den Vermieter überwiesen.
-fr-wf-0059; Überweisung; le virement; le virement bancaire; B1; Wirtschaft/Finanzen/Bank; Le virement prend environ un jour ouvrable.; Die Überweisung dauert ungefähr einen Werktag.
-fr-wf-0060; abheben; retirer; ; B1; Wirtschaft/Finanzen/Bank; Elle a retiré deux cents euros pour le voyage.; Sie hob zweihundert Euro für die Reise ab.
+fr-wf-0059; Überweisung (Bank); le virement; le virement bancaire; B1; Wirtschaft/Finanzen/Bank; Le virement prend environ un jour ouvrable.; Die Überweisung dauert ungefähr einen Werktag.
+fr-wf-0060; abheben (Geld); retirer; ; B1; Wirtschaft/Finanzen/Bank; Elle a retiré deux cents euros pour le voyage.; Sie hob zweihundert Euro für die Reise ab.
 fr-wf-0061; einzahlen; verser; déposer; B1; Wirtschaft/Finanzen/Bank; Il verse une petite somme chaque mois.; Er zahlt jeden einzelnen Monat einen kleinen Betrag ein.
 fr-wf-0062; Aktie; l'action; ; B1; Wirtschaft/Finanzen/Investieren & Börse; L'action a perdu cinq pour cent de sa valeur.; Die Aktie verlor fünf Prozent ihres Wertes.
 fr-wf-0063; Börse; la Bourse; la bourse; B1; Wirtschaft/Finanzen/Investieren & Börse; La Bourse a réagi calmement à la nouvelle.; Die Börse reagierte gelassen auf die Nachrichten.
@@ -103,7 +103,7 @@ fr-wf-0100; Einkommensteuer; l'impôt sur le revenu; ; B2; Wirtschaft/Finanzen/S
 fr-wf-0101; Steuererklärung; la déclaration d'impôts; la déclaration de revenus; B2; Wirtschaft/Finanzen/Steuern; Chaque printemps, je fais ma déclaration d'impôts en ligne.; Ich reiche meine Steuererklärung jedes Frühjahr online ein.
 fr-wf-0102; Steuerberater; le conseiller fiscal; la conseillère fiscale, l'expert-comptable; B2; Wirtschaft/Finanzen/Steuern; Mon conseiller fiscal a trouvé plusieurs déductions pour moi.; Mein Steuerberater fand mehrere Abzugsmöglichkeiten für mich.
 fr-wf-0103; Finanzamt; le centre des impôts; le fisc, les impôts; B2; Wirtschaft/Finanzen/Steuern; Le centre des impôts a envoyé un rappel en octobre.; Das Finanzamt schickte im Oktober eine Mahnung.
-fr-wf-0104; absetzen; déduire; ; B2; Wirtschaft/Finanzen/Steuern; Tu peux déduire tes frais de transport de tes impôts.; Du kannst Fahrtkosten von der Steuer absetzen.
+fr-wf-0104; absetzen (steuerlich); déduire; ; B2; Wirtschaft/Finanzen/Steuern; Tu peux déduire tes frais de transport de tes impôts.; Du kannst Fahrtkosten von der Steuer absetzen.
 fr-wf-0105; Buchhaltung; la comptabilité; ; B2; Wirtschaft/Finanzen/Unternehmen; Une comptabilité propre évite des ennuis avec le fisc.; Eine saubere Buchhaltung erspart Ärger mit dem Finanzamt.
 fr-wf-0106; Bilanz; le bilan; ; B2; Wirtschaft/Finanzen/Unternehmen; Le bilan montre tous les actifs et tous les passifs.; Die Bilanz zeigt alle Vermögenswerte und Verbindlichkeiten.
 fr-wf-0107; Hypothek; le prêt immobilier; l'hypothèque, le crédit immobilier; B2; Wirtschaft/Finanzen/Bank; Ils ont contracté un prêt immobilier pour la maison.; Sie nahmen eine Hypothek auf das Haus auf.

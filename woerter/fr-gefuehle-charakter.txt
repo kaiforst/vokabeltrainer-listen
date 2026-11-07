@@ -15,7 +15,7 @@ fr-gc-0012; freundlich; aimable; sympathique, gentil; A1; Mensch/Gefühle/Charak
 fr-gc-0013; wütend; en colère; furieux, fâché; A1; Mensch/Gefühle/Emotionen; Il se met en colère quand le bus est en retard.; Er wird wütend, wenn der Bus zu spät kommt.
 fr-gc-0014; Spaß; le plaisir; l'amusement; A1; Mensch/Gefühle/Stimmungen; Aujourd'hui, les enfants ont pris beaucoup de plaisir.; Die Kinder hatten heute viel Spaß.
 fr-gc-0015; mögen; aimer bien; apprécier, aimer; A1; Mensch/Gefühle/Emotionen; J'aime bien les gens qui savent écouter.; Ich mag Menschen, die gut zuhören können.
-fr-gc-0016; Glück; le bonheur; la chance; A1; Mensch/Gefühle/Emotionen; L'argent seul ne fait pas le bonheur.; Geld allein bringt kein Glück.
+fr-gc-0016; Glück (glücklich sein); le bonheur; ; A1; Mensch/Gefühle/Emotionen; L'argent seul ne fait pas le bonheur.; Geld allein bringt kein Glück.
 fr-gc-0017; allein; seul; ; A1; Mensch/Gefühle/Stimmungen; Parfois, j'aime être seul à la maison.; Manchmal bin ich gern allein zu Hause.
 fr-gc-0018; langweilig; ennuyeux; ; A1; Mensch/Gefühle/Stimmungen; Le film était long et très ennuyeux.; Der Film war lang und sehr langweilig.
 fr-gc-0019; lustig; drôle; amusant, rigolo; A1; Mensch/Gefühle/Charakter; Mon oncle est drôle et raconte des blagues géniales.; Mein Onkel ist lustig und erzählt tolle Witze.
@@ -31,7 +31,7 @@ fr-gc-0028; Hoffnung; l'espoir; l'espérance; A2; Mensch/Gefühle/Emotionen; Il 
 fr-gc-0029; Sorge; le souci; l'inquiétude; A2; Mensch/Gefühle/Emotionen; Son plus grand souci, c'est de perdre son travail.; Ihre größte Sorge ist, die Arbeit zu verlieren.
 fr-gc-0030; sich freuen; se réjouir; être content; A2; Mensch/Gefühle/Emotionen; Je me réjouis de chaque petit succès.; Ich freue mich über jeden kleinen Erfolg.
 fr-gc-0031; nervös; nerveux; ; A2; Mensch/Gefühle/Stimmungen; Il est toujours nerveux avant un examen.; Vor einer Prüfung ist er immer nervös.
-fr-gc-0032; sauer; fâché; vexé, en colère; A2; Mensch/Gefühle/Emotionen; Elle est fâchée parce qu'il a oublié son anniversaire.; Sie ist sauer, weil er ihren Geburtstag vergessen hat.
+fr-gc-0032; sauer (verärgert); fâché; vexé, en colère; A2; Mensch/Gefühle/Emotionen; Elle est fâchée parce qu'il a oublié son anniversaire.; Sie ist sauer, weil er ihren Geburtstag vergessen hat.
 fr-gc-0033; zufrieden; satisfait; content; A2; Mensch/Gefühle/Stimmungen; Je suis satisfait du résultat du test.; Ich bin mit dem Ergebnis des Tests zufrieden.
 fr-gc-0034; überrascht; surpris; ; A2; Mensch/Gefühle/Emotionen; Nous avons été surpris par cette invitation soudaine.; Wir waren von der plötzlichen Einladung überrascht.
 fr-gc-0035; Überraschung; la surprise; ; A2; Mensch/Gefühle/Emotionen; La fête a été une surprise totale pour elle.; Die Party war eine völlige Überraschung für sie.
@@ -51,7 +51,7 @@ fr-gc-0048; ehrlich; honnête; franc, sincère; A2; Mensch/Gefühle/Charakter; S
 fr-gc-0049; lügen; mentir; ; A2; Mensch/Gefühle/Verhalten; Tu ne devrais jamais mentir à tes amis.; Du solltest deine Freunde niemals anlügen.
 fr-gc-0050; klug; intelligent; malin; A2; Mensch/Gefühle/Charakter; Elle est intelligente et apprend vite les langues.; Sie ist klug und lernt Sprachen schnell.
 fr-gc-0051; dumm; bête; stupide; A2; Mensch/Gefühle/Charakter; C'était bête de partir sans veste.; Es war dumm, ohne Jacke loszugehen.
-fr-gc-0052; faul; paresseux; ; A2; Mensch/Gefühle/Charakter; Le dimanche, nous sommes tous un peu paresseux.; Sonntags sind wir alle ein bisschen faul.
+fr-gc-0052; faul (träge); paresseux; ; A2; Mensch/Gefühle/Charakter; Le dimanche, nous sommes tous un peu paresseux.; Sonntags sind wir alle ein bisschen faul.
 fr-gc-0053; fleißig; travailleur; studieux, assidu; A2; Mensch/Gefühle/Charakter; L'étudiant travailleur a terminé le projet en avance.; Der fleißige Student beendete das Projekt früh.
 fr-gc-0054; geduldig; patient; ; A2; Mensch/Gefühle/Charakter; Un bon professeur est patient avec les débutants.; Ein guter Lehrer ist geduldig mit Anfängern.
 fr-gc-0055; ungeduldig; impatient; ; A2; Mensch/Gefühle/Charakter; Il devient impatient quand il doit attendre.; Er wird ungeduldig, wenn er warten muss.

@@ -29,12 +29,12 @@ fr-bb-0026; Team; l'équipe; la team; A2; Business/Büro/Projekte; Notre équipe
 fr-bb-0027; Auftrag; la commande; le contrat, le mandat; A2; Business/Büro/Geschäftspartner; Nous avons reçu une grosse commande de France.; Wir haben einen großen Auftrag aus Frankreich erhalten.
 fr-bb-0028; Rechnung; la facture; ; A2; Business/Büro/Finanzen; Veuillez régler la facture sous quinze jours.; Bitte bezahlen Sie die Rechnung innerhalb von zwei Wochen.
 fr-bb-0029; Angebot; l'offre; le devis, la proposition; A2; Business/Büro/Verhandlung; Nous vous enverrons notre offre vendredi.; Wir schicken Ihnen unser Angebot am Freitag.
-fr-bb-0030; Preis; le prix; ; A2; Business/Büro/Verhandlung; Le prix comprend la livraison et l'installation.; Der Preis beinhaltet Lieferung und Montage.
+fr-bb-0030; Preis (Kosten); le prix; ; A2; Business/Büro/Verhandlung; Le prix comprend la livraison et l'installation.; Der Preis beinhaltet Lieferung und Montage.
 fr-bb-0031; Vertrag; le contrat; ; A2; Business/Büro/Verhandlung; Les deux partenaires signent le contrat aujourd'hui.; Beide Partner unterschreiben heute den Vertrag.
 fr-bb-0032; unterschreiben; signer; ; A2; Business/Büro/Verhandlung; Veuillez signer le document à la dernière page.; Bitte unterschreiben Sie das Dokument auf der letzten Seite.
 fr-bb-0033; senden; envoyer; ; A2; Business/Büro/E-Mail & Telefon; Je vous envoie le fichier tout de suite.; Ich sende Ihnen die Datei sofort.
 fr-bb-0034; empfangen; recevoir; ; A2; Business/Büro/E-Mail & Telefon; Avez-vous reçu mon message d'hier ?; Haben Sie meine Nachricht von gestern empfangen?
-fr-bb-0035; Nachricht; le message; ; A2; Business/Büro/E-Mail & Telefon; Veuillez laisser un message après le bip sonore.; Bitte hinterlassen Sie eine Nachricht nach dem Ton.
+fr-bb-0035; Nachricht (Mitteilung); le message; ; A2; Business/Büro/E-Mail & Telefon; Veuillez laisser un message après le bip sonore.; Bitte hinterlassen Sie eine Nachricht nach dem Ton.
 fr-bb-0036; Anruf; l'appel; l'appel téléphonique, le coup de fil; A2; Business/Büro/E-Mail & Telefon; J'attends un appel important de notre partenaire.; Ich erwarte einen wichtigen Anruf von unserem Partner.
 fr-bb-0037; zurückrufen; rappeler; ; A2; Business/Büro/E-Mail & Telefon; Pourriez-vous rappeler dans une heure, s'il vous plaît ?; Könnten Sie bitte in einer Stunde zurückrufen?
 fr-bb-0038; Kopierer; la photocopieuse; le photocopieur, la copieuse; A2; Business/Büro/Ausstattung; La photocopieuse du deuxième étage est en panne.; Der Kopierer im zweiten Stock ist kaputt.
@@ -47,11 +47,11 @@ fr-bb-0044; Ordner; le classeur; le dossier; A2; Business/Büro/Ausstattung; Tou
 fr-bb-0045; Dokument; le document; ; A2; Business/Büro/Projekte; Veuillez vérifier le document avant la réunion.; Bitte prüfen Sie das Dokument vor dem Meeting.
 fr-bb-0046; Datei; le fichier; ; A2; Business/Büro/E-Mail & Telefon; Le fichier est trop gros pour un e-mail.; Die Datei ist zu groß für eine E-Mail.
 fr-bb-0047; Besucher; le visiteur; la visiteuse; A2; Business/Büro/Geschäftspartner; Nos visiteurs arrivent à l'accueil à neuf heures.; Unsere Besucher kommen um neun am Empfang an.
-fr-bb-0048; Geschäft; les affaires; l'affaire, le business; A2; Business/Büro/Geschäftspartner; Les affaires avec le nouveau partenaire marchent bien.; Das Geschäft mit dem neuen Partner läuft gut.
+fr-bb-0048; Geschäft (Handel); les affaires; l'affaire, le business; A2; Business/Büro/Geschäftspartner; Les affaires avec le nouveau partenaire marchent bien.; Das Geschäft mit dem neuen Partner läuft gut.
 fr-bb-0049; Lieferung; la livraison; ; A2; Business/Büro/Geschäftspartner; La livraison arrive jeudi au plus tard.; Die Lieferung kommt spätestens am Donnerstag an.
 fr-bb-0050; liefern; livrer; ; A2; Business/Büro/Geschäftspartner; Nous livrons la marchandise sous cinq jours ouvrés.; Wir liefern die Ware innerhalb von fünf Werktagen.
 fr-bb-0051; Tagesordnung; l'ordre du jour; ; B1; Business/Büro/Meetings; Le premier point à l'ordre du jour est le budget.; Der erste Punkt auf der Tagesordnung ist das Budget.
-fr-bb-0052; Protokoll; le compte rendu; le procès-verbal; B1; Business/Büro/Meetings; Qui va rédiger le compte rendu de la réunion ?; Wer schreibt das Protokoll der Besprechung?
+fr-bb-0052; Protokoll (Sitzung); le compte rendu; le procès-verbal; B1; Business/Büro/Meetings; Qui va rédiger le compte rendu de la réunion ?; Wer schreibt das Protokoll der Besprechung?
 fr-bb-0053; Teilnehmer; le participant; la participante; B1; Business/Büro/Meetings; Chaque participant reçoit les documents à l'avance.; Jeder Teilnehmer erhält die Unterlagen im Voraus.
 fr-bb-0054; teilnehmen; participer; assister; B1; Business/Büro/Meetings; Douze collègues vont participer à l'atelier.; Zwölf Kollegen werden am Workshop teilnehmen.
 fr-bb-0055; verschieben; reporter; décaler; B1; Business/Büro/Meetings; Nous devons reporter la réunion à jeudi.; Wir müssen das Meeting auf Donnerstag verschieben.
@@ -80,7 +80,7 @@ fr-bb-0077; Filiale; la succursale; l'agence, la filiale; B1; Business/Büro/Ges
 fr-bb-0078; Zentrale; le siège; le siège social; B1; Business/Büro/Geschäftspartner; Le siège de l'entreprise se trouve à Zurich.; Die Zentrale des Unternehmens ist in Zürich.
 fr-bb-0079; Präsentation; la présentation; ; B1; Business/Büro/Präsentation; Sa présentation du nouveau produit était excellente.; Ihre Präsentation über das neue Produkt war ausgezeichnet.
 fr-bb-0080; präsentieren; présenter; ; B1; Business/Büro/Präsentation; Il présentera les résultats mercredi.; Er präsentiert die Ergebnisse am Mittwoch.
-fr-bb-0081; Folie; la diapositive; la diapo, le slide; B1; Business/Büro/Präsentation; La diapositive suivante montre nos chiffres de vente.; Die nächste Folie zeigt unsere Verkaufszahlen.
+fr-bb-0081; Folie (Präsentation); la diapositive; la diapo, le slide; B1; Business/Büro/Präsentation; La diapositive suivante montre nos chiffres de vente.; Die nächste Folie zeigt unsere Verkaufszahlen.
 fr-bb-0082; Diagramm; le graphique; le diagramme; B1; Business/Büro/Präsentation; Le graphique compare les résultats de trois années.; Das Diagramm vergleicht die Ergebnisse von drei Jahren.
 fr-bb-0083; Zusammenfassung; le résumé; la synthèse; B1; Business/Büro/Präsentation; Un bref résumé suit à la fin.; Eine kurze Zusammenfassung folgt am Ende.
 fr-bb-0084; zusammenfassen; résumer; ; B1; Business/Büro/Präsentation; Permettez-moi de résumer les points les plus importants.; Lassen Sie mich die wichtigsten Punkte zusammenfassen.
@@ -103,7 +103,7 @@ fr-bb-0100; Umsetzung; la mise en œuvre; la réalisation; B2; Business/Büro/Pr
 fr-bb-0101; Meilenstein; le jalon; l'étape clé; B2; Business/Büro/Projekte; Nous avons franchi un jalon important la semaine dernière.; Wir haben letzte Woche einen wichtigen Meilenstein erreicht.
 fr-bb-0102; Projektleiter; le chef de projet; la cheffe de projet, le responsable de projet; B2; Business/Büro/Projekte; Le chef de projet coordonne toutes les équipes et les échéances.; Der Projektleiter koordiniert alle Teams und Termine.
 fr-bb-0103; zuständig; responsable; compétent, chargé de; B2; Business/Büro/Projekte; Qui est responsable des données clients ?; Wer ist für die Kundendaten zuständig?
-fr-bb-0104; Abstimmung; la coordination; la concertation; B2; Business/Büro/Meetings; Une coordination étroite entre les services fait gagner du temps.; Enge Abstimmung zwischen den Abteilungen spart Zeit.
+fr-bb-0104; Abstimmung (Koordination); la coordination; la concertation; B2; Business/Büro/Meetings; Une coordination étroite entre les services fait gagner du temps.; Enge Abstimmung zwischen den Abteilungen spart Zeit.
 fr-bb-0105; Rücksprache; la consultation; la concertation; B2; Business/Büro/Meetings; Ne faites aucune promesse sans consultation préalable avec moi.; Bitte machen Sie keine Zusagen ohne Rücksprache mit mir.
 fr-bb-0106; Entscheidung; la décision; ; B2; Business/Büro/Meetings; La décision définitive sera prise vendredi.; Die endgültige Entscheidung fällt am Freitag.
 fr-bb-0107; entscheiden; décider; ; B2; Business/Büro/Meetings; Nous devons décider de l'offre cette semaine.; Wir müssen diese Woche über das Angebot entscheiden.
@@ -119,12 +119,12 @@ fr-bb-0116; Rabatt; la remise; le rabais, la réduction; B2; Business/Büro/Verh
 fr-bb-0117; Zahlungsbedingungen; les conditions de paiement; les modalités de paiement; B2; Business/Büro/Finanzen; Les conditions de paiement accordent trente jours après la livraison.; Die Zahlungsbedingungen erlauben dreißig Tage nach Lieferung.
 fr-bb-0118; Mahnung; la relance; le rappel, la lettre de relance; B2; Business/Büro/Finanzen; Le client a reçu une relance pour la facture impayée.; Der Kunde erhielt eine Mahnung für die offene Rechnung.
 fr-bb-0119; überweisen; virer; faire un virement; B2; Business/Büro/Finanzen; Veuillez virer le montant sur notre compte.; Bitte überweisen Sie den Betrag auf unser Konto.
-fr-bb-0120; Überweisung; le virement; le virement bancaire; B2; Business/Büro/Finanzen; Le virement est arrivé au bout de deux jours.; Die Überweisung kam nach zwei Tagen an.
+fr-bb-0120; Überweisung (Bank); le virement; le virement bancaire; B2; Business/Büro/Finanzen; Le virement est arrivé au bout de deux jours.; Die Überweisung kam nach zwei Tagen an.
 fr-bb-0121; Spesen; les frais professionnels; les frais de déplacement, les notes de frais; B2; Business/Büro/Finanzen; Il se fait rembourser ses frais professionnels après chaque voyage d'affaires.; Er rechnet seine Spesen nach jeder Geschäftsreise ab.
 fr-bb-0122; Geschäftsreise; le voyage d'affaires; le déplacement professionnel; B2; Business/Büro/Geschäftspartner; Elle est en voyage d'affaires à Vienne.; Sie ist auf Geschäftsreise in Wien.
 fr-bb-0123; Visitenkarte; la carte de visite; ; B2; Business/Büro/Geschäftspartner; Il m'a donné sa carte de visite au salon.; Er gab mir auf der Messe seine Visitenkarte.
 fr-bb-0124; Netzwerk; le réseau; ; B2; Business/Büro/Geschäftspartner; Un réseau solide aide dans les projets difficiles.; Ein starkes Netzwerk hilft bei schwierigen Projekten.
-fr-bb-0125; Messe; le salon; le salon professionnel, la foire; B2; Business/Büro/Geschäftspartner; Notre entreprise présente deux nouveaux produits au salon.; Unsere Firma präsentiert zwei neue Produkte auf der Messe.
+fr-bb-0125; Messe (Ausstellung); le salon; le salon professionnel, la foire; B2; Business/Büro/Geschäftspartner; Notre entreprise présente deux nouveaux produits au salon.; Unsere Firma präsentiert zwei neue Produkte auf der Messe.
 fr-bb-0126; Verhandlungsspielraum; la marge de négociation; la marge de manœuvre; C1; Business/Büro/Verhandlung; Sur le prix, la marge de négociation est faible.; Beim Preis gibt es wenig Verhandlungsspielraum.
 fr-bb-0127; Zugeständnis; la concession; ; C1; Business/Büro/Verhandlung; Les deux parties ont fait une concession pour parvenir à un accord.; Beide Seiten machten ein Zugeständnis, um eine Einigung zu erreichen.
 fr-bb-0128; Einwand; l'objection; ; C1; Business/Büro/Verhandlung; Il a soulevé une objection contre le calendrier serré.; Er erhob einen Einwand gegen den engen Zeitplan.

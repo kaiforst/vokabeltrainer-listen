@@ -49,10 +49,10 @@ fr-ke-0046; verfügbar; disponible; ; B1; Karstens Empfehlung/Wörter; Les bille
 fr-ke-0047; weg, fort; loin; parti, absent; A2; Karstens Empfehlung/Wörter; Mes cousins habitent loin d'ici, à la montagne.; Meine Cousins wohnen weit weg von hier, in den Bergen.
 fr-ke-0048; fantastisch, großartig; génial; fantastique, formidable, super; B1; Karstens Empfehlung/Wörter; Le spectacle de l'école était vraiment génial.; Die Aufführung der Schule war wirklich großartig.
 fr-ke-0049; Rücken, Rückseite; le dos; l'arrière, le verso; A1; Karstens Empfehlung/Wörter; Il a mal au dos à force d'être assis toute la journée.; Sein Rücken schmerzt vom langen Sitzen.
-fr-ke-0050; schlecht; mauvais; ; A1; Karstens Empfehlung/Wörter; Le film était vraiment mauvais, désolé.; Der Film war wirklich schlecht, tut mir leid.
+fr-ke-0050; schlecht; mauvais; mal; A1; Karstens Empfehlung/Wörter; Le film était vraiment mauvais, désolé.; Der Film war wirklich schlecht, tut mir leid.
 fr-ke-0051; Tasche, Beutel; le sac; le sachet; A1; Karstens Empfehlung/Wörter; Vous avez besoin d'un sac pour ça ?; Brauchen Sie dafür eine Tasche?
 fr-ke-0052; Bäckerei; la boulangerie; ; A2; Karstens Empfehlung/Wörter; La boulangerie ouvre à six heures du matin.; Die Bäckerei öffnet um sechs Uhr morgens.
-fr-ke-0053; Bank; la banque; ; A2; Karstens Empfehlung/Wörter; La banque ferme à seize heures.; Die Bank schließt um vier Uhr nachmittags.
+fr-ke-0053; Bank (Geldinstitut); la banque; ; A2; Karstens Empfehlung/Wörter; La banque ferme à seize heures.; Die Bank schließt um vier Uhr nachmittags.
 fr-ke-0054; wunderschön; beau; magnifique, très beau; A1; Karstens Empfehlung/Wörter; Le coucher de soleil sur la mer est très beau.; Der Sonnenuntergang über dem Meer ist wunderschön.
 fr-ke-0055; weil; parce que; car; A1; Karstens Empfehlung/Wörter; Je reste à la maison parce que je suis malade.; Ich bleibe zu Hause, weil ich krank bin.
 fr-ke-0056; Bett; le lit; ; A1; Karstens Empfehlung/Wörter; Je vais au lit à dix heures.; Ich gehe um zehn Uhr ins Bett.
@@ -84,11 +84,11 @@ fr-ke-0081; Schwager; le beau-frère; ; B1; Karstens Empfehlung/Wörter; Mon bea
 fr-ke-0082; braun; marron; brun; A1; Karstens Empfehlung/Wörter; Mon chien a de grands yeux marron.; Mein Hund hat große braune Augen.
 fr-ke-0083; Gebäude; le bâtiment; l'immeuble, l'édifice; A2; Karstens Empfehlung/Wörter; Ce bâtiment est le plus haut du pays.; Dieses Gebäude ist das höchste im Land.
 fr-ke-0084; Bus; le bus; l'autobus; A1; Karstens Empfehlung/Wörter; Le bus pour le centre-ville passe toutes les dix minutes.; Der Bus in die Stadt kommt alle zehn Minuten.
-fr-ke-0085; Geschäft; les affaires; le commerce, l'entreprise; A2; Karstens Empfehlung/Wörter; Les affaires avec le nouveau partenaire marchent bien.; Das Geschäft mit dem neuen Partner läuft gut.
+fr-ke-0085; Geschäft (Handel); les affaires; le commerce, l'entreprise; A2; Karstens Empfehlung/Wörter; Les affaires avec le nouveau partenaire marchent bien.; Das Geschäft mit dem neuen Partner läuft gut.
 fr-ke-0086; aber; mais; ; A1; Karstens Empfehlung/Wörter; Je voudrais venir, mais je dois travailler.; Ich würde gern kommen, aber ich muss arbeiten.
 fr-ke-0087; ruhig, still, unbewegt; calme; tranquille, immobile; A1; Karstens Empfehlung/Wörter; Reste calme, s'il te plaît, tout va bien.; Bitte bleib ruhig, alles ist in Ordnung.
 fr-ke-0088; können; pouvoir; savoir; A1; Karstens Empfehlung/Verben; Est-ce que tu peux m'aider avec ce sac ?; Kannst du mir mit dieser Tasche helfen?
-fr-ke-0089; Krebs; le cancer; ; B1; Karstens Empfehlung/Wörter; Mon oncle a guéri d'un cancer l'année dernière.; Mein Onkel ist letztes Jahr vom Krebs geheilt worden.
+fr-ke-0089; Krebs (Krankheit); le cancer; ; B1; Karstens Empfehlung/Wörter; Mon oncle a guéri d'un cancer l'année dernière.; Mein Onkel ist letztes Jahr vom Krebs geheilt worden.
 fr-ke-0090; offen, ehrlich, aufrichtig; franc; honnête, sincère; C1; Karstens Empfehlung/Wörter; Sois franc avec moi et dis-moi la vérité.; Sei ehrlich zu mir und sag mir die Wahrheit.
 fr-ke-0091; schlau, geschickt, gerissen; malin; habile, rusé; C2; Karstens Empfehlung/Wörter; Le renard est un animal très malin.; Der Fuchs ist ein sehr schlaues Tier.
 fr-ke-0092; Hauptstadt; la capitale; ; A2; Karstens Empfehlung/Wörter; Paris est la capitale de la France.; Paris ist die Hauptstadt Frankreichs.
@@ -121,7 +121,7 @@ fr-ke-0118; bewölkt, trüb; nuageux; couvert, trouble; A2; Karstens Empfehlung/
 fr-ke-0119; ungeschickt, tollpatschig; maladroit; gauche; B2; Karstens Empfehlung/Wörter; Je suis maladroit, j'ai encore cassé un verre.; Ich bin ungeschickt, ich habe schon wieder ein Glas zerbrochen.
 fr-ke-0120; kalt; froid; ; A1; Karstens Empfehlung/Wörter; L'eau du lac est froide.; Das Wasser im See ist kalt.
 fr-ke-0121; Sammlung; la collection; ; A2; Karstens Empfehlung/Wörter; Sa collection de timbres remplit trois gros albums.; Seine Sammlung von Briefmarken füllt drei dicke Alben.
-fr-ke-0122; Farbe; la couleur; ; A1; Karstens Empfehlung/Wörter; Quelle couleur préfères-tu pour les chemises ?; Welche Farbe magst du bei Hemden am liebsten?
+fr-ke-0122; Farbe (Farbton); la couleur; ; A1; Karstens Empfehlung/Wörter; Quelle couleur préfères-tu pour les chemises ?; Welche Farbe magst du bei Hemden am liebsten?
 fr-ke-0123; Gemeinde, Gemeinschaft; la communauté; la commune; B2; Karstens Empfehlung/Wörter; Une communauté forte soutient ses membres les plus faibles.; Eine starke Gemeinschaft unterstützt ihre schwächsten Mitglieder.
 fr-ke-0124; Begleitung, Firma; l'entreprise; la compagnie, la société; A1; Karstens Empfehlung/Wörter; L'entreprise compte deux cents salariés.; Die Firma hat zweihundert Mitarbeiter.
 fr-ke-0125; Bedingung; la condition; ; B1; Karstens Empfehlung/Wörter; Une bonne lumière est une condition importante pour la photographie.; Gutes Licht ist eine wichtige Bedingung für das Fotografieren.
@@ -130,7 +130,7 @@ fr-ke-0127; verwirrend; déroutant; confus, déconcertant; B1; Karstens Empfehlu
 fr-ke-0128; zufrieden; content; satisfait; B2; Karstens Empfehlung/Wörter; Le professeur est content de nos progrès.; Der Lehrer ist zufrieden mit unseren Fortschritten.
 fr-ke-0129; Kosten; le coût; les frais; B1; Karstens Empfehlung/Wörter; Les coûts du projet augmentent rapidement.; Die Kosten für das Projekt steigen schnell.
 fr-ke-0130; könnte; pouvoir; pourrait; A2; Karstens Empfehlung/Verben; Tu pourrais fermer la fenêtre, s'il te plaît ?; Könntest du bitte das Fenster schließen?
-fr-ke-0131; Land; le pays; ; A1; Karstens Empfehlung/Wörter; L'Allemagne est un grand pays d'Europe.; Deutschland ist ein großes Land in Europa.
+fr-ke-0131; Land (Staat); le pays; ; A1; Karstens Empfehlung/Wörter; L'Allemagne est un grand pays d'Europe.; Deutschland ist ein großes Land in Europa.
 fr-ke-0132; ländlicher Raum; la campagne; ; A2; Karstens Empfehlung/Wörter; Mes grands-parents vivent à la campagne près d'une ferme.; Meine Großeltern leben auf dem Land in der Nähe eines Bauernhofs.
 fr-ke-0133; Kurs, Verlauf; le cours; le déroulement; B1; Karstens Empfehlung/Wörter; Le bateau suit le cours de la rivière.; Das Boot folgt dem Verlauf des Flusses.
 fr-ke-0134; Hof, Hinterhof, Gericht; la cour; le tribunal, l'arrière-cour; A2; Karstens Empfehlung/Wörter; Les élèves jouent dans la cour pendant la récréation.; Die Schüler spielen in der Pause auf dem Hof.
@@ -170,7 +170,7 @@ fr-ke-0167; Traum; le rêve; ; A2; Karstens Empfehlung/Wörter; Cette nuit, j'ai
 fr-ke-0168; Droge, Medikament; la drogue; le médicament; B1; Karstens Empfehlung/Wörter; La drogue est très dangereuse pour la santé.; Drogen sind sehr gefährlich für die Gesundheit.
 fr-ke-0169; trocken; sec; ; A2; Karstens Empfehlung/Wörter; L'été a été très chaud et sec.; Der Sommer war sehr heiß und trocken.
 fr-ke-0170; langweilig, glanzlos; ennuyeux; terne; B1; Karstens Empfehlung/Wörter; Le film était long et très ennuyeux.; Der Film war lang und sehr langweilig.
-fr-ke-0171; während; pendant; ; A2; Karstens Empfehlung/Wörter; Ne parle pas pendant le film, s'il te plaît.; Bitte sprich während des Films nicht.
+fr-ke-0171; während; pendant; pendant que; A2; Karstens Empfehlung/Wörter; Ne parle pas pendant le film, s'il te plaît.; Bitte sprich während des Films nicht.
 fr-ke-0172; jeder, jede, jedes; chaque; chacun, chacune, tout; A2; Karstens Empfehlung/Wörter; Chaque élève reçoit un livre au début de l'année.; Jeder Schüler bekommt am Anfang des Jahres ein Buch.
 fr-ke-0173; eifrig; empressé; impatient, zélé; B2; Karstens Empfehlung/Wörter; Le petit chien est toujours empressé de jouer.; Der kleine Hund ist immer eifrig beim Spielen.
 fr-ke-0174; früh; tôt; ; A1; Karstens Empfehlung/Wörter; Le lundi, je me lève très tôt.; Montags stehe ich sehr früh auf.
@@ -198,19 +198,19 @@ fr-ke-0195; Abend; le soir; la soirée; A1; Karstens Empfehlung/Wörter; Ce soir
 fr-ke-0196; Ereignis, Vorfall; l'événement; l'incident; B1; Karstens Empfehlung/Wörter; La chute du mur a été un événement historique.; Der Mauerfall war ein historisches Ereignis.
 fr-ke-0197; jemals; jamais; déjà; A2; Karstens Empfehlung/Wörter; Est-ce que tu es jamais allé à la mer ?; Warst du jemals am Meer?
 fr-ke-0199; Beweis; la preuve; ; B1; Karstens Empfehlung/Wörter; La police n'a trouvé aucune preuve contre le jeune homme.; Die Polizei fand keinen Beweis gegen den jungen Mann.
-fr-ke-0200; böse; méchant; mauvais, maléfique; B1; Karstens Empfehlung/Wörter; Le loup est méchant dans cette histoire.; Der Wolf ist böse in dieser Geschichte.
+fr-ke-0200; böse (schlecht, gemein); méchant; mauvais, maléfique; B1; Karstens Empfehlung/Wörter; Le loup est méchant dans cette histoire.; Der Wolf ist böse in dieser Geschichte.
 fr-ke-0201; genau; exactement; précisément; A2; Karstens Empfehlung/Wörter; C'est exactement ce que je voulais dire.; Das ist genau das, was ich sagen wollte.
 fr-ke-0202; Beispiel; l'exemple; ; A2; Karstens Empfehlung/Wörter; Le professeur donne un exemple au tableau.; Der Lehrer gibt an der Tafel ein Beispiel.
 fr-ke-0203; aufgeregt; excité; enthousiaste; A2; Karstens Empfehlung/Wörter; Les enfants sont tout excités à cause de la sortie scolaire.; Die Kinder sind wegen des Schulausflugs aufgeregt.
 fr-ke-0204; Erfahrung; l'expérience; ; A2; Karstens Empfehlung/Wörter; Elle a beaucoup d'expérience avec les enfants.; Sie hat viel Erfahrung mit Kindern.
-fr-ke-0205; erfahren; expérimenté; ; B1; Karstens Empfehlung/Wörter; Notre guide est un alpiniste très expérimenté.; Unser Führer ist ein sehr erfahrener Bergsteiger.
+fr-ke-0205; erfahren (mit viel Erfahrung); expérimenté; ; B1; Karstens Empfehlung/Wörter; Notre guide est un alpiniste très expérimenté.; Unser Führer ist ein sehr erfahrener Bergsteiger.
 fr-ke-0206; Auge; l'œil; les yeux; A1; Karstens Empfehlung/Wörter; Son œil gauche est rouge et la démange.; Ihr linkes Auge ist rot und juckt.
 fr-ke-0207; Gesicht; le visage; la figure; A1; Karstens Empfehlung/Wörter; Lave-toi le visage avec de l'eau froide.; Wasch dir das Gesicht mit kaltem Wasser.
 fr-ke-0208; Fakt, Tatsache; le fait; ; B1; Karstens Empfehlung/Wörter; Le fait est que nous sommes en retard.; Tatsache ist, dass wir zu spät sind.
 fr-ke-0209; treu; fidèle; ; B2; Karstens Empfehlung/Wörter; Il lui a toujours été fidèle.; Er war ihr immer treu.
 fr-ke-0210; falsch, gefälscht; faux; falsifié, contrefait; B1; Karstens Empfehlung/Wörter; Cette réponse est fausse, essaie encore une fois, s'il te plaît.; Diese Antwort ist falsch, bitte versuch es nochmal.
 fr-ke-0211; Familie; la famille; ; A1; Karstens Empfehlung/Wörter; Notre famille mange ensemble tous les soirs.; Unsere Familie isst jeden Abend zusammen.
-fr-ke-0212; weit; loin; ; A1; Karstens Empfehlung/Wörter; La gare est-elle loin d'ici ?; Ist der Bahnhof weit von hier?
+fr-ke-0212; weit (Entfernung); loin; ; A1; Karstens Empfehlung/Wörter; La gare est-elle loin d'ici ?; Ist der Bahnhof weit von hier?
 fr-ke-0213; schnell; vite; rapide, rapidement; A1; Karstens Empfehlung/Wörter; Ne cours pas trop vite dans le couloir !; Lauf nicht so schnell im Flur!
 fr-ke-0214; Vater; le père; ; A1; Karstens Empfehlung/Wörter; Mon père travaille à l'aéroport.; Mein Vater arbeitet am Flughafen.
 fr-ke-0215; Angst; la peur; la crainte; A1; Karstens Empfehlung/Wörter; L'enfant a peur des gros chiens.; Das Kind hat Angst vor großen Hunden.
@@ -245,7 +245,7 @@ fr-ke-0243; lustig; drôle; amusant; A1; Karstens Empfehlung/Wörter; Mon oncle 
 fr-ke-0244; Zukunft; l'avenir; le futur; A2; Karstens Empfehlung/Wörter; Personne ne sait ce que l'avenir nous réserve.; Niemand weiß, was die Zukunft bringen wird.
 fr-ke-0245; Spiel; le jeu; le match; A1; Karstens Empfehlung/Wörter; Il nous manque un joueur pour ce jeu.; Wir brauchen noch einen Spieler für dieses Spiel.
 fr-ke-0246; Garten; le jardin; ; A1; Karstens Empfehlung/Wörter; Les enfants jouent dans le jardin.; Die Kinder spielen im Garten.
-fr-ke-0247; Tankstelle; la station-service; ; A2; Karstens Empfehlung/Wörter; Nous nous sommes arrêtés dans une station-service sur l'autoroute.; Wir hielten an einer Tankstelle auf der Autobahn.
+fr-ke-0247; Tankstelle; la station-service; la station d'essence; A2; Karstens Empfehlung/Wörter; Nous nous sommes arrêtés dans une station-service sur l'autoroute.; Wir hielten an einer Tankstelle auf der Autobahn.
 fr-ke-0248; allgemein; général; ; B1; Karstens Empfehlung/Wörter; En général, je me couche à neuf heures.; Im Allgemeinen gehe ich um neun Uhr ins Bett.
 fr-ke-0249; wahr, echt; authentique; vrai, véritable; B2; Karstens Empfehlung/Wörter; C'est une histoire authentique, pas une légende.; Das ist eine wahre Geschichte, keine Legende.
 fr-ke-0250; Mädchen; la fille; la jeune fille; A1; Karstens Empfehlung/Wörter; La fille lit un livre sur les chevaux.; Das Mädchen liest ein Buch über Pferde.
@@ -283,7 +283,7 @@ fr-ke-0281; hilfsbereit; serviable; ; B1; Karstens Empfehlung/Wörter; Le voisin
 fr-ke-0282; hilflos; impuissant; sans défense; B2; Karstens Empfehlung/Wörter; Sans lunettes, je me sens complètement impuissant.; Ohne Brille fühle ich mich völlig hilflos.
 fr-ke-0283; hier; ici; ; A1; Karstens Empfehlung/Wörter; Viens ici, je veux te montrer quelque chose.; Komm her, ich will dir etwas zeigen.
 fr-ke-0284; hoch; haut; élevé; A1; Karstens Empfehlung/Wörter; La tour Eiffel est très haute.; Der Eiffelturm ist sehr hoch.
-fr-ke-0285; Geschichte; l'histoire; ; A1; Karstens Empfehlung/Wörter; Je trouve l'histoire allemande très intéressante.; Ich finde die deutsche Geschichte sehr interessant.
+fr-ke-0285; Geschichte (Vergangenheit); l'histoire; ; A1; Karstens Empfehlung/Wörter; Je trouve l'histoire allemande très intéressante.; Ich finde die deutsche Geschichte sehr interessant.
 fr-ke-0286; Treffer, Schlag; le coup; le succès, le tube; B1; Karstens Empfehlung/Wörter; Le boxeur a reçu un coup sur le nez.; Der Boxer hat einen Schlag auf die Nase bekommen.
 fr-ke-0287; Zuhause, Heimat; la maison; le foyer, le chez-soi; A1; Karstens Empfehlung/Wörter; Après les vacances, je suis content de rentrer à la maison.; Nach den Ferien bin ich froh, nach Hause zu kommen.
 fr-ke-0288; ehrlich; honnête; ; B1; Karstens Empfehlung/Wörter; Pour être honnête, je n'ai pas aimé le film.; Um ehrlich zu sein, der Film hat mir nicht gefallen.
@@ -323,7 +323,7 @@ fr-ke-0321; Kindergarten; le jardin d'enfants; l'école maternelle; A1; Karstens
 fr-ke-0322; Küche; la cuisine; ; A1; Karstens Empfehlung/Wörter; Nous préparons le dîner ensemble dans la cuisine.; Wir kochen das Abendessen zusammen in der Küche.
 fr-ke-0323; Wissen; le savoir; la connaissance, les connaissances; B1; Karstens Empfehlung/Wörter; Les livres nous apportent beaucoup de savoir.; Bücher bringen uns viel Wissen.
 fr-ke-0324; See; le lac; ; A2; Karstens Empfehlung/Wörter; En été, nous nageons dans le lac.; Im Sommer schwimmen wir im See.
-fr-ke-0325; Land; la terre; le pays, le terrain; A2; Karstens Empfehlung/Wörter; Après un long voyage en bateau, ils voient enfin la terre.; Nach einer langen Schiffsreise sehen sie endlich Land.
+fr-ke-0325; Land (Boden); la terre; le terrain; A2; Karstens Empfehlung/Wörter; Le fermier possède beaucoup de terres près du village.; Der Bauer besitzt viel Land in der Nähe des Dorfes.
 fr-ke-0326; Sprache; la langue; le langage; A1; Karstens Empfehlung/Wörter; L'anglais est une langue facile pour moi.; Englisch ist eine leichte Sprache für mich.
 fr-ke-0328; spät; tard; en retard; A1; Karstens Empfehlung/Wörter; Excuse-moi, je suis en retard, le bus était lent.; Entschuldigung, ich bin zu spät, der Bus war langsam.
 fr-ke-0329; Gesetz; la loi; le droit; B1; Karstens Empfehlung/Wörter; La nouvelle loi entre en vigueur en janvier.; Das neue Gesetz tritt im Januar in Kraft.
@@ -334,7 +334,7 @@ fr-ke-0333; gesetzlich, legal; légal; ; B1; Karstens Empfehlung/Wörter; Il n'e
 fr-ke-0334; Brief, Buchstabe; la lettre; ; A1; Karstens Empfehlung/Wörter; La lettre importante arrivera demain matin.; Der wichtige Brief kommt morgen früh an.
 fr-ke-0335; Leben; la vie; ; A2; Karstens Empfehlung/Wörter; La vie à la campagne est calme et agréable.; Das Leben auf dem Land ist ruhig und angenehm.
 fr-ke-0336; leicht, hell; léger; clair; A2; Karstens Empfehlung/Wörter; Ma valise est légère, je peux la porter seul.; Mein Koffer ist leicht, ich kann ihn allein tragen.
-fr-ke-0337; wahrscheinlich; probable; ; B1; Karstens Empfehlung/Wörter; Il est probable que le vol aura du retard.; Es ist wahrscheinlich, dass der Flug Verspätung haben wird.
+fr-ke-0337; wahrscheinlich; probable; probablement; B1; Karstens Empfehlung/Wörter; Il est probable que le vol aura du retard.; Es ist wahrscheinlich, dass der Flug Verspätung haben wird.
 fr-ke-0338; Linie, Zeile; la ligne; ; A2; Karstens Empfehlung/Wörter; Écris ton nom sur la première ligne.; Schreib deinen Namen in die erste Zeile.
 fr-ke-0339; Liste; la liste; ; A2; Karstens Empfehlung/Wörter; Voici une liste de tous les points en suspens.; Hier ist eine Liste aller offenen Punkte.
 fr-ke-0340; klein, wenig; petit; peu; A1; Karstens Empfehlung/Wörter; Notre appartement est petit, mais très joli.; Unsere Wohnung ist klein, aber sehr schön.
@@ -370,7 +370,7 @@ fr-ke-0369; Geld; l'argent; ; A1; Karstens Empfehlung/Wörter; J'économise de l
 fr-ke-0370; Monat; le mois; ; A1; Karstens Empfehlung/Wörter; Juillet est mon mois préféré de l'année.; Juli ist mein Lieblingsmonat im Jahr.
 fr-ke-0371; mehr; plus; davantage; A1; Karstens Empfehlung/Wörter; Je voudrais plus de temps pour jouer.; Ich hätte gern mehr Zeit zum Spielen.
 fr-ke-0372; Morgen; le matin; la matinée; A1; Karstens Empfehlung/Wörter; Je bois un café tous les matins à sept heures.; Ich trinke jeden Morgen um sieben Kaffee.
-fr-ke-0373; Mutter; la mère; ; A1; Karstens Empfehlung/Wörter; Ma mère fait le meilleur gâteau.; Meine Mutter macht den besten Kuchen.
+fr-ke-0373; Mutter (Elternteil); la mère; ; A1; Karstens Empfehlung/Wörter; Ma mère fait le meilleur gâteau.; Meine Mutter macht den besten Kuchen.
 fr-ke-0374; Berg; la montagne; ; A1; Karstens Empfehlung/Wörter; La montagne est couverte de neige en hiver.; Der Berg ist im Winter mit Schnee bedeckt.
 fr-ke-0375; Mund; la bouche; ; A1; Karstens Empfehlung/Wörter; Ouvrez la bouche pour le médecin, s'il vous plaît.; Bitte öffnen Sie den Mund für den Arzt.
 fr-ke-0376; Bewegung; le mouvement; ; B1; Karstens Empfehlung/Wörter; Le danseur fait un mouvement très élégant.; Der Tänzer macht eine sehr elegante Bewegung.
@@ -388,7 +388,7 @@ fr-ke-0387; notwendig; nécessaire; ; B1; Karstens Empfehlung/Wörter; Il est n�
 fr-ke-0388; Neffe; le neveu; ; A2; Karstens Empfehlung/Wörter; Son neveu joue au foot dans un petit club.; Ihr Neffe spielt Fußball in einem kleinen Verein.
 fr-ke-0389; nie; jamais; ; A1; Karstens Empfehlung/Wörter; Il ne boit jamais de café après le dîner.; Er trinkt nach dem Abendessen nie Kaffee.
 fr-ke-0390; neu; nouveau; neuf; A1; Karstens Empfehlung/Wörter; J'ai besoin de nouvelles chaussures pour l'hiver.; Ich brauche neue Schuhe für den Winter.
-fr-ke-0391; Nachricht; les nouvelles; les informations, la nouvelle; A2; Karstens Empfehlung/Wörter; Mon père écoute les nouvelles à la radio le matin.; Mein Vater hört morgens die Nachrichten im Radio.
+fr-ke-0391; Nachricht (Neuigkeit); les nouvelles; les informations, la nouvelle; A2; Karstens Empfehlung/Wörter; Mon père écoute les nouvelles à la radio le matin.; Mein Vater hört morgens die Nachrichten im Radio.
 fr-ke-0392; Zeitung; le journal; ; A1; Karstens Empfehlung/Wörter; Mon père lit le journal tous les matins.; Mein Vater liest jeden Morgen die Zeitung.
 fr-ke-0393; nächster, nächste, nächstes; prochain; suivant; A1; Karstens Empfehlung/Wörter; Nous partons en vacances la semaine prochaine.; Wir fahren nächste Woche in den Urlaub.
 fr-ke-0394; nett; sympa; gentil, agréable; A1; Karstens Empfehlung/Wörter; Notre nouveau voisin est vraiment sympathique.; Unser neuer Nachbar ist wirklich nett.
@@ -438,7 +438,7 @@ fr-ke-0437; Party; la fête; la soirée; A1; Karstens Empfehlung/Wörter; Nous o
 fr-ke-0438; vergangen, vorbei, Vergangenheit; le passé; passé, dernier; A2; Karstens Empfehlung/Wörter; Dans le passé, les gens écrivaient beaucoup de lettres.; In der Vergangenheit schrieben die Menschen viele Briefe.
 fr-ke-0439; Geduld; la patience; ; B1; Karstens Empfehlung/Wörter; Il faut beaucoup de patience pour apprendre le piano.; Man braucht viel Geduld, um Klavier zu lernen.
 fr-ke-0440; geduldig; patient; ; B1; Karstens Empfehlung/Wörter; Il faut être patient avec les petits enfants.; Mit kleinen Kindern muss man geduldig sein.
-fr-ke-0441; Muster; le modèle; le motif, le schéma; B1; Karstens Empfehlung/Wörter; Ma mère coud une robe d'après un modèle.; Meine Mutter näht ein Kleid nach einem Muster.
+fr-ke-0441; Muster (Design); le motif; le dessin; B1; Karstens Empfehlung/Wörter; J'aime beaucoup le motif de ton nouveau pull.; Mir gefällt das Muster auf deinem neuen Pullover sehr.
 fr-ke-0442; Friede; la paix; ; B1; Karstens Empfehlung/Wörter; Tout le monde souhaite vivre en paix.; Alle wünschen sich, in Frieden zu leben.
 fr-ke-0443; Leute; les gens; ; A1; Karstens Empfehlung/Wörter; Beaucoup de gens attendent devant le magasin.; Viele Leute warten vor dem Geschäft.
 fr-ke-0444; Leistung; la performance; le rendement, la prestation; B2; Karstens Empfehlung/Wörter; Sa performance a été excellente toute l'année.; Ihre Leistung war das ganze Jahr über ausgezeichnet.
@@ -470,9 +470,9 @@ fr-ke-0470; Gegenwart, Geschenk, gegenwärtig; le présent; le cadeau, présent,
 fr-ke-0471; Präsident; le président; la présidente; A2; Karstens Empfehlung/Wörter; Le président a visité notre ville la semaine dernière.; Der Präsident besuchte letzte Woche unsere Stadt.
 fr-ke-0472; Druck; la pression; ; B1; Karstens Empfehlung/Wörter; La pression du pneu est trop basse.; Der Druck im Reifen ist zu niedrig.
 fr-ke-0473; hübsch (weiblich); joli; jolie; A1; Karstens Empfehlung/Wörter; Ta sœur porte une jolie robe bleue.; Deine Schwester trägt ein hübsches blaues Kleid.
-fr-ke-0474; Preis; le prix; ; A2; Karstens Empfehlung/Wörter; Le prix comprend la livraison et l'installation.; Der Preis beinhaltet Lieferung und Montage.
+fr-ke-0474; Preis (Kosten); le prix; ; A2; Karstens Empfehlung/Wörter; Le prix comprend la livraison et l'installation.; Der Preis beinhaltet Lieferung und Montage.
 fr-ke-0475; privat; privé; ; B1; Karstens Empfehlung/Wörter; Ce chemin est privé, on ne peut pas passer.; Dieser Weg ist privat, man kann nicht durchgehen.
-fr-ke-0476; wahrscheinlich; probablement; ; A2; Karstens Empfehlung/Wörter; Il va probablement pleuvoir cet après-midi.; Heute Nachmittag regnet es wahrscheinlich.
+fr-ke-0476; wahrscheinlich; probablement; probable; A2; Karstens Empfehlung/Wörter; Il va probablement pleuvoir cet après-midi.; Heute Nachmittag regnet es wahrscheinlich.
 fr-ke-0477; Problem; le problème; ; A2; Karstens Empfehlung/Wörter; Nous avons trouvé un problème dans le logiciel.; Wir haben ein Problem mit der Software gefunden.
 fr-ke-0478; Prozess, Vorgang; le processus; le procédé; B1; Karstens Empfehlung/Wörter; Apprendre une langue est un processus lent mais enrichissant.; Eine Sprache zu lernen ist ein langsamer, aber lohnender Vorgang.
 fr-ke-0479; produzieren; produire; ; B1; Karstens Empfehlung/Verben; L'usine produit deux mille vélos par semaine.; Die Fabrik produziert zweitausend Fahrräder pro Woche.
@@ -486,14 +486,14 @@ fr-ke-0486; pünktlich; ponctuel; ; B2; Karstens Empfehlung/Wörter; Notre profe
 fr-ke-0487; Zweck, Ziel, Absicht; le but; l'objectif, l'intention; B1; Karstens Empfehlung/Wörter; Le but du cours est d'améliorer ton expression orale.; Das Ziel des Kurses ist es, dein Sprechen zu verbessern.
 fr-ke-0488; Qualität; la qualité; ; B1; Karstens Empfehlung/Wörter; Quand je fais les courses, la qualité compte plus pour moi que la quantité.; Beim Einkaufen ist mir Qualität wichtiger als Menge.
 fr-ke-0489; Frage; la question; ; A1; Karstens Empfehlung/Wörter; J'ai une question sur les devoirs.; Ich habe eine Frage zu den Hausaufgaben.
-fr-ke-0490; schnell; rapidement; vite; A2; Karstens Empfehlung/Wörter; Le pompier est arrivé très rapidement.; Der Feuerwehrmann ist sehr schnell gekommen.
+fr-ke-0490; schnell; rapidement; vite, rapide; A2; Karstens Empfehlung/Wörter; Le pompier est arrivé très rapidement.; Der Feuerwehrmann ist sehr schnell gekommen.
 fr-ke-0491; leise; silencieux; calme, tranquille; A2; Karstens Empfehlung/Wörter; Sois silencieux, s'il te plaît, le bébé dort.; Bitte sei leise, das Baby schläft.
 fr-ke-0492; ziemlich; assez; plutôt; A2; Karstens Empfehlung/Wörter; Le film était assez drôle, mais un peu long.; Der Film war ziemlich lustig, aber etwas lang.
 fr-ke-0493; Radio, Funk; la radio; ; A1; Karstens Empfehlung/Wörter; Nous écoutons toujours la radio en voiture.; Wir hören im Auto immer Radio.
 fr-ke-0494; Bahnhof; la gare; ; A2; Karstens Empfehlung/Wörter; On se retrouve à la gare à cinq heures.; Wir treffen uns um fünf am Bahnhof.
 fr-ke-0495; Regen; la pluie; ; A1; Karstens Empfehlung/Wörter; Il nous faut plus de pluie pour le jardin.; Wir brauchen mehr Regen für den Garten.
 fr-ke-0496; regnerisch; pluvieux; ; A2; Karstens Empfehlung/Wörter; Le mois d'avril est souvent pluvieux.; Der April ist oft regnerisch.
-fr-ke-0497; Reichweite; la portée; ; C1; Karstens Empfehlung/Wörter; Les vidéos drôles augmentent vite la portée d'une chaîne.; Lustige Videos erhöhen schnell die Reichweite eines Kanals.
+fr-ke-0497; Reichweite (Fahrzeug); l'autonomie; ; C1; Karstens Empfehlung/Wörter; Par grand froid, l'autonomie de la voiture électrique diminue nettement.; Bei großer Kälte sinkt die Reichweite des Elektroautos deutlich.
 fr-ke-0498; lieber; plutôt; ; B1; Karstens Empfehlung/Wörter; Je préfère plutôt rester à la maison ce soir.; Ich bleibe heute Abend lieber zu Hause.
 fr-ke-0499; fertig, bereit; prêt; ; A1; Karstens Empfehlung/Wörter; Le dîner est prêt, venez à table !; Das Abendessen ist fertig, kommt zu Tisch!
 fr-ke-0500; wirklich; réel; vrai, véritable; A2; Karstens Empfehlung/Wörter; Ce film raconte une histoire réelle.; Dieser Film erzählt eine wirkliche Geschichte.
@@ -525,7 +525,7 @@ fr-ke-0526; grob, rau, uneben; rugueux; grossier, rude, inégal; B1; Karstens Em
 fr-ke-0527; rund, rundlich; rond; arrondi; A2; Karstens Empfehlung/Wörter; Nous mangeons autour d'une grande table ronde.; Wir essen an einem großen runden Tisch.
 fr-ke-0528; unhöflich; impoli; grossier; B1; Karstens Empfehlung/Wörter; C'est impoli d'interrompre les autres.; Es ist unhöflich, andere Menschen zu unterbrechen.
 fr-ke-0529; sicher; sûr; en sécurité; A2; Karstens Empfehlung/Wörter; Garde ton passeport dans un endroit sûr.; Bewahre deinen Reisepass an einem sicheren Ort auf.
-fr-ke-0530; gleich; même; pareil; A2; Karstens Empfehlung/Wörter; Nous avons le même sac à dos.; Wir haben den gleichen Rucksack.
+fr-ke-0530; gleich (derselbe); même; pareil; A2; Karstens Empfehlung/Wörter; Nous avons le même sac à dos.; Wir haben den gleichen Rucksack.
 fr-ke-0531; Samstag; le samedi; samedi; A1; Karstens Empfehlung/Wörter; Samedi, nous allons au marché.; Am Samstag gehen wir auf den Markt.
 fr-ke-0532; Schauplatz, Szene; la scène; ; B1; Karstens Empfehlung/Wörter; La dernière scène du film est très émouvante.; Die letzte Szene des Films ist sehr bewegend.
 fr-ke-0533; Schule; l'école; ; A1; Karstens Empfehlung/Wörter; Notre école est près du grand parc.; Unsere Schule ist in der Nähe des großen Parks.
@@ -562,7 +562,7 @@ fr-ke-0563; Situation; la situation; ; B1; Karstens Empfehlung/Wörter; La situa
 fr-ke-0564; Größe; la taille; la grandeur, la pointure; A2; Karstens Empfehlung/Wörter; Vous avez cette chemise en taille M ?; Haben Sie dieses Hemd in Größe M?
 fr-ke-0565; Fähigkeit, Können; la compétence; l'habileté, le savoir-faire; A2; Karstens Empfehlung/Wörter; Savoir cuisiner est une compétence utile pour tout le monde.; Kochen ist eine nützliche Fähigkeit für jeden.
 fr-ke-0566; Haut; la peau; ; A2; Karstens Empfehlung/Wörter; En hiver, la peau sèche a besoin d'une bonne crème.; Trockene Haut braucht im Winter eine gute Creme.
-fr-ke-0567; langsam; lent; ; A1; Karstens Empfehlung/Wörter; Le vieux bus est très lent aujourd'hui.; Der alte Bus ist heute sehr langsam.
+fr-ke-0567; langsam; lent; lentement; A1; Karstens Empfehlung/Wörter; Le vieux bus est très lent aujourd'hui.; Der alte Bus ist heute sehr langsam.
 fr-ke-0568; klein; petit; ; A1; Karstens Empfehlung/Wörter; Notre appartement est petit, mais très joli.; Unsere Wohnung ist klein, aber sehr schön.
 fr-ke-0569; klug; intelligent; malin; A2; Karstens Empfehlung/Wörter; Notre chien est très intelligent et apprend vite.; Unser Hund ist sehr klug und lernt schnell.
 fr-ke-0570; Lächeln; le sourire; ; A2; Karstens Empfehlung/Wörter; Ton sourire me rend toujours heureux.; Dein Lächeln macht mich immer glücklich.
@@ -578,7 +578,7 @@ fr-ke-0579; Lied; la chanson; ; A2; Karstens Empfehlung/Wörter; Cette chanson m
 fr-ke-0580; bald; bientôt; ; A2; Karstens Empfehlung/Wörter; Les vacances commencent bientôt, je suis impatient.; Die Ferien beginnen bald, ich bin ungeduldig.
 fr-ke-0581; Geräusch, Klang; le son; le bruit; A2; Karstens Empfehlung/Wörter; J'aime le son de la pluie sur le toit.; Ich mag das Geräusch des Regens auf dem Dach.
 fr-ke-0582; Suppe; la soupe; ; A1; Karstens Empfehlung/Wörter; En hiver, mamie fait une soupe chaude.; Oma macht im Winter eine warme Suppe.
-fr-ke-0583; sauer; acide; aigre; B1; Karstens Empfehlung/Wörter; La sauce au citron est agréablement acide.; Die Zitronensoße ist angenehm sauer.
+fr-ke-0583; sauer (Geschmack); acide; aigre; B1; Karstens Empfehlung/Wörter; La sauce au citron est agréablement acide.; Die Zitronensoße ist angenehm sauer.
 fr-ke-0584; Quelle, Ursprung; la source; l'origine; B2; Karstens Empfehlung/Wörter; Un bon journaliste vérifie toujours soigneusement ses sources.; Ein guter Journalist prüft seine Quellen immer sorgfältig.
 fr-ke-0585; Süden; le sud; ; A2; Karstens Empfehlung/Wörter; En été, nous partons dans le sud de la France.; Im Sommer fahren wir in den Süden Frankreichs.
 fr-ke-0586; südlich; du sud; méridional; B1; Karstens Empfehlung/Wörter; Le vent du sud apporte de l'air chaud.; Der südliche Wind bringt warme Luft.
@@ -601,12 +601,12 @@ fr-ke-0602; Stiefschwester; la demi-sœur; ; B1; Karstens Empfehlung/Wörter; Ma
 fr-ke-0603; still; calme; silencieux, tranquille, immobile; A2; Karstens Empfehlung/Wörter; Le soir, le village est très calme.; Abends ist das Dorf sehr still.
 fr-ke-0604; Vorrat; le stock; la réserve, les provisions; B2; Karstens Empfehlung/Wörter; Le magasin a un grand stock de cahiers.; Der Laden hat einen großen Vorrat an Heften.
 fr-ke-0605; Geschäft, Laden; le magasin; la boutique; A1; Karstens Empfehlung/Wörter; Le magasin ouvre à neuf heures du matin.; Das Geschäft öffnet morgens um neun.
-fr-ke-0606; Sturm; la tempête; l'orage; A2; Karstens Empfehlung/Wörter; La tempête a cassé beaucoup de vieux arbres.; Der Sturm brach viele alte Bäume.
+fr-ke-0606; Sturm; la tempête; ; A2; Karstens Empfehlung/Wörter; La tempête a cassé beaucoup de vieux arbres.; Der Sturm brach viele alte Bäume.
 fr-ke-0607; stürmisch; orageux; ; B1; Karstens Empfehlung/Wörter; La nuit a été orageuse et très bruyante.; Die Nacht war stürmisch und sehr laut.
 fr-ke-0608; Geschichte, Erzählung; l'histoire; le récit; A1; Karstens Empfehlung/Wörter; Je trouve l'histoire allemande très intéressante.; Ich finde die deutsche Geschichte sehr interessant.
-fr-ke-0609; gerade; droit; tout droit; A2; Karstens Empfehlung/Wörter; Trace une ligne droite avec ta règle.; Zieh mit deinem Lineal eine gerade Linie.
+fr-ke-0609; gerade (nicht krumm); droit; ; A2; Karstens Empfehlung/Wörter; Trace une ligne droite avec ta règle.; Zieh mit deinem Lineal eine gerade Linie.
 fr-ke-0610; Bach; le ruisseau; ; B1; Karstens Empfehlung/Wörter; Un ruisseau clair coule derrière la maison.; Hinter dem Haus fließt ein klarer Bach.
-fr-ke-0611; Straße; la rue; ; A1; Karstens Empfehlung/Wörter; Notre rue est calme la nuit.; Unsere Straße ist nachts ruhig.
+fr-ke-0611; Straße; la rue; la route; A1; Karstens Empfehlung/Wörter; Notre rue est calme la nuit.; Unsere Straße ist nachts ruhig.
 fr-ke-0612; stark, kräftig, stabil; fort; puissant, solide; A1; Karstens Empfehlung/Wörter; Dans les moments difficiles, il faut être fort.; In schweren Zeiten muss man stark sein.
 fr-ke-0613; Struktur, Gliederung, Gebäude; la structure; l'organisation, la construction; B2; Karstens Empfehlung/Wörter; La structure de ce pont est très solide.; Die Struktur dieser Brücke ist sehr stabil.
 fr-ke-0614; Student, Schüler; l'étudiant; l'étudiante, l'élève; A1; Karstens Empfehlung/Wörter; L'étudiant apprend l'anglais à l'université.; Der Student lernt Englisch an der Universität.
@@ -637,14 +637,14 @@ fr-ke-0638; Lehrer; le professeur; la professeure, l'enseignant, l'enseignante, 
 fr-ke-0639; zart, weich; tendre; doux; B2; Karstens Empfehlung/Wörter; La viande était si tendre qu'elle fondait dans la bouche.; Das Fleisch war so zart dass es zerging.
 fr-ke-0640; Begriff, Semester; le terme; le trimestre, le semestre; B2; Karstens Empfehlung/Wörter; Je ne connais pas ce terme scientifique.; Ich kenne diesen wissenschaftlichen Begriff nicht.
 fr-ke-0641; furchtbar, schrecklich; terrible; affreux, horrible; A2; Karstens Empfehlung/Wörter; Le temps était terrible pendant nos vacances.; Das Wetter war schrecklich während unseres Urlaubs.
-fr-ke-0642; als; que; ; A2; Karstens Empfehlung/Wörter; Mon frère est plus grand que moi.; Mein Bruder ist größer als ich.
+fr-ke-0642; als (Vergleich); que; ; A2; Karstens Empfehlung/Wörter; Mon frère est plus grand que moi.; Mein Bruder ist größer als ich.
 fr-ke-0643; dass; que; ; A2; Karstens Empfehlung/Wörter; Je pense que tu as raison.; Ich denke, dass du recht hast.
 fr-ke-0644; dann, danach, damals; ensuite; puis, alors, à l'époque; A1; Karstens Empfehlung/Wörter; Nous mangeons, ensuite nous allons au cinéma.; Wir essen, danach gehen wir ins Kino.
 fr-ke-0645; Theorie; la théorie; ; B1; Karstens Empfehlung/Wörter; Une bonne théorie peut être vérifiée par des expériences.; Eine gute Theorie lässt sich durch Experimente prüfen.
 fr-ke-0646; da, dort; là; là-bas; A1; Karstens Empfehlung/Wörter; Pose ton sac là, près de la porte.; Stell deine Tasche dort ab, neben der Tür.
 fr-ke-0647; daher, deshalb; donc; par conséquent, c'est pourquoi; B2; Karstens Empfehlung/Wörter; Il pleut, donc nous restons à la maison.; Es regnet, deshalb bleiben wir zu Hause.
 fr-ke-0648; diese (Plural); ces; ceux-ci, celles-ci; A1; Karstens Empfehlung/Wörter; Ces fleurs sentent très bon.; Diese Blumen riechen sehr gut.
-fr-ke-0649; dick; épais; gros; A2; Karstens Empfehlung/Wörter; Ce livre est très épais, il a mille pages.; Dieses Buch ist sehr dick, es hat tausend Seiten.
+fr-ke-0649; dick (Gegenstand); épais; gros; A2; Karstens Empfehlung/Wörter; Ce livre est très épais, il a mille pages.; Dieses Buch ist sehr dick, es hat tausend Seiten.
 fr-ke-0650; dünn; mince; fin; A2; Karstens Empfehlung/Wörter; Le chat est très mince depuis qu'il est malade.; Die Katze ist sehr dünn, seit sie krank ist.
 fr-ke-0651; Ding, Sache; la chose; le truc; A1; Karstens Empfehlung/Wörter; J'ai une chose importante à te dire.; Ich habe dir eine wichtige Sache zu sagen.
 fr-ke-0652; dieser, diese, dieses; ce; cet, cette; A1; Karstens Empfehlung/Wörter; Ce vélo appartient à ma cousine.; Dieses Fahrrad gehört meiner Cousine.
@@ -691,7 +691,7 @@ fr-ke-0692; etwas kaufen; acheter; ; A1; Karstens Empfehlung/Verben; Nous acheto
 fr-ke-0693; rufen; appeler; ; A2; Karstens Empfehlung/Verben; Maman appelle les enfants pour le dîner.; Mama ruft die Kinder zum Abendessen.
 fr-ke-0694; jemanden anrufen; appeler quelqu'un; téléphoner, téléphoner à quelqu'un, appeler; A2; Karstens Empfehlung/Verben; Je vais appeler ma grand-mère ce soir.; Ich rufe heute Abend meine Großmutter an.
 fr-ke-0695; sich kümmern um; s'occuper de; prendre soin de; B1; Karstens Empfehlung/Verben; Qui s'occupe du chien pendant tes vacances ?; Wer kümmert sich während deines Urlaubs um den Hund?
-fr-ke-0696; tragen; porter; ; A2; Karstens Empfehlung/Verben; Elle porte une robe rouge à la fête.; Sie trägt ein rotes Kleid auf der Party.
+fr-ke-0696; tragen (Last); porter; ; A2; Karstens Empfehlung/Verben; Tu peux m'aider à porter ce carton ?; Kannst du mir helfen, diesen Karton zu tragen?
 fr-ke-0697; fangen; attraper; ; A2; Karstens Empfehlung/Verben; Le chien adore attraper la balle.; Der Hund liebt es, den Ball zu fangen.
 fr-ke-0698; verursachen; causer; provoquer; B1; Karstens Empfehlung/Verben; La forte pluie a causé de graves problèmes sur les routes.; Der starke Regen verursachte ernste Probleme auf den Straßen.
 fr-ke-0699; ändern; changer; modifier; A2; Karstens Empfehlung/Verben; Je dois changer de chaussures avant le sport.; Ich muss vor dem Sport die Schuhe wechseln.
@@ -737,7 +737,7 @@ fr-ke-0738; kämpfen; se battre; combattre, lutter; B1; Karstens Empfehlung/Verb
 fr-ke-0739; füllen; remplir; ; A2; Karstens Empfehlung/Verben; Peux-tu remplir la bouteille d'eau, s'il te plaît ?; Kannst du bitte die Wasserflasche füllen?
 fr-ke-0740; finden; trouver; ; A1; Karstens Empfehlung/Verben; Je ne trouve pas mon portable dans la maison.; Ich kann mein Handy im Haus nicht finden.
 fr-ke-0741; beenden, fertigstellen; finir; terminer, achever; A2; Karstens Empfehlung/Verben; Je dois finir mes devoirs avant le dîner.; Ich muss meine Hausaufgaben vor dem Abendessen beenden.
-fr-ke-0742; fliegen; voler; ; A1; Karstens Empfehlung/Verben; Nous prenons l'avion pour Londres vendredi matin.; Wir fliegen am Freitagmorgen nach London.
+fr-ke-0742; fliegen; voler; prendre l'avion, aller en avion; A1; Karstens Empfehlung/Verben; Nous prenons l'avion pour Londres vendredi matin.; Wir fliegen am Freitagmorgen nach London.
 fr-ke-0743; folgen; suivre; ; A2; Karstens Empfehlung/Verben; Suivez cette rue jusqu'à l'église.; Folgen Sie dieser Straße bis zur Kirche.
 fr-ke-0744; vergessen; oublier; ; A1; Karstens Empfehlung/Verben; N'oublie pas tes clés à la maison !; Vergiss deine Schlüssel nicht zu Hause!
 fr-ke-0745; formen, bilden; former; ; B1; Karstens Empfehlung/Verben; Les élèves forment un cercle dans la cour.; Die Schüler bilden einen Kreis auf dem Hof.
@@ -749,7 +749,7 @@ fr-ke-0750; geben; donner; ; A1; Karstens Empfehlung/Verben; Donne-moi le livre 
 fr-ke-0751; gehen, fahren; aller; ; A1; Karstens Empfehlung/Verben; Nous allons à l'école tous les matins.; Wir gehen jeden Morgen zur Schule.
 fr-ke-0752; spazieren gehen; se promener; faire une promenade; A2; Karstens Empfehlung/Verben; Le dimanche, nous nous promenons dans la forêt.; Sonntags gehen wir im Wald spazieren.
 fr-ke-0753; wachsen; grandir; pousser, croître; A2; Karstens Empfehlung/Verben; Les tournesols grandissent très vite en été.; Die Sonnenblumen wachsen im Sommer sehr schnell.
-fr-ke-0754; raten; deviner; ; A2; Karstens Empfehlung/Verben; Tu peux deviner quel âge a ma grand-mère ?; Kannst du raten, wie alt meine Großmutter ist?
+fr-ke-0754; raten (schätzen); deviner; ; A2; Karstens Empfehlung/Verben; Tu peux deviner quel âge a ma grand-mère ?; Kannst du raten, wie alt meine Großmutter ist?
 fr-ke-0755; passieren, geschehen; se passer; arriver, se produire; A2; Karstens Empfehlung/Verben; Qu'est-ce qui se passe dans la cour ?; Was passiert auf dem Hof?
 fr-ke-0756; etwas haben; avoir; ; A1; Karstens Empfehlung/Verben; Nous avons deux chats et un chien.; Wir haben zwei Katzen und einen Hund.
 fr-ke-0757; etwas tun müssen; devoir faire quelque chose; devoir; A2; Karstens Empfehlung/Verben; Je dois faire mon lit avant le petit-déjeuner.; Ich muss vor dem Frühstück mein Bett machen.
@@ -758,7 +758,7 @@ fr-ke-0759; helfen; aider; ; A1; Karstens Empfehlung/Verben; Tu peux m'aider à 
 fr-ke-0760; jemandem aushelfen, einspringen; dépanner quelqu'un; dépanner, donner un coup de main; B1; Karstens Empfehlung/Verben; Tu peux me dépanner avec un crayon ?; Kannst du mir mit einem Bleistift aushelfen?
 fr-ke-0761; jemandem mit etwas helfen; aider quelqu'un à faire quelque chose; aider quelqu'un; A2; Karstens Empfehlung/Verben; J'aide mon frère à faire ses devoirs.; Ich helfe meinem Bruder bei seinen Hausaufgaben.
 fr-ke-0762; schlagen, treffen; frapper; toucher; B1; Karstens Empfehlung/Verben; Il frappe le ballon de toutes ses forces.; Er schlägt mit aller Kraft gegen den Ball.
-fr-ke-0763; halten; tenir; ; A2; Karstens Empfehlung/Verben; Tiens bien la main de ta petite sœur.; Halt die Hand deiner kleinen Schwester gut fest.
+fr-ke-0763; halten (festhalten); tenir; ; A2; Karstens Empfehlung/Verben; Tiens bien la main de ta petite sœur.; Halt die Hand deiner kleinen Schwester gut fest.
 fr-ke-0764; hoffen; espérer; ; A1; Karstens Empfehlung/Verben; J'espère qu'il fera beau demain.; Ich hoffe, das Wetter ist morgen schön.
 fr-ke-0765; sich vorstellen; imaginer; s'imaginer; B1; Karstens Empfehlung/Verben; Imagine une maison au milieu de la forêt.; Stell dir ein Haus mitten im Wald vor.
 fr-ke-0766; verbessern; améliorer; ; A2; Karstens Empfehlung/Verben; Je voudrais améliorer mon anglais cette année.; Ich möchte dieses Jahr mein Englisch verbessern.
@@ -829,7 +829,7 @@ fr-ke-0830; verringern, reduzieren; réduire; diminuer; B1; Karstens Empfehlung/
 fr-ke-0831; nachdenken, überlegen; réfléchir; ; B2; Karstens Empfehlung/Verben; Réfléchis bien avant de répondre à la question.; Denk gut nach, bevor du die Frage beantwortest.
 fr-ke-0832; in Zusammenhang bringen; relier; mettre en relation; C1; Karstens Empfehlung/Verben; Relie chaque mot à la bonne image.; Bring jedes Wort mit dem richtigen Bild in Zusammenhang.
 fr-ke-0833; übrigbleiben, verbleiben; rester; demeurer; B2; Karstens Empfehlung/Verben; Il reste encore un morceau de gâteau.; Es bleibt noch ein Stück Kuchen übrig.
-fr-ke-0834; erinnern; se souvenir; se rappeler; A2; Karstens Empfehlung/Verben; Je n'arrive pas à me souvenir de son numéro de téléphone.; Ich kann mich nicht an seine Telefonnummer erinnern.
+fr-ke-0834; sich erinnern; se souvenir; se rappeler; A2; Karstens Empfehlung/Verben; Je n'arrive pas à me souvenir de son numéro de téléphone.; Ich kann mich nicht an seine Telefonnummer erinnern.
 fr-ke-0835; entfernen; enlever; retirer, supprimer; B1; Karstens Empfehlung/Verben; Enlève tes bottes avant d'entrer dans la maison.; Entferne deine Stiefel, bevor du ins Haus gehst.
 fr-ke-0836; berichten; signaler; rapporter; B1; Karstens Empfehlung/Verben; Il faut signaler l'accident à la police.; Man muss den Unfall der Polizei berichten.
 fr-ke-0837; benötigen; nécessiter; exiger, avoir besoin de; B2; Karstens Empfehlung/Verben; Cette plante nécessite beaucoup de lumière.; Diese Pflanze benötigt viel Licht.
@@ -945,7 +945,7 @@ fr-ke-0946; Opfer; la victime; ; B1; Karstens Empfehlung/Wörter; La victime a r
 fr-ke-0947; Aussicht, Blick, Standpunkt; la vue; le point de vue, le regard; B1; Karstens Empfehlung/Wörter; La vue depuis la terrasse est tout simplement fantastique.; Die Aussicht von der Terrasse ist einfach fantastisch.
 fr-ke-0948; Dorf, Ort; le village; ; A1; Karstens Empfehlung/Wörter; Mes grands-parents habitent dans un village tranquille.; Meine Großeltern wohnen in einem ruhigen Dorf.
 fr-ke-0949; Gewalt; la violence; ; B1; Karstens Empfehlung/Wörter; La violence est interdite dans la cour de récréation.; Gewalt ist auf dem Pausenhof verboten.
-fr-ke-0950; Stimme; la voix; ; A2; Karstens Empfehlung/Wörter; Dans une élection serrée, chaque voix compte.; Jede Stimme zählt bei einer knappen Wahl.
+fr-ke-0950; Stimme (beim Sprechen); la voix; ; A2; Karstens Empfehlung/Wörter; Elle a une voix très douce au téléphone.; Sie hat am Telefon eine sehr sanfte Stimme.
 fr-ke-0951; Wand, Mauer; le mur; la muraille; A2; Karstens Empfehlung/Wörter; Nous avons peint le mur en bleu clair.; Wir haben die Wand hellblau gestrichen.
 fr-ke-0952; Krieg; la guerre; ; A2; Karstens Empfehlung/Wörter; La guerre a duré presque trente ans.; Der Krieg dauerte fast dreißig Jahre.
 fr-ke-0953; warm; chaud; tiède; A1; Karstens Empfehlung/Wörter; Prends une veste chaude, il y a du vent.; Nimm eine warme Jacke, es ist windig.
@@ -965,7 +965,7 @@ fr-ke-0966; wann; quand; ; A1; Karstens Empfehlung/Wörter; Quand est-ce que tu 
 fr-ke-0967; wo; où; ; A1; Karstens Empfehlung/Wörter; Où est-ce que tu as mis mes clés ?; Wo hast du meine Schlüssel hingelegt?
 fr-ke-0968; ob; si; ; B1; Karstens Empfehlung/Wörter; Je ne sais pas si elle vient ce soir.; Ich weiß nicht, ob sie heute Abend kommt.
 fr-ke-0969; welcher, welche, welches; quel; quelle, lequel, laquelle; A1; Karstens Empfehlung/Wörter; Quel livre est-ce que tu lis en ce moment ?; Welches Buch liest du gerade?
-fr-ke-0970; während; pendant que; tandis que; A2; Karstens Empfehlung/Wörter; Je lis un livre pendant que tu fais la cuisine.; Ich lese ein Buch, während du kochst.
+fr-ke-0970; während; pendant que; tandis que, pendant; A2; Karstens Empfehlung/Wörter; Je lis un livre pendant que tu fais la cuisine.; Ich lese ein Buch, während du kochst.
 fr-ke-0971; weiß; blanc; ; A1; Karstens Empfehlung/Wörter; La neige est blanche et toute fraîche.; Der Schnee ist weiß und ganz frisch.
 fr-ke-0972; wer; qui; ; A1; Karstens Empfehlung/Wörter; Qui veut une part de gâteau ?; Wer möchte ein Stück Kuchen?
 fr-ke-0974; wessen; à qui; dont; B1; Karstens Empfehlung/Wörter; À qui est ce parapluie rouge ?; Wessen roter Regenschirm ist das?
@@ -982,7 +982,7 @@ fr-ke-0984; ohne; sans; ; A2; Karstens Empfehlung/Wörter; Je bois mon thé sans
 fr-ke-0985; Frau; la femme; ; A1; Karstens Empfehlung/Wörter; La femme achète des fleurs au marché.; Die Frau kauft Blumen auf dem Markt.
 fr-ke-0986; wunderbar; merveilleux; magnifique; A2; Karstens Empfehlung/Wörter; Nous avons passé une journée merveilleuse à la plage.; Wir haben einen wunderbaren Tag am Strand verbracht.
 fr-ke-0987; Wort; le mot; ; A1; Karstens Empfehlung/Wörter; Que veut dire ce mot anglais ?; Was bedeutet dieses englische Wort?
-fr-ke-0988; Arbeit; le travail; ; A1; Karstens Empfehlung/Wörter; Ma mère va au travail en train.; Meine Mutter fährt mit dem Zug zur Arbeit.
+fr-ke-0988; Arbeit; le travail; le boulot; A1; Karstens Empfehlung/Wörter; Ma mère va au travail en train.; Meine Mutter fährt mit dem Zug zur Arbeit.
 fr-ke-0989; Arbeiter; l'ouvrier; l'ouvrière, le travailleur, la travailleuse; B1; Karstens Empfehlung/Wörter; L'ouvrier répare le toit de l'école.; Der Arbeiter repariert das Dach der Schule.
 fr-ke-0990; Welt; le monde; ; A1; Karstens Empfehlung/Wörter; Je voudrais faire le tour du monde en bateau.; Ich würde gern mit dem Schiff um die Welt fahren.
 fr-ke-0991; falsch; faux; incorrect; A1; Karstens Empfehlung/Wörter; Cette réponse est fausse, essaie encore une fois, s'il te plaît.; Diese Antwort ist falsch, bitte versuch es nochmal.

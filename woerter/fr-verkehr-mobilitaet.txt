@@ -18,10 +18,10 @@ fr-vm-0015; Taxi; le taxi; ; A1; Reisen/Verkehr/Auto; Hier soir, nous avons pris
 fr-vm-0016; U-Bahn; le métro; ; A1; Reisen/Verkehr/Bus & Bahn; Ici, le métro passe toutes les cinq minutes.; Die U-Bahn fährt hier alle fünf Minuten.
 fr-vm-0017; Weg; le chemin; la route; A1; Reisen/Verkehr/Wegbeschreibung; Pouvez-vous m'indiquer le chemin du port ?; Können Sie mir den Weg zum Hafen zeigen?
 fr-vm-0018; Brücke; le pont; ; A1; Reisen/Verkehr/Straße & Regeln; Le vieux pont traverse le large fleuve.; Die alte Brücke führt über den breiten Fluss.
-fr-vm-0019; Karte; la carte; ; A1; Reisen/Verkehr/Wegbeschreibung; Nous avons regardé la carte avant le trajet.; Wir haben uns vor der Fahrt die Karte angesehen.
+fr-vm-0019; Karte (Landkarte); la carte; ; A1; Reisen/Verkehr/Wegbeschreibung; Nous avons regardé la carte avant le trajet.; Wir haben uns vor der Fahrt die Karte angesehen.
 fr-vm-0020; schnell; rapide; vite; A1; Reisen/Verkehr/Straße & Regeln; Ce nouveau train est très rapide et confortable.; Dieser neue Zug ist sehr schnell und bequem.
 fr-vm-0021; langsam; lent; lentement; A1; Reisen/Verkehr/Straße & Regeln; Aujourd'hui, la circulation est très lente au centre-ville.; Der Verkehr in der Innenstadt ist heute sehr langsam.
-fr-vm-0022; halten; s'arrêter; arrêter; A1; Reisen/Verkehr/Bus & Bahn; Le bus s'arrête juste devant le musée.; Der Bus hält direkt am Museum.
+fr-vm-0022; halten (anhalten); s'arrêter; arrêter; A1; Reisen/Verkehr/Bus & Bahn; Le bus s'arrête juste devant le musée.; Der Bus hält direkt am Museum.
 fr-vm-0023; Stadtplan; le plan de la ville; le plan; A1; Reisen/Verkehr/Wegbeschreibung; Le plan de la ville montre toutes les lignes de bus.; Der Stadtplan zeigt alle Buslinien.
 fr-vm-0024; Fahrer; le conducteur; la conductrice, le chauffeur; A1; Reisen/Verkehr/Auto; Le conducteur nous attendait à l'hôtel.; Der Fahrer hat am Hotel auf uns gewartet.
 fr-vm-0025; Parkplatz; le parking; la place de parking, la place; A1; Reisen/Verkehr/Auto; Le parking derrière le magasin est gratuit.; Der Parkplatz hinter dem Geschäft ist kostenlos.
@@ -42,7 +42,7 @@ fr-vm-0039; umsteigen; changer; changer de train, prendre une correspondance; A2
 fr-vm-0040; einsteigen; monter; embarquer; A2; Reisen/Verkehr/Bus & Bahn; Montez vite, s'il vous plaît, les portes se ferment.; Bitte steigen Sie schnell ein, die Türen schließen.
 fr-vm-0041; aussteigen; descendre; ; A2; Reisen/Verkehr/Bus & Bahn; Nous descendons à la prochaine station.; Wir steigen an der nächsten Station aus.
 fr-vm-0042; Helm; le casque; ; A2; Reisen/Verkehr/Fahrrad; Porte toujours un casque quand tu fais du vélo.; Trag immer einen Helm, wenn du Rad fährst.
-fr-vm-0043; Rad; la roue; ; A2; Reisen/Verkehr/Fahrrad; La roue avant de mon vélo est cassée.; Das Vorderrad meines Fahrrads ist kaputt.
+fr-vm-0043; Rad (am Fahrzeug); la roue; ; A2; Reisen/Verkehr/Fahrrad; La roue avant de mon vélo est cassée.; Das Vorderrad meines Fahrrads ist kaputt.
 fr-vm-0044; Reifen; le pneu; ; A2; Reisen/Verkehr/Auto; Le pneu gauche perd lentement de l'air.; Der linke Reifen verliert langsam Luft.
 fr-vm-0045; Bremse; le frein; ; A2; Reisen/Verkehr/Fahrrad; Vérifie les freins avant chaque longue sortie.; Prüfe die Bremsen vor jeder langen Tour.
 fr-vm-0046; bremsen; freiner; ; A2; Reisen/Verkehr/Auto; Il a dû freiner brusquement à cause d'un chat.; Er musste wegen einer Katze plötzlich bremsen.
@@ -76,7 +76,7 @@ fr-vm-0073; Sicherheitsgurt; la ceinture de sécurité; la ceinture; B1; Reisen/
 fr-vm-0074; sich anschnallen; attacher sa ceinture; boucler sa ceinture, s'attacher; B1; Reisen/Verkehr/Auto; Attache ta ceinture avant qu'on démarre, s'il te plaît.; Bitte schnall dich an, bevor wir losfahren.
 fr-vm-0075; Umleitung; la déviation; ; B1; Reisen/Verkehr/Straße & Regeln; La déviation rallonge le trajet de dix minutes.; Die Umleitung verlängert die Fahrt um zehn Minuten.
 fr-vm-0076; Baustelle; les travaux; le chantier; B1; Reisen/Verkehr/Straße & Regeln; Les travaux sur la route principale provoquent de longs ralentissements.; Die Baustelle auf der Hauptstraße verursacht lange Verzögerungen.
-fr-vm-0077; Spur; la file; la voie; B1; Reisen/Verkehr/Straße & Regeln; Restez sur la file de droite jusqu'à la sortie.; Bleiben Sie bis zur Ausfahrt auf der rechten Spur.
+fr-vm-0077; Spur (Fahrbahn); la file; la voie; B1; Reisen/Verkehr/Straße & Regeln; Restez sur la file de droite jusqu'à la sortie.; Bleiben Sie bis zur Ausfahrt auf der rechten Spur.
 fr-vm-0078; Navigationssystem; le GPS; le système de navigation, le navigateur; B1; Reisen/Verkehr/Wegbeschreibung; Le GPS a trouvé un itinéraire plus rapide.; Das Navigationssystem hat eine schnellere Route gefunden.
 fr-vm-0079; Ladestation; la borne de recharge; la station de recharge; B1; Reisen/Verkehr/Tanken & Laden; Il y a une borne de recharge au supermarché.; Am Supermarkt gibt es eine Ladestation.
 fr-vm-0080; Elektroauto; la voiture électrique; ; B1; Reisen/Verkehr/Tanken & Laden; En ville, notre voiture électrique est très silencieuse.; Unser Elektroauto ist in der Stadt sehr leise.
@@ -119,7 +119,7 @@ fr-vm-0116; Fahrkartenautomat; la billetterie automatique; le distributeur de bi
 fr-vm-0117; Verkehrsmittel; le moyen de transport; ; B2; Reisen/Verkehr/Bus & Bahn; Le vélo est mon moyen de transport préféré.; Das Fahrrad ist mein liebstes Verkehrsmittel.
 fr-vm-0118; Probefahrt; l'essai; l'essai routier, l'essai sur route; B2; Reisen/Verkehr/Auto; Nous avons prévu un essai samedi matin.; Wir haben für Samstagvormittag eine Probefahrt vereinbart.
 fr-vm-0119; Gebrauchtwagen; la voiture d'occasion; l'occasion; B2; Reisen/Verkehr/Auto; Il a acheté une voiture d'occasion avec peu de kilomètres.; Er kaufte einen Gebrauchtwagen mit geringer Laufleistung.
-fr-vm-0120; Zulassung; l'immatriculation; la carte grise; B2; Reisen/Verkehr/Auto; L'immatriculation de la nouvelle voiture a pris deux semaines.; Die Zulassung des neuen Autos dauerte zwei Wochen.
+fr-vm-0120; Zulassung (Fahrzeug); l'immatriculation; la carte grise; B2; Reisen/Verkehr/Auto; L'immatriculation de la nouvelle voiture a pris deux semaines.; Die Zulassung des neuen Autos dauerte zwei Wochen.
 fr-vm-0121; Verkehrskontrolle; le contrôle routier; ; B2; Reisen/Verkehr/Straße & Regeln; La police a effectué un contrôle routier pendant la nuit.; Die Polizei führte nachts eine Verkehrskontrolle durch.
 fr-vm-0122; Alkoholtest; l'alcootest; le test d'alcoolémie, l'éthylotest; B2; Reisen/Verkehr/Straße & Regeln; Le conducteur a dû se soumettre à un alcootest.; Der Fahrer musste einen Alkoholtest machen.
 fr-vm-0123; Reifenwechsel; le changement de pneus; ; B2; Reisen/Verkehr/Auto; Prends rendez-vous pour le changement de pneus avant l'arrivée de l'hiver.; Vereinbare den Reifenwechsel, bevor der Winter kommt.
@@ -127,7 +127,7 @@ fr-vm-0124; Fahrprüfung; l'examen du permis de conduire; l'examen de conduite, 
 fr-vm-0125; Standstreifen; la bande d'arrêt d'urgence; la BAU; B2; Reisen/Verkehr/Straße & Regeln; Ne t'arrête sur la bande d'arrêt d'urgence qu'en cas d'urgence.; Halte auf dem Standstreifen nur im Notfall.
 fr-vm-0126; Verkehrswende; la transition des transports; la transition de la mobilité; C1; Reisen/Verkehr/Straße & Regeln; La transition des transports exige de meilleurs transports en commun.; Die Verkehrswende erfordert einen besseren öffentlichen Nahverkehr.
 fr-vm-0127; Elektromobilität; la mobilité électrique; l'électromobilité; C1; Reisen/Verkehr/Tanken & Laden; La mobilité électrique dépend d'un réseau de recharge dense.; Die Elektromobilität hängt von einem dichten Ladenetz ab.
-fr-vm-0128; Reichweite; l'autonomie; ; C1; Reisen/Verkehr/Tanken & Laden; L'autonomie baisse nettement par temps froid.; Die Reichweite sinkt bei kaltem Wetter deutlich.
+fr-vm-0128; Reichweite (Fahrzeug); l'autonomie; ; C1; Reisen/Verkehr/Tanken & Laden; L'autonomie baisse nettement par temps froid.; Die Reichweite sinkt bei kaltem Wetter deutlich.
 fr-vm-0129; Emissionen; les émissions; ; C1; Reisen/Verkehr/Straße & Regeln; La ville veut réduire de moitié les émissions dues à la circulation.; Die Stadt will die Emissionen des Verkehrs halbieren.
 fr-vm-0130; Feinstaub; les particules fines; ; C1; Reisen/Verkehr/Straße & Regeln; Les taux de particules fines ont de nouveau dépassé la valeur limite.; Die Feinstaubwerte überschritten erneut den Grenzwert.
 fr-vm-0131; Umweltzone; la zone à faibles émissions; la ZFE; C1; Reisen/Verkehr/Straße & Regeln; Les vieilles voitures diesel ne peuvent pas entrer dans la zone à faibles émissions.; Ältere Dieselautos dürfen nicht in die Umweltzone fahren.

@@ -7,7 +7,7 @@ fr-sf-0004; laufen; courir; ; A1; Freizeit/Sport/Training; Il court trois kilom�
 fr-sf-0005; spielen; jouer; ; A1; Freizeit/Sport/Sportarten; Les enfants jouent au tennis après l'école.; Die Kinder spielen nach der Schule Tennis.
 fr-sf-0006; Tennis; le tennis; ; A1; Freizeit/Sport/Sportarten; Le dimanche, elle joue au tennis avec son frère.; Sie spielt sonntags mit ihrem Bruder Tennis.
 fr-sf-0007; Spiel; le match; le jeu, la partie; A1; Freizeit/Sport/Wettkampf; Le match commence aujourd'hui à trois heures.; Das Spiel beginnt heute um drei Uhr.
-fr-sf-0008; Tor; le but; ; A1; Freizeit/Sport/Wettkampf; Notre équipe a marqué un but à la dernière minute.; Unsere Mannschaft schoss in der letzten Minute ein Tor.
+fr-sf-0008; Tor (Sport); le but; ; A1; Freizeit/Sport/Wettkampf; Notre équipe a marqué un but à la dernière minute.; Unsere Mannschaft schoss in der letzten Minute ein Tor.
 fr-sf-0009; Mannschaft; l'équipe; ; A1; Freizeit/Sport/Verein; Notre équipe s'entraîne deux fois par semaine.; Unsere Mannschaft trainiert zweimal pro Woche.
 fr-sf-0010; gewinnen; gagner; remporter; A1; Freizeit/Sport/Wettkampf; Nous voulons gagner le prochain match.; Wir wollen das nächste Spiel gewinnen.
 fr-sf-0011; verlieren; perdre; ; A1; Freizeit/Sport/Wettkampf; Personne n'aime perdre un match important.; Niemand verliert gern ein wichtiges Spiel.
@@ -61,19 +61,19 @@ fr-sf-0058; Badeanzug; le maillot de bain; ; A2; Freizeit/Sport/Ausrüstung; N'o
 fr-sf-0059; Helm; le casque; ; A2; Freizeit/Sport/Ausrüstung; Porte toujours un casque à vélo.; Trag auf dem Fahrrad immer einen Helm.
 fr-sf-0060; fit; en forme; ; A2; Freizeit/Sport/Fitnessstudio; Un entraînement régulier te garde en forme et fort.; Regelmäßiges Training hält dich fit und stark.
 fr-sf-0061; Ausdauer; l'endurance; ; B1; Freizeit/Sport/Training; Les longues courses développent l'endurance au fil des mois.; Lange Läufe bauen über Monate Ausdauer auf.
-fr-sf-0062; Kraft; la force; ; B1; Freizeit/Sport/Training; Pour grimper, il faut de la force et de la technique.; Zum Klettern braucht man Kraft und Technik.
+fr-sf-0062; Kraft (körperlich); la force; ; B1; Freizeit/Sport/Training; Pour grimper, il faut de la force et de la technique.; Zum Klettern braucht man Kraft und Technik.
 fr-sf-0063; Beweglichkeit; la souplesse; la mobilité, la flexibilité; B1; Freizeit/Sport/Training; Le yoga améliore la souplesse et le calme intérieur.; Yoga verbessert die Beweglichkeit und die innere Ruhe.
 fr-sf-0064; Geschwindigkeit; la vitesse; ; B1; Freizeit/Sport/Training; Sa vitesse sur les courtes distances est impressionnante.; Seine Geschwindigkeit auf kurzen Strecken ist beeindruckend.
 fr-sf-0065; Muskelkater; les courbatures; la courbature; B1; Freizeit/Sport/Training; Après le premier cours, j'avais des courbatures.; Nach der ersten Stunde hatte ich Muskelkater.
 fr-sf-0066; Hantel; l'haltère; ; B1; Freizeit/Sport/Fitnessstudio; Il soulève un lourd haltère avec chaque bras.; Er hebt mit jedem Arm eine schwere Hantel.
-fr-sf-0067; Laufband; le tapis de course; ; B1; Freizeit/Sport/Fitnessstudio; Quand il pleut, elle court sur le tapis de course.; Bei Regen läuft sie auf dem Laufband.
+fr-sf-0067; Laufband (Fitness); le tapis de course; ; B1; Freizeit/Sport/Fitnessstudio; Quand il pleut, elle court sur le tapis de course.; Bei Regen läuft sie auf dem Laufband.
 fr-sf-0068; Gewichte heben; soulever des poids; faire de la musculation; B1; Freizeit/Sport/Fitnessstudio; Il soulève des poids trois fois par semaine.; Er hebt dreimal pro Woche Gewichte.
 fr-sf-0069; Liegestütz; la pompe; ; B1; Freizeit/Sport/Fitnessstudio; Tu arrives à faire vingt pompes sans pause ?; Schaffst du zwanzig Liegestütze ohne Pause?
 fr-sf-0070; Klimmzug; la traction; ; B1; Freizeit/Sport/Fitnessstudio; Une traction propre est plus difficile qu'il n'y paraît.; Ein sauberer Klimmzug ist schwerer, als er aussieht.
 fr-sf-0071; Kniebeuge; le squat; la flexion des jambes; B1; Freizeit/Sport/Fitnessstudio; Fais chaque squat lentement et de façon contrôlée.; Mach jede Kniebeuge langsam und kontrolliert.
 fr-sf-0072; Runde; le tour; la longueur; B1; Freizeit/Sport/Training; Chaque matin, elle fait vingt tours de bassin.; Sie schwimmt jeden Morgen zwanzig Runden.
 fr-sf-0073; Halbzeit; la mi-temps; ; B1; Freizeit/Sport/Wettkampf; À la mi-temps, le score était encore de zéro à zéro.; Zur Halbzeit stand es noch null zu null.
-fr-sf-0074; Verlängerung; la prolongation; les prolongations; B1; Freizeit/Sport/Wettkampf; La finale s'est décidée en prolongation.; Das Finale wurde in der Verlängerung entschieden.
+fr-sf-0074; Verlängerung (Sport); la prolongation; les prolongations; B1; Freizeit/Sport/Wettkampf; La finale s'est décidée en prolongation.; Das Finale wurde in der Verlängerung entschieden.
 fr-sf-0075; Elfmeter; le penalty; le tir au but; B1; Freizeit/Sport/Wettkampf; Il a transformé le penalty avec facilité.; Er verwandelte den Elfmeter mit Leichtigkeit.
 fr-sf-0076; Abseits; le hors-jeu; ; B1; Freizeit/Sport/Wettkampf; Le but n'a pas compté à cause d'un hors-jeu.; Das Tor zählte wegen Abseits nicht.
 fr-sf-0077; Foul; la faute; ; B1; Freizeit/Sport/Wettkampf; L'arbitre a tout de suite vu la faute grossière.; Der Schiedsrichter sah das harte Foul sofort.
@@ -87,7 +87,7 @@ fr-sf-0084; Liga; la ligue; la division; B1; Freizeit/Sport/Wettkampf; L'équipe
 fr-sf-0085; Turnier; le tournoi; ; B1; Freizeit/Sport/Wettkampf; Le tournoi a lieu ici chaque été.; Das Turnier findet hier jeden Sommer statt.
 fr-sf-0086; Saison; la saison; ; B1; Freizeit/Sport/Wettkampf; La nouvelle saison commence fin août.; Die neue Saison beginnt Ende August.
 fr-sf-0087; Aufstieg; la montée; la promotion, l'accession; B1; Freizeit/Sport/Wettkampf; Cette année, les supporters rêvent de la montée.; Die Fans träumen dieses Jahr vom Aufstieg.
-fr-sf-0088; Abstieg; la relégation; la descente; B1; Freizeit/Sport/Wettkampf; La saison dernière, le club a évité de justesse la relégation.; Der Verein entging letzte Saison knapp dem Abstieg.
+fr-sf-0088; Abstieg (Sport); la relégation; la descente; B1; Freizeit/Sport/Wettkampf; La saison dernière, le club a évité de justesse la relégation.; Der Verein entging letzte Saison knapp dem Abstieg.
 fr-sf-0089; Rekord; le record; ; B1; Freizeit/Sport/Wettkampf; Elle a battu le record national de deux secondes.; Sie brach den nationalen Rekord um zwei Sekunden.
 fr-sf-0090; Weltmeister; le champion du monde; la championne du monde; B1; Freizeit/Sport/Wettkampf; Il est devenu champion du monde très jeune.; Er wurde in jungen Jahren Weltmeister.
 fr-sf-0091; Olympische Spiele; les Jeux olympiques; les JO; B1; Freizeit/Sport/Wettkampf; Les Jeux olympiques ont lieu tous les quatre ans.; Die Olympischen Spiele finden alle vier Jahre statt.

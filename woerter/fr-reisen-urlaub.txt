@@ -6,7 +6,7 @@ fr-ru-0003; Urlaub; les vacances; le congé; A1; Reisen/Urlaub/Planung & Buchung
 fr-ru-0004; Hotel; l'hôtel; ; A1; Reisen/Urlaub/Unterkunft; L'hôtel est juste à côté de la plage.; Das Hotel liegt direkt am Strand.
 fr-ru-0005; Zimmer; la chambre; ; A1; Reisen/Urlaub/Unterkunft; Notre chambre a vue sur la mer.; Unser Zimmer hat Blick auf das Meer.
 fr-ru-0006; Koffer; la valise; ; A1; Reisen/Urlaub/Gepäck; Ma valise est lourde à cause des livres.; Mein Koffer ist wegen der Bücher schwer.
-fr-ru-0007; Tasche; le sac; ; A1; Reisen/Urlaub/Gepäck; Le sac avec les billets est dans la voiture.; Die Tasche mit den Tickets liegt im Auto.
+fr-ru-0007; Tasche (zum Tragen); le sac; ; A1; Reisen/Urlaub/Gepäck; Le sac avec les billets est dans la voiture.; Die Tasche mit den Tickets liegt im Auto.
 fr-ru-0008; Flugzeug; l'avion; ; A1; Reisen/Urlaub/Flughafen; L'avion part à six heures du matin.; Das Flugzeug fliegt um sechs Uhr morgens ab.
 fr-ru-0009; fliegen; prendre l'avion; voler; A1; Reisen/Urlaub/Flughafen; Nous prenons l'avion pour Lisbonne samedi, tôt le matin.; Wir fliegen am Samstag früh nach Lissabon.
 fr-ru-0010; Flughafen; l'aéroport; ; A1; Reisen/Urlaub/Flughafen; L'aéroport est à trente minutes de la ville.; Der Flughafen liegt dreißig Minuten von der Stadt entfernt.
@@ -16,11 +16,11 @@ fr-ru-0013; Auto; la voiture; l'auto; A1; Reisen/Urlaub/Unterwegs; Nous allons �
 fr-ru-0014; Bus; le bus; l'autobus, le car; A1; Reisen/Urlaub/Unterwegs; Le bus pour la vieille ville passe toutes les dix minutes.; Der Bus in die Altstadt kommt alle zehn Minuten.
 fr-ru-0015; Fahrkarte; le billet; le ticket, le titre de transport; A1; Reisen/Urlaub/Unterwegs; Un billet pour le lac coûte quatre euros.; Eine Fahrkarte zum See kostet vier Euro.
 fr-ru-0016; Stadt; la ville; ; A1; Reisen/Urlaub/Sightseeing; La vieille ville est magnifique dans la lumière du soir.; Die alte Stadt ist im Abendlicht wunderschön.
-fr-ru-0017; Land; le pays; ; A1; Reisen/Urlaub/Planung & Buchung; Le Portugal est un pays merveilleux pour les vacances.; Portugal ist ein wunderbares Land für einen Urlaub.
+fr-ru-0017; Land (Staat); le pays; ; A1; Reisen/Urlaub/Planung & Buchung; Le Portugal est un pays merveilleux pour les vacances.; Portugal ist ein wunderbares Land für einen Urlaub.
 fr-ru-0018; Meer; la mer; l'océan; A1; Reisen/Urlaub/Strand & Natur; En septembre, la mer est chaude et calme.; Das Meer ist im September warm und ruhig.
 fr-ru-0019; Strand; la plage; ; A1; Reisen/Urlaub/Strand & Natur; Les enfants jouent toute la journée sur la plage.; Die Kinder spielen den ganzen Tag am Strand.
 fr-ru-0020; Sonne; le soleil; ; A1; Reisen/Urlaub/Strand & Natur; Ici, le soleil brille presque tous les jours.; Die Sonne scheint hier fast jeden Tag.
-fr-ru-0021; Karte; la carte; ; A1; Reisen/Urlaub/Unterwegs; Sans carte, nous serions perdus ici.; Ohne Karte wären wir hier verloren.
+fr-ru-0021; Karte (Landkarte); la carte; ; A1; Reisen/Urlaub/Unterwegs; Sans carte, nous serions perdus ici.; Ohne Karte wären wir hier verloren.
 fr-ru-0022; Kamera; l'appareil photo; la caméra; A1; Reisen/Urlaub/Sightseeing; Prends l'appareil photo, la lumière est parfaite aujourd'hui.; Nimm die Kamera mit, das Licht ist heute perfekt.
 fr-ru-0023; Taxi; le taxi; ; A1; Reisen/Urlaub/Unterwegs; Nous prenons un taxi de l'aéroport à l'hôtel.; Wir nehmen ein Taxi vom Flughafen zum Hotel.
 fr-ru-0024; Straße; la rue; la route; A1; Reisen/Urlaub/Unterwegs; Cette rue mène directement au vieux port.; Diese Straße führt direkt zum alten Hafen.
@@ -42,7 +42,7 @@ fr-ru-0039; Reiseführer; le guide; le guide de voyage, le guide touristique; A2
 fr-ru-0040; besuchen; visiter; ; A2; Reisen/Urlaub/Sightseeing; Nous visitons le vieux château fort au-dessus de la ville.; Wir besuchen die alte Burg über der Stadt.
 fr-ru-0041; Museum; le musée; ; A2; Reisen/Urlaub/Sightseeing, Kultur; Le musée est gratuit le premier dimanche du mois.; Das Museum ist am ersten Sonntag kostenlos.
 fr-ru-0042; Kirche; l'église; ; A2; Reisen/Urlaub/Sightseeing; La petite église sur la colline est très ancienne.; Die kleine Kirche auf dem Hügel ist sehr alt.
-fr-ru-0043; Schloss; le château; le palais; A2; Reisen/Urlaub/Sightseeing; Le château ouvre ses jardins en été.; Das Schloss öffnet im Sommer seine Gärten.
+fr-ru-0043; Schloss (Gebäude); le château; le palais; A2; Reisen/Urlaub/Sightseeing; Le château ouvre ses jardins en été.; Das Schloss öffnet im Sommer seine Gärten.
 fr-ru-0044; Insel; l'île; ; A2; Reisen/Urlaub/Strand & Natur; La petite île n'a qu'un seul petit hôtel.; Die kleine Insel hat nur ein kleines Hotel.
 fr-ru-0045; See; le lac; ; A2; Reisen/Urlaub/Strand & Natur; Nous nageons dans le lac avant le petit-déjeuner.; Wir schwimmen vor dem Frühstück im See.
 fr-ru-0046; Berg; la montagne; le mont; A2; Reisen/Urlaub/Strand & Natur; De la montagne, on voit toute la vallée.; Vom Berg sieht man das ganze Tal.
@@ -63,7 +63,7 @@ fr-ru-0060; Stadtplan; le plan de la ville; le plan; A2; Reisen/Urlaub/Sightseei
 fr-ru-0061; Unterkunft; l'hébergement; le logement; B1; Reisen/Urlaub/Unterkunft; Nous avons trouvé un hébergement bon marché près de la vieille ville.; Wir fanden eine günstige Unterkunft nahe der Altstadt.
 fr-ru-0062; Ferienwohnung; la location de vacances; l'appartement de vacances, le gîte; B1; Reisen/Urlaub/Unterkunft; La location de vacances a un balcon et une petite cuisine.; Die Ferienwohnung hat einen Balkon und eine kleine Küche.
 fr-ru-0063; Jugendherberge; l'auberge de jeunesse; ; B1; Reisen/Urlaub/Unterkunft; L'auberge de jeunesse est bon marché et très propre.; Die Jugendherberge ist günstig und sehr sauber.
-fr-ru-0064; Pension; la pension; la maison d'hôtes, la chambre d'hôtes; B1; Reisen/Urlaub/Unterkunft; La pension est tenue par un vieux couple sympathique.; Die Pension wird von einem freundlichen alten Paar geführt.
+fr-ru-0064; Pension (Unterkunft); la pension; la maison d'hôtes, la chambre d'hôtes; B1; Reisen/Urlaub/Unterkunft; La pension est tenue par un vieux couple sympathique.; Die Pension wird von einem freundlichen alten Paar geführt.
 fr-ru-0065; Doppelzimmer; la chambre double; ; B1; Reisen/Urlaub/Unterkunft; Une chambre double avec petit-déjeuner coûte quatre-vingt-dix euros.; Ein Doppelzimmer mit Frühstück kostet neunzig Euro.
 fr-ru-0066; Einzelzimmer; la chambre simple; la chambre individuelle; B1; Reisen/Urlaub/Unterkunft; La dernière chambre simple était déjà prise hier.; Das letzte Einzelzimmer war gestern schon vergeben.
 fr-ru-0067; Halbpension; la demi-pension; ; B1; Reisen/Urlaub/Unterkunft; Nous avons choisi la demi-pension parce que nous déjeunons dehors.; Wir wählten Halbpension, weil wir mittags unterwegs essen.
@@ -80,12 +80,12 @@ fr-ru-0077; Zoll; la douane; ; B1; Reisen/Urlaub/Flughafen; À la douane, person
 fr-ru-0078; Flugbegleiter; le steward; l'hôtesse de l'air, l'agent de bord; B1; Reisen/Urlaub/Flughafen; Le steward nous a apporté de l'eau et du café.; Der Flugbegleiter brachte uns Wasser und Kaffee.
 fr-ru-0079; Landung; l'atterrissage; ; B1; Reisen/Urlaub/Flughafen; L'atterrissage a été doux malgré le vent fort.; Die Landung war trotz des starken Windes sanft.
 fr-ru-0080; landen; atterrir; ; B1; Reisen/Urlaub/Flughafen; Ce soir, nous atterrissons à Madrid peu après minuit.; Wir landen heute kurz nach Mitternacht in Madrid.
-fr-ru-0081; abheben; décoller; ; B1; Reisen/Urlaub/Flughafen; L'avion a décollé avec un léger retard.; Das Flugzeug hob mit kurzer Verspätung ab.
+fr-ru-0081; abheben (Flugzeug); décoller; ; B1; Reisen/Urlaub/Flughafen; L'avion a décollé avec un léger retard.; Das Flugzeug hob mit kurzer Verspätung ab.
 fr-ru-0082; Notausgang; la sortie de secours; ; B1; Reisen/Urlaub/Flughafen; La sortie de secours est signalée par des panneaux verts.; Der Notausgang ist mit grünen Schildern markiert.
 fr-ru-0083; Sehenswürdigkeit; le site touristique; la curiosité, l'attraction touristique, le monument; B1; Reisen/Urlaub/Sightseeing; La cathédrale est le site touristique le plus célèbre de la ville.; Die Kathedrale ist die berühmteste Sehenswürdigkeit der Stadt.
 fr-ru-0084; Denkmal; le monument; le mémorial, la statue; B1; Reisen/Urlaub/Sightseeing; Le monument sur la place rend hommage à un poète de la région.; Das Denkmal auf dem Platz ehrt einen hiesigen Dichter.
 fr-ru-0085; Altstadt; la vieille ville; le centre historique; B1; Reisen/Urlaub/Sightseeing; Nous nous sommes perdus dans les ruelles de la vieille ville.; Wir verliefen uns in den engen Gassen der Altstadt.
-fr-ru-0086; Führung; la visite guidée; ; B1; Reisen/Urlaub/Sightseeing; La visite guidée du château dure une heure.; Die Führung durch das Schloss dauert eine Stunde.
+fr-ru-0086; Führung (Besichtigung); la visite guidée; ; B1; Reisen/Urlaub/Sightseeing; La visite guidée du château dure une heure.; Die Führung durch das Schloss dauert eine Stunde.
 fr-ru-0087; Souvenir; le souvenir; ; B1; Reisen/Urlaub/Sightseeing; Elle a acheté un petit souvenir pour ses collègues.; Sie kaufte ein kleines Souvenir für ihre Kollegen.
 fr-ru-0088; Sonnenbrand; le coup de soleil; ; B1; Reisen/Urlaub/Strand & Natur; Après un seul après-midi, il avait déjà un coup de soleil.; Nach einem Nachmittag hatte er schon einen Sonnenbrand.
 fr-ru-0089; Liegestuhl; le transat; la chaise longue, le bain de soleil; B1; Reisen/Urlaub/Strand & Natur; À neuf heures, chaque transat au bord de la piscine était occupé.; Jeder Liegestuhl am Pool war um neun besetzt.
@@ -99,7 +99,7 @@ fr-ru-0096; Pauschalreise; le voyage organisé; le forfait; B2; Reisen/Urlaub/Pl
 fr-ru-0097; Reiseveranstalter; le voyagiste; le tour-opérateur; B2; Reisen/Urlaub/Planung & Buchung; Le voyagiste nous a informés du changement de programme.; Der Reiseveranstalter informierte uns über die Planänderung.
 fr-ru-0098; Reiseversicherung; l'assurance voyage; ; B2; Reisen/Urlaub/Planung & Buchung; Une bonne assurance voyage couvre aussi les bagages perdus.; Eine gute Reiseversicherung deckt auch verlorenes Gepäck ab.
 fr-ru-0099; Anzahlung; l'acompte; ; B2; Reisen/Urlaub/Planung & Buchung; Nous avons versé un acompte de deux cents euros.; Wir leisteten eine Anzahlung von zweihundert Euro.
-fr-ru-0100; Zuschlag; le supplément; ; B2; Reisen/Urlaub/Planung & Buchung; Il y a un supplément pour les chambres avec vue sur la mer.; Für Zimmer mit Meerblick gibt es einen Zuschlag.
+fr-ru-0100; Zuschlag (Aufpreis); le supplément; ; B2; Reisen/Urlaub/Planung & Buchung; Il y a un supplément pour les chambres avec vue sur la mer.; Für Zimmer mit Meerblick gibt es einen Zuschlag.
 fr-ru-0101; Hochsaison; la haute saison; ; B2; Reisen/Urlaub/Planung & Buchung; En haute saison, les prix doublent presque ici.; In der Hochsaison verdoppeln sich hier fast die Preise.
 fr-ru-0102; Nebensaison; la basse saison; ; B2; Reisen/Urlaub/Planung & Buchung; En basse saison, les plages sont merveilleusement vides.; In der Nebensaison sind die Strände herrlich leer.
 fr-ru-0103; Übernachtung; la nuitée; la nuit; B2; Reisen/Urlaub/Unterkunft; Le prix comprend une nuitée avec petit-déjeuner.; Der Preis beinhaltet eine Übernachtung mit Frühstück.

@@ -2,7 +2,7 @@
 id; Deutsch; Französisch; Weitere Antworten; Niveau; Themen; Beispiel Französisch; Beispiel Deutsch
 fr-rc-0001; Geld; l'argent; ; A1; Business/Rechnungswesen/Rechnung & Zahlung, Alltag/Einkaufen; L'entreprise a besoin d'argent pour payer ses factures.; Das Unternehmen braucht Geld, um seine Rechnungen zu bezahlen.
 fr-rc-0002; bezahlen; payer; régler; A1; Business/Rechnungswesen/Rechnung & Zahlung; Veuillez payer la facture d'ici fin mai.; Bitte bezahlen Sie die Rechnung bis Ende Mai.
-fr-rc-0003; Preis; le prix; ; A1; Business/Rechnungswesen/Rechnung & Zahlung, Alltag/Einkaufen; Le prix du nouveau logiciel est très élevé.; Der Preis der neuen Software ist sehr hoch.
+fr-rc-0003; Preis (Kosten); le prix; ; A1; Business/Rechnungswesen/Rechnung & Zahlung, Alltag/Einkaufen; Le prix du nouveau logiciel est très élevé.; Der Preis der neuen Software ist sehr hoch.
 fr-rc-0004; kaufen; acheter; ; A1; Business/Rechnungswesen/Rechnung & Zahlung; Nous voulons acheter de nouveaux ordinateurs pour le bureau.; Wir wollen neue Computer für das Büro kaufen.
 fr-rc-0005; Konto; le compte; le compte bancaire; A1; Business/Rechnungswesen/Buchhaltung; L'argent est arrivé sur notre compte lundi.; Das Geld kam am Montag auf unserem Konto an.
 fr-rc-0006; Rechnung; la facture; ; A2; Business/Rechnungswesen/Rechnung & Zahlung; Nous envoyons la facture juste après la livraison.; Wir senden die Rechnung direkt nach der Lieferung.
@@ -16,7 +16,7 @@ fr-rc-0013; Kunde; le client; la cliente; A2; Business/Rechnungswesen/Rechnung &
 fr-rc-0014; Lieferant; le fournisseur; la fournisseuse; A2; Business/Rechnungswesen/Rechnung & Zahlung; Notre fournisseur propose de bons prix et une livraison rapide.; Unser Lieferant bietet gute Preise und schnelle Lieferung.
 fr-rc-0015; Zahlung; le paiement; le règlement; A2; Business/Rechnungswesen/Rechnung & Zahlung; Nous avons bien reçu votre paiement la semaine dernière, merci.; Wir haben Ihre Zahlung letzte Woche erhalten, vielen Dank.
 fr-rc-0016; Bargeld; les espèces; l'argent liquide, le liquide; A2; Business/Rechnungswesen/Rechnung & Zahlung; Beaucoup d'entreprises n'acceptent plus les espèces.; Viele Unternehmen akzeptieren kein Bargeld mehr.
-fr-rc-0017; Überweisung; le virement; le virement bancaire; A2; Business/Rechnungswesen/Rechnung & Zahlung; Un paiement par virement prend un à deux jours.; Eine Zahlung per Überweisung dauert ein bis zwei Tage.
+fr-rc-0017; Überweisung (Bank); le virement; le virement bancaire; A2; Business/Rechnungswesen/Rechnung & Zahlung; Un paiement par virement prend un à deux jours.; Eine Zahlung per Überweisung dauert ein bis zwei Tage.
 fr-rc-0018; Kreditkarte; la carte de crédit; la carte bancaire, la carte bleue; A2; Business/Rechnungswesen/Rechnung & Zahlung; Vous pouvez payer l'hôtel avec votre carte de crédit.; Sie können das Hotel mit Ihrer Kreditkarte bezahlen.
 fr-rc-0019; Rabatt; la remise; le rabais, la réduction; A2; Business/Rechnungswesen/Rechnung & Zahlung; Nous accordons une remise pour les grosses commandes.; Wir geben einen Rabatt für große Bestellungen.
 fr-rc-0020; Gewinn; le bénéfice; le profit; A2; Business/Rechnungswesen/Bilanz & GuV; Le bénéfice a augmenté de dix pour cent l'année dernière.; Der Gewinn stieg im letzten Jahr um zehn Prozent.
@@ -67,7 +67,7 @@ fr-rc-0064; Kosten senken; réduire les coûts; baisser les coûts, diminuer les
 fr-rc-0065; in Rechnung stellen; facturer; ; B1; Business/Rechnungswesen/Rechnung & Zahlung; Nous facturerons les heures supplémentaires au tarif habituel.; Wir stellen die zusätzlichen Stunden zum üblichen Satz in Rechnung.
 fr-rc-0066; Gewinn- und Verlustrechnung; le compte de résultat; ; B2; Business/Rechnungswesen/Bilanz & GuV; Le compte de résultat présente les produits et les charges.; Die Gewinn- und Verlustrechnung zeigt Erträge und Aufwendungen.
 fr-rc-0067; Abschreibung; l'amortissement; la dotation aux amortissements; B2; Business/Rechnungswesen/Bilanz & GuV; L'amortissement réduit la valeur comptable de nos machines.; Die Abschreibung mindert den Buchwert unserer Maschinen.
-fr-rc-0068; abschreiben; amortir; ; B2; Business/Rechnungswesen/Buchhaltung; Nous amortissons les nouveaux véhicules sur six ans.; Wir schreiben die neuen Fahrzeuge über sechs Jahre ab.
+fr-rc-0068; abschreiben (Buchhaltung); amortir; ; B2; Business/Rechnungswesen/Buchhaltung; Nous amortissons les nouveaux véhicules sur six ans.; Wir schreiben die neuen Fahrzeuge über sechs Jahre ab.
 fr-rc-0069; Cashflow; le cash-flow; les flux de trésorerie, la marge brute d'autofinancement; B2; Business/Rechnungswesen/Controlling & Kennzahlen; Un cash-flow sain permet à l'entreprise de rester flexible.; Ein gesunder Cashflow hält das Unternehmen flexibel.
 fr-rc-0070; Liquidität; la trésorerie; la liquidité, les liquidités; B2; Business/Rechnungswesen/Controlling & Kennzahlen; L'entreprise a amélioré sa trésorerie en vendant ses anciens stocks.; Das Unternehmen verbesserte seine Liquidität durch den Verkauf alter Bestände.
 fr-rc-0071; Forderungen; les créances; les créances clients; B2; Business/Rechnungswesen/Bilanz & GuV; Nos créances ont augmenté parce que de nombreux clients paient en retard.; Unsere Forderungen stiegen, weil viele Kunden spät zahlen.

@@ -5,7 +5,7 @@ fr-wu-0002; Regen; la pluie; ; A1; Natur/Umwelt/Wetter; Il nous faut plus de plu
 fr-wu-0003; Schnee; la neige; ; A1; Natur/Umwelt/Wetter; La neige est blanche et très froide.; Der Schnee ist weiß und sehr kalt.
 fr-wu-0004; Wind; le vent; ; A1; Natur/Umwelt/Wetter; Le vent est très fort aujourd'hui.; Der Wind ist heute sehr stark.
 fr-wu-0005; Wolke; le nuage; ; A1; Natur/Umwelt/Wetter; Il y a un gros nuage au-dessus de la maison.; Über dem Haus ist eine große Wolke.
-fr-wu-0006; Himmel; le ciel; ; A1; Natur/Umwelt/Wetter; Le ciel est bleu ce matin.; Der Himmel ist heute Morgen blau.
+fr-wu-0006; Himmel (Wetter, Sterne); le ciel; ; A1; Natur/Umwelt/Wetter; Le ciel est bleu ce matin.; Der Himmel ist heute Morgen blau.
 fr-wu-0007; Wetter; le temps; la météo; A1; Natur/Umwelt/Wetter; Le temps est beau cette semaine.; Das Wetter ist diese Woche schön.
 fr-wu-0008; warm; chaud; doux, bon; A1; Natur/Umwelt/Wetter; Il fait chaud dans le jardin aujourd'hui.; Es ist heute warm im Garten.
 fr-wu-0009; kalt; froid; ; A1; Natur/Umwelt/Wetter; En janvier, il fait très froid dehors.; Draußen ist es im Januar sehr kalt.
@@ -18,10 +18,10 @@ fr-wu-0015; Baum; l'arbre; ; A1; Natur/Umwelt/Natur; Le vieil arbre se trouve da
 fr-wu-0016; Blume; la fleur; ; A1; Natur/Umwelt/Natur; Cette fleur est rouge et belle.; Diese Blume ist rot und schön.
 fr-wu-0017; Wasser; l'eau; ; A1; Natur/Umwelt/Natur; L'eau propre est importante pour tout le monde.; Sauberes Wasser ist für alle wichtig.
 fr-wu-0018; Luft; l'air; ; A1; Natur/Umwelt/Natur; L'air de la montagne est frais.; Die Luft in den Bergen ist frisch.
-fr-wu-0019; Eis; la glace; ; A1; Natur/Umwelt/Wetter; En hiver, il y a de la glace sur le lac.; Im Winter ist Eis auf dem See.
+fr-wu-0019; Eis (gefrorenes Wasser); la glace; ; A1; Natur/Umwelt/Wetter; En hiver, il y a de la glace sur le lac.; Im Winter ist Eis auf dem See.
 fr-wu-0020; regnen; pleuvoir; ; A1; Natur/Umwelt/Wetter; Je crois qu'il va pleuvoir demain après-midi.; Ich glaube, morgen Nachmittag wird es regnen.
 fr-wu-0021; schneien; neiger; ; A1; Natur/Umwelt/Wetter; Il a commencé à neiger pendant la nuit.; In der Nacht begann es zu schneien.
-fr-wu-0022; scheinen; briller; ; A1; Natur/Umwelt/Wetter; Dimanche, le soleil brillera de nouveau.; Am Sonntag wird die Sonne wieder scheinen.
+fr-wu-0022; scheinen (Sonne); briller; ; A1; Natur/Umwelt/Wetter; Dimanche, le soleil brillera de nouveau.; Am Sonntag wird die Sonne wieder scheinen.
 fr-wu-0023; Natur; la nature; ; A1; Natur/Umwelt/Natur; Le week-end, nous aimons nous promener dans la nature.; Am Wochenende gehen wir gern in der Natur spazieren.
 fr-wu-0024; Gras; l'herbe; le gazon; A1; Natur/Umwelt/Natur; Après la pluie, l'herbe est verte.; Nach dem Regen ist das Gras grün.
 fr-wu-0025; Müll; les ordures; les déchets, la poubelle; A1; Natur/Umwelt/Recycling; Mets les ordures dans la poubelle, s'il te plaît.; Bitte wirf den Müll in die Tonne.

@@ -1,7 +1,7 @@
 # Französisch: Familie & Beziehungen
 id; Deutsch; Französisch; Weitere Antworten; Niveau; Themen; Beispiel Französisch; Beispiel Deutsch
 fr-fb-0001; Familie; la famille; ; A1; Alltag/Familie/Verwandtschaft; Ma famille habite dans une petite ville.; Meine Familie lebt in einer kleinen Stadt.
-fr-fb-0002; Mutter; la mère; maman; A1; Alltag/Familie/Verwandtschaft; Ma mère m'appelle tous les dimanches soir.; Meine Mutter ruft mich jeden Sonntagabend an.
+fr-fb-0002; Mutter (Elternteil); la mère; maman; A1; Alltag/Familie/Verwandtschaft; Ma mère m'appelle tous les dimanches soir.; Meine Mutter ruft mich jeden Sonntagabend an.
 fr-fb-0003; Vater; le père; papa; A1; Alltag/Familie/Verwandtschaft; Son père travaille à l'aéroport.; Sein Vater arbeitet am Flughafen.
 fr-fb-0004; Eltern; les parents; ; A1; Alltag/Familie/Verwandtschaft; Mes parents sont mariés depuis trente ans.; Meine Eltern sind seit dreißig Jahren verheiratet.
 fr-fb-0005; Kind; l'enfant; le gamin, le gosse; A1; Alltag/Familie/Verwandtschaft; L'enfant joue avec le chien.; Das Kind spielt mit dem Hund.
@@ -40,8 +40,8 @@ fr-fb-0037; Alleinerziehende; le parent isolé; la mère célibataire, la mère 
 fr-fb-0038; Stammbaum; l'arbre généalogique; ; B2; Alltag/Familie/Verwandtschaft; Il a retracé son arbre généalogique sur trois cents ans.; Er verfolgte seinen Stammbaum dreihundert Jahre zurück.
 fr-fb-0039; Verwandtschaft; la parenté; la famille élargie, la famille; C1; Alltag/Familie/Verwandtschaft; Toute la parenté s'est réunie à Pâques.; Die ganze Verwandtschaft traf sich an Ostern.
 fr-fb-0040; Vormund; le tuteur; la tutrice, le tuteur légal; C1; Alltag/Familie/Verwandtschaft; Après l'accident, son oncle est devenu son tuteur.; Nach dem Unfall wurde ihr Onkel ihr Vormund.
-fr-fb-0041; Freund; le petit ami; le copain, le petit copain, l'ami; A1; Alltag/Familie/Partnerschaft; Son petit ami lui apporte des fleurs tous les vendredis.; Ihr Freund bringt ihr jeden Freitag Blumen.
-fr-fb-0042; Freundin; la petite amie; la copine, la petite copine, l'amie; A1; Alltag/Familie/Partnerschaft; Ce soir, il cuisine pour sa petite amie.; Er kocht heute Abend für seine Freundin.
+fr-fb-0041; Freund (Partner); le petit ami; le copain, le petit copain; A1; Alltag/Familie/Partnerschaft; Son petit ami lui apporte des fleurs tous les vendredis.; Ihr Freund bringt ihr jeden Freitag Blumen.
+fr-fb-0042; Freundin (Partnerin); la petite amie; la copine, la petite copine; A1; Alltag/Familie/Partnerschaft; Ce soir, il cuisine pour sa petite amie.; Er kocht heute Abend für seine Freundin.
 fr-fb-0043; Liebe; l'amour; ; A1; Alltag/Familie/Partnerschaft; L'amour est la chose la plus importante dans la vie.; Liebe ist das Wichtigste im Leben.
 fr-fb-0044; lieben; aimer; ; A2; Alltag/Familie/Partnerschaft; Je t'aime plus que tout.; Ich liebe dich über alles.
 fr-fb-0045; Paar; le couple; la paire; A2; Alltag/Familie/Partnerschaft; Le jeune couple s'installe ensemble.; Das junge Paar zieht zusammen.
@@ -111,7 +111,7 @@ fr-fb-0108; Trauzeuge; le témoin; le témoin de mariage; B2; Alltag/Familie/Leb
 fr-fb-0109; Beerdigung; l'enterrement; les obsèques, les funérailles; B2; Alltag/Familie/Lebensereignisse; De nombreux vieux amis sont venus à l'enterrement.; Viele alte Freunde kamen zur Beerdigung.
 fr-fb-0110; Trauer; le deuil; le chagrin, la tristesse; B2; Alltag/Familie/Lebensereignisse; Le deuil demande du temps et le soutien des autres.; Trauer braucht Zeit und die Unterstützung anderer.
 fr-fb-0111; Ruhestand; la retraite; ; B2; Alltag/Familie/Lebensereignisse; Mon père profite de sa retraite bien méritée.; Mein Vater genießt seinen wohlverdienten Ruhestand.
-fr-fb-0112; Erbe; l'héritage; ; B2; Alltag/Familie/Lebensereignisse; Les frères et sœurs se sont disputés au sujet de l'héritage de leurs parents.; Die Geschwister stritten über das Erbe ihrer Eltern.
+fr-fb-0112; Erbe (Nachlass); l'héritage; ; B2; Alltag/Familie/Lebensereignisse; Les frères et sœurs se sont disputés au sujet de l'héritage de leurs parents.; Die Geschwister stritten über das Erbe ihrer Eltern.
 fr-fb-0113; Standesamt; la mairie; l'état civil, le bureau de l'état civil; B2; Alltag/Familie/Lebensereignisse; Ils se sont mariés discrètement à la mairie.; Sie heirateten in aller Stille auf dem Standesamt.
 fr-fb-0114; Trauung; la cérémonie de mariage; le mariage civil; C1; Alltag/Familie/Lebensereignisse; La cérémonie de mariage a eu lieu dans l'ancien hôtel de ville.; Die Trauung fand im alten Rathaus statt.
 fr-fb-0115; Nachwuchs; la progéniture; la descendance, l'heureux événement, le bébé; C1; Alltag/Familie/Lebensereignisse; En mai, le jeune couple attend l'arrivée de sa progéniture.; Das junge Paar erwartet im Mai Nachwuchs.
@@ -139,7 +139,7 @@ fr-fb-0136; sich vertragen; faire la paix; se rabibocher, se réconcilier; B2; A
 fr-fb-0137; beleidigen; insulter; vexer, offenser; B2; Alltag/Familie/Miteinander; Il ne voulait pas insulter ton cousin.; Er wollte deinen Cousin nicht beleidigen.
 fr-fb-0138; Missverständnis; le malentendu; ; B2; Alltag/Familie/Miteinander; Toute la dispute n'était qu'un stupide malentendu.; Der ganze Streit war nur ein dummes Missverständnis.
 fr-fb-0139; respektieren; respecter; ; B2; Alltag/Familie/Miteinander; Les enfants devraient apprendre à respecter les opinions des autres.; Kinder sollten lernen, andere Meinungen zu respektieren.
-fr-fb-0140; schätzen; apprécier; estimer; B2; Alltag/Familie/Miteinander; J'apprécie beaucoup ton conseil sincère.; Ich schätze deinen ehrlichen Rat sehr.
+fr-fb-0140; schätzen (wertschätzen); apprécier; estimer; B2; Alltag/Familie/Miteinander; J'apprécie beaucoup ton conseil sincère.; Ich schätze deinen ehrlichen Rat sehr.
 fr-fb-0141; vernachlässigen; négliger; ; B2; Alltag/Familie/Miteinander; Il a négligé ses amis pendant les années stressantes.; Er vernachlässigte seine Freunde in den stressigen Jahren.
 fr-fb-0142; sich versöhnen; se réconcilier; faire la paix; C1; Alltag/Familie/Miteinander; Les frères se sont réconciliés après de longues années de silence.; Die Brüder versöhnten sich nach vielen Jahren des Schweigens.
 fr-fb-0143; Mitgefühl; la compassion; la sympathie; C1; Alltag/Familie/Miteinander; Elle a montré une grande compassion envers la famille en deuil.; Sie zeigte großes Mitgefühl für die trauernde Familie.

@@ -5,7 +5,7 @@ fr-gw-0002; Tschüss; salut; au revoir, ciao; A1; Grundwortschatz/Kommunikation;
 fr-gw-0003; Danke; merci; ; A1; Grundwortschatz/Kommunikation; Merci pour le joli cadeau.; Danke für das schöne Geschenk.
 fr-gw-0004; Bitte; s'il te plaît; s'il vous plaît; A1; Grundwortschatz/Kommunikation; Est-ce que je peux avoir un café, s'il vous plaît ?; Kann ich bitte einen Kaffee haben?
 fr-gw-0005; Gern geschehen; de rien; je vous en prie, avec plaisir, il n'y a pas de quoi; A1; Grundwortschatz/Kommunikation; De rien, ce n'était pas un problème.; Gern geschehen, das war kein Problem.
-fr-gw-0006; Entschuldigung; excusez-moi; pardon, excuse-moi; A1; Grundwortschatz/Kommunikation; Excusez-moi, où est la gare ?; Entschuldigung, wo ist der Bahnhof?
+fr-gw-0006; Entschuldigung (Ausruf); excusez-moi; pardon, excuse-moi; A1; Grundwortschatz/Kommunikation; Excusez-moi, où est la gare ?; Entschuldigung, wo ist der Bahnhof?
 fr-gw-0007; Ja; oui; ; A1; Grundwortschatz/Kommunikation; Oui, je voudrais bien un peu de thé.; Ja, ich möchte gern etwas Tee.
 fr-gw-0008; Nein; non; ; A1; Grundwortschatz/Kommunikation; Non, je n'ai pas le temps aujourd'hui.; Nein, ich habe heute keine Zeit.
 fr-gw-0009; Guten Morgen; bonjour; ; A1; Grundwortschatz/Kommunikation; Bonjour, tu as bien dormi ?; Guten Morgen, hast du gut geschlafen?
@@ -71,7 +71,7 @@ fr-gw-0068; ankommen; arriver; ; A1; Grundwortschatz/Verben; Le train arrive à 
 fr-gw-0069; zeigen; montrer; indiquer; A1; Grundwortschatz/Verben; Tu peux me montrer le chemin de l'hôtel ?; Kannst du mir den Weg zum Hotel zeigen?
 fr-gw-0070; glauben; croire; ; A1; Grundwortschatz/Verben; Je te crois, l'histoire est vraie.; Ich glaube dir, die Geschichte ist wahr.
 fr-gw-0071; hoffen; espérer; ; A1; Grundwortschatz/Verben; J'espère qu'il fera beau demain.; Ich hoffe, das Wetter ist morgen schön.
-fr-gw-0072; tragen; porter; ; A1; Grundwortschatz/Verben; Elle porte une robe rouge à la fête.; Sie trägt ein rotes Kleid auf der Party.
+fr-gw-0072; tragen (Kleidung); porter; ; A1; Grundwortschatz/Verben; Elle porte une robe rouge à la fête.; Sie trägt ein rotes Kleid auf der Party.
 fr-gw-0073; kosten; coûter; ; A1; Grundwortschatz/Verben; Combien coûte ce billet, s'il vous plaît ?; Wie viel kostet diese Fahrkarte, bitte?
 fr-gw-0074; bekommen; recevoir; obtenir, avoir; A1; Grundwortschatz/Verben; Aujourd'hui, je reçois une lettre de ma tante.; Ich bekomme heute einen Brief von meiner Tante.
 fr-gw-0075; vergessen; oublier; ; A1; Grundwortschatz/Verben; N'oublie pas tes clés à la maison !; Vergiss deine Schlüssel nicht zu Hause!
@@ -95,7 +95,7 @@ fr-gw-0092; Frau; la femme; ; A1; Grundwortschatz/Menschen & Familie; La femme a
 fr-gw-0093; Kind; l'enfant; le gamin; A1; Grundwortschatz/Menschen & Familie; L'enfant joue avec un petit ballon.; Das Kind spielt mit einem kleinen Ball.
 fr-gw-0094; Junge; le garçon; ; A1; Grundwortschatz/Menschen & Familie; Le garçon va à l'école à vélo.; Der Junge fährt mit dem Rad zur Schule.
 fr-gw-0095; Mädchen; la fille; la jeune fille, la petite fille; A1; Grundwortschatz/Menschen & Familie; La fille lit un livre sur les chevaux.; Das Mädchen liest ein Buch über Pferde.
-fr-gw-0096; Mutter; la mère; la maman; A1; Grundwortschatz/Menschen & Familie; Ma mère fait le meilleur gâteau.; Meine Mutter macht den besten Kuchen.
+fr-gw-0096; Mutter (Elternteil); la mère; la maman; A1; Grundwortschatz/Menschen & Familie; Ma mère fait le meilleur gâteau.; Meine Mutter macht den besten Kuchen.
 fr-gw-0097; Vater; le père; le papa; A1; Grundwortschatz/Menschen & Familie; Mon père travaille à l'aéroport.; Mein Vater arbeitet am Flughafen.
 fr-gw-0098; Eltern; les parents; ; A1; Grundwortschatz/Menschen & Familie; Mes parents habitent dans un petit village.; Meine Eltern wohnen in einem kleinen Dorf.
 fr-gw-0099; Bruder; le frère; ; A1; Grundwortschatz/Menschen & Familie; Mon frère a un an de plus que moi.; Mein Bruder ist ein Jahr älter als ich.
@@ -238,7 +238,7 @@ fr-gw-0235; Bad; la salle de bains; la salle de bain, le bain; A1; Grundwortscha
 fr-gw-0236; Stadt; la ville; ; A1; Grundwortschatz/Orte; Francfort est une grande ville avec un aéroport.; Frankfurt ist eine große Stadt mit einem Flughafen.
 fr-gw-0237; Dorf; le village; ; A1; Grundwortschatz/Orte; Mes grands-parents habitent dans un village tranquille.; Meine Großeltern wohnen in einem ruhigen Dorf.
 fr-gw-0238; Straße; la rue; la route; A1; Grundwortschatz/Orte; Notre rue est calme la nuit.; Unsere Straße ist nachts ruhig.
-fr-gw-0239; Geschäft; le magasin; la boutique; A1; Grundwortschatz/Orte; Le magasin ouvre à neuf heures du matin.; Das Geschäft öffnet morgens um neun.
+fr-gw-0239; Geschäft (Laden); le magasin; la boutique; A1; Grundwortschatz/Orte; Le magasin ouvre à neuf heures du matin.; Das Geschäft öffnet morgens um neun.
 fr-gw-0240; Supermarkt; le supermarché; ; A1; Grundwortschatz/Orte; Aujourd'hui, le supermarché est ouvert jusqu'à dix heures.; Der Supermarkt hat heute bis zehn geöffnet.
 fr-gw-0241; Bahnhof; la gare; ; A1; Grundwortschatz/Orte; On se retrouve à la gare à cinq heures.; Wir treffen uns um fünf am Bahnhof.
 fr-gw-0242; Flughafen; l'aéroport; ; A1; Grundwortschatz/Orte, Reisen/Urlaub/Flughafen; L'aéroport est à trente minutes d'ici.; Der Flughafen ist dreißig Minuten von hier.
@@ -284,7 +284,7 @@ fr-gw-0281; ausfüllen; remplir; compléter; A2; Grundwortschatz/Verben; Remplis
 fr-gw-0282; reparieren; réparer; ; A2; Grundwortschatz/Verben; Mon père a réparé la machine à laver en panne.; Mein Vater reparierte die kaputte Waschmaschine.
 fr-gw-0283; folgen; suivre; ; A2; Grundwortschatz/Verben; Suivez cette rue jusqu'à l'église.; Folgen Sie dieser Straße bis zur Kirche.
 fr-gw-0284; wachsen; pousser; grandir, croître; A2; Grundwortschatz/Verben; Ces fleurs poussent très vite en été.; Diese Blumen wachsen im Sommer sehr schnell.
-fr-gw-0285; raten; deviner; ; A2; Grundwortschatz/Verben; Tu peux deviner quel âge a ma grand-mère ?; Kannst du raten, wie alt meine Großmutter ist?
+fr-gw-0285; raten (schätzen); deviner; ; A2; Grundwortschatz/Verben; Tu peux deviner quel âge a ma grand-mère ?; Kannst du raten, wie alt meine Großmutter ist?
 fr-gw-0286; hassen; détester; haïr; A2; Grundwortschatz/Verben; Je déteste me lever tôt le lundi.; Ich hasse es, montags früh aufzustehen.
 fr-gw-0287; wiegen; peser; ; A2; Grundwortschatz/Verben; Le bébé pèse maintenant environ quatre kilos.; Das Baby wiegt jetzt ungefähr vier Kilo.
 fr-gw-0288; verletzen; blesser; se blesser, faire mal; A2; Grundwortschatz/Verben; Il s'est blessé à la jambe pendant le match de foot.; Er verletzte sich beim Fußballspiel am Bein.
@@ -312,7 +312,7 @@ fr-gw-0309; stehlen; voler; ; A2; Grundwortschatz/Verben; Quelqu'un a volé mon 
 fr-gw-0310; werfen; lancer; jeter; A2; Grundwortschatz/Verben; Lance-moi le ballon, s'il te plaît !; Wirf mir bitte den Ball zu!
 fr-gw-0311; Erwachsener; l'adulte; la grande personne; A2; Grundwortschatz/Menschen & Familie; Au musée, les enfants paient moins cher que les adultes.; Kinder zahlen im Museum weniger als Erwachsene.
 fr-gw-0312; Jugendlicher; l'adolescent; le jeune, l'ado; A2; Grundwortschatz/Menschen & Familie; Beaucoup d'adolescents passent des heures sur leur portable.; Viele Jugendliche verbringen Stunden an ihren Handys.
-fr-gw-0313; Leiter; l'échelle; ; A2; Grundwortschatz/Alltag; Il est monté à l'échelle pour atteindre le toit.; Er stieg die Leiter hinauf, um das Dach zu erreichen.
+fr-gw-0313; Leiter (zum Steigen); l'échelle; ; A2; Grundwortschatz/Alltag; Il est monté à l'échelle pour atteindre le toit.; Er stieg die Leiter hinauf, um das Dach zu erreichen.
 fr-gw-0314; Kollege; le collègue; ; A2; Grundwortschatz/Menschen & Familie; Je déjeune tous les jours avec mes collègues.; Ich esse jeden Tag mit meinen Kollegen zu Mittag.
 fr-gw-0315; Gast; l'invité; l'hôte, le client; A2; Grundwortschatz/Menschen & Familie; Les invités sont arrivés à sept heures du soir.; Die Gäste kamen um sieben Uhr abends an.
 fr-gw-0316; Besucher; le visiteur; ; A2; Grundwortschatz/Menschen & Familie; En été, le château reçoit beaucoup de visiteurs.; Das Schloss bekommt im Sommer viele Besucher.
@@ -346,7 +346,7 @@ fr-gw-0343; sofort; tout de suite; immédiatement, aussitôt; A2; Grundwortschat
 fr-gw-0344; kürzlich; récemment; dernièrement; A2; Grundwortschatz/Zeit; Nous avons récemment emménagé dans un plus grand appartement.; Wir sind kürzlich in eine größere Wohnung gezogen.
 fr-gw-0345; plötzlich; soudain; tout à coup, soudainement; A2; Grundwortschatz/Zeit; Soudain, il s'est mis à pleuvoir très fort.; Plötzlich begann es sehr stark zu regnen.
 fr-gw-0346; schließlich; finalement; enfin; A2; Grundwortschatz/Zeit; Après une longue attente, le bus est finalement arrivé.; Nach langem Warten kam der Bus schließlich.
-fr-gw-0347; während; pendant; durant; A2; Grundwortschatz/Zeit; Ne parle pas pendant le film, s'il te plaît.; Bitte sprich während des Films nicht.
+fr-gw-0347; während; pendant; durant, pendant que; A2; Grundwortschatz/Zeit; Ne parle pas pendant le film, s'il te plaît.; Bitte sprich während des Films nicht.
 fr-gw-0348; übermorgen; après-demain; ; A2; Grundwortschatz/Zeit; Nous prenons l'avion pour l'Espagne après-demain.; Wir fliegen übermorgen nach Spanien.
 fr-gw-0349; vorgestern; avant-hier; ; A2; Grundwortschatz/Zeit; Je l'ai vue avant-hier en ville.; Ich habe sie vorgestern in der Stadt gesehen.
 fr-gw-0350; pünktlich; à l'heure; ponctuel; A2; Grundwortschatz/Zeit; Aujourd'hui, le train est arrivé pile à l'heure.; Der Zug kam heute genau pünktlich an.
@@ -354,11 +354,11 @@ fr-gw-0351; Mahlzeit; le repas; ; A2; Grundwortschatz/Essen & Trinken; Pour moi,
 fr-gw-0352; Nachtisch; le dessert; ; A2; Grundwortschatz/Essen & Trinken; Nous avons eu de la glace en dessert.; Wir hatten Eis zum Nachtisch.
 fr-gw-0353; Vorspeise; l'entrée; le hors-d'œuvre; A2; Grundwortschatz/Essen & Trinken; En entrée, j'ai commandé une petite salade.; Als Vorspeise bestellte ich einen kleinen Salat.
 fr-gw-0354; Hauptgericht; le plat principal; le plat de résistance; A2; Grundwortschatz/Essen & Trinken; Le plat principal était du poisson avec du riz.; Das Hauptgericht war Fisch mit Reis.
-fr-gw-0355; Rezept; la recette; ; A2; Grundwortschatz/Essen & Trinken; Ma grand-mère m'a donné sa recette de gâteau.; Meine Großmutter gab mir ihr Kuchenrezept.
+fr-gw-0355; Rezept (Kochen); la recette; ; A2; Grundwortschatz/Essen & Trinken; Ma grand-mère m'a donné sa recette de gâteau.; Meine Großmutter gab mir ihr Kuchenrezept.
 fr-gw-0356; Zutat; l'ingrédient; ; A2; Grundwortschatz/Essen & Trinken; Il ne nous faut que cinq ingrédients pour ce plat.; Wir brauchen nur fünf Zutaten für dieses Gericht.
 fr-gw-0357; Geschmack; le goût; la saveur; A2; Grundwortschatz/Essen & Trinken; Je n'aime pas le goût de cette soupe.; Ich mag den Geschmack dieser Suppe nicht.
 fr-gw-0358; lecker; délicieux; bon; A2; Grundwortschatz/Essen & Trinken; La pizza de ce restaurant est vraiment délicieuse.; Die Pizza in diesem Restaurant ist wirklich lecker.
-fr-gw-0359; Imbiss; le casse-croûte; l'en-cas, le snack; A2; Grundwortschatz/Essen & Trinken; Nous avons acheté un casse-croûte rapide à la gare.; Wir kauften einen schnellen Imbiss am Bahnhof.
+fr-gw-0359; Imbiss (kleine Mahlzeit); le casse-croûte; l'en-cas, le snack; A2; Grundwortschatz/Essen & Trinken; Nous avons acheté un casse-croûte rapide à la gare.; Wir kauften einen schnellen Imbiss am Bahnhof.
 fr-gw-0360; Kellner; le serveur; le garçon; A2; Grundwortschatz/Essen & Trinken; Le serveur nous a vite apporté la carte.; Der Kellner brachte uns schnell die Speisekarte.
 fr-gw-0361; Rechnung; l'addition; la facture, la note; A2; Grundwortschatz/Essen & Trinken; L'addition, s'il vous plaît !; Könnten wir bitte die Rechnung haben?
 fr-gw-0362; Trinkgeld; le pourboire; ; A2; Grundwortschatz/Essen & Trinken; Nous avons laissé un petit pourboire au serveur sympathique.; Wir ließen dem freundlichen Kellner ein kleines Trinkgeld da.
@@ -394,7 +394,7 @@ fr-gw-0391; neblig; brumeux; il y a du brouillard; A2; Grundwortschatz/Adjektive
 fr-gw-0392; Seil; la corde; ; A2; Grundwortschatz/Alltag; Les enfants ont sauté par-dessus la longue corde.; Die Kinder sprangen über das lange Seil.
 fr-gw-0393; laut; fort; bruyant; A2; Grundwortschatz/Adjektive; À la fête, la musique était trop forte.; Die Musik auf der Party war zu laut.
 fr-gw-0394; leise; silencieux; calme, doucement, à voix basse; A2; Grundwortschatz/Adjektive; Sois silencieux, s'il te plaît, le bébé dort.; Bitte sei leise, das Baby schläft.
-fr-gw-0395; faul; paresseux; fainéant; A2; Grundwortschatz/Adjektive; Le dimanche, je suis souvent un peu paresseux.; Sonntags bin ich oft ein bisschen faul.
+fr-gw-0395; faul (träge); paresseux; fainéant; A2; Grundwortschatz/Adjektive; Le dimanche, je suis souvent un peu paresseux.; Sonntags bin ich oft ein bisschen faul.
 fr-gw-0396; einsam; seul; solitaire, isolé; A2; Grundwortschatz/Adjektive; Il se sentait seul dans cette grande ville, nouvelle pour lui.; Er fühlte sich einsam in der großen neuen Stadt.
 fr-gw-0397; modern; moderne; ; A2; Grundwortschatz/Adjektive; Ils habitent dans un appartement moderne près du parc.; Sie wohnen in einer modernen Wohnung am Park.
 fr-gw-0398; schmal; étroit; ; A2; Grundwortschatz/Adjektive; La vieille ville a beaucoup de ruelles étroites.; Die Altstadt hat viele schmale Gassen.
@@ -416,7 +416,7 @@ fr-gw-0413; überrascht; surpris; étonné; A2; Grundwortschatz/Adjektive; Nous 
 fr-gw-0414; ordentlich; ordonné; rangé, soigné; A2; Grundwortschatz/Adjektive; Son bureau est toujours propre et bien rangé.; Ihr Schreibtisch ist immer sauber und ordentlich.
 fr-gw-0415; nützlich; utile; pratique; A2; Grundwortschatz/Adjektive; Un dictionnaire est utile quand on apprend l'anglais.; Ein Wörterbuch ist nützlich, wenn man Englisch lernt.
 fr-gw-0416; Brücke; le pont; ; A2; Grundwortschatz/Orte; Nous avons traversé le vieux pont de pierre.; Wir gingen über die alte Steinbrücke.
-fr-gw-0417; Schloss; le château; le palais; A2; Grundwortschatz/Orte; Le château se dresse sur une colline au-dessus de la ville.; Das Schloss steht auf einem Hügel über der Stadt.
+fr-gw-0417; Schloss (Gebäude); le château; le palais; A2; Grundwortschatz/Orte; Le château se dresse sur une colline au-dessus de la ville.; Das Schloss steht auf einem Hügel über der Stadt.
 fr-gw-0418; Küste; la côte; le littoral; A2; Grundwortschatz/Orte; Nous avons passé nos vacances sur la côte française.; Wir verbrachten unseren Urlaub an der französischen Küste.
 fr-gw-0419; Wald; la forêt; le bois; A2; Grundwortschatz/Orte; Nous allons souvent nous promener en forêt.; Wir gehen oft im Wald spazieren.
 fr-gw-0420; Insel; l'île; ; A2; Grundwortschatz/Orte; La petite île n'a qu'un seul village.; Die kleine Insel hat nur ein Dorf.
@@ -426,7 +426,7 @@ fr-gw-0423; Bauernhof; la ferme; ; A2; Grundwortschatz/Orte; Les enfants adorent
 fr-gw-0424; Fabrik; l'usine; la fabrique; A2; Grundwortschatz/Orte; Il travaille dans une usine automobile près de Francfort.; Er arbeitet in einer Autofabrik bei Frankfurt.
 fr-gw-0425; Stadion; le stade; ; A2; Grundwortschatz/Orte; Le stade était plein pour le grand match.; Das Stadion war beim großen Spiel voll.
 fr-gw-0426; Turm; la tour; ; A2; Grundwortschatz/Orte; Depuis la tour, on peut voir toute la ville.; Vom Turm kann man die ganze Stadt sehen.
-fr-gw-0427; Platz; la place; ; A2; Grundwortschatz/Orte; Il y a un marché sur la place tous les vendredis.; Auf dem Platz ist jeden Freitag ein Markt.
+fr-gw-0427; Platz (in der Stadt); la place; ; A2; Grundwortschatz/Orte; Il y a un marché sur la place tous les vendredis.; Auf dem Platz ist jeden Freitag ein Markt.
 fr-gw-0428; Ecke; le coin; l'angle; A2; Grundwortschatz/Orte; La boulangerie est juste au coin de la rue.; Die Bäckerei ist gleich um die Ecke.
 fr-gw-0429; Gegend; la région; le coin, les environs; A2; Grundwortschatz/Orte; Cette région est connue pour son bon vin.; Diese Gegend ist bekannt für ihren guten Wein.
 fr-gw-0430; Pfad; le sentier; le chemin; A2; Grundwortschatz/Orte; Un sentier étroit descend jusqu'à la plage.; Ein schmaler Pfad führt hinunter zum Strand.
@@ -440,7 +440,7 @@ fr-gw-0437; Buchhandlung; la librairie; ; A2; Grundwortschatz/Orte; J'ai acheté
 fr-gw-0438; Spielplatz; l'aire de jeux; le terrain de jeux; A2; Grundwortschatz/Orte; Les enfants jouent sur l'aire de jeux.; Die Kinder spielen auf dem Spielplatz.
 fr-gw-0439; Parkplatz; le parking; la place de parking; A2; Grundwortschatz/Orte; Le parking derrière le supermarché est gratuit.; Der Parkplatz hinter dem Supermarkt ist kostenlos.
 fr-gw-0440; Tankstelle; la station-service; la station d'essence; A2; Grundwortschatz/Orte; Nous nous sommes arrêtés dans une station-service sur l'autoroute.; Wir hielten an einer Tankstelle auf der Autobahn.
-fr-gw-0441; Nachricht; le message; la nouvelle; A2; Grundwortschatz/Kommunikation; Je t'ai envoyé un message ce matin.; Ich habe dir heute Morgen eine Nachricht geschickt.
+fr-gw-0441; Nachricht (Mitteilung); le message; ; A2; Grundwortschatz/Kommunikation; Je t'ai envoyé un message ce matin.; Ich habe dir heute Morgen eine Nachricht geschickt.
 fr-gw-0442; Neuigkeiten; les nouvelles; les nouveautés; A2; Grundwortschatz/Kommunikation; Tu as entendu les nouvelles à propos de Tom ?; Hast du die Neuigkeiten über Tom gehört?
 fr-gw-0443; Gespräch; la conversation; la discussion, l'entretien; A2; Grundwortschatz/Kommunikation; Nous avons eu une longue conversation sur nos projets.; Wir hatten ein langes Gespräch über unsere Pläne.
 fr-gw-0444; Meinung; l'avis; l'opinion; A2; Grundwortschatz/Kommunikation; À mon avis, le film était trop long.; Meiner Meinung nach war der Film zu lang.
@@ -449,7 +449,7 @@ fr-gw-0446; Erklärung; l'explication; ; A2; Grundwortschatz/Kommunikation; Le p
 fr-gw-0447; Geheimnis; le secret; ; A2; Grundwortschatz/Kommunikation; Tu peux garder un secret, s'il te plaît ?; Kannst du bitte ein Geheimnis für dich behalten?
 fr-gw-0448; Witz; la blague; la plaisanterie; A2; Grundwortschatz/Kommunikation; Il a raconté une blague drôle pendant le dîner.; Er erzählte beim Abendessen einen lustigen Witz.
 fr-gw-0449; Streit; la dispute; la querelle; A2; Grundwortschatz/Kommunikation; Ils ont eu une dispute à cause de l'argent.; Sie hatten einen Streit um das Geld.
-fr-gw-0450; Rat; le conseil; ; A2; Grundwortschatz/Kommunikation; Mon père m'a donné un bon conseil.; Mein Vater gab mir einen guten Rat.
+fr-gw-0450; Rat (Ratschlag); le conseil; ; A2; Grundwortschatz/Kommunikation; Mon père m'a donné un bon conseil.; Mein Vater gab mir einen guten Rat.
 fr-gw-0451; Einladung; l'invitation; ; A2; Grundwortschatz/Kommunikation; Merci pour l'invitation à ta fête.; Danke für die Einladung zu deiner Party.
 fr-gw-0452; Anruf; l'appel; le coup de fil, le coup de téléphone; A2; Grundwortschatz/Kommunikation; J'ai reçu un appel de mon vieil ami.; Ich bekam einen Anruf von meinem alten Freund.
 fr-gw-0453; Postkarte; la carte postale; ; A2; Grundwortschatz/Kommunikation; Elle nous a envoyé une carte postale d'Italie.; Sie schickte uns eine Postkarte aus Italien.
@@ -480,10 +480,10 @@ fr-gw-0477; Werkzeug; l'outil; les outils; A2; Grundwortschatz/Alltag; Il faut l
 fr-gw-0478; Taschenlampe; la lampe de poche; la lampe torche; A2; Grundwortschatz/Alltag; Prends une lampe de poche, il fait noir à la cave.; Nimm eine Taschenlampe, im Keller ist es dunkel.
 fr-gw-0479; Batterie; la batterie; la pile; A2; Grundwortschatz/Alltag; La batterie de mon portable est presque vide.; Die Batterie meines Handys ist fast leer.
 fr-gw-0480; Schublade; le tiroir; ; A2; Grundwortschatz/Alltag; Les ciseaux sont dans le tiroir du haut.; Die Schere ist in der obersten Schublade.
-fr-gw-0481; Decke; la couverture; le plaid; A2; Grundwortschatz/Alltag; Elle a mis une couverture chaude sur l'enfant.; Sie legte eine warme Decke über das Kind.
+fr-gw-0481; Decke (zum Zudecken); la couverture; le plaid; A2; Grundwortschatz/Alltag; Elle a mis une couverture chaude sur l'enfant.; Sie legte eine warme Decke über das Kind.
 fr-gw-0482; Kissen; l'oreiller; le coussin; A2; Grundwortschatz/Alltag; Je ne peux pas dormir sans mon propre oreiller.; Ich kann ohne mein eigenes Kissen nicht schlafen.
 fr-gw-0483; Wecker; le réveil; ; A2; Grundwortschatz/Alltag; Mon réveil sonne à six heures et demie.; Mein Wecker klingelt um halb sieben.
-fr-gw-0484; Glück; la chance; ; A2; Grundwortschatz/Alltag; Avec un peu de chance, nous aurons encore des billets.; Mit etwas Glück bekommen wir noch Karten.
+fr-gw-0484; Glück (Glück haben); la chance; ; A2; Grundwortschatz/Alltag; Avec un peu de chance, nous aurons encore des billets.; Mit etwas Glück bekommen wir noch Karten.
 fr-gw-0485; Pflanze; la plante; ; A2; Grundwortschatz/Alltag; La plante près de la fenêtre a besoin de plus d'eau.; Die Pflanze am Fenster braucht mehr Wasser.
 fr-gw-0486; Beruf; le métier; la profession; A2; Grundwortschatz/Arbeit & Schule; Elle adore son métier d'infirmière.; Sie liebt ihren Beruf als Krankenschwester.
 fr-gw-0487; Gehalt; le salaire; ; A2; Grundwortschatz/Arbeit & Schule; Le nouveau poste offre un meilleur salaire.; Der neue Job bringt ein besseres Gehalt.
@@ -493,7 +493,7 @@ fr-gw-0490; Vorstellungsgespräch; l'entretien d'embauche; l'entretien; A2; Grun
 fr-gw-0491; Erfahrung; l'expérience; ; A2; Grundwortschatz/Arbeit & Schule; Elle a beaucoup d'expérience avec les enfants.; Sie hat viel Erfahrung mit Kindern.
 fr-gw-0492; Erfolg; le succès; la réussite; A2; Grundwortschatz/Arbeit & Schule; La fête de l'école a été un grand succès.; Das Schulfest war ein großer Erfolg.
 fr-gw-0493; Prüfung; l'examen; le contrôle; A2; Grundwortschatz/Arbeit & Schule; Je dois réviser pour mon examen d'anglais.; Ich muss für meine Englischprüfung lernen.
-fr-gw-0494; Note; la note; ; A2; Grundwortschatz/Arbeit & Schule; Il a eu la meilleure note de la classe.; Er bekam die beste Note in der Klasse.
+fr-gw-0494; Note (Schule); la note; ; A2; Grundwortschatz/Arbeit & Schule; Il a eu la meilleure note de la classe.; Er bekam die beste Note in der Klasse.
 fr-gw-0495; Fach; la matière; ; A2; Grundwortschatz/Arbeit & Schule; Ma matière préférée à l'école, c'est l'histoire.; Mein Lieblingsfach in der Schule ist Geschichte.
 fr-gw-0496; Pause; la pause; la récréation, la récré; A2; Grundwortschatz/Arbeit & Schule; Faisons une petite pause après ce cours.; Machen wir nach dieser Stunde eine kurze Pause.
 fr-gw-0497; Projekt; le projet; ; A2; Grundwortschatz/Arbeit & Schule; Notre classe travaille sur un projet scientifique.; Unsere Klasse arbeitet an einem Wissenschaftsprojekt.
@@ -510,7 +510,7 @@ fr-gw-0507; zu schätzen wissen; apprécier; être reconnaissant de; B1; Grundwo
 fr-gw-0508; genehmigen; approuver; autoriser; B1; Grundwortschatz/Verben; La ville a enfin approuvé les plans de la nouvelle école.; Die Stadt genehmigte endlich die Pläne für die neue Schule.
 fr-gw-0509; streiten; se disputer; se quereller; B1; Grundwortschatz/Verben; Ils se disputent souvent à propos de l'argent et des tâches ménagères.; Sie streiten oft über Geld und Hausarbeit.
 fr-gw-0510; vereinbaren; convenir de; fixer, organiser; B1; Grundwortschatz/Verben; Nous avons convenu d'un rendez-vous pour mardi prochain au matin.; Wir vereinbarten ein Treffen für nächsten Dienstagmorgen.
-fr-gw-0511; annehmen; supposer; présumer; B1; Grundwortschatz/Verben; Je suppose que le train sera à l'heure.; Ich nehme an, dass der Zug pünktlich sein wird.
+fr-gw-0511; annehmen (vermuten); supposer; présumer; B1; Grundwortschatz/Verben; Je suppose que le train sera à l'heure.; Ich nehme an, dass der Zug pünktlich sein wird.
 fr-gw-0512; vermeiden; éviter; ; B1; Grundwortschatz/Verben; Essaie d'éviter les erreurs en vérifiant ton travail deux fois.; Versuche Fehler zu vermeiden, indem du deine Arbeit zweimal prüfst.
 fr-gw-0513; sich verhalten; se comporter; se conduire; B1; Grundwortschatz/Verben; Les enfants se sont très bien comportés pendant le long voyage.; Die Kinder verhielten sich während der langen Reise sehr gut.
 fr-gw-0514; verschütten; renverser; ; B1; Grundwortschatz/Verben; Fais attention à ne pas renverser de café sur le clavier.; Pass auf, dass du keinen Kaffee über die Tastatur verschüttest.
@@ -550,7 +550,7 @@ fr-gw-0547; jagen; chasser; poursuivre, courir après; B1; Grundwortschatz/Verbe
 fr-gw-0548; erhöhen; augmenter; relever; B1; Grundwortschatz/Verben; La ville a augmenté le prix des tickets de bus.; Die Stadt erhöhte den Preis für Busfahrkarten.
 fr-gw-0549; bestehen auf; insister sur; insister pour, tenir à; B1; Grundwortschatz/Verben; Elle a insisté pour payer le repas elle-même.; Sie bestand darauf, das Essen selbst zu bezahlen.
 fr-gw-0550; beabsichtigen; avoir l'intention de; compter, prévoir de; B1; Grundwortschatz/Verben; Nous avons l'intention de visiter le Portugal l'été prochain.; Wir beabsichtigen, nächsten Sommer Portugal zu besuchen.
-fr-gw-0551; vorstellen; présenter; ; B1; Grundwortschatz/Verben, Grundwortschatz/Kommunikation; Laisse-moi te présenter ma collègue Anna.; Lass mich dir meine Kollegin Anna vorstellen.
+fr-gw-0551; vorstellen (jemanden); présenter; ; B1; Grundwortschatz/Verben, Grundwortschatz/Kommunikation; Laisse-moi te présenter ma collègue Anna.; Lass mich dir meine Kollegin Anna vorstellen.
 fr-gw-0552; erfinden; inventer; ; B1; Grundwortschatz/Verben; Qui a inventé le premier téléphone portable, au juste ?; Wer hat eigentlich das erste Handy erfunden?
 fr-gw-0553; einbeziehen; impliquer; inclure, associer; B1; Grundwortschatz/Verben; Ce poste implique beaucoup de voyages à l'étranger.; Die Stelle beinhaltet viele Reisen ins Ausland.
 fr-gw-0554; beurteilen; juger; évaluer; B1; Grundwortschatz/Verben; Tu ne devrais pas juger les gens sur leurs vêtements.; Du solltest Menschen nicht nach ihrer Kleidung beurteilen.
@@ -571,7 +571,7 @@ fr-gw-0568; niesen; éternuer; ; B1; Grundwortschatz/Verben; Il a éternué troi
 fr-gw-0569; ablehnen; refuser; rejeter, décliner; B1; Grundwortschatz/Verben; Elle a refusé de répondre aux questions personnelles.; Sie lehnte es ab, persönliche Fragen zu beantworten.
 fr-gw-0570; bereuen; regretter; ; B1; Grundwortschatz/Verben, Grundwortschatz/Gefühle & Meinung; Tu regretteras cette décision plus tard, crois-moi.; Du wirst diese Entscheidung später bereuen, glaub mir.
 fr-gw-0571; sich verlassen auf; compter sur; se fier à; B1; Grundwortschatz/Verben; Tu peux toujours compter sur tes meilleurs amis.; Du kannst dich immer auf deine besten Freunde verlassen.
-fr-gw-0572; erinnern; rappeler; ; B1; Grundwortschatz/Verben, Grundwortschatz/Alltag; Rappelle-moi d'acheter du lait ce soir, s'il te plaît.; Bitte erinnere mich daran, heute Abend Milch zu kaufen.
+fr-gw-0572; erinnern (jemanden); rappeler; ; B1; Grundwortschatz/Verben, Grundwortschatz/Alltag; Rappelle-moi d'acheter du lait ce soir, s'il te plaît.; Bitte erinnere mich daran, heute Abend Milch zu kaufen.
 fr-gw-0573; ersetzen; remplacer; ; B1; Grundwortschatz/Verben; Nous devons bientôt remplacer la vieille imprimante.; Wir müssen den alten Drucker bald ersetzen.
 fr-gw-0574; erfordern; exiger; demander, nécessiter; B1; Grundwortschatz/Verben; Ce poste exige de la patience et de bonnes compétences en communication.; Diese Stelle erfordert Geduld und gute kommunikative Fähigkeiten.
 fr-gw-0575; reagieren; réagir; ; B1; Grundwortschatz/Verben; Comment a-t-elle réagi à cette nouvelle surprenante ?; Wie hat sie auf die überraschende Nachricht reagiert?
@@ -587,7 +587,7 @@ fr-gw-0584; praktisch; pratique; commode; B1; Grundwortschatz/Adjektive; La banq
 fr-gw-0585; neugierig; curieux; ; B1; Grundwortschatz/Adjektive; L'enfant curieux posait des questions sur tout.; Das neugierige Kind stellte Fragen zu allem.
 fr-gw-0586; aktuell; actuel; à jour; B1; Grundwortschatz/Adjektive; La situation actuelle sur les routes est difficile.; Die aktuelle Lage auf den Straßen ist schwierig.
 fr-gw-0587; enttäuscht; déçu; ; B1; Grundwortschatz/Adjektive, Grundwortschatz/Gefühle & Meinung; Nous avons été déçus par l'hôtel et le service.; Wir waren von dem Hotel und dem Service enttäuscht.
-fr-gw-0588; verlegen; gêné; embarrassé; B1; Grundwortschatz/Adjektive, Grundwortschatz/Gefühle & Meinung; Il était gêné quand il a oublié son prénom.; Er war verlegen, als er ihren Namen vergaß.
+fr-gw-0588; verlegen (beschämt); gêné; embarrassé; B1; Grundwortschatz/Adjektive, Grundwortschatz/Gefühle & Meinung; Il était gêné quand il a oublié son prénom.; Er war verlegen, als er ihren Namen vergaß.
 fr-gw-0589; riesig; énorme; immense, gigantesque; B1; Grundwortschatz/Adjektive; Ils habitent dans une énorme maison au bord du lac.; Sie wohnen in einem riesigen Haus am See.
 fr-gw-0590; wesentlich; essentiel; indispensable; B1; Grundwortschatz/Adjektive; Une bonne planification est essentielle à la réussite d'un projet.; Gute Planung ist wesentlich für ein erfolgreiches Projekt.
 fr-gw-0591; erschöpft; épuisé; crevé, à bout de forces; B1; Grundwortschatz/Adjektive; Après la longue randonnée, nous étions complètement épuisés.; Nach der langen Wanderung waren wir völlig erschöpft.
@@ -602,7 +602,7 @@ fr-gw-0599; ehrlich; honnête; sincère, franc; B1; Grundwortschatz/Adjektive; P
 fr-gw-0600; sofortig; immédiat; instantané; B1; Grundwortschatz/Adjektive; Le médicament a eu un effet immédiat sur la douleur.; Das Medikament hatte eine sofortige Wirkung auf die Schmerzen.
 fr-gw-0601; unabhängig; indépendant; ; B1; Grundwortschatz/Adjektive; Elle veut être indépendante de ses parents.; Sie möchte von ihren Eltern unabhängig sein.
 fr-gw-0602; eifersüchtig; jaloux; ; B1; Grundwortschatz/Adjektive, Grundwortschatz/Gefühle & Meinung; Il devient jaloux quand elle parle avec d'autres hommes.; Er wird eifersüchtig, wenn sie mit anderen Männern spricht.
-fr-gw-0603; wahrscheinlich; probable; vraisemblable; B1; Grundwortschatz/Adjektive; Il est probable que le vol aura du retard.; Es ist wahrscheinlich, dass der Flug Verspätung haben wird.
+fr-gw-0603; wahrscheinlich; probable; vraisemblable, probablement; B1; Grundwortschatz/Adjektive; Il est probable que le vol aura du retard.; Es ist wahrscheinlich, dass der Flug Verspätung haben wird.
 fr-gw-0604; notwendig; nécessaire; ; B1; Grundwortschatz/Adjektive; Il est nécessaire de réserver les billets tôt.; Es ist notwendig, die Karten früh zu buchen.
 fr-gw-0605; offensichtlich; évident; manifeste; B1; Grundwortschatz/Adjektive; Il était évident qu'elle ne disait pas la vérité.; Es war offensichtlich, dass sie nicht die Wahrheit sagte.
 fr-gw-0606; geduldig; patient; ; B1; Grundwortschatz/Adjektive; Il faut être patient avec les petits enfants.; Mit kleinen Kindern muss man geduldig sein.
@@ -657,7 +657,7 @@ fr-gw-0654; Leistung; la réussite; l'exploit, la performance; B1; Grundwortscha
 fr-gw-0655; Vereinbarung; l'accord; la convention; B1; Grundwortschatz/Kommunikation; Les deux entreprises ont enfin signé un accord.; Die beiden Firmen unterzeichneten endlich eine Vereinbarung.
 fr-gw-0656; Ziel; le but; l'objectif; B1; Grundwortschatz/Abstrakte Begriffe; Le but du cours est d'améliorer ton expression orale.; Das Ziel des Kurses ist es, dein Sprechen zu verbessern.
 fr-gw-0657; Menge; la quantité; la somme; B1; Grundwortschatz/Abstrakte Begriffe; Une grande quantité d'argent a été dépensée pour le projet.; Eine große Menge Geld wurde für das Projekt ausgegeben.
-fr-gw-0658; Einstellung; l'attitude; l'état d'esprit; B1; Grundwortschatz/Gefühle & Meinung; Son attitude positive l'a aidée dans les moments difficiles.; Ihre positive Einstellung half ihr in schwierigen Zeiten.
+fr-gw-0658; Einstellung (Haltung); l'attitude; l'état d'esprit; B1; Grundwortschatz/Gefühle & Meinung; Son attitude positive l'a aidée dans les moments difficiles.; Ihre positive Einstellung half ihr in schwierigen Zeiten.
 fr-gw-0659; Publikum; le public; les spectateurs; B1; Grundwortschatz/Gesellschaft; Le public a applaudi fort à la fin du spectacle.; Das Publikum klatschte am Ende der Vorstellung laut.
 fr-gw-0660; Behörde; l'autorité; l'administration, les autorités; B1; Grundwortschatz/Gesellschaft; Tu dois signaler l'accident à l'autorité locale.; Du musst den Unfall der örtlichen Behörde melden.
 fr-gw-0661; Durchschnitt; la moyenne; ; B1; Grundwortschatz/Abstrakte Begriffe; Ses notes sont au-dessus de la moyenne de la classe.; Seine Noten liegen über dem Durchschnitt der Klasse.
@@ -669,7 +669,7 @@ fr-gw-0666; Wettbewerb; le concours; la compétition; B1; Grundwortschatz/Gesell
 fr-gw-0667; Beschwerde; la plainte; la réclamation; B1; Grundwortschatz/Kommunikation; L'hôtel a reçu plusieurs plaintes à propos de la musique forte.; Das Hotel erhielt mehrere Beschwerden über die laute Musik.
 fr-gw-0668; Bedingung; la condition; ; B1; Grundwortschatz/Abstrakte Begriffe; Une bonne lumière est une condition importante pour la photographie.; Gutes Licht ist eine wichtige Bedingung für das Fotografieren.
 fr-gw-0669; Verbindung; le lien; la relation; B1; Grundwortschatz/Abstrakte Begriffe; Il existe un lien clair entre le tabac et le cancer.; Es gibt eine klare Verbindung zwischen Rauchen und Krebs.
-fr-gw-0670; Folge; la conséquence; la suite; B1; Grundwortschatz/Abstrakte Begriffe; La nouvelle loi a eu de graves conséquences pour les petits commerces.; Das neue Gesetz hatte ernste Folgen für kleine Geschäfte.
+fr-gw-0670; Folge (Konsequenz); la conséquence; la suite; B1; Grundwortschatz/Abstrakte Begriffe; La nouvelle loi a eu de graves conséquences pour les petits commerces.; Das neue Gesetz hatte ernste Folgen für kleine Geschäfte.
 fr-gw-0671; Entwicklung; le développement; l'évolution; B1; Grundwortschatz/Abstrakte Begriffe; Le développement du centre-ville a duré plusieurs années.; Die Entwicklung des Stadtzentrums dauerte mehrere Jahre.
 fr-gw-0672; Pflicht; le devoir; l'obligation; B1; Grundwortschatz/Gesellschaft; C'est ton devoir d'informer la police.; Es ist deine Pflicht, die Polizei zu informieren.
 fr-gw-0673; Wirtschaft; l'économie; ; B1; Grundwortschatz/Gesellschaft; L'économie du pays croît lentement.; Die Wirtschaft des Landes wächst langsam.
@@ -714,7 +714,7 @@ fr-gw-0711; Zweck; le but; l'objectif; B1; Grundwortschatz/Abstrakte Begriffe; L
 fr-gw-0712; Beziehung; la relation; le rapport; B1; Grundwortschatz/Gefühle & Meinung; Ils entretiennent une relation étroite depuis de nombreuses années.; Sie haben seit vielen Jahren eine enge Beziehung.
 fr-gw-0713; Forschung; la recherche; ; B1; Grundwortschatz/Arbeit & Schule; La recherche moderne a changé le traitement de nombreuses maladies.; Die moderne Forschung hat die Behandlung vieler Krankheiten verändert.
 fr-gw-0714; Verantwortung; la responsabilité; ; B1; Grundwortschatz/Abstrakte Begriffe; En tant que cheffe d'équipe, elle a beaucoup de responsabilités.; Als Teamleiterin trägt sie viel Verantwortung.
-fr-gw-0715; Lohn; le salaire; la paie; B1; Grundwortschatz/Arbeit & Schule; Les ouvriers ont demandé un salaire plus élevé.; Die Arbeiter baten um einen höheren Lohn.
+fr-gw-0715; Lohn (Bezahlung); le salaire; la paie; B1; Grundwortschatz/Arbeit & Schule; Les ouvriers ont demandé un salaire plus élevé.; Die Arbeiter baten um einen höheren Lohn.
 fr-gw-0716; Gesellschaft; la société; ; B1; Grundwortschatz/Gesellschaft; Les personnes âgées jouent un rôle important dans notre société.; Ältere Menschen spielen eine wichtige Rolle in unserer Gesellschaft.
 fr-gw-0717; Lösung; la solution; ; B1; Grundwortschatz/Abstrakte Begriffe; Ensemble, nous trouverons une solution à ce problème.; Gemeinsam werden wir eine Lösung für dieses Problem finden.
 fr-gw-0718; Stärke; la force; le point fort; B1; Grundwortschatz/Abstrakte Begriffe; La patience est l'une de ses plus grandes forces.; Geduld ist eine ihrer größten Stärken.
@@ -853,7 +853,7 @@ fr-gw-0850; Auswirkung; l'impact; l'effet, la répercussion, les retombées; B2;
 fr-gw-0851; Wahrnehmung; la perception; ; B2; Grundwortschatz/Abstrakte Begriffe; Notre perception du temps change avec l'âge.; Unsere Wahrnehmung der Zeit verändert sich mit dem Alter.
 fr-gw-0852; Verpflichtung; l'obligation; l'engagement, le devoir; B2; Grundwortschatz/Abstrakte Begriffe; J'ai plusieurs obligations familiales ce week-end.; Ich habe an diesem Wochenende mehrere familiäre Verpflichtungen.
 fr-gw-0853; Absicht; l'intention; le but; B2; Grundwortschatz/Abstrakte Begriffe; Ça n'a jamais été mon intention de te blesser.; Es war nie meine Absicht, dich zu verletzen.
-fr-gw-0854; Annahme; l'hypothèse; la supposition, la présomption; B2; Grundwortschatz/Abstrakte Begriffe; Ta conclusion repose sur une hypothèse erronée.; Deine Schlussfolgerung beruht auf einer falschen Annahme.
+fr-gw-0854; Annahme (Vermutung); l'hypothèse; la supposition, la présomption; B2; Grundwortschatz/Abstrakte Begriffe; Ta conclusion repose sur une hypothèse erronée.; Deine Schlussfolgerung beruht auf einer falschen Annahme.
 fr-gw-0855; Einwand; l'objection; ; B2; Grundwortschatz/Abstrakte Begriffe, Grundwortschatz/Kommunikation; Y a-t-il des objections à cette proposition ?; Gibt es Einwände gegen diesen Vorschlag?
 fr-gw-0856; makellos; impeccable; parfait, irréprochable; B2; Grundwortschatz/Adjektive; Sa prestation au concert était tout simplement impeccable.; Ihr Auftritt beim Konzert war einfach makellos.
 fr-gw-0857; Erkenntnis; la connaissance; la découverte, le constat; B2; Grundwortschatz/Abstrakte Begriffe; L'étude apporte de nouvelles connaissances sur le comportement humain.; Die Studie liefert neue Erkenntnisse über menschliches Verhalten.
@@ -988,7 +988,7 @@ fr-gw-0985; hanebüchen; grotesque; absurde, invraisemblable, ridicule; C2; Grun
 fr-gw-0986; spitzfindig; pinailleur; tatillon, pointilleux; C2; Grundwortschatz/Adjektive; Ses objections pinailleuses ont retardé les négociations de plusieurs heures.; Seine spitzfindigen Einwände verzögerten die Verhandlungen um Stunden.
 fr-gw-0987; unverblümt; franc; direct, cash, sans détour; C2; Grundwortschatz/Adjektive; Elle a donné une réponse franche à la question délicate.; Sie gab eine unverblümte Antwort auf die heikle Frage.
 fr-gw-0988; erhaben; sublime; majestueux, grandiose; C2; Grundwortschatz/Adjektive; La vue depuis le sommet était tout simplement sublime.; Der Blick vom Gipfel war schlicht erhaben.
-fr-gw-0989; vermessen; présomptueux; prétentieux, audacieux; C2; Grundwortschatz/Adjektive; Il serait présomptueux de promettre une solution rapide.; Es wäre vermessen, eine schnelle Lösung zu versprechen.
+fr-gw-0989; vermessen (anmaßend); présomptueux; prétentieux, audacieux; C2; Grundwortschatz/Adjektive; Il serait présomptueux de promettre une solution rapide.; Es wäre vermessen, eine schnelle Lösung zu versprechen.
 fr-gw-0990; schlechthin; par excellence; ; C2; Grundwortschatz/Adverbien; Pour beaucoup, elle est l'actrice de théâtre par excellence.; Für viele ist sie die Bühnenschauspielerin schlechthin.
 fr-gw-0991; unweigerlich; inévitablement; immanquablement, fatalement; C2; Grundwortschatz/Adverbien; Une telle négligence mène inévitablement à de graves erreurs.; Solche Nachlässigkeit führt unweigerlich zu schweren Fehlern.
 fr-gw-0992; obendrein; en plus; de surcroît, par-dessus le marché; C2; Grundwortschatz/Adverbien; La chambre était minuscule et en plus chère.; Das Zimmer war winzig und obendrein teuer.

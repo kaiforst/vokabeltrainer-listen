@@ -23,10 +23,10 @@ fr-sb-0020; Pause; la récréation; la récré, la pause; A1; Bildung/Schule/Unt
 fr-sb-0021; Mathematik; les mathématiques; les maths; A1; Bildung/Schule/Fächer; Nous avons mathématiques le lundi et le jeudi.; Montags und donnerstags haben wir Mathematik.
 fr-sb-0022; Englisch; l'anglais; ; A1; Bildung/Schule/Fächer; En anglais, nous chantons des chansons et nous faisons des jeux.; In Englisch singen wir Lieder und spielen Spiele.
 fr-sb-0023; Deutsch; l'allemand; ; A1; Bildung/Schule/Fächer; En allemand, nous lisons en ce moment un court roman.; In Deutsch lesen wir gerade einen kurzen Roman.
-fr-sb-0024; Sport; l'éducation physique; le sport, l'EPS; A1; Bildung/Schule/Fächer; En éducation physique, nous jouons au basket aujourd'hui.; Im Sport spielen wir heute Basketball.
+fr-sb-0024; Sport (Schulfach); l'éducation physique; le sport, l'EPS; A1; Bildung/Schule/Fächer; En éducation physique, nous jouons au basket aujourd'hui.; Im Sport spielen wir heute Basketball.
 fr-sb-0025; Musik; la musique; ; A1; Bildung/Schule/Fächer; En musique, nous apprenons une nouvelle chanson.; In Musik lernen wir ein neues Lied.
 fr-sb-0026; Kunst; les arts plastiques; le dessin, l'art; A2; Bildung/Schule/Fächer; En arts plastiques, nous peignons à l'aquarelle.; In Kunst malen wir mit Wasserfarben.
-fr-sb-0027; Geschichte; l'histoire; ; A2; Bildung/Schule/Fächer; En histoire, nous étudions en ce moment la Rome antique.; In Geschichte lernen wir gerade etwas über das alte Rom.
+fr-sb-0027; Geschichte (Vergangenheit); l'histoire; ; A2; Bildung/Schule/Fächer; En histoire, nous étudions en ce moment la Rome antique.; In Geschichte lernen wir gerade etwas über das alte Rom.
 fr-sb-0028; Erdkunde; la géographie; la géo; A2; Bildung/Schule/Fächer; En géographie, nous dessinons des cartes de l'Europe.; In Erdkunde zeichnen wir Karten von Europa.
 fr-sb-0029; Biologie; la biologie; la bio, les SVT; A2; Bildung/Schule/Fächer; En biologie, nous étudions les plantes et les animaux.; In Biologie untersuchen wir Pflanzen und Tiere.
 fr-sb-0030; Chemie; la chimie; ; A2; Bildung/Schule/Fächer; En chimie, nous faisons des expériences passionnantes.; In Chemie machen wir spannende Experimente.
@@ -35,11 +35,11 @@ fr-sb-0032; Informatik; l'informatique; ; A2; Bildung/Schule/Fächer; En informa
 fr-sb-0033; Fach; la matière; la discipline; A2; Bildung/Schule/Fächer; Quelle matière est-ce que tu préfères à l'école ?; Welches Fach magst du in der Schule am liebsten?
 fr-sb-0034; Stundenplan; l'emploi du temps; ; A2; Bildung/Schule/Unterricht; Le nouvel emploi du temps commence après les vacances.; Der neue Stundenplan beginnt nach den Ferien.
 fr-sb-0035; Unterricht; le cours; les cours, l'enseignement; A2; Bildung/Schule/Unterricht; Le cours commence à huit heures précises.; Der Unterricht beginnt pünktlich um acht Uhr.
-fr-sb-0036; Note; la note; ; A2; Bildung/Schule/Prüfungen; Elle a eu une bonne note au contrôle.; Sie hat eine gute Note im Test bekommen.
-fr-sb-0037; Zeugnis; le bulletin scolaire; le bulletin; A2; Bildung/Schule/Prüfungen; Il a montré son bulletin scolaire à ses parents.; Er zeigte seinen Eltern sein Zeugnis.
+fr-sb-0036; Note (Schule); la note; ; A2; Bildung/Schule/Prüfungen; Elle a eu une bonne note au contrôle.; Sie hat eine gute Note im Test bekommen.
+fr-sb-0037; Zeugnis (Schule); le bulletin scolaire; le bulletin; A2; Bildung/Schule/Prüfungen; Il a montré son bulletin scolaire à ses parents.; Er zeigte seinen Eltern sein Zeugnis.
 fr-sb-0038; Prüfung; l'examen; ; A2; Bildung/Schule/Prüfungen; L'examen a lieu vendredi prochain au matin.; Die Prüfung findet nächsten Freitagmorgen statt.
 fr-sb-0039; Test; le contrôle; le test, l'interro; A2; Bildung/Schule/Prüfungen; Nous faisons un petit contrôle toutes les deux semaines.; Wir schreiben alle zwei Wochen einen kurzen Test.
-fr-sb-0040; bestehen; réussir; être reçu; A2; Bildung/Schule/Prüfungen; Je suis sûr que tu vas réussir l'examen.; Ich bin sicher, dass du die Prüfung bestehst.
+fr-sb-0040; bestehen (Prüfung); réussir; être reçu; A2; Bildung/Schule/Prüfungen; Je suis sûr que tu vas réussir l'examen.; Ich bin sicher, dass du die Prüfung bestehst.
 fr-sb-0041; durchfallen; échouer; rater, être recalé; A2; Bildung/Schule/Prüfungen; Personne ne veut échouer au dernier contrôle.; Niemand will beim letzten Test durchfallen.
 fr-sb-0042; üben; s'exercer; s'entraîner, pratiquer; A2; Bildung/Lernen; Tu devrais t'exercer chaque jour avec les nouveaux mots.; Du solltest die neuen Wörter jeden Tag üben.
 fr-sb-0043; wiederholen; réviser; répéter; A2; Bildung/Lernen; Révisons la grammaire de la semaine dernière.; Lass uns die Grammatik von letzter Woche wiederholen.
@@ -62,7 +62,7 @@ fr-sb-0059; Grundschule; l'école primaire; ; A2; Bildung/Schule/Schulformen; Ma
 fr-sb-0060; Ferien; les vacances; les vacances scolaires; A2; Bildung/Schule/Unterricht; Les vacances commencent vendredi de la semaine prochaine.; Die Ferien beginnen nächste Woche am Freitag.
 fr-sb-0061; Gymnasium; le lycée; le collège; B1; Bildung/Schule/Schulformen; Elle va au lycée à Francfort.; Sie besucht ein Gymnasium in Frankfurt.
 fr-sb-0062; weiterführende Schule; l'école secondaire; le collège; B1; Bildung/Schule/Schulformen; Après la quatrième année, les enfants choisissent une école secondaire.; Nach der vierten Klasse wählen die Kinder eine weiterführende Schule.
-fr-sb-0063; Abschluss; le diplôme; ; B1; Bildung/Schule/Prüfungen; Un bon diplôme ouvre plus tard beaucoup de portes.; Ein guter Abschluss öffnet später viele Türen.
+fr-sb-0063; Abschluss (Schule); le diplôme; ; B1; Bildung/Schule/Prüfungen; Un bon diplôme ouvre plus tard beaucoup de portes.; Ein guter Abschluss öffnet später viele Türen.
 fr-sb-0064; Abitur; le baccalauréat; le bac; B1; Bildung/Schule/Prüfungen; Il a obtenu son baccalauréat avec de très bonnes notes.; Er hat sein Abitur mit sehr guten Noten bestanden.
 fr-sb-0065; Universität; l'université; la fac; B1; Bildung/Universität; Elle fait des études de droit à l'université de Mayence.; Sie studiert Jura an der Universität in Mainz.
 fr-sb-0066; Student; l'étudiant; l'étudiante; B1; Bildung/Universität; Quand il était étudiant, il habitait dans un petit appartement.; Als Student wohnte er in einer kleinen Wohnung.
@@ -78,7 +78,7 @@ fr-sb-0075; Dozent; le chargé de cours; la chargée de cours, l'enseignant, le 
 fr-sb-0076; Professor; le professeur d'université; le professeur, la professeure; B1; Bildung/Universität; Le professeur d'université enseigne ici depuis vingt ans.; Der Professor lehrt hier seit zwanzig Jahren.
 fr-sb-0077; Klausur; l'examen écrit; l'épreuve écrite, le partiel; B1; Bildung/Universität; L'examen écrit dure exactement quatre-vingt-dix minutes.; Die Klausur dauert genau neunzig Minuten.
 fr-sb-0078; mündliche Prüfung; l'examen oral; l'oral, l'épreuve orale; B1; Bildung/Schule/Prüfungen; Elle était nerveuse avant son examen oral.; Vor ihrer mündlichen Prüfung war sie nervös.
-fr-sb-0079; Hausarbeit; le dossier; le devoir écrit, le travail écrit; B1; Bildung/Universität; Je dois écrire un dossier sur Kafka.; Ich muss eine Hausarbeit über Kafka schreiben.
+fr-sb-0079; Hausarbeit (Studium); le dossier; le devoir écrit, le travail écrit; B1; Bildung/Universität; Je dois écrire un dossier sur Kafka.; Ich muss eine Hausarbeit über Kafka schreiben.
 fr-sb-0080; Referat; l'exposé; ; B1; Bildung/Schule/Unterricht; Demain, je fais un exposé sur les volcans.; Morgen halte ich ein Referat über Vulkane.
 fr-sb-0081; Notizen; les notes; la prise de notes; B1; Bildung/Lernen; De bonnes notes t'aident beaucoup avant les examens.; Gute Notizen helfen dir vor Prüfungen sehr.
 fr-sb-0082; auswendig lernen; apprendre par cœur; mémoriser; B1; Bildung/Lernen; Nous devions apprendre un poème par cœur pour lundi.; Wir mussten für Montag ein Gedicht auswendig lernen.
@@ -99,7 +99,7 @@ fr-sb-0096; Ausbildung; l'apprentissage; la formation professionnelle, la format
 fr-sb-0097; Schulpflicht; la scolarité obligatoire; l'obligation scolaire; B2; Bildung/Bildungspolitik; En Allemagne, la scolarité obligatoire commence à six ans.; In Deutschland beginnt die Schulpflicht mit sechs Jahren.
 fr-sb-0098; Lehrplan; le programme scolaire; le programme; B2; Bildung/Schule/Unterricht; Le nouveau programme scolaire accorde plus de poids aux compétences numériques.; Der neue Lehrplan legt mehr Gewicht auf digitale Kompetenzen.
 fr-sb-0099; Leistung; les résultats; la performance; B2; Bildung/Schule/Prüfungen; Ses résultats se sont nettement améliorés au second semestre.; Ihre Leistung verbesserte sich in der zweiten Jahreshälfte deutlich.
-fr-sb-0100; Bewertung; l'évaluation; la notation; B2; Bildung/Schule/Prüfungen; L'évaluation des travaux oraux est souvent difficile.; Die Bewertung mündlicher Leistungen ist oft schwierig.
+fr-sb-0100; Bewertung (Schule); l'évaluation; la notation; B2; Bildung/Schule/Prüfungen; L'évaluation des travaux oraux est souvent difficile.; Die Bewertung mündlicher Leistungen ist oft schwierig.
 fr-sb-0101; Abschlussprüfung; l'examen final; l'examen de fin d'études; B2; Bildung/Schule/Prüfungen; L'examen final porte sur le programme de deux années.; Die Abschlussprüfung umfasst den Stoff von zwei Jahren.
 fr-sb-0102; Bachelorarbeit; le mémoire de licence; le mémoire de bachelor; B2; Bildung/Universität; Il écrit son mémoire de licence sur les énergies renouvelables.; Er schreibt seine Bachelorarbeit über erneuerbare Energien.
 fr-sb-0103; Masterarbeit; le mémoire de master; le mémoire; B2; Bildung/Universität; Son mémoire de master a été publié sous forme de petit livre.; Ihre Masterarbeit wurde als kleines Buch veröffentlicht.
@@ -122,7 +122,7 @@ fr-sb-0119; Fernstudium; les études à distance; l'enseignement à distance; B2
 fr-sb-0120; Praktikum; le stage; ; B2; Bildung/Universität; Il a fait un stage dans un bureau d'ingénieurs.; Er machte ein Praktikum in einem Ingenieurbüro.
 fr-sb-0121; Bewerbung; la candidature; ; B2; Bildung/Universität; Sa candidature au master a été retenue.; Ihre Bewerbung für den Masterstudiengang war erfolgreich.
 fr-sb-0122; Lebenslauf; le CV; le curriculum vitae; B2; Bildung/Universität; Joins ton CV à ta candidature, s'il te plaît.; Bitte füge der Bewerbung deinen Lebenslauf bei.
-fr-sb-0123; Zulassung; l'admission; ; B2; Bildung/Universität; Elle attend encore son admission à l'université.; Sie wartet noch auf ihre Zulassung zur Universität.
+fr-sb-0123; Zulassung (Studium); l'admission; ; B2; Bildung/Universität; Elle attend encore son admission à l'université.; Sie wartet noch auf ihre Zulassung zur Universität.
 fr-sb-0124; Einschreibung; l'inscription; ; B2; Bildung/Universität; Le délai d'inscription se termine à la mi-septembre.; Die Frist für die Einschreibung endet Mitte September.
 fr-sb-0125; Abschlussfeier; la cérémonie de remise des diplômes; la remise des diplômes; B2; Bildung/Universität; Toute la famille est venue à sa cérémonie de remise des diplômes.; Die ganze Familie kam zu ihrer Abschlussfeier.
 fr-sb-0126; Chancengleichheit; l'égalité des chances; ; C1; Bildung/Bildungspolitik; L'égalité des chances dans l'éducation reste un objectif lointain.; Chancengleichheit in der Bildung bleibt ein fernes Ziel.

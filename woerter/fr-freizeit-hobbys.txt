@@ -15,7 +15,7 @@ fr-fh-0012; Foto; la photo; la photographie; A1; Freizeit/Hobbys; Il prend une p
 fr-fh-0013; malen; peindre; ; A1; Freizeit/Basteln & Handwerk; Les enfants peignent des tableaux colorés pour leur grand-mère.; Die Kinder malen bunte Bilder für ihre Großmutter.
 fr-fh-0014; schwimmen; nager; ; A1; Freizeit/Hobbys, Freizeit/Sport/Sportarten; En été, nous nageons dans le lac.; Im Sommer schwimmen wir im See.
 fr-fh-0015; Ball; la balle; le ballon; A1; Freizeit/Spiele; Le chien me rapporte la balle.; Der Hund bringt mir den Ball zurück.
-fr-fh-0016; Karte; la carte; la carte à jouer; A1; Freizeit/Spiele; Elle a la meilleure carte en main.; Sie hält die beste Spielkarte in der Hand.
+fr-fh-0016; Karte (Spielkarte); la carte; la carte à jouer; A1; Freizeit/Spiele; Elle a la meilleure carte en main.; Sie hält die beste Spielkarte in der Hand.
 fr-fh-0017; Gitarre; la guitare; ; A1; Freizeit/Musik; Mon frère joue de la guitare tous les soirs.; Mein Bruder spielt jeden Abend Gitarre.
 fr-fh-0018; Kino; le cinéma; ; A1; Freizeit/Ausgehen; Nous allons au cinéma vendredi soir.; Wir gehen am Freitagabend ins Kino.
 fr-fh-0019; Geburtstag; l'anniversaire; ; A1; Freizeit/Feste & Feiern; Cette année, son anniversaire est en mai.; Ihr Geburtstag ist dieses Jahr im Mai.
@@ -26,7 +26,7 @@ fr-fh-0023; fernsehen; regarder la télévision; regarder la télé; A1; Freizei
 fr-fh-0024; kochen; cuisiner; faire la cuisine; A1; Freizeit/Hobbys, Alltag/Essen/Kochen; Le dimanche, je cuisine pour toute la famille.; Sonntags koche ich für die ganze Familie.
 fr-fh-0025; Garten; le jardin; ; A1; Freizeit/Hobbys; Elle travaille dans son jardin tous les week-ends.; Sie arbeitet jedes Wochenende in ihrem Garten.
 fr-fh-0026; Brettspiel; le jeu de société; ; A2; Freizeit/Spiele; Les jours de pluie, nous jouons à un jeu de société.; An Regentagen spielen wir ein Brettspiel.
-fr-fh-0027; Würfel; le dé; les dés; A2; Freizeit/Spiele; Lance le dé et avance de trois cases.; Wirf den Würfel und ziehe drei Felder vor.
+fr-fh-0027; Würfel (Spiel); le dé; les dés; A2; Freizeit/Spiele; Lance le dé et avance de trois cases.; Wirf den Würfel und ziehe drei Felder vor.
 fr-fh-0028; gewinnen; gagner; ; A2; Freizeit/Spiele; Cette fois, elle veut gagner la partie.; Sie will das Spiel diesmal gewinnen.
 fr-fh-0029; verlieren; perdre; ; A2; Freizeit/Spiele; Personne n'aime perdre deux parties de suite.; Niemand verliert gern zwei Spiele hintereinander.
 fr-fh-0030; Konzert; le concert; ; A2; Freizeit/Musik; Le concert commence à huit heures dans le parc.; Das Konzert beginnt um acht im Park.
@@ -64,7 +64,7 @@ fr-fh-0061; Schach; les échecs; ; B1; Freizeit/Spiele; Il joue aux échecs avec
 fr-fh-0062; Kartenspiel; le jeu de cartes; ; B1; Freizeit/Spiele; Ce jeu de cartes est très facile à apprendre.; Dieses Kartenspiel ist sehr leicht zu lernen.
 fr-fh-0063; Wettbewerb; le concours; la compétition; B1; Freizeit/Spiele; Elle a gagné le premier prix du concours photo.; Sie gewann den ersten Preis beim Fotowettbewerb.
 fr-fh-0064; Turnier; le tournoi; ; B1; Freizeit/Spiele; Le club organise un tournoi d'échecs chaque printemps.; Der Verein organisiert jedes Frühjahr ein Schachturnier.
-fr-fh-0065; Preis; le prix; la récompense; B1; Freizeit/Spiele; Le prix pour le gagnant est un séjour d'un week-end.; Der Preis für den Sieger ist eine Wochenendreise.
+fr-fh-0065; Preis (Gewinn); le prix; la récompense; B1; Freizeit/Spiele; Le prix pour le gagnant est un séjour d'un week-end.; Der Preis für den Sieger ist eine Wochenendreise.
 fr-fh-0066; Bühne; la scène; ; B1; Freizeit/Musik; Le groupe est monté sur scène à neuf heures.; Die Band betrat um neun die Bühne.
 fr-fh-0067; Auftritt; la prestation; la représentation, l'apparition; B1; Freizeit/Musik; Sa première prestation a rendu toute la famille fière.; Ihr erster Auftritt machte die ganze Familie stolz.
 fr-fh-0068; Publikum; le public; ; B1; Freizeit/Musik; Le public a applaudi pendant presque dix minutes.; Das Publikum klatschte fast zehn ganze Minuten.
@@ -73,24 +73,24 @@ fr-fh-0070; Veranstaltung; l'événement; la manifestation; B1; Freizeit/Ausgehe
 fr-fh-0071; stattfinden; avoir lieu; ; B1; Freizeit/Feste & Feiern; La fête aura lieu fin août.; Das Fest findet Ende August statt.
 fr-fh-0072; Schlagzeug; la batterie; ; B1; Freizeit/Musik; Il joue de la batterie depuis l'âge de douze ans.; Er spielt Schlagzeug, seit er zwölf ist.
 fr-fh-0073; Geige; le violon; ; B1; Freizeit/Musik; Le violon est un instrument difficile, mais beau.; Die Geige ist ein schwieriges, aber schönes Instrument.
-fr-fh-0074; Band; le groupe; ; B1; Freizeit/Musik; Leur groupe joue dans un garage près de la gare.; Ihre Band spielt in einer Garage am Bahnhof.
+fr-fh-0074; Band (Musikgruppe); le groupe; ; B1; Freizeit/Musik; Leur groupe joue dans un garage près de la gare.; Ihre Band spielt in einer Garage am Bahnhof.
 fr-fh-0075; proben; répéter; ; B1; Freizeit/Musik; La troupe répète deux fois par semaine pour le spectacle.; Die Gruppe probt zweimal pro Woche für die Show.
 fr-fh-0076; Melodie; la mélodie; l'air; B1; Freizeit/Musik; La mélodie m'est restée en tête pendant des jours.; Die Melodie blieb mir tagelang im Kopf.
 fr-fh-0077; Roman; le roman; ; B1; Freizeit/Lesen; Elle écrit un roman sur sa grand-mère.; Sie schreibt einen Roman über ihre Großmutter.
 fr-fh-0078; Krimi; le polar; le roman policier; B1; Freizeit/Lesen; J'ai terminé le polar en une nuit.; Ich habe den Krimi in einer Nacht ausgelesen.
 fr-fh-0079; Gedicht; le poème; ; B1; Freizeit/Lesen; Il a écrit un petit poème pour son anniversaire.; Er schrieb ein kurzes Gedicht zu ihrem Geburtstag.
 fr-fh-0080; Lesezeichen; le marque-page; le signet; B1; Freizeit/Lesen; Mon marque-page est une vieille carte postale de Rome.; Mein Lesezeichen ist eine alte Postkarte aus Rom.
-fr-fh-0081; Handlung; l'intrigue; l'histoire, l'action; B1; Freizeit/Lesen; L'intrigue du livre est pleine de surprises.; Die Handlung des Buches ist voller Überraschungen.
+fr-fh-0081; Handlung (Geschichte); l'intrigue; l'histoire, l'action; B1; Freizeit/Lesen; L'intrigue du livre est pleine de surprises.; Die Handlung des Buches ist voller Überraschungen.
 fr-fh-0082; stricken; tricoter; ; B1; Freizeit/Basteln & Handwerk; Ma tante tricote des chaussettes chaudes pour toute la famille.; Meine Tante strickt warme Socken für die ganze Familie.
 fr-fh-0083; nähen; coudre; ; B1; Freizeit/Basteln & Handwerk; Elle coud ses propres robes avec du vieux tissu.; Sie näht ihre eigenen Kleider aus altem Stoff.
 fr-fh-0084; Werkstatt; l'atelier; ; B1; Freizeit/Basteln & Handwerk; Il fabrique de petites tables dans son petit atelier.; Er baut kleine Tische in seiner kleinen Werkstatt.
 fr-fh-0085; Feuerwerk; le feu d'artifice; ; B1; Freizeit/Feste & Feiern; Le feu d'artifice au-dessus de la rivière a duré vingt minutes.; Das Feuerwerk über dem Fluss dauerte zwanzig Minuten.
-fr-fh-0086; Umzug; le défilé; le cortège; B1; Freizeit/Feste & Feiern; Le défilé coloré avance lentement à travers la vieille ville.; Der bunte Umzug zieht langsam durch die Altstadt.
+fr-fh-0086; Umzug (Festzug); le défilé; le cortège; B1; Freizeit/Feste & Feiern; Le défilé coloré avance lentement à travers la vieille ville.; Der bunte Umzug zieht langsam durch die Altstadt.
 fr-fh-0087; Kostüm; le costume; le déguisement; B1; Freizeit/Feste & Feiern; Son costume a gagné un petit prix à la fête.; Ihr Kostüm gewann einen kleinen Preis auf der Party.
 fr-fh-0088; Kneipe; le bistrot; le bar, le pub, le café; B1; Freizeit/Ausgehen; Nous nous retrouvons au bistrot du coin.; Wir treffen uns in der Kneipe um die Ecke.
 fr-fh-0089; Zuschauer; le spectateur; la spectatrice; B1; Freizeit/Ausgehen; Chaque spectateur a reçu une boisson gratuite avant le spectacle.; Jeder Zuschauer bekam vor der Show ein Freigetränk.
 fr-fh-0090; unterhalten; divertir; amuser; B1; Freizeit/Ausgehen; Le magicien a diverti les enfants pendant une heure.; Der Zauberer unterhielt die Kinder eine Stunde lang.
-fr-fh-0091; Unterhaltung; le divertissement; les animations, l'animation; B1; Freizeit/Ausgehen; L'hôtel propose des divertissements pour petits et grands.; Das Hotel bietet Unterhaltung für Jung und Alt.
+fr-fh-0091; Unterhaltung (Vergnügen); le divertissement; les animations, l'animation; B1; Freizeit/Ausgehen; L'hôtel propose des divertissements pour petits et grands.; Das Hotel bietet Unterhaltung für Jung und Alt.
 fr-fh-0092; Entspannung; la détente; la relaxation; B1; Freizeit/Hobbys; Pour ma mère si occupée, le jardinage, c'est la détente totale.; Gartenarbeit ist für meine beschäftigte Mutter pure Entspannung.
 fr-fh-0093; entspannen; se détendre; se relaxer; B1; Freizeit/Hobbys; Après le travail, il se détend en écoutant de la musique douce.; Nach der Arbeit entspannt er bei leiser Musik.
 fr-fh-0094; Billard; le billard; ; B1; Freizeit/Spiele; Ils jouent au billard dans l'arrière-salle.; Sie spielen dort im Hinterzimmer Billard.
@@ -109,7 +109,7 @@ fr-fh-0106; Komponist; le compositeur; la compositrice; B2; Freizeit/Musik; Le c
 fr-fh-0107; komponieren; composer; ; B2; Freizeit/Musik; Elle compose de courts morceaux pour piano et violon.; Sie komponiert kurze Stücke für Klavier und Geige.
 fr-fh-0108; Notenblatt; la partition; ; B2; Freizeit/Musik; Il a perdu sa partition juste avant le concert.; Er verlor sein Notenblatt direkt vor dem Konzert.
 fr-fh-0109; Literatur; la littérature; ; B2; Freizeit/Lesen; Elle connaît bien la littérature française moderne.; Sie weiß viel über moderne französische Literatur.
-fr-fh-0110; Spannung; le suspense; la tension; B2; Freizeit/Lesen; L'auteur fait monter le suspense lentement, mais sûrement.; Der Autor baut die Spannung langsam, aber sicher auf.
+fr-fh-0110; Spannung (Buch, Film); le suspense; la tension; B2; Freizeit/Lesen; L'auteur fait monter le suspense lentement, mais sûrement.; Der Autor baut die Spannung langsam, aber sicher auf.
 fr-fh-0111; Nachtleben; la vie nocturne; ; B2; Freizeit/Ausgehen; Dans ce quartier, la vie nocturne ne s'arrête jamais vraiment.; Das Nachtleben in diesem Viertel hört nie wirklich auf.
 fr-fh-0112; Stimmung; l'ambiance; l'atmosphère; B2; Freizeit/Feste & Feiern; L'ambiance à la fête était chaleureuse et détendue.; Die Stimmung auf dem Fest war warm und entspannt.
 fr-fh-0113; ausgelassen; exubérant; déchaîné, joyeux; B2; Freizeit/Feste & Feiern; La foule exubérante a dansé jusqu'au petit matin.; Die ausgelassene Menge tanzte bis in den frühen Morgen.

@@ -15,7 +15,7 @@ fr-et-0012; Salz; le sel; ; A1; Alltag/Essen/Kochen; La soupe a besoin d'un peu 
 fr-et-0013; Butter; le beurre; ; A1; Alltag/Essen/Lebensmittel; Étale un peu de beurre sur le pain chaud.; Streich etwas Butter auf das warme Brot.
 fr-et-0014; Reis; le riz; ; A1; Alltag/Essen/Lebensmittel; Ce soir, nous faisons du riz avec le poulet.; Wir kochen heute Abend Reis zum Hähnchen.
 fr-et-0015; Suppe; la soupe; le potage; A1; Alltag/Essen/Mahlzeiten; Cette soupe de tomates est vraiment chaude.; Diese Tomatensuppe ist wirklich heiß.
-fr-et-0016; Kuchen; le gâteau; ; A1; Alltag/Essen/Lebensmittel; Ma grand-mère fait un gâteau tous les dimanches.; Meine Großmutter backt jeden Sonntag einen Kuchen.
+fr-et-0016; Kuchen; le gâteau; la tarte; A1; Alltag/Essen/Lebensmittel; Ma grand-mère fait un gâteau tous les dimanches.; Meine Großmutter backt jeden Sonntag einen Kuchen.
 fr-et-0017; Obst; les fruits; le fruit; A1; Alltag/Essen/Lebensmittel; Les fruits frais sont bons pour la santé.; Frisches Obst ist gut für deine Gesundheit.
 fr-et-0018; Gemüse; les légumes; le légume; A1; Alltag/Essen/Lebensmittel; Les enfants devraient manger plus de légumes tous les jours.; Kinder sollten jeden Tag mehr Gemüse essen.
 fr-et-0019; Saft; le jus; ; A1; Alltag/Essen/Getränke; Le jus d'orange est meilleur quand il est frais.; Orangensaft schmeckt am besten frisch.
@@ -38,7 +38,7 @@ fr-et-0035; Schinken; le jambon; ; A2; Alltag/Essen/Lebensmittel; Je voudrais un
 fr-et-0036; Nudeln; les pâtes; les nouilles; A2; Alltag/Essen/Lebensmittel; Les enfants veulent des pâtes à la sauce tomate.; Die Kinder wollen Nudeln mit Tomatensoße.
 fr-et-0037; Salat; la salade; ; A2; Alltag/Essen/Mahlzeiten; J'ai commandé une salade verte avec mon steak.; Ich habe einen grünen Salat zum Steak bestellt.
 fr-et-0038; Schokolade; le chocolat; ; A2; Alltag/Essen/Lebensmittel; Le chocolat noir est moins sucré que le chocolat au lait.; Dunkle Schokolade ist weniger süß als Milchschokolade.
-fr-et-0039; Eis; la glace; ; A2; Alltag/Essen/Lebensmittel; Les enfants veulent une glace après le dîner.; Die Kinder wollen nach dem Abendessen Eis.
+fr-et-0039; Eis (Speiseeis); la glace; ; A2; Alltag/Essen/Lebensmittel; Les enfants veulent une glace après le dîner.; Die Kinder wollen nach dem Abendessen Eis.
 fr-et-0040; Honig; le miel; ; A2; Alltag/Essen/Lebensmittel; Elle met du miel dans son thé.; Sie gibt Honig in ihren Tee.
 fr-et-0041; Mehl; la farine; ; A2; Alltag/Essen/Kochen; Il nous faut de la farine et des œufs pour la pâte.; Wir brauchen Mehl und Eier für den Teig.
 fr-et-0042; Öl; l'huile; ; A2; Alltag/Essen/Kochen; Fais d'abord chauffer un peu d'huile dans la poêle.; Erhitze zuerst etwas Öl in der Pfanne.
@@ -66,16 +66,16 @@ fr-et-0063; Nachtisch; le dessert; ; B1; Alltag/Essen/Restaurant; Comme dessert,
 fr-et-0064; Trinkgeld; le pourboire; ; B1; Alltag/Essen/Restaurant; Il a laissé un pourboire généreux au serveur.; Er gab dem Kellner ein großzügiges Trinkgeld.
 fr-et-0065; reservieren; réserver; ; B1; Alltag/Essen/Restaurant; Je voudrais réserver une table pour quatre personnes.; Ich möchte einen Tisch für vier Personen reservieren.
 fr-et-0066; empfehlen; recommander; conseiller; B1; Alltag/Essen/Restaurant; Tu peux me recommander un bon restaurant du coin ?; Kannst du ein gutes lokales Restaurant empfehlen?
-fr-et-0067; Rezept; la recette; ; B1; Alltag/Essen/Kochen; Cette recette vient de ma grand-mère italienne.; Dieses Rezept stammt von meiner italienischen Großmutter.
+fr-et-0067; Rezept (Kochen); la recette; ; B1; Alltag/Essen/Kochen; Cette recette vient de ma grand-mère italienne.; Dieses Rezept stammt von meiner italienischen Großmutter.
 fr-et-0068; Zutat; l'ingrédient; ; B1; Alltag/Essen/Kochen; L'ingrédient le plus important, c'est l'ail frais.; Die wichtigste Zutat ist frischer Knoblauch.
 fr-et-0069; würzen; assaisonner; épicer; B1; Alltag/Essen/Kochen; Assaisonne bien la viande avant de la faire frire.; Würze das Fleisch gut bevor du es brätst.
 fr-et-0070; probieren; goûter; essayer; B1; Alltag/Essen/Geschmack; Tu dois goûter ce fromage extraordinaire.; Du musst diesen fantastischen Käse probieren.
 fr-et-0071; schmecken; avoir un goût; être bon; B1; Alltag/Essen/Geschmack; La sauce doit avoir un goût légèrement sucré.; Die Soße sollte leicht süß schmecken.
 fr-et-0072; süß; sucré; doux; B1; Alltag/Essen/Geschmack; Ce dessert est trop sucré pour moi.; Dieser Nachtisch ist mir zu süß.
-fr-et-0073; sauer; acide; aigre; B1; Alltag/Essen/Geschmack; La sauce au citron est agréablement acide.; Die Zitronensoße ist angenehm sauer.
+fr-et-0073; sauer (Geschmack); acide; aigre; B1; Alltag/Essen/Geschmack; La sauce au citron est agréablement acide.; Die Zitronensoße ist angenehm sauer.
 fr-et-0074; salzig; salé; ; B1; Alltag/Essen/Geschmack; Les frites étaient beaucoup trop salées.; Die Pommes waren viel zu salzig.
 fr-et-0075; bitter; amer; ; B1; Alltag/Essen/Geschmack; Un bon chocolat noir a un goût légèrement amer.; Gute dunkle Schokolade schmeckt leicht bitter.
-fr-et-0076; scharf; épicé; piquant, relevé; B1; Alltag/Essen/Geschmack; J'adore la cuisine épicée de Thaïlande.; Ich liebe scharfes Essen aus Thailand.
+fr-et-0076; scharf (Essen); épicé; piquant, relevé; B1; Alltag/Essen/Geschmack; J'adore la cuisine épicée de Thaïlande.; Ich liebe scharfes Essen aus Thailand.
 fr-et-0077; lecker; délicieux; bon; B1; Alltag/Essen/Geschmack; La pizza maison était absolument délicieuse.; Die selbstgemachte Pizza war absolut lecker.
 fr-et-0078; frisch; frais; ; B1; Alltag/Essen/Lebensmittel; Le poisson de ce marché est toujours frais.; Der Fisch auf diesem Markt ist immer frisch.
 fr-et-0079; roh; cru; ; B1; Alltag/Essen/Kochen; On peut manger les carottes crues ou cuites.; Man kann Karotten roh oder gekocht essen.
@@ -106,7 +106,7 @@ fr-et-0103; anbraten; saisir; faire revenir, faire dorer; B2; Alltag/Essen/Koche
 fr-et-0104; dämpfen; cuire à la vapeur; ; B2; Alltag/Essen/Kochen; Tu devrais cuire les légumes à la vapeur, en douceur.; Du solltest das Gemüse schonend dämpfen.
 fr-et-0105; schmoren; braiser; mijoter, faire mijoter; B2; Alltag/Essen/Kochen; Fais braiser le bœuf lentement pendant trois heures.; Schmore das Rindfleisch langsam drei Stunden lang.
 fr-et-0106; rühren; remuer; mélanger, tourner; B2; Alltag/Essen/Kochen; Remue la sauce pour qu'elle n'attache pas.; Rühre die Soße damit sie nicht anbrennt.
-fr-et-0107; gießen; verser; ; B2; Alltag/Essen/Kochen; Verse lentement la pâte dans la poêle.; Gieße den Teig langsam in die Pfanne.
+fr-et-0107; gießen (Flüssigkeit); verser; ; B2; Alltag/Essen/Kochen; Verse lentement la pâte dans la poêle.; Gieße den Teig langsam in die Pfanne.
 fr-et-0108; abschmecken; rectifier l'assaisonnement; goûter et assaisonner; B2; Alltag/Essen/Kochen; Rectifie l'assaisonnement de la soupe avant de servir.; Schmecke die Suppe vor dem Servieren ab.
 fr-et-0109; Herd; la cuisinière; les plaques de cuisson; B2; Alltag/Essen/Kochen; Tu as éteint la cuisinière ?; Hast du den Herd ausgemacht?
 fr-et-0110; Backofen; le four; ; B2; Alltag/Essen/Kochen; Préchauffe le four à deux cents degrés.; Heize den Backofen auf zweihundert Grad vor.
@@ -115,7 +115,7 @@ fr-et-0112; Schüssel; le saladier; le bol; B2; Alltag/Essen/Kochen; Mélange to
 fr-et-0113; Geschirr; la vaisselle; ; B2; Alltag/Essen/Mahlzeiten; Qui fait la vaisselle ce soir ?; Wer spült heute Abend das Geschirr?
 fr-et-0114; Besteck; les couverts; ; B2; Alltag/Essen/Mahlzeiten; Mets les couverts sur la table, s'il te plaît.; Leg bitte das Besteck auf den Tisch.
 fr-et-0115; Mahlzeit; le repas; ; B2; Alltag/Essen/Mahlzeiten; Un repas chaud le soir, ça fait du bien.; Eine warme Mahlzeit am Abend tut gut.
-fr-et-0116; Imbiss; le snack; la friterie, le stand de restauration rapide; B2; Alltag/Essen/Restaurant; Près de la gare, il y a un bon snack.; In der Nähe des Bahnhofs gibt es einen guten Imbiss.
+fr-et-0116; Imbiss (Lokal); le snack; la friterie, le stand de restauration rapide; B2; Alltag/Essen/Restaurant; Près de la gare, il y a un bon snack.; In der Nähe des Bahnhofs gibt es einen guten Imbiss.
 fr-et-0117; Feinschmecker; le gourmet; le gastronome, le fin gourmet; B2; Alltag/Essen/Geschmack; Mon oncle est un vrai gourmet.; Mein Onkel ist ein echter Feinschmecker.
 fr-et-0118; herzhaft; salé; consistant, copieux; B2; Alltag/Essen/Geschmack; Je préfère un petit-déjeuner salé à un petit-déjeuner sucré.; Ich mag herzhaftes Frühstück lieber als süßes.
 fr-et-0119; zart; tendre; ; B2; Alltag/Essen/Geschmack; La viande était si tendre qu'elle fondait dans la bouche.; Das Fleisch war so zart dass es zerging.

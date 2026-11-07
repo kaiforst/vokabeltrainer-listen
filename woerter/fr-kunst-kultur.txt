@@ -4,7 +4,7 @@ fr-kk-0001; Museum; le musée; ; A1; Kultur/Kunst & Museum; Nous avons visité l
 fr-kk-0002; Bild; l'image; le tableau; A1; Kultur/Kunst & Museum; Il y a une belle image au mur.; An der Wand hängt ein schönes Bild.
 fr-kk-0003; malen; peindre; ; A1; Kultur/Kunst & Museum; Ma fille aime peindre des fleurs colorées.; Meine Tochter malt gern bunte Blumen.
 fr-kk-0004; Kunst; l'art; ; A1; Kultur/Kunst & Museum; L'art moderne n'est pas toujours facile à comprendre.; Moderne Kunst ist nicht immer leicht zu verstehen.
-fr-kk-0005; Farbe; la couleur; la peinture; A2; Kultur/Kunst & Museum; Le bleu est ma couleur préférée dans les tableaux.; Blau ist meine Lieblingsfarbe auf Gemälden.
+fr-kk-0005; Farbe (Farbton); la couleur; ; A2; Kultur/Kunst & Museum; Le bleu est ma couleur préférée dans les tableaux.; Blau ist meine Lieblingsfarbe auf Gemälden.
 fr-kk-0006; Künstler; l'artiste; ; A2; Kultur/Kunst & Museum; Le jeune artiste vend ses œuvres en ligne.; Der junge Künstler verkauft seine Werke online.
 fr-kk-0007; zeichnen; dessiner; ; A2; Kultur/Kunst & Museum; Il a appris à dessiner des visages à l'école.; Er hat in der Schule gelernt, Gesichter zu zeichnen.
 fr-kk-0008; Zeichnung; le dessin; le croquis; A2; Kultur/Kunst & Museum; Elle m'a montré un dessin de son chat.; Sie zeigte mir eine Zeichnung ihrer Katze.
@@ -14,7 +14,7 @@ fr-kk-0011; Ausstellung; l'exposition; ; B1; Kultur/Kunst & Museum; L'exposition
 fr-kk-0012; Galerie; la galerie; ; B1; Kultur/Kunst & Museum; Une petite galerie présente des artistes locaux chaque mois.; Eine kleine Galerie zeigt jeden Monat lokale Künstler.
 fr-kk-0013; Skulptur; la sculpture; ; B1; Kultur/Kunst & Museum; La sculpture du parc est en bronze.; Die Skulptur im Park ist aus Bronze.
 fr-kk-0014; Porträt; le portrait; ; B1; Kultur/Kunst & Museum; Le roi a commandé un portrait de sa famille.; Der König gab ein Porträt seiner Familie in Auftrag.
-fr-kk-0015; Leinwand; la toile; ; B1; Kultur/Kunst & Museum; Elle a tendu une nouvelle toile pour sa prochaine œuvre.; Sie spannte eine neue Leinwand für ihr nächstes Werk.
+fr-kk-0015; Leinwand (Malerei); la toile; ; B1; Kultur/Kunst & Museum; Elle a tendu une nouvelle toile pour sa prochaine œuvre.; Sie spannte eine neue Leinwand für ihr nächstes Werk.
 fr-kk-0016; Kunstwerk; l'œuvre d'art; l'œuvre; B1; Kultur/Kunst & Museum; Chaque œuvre d'art raconte sa propre histoire.; Jedes Kunstwerk erzählt seine eigene Geschichte.
 fr-kk-0017; Sammlung; la collection; ; B1; Kultur/Kunst & Museum; Le musée possède une célèbre collection de pièces anciennes.; Das Museum besitzt eine berühmte Sammlung alter Münzen.
 fr-kk-0018; Meisterwerk; le chef-d'œuvre; ; B2; Kultur/Kunst & Museum; Les critiques qualifient le tableau de véritable chef-d'œuvre.; Kritiker nennen das Gemälde ein absolutes Meisterwerk.
@@ -38,10 +38,10 @@ fr-kk-0035; Bühne; la scène; ; A2; Kultur/Theater & Film; Les enfants se tenai
 fr-kk-0036; Komödie; la comédie; ; A2; Kultur/Theater & Film; Nous avons beaucoup ri pendant la comédie.; Wir haben während der Komödie viel gelacht.
 fr-kk-0037; Eintrittskarte; le billet; le ticket, la place; A2; Kultur/Theater & Film; J'ai acheté deux billets pour la représentation du soir.; Ich habe zwei Eintrittskarten für die Abendvorstellung gekauft.
 fr-kk-0038; Publikum; le public; ; B1; Kultur/Theater & Film; Le public a applaudi pendant presque dix minutes.; Das Publikum klatschte fast zehn Minuten lang.
-fr-kk-0039; Vorstellung; la représentation; le spectacle, la séance; B1; Kultur/Theater & Film; La dernière représentation était complètement à guichets fermés.; Die letzte Vorstellung war komplett ausverkauft.
+fr-kk-0039; Vorstellung (Theater); la représentation; le spectacle, la séance; B1; Kultur/Theater & Film; La dernière représentation était complètement à guichets fermés.; Die letzte Vorstellung war komplett ausverkauft.
 fr-kk-0040; Regisseur; le metteur en scène; le réalisateur, la réalisatrice; B1; Kultur/Theater & Film; Le metteur en scène a expliqué la scène aux acteurs.; Der Regisseur erklärte den Schauspielern die Szene.
 fr-kk-0041; Dramaturgie; la dramaturgie; ; C2; Kultur/Theater & Film; La dramaturgie de la pièce construit la tension très lentement.; Die Dramaturgie des Stücks baut die Spannung sehr langsam auf.
-fr-kk-0042; Probe; la répétition; ; B1; Kultur/Theater & Film; La dernière répétition a duré jusqu'à minuit.; Die letzte Probe dauerte bis Mitternacht.
+fr-kk-0042; Probe (Theater); la répétition; ; B1; Kultur/Theater & Film; La dernière répétition a duré jusqu'à minuit.; Die letzte Probe dauerte bis Mitternacht.
 fr-kk-0043; Applaus; les applaudissements; ; B1; Kultur/Theater & Film; La chanteuse a remercié le public pour ses chaleureux applaudissements.; Die Sängerin dankte dem Publikum für den herzlichen Applaus.
 fr-kk-0044; Vorhang; le rideau; ; B1; Kultur/Theater & Film; Le rideau s'est levé et la pièce a commencé.; Der Vorhang hob sich und das Stück begann.
 fr-kk-0045; Tragödie; la tragédie; ; B1; Kultur/Theater & Film; La tragédie se termine par la mort du héros.; Die Tragödie endet mit dem Tod des Helden.
@@ -50,7 +50,7 @@ fr-kk-0047; Drehbuch; le scénario; ; B2; Kultur/Theater & Film; Elle a écrit l
 fr-kk-0048; Hauptrolle; le rôle principal; ; B2; Kultur/Theater & Film; Il a obtenu le rôle principal dans la nouvelle série.; Er bekam die Hauptrolle in der neuen Serie.
 fr-kk-0049; Nebenrolle; le second rôle; le rôle secondaire; B2; Kultur/Theater & Film; Même dans un second rôle, elle a impressionné les critiques.; Selbst in einer Nebenrolle beeindruckte sie die Kritiker.
 fr-kk-0050; Premiere; la première; ; B2; Kultur/Theater & Film; Beaucoup de stars sont venues à la première à Munich.; Viele Stars kamen zur Premiere nach München.
-fr-kk-0051; Besetzung; la distribution; le casting; B2; Kultur/Theater & Film; Le film convainc par une excellente distribution.; Der Film überzeugt mit einer hervorragenden Besetzung.
+fr-kk-0051; Besetzung (Film, Theater); la distribution; le casting; B2; Kultur/Theater & Film; Le film convainc par une excellente distribution.; Der Film überzeugt mit einer hervorragenden Besetzung.
 fr-kk-0052; Spielfilm; le long métrage; le long-métrage; B2; Kultur/Theater & Film; Son premier long métrage a remporté plusieurs prix internationaux.; Ihr erster Spielfilm gewann mehrere internationale Preise.
 fr-kk-0053; Synchronisation; le doublage; ; C1; Kultur/Theater & Film; En Allemagne, le doublage des films étrangers est très répandu.; In Deutschland ist die Synchronisation ausländischer Filme sehr verbreitet.
 fr-kk-0054; Bühnenbild; le décor; la scénographie; C1; Kultur/Theater & Film; Le décor minimaliste attirait l'attention sur les acteurs.; Das minimalistische Bühnenbild lenkte die Aufmerksamkeit auf die Schauspieler.
@@ -70,16 +70,16 @@ fr-kk-0067; veröffentlichen; publier; ; B1; Kultur/Literatur; Elle veut publier
 fr-kk-0068; Übersetzung; la traduction; ; B1; Kultur/Literatur; La traduction anglaise est parue deux ans plus tard.; Die englische Übersetzung erschien zwei Jahre später.
 fr-kk-0069; Figur; le personnage; ; B1; Kultur/Literatur; Le personnage principal change complètement au fil de l'histoire.; Die Hauptfigur verändert sich im Laufe der Geschichte völlig.
 fr-kk-0070; Kapitel; le chapitre; ; A2; Kultur/Literatur; J'ai lu le premier chapitre dans le train.; Ich habe das erste Kapitel im Zug gelesen.
-fr-kk-0071; Gattung; le genre; le genre littéraire; C1; Kultur/Literatur; La nouvelle est un genre littéraire exigeant.; Die Kurzgeschichte ist eine anspruchsvolle literarische Gattung.
+fr-kk-0071; Gattung (Literatur); le genre; le genre littéraire; C1; Kultur/Literatur; La nouvelle est un genre littéraire exigeant.; Die Kurzgeschichte ist eine anspruchsvolle literarische Gattung.
 fr-kk-0072; Sinnbild; l'emblème; le symbole, l'allégorie; C2; Kultur/Literatur; La colombe blanche sert d'emblème de la paix.; Die weiße Taube dient als Sinnbild des Friedens.
-fr-kk-0073; Handlung; l'intrigue; l'action; B2; Kultur/Literatur; L'intrigue prend plusieurs tournures surprenantes.; Die Handlung nimmt mehrere überraschende Wendungen.
+fr-kk-0073; Handlung (Geschichte); l'intrigue; l'action; B2; Kultur/Literatur; L'intrigue prend plusieurs tournures surprenantes.; Die Handlung nimmt mehrere überraschende Wendungen.
 fr-kk-0074; Lyrik; la poésie; ; B2; Kultur/Literatur; La poésie moderne se passe souvent complètement de rimes.; Moderne Lyrik kommt oft ganz ohne Reim aus.
 fr-kk-0075; Erzählung; le récit; la nouvelle; B2; Kultur/Literatur; Le récit se déroule dans un petit village de pêcheurs.; Die Erzählung spielt in einem kleinen Fischerdorf.
 fr-kk-0076; Sprichwort; le proverbe; le dicton; B2; Kultur/Literatur; Un vieux proverbe dit que le temps guérit toutes les blessures.; Ein altes Sprichwort sagt, dass Zeit alle Wunden heilt.
 fr-kk-0077; Lesung; la lecture publique; la lecture; B2; Kultur/Literatur; L'auteur a donné une lecture publique à la bibliothèque municipale.; Der Autor hielt eine Lesung in der Stadtbibliothek.
-fr-kk-0078; Auflage; l'édition; le tirage; C1; Kultur/Literatur; La première édition a été épuisée en une semaine.; Die erste Auflage war innerhalb einer Woche vergriffen.
+fr-kk-0078; Auflage (Ausgabe); l'édition; le tirage; C1; Kultur/Literatur; La première édition a été épuisée en une semaine.; Die erste Auflage war innerhalb einer Woche vergriffen.
 fr-kk-0079; Metapher; la métaphore; ; C1; Kultur/Literatur; Le poète utilise la mer comme métaphore de la liberté.; Der Dichter benutzt das Meer als Metapher für Freiheit.
-fr-kk-0080; Nachlass; les archives posthumes; l'héritage littéraire, le fonds; C2; Kultur/Literatur; Des chercheurs étudient les archives posthumes de l'écrivain.; Forscher untersuchen den Nachlass des Schriftstellers.
+fr-kk-0080; Nachlass (Erbe); les archives posthumes; l'héritage littéraire, le fonds; C2; Kultur/Literatur; Des chercheurs étudient les archives posthumes de l'écrivain.; Forscher untersuchen den Nachlass des Schriftstellers.
 fr-kk-0081; Musik; la musique; ; A1; Kultur/Musik; J'écoute de la musique sur le chemin du travail.; Ich höre Musik auf dem Weg zur Arbeit.
 fr-kk-0082; Lied; la chanson; ; A1; Kultur/Musik; Cette chanson était très populaire l'été dernier.; Dieses Lied war letzten Sommer sehr beliebt.
 fr-kk-0083; singen; chanter; ; A1; Kultur/Musik; Les enfants chantent une chanson tous les matins.; Die Kinder singen jeden Morgen ein Lied.
@@ -110,7 +110,7 @@ fr-kk-0107; Kirche; l'église; ; A2; Kultur/Architektur; La vieille église se t
 fr-kk-0108; Turm; la tour; ; A2; Kultur/Architektur; Depuis la tour, on voit toute la ville.; Vom Turm aus sieht man die ganze Stadt.
 fr-kk-0109; Brücke; le pont; ; A2; Kultur/Architektur; Le pont relie les deux quartiers de la ville.; Die Brücke verbindet die beiden Stadtteile.
 fr-kk-0110; Gebäude; le bâtiment; l'édifice, l'immeuble; A2; Kultur/Architektur; Ce bâtiment est le plus haut du pays.; Dieses Gebäude ist das höchste im Land.
-fr-kk-0111; Schloss; le château; le palais; B1; Kultur/Architektur, Reisen/Urlaub/Sightseeing; Le château sur la colline attire de nombreux touristes.; Das Schloss auf dem Hügel zieht viele Touristen an.
+fr-kk-0111; Schloss (Gebäude); le château; le palais; B1; Kultur/Architektur, Reisen/Urlaub/Sightseeing; Le château sur la colline attire de nombreux touristes.; Das Schloss auf dem Hügel zieht viele Touristen an.
 fr-kk-0112; Architekt; l'architecte; ; B1; Kultur/Architektur; L'architecte a conçu une école moderne.; Der Architekt entwarf ein modernes Schulgebäude.
 fr-kk-0113; Architektur; l'architecture; ; B1; Kultur/Architektur; Elle étudie l'architecture dans une université à Munich.; Sie studiert Architektur an einer Universität in München.
 fr-kk-0114; Denkmal; le monument; le mémorial; B1; Kultur/Architektur; Le monument nous rappelle les victimes de la guerre.; Das Denkmal erinnert uns an die Opfer des Krieges.
@@ -125,7 +125,7 @@ fr-kk-0122; Kuppel; la coupole; le dôme; B2; Kultur/Architektur; La coupole dor
 fr-kk-0123; Grundriss; le plan; le plan au sol; C1; Kultur/Architektur; Le plan montre quatre pièces et deux salles de bains.; Der Grundriss zeigt vier Zimmer und zwei Bäder.
 fr-kk-0124; Stadtplanung; l'urbanisme; ; C1; Kultur/Architektur; Un bon urbanisme crée de l'espace pour les gens, pas pour les voitures.; Gute Stadtplanung schafft Raum für Menschen, nicht für Autos.
 fr-kk-0125; Gewölbe; la voûte; ; C2; Kultur/Architektur; L'ancienne cave à vin possède une impressionnante voûte en pierre.; Der alte Weinkeller hat ein beeindruckendes Steingewölbe.
-fr-kk-0126; Geschichte; l'histoire; ; A1; Kultur/Geschichte; Je trouve l'histoire allemande très intéressante.; Ich finde die deutsche Geschichte sehr interessant.
+fr-kk-0126; Geschichte (Vergangenheit); l'histoire; ; A1; Kultur/Geschichte; Je trouve l'histoire allemande très intéressante.; Ich finde die deutsche Geschichte sehr interessant.
 fr-kk-0127; König; le roi; ; A2; Kultur/Geschichte; Le roi vivait dans un immense palais.; Der König lebte in einem riesigen Palast.
 fr-kk-0128; Königin; la reine; ; A2; Kultur/Geschichte; La reine a salué les gens depuis le balcon.; Die Königin winkte den Menschen vom Balkon zu.
 fr-kk-0129; Krieg; la guerre; ; A2; Kultur/Geschichte; La guerre a duré presque trente ans.; Der Krieg dauerte fast dreißig Jahre.
@@ -143,7 +143,7 @@ fr-kk-0140; Archäologe; l'archéologue; ; B2; Kultur/Geschichte; L'archéologue
 fr-kk-0141; Herrschaft; le règne; la domination, le pouvoir; B2; Kultur/Geschichte; Sous son règne, l'empire s'est agrandi très vite.; Unter seiner Herrschaft wuchs das Reich sehr schnell.
 fr-kk-0142; erobern; conquérir; ; B2; Kultur/Geschichte; Les Romains ont tenté de conquérir toute la région.; Die Römer versuchten, die ganze Region zu erobern.
 fr-kk-0143; Niederlage; la défaite; ; B2; Kultur/Geschichte; La défaite a enfin mis fin à la longue guerre.; Die Niederlage beendete endlich den langen Krieg.
-fr-kk-0144; Erbe; le patrimoine; l'héritage; B2; Kultur/Geschichte; La vieille ville fait partie de notre patrimoine culturel.; Die Altstadt ist Teil unseres kulturellen Erbes.
+fr-kk-0144; Erbe (Kultur); le patrimoine; l'héritage; B2; Kultur/Geschichte; La vieille ville fait partie de notre patrimoine culturel.; Die Altstadt ist Teil unseres kulturellen Erbes.
 fr-kk-0145; Ausgrabung; les fouilles; la fouille; C1; Kultur/Geschichte; Les fouilles ont mis au jour les murs d'une villa romaine.; Die Ausgrabung legte die Mauern einer römischen Villa frei.
 fr-kk-0146; Altertum; l'Antiquité; ; C1; Kultur/Geschichte; Dès l'Antiquité, des routes commerciales reliaient l'Europe et l'Asie.; Schon im Altertum verbanden Handelswege Europa und Asien.
 fr-kk-0147; Überlieferung; la tradition; ; C1; Kultur/Geschichte; Selon la tradition, la ville a été fondée par des moines.; Der Überlieferung nach wurde die Stadt von Mönchen gegründet.

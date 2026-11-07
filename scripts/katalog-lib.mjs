@@ -18,7 +18,16 @@ export const norm = (s) =>
     .replace(/\s+/g, " ")
     .trim();
 
-/** Schlüssel eines Wortpaars: Sprache, Deutsch und Antwort in Vergleichsform */
+/**
+ * Deutsch ohne Hinweis in Klammern, in Vergleichsform: „Bank (Geldinstitut)“ → „bank“. Wie `basisNorm` in der
+ * Webseite (src/lib/katalog/zeilen.ts), damit Formen, Dubletten und Abgleich dasselbe Grundwort sehen.
+ */
+export const basis = (s) => norm((s ?? "").replace(/\s*\([^)]*\)/g, " "));
+
+/**
+ * Schlüssel eines Wortpaars: Sprache, Deutsch und Antwort in Vergleichsform – mit Klammerhinweis, denn
+ * „groß – grand“ und „groß (Körpergröße) – grand“ sind bewusst getrennte Bedeutungen (wie im Parser der App).
+ */
 export const paarSchluessel = (lang, de, antwort) => `${lang}|${norm(de ?? "")}|${norm(antwort ?? "")}`;
 
 export const ladeKatalog = () => JSON.parse(readFileSync(join(ROOT, "katalog.json"), "utf8"));

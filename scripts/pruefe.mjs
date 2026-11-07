@@ -11,7 +11,7 @@
  */
 import { existsSync, readdirSync, readFileSync } from "node:fs";
 import { join } from "node:path";
-import { ALIAS_DATEI, hauptVorschlag, leseAliase, norm, paarSchluessel, ROOT, SPRACHEN } from "./katalog-lib.mjs";
+import { ALIAS_DATEI, basis, hauptVorschlag, leseAliase, norm, paarSchluessel, ROOT, SPRACHEN } from "./katalog-lib.mjs";
 
 const args = process.argv.slice(2);
 const DUBLETTEN = args.includes("--dubletten");
@@ -75,7 +75,11 @@ for (const datei of dateien) {
       if (ids.has(id)) err(ort, `id ${id} gibt es schon (${ids.get(id)})`);
       ids.set(id, ort);
     }
-    if (de) lemmas.de.add(norm(de));
+    // Grundformen in formen/de.txt stehen ohne Klammerhinweis („Bank“ für „Bank (Geldinstitut)“)
+    if (de) {
+      lemmas.de.add(norm(de));
+      lemmas.de.add(basis(de));
+    }
     if (antwort && lang) {
       for (const a of [antwort, ...(weitere ? weitere.split(",") : [])]) lemmas[lang].add(norm(a.replace(/^to /i, "")));
       lemmas[lang].add(norm(antwort));

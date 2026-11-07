@@ -23,3 +23,8 @@ Wortdatei einer Fassung heißt `woerter/<sprache>-<quelle>.txt`, ihre Wörter `<
 Liste>` und trägt `"answerLang"`; Name „Französisch: Essen & Trinken“. Die App zeigt die Fassungen als einen Eintrag mit
 mehreren Flaggen: Zusammen gehören Listen mit gleichem `"group"` oder, ohne Angabe, mit gleicher id ohne Sprachkürzel
 vorne. Im Baum stehen alle Fassungen hintereinander, damit auch ältere App-Stände sie am richtigen Platz zeigen.
+
+**Prüfen:** `node scripts/pruefe.mjs` prüft alle Wortdateien (Felder, IDs, Niveaus, Dubletten in einer Datei,
+`count` in `katalog.json`) und `formen/*.txt`. Mit Dateinamen nur diese, mit `--dubletten` zusätzlich alle
+Wortpaare, die in mehreren Dateien stehen, samt vorgeschlagener Haupt-ID. Erweiterungen in parallelen Sessions:
+Prompt und Pakete in `docs/wortschatz-prompt.md` im App-Repo.

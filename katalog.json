@@ -1006,54 +1006,54 @@
     {
       "id": "ausbau-alltag",
       "file": "woerter/ausbau-alltag.txt",
-      "version": 1,
+      "version": 2,
       "count": 443
     },
     {
       "id": "fr-ausbau-alltag",
       "file": "woerter/fr-ausbau-alltag.txt",
-      "version": 1,
+      "version": 2,
       "count": 443,
       "lang": "fr"
     },
     {
       "id": "es-ausbau-alltag",
       "file": "woerter/es-ausbau-alltag.txt",
-      "version": 1,
+      "version": 2,
       "count": 443,
       "lang": "es"
     },
     {
       "id": "it-ausbau-alltag",
       "file": "woerter/it-ausbau-alltag.txt",
-      "version": 1,
+      "version": 2,
       "count": 443,
       "lang": "it"
     },
     {
       "id": "ausbau-schule-arbeit",
       "file": "woerter/ausbau-schule-arbeit.txt",
-      "version": 1,
+      "version": 2,
       "count": 440
     },
     {
       "id": "fr-ausbau-schule-arbeit",
       "file": "woerter/fr-ausbau-schule-arbeit.txt",
-      "version": 1,
+      "version": 2,
       "count": 440,
       "lang": "fr"
     },
     {
       "id": "es-ausbau-schule-arbeit",
       "file": "woerter/es-ausbau-schule-arbeit.txt",
-      "version": 1,
+      "version": 2,
       "count": 440,
       "lang": "es"
     },
     {
       "id": "it-ausbau-schule-arbeit",
       "file": "woerter/it-ausbau-schule-arbeit.txt",
-      "version": 1,
+      "version": 2,
       "count": 440,
       "lang": "it"
     },
@@ -1114,27 +1114,27 @@
     {
       "id": "ausbau-grundwoerter",
       "file": "woerter/ausbau-grundwoerter.txt",
-      "version": 1,
+      "version": 2,
       "count": 487
     },
     {
       "id": "fr-ausbau-grundwoerter",
       "file": "woerter/fr-ausbau-grundwoerter.txt",
-      "version": 2,
+      "version": 3,
       "count": 486,
       "lang": "fr"
     },
     {
       "id": "es-ausbau-grundwoerter",
       "file": "woerter/es-ausbau-grundwoerter.txt",
-      "version": 2,
+      "version": 3,
       "count": 486,
       "lang": "es"
     },
     {
       "id": "it-ausbau-grundwoerter",
       "file": "woerter/it-ausbau-grundwoerter.txt",
-      "version": 2,
+      "version": 3,
       "count": 486,
       "lang": "it"
     },
@@ -1147,8 +1147,8 @@
   ],
   "aliases": {
     "file": "aliase.txt",
-    "version": 5,
-    "count": 6581
+    "version": 6,
+    "count": 6580
   },
   "forms": [
     {

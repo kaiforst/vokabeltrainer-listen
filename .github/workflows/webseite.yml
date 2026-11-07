@@ -1,0 +1,30 @@
+# Nach jedem Push auf main: Katalog prüfen, dann die Webseite neu bauen lassen. Der Build der Webseite
+# (vokabeltrainer-web, scripts/katalog.mts) kopiert den Katalog nach /katalog und schreibt die
+# Abgleichtabelle in Supabase. Der Deploy Hook steht als Secret VERCEL_DEPLOY_HOOK im Repo.
+name: Webseite aktualisieren
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  pruefen-und-bauen:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Katalog prüfen
+        run: node scripts/pruefe.mjs
+      - name: Build der Webseite anstoßen
+        env:
+          HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
+        run: |
+          if [ -z "$HOOK" ]; then
+            echo "::warning::Secret VERCEL_DEPLOY_HOOK fehlt – Webseite wird nicht neu gebaut"
+            exit 0
+          fi
+          curl -fsS -X POST "$HOOK" > /dev/null
+          echo "Build angestoßen"

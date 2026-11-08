@@ -3,7 +3,7 @@ id; Deutsch; Italienisch; Weitere Antworten; Niveau; Themen; Beispiel Italienisc
 it-xf-0001; anfangen; cominciare; iniziare; A1; Allgemein/Verben; Il film comincia tra dieci minuti, sbrighiamoci.; Der Film fängt in zehn Minuten an, beeilen wir uns.
 it-xf-0002; aussehen; sembrare; avere l'aria; A1; Allgemein/Verben; Oggi sembri davvero stanco, va tutto bene?; Du siehst heute richtig müde aus, ist alles in Ordnung?
 it-xf-0003; anschauen; guardare; ; A1; Allgemein/Verben; Più tardi posso guardare le foto delle tue vacanze?; Kann ich mir später deine Urlaubsfotos anschauen?
-it-xf-0004; liegen; essere sdraiato; stare sdraiato; A1; Allgemein/Verben; Il gatto è sdraiato sul divano al sole.; Die Katze liegt auf dem Sofa in der Sonne.
+it-xf-0004; liegen (Lebewesen); essere sdraiato; stare sdraiato; A1; Allgemein/Verben; Il gatto è sdraiato sul divano al sole.; Die Katze liegt auf dem Sofa in der Sonne.
 it-xf-0005; leben; vivere; ; A1; Allgemein/Verben; I miei nonni vivono in un piccolo paese sul mare.; Meine Großeltern leben in einem kleinen Dorf am Meer.
 it-xf-0006; dürfen; potere; avere il permesso di; A1; Allgemein/Verben; I bambini non possono giocare nel cantiere.; Kinder dürfen nicht auf der Baustelle spielen.
 it-xf-0007; aufmachen; aprire; ; A1; Allgemein/Verben; Puoi aprire la finestra, per favore? Fa molto caldo.; Kannst du bitte das Fenster aufmachen? Es ist sehr warm.
@@ -39,7 +39,7 @@ it-xf-0036; fortfahren; continuare; proseguire; B1; Allgemein/Verben; Dopo una b
 it-xf-0037; umkehren; tornare indietro; ; B1; Allgemein/Verben; La strada era chiusa, così siamo dovuti tornare indietro.; Die Straße war gesperrt, also mussten wir umkehren.
 it-xf-0038; vorbeigehen; passare; ; A2; Allgemein/Verben; Ogni mattina passo davanti al panificio.; Ich gehe jeden Morgen an der Bäckerei vorbei.
 it-xf-0039; eintreten; entrare; ; B1; Allgemein/Verben; Per favore, bussa prima di entrare nella stanza.; Bitte klopf an, bevor du in das Zimmer eintrittst.
-it-xf-0040; wenden; girare; voltare; B1; Allgemein/Verben; Gira la frittata con attenzione, così non si rompe.; Wende das Omelett vorsichtig, damit es nicht zerfällt.
+it-xf-0040; wenden (Auto); fare inversione; fare inversione a U; B1; Allgemein/Verben; Ha fatto inversione nella strada stretta.; Er hat das Auto in der engen Straße gewendet.
 it-xf-0041; bilden; formare; ; B1; Allgemein/Verben; I bambini hanno formato un cerchio intorno alla maestra.; Die Kinder bildeten einen Kreis um die Lehrerin.
 it-xf-0042; formen; formare; modellare; B1; Allgemein/Verben; Con le mani forma delle piccole palline di impasto.; Form mit den Händen kleine Kugeln aus dem Teig.
 it-xf-0043; herstellen; produrre; fabbricare; B1; Allgemein/Verben; Questa fabbrica produce pezzi per auto e autobus.; Diese Fabrik stellt Teile für Autos und Busse her.
@@ -49,7 +49,7 @@ it-xf-0046; gestalten; creare; realizzare; B2; Allgemein/Verben; Gli alunni hann
 it-xf-0047; festlegen; stabilire; fissare, determinare; B2; Allgemein/Verben; Dobbiamo ancora stabilire una data per la riunione.; Wir müssen noch einen Termin für das Treffen festlegen.
 it-xf-0048; anwenden; applicare; ; B1; Allgemein/Verben; Adesso prova ad applicare la regola a queste frasi.; Versuch jetzt, die Regel auf diese Sätze anzuwenden.
 it-xf-0049; leiten; dirigere; gestire, guidare; B1; Allgemein/Verben; La signora Rossi dirige la scuola da molti anni.; Frau Rossi leitet die Schule seit vielen Jahren.
-it-xf-0050; betreiben; gestire; ; B2; Allgemein/Verben; La sua famiglia gestisce un piccolo albergo sul lago di Garda.; Seine Familie betreibt ein kleines Hotel am Gardasee.
+it-xf-0050; betreiben (führen); gestire; ; B2; Allgemein/Verben; La sua famiglia gestisce un piccolo albergo sul lago di Garda.; Seine Familie betreibt ein kleines Hotel am Gardasee.
 it-xf-0051; beherrschen; padroneggiare; ; B2; Allgemein/Verben; Ci vogliono anni per padroneggiare una lingua straniera.; Es dauert Jahre, eine Fremdsprache zu beherrschen.
 it-xf-0052; enthüllen; rivelare; svelare; B2; Allgemein/Verben; Il mago non rivela mai come funzionano i suoi trucchi.; Der Zauberer enthüllt nie, wie seine Tricks funktionieren.
 it-xf-0053; ansteigen; salire; aumentare; B1; Allgemein/Verben; Dopo le forti piogge il livello del fiume è salito.; Nach dem starken Regen ist der Wasserstand des Flusses angestiegen.
@@ -95,7 +95,7 @@ it-xf-0092; bereit; pronto; ; A2; Allgemein/Adjektive; Sei pronto? Dobbiamo usci
 it-xf-0093; kräftig; forte; robusto; B1; Allgemein/Adjektive; Grazie al lavoro nei campi ha braccia forti.; Von der Arbeit auf dem Feld hat er kräftige Arme.
 it-xf-0094; großartig; magnifico; grandioso, splendido; B1; Allgemein/Adjektive; È stata davvero un'idea magnifica, grazie mille!; Das war wirklich eine großartige Idee, vielen Dank!
 it-xf-0095; fantastisch; fantastico; ; A2; Allgemein/Adjektive; La vista dalla cima è fantastica.; Die Aussicht vom Gipfel ist fantastisch.
-it-xf-0096; grob; grossolano; approssimativo; B2; Allgemein/Adjektive; Questa è solo una stima grossolana dei costi.; Das ist nur eine grobe Schätzung der Kosten.
+it-xf-0096; grob (ungefähr); approssimativo; grossolano; B2; Allgemein/Adjektive; Questa è solo una stima approssimativa dei costi.; Das ist nur eine grobe Schätzung der Kosten.
 it-xf-0097; rau; ruvido; ; B1; Allgemein/Adjektive; Con il freddo ho le mani ruvide.; Von der Kälte sind meine Hände ganz rau.
 it-xf-0098; uneben; irregolare; accidentato; B2; Allgemein/Adjektive; Attenzione, il pavimento di questa vecchia casa è irregolare.; Pass auf, der Fußboden in diesem alten Haus ist uneben.
 it-xf-0099; zäh; duro; coriaceo; B2; Allgemein/Adjektive; La carne era così dura che non sono riuscito a mangiarla.; Das Fleisch war so zäh, dass ich es nicht essen konnte.
@@ -187,7 +187,7 @@ it-xf-0185; rund (Form); rotondo; tondo; A2; Allgemein/Raum; Abbiamo comprato un
 it-xf-0186; schief; storto; ; B2; Allgemein/Raum; Il quadro sulla parete è storto.; Das Bild an der Wand hängt schief.
 it-xf-0187; Ausgang; l'uscita; ; A2; Allgemein/Raum; Scusi, dov'è l'uscita di questo parcheggio sotterraneo?; Entschuldigung, wo ist der Ausgang dieser Tiefgarage?
 it-xf-0188; Eingang; l'ingresso; l'entrata; A2; Allgemein/Raum; Ci vediamo alle otto all'ingresso della stazione.; Treffen wir uns um acht am Eingang des Bahnhofs.
-it-xf-0189; Sache; la cosa; ; A2; Allgemein/Begriffe; Prepara le tue cose, partiamo tra dieci minuti.; Pack deine Sachen, wir fahren in zehn Minuten los.
+it-xf-0189; Sache; la cosa; ; A2; Allgemein/Begriffe; Devo dirti ancora una cosa importante.; Ich muss dir noch eine wichtige Sache sagen.
 it-xf-0190; Ding; la cosa; l'oggetto; A2; Allgemein/Begriffe; Che cos'è quella cosa strana sul tetto?; Was ist das für ein komisches Ding auf dem Dach?
 it-xf-0191; Fall; il caso; ; B1; Allgemein/Begriffe; In quel caso restiamo a casa.; In diesem Fall bleiben wir zu Hause.
 it-xf-0192; Zustand; lo stato; la condizione; B1; Allgemein/Begriffe; La vecchia macchina è ancora in ottimo stato.; Das alte Auto ist noch in sehr gutem Zustand.
@@ -236,7 +236,7 @@ it-xf-0234; Aufwand; lo sforzo; l'impegno; B2; Allgemein/Begriffe; Il risultato 
 it-xf-0235; Vorbild; il modello; l'esempio; B1; Allgemein/Begriffe; Mia sorella maggiore è sempre stata il mio modello.; Meine große Schwester war schon immer mein Vorbild.
 it-xf-0236; Vorsicht; la prudenza; la cautela, l'attenzione; B1; Allgemein/Begriffe; Guida con prudenza, le strade sono ghiacciate.; Fahr mit Vorsicht, die Straßen sind glatt.
 it-xf-0237; Absage; l'annullamento; la cancellazione; B1; Allgemein/Begriffe; L'annullamento del concerto ha deluso molti fan.; Die Absage des Konzerts hat viele Fans enttäuscht.
-it-xf-0238; Zusage; la conferma; ; B2; Allgemein/Begriffe; Abbiamo ricevuto la conferma di quasi tutti gli invitati.; Wir haben von fast allen Gästen eine Zusage bekommen.
+it-xf-0238; Zusage; l'ammissione; la risposta positiva, la conferma; B2; Allgemein/Begriffe; Dopo tanta attesa ho finalmente ricevuto l'ammissione all'università!; Ich habe endlich eine Zusage von der Universität bekommen!
 it-xf-0239; Ursache; la causa; ; B1; Allgemein/Begriffe; La polizia cerca ancora la causa dell'incendio.; Die Polizei sucht noch nach der Ursache des Feuers.
 it-xf-0240; Nutzen; il vantaggio; l'utilità, il beneficio; B2; Allgemein/Begriffe; Fare sport regolarmente porta un grande vantaggio alla salute.; Regelmäßige Bewegung hat einen großen Nutzen für die Gesundheit.
 it-xf-0241; Eignung; l'idoneità; l'attitudine; B2; Allgemein/Begriffe; Il test verifica la tua idoneità al lavoro.; Der Test prüft deine Eignung für den Beruf.

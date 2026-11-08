@@ -50,7 +50,7 @@ rc-0048; Beleg; voucher; supporting document; B1; Business/Rechnungswesen/Buchha
 rc-0049; Kostenstelle; cost center; ; B1; Business/Rechnungswesen/Controlling & Kennzahlen; Each department has its own cost center in our system.; Jede Abteilung hat eine eigene Kostenstelle in unserem System.
 rc-0050; Gebühr; fee; charge; B1; Business/Rechnungswesen/Rechnung & Zahlung; The bank charges a small fee for each transfer.; Die Bank berechnet eine kleine Gebühr für jede Überweisung.
 rc-0051; berechnen; to calculate; to compute; B1; Business/Rechnungswesen/Controlling & Kennzahlen; We calculate the total costs at the end of each month.; Wir berechnen die Gesamtkosten am Ende jedes Monats.
-rc-0052; buchen; to book; to post, to record; B1; Business/Rechnungswesen/Buchhaltung; The accountant books every payment on the right account.; Der Buchhalter bucht jede Zahlung auf das richtige Konto.
+rc-0052; buchen (Buchhaltung); to book; to post, to record; B1; Business/Rechnungswesen/Buchhaltung; The accountant books every payment on the right account.; Der Buchhalter bucht jede Zahlung auf das richtige Konto.
 rc-0053; überweisen; to transfer; to remit; B1; Business/Rechnungswesen/Rechnung & Zahlung; Please transfer the money to the account below.; Bitte überweisen Sie das Geld auf das untenstehende Konto.
 rc-0054; erstatten; to reimburse; to refund; B1; Business/Rechnungswesen/Rechnung & Zahlung; The company will reimburse your travel costs next week.; Das Unternehmen erstattet Ihre Reisekosten nächste Woche.
 rc-0055; Rückerstattung; refund; reimbursement; B1; Business/Rechnungswesen/Rechnung & Zahlung; The customer asked for a refund after the cancellation.; Der Kunde bat nach der Stornierung um eine Rückerstattung.

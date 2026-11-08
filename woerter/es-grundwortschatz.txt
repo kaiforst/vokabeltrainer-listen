@@ -41,7 +41,7 @@ es-gw-0038; lesen; leer; ; A1; Grundwortschatz/Verben; Ella lee un libro todas l
 es-gw-0039; schreiben; escribir; ; A1; Grundwortschatz/Verben; Escribo un correo electrónico a mi abuela.; Ich schreibe eine E-Mail an meine Großmutter.
 es-gw-0040; kaufen; comprar; ; A1; Grundwortschatz/Verben; Compramos pan y leche en el supermercado.; Wir kaufen Brot und Milch im Supermarkt.
 es-gw-0041; bezahlen; pagar; ; A1; Grundwortschatz/Verben; ¿Puedo pagar aquí con tarjeta?; Kann ich hier mit Karte bezahlen?
-es-gw-0042; spielen; jugar; tocar; A1; Grundwortschatz/Verben; Los niños juegan al fútbol en el parque.; Die Kinder spielen Fußball im Park.
+es-gw-0042; spielen; jugar; ; A1; Grundwortschatz/Verben; Los niños juegan al fútbol en el parque.; Die Kinder spielen Fußball im Park.
 es-gw-0043; fahren; conducir; ir en coche, manejar; A1; Grundwortschatz/Verben; Mi madre conduce hasta el trabajo todos los días.; Meine Mutter fährt jeden Tag zur Arbeit.
 es-gw-0044; fliegen; volar; ir en avión; A1; Grundwortschatz/Verben; El viernes por la mañana volamos a Londres.; Wir fliegen am Freitagmorgen nach London.
 es-gw-0045; laufen; correr; ; A1; Grundwortschatz/Verben; Él corre en el parque todos los domingos.; Er läuft jeden Sonntag im Park.
@@ -159,7 +159,7 @@ es-gw-0156; Apfel; la manzana; ; A1; Grundwortschatz/Essen & Trinken; Me como un
 es-gw-0157; Käse; el queso; ; A1; Grundwortschatz/Essen & Trinken; Me gusta el pan con queso y tomate.; Ich mag Brot mit Käse und Tomate.
 es-gw-0158; Ei; el huevo; ; A1; Grundwortschatz/Essen & Trinken; Los domingos desayuno un huevo.; Sonntags esse ich ein Ei zum Frühstück.
 es-gw-0159; Fleisch; la carne; ; A1; Grundwortschatz/Essen & Trinken; Mi hermana no come carne.; Meine Schwester isst kein Fleisch.
-es-gw-0160; Fisch; el pescado; el pez; A1; Grundwortschatz/Essen & Trinken; Los viernes comemos pescado con arroz.; Freitags essen wir Fisch mit Reis.
+es-gw-0160; Fisch (Speise); el pescado; ; A1; Grundwortschatz/Essen & Trinken; Los viernes comemos pescado con arroz.; Freitags essen wir Fisch mit Reis.
 es-gw-0161; Obst; la fruta; ; A1; Grundwortschatz/Essen & Trinken; La fruta fresca es buena para la salud.; Frisches Obst ist gut für deine Gesundheit.
 es-gw-0162; Gemüse; la verdura; las verduras, las hortalizas; A1; Grundwortschatz/Essen & Trinken; Los sábados compramos verdura en el mercado.; Samstags kaufen wir Gemüse auf dem Markt.
 es-gw-0163; Reis; el arroz; ; A1; Grundwortschatz/Essen & Trinken; Hoy cocinamos arroz con pollo.; Heute kochen wir Reis mit Hähnchen.
@@ -216,7 +216,7 @@ es-gw-0213; warm; cálido; caliente, templado; A1; Grundwortschatz/Adjektive; Ll
 es-gw-0214; teuer; caro; ; A1; Grundwortschatz/Adjektive; Este hotel es demasiado caro para nosotros.; Dieses Hotel ist zu teuer für uns.
 es-gw-0215; billig; barato; ; A1; Grundwortschatz/Adjektive; Los lunes las entradas son baratas.; Die Karten sind montags billig.
 es-gw-0216; leicht; fácil; ligero; A1; Grundwortschatz/Adjektive; El examen de hoy ha sido muy fácil.; Der Test heute war wirklich leicht.
-es-gw-0217; schwer; difícil; pesado, duro; A1; Grundwortschatz/Adjektive; Este ejercicio es demasiado difícil para mí.; Diese Übung ist zu schwer für mich.
+es-gw-0217; schwer (schwierig); difícil; duro; A1; Grundwortschatz/Adjektive; Este ejercicio es demasiado difícil para mí.; Diese Übung ist zu schwer für mich.
 es-gw-0218; glücklich; feliz; contento; A1; Grundwortschatz/Adjektive; Los niños están felices por la nieve.; Die Kinder sind glücklich über den Schnee.
 es-gw-0219; traurig; triste; ; A1; Grundwortschatz/Adjektive; Está triste porque su amiga se muda.; Sie ist traurig, weil ihre Freundin wegzieht.
 es-gw-0220; müde; cansado; ; A1; Grundwortschatz/Adjektive; Estoy cansado y me voy a la cama.; Ich bin müde und gehe jetzt ins Bett.
@@ -360,7 +360,7 @@ es-gw-0357; Geschmack; el sabor; el gusto; A2; Grundwortschatz/Essen & Trinken; 
 es-gw-0358; lecker; rico; delicioso, sabroso, bueno; A2; Grundwortschatz/Essen & Trinken; La pizza de este restaurante está muy rica.; Die Pizza in diesem Restaurant ist wirklich lecker.
 es-gw-0359; Imbiss (kleine Mahlzeit); el tentempié; el aperitivo, el bocadillo, la merienda; A2; Grundwortschatz/Essen & Trinken; Compramos un tentempié rápido en la estación.; Wir kauften einen schnellen Imbiss am Bahnhof.
 es-gw-0360; Kellner; el camarero; el mesero, la camarera; A2; Grundwortschatz/Essen & Trinken; El camarero nos trajo la carta enseguida.; Der Kellner brachte uns schnell die Speisekarte.
-es-gw-0361; Rechnung; la cuenta; la factura; A2; Grundwortschatz/Essen & Trinken; ¿Nos trae la cuenta, por favor?; Könnten wir bitte die Rechnung haben?
+es-gw-0361; Rechnung (Restaurant); la cuenta; ; A2; Grundwortschatz/Essen & Trinken; ¿Nos trae la cuenta, por favor?; Könnten wir bitte die Rechnung haben?
 es-gw-0362; Trinkgeld; la propina; ; A2; Grundwortschatz/Essen & Trinken; Le dejamos una pequeña propina al camarero tan amable.; Wir ließen dem freundlichen Kellner ein kleines Trinkgeld da.
 es-gw-0363; Pfanne; la sartén; ; A2; Grundwortschatz/Essen & Trinken; Calienta un poco de aceite en una sartén grande.; Erhitze etwas Öl in einer großen Pfanne.
 es-gw-0364; Topf; la olla; la cazuela, el cazo; A2; Grundwortschatz/Essen & Trinken; Cuece las patatas en una olla grande.; Koche die Kartoffeln in einem großen Topf.
@@ -495,7 +495,7 @@ es-gw-0492; Erfolg; el éxito; ; A2; Grundwortschatz/Arbeit & Schule; La fiesta 
 es-gw-0493; Prüfung; el examen; la prueba; A2; Grundwortschatz/Arbeit & Schule; Tengo que estudiar para mi examen de inglés.; Ich muss für meine Englischprüfung lernen.
 es-gw-0494; Note (Schule); la nota; la calificación; A2; Grundwortschatz/Arbeit & Schule; Sacó la mejor nota de la clase.; Er bekam die beste Note in der Klasse.
 es-gw-0495; Fach; la asignatura; la materia; A2; Grundwortschatz/Arbeit & Schule; Mi asignatura favorita en el colegio es historia.; Mein Lieblingsfach in der Schule ist Geschichte.
-es-gw-0496; Pause; el descanso; la pausa, el recreo; A2; Grundwortschatz/Arbeit & Schule; Hagamos un breve descanso después de esta clase.; Machen wir nach dieser Stunde eine kurze Pause.
+es-gw-0496; Pause; el descanso; la pausa; A2; Grundwortschatz/Arbeit & Schule; Hagamos un breve descanso después de esta clase.; Machen wir nach dieser Stunde eine kurze Pause.
 es-gw-0497; Projekt; el proyecto; ; A2; Grundwortschatz/Arbeit & Schule; Nuestra clase está trabajando en un proyecto de ciencias.; Unsere Klasse arbeitet an einem Wissenschaftsprojekt.
 es-gw-0498; Bericht; el informe; ; A2; Grundwortschatz/Arbeit & Schule; Por favor, escribe un informe breve sobre la excursión.; Bitte schreib einen kurzen Bericht über den Ausflug.
 es-gw-0499; Regel; la regla; la norma; A2; Grundwortschatz/Arbeit & Schule; Cada juego tiene reglas que hay que seguir.; Jedes Spiel hat Regeln, die man befolgen muss.
@@ -665,10 +665,10 @@ es-gw-0662; Verhalten; el comportamiento; la conducta; B1; Grundwortschatz/Allta
 es-gw-0663; Herausforderung; el reto; el desafío; B1; Grundwortschatz/Abstrakte Begriffe; Aprender chino es un verdadero reto para mí.; Chinesisch zu lernen ist eine echte Herausforderung für mich.
 es-gw-0664; Bürger; el ciudadano; ; B1; Grundwortschatz/Gesellschaft; Todo ciudadano tiene derecho a votar en las elecciones.; Jeder Bürger hat das Recht, bei Wahlen zu wählen.
 es-gw-0665; Vergleich; la comparación; ; B1; Grundwortschatz/Abstrakte Begriffe; En comparación con el año pasado, los precios han subido.; Im Vergleich zum letzten Jahr sind die Preise gestiegen.
-es-gw-0666; Wettbewerb; el concurso; la competición, la competencia; B1; Grundwortschatz/Gesellschaft; Nuestro colegio ganó el primer premio del concurso.; Unsere Schule gewann den ersten Preis im Wettbewerb.
+es-gw-0666; Wettbewerb; el concurso; la competición; B1; Grundwortschatz/Gesellschaft; Nuestro colegio ganó el primer premio del concurso.; Unsere Schule gewann den ersten Preis im Wettbewerb.
 es-gw-0667; Beschwerde; la queja; la reclamación; B1; Grundwortschatz/Kommunikation; El hotel recibió varias quejas por la música alta.; Das Hotel erhielt mehrere Beschwerden über die laute Musik.
 es-gw-0668; Bedingung; la condición; ; B1; Grundwortschatz/Abstrakte Begriffe; Una buena luz es una condición importante para hacer fotos.; Gutes Licht ist eine wichtige Bedingung für das Fotografieren.
-es-gw-0669; Verbindung; la relación; la conexión, el vínculo; B1; Grundwortschatz/Abstrakte Begriffe; Existe una clara relación entre el tabaco y el cáncer.; Es gibt eine klare Verbindung zwischen Rauchen und Krebs.
+es-gw-0669; Verbindung (Zusammenhang); la relación; la conexión, el vínculo; B1; Grundwortschatz/Abstrakte Begriffe; Existe una clara relación entre el tabaco y el cáncer.; Es gibt eine klare Verbindung zwischen Rauchen und Krebs.
 es-gw-0670; Folge (Konsequenz); la consecuencia; ; B1; Grundwortschatz/Abstrakte Begriffe; La nueva ley tuvo graves consecuencias para las tiendas pequeñas.; Das neue Gesetz hatte ernste Folgen für kleine Geschäfte.
 es-gw-0671; Entwicklung; el desarrollo; ; B1; Grundwortschatz/Abstrakte Begriffe; El desarrollo del centro de la ciudad duró varios años.; Die Entwicklung des Stadtzentrums dauerte mehrere Jahre.
 es-gw-0672; Pflicht; el deber; la obligación; B1; Grundwortschatz/Gesellschaft; Es tu deber informar a la policía.; Es ist deine Pflicht, die Polizei zu informieren.

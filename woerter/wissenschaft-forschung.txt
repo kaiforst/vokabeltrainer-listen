@@ -31,13 +31,13 @@ wi-0029; Versuchsreihe; series of experiments; test series; C1; Wissenschaft/For
 wi-0030; Grundlagenforschung; basic research; fundamental research; C2; Wissenschaft/Forschung & Methode; Basic research often pays off only after decades.; Grundlagenforschung zahlt sich oft erst nach Jahrzehnten aus.
 wi-0031; Licht; light; ; A1; Wissenschaft/Physik; Light travels faster than anything else we know.; Licht ist schneller als alles andere, das wir kennen.
 wi-0032; Energie; energy; ; A2; Wissenschaft/Physik; The sun gives us light and energy.; Die Sonne gibt uns Licht und Energie.
-wi-0033; Kraft (Physik); force; power; B1; Wissenschaft/Physik; A strong force pulls the magnet to the metal.; Eine starke Kraft zieht den Magneten zum Metall.
+wi-0033; Kraft (Physik); force; ; B1; Wissenschaft/Physik; A strong force pulls the magnet to the metal.; Eine starke Kraft zieht den Magneten zum Metall.
 wi-0034; Geschwindigkeit; speed; velocity; B2; Wissenschaft/Physik; The rocket reaches an enormous speed within minutes.; Die Rakete erreicht innerhalb von Minuten eine enorme Geschwindigkeit.
 wi-0035; Temperatur; temperature; ; A2; Wissenschaft/Physik; The temperature in the lab must stay constant.; Die Temperatur im Labor muss konstant bleiben.
 wi-0036; Trägheit; inertia; ; C2; Wissenschaft/Physik; Because of its inertia the heavy ball keeps rolling.; Wegen seiner Trägheit rollt der schwere Ball weiter.
 wi-0037; Strom; electricity; electric current; A2; Wissenschaft/Physik; Wind turbines produce electricity for thousands of homes.; Windräder erzeugen Strom für tausende Haushalte.
 wi-0038; Magnet; magnet; ; B1; Wissenschaft/Physik; The magnet holds the notes on the fridge.; Der Magnet hält die Notizen am Kühlschrank.
-wi-0039; Welle; wave; ; B1; Wissenschaft/Physik; Sound spreads through the air as a wave.; Schall breitet sich als Welle in der Luft aus.
+wi-0039; Welle (Physik); wave; ; B1; Wissenschaft/Physik; Sound spreads through the air as a wave.; Schall breitet sich als Welle in der Luft aus.
 wi-0040; Teilchen; particle; ; B2; Wissenschaft/Physik; Each tiny particle carries an electric charge.; Jedes winzige Teilchen trägt eine elektrische Ladung.
 wi-0041; Atom; atom; ; B1; Wissenschaft/Physik; A single atom is far too small to see.; Ein einzelnes Atom ist viel zu klein, um es zu sehen.
 wi-0042; Schwerkraft; gravity; gravitation; B2; Wissenschaft/Physik; Gravity keeps the moon on its path around the earth.; Die Schwerkraft hält den Mond auf seiner Bahn um die Erde.
@@ -48,7 +48,7 @@ wi-0046; Strahlung; radiation; ; B2; Wissenschaft/Physik; The device measures ra
 wi-0047; Leitfähigkeit; conductivity; ; C1; Wissenschaft/Physik; Copper is known for its excellent electrical conductivity.; Kupfer ist für seine ausgezeichnete elektrische Leitfähigkeit bekannt.
 wi-0048; Quantenmechanik; quantum mechanics; ; C1; Wissenschaft/Physik; Quantum mechanics describes the strange world of tiny particles.; Die Quantenmechanik beschreibt die seltsame Welt winziger Teilchen.
 wi-0049; Relativitätstheorie; theory of relativity; relativity; C1; Wissenschaft/Physik; Einstein published his theory of relativity in 1905.; Einstein veröffentlichte seine Relativitätstheorie im Jahr 1905.
-wi-0050; Spannung (Strom); voltage; tension; B2; Wissenschaft/Physik; The voltage in this cable is dangerously high.; Die Spannung in diesem Kabel ist gefährlich hoch.
+wi-0050; Spannung (Strom); voltage; ; B2; Wissenschaft/Physik; The voltage in this cable is dangerously high.; Die Spannung in diesem Kabel ist gefährlich hoch.
 wi-0051; Brechung; refraction; ; C2; Wissenschaft/Physik; The refraction of light makes the straw look bent.; Die Brechung des Lichts lässt den Strohhalm gebogen aussehen.
 wi-0052; Wechselwirkung; interaction; interplay; C1; Wissenschaft/Physik; Researchers study the interaction between light and matter.; Forscher untersuchen die Wechselwirkung zwischen Licht und Materie.
 wi-0053; Wasser; water; ; A1; Wissenschaft/Chemie; Water boils at one hundred degrees Celsius.; Wasser kocht bei hundert Grad Celsius.

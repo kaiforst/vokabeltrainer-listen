@@ -7,7 +7,7 @@ fr-tc-0004; Internet; Internet; l'internet, le net; A1; Technik/Computer/Interne
 fr-tc-0005; Fernseher; la télévision; la télé, le téléviseur; A1; Technik/Computer/Geräte; La télévision du salon est neuve.; Der Fernseher im Wohnzimmer ist neu.
 fr-tc-0006; Bildschirm; l'écran; le moniteur; A1; Technik/Computer/Geräte; L'écran est trop lumineux la nuit.; Der Bildschirm ist nachts zu hell.
 fr-tc-0007; Tastatur; le clavier; ; A1; Technik/Computer/Geräte; J'ai besoin d'un nouveau clavier pour mon ordinateur.; Ich brauche eine neue Tastatur für meinen Computer.
-fr-tc-0008; Maus; la souris; ; A1; Technik/Computer/Geräte; La souris ne fonctionne pas sans pile.; Die Maus funktioniert nicht ohne Batterie.
+fr-tc-0008; Maus (Computer); la souris; ; A1; Technik/Computer/Geräte; La souris ne fonctionne pas sans pile.; Die Maus funktioniert nicht ohne Batterie.
 fr-tc-0009; Drucker; l'imprimante; ; A1; Technik/Computer/Geräte; L'imprimante du bureau est encore en panne.; Der Drucker im Büro ist schon wieder kaputt.
 fr-tc-0010; Kamera; l'appareil photo; la caméra; A1; Technik/Computer/Geräte; Cet appareil photo fait de très bonnes photos.; Diese Kamera macht sehr gute Fotos.
 fr-tc-0011; Laptop; l'ordinateur portable; le portable, le laptop; A1; Technik/Computer/Geräte; Elle emporte son ordinateur portable au travail tous les matins.; Sie nimmt ihren Laptop jeden Morgen mit zur Arbeit.
@@ -22,7 +22,7 @@ fr-tc-0019; ausmachen; éteindre; ; A1; Technik/Computer/Geräte; Éteins l'ordi
 fr-tc-0020; Fehler; l'erreur; le bug, la faute; A1; Technik/Computer/Software; Il y a une erreur dans le nouveau programme.; Es gibt einen Fehler im neuen Programm.
 fr-tc-0021; Passwort; le mot de passe; ; A2; Technik/Computer/Sicherheit; Tu ne devrais jamais dire ton mot de passe à personne.; Du solltest niemandem dein Passwort verraten.
 fr-tc-0022; Datei; le fichier; ; A2; Technik/Computer/Dateien; J'ai enregistré le fichier sur mon ordinateur portable.; Ich habe die Datei auf meinem Laptop gespeichert.
-fr-tc-0023; Ordner; le dossier; le répertoire; A2; Technik/Computer/Dateien; Mets toutes les photos dans un seul dossier.; Leg alle Fotos in einen Ordner.
+fr-tc-0023; Ordner (Computer); le dossier; le répertoire; A2; Technik/Computer/Dateien; Mets toutes les photos dans un seul dossier.; Leg alle Fotos in einen Ordner.
 fr-tc-0024; drucken; imprimer; ; A2; Technik/Computer/Dateien; Tu peux imprimer ce document pour moi ?; Kannst du dieses Dokument für mich drucken?
 fr-tc-0025; speichern; enregistrer; sauvegarder; A2; Technik/Computer/Dateien; N'oublie pas d'enregistrer ton travail.; Vergiss nicht, deine Arbeit zu speichern.
 fr-tc-0026; löschen; supprimer; effacer; A2; Technik/Computer/Dateien; J'ai supprimé les vieilles photos par erreur.; Ich habe die alten Fotos aus Versehen gelöscht.
@@ -44,7 +44,7 @@ fr-tc-0041; Suchmaschine; le moteur de recherche; ; A2; Technik/Computer/Interne
 fr-tc-0042; suchen; chercher; rechercher; A2; Technik/Computer/Internet; J'ai cherché des vols pas chers sur Internet.; Ich habe im Internet nach günstigen Flügen gesucht.
 fr-tc-0043; senden; envoyer; ; A2; Technik/Computer/Internet; Au travail, il envoie beaucoup d'e-mails chaque jour.; Er sendet bei der Arbeit jeden Tag viele E-Mails.
 fr-tc-0044; empfangen; recevoir; ; A2; Technik/Computer/Internet; Tu as reçu mon message hier soir ?; Hast du gestern Abend meine Nachricht empfangen?
-fr-tc-0045; Verbindung; la connexion; ; A2; Technik/Computer/Internet; La connexion Internet est très lente aujourd'hui.; Die Internetverbindung ist heute sehr langsam.
+fr-tc-0045; Verbindung (Internet); la connexion; ; A2; Technik/Computer/Internet; La connexion Internet est très lente aujourd'hui.; Die Internetverbindung ist heute sehr langsam.
 fr-tc-0046; verbinden; connecter; relier; A2; Technik/Computer/Internet; Tu dois connecter l'ordinateur portable à l'imprimante.; Du musst den Laptop mit dem Drucker verbinden.
 fr-tc-0047; WLAN; le wifi; le Wi-Fi; A2; Technik/Computer/Internet, Reisen/Urlaub/Unterkunft; L'hôtel a le wifi gratuit dans chaque chambre.; Das Hotel hat kostenloses WLAN in jedem Zimmer.
 fr-tc-0048; Akku; la batterie; l'accu; A2; Technik/Computer/Smartphone; Ma batterie tient presque deux jours.; Mein Akku hält fast zwei Tage.

@@ -6,7 +6,7 @@ wf-0004; bezahlen; to pay; ; A1; Wirtschaft/Finanzen/Geld & Zahlung; Can I pay w
 wf-0005; Preis (Kosten); price; ; A1; Wirtschaft/Finanzen/Markt & Handel; The price for coffee went up again.; Der Preis für Kaffee ist wieder gestiegen.
 wf-0006; teuer; expensive; costly; A1; Wirtschaft/Finanzen/Markt & Handel; This hotel is too expensive for us.; Dieses Hotel ist zu teuer für uns.
 wf-0007; billig; cheap; inexpensive; A1; Wirtschaft/Finanzen/Markt & Handel; Vegetables are cheap at the market today.; Gemüse ist heute auf dem Markt billig.
-wf-0008; Geschäft (Laden); shop; store, business; A1; Wirtschaft/Finanzen/Markt & Handel; The shop opens at nine in the morning.; Das Geschäft öffnet um neun Uhr morgens.
+wf-0008; Geschäft (Laden); shop; store; A1; Wirtschaft/Finanzen/Markt & Handel; The shop opens at nine in the morning.; Das Geschäft öffnet um neun Uhr morgens.
 wf-0009; arbeiten; to work; ; A1; Wirtschaft/Finanzen/Arbeit & Einkommen; She works in a bank in Frankfurt.; Sie arbeitet in einer Bank in Frankfurt.
 wf-0010; Firma; company; firm; A1; Wirtschaft/Finanzen/Unternehmen; My company has offices in three cities.; Meine Firma hat Büros in drei Städten.
 wf-0011; Bank (Geldinstitut); bank; ; A2; Wirtschaft/Finanzen/Bank; The bank closes at four in the afternoon.; Die Bank schließt um vier Uhr nachmittags.
@@ -51,11 +51,11 @@ wf-0049; Lieferung; delivery; shipment, consignment; B1; Wirtschaft/Finanzen/Mar
 wf-0050; Ware; goods; merchandise; B1; Wirtschaft/Finanzen/Markt & Handel; The goods are checked before they leave the factory.; Die Ware wird geprüft, bevor sie das Werk verlässt.
 wf-0051; Lager (Waren); warehouse; stock, storage; B1; Wirtschaft/Finanzen/Markt & Handel; The warehouse is full before the holiday season.; Das Lager ist vor der Weihnachtszeit voll.
 wf-0052; Nachfrage; demand; ; B1; Wirtschaft/Finanzen/Markt & Handel; The demand for heat pumps is rising quickly.; Die Nachfrage nach Wärmepumpen steigt schnell.
-wf-0053; Wettbewerb; competition; contest; B1; Wirtschaft/Finanzen/Markt & Handel; Strong competition keeps the prices very low.; Starker Wettbewerb hält die Preise sehr niedrig.
+wf-0053; Wettbewerb (Konkurrenz); competition; ; B1; Wirtschaft/Finanzen/Markt & Handel; Strong competition keeps the prices very low.; Starker Wettbewerb hält die Preise sehr niedrig.
 wf-0054; Konkurrent; competitor; rival; B1; Wirtschaft/Finanzen/Markt & Handel; Our biggest competitor lowered its prices yesterday.; Unser größter Konkurrent senkte gestern seine Preise.
 wf-0055; Rabatt; discount; reduction; B1; Wirtschaft/Finanzen/Markt & Handel; Students get a discount of twenty percent.; Studenten bekommen einen Rabatt von zwanzig Prozent.
 wf-0056; Schulden; debt; debts; B1; Wirtschaft/Finanzen/Bank; He paid off his debt within three years.; Er zahlte seine Schulden innerhalb von drei Jahren ab.
-wf-0057; leihen (jemandem etwas); to lend; to borrow; B1; Wirtschaft/Finanzen/Bank; Can you lend me fifty euros until Friday?; Kannst du mir fünfzig Euro bis Freitag leihen?
+wf-0057; leihen (jemandem etwas); to lend; ; B1; Wirtschaft/Finanzen/Bank; Can you lend me fifty euros until Friday?; Kannst du mir fünfzig Euro bis Freitag leihen?
 wf-0058; überweisen; to transfer money; to transfer, to remit; B1; Wirtschaft/Finanzen/Bank; I transferred the rent to the landlord today.; Ich habe die Miete heute an den Vermieter überwiesen.
 wf-0059; Überweisung (Bank); bank transfer; transfer, remittance; B1; Wirtschaft/Finanzen/Bank; The bank transfer takes about one working day.; Die Überweisung dauert ungefähr einen Werktag.
 wf-0060; abheben (Geld); to withdraw; ; B1; Wirtschaft/Finanzen/Bank; She withdrew two hundred euros for the trip.; Sie hob zweihundert Euro für die Reise ab.

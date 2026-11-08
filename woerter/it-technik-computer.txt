@@ -7,7 +7,7 @@ it-tc-0004; Internet; internet; la rete; A1; Technik/Computer/Internet; Usiamo i
 it-tc-0005; Fernseher; il televisore; la tv, la televisione; A1; Technik/Computer/Geräte; Il televisore in soggiorno è nuovo.; Der Fernseher im Wohnzimmer ist neu.
 it-tc-0006; Bildschirm; lo schermo; il monitor, il display; A1; Technik/Computer/Geräte; Di notte lo schermo è troppo luminoso.; Der Bildschirm ist nachts zu hell.
 it-tc-0007; Tastatur; la tastiera; ; A1; Technik/Computer/Geräte; Mi serve una nuova tastiera per il computer.; Ich brauche eine neue Tastatur für meinen Computer.
-it-tc-0008; Maus; il mouse; ; A1; Technik/Computer/Geräte; Il mouse non funziona senza pila.; Die Maus funktioniert nicht ohne Batterie.
+it-tc-0008; Maus (Computer); il mouse; ; A1; Technik/Computer/Geräte; Il mouse non funziona senza pila.; Die Maus funktioniert nicht ohne Batterie.
 it-tc-0009; Drucker; la stampante; ; A1; Technik/Computer/Geräte; La stampante dell'ufficio è di nuovo rotta.; Der Drucker im Büro ist schon wieder kaputt.
 it-tc-0010; Kamera; la fotocamera; la macchina fotografica, la videocamera; A1; Technik/Computer/Geräte; Questa fotocamera fa foto molto belle.; Diese Kamera macht sehr gute Fotos.
 it-tc-0011; Laptop; il portatile; il laptop, il notebook; A1; Technik/Computer/Geräte; Ogni mattina porta il portatile al lavoro.; Sie nimmt ihren Laptop jeden Morgen mit zur Arbeit.
@@ -22,7 +22,7 @@ it-tc-0019; ausmachen; spegnere; ; A1; Technik/Computer/Geräte; Per favore, spe
 it-tc-0020; Fehler; l'errore; ; A1; Technik/Computer/Software; Nel nuovo programma c'è un errore.; Es gibt einen Fehler im neuen Programm.
 it-tc-0021; Passwort; la password; la parola d'accesso; A2; Technik/Computer/Sicherheit; Non dovresti mai dire a nessuno la tua password.; Du solltest niemandem dein Passwort verraten.
 it-tc-0022; Datei; il file; ; A2; Technik/Computer/Dateien; Ho salvato il file sul mio portatile.; Ich habe die Datei auf meinem Laptop gespeichert.
-it-tc-0023; Ordner; la cartella; ; A2; Technik/Computer/Dateien; Metti tutte le foto in una cartella.; Leg alle Fotos in einen Ordner.
+it-tc-0023; Ordner (Computer); la cartella; ; A2; Technik/Computer/Dateien; Metti tutte le foto in una cartella.; Leg alle Fotos in einen Ordner.
 it-tc-0024; drucken; stampare; ; A2; Technik/Computer/Dateien; Puoi stampare questo documento per me?; Kannst du dieses Dokument für mich drucken?
 it-tc-0025; speichern; salvare; memorizzare; A2; Technik/Computer/Dateien; Non dimenticare di salvare il tuo lavoro.; Vergiss nicht, deine Arbeit zu speichern.
 it-tc-0026; löschen; cancellare; eliminare; A2; Technik/Computer/Dateien; Ho cancellato per sbaglio le vecchie foto.; Ich habe die alten Fotos aus Versehen gelöscht.
@@ -44,7 +44,7 @@ it-tc-0041; Suchmaschine; il motore di ricerca; ; A2; Technik/Computer/Internet;
 it-tc-0042; suchen; cercare; ; A2; Technik/Computer/Internet; Ho cercato voli economici su internet.; Ich habe im Internet nach günstigen Flügen gesucht.
 it-tc-0043; senden; inviare; mandare, spedire; A2; Technik/Computer/Internet; Al lavoro invia molte e-mail ogni giorno.; Er sendet bei der Arbeit jeden Tag viele E-Mails.
 it-tc-0044; empfangen; ricevere; ; A2; Technik/Computer/Internet; Hai ricevuto il mio messaggio ieri sera?; Hast du gestern Abend meine Nachricht empfangen?
-it-tc-0045; Verbindung; la connessione; il collegamento; A2; Technik/Computer/Internet; Oggi la connessione a internet è molto lenta.; Die Internetverbindung ist heute sehr langsam.
+it-tc-0045; Verbindung (Internet); la connessione; il collegamento; A2; Technik/Computer/Internet; Oggi la connessione a internet è molto lenta.; Die Internetverbindung ist heute sehr langsam.
 it-tc-0046; verbinden; collegare; connettere; A2; Technik/Computer/Internet; Devi collegare il portatile alla stampante.; Du musst den Laptop mit dem Drucker verbinden.
 it-tc-0047; WLAN; il wi-fi; la rete wireless; A2; Technik/Computer/Internet, Reisen/Urlaub/Unterkunft; L'hotel ha il wi-fi gratuito in ogni camera.; Das Hotel hat kostenloses WLAN in jedem Zimmer.
 it-tc-0048; Akku; la batteria; la batteria ricaricabile, l'accumulatore; A2; Technik/Computer/Smartphone; La mia batteria dura quasi due giorni.; Mein Akku hält fast zwei Tage.

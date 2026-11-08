@@ -5,7 +5,7 @@ et-0003; Milch; milk; ; A1; Alltag/Essen/Getränke; I drink milk with my breakfa
 et-0004; Apfel; apple; ; A1; Alltag/Essen/Lebensmittel; She eats an apple after lunch.; Sie isst nach dem Mittagessen einen Apfel.
 et-0005; Käse; cheese; ; A1; Alltag/Essen/Lebensmittel; This cheese comes from a small farm.; Dieser Käse kommt von einem kleinen Bauernhof.
 et-0006; Ei; egg; ; A1; Alltag/Essen/Lebensmittel; I eat one egg every morning.; Ich esse jeden Morgen ein Ei.
-et-0007; Fisch; fish; ; A1; Alltag/Essen/Lebensmittel; We eat fish every Friday evening.; Wir essen jeden Freitagabend Fisch.
+et-0007; Fisch (Speise); fish; ; A1; Alltag/Essen/Lebensmittel; We eat fish every Friday evening.; Wir essen jeden Freitagabend Fisch.
 et-0008; Fleisch; meat; ; A1; Alltag/Essen/Lebensmittel; He does not eat much meat.; Er isst nicht viel Fleisch.
 et-0009; Kaffee; coffee; ; A1; Alltag/Essen/Getränke; A cup of coffee helps me wake up.; Eine Tasse Kaffee hilft mir beim Aufwachen.
 et-0010; Tee; tea; ; A1; Alltag/Essen/Getränke; Would you like some tea with honey?; Möchtest du etwas Tee mit Honig?
@@ -31,7 +31,7 @@ et-0029; Zwiebel; onion; ; A2; Alltag/Essen/Lebensmittel; The onion makes my eye
 et-0030; Banane; banana; ; A2; Alltag/Essen/Lebensmittel; A banana is a good snack before sport.; Eine Banane ist ein guter Snack vor dem Sport.
 et-0031; Orange; orange; ; A2; Alltag/Essen/Lebensmittel; This orange is sweet and very juicy.; Diese Orange ist süß und sehr saftig.
 et-0032; Erdbeere; strawberry; ; A2; Alltag/Essen/Lebensmittel; Each strawberry in this basket looks perfect.; Jede Erdbeere in diesem Korb sieht perfekt aus.
-et-0033; Huhn; chicken; ; A2; Alltag/Essen/Lebensmittel; We are having chicken with rice today.; Es gibt heute Huhn mit Reis.
+et-0033; Huhn (Speise); chicken; ; A2; Alltag/Essen/Lebensmittel; We are having chicken with rice today.; Es gibt heute Huhn mit Reis.
 et-0034; Wurst; sausage; ; A2; Alltag/Essen/Lebensmittel; He bought a sausage at the market.; Er hat auf dem Markt eine Wurst gekauft.
 et-0035; Schinken; ham; ; A2; Alltag/Essen/Lebensmittel; I would like a roll with ham.; Ich hätte gern ein Brötchen mit Schinken.
 et-0036; Nudeln; pasta; noodles; A2; Alltag/Essen/Lebensmittel; The children want pasta with tomato sauce.; Die Kinder wollen Nudeln mit Tomatensoße.
@@ -58,7 +58,7 @@ et-0056; Flasche; bottle; ; A2; Alltag/Essen/Getränke; We opened a bottle of wh
 et-0057; Kellner; waiter; server; A2; Alltag/Essen/Restaurant; The waiter brought us the menu quickly.; Der Kellner brachte uns schnell die Speisekarte.
 et-0058; Speisekarte; menu; ; A2; Alltag/Essen/Restaurant; Can we see the menu please?; Können wir bitte die Speisekarte sehen?
 et-0059; bestellen; to order; ; A2; Alltag/Essen/Restaurant; I would like to order the fish please.; Ich möchte bitte den Fisch bestellen.
-et-0060; Rechnung; bill; check; A2; Alltag/Essen/Restaurant; Could we have the bill please?; Könnten wir bitte die Rechnung haben?
+et-0060; Rechnung (Restaurant); bill; check; A2; Alltag/Essen/Restaurant; Could we have the bill please?; Könnten wir bitte die Rechnung haben?
 et-0061; Vorspeise; starter; appetizer; B1; Alltag/Essen/Restaurant; As a starter I recommend the tomato soup.; Als Vorspeise empfehle ich die Tomatensuppe.
 et-0062; Hauptgericht; main course; main dish; B1; Alltag/Essen/Restaurant; The main course was grilled fish with vegetables.; Das Hauptgericht war gegrillter Fisch mit Gemüse.
 et-0063; Nachtisch; dessert; sweet course; B1; Alltag/Essen/Restaurant; For dessert we shared a chocolate cake.; Zum Nachtisch teilten wir uns einen Schokoladenkuchen.

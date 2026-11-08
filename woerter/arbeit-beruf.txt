@@ -34,7 +34,7 @@ ab-0032; verdienen; to earn; ; A2; Arbeit/Beruf/Vertrag & Gehalt; She earns good
 ab-0033; Arbeitgeber; employer; ; A2; Arbeit/Beruf/Vertrag & Gehalt; My employer pays for my train ticket.; Mein Arbeitgeber bezahlt meine Zugfahrkarte.
 ab-0034; Arbeitnehmer; employee; worker; A2; Arbeit/Beruf/Vertrag & Gehalt; Every employee gets thirty days of holiday.; Jeder Arbeitnehmer bekommt dreißig Tage Urlaub.
 ab-0035; Fabrik; factory; plant; A2; Arbeit/Beruf/Arbeitsalltag; The factory produces cars for the whole world.; Die Fabrik produziert Autos für die ganze Welt.
-ab-0036; Werkstatt; workshop; garage; A2; Arbeit/Beruf/Arbeitsalltag; My car is in the workshop until Friday.; Mein Auto ist bis Freitag in der Werkstatt.
+ab-0036; Werkstatt (Auto); garage; repair shop; A2; Arbeit/Beruf/Arbeitsalltag; My car is in the garage until Friday.; Mein Auto ist bis Freitag in der Werkstatt.
 ab-0037; Termin; appointment; ; A2; Arbeit/Beruf/Arbeitsalltag; I have an important appointment on Monday morning.; Ich habe am Montagmorgen einen wichtigen Termin.
 ab-0038; Urlaub; vacation; holiday; A2; Arbeit/Beruf/Arbeitsalltag; We take our vacation in August this year.; Wir nehmen unseren Urlaub dieses Jahr im August.
 ab-0039; Teilzeit; part-time; ; A2; Arbeit/Beruf/Vertrag & Gehalt; She works part-time because of her children.; Sie arbeitet wegen ihrer Kinder in Teilzeit.
@@ -51,7 +51,7 @@ ab-0049; Ausbildung; apprenticeship; vocational training; A2; Arbeit/Beruf/Karri
 ab-0050; arbeitslos; unemployed; out of work; A2; Arbeit/Beruf/Rechte & Soziales; He was unemployed for six months last year.; Er war letztes Jahr sechs Monate arbeitslos.
 ab-0051; Vorstellungsgespräch; job interview; interview; B1; Arbeit/Beruf/Bewerbung; She is well prepared for the job interview.; Sie ist gut auf das Vorstellungsgespräch vorbereitet.
 ab-0052; Arbeitsvertrag; employment contract; work contract; B1; Arbeit/Beruf/Vertrag & Gehalt; Please read the employment contract before you sign it.; Bitte lesen Sie den Arbeitsvertrag, bevor Sie ihn unterschreiben.
-ab-0053; Kündigung; termination; dismissal, notice; B1; Arbeit/Beruf/Kündigung; He received his termination at the end of March.; Er erhielt seine Kündigung Ende März.
+ab-0053; Kündigung (Stelle); termination; dismissal, notice; B1; Arbeit/Beruf/Kündigung; He received his termination at the end of March.; Er erhielt seine Kündigung Ende März.
 ab-0054; Probezeit; probation period; trial period, probationary period; B1; Arbeit/Beruf/Vertrag & Gehalt; The probation period lasts six months in this company.; Die Probezeit dauert in dieser Firma sechs Monate.
 ab-0055; Gehaltserhöhung; pay rise; salary increase, raise; B1; Arbeit/Beruf/Vertrag & Gehalt; She asked her boss for a pay rise.; Sie bat ihren Chef um eine Gehaltserhöhung.
 ab-0056; Abteilung; department; division; B1; Arbeit/Beruf/Arbeitsalltag; Our department is responsible for new customers.; Unsere Abteilung ist für neue Kunden zuständig.
@@ -61,7 +61,7 @@ ab-0059; Erfahrung; experience; ; B1; Arbeit/Beruf/Bewerbung; She has many years
 ab-0060; Fähigkeit; skill; ability; B1; Arbeit/Beruf/Bewerbung; Good communication is an important skill in this job.; Gute Kommunikation ist eine wichtige Fähigkeit in diesem Beruf.
 ab-0061; Stärke; strength; ; B1; Arbeit/Beruf/Bewerbung; Please tell us about your greatest strength.; Bitte erzählen Sie uns von Ihrer größten Stärke.
 ab-0062; Schwäche; weakness; ; B1; Arbeit/Beruf/Bewerbung; Everyone should know their own weaknesses well.; Jeder sollte seine eigenen Schwächen gut kennen.
-ab-0063; Zeugnis (Arbeit); certificate; reference, report; B1; Arbeit/Beruf/Bewerbung; Please attach your certificate to the application.; Bitte fügen Sie der Bewerbung Ihr Zeugnis bei.
+ab-0063; Zeugnis (Arbeit); certificate; reference; B1; Arbeit/Beruf/Bewerbung; Please attach your certificate to the application.; Bitte fügen Sie der Bewerbung Ihr Zeugnis bei.
 ab-0064; Anforderung; requirement; demand; B1; Arbeit/Beruf/Bewerbung; This position has very high requirements.; Diese Stelle hat sehr hohe Anforderungen.
 ab-0065; Verantwortung; responsibility; ; B1; Arbeit/Beruf/Arbeitsalltag; She takes responsibility for the whole project.; Sie übernimmt die Verantwortung für das ganze Projekt.
 ab-0066; Aufgabe; task; assignment, duty; B1; Arbeit/Beruf/Arbeitsalltag; My first task is to answer customer emails.; Meine erste Aufgabe ist es, Kunden-E-Mails zu beantworten.

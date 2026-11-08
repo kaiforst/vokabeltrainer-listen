@@ -6,7 +6,7 @@ es-sf-0003; schwimmen; nadar; ; A1; Freizeit/Sport/Sportarten; Cada verano nado 
 es-sf-0004; laufen; correr; ; A1; Freizeit/Sport/Training; Corre tres kilómetros todas las mañanas.; Er läuft jeden Morgen drei Kilometer.
 es-sf-0005; spielen; jugar; ; A1; Freizeit/Sport/Sportarten; Los niños juegan al tenis después del colegio.; Die Kinder spielen nach der Schule Tennis.
 es-sf-0006; Tennis; el tenis; ; A1; Freizeit/Sport/Sportarten; Los domingos juega al tenis con su hermano.; Sie spielt sonntags mit ihrem Bruder Tennis.
-es-sf-0007; Spiel; el partido; el juego; A1; Freizeit/Sport/Wettkampf; Hoy el partido empieza a las tres.; Das Spiel beginnt heute um drei Uhr.
+es-sf-0007; Spiel (Sport); el partido; ; A1; Freizeit/Sport/Wettkampf; Hoy el partido empieza a las tres.; Das Spiel beginnt heute um drei Uhr.
 es-sf-0008; Tor (Sport); el gol; la portería; A1; Freizeit/Sport/Wettkampf; Nuestro equipo marcó un gol en el último minuto.; Unsere Mannschaft schoss in der letzten Minute ein Tor.
 es-sf-0009; Mannschaft; el equipo; ; A1; Freizeit/Sport/Verein; Nuestro equipo entrena dos veces por semana.; Unsere Mannschaft trainiert zweimal pro Woche.
 es-sf-0010; gewinnen; ganar; ; A1; Freizeit/Sport/Wettkampf; Queremos ganar el próximo partido.; Wir wollen das nächste Spiel gewinnen.
@@ -104,7 +104,7 @@ es-sf-0101; Gegner; el adversario; la adversaria, el contrincante, el oponente; 
 es-sf-0102; Rivale; el rival; la rival; B2; Freizeit/Sport/Wettkampf; Los dos rivales vuelven a enfrentarse en la final.; Die beiden Rivalen treffen im Finale wieder aufeinander.
 es-sf-0103; Favorit; el favorito; la favorita; B2; Freizeit/Sport/Wettkampf; El favorito perdió por sorpresa en la primera ronda.; Der Favorit verlor überraschend in der ersten Runde.
 es-sf-0104; Außenseiter; el equipo modesto; el no favorito, la cenicienta, el outsider; B2; Freizeit/Sport/Wettkampf; El equipo modesto sorprendió a todos con una clara victoria.; Der Außenseiter überraschte alle mit einem klaren Sieg.
-es-sf-0105; Qualifikation; la clasificación; la fase de clasificación; B2; Freizeit/Sport/Wettkampf; Llegó a la final gracias a una gran clasificación.; Sie erreichte das Finale durch eine starke Qualifikation.
+es-sf-0105; Qualifikation (Sport); la clasificación; la fase de clasificación; B2; Freizeit/Sport/Wettkampf; Llegó a la final gracias a una gran clasificación.; Sie erreichte das Finale durch eine starke Qualifikation.
 es-sf-0106; Endspiel; la final; ; B2; Freizeit/Sport/Wettkampf; La final se jugará el domingo por la noche.; Das Endspiel wird am Sonntagabend gespielt.
 es-sf-0107; Halbfinale; la semifinal; ; B2; Freizeit/Sport/Wettkampf; Perdieron la semifinal tras un partido dramático.; Sie verloren das Halbfinale nach einem dramatischen Spiel.
 es-sf-0108; Vorrunde; la fase de grupos; la primera ronda, la fase previa; B2; Freizeit/Sport/Wettkampf; El equipo quedó eliminado en la fase de grupos.; Die Mannschaft schied in der Vorrunde aus.

@@ -18,7 +18,7 @@ sb-0016; antworten; to answer; to reply, to respond; A1; Bildung/Schule/Unterric
 sb-0017; Frage; question; ; A1; Bildung/Schule/Unterricht; I have a question about the homework.; Ich habe eine Frage zu den Hausaufgaben.
 sb-0018; Antwort; answer; reply, response; A1; Bildung/Schule/Unterricht; The right answer is on the next page.; Die richtige Antwort steht auf der nächsten Seite.
 sb-0019; Hausaufgaben; homework; ; A1; Bildung/Schule/Unterricht; I do my homework after lunch.; Ich mache meine Hausaufgaben nach dem Mittagessen.
-sb-0020; Pause; break; recess; A1; Bildung/Schule/Unterricht; We play football during the big break.; In der großen Pause spielen wir Fußball.
+sb-0020; Pause (Schule); break; recess; A1; Bildung/Schule/Unterricht; We play football during the big break.; In der großen Pause spielen wir Fußball.
 sb-0021; Mathematik; maths; mathematics, math; A1; Bildung/Schule/Fächer; We have maths on Monday and Thursday.; Montags und donnerstags haben wir Mathematik.
 sb-0022; Englisch; English; ; A1; Bildung/Schule/Fächer; In English we sing songs and play games.; In Englisch singen wir Lieder und spielen Spiele.
 sb-0023; Deutsch; German; ; A1; Bildung/Schule/Fächer; In German we are reading a short novel.; In Deutsch lesen wir gerade einen kurzen Roman.
@@ -41,7 +41,7 @@ sb-0039; Test; test; quiz; A2; Bildung/Schule/Prüfungen; We write a short test 
 sb-0040; bestehen (Prüfung); to pass; ; A2; Bildung/Schule/Prüfungen; I am sure you will pass the exam.; Ich bin sicher, dass du die Prüfung bestehst.
 sb-0041; durchfallen; to fail; to flunk; A2; Bildung/Schule/Prüfungen; Nobody wants to fail the final test.; Niemand will beim letzten Test durchfallen.
 sb-0042; üben; to practise; to practice; A2; Bildung/Lernen; You should practise the new words every day.; Du solltest die neuen Wörter jeden Tag üben.
-sb-0043; wiederholen; to repeat; to revise, to review; A2; Bildung/Lernen; Let us repeat the grammar from last week.; Lass uns die Grammatik von letzter Woche wiederholen.
+sb-0043; wiederholen (Lernstoff); to revise; to review; A2; Bildung/Lernen; Let's revise the grammar from last week.; Lass uns die Grammatik von letzter Woche wiederholen.
 sb-0044; erklären; to explain; ; A2; Bildung/Schule/Unterricht; Can you explain this rule again, please?; Kannst du diese Regel bitte noch einmal erklären?
 sb-0045; verstehen; to understand; ; A2; Bildung/Lernen; I did not understand the last sentence.; Ich habe den letzten Satz nicht verstanden.
 sb-0046; vergessen; to forget; ; A2; Bildung/Lernen; Do not forget your homework at home.; Vergiss deine Hausaufgaben nicht zu Hause.

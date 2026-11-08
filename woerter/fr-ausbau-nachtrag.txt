@@ -3,7 +3,7 @@ id; Deutsch; Französisch; Weitere Antworten; Niveau; Themen; Beispiel Französi
 fr-xf-0001; anfangen; commencer; ; A1; Allgemein/Verben; Le film commence dans dix minutes, alors dépêchons-nous.; Der Film fängt in zehn Minuten an, also beeilen wir uns.
 fr-xf-0002; aussehen; avoir l'air; sembler; A1; Allgemein/Verben; Tu as l'air vraiment fatigué aujourd'hui, ça va ?; Du siehst heute richtig müde aus, geht es dir gut?
 fr-xf-0003; anschauen; regarder; ; A1; Allgemein/Verben; Je peux regarder tes photos de vacances plus tard ?; Kann ich mir später deine Urlaubsfotos anschauen?
-fr-xf-0004; liegen; être allongé; être couché; A1; Allgemein/Verben; Le chat est allongé sur le canapé au soleil.; Die Katze liegt auf dem Sofa in der Sonne.
+fr-xf-0004; liegen (Lebewesen); être allongé; être couché; A1; Allgemein/Verben; Le chat est allongé sur le canapé au soleil.; Die Katze liegt auf dem Sofa in der Sonne.
 fr-xf-0005; leben; vivre; ; A1; Allgemein/Verben; Mes grands-parents vivent dans un petit village au bord de la mer.; Meine Großeltern leben in einem kleinen Dorf am Meer.
 fr-xf-0006; dürfen; avoir le droit; pouvoir; A1; Allgemein/Verben; Les enfants n'ont pas le droit de jouer sur le chantier.; Kinder dürfen nicht auf der Baustelle spielen.
 fr-xf-0007; aufmachen; ouvrir; ; A1; Allgemein/Verben; Tu peux ouvrir la fenêtre, s'il te plaît ? Il fait très chaud.; Kannst du bitte das Fenster aufmachen? Es ist sehr warm.
@@ -39,7 +39,7 @@ fr-xf-0036; fortfahren; continuer; poursuivre; B1; Allgemein/Verben; Après une 
 fr-xf-0037; umkehren; faire demi-tour; rebrousser chemin; B1; Allgemein/Verben; La route était fermée, alors nous avons dû faire demi-tour.; Die Straße war gesperrt, also mussten wir umkehren.
 fr-xf-0038; vorbeigehen; passer; passer devant; A2; Allgemein/Verben; Je passe devant la boulangerie tous les matins.; Ich gehe jeden Morgen an der Bäckerei vorbei.
 fr-xf-0039; eintreten; entrer; ; B1; Allgemein/Verben; Frappe avant d'entrer dans la pièce, s'il te plaît.; Bitte klopf an, bevor du in das Zimmer eintrittst.
-fr-xf-0040; wenden; retourner; tourner; B1; Allgemein/Verben; Retourne le steak dans la poêle après deux minutes.; Wende das Steak in der Pfanne nach zwei Minuten.
+fr-xf-0040; wenden (Auto); faire demi-tour; ; B1; Allgemein/Verben; Il a fait demi-tour dans la rue étroite.; Er hat das Auto in der engen Straße gewendet.
 fr-xf-0041; bilden; former; ; B1; Allgemein/Verben; Les enfants ont formé un cercle autour de la maîtresse.; Die Kinder bildeten einen Kreis um die Lehrerin.
 fr-xf-0042; formen; former; façonner; B1; Allgemein/Verben; Avec tes mains, forme de petites boules de pâte.; Form mit den Händen kleine Kugeln aus dem Teig.
 fr-xf-0043; herstellen; fabriquer; produire; B1; Allgemein/Verben; Cette usine fabrique des pièces pour les voitures et les bus.; Diese Fabrik stellt Teile für Autos und Busse her.
@@ -49,7 +49,7 @@ fr-xf-0046; gestalten; concevoir; créer; B2; Allgemein/Verben; Les élèves ont
 fr-xf-0047; festlegen; fixer; déterminer; B2; Allgemein/Verben; Nous devons encore fixer une date pour la réunion.; Wir müssen noch einen Termin für das Treffen festlegen.
 fr-xf-0048; anwenden; appliquer; ; B1; Allgemein/Verben; Essaie maintenant d'appliquer la règle à ces phrases.; Versuch jetzt, die Regel auf diese Sätze anzuwenden.
 fr-xf-0049; leiten; diriger; gérer; B1; Allgemein/Verben; Madame Moreau dirige l'école depuis de nombreuses années.; Frau Moreau leitet die Schule seit vielen Jahren.
-fr-xf-0050; betreiben; exploiter; tenir, gérer; B2; Allgemein/Verben; Sa famille exploite un petit hôtel au bord du lac.; Seine Familie betreibt ein kleines Hotel am See.
+fr-xf-0050; betreiben (führen); exploiter; tenir, gérer; B2; Allgemein/Verben; Sa famille exploite un petit hôtel au bord du lac.; Seine Familie betreibt ein kleines Hotel am See.
 fr-xf-0051; beherrschen; maîtriser; ; B2; Allgemein/Verben; Il faut des années pour maîtriser une langue étrangère.; Es dauert Jahre, eine Fremdsprache zu beherrschen.
 fr-xf-0052; enthüllen; révéler; dévoiler; B2; Allgemein/Verben; Le magicien ne révèle jamais le secret de ses tours.; Der Zauberer enthüllt nie das Geheimnis seiner Tricks.
 fr-xf-0053; ansteigen; monter; augmenter; B1; Allgemein/Verben; Le niveau de l'eau est monté après les fortes pluies.; Nach dem starken Regen ist der Wasserstand angestiegen.
@@ -95,7 +95,7 @@ fr-xf-0092; bereit; prêt; ; A2; Allgemein/Adjektive; Tu es prêt ? Nous devons 
 fr-xf-0093; kräftig; fort; robuste, vigoureux; B1; Allgemein/Adjektive; Grâce au travail à la ferme, il a des bras très forts.; Von der Arbeit auf dem Hof hat er kräftige Arme.
 fr-xf-0094; großartig; génial; formidable, magnifique; B1; Allgemein/Adjektive; C'était une idée géniale, merci beaucoup !; Das war eine großartige Idee, vielen Dank!
 fr-xf-0095; fantastisch; fantastique; génial; A2; Allgemein/Adjektive; La vue d'en haut est vraiment fantastique.; Die Aussicht von oben ist wirklich fantastisch.
-fr-xf-0096; grob; grossier; ; B2; Allgemein/Adjektive; Voici une estimation grossière du prix du voyage.; Das ist eine grobe Schätzung des Reisepreises.
+fr-xf-0096; grob (ungefähr); approximatif; ; B2; Allgemein/Adjektive; Voici une estimation approximative du prix du voyage.; Das ist eine grobe Schätzung des Reisepreises.
 fr-xf-0097; rau; rugueux; rêche; B1; Allgemein/Adjektive; J'ai les mains rugueuses à cause du froid.; Meine Hände sind vom kalten Wetter ganz rau.
 fr-xf-0098; uneben; inégal; accidenté; B2; Allgemein/Adjektive; Attention, le chemin est très inégal ici.; Pass auf, der Weg ist hier sehr uneben.
 fr-xf-0099; zäh; coriace; dur; B2; Allgemein/Adjektive; La viande était si coriace que je n'ai pas pu la manger.; Das Fleisch war so zäh, dass ich es nicht essen konnte.

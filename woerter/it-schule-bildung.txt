@@ -19,7 +19,7 @@ it-sb-0016; antworten; rispondere; ; A1; Bildung/Schule/Unterricht; Prima pensa,
 it-sb-0017; Frage; la domanda; ; A1; Bildung/Schule/Unterricht; Ho una domanda sui compiti.; Ich habe eine Frage zu den Hausaufgaben.
 it-sb-0018; Antwort; la risposta; ; A1; Bildung/Schule/Unterricht; La risposta giusta è alla pagina successiva.; Die richtige Antwort steht auf der nächsten Seite.
 it-sb-0019; Hausaufgaben; i compiti; i compiti per casa; A1; Bildung/Schule/Unterricht; Faccio i compiti dopo pranzo.; Ich mache meine Hausaufgaben nach dem Mittagessen.
-it-sb-0020; Pause; la ricreazione; l'intervallo, la pausa; A1; Bildung/Schule/Unterricht; Durante la ricreazione giochiamo a calcio.; In der großen Pause spielen wir Fußball.
+it-sb-0020; Pause (Schule); la ricreazione; l'intervallo, la pausa; A1; Bildung/Schule/Unterricht; Durante la ricreazione giochiamo a calcio.; In der großen Pause spielen wir Fußball.
 it-sb-0021; Mathematik; la matematica; ; A1; Bildung/Schule/Fächer; Il lunedì e il giovedì abbiamo matematica.; Montags und donnerstags haben wir Mathematik.
 it-sb-0022; Englisch; l'inglese; ; A1; Bildung/Schule/Fächer; Nell'ora d'inglese cantiamo canzoni e facciamo giochi.; In Englisch singen wir Lieder und spielen Spiele.
 it-sb-0023; Deutsch; il tedesco; ; A1; Bildung/Schule/Fächer; In tedesco stiamo leggendo un breve romanzo.; In Deutsch lesen wir gerade einen kurzen Roman.
@@ -42,7 +42,7 @@ it-sb-0039; Test; il test; la verifica, il compito in classe; A2; Bildung/Schule
 it-sb-0040; bestehen (Prüfung); superare; passare; A2; Bildung/Schule/Prüfungen; Sono sicuro che supererai l'esame.; Ich bin sicher, dass du die Prüfung bestehst.
 it-sb-0041; durchfallen; essere bocciato; non superare, essere respinto; A2; Bildung/Schule/Prüfungen; Nessuno vuole essere bocciato all'ultimo test.; Niemand will beim letzten Test durchfallen.
 it-sb-0042; üben; esercitarsi; fare pratica; A2; Bildung/Lernen; Dovresti esercitarti ogni giorno con le parole nuove.; Du solltest die neuen Wörter jeden Tag üben.
-it-sb-0043; wiederholen; ripassare; ripetere; A2; Bildung/Lernen; Ripassiamo la grammatica della settimana scorsa.; Lass uns die Grammatik von letzter Woche wiederholen.
+it-sb-0043; wiederholen (Lernstoff); ripassare; ; A2; Bildung/Lernen; Ripassiamo la grammatica della settimana scorsa.; Lass uns die Grammatik von letzter Woche wiederholen.
 it-sb-0044; erklären; spiegare; ; A2; Bildung/Schule/Unterricht; Puoi spiegare di nuovo questa regola, per favore?; Kannst du diese Regel bitte noch einmal erklären?
 it-sb-0045; verstehen; capire; comprendere; A2; Bildung/Lernen; Non ho capito l'ultima frase.; Ich habe den letzten Satz nicht verstanden.
 it-sb-0046; vergessen; dimenticare; scordare; A2; Bildung/Lernen; Non dimenticare i compiti a casa.; Vergiss deine Hausaufgaben nicht zu Hause.

@@ -65,7 +65,7 @@ fr-gw-0062; schließen; fermer; ; A1; Grundwortschatz/Verben; Les magasins ferme
 fr-gw-0063; beginnen; commencer; débuter; A1; Grundwortschatz/Verben; Le cours commence à neuf heures du matin.; Der Unterricht beginnt morgens um neun.
 fr-gw-0064; warten; attendre; ; A1; Grundwortschatz/Verben; Nous attendons le bus à l'arrêt.; Wir warten an der Haltestelle auf den Bus.
 fr-gw-0065; treffen; retrouver; rencontrer, voir; A1; Grundwortschatz/Verben; Aujourd'hui, je retrouve mes amis au café.; Ich treffe heute meine Freunde im Café.
-fr-gw-0066; besuchen; rendre visite à; visiter, aller voir; A1; Grundwortschatz/Verben; Nous rendons visite à nos grands-parents tous les dimanches après-midi.; Wir besuchen jeden Sonntagnachmittag unsere Großeltern.
+fr-gw-0066; besuchen; rendre visite à; aller voir; A1; Grundwortschatz/Verben; Nous rendons visite à nos grands-parents tous les dimanches après-midi.; Wir besuchen jeden Sonntagnachmittag unsere Großeltern.
 fr-gw-0067; reisen; voyager; ; A1; Grundwortschatz/Verben; Ils voyagent en Espagne chaque été.; Sie reisen jeden Sommer nach Spanien.
 fr-gw-0068; ankommen; arriver; ; A1; Grundwortschatz/Verben; Le train arrive à dix heures du matin.; Der Zug kommt morgens um zehn an.
 fr-gw-0069; zeigen; montrer; indiquer; A1; Grundwortschatz/Verben; Tu peux me montrer le chemin de l'hôtel ?; Kannst du mir den Weg zum Hotel zeigen?
@@ -159,7 +159,7 @@ fr-gw-0156; Apfel; la pomme; ; A1; Grundwortschatz/Essen & Trinken; Je mange une
 fr-gw-0157; Käse; le fromage; ; A1; Grundwortschatz/Essen & Trinken; J'aime le pain avec du fromage et de la tomate.; Ich mag Brot mit Käse und Tomate.
 fr-gw-0158; Ei; l'œuf; ; A1; Grundwortschatz/Essen & Trinken; Le dimanche, je mange un œuf au petit-déjeuner.; Sonntags esse ich ein Ei zum Frühstück.
 fr-gw-0159; Fleisch; la viande; ; A1; Grundwortschatz/Essen & Trinken; Ma sœur ne mange pas de viande.; Meine Schwester isst kein Fleisch.
-fr-gw-0160; Fisch; le poisson; ; A1; Grundwortschatz/Essen & Trinken; Le vendredi, nous mangeons du poisson avec du riz.; Freitags essen wir Fisch mit Reis.
+fr-gw-0160; Fisch (Speise); le poisson; ; A1; Grundwortschatz/Essen & Trinken; Le vendredi, nous mangeons du poisson avec du riz.; Freitags essen wir Fisch mit Reis.
 fr-gw-0161; Obst; les fruits; le fruit; A1; Grundwortschatz/Essen & Trinken; Les fruits frais sont bons pour la santé.; Frisches Obst ist gut für deine Gesundheit.
 fr-gw-0162; Gemüse; les légumes; le légume; A1; Grundwortschatz/Essen & Trinken; Le samedi, nous achetons des légumes au marché.; Samstags kaufen wir Gemüse auf dem Markt.
 fr-gw-0163; Reis; le riz; ; A1; Grundwortschatz/Essen & Trinken; Aujourd'hui, nous faisons du riz au poulet.; Heute kochen wir Reis mit Hähnchen.
@@ -216,7 +216,7 @@ fr-gw-0213; warm; chaud; ; A1; Grundwortschatz/Adjektive; Prends une veste chaud
 fr-gw-0214; teuer; cher; coûteux; A1; Grundwortschatz/Adjektive; Cet hôtel est trop cher pour nous.; Dieses Hotel ist zu teuer für uns.
 fr-gw-0215; billig; bon marché; pas cher; A1; Grundwortschatz/Adjektive; Le lundi, les billets sont bon marché.; Die Karten sind montags billig.
 fr-gw-0216; leicht; facile; léger; A1; Grundwortschatz/Adjektive; Le contrôle d'aujourd'hui était vraiment facile.; Der Test heute war wirklich leicht.
-fr-gw-0217; schwer; difficile; dur, lourd; A1; Grundwortschatz/Adjektive; Cet exercice est trop difficile pour moi.; Diese Übung ist zu schwer für mich.
+fr-gw-0217; schwer (schwierig); difficile; dur; A1; Grundwortschatz/Adjektive; Cet exercice est trop difficile pour moi.; Diese Übung ist zu schwer für mich.
 fr-gw-0218; glücklich; heureux; content; A1; Grundwortschatz/Adjektive; Les enfants sont heureux de voir la neige.; Die Kinder sind glücklich über den Schnee.
 fr-gw-0219; traurig; triste; ; A1; Grundwortschatz/Adjektive; Elle est triste parce que son amie déménage.; Sie ist traurig, weil ihre Freundin wegzieht.
 fr-gw-0220; müde; fatigué; ; A1; Grundwortschatz/Adjektive; Je suis fatigué et je vais me coucher maintenant.; Ich bin müde und gehe jetzt ins Bett.
@@ -360,7 +360,7 @@ fr-gw-0357; Geschmack; le goût; la saveur; A2; Grundwortschatz/Essen & Trinken;
 fr-gw-0358; lecker; délicieux; bon; A2; Grundwortschatz/Essen & Trinken; La pizza de ce restaurant est vraiment délicieuse.; Die Pizza in diesem Restaurant ist wirklich lecker.
 fr-gw-0359; Imbiss (kleine Mahlzeit); le casse-croûte; l'en-cas, le snack; A2; Grundwortschatz/Essen & Trinken; Nous avons acheté un casse-croûte rapide à la gare.; Wir kauften einen schnellen Imbiss am Bahnhof.
 fr-gw-0360; Kellner; le serveur; le garçon; A2; Grundwortschatz/Essen & Trinken; Le serveur nous a vite apporté la carte.; Der Kellner brachte uns schnell die Speisekarte.
-fr-gw-0361; Rechnung; l'addition; la facture, la note; A2; Grundwortschatz/Essen & Trinken; L'addition, s'il vous plaît !; Könnten wir bitte die Rechnung haben?
+fr-gw-0361; Rechnung (Restaurant); l'addition; la note; A2; Grundwortschatz/Essen & Trinken; L'addition, s'il vous plaît !; Könnten wir bitte die Rechnung haben?
 fr-gw-0362; Trinkgeld; le pourboire; ; A2; Grundwortschatz/Essen & Trinken; Nous avons laissé un petit pourboire au serveur sympathique.; Wir ließen dem freundlichen Kellner ein kleines Trinkgeld da.
 fr-gw-0363; Pfanne; la poêle; ; A2; Grundwortschatz/Essen & Trinken; Fais chauffer un peu d'huile dans une grande poêle.; Erhitze etwas Öl in einer großen Pfanne.
 fr-gw-0364; Topf; la casserole; la marmite; A2; Grundwortschatz/Essen & Trinken; Fais cuire les pommes de terre dans une grande casserole.; Koche die Kartoffeln in einem großen Topf.
@@ -495,7 +495,7 @@ fr-gw-0492; Erfolg; le succès; la réussite; A2; Grundwortschatz/Arbeit & Schul
 fr-gw-0493; Prüfung; l'examen; le contrôle; A2; Grundwortschatz/Arbeit & Schule; Je dois réviser pour mon examen d'anglais.; Ich muss für meine Englischprüfung lernen.
 fr-gw-0494; Note (Schule); la note; ; A2; Grundwortschatz/Arbeit & Schule; Il a eu la meilleure note de la classe.; Er bekam die beste Note in der Klasse.
 fr-gw-0495; Fach; la matière; ; A2; Grundwortschatz/Arbeit & Schule; Ma matière préférée à l'école, c'est l'histoire.; Mein Lieblingsfach in der Schule ist Geschichte.
-fr-gw-0496; Pause; la pause; la récréation, la récré; A2; Grundwortschatz/Arbeit & Schule; Faisons une petite pause après ce cours.; Machen wir nach dieser Stunde eine kurze Pause.
+fr-gw-0496; Pause; la pause; ; A2; Grundwortschatz/Arbeit & Schule; Faisons une petite pause après ce cours.; Machen wir nach dieser Stunde eine kurze Pause.
 fr-gw-0497; Projekt; le projet; ; A2; Grundwortschatz/Arbeit & Schule; Notre classe travaille sur un projet scientifique.; Unsere Klasse arbeitet an einem Wissenschaftsprojekt.
 fr-gw-0498; Bericht; le rapport; le compte rendu; A2; Grundwortschatz/Arbeit & Schule; Écris un court rapport sur la sortie, s'il te plaît.; Bitte schreib einen kurzen Bericht über den Ausflug.
 fr-gw-0499; Regel; la règle; ; A2; Grundwortschatz/Arbeit & Schule; Chaque jeu a des règles qu'il faut respecter.; Jedes Spiel hat Regeln, die man befolgen muss.
@@ -668,7 +668,7 @@ fr-gw-0665; Vergleich; la comparaison; ; B1; Grundwortschatz/Abstrakte Begriffe;
 fr-gw-0666; Wettbewerb; le concours; la compétition; B1; Grundwortschatz/Gesellschaft; Notre école a remporté le premier prix du concours.; Unsere Schule gewann den ersten Preis im Wettbewerb.
 fr-gw-0667; Beschwerde; la plainte; la réclamation; B1; Grundwortschatz/Kommunikation; L'hôtel a reçu plusieurs plaintes à propos de la musique forte.; Das Hotel erhielt mehrere Beschwerden über die laute Musik.
 fr-gw-0668; Bedingung; la condition; ; B1; Grundwortschatz/Abstrakte Begriffe; Une bonne lumière est une condition importante pour la photographie.; Gutes Licht ist eine wichtige Bedingung für das Fotografieren.
-fr-gw-0669; Verbindung; le lien; la relation; B1; Grundwortschatz/Abstrakte Begriffe; Il existe un lien clair entre le tabac et le cancer.; Es gibt eine klare Verbindung zwischen Rauchen und Krebs.
+fr-gw-0669; Verbindung (Zusammenhang); le lien; la relation; B1; Grundwortschatz/Abstrakte Begriffe; Il existe un lien clair entre le tabac et le cancer.; Es gibt eine klare Verbindung zwischen Rauchen und Krebs.
 fr-gw-0670; Folge (Konsequenz); la conséquence; la suite; B1; Grundwortschatz/Abstrakte Begriffe; La nouvelle loi a eu de graves conséquences pour les petits commerces.; Das neue Gesetz hatte ernste Folgen für kleine Geschäfte.
 fr-gw-0671; Entwicklung; le développement; l'évolution; B1; Grundwortschatz/Abstrakte Begriffe; Le développement du centre-ville a duré plusieurs années.; Die Entwicklung des Stadtzentrums dauerte mehrere Jahre.
 fr-gw-0672; Pflicht; le devoir; l'obligation; B1; Grundwortschatz/Gesellschaft; C'est ton devoir d'informer la police.; Es ist deine Pflicht, die Polizei zu informieren.

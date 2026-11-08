@@ -6,7 +6,7 @@ fr-et-0003; Milch; le lait; ; A1; Alltag/Essen/Getränke; Je bois du lait au pet
 fr-et-0004; Apfel; la pomme; ; A1; Alltag/Essen/Lebensmittel; Elle mange une pomme après le déjeuner.; Sie isst nach dem Mittagessen einen Apfel.
 fr-et-0005; Käse; le fromage; ; A1; Alltag/Essen/Lebensmittel; Ce fromage vient d'une petite ferme.; Dieser Käse kommt von einem kleinen Bauernhof.
 fr-et-0006; Ei; l'œuf; ; A1; Alltag/Essen/Lebensmittel; Je mange un œuf tous les matins.; Ich esse jeden Morgen ein Ei.
-fr-et-0007; Fisch; le poisson; ; A1; Alltag/Essen/Lebensmittel; Nous mangeons du poisson tous les vendredis soir.; Wir essen jeden Freitagabend Fisch.
+fr-et-0007; Fisch (Speise); le poisson; ; A1; Alltag/Essen/Lebensmittel; Nous mangeons du poisson tous les vendredis soir.; Wir essen jeden Freitagabend Fisch.
 fr-et-0008; Fleisch; la viande; ; A1; Alltag/Essen/Lebensmittel; Il ne mange pas beaucoup de viande.; Er isst nicht viel Fleisch.
 fr-et-0009; Kaffee; le café; ; A1; Alltag/Essen/Getränke; Une tasse de café m'aide à me réveiller.; Eine Tasse Kaffee hilft mir beim Aufwachen.
 fr-et-0010; Tee; le thé; ; A1; Alltag/Essen/Getränke; Tu veux du thé avec du miel ?; Möchtest du etwas Tee mit Honig?
@@ -32,7 +32,7 @@ fr-et-0029; Zwiebel; l'oignon; ; A2; Alltag/Essen/Lebensmittel; L'oignon me fait
 fr-et-0030; Banane; la banane; ; A2; Alltag/Essen/Lebensmittel; Une banane est un bon en-cas avant le sport.; Eine Banane ist ein guter Snack vor dem Sport.
 fr-et-0031; Orange; l'orange; ; A2; Alltag/Essen/Lebensmittel; Cette orange est sucrée et très juteuse.; Diese Orange ist süß und sehr saftig.
 fr-et-0032; Erdbeere; la fraise; ; A2; Alltag/Essen/Lebensmittel; Chaque fraise de ce panier a l'air parfaite.; Jede Erdbeere in diesem Korb sieht perfekt aus.
-fr-et-0033; Huhn; le poulet; la poule; A2; Alltag/Essen/Lebensmittel; Aujourd'hui, il y a du poulet avec du riz.; Es gibt heute Huhn mit Reis.
+fr-et-0033; Huhn (Speise); le poulet; ; A2; Alltag/Essen/Lebensmittel; Aujourd'hui, il y a du poulet avec du riz.; Es gibt heute Huhn mit Reis.
 fr-et-0034; Wurst; la saucisse; le saucisson; A2; Alltag/Essen/Lebensmittel; Il a acheté une saucisse au marché.; Er hat auf dem Markt eine Wurst gekauft.
 fr-et-0035; Schinken; le jambon; ; A2; Alltag/Essen/Lebensmittel; Je voudrais un petit pain au jambon.; Ich hätte gern ein Brötchen mit Schinken.
 fr-et-0036; Nudeln; les pâtes; les nouilles; A2; Alltag/Essen/Lebensmittel; Les enfants veulent des pâtes à la sauce tomate.; Die Kinder wollen Nudeln mit Tomatensoße.
@@ -59,7 +59,7 @@ fr-et-0056; Flasche; la bouteille; ; A2; Alltag/Essen/Getränke; Nous avons ouve
 fr-et-0057; Kellner; le serveur; la serveuse; A2; Alltag/Essen/Restaurant; Le serveur nous a vite apporté la carte.; Der Kellner brachte uns schnell die Speisekarte.
 fr-et-0058; Speisekarte; la carte; le menu; A2; Alltag/Essen/Restaurant; Pouvons-nous voir la carte, s'il vous plaît ?; Können wir bitte die Speisekarte sehen?
 fr-et-0059; bestellen; commander; ; A2; Alltag/Essen/Restaurant; Je voudrais commander le poisson, s'il vous plaît.; Ich möchte bitte den Fisch bestellen.
-fr-et-0060; Rechnung; l'addition; la note; A2; Alltag/Essen/Restaurant; Pourrions-nous avoir l'addition, s'il vous plaît ?; Könnten wir bitte die Rechnung haben?
+fr-et-0060; Rechnung (Restaurant); l'addition; la note; A2; Alltag/Essen/Restaurant; Pourrions-nous avoir l'addition, s'il vous plaît ?; Könnten wir bitte die Rechnung haben?
 fr-et-0061; Vorspeise; l'entrée; le hors-d'œuvre; B1; Alltag/Essen/Restaurant; En entrée, je vous recommande la soupe de tomates.; Als Vorspeise empfehle ich die Tomatensuppe.
 fr-et-0062; Hauptgericht; le plat principal; le plat de résistance; B1; Alltag/Essen/Restaurant; Le plat principal était du poisson grillé avec des légumes.; Das Hauptgericht war gegrillter Fisch mit Gemüse.
 fr-et-0063; Nachtisch; le dessert; ; B1; Alltag/Essen/Restaurant; Comme dessert, nous avons partagé un gâteau au chocolat.; Zum Nachtisch teilten wir uns einen Schokoladenkuchen.

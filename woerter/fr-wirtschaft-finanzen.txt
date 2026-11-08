@@ -14,7 +14,7 @@ fr-wf-0011; Bank (Geldinstitut); la banque; ; A2; Wirtschaft/Finanzen/Bank; La b
 fr-wf-0012; Konto; le compte; le compte bancaire; A2; Wirtschaft/Finanzen/Bank; J'ai ouvert un compte pour ma fille.; Ich habe ein Konto für meine Tochter eröffnet.
 fr-wf-0013; sparen; économiser; épargner, mettre de côté; A2; Wirtschaft/Finanzen/Bank; Nous économisons de l'argent pour de longues vacances.; Wir sparen Geld für einen langen Urlaub.
 fr-wf-0014; Kunde; le client; la cliente; A2; Wirtschaft/Finanzen/Markt & Handel; Le client a demandé une taille plus petite.; Der Kunde fragte nach einer kleineren Größe.
-fr-wf-0015; Rechnung; la facture; l'addition; A2; Wirtschaft/Finanzen/Unternehmen; Veuillez envoyer la facture avant la fin du mois.; Bitte schicken Sie die Rechnung bis Ende des Monats.
+fr-wf-0015; Rechnung; la facture; ; A2; Wirtschaft/Finanzen/Unternehmen; Veuillez envoyer la facture avant la fin du mois.; Bitte schicken Sie die Rechnung bis Ende des Monats.
 fr-wf-0016; Wirtschaft; l'économie; ; A2; Wirtschaft/Finanzen/Konjunktur; L'économie progresse lentement cette année.; Die Wirtschaft wächst dieses Jahr langsam.
 fr-wf-0017; Markt; le marché; ; A2; Wirtschaft/Finanzen/Markt & Handel; Le marché des voitures électriques progresse rapidement.; Der Markt für Elektroautos wächst schnell.
 fr-wf-0018; Angebot; l'offre; la promotion; A2; Wirtschaft/Finanzen/Markt & Handel; L'offre n'est valable que jusqu'à vendredi.; Das Angebot gilt nur bis Freitag.
@@ -52,7 +52,7 @@ fr-wf-0049; Lieferung; la livraison; ; B1; Wirtschaft/Finanzen/Markt & Handel; L
 fr-wf-0050; Ware; la marchandise; les marchandises; B1; Wirtschaft/Finanzen/Markt & Handel; La marchandise est contrôlée avant de quitter l'usine.; Die Ware wird geprüft, bevor sie das Werk verlässt.
 fr-wf-0051; Lager (Waren); l'entrepôt; le stock; B1; Wirtschaft/Finanzen/Markt & Handel; L'entrepôt est plein avant la période de Noël.; Das Lager ist vor der Weihnachtszeit voll.
 fr-wf-0052; Nachfrage; la demande; ; B1; Wirtschaft/Finanzen/Markt & Handel; La demande de pompes à chaleur augmente rapidement.; Die Nachfrage nach Wärmepumpen steigt schnell.
-fr-wf-0053; Wettbewerb; la concurrence; la compétition; B1; Wirtschaft/Finanzen/Markt & Handel; Une forte concurrence maintient les prix très bas.; Starker Wettbewerb hält die Preise sehr niedrig.
+fr-wf-0053; Wettbewerb (Konkurrenz); la concurrence; ; B1; Wirtschaft/Finanzen/Markt & Handel; Une forte concurrence maintient les prix très bas.; Starker Wettbewerb hält die Preise sehr niedrig.
 fr-wf-0054; Konkurrent; le concurrent; la concurrente; B1; Wirtschaft/Finanzen/Markt & Handel; Notre plus grand concurrent a baissé ses prix hier.; Unser größter Konkurrent senkte gestern seine Preise.
 fr-wf-0055; Rabatt; la remise; la réduction, le rabais; B1; Wirtschaft/Finanzen/Markt & Handel; Les étudiants ont droit à une remise de vingt pour cent.; Studenten bekommen einen Rabatt von zwanzig Prozent.
 fr-wf-0056; Schulden; les dettes; la dette; B1; Wirtschaft/Finanzen/Bank; Il a remboursé ses dettes en trois ans.; Er zahlte seine Schulden innerhalb von drei Jahren ab.

@@ -70,7 +70,7 @@ gw-0068; ankommen; to arrive; ; A1; Grundwortschatz/Verben; The train arrives at
 gw-0069; zeigen; to show; ; A1; Grundwortschatz/Verben; Can you show me the way to the hotel?; Kannst du mir den Weg zum Hotel zeigen?
 gw-0070; glauben; to believe; ; A1; Grundwortschatz/Verben; I believe you, the story is true.; Ich glaube dir, die Geschichte ist wahr.
 gw-0071; hoffen; to hope; ; A1; Grundwortschatz/Verben; I hope the weather is nice tomorrow.; Ich hoffe, das Wetter ist morgen schön.
-gw-0072; tragen (Kleidung); to wear; to carry; A1; Grundwortschatz/Verben; She wears a red dress to the party.; Sie trägt ein rotes Kleid auf der Party.
+gw-0072; tragen (Kleidung); to wear; ; A1; Grundwortschatz/Verben; She wears a red dress to the party.; Sie trägt ein rotes Kleid auf der Party.
 gw-0073; kosten; to cost; ; A1; Grundwortschatz/Verben; How much does this ticket cost, please?; Wie viel kostet diese Fahrkarte, bitte?
 gw-0074; bekommen; to get; to receive; A1; Grundwortschatz/Verben; I get a letter from my aunt today.; Ich bekomme heute einen Brief von meiner Tante.
 gw-0075; vergessen; to forget; ; A1; Grundwortschatz/Verben; Do not forget your keys at home!; Vergiss deine Schlüssel nicht zu Hause!
@@ -158,7 +158,7 @@ gw-0156; Apfel; apple; ; A1; Grundwortschatz/Essen & Trinken; I eat an apple eve
 gw-0157; Käse; cheese; ; A1; Grundwortschatz/Essen & Trinken; I like bread with cheese and tomato.; Ich mag Brot mit Käse und Tomate.
 gw-0158; Ei; egg; ; A1; Grundwortschatz/Essen & Trinken; I eat an egg for breakfast on Sundays.; Sonntags esse ich ein Ei zum Frühstück.
 gw-0159; Fleisch; meat; ; A1; Grundwortschatz/Essen & Trinken; My sister does not eat meat.; Meine Schwester isst kein Fleisch.
-gw-0160; Fisch; fish; ; A1; Grundwortschatz/Essen & Trinken; We eat fish with rice on Fridays.; Freitags essen wir Fisch mit Reis.
+gw-0160; Fisch (Speise); fish; ; A1; Grundwortschatz/Essen & Trinken; We eat fish with rice on Fridays.; Freitags essen wir Fisch mit Reis.
 gw-0161; Obst; fruit; ; A1; Grundwortschatz/Essen & Trinken; Fresh fruit is good for your health.; Frisches Obst ist gut für deine Gesundheit.
 gw-0162; Gemüse; vegetables; ; A1; Grundwortschatz/Essen & Trinken; We buy vegetables at the market on Saturdays.; Samstags kaufen wir Gemüse auf dem Markt.
 gw-0163; Reis; rice; ; A1; Grundwortschatz/Essen & Trinken; Today we cook rice with chicken.; Heute kochen wir Reis mit Hähnchen.
@@ -215,7 +215,7 @@ gw-0213; warm; warm; ; A1; Grundwortschatz/Adjektive; Take a warm jacket, it is 
 gw-0214; teuer; expensive; ; A1; Grundwortschatz/Adjektive; This hotel is too expensive for us.; Dieses Hotel ist zu teuer für uns.
 gw-0215; billig; cheap; ; A1; Grundwortschatz/Adjektive; The tickets are cheap on Mondays.; Die Karten sind montags billig.
 gw-0216; leicht; easy; light; A1; Grundwortschatz/Adjektive; The test today was really easy.; Der Test heute war wirklich leicht.
-gw-0217; schwer; difficult; hard, heavy; A1; Grundwortschatz/Adjektive; This exercise is too difficult for me.; Diese Übung ist zu schwer für mich.
+gw-0217; schwer (schwierig); difficult; hard; A1; Grundwortschatz/Adjektive; This exercise is too difficult for me.; Diese Übung ist zu schwer für mich.
 gw-0218; glücklich; happy; glad; A1; Grundwortschatz/Adjektive; The children are happy about the snow.; Die Kinder sind glücklich über den Schnee.
 gw-0219; traurig; sad; ; A1; Grundwortschatz/Adjektive; She is sad because her friend moves away.; Sie ist traurig, weil ihre Freundin wegzieht.
 gw-0220; müde; tired; ; A1; Grundwortschatz/Adjektive; I am tired and go to bed now.; Ich bin müde und gehe jetzt ins Bett.
@@ -359,7 +359,7 @@ gw-0357; Geschmack; taste; flavour; A2; Grundwortschatz/Essen & Trinken; I don't
 gw-0358; lecker; delicious; tasty; A2; Grundwortschatz/Essen & Trinken; The pizza at this restaurant is really delicious.; Die Pizza in diesem Restaurant ist wirklich lecker.
 gw-0359; Imbiss (kleine Mahlzeit); snack; ; A2; Grundwortschatz/Essen & Trinken; We bought a quick snack at the station.; Wir kauften einen schnellen Imbiss am Bahnhof.
 gw-0360; Kellner; waiter; ; A2; Grundwortschatz/Essen & Trinken; The waiter brought us the menu quickly.; Der Kellner brachte uns schnell die Speisekarte.
-gw-0361; Rechnung; bill; check, invoice; A2; Grundwortschatz/Essen & Trinken; Could we have the bill, please?; Könnten wir bitte die Rechnung haben?
+gw-0361; Rechnung (Restaurant); bill; check; A2; Grundwortschatz/Essen & Trinken; Could we have the bill, please?; Könnten wir bitte die Rechnung haben?
 gw-0362; Trinkgeld; tip; ; A2; Grundwortschatz/Essen & Trinken; We left a small tip for the friendly waiter.; Wir ließen dem freundlichen Kellner ein kleines Trinkgeld da.
 gw-0363; Pfanne; pan; frying pan; A2; Grundwortschatz/Essen & Trinken; Heat some oil in a large pan.; Erhitze etwas Öl in einer großen Pfanne.
 gw-0364; Topf; pot; saucepan; A2; Grundwortschatz/Essen & Trinken; Cook the potatoes in a big pot.; Koche die Kartoffeln in einem großen Topf.
@@ -667,7 +667,7 @@ gw-0665; Vergleich; comparison; ; B1; Grundwortschatz/Abstrakte Begriffe; In com
 gw-0666; Wettbewerb; competition; contest; B1; Grundwortschatz/Gesellschaft; Our school won the first prize in the competition.; Unsere Schule gewann den ersten Preis im Wettbewerb.
 gw-0667; Beschwerde; complaint; ; B1; Grundwortschatz/Kommunikation; The hotel received several complaints about the loud music.; Das Hotel erhielt mehrere Beschwerden über die laute Musik.
 gw-0668; Bedingung; condition; ; B1; Grundwortschatz/Abstrakte Begriffe; Good light is an important condition for taking photos.; Gutes Licht ist eine wichtige Bedingung für das Fotografieren.
-gw-0669; Verbindung; connection; link; B1; Grundwortschatz/Abstrakte Begriffe; There is a clear connection between smoking and cancer.; Es gibt eine klare Verbindung zwischen Rauchen und Krebs.
+gw-0669; Verbindung (Zusammenhang); connection; link; B1; Grundwortschatz/Abstrakte Begriffe; There is a clear connection between smoking and cancer.; Es gibt eine klare Verbindung zwischen Rauchen und Krebs.
 gw-0670; Folge (Konsequenz); consequence; result; B1; Grundwortschatz/Abstrakte Begriffe; The new law had serious consequences for small shops.; Das neue Gesetz hatte ernste Folgen für kleine Geschäfte.
 gw-0671; Entwicklung; development; ; B1; Grundwortschatz/Abstrakte Begriffe; The development of the city centre took several years.; Die Entwicklung des Stadtzentrums dauerte mehrere Jahre.
 gw-0672; Pflicht; duty; obligation; B1; Grundwortschatz/Gesellschaft; It is your duty to inform the police.; Es ist deine Pflicht, die Polizei zu informieren.

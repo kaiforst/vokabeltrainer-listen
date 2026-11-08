@@ -5,7 +5,7 @@ sf-0003; schwimmen; to swim; ; A1; Freizeit/Sport/Sportarten; I swim in the lake
 sf-0004; laufen; to run; ; A1; Freizeit/Sport/Training; He runs three kilometres every morning.; Er läuft jeden Morgen drei Kilometer.
 sf-0005; spielen; to play; ; A1; Freizeit/Sport/Sportarten; The children play tennis after school.; Die Kinder spielen nach der Schule Tennis.
 sf-0006; Tennis; tennis; ; A1; Freizeit/Sport/Sportarten; She plays tennis with her brother on Sundays.; Sie spielt sonntags mit ihrem Bruder Tennis.
-sf-0007; Spiel; game; match; A1; Freizeit/Sport/Wettkampf; The game starts at three o'clock today.; Das Spiel beginnt heute um drei Uhr.
+sf-0007; Spiel (Sport); match; game; A1; Freizeit/Sport/Wettkampf; The game starts at three o'clock today.; Das Spiel beginnt heute um drei Uhr.
 sf-0008; Tor (Sport); goal; ; A1; Freizeit/Sport/Wettkampf; Our team scored a goal in the last minute.; Unsere Mannschaft schoss in der letzten Minute ein Tor.
 sf-0009; Mannschaft; team; ; A1; Freizeit/Sport/Verein; Our team trains twice a week.; Unsere Mannschaft trainiert zweimal pro Woche.
 sf-0010; gewinnen; to win; ; A1; Freizeit/Sport/Wettkampf; We want to win the next game.; Wir wollen das nächste Spiel gewinnen.
@@ -103,7 +103,7 @@ sf-0101; Gegner; opponent; ; B2; Freizeit/Sport/Wettkampf; You should never unde
 sf-0102; Rivale; rival; ; B2; Freizeit/Sport/Wettkampf; The two rivals meet again in the final.; Die beiden Rivalen treffen im Finale wieder aufeinander.
 sf-0103; Favorit; favourite; favorite; B2; Freizeit/Sport/Wettkampf; The favourite lost surprisingly in the first round.; Der Favorit verlor überraschend in der ersten Runde.
 sf-0104; Außenseiter; underdog; outsider; B2; Freizeit/Sport/Wettkampf; The underdog surprised everyone with a clear win.; Der Außenseiter überraschte alle mit einem klaren Sieg.
-sf-0105; Qualifikation; qualification; qualifying round; B2; Freizeit/Sport/Wettkampf; She reached the final through a strong qualification.; Sie erreichte das Finale durch eine starke Qualifikation.
+sf-0105; Qualifikation (Sport); qualification; qualifying round; B2; Freizeit/Sport/Wettkampf; She reached the final through a strong qualification.; Sie erreichte das Finale durch eine starke Qualifikation.
 sf-0106; Endspiel; final; ; B2; Freizeit/Sport/Wettkampf; The final will be played on Sunday evening.; Das Endspiel wird am Sonntagabend gespielt.
 sf-0107; Halbfinale; semi-final; semifinal; B2; Freizeit/Sport/Wettkampf; They lost the semi-final after a dramatic game.; Sie verloren das Halbfinale nach einem dramatischen Spiel.
 sf-0108; Vorrunde; preliminary round; group stage; B2; Freizeit/Sport/Wettkampf; The team went out in the preliminary round.; Die Mannschaft schied in der Vorrunde aus.

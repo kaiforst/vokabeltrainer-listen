@@ -3,7 +3,7 @@ id; Deutsch; Spanisch; Weitere Antworten; Niveau; Themen; Beispiel Spanisch; Bei
 es-xf-0001; anfangen; empezar; comenzar; A1; Allgemein/Verben; La película empieza en diez minutos, así que date prisa.; Der Film fängt in zehn Minuten an, also beeil dich.
 es-xf-0002; aussehen; parecer; ; A1; Allgemein/Verben; Hoy pareces muy cansado, ¿estás bien?; Du siehst heute sehr müde aus, geht es dir gut?
 es-xf-0003; anschauen; mirar; ver; A1; Allgemein/Verben; ¿Puedo mirar luego tus fotos de las vacaciones?; Kann ich mir später deine Urlaubsfotos anschauen?
-es-xf-0004; liegen; estar tumbado; estar acostado; A1; Allgemein/Verben; El gato está tumbado al sol en el sofá.; Die Katze liegt in der Sonne auf dem Sofa.
+es-xf-0004; liegen (Lebewesen); estar tumbado; estar acostado; A1; Allgemein/Verben; El gato está tumbado al sol en el sofá.; Die Katze liegt in der Sonne auf dem Sofa.
 es-xf-0005; leben; vivir; ; A1; Allgemein/Verben; Mis abuelos viven en un pueblo pequeño junto al mar.; Meine Großeltern leben in einem kleinen Dorf am Meer.
 es-xf-0006; dürfen; poder; tener permiso; A1; Allgemein/Verben; Los niños no pueden jugar en la obra.; Kinder dürfen nicht auf der Baustelle spielen.
 es-xf-0007; aufmachen; abrir; ; A1; Allgemein/Verben; ¿Puedes abrir la ventana, por favor? Hace mucho calor.; Kannst du bitte das Fenster aufmachen? Es ist sehr warm.
@@ -39,7 +39,7 @@ es-xf-0036; fortfahren; continuar; seguir; B1; Allgemein/Verben; Después de una
 es-xf-0037; umkehren; dar la vuelta; volver atrás; B1; Allgemein/Verben; La carretera estaba cortada, así que tuvimos que dar la vuelta.; Die Straße war gesperrt, also mussten wir umkehren.
 es-xf-0038; vorbeigehen; pasar por delante; pasar; A2; Allgemein/Verben; Todas las mañanas paso por delante de la panadería.; Ich gehe jeden Morgen an der Bäckerei vorbei.
 es-xf-0039; eintreten; entrar; ; B1; Allgemein/Verben; Llama a la puerta antes de entrar en la habitación, por favor.; Bitte klopf an, bevor du in das Zimmer eintrittst.
-es-xf-0040; wenden; dar la vuelta; girar, cambiar de sentido; B1; Allgemein/Verben; Dio la vuelta con el coche en la calle estrecha.; Er hat das Auto in der engen Straße gewendet.
+es-xf-0040; wenden (Auto); dar la vuelta; girar, cambiar de sentido; B1; Allgemein/Verben; Dio la vuelta con el coche en la calle estrecha.; Er hat das Auto in der engen Straße gewendet.
 es-xf-0041; bilden; formar; ; B1; Allgemein/Verben; Los niños formaron un círculo alrededor de la profesora.; Die Kinder bildeten einen Kreis um die Lehrerin.
 es-xf-0042; formen; formar; dar forma, moldear; B1; Allgemein/Verben; Forma bolitas con la masa usando las manos.; Form den Teig mit den Händen zu kleinen Kugeln.
 es-xf-0043; herstellen; fabricar; producir; B1; Allgemein/Verben; En esta fábrica se fabrican piezas para coches y autobuses.; In dieser Fabrik werden Teile für Autos und Busse hergestellt.
@@ -49,7 +49,7 @@ es-xf-0046; gestalten; diseñar; crear; B2; Allgemein/Verben; Los alumnos diseñ
 es-xf-0047; festlegen; fijar; determinar, establecer; B2; Allgemein/Verben; Todavía tenemos que fijar una fecha para la reunión.; Wir müssen noch einen Termin für das Treffen festlegen.
 es-xf-0048; anwenden; aplicar; ; B1; Allgemein/Verben; Intenta ahora aplicar la regla a estas frases.; Versuch jetzt, die Regel auf diese Sätze anzuwenden.
 es-xf-0049; leiten; dirigir; ; B1; Allgemein/Verben; La señora García dirige el colegio desde hace muchos años.; Frau García leitet die Schule seit vielen Jahren.
-es-xf-0050; betreiben; gestionar; llevar; B2; Allgemein/Verben; Su familia gestiona un pequeño hotel junto al lago.; Seine Familie betreibt ein kleines Hotel am See.
+es-xf-0050; betreiben (führen); gestionar; llevar; B2; Allgemein/Verben; Su familia gestiona un pequeño hotel junto al lago.; Seine Familie betreibt ein kleines Hotel am See.
 es-xf-0051; beherrschen; dominar; ; B2; Allgemein/Verben; Se tarda años en dominar una lengua extranjera.; Es dauert Jahre, eine Fremdsprache zu beherrschen.
 es-xf-0052; enthüllen; revelar; desvelar; B2; Allgemein/Verben; El mago nunca revela cómo funcionan sus trucos.; Der Zauberer enthüllt nie, wie seine Tricks funktionieren.
 es-xf-0053; ansteigen; subir; aumentar; B1; Allgemein/Verben; Después de las fuertes lluvias ha subido el nivel del río.; Nach dem starken Regen ist der Wasserstand des Flusses angestiegen.
@@ -95,7 +95,7 @@ es-xf-0092; bereit; listo; preparado; A2; Allgemein/Adjektive; ¿Estás listo? T
 es-xf-0093; kräftig; fuerte; robusto; B1; Allgemein/Adjektive; Tiene los brazos fuertes de trabajar en la granja.; Von der Arbeit auf dem Hof hat er kräftige Arme.
 es-xf-0094; großartig; genial; estupendo, magnífico; B1; Allgemein/Adjektive; Lo de hacer una barbacoa fue una idea genial, ¡gracias!; Die Grillparty war eine großartige Idee, danke!
 es-xf-0095; fantastisch; fantástico; ; A2; Allgemein/Adjektive; La vista desde arriba es fantástica.; Die Aussicht von oben ist fantastisch.
-es-xf-0096; grob; aproximado; ; B2; Allgemein/Adjektive; Esto es solo un plan aproximado del viaje.; Das ist nur ein grober Plan für die Reise.
+es-xf-0096; grob (ungefähr); aproximado; ; B2; Allgemein/Adjektive; Esto es solo un plan aproximado del viaje.; Das ist nur ein grober Plan für die Reise.
 es-xf-0097; rau; áspero; ; B1; Allgemein/Adjektive; Tengo las manos muy ásperas por el frío.; Meine Hände sind vom kalten Wetter ganz rau.
 es-xf-0098; uneben; irregular; desigual; B2; Allgemein/Adjektive; Cuidado, aquí el camino es muy irregular.; Pass auf, der Weg ist hier sehr uneben.
 es-xf-0099; zäh; duro; ; B2; Allgemein/Adjektive; La carne estaba tan dura que no me la pude comer.; Das Fleisch war so zäh, dass ich es nicht essen konnte.
@@ -187,7 +187,7 @@ es-xf-0185; rund (Form); redondo; ; A2; Allgemein/Raum; Hemos comprado una mesa 
 es-xf-0186; schief; torcido; ; B2; Allgemein/Raum; El cuadro de la pared está torcido.; Das Bild an der Wand hängt schief.
 es-xf-0187; Ausgang; la salida; ; A2; Allgemein/Raum; Perdone, ¿dónde está la salida del aparcamiento?; Entschuldigung, wo ist der Ausgang vom Parkhaus?
 es-xf-0188; Eingang; la entrada; ; A2; Allgemein/Raum; Quedamos en la entrada de la estación.; Wir treffen uns am Eingang des Bahnhofs.
-es-xf-0189; Sache; la cosa; ; A2; Allgemein/Begriffe; Recoge tus cosas, nos vamos en diez minutos.; Pack deine Sachen, wir fahren in zehn Minuten los.
+es-xf-0189; Sache; la cosa; ; A2; Allgemein/Begriffe; Tengo que decirte una cosa importante más.; Ich muss dir noch eine wichtige Sache sagen.
 es-xf-0190; Ding; la cosa; el objeto; A2; Allgemein/Begriffe; ¿Qué es esa cosa tan rara del tejado?; Was ist das für ein komisches Ding auf dem Dach?
 es-xf-0191; Fall; el caso; ; B1; Allgemein/Begriffe; En ese caso nos quedamos en casa.; In diesem Fall bleiben wir zu Hause.
 es-xf-0192; Zustand; el estado; ; B1; Allgemein/Begriffe; El coche viejo todavía está en muy buen estado.; Das alte Auto ist noch in sehr gutem Zustand.
@@ -236,7 +236,7 @@ es-xf-0234; Aufwand; el esfuerzo; ; B2; Allgemein/Begriffe; El resultado no vali
 es-xf-0235; Vorbild; el modelo; el ejemplo; B1; Allgemein/Begriffe; Mi hermana mayor siempre ha sido mi modelo a seguir.; Meine große Schwester war schon immer mein Vorbild.
 es-xf-0236; Vorsicht; la precaución; el cuidado; B1; Allgemein/Begriffe; Conduce con precaución, por favor, las carreteras están heladas.; Bitte fahr mit Vorsicht, die Straßen sind glatt.
 es-xf-0237; Absage; la cancelación; la anulación; B1; Allgemein/Begriffe; La cancelación del concierto decepcionó a muchos fans.; Die Absage des Konzerts hat viele Fans enttäuscht.
-es-xf-0238; Zusage; la confirmación; la aceptación; B2; Allgemein/Begriffe; Ya tengo la confirmación del hotel para agosto.; Ich habe schon die Zusage vom Hotel für August.
+es-xf-0238; Zusage; la aceptación; la admisión, la confirmación; B2; Allgemein/Begriffe; ¡Por fin he recibido la aceptación de la universidad!; Ich habe endlich eine Zusage von der Universität bekommen!
 es-xf-0239; Ursache; la causa; ; B1; Allgemein/Begriffe; La policía todavía busca la causa del incendio.; Die Polizei sucht noch nach der Ursache des Brandes.
 es-xf-0240; Nutzen; el beneficio; la utilidad; B2; Allgemein/Begriffe; Hacer ejercicio con regularidad tiene un gran beneficio para la salud.; Regelmäßige Bewegung hat einen großen Nutzen für die Gesundheit.
 es-xf-0241; Eignung; la aptitud; la idoneidad; B2; Allgemein/Begriffe; La prueba evalúa tu aptitud para la profesión.; Der Test prüft deine Eignung für den Beruf.

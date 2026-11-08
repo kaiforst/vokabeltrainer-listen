@@ -19,7 +19,7 @@ es-sb-0016; antworten; responder; contestar; A1; Bildung/Schule/Unterricht; Pien
 es-sb-0017; Frage; la pregunta; ; A1; Bildung/Schule/Unterricht; Tengo una pregunta sobre los deberes.; Ich habe eine Frage zu den Hausaufgaben.
 es-sb-0018; Antwort; la respuesta; ; A1; Bildung/Schule/Unterricht; La respuesta correcta está en la página siguiente.; Die richtige Antwort steht auf der nächsten Seite.
 es-sb-0019; Hausaufgaben; los deberes; la tarea, las tareas; A1; Bildung/Schule/Unterricht; Hago los deberes después de comer.; Ich mache meine Hausaufgaben nach dem Mittagessen.
-es-sb-0020; Pause; el recreo; el descanso; A1; Bildung/Schule/Unterricht; En el recreo largo jugamos al fútbol.; In der großen Pause spielen wir Fußball.
+es-sb-0020; Pause (Schule); el recreo; el descanso; A1; Bildung/Schule/Unterricht; En el recreo largo jugamos al fútbol.; In der großen Pause spielen wir Fußball.
 es-sb-0021; Mathematik; las matemáticas; las mates; A1; Bildung/Schule/Fächer; Tenemos matemáticas los lunes y los jueves.; Montags und donnerstags haben wir Mathematik.
 es-sb-0022; Englisch; el inglés; ; A1; Bildung/Schule/Fächer; En inglés cantamos canciones y hacemos juegos.; In Englisch singen wir Lieder und spielen Spiele.
 es-sb-0023; Deutsch; el alemán; ; A1; Bildung/Schule/Fächer; En alemán estamos leyendo una novela corta.; In Deutsch lesen wir gerade einen kurzen Roman.
@@ -42,7 +42,7 @@ es-sb-0039; Test; la prueba; el test, el control; A2; Bildung/Schule/Prüfungen;
 es-sb-0040; bestehen (Prüfung); aprobar; ; A2; Bildung/Schule/Prüfungen; Estoy seguro de que vas a aprobar el examen.; Ich bin sicher, dass du die Prüfung bestehst.
 es-sb-0041; durchfallen; suspender; reprobar; A2; Bildung/Schule/Prüfungen; Nadie quiere suspender la última prueba.; Niemand will beim letzten Test durchfallen.
 es-sb-0042; üben; practicar; ; A2; Bildung/Lernen; Deberías practicar las palabras nuevas todos los días.; Du solltest die neuen Wörter jeden Tag üben.
-es-sb-0043; wiederholen; repasar; repetir; A2; Bildung/Lernen; Vamos a repasar la gramática de la semana pasada.; Lass uns die Grammatik von letzter Woche wiederholen.
+es-sb-0043; wiederholen (Lernstoff); repasar; ; A2; Bildung/Lernen; Vamos a repasar la gramática de la semana pasada.; Lass uns die Grammatik von letzter Woche wiederholen.
 es-sb-0044; erklären; explicar; ; A2; Bildung/Schule/Unterricht; ¿Puedes explicar otra vez esta regla, por favor?; Kannst du diese Regel bitte noch einmal erklären?
 es-sb-0045; verstehen; entender; comprender; A2; Bildung/Lernen; No he entendido la última frase.; Ich habe den letzten Satz nicht verstanden.
 es-sb-0046; vergessen; olvidar; olvidarse; A2; Bildung/Lernen; No te olvides los deberes en casa.; Vergiss deine Hausaufgaben nicht zu Hause.

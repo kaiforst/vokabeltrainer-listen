@@ -6,7 +6,7 @@ it-et-0003; Milch; il latte; ; A1; Alltag/Essen/Getränke; Bevo il latte a colaz
 it-et-0004; Apfel; la mela; ; A1; Alltag/Essen/Lebensmittel; Mangia una mela dopo pranzo.; Sie isst nach dem Mittagessen einen Apfel.
 it-et-0005; Käse; il formaggio; ; A1; Alltag/Essen/Lebensmittel; Questo formaggio viene da una piccola fattoria.; Dieser Käse kommt von einem kleinen Bauernhof.
 it-et-0006; Ei; l'uovo; ; A1; Alltag/Essen/Lebensmittel; Mangio un uovo ogni mattina.; Ich esse jeden Morgen ein Ei.
-it-et-0007; Fisch; il pesce; ; A1; Alltag/Essen/Lebensmittel; Mangiamo il pesce ogni venerdì sera.; Wir essen jeden Freitagabend Fisch.
+it-et-0007; Fisch (Speise); il pesce; ; A1; Alltag/Essen/Lebensmittel; Mangiamo il pesce ogni venerdì sera.; Wir essen jeden Freitagabend Fisch.
 it-et-0008; Fleisch; la carne; ; A1; Alltag/Essen/Lebensmittel; Non mangia molta carne.; Er isst nicht viel Fleisch.
 it-et-0009; Kaffee; il caffè; ; A1; Alltag/Essen/Getränke; Una tazza di caffè mi aiuta a svegliarmi.; Eine Tasse Kaffee hilft mir beim Aufwachen.
 it-et-0010; Tee; il tè; ; A1; Alltag/Essen/Getränke; Vuoi un po' di tè con il miele?; Möchtest du etwas Tee mit Honig?
@@ -32,7 +32,7 @@ it-et-0029; Zwiebel; la cipolla; ; A2; Alltag/Essen/Lebensmittel; La cipolla mi 
 it-et-0030; Banane; la banana; ; A2; Alltag/Essen/Lebensmittel; Una banana è un buon spuntino prima dello sport.; Eine Banane ist ein guter Snack vor dem Sport.
 it-et-0031; Orange; l'arancia; ; A2; Alltag/Essen/Lebensmittel; Questa arancia è dolce e molto succosa.; Diese Orange ist süß und sehr saftig.
 it-et-0032; Erdbeere; la fragola; ; A2; Alltag/Essen/Lebensmittel; Ogni fragola in questo cestino sembra perfetta.; Jede Erdbeere in diesem Korb sieht perfekt aus.
-it-et-0033; Huhn; il pollo; ; A2; Alltag/Essen/Lebensmittel; Oggi c'è pollo con riso.; Es gibt heute Huhn mit Reis.
+it-et-0033; Huhn (Speise); il pollo; ; A2; Alltag/Essen/Lebensmittel; Oggi c'è pollo con riso.; Es gibt heute Huhn mit Reis.
 it-et-0034; Wurst; la salsiccia; il salame, il würstel; A2; Alltag/Essen/Lebensmittel; Ha comprato una salsiccia al mercato.; Er hat auf dem Markt eine Wurst gekauft.
 it-et-0035; Schinken; il prosciutto; ; A2; Alltag/Essen/Lebensmittel; Vorrei un panino con il prosciutto.; Ich hätte gern ein Brötchen mit Schinken.
 it-et-0036; Nudeln; la pasta; ; A2; Alltag/Essen/Lebensmittel; I bambini vogliono la pasta al sugo di pomodoro.; Die Kinder wollen Nudeln mit Tomatensoße.
@@ -59,7 +59,7 @@ it-et-0056; Flasche; la bottiglia; ; A2; Alltag/Essen/Getränke; Abbiamo aperto 
 it-et-0057; Kellner; il cameriere; la cameriera; A2; Alltag/Essen/Restaurant; Il cameriere ci ha portato subito il menù.; Der Kellner brachte uns schnell die Speisekarte.
 it-et-0058; Speisekarte; il menù; il menu, la carta; A2; Alltag/Essen/Restaurant; Possiamo vedere il menù, per favore?; Können wir bitte die Speisekarte sehen?
 it-et-0059; bestellen; ordinare; ; A2; Alltag/Essen/Restaurant; Vorrei ordinare il pesce, per favore.; Ich möchte bitte den Fisch bestellen.
-it-et-0060; Rechnung; il conto; ; A2; Alltag/Essen/Restaurant; Potremmo avere il conto, per favore?; Könnten wir bitte die Rechnung haben?
+it-et-0060; Rechnung (Restaurant); il conto; ; A2; Alltag/Essen/Restaurant; Potremmo avere il conto, per favore?; Könnten wir bitte die Rechnung haben?
 it-et-0061; Vorspeise; l'antipasto; ; B1; Alltag/Essen/Restaurant; Come antipasto consiglio la zuppa di pomodoro.; Als Vorspeise empfehle ich die Tomatensuppe.
 it-et-0062; Hauptgericht; il piatto principale; il secondo; B1; Alltag/Essen/Restaurant; Il piatto principale era pesce alla griglia con verdure.; Das Hauptgericht war gegrillter Fisch mit Gemüse.
 it-et-0063; Nachtisch; il dessert; il dolce; B1; Alltag/Essen/Restaurant; Come dessert abbiamo diviso una torta al cioccolato.; Zum Nachtisch teilten wir uns einen Schokoladenkuchen.

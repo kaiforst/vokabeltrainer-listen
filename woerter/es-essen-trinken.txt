@@ -6,7 +6,7 @@ es-et-0003; Milch; la leche; ; A1; Alltag/Essen/Getränke; Todos los días tomo 
 es-et-0004; Apfel; la manzana; ; A1; Alltag/Essen/Lebensmittel; Se come una manzana después del almuerzo.; Sie isst nach dem Mittagessen einen Apfel.
 es-et-0005; Käse; el queso; ; A1; Alltag/Essen/Lebensmittel; Este queso viene de una pequeña granja.; Dieser Käse kommt von einem kleinen Bauernhof.
 es-et-0006; Ei; el huevo; ; A1; Alltag/Essen/Lebensmittel; Me como un huevo todas las mañanas.; Ich esse jeden Morgen ein Ei.
-es-et-0007; Fisch; el pescado; el pez; A1; Alltag/Essen/Lebensmittel; Comemos pescado todos los viernes por la noche.; Wir essen jeden Freitagabend Fisch.
+es-et-0007; Fisch (Speise); el pescado; ; A1; Alltag/Essen/Lebensmittel; Comemos pescado todos los viernes por la noche.; Wir essen jeden Freitagabend Fisch.
 es-et-0008; Fleisch; la carne; ; A1; Alltag/Essen/Lebensmittel; No come mucha carne.; Er isst nicht viel Fleisch.
 es-et-0009; Kaffee; el café; ; A1; Alltag/Essen/Getränke; Una taza de café me ayuda a despertarme.; Eine Tasse Kaffee hilft mir beim Aufwachen.
 es-et-0010; Tee; el té; ; A1; Alltag/Essen/Getränke; ¿Quieres un poco de té con miel?; Möchtest du etwas Tee mit Honig?
@@ -32,7 +32,7 @@ es-et-0029; Zwiebel; la cebolla; ; A2; Alltag/Essen/Lebensmittel; La cebolla me 
 es-et-0030; Banane; el plátano; la banana; A2; Alltag/Essen/Lebensmittel; Un plátano es un buen tentempié antes del deporte.; Eine Banane ist ein guter Snack vor dem Sport.
 es-et-0031; Orange; la naranja; ; A2; Alltag/Essen/Lebensmittel; Esta naranja es dulce y muy jugosa.; Diese Orange ist süß und sehr saftig.
 es-et-0032; Erdbeere; la fresa; la frutilla; A2; Alltag/Essen/Lebensmittel; Cada fresa de esta cesta parece perfecta.; Jede Erdbeere in diesem Korb sieht perfekt aus.
-es-et-0033; Huhn; el pollo; la gallina; A2; Alltag/Essen/Lebensmittel; Hoy comemos pollo con arroz.; Es gibt heute Huhn mit Reis.
+es-et-0033; Huhn (Speise); el pollo; ; A2; Alltag/Essen/Lebensmittel; Hoy comemos pollo con arroz.; Es gibt heute Huhn mit Reis.
 es-et-0034; Wurst; la salchicha; el embutido; A2; Alltag/Essen/Lebensmittel; Compró una salchicha en el mercado.; Er hat auf dem Markt eine Wurst gekauft.
 es-et-0035; Schinken; el jamón; ; A2; Alltag/Essen/Lebensmittel; Quería un bocadillo de jamón.; Ich hätte gern ein Brötchen mit Schinken.
 es-et-0036; Nudeln; la pasta; los fideos; A2; Alltag/Essen/Lebensmittel; Los niños quieren pasta con salsa de tomate.; Die Kinder wollen Nudeln mit Tomatensoße.
@@ -59,7 +59,7 @@ es-et-0056; Flasche; la botella; ; A2; Alltag/Essen/Getränke; Abrimos una botel
 es-et-0057; Kellner; el camarero; la camarera, el mesero, la mesera; A2; Alltag/Essen/Restaurant; El camarero nos trajo la carta enseguida.; Der Kellner brachte uns schnell die Speisekarte.
 es-et-0058; Speisekarte; la carta; el menú; A2; Alltag/Essen/Restaurant; ¿Nos trae la carta, por favor?; Können wir bitte die Speisekarte sehen?
 es-et-0059; bestellen; pedir; encargar; A2; Alltag/Essen/Restaurant; Quería pedir el pescado, por favor.; Ich möchte bitte den Fisch bestellen.
-es-et-0060; Rechnung; la cuenta; ; A2; Alltag/Essen/Restaurant; ¿Nos trae la cuenta, por favor?; Könnten wir bitte die Rechnung haben?
+es-et-0060; Rechnung (Restaurant); la cuenta; ; A2; Alltag/Essen/Restaurant; ¿Nos trae la cuenta, por favor?; Könnten wir bitte die Rechnung haben?
 es-et-0061; Vorspeise; el entrante; el primer plato, la entrada; B1; Alltag/Essen/Restaurant; De entrante le recomiendo la sopa de tomate.; Als Vorspeise empfehle ich die Tomatensuppe.
 es-et-0062; Hauptgericht; el plato principal; el segundo plato, el plato fuerte; B1; Alltag/Essen/Restaurant; El plato principal fue pescado a la plancha con verduras.; Das Hauptgericht war gegrillter Fisch mit Gemüse.
 es-et-0063; Nachtisch; el postre; ; B1; Alltag/Essen/Restaurant; De postre compartimos una tarta de chocolate.; Zum Nachtisch teilten wir uns einen Schokoladenkuchen.

@@ -39,7 +39,7 @@ fb-0037; Alleinerziehende; single parent; single mother; B2; Alltag/Familie/Verw
 fb-0038; Stammbaum; family tree; ; B2; Alltag/Familie/Verwandtschaft; He traced his family tree back three hundred years.; Er verfolgte seinen Stammbaum dreihundert Jahre zurück.
 fb-0039; Verwandtschaft; extended family; relatives, kin; C1; Alltag/Familie/Verwandtschaft; The whole extended family met at Easter.; Die ganze Verwandtschaft traf sich an Ostern.
 fb-0040; Vormund; legal guardian; guardian; C1; Alltag/Familie/Verwandtschaft; After the accident her uncle became her legal guardian.; Nach dem Unfall wurde ihr Onkel ihr Vormund.
-fb-0041; Freund (Partner); boyfriend; friend; A1; Alltag/Familie/Partnerschaft; Her boyfriend brings her flowers every Friday.; Ihr Freund bringt ihr jeden Freitag Blumen.
+fb-0041; Freund (Partner); boyfriend; ; A1; Alltag/Familie/Partnerschaft; Her boyfriend brings her flowers every Friday.; Ihr Freund bringt ihr jeden Freitag Blumen.
 fb-0042; Freundin (Partnerin); girlfriend; ; A1; Alltag/Familie/Partnerschaft; He cooks for his girlfriend tonight.; Er kocht heute Abend für seine Freundin.
 fb-0043; Liebe; love; ; A1; Alltag/Familie/Partnerschaft; Love is the most important thing in life.; Liebe ist das Wichtigste im Leben.
 fb-0044; lieben; to love; ; A2; Alltag/Familie/Partnerschaft; I love you more than anything.; Ich liebe dich über alles.
@@ -110,7 +110,7 @@ fb-0108; Trauzeuge; best man; witness; B2; Alltag/Familie/Lebensereignisse; His 
 fb-0109; Beerdigung; funeral; burial; B2; Alltag/Familie/Lebensereignisse; Many old friends came to the funeral.; Viele alte Freunde kamen zur Beerdigung.
 fb-0110; Trauer; grief; mourning, sorrow; B2; Alltag/Familie/Lebensereignisse; Grief needs time and the support of others.; Trauer braucht Zeit und die Unterstützung anderer.
 fb-0111; Ruhestand; retirement; ; B2; Alltag/Familie/Lebensereignisse; My father is enjoying his well-earned retirement.; Mein Vater genießt seinen wohlverdienten Ruhestand.
-fb-0112; Erbe (Nachlass); inheritance; heritage; B2; Alltag/Familie/Lebensereignisse; The siblings argued about their parents' inheritance.; Die Geschwister stritten über das Erbe ihrer Eltern.
+fb-0112; Erbe (Nachlass); inheritance; ; B2; Alltag/Familie/Lebensereignisse; The siblings argued about their parents' inheritance.; Die Geschwister stritten über das Erbe ihrer Eltern.
 fb-0113; Standesamt; registry office; civil registry; B2; Alltag/Familie/Lebensereignisse; They got married quietly at the registry office.; Sie heirateten in aller Stille auf dem Standesamt.
 fb-0114; Trauung; wedding ceremony; marriage ceremony; C1; Alltag/Familie/Lebensereignisse; The wedding ceremony was held in the old town hall.; Die Trauung fand im alten Rathaus statt.
 fb-0115; Nachwuchs; offspring; new baby; C1; Alltag/Familie/Lebensereignisse; The young couple is expecting offspring in May.; Das junge Paar erwartet im Mai Nachwuchs.

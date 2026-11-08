@@ -7,7 +7,7 @@ es-tc-0004; Internet; internet; el internet, la red; A1; Technik/Computer/Intern
 es-tc-0005; Fernseher; el televisor; la tele, la televisión; A1; Technik/Computer/Geräte; El televisor del salón es nuevo.; Der Fernseher im Wohnzimmer ist neu.
 es-tc-0006; Bildschirm; la pantalla; el monitor; A1; Technik/Computer/Geräte; Por la noche la pantalla brilla demasiado.; Der Bildschirm ist nachts zu hell.
 es-tc-0007; Tastatur; el teclado; ; A1; Technik/Computer/Geräte; Necesito un teclado nuevo para mi ordenador.; Ich brauche eine neue Tastatur für meinen Computer.
-es-tc-0008; Maus; el ratón; el mouse; A1; Technik/Computer/Geräte; El ratón no funciona sin pila.; Die Maus funktioniert nicht ohne Batterie.
+es-tc-0008; Maus (Computer); el ratón; el mouse; A1; Technik/Computer/Geräte; El ratón no funciona sin pila.; Die Maus funktioniert nicht ohne Batterie.
 es-tc-0009; Drucker; la impresora; ; A1; Technik/Computer/Geräte; La impresora de la oficina vuelve a estar estropeada.; Der Drucker im Büro ist schon wieder kaputt.
 es-tc-0010; Kamera; la cámara; la cámara de fotos; A1; Technik/Computer/Geräte; Esta cámara hace muy buenas fotos.; Diese Kamera macht sehr gute Fotos.
 es-tc-0011; Laptop; el portátil; el ordenador portátil, la laptop; A1; Technik/Computer/Geräte; Todas las mañanas se lleva el portátil al trabajo.; Sie nimmt ihren Laptop jeden Morgen mit zur Arbeit.
@@ -22,7 +22,7 @@ es-tc-0019; ausmachen; apagar; ; A1; Technik/Computer/Geräte; Por favor, apaga 
 es-tc-0020; Fehler; el error; el fallo; A1; Technik/Computer/Software; Hay un error en el programa nuevo.; Es gibt einen Fehler im neuen Programm.
 es-tc-0021; Passwort; la contraseña; la clave; A2; Technik/Computer/Sicherheit; Nunca deberías decirle a nadie tu contraseña.; Du solltest niemandem dein Passwort verraten.
 es-tc-0022; Datei; el archivo; el fichero; A2; Technik/Computer/Dateien; He guardado el archivo en mi portátil.; Ich habe die Datei auf meinem Laptop gespeichert.
-es-tc-0023; Ordner; la carpeta; el directorio; A2; Technik/Computer/Dateien; Pon todas las fotos en una carpeta.; Leg alle Fotos in einen Ordner.
+es-tc-0023; Ordner (Computer); la carpeta; el directorio; A2; Technik/Computer/Dateien; Pon todas las fotos en una carpeta.; Leg alle Fotos in einen Ordner.
 es-tc-0024; drucken; imprimir; ; A2; Technik/Computer/Dateien; ¿Me puedes imprimir este documento?; Kannst du dieses Dokument für mich drucken?
 es-tc-0025; speichern; guardar; almacenar; A2; Technik/Computer/Dateien; No te olvides de guardar tu trabajo.; Vergiss nicht, deine Arbeit zu speichern.
 es-tc-0026; löschen; borrar; eliminar; A2; Technik/Computer/Dateien; Borré las fotos antiguas sin querer.; Ich habe die alten Fotos aus Versehen gelöscht.
@@ -44,7 +44,7 @@ es-tc-0041; Suchmaschine; el buscador; el motor de búsqueda; A2; Technik/Comput
 es-tc-0042; suchen; buscar; ; A2; Technik/Computer/Internet; Busqué vuelos baratos en internet.; Ich habe im Internet nach günstigen Flügen gesucht.
 es-tc-0043; senden; enviar; mandar; A2; Technik/Computer/Internet; En el trabajo envía muchos correos cada día.; Er sendet bei der Arbeit jeden Tag viele E-Mails.
 es-tc-0044; empfangen; recibir; ; A2; Technik/Computer/Internet; ¿Recibiste mi mensaje ayer por la noche?; Hast du gestern Abend meine Nachricht empfangen?
-es-tc-0045; Verbindung; la conexión; ; A2; Technik/Computer/Internet; Hoy la conexión a internet va muy lenta.; Die Internetverbindung ist heute sehr langsam.
+es-tc-0045; Verbindung (Internet); la conexión; ; A2; Technik/Computer/Internet; Hoy la conexión a internet va muy lenta.; Die Internetverbindung ist heute sehr langsam.
 es-tc-0046; verbinden; conectar; ; A2; Technik/Computer/Internet; Tienes que conectar el portátil a la impresora.; Du musst den Laptop mit dem Drucker verbinden.
 es-tc-0047; WLAN; el wifi; la wifi, la red inalámbrica; A2; Technik/Computer/Internet, Reisen/Urlaub/Unterkunft; El hotel tiene wifi gratis en todas las habitaciones.; Das Hotel hat kostenloses WLAN in jedem Zimmer.
 es-tc-0048; Akku; la batería; ; A2; Technik/Computer/Smartphone; Mi batería dura casi dos días.; Mein Akku hält fast zwei Tage.

@@ -67,7 +67,7 @@ vm-0065; Vorfahrt; right of way; priority; B1; Reisen/Verkehr/Straße & Regeln; 
 vm-0066; Bußgeld; fine; penalty; B1; Reisen/Verkehr/Straße & Regeln; He paid a fine for speeding yesterday.; Er hat gestern ein Bußgeld für zu schnelles Fahren bezahlt.
 vm-0067; Strafzettel; parking ticket; ; B1; Reisen/Verkehr/Auto; I found a parking ticket on my windscreen.; Ich fand einen Strafzettel an meiner Windschutzscheibe.
 vm-0068; Panne; breakdown; ; B1; Reisen/Verkehr/Auto; We had a breakdown on the way home.; Wir hatten auf dem Heimweg eine Panne.
-vm-0069; Werkstatt; repair shop; garage, workshop; B1; Reisen/Verkehr/Auto; The car is in the repair shop until Friday.; Das Auto ist bis Freitag in der Werkstatt.
+vm-0069; Werkstatt (Auto); garage; repair shop; B1; Reisen/Verkehr/Auto; The car is in the garage until Friday.; Das Auto ist bis Freitag in der Werkstatt.
 vm-0070; Versicherung; insurance; ; B1; Reisen/Verkehr/Auto; Car insurance is cheaper for careful drivers.; Die Autoversicherung ist für vorsichtige Fahrer günstiger.
 vm-0071; Kennzeichen; number plate; license plate, registration number; B1; Reisen/Verkehr/Auto; The witness noted the number plate of the car.; Der Zeuge notierte das Kennzeichen des Wagens.
 vm-0072; Kofferraum; boot; trunk; B1; Reisen/Verkehr/Auto; Put the suitcases in the boot, please.; Leg die Koffer bitte in den Kofferraum.

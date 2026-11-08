@@ -41,7 +41,7 @@ it-gw-0038; lesen; leggere; ; A1; Grundwortschatz/Verben; Ogni sera legge un lib
 it-gw-0039; schreiben; scrivere; ; A1; Grundwortschatz/Verben; Scrivo un'e-mail a mia nonna.; Ich schreibe eine E-Mail an meine Großmutter.
 it-gw-0040; kaufen; comprare; acquistare; A1; Grundwortschatz/Verben; Compriamo pane e latte al supermercato.; Wir kaufen Brot und Milch im Supermarkt.
 it-gw-0041; bezahlen; pagare; ; A1; Grundwortschatz/Verben; Qui posso pagare con la carta?; Kann ich hier mit Karte bezahlen?
-it-gw-0042; spielen; giocare; suonare; A1; Grundwortschatz/Verben; I bambini giocano a calcio nel parco.; Die Kinder spielen Fußball im Park.
+it-gw-0042; spielen; giocare; ; A1; Grundwortschatz/Verben; I bambini giocano a calcio nel parco.; Die Kinder spielen Fußball im Park.
 it-gw-0043; fahren; andare; guidare, viaggiare; A1; Grundwortschatz/Verben; Mia madre va al lavoro in macchina ogni giorno.; Meine Mutter fährt jeden Tag zur Arbeit.
 it-gw-0044; fliegen; volare; ; A1; Grundwortschatz/Verben; Venerdì mattina voliamo a Londra.; Wir fliegen am Freitagmorgen nach London.
 it-gw-0045; laufen; correre; ; A1; Grundwortschatz/Verben; Ogni domenica corre nel parco.; Er läuft jeden Sonntag im Park.
@@ -65,7 +65,7 @@ it-gw-0062; schließen; chiudere; ; A1; Grundwortschatz/Verben; I negozi chiudon
 it-gw-0063; beginnen; cominciare; iniziare; A1; Grundwortschatz/Verben; La lezione comincia alle nove di mattina.; Der Unterricht beginnt morgens um neun.
 it-gw-0064; warten; aspettare; attendere; A1; Grundwortschatz/Verben; Aspettiamo l'autobus alla fermata.; Wir warten an der Haltestelle auf den Bus.
 it-gw-0065; treffen; incontrare; vedere; A1; Grundwortschatz/Verben; Oggi incontro i miei amici al bar.; Ich treffe heute meine Freunde im Café.
-it-gw-0066; besuchen; visitare; andare a trovare; A1; Grundwortschatz/Verben; Ogni domenica pomeriggio visitiamo i nostri nonni.; Wir besuchen jeden Sonntagnachmittag unsere Großeltern.
+it-gw-0066; besuchen; andare a trovare; visitare; A1; Grundwortschatz/Verben; Ogni domenica pomeriggio andiamo a trovare i nostri nonni.; Wir besuchen jeden Sonntagnachmittag unsere Großeltern.
 it-gw-0067; reisen; viaggiare; ; A1; Grundwortschatz/Verben; Ogni estate viaggiano in Spagna.; Sie reisen jeden Sommer nach Spanien.
 it-gw-0068; ankommen; arrivare; ; A1; Grundwortschatz/Verben; Il treno arriva alle dieci di mattina.; Der Zug kommt morgens um zehn an.
 it-gw-0069; zeigen; mostrare; far vedere, indicare; A1; Grundwortschatz/Verben; Mi puoi mostrare la strada per l'albergo?; Kannst du mir den Weg zum Hotel zeigen?
@@ -159,7 +159,7 @@ it-gw-0156; Apfel; la mela; ; A1; Grundwortschatz/Essen & Trinken; Ogni giorno a
 it-gw-0157; Käse; il formaggio; ; A1; Grundwortschatz/Essen & Trinken; Mi piace il pane con formaggio e pomodoro.; Ich mag Brot mit Käse und Tomate.
 it-gw-0158; Ei; l'uovo; ; A1; Grundwortschatz/Essen & Trinken; La domenica mangio un uovo a colazione.; Sonntags esse ich ein Ei zum Frühstück.
 it-gw-0159; Fleisch; la carne; ; A1; Grundwortschatz/Essen & Trinken; Mia sorella non mangia carne.; Meine Schwester isst kein Fleisch.
-it-gw-0160; Fisch; il pesce; ; A1; Grundwortschatz/Essen & Trinken; Il venerdì mangiamo pesce con riso.; Freitags essen wir Fisch mit Reis.
+it-gw-0160; Fisch (Speise); il pesce; ; A1; Grundwortschatz/Essen & Trinken; Il venerdì mangiamo pesce con riso.; Freitags essen wir Fisch mit Reis.
 it-gw-0161; Obst; la frutta; ; A1; Grundwortschatz/Essen & Trinken; La frutta fresca fa bene alla salute.; Frisches Obst ist gut für deine Gesundheit.
 it-gw-0162; Gemüse; la verdura; le verdure, gli ortaggi; A1; Grundwortschatz/Essen & Trinken; Il sabato compriamo la verdura al mercato.; Samstags kaufen wir Gemüse auf dem Markt.
 it-gw-0163; Reis; il riso; ; A1; Grundwortschatz/Essen & Trinken; Oggi cuciniamo riso con pollo.; Heute kochen wir Reis mit Hähnchen.
@@ -216,7 +216,7 @@ it-gw-0213; warm; caldo; tiepido; A1; Grundwortschatz/Adjektive; Prendi una giac
 it-gw-0214; teuer; caro; costoso; A1; Grundwortschatz/Adjektive; Questo albergo è troppo caro per noi.; Dieses Hotel ist zu teuer für uns.
 it-gw-0215; billig; economico; a buon mercato; A1; Grundwortschatz/Adjektive; Il lunedì i biglietti sono economici.; Die Karten sind montags billig.
 it-gw-0216; leicht; facile; leggero; A1; Grundwortschatz/Adjektive; Il test di oggi era davvero facile.; Der Test heute war wirklich leicht.
-it-gw-0217; schwer; difficile; pesante; A1; Grundwortschatz/Adjektive; Questo esercizio è troppo difficile per me.; Diese Übung ist zu schwer für mich.
+it-gw-0217; schwer (schwierig); difficile; ; A1; Grundwortschatz/Adjektive; Questo esercizio è troppo difficile per me.; Diese Übung ist zu schwer für mich.
 it-gw-0218; glücklich; felice; contento; A1; Grundwortschatz/Adjektive; I bambini sono felici per la neve.; Die Kinder sind glücklich über den Schnee.
 it-gw-0219; traurig; triste; ; A1; Grundwortschatz/Adjektive; È triste perché la sua amica si trasferisce.; Sie ist traurig, weil ihre Freundin wegzieht.
 it-gw-0220; müde; stanco; ; A1; Grundwortschatz/Adjektive; Sono stanco e adesso vado a letto.; Ich bin müde und gehe jetzt ins Bett.
@@ -360,7 +360,7 @@ it-gw-0357; Geschmack; il sapore; il gusto; A2; Grundwortschatz/Essen & Trinken;
 it-gw-0358; lecker; buono; gustoso, delizioso, squisito; A2; Grundwortschatz/Essen & Trinken; La pizza di questo ristorante è davvero buona.; Die Pizza in diesem Restaurant ist wirklich lecker.
 it-gw-0359; Imbiss (kleine Mahlzeit); lo spuntino; la merenda, lo snack; A2; Grundwortschatz/Essen & Trinken; Alla stazione abbiamo comprato uno spuntino veloce.; Wir kauften einen schnellen Imbiss am Bahnhof.
 it-gw-0360; Kellner; il cameriere; ; A2; Grundwortschatz/Essen & Trinken; Il cameriere ci ha portato subito il menù.; Der Kellner brachte uns schnell die Speisekarte.
-it-gw-0361; Rechnung; il conto; la fattura; A2; Grundwortschatz/Essen & Trinken; Potremmo avere il conto, per favore?; Könnten wir bitte die Rechnung haben?
+it-gw-0361; Rechnung (Restaurant); il conto; ; A2; Grundwortschatz/Essen & Trinken; Potremmo avere il conto, per favore?; Könnten wir bitte die Rechnung haben?
 it-gw-0362; Trinkgeld; la mancia; ; A2; Grundwortschatz/Essen & Trinken; Abbiamo lasciato una piccola mancia al cameriere gentile.; Wir ließen dem freundlichen Kellner ein kleines Trinkgeld da.
 it-gw-0363; Pfanne; la padella; ; A2; Grundwortschatz/Essen & Trinken; Scalda un po' d'olio in una padella grande.; Erhitze etwas Öl in einer großen Pfanne.
 it-gw-0364; Topf; la pentola; ; A2; Grundwortschatz/Essen & Trinken; Cuoci le patate in una pentola grande.; Koche die Kartoffeln in einem großen Topf.
@@ -473,7 +473,7 @@ it-gw-0470; Zahnbürste; lo spazzolino; lo spazzolino da denti; A2; Grundwortsch
 it-gw-0471; Spiegel; lo specchio; ; A2; Grundwortschatz/Alltag; Si è guardata allo specchio.; Sie betrachtete sich im Spiegel.
 it-gw-0472; Möbel; i mobili; l'arredamento; A2; Grundwortschatz/Alltag; Abbiamo comprato mobili nuovi per il soggiorno.; Wir kauften neue Möbel für das Wohnzimmer.
 it-gw-0473; Teppich; il tappeto; la moquette; A2; Grundwortschatz/Alltag; Il gatto dorme sul tappeto morbido.; Die Katze schläft auf dem weichen Teppich.
-it-gw-0474; Vorhang; la tenda; il sipario; A2; Grundwortschatz/Alltag; Per favore, apri le tende, è già tardi.; Bitte öffne die Vorhänge, es ist schon spät.
+it-gw-0474; Vorhang; la tenda; ; A2; Grundwortschatz/Alltag; Per favore, apri le tende, è già tardi.; Bitte öffne die Vorhänge, es ist schon spät.
 it-gw-0475; Treppe; le scale; la scala, la scalinata; A2; Grundwortschatz/Alltag; Prendi le scale, l'ascensore è guasto.; Nimm die Treppe, der Aufzug ist kaputt.
 it-gw-0476; Aufzug; l'ascensore; ; A2; Grundwortschatz/Alltag; L'ascensore ti porta al quinto piano.; Der Aufzug bringt dich in den fünften Stock.
 it-gw-0477; Werkzeug; l'attrezzo; gli attrezzi, lo strumento, l'utensile; A2; Grundwortschatz/Alltag; Per riparare una bicicletta servono gli attrezzi giusti.; Man braucht das richtige Werkzeug, um ein Fahrrad zu reparieren.
@@ -495,7 +495,7 @@ it-gw-0492; Erfolg; il successo; ; A2; Grundwortschatz/Arbeit & Schule; La festa
 it-gw-0493; Prüfung; l'esame; la prova; A2; Grundwortschatz/Arbeit & Schule; Devo studiare per l'esame d'inglese.; Ich muss für meine Englischprüfung lernen.
 it-gw-0494; Note (Schule); il voto; ; A2; Grundwortschatz/Arbeit & Schule; Ha preso il voto più alto della classe.; Er bekam die beste Note in der Klasse.
 it-gw-0495; Fach; la materia; ; A2; Grundwortschatz/Arbeit & Schule; La mia materia preferita a scuola è la storia.; Mein Lieblingsfach in der Schule ist Geschichte.
-it-gw-0496; Pause; la pausa; l'intervallo, la ricreazione; A2; Grundwortschatz/Arbeit & Schule; Dopo questa lezione facciamo una breve pausa.; Machen wir nach dieser Stunde eine kurze Pause.
+it-gw-0496; Pause; la pausa; ; A2; Grundwortschatz/Arbeit & Schule; Dopo questa lezione facciamo una breve pausa.; Machen wir nach dieser Stunde eine kurze Pause.
 it-gw-0497; Projekt; il progetto; ; A2; Grundwortschatz/Arbeit & Schule; La nostra classe lavora a un progetto di scienze.; Unsere Klasse arbeitet an einem Wissenschaftsprojekt.
 it-gw-0498; Bericht; la relazione; il rapporto, il resoconto; A2; Grundwortschatz/Arbeit & Schule; Per favore, scrivi una breve relazione sulla gita.; Bitte schreib einen kurzen Bericht über den Ausflug.
 it-gw-0499; Regel; la regola; ; A2; Grundwortschatz/Arbeit & Schule; Ogni gioco ha delle regole da rispettare.; Jedes Spiel hat Regeln, die man befolgen muss.
@@ -668,7 +668,7 @@ it-gw-0665; Vergleich; il confronto; il paragone; B1; Grundwortschatz/Abstrakte 
 it-gw-0666; Wettbewerb; il concorso; la gara, la competizione; B1; Grundwortschatz/Gesellschaft; La nostra scuola ha vinto il primo premio al concorso.; Unsere Schule gewann den ersten Preis im Wettbewerb.
 it-gw-0667; Beschwerde; il reclamo; la lamentela; B1; Grundwortschatz/Kommunikation; L'albergo ha ricevuto diversi reclami per la musica ad alto volume.; Das Hotel erhielt mehrere Beschwerden über die laute Musik.
 it-gw-0668; Bedingung; la condizione; ; B1; Grundwortschatz/Abstrakte Begriffe; Una buona luce è una condizione importante per fare foto.; Gutes Licht ist eine wichtige Bedingung für das Fotografieren.
-it-gw-0669; Verbindung; il collegamento; il legame, la connessione; B1; Grundwortschatz/Abstrakte Begriffe; C'è un chiaro collegamento tra il fumo e il cancro.; Es gibt eine klare Verbindung zwischen Rauchen und Krebs.
+it-gw-0669; Verbindung (Zusammenhang); il collegamento; il legame, la connessione; B1; Grundwortschatz/Abstrakte Begriffe; C'è un chiaro collegamento tra il fumo e il cancro.; Es gibt eine klare Verbindung zwischen Rauchen und Krebs.
 it-gw-0670; Folge (Konsequenz); la conseguenza; ; B1; Grundwortschatz/Abstrakte Begriffe; La nuova legge ha avuto gravi conseguenze per i piccoli negozi.; Das neue Gesetz hatte ernste Folgen für kleine Geschäfte.
 it-gw-0671; Entwicklung; lo sviluppo; ; B1; Grundwortschatz/Abstrakte Begriffe; Lo sviluppo del centro città ha richiesto diversi anni.; Die Entwicklung des Stadtzentrums dauerte mehrere Jahre.
 it-gw-0672; Pflicht; il dovere; l'obbligo; B1; Grundwortschatz/Gesellschaft; È tuo dovere informare la polizia.; Es ist deine Pflicht, die Polizei zu informieren.

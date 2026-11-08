@@ -3,7 +3,7 @@ kk-0001; Museum; museum; ; A1; Kultur/Kunst & Museum; We visited the museum on S
 kk-0002; Bild; picture; image; A1; Kultur/Kunst & Museum; There is a beautiful picture on the wall.; An der Wand hängt ein schönes Bild.
 kk-0003; malen; to paint; ; A1; Kultur/Kunst & Museum; My daughter likes to paint colorful flowers.; Meine Tochter malt gern bunte Blumen.
 kk-0004; Kunst; art; ; A1; Kultur/Kunst & Museum; Modern art is not always easy to understand.; Moderne Kunst ist nicht immer leicht zu verstehen.
-kk-0005; Farbe (Farbton); color; colour, paint; A2; Kultur/Kunst & Museum; Blue is my favorite color in paintings.; Blau ist meine Lieblingsfarbe auf Gemälden.
+kk-0005; Farbe (Farbton); color; colour; A2; Kultur/Kunst & Museum; Blue is my favorite color in paintings.; Blau ist meine Lieblingsfarbe auf Gemälden.
 kk-0006; Künstler; artist; ; A2; Kultur/Kunst & Museum; The young artist sells his works online.; Der junge Künstler verkauft seine Werke online.
 kk-0007; zeichnen; to draw; ; A2; Kultur/Kunst & Museum; He learned to draw faces at school.; Er hat in der Schule gelernt, Gesichter zu zeichnen.
 kk-0008; Zeichnung; drawing; sketch; A2; Kultur/Kunst & Museum; She showed me a drawing of her cat.; Sie zeigte mir eine Zeichnung ihrer Katze.
@@ -42,7 +42,7 @@ kk-0040; Regisseur; director; film director; B1; Kultur/Theater & Film; The dire
 kk-0041; Dramaturgie; dramaturgy; dramatic structure; C2; Kultur/Theater & Film; The dramaturgy of the play builds tension very slowly.; Die Dramaturgie des Stücks baut die Spannung sehr langsam auf.
 kk-0042; Probe (Theater); rehearsal; ; B1; Kultur/Theater & Film; The final rehearsal lasted until midnight.; Die letzte Probe dauerte bis Mitternacht.
 kk-0043; Applaus; applause; ; B1; Kultur/Theater & Film; The singer thanked the crowd for the warm applause.; Die Sängerin dankte dem Publikum für den herzlichen Applaus.
-kk-0044; Vorhang; curtain; ; B1; Kultur/Theater & Film; The curtain rose and the play began.; Der Vorhang hob sich und das Stück begann.
+kk-0044; Vorhang (Theater); curtain; ; B1; Kultur/Theater & Film; The curtain rose and the play began.; Der Vorhang hob sich und das Stück begann.
 kk-0045; Tragödie; tragedy; ; B1; Kultur/Theater & Film; The tragedy ends with the death of the hero.; Die Tragödie endet mit dem Tod des Helden.
 kk-0046; Dokumentarfilm; documentary; documentary film; B1; Kultur/Theater & Film; We watched a documentary about the deep sea.; Wir haben einen Dokumentarfilm über die Tiefsee gesehen.
 kk-0047; Drehbuch; screenplay; script; B2; Kultur/Theater & Film; She wrote the screenplay for an award-winning drama.; Sie schrieb das Drehbuch für ein preisgekröntes Drama.
@@ -124,7 +124,7 @@ kk-0122; Kuppel; dome; ; B2; Kultur/Architektur; The golden dome shines in the e
 kk-0123; Grundriss; floor plan; layout; C1; Kultur/Architektur; The floor plan shows four rooms and two baths.; Der Grundriss zeigt vier Zimmer und zwei Bäder.
 kk-0124; Stadtplanung; urban planning; town planning; C1; Kultur/Architektur; Good urban planning creates space for people, not cars.; Gute Stadtplanung schafft Raum für Menschen, nicht für Autos.
 kk-0125; Gewölbe; vault; vaulted ceiling; C2; Kultur/Architektur; The old wine cellar has an impressive stone vault.; Der alte Weinkeller hat ein beeindruckendes Steingewölbe.
-kk-0126; Geschichte (Vergangenheit); history; story; A1; Kultur/Geschichte; I find German history very interesting.; Ich finde die deutsche Geschichte sehr interessant.
+kk-0126; Geschichte (Vergangenheit); history; ; A1; Kultur/Geschichte; I find German history very interesting.; Ich finde die deutsche Geschichte sehr interessant.
 kk-0127; König; king; ; A2; Kultur/Geschichte; The king lived in a huge palace.; Der König lebte in einem riesigen Palast.
 kk-0128; Königin; queen; ; A2; Kultur/Geschichte; The queen waved to the people from the balcony.; Die Königin winkte den Menschen vom Balkon zu.
 kk-0129; Krieg; war; ; A2; Kultur/Geschichte; The war lasted almost thirty years.; Der Krieg dauerte fast dreißig Jahre.
@@ -142,7 +142,7 @@ kk-0140; Archäologe; archaeologist; ; B2; Kultur/Geschichte; The archaeologist 
 kk-0141; Herrschaft; rule; reign, dominion; B2; Kultur/Geschichte; Under his rule the empire grew very quickly.; Unter seiner Herrschaft wuchs das Reich sehr schnell.
 kk-0142; erobern; to conquer; ; B2; Kultur/Geschichte; The Romans tried to conquer the whole region.; Die Römer versuchten, die ganze Region zu erobern.
 kk-0143; Niederlage; defeat; ; B2; Kultur/Geschichte; The defeat finally ended the long war.; Die Niederlage beendete endlich den langen Krieg.
-kk-0144; Erbe (Kultur); heritage; legacy, inheritance; B2; Kultur/Geschichte; The old town is part of our cultural heritage.; Die Altstadt ist Teil unseres kulturellen Erbes.
+kk-0144; Erbe (Kultur); heritage; legacy; B2; Kultur/Geschichte; The old town is part of our cultural heritage.; Die Altstadt ist Teil unseres kulturellen Erbes.
 kk-0145; Ausgrabung; excavation; dig; C1; Kultur/Geschichte; The excavation uncovered the walls of a Roman villa.; Die Ausgrabung legte die Mauern einer römischen Villa frei.
 kk-0146; Altertum; antiquity; ancient times; C1; Kultur/Geschichte; Trade routes already connected Europe and Asia in antiquity.; Schon im Altertum verbanden Handelswege Europa und Asien.
 kk-0147; Überlieferung; tradition; lore; C1; Kultur/Geschichte; According to old tradition the town was founded by monks.; Der Überlieferung nach wurde die Stadt von Mönchen gegründet.

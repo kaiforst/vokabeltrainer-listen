@@ -14,7 +14,7 @@ es-wf-0011; Bank (Geldinstitut); el banco; ; A2; Wirtschaft/Finanzen/Bank; El ba
 es-wf-0012; Konto; la cuenta; la cuenta bancaria; A2; Wirtschaft/Finanzen/Bank; He abierto una cuenta para mi hija.; Ich habe ein Konto für meine Tochter eröffnet.
 es-wf-0013; sparen; ahorrar; ; A2; Wirtschaft/Finanzen/Bank; Ahorramos dinero para unas vacaciones largas.; Wir sparen Geld für einen langen Urlaub.
 es-wf-0014; Kunde; el cliente; la clienta; A2; Wirtschaft/Finanzen/Markt & Handel; El cliente pidió una talla más pequeña.; Der Kunde fragte nach einer kleineren Größe.
-es-wf-0015; Rechnung; la factura; la cuenta; A2; Wirtschaft/Finanzen/Unternehmen; Por favor, envíe la factura antes de final de mes.; Bitte schicken Sie die Rechnung bis Ende des Monats.
+es-wf-0015; Rechnung; la factura; ; A2; Wirtschaft/Finanzen/Unternehmen; Por favor, envíe la factura antes de final de mes.; Bitte schicken Sie die Rechnung bis Ende des Monats.
 es-wf-0016; Wirtschaft; la economía; ; A2; Wirtschaft/Finanzen/Konjunktur; Este año la economía crece despacio.; Die Wirtschaft wächst dieses Jahr langsam.
 es-wf-0017; Markt; el mercado; ; A2; Wirtschaft/Finanzen/Markt & Handel; El mercado de los coches eléctricos crece deprisa.; Der Markt für Elektroautos wächst schnell.
 es-wf-0018; Angebot; la oferta; ; A2; Wirtschaft/Finanzen/Markt & Handel; La oferta solo es válida hasta el viernes.; Das Angebot gilt nur bis Freitag.
@@ -52,7 +52,7 @@ es-wf-0049; Lieferung; la entrega; el envío, el pedido; B1; Wirtschaft/Finanzen
 es-wf-0050; Ware; la mercancía; el género, los productos; B1; Wirtschaft/Finanzen/Markt & Handel; La mercancía se revisa antes de salir de la fábrica.; Die Ware wird geprüft, bevor sie das Werk verlässt.
 es-wf-0051; Lager (Waren); el almacén; el depósito; B1; Wirtschaft/Finanzen/Markt & Handel; El almacén está lleno antes de Navidad.; Das Lager ist vor der Weihnachtszeit voll.
 es-wf-0052; Nachfrage; la demanda; ; B1; Wirtschaft/Finanzen/Markt & Handel; La demanda de bombas de calor sube rápidamente.; Die Nachfrage nach Wärmepumpen steigt schnell.
-es-wf-0053; Wettbewerb; la competencia; la competitividad; B1; Wirtschaft/Finanzen/Markt & Handel; La fuerte competencia mantiene los precios muy bajos.; Starker Wettbewerb hält die Preise sehr niedrig.
+es-wf-0053; Wettbewerb (Konkurrenz); la competencia; la competitividad; B1; Wirtschaft/Finanzen/Markt & Handel; La fuerte competencia mantiene los precios muy bajos.; Starker Wettbewerb hält die Preise sehr niedrig.
 es-wf-0054; Konkurrent; el competidor; la competidora, el rival; B1; Wirtschaft/Finanzen/Markt & Handel; Nuestro mayor competidor bajó ayer sus precios.; Unser größter Konkurrent senkte gestern seine Preise.
 es-wf-0055; Rabatt; el descuento; la rebaja; B1; Wirtschaft/Finanzen/Markt & Handel; Los estudiantes tienen un descuento del veinte por ciento.; Studenten bekommen einen Rabatt von zwanzig Prozent.
 es-wf-0056; Schulden; las deudas; la deuda; B1; Wirtschaft/Finanzen/Bank; Pagó sus deudas en tres años.; Er zahlte seine Schulden innerhalb von drei Jahren ab.

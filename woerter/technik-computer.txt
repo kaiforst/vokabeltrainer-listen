@@ -6,7 +6,7 @@ tc-0004; Internet; internet; ; A1; Technik/Computer/Internet; We use the interne
 tc-0005; Fernseher; television; TV, TV set; A1; Technik/Computer/Geräte; The television in the living room is new.; Der Fernseher im Wohnzimmer ist neu.
 tc-0006; Bildschirm; screen; monitor, display; A1; Technik/Computer/Geräte; The screen is too bright at night.; Der Bildschirm ist nachts zu hell.
 tc-0007; Tastatur; keyboard; ; A1; Technik/Computer/Geräte; I need a new keyboard for my computer.; Ich brauche eine neue Tastatur für meinen Computer.
-tc-0008; Maus; mouse; computer mouse; A1; Technik/Computer/Geräte; The mouse does not work without a battery.; Die Maus funktioniert nicht ohne Batterie.
+tc-0008; Maus (Computer); mouse; computer mouse; A1; Technik/Computer/Geräte; The mouse does not work without a battery.; Die Maus funktioniert nicht ohne Batterie.
 tc-0009; Drucker; printer; ; A1; Technik/Computer/Geräte; The printer in the office is broken again.; Der Drucker im Büro ist schon wieder kaputt.
 tc-0010; Kamera; camera; ; A1; Technik/Computer/Geräte; This camera takes very good pictures.; Diese Kamera macht sehr gute Fotos.
 tc-0011; Laptop; laptop; notebook; A1; Technik/Computer/Geräte; She takes her laptop to work every morning.; Sie nimmt ihren Laptop jeden Morgen mit zur Arbeit.
@@ -21,7 +21,7 @@ tc-0019; ausmachen; to turn off; to switch off; A1; Technik/Computer/Geräte; Pl
 tc-0020; Fehler; error; mistake; A1; Technik/Computer/Software; There is an error in the new program.; Es gibt einen Fehler im neuen Programm.
 tc-0021; Passwort; password; ; A2; Technik/Computer/Sicherheit; You should never tell anyone your password.; Du solltest niemandem dein Passwort verraten.
 tc-0022; Datei; file; ; A2; Technik/Computer/Dateien; I saved the file on my laptop.; Ich habe die Datei auf meinem Laptop gespeichert.
-tc-0023; Ordner; folder; directory; A2; Technik/Computer/Dateien; Put all the photos in one folder.; Leg alle Fotos in einen Ordner.
+tc-0023; Ordner (Computer); folder; directory; A2; Technik/Computer/Dateien; Put all the photos in one folder.; Leg alle Fotos in einen Ordner.
 tc-0024; drucken; to print; ; A2; Technik/Computer/Dateien; Can you print this document for me?; Kannst du dieses Dokument für mich drucken?
 tc-0025; speichern; to save; to store; A2; Technik/Computer/Dateien; Do not forget to save your work.; Vergiss nicht, deine Arbeit zu speichern.
 tc-0026; löschen; to delete; to erase; A2; Technik/Computer/Dateien; I deleted the old photos by mistake.; Ich habe die alten Fotos aus Versehen gelöscht.
@@ -43,7 +43,7 @@ tc-0041; Suchmaschine; search engine; ; A2; Technik/Computer/Internet; I found t
 tc-0042; suchen; to search; to look for; A2; Technik/Computer/Internet; I searched for cheap flights on the internet.; Ich habe im Internet nach günstigen Flügen gesucht.
 tc-0043; senden; to send; ; A2; Technik/Computer/Internet; He sends many emails every day at work.; Er sendet bei der Arbeit jeden Tag viele E-Mails.
 tc-0044; empfangen; to receive; to get; A2; Technik/Computer/Internet; Did you receive my message yesterday evening?; Hast du gestern Abend meine Nachricht empfangen?
-tc-0045; Verbindung; connection; ; A2; Technik/Computer/Internet; The internet connection is very slow today.; Die Internetverbindung ist heute sehr langsam.
+tc-0045; Verbindung (Internet); connection; ; A2; Technik/Computer/Internet; The internet connection is very slow today.; Die Internetverbindung ist heute sehr langsam.
 tc-0046; verbinden; to connect; to link; A2; Technik/Computer/Internet; You have to connect the laptop to the printer.; Du musst den Laptop mit dem Drucker verbinden.
 tc-0047; WLAN; Wi-Fi; wireless network, WiFi; A2; Technik/Computer/Internet, Reisen/Urlaub/Unterkunft; The hotel has free Wi-Fi in every room.; Das Hotel hat kostenloses WLAN in jedem Zimmer.
 tc-0048; Akku; rechargeable battery; battery pack; A2; Technik/Computer/Smartphone; My rechargeable battery lasts for almost two days.; Mein Akku hält fast zwei Tage.

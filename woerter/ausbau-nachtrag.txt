@@ -3,7 +3,7 @@ id; Deutsch; Englisch; Weitere Antworten; Niveau; Themen; Beispiel Englisch; Bei
 xf-0001; anfangen; to start; to begin; A1; Allgemein/Verben; The film starts in ten minutes, so let's hurry.; Der Film fängt in zehn Minuten an, also beeilen wir uns.
 xf-0002; aussehen; to look; ; A1; Allgemein/Verben; You look really tired today, are you okay?; Du siehst heute richtig müde aus, geht es dir gut?
 xf-0003; anschauen; to look at; to watch; A1; Allgemein/Verben; Can I look at your holiday photos later?; Kann ich mir später deine Urlaubsfotos anschauen?
-xf-0004; liegen; to lie; ; A1; Allgemein/Verben; The cat is lying on the sofa in the sun.; Die Katze liegt auf dem Sofa in der Sonne.
+xf-0004; liegen (Lebewesen); to lie; ; A1; Allgemein/Verben; The cat is lying on the sofa in the sun.; Die Katze liegt auf dem Sofa in der Sonne.
 xf-0005; leben; to live; ; A1; Allgemein/Verben; My grandparents live in a small village by the sea.; Meine Großeltern leben in einem kleinen Dorf am Meer.
 xf-0006; dürfen; to be allowed to; may; A1; Allgemein/Verben; Children are not allowed to play on the building site.; Kinder dürfen nicht auf der Baustelle spielen.
 xf-0007; aufmachen; to open; ; A1; Allgemein/Verben; Could you open the window, please? It's very warm.; Könntest du bitte das Fenster aufmachen? Es ist sehr warm.
@@ -39,7 +39,7 @@ xf-0036; fortfahren; to continue; to carry on; B1; Allgemein/Verben; After a sho
 xf-0037; umkehren; to turn back; to turn round, to turn around; B1; Allgemein/Verben; The road was closed, so we had to turn back.; Die Straße war gesperrt, also mussten wir umkehren.
 xf-0038; vorbeigehen; to go past; to walk past, to pass; A2; Allgemein/Verben; I go past the bakery every morning.; Ich gehe jeden Morgen an der Bäckerei vorbei.
 xf-0039; eintreten; to enter; to come in; B1; Allgemein/Verben; Please knock before you enter the room.; Bitte klopf an, bevor du in das Zimmer eintrittst.
-xf-0040; wenden; to turn; to turn round, to turn around; B1; Allgemein/Verben; He turned the car round in the narrow street.; Er hat das Auto in der engen Straße gewendet.
+xf-0040; wenden (Auto); to turn; to turn round, to turn around; B1; Allgemein/Verben; He turned the car round in the narrow street.; Er hat das Auto in der engen Straße gewendet.
 xf-0041; bilden; to form; ; B1; Allgemein/Verben; The children formed a circle around the teacher.; Die Kinder bildeten einen Kreis um die Lehrerin.
 xf-0042; formen; to shape; to form; B1; Allgemein/Verben; Shape the dough into small balls with your hands.; Form den Teig mit den Händen zu kleinen Kugeln.
 xf-0043; herstellen; to produce; to make, to manufacture; B1; Allgemein/Verben; This factory produces parts for cars and buses.; Diese Fabrik stellt Teile für Autos und Busse her.
@@ -49,7 +49,7 @@ xf-0046; gestalten; to design; to shape, to create; B2; Allgemein/Verben; The pu
 xf-0047; festlegen; to set; to fix, to determine; B2; Allgemein/Verben; We still have to set a date for the meeting.; Wir müssen noch einen Termin für das Treffen festlegen.
 xf-0048; anwenden; to apply; ; B1; Allgemein/Verben; Now try to apply the rule to these sentences.; Versuch jetzt, die Regel auf diese Sätze anzuwenden.
 xf-0049; leiten; to lead; to run, to manage; B1; Allgemein/Verben; Mrs Becker has led the school for many years.; Frau Becker leitet die Schule seit vielen Jahren.
-xf-0050; betreiben; to run; to operate; B2; Allgemein/Verben; His family runs a small hotel by the lake.; Seine Familie betreibt ein kleines Hotel am See.
+xf-0050; betreiben (führen); to run; to operate; B2; Allgemein/Verben; His family runs a small hotel by the lake.; Seine Familie betreibt ein kleines Hotel am See.
 xf-0051; beherrschen; to master; to have a good command of; B2; Allgemein/Verben; It takes years to master a foreign language.; Es dauert Jahre, eine Fremdsprache zu beherrschen.
 xf-0052; enthüllen; to reveal; ; B2; Allgemein/Verben; The magician never reveals how his tricks work.; Der Zauberer enthüllt nie, wie seine Tricks funktionieren.
 xf-0053; ansteigen; to rise; to increase; B1; Allgemein/Verben; The water level rose after the heavy rain.; Nach dem starken Regen ist der Wasserstand angestiegen.
@@ -96,7 +96,7 @@ xf-0092; bereit; ready; ; A2; Allgemein/Adjektive; Are you ready? We have to go 
 xf-0093; kräftig; strong; powerful; B1; Allgemein/Adjektive; He has strong arms from working on the farm.; Von der Arbeit auf dem Hof hat er kräftige Arme.
 xf-0094; großartig; great; wonderful, terrific; B1; Allgemein/Adjektive; That was a great idea, thank you!; Das war eine großartige Idee, danke!
 xf-0095; fantastisch; fantastic; ; A2; Allgemein/Adjektive; The view from the top is fantastic.; Die Aussicht von oben ist fantastisch.
-xf-0096; grob; rough; coarse; B2; Allgemein/Adjektive; This is only a rough plan for the trip.; Das ist nur ein grober Plan für die Reise.
+xf-0096; grob (ungefähr); rough; ; B2; Allgemein/Adjektive; This is only a rough plan for the trip.; Das ist nur ein grober Plan für die Reise.
 xf-0097; rau; rough; ; B1; Allgemein/Adjektive; My hands are rough from the cold weather.; Meine Hände sind vom kalten Wetter ganz rau.
 xf-0098; uneben; uneven; ; B2; Allgemein/Adjektive; Be careful, the path is very uneven here.; Pass auf, der Weg ist hier sehr uneben.
 xf-0099; zäh; tough; ; B2; Allgemein/Adjektive; The meat was so tough that I couldn't eat it.; Das Fleisch war so zäh, dass ich es nicht essen konnte.
@@ -189,7 +189,7 @@ xf-0185; rund (Form); round; ; A2; Allgemein/Raum; We bought a round table for t
 xf-0186; schief; crooked; lopsided; B2; Allgemein/Raum; The picture on the wall is hanging crooked.; Das Bild an der Wand hängt schief.
 xf-0187; Ausgang; exit; way out; A2; Allgemein/Raum; Excuse me, where is the exit of the car park?; Entschuldigung, wo ist der Ausgang vom Parkhaus?
 xf-0188; Eingang; entrance; way in; A2; Allgemein/Raum; Let's meet at the entrance of the station.; Treffen wir uns am Eingang des Bahnhofs.
-xf-0189; Sache; thing; matter; A2; Allgemein/Begriffe; Pack your things, we're leaving in ten minutes.; Pack deine Sachen, wir fahren in zehn Minuten los.
+xf-0189; Sache; thing; matter; A2; Allgemein/Begriffe; There is one more important thing I need to tell you.; Ich muss dir noch eine wichtige Sache sagen.
 xf-0190; Ding; thing; ; A2; Allgemein/Begriffe; What is that strange thing on the roof?; Was ist das für ein komisches Ding auf dem Dach?
 xf-0191; Fall; case; ; B1; Allgemein/Begriffe; In that case, we'll stay at home.; In diesem Fall bleiben wir zu Hause.
 xf-0192; Zustand; condition; state; B1; Allgemein/Begriffe; The old car is still in very good condition.; Das alte Auto ist noch in sehr gutem Zustand.

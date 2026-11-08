@@ -19,7 +19,7 @@ fr-sb-0016; antworten; répondre; ; A1; Bildung/Schule/Unterricht; Réfléchis d
 fr-sb-0017; Frage; la question; ; A1; Bildung/Schule/Unterricht; J'ai une question sur les devoirs.; Ich habe eine Frage zu den Hausaufgaben.
 fr-sb-0018; Antwort; la réponse; ; A1; Bildung/Schule/Unterricht; La bonne réponse se trouve à la page suivante.; Die richtige Antwort steht auf der nächsten Seite.
 fr-sb-0019; Hausaufgaben; les devoirs; ; A1; Bildung/Schule/Unterricht; Je fais mes devoirs après le déjeuner.; Ich mache meine Hausaufgaben nach dem Mittagessen.
-fr-sb-0020; Pause; la récréation; la récré, la pause; A1; Bildung/Schule/Unterricht; Pendant la grande récréation, nous jouons au football.; In der großen Pause spielen wir Fußball.
+fr-sb-0020; Pause (Schule); la récréation; la récré, la pause; A1; Bildung/Schule/Unterricht; Pendant la grande récréation, nous jouons au football.; In der großen Pause spielen wir Fußball.
 fr-sb-0021; Mathematik; les mathématiques; les maths; A1; Bildung/Schule/Fächer; Nous avons mathématiques le lundi et le jeudi.; Montags und donnerstags haben wir Mathematik.
 fr-sb-0022; Englisch; l'anglais; ; A1; Bildung/Schule/Fächer; En anglais, nous chantons des chansons et nous faisons des jeux.; In Englisch singen wir Lieder und spielen Spiele.
 fr-sb-0023; Deutsch; l'allemand; ; A1; Bildung/Schule/Fächer; En allemand, nous lisons en ce moment un court roman.; In Deutsch lesen wir gerade einen kurzen Roman.
@@ -42,7 +42,7 @@ fr-sb-0039; Test; le contrôle; le test, l'interro; A2; Bildung/Schule/Prüfunge
 fr-sb-0040; bestehen (Prüfung); réussir; être reçu; A2; Bildung/Schule/Prüfungen; Je suis sûr que tu vas réussir l'examen.; Ich bin sicher, dass du die Prüfung bestehst.
 fr-sb-0041; durchfallen; échouer; rater, être recalé; A2; Bildung/Schule/Prüfungen; Personne ne veut échouer au dernier contrôle.; Niemand will beim letzten Test durchfallen.
 fr-sb-0042; üben; s'exercer; s'entraîner, pratiquer; A2; Bildung/Lernen; Tu devrais t'exercer chaque jour avec les nouveaux mots.; Du solltest die neuen Wörter jeden Tag üben.
-fr-sb-0043; wiederholen; réviser; répéter; A2; Bildung/Lernen; Révisons la grammaire de la semaine dernière.; Lass uns die Grammatik von letzter Woche wiederholen.
+fr-sb-0043; wiederholen (Lernstoff); réviser; ; A2; Bildung/Lernen; Révisons la grammaire de la semaine dernière.; Lass uns die Grammatik von letzter Woche wiederholen.
 fr-sb-0044; erklären; expliquer; ; A2; Bildung/Schule/Unterricht; Tu peux encore expliquer cette règle, s'il te plaît ?; Kannst du diese Regel bitte noch einmal erklären?
 fr-sb-0045; verstehen; comprendre; ; A2; Bildung/Lernen; Je n'ai pas compris la dernière phrase.; Ich habe den letzten Satz nicht verstanden.
 fr-sb-0046; vergessen; oublier; ; A2; Bildung/Lernen; N'oublie pas tes devoirs à la maison.; Vergiss deine Hausaufgaben nicht zu Hause.

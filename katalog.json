@@ -16,13 +16,13 @@
     {
       "id": "arbeit-beruf",
       "file": "woerter/arbeit-beruf.txt",
-      "version": 2,
+      "version": 3,
       "count": 150
     },
     {
       "id": "business-buero",
       "file": "woerter/business-buero.txt",
-      "version": 2,
+      "version": 3,
       "count": 150
     },
     {
@@ -34,13 +34,13 @@
     {
       "id": "essen-trinken",
       "file": "woerter/essen-trinken.txt",
-      "version": 3,
+      "version": 4,
       "count": 150
     },
     {
       "id": "familie-beziehungen",
       "file": "woerter/familie-beziehungen.txt",
-      "version": 3,
+      "version": 4,
       "count": 150
     },
     {
@@ -52,13 +52,13 @@
     {
       "id": "gefuehle-charakter",
       "file": "woerter/gefuehle-charakter.txt",
-      "version": 3,
+      "version": 4,
       "count": 150
     },
     {
       "id": "grundwortschatz",
       "file": "woerter/grundwortschatz.txt",
-      "version": 4,
+      "version": 5,
       "count": 1200
     },
     {
@@ -76,13 +76,13 @@
     {
       "id": "kunst-kultur",
       "file": "woerter/kunst-kultur.txt",
-      "version": 4,
+      "version": 5,
       "count": 150
     },
     {
       "id": "medien-kommunikation",
       "file": "woerter/medien-kommunikation.txt",
-      "version": 3,
+      "version": 4,
       "count": 150
     },
     {
@@ -94,73 +94,73 @@
     {
       "id": "politik-gesellschaft",
       "file": "woerter/politik-gesellschaft.txt",
-      "version": 2,
+      "version": 3,
       "count": 150
     },
     {
       "id": "reisen-urlaub",
       "file": "woerter/reisen-urlaub.txt",
-      "version": 3,
+      "version": 4,
       "count": 150
     },
     {
       "id": "schule-bildung",
       "file": "woerter/schule-bildung.txt",
-      "version": 3,
+      "version": 4,
       "count": 150
     },
     {
       "id": "sport-fitness",
       "file": "woerter/sport-fitness.txt",
-      "version": 2,
+      "version": 3,
       "count": 150
     },
     {
       "id": "technik-computer",
       "file": "woerter/technik-computer.txt",
-      "version": 3,
+      "version": 4,
       "count": 150
     },
     {
       "id": "verkehr-mobilitaet",
       "file": "woerter/verkehr-mobilitaet.txt",
-      "version": 2,
+      "version": 3,
       "count": 150
     },
     {
       "id": "wetter-umwelt",
       "file": "woerter/wetter-umwelt.txt",
-      "version": 2,
+      "version": 3,
       "count": 150
     },
     {
       "id": "wirtschaft-finanzen",
       "file": "woerter/wirtschaft-finanzen.txt",
-      "version": 2,
+      "version": 3,
       "count": 150
     },
     {
       "id": "wissenschaft-forschung",
       "file": "woerter/wissenschaft-forschung.txt",
-      "version": 2,
+      "version": 3,
       "count": 150
     },
     {
       "id": "business-beschaffung",
       "file": "woerter/business-beschaffung.txt",
-      "version": 3,
+      "version": 4,
       "count": 150
     },
     {
       "id": "business-marketing-vertrieb",
       "file": "woerter/business-marketing-vertrieb.txt",
-      "version": 2,
+      "version": 3,
       "count": 150
     },
     {
       "id": "business-personalwesen",
       "file": "woerter/business-personalwesen.txt",
-      "version": 2,
+      "version": 3,
       "count": 150
     },
     {
@@ -172,7 +172,7 @@
     {
       "id": "business-rechnungswesen",
       "file": "woerter/business-rechnungswesen.txt",
-      "version": 2,
+      "version": 3,
       "count": 150
     },
     {
@@ -184,27 +184,27 @@
     {
       "id": "business-vertrag",
       "file": "woerter/business-vertrag.txt",
-      "version": 3,
+      "version": 4,
       "count": 150
     },
     {
       "id": "fr-grundwortschatz",
       "file": "woerter/fr-grundwortschatz.txt",
-      "version": 2,
+      "version": 3,
       "count": 1200,
       "lang": "fr"
     },
     {
       "id": "es-grundwortschatz",
       "file": "woerter/es-grundwortschatz.txt",
-      "version": 2,
+      "version": 3,
       "count": 1200,
       "lang": "es"
     },
     {
       "id": "it-grundwortschatz",
       "file": "woerter/it-grundwortschatz.txt",
-      "version": 2,
+      "version": 3,
       "count": 1200,
       "lang": "it"
     },
@@ -249,14 +249,14 @@
     {
       "id": "fr-arbeit-beruf",
       "file": "woerter/fr-arbeit-beruf.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "fr"
     },
     {
       "id": "fr-business-buero",
       "file": "woerter/fr-business-buero.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "fr"
     },
@@ -270,14 +270,14 @@
     {
       "id": "fr-essen-trinken",
       "file": "woerter/fr-essen-trinken.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "fr"
     },
     {
       "id": "fr-familie-beziehungen",
       "file": "woerter/fr-familie-beziehungen.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "fr"
     },
@@ -312,21 +312,21 @@
     {
       "id": "fr-kunst-kultur",
       "file": "woerter/fr-kunst-kultur.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "fr"
     },
     {
       "id": "fr-medien-kommunikation",
       "file": "woerter/fr-medien-kommunikation.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "fr"
     },
     {
       "id": "fr-natur-tiere",
       "file": "woerter/fr-natur-tiere.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "fr"
     },
@@ -340,77 +340,77 @@
     {
       "id": "fr-reisen-urlaub",
       "file": "woerter/fr-reisen-urlaub.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "fr"
     },
     {
       "id": "fr-schule-bildung",
       "file": "woerter/fr-schule-bildung.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "fr"
     },
     {
       "id": "fr-sport-fitness",
       "file": "woerter/fr-sport-fitness.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "fr"
     },
     {
       "id": "fr-technik-computer",
       "file": "woerter/fr-technik-computer.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "fr"
     },
     {
       "id": "fr-verkehr-mobilitaet",
       "file": "woerter/fr-verkehr-mobilitaet.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "fr"
     },
     {
       "id": "fr-wetter-umwelt",
       "file": "woerter/fr-wetter-umwelt.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "fr"
     },
     {
       "id": "fr-wirtschaft-finanzen",
       "file": "woerter/fr-wirtschaft-finanzen.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "fr"
     },
     {
       "id": "fr-wissenschaft-forschung",
       "file": "woerter/fr-wissenschaft-forschung.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "fr"
     },
     {
       "id": "fr-business-beschaffung",
       "file": "woerter/fr-business-beschaffung.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "fr"
     },
     {
       "id": "fr-business-marketing-vertrieb",
       "file": "woerter/fr-business-marketing-vertrieb.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "fr"
     },
     {
       "id": "fr-business-personalwesen",
       "file": "woerter/fr-business-personalwesen.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "fr"
     },
@@ -424,7 +424,7 @@
     {
       "id": "fr-business-rechnungswesen",
       "file": "woerter/fr-business-rechnungswesen.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "fr"
     },
@@ -438,7 +438,7 @@
     {
       "id": "fr-business-vertrag",
       "file": "woerter/fr-business-vertrag.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "fr"
     },
@@ -459,35 +459,35 @@
     {
       "id": "es-arbeit-beruf",
       "file": "woerter/es-arbeit-beruf.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "es"
     },
     {
       "id": "es-business-buero",
       "file": "woerter/es-business-buero.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "es"
     },
     {
       "id": "es-einkaufen-geld",
       "file": "woerter/es-einkaufen-geld.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "es"
     },
     {
       "id": "es-essen-trinken",
       "file": "woerter/es-essen-trinken.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "es"
     },
     {
       "id": "es-familie-beziehungen",
       "file": "woerter/es-familie-beziehungen.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "es"
     },
@@ -522,21 +522,21 @@
     {
       "id": "es-kunst-kultur",
       "file": "woerter/es-kunst-kultur.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "es"
     },
     {
       "id": "es-medien-kommunikation",
       "file": "woerter/es-medien-kommunikation.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "es"
     },
     {
       "id": "es-natur-tiere",
       "file": "woerter/es-natur-tiere.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "es"
     },
@@ -550,77 +550,77 @@
     {
       "id": "es-reisen-urlaub",
       "file": "woerter/es-reisen-urlaub.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "es"
     },
     {
       "id": "es-schule-bildung",
       "file": "woerter/es-schule-bildung.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "es"
     },
     {
       "id": "es-sport-fitness",
       "file": "woerter/es-sport-fitness.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "es"
     },
     {
       "id": "es-technik-computer",
       "file": "woerter/es-technik-computer.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "es"
     },
     {
       "id": "es-verkehr-mobilitaet",
       "file": "woerter/es-verkehr-mobilitaet.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "es"
     },
     {
       "id": "es-wetter-umwelt",
       "file": "woerter/es-wetter-umwelt.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "es"
     },
     {
       "id": "es-wirtschaft-finanzen",
       "file": "woerter/es-wirtschaft-finanzen.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "es"
     },
     {
       "id": "es-wissenschaft-forschung",
       "file": "woerter/es-wissenschaft-forschung.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "es"
     },
     {
       "id": "es-business-beschaffung",
       "file": "woerter/es-business-beschaffung.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "es"
     },
     {
       "id": "es-business-marketing-vertrieb",
       "file": "woerter/es-business-marketing-vertrieb.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "es"
     },
     {
       "id": "es-business-personalwesen",
       "file": "woerter/es-business-personalwesen.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "es"
     },
@@ -634,7 +634,7 @@
     {
       "id": "es-business-rechnungswesen",
       "file": "woerter/es-business-rechnungswesen.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "es"
     },
@@ -648,7 +648,7 @@
     {
       "id": "es-business-vertrag",
       "file": "woerter/es-business-vertrag.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "es"
     },
@@ -669,14 +669,14 @@
     {
       "id": "it-arbeit-beruf",
       "file": "woerter/it-arbeit-beruf.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "it"
     },
     {
       "id": "it-business-buero",
       "file": "woerter/it-business-buero.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "it"
     },
@@ -690,14 +690,14 @@
     {
       "id": "it-essen-trinken",
       "file": "woerter/it-essen-trinken.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "it"
     },
     {
       "id": "it-familie-beziehungen",
       "file": "woerter/it-familie-beziehungen.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "it"
     },
@@ -732,105 +732,105 @@
     {
       "id": "it-kunst-kultur",
       "file": "woerter/it-kunst-kultur.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "it"
     },
     {
       "id": "it-medien-kommunikation",
       "file": "woerter/it-medien-kommunikation.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "it"
     },
     {
       "id": "it-natur-tiere",
       "file": "woerter/it-natur-tiere.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "it"
     },
     {
       "id": "it-politik-gesellschaft",
       "file": "woerter/it-politik-gesellschaft.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "it"
     },
     {
       "id": "it-reisen-urlaub",
       "file": "woerter/it-reisen-urlaub.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "it"
     },
     {
       "id": "it-schule-bildung",
       "file": "woerter/it-schule-bildung.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "it"
     },
     {
       "id": "it-sport-fitness",
       "file": "woerter/it-sport-fitness.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "it"
     },
     {
       "id": "it-technik-computer",
       "file": "woerter/it-technik-computer.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "it"
     },
     {
       "id": "it-verkehr-mobilitaet",
       "file": "woerter/it-verkehr-mobilitaet.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "it"
     },
     {
       "id": "it-wetter-umwelt",
       "file": "woerter/it-wetter-umwelt.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "it"
     },
     {
       "id": "it-wirtschaft-finanzen",
       "file": "woerter/it-wirtschaft-finanzen.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "it"
     },
     {
       "id": "it-wissenschaft-forschung",
       "file": "woerter/it-wissenschaft-forschung.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "it"
     },
     {
       "id": "it-business-beschaffung",
       "file": "woerter/it-business-beschaffung.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "it"
     },
     {
       "id": "it-business-marketing-vertrieb",
       "file": "woerter/it-business-marketing-vertrieb.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "it"
     },
     {
       "id": "it-business-personalwesen",
       "file": "woerter/it-business-personalwesen.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "it"
     },
@@ -844,7 +844,7 @@
     {
       "id": "it-business-rechnungswesen",
       "file": "woerter/it-business-rechnungswesen.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "it"
     },
@@ -858,34 +858,34 @@
     {
       "id": "it-business-vertrag",
       "file": "woerter/it-business-vertrag.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "it"
     },
     {
       "id": "karsten",
       "file": "woerter/karsten.txt",
-      "version": 5,
+      "version": 6,
       "count": 996
     },
     {
       "id": "fr-karsten",
       "file": "woerter/fr-karsten.txt",
-      "version": 4,
+      "version": 5,
       "count": 991,
       "lang": "fr"
     },
     {
       "id": "es-karsten",
       "file": "woerter/es-karsten.txt",
-      "version": 4,
+      "version": 5,
       "count": 989,
       "lang": "es"
     },
     {
       "id": "it-karsten",
       "file": "woerter/it-karsten.txt",
-      "version": 3,
+      "version": 4,
       "count": 989,
       "lang": "it"
     },
@@ -1006,7 +1006,7 @@
     {
       "id": "ausbau-alltag",
       "file": "woerter/ausbau-alltag.txt",
-      "version": 2,
+      "version": 3,
       "count": 443
     },
     {
@@ -1033,7 +1033,7 @@
     {
       "id": "ausbau-schule-arbeit",
       "file": "woerter/ausbau-schule-arbeit.txt",
-      "version": 2,
+      "version": 3,
       "count": 440
     },
     {
@@ -1141,62 +1141,62 @@
     {
       "id": "bedeutungen",
       "file": "woerter/bedeutungen.txt",
-      "version": 1,
-      "count": 54
+      "version": 2,
+      "count": 59
     },
     {
       "id": "fr-bedeutungen",
       "file": "woerter/fr-bedeutungen.txt",
-      "version": 1,
-      "count": 54,
+      "version": 2,
+      "count": 59,
       "lang": "fr"
     },
     {
       "id": "es-bedeutungen",
       "file": "woerter/es-bedeutungen.txt",
-      "version": 1,
-      "count": 59,
+      "version": 2,
+      "count": 61,
       "lang": "es"
     },
     {
       "id": "it-bedeutungen",
       "file": "woerter/it-bedeutungen.txt",
-      "version": 1,
-      "count": 58,
+      "version": 2,
+      "count": 59,
       "lang": "it"
     },
     {
       "id": "ausbau-nachtrag",
       "file": "woerter/ausbau-nachtrag.txt",
-      "version": 1,
+      "version": 2,
       "count": 403
     },
     {
       "id": "fr-ausbau-nachtrag",
       "file": "woerter/fr-ausbau-nachtrag.txt",
-      "version": 1,
+      "version": 2,
       "count": 401,
       "lang": "fr"
     },
     {
       "id": "es-ausbau-nachtrag",
       "file": "woerter/es-ausbau-nachtrag.txt",
-      "version": 1,
+      "version": 2,
       "count": 401,
       "lang": "es"
     },
     {
       "id": "it-ausbau-nachtrag",
       "file": "woerter/it-ausbau-nachtrag.txt",
-      "version": 1,
+      "version": 2,
       "count": 401,
       "lang": "it"
     }
   ],
   "aliases": {
     "file": "aliase.txt",
-    "version": 7,
-    "count": 6583
+    "version": 8,
+    "count": 6556
   },
   "forms": [
     {
@@ -6311,8 +6311,8 @@
       "name": "Mehrdeutige Wörter",
       "description": "Zweite Bedeutungen bekannter Wörter: Bank (zum Sitzen), Schloss (an der Tür), Kiefer (Knochen) …",
       "level": "B1",
-      "count": 54,
-      "version": 1,
+      "count": 59,
+      "version": 2,
       "filter": {
         "topics": [
           "Mehrdeutige Wörter"
@@ -6325,8 +6325,8 @@
       "description": "Zweite Bedeutungen bekannter Wörter: Bank (zum Sitzen), Schloss (an der Tür), Kiefer (Knochen) …",
       "level": "B1",
       "answerLang": "fr",
-      "count": 54,
-      "version": 1,
+      "count": 59,
+      "version": 2,
       "filter": {
         "topics": [
           "Mehrdeutige Wörter"
@@ -6339,8 +6339,8 @@
       "description": "Zweite Bedeutungen bekannter Wörter: Bank (zum Sitzen), Schloss (an der Tür), Kiefer (Knochen) …",
       "level": "B1",
       "answerLang": "es",
-      "count": 59,
-      "version": 1,
+      "count": 61,
+      "version": 2,
       "filter": {
         "topics": [
           "Mehrdeutige Wörter"
@@ -6353,8 +6353,8 @@
       "description": "Zweite Bedeutungen bekannter Wörter: Bank (zum Sitzen), Schloss (an der Tür), Kiefer (Knochen) …",
       "level": "B1",
       "answerLang": "it",
-      "count": 58,
-      "version": 1,
+      "count": 59,
+      "version": 2,
       "filter": {
         "topics": [
           "Mehrdeutige Wörter"

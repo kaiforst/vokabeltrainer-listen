@@ -32,8 +32,18 @@ Lernstand auf der Haupt-ID zusammen und lassen die Haupt-ID in allen Listen ersc
 stünde. `node scripts/aliase.mjs` nimmt neue Dubletten auf (`--trocken` zeigt nur an); einmal vergebene Aliase und
 Haupt-IDs ändern sich nie, denn an ihnen hängt Lernstand.
 
+**Karten (Wissen, Grammatik):** In `karten/` stehen Fragen mit Antworten, die keine Vokabeln sind (Konzept:
+`docs/konzept-wissen-grammatik.md` im App-Repo). Kopfzeile `id; Frage; Antwort; Weitere Antworten; Niveau; Themen;
+Hinweis` (Wissen, Deutsch → Deutsch) bzw. `id; Angabe; Stichwort; Antwort; Weitere Antworten; Niveau; Themen; Hinweis`
+mit `# Sprache: es` (Grammatik: Angabe auf Deutsch, Stichwort und Antwort in der Lernsprache). Weitere Antworten sind
+mit `|` getrennt, weil eine Antwort ein Komma enthalten kann („went, gone“). Der Hinweis erscheint nach der Antwort.
+In `katalog.json` stehen die Dateien unter `cards` (mit `"kind": "form"` und `"lang"` für Grammatik) und die Listen
+unter `cardLists` (`"task": "ask"` für Wissen, `"task": "form"` für Grammatik, `"strict": true` für Artikel-Listen,
+bei denen der Artikel stimmen muss). So lesen ältere App-Stände sie nicht als Vokabeln. IDs: `hs-` Hauptstädte, `bl-`
+Bundesländer, `gv-en-` englische Verben, `gp-es-`/`gp-it-` Präsens. Hauptstädte sind gegen Wikidata (P36) geprüft.
+
 **Prüfen:** `node scripts/pruefe.mjs` prüft alle Wortdateien (Felder, IDs, Niveaus, Dubletten in einer Datei,
 `count` in `katalog.json`), `aliase.txt` (IDs vorhanden, keine Ketten, gleiches Wortpaar, Dubletten ohne Alias) und
-`formen/*.txt`. Mit Dateinamen nur diese, mit `--dubletten` zusätzlich alle
+`formen/*.txt` sowie die Karten. Mit Dateinamen nur diese, mit `--dubletten` zusätzlich alle
 Wortpaare, die in mehreren Dateien stehen, samt vorgeschlagener Haupt-ID. Erweiterungen in parallelen Sessions:
 Prompt und Pakete in `docs/wortschatz-prompt.md` im App-Repo.

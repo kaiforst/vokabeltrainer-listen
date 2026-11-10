@@ -1,0 +1,135 @@
+# Italienisch: Präsens. Die App nennt Person und Verb, gefragt ist die Form; mit Personalpronomen zählt sie auch.
+# Sprache: it
+id; Angabe; Stichwort; Antwort; Weitere Antworten; Niveau; Themen; Hinweis
+gp-it-0001; Präsens, ich; parlare; parlo; io parlo; A1; Grammatik/Präsens/Regelmäßige Verben; parlare: sprechen
+gp-it-0002; Präsens, du; parlare; parli; tu parli; A1; Grammatik/Präsens/Regelmäßige Verben; parlare: sprechen
+gp-it-0003; Präsens, er oder sie; parlare; parla; lui parla | lei parla; A1; Grammatik/Präsens/Regelmäßige Verben; parlare: sprechen
+gp-it-0004; Präsens, wir; parlare; parliamo; noi parliamo; A1; Grammatik/Präsens/Regelmäßige Verben; parlare: sprechen
+gp-it-0005; Präsens, ihr; parlare; parlate; voi parlate; A1; Grammatik/Präsens/Regelmäßige Verben; parlare: sprechen
+gp-it-0006; Präsens, sie (Plural); parlare; parlano; loro parlano; A1; Grammatik/Präsens/Regelmäßige Verben; parlare: sprechen
+gp-it-0007; Präsens, ich; abitare; abito; io abito; A1; Grammatik/Präsens/Regelmäßige Verben; abitare: wohnen
+gp-it-0008; Präsens, du; abitare; abiti; tu abiti; A1; Grammatik/Präsens/Regelmäßige Verben; abitare: wohnen
+gp-it-0009; Präsens, er oder sie; abitare; abita; lui abita | lei abita; A1; Grammatik/Präsens/Regelmäßige Verben; abitare: wohnen
+gp-it-0010; Präsens, wir; abitare; abitiamo; noi abitiamo; A1; Grammatik/Präsens/Regelmäßige Verben; abitare: wohnen
+gp-it-0011; Präsens, ihr; abitare; abitate; voi abitate; A1; Grammatik/Präsens/Regelmäßige Verben; abitare: wohnen
+gp-it-0012; Präsens, sie (Plural); abitare; abitano; loro abitano; A1; Grammatik/Präsens/Regelmäßige Verben; abitare: wohnen
+gp-it-0013; Präsens, ich; prendere; prendo; io prendo; A1; Grammatik/Präsens/Regelmäßige Verben; prendere: nehmen
+gp-it-0014; Präsens, du; prendere; prendi; tu prendi; A1; Grammatik/Präsens/Regelmäßige Verben; prendere: nehmen
+gp-it-0015; Präsens, er oder sie; prendere; prende; lui prende | lei prende; A1; Grammatik/Präsens/Regelmäßige Verben; prendere: nehmen
+gp-it-0016; Präsens, wir; prendere; prendiamo; noi prendiamo; A1; Grammatik/Präsens/Regelmäßige Verben; prendere: nehmen
+gp-it-0017; Präsens, ihr; prendere; prendete; voi prendete; A1; Grammatik/Präsens/Regelmäßige Verben; prendere: nehmen
+gp-it-0018; Präsens, sie (Plural); prendere; prendono; loro prendono; A1; Grammatik/Präsens/Regelmäßige Verben; prendere: nehmen
+gp-it-0019; Präsens, ich; scrivere; scrivo; io scrivo; A1; Grammatik/Präsens/Regelmäßige Verben; scrivere: schreiben
+gp-it-0020; Präsens, du; scrivere; scrivi; tu scrivi; A1; Grammatik/Präsens/Regelmäßige Verben; scrivere: schreiben
+gp-it-0021; Präsens, er oder sie; scrivere; scrive; lui scrive | lei scrive; A1; Grammatik/Präsens/Regelmäßige Verben; scrivere: schreiben
+gp-it-0022; Präsens, wir; scrivere; scriviamo; noi scriviamo; A1; Grammatik/Präsens/Regelmäßige Verben; scrivere: schreiben
+gp-it-0023; Präsens, ihr; scrivere; scrivete; voi scrivete; A1; Grammatik/Präsens/Regelmäßige Verben; scrivere: schreiben
+gp-it-0024; Präsens, sie (Plural); scrivere; scrivono; loro scrivono; A1; Grammatik/Präsens/Regelmäßige Verben; scrivere: schreiben
+gp-it-0025; Präsens, ich; dormire; dormo; io dormo; A1; Grammatik/Präsens/Regelmäßige Verben; dormire: schlafen
+gp-it-0026; Präsens, du; dormire; dormi; tu dormi; A1; Grammatik/Präsens/Regelmäßige Verben; dormire: schlafen
+gp-it-0027; Präsens, er oder sie; dormire; dorme; lui dorme | lei dorme; A1; Grammatik/Präsens/Regelmäßige Verben; dormire: schlafen
+gp-it-0028; Präsens, wir; dormire; dormiamo; noi dormiamo; A1; Grammatik/Präsens/Regelmäßige Verben; dormire: schlafen
+gp-it-0029; Präsens, ihr; dormire; dormite; voi dormite; A1; Grammatik/Präsens/Regelmäßige Verben; dormire: schlafen
+gp-it-0030; Präsens, sie (Plural); dormire; dormono; loro dormono; A1; Grammatik/Präsens/Regelmäßige Verben; dormire: schlafen
+gp-it-0031; Präsens, ich; finire; finisco; io finisco; A1; Grammatik/Präsens/Regelmäßige Verben; finire: beenden
+gp-it-0032; Präsens, du; finire; finisci; tu finisci; A1; Grammatik/Präsens/Regelmäßige Verben; finire: beenden
+gp-it-0033; Präsens, er oder sie; finire; finisce; lui finisce | lei finisce; A1; Grammatik/Präsens/Regelmäßige Verben; finire: beenden
+gp-it-0034; Präsens, wir; finire; finiamo; noi finiamo; A1; Grammatik/Präsens/Regelmäßige Verben; finire: beenden
+gp-it-0035; Präsens, ihr; finire; finite; voi finite; A1; Grammatik/Präsens/Regelmäßige Verben; finire: beenden
+gp-it-0036; Präsens, sie (Plural); finire; finiscono; loro finiscono; A1; Grammatik/Präsens/Regelmäßige Verben; finire: beenden
+gp-it-0037; Präsens, ich; essere; sono; io sono; A1; Grammatik/Präsens/Unregelmäßige Verben; essere: sein
+gp-it-0038; Präsens, du; essere; sei; tu sei; A1; Grammatik/Präsens/Unregelmäßige Verben; essere: sein
+gp-it-0039; Präsens, er oder sie; essere; è; lui è | lei è; A1; Grammatik/Präsens/Unregelmäßige Verben; essere: sein
+gp-it-0040; Präsens, wir; essere; siamo; noi siamo; A1; Grammatik/Präsens/Unregelmäßige Verben; essere: sein
+gp-it-0041; Präsens, ihr; essere; siete; voi siete; A1; Grammatik/Präsens/Unregelmäßige Verben; essere: sein
+gp-it-0042; Präsens, sie (Plural); essere; sono; loro sono; A1; Grammatik/Präsens/Unregelmäßige Verben; essere: sein
+gp-it-0043; Präsens, ich; avere; ho; io ho | o | io o; A1; Grammatik/Präsens/Unregelmäßige Verben; avere: haben
+gp-it-0044; Präsens, du; avere; hai; tu hai | ai | tu ai; A1; Grammatik/Präsens/Unregelmäßige Verben; avere: haben
+gp-it-0045; Präsens, er oder sie; avere; ha; lui ha | lei ha | a | lui a | lei a; A1; Grammatik/Präsens/Unregelmäßige Verben; avere: haben
+gp-it-0046; Präsens, wir; avere; abbiamo; noi abbiamo; A1; Grammatik/Präsens/Unregelmäßige Verben; avere: haben
+gp-it-0047; Präsens, ihr; avere; avete; voi avete; A1; Grammatik/Präsens/Unregelmäßige Verben; avere: haben
+gp-it-0048; Präsens, sie (Plural); avere; hanno; loro hanno | anno | loro anno; A1; Grammatik/Präsens/Unregelmäßige Verben; avere: haben
+gp-it-0049; Präsens, ich; andare; vado; io vado; A1; Grammatik/Präsens/Unregelmäßige Verben; andare: gehen, fahren
+gp-it-0050; Präsens, du; andare; vai; tu vai; A1; Grammatik/Präsens/Unregelmäßige Verben; andare: gehen, fahren
+gp-it-0051; Präsens, er oder sie; andare; va; lui va | lei va; A1; Grammatik/Präsens/Unregelmäßige Verben; andare: gehen, fahren
+gp-it-0052; Präsens, wir; andare; andiamo; noi andiamo; A1; Grammatik/Präsens/Unregelmäßige Verben; andare: gehen, fahren
+gp-it-0053; Präsens, ihr; andare; andate; voi andate; A1; Grammatik/Präsens/Unregelmäßige Verben; andare: gehen, fahren
+gp-it-0054; Präsens, sie (Plural); andare; vanno; loro vanno; A1; Grammatik/Präsens/Unregelmäßige Verben; andare: gehen, fahren
+gp-it-0055; Präsens, ich; fare; faccio; io faccio; A1; Grammatik/Präsens/Unregelmäßige Verben; fare: machen, tun
+gp-it-0056; Präsens, du; fare; fai; tu fai; A1; Grammatik/Präsens/Unregelmäßige Verben; fare: machen, tun
+gp-it-0057; Präsens, er oder sie; fare; fa; lui fa | lei fa; A1; Grammatik/Präsens/Unregelmäßige Verben; fare: machen, tun
+gp-it-0058; Präsens, wir; fare; facciamo; noi facciamo; A1; Grammatik/Präsens/Unregelmäßige Verben; fare: machen, tun
+gp-it-0059; Präsens, ihr; fare; fate; voi fate; A1; Grammatik/Präsens/Unregelmäßige Verben; fare: machen, tun
+gp-it-0060; Präsens, sie (Plural); fare; fanno; loro fanno; A1; Grammatik/Präsens/Unregelmäßige Verben; fare: machen, tun
+gp-it-0061; Präsens, ich; stare; sto; io sto; A1; Grammatik/Präsens/Unregelmäßige Verben; stare: bleiben, sich befinden
+gp-it-0062; Präsens, du; stare; stai; tu stai; A1; Grammatik/Präsens/Unregelmäßige Verben; stare: bleiben, sich befinden
+gp-it-0063; Präsens, er oder sie; stare; sta; lui sta | lei sta; A1; Grammatik/Präsens/Unregelmäßige Verben; stare: bleiben, sich befinden
+gp-it-0064; Präsens, wir; stare; stiamo; noi stiamo; A1; Grammatik/Präsens/Unregelmäßige Verben; stare: bleiben, sich befinden
+gp-it-0065; Präsens, ihr; stare; state; voi state; A1; Grammatik/Präsens/Unregelmäßige Verben; stare: bleiben, sich befinden
+gp-it-0066; Präsens, sie (Plural); stare; stanno; loro stanno; A1; Grammatik/Präsens/Unregelmäßige Verben; stare: bleiben, sich befinden
+gp-it-0067; Präsens, ich; dare; do; io do; A1; Grammatik/Präsens/Unregelmäßige Verben; dare: geben
+gp-it-0068; Präsens, du; dare; dai; tu dai; A1; Grammatik/Präsens/Unregelmäßige Verben; dare: geben
+gp-it-0069; Präsens, er oder sie; dare; dà; lui dà | lei dà; A1; Grammatik/Präsens/Unregelmäßige Verben; dare: geben
+gp-it-0070; Präsens, wir; dare; diamo; noi diamo; A1; Grammatik/Präsens/Unregelmäßige Verben; dare: geben
+gp-it-0071; Präsens, ihr; dare; date; voi date; A1; Grammatik/Präsens/Unregelmäßige Verben; dare: geben
+gp-it-0072; Präsens, sie (Plural); dare; danno; loro danno; A1; Grammatik/Präsens/Unregelmäßige Verben; dare: geben
+gp-it-0073; Präsens, ich; dire; dico; io dico; A1; Grammatik/Präsens/Unregelmäßige Verben; dire: sagen
+gp-it-0074; Präsens, du; dire; dici; tu dici; A1; Grammatik/Präsens/Unregelmäßige Verben; dire: sagen
+gp-it-0075; Präsens, er oder sie; dire; dice; lui dice | lei dice; A1; Grammatik/Präsens/Unregelmäßige Verben; dire: sagen
+gp-it-0076; Präsens, wir; dire; diciamo; noi diciamo; A1; Grammatik/Präsens/Unregelmäßige Verben; dire: sagen
+gp-it-0077; Präsens, ihr; dire; dite; voi dite; A1; Grammatik/Präsens/Unregelmäßige Verben; dire: sagen
+gp-it-0078; Präsens, sie (Plural); dire; dicono; loro dicono; A1; Grammatik/Präsens/Unregelmäßige Verben; dire: sagen
+gp-it-0079; Präsens, ich; venire; vengo; io vengo; A1; Grammatik/Präsens/Unregelmäßige Verben; venire: kommen
+gp-it-0080; Präsens, du; venire; vieni; tu vieni; A1; Grammatik/Präsens/Unregelmäßige Verben; venire: kommen
+gp-it-0081; Präsens, er oder sie; venire; viene; lui viene | lei viene; A1; Grammatik/Präsens/Unregelmäßige Verben; venire: kommen
+gp-it-0082; Präsens, wir; venire; veniamo; noi veniamo; A1; Grammatik/Präsens/Unregelmäßige Verben; venire: kommen
+gp-it-0083; Präsens, ihr; venire; venite; voi venite; A1; Grammatik/Präsens/Unregelmäßige Verben; venire: kommen
+gp-it-0084; Präsens, sie (Plural); venire; vengono; loro vengono; A1; Grammatik/Präsens/Unregelmäßige Verben; venire: kommen
+gp-it-0085; Präsens, ich; potere; posso; io posso; A1; Grammatik/Präsens/Unregelmäßige Verben; potere: können
+gp-it-0086; Präsens, du; potere; puoi; tu puoi; A1; Grammatik/Präsens/Unregelmäßige Verben; potere: können
+gp-it-0087; Präsens, er oder sie; potere; può; lui può | lei può; A1; Grammatik/Präsens/Unregelmäßige Verben; potere: können
+gp-it-0088; Präsens, wir; potere; possiamo; noi possiamo; A1; Grammatik/Präsens/Unregelmäßige Verben; potere: können
+gp-it-0089; Präsens, ihr; potere; potete; voi potete; A1; Grammatik/Präsens/Unregelmäßige Verben; potere: können
+gp-it-0090; Präsens, sie (Plural); potere; possono; loro possono; A1; Grammatik/Präsens/Unregelmäßige Verben; potere: können
+gp-it-0091; Präsens, ich; volere; voglio; io voglio; A1; Grammatik/Präsens/Unregelmäßige Verben; volere: wollen
+gp-it-0092; Präsens, du; volere; vuoi; tu vuoi; A1; Grammatik/Präsens/Unregelmäßige Verben; volere: wollen
+gp-it-0093; Präsens, er oder sie; volere; vuole; lui vuole | lei vuole; A1; Grammatik/Präsens/Unregelmäßige Verben; volere: wollen
+gp-it-0094; Präsens, wir; volere; vogliamo; noi vogliamo; A1; Grammatik/Präsens/Unregelmäßige Verben; volere: wollen
+gp-it-0095; Präsens, ihr; volere; volete; voi volete; A1; Grammatik/Präsens/Unregelmäßige Verben; volere: wollen
+gp-it-0096; Präsens, sie (Plural); volere; vogliono; loro vogliono; A1; Grammatik/Präsens/Unregelmäßige Verben; volere: wollen
+gp-it-0097; Präsens, ich; dovere; devo; io devo; A1; Grammatik/Präsens/Unregelmäßige Verben; dovere: müssen
+gp-it-0098; Präsens, du; dovere; devi; tu devi; A1; Grammatik/Präsens/Unregelmäßige Verben; dovere: müssen
+gp-it-0099; Präsens, er oder sie; dovere; deve; lui deve | lei deve; A1; Grammatik/Präsens/Unregelmäßige Verben; dovere: müssen
+gp-it-0100; Präsens, wir; dovere; dobbiamo; noi dobbiamo; A1; Grammatik/Präsens/Unregelmäßige Verben; dovere: müssen
+gp-it-0101; Präsens, ihr; dovere; dovete; voi dovete; A1; Grammatik/Präsens/Unregelmäßige Verben; dovere: müssen
+gp-it-0102; Präsens, sie (Plural); dovere; devono; loro devono; A1; Grammatik/Präsens/Unregelmäßige Verben; dovere: müssen
+gp-it-0103; Präsens, ich; sapere; so; io so; A1; Grammatik/Präsens/Unregelmäßige Verben; sapere: wissen
+gp-it-0104; Präsens, du; sapere; sai; tu sai; A1; Grammatik/Präsens/Unregelmäßige Verben; sapere: wissen
+gp-it-0105; Präsens, er oder sie; sapere; sa; lui sa | lei sa; A1; Grammatik/Präsens/Unregelmäßige Verben; sapere: wissen
+gp-it-0106; Präsens, wir; sapere; sappiamo; noi sappiamo; A1; Grammatik/Präsens/Unregelmäßige Verben; sapere: wissen
+gp-it-0107; Präsens, ihr; sapere; sapete; voi sapete; A1; Grammatik/Präsens/Unregelmäßige Verben; sapere: wissen
+gp-it-0108; Präsens, sie (Plural); sapere; sanno; loro sanno; A1; Grammatik/Präsens/Unregelmäßige Verben; sapere: wissen
+gp-it-0109; Präsens, ich; uscire; esco; io esco; A1; Grammatik/Präsens/Unregelmäßige Verben; uscire: ausgehen
+gp-it-0110; Präsens, du; uscire; esci; tu esci; A1; Grammatik/Präsens/Unregelmäßige Verben; uscire: ausgehen
+gp-it-0111; Präsens, er oder sie; uscire; esce; lui esce | lei esce; A1; Grammatik/Präsens/Unregelmäßige Verben; uscire: ausgehen
+gp-it-0112; Präsens, wir; uscire; usciamo; noi usciamo; A1; Grammatik/Präsens/Unregelmäßige Verben; uscire: ausgehen
+gp-it-0113; Präsens, ihr; uscire; uscite; voi uscite; A1; Grammatik/Präsens/Unregelmäßige Verben; uscire: ausgehen
+gp-it-0114; Präsens, sie (Plural); uscire; escono; loro escono; A1; Grammatik/Präsens/Unregelmäßige Verben; uscire: ausgehen
+gp-it-0115; Präsens, ich; bere; bevo; io bevo; A1; Grammatik/Präsens/Unregelmäßige Verben; bere: trinken
+gp-it-0116; Präsens, du; bere; bevi; tu bevi; A1; Grammatik/Präsens/Unregelmäßige Verben; bere: trinken
+gp-it-0117; Präsens, er oder sie; bere; beve; lui beve | lei beve; A1; Grammatik/Präsens/Unregelmäßige Verben; bere: trinken
+gp-it-0118; Präsens, wir; bere; beviamo; noi beviamo; A1; Grammatik/Präsens/Unregelmäßige Verben; bere: trinken
+gp-it-0119; Präsens, ihr; bere; bevete; voi bevete; A1; Grammatik/Präsens/Unregelmäßige Verben; bere: trinken
+gp-it-0120; Präsens, sie (Plural); bere; bevono; loro bevono; A1; Grammatik/Präsens/Unregelmäßige Verben; bere: trinken
+gp-it-0121; Präsens, ich; rimanere; rimango; io rimango; A1; Grammatik/Präsens/Unregelmäßige Verben; rimanere: bleiben
+gp-it-0122; Präsens, du; rimanere; rimani; tu rimani; A1; Grammatik/Präsens/Unregelmäßige Verben; rimanere: bleiben
+gp-it-0123; Präsens, er oder sie; rimanere; rimane; lui rimane | lei rimane; A1; Grammatik/Präsens/Unregelmäßige Verben; rimanere: bleiben
+gp-it-0124; Präsens, wir; rimanere; rimaniamo; noi rimaniamo; A1; Grammatik/Präsens/Unregelmäßige Verben; rimanere: bleiben
+gp-it-0125; Präsens, ihr; rimanere; rimanete; voi rimanete; A1; Grammatik/Präsens/Unregelmäßige Verben; rimanere: bleiben
+gp-it-0126; Präsens, sie (Plural); rimanere; rimangono; loro rimangono; A1; Grammatik/Präsens/Unregelmäßige Verben; rimanere: bleiben
+gp-it-0127; Präsens, ich; tenere; tengo; io tengo; A1; Grammatik/Präsens/Unregelmäßige Verben; tenere: halten
+gp-it-0128; Präsens, du; tenere; tieni; tu tieni; A1; Grammatik/Präsens/Unregelmäßige Verben; tenere: halten
+gp-it-0129; Präsens, er oder sie; tenere; tiene; lui tiene | lei tiene; A1; Grammatik/Präsens/Unregelmäßige Verben; tenere: halten
+gp-it-0130; Präsens, wir; tenere; teniamo; noi teniamo; A1; Grammatik/Präsens/Unregelmäßige Verben; tenere: halten
+gp-it-0131; Präsens, ihr; tenere; tenete; voi tenete; A1; Grammatik/Präsens/Unregelmäßige Verben; tenere: halten
+gp-it-0132; Präsens, sie (Plural); tenere; tengono; loro tengono; A1; Grammatik/Präsens/Unregelmäßige Verben; tenere: halten

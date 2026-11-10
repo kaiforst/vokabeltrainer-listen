@@ -1,0 +1,33 @@
+# Deutschland: Bundesländer und Landeshauptstädte, in beide Richtungen.
+id; Frage; Antwort; Weitere Antworten; Niveau; Themen; Hinweis
+bl-0001; Wie viele Bundesländer hat Deutschland?; 16; sechzehn; ; Erdkunde/Deutschland/Bundesländer; 
+bl-0002; Landeshauptstadt von Baden-Württemberg?; Stuttgart; ; ; Erdkunde/Deutschland/Bundesländer; 
+bl-0003; Landeshauptstadt von Bayern?; München; ; ; Erdkunde/Deutschland/Bundesländer; 
+bl-0004; Landeshauptstadt von Berlin?; Berlin; ; ; Erdkunde/Deutschland/Bundesländer; Ein Stadtstaat: Land und Stadt sind dasselbe.
+bl-0005; Landeshauptstadt von Brandenburg?; Potsdam; ; ; Erdkunde/Deutschland/Bundesländer; 
+bl-0006; Landeshauptstadt von Bremen?; Bremen; ; ; Erdkunde/Deutschland/Bundesländer; Zum Land Bremen gehört auch Bremerhaven.
+bl-0007; Landeshauptstadt von Hamburg?; Hamburg; ; ; Erdkunde/Deutschland/Bundesländer; Ein Stadtstaat: Land und Stadt sind dasselbe.
+bl-0008; Landeshauptstadt von Hessen?; Wiesbaden; ; ; Erdkunde/Deutschland/Bundesländer; 
+bl-0009; Landeshauptstadt von Mecklenburg-Vorpommern?; Schwerin; ; ; Erdkunde/Deutschland/Bundesländer; 
+bl-0010; Landeshauptstadt von Niedersachsen?; Hannover; ; ; Erdkunde/Deutschland/Bundesländer; 
+bl-0011; Landeshauptstadt von Nordrhein-Westfalen?; Düsseldorf; ; ; Erdkunde/Deutschland/Bundesländer; 
+bl-0012; Landeshauptstadt von Rheinland-Pfalz?; Mainz; ; ; Erdkunde/Deutschland/Bundesländer; 
+bl-0013; Landeshauptstadt des Saarlands?; Saarbrücken; ; ; Erdkunde/Deutschland/Bundesländer; 
+bl-0014; Landeshauptstadt von Sachsen?; Dresden; ; ; Erdkunde/Deutschland/Bundesländer; 
+bl-0015; Landeshauptstadt von Sachsen-Anhalt?; Magdeburg; ; ; Erdkunde/Deutschland/Bundesländer; 
+bl-0016; Landeshauptstadt von Schleswig-Holstein?; Kiel; ; ; Erdkunde/Deutschland/Bundesländer; 
+bl-0017; Landeshauptstadt von Thüringen?; Erfurt; ; ; Erdkunde/Deutschland/Bundesländer; 
+bl-0018; Zu welchem Bundesland gehört die Landeshauptstadt Stuttgart?; Baden-Württemberg; ; ; Erdkunde/Deutschland/Bundesländer; 
+bl-0019; Zu welchem Bundesland gehört die Landeshauptstadt München?; Bayern; ; ; Erdkunde/Deutschland/Bundesländer; 
+bl-0020; Zu welchem Bundesland gehört die Landeshauptstadt Potsdam?; Brandenburg; ; ; Erdkunde/Deutschland/Bundesländer; 
+bl-0021; Zu welchem Bundesland gehört die Landeshauptstadt Wiesbaden?; Hessen; ; ; Erdkunde/Deutschland/Bundesländer; 
+bl-0022; Zu welchem Bundesland gehört die Landeshauptstadt Schwerin?; Mecklenburg-Vorpommern; ; ; Erdkunde/Deutschland/Bundesländer; 
+bl-0023; Zu welchem Bundesland gehört die Landeshauptstadt Hannover?; Niedersachsen; ; ; Erdkunde/Deutschland/Bundesländer; 
+bl-0024; Zu welchem Bundesland gehört die Landeshauptstadt Düsseldorf?; Nordrhein-Westfalen; ; ; Erdkunde/Deutschland/Bundesländer; 
+bl-0025; Zu welchem Bundesland gehört die Landeshauptstadt Mainz?; Rheinland-Pfalz; ; ; Erdkunde/Deutschland/Bundesländer; 
+bl-0026; Zu welchem Bundesland gehört die Landeshauptstadt Saarbrücken?; Saarland; ; ; Erdkunde/Deutschland/Bundesländer; 
+bl-0027; Zu welchem Bundesland gehört die Landeshauptstadt Dresden?; Sachsen; ; ; Erdkunde/Deutschland/Bundesländer; 
+bl-0028; Zu welchem Bundesland gehört die Landeshauptstadt Magdeburg?; Sachsen-Anhalt; ; ; Erdkunde/Deutschland/Bundesländer; 
+bl-0029; Zu welchem Bundesland gehört die Landeshauptstadt Kiel?; Schleswig-Holstein; ; ; Erdkunde/Deutschland/Bundesländer; 
+bl-0030; Zu welchem Bundesland gehört die Landeshauptstadt Erfurt?; Thüringen; ; ; Erdkunde/Deutschland/Bundesländer; 
+bl-0031; Welche drei Bundesländer sind Stadtstaaten?; Berlin, Hamburg und Bremen; Berlin, Hamburg, Bremen | Berlin Bremen Hamburg | Berlin, Bremen und Hamburg | Hamburg, Berlin und Bremen | Bremen, Berlin und Hamburg | Hamburg, Bremen und Berlin | Bremen, Hamburg und Berlin; ; Erdkunde/Deutschland/Bundesländer; Berlin, Hamburg und Bremen sind Stadt und Bundesland zugleich.

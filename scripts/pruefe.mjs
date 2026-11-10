@@ -204,9 +204,52 @@ if (existsSync(formenDir)) {
   }
 }
 
+// ---------- Karten (Wissen, Grammatik) ----------
+// Kopfzeile, Pflichtfelder, eindeutige IDs, count; Kartenlisten zeigen nur auf vorhandene Karten oder Wörter
+let karten = 0;
+const kartenIds = new Set();
+for (const q of katalog.cards ?? []) {
+  const pfad = join(ROOT, q.file);
+  if (!existsSync(pfad)) {
+    err("katalog.json", `Datei ${q.file} fehlt`);
+    continue;
+  }
+  let kopf = null;
+  let n = 0;
+  readFileSync(pfad, "utf8").split(/\r?\n/).forEach((roh, i) => {
+    const zeile = roh.trim();
+    const ort = `${q.file}:${i + 1}`;
+    if (!zeile || zeile.startsWith("#")) return;
+    const f = zeile.split(";").map((x) => x.trim());
+    if (!kopf) {
+      kopf = f.map((x) => x.toLowerCase());
+      for (const pflicht of ["id", "antwort"]) if (!kopf.includes(pflicht)) err(ort, `Spalte „${pflicht}“ fehlt in der Kopfzeile`);
+      if (!kopf.includes("frage") && !kopf.includes("angabe")) err(ort, "Spalte „Frage“ oder „Angabe“ fehlt in der Kopfzeile");
+      return;
+    }
+    const feld = (name) => f[kopf.indexOf(name)] ?? "";
+    const id = feld("id");
+    if (!/^[a-z]{2}(-[a-z]{2})?-\d{4}$/.test(id)) err(ort, `ungültige id „${id}“`);
+    if (kartenIds.has(id) || ids.has(id)) err(ort, `id ${id} doppelt`);
+    kartenIds.add(id);
+    if (!(feld("frage") || feld("angabe"))) err(ort, "Frage fehlt");
+    if (!feld("antwort")) err(ort, "Antwort fehlt");
+    if (q.kind === "form" && !feld("stichwort")) err(ort, "Stichwort fehlt");
+    if (feld("niveau") && !LEVELS.has(feld("niveau"))) err(ort, `Niveau „${feld("niveau")}“`);
+    n++;
+  });
+  if (n !== q.count) err("katalog.json", `${q.file}: count ${q.count}, in der Datei ${n}`);
+  karten += n;
+}
+for (const l of katalog.cardLists ?? []) {
+  const fehlend = (l.ids ?? []).filter((id) => !kartenIds.has(id) && !ids.has(id));
+  if (fehlend.length) err("katalog.json", `Liste ${l.id}: ${fehlend.length} unbekannte IDs (${fehlend.slice(0, 3).join(", ")} …)`);
+  if (l.count !== (l.ids ?? []).length) err("katalog.json", `Liste ${l.id}: count ${l.count}, IDs ${(l.ids ?? []).length}`);
+}
+
 console.log(
   `\n${dateien.length} Wortdateien, ${woerter} Wörter, ${mehrfach.length} Wortpaare in mehreren Dateien` +
     (nurDateien.length ? `, davon ${neueDubletten} in den geprüften Dateien` : "") +
-    `${formen ? `, ${formen} Formen` : ""}. ${fehler} Fehler, ${hinweise} Hinweise.`,
+    `${formen ? `, ${formen} Formen` : ""}${karten ? `, ${karten} Karten` : ""}. ${fehler} Fehler, ${hinweise} Hinweise.`,
 );
 process.exit(fehler ? 1 : 0);

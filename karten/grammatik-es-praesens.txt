@@ -1,0 +1,159 @@
+# Spanisch: Präsens. Die App nennt Person und Verb, gefragt ist die Form; mit Personalpronomen zählt sie auch.
+# Sprache: es
+id; Angabe; Stichwort; Antwort; Weitere Antworten; Niveau; Themen; Hinweis
+gp-es-0001; Präsens, ich; hablar; hablo; yo hablo; A1; Grammatik/Präsens/Regelmäßige Verben; hablar: sprechen
+gp-es-0002; Präsens, du; hablar; hablas; tú hablas; A1; Grammatik/Präsens/Regelmäßige Verben; hablar: sprechen
+gp-es-0003; Präsens, er oder sie; hablar; habla; él habla | ella habla | usted habla; A1; Grammatik/Präsens/Regelmäßige Verben; hablar: sprechen
+gp-es-0004; Präsens, wir; hablar; hablamos; nosotros hablamos | nosotras hablamos; A1; Grammatik/Präsens/Regelmäßige Verben; hablar: sprechen
+gp-es-0005; Präsens, ihr; hablar; habláis; vosotros habláis | vosotras habláis; A1; Grammatik/Präsens/Regelmäßige Verben; hablar: sprechen
+gp-es-0006; Präsens, sie (Plural); hablar; hablan; ellos hablan | ellas hablan | ustedes hablan; A1; Grammatik/Präsens/Regelmäßige Verben; hablar: sprechen
+gp-es-0007; Präsens, ich; trabajar; trabajo; yo trabajo; A1; Grammatik/Präsens/Regelmäßige Verben; trabajar: arbeiten
+gp-es-0008; Präsens, du; trabajar; trabajas; tú trabajas; A1; Grammatik/Präsens/Regelmäßige Verben; trabajar: arbeiten
+gp-es-0009; Präsens, er oder sie; trabajar; trabaja; él trabaja | ella trabaja | usted trabaja; A1; Grammatik/Präsens/Regelmäßige Verben; trabajar: arbeiten
+gp-es-0010; Präsens, wir; trabajar; trabajamos; nosotros trabajamos | nosotras trabajamos; A1; Grammatik/Präsens/Regelmäßige Verben; trabajar: arbeiten
+gp-es-0011; Präsens, ihr; trabajar; trabajáis; vosotros trabajáis | vosotras trabajáis; A1; Grammatik/Präsens/Regelmäßige Verben; trabajar: arbeiten
+gp-es-0012; Präsens, sie (Plural); trabajar; trabajan; ellos trabajan | ellas trabajan | ustedes trabajan; A1; Grammatik/Präsens/Regelmäßige Verben; trabajar: arbeiten
+gp-es-0013; Präsens, ich; comer; como; yo como; A1; Grammatik/Präsens/Regelmäßige Verben; comer: essen
+gp-es-0014; Präsens, du; comer; comes; tú comes; A1; Grammatik/Präsens/Regelmäßige Verben; comer: essen
+gp-es-0015; Präsens, er oder sie; comer; come; él come | ella come | usted come; A1; Grammatik/Präsens/Regelmäßige Verben; comer: essen
+gp-es-0016; Präsens, wir; comer; comemos; nosotros comemos | nosotras comemos; A1; Grammatik/Präsens/Regelmäßige Verben; comer: essen
+gp-es-0017; Präsens, ihr; comer; coméis; vosotros coméis | vosotras coméis; A1; Grammatik/Präsens/Regelmäßige Verben; comer: essen
+gp-es-0018; Präsens, sie (Plural); comer; comen; ellos comen | ellas comen | ustedes comen; A1; Grammatik/Präsens/Regelmäßige Verben; comer: essen
+gp-es-0019; Präsens, ich; aprender; aprendo; yo aprendo; A1; Grammatik/Präsens/Regelmäßige Verben; aprender: lernen
+gp-es-0020; Präsens, du; aprender; aprendes; tú aprendes; A1; Grammatik/Präsens/Regelmäßige Verben; aprender: lernen
+gp-es-0021; Präsens, er oder sie; aprender; aprende; él aprende | ella aprende | usted aprende; A1; Grammatik/Präsens/Regelmäßige Verben; aprender: lernen
+gp-es-0022; Präsens, wir; aprender; aprendemos; nosotros aprendemos | nosotras aprendemos; A1; Grammatik/Präsens/Regelmäßige Verben; aprender: lernen
+gp-es-0023; Präsens, ihr; aprender; aprendéis; vosotros aprendéis | vosotras aprendéis; A1; Grammatik/Präsens/Regelmäßige Verben; aprender: lernen
+gp-es-0024; Präsens, sie (Plural); aprender; aprenden; ellos aprenden | ellas aprenden | ustedes aprenden; A1; Grammatik/Präsens/Regelmäßige Verben; aprender: lernen
+gp-es-0025; Präsens, ich; vivir; vivo; yo vivo; A1; Grammatik/Präsens/Regelmäßige Verben; vivir: leben, wohnen
+gp-es-0026; Präsens, du; vivir; vives; tú vives; A1; Grammatik/Präsens/Regelmäßige Verben; vivir: leben, wohnen
+gp-es-0027; Präsens, er oder sie; vivir; vive; él vive | ella vive | usted vive; A1; Grammatik/Präsens/Regelmäßige Verben; vivir: leben, wohnen
+gp-es-0028; Präsens, wir; vivir; vivimos; nosotros vivimos | nosotras vivimos; A1; Grammatik/Präsens/Regelmäßige Verben; vivir: leben, wohnen
+gp-es-0029; Präsens, ihr; vivir; vivís; vosotros vivís | vosotras vivís; A1; Grammatik/Präsens/Regelmäßige Verben; vivir: leben, wohnen
+gp-es-0030; Präsens, sie (Plural); vivir; viven; ellos viven | ellas viven | ustedes viven; A1; Grammatik/Präsens/Regelmäßige Verben; vivir: leben, wohnen
+gp-es-0031; Präsens, ich; escribir; escribo; yo escribo; A1; Grammatik/Präsens/Regelmäßige Verben; escribir: schreiben
+gp-es-0032; Präsens, du; escribir; escribes; tú escribes; A1; Grammatik/Präsens/Regelmäßige Verben; escribir: schreiben
+gp-es-0033; Präsens, er oder sie; escribir; escribe; él escribe | ella escribe | usted escribe; A1; Grammatik/Präsens/Regelmäßige Verben; escribir: schreiben
+gp-es-0034; Präsens, wir; escribir; escribimos; nosotros escribimos | nosotras escribimos; A1; Grammatik/Präsens/Regelmäßige Verben; escribir: schreiben
+gp-es-0035; Präsens, ihr; escribir; escribís; vosotros escribís | vosotras escribís; A1; Grammatik/Präsens/Regelmäßige Verben; escribir: schreiben
+gp-es-0036; Präsens, sie (Plural); escribir; escriben; ellos escriben | ellas escriben | ustedes escriben; A1; Grammatik/Präsens/Regelmäßige Verben; escribir: schreiben
+gp-es-0037; Präsens, ich; ser; soy; yo soy; A1; Grammatik/Präsens/Unregelmäßige Verben; ser: sein
+gp-es-0038; Präsens, du; ser; eres; tú eres; A1; Grammatik/Präsens/Unregelmäßige Verben; ser: sein
+gp-es-0039; Präsens, er oder sie; ser; es; él es | ella es | usted es; A1; Grammatik/Präsens/Unregelmäßige Verben; ser: sein
+gp-es-0040; Präsens, wir; ser; somos; nosotros somos | nosotras somos; A1; Grammatik/Präsens/Unregelmäßige Verben; ser: sein
+gp-es-0041; Präsens, ihr; ser; sois; vosotros sois | vosotras sois; A1; Grammatik/Präsens/Unregelmäßige Verben; ser: sein
+gp-es-0042; Präsens, sie (Plural); ser; son; ellos son | ellas son | ustedes son; A1; Grammatik/Präsens/Unregelmäßige Verben; ser: sein
+gp-es-0043; Präsens, ich; estar; estoy; yo estoy; A1; Grammatik/Präsens/Unregelmäßige Verben; estar: sein, sich befinden
+gp-es-0044; Präsens, du; estar; estás; tú estás; A1; Grammatik/Präsens/Unregelmäßige Verben; estar: sein, sich befinden
+gp-es-0045; Präsens, er oder sie; estar; está; él está | ella está | usted está; A1; Grammatik/Präsens/Unregelmäßige Verben; estar: sein, sich befinden
+gp-es-0046; Präsens, wir; estar; estamos; nosotros estamos | nosotras estamos; A1; Grammatik/Präsens/Unregelmäßige Verben; estar: sein, sich befinden
+gp-es-0047; Präsens, ihr; estar; estáis; vosotros estáis | vosotras estáis; A1; Grammatik/Präsens/Unregelmäßige Verben; estar: sein, sich befinden
+gp-es-0048; Präsens, sie (Plural); estar; están; ellos están | ellas están | ustedes están; A1; Grammatik/Präsens/Unregelmäßige Verben; estar: sein, sich befinden
+gp-es-0049; Präsens, ich; tener; tengo; yo tengo; A1; Grammatik/Präsens/Unregelmäßige Verben; tener: haben
+gp-es-0050; Präsens, du; tener; tienes; tú tienes; A1; Grammatik/Präsens/Unregelmäßige Verben; tener: haben
+gp-es-0051; Präsens, er oder sie; tener; tiene; él tiene | ella tiene | usted tiene; A1; Grammatik/Präsens/Unregelmäßige Verben; tener: haben
+gp-es-0052; Präsens, wir; tener; tenemos; nosotros tenemos | nosotras tenemos; A1; Grammatik/Präsens/Unregelmäßige Verben; tener: haben
+gp-es-0053; Präsens, ihr; tener; tenéis; vosotros tenéis | vosotras tenéis; A1; Grammatik/Präsens/Unregelmäßige Verben; tener: haben
+gp-es-0054; Präsens, sie (Plural); tener; tienen; ellos tienen | ellas tienen | ustedes tienen; A1; Grammatik/Präsens/Unregelmäßige Verben; tener: haben
+gp-es-0055; Präsens, ich; ir; voy; yo voy; A1; Grammatik/Präsens/Unregelmäßige Verben; ir: gehen, fahren
+gp-es-0056; Präsens, du; ir; vas; tú vas; A1; Grammatik/Präsens/Unregelmäßige Verben; ir: gehen, fahren
+gp-es-0057; Präsens, er oder sie; ir; va; él va | ella va | usted va; A1; Grammatik/Präsens/Unregelmäßige Verben; ir: gehen, fahren
+gp-es-0058; Präsens, wir; ir; vamos; nosotros vamos | nosotras vamos; A1; Grammatik/Präsens/Unregelmäßige Verben; ir: gehen, fahren
+gp-es-0059; Präsens, ihr; ir; vais; vosotros vais | vosotras vais; A1; Grammatik/Präsens/Unregelmäßige Verben; ir: gehen, fahren
+gp-es-0060; Präsens, sie (Plural); ir; van; ellos van | ellas van | ustedes van; A1; Grammatik/Präsens/Unregelmäßige Verben; ir: gehen, fahren
+gp-es-0061; Präsens, ich; hacer; hago; yo hago; A1; Grammatik/Präsens/Unregelmäßige Verben; hacer: machen, tun
+gp-es-0062; Präsens, du; hacer; haces; tú haces; A1; Grammatik/Präsens/Unregelmäßige Verben; hacer: machen, tun
+gp-es-0063; Präsens, er oder sie; hacer; hace; él hace | ella hace | usted hace; A1; Grammatik/Präsens/Unregelmäßige Verben; hacer: machen, tun
+gp-es-0064; Präsens, wir; hacer; hacemos; nosotros hacemos | nosotras hacemos; A1; Grammatik/Präsens/Unregelmäßige Verben; hacer: machen, tun
+gp-es-0065; Präsens, ihr; hacer; hacéis; vosotros hacéis | vosotras hacéis; A1; Grammatik/Präsens/Unregelmäßige Verben; hacer: machen, tun
+gp-es-0066; Präsens, sie (Plural); hacer; hacen; ellos hacen | ellas hacen | ustedes hacen; A1; Grammatik/Präsens/Unregelmäßige Verben; hacer: machen, tun
+gp-es-0067; Präsens, ich; poder; puedo; yo puedo; A1; Grammatik/Präsens/Unregelmäßige Verben; poder: können
+gp-es-0068; Präsens, du; poder; puedes; tú puedes; A1; Grammatik/Präsens/Unregelmäßige Verben; poder: können
+gp-es-0069; Präsens, er oder sie; poder; puede; él puede | ella puede | usted puede; A1; Grammatik/Präsens/Unregelmäßige Verben; poder: können
+gp-es-0070; Präsens, wir; poder; podemos; nosotros podemos | nosotras podemos; A1; Grammatik/Präsens/Unregelmäßige Verben; poder: können
+gp-es-0071; Präsens, ihr; poder; podéis; vosotros podéis | vosotras podéis; A1; Grammatik/Präsens/Unregelmäßige Verben; poder: können
+gp-es-0072; Präsens, sie (Plural); poder; pueden; ellos pueden | ellas pueden | ustedes pueden; A1; Grammatik/Präsens/Unregelmäßige Verben; poder: können
+gp-es-0073; Präsens, ich; querer; quiero; yo quiero; A1; Grammatik/Präsens/Unregelmäßige Verben; querer: wollen, mögen
+gp-es-0074; Präsens, du; querer; quieres; tú quieres; A1; Grammatik/Präsens/Unregelmäßige Verben; querer: wollen, mögen
+gp-es-0075; Präsens, er oder sie; querer; quiere; él quiere | ella quiere | usted quiere; A1; Grammatik/Präsens/Unregelmäßige Verben; querer: wollen, mögen
+gp-es-0076; Präsens, wir; querer; queremos; nosotros queremos | nosotras queremos; A1; Grammatik/Präsens/Unregelmäßige Verben; querer: wollen, mögen
+gp-es-0077; Präsens, ihr; querer; queréis; vosotros queréis | vosotras queréis; A1; Grammatik/Präsens/Unregelmäßige Verben; querer: wollen, mögen
+gp-es-0078; Präsens, sie (Plural); querer; quieren; ellos quieren | ellas quieren | ustedes quieren; A1; Grammatik/Präsens/Unregelmäßige Verben; querer: wollen, mögen
+gp-es-0079; Präsens, ich; decir; digo; yo digo; A1; Grammatik/Präsens/Unregelmäßige Verben; decir: sagen
+gp-es-0080; Präsens, du; decir; dices; tú dices; A1; Grammatik/Präsens/Unregelmäßige Verben; decir: sagen
+gp-es-0081; Präsens, er oder sie; decir; dice; él dice | ella dice | usted dice; A1; Grammatik/Präsens/Unregelmäßige Verben; decir: sagen
+gp-es-0082; Präsens, wir; decir; decimos; nosotros decimos | nosotras decimos; A1; Grammatik/Präsens/Unregelmäßige Verben; decir: sagen
+gp-es-0083; Präsens, ihr; decir; decís; vosotros decís | vosotras decís; A1; Grammatik/Präsens/Unregelmäßige Verben; decir: sagen
+gp-es-0084; Präsens, sie (Plural); decir; dicen; ellos dicen | ellas dicen | ustedes dicen; A1; Grammatik/Präsens/Unregelmäßige Verben; decir: sagen
+gp-es-0085; Präsens, ich; venir; vengo; yo vengo; A1; Grammatik/Präsens/Unregelmäßige Verben; venir: kommen
+gp-es-0086; Präsens, du; venir; vienes; tú vienes; A1; Grammatik/Präsens/Unregelmäßige Verben; venir: kommen
+gp-es-0087; Präsens, er oder sie; venir; viene; él viene | ella viene | usted viene; A1; Grammatik/Präsens/Unregelmäßige Verben; venir: kommen
+gp-es-0088; Präsens, wir; venir; venimos; nosotros venimos | nosotras venimos; A1; Grammatik/Präsens/Unregelmäßige Verben; venir: kommen
+gp-es-0089; Präsens, ihr; venir; venís; vosotros venís | vosotras venís; A1; Grammatik/Präsens/Unregelmäßige Verben; venir: kommen
+gp-es-0090; Präsens, sie (Plural); venir; vienen; ellos vienen | ellas vienen | ustedes vienen; A1; Grammatik/Präsens/Unregelmäßige Verben; venir: kommen
+gp-es-0091; Präsens, ich; saber; sé; yo sé; A1; Grammatik/Präsens/Unregelmäßige Verben; saber: wissen
+gp-es-0092; Präsens, du; saber; sabes; tú sabes; A1; Grammatik/Präsens/Unregelmäßige Verben; saber: wissen
+gp-es-0093; Präsens, er oder sie; saber; sabe; él sabe | ella sabe | usted sabe; A1; Grammatik/Präsens/Unregelmäßige Verben; saber: wissen
+gp-es-0094; Präsens, wir; saber; sabemos; nosotros sabemos | nosotras sabemos; A1; Grammatik/Präsens/Unregelmäßige Verben; saber: wissen
+gp-es-0095; Präsens, ihr; saber; sabéis; vosotros sabéis | vosotras sabéis; A1; Grammatik/Präsens/Unregelmäßige Verben; saber: wissen
+gp-es-0096; Präsens, sie (Plural); saber; saben; ellos saben | ellas saben | ustedes saben; A1; Grammatik/Präsens/Unregelmäßige Verben; saber: wissen
+gp-es-0097; Präsens, ich; poner; pongo; yo pongo; A1; Grammatik/Präsens/Unregelmäßige Verben; poner: stellen, legen
+gp-es-0098; Präsens, du; poner; pones; tú pones; A1; Grammatik/Präsens/Unregelmäßige Verben; poner: stellen, legen
+gp-es-0099; Präsens, er oder sie; poner; pone; él pone | ella pone | usted pone; A1; Grammatik/Präsens/Unregelmäßige Verben; poner: stellen, legen
+gp-es-0100; Präsens, wir; poner; ponemos; nosotros ponemos | nosotras ponemos; A1; Grammatik/Präsens/Unregelmäßige Verben; poner: stellen, legen
+gp-es-0101; Präsens, ihr; poner; ponéis; vosotros ponéis | vosotras ponéis; A1; Grammatik/Präsens/Unregelmäßige Verben; poner: stellen, legen
+gp-es-0102; Präsens, sie (Plural); poner; ponen; ellos ponen | ellas ponen | ustedes ponen; A1; Grammatik/Präsens/Unregelmäßige Verben; poner: stellen, legen
+gp-es-0103; Präsens, ich; salir; salgo; yo salgo; A1; Grammatik/Präsens/Unregelmäßige Verben; salir: ausgehen
+gp-es-0104; Präsens, du; salir; sales; tú sales; A1; Grammatik/Präsens/Unregelmäßige Verben; salir: ausgehen
+gp-es-0105; Präsens, er oder sie; salir; sale; él sale | ella sale | usted sale; A1; Grammatik/Präsens/Unregelmäßige Verben; salir: ausgehen
+gp-es-0106; Präsens, wir; salir; salimos; nosotros salimos | nosotras salimos; A1; Grammatik/Präsens/Unregelmäßige Verben; salir: ausgehen
+gp-es-0107; Präsens, ihr; salir; salís; vosotros salís | vosotras salís; A1; Grammatik/Präsens/Unregelmäßige Verben; salir: ausgehen
+gp-es-0108; Präsens, sie (Plural); salir; salen; ellos salen | ellas salen | ustedes salen; A1; Grammatik/Präsens/Unregelmäßige Verben; salir: ausgehen
+gp-es-0109; Präsens, ich; ver; veo; yo veo; A1; Grammatik/Präsens/Unregelmäßige Verben; ver: sehen
+gp-es-0110; Präsens, du; ver; ves; tú ves; A1; Grammatik/Präsens/Unregelmäßige Verben; ver: sehen
+gp-es-0111; Präsens, er oder sie; ver; ve; él ve | ella ve | usted ve; A1; Grammatik/Präsens/Unregelmäßige Verben; ver: sehen
+gp-es-0112; Präsens, wir; ver; vemos; nosotros vemos | nosotras vemos; A1; Grammatik/Präsens/Unregelmäßige Verben; ver: sehen
+gp-es-0113; Präsens, ihr; ver; veis; vosotros veis | vosotras veis; A1; Grammatik/Präsens/Unregelmäßige Verben; ver: sehen
+gp-es-0114; Präsens, sie (Plural); ver; ven; ellos ven | ellas ven | ustedes ven; A1; Grammatik/Präsens/Unregelmäßige Verben; ver: sehen
+gp-es-0115; Präsens, ich; dar; doy; yo doy; A1; Grammatik/Präsens/Unregelmäßige Verben; dar: geben
+gp-es-0116; Präsens, du; dar; das; tú das; A1; Grammatik/Präsens/Unregelmäßige Verben; dar: geben
+gp-es-0117; Präsens, er oder sie; dar; da; él da | ella da | usted da; A1; Grammatik/Präsens/Unregelmäßige Verben; dar: geben
+gp-es-0118; Präsens, wir; dar; damos; nosotros damos | nosotras damos; A1; Grammatik/Präsens/Unregelmäßige Verben; dar: geben
+gp-es-0119; Präsens, ihr; dar; dais; vosotros dais | vosotras dais; A1; Grammatik/Präsens/Unregelmäßige Verben; dar: geben
+gp-es-0120; Präsens, sie (Plural); dar; dan; ellos dan | ellas dan | ustedes dan; A1; Grammatik/Präsens/Unregelmäßige Verben; dar: geben
+gp-es-0121; Präsens, ich; conocer; conozco; yo conozco; A1; Grammatik/Präsens/Unregelmäßige Verben; conocer: kennen
+gp-es-0122; Präsens, du; conocer; conoces; tú conoces; A1; Grammatik/Präsens/Unregelmäßige Verben; conocer: kennen
+gp-es-0123; Präsens, er oder sie; conocer; conoce; él conoce | ella conoce | usted conoce; A1; Grammatik/Präsens/Unregelmäßige Verben; conocer: kennen
+gp-es-0124; Präsens, wir; conocer; conocemos; nosotros conocemos | nosotras conocemos; A1; Grammatik/Präsens/Unregelmäßige Verben; conocer: kennen
+gp-es-0125; Präsens, ihr; conocer; conocéis; vosotros conocéis | vosotras conocéis; A1; Grammatik/Präsens/Unregelmäßige Verben; conocer: kennen
+gp-es-0126; Präsens, sie (Plural); conocer; conocen; ellos conocen | ellas conocen | ustedes conocen; A1; Grammatik/Präsens/Unregelmäßige Verben; conocer: kennen
+gp-es-0127; Präsens, ich; pensar; pienso; yo pienso; A1; Grammatik/Präsens/Unregelmäßige Verben; pensar: denken
+gp-es-0128; Präsens, du; pensar; piensas; tú piensas; A1; Grammatik/Präsens/Unregelmäßige Verben; pensar: denken
+gp-es-0129; Präsens, er oder sie; pensar; piensa; él piensa | ella piensa | usted piensa; A1; Grammatik/Präsens/Unregelmäßige Verben; pensar: denken
+gp-es-0130; Präsens, wir; pensar; pensamos; nosotros pensamos | nosotras pensamos; A1; Grammatik/Präsens/Unregelmäßige Verben; pensar: denken
+gp-es-0131; Präsens, ihr; pensar; pensáis; vosotros pensáis | vosotras pensáis; A1; Grammatik/Präsens/Unregelmäßige Verben; pensar: denken
+gp-es-0132; Präsens, sie (Plural); pensar; piensan; ellos piensan | ellas piensan | ustedes piensan; A1; Grammatik/Präsens/Unregelmäßige Verben; pensar: denken
+gp-es-0133; Präsens, ich; volver; vuelvo; yo vuelvo; A1; Grammatik/Präsens/Unregelmäßige Verben; volver: zurückkommen
+gp-es-0134; Präsens, du; volver; vuelves; tú vuelves; A1; Grammatik/Präsens/Unregelmäßige Verben; volver: zurückkommen
+gp-es-0135; Präsens, er oder sie; volver; vuelve; él vuelve | ella vuelve | usted vuelve; A1; Grammatik/Präsens/Unregelmäßige Verben; volver: zurückkommen
+gp-es-0136; Präsens, wir; volver; volvemos; nosotros volvemos | nosotras volvemos; A1; Grammatik/Präsens/Unregelmäßige Verben; volver: zurückkommen
+gp-es-0137; Präsens, ihr; volver; volvéis; vosotros volvéis | vosotras volvéis; A1; Grammatik/Präsens/Unregelmäßige Verben; volver: zurückkommen
+gp-es-0138; Präsens, sie (Plural); volver; vuelven; ellos vuelven | ellas vuelven | ustedes vuelven; A1; Grammatik/Präsens/Unregelmäßige Verben; volver: zurückkommen
+gp-es-0139; Präsens, ich; dormir; duermo; yo duermo; A1; Grammatik/Präsens/Unregelmäßige Verben; dormir: schlafen
+gp-es-0140; Präsens, du; dormir; duermes; tú duermes; A1; Grammatik/Präsens/Unregelmäßige Verben; dormir: schlafen
+gp-es-0141; Präsens, er oder sie; dormir; duerme; él duerme | ella duerme | usted duerme; A1; Grammatik/Präsens/Unregelmäßige Verben; dormir: schlafen
+gp-es-0142; Präsens, wir; dormir; dormimos; nosotros dormimos | nosotras dormimos; A1; Grammatik/Präsens/Unregelmäßige Verben; dormir: schlafen
+gp-es-0143; Präsens, ihr; dormir; dormís; vosotros dormís | vosotras dormís; A1; Grammatik/Präsens/Unregelmäßige Verben; dormir: schlafen
+gp-es-0144; Präsens, sie (Plural); dormir; duermen; ellos duermen | ellas duermen | ustedes duermen; A1; Grammatik/Präsens/Unregelmäßige Verben; dormir: schlafen
+gp-es-0145; Präsens, ich; pedir; pido; yo pido; A1; Grammatik/Präsens/Unregelmäßige Verben; pedir: bitten, bestellen
+gp-es-0146; Präsens, du; pedir; pides; tú pides; A1; Grammatik/Präsens/Unregelmäßige Verben; pedir: bitten, bestellen
+gp-es-0147; Präsens, er oder sie; pedir; pide; él pide | ella pide | usted pide; A1; Grammatik/Präsens/Unregelmäßige Verben; pedir: bitten, bestellen
+gp-es-0148; Präsens, wir; pedir; pedimos; nosotros pedimos | nosotras pedimos; A1; Grammatik/Präsens/Unregelmäßige Verben; pedir: bitten, bestellen
+gp-es-0149; Präsens, ihr; pedir; pedís; vosotros pedís | vosotras pedís; A1; Grammatik/Präsens/Unregelmäßige Verben; pedir: bitten, bestellen
+gp-es-0150; Präsens, sie (Plural); pedir; piden; ellos piden | ellas piden | ustedes piden; A1; Grammatik/Präsens/Unregelmäßige Verben; pedir: bitten, bestellen
+gp-es-0151; Präsens, ich; jugar; juego; yo juego; A1; Grammatik/Präsens/Unregelmäßige Verben; jugar: spielen
+gp-es-0152; Präsens, du; jugar; juegas; tú juegas; A1; Grammatik/Präsens/Unregelmäßige Verben; jugar: spielen
+gp-es-0153; Präsens, er oder sie; jugar; juega; él juega | ella juega | usted juega; A1; Grammatik/Präsens/Unregelmäßige Verben; jugar: spielen
+gp-es-0154; Präsens, wir; jugar; jugamos; nosotros jugamos | nosotras jugamos; A1; Grammatik/Präsens/Unregelmäßige Verben; jugar: spielen
+gp-es-0155; Präsens, ihr; jugar; jugáis; vosotros jugáis | vosotras jugáis; A1; Grammatik/Präsens/Unregelmäßige Verben; jugar: spielen
+gp-es-0156; Präsens, sie (Plural); jugar; juegan; ellos juegan | ellas juegan | ustedes juegan; A1; Grammatik/Präsens/Unregelmäßige Verben; jugar: spielen

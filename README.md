@@ -45,6 +45,13 @@ unter `cardLists` (`"task": "ask"` für Wissen, `"task": "form"` für Grammatik,
 bei denen der Artikel stimmen muss). So lesen ältere App-Stände sie nicht als Vokabeln. IDs: `hs-` Hauptstädte, `bl-`
 Bundesländer, `gv-en-` englische Verben, `gp-es-`/`gp-it-` Präsens. Hauptstädte sind gegen Wikidata (P36) geprüft.
 
+**Quiz (Entwurf):** In `quiz/` stehen Probefragen für das Quiz „Die Wissensleiter“ (Konzept:
+`docs/konzept-quiz.md` im App-Repo), noch nicht in `katalog.json`. Kopfzeile `id; Frage; Antwort; Falsche Antworten;
+Stufe; Klasse; Themen; Hinweis`, genau drei falsche Antworten mit `|` getrennt, Stufe 1–15 (Schwierigkeit), Klasse
+`K1`–`K13` oder leer (nur Erwachsene). IDs `qz-<thema>-0001`. `node scripts/pruefe-quiz.mjs` prüft Format und
+Regeln fürs Hören (keine Verneinung, verschiedene Antworten, Frage und Hinweis verraten die Antwort nicht) und zeigt
+die Verteilung nach Stufe und Klasse. Prüfbericht der Fakten: `quiz/PRUEFUNG.md`.
+
 **Prüfen:** `node scripts/pruefe.mjs` prüft alle Wortdateien (Felder, IDs, Niveaus, Dubletten in einer Datei,
 `count` in `katalog.json`), `aliase.txt` (IDs vorhanden, keine Ketten, gleiches Wortpaar, Dubletten ohne Alias) und
 `formen/*.txt` sowie die Karten. Mit Dateinamen nur diese, mit `--dubletten` zusätzlich alle

@@ -1,0 +1,52 @@
+# Alltag, Zahlen, Gesellschaft, Probefragen 11. 11. 2026
+id; Frage; Antwort; Falsche Antworten; Stufe; Klasse; Themen; Hinweis
+qz-al-0001; Wie viele Tage hat eine Woche?; 7; 5 | 10 | 12; 1; K2; Alltag/Kalender; Zähl von Montag bis Sonntag.
+qz-al-0002; Wie viel ist drei mal vier?; 12; 7 | 9 | 16; 1; K2; Alltag/Kopfrechnen; Es sind so viele wie Monate im Jahr.
+qz-al-0003; Bei welcher Ampelfarbe müssen Autos anhalten?; Rot; Grün | Blau | Weiß; 1; K2; Alltag/Verkehr; Es ist das oberste Licht der Ampel.
+qz-al-0004; Welche Stadt ist laut Grundgesetz die Hauptstadt Deutschlands?; Berlin; Bonn | Frankfurt | Hamburg; 1; K2; Gesellschaft/Politik; Dort steht das Brandenburger Tor.
+qz-al-0005; Wie viele Cent sind ein Euro?; 100; 12 | 60 | 250; 2; K2; Alltag/Geld; Eine Zahl mit zwei Nullen.
+qz-al-0006; Wie viele Minuten hat eine Stunde?; 60; 30 | 90 | 100; 2; K2; Alltag/Zeit; Genauso viele Sekunden hat eine Minute.
+qz-al-0007; Welche Nummer wählt man in Deutschland für Feuerwehr und Rettungsdienst?; 112; 110 | 911 | 115; 2; K2; Alltag/Notruf; Die Nummer gilt in ganz Europa.
+qz-al-0008; Welche Farbe ist auf der deutschen Flagge ganz oben?; Schwarz; Rot | Gold | Weiß; 2; K3; Gesellschaft/Staat; Es ist die dunkelste der drei Farben.
+qz-al-0009; Welcher Monat hat als einziger weniger als dreißig Tage?; Februar; April | Juni | November; 3; K3; Alltag/Kalender; Es ist der zweite Monat des Jahres.
+qz-al-0010; Nach wie vielen Jahren kommt in der Regel das nächste Schaltjahr?; 4; 2 | 5 | 10; 3; K3; Alltag/Kalender; Genauso oft finden die Olympischen Sommerspiele statt.
+qz-al-0011; Wie viel ist sieben mal acht?; 56; 48 | 63 | 72; 3; K3; Alltag/Kopfrechnen; Das Ergebnis liegt zwischen fünfzig und sechzig.
+qz-al-0012; In welcher Stadt findet das Oktoberfest statt?; München; Köln | Stuttgart | Hamburg; 3; K3; Alltag/Feste; Die Stadt ist die Hauptstadt von Bayern.
+qz-al-0013; Wie viele Ecken hat ein Stoppschild?; 8; 5 | 6 | 10; 4; K4; Alltag/Verkehr; Das Schild hat die Form eines Achtecks.
+qz-al-0014; Wie viele Bundesländer hat Deutschland?; 16; 10 | 12 | 20; 4; K4; Gesellschaft/Staat; Drei davon sind Stadtstaaten.
+qz-al-0015; Wie hieß die Währung der Bundesrepublik vor dem Euro?; Deutsche Mark; Schilling | Gulden | Franken; 4; K4; Alltag/Geld; Eine Einheit davon hatte hundert Pfennig.
+qz-al-0016; An welchem Tag ziehen in Köln und Düsseldorf die großen Karnevalsumzüge?; Rosenmontag; Aschermittwoch | Pfingstmontag | Ostermontag; 4; K4; Alltag/Feste; Der Tag liegt kurz vor dem Beginn der Fastenzeit.
+qz-al-0017; Welche Form hat das Verkehrszeichen für eine Vorfahrtstraße?; Raute; Dreieck | Kreis | Achteck; 5; K4; Alltag/Verkehr; Es ist ein auf die Spitze gestelltes gelbes Quadrat.
+qz-al-0018; Auf welches Datum fällt der Tag der Deutschen Einheit?; 3. Oktober; 9. November | 17. Juni | 1. Mai; 5; K5; Gesellschaft/Feiertage; An diesem Tag im Jahr 1990 trat die DDR der Bundesrepublik bei.
+qz-al-0019; Wie viel sind fünfzehn Prozent von zweihundert?; 30; 15 | 20 | 45; 5; K6; Alltag/Kopfrechnen; Zehn Prozent davon sind zwanzig.
+qz-al-0020; An welchem Datum ist der Martinstag?; 11. November; 2. Februar | 6. Dezember | 31. Oktober; 5; K3; Alltag/Feste; Am selben Tag beginnt um elf Uhr elf die Karnevalszeit.
+qz-al-0021; Was ist laut Artikel 1 des Grundgesetzes unantastbar?; Menschenwürde; Eigentum | Freiheit | Wohnung; 6; K8; Gesellschaft/Grundgesetz; Es geht um den Wert jedes einzelnen Menschen.
+qz-al-0022; Mit welchem Tag beginnt die christliche Fastenzeit vor Ostern?; Aschermittwoch; Rosenmontag | Gründonnerstag | Karfreitag; 6; K5; Alltag/Feste; Der Tag folgt direkt auf das Ende des Karnevals.
+qz-al-0023; In welchem Jahr wurde der Euro in Deutschland als Bargeld eingeführt?; 2002; 1990 | 1999 | 2005; 6; K6; Alltag/Geld; Es war der erste Januar eines Jahres kurz nach der Jahrtausendwende.
+qz-al-0024; Wie viele Euro Zinsen bringen zweihundert Euro in einem Jahr bei drei Prozent?; 6; 3 | 12 | 20; 6; K7; Alltag/Geld; Ein Prozent von zweihundert sind zwei Euro.
+qz-al-0025; In welchem Jahr trat das Grundgesetz in Kraft?; 1949; 1945 | 1955 | 1990; 7; K9; Gesellschaft/Grundgesetz; Im selben Jahr wurde die Bundesrepublik gegründet.
+qz-al-0026; Welche Zahl schreibt man in römischen Ziffern als XL?; 40; 60 | 90 | 110; 7; K6; Alltag/Zahlen; Das X steht vor dem L und wird deshalb abgezogen.
+qz-al-0027; Wie viele Liter passen in einen Kubikmeter?; 1000; 60 | 200 | 3000; 7; K7; Alltag/Einheiten; Ein Liter ist ein Würfel mit zehn Zentimetern Kantenlänge.
+qz-al-0028; Welcher Gedenktag erinnert am 31. Oktober an Martin Luthers Thesen?; Reformationstag; Allerheiligen | Totensonntag | Fronleichnam; 7; K7; Alltag/Feste; Luther wollte die Kirche erneuern.
+qz-al-0029; Wer wählt in Deutschland den Bundespräsidenten?; Bundesversammlung; Bundestag | Bundesrat | Volk; 8; ; Gesellschaft/Politik; Sie tritt nur zu dieser Wahl zusammen.
+qz-al-0030; In welcher Stadt hat das Bundesverfassungsgericht seinen Sitz?; Karlsruhe; Berlin | Leipzig | Bonn; 8; K10; Gesellschaft/Politik; Die Stadt liegt in Baden-Württemberg.
+qz-al-0031; Auf welchen Wochentag fällt Christi Himmelfahrt immer?; Donnerstag; Montag | Freitag | Sonntag; 8; ; Alltag/Feste; Der Feiertag liegt in der zweiten Hälfte der Woche, aber vor dem Wochenende.
+qz-al-0032; Für wie viele Jahre wird der Bundespräsident gewählt?; 5; 4 | 6 | 7; 8; ; Gesellschaft/Grundgesetz; Zwei volle Amtszeiten dauern zusammen zehn Jahre.
+qz-al-0033; Welche Mehrheit braucht eine Änderung des Grundgesetzes im Bundestag?; Zwei Drittel; Einfache Mehrheit | Drei Viertel | Absolute Mehrheit; 9; K10; Gesellschaft/Grundgesetz; Gefragt ist ein Bruch, der deutlich über der Hälfte liegt.
+qz-al-0034; Bis zu welchem Alter dürfen Kinder in Deutschland mit dem Fahrrad auf dem Gehweg fahren?; 10; 6 | 12 | 14; 9; K4; Alltag/Verkehr; Kinder unter acht Jahren müssen sogar auf dem Gehweg fahren.
+qz-al-0035; Wie viele Zentimeter misst ein Zoll ungefähr?; 2,5; 1 | 4 | 8; 9; ; Alltag/Einheiten; Etwa so breit ist ein Daumen.
+qz-al-0036; Welche Strophe des Liedes der Deutschen ist die Nationalhymne?; Dritte; Erste | Zweite | Vierte; 9; K8; Gesellschaft/Staat; Sie beginnt mit Einigkeit und Recht und Freiheit.
+qz-al-0037; Wer komponierte die Melodie der deutschen Nationalhymne?; Joseph Haydn; Ludwig van Beethoven | Wolfgang Amadeus Mozart | Johann Sebastian Bach; 10; ; Gesellschaft/Staat; Er schrieb sie ursprünglich als Hymne für den österreichischen Kaiser.
+qz-al-0038; In welchem Jahr wurde in Deutschland das Frauenwahlrecht eingeführt?; 1918; 1871 | 1933 | 1949; 10; K9; Gesellschaft/Politik; Es geschah am Ende des Ersten Weltkriegs.
+qz-al-0039; Wie heißt das jüdische Lichterfest?; Chanukka; Purim | Pessach | Jom Kippur; 10; ; Alltag/Feste; Acht Tage lang wird jeden Abend ein Licht mehr angezündet.
+qz-al-0040; Wie viele Quadratmeter hat ein Hektar?; 10000; 400 | 2500 | 60000; 10; ; Alltag/Einheiten; Es ist ein Quadrat mit hundert Metern Seitenlänge.
+qz-al-0041; Wer schlägt laut Grundgesetz den Bundeskanzler zur Wahl vor?; Bundespräsident; Bundesrat | Bundesversammlung | Bundesverfassungsgericht; 11; ; Gesellschaft/Grundgesetz; Es ist das Staatsoberhaupt.
+qz-al-0042; Welches dieser Jahre war ein Schaltjahr?; 2000; 1700 | 1800 | 1900; 11; ; Alltag/Kalender; Volle Jahrhunderte sind nur Schaltjahre, wenn sie durch 400 teilbar sind.
+qz-al-0043; Wie viele Meter hat eine Seemeile?; 1852; 1000 | 1609 | 2000; 12; ; Alltag/Einheiten; Sie ist etwas länger als die englische Landmeile.
+qz-al-0044; Wer schrieb den Text des Liedes der Deutschen?; Hoffmann von Fallersleben; Ernst Moritz Arndt | Friedrich Schiller | Heinrich Heine; 12; ; Gesellschaft/Staat; Der Dichter schrieb auch viele Kinderlieder wie Alle Vögel sind schon da.
+qz-al-0045; Wie viele Senate hat das Bundesverfassungsgericht?; 2; 3 | 4 | 6; 13; ; Gesellschaft/Politik; Jeder Senat hat acht Richterinnen und Richter.
+qz-al-0046; Wie viele Stück sind ein Gros?; 144; 100 | 120 | 240; 13; ; Alltag/Einheiten; Es sind zwölf Dutzend.
+qz-al-0047; Auf welcher Insel schrieb Hoffmann von Fallersleben 1841 das Lied der Deutschen?; Helgoland; Rügen | Sylt | Norderney; 14; ; Gesellschaft/Staat; Die Insel gehörte damals zu Großbritannien.
+qz-al-0048; Mit welchem Artikel endet der Abschnitt über die Grundrechte im Grundgesetz?; 19; 12 | 25 | 30; 14; ; Gesellschaft/Grundgesetz; Der letzte Artikel des Abschnitts schützt den Wesensgehalt jedes Grundrechts.
+qz-al-0049; Welcher Artikel des Grundgesetzes enthält die sogenannte Ewigkeitsklausel?; 79; 3 | 20 | 146; 15; ; Gesellschaft/Grundgesetz; Derselbe Artikel regelt auch, wie das Grundgesetz geändert werden darf.
+qz-al-0050; Wie viele Tage wurden 1582 bei der Einführung des gregorianischen Kalenders übersprungen?; 10; 5 | 7 | 13; 15; ; Alltag/Kalender; Die Umstellung geschah im Oktober jenes Jahres.

@@ -1,0 +1,52 @@
+# Wissenschaft, Technik, Weltall (Physik, Chemie, Erfindungen, Planeten, Raumfahrt), Probefragen 11. 11. 2026
+id; Frage; Antwort; Falsche Antworten; Stufe; Klasse; Themen; Hinweis
+qz-wt-0001; Auf welchem Planeten leben wir Menschen?; Erde; Mars | Venus | Jupiter; 1; K2; Weltall/Planeten; Er wird oft der Blaue Planet genannt.
+qz-wt-0002; Welcher Himmelskörper umkreist die Erde und leuchtet nachts am Himmel?; Mond; Sonne | Mars | Komet; 1; K2; Weltall/Himmelskörper; Manchmal sieht man ihn nur als schmale Sichel.
+qz-wt-0003; Was misst ein Thermometer?; Temperatur; Luftdruck | Gewicht | Geschwindigkeit; 1; K2; Technik/Messgeräte; Man braucht es, wenn man Fieber hat.
+qz-wt-0004; Mit welchem Gerät betrachtet man weit entfernte Sterne?; Fernrohr; Mikroskop | Lupe | Periskop; 1; K2; Technik/Geräte; In einer Sternwarte steht ein besonders großes.
+qz-wt-0005; Welcher Planet wird wegen seiner Farbe der Rote Planet genannt?; Mars; Venus | Merkur | Saturn; 2; K3; Weltall/Planeten; Er ist von der Sonne aus gesehen der Nachbar der Erde nach außen.
+qz-wt-0006; Welcher Planet ist für seine großen, hellen Ringe berühmt?; Saturn; Mars | Merkur | Venus; 2; K3; Weltall/Planeten; Er ist der zweitgrößte Planet.
+qz-wt-0007; Welcher Stern ist der Erde am nächsten?; Sonne; Polarstern | Sirius | Wega; 2; K3; Weltall/Sterne; Ohne ihn wäre es auf der Erde dunkel und kalt.
+qz-wt-0008; Welches Material zieht ein Magnet an?; Eisen; Holz | Glas | Kupfer; 2; K2; Physik/Magnetismus; Nägel und Büroklammern bestehen oft daraus.
+qz-wt-0009; Bei wie viel Grad Celsius gefriert Wasser?; 0 Grad; 4 Grad | 15 Grad | 32 Grad; 3; K3; Physik/Wärme; Darunter spricht man von Minusgraden.
+qz-wt-0010; Bei wie viel Grad Celsius kocht Wasser auf Meereshöhe?; 100 Grad; 80 Grad | 120 Grad | 150 Grad; 3; K3; Physik/Wärme; Es ist eine runde Zahl mit drei Ziffern.
+qz-wt-0011; In welchem Zustand ist Wasser, wenn es zu Eis geworden ist?; fest; flüssig | gasförmig | pulverförmig; 3; K3; Physik/Aggregatzustände; Man kann darauf Schlittschuh laufen.
+qz-wt-0012; Wie heißt die Kraft, die alle Dinge zur Erde fallen lässt?; Schwerkraft; Reibung | Magnetkraft | Fliehkraft; 3; K4; Physik/Kräfte; Auf dem Mond ist sie schwächer.
+qz-wt-0013; Welches Gas braucht ein Feuer aus der Luft, um zu brennen?; Sauerstoff; Stickstoff | Helium | Wasserdampf; 4; K5; Chemie/Verbrennung; Stülpt man ein Glas über eine Kerze, geht sie bald aus.
+qz-wt-0014; Wie viele Planeten hat unser Sonnensystem?; 8; 7 | 9 | 10; 4; K4; Weltall/Planeten; Seit 2006 zählt Pluto nicht mehr dazu.
+qz-wt-0015; Welches Metall steckt in den meisten Stromkabeln, weil es Strom sehr gut leitet?; Kupfer; Eisen | Blei | Zink; 4; K5; Technik/Elektrizität; Es hat eine rötlich-braune Farbe.
+qz-wt-0016; Welcher Planet ist der Sonne am nächsten?; Merkur; Venus | Mars | Erde; 4; K4; Weltall/Planeten; Er ist auch der kleinste Planet.
+qz-wt-0017; Welcher Planet ist der größte unseres Sonnensystems?; Jupiter; Saturn | Neptun | Uranus; 5; K4; Weltall/Planeten; Er hat einen riesigen roten Wirbelsturm.
+qz-wt-0018; Wer betrat 1969 als erster Mensch den Mond?; Neil Armstrong; Buzz Aldrin | Juri Gagarin | John Glenn; 5; K5; Weltall/Raumfahrt; Er war Kommandant von Apollo 11.
+qz-wt-0019; Wer erfand um 1450 in Mainz den Buchdruck mit beweglichen Lettern?; Johannes Gutenberg; Martin Luther | Carl Benz | Werner von Siemens; 5; K5; Technik/Erfindungen; Seine berühmte gedruckte Bibel hat 42 Zeilen pro Spalte.
+qz-wt-0020; Wer stellte die Relativitätstheorie auf?; Albert Einstein; Isaac Newton | Max Planck | Niels Bohr; 5; K8; Physik/Forscher; Er wurde 1879 in Ulm geboren.
+qz-wt-0021; Wie heißt die Galaxie, in der unser Sonnensystem liegt?; Milchstraße; Andromedagalaxie | Sombrerogalaxie | Magellansche Wolke; 6; K5; Weltall/Galaxien; Bei klarer Nacht sieht man sie als hellen Streifen.
+qz-wt-0022; Wer flog 1961 als erster Mensch ins Weltall?; Juri Gagarin; Neil Armstrong | Alan Shepard | John Glenn; 6; K6; Weltall/Raumfahrt; Er war ein Kosmonaut aus der Sowjetunion.
+qz-wt-0023; Welches Gas nehmen Pflanzen für die Photosynthese aus der Luft auf?; Kohlendioxid; Sauerstoff | Stickstoff | Helium; 6; K6; Chemie/Gase; Wir Menschen atmen es aus.
+qz-wt-0024; Welcher Planet ist am weitesten von der Sonne entfernt?; Neptun; Uranus | Saturn | Jupiter; 6; K5; Weltall/Planeten; Er ist nach dem römischen Gott des Meeres benannt.
+qz-wt-0025; Wer meldete 1886 das erste Auto mit Benzinmotor zum Patent an?; Carl Benz; Rudolf Diesel | Nikolaus Otto | Henry Ford; 7; K6; Technik/Erfindungen; Seine Frau Bertha machte damit die erste lange Fahrt.
+qz-wt-0026; Welches Gas macht den größten Teil der Luft aus?; Stickstoff; Sauerstoff | Kohlendioxid | Argon; 7; K7; Chemie/Gase; Es sind fast vier Fünftel der Luft.
+qz-wt-0027; Welches Metall ist bei Zimmertemperatur flüssig?; Quecksilber; Blei | Zinn | Aluminium; 7; K7; Chemie/Elemente; Früher steckte es in Fieberthermometern.
+qz-wt-0028; Welcher Planet ist der heißeste unseres Sonnensystems?; Venus; Merkur | Mars | Jupiter; 7; K7; Weltall/Planeten; Seine dichte Atmosphäre hält die Wärme fest.
+qz-wt-0029; Wer formulierte im 17. Jahrhundert das Gesetz der allgemeinen Gravitation?; Isaac Newton; Galileo Galilei | Johannes Kepler | Albert Einstein; 8; K8; Physik/Forscher; Der Legende nach brachte ihn ein fallender Apfel darauf.
+qz-wt-0030; Wie heißt das negativ geladene Teilchen in der Hülle eines Atoms?; Elektron; Proton | Neutron | Photon; 8; K8; Physik/Atome; Fließen viele davon, entsteht elektrischer Strom.
+qz-wt-0031; In welcher Einheit misst man die elektrische Spannung?; Volt; Ampere | Watt | Ohm; 8; K8; Physik/Elektrizität; Eine normale Steckdose hat davon 230.
+qz-wt-0032; Wie lange braucht das Licht der Sonne etwa bis zur Erde?; 8 Minuten; 1 Sekunde | 1 Stunde | 1 Tag; 8; ; Weltall/Sonne; Es dauert länger als ein Wimpernschlag, aber kürzer als eine Schulstunde.
+qz-wt-0033; Wie lautet der chemische Name von Kochsalz?; Natriumchlorid; Kaliumchlorid | Calciumcarbonat | Magnesiumsulfat; 9; K8; Chemie/Verbindungen; Es besteht aus einem weichen Leichtmetall und einem gelbgrünen Giftgas.
+qz-wt-0034; Welches chemische Element ist das häufigste im Universum?; Wasserstoff; Helium | Sauerstoff | Kohlenstoff; 9; K9; Chemie/Elemente; Es ist auch das leichteste Element.
+qz-wt-0035; Wie hieß der erste künstliche Satellit, 1957 von der Sowjetunion gestartet?; Sputnik; Wostok | Apollo | Explorer; 9; ; Weltall/Raumfahrt; Sein Name bedeutet auf Russisch Begleiter.
+qz-wt-0036; Etwa wie viele Kilometer legt Licht in einer Sekunde zurück?; 300.000; 30.000 | 3.000 | 3 Millionen; 9; ; Physik/Licht; Damit könnte es die Erde in einer Sekunde etwa siebeneinhalbmal umrunden.
+qz-wt-0037; Welcher Planet dreht sich fast auf der Seite liegend um die Sonne?; Uranus; Neptun | Saturn | Venus; 10; ; Weltall/Planeten; Er ist der siebte Planet von der Sonne aus.
+qz-wt-0038; Welcher russische Chemiker stellte 1869 das Periodensystem der Elemente auf?; Dmitri Mendelejew; Antoine Lavoisier | John Dalton | Marie Curie; 10; ; Chemie/Forscher; Er ließ Lücken für noch unbekannte Elemente frei.
+qz-wt-0039; Wer baute 1941 mit der Z3 den ersten funktionsfähigen programmgesteuerten Rechner?; Konrad Zuse; Alan Turing | John von Neumann | Charles Babbage; 10; ; Technik/Computer; Er war ein Bauingenieur aus Berlin.
+qz-wt-0040; Nach welchem Physiker ist der Effekt benannt, durch den ein vorbeifahrendes Martinshorn plötzlich tiefer klingt?; Christian Doppler; Ernst Mach | Heinrich Hertz | Georg Ohm; 10; ; Physik/Schall; Er war ein Physiker aus Salzburg.
+qz-wt-0041; Wer entdeckte 1938 zusammen mit Fritz Straßmann die Kernspaltung?; Otto Hahn; Max Planck | Werner Heisenberg | Albert Einstein; 11; ; Physik/Forscher; Er erhielt dafür den Nobelpreis für Chemie.
+qz-wt-0042; Welcher Saturnmond besitzt eine dichte Atmosphäre?; Titan; Enceladus | Mimas | Rhea; 11; ; Weltall/Monde; Er ist der größte Mond des Saturn.
+qz-wt-0043; Welcher Physiker begründete im Jahr 1900 mit dem Wirkungsquantum die Quantenphysik?; Max Planck; Niels Bohr | Werner Heisenberg | Erwin Schrödinger; 12; ; Physik/Forscher; Nach ihm sind heute viele deutsche Forschungsinstitute benannt.
+qz-wt-0044; Wer erkannte Anfang des 17. Jahrhunderts, dass Planeten auf Ellipsen um die Sonne laufen?; Johannes Kepler; Nikolaus Kopernikus | Galileo Galilei | Tycho Brahe; 12; ; Weltall/Forscher; Er arbeitete in Prag als kaiserlicher Mathematiker.
+qz-wt-0045; Welcher deutsche Physiker erhielt 1901 den ersten Nobelpreis für Physik?; Wilhelm Conrad Röntgen; Max Planck | Heinrich Hertz | Albert Einstein; 13; ; Physik/Forscher; Er entdeckte eine Strahlung, die durch den Körper geht.
+qz-wt-0046; Welches Metall hat den höchsten Schmelzpunkt aller Metalle?; Wolfram; Chrom | Platin | Eisen; 13; ; Chemie/Elemente; Es wurde für Glühfäden in Glühbirnen verwendet.
+qz-wt-0047; Wer entdeckte 1781 den Planeten Uranus?; Wilhelm Herschel; Edmond Halley | Galileo Galilei | Tycho Brahe; 14; ; Weltall/Forscher; Er stammte aus Hannover und war zuerst Musiker.
+qz-wt-0048; Nach welchem Physiker ist die Grenzmasse benannt, oberhalb der ein Weißer Zwerg in sich zusammenstürzt?; Chandrasekhar; Hubble | Schwarzschild | Eddington; 14; ; Weltall/Sterne; Er war ein indisch-amerikanischer Astrophysiker.
+qz-wt-0049; Wer entdeckte 1930 den Zwergplaneten Pluto?; Clyde Tombaugh; Edwin Hubble | Percival Lowell | Gerard Kuiper; 15; ; Weltall/Forscher; Er war ein junger Amerikaner, der an einer Sternwarte in Arizona Fotoplatten verglich.
+qz-wt-0050; Welcher Physiker sagte das Positron, das Antiteilchen des Elektrons, theoretisch voraus?; Paul Dirac; Enrico Fermi | Wolfgang Pauli | Richard Feynman; 15; ; Physik/Forscher; Er war ein sehr wortkarger Brite.

@@ -7,6 +7,9 @@ Wortschatz und Listen für den Vokabeltrainer. Die App baut diesen Stand mit `no
   unter `areas` der Baum der Bereiche, durch den man sich in der App klickt. Jeder Knoten hat `name`, `lists`
   (Listen-IDs in Anzeigereihenfolge) und optional `areas` (Unterbereiche); eine Liste darf an mehreren Stellen
   hängen. Listen, die nirgends hängen, zeigt die App unter „Weitere Listen“.
+  Jeder Bereich kann ein `icon` tragen: ein eigenes Symbol `"mb:<name>"` (SVG in `assets/icons/svg` im App-Repo,
+  umgerechnet mit `node scripts/icons.mjs`) oder ein Name aus Feather (`"map"`); unbekannte zeigt die App als Ordner. Bereiche der obersten Ebene tragen eine `section`: `vokabeln`, `grammatik`, `lesen` oder `wissen` – die App
+  zeigt sie unter diesen vier Rubriken, in dieser Reihenfolge.
   Eine Liste kann unter `media` ein Video tragen (`{ "title": …, "url": "https://…" }`, nur https), etwa die Rede
   auf YouTube; die App zeigt dafür einen Knopf auf der Listenseite, in der Übung und im Ergebnis.
 - `woerter/<quelle>.txt`: je Quelle die Wörter im Importformat mit Kopfzeile

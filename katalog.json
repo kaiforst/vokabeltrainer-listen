@@ -6422,7 +6422,7 @@
     }
   ],
   "areas": {
-    "version": 17,
+    "version": 19,
     "tree": [
       {
         "name": "Einstieg",
@@ -6456,64 +6456,9 @@
           "es-grundwortschatz",
           "it-grundwortschatz"
         ],
-        "areas": []
-      },
-      {
-        "name": "Wissen",
-        "lists": [],
-        "areas": [
-          {
-            "name": "Erdkunde",
-            "lists": [
-              "wissen-hauptstaedte-europa",
-              "wissen-hauptstaedte-bekannt",
-              "wissen-hauptstaedte-asien",
-              "wissen-hauptstaedte-afrika",
-              "wissen-hauptstaedte-nordamerika",
-              "wissen-hauptstaedte-suedamerika",
-              "wissen-hauptstaedte-ozeanien",
-              "wissen-hauptstaedte-welt",
-              "wissen-bundeslaender"
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Grammatik",
-        "lists": [],
-        "areas": [
-          {
-            "name": "Englisch: unregelmäßige Verben",
-            "lists": [
-              "en-grammatik-verben-a1",
-              "en-grammatik-verben-a2",
-              "en-grammatik-verben-b1"
-            ]
-          },
-          {
-            "name": "Präsens (Spanisch, Italienisch)",
-            "lists": [
-              "es-grammatik-praesens-regelmaessig",
-              "es-grammatik-praesens-unregelmaessig",
-              "it-grammatik-praesens-regelmaessig",
-              "it-grammatik-praesens-unregelmaessig"
-            ]
-          },
-          {
-            "name": "Artikel (Französisch, Spanisch, Italienisch)",
-            "lists": [
-              "fr-grammatik-artikel-a1",
-              "fr-grammatik-artikel-a2",
-              "fr-grammatik-artikel-b1",
-              "es-grammatik-artikel-a1",
-              "es-grammatik-artikel-a2",
-              "es-grammatik-artikel-b1",
-              "it-grammatik-artikel-a1",
-              "it-grammatik-artikel-a2",
-              "it-grammatik-artikel-b1"
-            ]
-          }
-        ]
+        "areas": [],
+        "icon": "mb:einstieg",
+        "section": "vokabeln"
       },
       {
         "name": "Karstens Empfehlung",
@@ -6531,7 +6476,9 @@
           "es-karsten-woerter",
           "it-karsten-woerter"
         ],
-        "areas": []
+        "areas": [],
+        "icon": "mb:empfehlung",
+        "section": "vokabeln"
       },
       {
         "name": "Häufige Wörter",
@@ -6580,7 +6527,9 @@
           "fr-mehrdeutig",
           "es-mehrdeutig",
           "it-mehrdeutig"
-        ]
+        ],
+        "icon": "mb:haeufige-woerter",
+        "section": "vokabeln"
       },
       {
         "name": "Alltag",
@@ -6645,7 +6594,9 @@
           "fr-stadt-gebaeude",
           "es-stadt-gebaeude",
           "it-stadt-gebaeude"
-        ]
+        ],
+        "icon": "mb:alltag",
+        "section": "vokabeln"
       },
       {
         "name": "Reisen & Freizeit",
@@ -6686,7 +6637,9 @@
           "fr-musik-instrumente",
           "es-musik-instrumente",
           "it-musik-instrumente"
-        ]
+        ],
+        "icon": "mb:reisen",
+        "section": "vokabeln"
       },
       {
         "name": "Beruf & Business",
@@ -6724,7 +6677,8 @@
               "fr-medien-kommunikation",
               "es-medien-kommunikation",
               "it-medien-kommunikation"
-            ]
+            ],
+            "icon": "mb:grundlagen"
           },
           {
             "name": "Fachbereiche",
@@ -6757,12 +6711,15 @@
               "fr-business-vertrag",
               "es-business-vertrag",
               "it-business-vertrag"
-            ]
+            ],
+            "icon": "mb:fachbereiche"
           }
-        ]
+        ],
+        "icon": "mb:beruf",
+        "section": "vokabeln"
       },
       {
-        "name": "Gesellschaft & Wissen",
+        "name": "Gesellschaft & Wissenschaft",
         "lists": [
           "politik-gesellschaft",
           "fr-politik-gesellschaft",
@@ -6832,7 +6789,9 @@
           "fr-wirtschaft-finanzen",
           "es-wirtschaft-finanzen",
           "it-wirtschaft-finanzen"
-        ]
+        ],
+        "icon": "mb:gesellschaft",
+        "section": "vokabeln"
       },
       {
         "name": "Wendungen & Redewendungen",
@@ -6869,7 +6828,8 @@
               "fr-wendungen-reisen-unterwegs",
               "es-wendungen-reisen-unterwegs",
               "it-wendungen-reisen-unterwegs"
-            ]
+            ],
+            "icon": "mb:alltag-gespraech"
           },
           {
             "name": "Schule, Arbeit & Gespräch",
@@ -6886,7 +6846,8 @@
               "fr-wendungen-gespraech",
               "es-wendungen-gespraech",
               "it-wendungen-gespraech"
-            ]
+            ],
+            "icon": "mb:schule-arbeit"
           },
           {
             "name": "Redewendungen",
@@ -6899,7 +6860,8 @@
               "fr-redewendungen-c1",
               "es-redewendungen-c1",
               "it-redewendungen-c1"
-            ]
+            ],
+            "icon": "mb:redewendung"
           },
           {
             "name": "Sprichwörter",
@@ -6912,7 +6874,8 @@
               "fr-sprichwoerter-c1",
               "es-sprichwoerter-c1",
               "it-sprichwoerter-c1"
-            ]
+            ],
+            "icon": "mb:sprichwort"
           },
           {
             "name": "Phrasal Verbs",
@@ -6924,9 +6887,12 @@
               "phrasal-verbs-menschen",
               "phrasal-verbs-unterwegs",
               "phrasal-verbs-schule-arbeit"
-            ]
+            ],
+            "icon": "mb:phrasal-verbs"
           }
-        ]
+        ],
+        "icon": "mb:wendungen",
+        "section": "vokabeln"
       },
       {
         "name": "Reden, Lieder & Filme",
@@ -6939,7 +6905,8 @@
               "rede-kennedy-1961",
               "rede-obama-2004"
             ],
-            "areas": []
+            "areas": [],
+            "icon": "mb:reden"
           },
           {
             "name": "Filmszenen",
@@ -6949,7 +6916,8 @@
               "film-a-few-good-men",
               "film-the-newsroom"
             ],
-            "areas": []
+            "areas": [],
+            "icon": "mb:filme"
           },
           {
             "name": "Lieder",
@@ -6958,15 +6926,85 @@
               "lied-someone-like-you",
               "lied-bohemian-rhapsody"
             ],
-            "areas": []
+            "areas": [],
+            "icon": "mb:lieder"
           }
-        ]
+        ],
+        "icon": "mb:medien",
+        "section": "vokabeln"
       },
       {
-        "name": "Lesen üben (Deutsch)",
+        "name": "Lesewörter und Lesesätze",
         "lists": [
           "lesen-klasse-2-woerter",
           "lesen-klasse-2-saetze"
+        ],
+        "areas": [],
+        "icon": "mb:lesen",
+        "section": "lesen"
+      },
+      {
+        "name": "Englisch: unregelmäßige Verben",
+        "icon": "mb:verben",
+        "section": "grammatik",
+        "lists": [
+          "en-grammatik-verben-a1",
+          "en-grammatik-verben-a2",
+          "en-grammatik-verben-b1"
+        ],
+        "areas": []
+      },
+      {
+        "name": "Präsens (Spanisch, Italienisch)",
+        "icon": "mb:praesens",
+        "section": "grammatik",
+        "lists": [
+          "es-grammatik-praesens-regelmaessig",
+          "es-grammatik-praesens-unregelmaessig",
+          "it-grammatik-praesens-regelmaessig",
+          "it-grammatik-praesens-unregelmaessig"
+        ],
+        "areas": []
+      },
+      {
+        "name": "Artikel (Französisch, Spanisch, Italienisch)",
+        "icon": "mb:artikel",
+        "section": "grammatik",
+        "lists": [
+          "fr-grammatik-artikel-a1",
+          "fr-grammatik-artikel-a2",
+          "fr-grammatik-artikel-b1",
+          "es-grammatik-artikel-a1",
+          "es-grammatik-artikel-a2",
+          "es-grammatik-artikel-b1",
+          "it-grammatik-artikel-a1",
+          "it-grammatik-artikel-a2",
+          "it-grammatik-artikel-b1"
+        ],
+        "areas": []
+      },
+      {
+        "name": "Erdkunde: Hauptstädte",
+        "icon": "mb:erdkunde",
+        "section": "wissen",
+        "lists": [
+          "wissen-hauptstaedte-europa",
+          "wissen-hauptstaedte-bekannt",
+          "wissen-hauptstaedte-asien",
+          "wissen-hauptstaedte-afrika",
+          "wissen-hauptstaedte-nordamerika",
+          "wissen-hauptstaedte-suedamerika",
+          "wissen-hauptstaedte-ozeanien",
+          "wissen-hauptstaedte-welt"
+        ],
+        "areas": []
+      },
+      {
+        "name": "Erdkunde: Deutschland",
+        "icon": "mb:deutschland",
+        "section": "wissen",
+        "lists": [
+          "wissen-bundeslaender"
         ],
         "areas": []
       }

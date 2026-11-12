@@ -1,0 +1,152 @@
+# Norwegisch: Technik & Computer
+id; Deutsch; Norwegisch; Weitere Antworten; Niveau; Themen; Beispiel Norwegisch; Beispiel Deutsch
+no-tc-0001; Computer; en datamaskin; ; A1; Technik/Computer/Geräte; Den nye datamaskinen min er veldig rask.; Mein neuer Computer ist sehr schnell.
+no-tc-0002; Handy; en mobil; en mobiltelefon; A1; Technik/Computer/Smartphone; Jeg glemte mobilen hjemme i dag.; Ich habe mein Handy heute zu Hause vergessen.
+no-tc-0003; Telefon; en telefon; ; A1; Technik/Computer/Geräte; Telefonen på kontoret ringer allerede igjen.; Das Telefon klingelt schon wieder im Büro.
+no-tc-0004; Internet; internett; ; A1; Technik/Computer/Internet; Vi bruker internett hver eneste dag.; Wir benutzen das Internet jeden Tag.
+no-tc-0005; Fernseher; et fjernsyn; ; A1; Technik/Computer/Geräte; Fjernsynet i stua vår er nytt.; Der Fernseher im Wohnzimmer ist neu.
+no-tc-0006; Bildschirm; en skjerm; ; A1; Technik/Computer/Geräte; Skjermen er for lys om natten.; Der Bildschirm ist nachts zu hell.
+no-tc-0007; Tastatur; et tastatur; ; A1; Technik/Computer/Geräte; Jeg trenger et nytt tastatur til datamaskinen.; Ich brauche eine neue Tastatur für meinen Computer.
+no-tc-0008; Maus (Computer); ei mus; en mus; A1; Technik/Computer/Geräte; Den trådløse musen virker ikke uten batteri.; Die Maus funktioniert nicht ohne Batterie.
+no-tc-0009; Drucker; en skriver; ; A1; Technik/Computer/Geräte; Skriveren på kontoret er ødelagt igjen.; Der Drucker im Büro ist schon wieder kaputt.
+no-tc-0010; Kamera; et kamera; ; A1; Technik/Computer/Geräte; Dette kameraet tar veldig gode bilder.; Diese Kamera macht sehr gute Fotos.
+no-tc-0011; Laptop; en laptop; en bærbar datamaskin; A1; Technik/Computer/Geräte; Hun tar med laptopen på jobb hver morgen.; Sie nimmt ihren Laptop jeden Morgen mit zur Arbeit.
+no-tc-0012; Foto; et foto; et fotografi, et bilde; A1; Technik/Computer/Smartphone; Han viste meg et foto av hunden sin.; Er zeigte mir ein Foto von seinem Hund.
+no-tc-0013; E-Mail; en e-post; en mail; A1; Technik/Computer/Internet, Arbeit/Beruf/Arbeitsalltag; Send meg en e-post med detaljene.; Bitte schick mir eine E-Mail mit den Details.
+no-tc-0014; Kabel; en kabel; ; A1; Technik/Computer/Hardware; Kabelen er for kort til skrivebordet mitt.; Das Kabel ist zu kurz für meinen Schreibtisch.
+no-tc-0015; Batterie; et batteri; ; A1; Technik/Computer/Hardware; Batteriet i kameraet mitt er tomt.; Die Batterie in meiner Kamera ist leer.
+no-tc-0016; Taste; en knapp; en tast; A1; Technik/Computer/Geräte; Trykk på den grønne knappen for å starte spillet.; Drück die grüne Taste, um das Spiel zu starten.
+no-tc-0017; Spiel; et spill; ; A1; Technik/Computer/Software; Vi spilte et morsomt spill på datamaskinen.; Wir haben ein lustiges Spiel am Computer gespielt.
+no-tc-0018; anmachen; å slå på; å skru på; A1; Technik/Computer/Geräte; Kan du slå på fjernsynet, er du snill?; Kannst du bitte den Fernseher anmachen?
+no-tc-0019; ausmachen; å slå av; å skru av; A1; Technik/Computer/Geräte; Slå av datamaskinen før du går, er du snill.; Bitte mach den Computer aus, bevor du gehst.
+no-tc-0020; Fehler; en feil; ; A1; Technik/Computer/Software; Det er en feil i det nye programmet.; Es gibt einen Fehler im neuen Programm.
+no-tc-0021; Passwort; et passord; ; A2; Technik/Computer/Sicherheit; Du bør ikke røpe passordet ditt til noen.; Du solltest niemandem dein Passwort verraten.
+no-tc-0022; Datei; ei fil; en fil; A2; Technik/Computer/Dateien; Jeg lagret filen på laptopen min.; Ich habe die Datei auf meinem Laptop gespeichert.
+no-tc-0023; Ordner (Computer); en mappe; ei mappe; A2; Technik/Computer/Dateien; Legg alle bildene i en mappe.; Leg alle Fotos in einen Ordner.
+no-tc-0024; drucken; å skrive ut; ; A2; Technik/Computer/Dateien; Kan du skrive ut dette dokumentet for meg?; Kannst du dieses Dokument für mich drucken?
+no-tc-0025; speichern; å lagre; ; A2; Technik/Computer/Dateien; Husk å lagre arbeidet ditt før du går.; Vergiss nicht, deine Arbeit zu speichern.
+no-tc-0026; löschen; å slette; ; A2; Technik/Computer/Dateien; Jeg slettet de gamle bildene ved et uhell.; Ich habe die alten Fotos aus Versehen gelöscht.
+no-tc-0027; herunterladen; å laste ned; ; A2; Technik/Computer/Internet; Du kan laste ned appen gratis.; Du kannst die App kostenlos herunterladen.
+no-tc-0028; hochladen; å laste opp; ; A2; Technik/Computer/Internet; Hun lastet opp videoen på nettsiden.; Sie hat das Video auf die Webseite hochgeladen.
+no-tc-0029; klicken; å klikke; ; A2; Technik/Computer/Internet; Klikk på lenken for å åpne siden.; Klick auf den Link, um die Seite zu öffnen.
+no-tc-0030; Webseite; en nettside; et nettsted; A2; Technik/Computer/Internet; Skolen vår har fått en ny nettside.; Unsere Schule hat jetzt eine neue Webseite.
+no-tc-0031; App; en app; ; A2; Technik/Computer/Smartphone; Denne appen hjelper meg å lære engelske ord.; Diese App hilft mir, englische Wörter zu lernen.
+no-tc-0032; Programm; et program; ; A2; Technik/Computer/Software; Programmet starter når du åpner laptopen.; Das Programm startet, wenn du den Laptop öffnest.
+no-tc-0033; aufladen; å lade; å lade opp; A2; Technik/Computer/Smartphone; Jeg må lade mobilen hver natt.; Ich muss mein Handy jede Nacht aufladen.
+no-tc-0034; Ladegerät; en lader; ; A2; Technik/Computer/Smartphone; Jeg mistet laderen min på toget.; Ich habe mein Ladegerät im Zug verloren.
+no-tc-0035; Kopfhörer; hodetelefoner; ; A2; Technik/Computer/Geräte; Han hører på musikk med hodetelefonene sine.; Er hört Musik mit seinen Kopfhörern.
+no-tc-0036; Lautsprecher; en høyttaler; ; A2; Technik/Computer/Geräte; Høyttaleren er kraftig nok til festen.; Der Lautsprecher ist laut genug für die Party.
+no-tc-0037; Smartphone; en smarttelefon; en smartmobil; A2; Technik/Computer/Smartphone; Nesten alle har en smarttelefon i dag.; Fast jeder hat heutzutage ein Smartphone.
+no-tc-0038; Nachricht (Mitteilung); en melding; ei melding; A2; Technik/Computer/Smartphone; Hun sendte meg en melding i morges.; Sie hat mir heute Morgen eine Nachricht geschickt.
+no-tc-0039; Benutzer; en bruker; ; A2; Technik/Computer/Software; Den nye brukeren trenger først et passord.; Der neue Benutzer braucht zuerst ein Passwort.
+no-tc-0040; Benutzername; et brukernavn; ; A2; Technik/Computer/Sicherheit; Skriv inn brukernavnet og passordet ditt, er du snill.; Bitte gib deinen Benutzernamen und dein Passwort ein.
+no-tc-0041; Suchmaschine; en søkemotor; ; A2; Technik/Computer/Internet; Jeg fant svaret ved hjelp av en søkemotor.; Ich habe die Antwort mit einer Suchmaschine gefunden.
+no-tc-0042; suchen; å søke; ; A2; Technik/Computer/Internet; Jeg vil søke på nettet etter billige flyreiser.; Ich will im Internet nach günstigen Flügen suchen.
+no-tc-0043; senden; å sende; ; A2; Technik/Computer/Internet; Han sender mange e-poster på jobb hver dag.; Er sendet bei der Arbeit jeden Tag viele E-Mails.
+no-tc-0044; empfangen; å motta; ; A2; Technik/Computer/Internet; Mottok du meldingen min i går kveld?; Hast du gestern Abend meine Nachricht empfangen?
+no-tc-0045; Verbindung (Internet); en forbindelse; en tilkobling; A2; Technik/Computer/Internet; Internettforbindelsen er veldig treg i dag.; Die Internetverbindung ist heute sehr langsam.
+no-tc-0046; verbinden; å koble; ; A2; Technik/Computer/Internet; Du må koble laptopen til skriveren.; Du musst den Laptop mit dem Drucker verbinden.
+no-tc-0047; WLAN; wifi; et trådløst nett; A2; Technik/Computer/Internet, Reisen/Urlaub/Unterkunft; Hotellet har gratis wifi på alle rommene.; Das Hotel hat kostenloses WLAN in jedem Zimmer.
+no-tc-0048; Akku; et oppladbart batteri; ; A2; Technik/Computer/Smartphone; Det oppladbare batteriet mitt varer i nesten to dager.; Mein Akku hält fast zwei Tage.
+no-tc-0049; Tablet; et nettbrett; ; A2; Technik/Computer/Geräte; Barna ser ofte filmer på nettbrettet.; Die Kinder schauen Filme auf dem Tablet.
+no-tc-0050; funktionieren; å fungere; å virke; A2; Technik/Computer/Geräte; Skriveren på kontoret fungerer ikke uten papir.; Der Drucker funktioniert nicht ohne Papier.
+no-tc-0051; Software; en programvare; en software; B1; Technik/Computer/Software; Firmaet utvikler programvare for små bedrifter.; Die Firma entwickelt Software für kleine Unternehmen.
+no-tc-0052; Hardware; en maskinvare; en hardware; B1; Technik/Computer/Hardware; God maskinvare er viktig for moderne spill.; Gute Hardware ist wichtig für moderne Spiele.
+no-tc-0053; Festplatte; en harddisk; ; B1; Technik/Computer/Hardware; Harddisken min er nesten full igjen.; Meine Festplatte ist schon wieder fast voll.
+no-tc-0054; Speicher (Computer); et minne; ; B1; Technik/Computer/Hardware; Mobilen har ikke nok minne igjen.; Das Handy hat nicht mehr genug Speicher.
+no-tc-0055; Betriebssystem; et operativsystem; ; B1; Technik/Computer/Software; Det nye operativsystemet går mye raskere.; Das neue Betriebssystem läuft viel schneller.
+no-tc-0056; Anwendung; en applikasjon; ; B1; Technik/Computer/Software; Denne applikasjonen kjører bare på nyere datamaskiner.; Diese Anwendung läuft nur auf neueren Computern.
+no-tc-0057; installieren; å installere; ; B1; Technik/Computer/Software; Du må først installere programmet på datamaskinen.; Du musst das Programm zuerst installieren.
+no-tc-0058; aktualisieren; å oppdatere; ; B1; Technik/Computer/Software; Oppdater appen til den nyeste versjonen, er du snill.; Bitte aktualisiere die App auf die neueste Version.
+no-tc-0059; Einstellung (Technik); en innstilling; ; B1; Technik/Computer/Software; Du kan endre denne innstillingen i menyen.; Du kannst diese Einstellung im Menü ändern.
+no-tc-0060; Virus; et virus; ; B1; Technik/Computer/Sicherheit; Et virus kan raskt ødelegge viktige filer.; Ein Virus kann wichtige Dateien schnell zerstören.
+no-tc-0061; Sicherheit; en sikkerhet; ; B1; Technik/Computer/Sicherheit; Sikkerhet er veldig viktig på internett.; Sicherheit ist im Internet sehr wichtig.
+no-tc-0062; sicher; sikker; ; B1; Technik/Computer/Sicherheit; Velg et sikkert passord med mange tegn.; Wähle ein sicheres Passwort mit vielen Zeichen.
+no-tc-0063; Netzwerk; et nettverk; ; B1; Technik/Computer/Internet; Alle datamaskinene på kontoret deler ett nettverk.; Alle Computer im Büro teilen sich ein Netzwerk.
+no-tc-0064; Server; en server; ; B1; Technik/Computer/Internet; Serveren var nede i to timer.; Der Server war zwei Stunden lang ausgefallen.
+no-tc-0065; Browser; en nettleser; ; B1; Technik/Computer/Internet; Åpne nettsiden i en annen nettleser.; Öffne die Webseite in einem anderen Browser.
+no-tc-0066; Link; en lenke; en link; B1; Technik/Computer/Internet; Lenken i e-posten fungerte ikke for meg.; Der Link in der E-Mail hat nicht funktioniert.
+no-tc-0067; Anhang; et vedlegg; ; B1; Technik/Computer/Internet; Jeg sendte rapporten til deg som vedlegg.; Ich habe den Bericht als Anhang geschickt.
+no-tc-0068; Posteingang; en innboks; ; B1; Technik/Computer/Internet; Innboksen min er full av gamle e-poster.; Mein Posteingang ist voll mit alten E-Mails.
+no-tc-0069; Cloud; en sky; en nettsky; B1; Technik/Computer/Dateien; Hun lagrer alle bildene sine i skyen.; Sie speichert alle ihre Fotos in der Cloud.
+no-tc-0070; Daten; data; ; B1; Technik/Computer/Dateien; Appen samler inn data om brukerne sine.; Die App sammelt Daten über ihre Benutzer.
+no-tc-0071; Datenbank; en database; ; B1; Technik/Computer/Dateien; Alle kundenavn er lagret i en database.; Alle Kundennamen sind in einer Datenbank gespeichert.
+no-tc-0072; Screenshot; et skjermbilde; en skjermdump; B1; Technik/Computer/Smartphone; Ta et skjermbilde av feilmeldingen, er du snill.; Mach bitte einen Screenshot von der Fehlermeldung.
+no-tc-0073; Touchscreen; en berøringsskjerm; en touchskjerm; B1; Technik/Computer/Smartphone; Man styrer dette nettbrettet via berøringsskjermen.; Man bedient das Tablet über den Touchscreen.
+no-tc-0074; Benachrichtigung; et varsel; ; B1; Technik/Computer/Smartphone; Jeg får et varsel for hver nye melding.; Ich bekomme für jede neue Nachricht eine Benachrichtigung.
+no-tc-0075; stummschalten; å sette på lydløs; ; B1; Technik/Computer/Smartphone; Du må sette mobilen på lydløs under møtet.; Bitte schalte dein Handy während der Besprechung stumm.
+no-tc-0076; Klingelton; en ringetone; ; B1; Technik/Computer/Smartphone; Ringetonen hans er en gammel rocklåt.; Sein Klingelton ist ein alter Rocksong.
+no-tc-0077; abstürzen; å krasje; ; B1; Technik/Computer/Software; Programmet krasjer når jeg åpner store filer.; Das Programm stürzt ab, wenn ich große Dateien öffne.
+no-tc-0078; neu starten; å starte på nytt; å restarte; B1; Technik/Computer/Software; Start datamaskinen på nytt og prøv igjen.; Starte den Computer einfach neu und versuch es noch einmal.
+no-tc-0079; herunterfahren; å stenge ned; ; B1; Technik/Computer/Software; Steng ned laptopen før du legger den i sekken.; Fahr den Laptop herunter, bevor du ihn einpackst.
+no-tc-0080; anschließen; å koble til; å plugge inn; B1; Technik/Computer/Hardware; Koble til skriveren og vent et øyeblikk.; Schließ den Drucker an und warte einen Moment.
+no-tc-0081; drahtlos; trådløs; ; B1; Technik/Computer/Internet; De nye hodetelefonene er helt trådløse.; Die neuen Kopfhörer sind komplett drahtlos.
+no-tc-0082; digital; digital; ; B1; Technik/Computer/Geräte; Vi lagrer alle dokumentene våre i digital form.; Wir speichern alle unsere Dokumente in digitaler Form.
+no-tc-0083; elektronisch; elektronisk; ; B1; Technik/Computer/Geräte; Elektroniske bøker er ofte billigere enn trykte.; Elektronische Bücher sind oft billiger als gedruckte.
+no-tc-0084; Gerät; et apparat; en enhet; B1; Technik/Computer/Geräte; Dette lille apparatet måler luftkvaliteten i rommet.; Dieses kleine Gerät misst die Luftqualität.
+no-tc-0085; Technologie; en teknologi; ; B1; Technik/Computer/Geräte; Moderne teknologi endrer livene våre veldig raskt.; Moderne Technologie verändert unser Leben sehr schnell.
+no-tc-0086; künstliche Intelligenz; kunstig intelligens; ; B1; Technik/Computer/Künstliche Intelligenz; Kunstig intelligens kan oversette tekster på sekunder.; Künstliche Intelligenz kann Texte in Sekunden übersetzen.
+no-tc-0087; Roboter; en robot; ; B1; Technik/Computer/Künstliche Intelligenz; En robot bygger bilene i denne fabrikken.; Ein Roboter baut die Autos in dieser Fabrik.
+no-tc-0088; programmieren; å programmere; å kode; B1; Technik/Computer/Software; Hun lærte å programmere da hun var tolv år.; Sie hat mit zwölf Jahren programmieren gelernt.
+no-tc-0089; entwickeln; å utvikle; ; B1; Technik/Computer/Software; Teamet utvikler en ny app for bønder.; Das Team entwickelt eine neue App für Landwirte.
+no-tc-0090; kopieren; å kopiere; ; B1; Technik/Computer/Dateien; Kopier filene over på minnepinnen, takk.; Kopiere bitte die Dateien auf den USB-Stick.
+no-tc-0091; Verschlüsselung; en kryptering; ; B2; Technik/Computer/Sicherheit; Sterk kryptering beskytter de private meldingene dine godt.; Starke Verschlüsselung schützt deine privaten Nachrichten gut.
+no-tc-0092; verschlüsseln; å kryptere; ; B2; Technik/Computer/Sicherheit; Appen krypterer alle meldingene dine helt automatisk.; Die App verschlüsselt alle Nachrichten automatisch.
+no-tc-0093; Datenschutz; et personvern; ; B2; Technik/Computer/Sicherheit; Personvern tas veldig alvorlig i Europa.; Datenschutz wird in Europa sehr ernst genommen.
+no-tc-0094; Sicherheitslücke; et sikkerhetshull; en sikkerhetssvakhet; B2; Technik/Computer/Sicherheit; Den nye oppdateringen tetter et farlig sikkerhetshull.; Das Update schließt eine gefährliche Sicherheitslücke.
+no-tc-0095; Hacker; en hacker; ; B2; Technik/Computer/Sicherheit; En hacker stjal tusenvis av kundepassord.; Ein Hacker stahl Tausende von Kundenpasswörtern.
+no-tc-0096; hacken; å hacke; ; B2; Technik/Computer/Sicherheit; Kriminelle forsøkte å hacke bankens datasystem.; Kriminelle versuchten, das Computersystem der Bank zu hacken.
+no-tc-0097; Schadsoftware; en skadevare; et skadelig program; B2; Technik/Computer/Sicherheit; Skadevaren spredte seg gjennom infiserte e-postvedlegg.; Die Schadsoftware verbreitete sich über infizierte E-Mail-Anhänge.
+no-tc-0098; Firewall; en brannmur; ; B2; Technik/Computer/Sicherheit; Brannmuren blokkerer automatisk alle mistenkelige tilkoblinger utenfra.; Die Firewall blockiert verdächtige Verbindungen von außen.
+no-tc-0099; Datensicherung; en sikkerhetskopi; en backup; B2; Technik/Computer/Dateien; Regelmessig sikkerhetskopiering kan spare deg for mye bry.; Eine regelmäßige Datensicherung kann dir viel Ärger ersparen.
+no-tc-0100; wiederherstellen; å gjenopprette; ; B2; Technik/Computer/Dateien; Vi klarte å gjenopprette de slettede filene.; Wir konnten die gelöschten Dateien wiederherstellen.
+no-tc-0101; Speicherplatz; en lagringsplass; ; B2; Technik/Computer/Dateien; Videoene på mobilen tar veldig mye lagringsplass.; Die Videos belegen sehr viel Speicherplatz.
+no-tc-0102; Prozessor; en prosessor; ; B2; Technik/Computer/Hardware; En raskere prosessor gjør laptopen dyrere.; Ein schnellerer Prozessor macht den Laptop teurer.
+no-tc-0103; Grafikkarte; et grafikkort; ; B2; Technik/Computer/Hardware; Moderne spill trenger et kraftig grafikkort.; Moderne Spiele brauchen eine leistungsstarke Grafikkarte.
+no-tc-0104; Hauptplatine; et hovedkort; ; B2; Technik/Computer/Hardware; Hovedkortet kobler sammen alle delene i datamaskinen.; Die Hauptplatine verbindet alle Teile des Computers.
+no-tc-0105; Benutzeroberfläche; et brukergrensesnitt; ; B2; Technik/Computer/Software; Det nye brukergrensesnittet er oversiktlig og enkelt.; Die neue Benutzeroberfläche ist übersichtlich und einfach.
+no-tc-0106; benutzerfreundlich; brukervennlig; ; B2; Technik/Computer/Software; Nettsiden er moderne og veldig brukervennlig.; Die Webseite ist modern und sehr benutzerfreundlich.
+no-tc-0107; Zugriff; en tilgang; ; B2; Technik/Computer/Sicherheit; Bare sjefen har tilgang til disse filene.; Nur der Chef hat Zugriff auf diese Dateien.
+no-tc-0108; Berechtigung; en tillatelse; ; B2; Technik/Computer/Sicherheit; Appen ber om tillatelse til å bruke kameraet.; Die App bittet um die Berechtigung, die Kamera zu benutzen.
+no-tc-0109; Benutzerkonto; en brukerkonto; ; B2; Technik/Computer/Sicherheit; Opprett en brukerkonto for å bruke alle funksjonene.; Erstelle ein Benutzerkonto, um alle Funktionen zu nutzen.
+no-tc-0110; Fehlermeldung; en feilmelding; ; B2; Technik/Computer/Software; Feilmeldingen kommer hver gang jeg skriver ut.; Die Fehlermeldung erscheint jedes Mal, wenn ich drucke.
+no-tc-0111; Fehlerbehebung; en feilsøking; en feilretting; B2; Technik/Computer/Software; Håndboken har et kapittel om feilsøking.; Das Handbuch hat ein Kapitel zur Fehlerbehebung.
+no-tc-0112; Quellcode; en kildekode; ; B2; Technik/Computer/Software; Kildekoden til dette programmet er helt offentlig.; Der Quellcode des Programms ist öffentlich.
+no-tc-0113; Programmiersprache; et programmeringsspråk; ; B2; Technik/Computer/Software; Python er et populært programmeringsspråk for nybegynnere.; Python ist eine beliebte Programmiersprache für Anfänger.
+no-tc-0114; maschinelles Lernen; maskinlæring; ; B2; Technik/Computer/Künstliche Intelligenz; Maskinlæring hjelper leger å oppdage sykdommer tidligere.; Maschinelles Lernen hilft Ärzten, Krankheiten früher zu erkennen.
+no-tc-0115; Algorithmus; en algoritme; ; B2; Technik/Computer/Künstliche Intelligenz; En algoritme bestemmer hvilke videoer du ser.; Ein Algorithmus entscheidet, welche Videos du siehst.
+no-tc-0116; Rechenleistung; en regnekraft; ; B2; Technik/Computer/Hardware; Kunstig intelligens trenger i dag enorm regnekraft.; Künstliche Intelligenz braucht enorme Rechenleistung.
+no-tc-0117; Datenanalyse; en dataanalyse; ; B2; Technik/Computer/Künstliche Intelligenz; Dataanalysen viser hva kundene egentlig vil ha.; Die Datenanalyse zeigt, was Kunden wirklich wollen.
+no-tc-0118; Spracherkennung; en talegjenkjenning; ; B2; Technik/Computer/Künstliche Intelligenz; Talegjenkjenning fungerer bra i rolige rom.; Spracherkennung funktioniert gut in ruhigen Räumen.
+no-tc-0119; Gesichtserkennung; en ansiktsgjenkjenning; ; B2; Technik/Computer/Künstliche Intelligenz; Ansiktsgjenkjenningen låser opp mobilen på ett sekund.; Die Gesichtserkennung entsperrt das Handy in einer Sekunde.
+no-tc-0120; Phishing; et nettfiske; en phishing; B2; Technik/Computer/Sicherheit; Nettfiske-e-poster ser ofte overraskende ekte ut i dag.; Phishing-Mails sehen heute oft überraschend echt aus.
+no-tc-0121; Bandbreite; en båndbredde; ; B2; Technik/Computer/Internet; Videosamtaler på nettet trenger veldig mye båndbredde.; Videoanrufe brauchen sehr viel Bandbreite.
+no-tc-0122; Glasfaser; en fiber; en glassfiber; B2; Technik/Computer/Internet; Fiber gjør internettet hjemme mye raskere.; Glasfaser macht das Internet viel schneller.
+no-tc-0123; Schnittstelle; et grensesnitt; ; B2; Technik/Computer/Software; Grensesnittet kobler programvaren direkte til skriveren.; Die Schnittstelle verbindet die Software mit dem Drucker.
+no-tc-0124; Rechenzentrum; et datasenter; ; B2; Technik/Computer/Internet; Det nye datasenteret bruker utelukkende fornybar strøm.; Das Rechenzentrum nutzt ausschließlich Ökostrom.
+no-tc-0125; Absturz; et krasj; ; B2; Technik/Computer/Software; Etter krasjet mistet jeg hele teksten min.; Nach dem Absturz habe ich meinen ganzen Text verloren.
+no-tc-0126; Datenverarbeitung; en databehandling; ; C1; Technik/Computer/Dateien; Moderne databehandling krever klare juridiske regler.; Moderne Datenverarbeitung erfordert klare gesetzliche Regeln.
+no-tc-0127; Verfügbarkeit; en tilgjengelighet; ; C1; Technik/Computer/Internet; Leverandøren garanterer en tilgjengelighet på nittini prosent.; Der Anbieter garantiert eine Verfügbarkeit von neunundneunzig Prozent.
+no-tc-0128; Ausfallzeit; en nedetid; ; C1; Technik/Computer/Internet; Hver time nedetid koster bedriften penger.; Jede Stunde Ausfallzeit kostet das Unternehmen Geld.
+no-tc-0129; Skalierbarkeit; en skalerbarhet; ; C1; Technik/Computer/Software; Skalerbarhet var et sentralt krav til plattformen.; Skalierbarkeit war eine zentrale Anforderung an die Plattform.
+no-tc-0130; Authentifizierung; en autentisering; ; C1; Technik/Computer/Sicherheit; Tofaktorautentisering gjør kontoen din mye tryggere.; Zwei-Faktor-Authentifizierung macht dein Konto viel sicherer.
+no-tc-0131; neuronales Netz; et nevralt nettverk; et nevralt nett; C1; Technik/Computer/Künstliche Intelligenz; Det nevrale nettverket gjenkjenner ansikter på bilder.; Das neuronale Netz erkennt Gesichter auf Fotos.
+no-tc-0132; Quantencomputer; en kvantedatamaskin; ; C1; Technik/Computer/Hardware; En kvantedatamaskin kan knekke dagens kryptering.; Ein Quantencomputer könnte die heutige Verschlüsselung knacken.
+no-tc-0133; Halbleiter; en halvleder; ; C1; Technik/Computer/Hardware; Halvledere er grunnlaget for all moderne elektronikk.; Halbleiter sind die Grundlage aller modernen Elektronik.
+no-tc-0134; Platine; et kretskort; ; C1; Technik/Computer/Hardware; Han loddet en bitteliten brikke på kretskortet.; Er lötete einen winzigen Chip auf die Platine.
+no-tc-0135; Datenübertragung; en dataoverføring; ; C1; Technik/Computer/Internet; Dataoverføringen ble avbrutt flere ganger i dag.; Die Datenübertragung wurde heute mehrmals unterbrochen.
+no-tc-0136; Komprimierung; en komprimering; ; C1; Technik/Computer/Dateien; Komprimering reduserer størrelsen på store videofiler.; Komprimierung verringert die Größe großer Videodateien.
+no-tc-0137; Redundanz; en redundans; ; C1; Technik/Computer/Internet; Redundans beskytter systemet mot plutselige utfall.; Redundanz schützt das System vor plötzlichen Ausfällen.
+no-tc-0138; Ausfallsicherheit; en driftssikkerhet; ; C1; Technik/Computer/Internet; Driftssikkerhet er uunnværlig for datasystemer på sykehus.; Ausfallsicherheit ist für Computersysteme in Krankenhäusern unverzichtbar.
+no-tc-0139; Datenintegrität; en dataintegritet; ; C1; Technik/Computer/Dateien; Regelmessige kontroller sikrer dataintegriteten i hele arkivet.; Regelmäßige Prüfungen sichern die Datenintegrität des Archivs.
+no-tc-0140; Schwachstelle; en sårbarhet; et svakt punkt; C1; Technik/Computer/Sicherheit; Forskerne oppdaget en sårbarhet i ruteren.; Die Forscher entdeckten eine Schwachstelle im Router.
+no-tc-0141; Erpressungssoftware; et løsepengevirus; en ransomware; C1; Technik/Computer/Sicherheit; Et løsepengevirus krypterte alle filene til kommuneadministrasjonen.; Erpressungssoftware verschlüsselte alle Dateien der Stadtverwaltung.
+no-tc-0142; quelloffen; åpen kildekode; open source; C1; Technik/Computer/Software; Mange utviklere foretrekker programmer med åpen kildekode i det daglige arbeidet.; Viele Entwickler bevorzugen quelloffene Programme für die tägliche Arbeit.
+no-tc-0143; Sprachmodell; en språkmodell; ; C1; Technik/Computer/Künstliche Intelligenz; Språkmodellen skriver overraskende naturlige svar på norsk.; Das Sprachmodell schreibt überraschend natürliche Antworten auf Norwegisch.
+no-tc-0144; Abwärtskompatibilität; en bakoverkompatibilitet; ; C2; Technik/Computer/Software; Bakoverkompatibilitet gjør at gamle programmer kan fortsette å kjøre.; Abwärtskompatibilität erlaubt es alten Programmen, weiter zu laufen.
+no-tc-0145; Rechnerarchitektur; en datamaskinarkitektur; ; C2; Technik/Computer/Hardware; Forelesningen i dag handler om grunnleggende datamaskinarkitektur.; Die heutige Vorlesung behandelt die Grundlagen der Rechnerarchitektur.
+no-tc-0146; Kryptographie; en kryptografi; ; C2; Technik/Computer/Sicherheit; Moderne kryptografi bygger på vanskelige matematiske problemer.; Moderne Kryptographie beruht auf schwierigen mathematischen Problemen.
+no-tc-0147; Datenhoheit; en datasuverenitet; ; C2; Technik/Computer/Sicherheit; Mange land diskuterer datasuverenitet for tiden.; Viele Länder diskutieren derzeit über Datenhoheit.
+no-tc-0148; Obsoleszenz; en foreldelse; en obsolescens; C2; Technik/Computer/Geräte; Kritikere beskylder produsentene for planlagt foreldelse av produkter.; Kritiker werfen Herstellern geplante Obsoleszenz ihrer Produkte vor.
+no-tc-0149; Interoperabilität; en interoperabilitet; ; C2; Technik/Computer/Software; Interoperabilitet mellom ulike systemer sparer både tid og penger.; Interoperabilität zwischen verschiedenen Systemen spart Zeit und Geld.
+no-tc-0150; Latenz; en latens; en latenstid; C2; Technik/Computer/Internet; Lav latens er avgjørende når man spiller på nett.; Eine niedrige Latenz ist beim Online-Spielen entscheidend.

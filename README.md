@@ -18,12 +18,12 @@ Wortschatz und Listen für den Vokabeltrainer. Die App baut diesen Stand mit `no
 Ändert sich eine Wortdatei, steigt ihre `version` in `katalog.json`; ändert sich eine Liste, deren `version`;
 ändert sich der Baum, `areas.version`.
 IDs bleiben stabil, denn an ihnen hängt der Lernstand. Andere Lernsprachen bekommen eine eigene Quelle mit
-`"lang": "fr"` (bzw. `es`, `it`) und eigene IDs (`fr-…`).
+`"lang": "fr"` (bzw. `es`, `it`, `no`) und eigene IDs (`fr-…`).
 
-**Sprachfassungen:** Die Themen- und Business-Listen gibt es auf Englisch, Französisch, Spanisch und Italienisch. Die
+**Sprachfassungen:** Die Themen- und Business-Listen gibt es auf Englisch, Französisch, Spanisch, Italienisch und Norwegisch (Bokmål). Die
 Wortdatei einer Fassung heißt `woerter/<sprache>-<quelle>.txt`, ihre Wörter `<sprache>-<id der englischen Quelle>`
 (`fr-et-0001` zu `et-0001`), Deutsch, Niveau und Themen sind gleich. Die Liste heißt `<sprache>-<id der englischen
-Liste>` und trägt `"answerLang"`; Name „Französisch: Essen & Trinken“. Die App zeigt die Fassungen als einen Eintrag mit
+Liste>` und trägt `"answerLang"`; Name „Französisch: Essen & Trinken“ (entsprechend „Norwegisch: …“). Die App zeigt die Fassungen als einen Eintrag mit
 mehreren Flaggen: Zusammen gehören Listen mit gleichem `"group"` oder, ohne Angabe, mit gleicher id ohne Sprachkürzel
 vorne. Im Baum stehen alle Fassungen hintereinander, damit auch ältere App-Stände sie am richtigen Platz zeigen.
 

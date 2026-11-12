@@ -23,7 +23,7 @@ const lang = opt("--lang") ?? "en";
 const datei = opt("--datei");
 const kandidaten = (datei ? readFileSync(datei, "utf8").split(/\r?\n/) : args).map((s) => s.trim()).filter((s) => s && !s.startsWith("#"));
 if (!kandidaten.length) {
-  console.log("Aufruf: node scripts/gibt-es.mjs [--lang fr|es|it] Wort … | --datei kandidaten.txt");
+  console.log("Aufruf: node scripts/gibt-es.mjs [--lang fr|es|it|no] Wort … | --datei kandidaten.txt");
   process.exit(1);
 }
 

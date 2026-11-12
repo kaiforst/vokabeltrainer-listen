@@ -4,7 +4,7 @@ import { join } from "node:path";
 import { fileURLToPath } from "node:url";
 
 export const ROOT = join(fileURLToPath(import.meta.url), "..", "..");
-export const SPRACHEN = { Englisch: "en", Französisch: "fr", Spanisch: "es", Italienisch: "it" };
+export const SPRACHEN = { Englisch: "en", Französisch: "fr", Spanisch: "es", Italienisch: "it", Norwegisch: "no" };
 
 /** Vergleichsform wie `normalize` in der App (src/domain/answerEvaluator.ts): so erkennt der Parser Dubletten */
 export const norm = (s) =>

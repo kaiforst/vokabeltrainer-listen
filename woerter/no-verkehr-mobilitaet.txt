@@ -1,0 +1,152 @@
+# Norwegisch: Verkehr & Mobilität
+id; Deutsch; Norwegisch; Weitere Antworten; Niveau; Themen; Beispiel Norwegisch; Beispiel Deutsch
+no-vm-0001; Auto; en bil; ; A1; Reisen/Verkehr/Auto; Bilen min står parkert foran huset.; Mein Auto steht vor dem Haus.
+no-vm-0002; Bus; en buss; ; A1; Reisen/Verkehr/Bus & Bahn; Bussen til sentrum går klokka ni.; Der Bus in die Innenstadt fährt um neun.
+no-vm-0003; Zug; et tog; ; A1; Reisen/Verkehr/Bus & Bahn; Toget kommer inn på spor to i dag.; Der Zug kommt heute an Gleis zwei an.
+no-vm-0004; Fahrrad; en sykkel; ; A1; Reisen/Verkehr/Fahrrad; Jeg tar sykkelen til jobb hver dag.; Ich fahre jeden Tag mit dem Fahrrad zur Arbeit.
+no-vm-0005; Straße; en gate; ; A1; Reisen/Verkehr/Straße & Regeln; Gata er veldig rolig om natten.; Die Straße ist nachts sehr ruhig.
+no-vm-0006; Ampel; et trafikklys; et lyssignal; A1; Reisen/Verkehr/Straße & Regeln; Vent til trafikklyset blir grønt, før du går over.; Bitte warte, bis die Ampel grün wird.
+no-vm-0007; Haltestelle; en holdeplass; et stoppested, et busstopp; A1; Reisen/Verkehr/Bus & Bahn; Holdeplassen for bussen ligger rett rundt hjørnet.; Die Haltestelle für den Bus liegt gleich um die Ecke.
+no-vm-0008; Bahnhof; en togstasjon; en stasjon, en jernbanestasjon; A1; Reisen/Verkehr/Bus & Bahn; Vi møtes på togstasjonen til lunsj.; Wir treffen uns mittags am Bahnhof.
+no-vm-0009; Fahrkarte; en billett; ; A1; Reisen/Verkehr/Bus & Bahn; Jeg kjøpte en billett til nattoget.; Ich habe eine Fahrkarte für den Nachtzug gekauft.
+no-vm-0010; fahren; å kjøre; ; A1; Reisen/Verkehr/Auto; Hun kjører til kontoret hver morgen.; Sie fährt jeden Morgen ins Büro.
+no-vm-0011; zu Fuß gehen; å gå til fots; å gå; A1; Reisen/Verkehr/Wegbeschreibung; Vi går til fots til bakeren hver søndag.; Wir gehen sonntags zu Fuß zum Bäcker.
+no-vm-0012; links; til venstre; ; A1; Reisen/Verkehr/Wegbeschreibung; Ta til venstre ved neste hjørne, takk.; Biegen Sie an der nächsten Ecke bitte links ab.
+no-vm-0013; rechts; til høyre; ; A1; Reisen/Verkehr/Wegbeschreibung; Posten ligger til høyre for kirka.; Die Post liegt rechts von der Kirche.
+no-vm-0014; geradeaus; rett frem; like frem; A1; Reisen/Verkehr/Wegbeschreibung; Gå rett frem til du kommer til kirka.; Gehen Sie geradeaus, bis Sie die Kirche erreichen.
+no-vm-0015; Taxi; en drosje; en taxi; A1; Reisen/Verkehr/Auto; Vi tok en drosje fra flyplassen i går kveld.; Wir haben gestern Abend vom Flughafen ein Taxi genommen.
+no-vm-0016; U-Bahn; en t-bane; en undergrunnsbane; A1; Reisen/Verkehr/Bus & Bahn; T-banen går hvert femte minutt her.; Die U-Bahn fährt hier alle fünf Minuten.
+no-vm-0017; Weg; en vei; ; A1; Reisen/Verkehr/Wegbeschreibung; Kan du vise meg veien til havna?; Können Sie mir den Weg zum Hafen zeigen?
+no-vm-0018; Brücke; ei bru; en bru; A1; Reisen/Verkehr/Straße & Regeln; Den gamle brua fører over den brede elva.; Die alte Brücke führt über den breiten Fluss.
+no-vm-0019; Karte (Landkarte); et kart; ; A1; Reisen/Verkehr/Wegbeschreibung; Vi så på kartet før vi kjørte.; Wir haben uns vor der Fahrt die Karte angesehen.
+no-vm-0020; schnell; rask; kjapp; A1; Reisen/Verkehr/Straße & Regeln; Dette nye toget er veldig raskt og behagelig.; Dieser neue Zug ist sehr schnell und bequem.
+no-vm-0021; langsam; langsom; ; A1; Reisen/Verkehr/Straße & Regeln; Trafikken i sentrum er veldig langsom i dag.; Der Verkehr in der Innenstadt ist heute sehr langsam.
+no-vm-0022; halten (anhalten); å stoppe; ; A1; Reisen/Verkehr/Bus & Bahn; Bussen stopper alltid rett ved museet.; Der Bus hält immer direkt am Museum.
+no-vm-0023; Stadtplan; et bykart; ; A1; Reisen/Verkehr/Wegbeschreibung; Bykartet over Oslo viser alle bussrutene.; Der Stadtplan von Oslo zeigt alle Buslinien.
+no-vm-0024; Fahrer; en sjåfør; ; A1; Reisen/Verkehr/Auto; Sjåføren ventet på oss utenfor hotellet.; Der Fahrer hat am Hotel auf uns gewartet.
+no-vm-0025; Parkplatz; en parkeringsplass; ; A1; Reisen/Verkehr/Auto; Parkeringsplassen bak butikken er helt gratis.; Der Parkplatz hinter dem Geschäft ist völlig kostenlos.
+no-vm-0026; abbiegen; å svinge; ; A2; Reisen/Verkehr/Wegbeschreibung; Etter brua må du svinge til høyre.; Nach der Brücke müssen Sie rechts abbiegen.
+no-vm-0027; Kreuzung; et kryss; et veikryss; A2; Reisen/Verkehr/Straße & Regeln; Det skjedde en liten ulykke i krysset.; An der Kreuzung gab es einen kleinen Unfall.
+no-vm-0028; Führerschein; et førerkort; ; A2; Reisen/Verkehr/Auto; Han tok førerkortet i fjor sommer.; Er hat seinen Führerschein letzten Sommer gemacht.
+no-vm-0029; tanken; å fylle bensin; å tanke; A2; Reisen/Verkehr/Tanken & Laden; Vi må fylle bensin før den lange turen.; Wir müssen vor der langen Fahrt tanken.
+no-vm-0030; Tankstelle; en bensinstasjon; ; A2; Reisen/Verkehr/Tanken & Laden; Neste bensinstasjon ligger ti kilometer unna.; Die nächste Tankstelle ist zehn Kilometer entfernt.
+no-vm-0031; Benzin; en bensin; ; A2; Reisen/Verkehr/Tanken & Laden; Bensinen har blitt dyrere i år.; Benzin ist dieses Jahr teurer geworden.
+no-vm-0032; Autobahn; en motorvei; ; A2; Reisen/Verkehr/Straße & Regeln; Vi tok motorveien for å spare tid.; Wir haben die Autobahn genommen, um Zeit zu sparen.
+no-vm-0033; Stau; en bilkø; en kø; A2; Reisen/Verkehr/Straße & Regeln; Vi sto i bilkø i flere timer.; Wir standen stundenlang im Stau.
+no-vm-0034; Unfall; en ulykke; ei ulykke; A2; Reisen/Verkehr/Straße & Regeln; Ulykken skjedde veldig tidlig om morgenen.; Der Unfall passierte sehr früh am Morgen.
+no-vm-0035; Verspätung; en forsinkelse; ; A2; Reisen/Verkehr/Bus & Bahn; Toget fra Bergen har tjue minutter forsinkelse.; Der Zug aus Bergen hat zwanzig Minuten Verspätung.
+no-vm-0036; Gleis; et spor; ; A2; Reisen/Verkehr/Bus & Bahn; Toget ditt går i dag fra spor sju.; Ihr Zug fährt heute von Gleis sieben ab.
+no-vm-0037; Bahnsteig; en perrong; en plattform; A2; Reisen/Verkehr/Bus & Bahn; Mange sto og ventet på perrongen.; Viele Menschen warteten auf dem Bahnsteig.
+no-vm-0038; Fahrplan; en rutetabell; en ruteplan; A2; Reisen/Verkehr/Bus & Bahn; Den nye rutetabellen gjelder fra desember.; Der neue Fahrplan gilt ab Dezember.
+no-vm-0039; umsteigen; å bytte tog; ; A2; Reisen/Verkehr/Bus & Bahn; Du må bytte tog i Oslo.; Du musst in Oslo umsteigen.
+no-vm-0040; einsteigen; å stige på; å gå om bord; A2; Reisen/Verkehr/Bus & Bahn; Du må stige på raskt, dørene lukkes.; Du musst schnell einsteigen, die Türen schließen.
+no-vm-0041; aussteigen; å stige av; å gå av; A2; Reisen/Verkehr/Bus & Bahn; Vi stiger av ved neste stasjon.; Wir steigen an der nächsten Station aus.
+no-vm-0042; Helm; en hjelm; ; A2; Reisen/Verkehr/Fahrrad; Bruk alltid hjelm når du sykler.; Trag immer einen Helm, wenn du Rad fährst.
+no-vm-0043; Rad (am Fahrzeug); et hjul; ; A2; Reisen/Verkehr/Fahrrad; Forhjulet på sykkelen min er ødelagt.; Das Vorderrad meines Fahrrads ist kaputt.
+no-vm-0044; Reifen; et dekk; ; A2; Reisen/Verkehr/Auto; Det venstre dekket mister sakte luft.; Der linke Reifen verliert langsam Luft.
+no-vm-0045; Bremse; en brems; ; A2; Reisen/Verkehr/Fahrrad; Sjekk bremsene før hver lange tur.; Prüfe die Bremsen vor jeder langen Tour.
+no-vm-0046; bremsen; å bremse; ; A2; Reisen/Verkehr/Auto; Han måtte bremse hardt på grunn av en katt.; Er musste wegen einer Katze plötzlich bremsen.
+no-vm-0047; Motor; en motor; ; A2; Reisen/Verkehr/Auto; Motoren har laget en rar lyd i det siste.; Der Motor macht in letzter Zeit ein seltsames Geräusch.
+no-vm-0048; Verkehr; en trafikk; ; A2; Reisen/Verkehr/Straße & Regeln; Det er tett trafikk om morgenen.; Am Morgen herrscht dichter Verkehr.
+no-vm-0049; Fußgänger; en fotgjenger; ; A2; Reisen/Verkehr/Straße & Regeln; Fotgjengere bør bruke overgangen der borte.; Fußgänger sollten den Übergang dort drüben benutzen.
+no-vm-0050; Zebrastreifen; et fotgjengerfelt; en fotgjengerovergang, et gangfelt; A2; Reisen/Verkehr/Straße & Regeln; Bilene må stoppe ved fotgjengerfeltet når noen skal over.; Die Autos müssen am Zebrastreifen anhalten, wenn jemand hinüber will.
+no-vm-0051; Schild; et skilt; ; A2; Reisen/Verkehr/Straße & Regeln; Skiltet sier at man ikke får parkere her.; Das Schild sagt, dass man hier nicht parken darf.
+no-vm-0052; Richtung; en retning; ; A2; Reisen/Verkehr/Wegbeschreibung; Kjører vi egentlig i riktig retning nå?; Fahren wir jetzt eigentlich in die richtige Richtung?
+no-vm-0053; Entfernung; en avstand; en distanse; A2; Reisen/Verkehr/Wegbeschreibung; Avstanden til kysten er femti kilometer.; Die Entfernung zur Küste beträgt fünfzig Kilometer.
+no-vm-0054; parken; å parkere; ; A2; Reisen/Verkehr/Auto; Du kan gjerne parkere bak rådhuset her.; Du kannst hier gern hinter dem Rathaus parken.
+no-vm-0055; Fahrgast; en passasjer; ; A2; Reisen/Verkehr/Bus & Bahn; Hver passasjer trenger en gyldig billett.; Jeder Fahrgast braucht eine gültige Fahrkarte.
+no-vm-0056; Straßenbahn; en trikk; en sporvogn; A2; Reisen/Verkehr/Bus & Bahn; Trikken stopper rett foran teateret i Oslo.; Die Straßenbahn hält direkt vor dem Theater in Oslo.
+no-vm-0057; Motorrad; en motorsykkel; ; A2; Reisen/Verkehr/Auto; Han kjører motorsykkelen bare om sommeren.; Er fährt sein Motorrad nur im Sommer.
+no-vm-0058; Lastwagen; en lastebil; ; A2; Reisen/Verkehr/Auto; En stor lastebil blokkerte den smale veien.; Ein großer Lastwagen blockierte die enge Straße.
+no-vm-0059; Rückfahrkarte; en returbillett; ; A2; Reisen/Verkehr/Bus & Bahn; En returbillett er billigere enn to enkeltbilletter.; Eine Rückfahrkarte ist billiger als zwei Einzelfahrkarten.
+no-vm-0060; Ecke; et hjørne; ; A2; Reisen/Verkehr/Wegbeschreibung; Apoteket ligger i hjørnet av plassen.; Die Apotheke ist an der Ecke des Platzes.
+no-vm-0061; Kreisverkehr; en rundkjøring; ; B1; Reisen/Verkehr/Straße & Regeln; Ta andre avkjørsel når du kommer til rundkjøringen.; Nimm die zweite Ausfahrt, wenn du zum Kreisverkehr kommst.
+no-vm-0062; Geschwindigkeit; en hastighet; en fart; B1; Reisen/Verkehr/Straße & Regeln; Vennligst reduser hastigheten din i boligområder.; Bitte verringere deine Geschwindigkeit in Wohngebieten.
+no-vm-0063; Geschwindigkeitsbegrenzung; en fartsgrense; ; B1; Reisen/Verkehr/Straße & Regeln; Fartsgrensen her er tretti kilometer i timen.; Die Geschwindigkeitsbegrenzung beträgt hier dreißig Stundenkilometer.
+no-vm-0064; überholen; å kjøre forbi; å forbikjøre; B1; Reisen/Verkehr/Straße & Regeln; Det er farlig å kjøre forbi i denne svingen.; Es ist gefährlich, in dieser Kurve zu überholen.
+no-vm-0065; Vorfahrt; en forkjørsrett; ; B1; Reisen/Verkehr/Straße & Regeln; Bilen fra høyre har forkjørsrett i dette krysset.; Das Auto von rechts hat an dieser Kreuzung Vorfahrt.
+no-vm-0066; Bußgeld; ei bot; en bot; B1; Reisen/Verkehr/Straße & Regeln; Han betalte en bot i går for å ha kjørt for fort.; Er hat gestern ein Bußgeld für zu schnelles Fahren bezahlt.
+no-vm-0067; Strafzettel; en parkeringsbot; ; B1; Reisen/Verkehr/Auto; Jeg fant en parkeringsbot på frontruta mi.; Ich fand einen Strafzettel an meiner Windschutzscheibe.
+no-vm-0068; Panne; en motorstopp; ; B1; Reisen/Verkehr/Auto; Vi fikk motorstopp på veien hjem.; Wir hatten auf dem Heimweg eine Panne.
+no-vm-0069; Werkstatt (Auto); et verksted; ; B1; Reisen/Verkehr/Auto; Bilen står på verkstedet til fredag.; Das Auto ist bis Freitag in der Werkstatt.
+no-vm-0070; Versicherung; en forsikring; ; B1; Reisen/Verkehr/Auto; Bilforsikringen er billigere for forsiktige sjåfører.; Die Autoversicherung ist für vorsichtige Fahrer günstiger.
+no-vm-0071; Kennzeichen; et registreringsnummer; et nummerskilt; B1; Reisen/Verkehr/Auto; Vitnet skrev opp bilens registreringsnummer på en lapp.; Der Zeuge schrieb das Kennzeichen des Wagens auf einen Zettel.
+no-vm-0072; Kofferraum; et bagasjerom; ; B1; Reisen/Verkehr/Auto; Kan du legge koffertene i bagasjerommet, takk?; Kannst du die Koffer bitte in den Kofferraum legen?
+no-vm-0073; Sicherheitsgurt; et sikkerhetsbelte; et bilbelte; B1; Reisen/Verkehr/Auto; Sikkerhetsbeltet reddet livet hans i ulykken.; Der Sicherheitsgurt rettete ihm beim Unfall das Leben.
+no-vm-0074; sich anschnallen; å spenne fast beltet; å ta på seg sikkerhetsbeltet; B1; Reisen/Verkehr/Auto; Spenn fast beltet før vi kjører.; Schnall den Gurt an, bevor wir losfahren.
+no-vm-0075; Umleitung; en omkjøring; ; B1; Reisen/Verkehr/Straße & Regeln; Omkjøringen forlenger turen med ti minutter.; Die Umleitung verlängert die Fahrt um zehn Minuten.
+no-vm-0076; Baustelle; et veiarbeid; en anleggsplass; B1; Reisen/Verkehr/Straße & Regeln; Veiarbeidet på hovedgata fører til lange køer.; Die Straßenbauarbeiten auf der Hauptstraße führen zu langen Staus.
+no-vm-0077; Spur (Fahrbahn); et kjørefelt; ; B1; Reisen/Verkehr/Straße & Regeln; Hold deg i høyre kjørefelt til avkjørselen.; Bleiben Sie bis zur Ausfahrt auf der rechten Spur.
+no-vm-0078; Navigationssystem; et navigasjonssystem; ; B1; Reisen/Verkehr/Wegbeschreibung; Navigasjonssystemet i bilen fant en raskere rute.; Das Navigationssystem im Auto hat eine schnellere Route gefunden.
+no-vm-0079; Ladestation; en ladestasjon; ; B1; Reisen/Verkehr/Tanken & Laden; Det finnes en ladestasjon ved supermarkedet.; Am Supermarkt gibt es eine Ladestation.
+no-vm-0080; Elektroauto; en elbil; ; B1; Reisen/Verkehr/Tanken & Laden; Elbilen vår er veldig stille inne i byen.; Unser Elektroauto ist in der Stadt sehr leise.
+no-vm-0081; aufladen; å lade; å lade opp; B1; Reisen/Verkehr/Tanken & Laden; Vi lader opp bilen over natten i garasjen.; Wir laden das Auto über Nacht in der Garage auf.
+no-vm-0082; Diesel; en diesel; ; B1; Reisen/Verkehr/Tanken & Laden; Denne motoren går på diesel, ikke på bensin.; Dieser Motor läuft mit Diesel, nicht mit Benzin.
+no-vm-0083; Verbrauch; et forbruk; ; B1; Reisen/Verkehr/Tanken & Laden; Forbruket til denne lille bilen er lavt.; Der Verbrauch dieses kleinen Autos ist niedrig.
+no-vm-0084; Radweg; en sykkelsti; en sykkelvei; B1; Reisen/Verkehr/Fahrrad; Den nye sykkelstien går langs elva.; Der neue Radweg führt am Fluss entlang.
+no-vm-0085; Gehweg; et fortau; ; B1; Reisen/Verkehr/Straße & Regeln; Det er forbudt å sykle på fortauet her.; Auf dem Gehweg Rad zu fahren ist hier verboten.
+no-vm-0086; Einbahnstraße; en enveiskjørt gate; en enveisgate; B1; Reisen/Verkehr/Straße & Regeln; Pass på, dette er en enveiskjørt gate.; Vorsicht, das ist eine Einbahnstraße.
+no-vm-0087; Verkehrszeichen; et trafikkskilt; ; B1; Reisen/Verkehr/Straße & Regeln; Til prøven må du lære alle trafikkskiltene.; Für die Prüfung musst du alle Verkehrszeichen lernen.
+no-vm-0088; Fahrgemeinschaft; en samkjøring; ; B1; Reisen/Verkehr/Auto; Vi har startet samkjøring med tre kolleger.; Wir haben mit drei Kollegen eine Fahrgemeinschaft gegründet.
+no-vm-0089; Hauptverkehrszeit; en rushtid; ; B1; Reisen/Verkehr/Straße & Regeln; Unngå motorveien i rushtiden hvis du kan.; Meide die Autobahn möglichst während der Hauptverkehrszeit.
+no-vm-0090; Anschluss; en forbindelse; ; B1; Reisen/Verkehr/Bus & Bahn; På grunn av forsinkelsen mistet vi forbindelsen vår.; Wegen der Verspätung haben wir unseren Anschluss verpasst.
+no-vm-0091; Abfahrt; en avgang; ; B1; Reisen/Verkehr/Bus & Bahn; Avgangen er klokka seks om morgenen.; Die Abfahrt ist um sechs Uhr morgens.
+no-vm-0092; Ankunft; en ankomst; ; B1; Reisen/Verkehr/Bus & Bahn; Ankomsten vår til Bergen er planlagt ved middagstid.; Unsere Ankunft in Bergen ist für mittags geplant.
+no-vm-0093; entwerten; å validere; å stemple; B1; Reisen/Verkehr/Bus & Bahn; Valider billetten før du stiger på trikken.; Bitte entwerten Sie Ihre Fahrkarte vor dem Einsteigen in die Straßenbahn.
+no-vm-0094; Schaffner; en kontrollør; en konduktør; B1; Reisen/Verkehr/Bus & Bahn; Kontrolløren sjekket billettene våre på vei til Bergen.; Der Schaffner kontrollierte unsere Fahrkarten auf dem Weg nach Bergen.
+no-vm-0095; Parkhaus; et parkeringshus; ; B1; Reisen/Verkehr/Auto; Parkeringshuset ved stasjonen er helt fullt nå.; Das Parkhaus am Bahnhof ist jetzt ganz voll.
+no-vm-0096; Fahrbahn; en kjørebane; ; B2; Reisen/Verkehr/Straße & Regeln; Nedfalne greiner lå utover hele kjørebanen.; Heruntergefallene Äste lagen über die ganze Fahrbahn verteilt.
+no-vm-0097; Fußgängerzone; en gågate; en fotgjengersone; B2; Reisen/Verkehr/Straße & Regeln; Det er forbudt å kjøre bil i gågata.; Autos sind in der Fußgängerzone verboten.
+no-vm-0098; Verkehrsaufkommen; en trafikkmengde; et trafikkvolum; B2; Reisen/Verkehr/Straße & Regeln; Trafikkmengden dobles nesten hver gang det er ferie.; Das Verkehrsaufkommen verdoppelt sich fast in jeder Ferienzeit.
+no-vm-0099; Fahrverbot; et kjøreforbud; ; B2; Reisen/Verkehr/Straße & Regeln; Han fikk kjøreforbud i en måned.; Er bekam ein Fahrverbot für einen Monat.
+no-vm-0100; abschleppen; å taue bort; å slepe bort; B2; Reisen/Verkehr/Auto; Bilen min ble tauet bort fordi den blokkerte innkjørselen.; Mein Auto wurde abgeschleppt, weil es die Einfahrt blockierte.
+no-vm-0101; Pannendienst; en veihjelp; ; B2; Reisen/Verkehr/Auto; Veihjelpen kom i løpet av en halvtime.; Der Pannendienst kam innerhalb einer halben Stunde.
+no-vm-0102; Ersatzteil; en reservedel; ; B2; Reisen/Verkehr/Auto; Vi må bestille reservedelen helt fra Italia.; Wir müssen das Ersatzteil aus Italien bestellen.
+no-vm-0103; Auspuff; et eksosrør; ; B2; Reisen/Verkehr/Auto; Eksosrøret er rustent og må byttes.; Der Auspuff ist rostig und muss ersetzt werden.
+no-vm-0104; Getriebe; en girkasse; ; B2; Reisen/Verkehr/Auto; Å reparere girkassen vil koste tjue tusen kroner.; Die Reparatur des Getriebes würde zwanzigtausend Kronen kosten.
+no-vm-0105; Kupplung; en kløtsj; en clutch; B2; Reisen/Verkehr/Auto; Slipp opp kløtsjen sakte når du starter i motbakke.; Lass die Kupplung beim Anfahren am Berg langsam kommen.
+no-vm-0106; Rückspiegel; et bakspeil; ; B2; Reisen/Verkehr/Auto; Se i bakspeilet før du bytter felt.; Schau vor dem Spurwechsel in den Rückspiegel.
+no-vm-0107; Blinker; et blinklys; ; B2; Reisen/Verkehr/Auto; Bruk blinklyset i god tid før du svinger.; Setze vor jedem Abbiegen früh den Blinker.
+no-vm-0108; Scheibenwischer; en vindusvisker; ; B2; Reisen/Verkehr/Auto; Vindusviskerne virker nesten ikke i kraftig regn.; Die Scheibenwischer funktionieren bei starkem Regen kaum.
+no-vm-0109; Zündung; en tenning; ; B2; Reisen/Verkehr/Auto; Vri nøkkelen forsiktig for å starte tenningen.; Dreh den Schlüssel sanft, um die Zündung zu starten.
+no-vm-0110; Maut; bompenger; ; B2; Reisen/Verkehr/Straße & Regeln; På de fleste franske motorveier må man betale bompenger.; Auf den meisten französischen Autobahnen zahlt man Maut.
+no-vm-0111; Pendler; en pendler; ; B2; Reisen/Verkehr/Bus & Bahn; Tusenvis av pendlere bruker denne linjen hver dag.; Tausende Pendler nutzen diese Linie täglich.
+no-vm-0112; pendeln; å pendle; ; B2; Reisen/Verkehr/Bus & Bahn; Hun pendler hver dag mellom Drammen og Oslo.; Sie pendelt täglich zwischen Drammen und Oslo.
+no-vm-0113; Nahverkehr; en lokaltrafikk; en nærtrafikk; B2; Reisen/Verkehr/Bus & Bahn; Lokaltrafikken er gratis i helgene i år.; Der Nahverkehr ist dieses Jahr am Wochenende kostenlos.
+no-vm-0114; Fernverkehr; en fjerntrafikk; ; B2; Reisen/Verkehr/Bus & Bahn; Fjerntrafikken ble stanset av stormen i natt.; Der Fernverkehr wurde heute Nacht durch den Sturm unterbrochen.
+no-vm-0115; Schienennetz; et jernbanenett; ; B2; Reisen/Verkehr/Bus & Bahn; Jernbanenettet i Norge trenger milliarder til modernisering.; Das Schienennetz in Norwegen braucht Milliarden für die Modernisierung.
+no-vm-0116; Fahrkartenautomat; en billettautomat; ; B2; Reisen/Verkehr/Bus & Bahn; Billettautomaten tar bare mynter og kort.; Der Fahrkartenautomat nimmt nur Münzen und Karten.
+no-vm-0117; Verkehrsmittel; et transportmiddel; ; B2; Reisen/Verkehr/Bus & Bahn; Sykkelen er det transportmiddelet jeg liker best.; Das Fahrrad ist mein liebstes Verkehrsmittel.
+no-vm-0118; Probefahrt; en prøvekjøring; ; B2; Reisen/Verkehr/Auto; Vi har avtalt prøvekjøring lørdag formiddag.; Wir haben für Samstagvormittag eine Probefahrt vereinbart.
+no-vm-0119; Gebrauchtwagen; en bruktbil; ; B2; Reisen/Verkehr/Auto; Han kjøpte en bruktbil med lav kjørelengde.; Er kaufte einen Gebrauchtwagen mit geringer Laufleistung.
+no-vm-0120; Zulassung (Fahrzeug); en registrering; ; B2; Reisen/Verkehr/Auto; Registreringen av den nye bilen tok to uker.; Die Zulassung des neuen Autos dauerte zwei Wochen.
+no-vm-0121; Verkehrskontrolle; en trafikkontroll; ; B2; Reisen/Verkehr/Straße & Regeln; Politiet holdt trafikkontroll midt på natta.; Die Polizei führte nachts eine Verkehrskontrolle durch.
+no-vm-0122; Alkoholtest; en alkoholtest; en promilletest; B2; Reisen/Verkehr/Straße & Regeln; Føreren måtte ta en alkoholtest hos politiet.; Der Fahrer musste bei der Polizei einen Alkoholtest machen.
+no-vm-0123; Reifenwechsel; et dekkskifte; ; B2; Reisen/Verkehr/Auto; Bestill dekkskiftet i god tid før vinteren kommer.; Vereinbare den Reifenwechsel rechtzeitig, bevor der Winter kommt.
+no-vm-0124; Fahrprüfung; en førerprøve; en kjøreprøve; B2; Reisen/Verkehr/Auto; Hun besto førerprøven på første forsøk.; Sie hat die Fahrprüfung beim ersten Versuch bestanden.
+no-vm-0125; Standstreifen; en veiskulder; ; B2; Reisen/Verkehr/Straße & Regeln; Stopp på veiskulderen bare i nødstilfeller.; Halte auf dem Standstreifen nur im Notfall.
+no-vm-0126; Verkehrswende; en transportomstilling; ; C1; Reisen/Verkehr/Straße & Regeln; Transportomstillingen krever en bedre og tettere kollektivtrafikk.; Die Verkehrswende erfordert einen besseren und dichteren öffentlichen Nahverkehr.
+no-vm-0127; Elektromobilität; en elektromobilitet; ; C1; Reisen/Verkehr/Tanken & Laden; Elektromobilitet avhenger av et tett ladenettverk.; Die Elektromobilität hängt von einem dichten Ladenetz ab.
+no-vm-0128; Reichweite (Fahrzeug); en rekkevidde; ; C1; Reisen/Verkehr/Tanken & Laden; Rekkevidden synker tydelig i kaldt vær.; Die Reichweite sinkt bei kaltem Wetter deutlich.
+no-vm-0129; Emissionen; utslipp; ; C1; Reisen/Verkehr/Straße & Regeln; Byen vil halvere utslippene fra trafikken.; Die Stadt will die Emissionen des Verkehrs halbieren.
+no-vm-0130; Feinstaub; et svevestøv; ; C1; Reisen/Verkehr/Straße & Regeln; Verdiene for svevestøv overskred grenseverdien igjen.; Die Feinstaubwerte überschritten erneut den Grenzwert.
+no-vm-0131; Umweltzone; en miljøsone; en lavutslippssone; C1; Reisen/Verkehr/Straße & Regeln; Eldre dieselbiler får ikke kjøre inn i miljøsonen.; Ältere Dieselautos dürfen nicht in die Umweltzone fahren.
+no-vm-0132; Verkehrsberuhigung; en trafikksanering; ; C1; Reisen/Verkehr/Straße & Regeln; Beboerne har i årevis krevd trafikksanering i gata.; Die Anwohner fordern seit Jahren eine Verkehrsberuhigung.
+no-vm-0133; Fahrassistenzsystem; et førerassistansesystem; ; C1; Reisen/Verkehr/Auto; Førerassistansesystemet varsler før bilen forlater kjørefeltet.; Das Fahrassistenzsystem warnt vor dem Verlassen der Spur.
+no-vm-0134; autonomes Fahren; autonom kjøring; ; C1; Reisen/Verkehr/Auto; Autonom kjøring testes på utvalgte strekninger.; Autonomes Fahren wird auf ausgewählten Strecken getestet.
+no-vm-0135; Verkehrsinfrastruktur; en transportinfrastruktur; ; C1; Reisen/Verkehr/Straße & Regeln; Investeringene i transportinfrastrukturen har blitt forsømt.; Die Investitionen in die Verkehrsinfrastruktur wurden vernachlässigt.
+no-vm-0136; Schienenersatzverkehr; buss for tog; ; C1; Reisen/Verkehr/Bus & Bahn; Under byggearbeidene går det buss for tog.; Während der Bauarbeiten fährt ein Schienenersatzverkehr.
+no-vm-0137; Engpass; en flaskehals; ; C1; Reisen/Verkehr/Straße & Regeln; Dette krysset er en beryktet flaskehals i rushtiden.; Dieser Knotenpunkt ist ein berüchtigter Engpass zur Stoßzeit.
+no-vm-0138; Ausweichroute; en omkjøringsrute; en alternativ rute; C1; Reisen/Verkehr/Wegbeschreibung; Appen foreslo en omkjøringsrute utenom køen.; Die App schlug eine Ausweichroute um den Stau vor.
+no-vm-0139; Fahrtüchtigkeit; en kjøreevne; ; C1; Reisen/Verkehr/Straße & Regeln; Legen vurderte kjøreevnen hans etter sykdommen.; Der Arzt beurteilte nach der Krankheit seine Fahrtüchtigkeit.
+no-vm-0140; Fahrerflucht; en flukt fra ulykkessted; ; C1; Reisen/Verkehr/Straße & Regeln; Politiet etterforsker en flukt fra ulykkessted.; Die Polizei ermittelt wegen Fahrerflucht.
+no-vm-0141; Verkehrsdelikt; en trafikkforseelse; ; C1; Reisen/Verkehr/Straße & Regeln; Gjentatte trafikkforseelser kan koste deg førerkortet.; Wiederholte Verkehrsdelikte können den Führerschein kosten.
+no-vm-0142; Verkehrsleitsystem; et trafikkstyringssystem; ; C1; Reisen/Verkehr/Straße & Regeln; Trafikkstyringssystemet leder bilene utenom ulykker og kø.; Das Verkehrsleitsystem leitet Autos um Unfälle und Staus herum.
+no-vm-0143; Lärmschutzwand; en støyskjerm; ; C1; Reisen/Verkehr/Straße & Regeln; Langs motorveien ble det satt opp en støyskjerm.; Entlang der Autobahn wurde eine Lärmschutzwand errichtet.
+no-vm-0144; Verkehrsverlagerung; en trafikkoverføring; ; C2; Reisen/Verkehr/Bus & Bahn; Overføringen av trafikk fra vei til bane går sakte.; Die Verkehrsverlagerung von der Straße auf die Schiene kommt langsam voran.
+no-vm-0145; Fahrgastaufkommen; et passasjerantall; ; C2; Reisen/Verkehr/Bus & Bahn; Passasjerantallet økte kraftig etter at prisene falt.; Das Fahrgastaufkommen stieg stark an, nachdem die Preise gesunken waren.
+no-vm-0146; Betriebserlaubnis; en typegodkjenning; en driftstillatelse; C2; Reisen/Verkehr/Auto; Ulovlige ombygginger kan gjøre typegodkjenningen til et kjøretøy ugyldig.; Illegale Umbauten lassen die Betriebserlaubnis eines Fahrzeugs erlöschen.
+no-vm-0147; Nachtfahrverbot; et nattkjøringsforbud; ; C2; Reisen/Verkehr/Straße & Regeln; Tunge lastebiler har nattkjøringsforbud på denne veien.; Für schwere Lastwagen gilt auf dieser Straße ein Nachtfahrverbot.
+no-vm-0148; Verkehrssicherungspflicht; et trafikksikringsansvar; ; C2; Reisen/Verkehr/Straße & Regeln; Trafikksikringsansvaret ligger hos kommunen og ikke hos staten.; Die Verkehrssicherungspflicht liegt bei der Gemeinde und nicht beim Staat.
+no-vm-0149; Taktverkehr; ruter med fast takt; ; C2; Reisen/Verkehr/Bus & Bahn; Ruter med fast takt gjør reiseplanleggingen mye enklere.; Taktverkehr macht die Reiseplanung deutlich einfacher.
+no-vm-0150; Verkehrsträger; en transportform; ; C2; Reisen/Verkehr/Bus & Bahn; Jernbanen er fortsatt den mest klimavennlige transportformen.; Die Schiene bleibt der klimafreundlichste Verkehrsträger.

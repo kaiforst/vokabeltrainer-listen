@@ -18,7 +18,7 @@ const DUBLETTEN = args.includes("--dubletten");
 const nurDateien = args.filter((a) => !a.startsWith("--")).map((a) => a.replace(/\\/g, "/"));
 
 const LEVELS = new Set(["A1", "A2", "B1", "B2", "C1", "C2"]);
-const ID = /^(?:(fr|es|it)-)?([a-z]{2})-(\d{4})$/;
+const ID = /^(?:(fr|es|it|no)-)?([a-z]{2})-(\d{4})$/;
 const FELDER = ["id", "Deutsch", "*", "Weitere Antworten", "Niveau", "Themen", "Beispiel *", "Beispiel Deutsch"];
 
 let fehler = 0;
@@ -39,7 +39,7 @@ const quellen = new Map(katalog.words.map((w, i) => [w.file, { ...w, rang: i }])
 const ids = new Map(); // id → Ort
 const paarVon = new Map(); // id → lang|de|antwort
 const paare = new Map(); // lang|de|antwort → [{id, datei, rang}]
-const lemmas = { de: new Set(), en: new Set(), fr: new Set(), es: new Set(), it: new Set() };
+const lemmas = { de: new Set(), en: new Set(), fr: new Set(), es: new Set(), it: new Set(), no: new Set() };
 let woerter = 0;
 
 const dateien = readdirSync(join(ROOT, "woerter")).filter((f) => f.endsWith(".txt")).map((f) => `woerter/${f}`);
@@ -63,7 +63,7 @@ for (const datei of dateien) {
       kopf = f;
       lang = SPRACHEN[f[2]];
       if (pruefen) {
-        if (f.length !== 8 || !lang) err(ort, `Kopfzeile muss lauten: id; Deutsch; Englisch|Französisch|Spanisch|Italienisch; Weitere Antworten; Niveau; Themen; Beispiel <Sprache>; Beispiel Deutsch`);
+        if (f.length !== 8 || !lang) err(ort, `Kopfzeile muss lauten: id; Deutsch; Englisch|Französisch|Spanisch|Italienisch|Norwegisch; Weitere Antworten; Niveau; Themen; Beispiel <Sprache>; Beispiel Deutsch`);
         else if (f[6] !== `Beispiel ${f[2]}` || FELDER.some((n, k) => n !== "*" && !n.includes("*") && n !== f[k])) err(ort, `Kopfzeile weicht ab: ${zeile}`);
       }
       return;
@@ -94,7 +94,7 @@ for (const datei of dateien) {
 
     if (f.length !== 8) return err(ort, `${f.length} statt 8 Felder (genau 7 „;“)`);
     const m = ID.exec(id);
-    if (!m) err(ort, `id „${id}“ hat nicht die Form xx-0001 bzw. fr-xx-0001`);
+    if (!m) err(ort, `id „${id}“ hat nicht die Form xx-0001 bzw. fr-xx-0001 (Präfix fr, es, it oder no)`);
     else {
       const p = `${m[1] ? m[1] + "-" : ""}${m[2]}`;
       if (praefix && p !== praefix) err(ort, `id-Präfix ${p} statt ${praefix} wie in der ersten Zeile`);
@@ -176,7 +176,7 @@ if (existsSync(formenDir)) {
     if (nurDateien.length && !nurDateien.includes(datei)) continue;
     const lang = f.replace(".txt", "");
     if (!lemmas[lang]) {
-      err(datei, "Dateiname muss de.txt, en.txt, fr.txt, es.txt oder it.txt sein");
+      err(datei, "Dateiname muss de.txt, en.txt, fr.txt, es.txt, it.txt oder no.txt sein");
       continue;
     }
     let kopf = false;

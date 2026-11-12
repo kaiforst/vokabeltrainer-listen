@@ -209,6 +209,13 @@
       "lang": "it"
     },
     {
+      "id": "no-grundwortschatz",
+      "file": "woerter/no-grundwortschatz.txt",
+      "version": 1,
+      "count": 1200,
+      "lang": "no"
+    },
+    {
       "id": "reden",
       "file": "woerter/reden.txt",
       "version": 4,
@@ -660,11 +667,25 @@
       "lang": "it"
     },
     {
+      "id": "no-business-airport",
+      "file": "woerter/no-business-airport.txt",
+      "version": 1,
+      "count": 200,
+      "lang": "no"
+    },
+    {
       "id": "it-alltag-zuhause",
       "file": "woerter/it-alltag-zuhause.txt",
       "version": 2,
       "count": 150,
       "lang": "it"
+    },
+    {
+      "id": "no-alltag-zuhause",
+      "file": "woerter/no-alltag-zuhause.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "no"
     },
     {
       "id": "it-arbeit-beruf",
@@ -674,11 +695,25 @@
       "lang": "it"
     },
     {
+      "id": "no-arbeit-beruf",
+      "file": "woerter/no-arbeit-beruf.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "no"
+    },
+    {
       "id": "it-business-buero",
       "file": "woerter/it-business-buero.txt",
       "version": 3,
       "count": 150,
       "lang": "it"
+    },
+    {
+      "id": "no-business-buero",
+      "file": "woerter/no-business-buero.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "no"
     },
     {
       "id": "it-einkaufen-geld",
@@ -688,11 +723,25 @@
       "lang": "it"
     },
     {
+      "id": "no-einkaufen-geld",
+      "file": "woerter/no-einkaufen-geld.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "no"
+    },
+    {
       "id": "it-essen-trinken",
       "file": "woerter/it-essen-trinken.txt",
       "version": 3,
       "count": 150,
       "lang": "it"
+    },
+    {
+      "id": "no-essen-trinken",
+      "file": "woerter/no-essen-trinken.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "no"
     },
     {
       "id": "it-familie-beziehungen",
@@ -702,11 +751,25 @@
       "lang": "it"
     },
     {
+      "id": "no-familie-beziehungen",
+      "file": "woerter/no-familie-beziehungen.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "no"
+    },
+    {
       "id": "it-freizeit-hobbys",
       "file": "woerter/it-freizeit-hobbys.txt",
       "version": 2,
       "count": 150,
       "lang": "it"
+    },
+    {
+      "id": "no-freizeit-hobbys",
+      "file": "woerter/no-freizeit-hobbys.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "no"
     },
     {
       "id": "it-gefuehle-charakter",
@@ -716,11 +779,25 @@
       "lang": "it"
     },
     {
+      "id": "no-gefuehle-charakter",
+      "file": "woerter/no-gefuehle-charakter.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "no"
+    },
+    {
       "id": "it-kleidung-mode",
       "file": "woerter/it-kleidung-mode.txt",
       "version": 2,
       "count": 150,
       "lang": "it"
+    },
+    {
+      "id": "no-kleidung-mode",
+      "file": "woerter/no-kleidung-mode.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "no"
     },
     {
       "id": "it-koerper-gesundheit",
@@ -730,11 +807,25 @@
       "lang": "it"
     },
     {
+      "id": "no-koerper-gesundheit",
+      "file": "woerter/no-koerper-gesundheit.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "no"
+    },
+    {
       "id": "it-kunst-kultur",
       "file": "woerter/it-kunst-kultur.txt",
       "version": 3,
       "count": 150,
       "lang": "it"
+    },
+    {
+      "id": "no-kunst-kultur",
+      "file": "woerter/no-kunst-kultur.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "no"
     },
     {
       "id": "it-medien-kommunikation",
@@ -744,11 +835,25 @@
       "lang": "it"
     },
     {
+      "id": "no-medien-kommunikation",
+      "file": "woerter/no-medien-kommunikation.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "no"
+    },
+    {
       "id": "it-natur-tiere",
       "file": "woerter/it-natur-tiere.txt",
       "version": 3,
       "count": 150,
       "lang": "it"
+    },
+    {
+      "id": "no-natur-tiere",
+      "file": "woerter/no-natur-tiere.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "no"
     },
     {
       "id": "it-politik-gesellschaft",
@@ -758,11 +863,25 @@
       "lang": "it"
     },
     {
+      "id": "no-politik-gesellschaft",
+      "file": "woerter/no-politik-gesellschaft.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "no"
+    },
+    {
       "id": "it-reisen-urlaub",
       "file": "woerter/it-reisen-urlaub.txt",
       "version": 3,
       "count": 150,
       "lang": "it"
+    },
+    {
+      "id": "no-reisen-urlaub",
+      "file": "woerter/no-reisen-urlaub.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "no"
     },
     {
       "id": "it-schule-bildung",
@@ -772,11 +891,25 @@
       "lang": "it"
     },
     {
+      "id": "no-schule-bildung",
+      "file": "woerter/no-schule-bildung.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "no"
+    },
+    {
       "id": "it-sport-fitness",
       "file": "woerter/it-sport-fitness.txt",
       "version": 3,
       "count": 150,
       "lang": "it"
+    },
+    {
+      "id": "no-sport-fitness",
+      "file": "woerter/no-sport-fitness.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "no"
     },
     {
       "id": "it-technik-computer",
@@ -786,11 +919,25 @@
       "lang": "it"
     },
     {
+      "id": "no-technik-computer",
+      "file": "woerter/no-technik-computer.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "no"
+    },
+    {
       "id": "it-verkehr-mobilitaet",
       "file": "woerter/it-verkehr-mobilitaet.txt",
       "version": 3,
       "count": 150,
       "lang": "it"
+    },
+    {
+      "id": "no-verkehr-mobilitaet",
+      "file": "woerter/no-verkehr-mobilitaet.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "no"
     },
     {
       "id": "it-wetter-umwelt",
@@ -800,11 +947,25 @@
       "lang": "it"
     },
     {
+      "id": "no-wetter-umwelt",
+      "file": "woerter/no-wetter-umwelt.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "no"
+    },
+    {
       "id": "it-wirtschaft-finanzen",
       "file": "woerter/it-wirtschaft-finanzen.txt",
       "version": 3,
       "count": 150,
       "lang": "it"
+    },
+    {
+      "id": "no-wirtschaft-finanzen",
+      "file": "woerter/no-wirtschaft-finanzen.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "no"
     },
     {
       "id": "it-wissenschaft-forschung",
@@ -814,11 +975,25 @@
       "lang": "it"
     },
     {
+      "id": "no-wissenschaft-forschung",
+      "file": "woerter/no-wissenschaft-forschung.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "no"
+    },
+    {
       "id": "it-business-beschaffung",
       "file": "woerter/it-business-beschaffung.txt",
       "version": 3,
       "count": 150,
       "lang": "it"
+    },
+    {
+      "id": "no-business-beschaffung",
+      "file": "woerter/no-business-beschaffung.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "no"
     },
     {
       "id": "it-business-marketing-vertrieb",
@@ -828,11 +1003,25 @@
       "lang": "it"
     },
     {
+      "id": "no-business-marketing-vertrieb",
+      "file": "woerter/no-business-marketing-vertrieb.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "no"
+    },
+    {
       "id": "it-business-personalwesen",
       "file": "woerter/it-business-personalwesen.txt",
       "version": 3,
       "count": 150,
       "lang": "it"
+    },
+    {
+      "id": "no-business-personalwesen",
+      "file": "woerter/no-business-personalwesen.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "no"
     },
     {
       "id": "it-business-projektmanagement",
@@ -842,11 +1031,25 @@
       "lang": "it"
     },
     {
+      "id": "no-business-projektmanagement",
+      "file": "woerter/no-business-projektmanagement.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "no"
+    },
+    {
       "id": "it-business-rechnungswesen",
       "file": "woerter/it-business-rechnungswesen.txt",
       "version": 3,
       "count": 150,
       "lang": "it"
+    },
+    {
+      "id": "no-business-rechnungswesen",
+      "file": "woerter/no-business-rechnungswesen.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "no"
     },
     {
       "id": "it-business-verhandlungen",
@@ -856,11 +1059,25 @@
       "lang": "it"
     },
     {
+      "id": "no-business-verhandlungen",
+      "file": "woerter/no-business-verhandlungen.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "no"
+    },
+    {
       "id": "it-business-vertrag",
       "file": "woerter/it-business-vertrag.txt",
       "version": 3,
       "count": 150,
       "lang": "it"
+    },
+    {
+      "id": "no-business-vertrag",
+      "file": "woerter/no-business-vertrag.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "no"
     },
     {
       "id": "karsten",
@@ -888,6 +1105,13 @@
       "version": 4,
       "count": 989,
       "lang": "it"
+    },
+    {
+      "id": "no-karsten",
+      "file": "woerter/no-karsten.txt",
+      "version": 1,
+      "count": 988,
+      "lang": "no"
     },
     {
       "id": "wendungen-alltag",
@@ -983,11 +1207,25 @@
       "lang": "it"
     },
     {
+      "id": "no-wendungen-alltag",
+      "file": "woerter/no-wendungen-alltag.txt",
+      "version": 1,
+      "count": 310,
+      "lang": "no"
+    },
+    {
       "id": "it-wendungen-schule-arbeit",
       "file": "woerter/it-wendungen-schule-arbeit.txt",
       "version": 1,
       "count": 274,
       "lang": "it"
+    },
+    {
+      "id": "no-wendungen-schule-arbeit",
+      "file": "woerter/no-wendungen-schule-arbeit.txt",
+      "version": 1,
+      "count": 274,
+      "lang": "no"
     },
     {
       "id": "it-redewendungen",
@@ -997,11 +1235,25 @@
       "lang": "it"
     },
     {
+      "id": "no-redewendungen",
+      "file": "woerter/no-redewendungen.txt",
+      "version": 1,
+      "count": 345,
+      "lang": "no"
+    },
+    {
       "id": "it-sprichwoerter",
       "file": "woerter/it-sprichwoerter.txt",
       "version": 1,
       "count": 129,
       "lang": "it"
+    },
+    {
+      "id": "no-sprichwoerter",
+      "file": "woerter/no-sprichwoerter.txt",
+      "version": 1,
+      "count": 129,
+      "lang": "no"
     },
     {
       "id": "ausbau-alltag",
@@ -1031,6 +1283,13 @@
       "lang": "it"
     },
     {
+      "id": "no-ausbau-alltag",
+      "file": "woerter/no-ausbau-alltag.txt",
+      "version": 1,
+      "count": 443,
+      "lang": "no"
+    },
+    {
       "id": "ausbau-schule-arbeit",
       "file": "woerter/ausbau-schule-arbeit.txt",
       "version": 3,
@@ -1056,6 +1315,13 @@
       "version": 2,
       "count": 440,
       "lang": "it"
+    },
+    {
+      "id": "no-ausbau-schule-arbeit",
+      "file": "woerter/no-ausbau-schule-arbeit.txt",
+      "version": 1,
+      "count": 440,
+      "lang": "no"
     },
     {
       "id": "ausbau-natur-welt",
@@ -1085,6 +1351,13 @@
       "lang": "it"
     },
     {
+      "id": "no-ausbau-natur-welt",
+      "file": "woerter/no-ausbau-natur-welt.txt",
+      "version": 1,
+      "count": 461,
+      "lang": "no"
+    },
+    {
       "id": "ausbau-gesellschaft",
       "file": "woerter/ausbau-gesellschaft.txt",
       "version": 1,
@@ -1110,6 +1383,13 @@
       "version": 1,
       "count": 442,
       "lang": "it"
+    },
+    {
+      "id": "no-ausbau-gesellschaft",
+      "file": "woerter/no-ausbau-gesellschaft.txt",
+      "version": 1,
+      "count": 442,
+      "lang": "no"
     },
     {
       "id": "ausbau-grundwoerter",
@@ -1139,6 +1419,13 @@
       "lang": "it"
     },
     {
+      "id": "no-ausbau-grundwoerter",
+      "file": "woerter/no-ausbau-grundwoerter.txt",
+      "version": 1,
+      "count": 487,
+      "lang": "no"
+    },
+    {
       "id": "bedeutungen",
       "file": "woerter/bedeutungen.txt",
       "version": 2,
@@ -1166,6 +1453,13 @@
       "lang": "it"
     },
     {
+      "id": "no-bedeutungen",
+      "file": "woerter/no-bedeutungen.txt",
+      "version": 1,
+      "count": 59,
+      "lang": "no"
+    },
+    {
       "id": "ausbau-nachtrag",
       "file": "woerter/ausbau-nachtrag.txt",
       "version": 2,
@@ -1191,12 +1485,19 @@
       "version": 2,
       "count": 401,
       "lang": "it"
+    },
+    {
+      "id": "no-ausbau-nachtrag",
+      "file": "woerter/no-ausbau-nachtrag.txt",
+      "version": 1,
+      "count": 403,
+      "lang": "no"
     }
   ],
   "aliases": {
     "file": "aliase.txt",
-    "version": 8,
-    "count": 6556
+    "version": 9,
+    "count": 8238
   },
   "forms": [
     {
@@ -1228,6 +1529,12 @@
       "file": "formen/it.txt",
       "version": 2,
       "count": 1031
+    },
+    {
+      "lang": "no",
+      "file": "formen/no.txt",
+      "version": 1,
+      "count": 552
     }
   ],
   "lists": [
@@ -1960,11 +2267,46 @@
       "group": "grundwortschatz-start"
     },
     {
+      "id": "no-grundwortschatz-a1",
+      "name": "Norwegisch: Grundwortschatz – A1",
+      "description": "Die einfachsten Wörter zum Einstieg",
+      "level": "A1",
+      "answerLang": "no",
+      "count": 250,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Grundwortschatz"
+        ],
+        "levels": [
+          "A1"
+        ]
+      },
+      "group": "grundwortschatz-start"
+    },
+    {
       "id": "it-grundwortschatz-a2",
       "name": "Italienisch: Grundwortschatz – A2",
       "description": "Aufbauwörter für den Alltag",
       "level": "A2",
       "answerLang": "it",
+      "count": 250,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Grundwortschatz"
+        ],
+        "levels": [
+          "A2"
+        ]
+      }
+    },
+    {
+      "id": "no-grundwortschatz-a2",
+      "name": "Norwegisch: Grundwortschatz – A2",
+      "description": "Aufbauwörter für den Alltag",
+      "level": "A2",
+      "answerLang": "no",
       "count": 250,
       "version": 1,
       "filter": {
@@ -1994,11 +2336,45 @@
       }
     },
     {
+      "id": "no-grundwortschatz-b1",
+      "name": "Norwegisch: Grundwortschatz – B1",
+      "description": "Selbstständig im Alltag und Beruf",
+      "level": "B1",
+      "answerLang": "no",
+      "count": 250,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Grundwortschatz"
+        ],
+        "levels": [
+          "B1"
+        ]
+      }
+    },
+    {
       "id": "it-grundwortschatz-b2",
       "name": "Italienisch: Grundwortschatz – B2",
       "description": "Für Diskussionen und Fachgespräche",
       "level": "B2",
       "answerLang": "it",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Grundwortschatz"
+        ],
+        "levels": [
+          "B2"
+        ]
+      }
+    },
+    {
+      "id": "no-grundwortschatz-b2",
+      "name": "Norwegisch: Grundwortschatz – B2",
+      "description": "Für Diskussionen und Fachgespräche",
+      "level": "B2",
+      "answerLang": "no",
       "count": 150,
       "version": 1,
       "filter": {
@@ -2028,6 +2404,23 @@
       }
     },
     {
+      "id": "no-grundwortschatz-c1",
+      "name": "Norwegisch: Grundwortschatz – C1",
+      "description": "Gehobener Wortschatz für anspruchsvolle Texte",
+      "level": "C1",
+      "answerLang": "no",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Grundwortschatz"
+        ],
+        "levels": [
+          "C1"
+        ]
+      }
+    },
+    {
       "id": "it-grundwortschatz-c2",
       "name": "Italienisch: Grundwortschatz – C2",
       "description": "Nuancen, Redewendungen und gehobener Stil",
@@ -2045,10 +2438,40 @@
       }
     },
     {
+      "id": "no-grundwortschatz-c2",
+      "name": "Norwegisch: Grundwortschatz – C2",
+      "description": "Nuancen, Redewendungen und gehobener Stil",
+      "level": "C2",
+      "answerLang": "no",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Grundwortschatz"
+        ],
+        "levels": [
+          "C2"
+        ]
+      }
+    },
+    {
       "id": "it-grundwortschatz",
       "name": "Italienisch: Grundwortschatz – alle Niveaus",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "it",
+      "count": 1200,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Grundwortschatz"
+        ]
+      }
+    },
+    {
+      "id": "no-grundwortschatz",
+      "name": "Norwegisch: Grundwortschatz – alle Niveaus",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "no",
       "count": 1200,
       "version": 1,
       "filter": {
@@ -3062,12 +3485,39 @@
       }
     },
     {
+      "id": "no-business-english-airport",
+      "name": "Norwegisch: Business – Airport",
+      "description": "Terminalbetrieb und Passagierabfertigung, mit Beispielsätzen",
+      "level": "B1",
+      "answerLang": "no",
+      "count": 200,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Business/Airport"
+        ]
+      }
+    },
+    {
       "id": "it-alltag-zuhause",
       "name": "Italienisch: Alltag & Zuhause",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "it",
       "count": 259,
       "version": 3,
+      "filter": {
+        "topics": [
+          "Alltag/Zuhause"
+        ]
+      }
+    },
+    {
+      "id": "no-alltag-zuhause",
+      "name": "Norwegisch: Alltag & Zuhause",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "no",
+      "count": 259,
+      "version": 1,
       "filter": {
         "topics": [
           "Alltag/Zuhause"
@@ -3088,10 +3538,36 @@
       }
     },
     {
+      "id": "no-arbeit-beruf",
+      "name": "Norwegisch: Arbeit & Beruf",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "no",
+      "count": 233,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Arbeit"
+        ]
+      }
+    },
+    {
       "id": "it-business-buero",
       "name": "Italienisch: Business & Büro",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "it",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Business/Büro"
+        ]
+      }
+    },
+    {
+      "id": "no-business-buero",
+      "name": "Norwegisch: Business & Büro",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "no",
       "count": 150,
       "version": 1,
       "filter": {
@@ -3114,12 +3590,38 @@
       }
     },
     {
+      "id": "no-einkaufen-geld",
+      "name": "Norwegisch: Einkaufen & Geld",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "no",
+      "count": 180,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Alltag/Einkaufen"
+        ]
+      }
+    },
+    {
       "id": "it-essen-trinken",
       "name": "Italienisch: Essen & Trinken",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "it",
       "count": 247,
       "version": 3,
+      "filter": {
+        "topics": [
+          "Alltag/Essen"
+        ]
+      }
+    },
+    {
+      "id": "no-essen-trinken",
+      "name": "Norwegisch: Essen & Trinken",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "no",
+      "count": 247,
+      "version": 1,
       "filter": {
         "topics": [
           "Alltag/Essen"
@@ -3140,12 +3642,44 @@
       }
     },
     {
+      "id": "no-familie-beziehungen",
+      "name": "Norwegisch: Familie & Beziehungen",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "no",
+      "count": 202,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Alltag/Familie"
+        ]
+      }
+    },
+    {
       "id": "it-freizeit-hobbys",
       "name": "Italienisch: Freizeit & Hobbys",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "it",
       "count": 213,
       "version": 3,
+      "filter": {
+        "topics": [
+          "Freizeit/Hobbys",
+          "Freizeit/Spiele",
+          "Freizeit/Musik",
+          "Freizeit/Ausgehen",
+          "Freizeit/Lesen",
+          "Freizeit/Feste & Feiern",
+          "Freizeit/Basteln & Handwerk"
+        ]
+      }
+    },
+    {
+      "id": "no-freizeit-hobbys",
+      "name": "Norwegisch: Freizeit & Hobbys",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "no",
+      "count": 213,
+      "version": 1,
       "filter": {
         "topics": [
           "Freizeit/Hobbys",
@@ -3173,12 +3707,39 @@
       }
     },
     {
+      "id": "no-gefuehle-charakter",
+      "name": "Norwegisch: Gefühle & Charakter",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "no",
+      "count": 234,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Mensch/Gefühle",
+          "Mensch/Charakter"
+        ]
+      }
+    },
+    {
       "id": "it-kleidung-mode",
       "name": "Italienisch: Kleidung & Mode",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "it",
       "count": 182,
       "version": 3,
+      "filter": {
+        "topics": [
+          "Alltag/Kleidung"
+        ]
+      }
+    },
+    {
+      "id": "no-kleidung-mode",
+      "name": "Norwegisch: Kleidung & Mode",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "no",
+      "count": 182,
+      "version": 1,
       "filter": {
         "topics": [
           "Alltag/Kleidung"
@@ -3199,6 +3760,19 @@
       }
     },
     {
+      "id": "no-koerper-gesundheit",
+      "name": "Norwegisch: Körper & Gesundheit",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "no",
+      "count": 301,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Gesundheit"
+        ]
+      }
+    },
+    {
       "id": "it-kunst-kultur",
       "name": "Italienisch: Kunst & Kultur",
       "description": "A1–C2, mit Beispielsätzen",
@@ -3212,12 +3786,38 @@
       }
     },
     {
+      "id": "no-kunst-kultur",
+      "name": "Norwegisch: Kunst & Kultur",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "no",
+      "count": 273,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Kultur"
+        ]
+      }
+    },
+    {
       "id": "it-medien-kommunikation",
       "name": "Italienisch: Medien & Kommunikation",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "it",
       "count": 199,
       "version": 2,
+      "filter": {
+        "topics": [
+          "Medien"
+        ]
+      }
+    },
+    {
+      "id": "no-medien-kommunikation",
+      "name": "Norwegisch: Medien & Kommunikation",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "no",
+      "count": 199,
+      "version": 1,
       "filter": {
         "topics": [
           "Medien"
@@ -3240,12 +3840,40 @@
       }
     },
     {
+      "id": "no-natur-tiere",
+      "name": "Norwegisch: Natur & Tiere",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "no",
+      "count": 274,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Natur/Tiere",
+          "Natur/Pflanzen",
+          "Natur/Landschaft"
+        ]
+      }
+    },
+    {
       "id": "it-politik-gesellschaft",
       "name": "Italienisch: Politik & Gesellschaft",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "it",
       "count": 335,
       "version": 3,
+      "filter": {
+        "topics": [
+          "Gesellschaft"
+        ]
+      }
+    },
+    {
+      "id": "no-politik-gesellschaft",
+      "name": "Norwegisch: Politik & Gesellschaft",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "no",
+      "count": 335,
+      "version": 1,
       "filter": {
         "topics": [
           "Gesellschaft"
@@ -3266,12 +3894,38 @@
       }
     },
     {
+      "id": "no-reisen-urlaub",
+      "name": "Norwegisch: Reisen & Urlaub",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "no",
+      "count": 206,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Reisen/Urlaub"
+        ]
+      }
+    },
+    {
       "id": "it-schule-bildung",
       "name": "Italienisch: Schule & Bildung",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "it",
       "count": 344,
       "version": 3,
+      "filter": {
+        "topics": [
+          "Bildung"
+        ]
+      }
+    },
+    {
+      "id": "no-schule-bildung",
+      "name": "Norwegisch: Schule & Bildung",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "no",
+      "count": 344,
+      "version": 1,
       "filter": {
         "topics": [
           "Bildung"
@@ -3292,12 +3946,38 @@
       }
     },
     {
+      "id": "no-sport-fitness",
+      "name": "Norwegisch: Sport & Fitness",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "no",
+      "count": 205,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Freizeit/Sport"
+        ]
+      }
+    },
+    {
       "id": "it-technik-computer",
       "name": "Italienisch: Technik & Computer",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "it",
       "count": 261,
       "version": 3,
+      "filter": {
+        "topics": [
+          "Technik"
+        ]
+      }
+    },
+    {
+      "id": "no-technik-computer",
+      "name": "Norwegisch: Technik & Computer",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "no",
+      "count": 261,
+      "version": 1,
       "filter": {
         "topics": [
           "Technik"
@@ -3318,12 +3998,38 @@
       }
     },
     {
+      "id": "no-verkehr-mobilitaet",
+      "name": "Norwegisch: Verkehr & Mobilität",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "no",
+      "count": 213,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Reisen/Verkehr"
+        ]
+      }
+    },
+    {
       "id": "it-wetter-umwelt",
       "name": "Italienisch: Wetter & Umwelt",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "it",
       "count": 241,
       "version": 3,
+      "filter": {
+        "topics": [
+          "Natur/Umwelt"
+        ]
+      }
+    },
+    {
+      "id": "no-wetter-umwelt",
+      "name": "Norwegisch: Wetter & Umwelt",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "no",
+      "count": 241,
+      "version": 1,
       "filter": {
         "topics": [
           "Natur/Umwelt"
@@ -3344,6 +4050,19 @@
       }
     },
     {
+      "id": "no-wirtschaft-finanzen",
+      "name": "Norwegisch: Wirtschaft & Finanzen",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "no",
+      "count": 189,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wirtschaft"
+        ]
+      }
+    },
+    {
       "id": "it-wissenschaft-forschung",
       "name": "Italienisch: Wissenschaft & Forschung",
       "description": "A1–C2, mit Beispielsätzen",
@@ -3357,10 +4076,36 @@
       }
     },
     {
+      "id": "no-wissenschaft-forschung",
+      "name": "Norwegisch: Wissenschaft & Forschung",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "no",
+      "count": 204,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wissenschaft"
+        ]
+      }
+    },
+    {
       "id": "it-business-beschaffung",
       "name": "Italienisch: Business – Beschaffung",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "it",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Business/Beschaffung"
+        ]
+      }
+    },
+    {
+      "id": "no-business-beschaffung",
+      "name": "Norwegisch: Business – Beschaffung",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "no",
       "count": 150,
       "version": 1,
       "filter": {
@@ -3383,10 +4128,36 @@
       }
     },
     {
+      "id": "no-business-marketing-vertrieb",
+      "name": "Norwegisch: Business – Marketing & Vertrieb",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "no",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Business/Marketing & Vertrieb"
+        ]
+      }
+    },
+    {
       "id": "it-business-personalwesen",
       "name": "Italienisch: Business – Personalwesen",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "it",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Business/Personal"
+        ]
+      }
+    },
+    {
+      "id": "no-business-personalwesen",
+      "name": "Norwegisch: Business – Personalwesen",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "no",
       "count": 150,
       "version": 1,
       "filter": {
@@ -3409,10 +4180,36 @@
       }
     },
     {
+      "id": "no-business-projektmanagement",
+      "name": "Norwegisch: Business – Projektmanagement",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "no",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Business/Projektmanagement"
+        ]
+      }
+    },
+    {
       "id": "it-business-rechnungswesen",
       "name": "Italienisch: Business – Rechnungswesen",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "it",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Business/Rechnungswesen"
+        ]
+      }
+    },
+    {
+      "id": "no-business-rechnungswesen",
+      "name": "Norwegisch: Business – Rechnungswesen",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "no",
       "count": 150,
       "version": 1,
       "filter": {
@@ -3435,10 +4232,36 @@
       }
     },
     {
+      "id": "no-business-verhandlungen",
+      "name": "Norwegisch: Business – Verhandlungen",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "no",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Business/Verhandlung"
+        ]
+      }
+    },
+    {
       "id": "it-business-vertrag",
       "name": "Italienisch: Business – Verträge",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "it",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Business/Vertrag"
+        ]
+      }
+    },
+    {
+      "id": "no-business-vertrag",
+      "name": "Norwegisch: Business – Verträge",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "no",
       "count": 150,
       "version": 1,
       "filter": {
@@ -3575,10 +4398,36 @@
       }
     },
     {
+      "id": "no-karsten",
+      "name": "Norwegisch: Karstens Empfehlung",
+      "description": "Grundwortschatz zum Einstieg, empfohlen von Karsten",
+      "answerLang": "no",
+      "count": 988,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Karstens Empfehlung"
+        ]
+      }
+    },
+    {
       "id": "it-karsten-verben",
       "name": "Italienisch: Karstens Empfehlung – Verben",
       "description": "Die Verben aus Karstens Empfehlung",
       "answerLang": "it",
+      "count": 251,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Karstens Empfehlung/Verben"
+        ]
+      }
+    },
+    {
+      "id": "no-karsten-verben",
+      "name": "Norwegisch: Karstens Empfehlung – Verben",
+      "description": "Die Verben aus Karstens Empfehlung",
+      "answerLang": "no",
       "count": 251,
       "version": 1,
       "filter": {
@@ -3593,6 +4442,19 @@
       "description": "Nomen, Adjektive und kleine Wörter aus Karstens Empfehlung",
       "answerLang": "it",
       "count": 738,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Karstens Empfehlung/Wörter"
+        ]
+      }
+    },
+    {
+      "id": "no-karsten-woerter",
+      "name": "Norwegisch: Karstens Empfehlung – ohne Verben",
+      "description": "Nomen, Adjektive und kleine Wörter aus Karstens Empfehlung",
+      "answerLang": "no",
+      "count": 737,
       "version": 1,
       "filter": {
         "topics": [
@@ -3656,6 +4518,23 @@
       "description": "Die ersten festen Verbindungen: Tagesablauf, Uhrzeit, Essen, Einkaufen",
       "level": "A1",
       "answerLang": "it",
+      "count": 137,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Alltag"
+        ],
+        "levels": [
+          "A1"
+        ]
+      }
+    },
+    {
+      "id": "no-wendungen-alltag-a1",
+      "name": "Norwegisch: Alltagswendungen – A1",
+      "description": "Die ersten festen Verbindungen: Tagesablauf, Uhrzeit, Essen, Einkaufen",
+      "level": "A1",
+      "answerLang": "no",
       "count": 137,
       "version": 1,
       "filter": {
@@ -3739,6 +4618,24 @@
       }
     },
     {
+      "id": "no-wendungen-alltag-a2",
+      "name": "Norwegisch: Alltagswendungen – A2/B1",
+      "description": "Feste Verbindungen für Haushalt, Freizeit, Reisen und Unterwegs",
+      "level": "A2",
+      "answerLang": "no",
+      "count": 173,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Alltag"
+        ],
+        "levels": [
+          "A2",
+          "B1"
+        ]
+      }
+    },
+    {
       "id": "wendungen-zeitangaben",
       "name": "Wendungen: Zeitangaben",
       "description": "Uhrzeit, Tageszeiten, wie oft, seit wann",
@@ -3785,6 +4682,20 @@
       "description": "Uhrzeit, Tageszeiten, wie oft, seit wann",
       "level": "A1",
       "answerLang": "it",
+      "count": 60,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Alltag/Zeitangaben"
+        ]
+      }
+    },
+    {
+      "id": "no-wendungen-zeitangaben",
+      "name": "Norwegisch: Wendungen – Zeitangaben",
+      "description": "Uhrzeit, Tageszeiten, wie oft, seit wann",
+      "level": "A1",
+      "answerLang": "no",
       "count": 60,
       "version": 1,
       "filter": {
@@ -3843,6 +4754,21 @@
       "description": "Vom Zähneputzen bis zum Wäschewaschen",
       "level": "A1",
       "answerLang": "it",
+      "count": 50,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Alltag/Tagesablauf",
+          "Wendungen/Alltag/Wohnen"
+        ]
+      }
+    },
+    {
+      "id": "no-wendungen-tagesablauf-wohnen",
+      "name": "Norwegisch: Wendungen – Tagesablauf & Wohnen",
+      "description": "Vom Zähneputzen bis zum Wäschewaschen",
+      "level": "A1",
+      "answerLang": "no",
       "count": 50,
       "version": 1,
       "filter": {
@@ -3912,6 +4838,21 @@
       }
     },
     {
+      "id": "no-wendungen-essen-einkaufen",
+      "name": "Norwegisch: Wendungen – Essen & Einkaufen",
+      "description": "Im Restaurant, im Laden, an der Kasse",
+      "level": "A1",
+      "answerLang": "no",
+      "count": 80,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Alltag/Essen & Trinken",
+          "Wendungen/Alltag/Einkaufen"
+        ]
+      }
+    },
+    {
       "id": "wendungen-freizeit",
       "name": "Wendungen: Freizeit",
       "description": "Sport, Musik, Kino und Treffen mit Freunden",
@@ -3958,6 +4899,20 @@
       "description": "Sport, Musik, Kino und Treffen mit Freunden",
       "level": "A1",
       "answerLang": "it",
+      "count": 50,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Alltag/Freizeit"
+        ]
+      }
+    },
+    {
+      "id": "no-wendungen-freizeit",
+      "name": "Norwegisch: Wendungen – Freizeit",
+      "description": "Sport, Musik, Kino und Treffen mit Freunden",
+      "level": "A1",
+      "answerLang": "no",
       "count": 50,
       "version": 1,
       "filter": {
@@ -4026,6 +4981,21 @@
       }
     },
     {
+      "id": "no-wendungen-reisen-unterwegs",
+      "name": "Norwegisch: Wendungen – Reisen & Unterwegs",
+      "description": "Urlaub, Fahrkarten, nach dem Weg fragen",
+      "level": "A1",
+      "answerLang": "no",
+      "count": 50,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Alltag/Reisen",
+          "Wendungen/Alltag/Unterwegs"
+        ]
+      }
+    },
+    {
       "id": "wendungen-schule",
       "name": "Wendungen: Schule & Studium",
       "description": "Feste Wendungen für Unterricht, Hausaufgaben und Prüfungen",
@@ -4072,6 +5042,20 @@
       "description": "Feste Wendungen für Unterricht, Hausaufgaben und Prüfungen",
       "level": "A2",
       "answerLang": "it",
+      "count": 60,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Schule"
+        ]
+      }
+    },
+    {
+      "id": "no-wendungen-schule",
+      "name": "Norwegisch: Wendungen – Schule & Studium",
+      "description": "Feste Wendungen für Unterricht, Hausaufgaben und Prüfungen",
+      "level": "A2",
+      "answerLang": "no",
       "count": 60,
       "version": 1,
       "filter": {
@@ -4136,6 +5120,20 @@
       }
     },
     {
+      "id": "no-wendungen-arbeit",
+      "name": "Norwegisch: Wendungen – Arbeit & Beruf",
+      "description": "Bewerbung, Arbeitsalltag, Besprechungen, Telefon und E-Mail",
+      "level": "B1",
+      "answerLang": "no",
+      "count": 105,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Arbeit"
+        ]
+      }
+    },
+    {
       "id": "wendungen-gespraech",
       "name": "Wendungen: Gespräch & Meinung",
       "description": "Höflich nachfragen, Meinung sagen, zustimmen und widersprechen",
@@ -4182,6 +5180,20 @@
       "description": "Höflich nachfragen, Meinung sagen, zustimmen und widersprechen",
       "level": "B1",
       "answerLang": "it",
+      "count": 109,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Gespräch"
+        ]
+      }
+    },
+    {
+      "id": "no-wendungen-gespraech",
+      "name": "Norwegisch: Wendungen – Gespräch & Meinung",
+      "description": "Höflich nachfragen, Meinung sagen, zustimmen und widersprechen",
+      "level": "B1",
+      "answerLang": "no",
       "count": 109,
       "version": 1,
       "filter": {
@@ -4249,6 +5261,24 @@
       "description": "Bildhafte Wendungen, die man oft hört: Daumen drücken, die Nase voll haben",
       "level": "B2",
       "answerLang": "it",
+      "count": 171,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Redewendungen"
+        ],
+        "levels": [
+          "B1",
+          "B2"
+        ]
+      }
+    },
+    {
+      "id": "no-redewendungen-b2",
+      "name": "Norwegisch: Redewendungen – B1/B2",
+      "description": "Bildhafte Wendungen, die man oft hört: Daumen drücken, die Nase voll haben",
+      "level": "B2",
+      "answerLang": "no",
       "count": 171,
       "version": 1,
       "filter": {
@@ -4333,6 +5363,24 @@
       }
     },
     {
+      "id": "no-redewendungen-c1",
+      "name": "Norwegisch: Redewendungen – C1/C2",
+      "description": "Bildhafte Wendungen für Fortgeschrittene",
+      "level": "C1",
+      "answerLang": "no",
+      "count": 174,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Redewendungen"
+        ],
+        "levels": [
+          "C1",
+          "C2"
+        ]
+      }
+    },
+    {
       "id": "sprichwoerter-b2",
       "name": "Sprichwörter – B1/B2",
       "description": "Bekannte Sprichwörter: Übung macht den Meister, Zeit ist Geld …",
@@ -4404,6 +5452,24 @@
       }
     },
     {
+      "id": "no-sprichwoerter-b2",
+      "name": "Norwegisch: Sprichwörter – B1/B2",
+      "description": "Bekannte Sprichwörter: Übung macht den Meister, Zeit ist Geld …",
+      "level": "B2",
+      "answerLang": "no",
+      "count": 73,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Sprichwörter"
+        ],
+        "levels": [
+          "B1",
+          "B2"
+        ]
+      }
+    },
+    {
       "id": "sprichwoerter-c1",
       "name": "Sprichwörter – C1/C2",
       "description": "Anspruchsvollere Sprichwörter für Fortgeschrittene",
@@ -4462,6 +5528,24 @@
       "description": "Anspruchsvollere Sprichwörter für Fortgeschrittene",
       "level": "C1",
       "answerLang": "it",
+      "count": 56,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Sprichwörter"
+        ],
+        "levels": [
+          "C1",
+          "C2"
+        ]
+      }
+    },
+    {
+      "id": "no-sprichwoerter-c1",
+      "name": "Norwegisch: Sprichwörter – C1/C2",
+      "description": "Anspruchsvollere Sprichwörter für Fortgeschrittene",
+      "level": "C1",
+      "answerLang": "no",
       "count": 56,
       "version": 1,
       "filter": {
@@ -4644,6 +5728,21 @@
       }
     },
     {
+      "id": "no-aussehen-lebensphasen",
+      "name": "Norwegisch: Aussehen & Lebensphasen",
+      "description": "Menschen beschreiben: Haare, Gesicht, Statur, vom Säugling bis zum Senior",
+      "level": "A2",
+      "answerLang": "no",
+      "count": 42,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Mensch/Aussehen",
+          "Mensch/Lebensphasen"
+        ]
+      }
+    },
+    {
       "id": "haushalt-geraete",
       "name": "Haushalt & Geräte",
       "description": "Putzen, Wäsche, Renovieren und die Geräte im Haus",
@@ -4695,6 +5794,21 @@
       "answerLang": "it",
       "count": 64,
       "version": 2,
+      "filter": {
+        "topics": [
+          "Alltag/Zuhause/Haushalt",
+          "Alltag/Zuhause/Geräte"
+        ]
+      }
+    },
+    {
+      "id": "no-haushalt-geraete",
+      "name": "Norwegisch: Haushalt & Geräte",
+      "description": "Putzen, Wäsche, Renovieren und die Geräte im Haus",
+      "level": "A2",
+      "answerLang": "no",
+      "count": 64,
+      "version": 1,
       "filter": {
         "topics": [
           "Alltag/Zuhause/Haushalt",
@@ -4762,6 +5876,21 @@
       }
     },
     {
+      "id": "no-werkzeug-handwerk",
+      "name": "Norwegisch: Werkzeug & Handwerk",
+      "description": "Werkzeuge, Material und was man damit macht",
+      "level": "B1",
+      "answerLang": "no",
+      "count": 51,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Alltag/Zuhause/Werkzeug",
+          "Technik/Material"
+        ]
+      }
+    },
+    {
       "id": "lebensmittel",
       "name": "Lebensmittel",
       "description": "Obst, Gemüse, Fleisch, Gewürze und mehr",
@@ -4817,6 +5946,20 @@
       }
     },
     {
+      "id": "no-lebensmittel",
+      "name": "Norwegisch: Lebensmittel",
+      "description": "Obst, Gemüse, Fleisch, Gewürze und mehr",
+      "level": "A1",
+      "answerLang": "no",
+      "count": 101,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Alltag/Essen/Lebensmittel"
+        ]
+      }
+    },
+    {
       "id": "koerperpflege",
       "name": "Körperpflege",
       "description": "Vom Shampoo bis zur Zahnseide",
@@ -4863,6 +6006,20 @@
       "description": "Vom Shampoo bis zur Zahnseide",
       "level": "A2",
       "answerLang": "it",
+      "count": 16,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Gesundheit/Körperpflege"
+        ]
+      }
+    },
+    {
+      "id": "no-koerperpflege",
+      "name": "Norwegisch: Körperpflege",
+      "description": "Vom Shampoo bis zur Zahnseide",
+      "level": "A2",
+      "answerLang": "no",
       "count": 16,
       "version": 1,
       "filter": {
@@ -4931,6 +6088,21 @@
       }
     },
     {
+      "id": "no-symptome-krankheiten",
+      "name": "Norwegisch: Symptome & Krankheiten",
+      "description": "Was weh tut und was man hat",
+      "level": "B1",
+      "answerLang": "no",
+      "count": 100,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Gesundheit/Symptome",
+          "Gesundheit/Krankheiten"
+        ]
+      }
+    },
+    {
       "id": "stadt-gebaeude",
       "name": "Stadt & Gebäude",
       "description": "Gebäude, Straßen und Plätze, Leben in der Stadt",
@@ -4979,6 +6151,20 @@
       "answerLang": "it",
       "count": 45,
       "version": 2,
+      "filter": {
+        "topics": [
+          "Alltag/Stadt"
+        ]
+      }
+    },
+    {
+      "id": "no-stadt-gebaeude",
+      "name": "Norwegisch: Stadt & Gebäude",
+      "description": "Gebäude, Straßen und Plätze, Leben in der Stadt",
+      "level": "B1",
+      "answerLang": "no",
+      "count": 45,
+      "version": 1,
       "filter": {
         "topics": [
           "Alltag/Stadt"
@@ -5041,6 +6227,20 @@
       }
     },
     {
+      "id": "no-laender-nationalitaeten",
+      "name": "Norwegisch: Länder & Nationalitäten",
+      "description": "Kontinente, Länder Europas und der Welt, Nationalitäten",
+      "level": "A1",
+      "answerLang": "no",
+      "count": 59,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Reisen/Länder & Nationalitäten"
+        ]
+      }
+    },
+    {
       "id": "feste-feiertage",
       "name": "Feste & Feiertage",
       "description": "Weihnachten, Ostern, Silvester, Geburtstag und Feiern",
@@ -5087,6 +6287,20 @@
       "description": "Weihnachten, Ostern, Silvester, Geburtstag und Feiern",
       "level": "A2",
       "answerLang": "it",
+      "count": 43,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Freizeit/Feste & Feiern"
+        ]
+      }
+    },
+    {
+      "id": "no-feste-feiertage",
+      "name": "Norwegisch: Feste & Feiertage",
+      "description": "Weihnachten, Ostern, Silvester, Geburtstag und Feiern",
+      "level": "A2",
+      "answerLang": "no",
       "count": 43,
       "version": 1,
       "filter": {
@@ -5155,6 +6369,21 @@
       }
     },
     {
+      "id": "no-musik-instrumente",
+      "name": "Norwegisch: Musik & Instrumente",
+      "description": "Instrumente, Musikrichtungen, Konzert",
+      "level": "A2",
+      "answerLang": "no",
+      "count": 77,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Kultur/Musik",
+          "Freizeit/Musik"
+        ]
+      }
+    },
+    {
       "id": "berufe",
       "name": "Berufe",
       "description": "Von Klempner bis Softwareentwickler",
@@ -5203,6 +6432,20 @@
       "answerLang": "it",
       "count": 63,
       "version": 2,
+      "filter": {
+        "topics": [
+          "Arbeit/Beruf/Berufe"
+        ]
+      }
+    },
+    {
+      "id": "no-berufe",
+      "name": "Norwegisch: Berufe",
+      "description": "Von Klempner bis Softwareentwickler",
+      "level": "A2",
+      "answerLang": "no",
+      "count": 63,
+      "version": 1,
       "filter": {
         "topics": [
           "Arbeit/Beruf/Berufe"
@@ -5265,6 +6508,20 @@
       }
     },
     {
+      "id": "no-buero-arbeitsplatz",
+      "name": "Norwegisch: Büro & Arbeitsplatz",
+      "description": "Hefter, Locher, Aktenschrank und Schutzhelm",
+      "level": "B1",
+      "answerLang": "no",
+      "count": 21,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Arbeit/Beruf/Arbeitsplatz"
+        ]
+      }
+    },
+    {
       "id": "recht-kriminalitaet",
       "name": "Recht & Kriminalität",
       "description": "Polizei, Gericht, Straftaten",
@@ -5313,6 +6570,20 @@
       "answerLang": "it",
       "count": 91,
       "version": 2,
+      "filter": {
+        "topics": [
+          "Gesellschaft/Recht"
+        ]
+      }
+    },
+    {
+      "id": "no-recht-kriminalitaet",
+      "name": "Norwegisch: Recht & Kriminalität",
+      "description": "Polizei, Gericht, Straftaten",
+      "level": "B1",
+      "answerLang": "no",
+      "count": 91,
+      "version": 1,
       "filter": {
         "topics": [
           "Gesellschaft/Recht"
@@ -5375,6 +6646,20 @@
       }
     },
     {
+      "id": "no-politik-international",
+      "name": "Norwegisch: Krieg, Frieden & Weltpolitik",
+      "description": "Konflikte, Diplomatie, Globalisierung",
+      "level": "B2",
+      "answerLang": "no",
+      "count": 20,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Gesellschaft/Politik/Internationales"
+        ]
+      }
+    },
+    {
       "id": "religion",
       "name": "Religion & Glaube",
       "description": "Religionen, Kirche, Feiertage im Kirchenjahr",
@@ -5423,6 +6708,20 @@
       "answerLang": "it",
       "count": 50,
       "version": 2,
+      "filter": {
+        "topics": [
+          "Gesellschaft/Religion"
+        ]
+      }
+    },
+    {
+      "id": "no-religion",
+      "name": "Norwegisch: Religion & Glaube",
+      "description": "Religionen, Kirche, Feiertage im Kirchenjahr",
+      "level": "B1",
+      "answerLang": "no",
+      "count": 50,
+      "version": 1,
       "filter": {
         "topics": [
           "Gesellschaft/Religion"
@@ -5485,6 +6784,20 @@
       }
     },
     {
+      "id": "no-geschichte",
+      "name": "Norwegisch: Geschichte",
+      "description": "Von der Steinzeit bis zur Wiedervereinigung",
+      "level": "B1",
+      "answerLang": "no",
+      "count": 71,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Kultur/Geschichte"
+        ]
+      }
+    },
+    {
       "id": "schule-klassenzimmer",
       "name": "Im Klassenzimmer",
       "description": "Schulsachen, Unterricht und Schulleben",
@@ -5533,6 +6846,20 @@
       "answerLang": "it",
       "count": 144,
       "version": 2,
+      "filter": {
+        "topics": [
+          "Bildung/Schule"
+        ]
+      }
+    },
+    {
+      "id": "no-schule-klassenzimmer",
+      "name": "Norwegisch: Im Klassenzimmer",
+      "description": "Schulsachen, Unterricht und Schulleben",
+      "level": "A2",
+      "answerLang": "no",
+      "count": 144,
+      "version": 1,
       "filter": {
         "topics": [
           "Bildung/Schule"
@@ -5595,6 +6922,20 @@
       }
     },
     {
+      "id": "no-sprache-grammatik",
+      "name": "Norwegisch: Sprache & Grammatik",
+      "description": "Wortarten, Zeitformen, Satzzeichen, Aussprache und Fachwörter rund ums Sprachenlernen",
+      "level": "B1",
+      "answerLang": "no",
+      "count": 88,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Bildung/Sprache"
+        ]
+      }
+    },
+    {
       "id": "rechnen-geometrie",
       "name": "Rechnen & Geometrie",
       "description": "Plus, minus, mal, geteilt; Formen und Zahlen",
@@ -5643,6 +6984,20 @@
       "answerLang": "it",
       "count": 38,
       "version": 2,
+      "filter": {
+        "topics": [
+          "Wissenschaft/Mathematik"
+        ]
+      }
+    },
+    {
+      "id": "no-rechnen-geometrie",
+      "name": "Norwegisch: Rechnen & Geometrie",
+      "description": "Plus, minus, mal, geteilt; Formen und Zahlen",
+      "level": "A2",
+      "answerLang": "no",
+      "count": 38,
+      "version": 1,
       "filter": {
         "topics": [
           "Wissenschaft/Mathematik"
@@ -5709,6 +7064,21 @@
       }
     },
     {
+      "id": "no-strom-maschinen",
+      "name": "Norwegisch: Strom, Geräte & Maschinen",
+      "description": "Stecker, Kurzschluss, Wartung und Gebrauchsanweisung",
+      "level": "B1",
+      "answerLang": "no",
+      "count": 25,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Technik/Elektrik",
+          "Technik/Maschinen"
+        ]
+      }
+    },
+    {
       "id": "geografie",
       "name": "Geografie",
       "description": "Erde, Kontinente, Himmelsrichtungen und Karten",
@@ -5755,6 +7125,20 @@
       "description": "Erde, Kontinente, Himmelsrichtungen und Karten",
       "level": "B1",
       "answerLang": "it",
+      "count": 30,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Natur/Geografie"
+        ]
+      }
+    },
+    {
+      "id": "no-geografie",
+      "name": "Norwegisch: Geografie",
+      "description": "Erde, Kontinente, Himmelsrichtungen und Karten",
+      "level": "B1",
+      "answerLang": "no",
       "count": 30,
       "version": 1,
       "filter": {
@@ -5835,6 +7219,24 @@
       }
     },
     {
+      "id": "no-allgemein-a2",
+      "name": "Norwegisch: Grundwörter plus – A1/A2",
+      "description": "Themenübergreifende Grundwörter für den Anfang",
+      "level": "A2",
+      "answerLang": "no",
+      "count": 208,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Allgemein"
+        ],
+        "levels": [
+          "A1",
+          "A2"
+        ]
+      }
+    },
+    {
       "id": "allgemein-b1",
       "name": "Grundwörter plus – B1",
       "description": "Themenübergreifende Grundwörter, Mittelstufe",
@@ -5892,6 +7294,23 @@
       "answerLang": "it",
       "count": 311,
       "version": 2,
+      "filter": {
+        "topics": [
+          "Allgemein"
+        ],
+        "levels": [
+          "B1"
+        ]
+      }
+    },
+    {
+      "id": "no-allgemein-b1",
+      "name": "Norwegisch: Grundwörter plus – B1",
+      "description": "Themenübergreifende Grundwörter, Mittelstufe",
+      "level": "B1",
+      "answerLang": "no",
+      "count": 312,
+      "version": 1,
       "filter": {
         "topics": [
           "Allgemein"
@@ -5973,6 +7392,24 @@
       }
     },
     {
+      "id": "no-allgemein-b2",
+      "name": "Norwegisch: Grundwörter plus – B2/C1",
+      "description": "Themenübergreifende Grundwörter für Fortgeschrittene",
+      "level": "B2",
+      "answerLang": "no",
+      "count": 162,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Allgemein"
+        ],
+        "levels": [
+          "B2",
+          "C1"
+        ]
+      }
+    },
+    {
       "id": "allgemein-verben",
       "name": "Häufige Verben",
       "description": "Allgemeine Verben ohne festes Sachgebiet",
@@ -6021,6 +7458,20 @@
       "answerLang": "it",
       "count": 154,
       "version": 2,
+      "filter": {
+        "topics": [
+          "Allgemein/Verben"
+        ]
+      }
+    },
+    {
+      "id": "no-allgemein-verben",
+      "name": "Norwegisch: Häufige Verben",
+      "description": "Allgemeine Verben ohne festes Sachgebiet",
+      "level": "B1",
+      "answerLang": "no",
+      "count": 155,
+      "version": 1,
       "filter": {
         "topics": [
           "Allgemein/Verben"
@@ -6083,6 +7534,20 @@
       }
     },
     {
+      "id": "no-allgemein-adjektive",
+      "name": "Norwegisch: Häufige Adjektive",
+      "description": "Allgemeine Eigenschaftswörter",
+      "level": "B1",
+      "answerLang": "no",
+      "count": 83,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Allgemein/Adjektive"
+        ]
+      }
+    },
+    {
       "id": "allgemein-kleine-woerter",
       "name": "Kleine Wörter",
       "description": "Präpositionen, Konjunktionen und Adverbien",
@@ -6131,6 +7596,20 @@
       "answerLang": "it",
       "count": 80,
       "version": 3,
+      "filter": {
+        "topics": [
+          "Allgemein/Kleine Wörter"
+        ]
+      }
+    },
+    {
+      "id": "no-allgemein-kleine-woerter",
+      "name": "Norwegisch: Kleine Wörter",
+      "description": "Präpositionen, Konjunktionen und Adverbien",
+      "level": "B1",
+      "answerLang": "no",
+      "count": 81,
+      "version": 1,
       "filter": {
         "topics": [
           "Allgemein/Kleine Wörter"
@@ -6197,6 +7676,21 @@
       }
     },
     {
+      "id": "no-allgemein-zeit-raum",
+      "name": "Norwegisch: Zeit, Raum & Richtung",
+      "description": "Zeitangaben, Orte, Richtungen und Formen",
+      "level": "A2",
+      "answerLang": "no",
+      "count": 148,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Allgemein/Zeit",
+          "Allgemein/Raum"
+        ]
+      }
+    },
+    {
       "id": "allgemein-mengen",
       "name": "Mengen & Maße",
       "description": "Zahlen, Anteile, Maße und Gewichte",
@@ -6245,6 +7739,20 @@
       "answerLang": "it",
       "count": 49,
       "version": 2,
+      "filter": {
+        "topics": [
+          "Allgemein/Mengen"
+        ]
+      }
+    },
+    {
+      "id": "no-allgemein-mengen",
+      "name": "Norwegisch: Mengen & Maße",
+      "description": "Zahlen, Anteile, Maße und Gewichte",
+      "level": "B1",
+      "answerLang": "no",
+      "count": 49,
+      "version": 1,
       "filter": {
         "topics": [
           "Allgemein/Mengen"
@@ -6307,6 +7815,20 @@
       }
     },
     {
+      "id": "no-allgemein-denken-sprechen",
+      "name": "Norwegisch: Denken & Sprechen",
+      "description": "Meinung, Gespräch, Erinnern und Verstehen",
+      "level": "B1",
+      "answerLang": "no",
+      "count": 76,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Allgemein/Denken & Sprechen"
+        ]
+      }
+    },
+    {
       "id": "mehrdeutig",
       "name": "Mehrdeutige Wörter",
       "description": "Zweite Bedeutungen bekannter Wörter: Bank (zum Sitzen), Schloss (an der Tür), Kiefer (Knochen) …",
@@ -6355,6 +7877,20 @@
       "answerLang": "it",
       "count": 59,
       "version": 2,
+      "filter": {
+        "topics": [
+          "Mehrdeutige Wörter"
+        ]
+      }
+    },
+    {
+      "id": "no-mehrdeutig",
+      "name": "Norwegisch: Mehrdeutige Wörter",
+      "description": "Zweite Bedeutungen bekannter Wörter: Bank (zum Sitzen), Schloss (an der Tür), Kiefer (Knochen) …",
+      "level": "B1",
+      "answerLang": "no",
+      "count": 59,
+      "version": 1,
       "filter": {
         "topics": [
           "Mehrdeutige Wörter"
@@ -6419,10 +7955,25 @@
           "Grundwortschatz/Abstrakte Begriffe"
         ]
       }
+    },
+    {
+      "id": "no-allgemein-begriffe",
+      "name": "Norwegisch: Wichtige Begriffe",
+      "description": "Abstrakte Allerweltswörter wie Sache, Zustand, Zufall, Gefahr",
+      "level": "B1",
+      "answerLang": "no",
+      "count": 187,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Allgemein/Begriffe",
+          "Grundwortschatz/Abstrakte Begriffe"
+        ]
+      }
     }
   ],
   "areas": {
-    "version": 19,
+    "version": 20,
     "tree": [
       {
         "name": "Einstieg",
@@ -6431,30 +7982,37 @@
           "fr-grundwortschatz-a1",
           "es-grundwortschatz-a1",
           "it-grundwortschatz-a1",
+          "no-grundwortschatz-a1",
           "grundwortschatz-a2",
           "fr-grundwortschatz-a2",
           "es-grundwortschatz-a2",
           "it-grundwortschatz-a2",
+          "no-grundwortschatz-a2",
           "grundwortschatz-b1",
           "fr-grundwortschatz-b1",
           "es-grundwortschatz-b1",
           "it-grundwortschatz-b1",
+          "no-grundwortschatz-b1",
           "grundwortschatz-b2",
           "fr-grundwortschatz-b2",
           "es-grundwortschatz-b2",
           "it-grundwortschatz-b2",
+          "no-grundwortschatz-b2",
           "grundwortschatz-c1",
           "fr-grundwortschatz-c1",
           "es-grundwortschatz-c1",
           "it-grundwortschatz-c1",
+          "no-grundwortschatz-c1",
           "grundwortschatz-c2",
           "fr-grundwortschatz-c2",
           "es-grundwortschatz-c2",
           "it-grundwortschatz-c2",
+          "no-grundwortschatz-c2",
           "grundwortschatz",
           "fr-grundwortschatz",
           "es-grundwortschatz",
-          "it-grundwortschatz"
+          "it-grundwortschatz",
+          "no-grundwortschatz"
         ],
         "areas": [],
         "icon": "mb:einstieg",
@@ -6467,14 +8025,17 @@
           "fr-karsten",
           "es-karsten",
           "it-karsten",
+          "no-karsten",
           "karsten-verben",
           "fr-karsten-verben",
           "es-karsten-verben",
           "it-karsten-verben",
+          "no-karsten-verben",
           "karsten-woerter",
           "fr-karsten-woerter",
           "es-karsten-woerter",
-          "it-karsten-woerter"
+          "it-karsten-woerter",
+          "no-karsten-woerter"
         ],
         "areas": [],
         "icon": "mb:empfehlung",
@@ -6487,46 +8048,57 @@
           "fr-allgemein-a2",
           "es-allgemein-a2",
           "it-allgemein-a2",
+          "no-allgemein-a2",
           "allgemein-b1",
           "fr-allgemein-b1",
           "es-allgemein-b1",
           "it-allgemein-b1",
+          "no-allgemein-b1",
           "allgemein-b2",
           "fr-allgemein-b2",
           "es-allgemein-b2",
           "it-allgemein-b2",
+          "no-allgemein-b2",
           "allgemein-verben",
           "fr-allgemein-verben",
           "es-allgemein-verben",
           "it-allgemein-verben",
+          "no-allgemein-verben",
           "allgemein-adjektive",
           "fr-allgemein-adjektive",
           "es-allgemein-adjektive",
           "it-allgemein-adjektive",
+          "no-allgemein-adjektive",
           "allgemein-kleine-woerter",
           "fr-allgemein-kleine-woerter",
           "es-allgemein-kleine-woerter",
           "it-allgemein-kleine-woerter",
+          "no-allgemein-kleine-woerter",
           "allgemein-zeit-raum",
           "fr-allgemein-zeit-raum",
           "es-allgemein-zeit-raum",
           "it-allgemein-zeit-raum",
+          "no-allgemein-zeit-raum",
           "allgemein-mengen",
           "fr-allgemein-mengen",
           "es-allgemein-mengen",
           "it-allgemein-mengen",
+          "no-allgemein-mengen",
           "allgemein-denken-sprechen",
           "fr-allgemein-denken-sprechen",
           "es-allgemein-denken-sprechen",
           "it-allgemein-denken-sprechen",
+          "no-allgemein-denken-sprechen",
           "allgemein-begriffe",
           "fr-allgemein-begriffe",
           "es-allgemein-begriffe",
           "it-allgemein-begriffe",
+          "no-allgemein-begriffe",
           "mehrdeutig",
           "fr-mehrdeutig",
           "es-mehrdeutig",
-          "it-mehrdeutig"
+          "it-mehrdeutig",
+          "no-mehrdeutig"
         ],
         "icon": "mb:haeufige-woerter",
         "section": "vokabeln"
@@ -6538,62 +8110,77 @@
           "fr-alltag-zuhause",
           "es-alltag-zuhause",
           "it-alltag-zuhause",
+          "no-alltag-zuhause",
           "haushalt-geraete",
           "fr-haushalt-geraete",
           "es-haushalt-geraete",
           "it-haushalt-geraete",
+          "no-haushalt-geraete",
           "werkzeug-handwerk",
           "fr-werkzeug-handwerk",
           "es-werkzeug-handwerk",
           "it-werkzeug-handwerk",
+          "no-werkzeug-handwerk",
           "familie-beziehungen",
           "fr-familie-beziehungen",
           "es-familie-beziehungen",
           "it-familie-beziehungen",
+          "no-familie-beziehungen",
           "essen-trinken",
           "fr-essen-trinken",
           "es-essen-trinken",
           "it-essen-trinken",
+          "no-essen-trinken",
           "lebensmittel",
           "fr-lebensmittel",
           "es-lebensmittel",
           "it-lebensmittel",
+          "no-lebensmittel",
           "einkaufen-geld",
           "fr-einkaufen-geld",
           "es-einkaufen-geld",
           "it-einkaufen-geld",
+          "no-einkaufen-geld",
           "kleidung-mode",
           "fr-kleidung-mode",
           "es-kleidung-mode",
           "it-kleidung-mode",
+          "no-kleidung-mode",
           "koerper-gesundheit",
           "fr-koerper-gesundheit",
           "es-koerper-gesundheit",
           "it-koerper-gesundheit",
+          "no-koerper-gesundheit",
           "koerperpflege",
           "fr-koerperpflege",
           "es-koerperpflege",
           "it-koerperpflege",
+          "no-koerperpflege",
           "symptome-krankheiten",
           "fr-symptome-krankheiten",
           "es-symptome-krankheiten",
           "it-symptome-krankheiten",
+          "no-symptome-krankheiten",
           "gefuehle-charakter",
           "fr-gefuehle-charakter",
           "es-gefuehle-charakter",
           "it-gefuehle-charakter",
+          "no-gefuehle-charakter",
           "aussehen-lebensphasen",
           "fr-aussehen-lebensphasen",
           "es-aussehen-lebensphasen",
           "it-aussehen-lebensphasen",
+          "no-aussehen-lebensphasen",
           "verkehr-mobilitaet",
           "fr-verkehr-mobilitaet",
           "es-verkehr-mobilitaet",
           "it-verkehr-mobilitaet",
+          "no-verkehr-mobilitaet",
           "stadt-gebaeude",
           "fr-stadt-gebaeude",
           "es-stadt-gebaeude",
-          "it-stadt-gebaeude"
+          "it-stadt-gebaeude",
+          "no-stadt-gebaeude"
         ],
         "icon": "mb:alltag",
         "section": "vokabeln"
@@ -6605,38 +8192,47 @@
           "fr-reisen-urlaub",
           "es-reisen-urlaub",
           "it-reisen-urlaub",
+          "no-reisen-urlaub",
           "laender-nationalitaeten",
           "fr-laender-nationalitaeten",
           "es-laender-nationalitaeten",
           "it-laender-nationalitaeten",
+          "no-laender-nationalitaeten",
           "verkehr-mobilitaet",
           "fr-verkehr-mobilitaet",
           "es-verkehr-mobilitaet",
           "it-verkehr-mobilitaet",
+          "no-verkehr-mobilitaet",
           "business-english-airport",
           "fr-business-english-airport",
           "es-business-english-airport",
           "it-business-english-airport",
+          "no-business-english-airport",
           "freizeit-hobbys",
           "fr-freizeit-hobbys",
           "es-freizeit-hobbys",
           "it-freizeit-hobbys",
+          "no-freizeit-hobbys",
           "feste-feiertage",
           "fr-feste-feiertage",
           "es-feste-feiertage",
           "it-feste-feiertage",
+          "no-feste-feiertage",
           "sport-fitness",
           "fr-sport-fitness",
           "es-sport-fitness",
           "it-sport-fitness",
+          "no-sport-fitness",
           "kunst-kultur",
           "fr-kunst-kultur",
           "es-kunst-kultur",
           "it-kunst-kultur",
+          "no-kunst-kultur",
           "musik-instrumente",
           "fr-musik-instrumente",
           "es-musik-instrumente",
-          "it-musik-instrumente"
+          "it-musik-instrumente",
+          "no-musik-instrumente"
         ],
         "icon": "mb:reisen",
         "section": "vokabeln"
@@ -6648,10 +8244,12 @@
           "fr-wirtschaft-finanzen",
           "es-wirtschaft-finanzen",
           "it-wirtschaft-finanzen",
+          "no-wirtschaft-finanzen",
           "business-english-airport",
           "fr-business-english-airport",
           "es-business-english-airport",
-          "it-business-english-airport"
+          "it-business-english-airport",
+          "no-business-english-airport"
         ],
         "areas": [
           {
@@ -6661,22 +8259,27 @@
               "fr-arbeit-beruf",
               "es-arbeit-beruf",
               "it-arbeit-beruf",
+              "no-arbeit-beruf",
               "berufe",
               "fr-berufe",
               "es-berufe",
               "it-berufe",
+              "no-berufe",
               "buero-arbeitsplatz",
               "fr-buero-arbeitsplatz",
               "es-buero-arbeitsplatz",
               "it-buero-arbeitsplatz",
+              "no-buero-arbeitsplatz",
               "business-buero",
               "fr-business-buero",
               "es-business-buero",
               "it-business-buero",
+              "no-business-buero",
               "medien-kommunikation",
               "fr-medien-kommunikation",
               "es-medien-kommunikation",
-              "it-medien-kommunikation"
+              "it-medien-kommunikation",
+              "no-medien-kommunikation"
             ],
             "icon": "mb:grundlagen"
           },
@@ -6687,30 +8290,37 @@
               "fr-business-beschaffung",
               "es-business-beschaffung",
               "it-business-beschaffung",
+              "no-business-beschaffung",
               "business-marketing-vertrieb",
               "fr-business-marketing-vertrieb",
               "es-business-marketing-vertrieb",
               "it-business-marketing-vertrieb",
+              "no-business-marketing-vertrieb",
               "business-personalwesen",
               "fr-business-personalwesen",
               "es-business-personalwesen",
               "it-business-personalwesen",
+              "no-business-personalwesen",
               "business-projektmanagement",
               "fr-business-projektmanagement",
               "es-business-projektmanagement",
               "it-business-projektmanagement",
+              "no-business-projektmanagement",
               "business-rechnungswesen",
               "fr-business-rechnungswesen",
               "es-business-rechnungswesen",
               "it-business-rechnungswesen",
+              "no-business-rechnungswesen",
               "business-verhandlungen",
               "fr-business-verhandlungen",
               "es-business-verhandlungen",
               "it-business-verhandlungen",
+              "no-business-verhandlungen",
               "business-vertrag",
               "fr-business-vertrag",
               "es-business-vertrag",
-              "it-business-vertrag"
+              "it-business-vertrag",
+              "no-business-vertrag"
             ],
             "icon": "mb:fachbereiche"
           }
@@ -6725,70 +8335,87 @@
           "fr-politik-gesellschaft",
           "es-politik-gesellschaft",
           "it-politik-gesellschaft",
+          "no-politik-gesellschaft",
           "recht-kriminalitaet",
           "fr-recht-kriminalitaet",
           "es-recht-kriminalitaet",
           "it-recht-kriminalitaet",
+          "no-recht-kriminalitaet",
           "politik-international",
           "fr-politik-international",
           "es-politik-international",
           "it-politik-international",
+          "no-politik-international",
           "religion",
           "fr-religion",
           "es-religion",
           "it-religion",
+          "no-religion",
           "geschichte",
           "fr-geschichte",
           "es-geschichte",
           "it-geschichte",
+          "no-geschichte",
           "schule-bildung",
           "fr-schule-bildung",
           "es-schule-bildung",
           "it-schule-bildung",
+          "no-schule-bildung",
           "schule-klassenzimmer",
           "fr-schule-klassenzimmer",
           "es-schule-klassenzimmer",
           "it-schule-klassenzimmer",
+          "no-schule-klassenzimmer",
           "sprache-grammatik",
           "fr-sprache-grammatik",
           "es-sprache-grammatik",
           "it-sprache-grammatik",
+          "no-sprache-grammatik",
           "wissenschaft-forschung",
           "fr-wissenschaft-forschung",
           "es-wissenschaft-forschung",
           "it-wissenschaft-forschung",
+          "no-wissenschaft-forschung",
           "rechnen-geometrie",
           "fr-rechnen-geometrie",
           "es-rechnen-geometrie",
           "it-rechnen-geometrie",
+          "no-rechnen-geometrie",
           "technik-computer",
           "fr-technik-computer",
           "es-technik-computer",
           "it-technik-computer",
+          "no-technik-computer",
           "strom-maschinen",
           "fr-strom-maschinen",
           "es-strom-maschinen",
           "it-strom-maschinen",
+          "no-strom-maschinen",
           "natur-tiere",
           "fr-natur-tiere",
           "es-natur-tiere",
           "it-natur-tiere",
+          "no-natur-tiere",
           "geografie",
           "fr-geografie",
           "es-geografie",
           "it-geografie",
+          "no-geografie",
           "wetter-umwelt",
           "fr-wetter-umwelt",
           "es-wetter-umwelt",
           "it-wetter-umwelt",
+          "no-wetter-umwelt",
           "medien-kommunikation",
           "fr-medien-kommunikation",
           "es-medien-kommunikation",
           "it-medien-kommunikation",
+          "no-medien-kommunikation",
           "wirtschaft-finanzen",
           "fr-wirtschaft-finanzen",
           "es-wirtschaft-finanzen",
-          "it-wirtschaft-finanzen"
+          "it-wirtschaft-finanzen",
+          "no-wirtschaft-finanzen"
         ],
         "icon": "mb:gesellschaft",
         "section": "vokabeln"
@@ -6804,30 +8431,37 @@
               "fr-wendungen-alltag-a1",
               "es-wendungen-alltag-a1",
               "it-wendungen-alltag-a1",
+              "no-wendungen-alltag-a1",
               "wendungen-alltag-a2",
               "fr-wendungen-alltag-a2",
               "es-wendungen-alltag-a2",
               "it-wendungen-alltag-a2",
+              "no-wendungen-alltag-a2",
               "wendungen-zeitangaben",
               "fr-wendungen-zeitangaben",
               "es-wendungen-zeitangaben",
               "it-wendungen-zeitangaben",
+              "no-wendungen-zeitangaben",
               "wendungen-tagesablauf-wohnen",
               "fr-wendungen-tagesablauf-wohnen",
               "es-wendungen-tagesablauf-wohnen",
               "it-wendungen-tagesablauf-wohnen",
+              "no-wendungen-tagesablauf-wohnen",
               "wendungen-essen-einkaufen",
               "fr-wendungen-essen-einkaufen",
               "es-wendungen-essen-einkaufen",
               "it-wendungen-essen-einkaufen",
+              "no-wendungen-essen-einkaufen",
               "wendungen-freizeit",
               "fr-wendungen-freizeit",
               "es-wendungen-freizeit",
               "it-wendungen-freizeit",
+              "no-wendungen-freizeit",
               "wendungen-reisen-unterwegs",
               "fr-wendungen-reisen-unterwegs",
               "es-wendungen-reisen-unterwegs",
-              "it-wendungen-reisen-unterwegs"
+              "it-wendungen-reisen-unterwegs",
+              "no-wendungen-reisen-unterwegs"
             ],
             "icon": "mb:alltag-gespraech"
           },
@@ -6838,14 +8472,17 @@
               "fr-wendungen-schule",
               "es-wendungen-schule",
               "it-wendungen-schule",
+              "no-wendungen-schule",
               "wendungen-arbeit",
               "fr-wendungen-arbeit",
               "es-wendungen-arbeit",
               "it-wendungen-arbeit",
+              "no-wendungen-arbeit",
               "wendungen-gespraech",
               "fr-wendungen-gespraech",
               "es-wendungen-gespraech",
-              "it-wendungen-gespraech"
+              "it-wendungen-gespraech",
+              "no-wendungen-gespraech"
             ],
             "icon": "mb:schule-arbeit"
           },
@@ -6856,10 +8493,12 @@
               "fr-redewendungen-b2",
               "es-redewendungen-b2",
               "it-redewendungen-b2",
+              "no-redewendungen-b2",
               "redewendungen-c1",
               "fr-redewendungen-c1",
               "es-redewendungen-c1",
-              "it-redewendungen-c1"
+              "it-redewendungen-c1",
+              "no-redewendungen-c1"
             ],
             "icon": "mb:redewendung"
           },
@@ -6870,10 +8509,12 @@
               "fr-sprichwoerter-b2",
               "es-sprichwoerter-b2",
               "it-sprichwoerter-b2",
+              "no-sprichwoerter-b2",
               "sprichwoerter-c1",
               "fr-sprichwoerter-c1",
               "es-sprichwoerter-c1",
-              "it-sprichwoerter-c1"
+              "it-sprichwoerter-c1",
+              "no-sprichwoerter-c1"
             ],
             "icon": "mb:sprichwort"
           },

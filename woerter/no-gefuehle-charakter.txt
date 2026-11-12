@@ -1,0 +1,152 @@
+# Norwegisch: Gefühle & Charakter
+id; Deutsch; Norwegisch; Weitere Antworten; Niveau; Themen; Beispiel Norwegisch; Beispiel Deutsch
+no-gc-0001; glücklich; glad; lykkelig; A1; Mensch/Gefühle/Emotionen; Jeg er veldig glad for besøket ditt.; Ich bin sehr glücklich über deinen Besuch.
+no-gc-0002; traurig; trist; lei seg; A1; Mensch/Gefühle/Emotionen; Hun var trist da venninnen hennes dro.; Sie war traurig, als ihre Freundin ging.
+no-gc-0003; müde; trøtt; sliten; A1; Mensch/Gefühle/Stimmungen; Etter jobb er jeg alltid veldig trøtt.; Nach der Arbeit bin ich immer sehr müde.
+no-gc-0004; froh; glad; ; A1; Mensch/Gefühle/Emotionen; Jeg er glad for at du er her.; Ich bin froh, dass du hier bist.
+no-gc-0005; Angst; en angst; ; A1; Mensch/Gefühle/Emotionen; Barnet har angst for store hunder.; Das Kind hat Angst vor großen Hunden.
+no-gc-0006; Liebe; ei kjærlighet; en kjærlighet; A1; Mensch/Gefühle/Emotionen; Kjærlighet er det viktigste i livet.; Liebe ist das Wichtigste im Leben.
+no-gc-0007; lieben; å elske; ; A1; Mensch/Gefühle/Emotionen; Jeg elsker familien min over alt annet.; Ich liebe meine Familie über alles.
+no-gc-0008; lachen; å le; ; A1; Mensch/Gefühle/Emotionen; Vi ler mye når vi er sammen.; Wir lachen viel, wenn wir zusammen sind.
+no-gc-0009; weinen; å gråte; ; A1; Mensch/Gefühle/Emotionen; Babyen gråter når den er sulten.; Das Baby weint, wenn es Hunger hat.
+no-gc-0010; lächeln; å smile; ; A1; Mensch/Gefühle/Emotionen; Hun smiler hver gang hun ser ham.; Sie lächelt jedes Mal, wenn sie ihn sieht.
+no-gc-0011; nett; hyggelig; ; A1; Mensch/Gefühle/Charakter; Den nye naboen vår er veldig hyggelig.; Unser neuer Nachbar ist wirklich nett.
+no-gc-0012; freundlich; vennlig; ; A1; Mensch/Gefühle/Charakter; Personalet i denne butikken er veldig vennlig.; Das Personal in diesem Laden ist sehr freundlich.
+no-gc-0013; wütend; sint; ; A1; Mensch/Gefühle/Emotionen; Han blir sint når bussen kommer for sent.; Er wird wütend, wenn der Bus zu spät kommt.
+no-gc-0014; Spaß; en moro; ei moro; A1; Mensch/Gefühle/Stimmungen; Barna hadde mye moro i dag.; Die Kinder hatten heute viel Spaß.
+no-gc-0015; mögen; å like; ; A1; Mensch/Gefühle/Emotionen; Jeg liker mennesker som kan lytte godt.; Ich mag Menschen, die gut zuhören können.
+no-gc-0016; Glück (glücklich sein); en lykke; ei lykke; A1; Mensch/Gefühle/Emotionen; Penger alene gir deg aldri ekte lykke.; Geld allein bringt kein Glück.
+no-gc-0017; allein; alene; ; A1; Mensch/Gefühle/Stimmungen; Noen ganger er jeg gjerne alene hjemme.; Manchmal bin ich gern allein zu Hause.
+no-gc-0018; langweilig; kjedelig; ; A1; Mensch/Gefühle/Stimmungen; Filmen var lang og veldig kjedelig.; Der Film war lang und sehr langweilig.
+no-gc-0019; lustig; morsom; ; A1; Mensch/Gefühle/Charakter; Onkelen min er morsom og forteller gode vitser.; Mein Onkel ist lustig und erzählt tolle Witze.
+no-gc-0020; ruhig; rolig; ; A1; Mensch/Gefühle/Stimmungen; Bli rolig, alt er i orden.; Bitte bleib ruhig, alles ist in Ordnung.
+no-gc-0021; Gefühl; en følelse; ; A1; Mensch/Gefühle/Emotionen; Jeg har en god følelse for denne planen.; Ich habe ein gutes Gefühl bei diesem Plan.
+no-gc-0022; fühlen; å føle; ; A1; Mensch/Gefühle/Emotionen; Hvordan føler du deg i dag etter nyhetene?; Wie fühlst du dich heute nach den Neuigkeiten?
+no-gc-0023; Herz; et hjerte; ; A1; Mensch/Gefühle/Emotionen, Gesundheit/Körper; Hjertet hennes slår raskere når hun er nervøs.; Ihr Herz schlägt schneller, wenn sie nervös ist.
+no-gc-0024; stark; sterk; ; A1; Mensch/Gefühle/Charakter; I vanskelige tider må man være sterk.; In schweren Zeiten muss man stark sein.
+no-gc-0025; schwach; svak; ; A1; Mensch/Gefühle/Charakter; Etter den lange sykdommen følte han seg svak.; Nach der langen Krankheit fühlte er sich schwach.
+no-gc-0026; Freude; en glede; ; A2; Mensch/Gefühle/Emotionen; Den lille gaven ga henne veldig stor glede.; Das Geschenk bereitete ihr große Freude.
+no-gc-0027; hoffen; å håpe; ; A2; Mensch/Gefühle/Emotionen; Vi håper på godt vær i helgen.; Wir hoffen auf gutes Wetter am Wochenende.
+no-gc-0028; Hoffnung; et håp; ; A2; Mensch/Gefühle/Emotionen; Det er fortsatt håp om en god slutt.; Es gibt noch Hoffnung auf ein gutes Ende.
+no-gc-0029; Sorge; en bekymring; ; A2; Mensch/Gefühle/Emotionen; Den største bekymringen hennes er å miste jobben.; Ihre größte Sorge ist, die Arbeit zu verlieren.
+no-gc-0030; sich freuen; å glede seg; ; A2; Mensch/Gefühle/Emotionen; Jeg gleder meg over hver eneste lille suksess.; Ich freue mich über jeden kleinen Erfolg.
+no-gc-0031; nervös; nervøs; ; A2; Mensch/Gefühle/Stimmungen; Han er alltid nervøs før en prøve.; Vor einer Prüfung ist er immer nervös.
+no-gc-0032; sauer (verärgert); sur; ; A2; Mensch/Gefühle/Emotionen; Hun er sur fordi han glemte bursdagen hennes.; Sie ist sauer, weil er ihren Geburtstag vergessen hat.
+no-gc-0033; zufrieden; fornøyd; ; A2; Mensch/Gefühle/Stimmungen; Jeg er fornøyd med resultatet av testen.; Ich bin mit dem Ergebnis des Tests zufrieden.
+no-gc-0034; überrascht; overrasket; ; A2; Mensch/Gefühle/Emotionen; Vi ble overrasket over den plutselige invitasjonen.; Wir waren von der plötzlichen Einladung überrascht.
+no-gc-0035; Überraschung; en overraskelse; ; A2; Mensch/Gefühle/Emotionen; Festen var en total overraskelse for henne.; Die Party war eine völlige Überraschung für sie.
+no-gc-0036; Stress; et stress; ; A2; Mensch/Gefühle/Stimmungen; For mye stress er dårlig for helsen.; Zu viel Stress ist schlecht für die Gesundheit.
+no-gc-0037; gestresst; stresset; ; A2; Mensch/Gefühle/Stimmungen; Før hvert viktige møte føler hun seg stresset.; Vor jedem wichtigen Termin fühlt sie sich gestresst.
+no-gc-0038; Laune; et humør; ; A2; Mensch/Gefühle/Stimmungen; Humøret hans skifter raskt om morgenen.; Seine Laune wechselt morgens schnell.
+no-gc-0039; gelangweilt; lei; ; A2; Mensch/Gefühle/Stimmungen; Elevene virket lei under det lange foredraget.; Die Schüler wirkten während des langen Vortrags gelangweilt.
+no-gc-0040; Langeweile; en kjedsomhet; ; A2; Mensch/Gefühle/Stimmungen; Av kjedsomhet begynte han å male veggene.; Aus Langeweile fing er an, Wände zu streichen.
+no-gc-0041; einsam; ensom; ; A2; Mensch/Gefühle/Stimmungen; I den nye byen følte hun seg først ensom.; In der neuen Stadt fühlte sie sich zuerst einsam.
+no-gc-0042; Träne; en tåre; ; A2; Mensch/Gefühle/Emotionen, Gesundheit/Körper; En enkelt tåre rant nedover kinnet hans.; Eine einzelne Träne lief über seine Wange.
+no-gc-0043; mutig; modig; tapper; A2; Mensch/Gefühle/Charakter; Det var modig av deg å si sannheten.; Es war mutig von dir, die Wahrheit zu sagen.
+no-gc-0044; Mut; et mot; ; A2; Mensch/Gefühle/Charakter; Det trengs mot for å begynne på noe nytt.; Es braucht Mut, etwas Neues anzufangen.
+no-gc-0045; schüchtern; sjenert; ; A2; Mensch/Gefühle/Charakter; Den sjenerte gutten snakker sjelden i timen.; Der schüchterne Junge spricht selten im Unterricht.
+no-gc-0046; höflich; høflig; ; A2; Mensch/Gefühle/Verhalten; Det er høflig å si takk.; Es ist höflich, sich zu bedanken.
+no-gc-0047; unhöflich; uhøflig; ; A2; Mensch/Gefühle/Verhalten; Det er uhøflig å avbryte andre mennesker.; Es ist unhöflich, andere Menschen zu unterbrechen.
+no-gc-0048; ehrlich; ærlig; ; A2; Mensch/Gefühle/Charakter; Vær ærlig mot meg, selv om det gjør vondt.; Sei ehrlich zu mir, auch wenn es wehtut.
+no-gc-0049; lügen; å lyve; ; A2; Mensch/Gefühle/Verhalten; Du bør aldri lyve for vennene dine.; Du solltest deine Freunde niemals anlügen.
+no-gc-0050; klug; smart; klok, intelligent; A2; Mensch/Gefühle/Charakter; Hun er smart og lærer språk raskt.; Sie ist klug und lernt Sprachen schnell.
+no-gc-0051; dumm; dum; tåpelig; A2; Mensch/Gefühle/Charakter; Det var dumt å gå ut uten jakke.; Es war dumm, ohne Jacke loszugehen.
+no-gc-0052; faul (träge); lat; ; A2; Mensch/Gefühle/Charakter; På søndager er vi alle litt late.; Sonntags sind wir alle ein bisschen faul.
+no-gc-0053; fleißig; flittig; ; A2; Mensch/Gefühle/Charakter; Den flittige studenten fullførte prosjektet tidlig.; Der fleißige Student beendete das Projekt früh.
+no-gc-0054; geduldig; tålmodig; ; A2; Mensch/Gefühle/Charakter; En god lærer er tålmodig med nybegynnere.; Ein guter Lehrer ist geduldig mit Anfängern.
+no-gc-0055; ungeduldig; utålmodig; ; A2; Mensch/Gefühle/Charakter; Han blir utålmodig når han må vente.; Er wird ungeduldig, wenn er warten muss.
+no-gc-0056; Humor; en humor; ; A2; Mensch/Gefühle/Charakter; Den tørre humoren hennes får alle til å le.; Ihr trockener Humor bringt alle zum Lachen.
+no-gc-0057; Charakter; en karakter; ; A2; Mensch/Gefühle/Charakter; Et menneskes karakter viser seg i vanskelige øyeblikk.; Der Charakter eines Menschen zeigt sich in schwierigen Momenten.
+no-gc-0058; Verhalten; en oppførsel; ; A2; Mensch/Gefühle/Verhalten; Oppførselen hans i møtet overrasket alle.; Sein Verhalten in der Besprechung überraschte alle.
+no-gc-0059; streiten; å krangle; ; A2; Mensch/Gefühle/Verhalten, Mensch/Gefühle/Beziehungen; Brødrene krangler nesten daglig om små ting.; Die Brüder streiten täglich über Kleinigkeiten.
+no-gc-0060; lieb; snill; ; A2; Mensch/Gefühle/Charakter; Det var veldig snilt av henne å hjelpe.; Es war sehr lieb von ihr zu helfen.
+no-gc-0061; enttäuscht; skuffet; ; B1; Mensch/Gefühle/Emotionen; Han ble veldig skuffet over testresultatene.; Er war von den Testergebnissen enttäuscht.
+no-gc-0062; Enttäuschung; en skuffelse; ; B1; Mensch/Gefühle/Emotionen; Den avlyste konserten var en stor skuffelse.; Das abgesagte Konzert war eine große Enttäuschung.
+no-gc-0063; eifersüchtig; sjalu; ; B1; Mensch/Gefühle/Beziehungen; Han blir sjalu når hun snakker med andre.; Er wird eifersüchtig, wenn sie mit anderen redet.
+no-gc-0064; Eifersucht; en sjalusi; ; B1; Mensch/Gefühle/Beziehungen; Sjalusi kan ødelegge selv sterke forhold.; Eifersucht kann selbst starke Beziehungen zerstören.
+no-gc-0065; neidisch; misunnelig; ; B1; Mensch/Gefühle/Emotionen; Hun er misunnelig på kollegaens suksess.; Sie ist neidisch auf den Erfolg ihrer Kollegin.
+no-gc-0066; Neid; en misunnelse; ; B1; Mensch/Gefühle/Emotionen; Den nye bilen hans vakte misunnelse blant naboene.; Sein neues Auto sorgte für Neid unter den Nachbarn.
+no-gc-0067; stolz; stolt; ; B1; Mensch/Gefühle/Emotionen; Foreldrene er stolte av datteren sin.; Die Eltern sind stolz auf ihre Tochter.
+no-gc-0068; dankbar; takknemlig; ; B1; Mensch/Gefühle/Emotionen; Jeg er takknemlig for all støtten din.; Ich bin dankbar für all deine Unterstützung.
+no-gc-0069; sich schämen; å skamme seg; ; B1; Mensch/Gefühle/Emotionen; Han skammer seg over den uhøflige bemerkningen sin.; Er schämt sich für seine unhöfliche Bemerkung.
+no-gc-0070; Scham; en skam; ; B1; Mensch/Gefühle/Emotionen; Hun rødmet av skam da hun husket det.; Sie errötete vor Scham bei der Erinnerung.
+no-gc-0071; Schuld; en skyld; ; B1; Mensch/Gefühle/Emotionen; Han følte dyp skyld etter ulykken.; Er fühlte tiefe Schuld wegen des Unfalls.
+no-gc-0072; schuldig; skyldig; ; B1; Mensch/Gefühle/Emotionen; Hun følte seg skyldig fordi hun hadde glemt avtalen.; Sie fühlte sich schuldig, weil sie den Termin vergessen hatte.
+no-gc-0073; erleichtert; lettet; ; B1; Mensch/Gefühle/Emotionen; Vi var lettet da stormen var over.; Wir waren erleichtert, als der Sturm vorüber war.
+no-gc-0074; Erleichterung; en lettelse; ; B1; Mensch/Gefühle/Emotionen; Etter prøven sukket hun av lettelse.; Nach der Prüfung seufzte sie vor Erleichterung.
+no-gc-0075; besorgt; bekymret; ; B1; Mensch/Gefühle/Emotionen; Foreldrene hans er bekymret for karakterene hans.; Seine Eltern sind besorgt wegen seiner Noten.
+no-gc-0076; aufgeregt; spent; oppspilt; B1; Mensch/Gefühle/Stimmungen; Barna er spente på skoleturen i morgen.; Die Kinder sind wegen des Schulausflugs aufgeregt.
+no-gc-0077; Aufregung; et oppstyr; ; B1; Mensch/Gefühle/Stimmungen; I alt oppstyret glemte hun nøklene sine.; In der ganzen Aufregung vergaß sie ihre Schlüssel.
+no-gc-0078; verliebt; forelsket; ; B1; Mensch/Gefühle/Beziehungen; De to har vært forelsket i hverandre i mange år.; Die beiden sind seit Jahren ineinander verliebt.
+no-gc-0079; vertrauen; å stole på; å ha tillit til; B1; Mensch/Gefühle/Beziehungen; Du kan stole på henne, hun forteller aldri hemmeligheter videre.; Du kannst ihr vertrauen, sie erzählt nie Geheimnisse weiter.
+no-gc-0080; Dankbarkeit; en takknemlighet; ; B1; Mensch/Gefühle/Emotionen; Hun uttrykte takknemligheten sin med et langt brev.; Sie drückte ihre Dankbarkeit mit einem langen Brief aus.
+no-gc-0081; Mitleid; en medlidenhet; ; B1; Mensch/Gefühle/Emotionen; Han hadde medlidenhet med den frysende streifkatten.; Er hatte Mitleid mit der frierenden Streunerkatze.
+no-gc-0082; Mitgefühl; en medfølelse; ; B1; Mensch/Gefühle/Emotionen; Ekte medfølelse betyr å lytte uten å dømme.; Wahres Mitgefühl bedeutet zuzuhören, ohne andere zu verurteilen.
+no-gc-0083; zuverlässig; pålitelig; ; B1; Mensch/Gefühle/Charakter; En pålitelig venn holder løftene sine.; Ein zuverlässiger Freund hält seine Versprechen.
+no-gc-0084; selbstbewusst; selvsikker; ; B1; Mensch/Gefühle/Charakter; Hun ga et selvsikkert svar i jobbintervjuet.; Sie gab im Vorstellungsgespräch eine selbstbewusste Antwort.
+no-gc-0085; bescheiden; beskjeden; ydmyk; B1; Mensch/Gefühle/Charakter; Til tross for suksessen var han beskjeden og vennlig.; Trotz seines Erfolgs blieb er bescheiden und freundlich.
+no-gc-0086; großzügig; sjenerøs; gavmild, raus; B1; Mensch/Gefühle/Charakter; Tanten vår er sjenerøs og tar alltid med gaver.; Unsere großzügige Tante bringt uns immer Geschenke mit.
+no-gc-0087; geizig; gjerrig; ; B1; Mensch/Gefühle/Charakter; Han er for gjerrig til å spandere en runde.; Er ist zu geizig, um eine Runde auszugeben.
+no-gc-0088; egoistisch; egoistisk; ; B1; Mensch/Gefühle/Charakter; Det er egoistisk å bare tenke på seg selv.; Es ist egoistisch, nur an sich selbst zu denken.
+no-gc-0089; hilfsbereit; hjelpsom; ; B1; Mensch/Gefühle/Verhalten; Den hjelpsomme naboen bar de tunge posene mine opp.; Der hilfsbereite Nachbar trug meine schweren Taschen nach oben.
+no-gc-0090; neugierig; nysgjerrig; ; B1; Mensch/Gefühle/Charakter; Barn er av natur nysgjerrige på verden.; Kinder sind von Natur aus neugierig auf die Welt.
+no-gc-0091; Neugier; en nysgjerrighet; ; B1; Mensch/Gefühle/Charakter; Nysgjerrigheten hennes førte henne til studier i utlandet.; Ihre Neugier führte sie zum Studium ins Ausland.
+no-gc-0092; sensibel; følsom; ; B1; Mensch/Gefühle/Charakter; Han er følsom og tar kritikk veldig personlig.; Er ist sensibel und nimmt Kritik sehr persönlich.
+no-gc-0093; vernünftig; fornuftig; ; B1; Mensch/Gefühle/Charakter; Vær fornuftig og ta en pause nå.; Sei vernünftig und mach jetzt eine Pause.
+no-gc-0094; stur; sta; ; B1; Mensch/Gefühle/Charakter; Han er for sta til å innrømme feilen.; Er ist zu stur, um seinen Fehler zuzugeben.
+no-gc-0095; zärtlich; øm; ; B1; Mensch/Gefühle/Beziehungen; Hun ga babyen et ømt kyss.; Sie gab dem Baby einen zärtlichen Kuss.
+no-gc-0096; Sehnsucht; en lengsel; ; B2; Mensch/Gefühle/Emotionen; Han kjente en dyp lengsel etter hjemlandet sitt.; Er spürte eine tiefe Sehnsucht nach seiner Heimat.
+no-gc-0097; sich sehnen; å lengte; ; B2; Mensch/Gefühle/Emotionen; Etter den lange vinteren lengtet hun etter sol.; Nach dem langen Winter sehnte sie sich nach Sonne.
+no-gc-0098; Verzweiflung; en fortvilelse; ; B2; Mensch/Gefühle/Emotionen; I sin fortvilelse ringte han den gamle læreren.; In seiner Verzweiflung rief er seinen alten Lehrer an.
+no-gc-0099; verzweifelt; desperat; fortvilet; B2; Mensch/Gefühle/Emotionen; Hun gjorde et desperat forsøk på å redde prosjektet.; Sie unternahm einen verzweifelten Versuch, das Projekt zu retten.
+no-gc-0100; gelassen; fattet; ; B2; Mensch/Gefühle/Stimmungen; Han forble fattet til tross for den harde kritikken.; Er blieb trotz der harten Kritik gelassen.
+no-gc-0101; Zuneigung; ei hengivenhet; en hengivenhet, en ømhet; B2; Mensch/Gefühle/Beziehungen; Hun viser hengivenheten sin gjennom små gester.; Sie zeigt ihre Zuneigung durch kleine Gesten.
+no-gc-0102; Abneigung; en motvilje; en aversjon; B2; Mensch/Gefühle/Emotionen; Han skjulte aldri motviljen sin mot høylytte fester.; Er verbarg seine Abneigung gegen laute Partys nie.
+no-gc-0103; verachten; å forakte; ; B2; Mensch/Gefühle/Emotionen; Hun forakter mennesker som lyver uten skam.; Sie verachtet Menschen, die ohne Scham lügen.
+no-gc-0104; Verachtung; en forakt; ; B2; Mensch/Gefühle/Emotionen; Stemmen hans var full av kald forakt.; Seine Stimme war voller kalter Verachtung.
+no-gc-0105; bewundern; å beundre; ; B2; Mensch/Gefühle/Emotionen; Jeg beundrer tålmodigheten hennes med vanskelige kunder.; Ich bewundere ihre Geduld mit schwierigen Kunden.
+no-gc-0106; Bewunderung; en beundring; ; B2; Mensch/Gefühle/Emotionen; Elevene så på treneren sin med beundring.; Die Schüler sahen ihren Trainer mit Bewunderung an.
+no-gc-0107; Begeisterung; en begeistring; en entusiasme; B2; Mensch/Gefühle/Emotionen; Begeistringen hennes for ideen overbeviste hele teamet.; Ihre Begeisterung für die Idee überzeugte das Team.
+no-gc-0108; begeistert; begeistret; entusiastisk; B2; Mensch/Gefühle/Emotionen; Publikum var begeistret for det nye stykket.; Das Publikum war von dem neuen Stück begeistert.
+no-gc-0109; Zorn; et sinne; en vrede; B2; Mensch/Gefühle/Emotionen; Sinnet hans forsvant like raskt som det kom.; Sein Zorn verflog so schnell, wie er gekommen war.
+no-gc-0110; Furcht; en frykt; ; B2; Mensch/Gefühle/Emotionen; En stille frykt for å mislykkes holdt ham våken.; Eine stille Furcht vor dem Scheitern hielt ihn wach.
+no-gc-0111; einfühlsam; empatisk; forståelsesfull; B2; Mensch/Gefühle/Charakter; Den empatiske pleieren beroliget den redde pasienten.; Die einfühlsame Pflegerin beruhigte den verängstigten Patienten.
+no-gc-0112; Einfühlungsvermögen; en empati; ; B2; Mensch/Gefühle/Charakter; Gode ledere trenger empati overfor teamene sine.; Gute Führungskräfte brauchen Einfühlungsvermögen für ihre Teams.
+no-gc-0113; reizbar; irritabel; lettirritert; B2; Mensch/Gefühle/Stimmungen; Uten nok søvn blir han veldig irritabel.; Ohne genug Schlaf wird er sehr reizbar.
+no-gc-0114; launisch; lunefull; ; B2; Mensch/Gefühle/Stimmungen; Aprilværet er like lunefullt som en tenåring.; Das Aprilwetter ist so launisch wie ein Teenager.
+no-gc-0115; ausgelassen; løssluppen; ellevill; B2; Mensch/Gefühle/Stimmungen; Mengden var løssluppen og danset til tidlig morgen.; Die ausgelassene Menge tanzte bis in den frühen Morgen.
+no-gc-0116; niedergeschlagen; nedslått; ; B2; Mensch/Gefühle/Stimmungen; Etter nederlaget i går virket laget nedslått.; Nach der Niederlage wirkte die Mannschaft niedergeschlagen.
+no-gc-0117; Gemüt; et sinn; et gemytt; B2; Mensch/Gefühle/Charakter; Hun har et glad og mildt sinn.; Sie hat ein fröhliches und sanftes Gemüt.
+no-gc-0118; Temperament; et temperament; ; B2; Mensch/Gefühle/Charakter; Det ildfulle temperamentet hans bringer ham ofte i trøbbel.; Sein feuriges Temperament bringt ihn oft in Schwierigkeiten.
+no-gc-0119; ehrgeizig; ambisiøs; ; B2; Mensch/Gefühle/Charakter; Den ambisiøse lærlingen vil en dag lede filialen.; Die ehrgeizige Auszubildende will eines Tages die Filiale leiten.
+no-gc-0120; Ehrgeiz; en ærgjerrighet; en ambisjon; B2; Mensch/Gefühle/Charakter; Ærgjerrigheten hans drev ham til å trene hver dag.; Sein Ehrgeiz trieb ihn an, jeden Tag zu trainieren.
+no-gc-0121; eitel; forfengelig; ; B2; Mensch/Gefühle/Charakter; Han er for forfengelig til å bruke brillene sine.; Er ist zu eitel, um seine Brille zu tragen.
+no-gc-0122; arrogant; arrogant; ; B2; Mensch/Gefühle/Charakter; Den arrogante sjefen hørte aldri på råd.; Der arrogante Manager hörte nie auf Ratschläge.
+no-gc-0123; rücksichtsvoll; hensynsfull; ; B2; Mensch/Gefühle/Verhalten; En hensynsfull sjåfør kjører saktere i nærheten av skoler.; Ein rücksichtsvoller Fahrer fährt in der Nähe von Schulen langsamer.
+no-gc-0124; rücksichtslos; hensynsløs; ; B2; Mensch/Gefühle/Verhalten; Det er hensynsløst å spille høy musikk om natten.; Es ist rücksichtslos, nachts laute Musik zu spielen.
+no-gc-0125; nachtragend; langsint; ; B2; Mensch/Gefühle/Charakter; Hun er ikke langsint og tilgir raskt.; Sie ist nicht nachtragend und verzeiht schnell.
+no-gc-0126; Wehmut; et vemod; ; C1; Mensch/Gefühle/Stimmungen; Med vemod tenkte han tilbake på skoletiden.; Mit Wehmut dachte er an seine Schulzeit zurück.
+no-gc-0127; Schadenfreude; en skadefryd; ; C1; Mensch/Gefühle/Emotionen; Han kunne ikke skjule skadefryden over feilen hennes.; Er konnte seine Schadenfreude über ihren Fehler nicht verbergen.
+no-gc-0128; Gelassenheit; en fattethet; ; C1; Mensch/Gefühle/Stimmungen; Hun møtte kaoset med bemerkelsesverdig fattethet.; Sie begegnete dem Chaos mit bemerkenswerter Gelassenheit.
+no-gc-0129; Demut; en ydmykhet; ; C1; Mensch/Gefühle/Charakter; Sann storhet følger ofte med stille ydmykhet.; Wahre Größe geht oft mit stiller Demut einher.
+no-gc-0130; demütig; ydmyk; ; C1; Mensch/Gefühle/Charakter; Han tok imot prisen med ydmyke ord.; Er nahm die Auszeichnung mit demütigen Worten entgegen.
+no-gc-0131; überheblich; hovmodig; ; C1; Mensch/Gefühle/Charakter; Den hovmodige tonen hans irriterte hele styret.; Sein überheblicher Ton verärgerte das gesamte Gremium.
+no-gc-0132; heimtückisch; lumsk; ; C1; Mensch/Gefühle/Charakter; Den lumske planen ble oppdaget i siste liten.; Der heimtückische Plan wurde gerade noch rechtzeitig entdeckt.
+no-gc-0133; aufbrausend; oppfarende; ; C1; Mensch/Gefühle/Charakter; Den oppfarende reaksjonen hans gjorde situasjonen verre.; Seine aufbrausende Reaktion machte die Lage schlimmer.
+no-gc-0134; besonnen; besindig; ; C1; Mensch/Gefühle/Charakter; Den besindige kapteinen holdt mannskapet rolig.; Der besonnene Kapitän hielt die Besatzung ruhig.
+no-gc-0135; scharfsinnig; skarpsindig; ; C1; Mensch/Gefühle/Charakter; De skarpsindige spørsmålene hennes imponerte hele styret.; Ihre scharfsinnigen Fragen beeindruckten den gesamten Vorstand.
+no-gc-0136; einfältig; enfoldig; ; C1; Mensch/Gefühle/Charakter; Den enfoldige bemerkningen avslørte mangelen hans på erfaring.; Die einfältige Bemerkung verriet seinen Mangel an Erfahrung.
+no-gc-0137; verbittert; forbitret; bitter; C1; Mensch/Gefühle/Emotionen; Den forbitrede gamle mannen stolte ikke lenger på noen.; Der verbitterte alte Mann vertraute niemandem mehr.
+no-gc-0138; Verbitterung; en bitterhet; ; C1; Mensch/Gefühle/Emotionen; Mange år med urettferdighet etterlot bare bitterhet.; Jahre der Ungerechtigkeit hinterließen nur Verbitterung.
+no-gc-0139; Zuversicht; en optimisme; en framtidstro; C1; Mensch/Gefühle/Emotionen; Hun ser på framtiden med stor optimisme.; Sie blickt mit großer Zuversicht in die Zukunft.
+no-gc-0140; beklommen; beklemt; ; C1; Mensch/Gefühle/Stimmungen; Med en beklemt følelse gikk han inn i det stille huset.; Mit beklommenem Gefühl betrat er das stille Haus.
+no-gc-0141; Beklommenheit; en beklemthet; ; C1; Mensch/Gefühle/Stimmungen; En merkelig beklemthet bredte seg i venterommet.; Eine seltsame Beklommenheit breitete sich im Wartezimmer aus.
+no-gc-0142; unerschütterlich; urokkelig; ; C1; Mensch/Gefühle/Charakter; Den urokkelige optimismen hennes bar laget gjennom krisen.; Ihr unerschütterlicher Optimismus trug das Team durch die Krise.
+no-gc-0143; nachsichtig; overbærende; ; C1; Mensch/Gefühle/Charakter; Læreren var overbærende med de nervøse nybegynnerne.; Der Lehrer war nachsichtig mit den nervösen Anfängern.
+no-gc-0144; Weltschmerz; en verdenssmerte; ; C2; Mensch/Gefühle/Stimmungen; Diktene hans er fulle av myk verdenssmerte.; Seine Gedichte sind voller sanftem Weltschmerz.
+no-gc-0145; griesgrämig; gretten; ; C2; Mensch/Gefühle/Charakter; Den grettne huseieren klaget over hver minste lyd.; Der griesgrämige Vermieter beschwerte sich über jedes kleine Geräusch.
+no-gc-0146; verschroben; sær; snurrig; C2; Mensch/Gefühle/Charakter; Den sære professoren samlet ødelagte paraplyer i flere tiår.; Der verschrobene Professor sammelte jahrzehntelang kaputte Regenschirme.
+no-gc-0147; jähzornig; hissig; ; C2; Mensch/Gefühle/Charakter; Den hissige kokken kastet stekepannen gjennom kjøkkenet.; Der jähzornige Koch warf die Pfanne durch die Küche.
+no-gc-0148; wankelmütig; ustadig; ; C2; Mensch/Gefühle/Charakter; Den ustadige velgeren ombestemmer seg hver uke.; Der wankelmütige Wähler ändert seine Meinung jede Woche.
+no-gc-0149; abgebrüht; forherdet; hardhudet; C2; Mensch/Gefühle/Charakter; Årene i bransjen gjorde ham forherdet og kald.; Die Jahre im Geschäft machten ihn abgebrüht und kalt.
+no-gc-0150; schwermütig; tungsindig; melankolsk; C2; Mensch/Gefühle/Stimmungen; Den tungsindige sangen minnet henne om forbigangne somre.; Das schwermütige Lied erinnerte sie an vergangene Sommer.

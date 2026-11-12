@@ -1,0 +1,312 @@
+# Norwegisch: Alltagswendungen: feste Verbindungen aus Schulbüchern und Alltag (Tagesablauf, Zeitangaben, Wohnen, Essen, Einkaufen, Freizeit, Reisen)
+id; Deutsch; Norwegisch; Weitere Antworten; Niveau; Themen; Beispiel Norwegisch; Beispiel Deutsch
+no-wa-0001; sich die Zähne putzen; å pusse tennene; ; A1; Wendungen/Alltag/Tagesablauf; Jeg pusser tennene to ganger om dagen.; Ich putze mir zweimal am Tag die Zähne.
+no-wa-0002; sich die Hände waschen; å vaske hendene; ; A1; Wendungen/Alltag/Tagesablauf; Vask hendene dine før vi spiser.; Bitte wasch dir die Hände, bevor wir essen.
+no-wa-0003; sich das Gesicht waschen; å vaske ansiktet; ; A1; Wendungen/Alltag/Tagesablauf; Jeg vasker ansiktet med kaldt vann hver morgen.; Ich wasche mir jeden Morgen das Gesicht mit kaltem Wasser.
+no-wa-0004; sich die Haare waschen; å vaske håret; ; A1; Wendungen/Alltag/Tagesablauf; Jeg vasker håret mitt annenhver dag.; Ich wasche mir jeden zweiten Tag die Haare.
+no-wa-0005; sich die Haare kämmen; å gre håret; å gre seg; A2; Wendungen/Alltag/Tagesablauf; Hun grer håret sitt foran speilet.; Sie kämmt sich vor dem Spiegel die Haare.
+no-wa-0006; sich die Nase putzen; å snyte seg; å pusse nesen; A2; Wendungen/Alltag/Tagesablauf; Her er et lommetørkle så du kan snyte deg.; Hier ist ein Taschentuch, damit du dir die Nase putzen kannst.
+no-wa-0007; das Haus verlassen; å gå hjemmefra; å forlate huset; A2; Wendungen/Alltag/Tagesablauf; Jeg går hjemmefra klokka halv åtte hver dag.; Ich verlasse jeden Tag um halb acht das Haus.
+no-wa-0008; ein Bad nehmen; å ta et bad; ; A2; Wendungen/Alltag/Tagesablauf; På kalde kvelder tar jeg gjerne et varmt bad.; An kalten Abenden nehme ich gern ein heißes Bad.
+no-wa-0009; sich umziehen; å skifte klær; å bytte klær; A2; Wendungen/Alltag/Tagesablauf; Jeg må skifte klær før festen.; Ich muss mich vor der Party umziehen.
+no-wa-0010; sich fertig machen; å gjøre seg klar; å gjøre seg ferdig; A2; Wendungen/Alltag/Tagesablauf; Jeg trenger ti minutter til for å gjøre meg klar.; Ich brauche noch zehn Minuten, um mich fertig zu machen.
+no-wa-0011; das Bett machen; å re opp sengen; å re sengen; A2; Wendungen/Alltag/Tagesablauf; Re opp sengen din før du går hjemmefra.; Bitte mach dein Bett, bevor du aus dem Haus gehst.
+no-wa-0012; den Wecker stellen; å stille vekkerklokka; å stille alarmen; A2; Wendungen/Alltag/Tagesablauf; Jeg har stilt vekkerklokka på halv sju.; Ich habe den Wecker auf halb sieben gestellt.
+no-wa-0013; Frühstück machen; å lage frokost; ; A1; Wendungen/Alltag/Tagesablauf; På søndager lager faren min frokost til alle.; Sonntags macht mein Vater für alle Frühstück.
+no-wa-0014; zu Mittag essen; å spise lunsj; ; A1; Wendungen/Alltag/Tagesablauf; Vi spiser vanligvis lunsj rundt klokka ett.; Wir essen normalerweise gegen ein Uhr zu Mittag.
+no-wa-0015; zu Abend essen; å spise middag; ; A1; Wendungen/Alltag/Tagesablauf; Vi spiser middag sammen klokka sju hver kveld.; Wir essen jeden Abend um sieben zusammen zu Abend.
+no-wa-0016; ins Bett gehen; å gå og legge seg; å gå til sengs; A1; Wendungen/Alltag/Tagesablauf; Jeg er trøtt, så nå går jeg og legger meg.; Ich bin müde, deshalb gehe ich jetzt ins Bett.
+no-wa-0017; gut schlafen; å sove godt; ; A1; Wendungen/Alltag/Tagesablauf; Har du sovet godt i den nye sengen?; Hast du im neuen Bett gut geschlafen?
+no-wa-0018; einen Mittagsschlaf machen; å ta en middagslur; å sove middag; A2; Wendungen/Alltag/Tagesablauf; Bestefar tar en middagslur hver dag etter lunsj.; Opa macht jeden Tag nach dem Mittagessen einen Mittagsschlaf.
+no-wa-0019; sich die Zeit vertreiben; å få tiden til å gå; å fordrive tiden; B1; Wendungen/Alltag/Tagesablauf; Vi spilte kort på toget for å få tiden til å gå.; Wir haben Karten gespielt, um uns im Zug die Zeit zu vertreiben.
+no-wa-0020; eine Pause machen; å ta en pause; ; A1; Wendungen/Alltag/Tagesablauf; La oss ta en pause og hente noe å drikke.; Lass uns eine Pause machen und etwas zu trinken holen.
+no-wa-0021; nach Hause gehen; å gå hjem; ; A1; Wendungen/Alltag/Tagesablauf; Det er sent, så nå vil jeg gå hjem.; Es ist spät, deshalb will ich jetzt nach Hause gehen.
+no-wa-0022; nach Hause kommen; å komme hjem; ; A1; Wendungen/Alltag/Tagesablauf; Moren min kommer hjem fra jobb klokka seks.; Meine Mutter kommt um sechs von der Arbeit nach Hause.
+no-wa-0023; zu Hause sein; å være hjemme; ; A1; Wendungen/Alltag/Tagesablauf; Er det noen hjemme i ettermiddag?; Ist heute Nachmittag jemand zu Hause?
+no-wa-0024; zu Hause bleiben; å bli hjemme; ; A1; Wendungen/Alltag/Tagesablauf; Jeg ble hjemme i går fordi jeg følte meg syk.; Ich bin gestern zu Hause geblieben, weil ich mich krank fühlte.
+no-wa-0025; zu spät kommen; å komme for sent; ; A1; Wendungen/Alltag/Tagesablauf; Beklager at jeg kommer for sent, bussen var full.; Entschuldigung, dass ich zu spät komme, der Bus war voll.
+no-wa-0026; Zeit haben; å ha tid; ; A1; Wendungen/Alltag/Tagesablauf; Har du tid til en kaffe senere?; Hast du später Zeit für einen Kaffee?
+no-wa-0027; Zeit verbringen; å tilbringe tid; ; A2; Wendungen/Alltag/Tagesablauf; Jeg liker å tilbringe tid med besteforeldrene mine.; Ich verbringe gern Zeit mit meinen Großeltern.
+no-wa-0028; den Hund ausführen; å lufte hunden; å gå tur med hunden; A2; Wendungen/Alltag/Tagesablauf; Jeg lufter hunden hver morgen før frokost.; Ich führe jeden Morgen vor dem Frühstück den Hund aus.
+no-wa-0029; sein Zimmer aufräumen; å rydde rommet sitt; å rydde rommet; A1; Wendungen/Alltag/Wohnen; Du kan gå ut når du har ryddet rommet ditt.; Du darfst rausgehen, wenn du dein Zimmer aufgeräumt hast.
+no-wa-0030; den Tisch abräumen; å rydde av bordet; ; A2; Wendungen/Alltag/Wohnen; Kan du hjelpe meg å rydde av bordet, takk?; Kannst du mir bitte helfen, den Tisch abzuräumen?
+no-wa-0031; das Geschirr spülen; å ta oppvasken; å vaske opp; A2; Wendungen/Alltag/Wohnen; Etter middag tar broren min oppvasken.; Nach dem Abendessen spült mein Bruder das Geschirr.
+no-wa-0032; Wäsche waschen; å vaske klær; ; A2; Wendungen/Alltag/Wohnen; Jeg vasker som regel klær lørdag morgen.; Ich wasche normalerweise samstagmorgens Wäsche.
+no-wa-0033; die Hausarbeit machen; å gjøre husarbeid; ; A2; Wendungen/Alltag/Wohnen; Hvem gjør husarbeidet i familien din?; Wer macht in deiner Familie die Hausarbeit?
+no-wa-0034; die Wohnung putzen; å gjøre rent i leiligheten; å vaske leiligheten; A1; Wendungen/Alltag/Wohnen; Vi gjør rent i leiligheten sammen hver lørdag.; Wir putzen jeden Samstag zusammen die Wohnung.
+no-wa-0035; das Abendessen kochen; å lage middag; ; A1; Wendungen/Alltag/Wohnen; I kveld er det min tur til å lage middag.; Heute Abend bin ich dran, das Abendessen zu kochen.
+no-wa-0036; die Blumen gießen; å vanne blomstene; ; A2; Wendungen/Alltag/Wohnen; Kan du vanne blomstene mens vi er borte?; Könntest du die Blumen gießen, während wir weg sind?
+no-wa-0037; den Rasen mähen; å klippe plenen; å slå plenen; A2; Wendungen/Alltag/Wohnen; Faren min klipper plenen hver lørdag om sommeren.; Mein Vater mäht im Sommer jeden Samstag den Rasen.
+no-wa-0038; den Mülleimer leeren; å tømme søppelbøtta; å tømme søppelspannet; A2; Wendungen/Alltag/Wohnen; Hvem sin tur er det å tømme søppelbøtta?; Wer ist dran, den Mülleimer zu leeren?
+no-wa-0039; die Betten beziehen; å skifte sengetøy; ; B1; Wendungen/Alltag/Wohnen; Jeg skifter sengetøy på alle sengene hver uke.; Ich beziehe jede Woche alle Betten neu.
+no-wa-0040; die Tür abschließen; å låse døra; å låse døren; A2; Wendungen/Alltag/Wohnen; Husk å låse døra når du går.; Vergiss nicht, die Tür abzuschließen, wenn du gehst.
+no-wa-0041; eine Wohnung mieten; å leie en leilighet; ; A2; Wendungen/Alltag/Wohnen; Vi vil leie en leilighet i nærheten av sentrum.; Wir wollen eine Wohnung in der Nähe der Innenstadt mieten.
+no-wa-0042; die Miete zahlen; å betale husleia; å betale husleien; A2; Wendungen/Alltag/Wohnen; Vi betaler husleia i begynnelsen av hver måned.; Wir zahlen die Miete am Anfang jedes Monats.
+no-wa-0043; in eine andere Stadt ziehen; å flytte til en annen by; ; A2; Wendungen/Alltag/Wohnen; Vi skal flytte til en annen by neste sommer.; Wir ziehen nächsten Sommer in eine andere Stadt.
+no-wa-0044; im Erdgeschoss; i første etasje; ; A2; Wendungen/Alltag/Wohnen; Kjøkkenet og stua ligger i første etasje.; Küche und Wohnzimmer sind im Erdgeschoss.
+no-wa-0045; im ersten Stock; i andre etasje; ; A2; Wendungen/Alltag/Wohnen; Leiligheten vår ligger i andre etasje.; Unsere Wohnung ist im ersten Stock.
+no-wa-0046; auf dem Land wohnen; å bo på landet; ; A2; Wendungen/Alltag/Wohnen; Besteforeldrene mine bor på landet nær en liten bygd.; Meine Großeltern wohnen auf dem Land in der Nähe eines kleinen Dorfes.
+no-wa-0047; in der Stadt wohnen; å bo i byen; ; A2; Wendungen/Alltag/Wohnen; Jeg liker best å bo i byen på grunn av butikkene.; Ich wohne lieber in der Stadt, wegen der Geschäfte.
+no-wa-0048; Besuch haben; å ha besøk; ; A2; Wendungen/Alltag/Wohnen; Vi har besøk fra Spania i helgen.; Wir haben dieses Wochenende Besuch aus Spanien.
+no-wa-0049; sich wie zu Hause fühlen; å føle seg som hjemme; ; A2; Wendungen/Alltag/Wohnen; Vi følte oss fort som hjemme i den nye leiligheten.; Wir haben uns in der neuen Wohnung sehr schnell wie zu Hause gefühlt.
+no-wa-0050; Fühl dich wie zu Hause!; føl deg som hjemme; ; A2; Wendungen/Alltag/Wohnen; Kom inn og føl deg som hjemme!; Komm rein und fühl dich wie zu Hause!
+no-wa-0051; am Morgen; om morgenen; ; A1; Wendungen/Alltag/Zeitangaben; Om morgenen drikker jeg alltid en kopp te.; Am Morgen trinke ich immer eine Tasse Tee.
+no-wa-0052; am Nachmittag; om ettermiddagen; ; A1; Wendungen/Alltag/Zeitangaben; Om ettermiddagen drar vi ofte og svømmer.; Am Nachmittag gehen wir oft schwimmen.
+no-wa-0053; am Abend; om kvelden; ; A1; Wendungen/Alltag/Zeitangaben; Om kvelden ser vi en film sammen.; Am Abend schauen wir zusammen einen Film.
+no-wa-0054; in der Nacht; om natten; ; A1; Wendungen/Alltag/Zeitangaben; Om natten er det veldig rolig her.; In der Nacht ist es hier sehr ruhig.
+no-wa-0055; am Mittag; midt på dagen; ved tolvtiden; A2; Wendungen/Alltag/Zeitangaben; På lørdager stenger butikken midt på dagen.; Samstags schließt das Geschäft am Mittag.
+no-wa-0056; um Mitternacht; ved midnatt; ; A2; Wendungen/Alltag/Zeitangaben; På nyttårsaften starter fyrverkeriet ved midnatt.; An Silvester beginnt das Feuerwerk um Mitternacht.
+no-wa-0057; am Wochenende; i helgen; ; A1; Wendungen/Alltag/Zeitangaben; Hva skal du gjøre i helgen?; Was machst du am Wochenende?
+no-wa-0058; unter der Woche; i løpet av uka; på hverdagene; A2; Wendungen/Alltag/Zeitangaben; I løpet av uka legger jeg meg tidlig.; Unter der Woche gehe ich früh ins Bett.
+no-wa-0059; übers Wochenende; over helgen; ; A2; Wendungen/Alltag/Zeitangaben; Vi skal besøke tanten min over helgen.; Übers Wochenende besuchen wir meine Tante.
+no-wa-0060; jeden Tag; hver dag; ; A1; Wendungen/Alltag/Zeitangaben; Jeg drikker et glass melk hver dag.; Ich trinke jeden Tag ein Glas Milch.
+no-wa-0061; jeden Morgen; hver morgen; ; A1; Wendungen/Alltag/Zeitangaben; Hver morgen tar jeg bussen klokka åtte.; Jeden Morgen nehme ich um acht den Bus.
+no-wa-0062; jede Woche; hver uke; ; A1; Wendungen/Alltag/Zeitangaben; Vi går på markedet hver uke.; Wir gehen jede Woche auf den Markt.
+no-wa-0063; zweimal pro Woche; to ganger i uka; to ganger i uken; A2; Wendungen/Alltag/Zeitangaben; Jeg går og svømmer to ganger i uka.; Ich gehe zweimal pro Woche schwimmen.
+no-wa-0064; einmal im Monat; en gang i måneden; en gang per måned; A2; Wendungen/Alltag/Zeitangaben; Vi besøker besteforeldrene våre en gang i måneden.; Wir besuchen einmal im Monat unsere Großeltern.
+no-wa-0065; den ganzen Tag; hele dagen; ; A1; Wendungen/Alltag/Zeitangaben; Det regnet hele dagen, så vi ble inne.; Es hat den ganzen Tag geregnet, also sind wir drinnen geblieben.
+no-wa-0066; die ganze Nacht; hele natten; ; A2; Wendungen/Alltag/Zeitangaben; Babyen ved siden av gråt hele natten.; Das Baby nebenan hat die ganze Nacht geweint.
+no-wa-0067; die ganze Zeit; hele tiden; ; A2; Wendungen/Alltag/Zeitangaben; Lillebroren min snakker nesten hele tiden.; Mein kleiner Bruder redet fast die ganze Zeit.
+no-wa-0068; heute Morgen; i morges; i dag tidlig; A1; Wendungen/Alltag/Zeitangaben; Jeg rakk ikke bussen i morges.; Ich habe heute Morgen den Bus verpasst.
+no-wa-0069; heute Nachmittag; i ettermiddag; ; A1; Wendungen/Alltag/Zeitangaben; Skal vi gå i parken i ettermiddag?; Sollen wir heute Nachmittag in den Park gehen?
+no-wa-0070; heute Abend; i kveld; ; A1; Wendungen/Alltag/Zeitangaben; Hva skal du gjøre i kveld etter middagen?; Was machst du heute Abend nach dem Essen?
+no-wa-0071; gestern Abend; i går kveld; ; A1; Wendungen/Alltag/Zeitangaben; Så du kampen i går kveld?; Hast du gestern Abend das Spiel gesehen?
+no-wa-0072; morgen früh; i morgen tidlig; ; A1; Wendungen/Alltag/Zeitangaben; Jeg ringer deg i morgen tidlig.; Ich rufe dich morgen früh an.
+no-wa-0073; letzte Woche; forrige uke; i forrige uke; A1; Wendungen/Alltag/Zeitangaben; Forrige uke var vi i London.; Letzte Woche waren wir in London.
+no-wa-0074; nächste Woche; neste uke; ; A1; Wendungen/Alltag/Zeitangaben; Fetteren min kommer på besøk neste uke.; Mein Cousin kommt nächste Woche zu Besuch.
+no-wa-0075; letztes Jahr; i fjor; ; A1; Wendungen/Alltag/Zeitangaben; I fjor reiste vi til Spania på ferie.; Letztes Jahr sind wir nach Spanien in Urlaub gefahren.
+no-wa-0076; nächstes Jahr; neste år; ; A1; Wendungen/Alltag/Zeitangaben; Neste år vil jeg lære å svømme.; Nächstes Jahr will ich schwimmen lernen.
+no-wa-0077; vor zwei Tagen; for to dager siden; ; A1; Wendungen/Alltag/Zeitangaben; Jeg kjøpte disse skoene for to dager siden.; Ich habe diese Schuhe vor zwei Tagen gekauft.
+no-wa-0078; in zwei Wochen; om to uker; ; A2; Wendungen/Alltag/Zeitangaben; Sommerferien starter allerede om to uker.; Die Sommerferien beginnen schon in zwei Wochen.
+no-wa-0079; seit drei Jahren; i tre år; ; A2; Wendungen/Alltag/Zeitangaben; Vi har bodd i denne leiligheten i tre år.; Wir wohnen seit drei Jahren in dieser Wohnung.
+no-wa-0080; seit Montag; siden mandag; ; A2; Wendungen/Alltag/Zeitangaben; Det har regnet uten stans siden mandag.; Es regnet ohne Pause seit Montag.
+no-wa-0081; im Moment; for øyeblikket; i øyeblikket, akkurat nå; A1; Wendungen/Alltag/Zeitangaben; For øyeblikket er jeg veldig opptatt.; Im Moment bin ich sehr beschäftigt.
+no-wa-0082; zum ersten Mal; for første gang; ; A2; Wendungen/Alltag/Zeitangaben; Sist sommer så jeg havet for første gang.; Letzten Sommer habe ich zum ersten Mal das Meer gesehen.
+no-wa-0083; zum letzten Mal; for siste gang; ; A2; Wendungen/Alltag/Zeitangaben; Jeg spør deg for siste gang.; Ich frage dich zum letzten Mal.
+no-wa-0084; noch einmal; en gang til; igjen; A1; Wendungen/Alltag/Zeitangaben; Kaka ble mislykket, så vi prøver en gang til.; Der Kuchen ist nichts geworden, also versuchen wir es noch einmal.
+no-wa-0085; ab und zu; av og til; nå og da; A2; Wendungen/Alltag/Zeitangaben; Av og til spiser vi på restaurant.; Ab und zu essen wir im Restaurant.
+no-wa-0086; von Zeit zu Zeit; fra tid til annen; ; B1; Wendungen/Alltag/Zeitangaben; Fra tid til annen skriver jeg et brev til tanten min.; Von Zeit zu Zeit schreibe ich meiner Tante einen Brief.
+no-wa-0087; früher oder später; før eller siden; ; B1; Wendungen/Alltag/Zeitangaben; Før eller siden må vi kjøpe en ny bil.; Früher oder später müssen wir ein neues Auto kaufen.
+no-wa-0088; so schnell wie möglich; så fort som mulig; så snart som mulig; A2; Wendungen/Alltag/Zeitangaben; Svar på meldingen min så fort som mulig.; Bitte antworte so schnell wie möglich auf meine Nachricht.
+no-wa-0089; Viertel nach drei; kvart over tre; ; A1; Wendungen/Alltag/Zeitangaben; Filmen begynner klokka kvart over tre.; Der Film fängt um Viertel nach drei an.
+no-wa-0090; Viertel vor vier; kvart på fire; ; A1; Wendungen/Alltag/Zeitangaben; Vi må være på stasjonen klokka kvart på fire.; Wir müssen um Viertel vor vier am Bahnhof sein.
+no-wa-0091; halb vier; halv fire; ; A1; Wendungen/Alltag/Zeitangaben; Svømmehallen stenger klokka halv fire på søndager.; Sonntags schließt das Schwimmbad um halb vier.
+no-wa-0092; Wie spät ist es?; hva er klokka?; hvor mye er klokka?; A1; Wendungen/Alltag/Zeitangaben; Unnskyld, hva er klokka? Jeg har ikke klokke.; Entschuldigung, wie spät ist es? Ich habe keine Uhr.
+no-wa-0093; Um wie viel Uhr?; hva tid?; hvilken tid?; A1; Wendungen/Alltag/Zeitangaben; Hva tid går neste tog til Bergen?; Um wie viel Uhr fährt der nächste Zug nach Bergen?
+no-wa-0094; am Anfang; i begynnelsen; til å begynne med; A2; Wendungen/Alltag/Zeitangaben; I begynnelsen forsto jeg ikke et ord.; Am Anfang habe ich kein Wort verstanden.
+no-wa-0095; am Ende des Monats; i slutten av måneden; ved slutten av måneden; A2; Wendungen/Alltag/Zeitangaben; Vi får lommepenger i slutten av måneden.; Wir bekommen unser Taschengeld am Ende des Monats.
+no-wa-0096; am nächsten Tag; dagen etter; neste dag; A2; Wendungen/Alltag/Zeitangaben; Vi kom sent fram og dro til stranden dagen etter.; Wir kamen spät an und gingen am nächsten Tag an den Strand.
+no-wa-0097; tagsüber; om dagen; i løpet av dagen; A2; Wendungen/Alltag/Zeitangaben; Om dagen er det varmt, men nettene er kalde.; Tagsüber ist es warm, aber die Nächte sind kalt.
+no-wa-0098; in der Zwischenzeit; i mellomtiden; ; B1; Wendungen/Alltag/Zeitangaben; Maten er snart ferdig. I mellomtiden kan du dekke bordet.; Das Essen ist fast fertig. In der Zwischenzeit kannst du den Tisch decken.
+no-wa-0099; auf einmal; plutselig; ; B1; Wendungen/Alltag/Zeitangaben; Plutselig begynte det å regne veldig hardt.; Auf einmal fing es an, stark zu regnen.
+no-wa-0100; in letzter Zeit; i det siste; den siste tiden; B1; Wendungen/Alltag/Zeitangaben; I det siste har jeg sovet veldig dårlig.; In letzter Zeit schlafe ich sehr schlecht.
+no-wa-0101; eine halbe Stunde; en halv time; ; A1; Wendungen/Alltag/Zeitangaben; Bussturen til sentrum tar en halv time.; Die Busfahrt ins Zentrum dauert eine halbe Stunde.
+no-wa-0102; eineinhalb Stunden; halvannen time; en og en halv time; A2; Wendungen/Alltag/Zeitangaben; Filmen er faktisk halvannen time lang.; Der Film ist tatsächlich eineinhalb Stunden lang.
+no-wa-0103; eine Viertelstunde; et kvarter; ; A2; Wendungen/Alltag/Zeitangaben; Toget har dessverre et kvarter forsinkelse.; Der Zug hat leider eine Viertelstunde Verspätung.
+no-wa-0104; in einer Stunde; om en time; ; A1; Wendungen/Alltag/Zeitangaben; Maten er ferdig om en time.; Das Essen ist in einer Stunde fertig.
+no-wa-0105; von Montag bis Freitag; fra mandag til fredag; ; A1; Wendungen/Alltag/Zeitangaben; Biblioteket er åpent fra mandag til fredag.; Die Bücherei hat von Montag bis Freitag geöffnet.
+no-wa-0106; Tag und Nacht; dag og natt; ; A2; Wendungen/Alltag/Zeitangaben; Butikken ved stasjonen har åpent dag og natt.; Der Laden am Bahnhof hat Tag und Nacht geöffnet.
+no-wa-0107; rund um die Uhr; døgnet rundt; ; B1; Wendungen/Alltag/Zeitangaben; Sykepleiere på sykehuset jobber døgnet rundt.; Pflegekräfte im Krankenhaus arbeiten rund um die Uhr.
+no-wa-0108; über Nacht; over natta; over natten; B1; Wendungen/Alltag/Zeitangaben; La deigen stå i kjøleskapet over natta.; Lass den Teig über Nacht im Kühlschrank.
+no-wa-0109; vor Kurzem; nylig; for kort tid siden; B1; Wendungen/Alltag/Zeitangaben; Vi har nylig flyttet til denne byen.; Wir sind erst vor Kurzem in diese Stadt gezogen.
+no-wa-0110; seit Langem; på lenge; i lang tid; B1; Wendungen/Alltag/Zeitangaben; Jeg har ikke sett fetteren min på lenge.; Ich habe meinen Cousin seit Langem nicht gesehen.
+no-wa-0111; Hunger haben; å være sulten; ; A1; Wendungen/Alltag/Essen & Trinken; Jeg er veldig sulten, hva er det til lunsj?; Ich habe richtig Hunger, was gibt es zum Mittagessen?
+no-wa-0112; Durst haben; å være tørst; ; A1; Wendungen/Alltag/Essen & Trinken; Jeg er tørst, kan jeg få litt vann?; Ich habe Durst, kann ich etwas Wasser haben?
+no-wa-0113; Hunger bekommen; å bli sulten; ; A2; Wendungen/Alltag/Essen & Trinken; Etter svømming blir jeg alltid veldig sulten.; Nach dem Schwimmen bekomme ich immer großen Hunger.
+no-wa-0114; satt sein; å være mett; ; A2; Wendungen/Alltag/Essen & Trinken; Ikke mer kake til meg, takk, jeg er mett.; Kein Kuchen mehr für mich, danke, ich bin satt.
+no-wa-0115; Guten Appetit!; vær så god; god appetitt; A1; Wendungen/Alltag/Essen & Trinken; Maten er klar, kom og sett deg, vær så god!; Das Essen ist fertig, guten Appetit!
+no-wa-0116; Bedien dich!; forsyn deg; ; A2; Wendungen/Alltag/Essen & Trinken; Det er nok kake, så forsyn deg!; Es gibt genug Kuchen, also bedien dich!
+no-wa-0117; Was gibt es zum Abendessen?; hva er det til middag?; ; A1; Wendungen/Alltag/Essen & Trinken; Mamma, hva er det til middag i dag? Jeg er sulten.; Mama, was gibt es heute zum Abendessen? Ich habe Hunger.
+no-wa-0118; zum Frühstück; til frokost; ; A1; Wendungen/Alltag/Essen & Trinken; Til frokost spiser jeg som regel toast med syltetøy.; Zum Frühstück esse ich meistens Toast mit Marmelade.
+no-wa-0119; zum Nachtisch; til dessert; ; A2; Wendungen/Alltag/Essen & Trinken; Det var is til dessert i går kveld.; Zum Nachtisch gab es gestern Abend Eis.
+no-wa-0120; etwas zu essen; noe å spise; ; A1; Wendungen/Alltag/Essen & Trinken; La oss kjøpe noe å spise før filmen.; Lass uns vor dem Film etwas zu essen holen.
+no-wa-0121; etwas zu trinken; noe å drikke; ; A1; Wendungen/Alltag/Essen & Trinken; Vil du ha noe å drikke?; Möchtest du etwas zu trinken?
+no-wa-0122; eine Tasse Kaffee; en kopp kaffe; ; A1; Wendungen/Alltag/Essen & Trinken; Vil du ha en kopp kaffe?; Möchtest du eine Tasse Kaffee?
+no-wa-0123; ein Glas Wasser; et glass vann; ; A1; Wendungen/Alltag/Essen & Trinken; Kan jeg få et glass vann, takk?; Kann ich bitte ein Glas Wasser haben?
+no-wa-0124; eine Flasche Wasser; ei flaske vann; en flaske vann; A1; Wendungen/Alltag/Essen & Trinken; Ta alltid med ei flaske vann på tur.; Nimm auf eine Wanderung immer eine Flasche Wasser mit.
+no-wa-0125; eine Scheibe Brot; en skive brød; en brødskive; A1; Wendungen/Alltag/Essen & Trinken; Jeg vil gjerne ha en skive brød med ost.; Ich hätte gern eine Scheibe Brot mit Käse.
+no-wa-0126; ein Stück Kuchen; et stykke kake; ; A1; Wendungen/Alltag/Essen & Trinken; Vil du ha enda et stykke kake?; Möchtest du noch ein Stück Kuchen?
+no-wa-0127; eine Tafel Schokolade; en plate sjokolade; en sjokoladeplate; A2; Wendungen/Alltag/Essen & Trinken; Jeg kjøpte en plate sjokolade til bilturen.; Ich habe eine Tafel Schokolade für die Fahrt gekauft.
+no-wa-0128; eine Packung Milch; en kartong melk; ; A2; Wendungen/Alltag/Essen & Trinken; Kan du kjøpe en kartong melk på veien hjem?; Kannst du auf dem Heimweg eine Packung Milch kaufen?
+no-wa-0129; eine Prise Salz; en klype salt; ; B1; Wendungen/Alltag/Essen & Trinken; Ha en klype salt i suppa.; Gib eine Prise Salz in die Suppe.
+no-wa-0130; Kaffee kochen; å koke kaffe; å lage kaffe; A1; Wendungen/Alltag/Essen & Trinken; Skal jeg koke kaffe til alle sammen?; Soll ich für alle Kaffee kochen?
+no-wa-0131; Tee kochen; å lage te; ; A1; Wendungen/Alltag/Essen & Trinken; Bestemoren min lager te hver ettermiddag klokka fire.; Meine Oma kocht jeden Nachmittag um vier Tee.
+no-wa-0132; einen Kuchen backen; å bake en kake; ; A1; Wendungen/Alltag/Essen & Trinken; Moren min baker alltid en kake til bursdagen min.; Zu meinem Geburtstag backt meine Mutter immer einen Kuchen.
+no-wa-0133; zum Kochen bringen; å koke opp; ; B1; Wendungen/Alltag/Essen & Trinken; Kok opp vannet og ha i pastaen.; Bring das Wasser zum Kochen und gib die Nudeln dazu.
+no-wa-0134; sich an das Rezept halten; å følge oppskriften; ; B1; Wendungen/Alltag/Essen & Trinken; Jeg fulgte oppskriften nøyaktig, men kaka ble flat.; Ich habe mich genau an das Rezept gehalten, aber der Kuchen ist flach.
+no-wa-0135; sich gesund ernähren; å spise sunt; ; A2; Wendungen/Alltag/Essen & Trinken; Jeg prøver å spise sunt og drikke mye vann.; Ich versuche, mich gesund zu ernähren und viel Wasser zu trinken.
+no-wa-0136; eine Diät machen; å gå på diett; å være på diett; A2; Wendungen/Alltag/Essen & Trinken; Moren min går på diett, så ingen kake til henne.; Meine Mutter macht eine Diät, also keinen Kuchen für sie.
+no-wa-0137; eine Mahlzeit auslassen; å hoppe over et måltid; ; B1; Wendungen/Alltag/Essen & Trinken; Du bør ikke hoppe over et måltid når du trener mye.; Du solltest keine Mahlzeit auslassen, wenn du viel Sport machst.
+no-wa-0138; allergisch sein gegen; å være allergisk mot; ; B1; Wendungen/Alltag/Essen & Trinken; Jeg er allergisk mot nøtter, så jeg kan ikke spise det.; Ich bin allergisch gegen Nüsse, deshalb kann ich das nicht essen.
+no-wa-0139; Das schmeckt gut.; det smaker godt; ; A1; Wendungen/Alltag/Essen & Trinken; Prøv suppa, det smaker virkelig godt!; Probier die Suppe, die schmeckt richtig gut!
+no-wa-0140; einen Tisch reservieren; å bestille bord; ; A2; Wendungen/Alltag/Essen & Trinken; Jeg vil gjerne bestille bord til fire personer.; Ich möchte einen Tisch für vier Personen reservieren.
+no-wa-0141; Essen bestellen; å bestille mat; ; A2; Wendungen/Alltag/Essen & Trinken; La oss bestille mat, jeg er for trøtt til å lage middag.; Lass uns heute Abend Essen bestellen, ich bin zu müde zum Kochen.
+no-wa-0142; Was möchten Sie trinken?; hva vil du drikke?; ; A1; Wendungen/Alltag/Essen & Trinken; God kveld, hva vil du drikke?; Guten Abend, was möchtest du trinken?
+no-wa-0143; ich hätte gern; jeg vil gjerne ha; jeg skulle gjerne hatt; A1; Wendungen/Alltag/Essen & Trinken; Jeg vil gjerne ha et glass appelsinjuice, takk.; Ich hätte gern ein Glas Orangensaft, bitte.
+no-wa-0144; zum Mitnehmen; til å ta med; ; A2; Wendungen/Alltag/Essen & Trinken; Ett ostesmørbrød til å ta med, takk.; Ein Käsesandwich zum Mitnehmen, bitte.
+no-wa-0145; durchgebraten; gjennomstekt; ; B1; Wendungen/Alltag/Essen & Trinken; Jeg vil gjerne ha biffen min gjennomstekt.; Ich hätte mein Steak gern durchgebraten.
+no-wa-0146; Die Rechnung, bitte!; kan jeg få regningen; kan vi få regningen; A1; Wendungen/Alltag/Essen & Trinken; Unnskyld, kan vi få regningen, takk? Vi har det travelt.; Entschuldigung, die Rechnung, bitte. Wir haben es eilig.
+no-wa-0147; Zusammen oder getrennt?; sammen eller hver for seg?; ; A2; Wendungen/Alltag/Essen & Trinken; Betaler dere sammen eller hver for seg?; Zahlt ihr zusammen oder getrennt?
+no-wa-0148; Trinkgeld geben; å gi driks; å gi drikkepenger; A2; Wendungen/Alltag/Essen & Trinken; I Tyskland gir man som regel ti prosent i driks.; In Deutschland gibt man meistens etwa zehn Prozent Trinkgeld.
+no-wa-0149; Das geht auf mich.; det går på meg; jeg spanderer; B1; Wendungen/Alltag/Essen & Trinken; Legg bort pengene, middagen går på meg i dag.; Lass dein Geld stecken, das Essen geht heute auf mich.
+no-wa-0150; jemanden zum Essen einladen; å invitere noen på middag; å invitere noen ut å spise; A2; Wendungen/Alltag/Essen & Trinken; Jeg inviterte moren min på middag til bursdagen hennes.; Zu ihrem Geburtstag habe ich meine Mutter zum Essen eingeladen.
+no-wa-0151; den Einkauf erledigen; å handle inn; å gjøre innkjøpene; A2; Wendungen/Alltag/Einkaufen; Jeg handler inn for hele uka på lørdager.; Samstags erledige ich den Einkauf für die ganze Woche.
+no-wa-0152; eine Einkaufsliste schreiben; å skrive en handleliste; ; A1; Wendungen/Alltag/Einkaufen; Før jeg drar til supermarkedet, skriver jeg en handleliste.; Bevor ich in den Supermarkt gehe, schreibe ich eine Einkaufsliste.
+no-wa-0153; einen Schaufensterbummel machen; å vindusshoppe; å gå på vindusshopping; B1; Wendungen/Alltag/Einkaufen; På lørdager liker vi å vindusshoppe i sentrum.; Samstags machen wir gern einen Schaufensterbummel in der Stadt.
+no-wa-0154; Kann ich Ihnen helfen?; kan jeg hjelpe deg?; ; A1; Wendungen/Alltag/Einkaufen; God morgen, kan jeg hjelpe deg?; Guten Morgen, kann ich dir helfen?
+no-wa-0155; Was darf es sein?; hva skal det være?; ; A2; Wendungen/Alltag/Einkaufen; God morgen, hva skal det være?; Guten Morgen, was darf es sein?
+no-wa-0156; Ich schaue mich nur um.; jeg ser meg bare rundt; jeg bare ser meg rundt; A2; Wendungen/Alltag/Einkaufen; Nei takk, jeg ser meg bare rundt.; Nein danke, ich schaue mich nur um.
+no-wa-0157; Was kostet das?; hva koster det?; hva koster dette?, hvor mye koster det?; A1; Wendungen/Alltag/Einkaufen; Unnskyld, hva koster det? Det henger ingen prislapp på.; Entschuldigung, was kostet das? Es ist kein Preisschild dran.
+no-wa-0158; Welche Größe haben Sie?; hvilken størrelse bruker du?; hvilken størrelse har du?; A2; Wendungen/Alltag/Einkaufen; Hvilken størrelse bruker du? Vi har skjorta i S og M.; Welche Größe hast du? Wir haben das Hemd in S und M.
+no-wa-0159; Das steht dir gut.; det kler deg; ; A2; Wendungen/Alltag/Einkaufen; Du bør kjøpe kjolen, den kler deg virkelig godt.; Du solltest das Kleid kaufen, es steht dir wirklich gut.
+no-wa-0160; ein Paar Schuhe; et par sko; ; A1; Wendungen/Alltag/Einkaufen; Jeg trenger et nytt par sko til bryllupet.; Ich brauche ein neues Paar Schuhe für die Hochzeit.
+no-wa-0161; ein halbes Kilo; et halvt kilo; ; A2; Wendungen/Alltag/Einkaufen; Jeg vil gjerne ha et halvt kilo tomater.; Ich hätte gern ein halbes Kilo Tomaten.
+no-wa-0162; ein Dutzend Eier; et dusin egg; ; A2; Wendungen/Alltag/Einkaufen; Vi trenger et dusin egg til kakene.; Für die Kuchen brauchen wir ein Dutzend Eier.
+no-wa-0163; Sonst noch etwas?; noe mer?; var det noe mer?; A1; Wendungen/Alltag/Einkaufen; Her er brødet ditt. Noe mer?; Hier ist dein Brot. Sonst noch etwas?
+no-wa-0164; Das ist alles.; det var alt; ; A1; Wendungen/Alltag/Einkaufen; Nei takk, det var alt for i dag.; Nein danke, das ist alles für heute.
+no-wa-0165; Brauchen Sie eine Tüte?; trenger du en pose?; vil du ha pose?; A1; Wendungen/Alltag/Einkaufen; Trenger du en pose til varene dine?; Brauchst du eine Tüte für deine Einkäufe?
+no-wa-0166; Hier, bitte.; vær så god; ; A1; Wendungen/Alltag/Einkaufen; Vær så god, her er vekslepengene og kvitteringen.; Hier, bitte, Ihr Wechselgeld und der Kassenbon.
+no-wa-0167; Stimmt so!; behold vekslepengene; behold resten; A2; Wendungen/Alltag/Einkaufen; Her er tjue euro, behold vekslepengene.; Hier sind zwanzig Euro, stimmt so.
+no-wa-0168; Schlange stehen; å stå i kø; ; A2; Wendungen/Alltag/Einkaufen; Vi måtte stå i kø i tjue minutter ved kassa.; Wir mussten an der Kasse zwanzig Minuten Schlange stehen.
+no-wa-0169; an der Kasse; ved kassa; ved kassen; A2; Wendungen/Alltag/Einkaufen; Du kan betale alt der borte ved kassa.; Du kannst alles dort drüben an der Kasse bezahlen.
+no-wa-0170; mit Karte bezahlen; å betale med kort; ; A1; Wendungen/Alltag/Einkaufen; Kan jeg betale med kort eller bare kontant?; Kann ich mit Karte bezahlen oder nur bar?
+no-wa-0171; bar bezahlen; å betale kontant; å betale med kontanter; A1; Wendungen/Alltag/Einkaufen; I denne lille kafeen må man betale kontant.; In diesem kleinen Café muss man bar bezahlen.
+no-wa-0172; in Raten zahlen; å betale på avbetaling; å betale i rater; B1; Wendungen/Alltag/Einkaufen; Vi betaler den nye sofaen på avbetaling.; Wir bezahlen das neue Sofa in Raten.
+no-wa-0173; um eine Quittung bitten; å be om kvittering; ; A2; Wendungen/Alltag/Einkaufen; Be alltid om kvittering når du kjøper noe dyrt.; Bitte immer um eine Quittung, wenn du etwas Teures kaufst.
+no-wa-0174; im Angebot sein; å være på tilbud; ; A2; Wendungen/Alltag/Einkaufen; Jordbær er på tilbud denne uka.; Erdbeeren sind diese Woche im Angebot.
+no-wa-0175; zum halben Preis; til halv pris; ; A2; Wendungen/Alltag/Einkaufen; På utsalget får du alt til halv pris.; Im Schlussverkauf gibt es alles zum halben Preis.
+no-wa-0176; Rabatt bekommen; å få rabatt; ; B1; Wendungen/Alltag/Einkaufen; Skoleelever får alltid rabatt når de går på kino.; Schüler bekommen immer Rabatt, wenn sie ins Kino gehen.
+no-wa-0177; ein Schnäppchen machen; å gjøre et kupp; ; B1; Wendungen/Alltag/Einkaufen; På loppemarkedet gjorde jeg et skikkelig kupp.; Auf dem Flohmarkt habe ich ein echtes Schnäppchen gemacht.
+no-wa-0178; ausverkauft sein; å være utsolgt; ; A2; Wendungen/Alltag/Einkaufen; Beklager, billettene til i kveld er utsolgt.; Tut mir leid, die Karten für heute Abend sind ausverkauft.
+no-wa-0179; geöffnet haben; å ha åpent; ; A1; Wendungen/Alltag/Einkaufen; Bakeriet har åpent til lunsj på søndager.; Die Bäckerei hat sonntags bis Mittag geöffnet.
+no-wa-0180; geschlossen haben; å ha stengt; ; A1; Wendungen/Alltag/Einkaufen; I Tyskland har de fleste butikker stengt på søndager.; In Deutschland haben die meisten Geschäfte sonntags geschlossen.
+no-wa-0181; online bestellen; å bestille på nett; å bestille online; A2; Wendungen/Alltag/Einkaufen; Jeg bestiller ofte bøker og klær på nett.; Ich bestelle Bücher und Kleidung oft online.
+no-wa-0182; etwas umtauschen; å bytte noe; ; A2; Wendungen/Alltag/Einkaufen; Kan jeg bytte disse skoene til en større størrelse?; Kann ich diese Schuhe in eine größere Größe umtauschen?
+no-wa-0183; etwas zurückgeben; å levere noe tilbake; å returnere noe; A2; Wendungen/Alltag/Einkaufen; Jeg vil levere jakken tilbake fordi den er for liten.; Ich möchte diese Jacke zurückgeben, weil sie zu klein ist.
+no-wa-0184; sein Geld zurückbekommen; å få pengene tilbake; ; B1; Wendungen/Alltag/Einkaufen; Radioen var ødelagt, så jeg fikk pengene tilbake.; Das Radio war kaputt, also habe ich mein Geld zurückbekommen.
+no-wa-0185; Geld ausgeben; å bruke penger; ; A2; Wendungen/Alltag/Einkaufen; Jeg bruker for mye penger på klær.; Ich gebe zu viel Geld für Kleidung aus.
+no-wa-0186; Geld sparen; å spare penger; ; A2; Wendungen/Alltag/Einkaufen; Jeg sparer penger til en ny sykkel.; Ich spare Geld für ein neues Fahrrad.
+no-wa-0187; Geld abheben; å ta ut penger; ; A2; Wendungen/Alltag/Einkaufen; Jeg må ta ut penger i minibanken.; Ich muss am Geldautomaten Geld abheben.
+no-wa-0188; Geld wechseln; å veksle penger; ; A2; Wendungen/Alltag/Einkaufen; Vi vekslet penger på flyplassen før reisen.; Wir haben vor der Reise am Flughafen Geld gewechselt.
+no-wa-0189; sich etwas leisten können; å ha råd til noe; ; B1; Wendungen/Alltag/Einkaufen; Vi har ikke råd til en ny bil i år.; Wir können uns dieses Jahr kein neues Auto leisten.
+no-wa-0190; pleite sein; å være blakk; ; B1; Wendungen/Alltag/Einkaufen; Jeg kan ikke bli med på kino, jeg er blakk denne måneden.; Ich kann nicht mit ins Kino, ich bin diesen Monat pleite.
+no-wa-0191; Sport treiben; å drive idrett; å drive med sport; A1; Wendungen/Alltag/Freizeit; Jeg driver idrett tre ganger i uka.; Ich treibe dreimal pro Woche Sport.
+no-wa-0192; Fußball spielen; å spille fotball; ; A1; Wendungen/Alltag/Freizeit; Vi spiller fotball i parken hver lørdag.; Wir spielen jeden Samstag im Park Fußball.
+no-wa-0193; einem Verein beitreten; å melde seg inn i en klubb; å bli med i en klubb; A2; Wendungen/Alltag/Freizeit; Jeg vil melde meg inn i tennisklubben i byen vår.; Ich möchte dem Tennisverein in unserer Stadt beitreten.
+no-wa-0194; schwimmen gehen; å gå og svømme; ; A1; Wendungen/Alltag/Freizeit; Om sommeren går vi ofte og svømmer i innsjøen.; Im Sommer gehen wir oft im See schwimmen.
+no-wa-0195; joggen gehen; å gå på joggetur; å gå og jogge; A1; Wendungen/Alltag/Freizeit; Faren min går på joggetur hver morgen før jobb.; Mein Vater geht jeden Morgen vor der Arbeit joggen.
+no-wa-0196; wandern gehen; å gå på tur; ; A2; Wendungen/Alltag/Freizeit; I ferien gikk vi på tur i fjellet.; In den Ferien sind wir in den Bergen wandern gegangen.
+no-wa-0197; einen Schneemann bauen; å bygge en snømann; ; A1; Wendungen/Alltag/Freizeit; Etter middag bygde barna en stor snømann.; Nach dem Mittagessen haben die Kinder einen großen Schneemann gebaut.
+no-wa-0198; reiten gehen; å gå på ridning; å ri; A2; Wendungen/Alltag/Freizeit; Min beste venninne går på ridning hver lørdag.; Meine beste Freundin geht jeden Samstag reiten.
+no-wa-0199; tanzen gehen; å gå ut og danse; ; A2; Wendungen/Alltag/Freizeit; Lørdag kveld gikk vi ut og danset i byen.; Am Samstagabend sind wir in der Stadt tanzen gegangen.
+no-wa-0200; angeln gehen; å gå på fisketur; å fiske; A2; Wendungen/Alltag/Freizeit; Bestefar og jeg går ofte på fisketur ved vannet.; Mein Opa und ich gehen oft am See angeln.
+no-wa-0201; ins Fitnessstudio gehen; å gå på treningssenter; å gå på trening; A1; Wendungen/Alltag/Freizeit; Jeg går på treningssenter to ganger i uken etter jobb.; Ich gehe zweimal pro Woche nach der Arbeit ins Fitnessstudio.
+no-wa-0202; Yoga machen; å gjøre yoga; å drive med yoga; A2; Wendungen/Alltag/Freizeit; Moren min gjør yoga hver morgen før frokost.; Meine Mutter macht jeden Morgen vor dem Frühstück Yoga.
+no-wa-0203; fit bleiben; å holde seg i form; ; A2; Wendungen/Alltag/Freizeit; Jeg svømmer to ganger i uken for å holde meg i form.; Ich schwimme zweimal pro Woche, um fit zu bleiben.
+no-wa-0204; eine Radtour machen; å ta en sykkeltur; å sykle en tur; A2; Wendungen/Alltag/Freizeit; Sist søndag tok vi en sykkeltur langs elva.; Letzten Sonntag haben wir eine Radtour am Fluss entlang gemacht.
+no-wa-0205; einen Ausflug machen; å dra på utflukt; å ta en utflukt, å dra på tur; A2; Wendungen/Alltag/Freizeit; Søndag dro vi på utflukt til kysten.; Am Sonntag sind wir auf einen Ausflug an die Küste gefahren.
+no-wa-0206; ein Picknick machen; å ha piknik; å ha en piknik; A1; Wendungen/Alltag/Freizeit; Hvis det er fint vær, kan vi ha piknik i parken.; Wenn das Wetter schön ist, lass uns ein Picknick im Park machen.
+no-wa-0207; eine Grillparty machen; å ha grillfest; å holde grillfest; A2; Wendungen/Alltag/Freizeit; I kveld har vi grillfest i hagen.; Heute Abend machen wir eine Grillparty im Garten.
+no-wa-0208; im Garten arbeiten; å jobbe i hagen; å stelle i hagen; A2; Wendungen/Alltag/Freizeit; Moren min liker å jobbe i hagen i helgene.; Meine Mutter arbeitet am Wochenende gern im Garten.
+no-wa-0209; ins Kino gehen; å gå på kino; ; A1; Wendungen/Alltag/Freizeit; Skal vi gå på kino i kveld?; Sollen wir heute Abend ins Kino gehen?
+no-wa-0210; ins Theater gehen; å gå på teater; ; A2; Wendungen/Alltag/Freizeit; Vi går på teater to eller tre ganger i året.; Wir gehen zwei- oder dreimal im Jahr ins Theater.
+no-wa-0211; ins Konzert gehen; å gå på konsert; ; A2; Wendungen/Alltag/Freizeit; Neste uke går vi på konsert i Oslo.; Nächste Woche gehen wir in Oslo auf ein Konzert.
+no-wa-0212; einen Film sehen; å se en film; ; A1; Wendungen/Alltag/Freizeit; La oss se en film hjemme i kveld.; Lass uns heute Abend zu Hause einen Film sehen.
+no-wa-0213; Was läuft im Fernsehen?; hva går på tv?; hva er det på tv?; A2; Wendungen/Alltag/Freizeit; Hva går på tv i kveld? Noe bra?; Was läuft heute Abend im Fernsehen? Etwas Gutes?
+no-wa-0214; Musik hören; å høre på musikk; ; A1; Wendungen/Alltag/Freizeit; På bussen hører jeg alltid på musikk.; Im Bus höre ich immer Musik.
+no-wa-0215; Zeitung lesen; å lese avisen; å lese avis; A1; Wendungen/Alltag/Freizeit; Bestefaren min leser avisen hver morgen.; Mein Opa liest jeden Morgen Zeitung.
+no-wa-0216; im Internet surfen; å surfe på nettet; å surfe på internett; A2; Wendungen/Alltag/Freizeit; Jeg surfer på nettet en time hver kveld.; Ich surfe jeden Abend eine Stunde im Internet.
+no-wa-0217; ein Instrument spielen; å spille et instrument; ; A2; Wendungen/Alltag/Freizeit; Spiller du et instrument, for eksempel piano?; Spielst du ein Instrument, zum Beispiel Klavier?
+no-wa-0218; Gitarre spielen; å spille gitar; ; A1; Wendungen/Alltag/Freizeit; Broren min har spilt gitar i to år.; Mein Bruder spielt seit zwei Jahren Gitarre.
+no-wa-0219; Klavier spielen; å spille piano; ; A1; Wendungen/Alltag/Freizeit; Hun spiller piano hver dag etter middag.; Sie spielt jeden Tag nach dem Mittagessen Klavier.
+no-wa-0220; Karten spielen; å spille kort; ; A1; Wendungen/Alltag/Freizeit; Om kvelden spiller vi ofte kort med bestemor.; Abends spielen wir oft mit Oma Karten.
+no-wa-0221; Schach spielen; å spille sjakk; ; A2; Wendungen/Alltag/Freizeit; Bestefar lærte meg å spille sjakk.; Mein Opa hat mir beigebracht, Schach zu spielen.
+no-wa-0222; Computerspiele spielen; å spille dataspill; ; A1; Wendungen/Alltag/Freizeit; Broren min spiller dataspill hele helgen.; Mein Bruder spielt das ganze Wochenende Computerspiele.
+no-wa-0223; Du bist dran.; det er din tur; nå er det din tur; A1; Wendungen/Alltag/Freizeit; Kast terningen, det er din tur!; Würfle, du bist dran!
+no-wa-0224; ein Foto machen; å ta et bilde; å ta et foto; A1; Wendungen/Alltag/Freizeit; Kan du ta et bilde av oss, vær så snill?; Kannst du bitte ein Foto von uns machen?
+no-wa-0225; Freunde treffen; å treffe venner; å møte venner; A1; Wendungen/Alltag/Freizeit; På fredager treffer jeg venner i sentrum.; Freitags treffe ich Freunde in der Stadt.
+no-wa-0226; eine Party machen; å ha en fest; å holde fest; A2; Wendungen/Alltag/Freizeit; Vi skal ha en fest på søsterens bursdag.; Wir machen eine Party zum Geburtstag meiner Schwester.
+no-wa-0227; Spaß haben; å ha det gøy; å ha det morsomt; A1; Wendungen/Alltag/Freizeit; Vi hadde det veldig gøy på stranden.; Wir hatten am Strand viel Spaß.
+no-wa-0228; Viel Spaß!; ha det gøy!; ha det morsomt!, kos deg!; A1; Wendungen/Alltag/Freizeit; Ha det gøy på festen i kveld!; Viel Spaß heute Abend auf der Party!
+no-wa-0229; sich langweilen; å kjede seg; ; A1; Wendungen/Alltag/Freizeit; Jeg kjeder meg, det går ingenting på tv.; Ich langweile mich, im Fernsehen läuft nichts.
+no-wa-0230; Lust haben auf etwas; å ha lyst på noe; ; A2; Wendungen/Alltag/Freizeit; I kveld har jeg lyst på pizza.; Ich habe heute Abend Lust auf Pizza.
+no-wa-0231; Wie wäre es mit …?; hva med; hva sier du til; A2; Wendungen/Alltag/Freizeit; Hva med en runde kort etter middagen?; Wie wäre es mit einer Runde Karten nach dem Abendessen?
+no-wa-0232; Ich bin dabei!; jeg er med; jeg blir med; B1; Wendungen/Alltag/Freizeit; Piknik på søndag? Høres bra ut, jeg er med!; Ein Picknick am Sonntag? Klingt super, ich bin dabei!
+no-wa-0233; einen Tag frei haben; å ha en fridag; å ha fri; A2; Wendungen/Alltag/Freizeit; I morgen har jeg en fridag, så la oss dra til dyrehagen.; Ich habe morgen einen Tag frei, also lass uns in den Zoo gehen.
+no-wa-0234; Mitglied sein in; å være medlem av; å være medlem i; A2; Wendungen/Alltag/Freizeit; Jeg er medlem av fotballklubben her i bygda.; Ich bin Mitglied im Fußballverein hier im Ort.
+no-wa-0235; sich interessieren für; å interessere seg for; ; A2; Wendungen/Alltag/Freizeit; Broren min interesserer seg veldig for gamle biler.; Mein Bruder interessiert sich sehr für alte Autos.
+no-wa-0236; gut sein in; å være god til; å være flink til; A1; Wendungen/Alltag/Freizeit; Søsteren min er veldig god til å tegne.; Meine Schwester ist sehr gut darin zu zeichnen.
+no-wa-0237; ein Spiel gewinnen; å vinne en kamp; ; A1; Wendungen/Alltag/Freizeit; Laget vårt vant kampen med tre mot én.; Unsere Mannschaft hat das Spiel drei zu eins gewonnen.
+no-wa-0238; ein Spiel verlieren; å tape en kamp; ; A1; Wendungen/Alltag/Freizeit; Vi tapte kampen, men vi hadde det gøy likevel.; Wir haben das Spiel verloren, aber es hat trotzdem Spaß gemacht.
+no-wa-0239; ein Tor schießen; å score et mål; å skåre et mål; A2; Wendungen/Alltag/Freizeit; Lisa scoret to mål i den siste kampen.; Lisa hat im letzten Spiel zwei Tore geschossen.
+no-wa-0240; unentschieden spielen; å spille uavgjort; ; B1; Wendungen/Alltag/Freizeit; I går spilte vi uavgjort mot det beste laget.; Gestern haben wir gegen die beste Mannschaft der Liga unentschieden gespielt.
+no-wa-0241; in Urlaub fahren; å reise på ferie; å dra på ferie; A1; Wendungen/Alltag/Reisen; Neste sommer reiser vi til Italia på ferie.; Nächsten Sommer fahren wir nach Italien in Urlaub.
+no-wa-0242; im Urlaub sein; å være på ferie; å ha ferie; A1; Wendungen/Alltag/Reisen; Sjefen min er på ferie til mandag.; Mein Chef ist bis Montag im Urlaub.
+no-wa-0243; eine Reise buchen; å bestille en reise; å booke en reise; A2; Wendungen/Alltag/Reisen; Vi har bestilt en reise til Hellas på nett.; Wir haben online eine Reise nach Griechenland gebucht.
+no-wa-0244; ein Zimmer buchen; å bestille et rom; å booke et rom; A2; Wendungen/Alltag/Reisen; Jeg har bestilt et rom med utsikt over havet.; Ich habe ein Zimmer mit Meerblick gebucht.
+no-wa-0245; einen Flug buchen; å bestille en flybillett; å booke en flybillett; A2; Wendungen/Alltag/Reisen; Vi har bestilt en billig flybillett til Barcelona.; Wir haben einen günstigen Flug nach Barcelona gebucht.
+no-wa-0246; den Koffer packen; å pakke kofferten; ; A2; Wendungen/Alltag/Reisen; Har du pakket kofferten din ennå?; Hast du deinen Koffer schon gepackt?
+no-wa-0247; den Koffer auspacken; å pakke ut kofferten; ; A2; Wendungen/Alltag/Reisen; Først pakket vi ut koffertene, så gikk vi til stranden.; Zuerst haben wir die Koffer ausgepackt, dann sind wir an den Strand gegangen.
+no-wa-0248; zelten gehen; å dra på telttur; å gå på telttur, å campe; A2; Wendungen/Alltag/Reisen; Hver sommer drar vi på telttur ved en innsjø i Sverige.; Jeden Sommer gehen wir an einem See in Schweden zelten.
+no-wa-0249; ein Zelt aufbauen; å sette opp et telt; å slå opp et telt; B1; Wendungen/Alltag/Reisen; Vi satte opp teltet ved siden av elva.; Wir haben unser Zelt neben dem Fluss aufgebaut.
+no-wa-0250; im Hotel übernachten; å overnatte på hotell; ; A2; Wendungen/Alltag/Reisen; Vi overnattet på et lite hotell nær jernbanestasjonen.; Wir haben in einem kleinen Hotel in der Nähe des Bahnhofs übernachtet.
+no-wa-0251; bei Freunden übernachten; å overnatte hos venner; ; A2; Wendungen/Alltag/Reisen; Når vi besøker Bergen, overnatter vi hos venner.; Wenn wir Berlin besuchen, übernachten wir bei Freunden.
+no-wa-0252; Gute Reise!; god tur; god reise; A1; Wendungen/Alltag/Reisen; God tur, og send oss et postkort!; Gute Reise, und schick uns eine Postkarte!
+no-wa-0253; auf Reisen sein; å være på reise; ; B1; Wendungen/Alltag/Reisen; Onkelen min er på reise i Asia i tre måneder.; Mein Onkel ist drei Monate in Asien auf Reisen.
+no-wa-0254; Sehenswürdigkeiten besichtigen; å se på severdigheter; ; A2; Wendungen/Alltag/Reisen; I Roma så vi på severdigheter hver dag.; In Rom haben wir jeden Tag Sehenswürdigkeiten besichtigt.
+no-wa-0255; an den Strand gehen; å gå til stranden; å dra til stranden; A1; Wendungen/Alltag/Reisen; Hver morgen gikk vi til stranden etter frokost.; Jeden Morgen sind wir nach dem Frühstück an den Strand gegangen.
+no-wa-0256; am Meer; ved havet; ved sjøen; A2; Wendungen/Alltag/Reisen; Vi tilbrakte to uker i et lite hus ved havet.; Wir haben zwei Wochen in einem kleinen Haus am Meer verbracht.
+no-wa-0257; in den Bergen; i fjellet; på fjellet; A1; Wendungen/Alltag/Reisen; Vi tilbrakte hele sommerferien oppe i fjellet.; Wir haben unseren Urlaub in den Bergen verbracht.
+no-wa-0258; im Ausland; i utlandet; ; A2; Wendungen/Alltag/Reisen; Fetteren min studerer ett år i utlandet.; Mein Cousin studiert ein Jahr im Ausland.
+no-wa-0259; Heimweh haben; å ha hjemlengsel; ; A2; Wendungen/Alltag/Reisen; Den første natten på leiren hadde jeg stor hjemlengsel.; In der ersten Nacht im Ferienlager hatte ich großes Heimweh.
+no-wa-0260; sich einen Sonnenbrand holen; å få solbrann; å bli solbrent; A2; Wendungen/Alltag/Reisen; Ta solkrem, ellers får du solbrann.; Nimm Sonnencreme, sonst holst du dir einen Sonnenbrand.
+no-wa-0261; mit dem Zug fahren; å reise med tog; å ta toget; A1; Wendungen/Alltag/Unterwegs; Vi reiste med tog fra Oslo til Bergen.; Wir sind mit dem Zug von Oslo nach Bergen gefahren.
+no-wa-0262; mit dem Bus fahren; å ta bussen; å reise med buss; A1; Wendungen/Alltag/Unterwegs; Jeg tar bussen fordi det er for langt å gå.; Ich fahre mit dem Bus, weil es zu Fuß zu weit ist.
+no-wa-0263; mit dem Auto fahren; å kjøre bil; å ta bilen; A1; Wendungen/Alltag/Unterwegs; Vi kjører som regel bil til besteforeldrene mine.; Wir fahren meistens mit dem Auto zu meinen Großeltern.
+no-wa-0264; Wie weit ist es?; hvor langt er det?; ; A1; Wendungen/Alltag/Unterwegs; Hvor langt er det til nærmeste bensinstasjon?; Wie weit ist es bis zur nächsten Tankstelle?
+no-wa-0265; ein Taxi nehmen; å ta en taxi; å ta drosje; A1; Wendungen/Alltag/Unterwegs; Det er sent, la oss ta en taxi hjem.; Es ist spät, lass uns ein Taxi nach Hause nehmen.
+no-wa-0266; eine Fahrkarte kaufen; å kjøpe en billett; å kjøpe billett; A1; Wendungen/Alltag/Unterwegs; Du kan kjøpe en billett i automaten.; Du kannst am Automaten eine Fahrkarte kaufen.
+no-wa-0267; eine einfache Fahrkarte; en enkeltbillett; ; A2; Wendungen/Alltag/Unterwegs; Jeg vil gjerne ha en enkeltbillett til Trondheim.; Ich hätte gern eine einfache Fahrkarte nach Trondheim.
+no-wa-0268; einen Platz reservieren; å reservere en plass; å reservere et sete; A2; Wendungen/Alltag/Unterwegs; På lange turer er det lurt å reservere en plass.; Bei langen Fahrten ist es gut, einen Platz zu reservieren.
+no-wa-0269; Ist dieser Platz noch frei?; er denne plassen ledig?; er det ledig her?; A2; Wendungen/Alltag/Unterwegs; Unnskyld, er denne plassen ledig, eller sitter noen her?; Entschuldigung, ist dieser Platz frei, oder sitzt hier jemand?
+no-wa-0270; an der nächsten Haltestelle; ved neste holdeplass; på neste holdeplass; A1; Wendungen/Alltag/Unterwegs; Vi må bytte buss ved neste holdeplass.; Wir müssen an der nächsten Haltestelle umsteigen.
+no-wa-0271; den Zug verpassen; å miste toget; å gå glipp av toget; A2; Wendungen/Alltag/Unterwegs; Skynd deg, ellers mister vi toget!; Beeil dich, sonst verpassen wir den Zug!
+no-wa-0272; Verspätung haben; å være forsinket; ; A2; Wendungen/Alltag/Unterwegs; Flyet vårt var to timer forsinket.; Unser Flug hatte zwei Stunden Verspätung.
+no-wa-0273; Wie lange dauert die Fahrt?; hvor lenge tar turen?; hvor lang tid tar turen?; A2; Wendungen/Alltag/Unterwegs; Hvor lenge tar turen til Bergen med toget?; Wie lange dauert die Fahrt nach Bergen mit dem Zug?
+no-wa-0274; im Stau stehen; å stå i kø; å sitte fast i kø; A2; Wendungen/Alltag/Unterwegs; Beklager at jeg er sen, jeg sto i kø.; Entschuldigung, dass ich zu spät bin, ich stand im Stau.
+no-wa-0275; den Führerschein machen; å ta førerkort; å ta lappen; A2; Wendungen/Alltag/Unterwegs; Broren min tar førerkort akkurat nå.; Mein Bruder macht gerade den Führerschein.
+no-wa-0276; das Fahrrad abschließen; å låse sykkelen; ; A2; Wendungen/Alltag/Unterwegs; Lås alltid sykkelen din når du setter den ved stasjonen.; Schließ dein Fahrrad immer ab, wenn du es am Bahnhof stehen lässt.
+no-wa-0277; die Straße überqueren; å gå over veien; å krysse veien; A1; Wendungen/Alltag/Unterwegs; Se til venstre og høyre før du går over veien.; Schau nach links und rechts, bevor du die Straße überquerst.
+no-wa-0278; Wie komme ich zum Bahnhof?; hvordan kommer jeg meg til stasjonen?; hvordan kommer jeg til stasjonen?; A1; Wendungen/Alltag/Unterwegs; Unnskyld, hvordan kommer jeg meg til stasjonen?; Entschuldigung, wie komme ich zum Bahnhof?
+no-wa-0279; nach dem Weg fragen; å spørre om veien; å spørre etter veien; A2; Wendungen/Alltag/Unterwegs; Vi hadde gått oss vill og måtte spørre om veien.; Wir hatten uns verlaufen und mussten nach dem Weg fragen.
+no-wa-0280; sich verlaufen; å gå seg vill; ; A2; Wendungen/Alltag/Unterwegs; Jeg gikk meg vill i gamlebyen i går.; Ich habe mich gestern in der Altstadt verlaufen.
+no-wa-0281; links abbiegen; å svinge til venstre; å ta til venstre; A1; Wendungen/Alltag/Unterwegs; Sving til venstre når du kommer til lyskrysset.; Bieg an der Ampel links ab.
+no-wa-0282; rechts abbiegen; å svinge til høyre; å ta til høyre; A1; Wendungen/Alltag/Unterwegs; Sving til høyre etter kirken, og inn i Stasjonsgata.; Bieg nach der Kirche rechts in die Bahnhofstraße ab.
+no-wa-0283; geradeaus gehen; å gå rett frem; å gå rett fram; A1; Wendungen/Alltag/Unterwegs; Gå rett frem til du ser postkontoret.; Geh geradeaus, bis du die Post siehst.
+no-wa-0284; auf der linken Seite; på venstre side; til venstre; A1; Wendungen/Alltag/Unterwegs; Banken ligger på venstre side, ved siden av kafeen.; Die Bank ist auf der linken Seite, neben dem Café.
+no-wa-0285; auf der rechten Seite; på høyre side; til høyre; A1; Wendungen/Alltag/Unterwegs; Du ser museet på høyre side av veien.; Du siehst das Museum auf der rechten Seite.
+no-wa-0286; an der Ecke; på hjørnet; ; A1; Wendungen/Alltag/Unterwegs; På hjørnet av gaten vår ligger det et bakeri.; An der Ecke unserer Straße gibt es eine Bäckerei.
+no-wa-0287; in der Nähe; i nærheten; ; A1; Wendungen/Alltag/Unterwegs; Unnskyld, er det en butikk her i nærheten?; Entschuldigung, gibt es hier in der Nähe einen Supermarkt?
+no-wa-0288; weit weg; langt unna; langt borte; A1; Wendungen/Alltag/Unterwegs; Stranden er ikke langt unna, så vi kan gå.; Der Strand ist nicht weit weg, also können wir zu Fuß gehen.
+no-wa-0289; gegenüber von; overfor; rett overfor; A2; Wendungen/Alltag/Unterwegs; Bussholdeplassen ligger overfor banken, ved siden av apoteket.; Die Bushaltestelle ist gegenüber von der Bank.
+no-wa-0290; in der Innenstadt; i sentrum; ; A2; Wendungen/Alltag/Unterwegs; Vi møttes på en kafé i sentrum.; Wir haben uns in einem Café in der Innenstadt getroffen.
+no-wa-0291; zum Arzt gehen; å gå til legen; å gå til lege; A1; Wendungen/Alltag/Gesundheit; Jeg har vondt i halsen, så jeg går til legen.; Ich habe Halsschmerzen, deshalb gehe ich zum Arzt.
+no-wa-0292; einen Termin haben; å ha time; å ha en avtale; A2; Wendungen/Alltag/Gesundheit; Jeg har time hos tannlegen klokka tre.; Ich habe um drei einen Termin beim Zahnarzt.
+no-wa-0293; Fieber haben; å ha feber; ; A2; Wendungen/Alltag/Gesundheit; Lillebroren min har feber og blir i sengen.; Mein kleiner Bruder hat Fieber und bleibt im Bett.
+no-wa-0294; Kopfschmerzen haben; å ha hodepine; å ha vondt i hodet; A1; Wendungen/Alltag/Gesundheit; Jeg har hodepine fordi jeg sov dårlig.; Ich habe Kopfschmerzen, weil ich schlecht geschlafen habe.
+no-wa-0295; sich krank fühlen; å føle seg syk; å kjenne seg syk; A2; Wendungen/Alltag/Gesundheit; Hvis du føler deg syk i morgen, så bli hjemme.; Wenn du dich morgen krank fühlst, bleib zu Hause.
+no-wa-0296; Mir ist schlecht.; jeg er kvalm; jeg er uvel; A2; Wendungen/Alltag/Gesundheit; Kan vi stoppe? Jeg er kvalm.; Können wir anhalten? Mir ist schlecht.
+no-wa-0297; eine Tablette nehmen; å ta en tablett; ; A2; Wendungen/Alltag/Gesundheit; Ta en tablett tre ganger om dagen etter maten.; Nimm dreimal täglich nach dem Essen eine Tablette.
+no-wa-0298; sich das Bein brechen; å brekke beinet; ; A2; Wendungen/Alltag/Gesundheit; Han brakk beinet da han sto på ski i fjor vinter.; Er hat sich letzten Winter beim Skifahren das Bein gebrochen.
+no-wa-0299; Gute Besserung!; god bedring; bli fort frisk; A1; Wendungen/Alltag/Gesundheit; Så synd at du er syk. God bedring!; Schade, dass du krank bist. Gute Besserung!
+no-wa-0300; Wie ist das Wetter?; hvordan er været?; hva slags vær er det?; A1; Wendungen/Alltag/Wetter; Hvordan er været i Bergen i dag?; Wie ist das Wetter heute in Bergen?
+no-wa-0301; bei schönem Wetter; ved fint vær; når det er fint vær; A2; Wendungen/Alltag/Wetter; Ved fint vær spiser vi frokost på balkongen.; Bei schönem Wetter frühstücken wir auf dem Balkon.
+no-wa-0302; nass werden; å bli våt; ; A1; Wendungen/Alltag/Wetter; Ta med paraply, ellers blir du våt.; Nimm einen Schirm mit, sonst wirst du nass.
+no-wa-0303; Mir ist kalt.; jeg fryser; ; A1; Wendungen/Alltag/Wetter; Kan du lukke vinduet? Jeg fryser.; Kannst du das Fenster zumachen? Mir ist kalt.
+no-wa-0304; Mir ist heiß.; jeg har det varmt; jeg er varm; A1; Wendungen/Alltag/Wetter; Jeg har det varmt, kan jeg åpne vinduet?; Mir ist heiß, darf ich das Fenster aufmachen?
+no-wa-0305; Geburtstag feiern; å feire bursdagen sin; å feire fødselsdagen sin; A1; Wendungen/Alltag/Feste & Wünsche; Hvordan skal du feire bursdagen din?; Wie feierst du deinen Geburtstag?
+no-wa-0306; ein Geschenk einpacken; å pakke inn en gave; å pakke inn en presang; A2; Wendungen/Alltag/Feste & Wünsche; Kan du hjelpe meg å pakke inn gavene til bestemor?; Kannst du mir helfen, die Geschenke für Oma einzupacken?
+no-wa-0307; Alles Gute zum Geburtstag!; gratulerer med dagen; gratulerer med fødselsdagen, gratulerer med bursdagen; A1; Wendungen/Alltag/Feste & Wünsche; Gratulerer med dagen, Anna! Her er en liten gave.; Alles Gute zum Geburtstag, Anna! Hier ist ein kleines Geschenk.
+no-wa-0308; Frohe Weihnachten!; god jul; gledelig jul; A1; Wendungen/Alltag/Feste & Wünsche; God jul, og vi sees neste år!; Frohe Weihnachten und bis nächstes Jahr!
+no-wa-0309; Frohes neues Jahr!; godt nyttår; ; A1; Wendungen/Alltag/Feste & Wünsche; Godt nyttår! Så du fyrverkeriet i går kveld?; Frohes neues Jahr! Hast du das Feuerwerk gesehen?
+no-wa-0310; Schönes Wochenende!; god helg; ha en fin helg; A1; Wendungen/Alltag/Feste & Wünsche; Vi sees på mandag. God helg!; Bis Montag, und schönes Wochenende!

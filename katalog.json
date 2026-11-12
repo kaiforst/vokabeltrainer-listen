@@ -1529,6 +1529,12 @@
       "file": "formen/it.txt",
       "version": 2,
       "count": 1031
+    },
+    {
+      "lang": "no",
+      "file": "formen/no.txt",
+      "version": 1,
+      "count": 552
     }
   ],
   "lists": [

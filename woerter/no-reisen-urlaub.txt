@@ -1,0 +1,152 @@
+# Norwegisch: Reisen & Urlaub
+id; Deutsch; Norwegisch; Weitere Antworten; Niveau; Themen; Beispiel Norwegisch; Beispiel Deutsch
+no-ru-0001; Reise; ei reise; en reise; A1; Reisen/Urlaub/Planung & Buchung; Reisen vår til kysten begynner på mandag.; Unsere Reise an die Küste beginnt am Montag.
+no-ru-0002; reisen; å reise; ; A1; Reisen/Urlaub/Planung & Buchung; Vi reiser til Italia hver sommer.; Wir reisen jeden Sommer nach Italien.
+no-ru-0003; Urlaub; en ferie; ; A1; Reisen/Urlaub/Planung & Buchung; Ferien min begynner neste fredag etter jobb.; Mein Urlaub beginnt nächsten Freitag nach der Arbeit.
+no-ru-0004; Hotel; et hotell; ; A1; Reisen/Urlaub/Unterkunft; Hotellet ligger rett nede ved stranda.; Das Hotel liegt direkt am Strand.
+no-ru-0005; Zimmer; et rom; ; A1; Reisen/Urlaub/Unterkunft; Rommet vårt har utsikt mot havet.; Unser Zimmer hat Blick auf das Meer.
+no-ru-0006; Koffer; en koffert; ; A1; Reisen/Urlaub/Gepäck; Kofferten min er tung på grunn av bøkene.; Mein Koffer ist wegen der Bücher schwer.
+no-ru-0007; Tasche (zum Tragen); en pose; en handlepose; A1; Reisen/Urlaub/Gepäck; Posen med billettene ligger i bilen.; Die Tasche mit den Tickets liegt im Auto.
+no-ru-0008; Flugzeug; et fly; ; A1; Reisen/Urlaub/Flughafen; Flyet går klokka seks om morgenen.; Das Flugzeug fliegt um sechs Uhr morgens ab.
+no-ru-0009; fliegen; å fly; ; A1; Reisen/Urlaub/Flughafen; Vi flyr til Lisboa tidlig på lørdag.; Wir fliegen am Samstag früh nach Lissabon.
+no-ru-0010; Flughafen; en flyplass; ; A1; Reisen/Urlaub/Flughafen; Flyplassen ligger tretti minutter fra byen.; Der Flughafen liegt dreißig Minuten von der Stadt entfernt.
+no-ru-0011; Zug; et tog; ; A1; Reisen/Urlaub/Unterwegs, Reisen/Verkehr/Bus & Bahn; Toget til Oslo går fra spor fem.; Der Zug nach Oslo fährt von Gleis fünf.
+no-ru-0012; Bahnhof; en togstasjon; en jernbanestasjon, en stasjon; A1; Reisen/Urlaub/Unterwegs; Vi møtes på togstasjonen i morgen klokka ti.; Wir treffen uns morgen um zehn am Bahnhof.
+no-ru-0013; Auto; en bil; ; A1; Reisen/Urlaub/Unterwegs; Vi kjører med bilen opp i fjellet.; Wir fahren mit dem Auto in die Berge.
+no-ru-0014; Bus; en buss; ; A1; Reisen/Urlaub/Unterwegs; Bussen til sentrum kommer hvert tiende minutt.; Der Bus in die Altstadt kommt alle zehn Minuten.
+no-ru-0015; Fahrkarte; en billett; ; A1; Reisen/Urlaub/Unterwegs; En billett til innsjøen koster førti kroner.; Eine Fahrkarte zum See kostet vier Euro.
+no-ru-0016; Stadt; en by; ; A1; Reisen/Urlaub/Sightseeing; Den gamle byen er nydelig i kveldslyset.; Die alte Stadt ist im Abendlicht wunderschön.
+no-ru-0017; Land (Staat); et land; ; A1; Reisen/Urlaub/Planung & Buchung; Portugal er et fantastisk land å feriere i.; Portugal ist ein wunderbares Land für einen Urlaub.
+no-ru-0018; Meer; et hav; en sjø; A1; Reisen/Urlaub/Strand & Natur; Havet er varmt og stille i september.; Das Meer ist im September warm und ruhig.
+no-ru-0019; Strand; en strand; ei strand; A1; Reisen/Urlaub/Strand & Natur; Barna leker på stranda hele dagen.; Die Kinder spielen den ganzen Tag am Strand.
+no-ru-0020; Sonne; ei sol; en sol; A1; Reisen/Urlaub/Strand & Natur; Sola skinner her nesten hver dag.; Die Sonne scheint hier fast jeden Tag.
+no-ru-0021; Karte (Landkarte); et kart; ; A1; Reisen/Urlaub/Unterwegs; Uten kart ville vi gått oss bort her.; Ohne Karte wären wir hier verloren.
+no-ru-0022; Kamera; et kamera; ; A1; Reisen/Urlaub/Sightseeing; Ta med kameraet, lyset er perfekt i dag.; Nimm die Kamera mit, das Licht ist heute perfekt.
+no-ru-0023; Taxi; en drosje; en taxi; A1; Reisen/Urlaub/Unterwegs; Vi tar en drosje fra flyplassen til hotellet.; Wir nehmen ein Taxi vom Flughafen zum Hotel.
+no-ru-0024; Straße; en gate; ; A1; Reisen/Urlaub/Unterwegs; Denne gata går rett ned til den gamle havna.; Diese Straße führt direkt zum alten Hafen.
+no-ru-0025; ankommen; å komme fram; å komme frem, å ankomme; A1; Reisen/Urlaub/Unterwegs; Vi kommer fram i Roma sent i kveld.; Wir kommen spät am Abend in Rom an.
+no-ru-0026; buchen; å bestille; å booke; A2; Reisen/Urlaub/Planung & Buchung; Vi har bestilt et rom med havutsikt.; Wir haben ein Zimmer mit Meerblick gebucht.
+no-ru-0027; Reisebüro; et reisebyrå; ; A2; Reisen/Urlaub/Planung & Buchung; Reisebyrået fant en billig flyreise til oss.; Das Reisebüro fand einen günstigen Flug für uns.
+no-ru-0028; planen; å planlegge; ; A2; Reisen/Urlaub/Planung & Buchung; Vi planlegger en lang reise gjennom Spania.; Wir planen eine lange Reise durch Spanien.
+no-ru-0029; packen; å pakke; ; A2; Reisen/Urlaub/Gepäck; Jeg pakker alltid kofferten kvelden før.; Ich packe meinen Koffer immer am Abend vorher.
+no-ru-0030; Gepäck; en bagasje; ; A2; Reisen/Urlaub/Gepäck; Bagasjen vår var for tung for flyet.; Unser Gepäck war zu schwer für den Flug.
+no-ru-0031; Rucksack; en ryggsekk; ; A2; Reisen/Urlaub/Gepäck; Han reiser bare med en ryggsekk gjennom Asia.; Er reist nur mit einem Rucksack durch Asien.
+no-ru-0032; Pass; et pass; ; A2; Reisen/Urlaub/Flughafen; Husk å holde passet klart ved gaten.; Bitte halten Sie Ihren Pass am Gate bereit.
+no-ru-0033; Flug; en flyvning; en flytur; A2; Reisen/Urlaub/Flughafen; Flyvningen til Aten tar omtrent tre timer.; Der Flug nach Athen dauert etwa drei Stunden.
+no-ru-0034; Abflug; en avgang; ; A2; Reisen/Urlaub/Flughafen; Avgangen er i dag forsinket med førti minutter.; Der Abflug verspätet sich heute um vierzig Minuten.
+no-ru-0035; Ankunft; en ankomst; ; A2; Reisen/Urlaub/Flughafen; Ankomsten vår er planlagt tidlig søndag morgen.; Unsere Ankunft ist für Sonntag früh geplant.
+no-ru-0036; Grenze; ei grense; en grense; A2; Reisen/Urlaub/Unterwegs; Vi krysset grensen tidlig om morgenen.; Wir überquerten die Grenze früh am Morgen.
+no-ru-0037; Ausland; utlandet; ; A2; Reisen/Urlaub/Planung & Buchung; Hun jobber et helt år i utlandet.; Sie arbeitet ein ganzes Jahr im Ausland.
+no-ru-0038; Tourist; en turist; ; A2; Reisen/Urlaub/Sightseeing; I august er byen full av turister.; Im August ist die Stadt voller Touristen.
+no-ru-0039; Reiseführer; en reiseguide; en reisehåndbok; A2; Reisen/Urlaub/Sightseeing; Reiseguiden anbefaler en spasertur langs elva.; Der Reiseführer empfiehlt einen Spaziergang am Fluss.
+no-ru-0040; besuchen (Ort); å besøke; ; A2; Reisen/Urlaub/Sightseeing; Vi besøker den gamle borgen over byen.; Wir besuchen die alte Burg über der Stadt.
+no-ru-0041; Museum; et museum; ; A2; Reisen/Urlaub/Sightseeing, Kultur; Museet er gratis den første søndagen.; Das Museum ist am ersten Sonntag kostenlos.
+no-ru-0042; Kirche; ei kirke; en kirke; A2; Reisen/Urlaub/Sightseeing; Den lille kirka på haugen er veldig gammel.; Die kleine Kirche auf dem Hügel ist sehr alt.
+no-ru-0043; Schloss (Gebäude); et slott; ; A2; Reisen/Urlaub/Sightseeing; Slottet åpner hagene sine om sommeren.; Das Schloss öffnet im Sommer seine Gärten.
+no-ru-0044; Insel; ei øy; en øy; A2; Reisen/Urlaub/Strand & Natur; Den lille øya har bare ett hotell.; Die kleine Insel hat nur ein kleines Hotel.
+no-ru-0045; See; en innsjø; en sjø; A2; Reisen/Urlaub/Strand & Natur; Vi svømmer i innsjøen før frokost.; Wir schwimmen vor dem Frühstück im See.
+no-ru-0046; Berg; et fjell; ; A2; Reisen/Urlaub/Strand & Natur; Fra fjellet kan man se hele dalen.; Vom Berg sieht man das ganze Tal.
+no-ru-0047; Wald; en skog; ; A2; Reisen/Urlaub/Strand & Natur; En smal sti fører gjennom den mørke skogen.; Ein schmaler Pfad führt durch den dunklen Wald.
+no-ru-0048; Sonnencreme; en solkrem; ; A2; Reisen/Urlaub/Strand & Natur; Ikke glem å ta med solkremen til barna.; Vergiss die Sonnencreme für die Kinder nicht.
+no-ru-0049; Badeanzug; en badedrakt; ; A2; Reisen/Urlaub/Strand & Natur; Den nye badedrakten hennes er blå med hvite striper.; Ihr neuer Badeanzug ist blau mit weißen Streifen.
+no-ru-0050; Handtuch; et håndkle; ; A2; Reisen/Urlaub/Strand & Natur; Vi glemte det store håndkleet på hotellet igjen.; Wir haben das große Handtuch wieder im Hotel vergessen.
+no-ru-0051; Schlüssel; en nøkkel; ; A2; Reisen/Urlaub/Unterkunft; Nøkkelen til rommet ligger i resepsjonen.; Der Schlüssel für das Zimmer liegt an der Rezeption.
+no-ru-0052; Rezeption; en resepsjon; ; A2; Reisen/Urlaub/Unterkunft; Resepsjonen er åpen dag og natt.; Die Rezeption ist Tag und Nacht geöffnet.
+no-ru-0053; Frühstück; en frokost; ; A2; Reisen/Urlaub/Unterkunft; Frokosten serveres til ti på terrassen.; Das Frühstück gibt es bis zehn auf der Terrasse.
+no-ru-0054; übernachten; å overnatte; ; A2; Reisen/Urlaub/Unterkunft; Vi overnatter på et lite, rolig pensjonat.; Wir übernachten in einer kleinen ruhigen Pension.
+no-ru-0055; mieten; å leie; ; A2; Reisen/Urlaub/Unterwegs; Vi leier sykler og kjører langs kysten.; Wir mieten Fahrräder und fahren an der Küste entlang.
+no-ru-0056; Fahrrad; en sykkel; ; A2; Reisen/Urlaub/Unterwegs; Hotellet låner ut gratis sykkel til alle gjester.; Das Hotel leiht jedem Gast kostenlos ein Fahrrad.
+no-ru-0057; Verspätung; en forsinkelse; ; A2; Reisen/Urlaub/Unterwegs; Toget fra Bergen har tjue minutter forsinkelse.; Der Zug aus Bergen hat zwanzig Minuten Verspätung.
+no-ru-0058; umsteigen; å bytte tog; ; A2; Reisen/Urlaub/Unterwegs; Vi må bytte tog på Lillestrøm i dag.; Wir müssen heute in Lillestrøm umsteigen.
+no-ru-0059; Haltestelle; en holdeplass; ; A2; Reisen/Urlaub/Unterwegs; Holdeplassen ligger rett utenfor det store museet.; Die Haltestelle ist direkt vor dem Museum.
+no-ru-0060; Stadtplan; et bykart; ; A2; Reisen/Urlaub/Sightseeing; Hotellet gir alle gjester et gratis bykart.; Das Hotel gibt jedem Gast einen kostenlosen Stadtplan.
+no-ru-0061; Unterkunft; et overnattingssted; en innkvartering; B1; Reisen/Urlaub/Unterkunft; Vi fant et rimelig overnattingssted nær gamlebyen.; Wir fanden eine günstige Unterkunft nahe der Altstadt.
+no-ru-0062; Ferienwohnung; ei ferieleilighet; en ferieleilighet; B1; Reisen/Urlaub/Unterkunft; Ferieleiligheten har balkong og et lite kjøkken.; Die Ferienwohnung hat einen Balkon und eine kleine Küche.
+no-ru-0063; Jugendherberge; et vandrerhjem; ; B1; Reisen/Urlaub/Unterkunft; Vandrerhjemmet er billig og veldig rent.; Die Jugendherberge ist günstig und sehr sauber.
+no-ru-0064; Pension (Unterkunft); et pensjonat; ; B1; Reisen/Urlaub/Unterkunft; Pensjonatet drives av et hyggelig, eldre par.; Die Pension wird von einem freundlichen alten Paar geführt.
+no-ru-0065; Doppelzimmer; et dobbeltrom; ; B1; Reisen/Urlaub/Unterkunft; Et dobbeltrom med frokost koster tolv hundre kroner.; Ein Doppelzimmer mit Frühstück kostet zwölfhundert Kronen.
+no-ru-0066; Einzelzimmer; et enkeltrom; ; B1; Reisen/Urlaub/Unterkunft; Det siste enkeltrommet var allerede opptatt i går.; Das letzte Einzelzimmer war gestern schon vergeben.
+no-ru-0067; Halbpension; en halvpensjon; ; B1; Reisen/Urlaub/Unterkunft; Vi valgte halvpensjon fordi vi spiser lunsj ute.; Wir wählten Halbpension, weil wir mittags unterwegs essen.
+no-ru-0068; Aussicht; en utsikt; ; B1; Reisen/Urlaub/Unterkunft; Utsikten fra terrassen er helt fantastisk.; Die Aussicht von der Terrasse ist einfach fantastisch.
+no-ru-0069; Reiseziel; et reisemål; ; B1; Reisen/Urlaub/Planung & Buchung; Vi har ikke valgt reisemål til høsten ennå.; Wir haben noch kein Reiseziel für den Herbst gewählt.
+no-ru-0070; Buchung; en bestilling; en booking; B1; Reisen/Urlaub/Planung & Buchung; Bestillingen din ble bekreftet på e-post i morges.; Ihre Buchung wurde heute Morgen per E-Mail bestätigt.
+no-ru-0071; stornieren; å avbestille; ; B1; Reisen/Urlaub/Planung & Buchung; Du kan avbestille reisen gratis fram til mai.; Sie können die Reise bis Mai kostenlos stornieren.
+no-ru-0072; Sicherheitskontrolle; en sikkerhetskontroll; ; B1; Reisen/Urlaub/Flughafen; Køen ved sikkerhetskontrollen var overraskende kort.; Die Schlange an der Sicherheitskontrolle war überraschend kurz.
+no-ru-0073; Bordkarte; et boardingkort; ; B1; Reisen/Urlaub/Flughafen; Vennligst vis fram boardingkortet og passet deres.; Bitte zeigen Sie Ihre Bordkarte und Ihren Pass.
+no-ru-0074; einchecken; å sjekke inn; ; B1; Reisen/Urlaub/Flughafen; Du kan sjekke inn på nett to dager før.; Sie können zwei Tage vorher online einchecken.
+no-ru-0075; Handgepäck; en håndbagasje; en kabinbagasje; B1; Reisen/Urlaub/Gepäck; Bare ett stykke håndbagasje er tillatt.; Nur ein Stück Handgepäck ist erlaubt.
+no-ru-0076; Gepäckausgabe; en bagasjeutlevering; ; B1; Reisen/Urlaub/Flughafen; Vi ventet en time ved bagasjeutleveringen.; Wir warteten eine Stunde an der Gepäckausgabe.
+no-ru-0077; Zoll; en toll; ; B1; Reisen/Urlaub/Flughafen; Ved tollen ville ingen se på bagene våre.; Beim Zoll wollte niemand unsere Taschen sehen.
+no-ru-0078; Flugbegleiter; en kabinansatt; en flyvert; B1; Reisen/Urlaub/Flughafen; Den kabinansatte ga oss vann og kaffe.; Der Flugbegleiter brachte uns Wasser und Kaffee.
+no-ru-0079; Landung; en landing; ; B1; Reisen/Urlaub/Flughafen; Landingen var myk til tross for den sterke vinden.; Die Landung war trotz des starken Windes sanft.
+no-ru-0080; landen; å lande; ; B1; Reisen/Urlaub/Flughafen; Vi lander i Madrid like etter midnatt i dag.; Wir landen heute kurz nach Mitternacht in Madrid.
+no-ru-0081; abheben (Flugzeug); å ta av; ; B1; Reisen/Urlaub/Flughafen; Flyet tok av med litt forsinkelse.; Das Flugzeug hob mit kurzer Verspätung ab.
+no-ru-0082; Notausgang; en nødutgang; ; B1; Reisen/Urlaub/Flughafen; Nødutgangen er merket med grønne skilt.; Der Notausgang ist mit grünen Schildern markiert.
+no-ru-0083; Sehenswürdigkeit; en severdighet; ; B1; Reisen/Urlaub/Sightseeing; Katedralen er byens mest kjente severdighet.; Die Kathedrale ist die berühmteste Sehenswürdigkeit der Stadt.
+no-ru-0084; Denkmal; et minnesmerke; et monument; B1; Reisen/Urlaub/Sightseeing; Minnesmerket på torget hedrer en lokal dikter.; Das Denkmal auf dem Platz ehrt einen hiesigen Dichter.
+no-ru-0085; Altstadt; en gamleby; ; B1; Reisen/Urlaub/Sightseeing; Vi gikk oss bort i de trange smugene i gamlebyen.; Wir verliefen uns in den engen Gassen der Altstadt.
+no-ru-0086; Führung (Besichtigung); en omvisning; ; B1; Reisen/Urlaub/Sightseeing; Omvisningen på slottet varer i en time.; Die Führung durch das Schloss dauert eine Stunde.
+no-ru-0087; Souvenir; et suvenir; ; B1; Reisen/Urlaub/Sightseeing; Hun kjøpte et lite suvenir til kollegene sine.; Sie kaufte ein kleines Souvenir für ihre Kollegen.
+no-ru-0088; Sonnenbrand; en solforbrenning; en solbrenthet; B1; Reisen/Urlaub/Strand & Natur; Etter én ettermiddag hadde han allerede fått solforbrenning.; Nach einem Nachmittag hatte er schon einen Sonnenbrand.
+no-ru-0089; Liegestuhl; en liggestol; ; B1; Reisen/Urlaub/Strand & Natur; Hver eneste liggestol ved bassenget var opptatt klokka ni.; Jeder Liegestuhl am Pool war um neun besetzt.
+no-ru-0090; Sonnenschirm; en parasoll; ; B1; Reisen/Urlaub/Strand & Natur; Vi leide en parasoll for hele dagen.; Wir mieteten einen Sonnenschirm für den ganzen Tag.
+no-ru-0091; Welle; ei bølge; en bølge; B1; Reisen/Urlaub/Strand & Natur; Hver bølge var for høy for barna.; Jede Welle war zu hoch für die Kinder.
+no-ru-0092; Küste; ei kyst; en kyst; B1; Reisen/Urlaub/Strand & Natur; Veien følger kysten i hundre kilometer.; Die Straße folgt der Küste hundert Kilometer lang.
+no-ru-0093; Hafen; en havn; ; B1; Reisen/Urlaub/Sightseeing; Om kvelden er havna full av liv.; Abends ist der Hafen voller Leben.
+no-ru-0094; Fähre; en ferge; ; B1; Reisen/Urlaub/Unterwegs, Reisen/Verkehr/Bus & Bahn; Fergen til øya går to ganger om dagen.; Die Fähre zur Insel fährt zweimal am Tag.
+no-ru-0095; Route; en rute; ; B1; Reisen/Urlaub/Unterwegs; Vi planla ruten vår over små landeveier.; Wir planten unsere Route über kleine Landstraßen.
+no-ru-0096; Pauschalreise; en pakkereise; ; B2; Reisen/Urlaub/Planung & Buchung; En pakkereise er ofte billigere enn enkeltbestillinger.; Eine Pauschalreise ist oft günstiger als einzelne Buchungen.
+no-ru-0097; Reiseveranstalter; en reisearrangør; ; B2; Reisen/Urlaub/Planung & Buchung; Reisearrangøren ga oss beskjed om planendringen.; Der Reiseveranstalter informierte uns über die Planänderung.
+no-ru-0098; Reiseversicherung; en reiseforsikring; ; B2; Reisen/Urlaub/Planung & Buchung; En god reiseforsikring dekker også tapt bagasje.; Eine gute Reiseversicherung deckt auch verlorenes Gepäck ab.
+no-ru-0099; Anzahlung; et depositum; en forskuddsbetaling; B2; Reisen/Urlaub/Planung & Buchung; Vi betalte et depositum på to hundre euro.; Wir leisteten eine Anzahlung von zweihundert Euro.
+no-ru-0100; Zuschlag (Aufpreis); et tillegg; ; B2; Reisen/Urlaub/Planung & Buchung; For rom med havutsikt må man betale et tillegg.; Für Zimmer mit Meerblick gibt es einen Zuschlag.
+no-ru-0101; Hochsaison; en høysesong; ; B2; Reisen/Urlaub/Planung & Buchung; I høysesongen dobles nesten prisene her.; In der Hochsaison verdoppeln sich hier fast die Preise.
+no-ru-0102; Nebensaison; en lavsesong; ; B2; Reisen/Urlaub/Planung & Buchung; I lavsesongen er strendene herlig tomme.; In der Nebensaison sind die Strände herrlich leer.
+no-ru-0103; Übernachtung; en overnatting; ; B2; Reisen/Urlaub/Unterkunft; Prisen inkluderer én overnatting med frokost.; Der Preis beinhaltet eine Übernachtung mit Frühstück.
+no-ru-0104; Verfügbarkeit; en tilgjengelighet; ; B2; Reisen/Urlaub/Planung & Buchung; Sjekk tilgjengeligheten på rom i juni.; Bitte prüfen Sie die Verfügbarkeit von Zimmern im Juni.
+no-ru-0105; ausgebucht; fullbooket; ; B2; Reisen/Urlaub/Unterkunft; Det lille hotellet er fullbooket til september.; Das kleine Hotel ist bis September ausgebucht.
+no-ru-0106; Zwischenstopp; et mellomstopp; ; B2; Reisen/Urlaub/Flughafen; Den lange flyturen vår har et mellomstopp i Istanbul.; Unser langer Flug hat einen Zwischenstopp in Istanbul.
+no-ru-0107; Direktflug; et direktefly; en direkteflyvning; B2; Reisen/Urlaub/Flughafen; Det finnes ikke noe direktefly til denne øya.; Es gibt keinen Direktflug zu dieser Insel.
+no-ru-0108; verpassen; å gå glipp av; ; B2; Reisen/Urlaub/Unterwegs; Vi gikk nesten glipp av det siste toget.; Wir hätten fast den letzten Zug zur Küste verpasst.
+no-ru-0109; Durchsage; en kunngjøring; en høyttalermelding; B2; Reisen/Urlaub/Flughafen; Hør nøye etter på kunngjøringen for gate tolv.; Bitte hören Sie genau auf die Durchsage für Gate zwölf.
+no-ru-0110; Entschädigung; en kompensasjon; en erstatning; B2; Reisen/Urlaub/Flughafen; Flyselskapet tilbød oss kompensasjon for den innstilte flyturen.; Die Fluggesellschaft bot uns eine Entschädigung für den gestrichenen Flug.
+no-ru-0111; Erstattung; en refusjon; en tilbakebetaling; B2; Reisen/Urlaub/Planung & Buchung; Vi søkte om refusjon for den avlyste turen.; Wir beantragten eine Erstattung für die abgesagte Tour.
+no-ru-0112; Visum; et visum; ; B2; Reisen/Urlaub/Planung & Buchung; Du trenger visum for et lengre opphold.; Für einen längeren Aufenthalt braucht man ein Visum.
+no-ru-0113; Einreise; en innreise; ; B2; Reisen/Urlaub/Flughafen; Innreisen gikk raskt takket være de nye automatene.; Die Einreise ging dank der neuen Automaten schnell.
+no-ru-0114; Zeitverschiebung; en tidsforskjell; ; B2; Reisen/Urlaub/Unterwegs; Tidsforskjellen til Tokyo er åtte timer.; Die Zeitverschiebung nach Tokio beträgt acht Stunden.
+no-ru-0115; Jetlag; en jetlag; ; B2; Reisen/Urlaub/Unterwegs; Jetlagen traff meg hardere enn forventet.; Der Jetlag traf mich härter als erwartet.
+no-ru-0116; Mietwagen; en leiebil; ; B2; Reisen/Urlaub/Unterwegs; Vi hentet leiebilen vår på flyplassen i Bergen.; Wir holten den Mietwagen am Flughafen ab.
+no-ru-0117; Panne; en motorstopp; ; B2; Reisen/Urlaub/Unterwegs; Vi fikk motorstopp på en ensom fjellvei.; Wir hatten eine Panne auf einer einsamen Bergstraße.
+no-ru-0118; Umleitung; en omkjøring; ; B2; Reisen/Urlaub/Unterwegs; Omkjøringen kostet oss nesten en hel time.; Die Umleitung kostete uns fast eine ganze Stunde.
+no-ru-0119; Stau; en bilkø; en kø; B2; Reisen/Urlaub/Unterwegs; Vi sto i bilkø i flere timer.; Wir standen stundenlang im Stau.
+no-ru-0120; Raststätte; en rasteplass; ; B2; Reisen/Urlaub/Unterwegs; Vi stoppet på en rasteplass for en kaffe.; Wir hielten an einer Raststätte für einen Kaffee.
+no-ru-0121; Wanderweg; en tursti; ; B2; Reisen/Urlaub/Strand & Natur; Turstien begynner bak det lille kapellet.; Der Wanderweg beginnt hinter der kleinen Kapelle.
+no-ru-0122; Gipfel; en topp; en fjelltopp; B2; Reisen/Urlaub/Strand & Natur; Vi nådde toppen rett før solnedgang.; Wir erreichten den Gipfel kurz vor dem Sonnenuntergang.
+no-ru-0123; schnorcheln; å snorkle; ; B2; Reisen/Urlaub/Strand & Natur; Her kan man snorkle blant fargerike fisker.; Hier kann man zwischen bunten Fischen schnorcheln.
+no-ru-0124; Gezeiten; et tidevann; ; B2; Reisen/Urlaub/Strand & Natur; Tidevannet endrer stranden to ganger om dagen.; Die Gezeiten verändern den Strand zweimal am Tag.
+no-ru-0125; Kreuzfahrt; et cruise; ; B2; Reisen/Urlaub/Planung & Buchung; Foreldrene mine skal på cruise til våren.; Meine Eltern machen im Frühjahr eine Kreuzfahrt.
+no-ru-0126; Fernweh; en reiselyst; ; C1; Reisen/Urlaub/Planung & Buchung; Hver vår kjenner jeg en stille reiselyst.; Jedes Frühjahr packt mich ein leises Fernweh.
+no-ru-0127; erkunden; å utforske; ; C1; Reisen/Urlaub/Sightseeing; Vi utforsket øya til fots og med båt.; Wir erkundeten die Insel zu Fuß und per Boot.
+no-ru-0128; Abstecher; en avstikker; ; C1; Reisen/Urlaub/Unterwegs; En kort avstikker tok oss til en skjult bukt.; Ein kurzer Abstecher führte uns in eine versteckte Bucht.
+no-ru-0129; Geheimtipp; et innertips; ; C1; Reisen/Urlaub/Sightseeing; Den lille fiskerestauranten er et ekte innertips.; Das kleine Fischrestaurant ist ein echter Geheimtipp.
+no-ru-0130; abgelegen; avsidesliggende; avsides; C1; Reisen/Urlaub/Unterkunft; Hytta ligger avsidesliggende, men er verdt hvert skritt.; Die Hütte liegt abgelegen, ist aber jeden Schritt wert.
+no-ru-0131; malerisch; pittoresk; malerisk; C1; Reisen/Urlaub/Sightseeing; Den pittoreske landsbyen trekker til seg malere fra hele verden.; Das malerische Dorf zieht Maler von überall an.
+no-ru-0132; atemberaubend; betagende; ; C1; Reisen/Urlaub/Strand & Natur; De betagende klippene stuper bratt ned i havet.; Die atemberaubenden Klippen fallen steil ins Meer ab.
+no-ru-0133; Anschlussflug; en videreforbindelse; ; C1; Reisen/Urlaub/Flughafen; Videreforbindelsen vår går i dag fra en annen terminal.; Unser Anschlussflug geht heute von einem anderen Terminal.
+no-ru-0134; Zollerklärung; en tolldeklarasjon; ; C1; Reisen/Urlaub/Flughafen; Vennligst fyll ut tolldeklarasjonen før landingen.; Bitte füllen Sie die Zollerklärung vor der Landung aus.
+no-ru-0135; Gepäckaufbewahrung; en bagasjeoppbevaring; ; C1; Reisen/Urlaub/Gepäck; Vi lot veskene stå i bagasjeoppbevaringen.; Wir ließen unsere Taschen in der Gepäckaufbewahrung.
+no-ru-0136; Proviant; ei niste; en niste; C1; Reisen/Urlaub/Unterwegs; Vi kjøpte niste til den lange togturen.; Wir kauften Proviant für die lange Zugfahrt.
+no-ru-0137; Etappe; en etappe; ; C1; Reisen/Urlaub/Unterwegs; Første etappe av reisen ender i Basel.; Die erste Etappe der Reise endet in Basel.
+no-ru-0138; beschaulich; fredelig; ; C1; Reisen/Urlaub/Sightseeing; Livet i denne fredelige småbyen går sakte.; Das Leben in diesem beschaulichen Städtchen vergeht langsam.
+no-ru-0139; Idylle; en idyll; ; C1; Reisen/Urlaub/Strand & Natur; Den stille bukta er en perfekt idyll om høsten.; Die stille Bucht ist im Herbst eine perfekte Idylle.
+no-ru-0140; Panorama; et panorama; ; C1; Reisen/Urlaub/Strand & Natur; Panoramaet fra fjellovergangen er turen verdt.; Das Panorama vom Pass ist die Fahrt wert.
+no-ru-0141; Klippe; en klippe; ; C1; Reisen/Urlaub/Strand & Natur; En smal sti går langs den høye klippen.; Ein schmaler Pfad verläuft an der hohen Klippe entlang.
+no-ru-0142; Reiseapotheke; et reiseapotek; ; C1; Reisen/Urlaub/Gepäck; Et lite reiseapotek hører hjemme i enhver koffert.; Eine kleine Reiseapotheke gehört in jeden Koffer.
+no-ru-0143; verreisen; å reise bort; ; C1; Reisen/Urlaub/Planung & Buchung; Vi reiser bort to ganger i året.; Wir verreisen zweimal im Jahr.
+no-ru-0144; Sommerfrische; et sommersted; ; C2; Reisen/Urlaub/Unterkunft; Bestemor forteller fortsatt om sommerstedet ved sjøen.; Großmutter erzählt noch von der Sommerfrische am See.
+no-ru-0145; Odyssee; en odyssé; ; C2; Reisen/Urlaub/Unterwegs; Hjemreisen vår ble en sann odyssé.; Unsere Heimreise wurde zu einer wahren Odyssee.
+no-ru-0146; Vagabund; en vagabond; ; C2; Reisen/Urlaub/Unterwegs; Han levde som vagabond i sør i mange år.; Er lebte jahrelang als Vagabund im Süden.
+no-ru-0147; Weltenbummler; en globetrotter; ; C2; Reisen/Urlaub/Planung & Buchung; Den gamle globetrotteren har historier fra alle kontinenter.; Der alte Weltenbummler hat Geschichten von jedem Kontinent.
+no-ru-0148; Sehnsuchtsort; et drømmested; ; C2; Reisen/Urlaub/Planung & Buchung; Lisboa var drømmestedet hennes i mange år.; Lissabon blieb viele Jahre ihr Sehnsuchtsort.
+no-ru-0149; Kleinod; ei perle; en perle; C2; Reisen/Urlaub/Sightseeing; Det bittelille kapellet er en ekte skjult perle.; Die winzige Kapelle ist ein echtes verstecktes Kleinod.
+no-ru-0150; Reisefieber; en reisefeber; ; C2; Reisen/Urlaub/Planung & Buchung; Natten før avreisen holdt reisefeberen henne våken.; In der Nacht vor der Abreise hielt sie das Reisefieber wach.

@@ -1,0 +1,152 @@
+# Norwegisch: Business – Vertrag
+id; Deutsch; Norwegisch; Weitere Antworten; Niveau; Themen; Beispiel Norwegisch; Beispiel Deutsch
+no-vt-0001; Vertrag; en kontrakt; en avtale; A1; Business/Vertrag/Vertragsarten; Vi signerte kontrakten i går ettermiddag.; Wir haben den Vertrag gestern Nachmittag unterschrieben.
+no-vt-0002; Firma; et firma; en bedrift, et selskap; A1; Business/Vertrag/Parteien; Firmaet vårt samarbeider med mange internasjonale partnere.; Unsere Firma arbeitet mit vielen internationalen Partnern.
+no-vt-0003; unterschreiben; å signere; å skrive under; A1; Business/Vertrag/Abschluss & Unterschrift; Vennligst signer dokumentet på siste side.; Bitte unterschreiben Sie das Dokument auf der letzten Seite.
+no-vt-0004; Datum; en dato; ; A1; Business/Vertrag/Abschluss & Unterschrift; Datoen på kontrakten er helt feil.; Das Datum auf dem Vertrag ist falsch.
+no-vt-0005; Preis (Kosten); en pris; ; A1; Business/Vertrag/Klauseln; Prisen er fastsatt i denne kontrakten.; Der Preis ist im Vertrag festgelegt.
+no-vt-0006; Unterschrift; ei underskrift; en underskrift; A2; Business/Vertrag/Abschluss & Unterschrift; Vi trenger fortsatt underskriften din på side to.; Wir brauchen noch Ihre Unterschrift auf Seite zwei.
+no-vt-0007; Dokument; et dokument; ; A2; Business/Vertrag/Abschluss & Unterschrift; Les dokumentet nøye før du signerer.; Bitte lesen Sie das Dokument sorgfältig, bevor Sie unterschreiben.
+no-vt-0008; Kopie; en kopi; et eksemplar; A2; Business/Vertrag/Abschluss & Unterschrift; Hver part får en kopi av kontrakten.; Jede Partei erhält eine Kopie des Vertrags.
+no-vt-0009; gültig; gyldig; ; A2; Business/Vertrag/Laufzeit & Kündigung; Kontrakten er gyldig i to år.; Der Vertrag ist zwei Jahre gültig.
+no-vt-0010; Angebot; et tilbud; ; A2; Business/Vertrag/Abschluss & Unterschrift; Vi har akseptert tilbudet fra den nye leverandøren.; Wir haben das Angebot des neuen Lieferanten angenommen.
+no-vt-0011; Kunde; en kunde; ; A2; Business/Vertrag/Parteien; Kunden vil gjerne endre denne kontrakten.; Der Kunde möchte den Vertrag ändern.
+no-vt-0012; Lieferung; en levering; en leveranse; A2; Business/Vertrag/Klauseln; Leveringen må komme fram før utgangen av mai.; Die Lieferung muss vor Ende Mai ankommen.
+no-vt-0013; bezahlen; å betale; ; A2; Business/Vertrag/Klauseln; Dere må betale regningen innen tretti dager.; Sie müssen die Rechnung innerhalb von dreißig Tagen bezahlen.
+no-vt-0014; Rechnung; en regning; en faktura; A2; Business/Vertrag/Klauseln; Vi har fått regningen for den første leveringen.; Wir haben die Rechnung für die erste Lieferung erhalten.
+no-vt-0015; Bedingung; en betingelse; ; A2; Business/Vertrag/Klauseln; Denne betingelsen er svært viktig for oppdragsgiveren vår.; Diese Bedingung ist für unseren Auftraggeber sehr wichtig.
+no-vt-0016; Frist; en frist; en deadline; A2; Business/Vertrag/Laufzeit & Kündigung; Fristen for å betale er neste fredag.; Die Frist für die Zahlung ist nächsten Freitag.
+no-vt-0017; verlängern; å forlenge; ; A2; Business/Vertrag/Laufzeit & Kündigung; Vi ønsker å forlenge kontrakten med ett år.; Wir möchten den Vertrag um ein Jahr verlängern.
+no-vt-0018; prüfen; å gjennomgå; å kontrollere; A2; Business/Vertrag/Abschluss & Unterschrift; Advokaten vår gjennomgår kontrakten i dag.; Unser Anwalt prüft den Vertrag heute.
+no-vt-0019; Fehler; en feil; ; A2; Business/Vertrag/Streitfall; Det er en feil i den andre klausulen.; In der zweiten Klausel ist ein Fehler.
+no-vt-0020; Anwalt; en advokat; ; A2; Business/Vertrag/Streitfall, Gesellschaft/Recht; Advokaten vår fant et problem i kontrakten.; Unser Anwalt hat ein Problem im Vertrag gefunden.
+no-vt-0021; Gesetz; en lov; ; A2; Business/Vertrag/Rechtsbegriffe, Gesellschaft/Recht; Den nye loven endrer reglene for kontrakter.; Das neue Gesetz ändert die Regeln für Verträge.
+no-vt-0022; Zeitraum; en periode; et tidsrom; A2; Business/Vertrag/Laufzeit & Kündigung; Kontrakten dekker en periode på tre år.; Der Vertrag umfasst einen Zeitraum von drei Jahren.
+no-vt-0023; Betrag; et beløp; ; A2; Business/Vertrag/Klauseln; Hele beløpet forfaller etter selve leveringen.; Der gesamte Betrag ist nach der Lieferung fällig.
+no-vt-0024; akzeptieren; å godta; å akseptere; A2; Business/Vertrag/Abschluss & Unterschrift; Vi kan ikke godta disse nye vilkårene.; Wir können diese neuen Bedingungen nicht akzeptieren.
+no-vt-0025; ablehnen; å avslå; å avvise; A2; Business/Vertrag/Abschluss & Unterschrift; Firmaet har bestemt seg for å avslå tilbudet vårt.; Die Firma hat beschlossen, unser Angebot abzulehnen.
+no-vt-0026; Vereinbarung; en avtale; ; B1; Business/Vertrag/Vertragsarten; Begge parter signerte avtalen etter lange samtaler.; Beide Seiten unterschrieben die Vereinbarung nach langen Gesprächen.
+no-vt-0027; Kaufvertrag; en kjøpsavtale; en kjøpekontrakt; B1; Business/Vertrag/Vertragsarten; Kjøpsavtalen omfatter alle maskinene og reservedelene.; Der Kaufvertrag umfasst alle Maschinen und Ersatzteile.
+no-vt-0028; Arbeitsvertrag; en arbeidsavtale; en arbeidskontrakt, en ansettelsesavtale; B1; Business/Vertrag/Vertragsarten; Hun signerte arbeidsavtalen mandag morgen klokka ni.; Sie unterschrieb ihren Arbeitsvertrag am Montagmorgen.
+no-vt-0029; Mietvertrag; en leiekontrakt; en leieavtale; B1; Business/Vertrag/Vertragsarten; Leiekontrakten for kontoret går ut i desember.; Der Mietvertrag für das Büro endet im Dezember.
+no-vt-0030; Vertragsentwurf; et kontraktsutkast; et avtaleutkast; B1; Business/Vertrag/Vertragsarten; Send oss kontraktsutkastet innen fredag, takk.; Bitte senden Sie uns den Vertragsentwurf bis Freitag.
+no-vt-0031; befristeter Vertrag; en tidsbegrenset kontrakt; en tidsbestemt kontrakt; B1; Business/Vertrag/Vertragsarten; Han har en tidsbegrenset kontrakt til neste sommer.; Er hat einen befristeten Vertrag bis zum nächsten Sommer.
+no-vt-0032; unbefristeter Vertrag; en fast kontrakt; en tidsubegrenset kontrakt; B1; Business/Vertrag/Vertragsarten; Etter to år fikk hun en fast kontrakt.; Nach zwei Jahren erhielt sie einen unbefristeten Vertrag.
+no-vt-0033; Klausel; en klausul; ; B1; Business/Vertrag/Klauseln; Denne klausulen begrenser ansvaret vårt i særlige tilfeller.; Diese Klausel begrenzt unsere Haftung in besonderen Fällen.
+no-vt-0034; Anhang; et vedlegg; ; B1; Business/Vertrag/Klauseln; Alle prisene er oppført i vedlegget til kontrakten.; Die Preise sind im Anhang aufgeführt.
+no-vt-0035; Laufzeit (Vertrag); en løpetid; en avtaleperiode; B1; Business/Vertrag/Laufzeit & Kündigung; Løpetiden er fem år med en opsjon.; Die Laufzeit beträgt fünf Jahre mit einer Option.
+no-vt-0036; Kündigung (Vertrag); en oppsigelse; ; B1; Business/Vertrag/Laufzeit & Kündigung; Oppsigelsen av avtalen må sendes inn skriftlig.; Die Kündigung muss in schriftlicher Form gesendet werden.
+no-vt-0037; kündigen (Vertrag); å si opp; ; B1; Business/Vertrag/Laufzeit & Kündigung; Hver part kan si opp kontrakten skriftlig.; Jede Partei kann den Vertrag schriftlich kündigen.
+no-vt-0038; Verlängerung (Frist, Vertrag); en forlengelse; ; B1; Business/Vertrag/Laufzeit & Kündigung; Vi ba om en forlengelse av leveringstiden.; Wir baten um eine Verlängerung des Lieferzeitraums.
+no-vt-0039; Vertragspartner; en avtalepart; en kontraktspart; B1; Business/Vertrag/Parteien; Hver avtalepart har klare plikter og rettigheter.; Jeder Vertragspartner hat klare Pflichten und Rechte.
+no-vt-0040; Partei (Vertrag); en part; ; B1; Business/Vertrag/Parteien; Hver part må oppfylle pliktene sine i tide.; Jede Partei muss ihre Pflichten pünktlich erfüllen.
+no-vt-0041; Lieferant; en leverandør; ; B1; Business/Vertrag/Parteien; Leverandøren vår leverer varene hver andre uke.; Unser Lieferant liefert die Waren alle zwei Wochen.
+no-vt-0042; Auftragnehmer; en oppdragstaker; ; B1; Business/Vertrag/Parteien; Oppdragstakeren må være ferdig med arbeidet innen oktober.; Der Auftragnehmer muss die Arbeiten bis Oktober abschließen.
+no-vt-0043; Auftraggeber; en oppdragsgiver; ; B1; Business/Vertrag/Parteien; Oppdragsgiveren betaler etter den siste kontrollen.; Der Auftraggeber zahlt nach der letzten Prüfung.
+no-vt-0044; Zeuge; et vitne; ; B1; Business/Vertrag/Abschluss & Unterschrift; Et vitne var til stede da kontrakten ble signert.; Ein Zeuge war bei der Unterzeichnung des Vertrags anwesend.
+no-vt-0045; Pflicht; en plikt; ; B1; Business/Vertrag/Rechtsbegriffe; Det er vår plikt å informere oppdragsgiveren raskt.; Es ist unsere Pflicht, den Auftraggeber schnell zu informieren.
+no-vt-0046; Recht; en rett; en rettighet; B1; Business/Vertrag/Rechtsbegriffe; Du har rett til å si opp innen fjorten dager.; Sie haben das Recht, innerhalb von vierzehn Tagen zu kündigen.
+no-vt-0047; Regelung; en ordning; en regel; B1; Business/Vertrag/Rechtsbegriffe; Den nye ordningen gjelder for alle kontraktene våre.; Die neue Regelung gilt für alle unsere Verträge.
+no-vt-0048; Zahlung; en betaling; ; B1; Business/Vertrag/Klauseln; Den første betalingen forfaller etter signeringen.; Die erste Zahlung ist nach der Unterzeichnung fällig.
+no-vt-0049; Rabatt; en rabatt; ; B1; Business/Vertrag/Klauseln; Vi tilbyr rabatt ved tidlig betaling.; Wir bieten einen Rabatt für frühzeitige Zahlung an.
+no-vt-0050; Garantie; en garanti; ; B1; Business/Vertrag/Haftung & Gewährleistung; Maskinen har en garanti på tre år.; Die Maschine hat eine Garantie von drei Jahren.
+no-vt-0051; Schaden; en skade; ; B1; Business/Vertrag/Haftung & Gewährleistung; Skaden på varene oppsto under transporten.; Der Schaden entstand während des Transports.
+no-vt-0052; Versicherung; en forsikring; ; B1; Business/Vertrag/Haftung & Gewährleistung; Forsikringen dekker skader under transporten av varene.; Die Versicherung deckt Schäden während der Lieferung ab.
+no-vt-0053; Risiko; en risiko; ; B1; Business/Vertrag/Haftung & Gewährleistung; Leverandøren bærer risikoen fram til leveringen.; Der Lieferant trägt das Risiko bis zur Lieferung.
+no-vt-0054; verhandeln; å forhandle; ; B1; Business/Vertrag/Abschluss & Unterschrift; Vi forhandler om prisen neste uke.; Wir verhandeln den Preis nächste Woche.
+no-vt-0055; Verhandlung; en forhandling; ; B1; Business/Vertrag/Abschluss & Unterschrift; Forhandlingene om den nye kontrakten varte i månedevis.; Die Verhandlung über den neuen Vertrag dauerte Monate.
+no-vt-0056; Kompromiss; et kompromiss; ; B1; Business/Vertrag/Abschluss & Unterschrift; Etter lange samtaler fant begge sider et kompromiss.; Nach langen Gesprächen fanden beide Seiten einen Kompromiss.
+no-vt-0057; zustimmen; å samtykke; å gå med på; B1; Business/Vertrag/Abschluss & Unterschrift; Begge partnerne samtykker i de nye vilkårene.; Beide Partner stimmen den neuen Bedingungen zu.
+no-vt-0058; Streit; en tvist; en strid; B1; Business/Vertrag/Streitfall; Tvisten om betalingen varte i flere måneder.; Der Streit über die Zahlung dauerte mehrere Monate.
+no-vt-0059; Gericht (Justiz); en domstol; ; B1; Business/Vertrag/Streitfall, Gesellschaft/Recht; Saken ble brakt inn for en domstol etter mislykkede samtaler.; Der Fall ging nach gescheiterten Gesprächen vor Gericht.
+no-vt-0060; Beweis; et bevis; ; B1; Business/Vertrag/Streitfall; E-posten er et tydelig bevis på avtalen.; Die E-Mail ist ein klarer Beweis für die Vereinbarung.
+no-vt-0061; ungültig; ugyldig; ; B1; Business/Vertrag/Rechtsbegriffe; Uten underskrift er kontrakten helt ugyldig.; Ohne Unterschrift ist der Vertrag ungültig.
+no-vt-0062; schriftlich; skriftlig; ; B1; Business/Vertrag/Abschluss & Unterschrift; Alle endringer i avtalen må skje skriftlig.; Alle Änderungen müssen schriftlich erfolgen.
+no-vt-0063; Bestellung; en bestilling; en ordre; B1; Business/Vertrag/Klauseln; Vi bekreftet bestillingen på e-post i går.; Wir haben die Bestellung gestern per E-Mail bestätigt.
+no-vt-0064; bestätigen; å bekrefte; ; B1; Business/Vertrag/Abschluss & Unterschrift; Bekreft den nye leveringsdatoen skriftlig, takk.; Bitte bestätigen Sie den neuen Liefertermin schriftlich.
+no-vt-0065; Bestätigung; en bekreftelse; ; B1; Business/Vertrag/Abschluss & Unterschrift; I dag fikk vi bekreftelse på bestillingen vår.; Wir haben heute die Bestätigung unserer Bestellung erhalten.
+no-vt-0066; Rahmenvertrag; en rammeavtale; ; B2; Business/Vertrag/Vertragsarten; Rammeavtalen regulerer alle fremtidige bestillinger fra kunden.; Der Rahmenvertrag regelt alle zukünftigen Bestellungen.
+no-vt-0067; Dienstleistungsvertrag; en tjenesteavtale; en tjenestekontrakt; B2; Business/Vertrag/Vertragsarten; Tjenesteavtalen omfatter både vedlikehold og kundestøtte.; Der Dienstleistungsvertrag umfasst Wartung und Support.
+no-vt-0068; Liefervertrag; en leveringsavtale; en leveransekontrakt; B2; Business/Vertrag/Vertragsarten; Leveringsavtalen garanterer faste priser på deler.; Der Liefervertrag garantiert feste Preise für Teile.
+no-vt-0069; Geheimhaltungsvereinbarung; en konfidensialitetsavtale; en taushetserklæring; B2; Business/Vertrag/Vertragsarten; Vennligst signer konfidensialitetsavtalen før møtet i morgen.; Bitte unterschreiben Sie die Geheimhaltungsvereinbarung vor dem Treffen.
+no-vt-0070; Lizenzvertrag; en lisensavtale; ; B2; Business/Vertrag/Vertragsarten; Lisensavtalen gir oss rett til å bruke programvaren.; Der Lizenzvertrag erlaubt uns die Nutzung der Software.
+no-vt-0071; Mustervertrag; en standardkontrakt; en mal; B2; Business/Vertrag/Vertragsarten; Den juridiske avdelingen lagde en standardkontrakt for leverandører.; Unser Rechtsteam erstellte einen Mustervertrag für Lieferanten.
+no-vt-0072; Zusatzvereinbarung; en tilleggsavtale; ; B2; Business/Vertrag/Vertragsarten; De nye prisene er fastsatt i en tilleggsavtale.; Die neuen Preise sind in einer Zusatzvereinbarung festgelegt.
+no-vt-0073; Vertraulichkeitsklausel; en konfidensialitetsklausul; en taushetsklausul; B2; Business/Vertrag/Klauseln; Konfidensialitetsklausulen i kontrakten beskytter all teknisk informasjon.; Die Vertraulichkeitsklausel schützt alle technischen Informationen.
+no-vt-0074; Vertragsstrafe; en konvensjonalbot; ; B2; Business/Vertrag/Klauseln; Ved forsinket levering gjelder en konvensjonalbot.; Bei verspäteter Lieferung gilt eine Vertragsstrafe.
+no-vt-0075; Gewährleistung; en reklamasjonsrett; ; B2; Business/Vertrag/Haftung & Gewährleistung; Reklamasjonsretten dekker alle mangler i to år.; Die Gewährleistung deckt alle Mängel für zwei Jahre ab.
+no-vt-0076; Haftung; et ansvar; et erstatningsansvar; B2; Business/Vertrag/Haftung & Gewährleistung; Ansvaret vårt er begrenset til kontraktsverdien.; Unsere Haftung ist auf den Vertragswert begrenzt.
+no-vt-0077; haften; å hefte; ; B2; Business/Vertrag/Haftung & Gewährleistung; Selgeren hefter for skjulte mangler ved varen.; Der Verkäufer haftet für versteckte Mängel.
+no-vt-0078; Mangel (Fehler); en mangel; ; B2; Business/Vertrag/Haftung & Gewährleistung; Vi fant en alvorlig mangel ved maskinen.; Wir haben einen schweren Mangel an der Maschine gefunden.
+no-vt-0079; Schadensersatz; en erstatning; en skadeserstatning; B2; Business/Vertrag/Haftung & Gewährleistung; Oppdragsgiveren krever erstatning for den forsinkede leveringen.; Der Auftraggeber fordert Schadensersatz für die verspätete Lieferung.
+no-vt-0080; Fälligkeit; en forfallsdato; et forfall; B2; Business/Vertrag/Klauseln; Forfallsdatoen for fakturaen er neste mandag.; Die Fälligkeit der Rechnung ist nächsten Montag.
+no-vt-0081; fällig; forfalt; ; B2; Business/Vertrag/Klauseln; Den andre regningen er forfalt til betaling i juni.; Die zweite Rechnung ist im Juni zur Zahlung fällig.
+no-vt-0082; Anzahlung; et depositum; en forskuddsbetaling; B2; Business/Vertrag/Klauseln; Vi ber om et depositum på tjue prosent.; Wir bitten um eine Anzahlung von zwanzig Prozent.
+no-vt-0083; Vertragsbruch; et kontraktsbrudd; et avtalebrudd; B2; Business/Vertrag/Streitfall; Den manglende leveringen var et klart kontraktsbrudd.; Die versäumte Lieferung war ein klarer Vertragsbruch.
+no-vt-0084; verstoßen gegen; å bryte; å overtre; B2; Business/Vertrag/Streitfall; Leverandøren brøt flere av vilkårene i avtalen.; Der Lieferant verstieß gegen mehrere Bedingungen der Vereinbarung.
+no-vt-0085; Einhaltung; en overholdelse; ; B2; Business/Vertrag/Rechtsbegriffe; Vi overvåker overholdelsen av alle kontraktsvilkår.; Wir überwachen die Einhaltung aller Vertragsbedingungen.
+no-vt-0086; einhalten; å overholde; ; B2; Business/Vertrag/Rechtsbegriffe; Begge parter må overholde de avtalte fristene.; Beide Parteien müssen die vereinbarten Fristen einhalten.
+no-vt-0087; Verstoß; et brudd; ; B2; Business/Vertrag/Streitfall; Ethvert brudd på klausulen fører til straff.; Jeder Verstoß gegen die Klausel führt zu einer Strafe.
+no-vt-0088; Allgemeine Geschäftsbedingungen; generelle vilkår; alminnelige vilkår; B2; Business/Vertrag/Rechtsbegriffe; Våre generelle vilkår er en del av hver kontrakt.; Unsere Allgemeinen Geschäftsbedingungen sind Teil jedes Vertrags.
+no-vt-0089; Rechtsabteilung; en juridisk avdeling; ; B2; Business/Vertrag/Parteien; Den juridiske avdelingen går gjennom hver ny avtale.; Die Rechtsabteilung prüft jede neue Vereinbarung.
+no-vt-0090; rechtsverbindlich; juridisk bindende; ; B2; Business/Vertrag/Rechtsbegriffe; Tilbudet blir juridisk bindende etter aksept.; Das Angebot wird nach der Annahme rechtsverbindlich.
+no-vt-0091; verbindlich; bindende; ; B2; Business/Vertrag/Rechtsbegriffe; Leveringsdatoene i vedlegget er bindende for begge parter.; Die Liefertermine im Anhang sind verbindlich.
+no-vt-0092; Annahme (eines Angebots); en aksept; ; B2; Business/Vertrag/Abschluss & Unterschrift; Avtalen kommer i stand ved aksept av tilbudet.; Der Vertrag beginnt mit der Annahme des Angebots.
+no-vt-0093; Verlängerungsoption; en forlengelsesopsjon; ; B2; Business/Vertrag/Laufzeit & Kündigung; Leiekontrakten inneholder en forlengelsesopsjon på fem år.; Der Mietvertrag enthält eine Verlängerungsoption für fünf Jahre.
+no-vt-0094; Probezeit; en prøvetid; ; B2; Business/Vertrag/Laufzeit & Kündigung; Prøvetiden varer i alt seks måneder.; Die Probezeit dauert insgesamt sechs Monate.
+no-vt-0095; Zahlungsverzug; en betalingsforsinkelse; ; B2; Business/Vertrag/Klauseln; Ved betalingsforsinkelse beregner vi alltid renter.; Bei Zahlungsverzug berechnen wir Zinsen.
+no-vt-0096; Mahnung; en purring; ; B2; Business/Vertrag/Klauseln; Vi sendte en purring etter fire uker.; Wir haben nach vier Wochen eine Mahnung geschickt.
+no-vt-0097; in Kraft treten; å tre i kraft; ; B2; Business/Vertrag/Laufzeit & Kündigung; Den nye avtalen trer i kraft i januar.; Die neue Vereinbarung tritt im Januar in Kraft.
+no-vt-0098; auslaufen; å løpe ut; å utløpe; B2; Business/Vertrag/Laufzeit & Kündigung; Den gamle leveringsavtalen løper ut i slutten av mars.; Der alte Liefervertrag läuft Ende März aus.
+no-vt-0099; Ablaufdatum; en utløpsdato; ; B2; Business/Vertrag/Laufzeit & Kündigung; Vær oppmerksom på utløpsdatoen til lisensen.; Bitte beachten Sie das Ablaufdatum der Lizenz.
+no-vt-0100; Mediation; en mediasjon; ; B2; Business/Vertrag/Streitfall; Begge firmaene valgte mediasjon fremfor rettssak.; Beide Firmen wählten Mediation statt eines Gerichtsverfahrens.
+no-vt-0101; Vergleich (vor Gericht); et forlik; ; B2; Business/Vertrag/Streitfall; Partene inngikk et forlik før rettssaken.; Die Parteien erzielten einen Vergleich vor dem Prozess.
+no-vt-0102; Klage; et søksmål; ; B2; Business/Vertrag/Streitfall; Leverandøren tok ut et søksmål mot firmaet vårt.; Der Lieferant reichte eine Klage gegen unsere Firma ein.
+no-vt-0103; Urteil; en dom; ; B2; Business/Vertrag/Streitfall; Retten avsa dommen etter to uker.; Das Gericht verkündete sein Urteil nach zwei Wochen.
+no-vt-0104; Anspruch; et krav; ; B2; Business/Vertrag/Rechtsbegriffe; Vi har krav på gratis reparasjoner under garantien.; Wir haben einen Anspruch auf kostenlose Reparaturen im Rahmen der Gewährleistung.
+no-vt-0105; Notar; en notarius publicus; en notar; B2; Business/Vertrag/Abschluss & Unterschrift; Notarius publicus leste hele kontrakten høyt.; Der Notar las den gesamten Vertrag laut vor.
+no-vt-0106; Unterauftragnehmer; en underleverandør; ; B2; Business/Vertrag/Parteien; Leverandøren kan bare bruke godkjente underleverandører.; Der Auftragnehmer darf nur zugelassene Unterauftragnehmer einsetzen.
+no-vt-0107; erfüllen; å oppfylle; ; B2; Business/Vertrag/Rechtsbegriffe; Firmaet vårt oppfylte alle pliktene i kontrakten.; Unsere Firma erfüllte alle Pflichten aus dem Vertrag.
+no-vt-0108; elektronische Signatur; en elektronisk signatur; ; B2; Business/Vertrag/Abschluss & Unterschrift; En elektronisk signatur er gyldig for denne avtalen.; Eine elektronische Signatur ist für diese Vereinbarung gültig.
+no-vt-0109; Kündigungsfrist; en oppsigelsestid; ; B2; Business/Vertrag/Laufzeit & Kündigung; Oppsigelsestiden for denne kontrakten er tre måneder.; Die Kündigungsfrist für diesen Vertrag beträgt drei Monate.
+no-vt-0110; Zahlungsbedingungen; betalingsbetingelser; betalingsvilkår; B2; Business/Vertrag/Klauseln; Betalingsbetingelsene gir tretti dager etter fakturaen.; Die Zahlungsbedingungen erlauben dreißig Tage nach der Rechnung.
+no-vt-0111; Werkvertrag; en entreprisekontrakt; ; C1; Business/Vertrag/Vertragsarten; Entreprisekontrakten beskriver nøyaktig hva som skal leveres.; Der Werkvertrag beschreibt genau, was geliefert werden soll.
+no-vt-0112; Vorvertrag; en forhåndsavtale; ; C1; Business/Vertrag/Vertragsarten; Forhåndsavtalen sikrer forretningen frem til signeringen.; Der Vorvertrag sichert das Geschäft bis zur Unterzeichnung.
+no-vt-0113; Nebenabrede; en sideavtale; ; C1; Business/Vertrag/Vertragsarten; Muntlige sideavtaler er ikke gyldige under denne kontrakten.; Mündliche Nebenabreden sind unter diesem Vertrag nicht gültig.
+no-vt-0114; Absichtserklärung; en intensjonsavtale; en intensjonserklæring; C1; Business/Vertrag/Vertragsarten; Begge firmaene signerte en intensjonsavtale i juni.; Beide Firmen unterzeichneten im Juni eine Absichtserklärung.
+no-vt-0115; Bestimmung; en bestemmelse; ; C1; Business/Vertrag/Klauseln; Denne bestemmelsen regulerer overføringen av alle rettigheter.; Diese Bestimmung regelt die Übertragung aller Rechte.
+no-vt-0116; Wettbewerbsverbot; en konkurranseklausul; et konkurranseforbud; C1; Business/Vertrag/Klauseln; Konkurranseklausulen gjelder i to år etter fratredelsen.; Das Wettbewerbsverbot gilt für zwei Jahre nach dem Ausscheiden.
+no-vt-0117; höhere Gewalt; force majeure; ; C1; Business/Vertrag/Klauseln; Ingen av partene hefter ved force majeure.; Keine Partei haftet in Fällen höherer Gewalt.
+no-vt-0118; Preisanpassungsklausel; en prisreguleringsklausul; ; C1; Business/Vertrag/Klauseln; Prisreguleringsklausulen tar hensyn til stigende materialkostnader.; Die Preisanpassungsklausel berücksichtigt steigende Materialkosten.
+no-vt-0119; Ausschlussklausel; en ansvarsfraskrivelse; ; C1; Business/Vertrag/Klauseln; Ansvarsfraskrivelsen dekker ikke skader som er påført med vilje.; Die Ausschlussklausel deckt vorsätzliche Schäden nicht ab.
+no-vt-0120; Verzugszinsen; morarenter; ; C1; Business/Vertrag/Haftung & Gewährleistung; Vi beregner morarenter på ni prosent per år.; Wir berechnen Verzugszinsen von neun Prozent pro Jahr.
+no-vt-0121; Präambel; en ingress; en preambel; C1; Business/Vertrag/Klauseln; Ingressen i kontrakten beskriver formålet med samarbeidet.; Die Präambel beschreibt den Zweck der Zusammenarbeit.
+no-vt-0122; Rücktritt (vom Vertrag); en heving; ; C1; Business/Vertrag/Laufzeit & Kündigung; Kjøperen sendte oss en melding om heving av kontrakten.; Der Käufer schickte uns eine Mitteilung über den Rücktritt vom Vertrag.
+no-vt-0123; widerrufen; å tilbakekalle; ; C1; Business/Vertrag/Laufzeit & Kündigung; Kunden kan tilbakekalle bestillingen innen to uker.; Der Kunde kann die Bestellung innerhalb von zwei Wochen widerrufen.
+no-vt-0124; Widerruf; en tilbakekallelse; ; C1; Business/Vertrag/Laufzeit & Kündigung; Tilbakekallelsen må nå oss før leveringen.; Der Widerruf muss uns vor der Lieferung erreichen.
+no-vt-0125; stillschweigende Verlängerung; en stilltiende forlengelse; en automatisk forlengelse; C1; Business/Vertrag/Laufzeit & Kündigung; Avtalen inneholder en stilltiende forlengelse på tolv måneder.; Der Vertrag enthält eine stillschweigende Verlängerung von zwölf Monaten.
+no-vt-0126; fristlose Kündigung; en øyeblikkelig oppsigelse; ; C1; Business/Vertrag/Laufzeit & Kündigung; Et alvorlig brudd rettferdiggjør en øyeblikkelig oppsigelse.; Ein schwerer Verstoß rechtfertigt eine fristlose Kündigung.
+no-vt-0127; Vertragsgegenstand; en kontraktsgjenstand; ; C1; Business/Vertrag/Klauseln; Kontraktsgjenstanden er beskrevet i detalj i vedlegget.; Der Vertragsgegenstand wird im Detail beschrieben.
+no-vt-0128; Leistungsumfang; et leveranseomfang; ; C1; Business/Vertrag/Klauseln; Leveranseomfanget omfatter både installasjon og opplæring.; Der Leistungsumfang umfasst Installation und Schulung.
+no-vt-0129; Geltungsbereich; et virkeområde; et anvendelsesområde; C1; Business/Vertrag/Rechtsbegriffe; Virkeområdet omfatter alle de europeiske datterselskapene.; Der Geltungsbereich umfasst alle europäischen Tochtergesellschaften.
+no-vt-0130; Inkrafttreten; en ikrafttredelse; ; C1; Business/Vertrag/Laufzeit & Kündigung; Ikrafttredelsen er planlagt til neste april.; Das Inkrafttreten ist für nächsten April geplant.
+no-vt-0131; Schiedsverfahren; en voldgift; ; C1; Business/Vertrag/Streitfall; Partene ble enige om voldgift i stedet for ordinære domstoler.; Die Parteien einigten sich auf ein Schiedsverfahren statt staatlicher Gerichte.
+no-vt-0132; Schlichtung; en mekling; ; C1; Business/Vertrag/Streitfall; En nøytral ekspert ledet meklingen mellom firmaene.; Ein neutraler Experte leitete die Schlichtung zwischen den Firmen.
+no-vt-0133; außergerichtliche Einigung; et minnelig forlik; ; C1; Business/Vertrag/Streitfall; Begge sider foretrakk et minnelig forlik for å spare kostnader.; Beide Seiten bevorzugten eine außergerichtliche Einigung, um Kosten zu sparen.
+no-vt-0134; Rechtsstreit; en rettstvist; ; C1; Business/Vertrag/Streitfall; Rettstvisten om patentet varte i tre år.; Der Rechtsstreit über das Patent dauerte drei Jahre.
+no-vt-0135; Berufung (Gericht); en anke; ; C1; Business/Vertrag/Streitfall; Firmaet vårt leverte en anke på dommen.; Unsere Firma legte Berufung gegen das Urteil ein.
+no-vt-0136; geltend machen; å gjøre gjeldende; ; C1; Business/Vertrag/Rechtsbegriffe; Du må gjøre kravet gjeldende innen foreldelsesfristen.; Sie müssen einen Anspruch innerhalb der Verjährungsfrist geltend machen.
+no-vt-0137; beglaubigen; å bekrefte; å bevitne; C1; Business/Vertrag/Abschluss & Unterschrift; Notarius publicus bekreftet kopiene av kontrakten.; Der Notar beglaubigte die Kopien des Vertrags.
+no-vt-0138; gegenzeichnen; å kontrasignere; ; C1; Business/Vertrag/Abschluss & Unterschrift; Daglig leder må kontrasignere hver store bestilling.; Der Geschäftsführer muss jede große Bestellung gegenzeichnen.
+no-vt-0139; salvatorische Klausel; en salvatorisk klausul; ; C2; Business/Vertrag/Klauseln; Den salvatoriske klausulen holder resten av kontrakten gyldig.; Die salvatorische Klausel hält den Rest des Vertrags gültig.
+no-vt-0140; Gerichtsstandsklausel; en vernetingsklausul; ; C2; Business/Vertrag/Klauseln; Vernetingsklausulen i avtalen angir Frankfurt som rettssted.; Die Gerichtsstandsklausel nennt Frankfurt als Gerichtsort.
+no-vt-0141; Eigentumsvorbehalt; et eiendomsforbehold; ; C2; Business/Vertrag/Klauseln; Eiendomsforbeholdet beskytter selgeren til full betaling er mottatt.; Der Eigentumsvorbehalt schützt den Verkäufer bis zur vollständigen Zahlung.
+no-vt-0142; Verjährung; en foreldelse; ; C2; Business/Vertrag/Rechtsbegriffe; Foreldelsen for disse kravene er tre år.; Die Verjährung für diese Ansprüche beträgt drei Jahre.
+no-vt-0143; anfechten; å bestride; å anfekte; C2; Business/Vertrag/Streitfall; Kjøperen vil bestride kontrakten på grunn av svindel.; Der Käufer will den Vertrag wegen Betrugs anfechten.
+no-vt-0144; nichtig; ugyldig; ; C2; Business/Vertrag/Rechtsbegriffe; Uten påkrevd form er avtalen ugyldig.; Ohne die erforderliche Form ist die Vereinbarung nichtig.
+no-vt-0145; Gegenleistung; en motytelse; ; C2; Business/Vertrag/Rechtsbegriffe; Etter engelsk rett trenger hver kontrakt en motytelse.; Nach englischem Recht braucht jeder Vertrag eine Gegenleistung.
+no-vt-0146; Abtretung; en overdragelse; ; C2; Business/Vertrag/Rechtsbegriffe; Overdragelsen av krav krever vårt skriftlige samtykke.; Die Abtretung von Ansprüchen erfordert unsere schriftliche Zustimmung.
+no-vt-0147; schadlos halten; å holde noen skadesløs; ; C2; Business/Vertrag/Haftung & Gewährleistung; Leverandøren må holde oss skadesløse mot krav fra tredjepart.; Der Lieferant muss uns gegen Ansprüche Dritter schadlos halten.
+no-vt-0148; Bürgschaft; en kausjon; ; C2; Business/Vertrag/Haftung & Gewährleistung; Banken stilte en kausjon for den store ordren.; Die Bank stellte eine Bürgschaft für den großen Auftrag.
+no-vt-0149; paraphieren; å parafere; ; C2; Business/Vertrag/Abschluss & Unterschrift; Vennligst parafer hver side i den endelige versjonen.; Bitte paraphieren Sie jede Seite der endgültigen Fassung.
+no-vt-0150; Schiedsgericht; en voldgiftsrett; ; C2; Business/Vertrag/Streitfall; Voldgiftsretten avgjorde saken til fordel for oppdragstakeren.; Das Schiedsgericht entschied zugunsten des Auftragnehmers.

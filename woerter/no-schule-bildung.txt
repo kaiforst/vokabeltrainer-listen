@@ -1,0 +1,152 @@
+# Norwegisch: Schule & Bildung
+id; Deutsch; Norwegisch; Weitere Antworten; Niveau; Themen; Beispiel Norwegisch; Beispiel Deutsch
+no-sb-0001; Schule; en skole; ; A1; Bildung/Schule/Schulformen; Hver morgen går barna til fots til skolen.; Die Kinder gehen jeden Morgen zu Fuß zur Schule.
+no-sb-0002; Lehrer; en lærer; ; A1; Bildung/Schule/Unterricht; Læreren vår forklarer alt veldig bra.; Unser Lehrer erklärt alles sehr gut.
+no-sb-0003; Schüler; en elev; ; A1; Bildung/Schule/Unterricht; Hver elev i klassen har en bok.; Jeder Schüler in der Klasse hat ein Buch.
+no-sb-0004; Klasse; en klasse; ; A1; Bildung/Schule/Unterricht; I klassen vår er det tjuefem barn.; In unserer Klasse sind fünfundzwanzig Kinder.
+no-sb-0005; Buch; ei bok; en bok; A1; Bildung/Schule/Schulsachen; Åpne boka deres på side ti.; Bitte öffnet euer Buch auf Seite zehn.
+no-sb-0006; Heft; en skrivebok; ; A1; Bildung/Schule/Schulsachen; Skriv de nye ordene i skriveboka di.; Schreib die neuen Wörter in dein Heft.
+no-sb-0007; Stift; en penn; ; A1; Bildung/Schule/Schulsachen; Kan jeg låne en penn av deg?; Kann ich mir einen Stift von dir leihen?
+no-sb-0008; Bleistift; en blyant; ; A1; Bildung/Schule/Schulsachen; Jeg tegner bildet med en blyant.; Ich zeichne das Bild mit einem Bleistift.
+no-sb-0009; Tafel; ei tavle; en tavle; A1; Bildung/Schule/Unterricht; Læreren skriver datoen på tavlen hver morgen.; Der Lehrer schreibt das Datum an die Tafel.
+no-sb-0010; Schultasche; en skolesekk; ; A1; Bildung/Schule/Schulsachen; Skolesekken min er veldig tung i dag.; Meine Schultasche ist heute sehr schwer.
+no-sb-0011; lernen; å lære; ; A1; Bildung/Lernen; Vi lærer nye ord sammen hver dag.; Wir lernen jeden Tag gemeinsam neue Wörter.
+no-sb-0012; lesen; å lese; ; A1; Bildung/Lernen; Jeg leser gjerne bøker om kvelden.; Ich lese abends gern Bücher.
+no-sb-0013; schreiben; å skrive; ; A1; Bildung/Lernen; Elevene skriver en kort tekst om familien sin.; Die Schüler schreiben einen kurzen Text über ihre Familie.
+no-sb-0014; rechnen; å regne; ; A1; Bildung/Lernen; Barna regner først med små tall.; Die Kinder rechnen zuerst mit kleinen Zahlen.
+no-sb-0015; fragen; å spørre; ; A1; Bildung/Schule/Unterricht; Du kan alltid spørre hvis noe er uklart.; Du kannst immer fragen, wenn etwas unklar ist.
+no-sb-0016; antworten; å svare; ; A1; Bildung/Schule/Unterricht; Tenk deg om først og svar deretter med hele setninger.; Denk zuerst nach und antworte dann in ganzen Sätzen.
+no-sb-0017; Frage; et spørsmål; ; A1; Bildung/Schule/Unterricht; Jeg har et spørsmål om leksene.; Ich habe eine Frage zu den Hausaufgaben.
+no-sb-0018; Antwort; et svar; ; A1; Bildung/Schule/Unterricht; Det riktige svaret står på neste side.; Die richtige Antwort steht auf der nächsten Seite.
+no-sb-0019; Hausaufgaben; lekser; ; A1; Bildung/Schule/Unterricht; Jeg gjør leksene mine etter middag.; Ich mache meine Hausaufgaben nach dem Mittagessen.
+no-sb-0020; Pause (Schule); et friminutt; ; A1; Bildung/Schule/Unterricht; I det store friminuttet spiller vi fotball.; In der großen Pause spielen wir Fußball.
+no-sb-0021; Mathematik; matematikk; ; A1; Bildung/Schule/Fächer; På mandager og torsdager har vi matematikk.; Montags und donnerstags haben wir Mathematik.
+no-sb-0022; Englisch; engelsk; ; A1; Bildung/Schule/Fächer; I engelsk synger vi sanger og spiller spill.; In Englisch singen wir Lieder und spielen Spiele.
+no-sb-0023; Deutsch; tysk; ; A1; Bildung/Schule/Fächer; I tysk leser vi en kort roman akkurat nå.; In Deutsch lesen wir gerade einen kurzen Roman.
+no-sb-0024; Sport (Schulfach); kroppsøving; ; A1; Bildung/Schule/Fächer; I kroppsøving spiller vi basketball i dag.; Im Sport spielen wir heute Basketball.
+no-sb-0025; Musik; en musikk; ; A1; Bildung/Schule/Fächer; I musikk lærer vi en ny sang.; In Musik lernen wir ein neues Lied.
+no-sb-0026; Kunst; kunst og håndverk; kunst; A2; Bildung/Schule/Fächer; I kunst og håndverk maler vi med akvarellfarger.; In Kunst malen wir mit Wasserfarben.
+no-sb-0027; Geschichte (Vergangenheit); en historie; ; A2; Bildung/Schule/Fächer; I historie lærer vi nå om det gamle Roma.; In Geschichte lernen wir gerade etwas über das alte Rom.
+no-sb-0028; Erdkunde; geografi; ; A2; Bildung/Schule/Fächer; I geografi tegner vi kart over Europa.; In Erdkunde zeichnen wir Karten von Europa.
+no-sb-0029; Biologie; biologi; ; A2; Bildung/Schule/Fächer; I biologi undersøker vi planter og dyr.; In Biologie untersuchen wir Pflanzen und Tiere.
+no-sb-0030; Chemie; kjemi; ; A2; Bildung/Schule/Fächer; I kjemi gjør vi spennende eksperimenter.; In Chemie machen wir spannende Experimente.
+no-sb-0031; Physik; fysikk; ; A2; Bildung/Schule/Fächer; I fysikk lærer vi hvordan strøm fungerer.; In Physik lernen wir, wie Strom funktioniert.
+no-sb-0032; Informatik; informatikk; ; A2; Bildung/Schule/Fächer; I informatikk skriver vi våre første programmer.; In Informatik schreiben wir unsere ersten Programme.
+no-sb-0033; Fach; et fag; ; A2; Bildung/Schule/Fächer; Hvilket fag liker du best på skolen?; Welches Fach magst du in der Schule am liebsten?
+no-sb-0034; Stundenplan; en timeplan; ; A2; Bildung/Schule/Unterricht; Den nye timeplanen begynner etter ferien.; Der neue Stundenplan beginnt nach den Ferien.
+no-sb-0035; Unterricht; en undervisning; ; A2; Bildung/Schule/Unterricht; Undervisningen på skolen begynner presis klokka åtte.; Der Unterricht beginnt pünktlich um acht Uhr.
+no-sb-0036; Note (Schule); en karakter; ; A2; Bildung/Schule/Prüfungen; Hun fikk en god karakter på prøven.; Sie hat eine gute Note im Test bekommen.
+no-sb-0037; Zeugnis (Schule); et vitnemål; et karakterkort; A2; Bildung/Schule/Prüfungen; Han viste foreldrene sine vitnemålet med stolthet.; Er zeigte seinen Eltern sein Zeugnis.
+no-sb-0038; Prüfung; en eksamen; ; A2; Bildung/Schule/Prüfungen; Eksamen holdes tidlig neste fredag morgen.; Die Prüfung findet nächsten Freitag früh am Morgen statt.
+no-sb-0039; Test; en prøve; en test; A2; Bildung/Schule/Prüfungen; Vi har en kort prøve annenhver uke.; Wir schreiben alle zwei Wochen einen kurzen Test.
+no-sb-0040; bestehen (Prüfung); å bestå; ; A2; Bildung/Schule/Prüfungen; Jeg er sikker på at du består eksamen.; Ich bin sicher, dass du die Prüfung bestehst.
+no-sb-0041; durchfallen; å stryke; ; A2; Bildung/Schule/Prüfungen; Ingen vil stryke på den siste prøven.; Niemand will beim letzten Test durchfallen.
+no-sb-0042; üben; å øve; ; A2; Bildung/Lernen; Du bør øve på de nye ordene hver dag.; Du solltest die neuen Wörter jeden Tag üben.
+no-sb-0043; wiederholen (Lernstoff); å repetere; ; A2; Bildung/Lernen; La oss repetere grammatikken fra forrige uke.; Lass uns die Grammatik von letzter Woche wiederholen.
+no-sb-0044; erklären; å forklare; ; A2; Bildung/Schule/Unterricht; Kan du forklare denne regelen en gang til?; Kannst du diese Regel bitte noch einmal erklären?
+no-sb-0045; verstehen; å forstå; ; A2; Bildung/Lernen; Jeg forsto ikke helt den siste setningen.; Ich habe den letzten Satz nicht verstanden.
+no-sb-0046; vergessen; å glemme; ; A2; Bildung/Lernen; Pass på at du ikke glemmer leksene hjemme.; Pass auf, dass du deine Hausaufgaben nicht zu Hause vergisst.
+no-sb-0047; Wörterbuch; ei ordbok; en ordbok; A2; Bildung/Schule/Schulsachen; Slå opp det nye ordet i ordboka.; Schlag das neue Wort im Wörterbuch nach.
+no-sb-0048; Lineal; en linjal; ; A2; Bildung/Schule/Schulsachen; Trekk en rett linje med linjalen.; Zieh mit dem Lineal eine gerade Linie.
+no-sb-0049; Schere; en saks; ei saks; A2; Bildung/Schule/Schulsachen; Klipp ut bildet forsiktig med saksen.; Schneide das Bild mit der Schere aus.
+no-sb-0050; Kleber; et lim; ; A2; Bildung/Schule/Schulsachen; Vi trenger lim og papir til plakaten.; Wir brauchen Kleber und Papier für das Plakat.
+no-sb-0051; Radiergummi; et viskelær; ; A2; Bildung/Schule/Schulsachen; Kan jeg låne viskelæret ditt et øyeblikk?; Darf ich kurz deinen Radiergummi leihen?
+no-sb-0052; Spitzer; en blyantspisser; ; A2; Bildung/Schule/Schulsachen; Blyanten min gikk i stykker, hvor er blyantspisseren?; Mein Bleistift ist abgebrochen, wo ist der Spitzer?
+no-sb-0053; Füller; en fyllepenn; ; A2; Bildung/Schule/Schulsachen; I tredje klasse skriver barna med fyllepenn.; In der dritten Klasse schreiben die Kinder mit dem Füller.
+no-sb-0054; Taschenrechner; en kalkulator; ; A2; Bildung/Schule/Schulsachen; På denne oppgaven kan du bruke en kalkulator.; Bei dieser Aufgabe darfst du einen Taschenrechner benutzen.
+no-sb-0055; Klassenzimmer; et klasserom; ; A2; Bildung/Schule/Unterricht; Klasserommet vårt ligger i andre etasje.; Unser Klassenzimmer ist im zweiten Stock.
+no-sb-0056; Turnhalle; en gymsal; ; A2; Bildung/Schule/Unterricht; Vi møtes til gymtimen i gymsalen.; Wir treffen uns zur Sportstunde in der Turnhalle.
+no-sb-0057; Schulhof; en skolegård; ; A2; Bildung/Schule/Unterricht; Elevene leker i skolegården i friminuttet.; Die Schüler spielen in der Pause auf dem Schulhof.
+no-sb-0058; Mensa; en kantine; ; A2; Bildung/Universität; Vi spiser lunsj sammen i kantinen.; Wir essen zusammen in der Mensa zu Mittag.
+no-sb-0059; Grundschule; en barneskole; ; A2; Bildung/Schule/Schulformen; Datteren min begynte på barneskolen i år.; Meine Tochter kam dieses Jahr in die Grundschule.
+no-sb-0060; Ferien; en skoleferie; ; A2; Bildung/Schule/Unterricht; Skoleferien begynner på fredag i neste uke.; Die Ferien beginnen nächste Woche am Freitag.
+no-sb-0061; Gymnasium; et gymnas; ; B1; Bildung/Schule/Schulformen; Hun går på et gymnas i Frankfurt.; Sie besucht ein Gymnasium in Frankfurt.
+no-sb-0062; weiterführende Schule; en videregående skole; ; B1; Bildung/Schule/Schulformen; Etter fjerde klasse velger barna en videregående skole i Tyskland.; Nach der vierten Klasse wählen die Kinder in Deutschland eine weiterführende Schule.
+no-sb-0063; Abschluss (Schule); et avgangsbevis; ; B1; Bildung/Schule/Prüfungen; Et godt avgangsbevis åpner mange dører senere.; Ein guter Abschluss öffnet später viele Türen.
+no-sb-0064; Abitur; et abitur; ; B1; Bildung/Schule/Prüfungen; Han bestod abituret med veldig gode karakterer.; Er hat sein Abitur mit sehr guten Noten bestanden.
+no-sb-0065; Universität; et universitet; ; B1; Bildung/Universität; Hun studerer jus ved universitetet i Oslo.; Sie studiert Jura an der Universität in Mainz.
+no-sb-0066; Student; en student; ; B1; Bildung/Universität; Som student bodde han i en liten leilighet.; Als Student wohnte er in einer kleinen Wohnung.
+no-sb-0067; Vorlesung; en forelesning; ; B1; Bildung/Universität; Forelesningen om europeisk historie begynner klokka ti.; Die Vorlesung über europäische Geschichte beginnt um zehn.
+no-sb-0068; Seminar; et seminar; ; B1; Bildung/Universität; I seminaret diskuterer vi en tekst hver uke.; Im Seminar besprechen wir jede Woche einen Text.
+no-sb-0069; Semester; et semester; ; B1; Bildung/Universität; Det nye semesteret begynner i august.; Das neue Semester beginnt im August.
+no-sb-0070; Studium; et studium; ; B1; Bildung/Universität; Hun fullførte studiet etter fem år.; Sie beendete ihr Studium nach fünf Jahren.
+no-sb-0071; studieren; å studere; ; B1; Bildung/Universität; Sønnen min vil studere medisin i Bergen.; Mein Sohn möchte in Berlin Medizin studieren.
+no-sb-0072; Studiengang; et studieprogram; ; B1; Bildung/Universität; Dette studieprogrammet kombinerer biologi og informatikk.; Dieser Studiengang verbindet Biologie und Informatik.
+no-sb-0073; Bibliothek; et bibliotek; ; B1; Bildung/Universität; Om kvelden leser jeg ofte på biblioteket.; Abends lerne ich oft in der Bibliothek.
+no-sb-0074; Hörsaal; en forelesningssal; et auditorium; B1; Bildung/Universität; Forelesningssalen var full fem minutter før.; Der Hörsaal war fünf Minuten vorher schon voll.
+no-sb-0075; Dozent; en foreleser; ; B1; Bildung/Universität; Foreleseren vår svarer alltid tålmodig på spørsmål.; Unser Dozent beantwortet Fragen immer geduldig.
+no-sb-0076; Professor; en professor; ; B1; Bildung/Universität; Professoren har undervist her i tjue år.; Der Professor lehrt hier seit zwanzig Jahren.
+no-sb-0077; Klausur; en skriftlig eksamen; ; B1; Bildung/Universität; Den skriftlige eksamenen varer i nøyaktig nitti minutter.; Die Klausur dauert genau neunzig Minuten.
+no-sb-0078; mündliche Prüfung; en muntlig eksamen; ; B1; Bildung/Schule/Prüfungen; Hun var nervøs før den muntlige eksamenen.; Vor ihrer mündlichen Prüfung war sie nervös.
+no-sb-0079; Hausarbeit (Studium); en semesteroppgave; en hjemmeoppgave; B1; Bildung/Universität; Jeg må skrive en semesteroppgave om Kafka.; Ich muss eine Hausarbeit über Kafka schreiben.
+no-sb-0080; Referat; en presentasjon; et foredrag; B1; Bildung/Schule/Unterricht; I morgen holder jeg en presentasjon om vulkaner.; Morgen halte ich ein Referat über Vulkane.
+no-sb-0081; Notizen; notater; ; B1; Bildung/Lernen; Gode notater hjelper deg veldig før eksamen.; Gute Notizen helfen dir vor Prüfungen sehr.
+no-sb-0082; auswendig lernen; å lære utenat; ; B1; Bildung/Lernen; Vi måtte lære et dikt utenat til mandag.; Wir mussten für Montag ein Gedicht auswendig lernen.
+no-sb-0083; nachschlagen; å slå opp; ; B1; Bildung/Lernen; Ukjente ord kan du slå opp på nettet.; Unbekannte Wörter kannst du online nachschlagen.
+no-sb-0084; teilnehmen; å delta; ; B1; Bildung/Schule/Unterricht; Alle elevene må delta i prosjektuka.; Alle Schüler müssen an der Projektwoche teilnehmen.
+no-sb-0085; sich anmelden; å melde seg på; ; B1; Bildung/Universität; Du kan melde deg på kurset fram til fredag.; Bis Freitag kannst du dich für den Kurs anmelden.
+no-sb-0086; abgeben; å levere inn; å levere; B1; Bildung/Universität; Vennligst lever inn stilen din innen utgangen av mai.; Bitte gib deinen Aufsatz bis Ende Mai ab.
+no-sb-0087; korrigieren; å rette; ; B1; Bildung/Schule/Prüfungen; Læreren retter alle prøvene i helgen.; Die Lehrerin korrigiert die Tests am Wochenende.
+no-sb-0088; benoten; å gi karakter; ; B1; Bildung/Schule/Prüfungen; Læreren gir karakter på presentasjonene neste uke.; Der Lehrer benotet die Referate nächste Woche.
+no-sb-0089; schwänzen; å skulke; ; B1; Bildung/Schule/Unterricht; Han skulket skolen to ganger forrige måned.; Er hat letzten Monat zweimal die Schule geschwänzt.
+no-sb-0090; sitzen bleiben; å ta klassen om igjen; ; B1; Bildung/Schule/Prüfungen; Med to dårlige karakterer risikerer han å måtte ta klassen om igjen.; Mit zwei schlechten Noten könnte er sitzen bleiben.
+no-sb-0091; Nachhilfe; leksehjelp; ekstraundervisning; B1; Bildung/Lernen; Hun får leksehjelp i matte en gang i uka.; Sie bekommt einmal pro Woche Nachhilfe in Mathe.
+no-sb-0092; Austauschschüler; en utvekslingselev; ; B1; Bildung/Schule/Unterricht; Utvekslingseleven vår fra Frankrike blir her i tre måneder.; Unser Austauschschüler aus Frankreich bleibt drei Monate.
+no-sb-0093; Klassenfahrt; en klassetur; ; B1; Bildung/Schule/Unterricht; Klasseturen går til Danmark i år.; Die Klassenfahrt geht dieses Jahr nach Dänemark.
+no-sb-0094; Elternabend; et foreldremøte; ; B1; Bildung/Schule/Unterricht; Neste foreldremøte er på torsdag klokka sju.; Der nächste Elternabend ist am Donnerstag um sieben.
+no-sb-0095; Berufsschule; en yrkesskole; ; B1; Bildung/Schule/Schulformen; Lærlinger går på yrkesskole to ganger i uka.; Auszubildende besuchen zweimal pro Woche die Berufsschule.
+no-sb-0096; Ausbildung; en yrkesutdanning; ; B2; Bildung/Lernen; Etter skolen begynte hun på en yrkesutdanning som elektriker.; Nach der Schule begann sie eine Ausbildung als Elektrikerin.
+no-sb-0097; Schulpflicht; en skoleplikt; ; B2; Bildung/Bildungspolitik; I Tyskland begynner skoleplikten ved seks års alder.; In Deutschland beginnt die Schulpflicht mit sechs Jahren.
+no-sb-0098; Lehrplan; en læreplan; ; B2; Bildung/Schule/Unterricht; Den nye læreplanen legger mer vekt på digitale ferdigheter.; Der neue Lehrplan legt mehr Gewicht auf digitale Kompetenzen.
+no-sb-0099; Leistung; en prestasjon; ; B2; Bildung/Schule/Prüfungen; Prestasjonene hennes ble tydelig bedre i andre halvår.; Ihre Leistung verbesserte sich in der zweiten Jahreshälfte deutlich.
+no-sb-0100; Bewertung (Schule); en vurdering; en bedømmelse; B2; Bildung/Schule/Prüfungen; Vurderingen av muntlige prestasjoner er ofte vanskelig.; Die Bewertung mündlicher Leistungen ist oft schwierig.
+no-sb-0101; Abschlussprüfung; en avgangseksamen; en avsluttende eksamen; B2; Bildung/Schule/Prüfungen; Avgangseksamen omfatter pensum fra de to siste årene.; Die Abschlussprüfung umfasst den Stoff von zwei Jahren.
+no-sb-0102; Bachelorarbeit; en bacheloroppgave; en bacheloravhandling; B2; Bildung/Universität; Han skriver bacheloroppgaven sin om fornybar energi.; Er schreibt seine Bachelorarbeit über erneuerbare Energien.
+no-sb-0103; Masterarbeit; en masteroppgave; en masteravhandling; B2; Bildung/Universität; Masteroppgaven hennes ble utgitt som en liten bok.; Ihre Masterarbeit wurde als kleines Buch veröffentlicht.
+no-sb-0104; Doktorarbeit; en doktoravhandling; en doktorgradsavhandling; B2; Bildung/Universität; Han jobbet i fire år med doktoravhandlingen sin.; Er arbeitete vier Jahre an seiner Doktorarbeit.
+no-sb-0105; Promotion; en doktorgrad; ; B2; Bildung/Universität; Etter doktorgraden begynte hun å jobbe i industrien.; Nach ihrer Promotion wechselte sie in die Industrie.
+no-sb-0106; Stipendium; et stipend; ; B2; Bildung/Universität; Stipendet dekker husleien og bøkene hennes.; Das Stipendium deckt ihre Miete und ihre Bücher.
+no-sb-0107; Studiengebühren; studieavgifter; ; B2; Bildung/Universität; Studieavgiftene varierer mye mellom de europeiske landene.; Die Studiengebühren unterscheiden sich stark zwischen europäischen Ländern.
+no-sb-0108; Wohnheim; et studenthjem; ; B2; Bildung/Universität; Det første året bodde han på et studenthjem.; Im ersten Jahr wohnte er in einem Wohnheim.
+no-sb-0109; Fakultät; et fakultet; ; B2; Bildung/Universität; Fakultetet for ingeniørfag flyttet inn i en ny bygning.; Die Fakultät für Ingenieurwesen zog in ein neues Gebäude.
+no-sb-0110; Forschung; en forskning; ; B2; Bildung/Universität; Universitetet bruker mye penger på forskning.; Die Universität gibt viel Geld für Forschung aus.
+no-sb-0111; Wissenschaft; en vitenskap; ; B2; Bildung/Universität; Vitenskapen trenger åpne debatter og grundige metoder.; Die Wissenschaft braucht offene Debatten und sorgfältige Methoden.
+no-sb-0112; Wissenschaftler; en forsker; en vitenskapsmann; B2; Bildung/Universität; Forskeren presenterte resultatene sine på en stor konferanse.; Der Wissenschaftler stellte seine Ergebnisse auf einer Konferenz vor.
+no-sb-0113; Vorlesungsverzeichnis; en emnekatalog; en kurskatalog; B2; Bildung/Universität; Emnekatalogen for neste semester er nå tilgjengelig på nett.; Das Vorlesungsverzeichnis für das nächste Semester ist jetzt online.
+no-sb-0114; Prüfungsordnung; et eksamensreglement; ; B2; Bildung/Universität; Les eksamensreglementet før du melder deg på.; Lies die Prüfungsordnung, bevor du dich anmeldest.
+no-sb-0115; Leistungspunkt; et studiepoeng; ; B2; Bildung/Universität; Dette seminaret gir deg fem studiepoeng.; Dieses Seminar bringt fünf Leistungspunkte.
+no-sb-0116; Pflichtfach; et obligatorisk fag; ; B2; Bildung/Universität; Statistikk er et obligatorisk fag på dette studiet.; Statistik ist in diesem Studiengang ein Pflichtfach.
+no-sb-0117; Wahlfach; et valgfag; ; B2; Bildung/Universität; Hun valgte spansk som valgfag dette semesteret.; Sie wählte dieses Semester Spanisch als Wahlfach.
+no-sb-0118; Weiterbildung; en videreutdanning; en etterutdanning; B2; Bildung/Lernen; Firmaet betaler for kurs som er en del av videreutdanningen.; Die Firma bezahlt Kurse zur Weiterbildung.
+no-sb-0119; Fernstudium; et fjernstudium; ; B2; Bildung/Universität; Med et fjernstudium kan du studere ved siden av jobben.; Ein Fernstudium lässt dich neben dem Beruf studieren.
+no-sb-0120; Praktikum; en praksisplass; et praksisopphold; B2; Bildung/Universität; Han fikk en praksisplass på et ingeniørkontor.; Er machte ein Praktikum in einem Ingenieurbüro.
+no-sb-0121; Bewerbung; en søknad; ; B2; Bildung/Universität; Søknaden hennes til masterstudiet ble godkjent.; Ihre Bewerbung für den Masterstudiengang war erfolgreich.
+no-sb-0122; Lebenslauf; en CV; ; B2; Bildung/Universität; Legg ved CV-en din i søknaden.; Bitte füge der Bewerbung deinen Lebenslauf bei.
+no-sb-0123; Zulassung (Studium); et opptak; ; B2; Bildung/Universität; Hun venter fortsatt på opptak til universitetet.; Sie wartet noch auf ihre Zulassung zur Universität.
+no-sb-0124; Einschreibung; en registrering; en innskriving; B2; Bildung/Universität; Fristen for registrering går ut midt i september.; Die Frist für die Einschreibung endet Mitte September.
+no-sb-0125; Abschlussfeier; en avslutningsseremoni; ; B2; Bildung/Universität; Hele familien kom til avslutningsseremonien hennes.; Die ganze Familie kam zu ihrer Abschlussfeier.
+no-sb-0126; Chancengleichheit; like muligheter; ; C1; Bildung/Bildungspolitik; Like muligheter i utdanningen er fortsatt et fjernt mål.; Chancengleichheit in der Bildung bleibt ein fernes Ziel.
+no-sb-0127; Bildungspolitik; en utdanningspolitikk; ; C1; Bildung/Bildungspolitik; Utdanningspolitikk blir bestemt av Stortinget og regjeringen.; Bildungspolitik wird vom Parlament und der Regierung entschieden.
+no-sb-0128; Analphabetismus; en analfabetisme; ; C1; Bildung/Bildungspolitik; Analfabetismen blant voksne er mer utbredt enn man tror.; Der Analphabetismus unter Erwachsenen ist verbreiteter als gedacht.
+no-sb-0129; lebenslanges Lernen; livslang læring; ; C1; Bildung/Lernen; Livslang læring har blitt uunnværlig i moderne yrker.; Lebenslanges Lernen ist in modernen Berufen unverzichtbar geworden.
+no-sb-0130; Hochschulreife; generell studiekompetanse; ; C1; Bildung/Schule/Prüfungen; Generell studiekompetanse åpner veien til universitetet.; Die Hochschulreife öffnet den Weg zur Universität.
+no-sb-0131; Habilitation; en habilitering; ; C1; Bildung/Universität; I Tyskland krever en professorstilling ofte en habilitering.; In Deutschland erfordert eine Professur oft eine Habilitation.
+no-sb-0132; Gutachten; en sakkyndig uttalelse; en ekspertuttalelse; C1; Bildung/Universität; Kommisjonen ba om en sakkyndig uttalelse om arbeidet.; Die Kommission forderte ein Gutachten über die Arbeit an.
+no-sb-0133; Lehrstuhl; et professorat; en professorstilling; C1; Bildung/Universität; Hun fikk tilbud om et professorat i anvendt fysikk.; Ihr wurde ein Lehrstuhl für angewandte Physik angeboten.
+no-sb-0134; Studienabbrecher; en som avbryter studiene; ; C1; Bildung/Universität; Mange som avbryter studiene, lykkes senere i praktiske yrker.; Viele, die ihr Studium abbrechen, sind später in praktischen Berufen erfolgreich.
+no-sb-0135; Leistungsdruck; et prestasjonspress; ; C1; Bildung/Schule/Prüfungen; Prestasjonspresset begynner tidlig for mange elever.; Der Leistungsdruck beginnt für viele Schüler früh.
+no-sb-0136; Begabtenförderung; oppfølging av begavede elever; ; C1; Bildung/Bildungspolitik; Oppfølging av begavede elever varierer mye mellom skolene.; Die Begabtenförderung unterscheidet sich stark zwischen den Schulen.
+no-sb-0137; Durchfallquote; en strykprosent; ; C1; Bildung/Schule/Prüfungen; Strykprosenten på denne eksamenen er bemerkelsesverdig høy.; Die Durchfallquote in dieser Prüfung ist bemerkenswert hoch.
+no-sb-0138; Anwesenheitspflicht; obligatorisk oppmøte; en møteplikt; C1; Bildung/Universität; På noen seminarer er det obligatorisk oppmøte, på andre ikke.; In manchen Seminaren gilt Anwesenheitspflicht, in anderen nicht.
+no-sb-0139; Lernstrategie; en læringsstrategi; en studiestrategi; C1; Bildung/Lernen; En god læringsstrategi sparer tid før eksamen.; Eine gute Lernstrategie spart Zeit vor Prüfungen.
+no-sb-0140; Wissensvermittlung; en kunnskapsformidling; ; C1; Bildung/Lernen; God undervisning er mer enn ren kunnskapsformidling.; Guter Unterricht ist mehr als reine Wissensvermittlung.
+no-sb-0141; Fachliteratur; en faglitteratur; ; C1; Bildung/Universität; Biblioteket tilbyr faglitteratur på førti språk.; Die Bibliothek bietet Fachliteratur in vierzig Sprachen.
+no-sb-0142; Plagiat; et plagiat; ; C1; Bildung/Universität; Programmet sjekker hver masteroppgave for plagiat.; Die Software prüft jede Abschlussarbeit auf Plagiate.
+no-sb-0143; Quellenangabe; en kildehenvisning; en kildeangivelse; C1; Bildung/Universität; Hvert sitat trenger en fullstendig og riktig kildehenvisning.; Jedes Zitat braucht eine vollständige und korrekte Quellenangabe.
+no-sb-0144; Bildungsbürgertum; et dannet borgerskap; ; C2; Bildung/Bildungspolitik; Det dannede borgerskapet preget det tyske kulturlivet.; Das Bildungsbürgertum prägte das deutsche Kulturleben.
+no-sb-0145; Elfenbeinturm; et elfenbenstårn; ; C2; Bildung/Universität; Forskere burde forlate elfenbenstårnet sitt oftere.; Forscher sollten den Elfenbeinturm öfter verlassen.
+no-sb-0146; Autodidakt; en autodidakt; en selvlærd; C2; Bildung/Lernen; Som autodidakt lærte han seg fire språk.; Als Autodidakt brachte er sich vier Sprachen bei.
+no-sb-0147; Koryphäe; en kapasitet; en autoritet; C2; Bildung/Universität; Hun regnes som en kapasitet på sitt fagfelt.; Sie gilt als Koryphäe auf ihrem Gebiet.
+no-sb-0148; Emeritierung; en emeritering; ; C2; Bildung/Universität; Også etter emeriteringen holdt han forelesninger.; Auch nach seiner Emeritierung hielt er weiter Vorlesungen.
+no-sb-0149; Wissbegierde; et vitebegjær; en kunnskapstørst; C2; Bildung/Lernen; Vitebegjæret hennes avtok aldri med årene.; Ihre Wissbegierde ließ mit dem Alter nie nach.
+no-sb-0150; Gelehrsamkeit; en lærdom; ; C2; Bildung/Lernen; Lærdommen hans imponerte selv de eldre professorene.; Seine Gelehrsamkeit beeindruckte selbst die älteren Professoren.

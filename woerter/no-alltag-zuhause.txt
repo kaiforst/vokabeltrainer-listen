@@ -1,0 +1,152 @@
+# Norwegisch: Alltag & Zuhause
+id; Deutsch; Norwegisch; Weitere Antworten; Niveau; Themen; Beispiel Norwegisch; Beispiel Deutsch
+no-al-0001; Wohnung; en leilighet; ; A1; Alltag/Zuhause/Räume; Vi leter etter en ny leilighet i sentrum.; Wir suchen eine neue Wohnung in der Stadt.
+no-al-0002; Haus; et hus; ; A1; Alltag/Zuhause/Räume; Huset deres har en liten hage bak.; Ihr Haus hat einen kleinen Garten dahinter.
+no-al-0003; Zimmer; et rom; ; A1; Alltag/Zuhause/Räume; Rommet mitt er lite, men veldig lyst.; Mein Zimmer ist klein, aber sehr hell.
+no-al-0004; Küche; et kjøkken; ; A1; Alltag/Zuhause/Räume; Vi spiser frokost på kjøkkenet hver morgen.; Wir frühstücken jeden Morgen in der Küche.
+no-al-0005; Badezimmer; et bad; et baderom; A1; Alltag/Zuhause/Räume; Badet ligger ved siden av soverommet.; Das Badezimmer ist neben dem Schlafzimmer.
+no-al-0006; Fenster; et vindu; ; A1; Alltag/Zuhause/Räume; Åpne vinduet, for det er varmt her.; Bitte öffne das Fenster, weil es warm ist.
+no-al-0007; Tür; ei dør; en dør; A1; Alltag/Zuhause/Räume; Lukk døra stille bak deg, takk.; Bitte schließ die Tür leise hinter dir.
+no-al-0008; Schlafzimmer; et soverom; ; A2; Alltag/Zuhause/Räume; Soverommet vårt ligger i andre etasje.; Unser Schlafzimmer ist im ersten Stock.
+no-al-0009; Wohnzimmer; ei stue; en stue; A2; Alltag/Zuhause/Räume; Vi ser på tv sammen i stua.; Wir sehen zusammen im Wohnzimmer fern.
+no-al-0010; Balkon; en balkong; ; A2; Alltag/Zuhause/Räume; Om sommeren spiser vi middag på balkongen.; Im Sommer essen wir auf dem Balkon zu Abend.
+no-al-0011; Keller; en kjeller; ; A2; Alltag/Zuhause/Räume; De gamle syklene står nede i kjelleren.; Die alten Fahrräder stehen unten im Keller.
+no-al-0012; Treppe; ei trapp; en trapp; A2; Alltag/Zuhause/Räume; Ta trappa opp til andre etasje.; Nimm die Treppe hinauf in den zweiten Stock.
+no-al-0013; Wand; en vegg; ; A2; Alltag/Zuhause/Räume; Vi har malt veggen lyseblå i helgen.; Wir haben die Wand hellblau gestrichen.
+no-al-0014; Flur; en gang; en entré; B1; Alltag/Zuhause/Räume; Skoene dine står i gangen ved siden av døra.; Deine Schuhe stehen im Flur neben der Tür.
+no-al-0015; Dachboden; et loft; ; B1; Alltag/Zuhause/Räume; Gamle pappesker ligger oppe på loftet.; Alte Kartons lagern oben auf dem Dachboden.
+no-al-0016; Decke (im Zimmer); et tak; ; B1; Alltag/Zuhause/Räume; Lampen henger i taket over bordet.; Die Lampe hängt von der Decke über dem Tisch.
+no-al-0017; Arbeitszimmer; et arbeidsrom; et arbeidsværelse; B1; Alltag/Zuhause/Räume; Han jobber hjemme på det rolige arbeidsrommet sitt.; Er arbeitet zu Hause in seinem ruhigen Arbeitszimmer.
+no-al-0018; Abstellraum; et pulterrom; ; B2; Alltag/Zuhause/Räume; Støvsugeren står inne på pulterommet ved kjøkkenet.; Der Staubsauger steht im Abstellraum.
+no-al-0019; Dachgeschoss; en loftsetasje; ; B2; Alltag/Zuhause/Räume; De har bygd om loftsetasjen til en lys leilighet.; Sie haben das Dachgeschoss in eine helle Wohnung umgebaut.
+no-al-0020; Altbau; en gammel bygård; ; B2; Alltag/Zuhause/Räume; Hun elsker de høye takene i den gamle bygården sin.; Sie liebt die hohen Decken in ihrem Altbau.
+no-al-0021; Tisch; et bord; ; A1; Alltag/Zuhause/Möbel; Nøklene ligger på bordet på kjøkkenet.; Die Schlüssel liegen auf dem Tisch in der Küche.
+no-al-0022; Stuhl; en stol; ; A1; Alltag/Zuhause/Möbel; Denne stolen er ikke veldig behagelig.; Dieser Stuhl ist nicht sehr bequem.
+no-al-0023; Bett; ei seng; en seng; A1; Alltag/Zuhause/Möbel; Jeg går i seng klokka ti.; Ich gehe um zehn Uhr ins Bett.
+no-al-0024; Lampe; ei lampe; en lampe; A1; Alltag/Zuhause/Möbel; Slå på lampa når det blir mørkt.; Mach die Lampe an, wenn es dunkel wird.
+no-al-0025; Sofa; en sofa; ; A2; Alltag/Zuhause/Möbel; Katten sover på sofaen igjen i dag.; Die Katze schläft schon wieder auf dem Sofa.
+no-al-0026; Schrank; et skap; ; A2; Alltag/Zuhause/Möbel; Heng jakka di i skapet, takk.; Häng deine Jacke bitte in den Schrank.
+no-al-0027; Regal; ei hylle; en hylle; A2; Alltag/Zuhause/Möbel; Bøkene står i hylla ved vinduet.; Die Bücher stehen im Regal am Fenster.
+no-al-0028; Teppich; et teppe; ; A2; Alltag/Zuhause/Möbel; Det nye teppet gjør rommet varmt og koselig.; Der neue Teppich lässt den Raum warm wirken.
+no-al-0029; Spiegel; et speil; ; A2; Alltag/Zuhause/Möbel; Hun så på seg selv i speilet.; Sie betrachtete sich im Spiegel.
+no-al-0030; Kissen; ei pute; en pute; A2; Alltag/Zuhause/Möbel; Han la en myk pute på stolen.; Er legte ein weiches Kissen auf den Stuhl.
+no-al-0031; Sessel; en lenestol; ; B1; Alltag/Zuhause/Möbel; Bestefar leser avisen i den gamle lenestolen.; Opa liest seine Zeitung im alten Sessel.
+no-al-0032; Vorhang; en gardin; ; B1; Alltag/Zuhause/Möbel; Hun åpnet gardinen for å slippe inn lys.; Sie öffnete den Vorhang, um Licht hereinzulassen.
+no-al-0033; Schublade; ei skuff; en skuff; B1; Alltag/Zuhause/Möbel; Saksa ligger i den øverste skuffen.; Die Schere liegt in der obersten Schublade.
+no-al-0034; Matratze; en madrass; ; B1; Alltag/Zuhause/Möbel; En god madrass er viktig for ryggen.; Eine gute Matratze ist wichtig für den Rücken.
+no-al-0035; Bettdecke; ei dyne; en dyne; B2; Alltag/Zuhause/Möbel; Om vinteren trenger jeg en tykkere dyne.; Im Winter brauche ich eine dickere Bettdecke.
+no-al-0036; Kommode; en kommode; ; B2; Alltag/Zuhause/Möbel; Sokkene ligger i kommoden ved siden av sengen.; Die Socken sind in der Kommode.
+no-al-0037; Kühlschrank; et kjøleskap; ; A1; Alltag/Zuhause/Küche; Det er fersk melk i kjøleskapet.; Im Kühlschrank ist frische Milch.
+no-al-0038; Messer; en kniv; ; A1; Alltag/Zuhause/Küche; Pass på, denne kniven er veldig skarp.; Vorsicht, dieses Messer ist sehr scharf.
+no-al-0039; Gabel; ei gaffel; en gaffel; A1; Alltag/Zuhause/Küche; Han spiser salaten med en gaffel.; Er isst den Salat mit einer Gabel.
+no-al-0040; Löffel; ei skje; en skje; A1; Alltag/Zuhause/Küche; Til suppa trenger du en skje.; Für die Suppe brauchst du einen Löffel.
+no-al-0041; Teller; en tallerken; ; A1; Alltag/Zuhause/Küche; Vil du sette tallerkenene på bordet, takk?; Stell bitte die Teller auf den Tisch.
+no-al-0042; Tasse; en kopp; ; A1; Alltag/Zuhause/Küche; Vil du ha en kopp te?; Möchtest du eine Tasse Tee?
+no-al-0043; Glas; et glass; ; A2; Alltag/Zuhause/Küche; Hun drikker et glass vann hver morgen.; Sie trinkt jeden Morgen ein Glas Wasser.
+no-al-0044; Herd; en komfyr; ; A2; Alltag/Zuhause/Küche; Suppa står fortsatt på komfyren og koker.; Die Suppe steht noch auf dem Herd.
+no-al-0045; Backofen; en stekeovn; en ovn; A2; Alltag/Zuhause/Küche; Kaken må steke en time i stekeovnen.; Der Kuchen muss im Backofen backen.
+no-al-0046; Mikrowelle; en mikrobølgeovn; ; A2; Alltag/Zuhause/Küche; Han varmet opp risen i mikrobølgeovnen.; Er hat den Reis in der Mikrowelle aufgewärmt.
+no-al-0047; Topf; ei gryte; en gryte; A2; Alltag/Zuhause/Küche; Vannet i den store gryten koker allerede.; Das Wasser im Topf kocht.
+no-al-0048; Pfanne; ei steikepanne; en steikepanne; A2; Alltag/Zuhause/Küche; Hun steker eggene i en varm steikepanne.; Sie brät die Eier in einer heißen Pfanne.
+no-al-0049; Spülmaschine; en oppvaskmaskin; ; A2; Alltag/Zuhause/Küche; Sett tallerkenen din i oppvaskmaskinen, takk.; Stell deinen Teller bitte in die Spülmaschine.
+no-al-0050; Wasserkocher; en vannkoker; ; B1; Alltag/Zuhause/Küche; Vannkokeren koker vann på to minutter.; Der Wasserkocher kocht Wasser in zwei Minuten.
+no-al-0051; Gefrierschrank; en fryser; et fryseskap; B1; Alltag/Zuhause/Küche; Det er fortsatt pizza i fryseren.; Im Gefrierschrank ist noch Pizza.
+no-al-0052; Schüssel; ei skål; en skål; B1; Alltag/Zuhause/Küche; Bland mel og egg i en skål.; Vermische Mehl und Eier in einer Schüssel.
+no-al-0053; Wasserhahn; en kran; en vannkran; B1; Alltag/Zuhause/Küche; Skru igjen kranen mens du pusser tennene.; Dreh den Wasserhahn beim Zähneputzen zu.
+no-al-0054; Besteck; et bestikk; ; B1; Alltag/Zuhause/Küche; Bestikket legges i den venstre skuffen.; Das Besteck kommt in die linke Schublade.
+no-al-0055; Geschirr; en oppvask; ; B1; Alltag/Zuhause/Küche; Hvem skal ta oppvasken i dag?; Wer muss heute das Geschirr spülen?
+no-al-0056; Spüle; en kjøkkenvask; en vask; B2; Alltag/Zuhause/Küche; De skitne koppene står fortsatt i kjøkkenvasken.; Die schmutzigen Tassen stehen noch in der Spüle.
+no-al-0057; Dosenöffner; en hermetikkåpner; ; B2; Alltag/Zuhause/Küche; Jeg finner ikke hermetikkåpneren noe sted.; Ich kann den Dosenöffner nirgends finden.
+no-al-0058; Küchenmaschine; en kjøkkenmaskin; ; B2; Alltag/Zuhause/Küche; Kjøkkenmaskinen hakker grønnsakene på få sekunder.; Die Küchenmaschine zerkleinert das Gemüse in Sekunden.
+no-al-0059; sauber; ren; ; A1; Alltag/Zuhause/Haushalt; Kjøkkenet er endelig rent igjen etter festen.; Die Küche ist endlich wieder sauber.
+no-al-0060; schmutzig; skitten; ; A1; Alltag/Zuhause/Haushalt; Skoene mine er skitne fra hagen.; Meine Schuhe sind schmutzig vom Garten.
+no-al-0061; waschen; å vaske; ; A2; Alltag/Zuhause/Haushalt; Jeg vasker klærne mine på lørdager.; Ich wasche meine Kleidung samstags.
+no-al-0062; Waschmaschine; en vaskemaskin; ; A2; Alltag/Zuhause/Haushalt; Vaskemaskinen går nede i kjelleren hele dagen.; Die Waschmaschine läuft im Keller.
+no-al-0063; putzen; å gjøre rent; å rengjøre; A2; Alltag/Zuhause/Haushalt; Vi skal gjøre rent hele leiligheten hver lørdag.; Wir putzen jeden Samstag die ganze Wohnung.
+no-al-0064; aufräumen; å rydde; å rydde opp; A2; Alltag/Zuhause/Haushalt; Du må rydde rommet ditt før middag.; Räum bitte vor dem Abendessen dein Zimmer auf.
+no-al-0065; Müll; et søppel; ; A2; Alltag/Zuhause/Haushalt; Kan du ta ut søppelet, er du snill?; Kannst du bitte den Müll rausbringen?
+no-al-0066; Mülleimer; en søppelkasse; en søppelbøtte; A2; Alltag/Zuhause/Haushalt; Søppelkassen på kjøkkenet er full igjen.; Der Mülleimer in der Küche ist schon wieder voll.
+no-al-0067; Handtuch; et håndkle; ; A2; Alltag/Zuhause/Haushalt; Det henger et rent håndkle på badet.; Im Badezimmer hängt ein frisches Handtuch.
+no-al-0068; Heizung; et varmeanlegg; ; A2; Alltag/Zuhause/Haushalt; Slå på varmeanlegget, for det er kaldt.; Mach die Heizung an, weil es kalt ist.
+no-al-0069; bügeln; å stryke; ; B1; Alltag/Zuhause/Haushalt; Han stryker skjortene sine søndag kveld.; Er bügelt seine Hemden am Sonntagabend.
+no-al-0070; Staubsauger; en støvsuger; ; B1; Alltag/Zuhause/Haushalt; Denne støvsugeren låter altfor høyt for meg.; Der Staubsauger ist viel zu laut.
+no-al-0071; Besen; en kost; ; B1; Alltag/Zuhause/Haushalt; Hun feier terrassen med en gammel kost.; Sie fegt die Terrasse mit einem alten Besen.
+no-al-0072; Eimer; en bøtte; ; B1; Alltag/Zuhause/Haushalt; Fyll bøtta med varmt vann, takk.; Füll den Eimer bitte mit warmem Wasser.
+no-al-0073; Staub; et støv; ; B1; Alltag/Zuhause/Haushalt; Det ligger mye støv under sengen.; Unter dem Bett liegt viel Staub.
+no-al-0074; Fleck; en flekk; ; B1; Alltag/Zuhause/Haushalt; Det er en kaffeflekk på duken.; Auf der Tischdecke ist ein Kaffeefleck.
+no-al-0075; Hausarbeit (Haushalt); et husarbeid; ; B1; Alltag/Zuhause/Haushalt; Vi deler husarbeidet rettferdig mellom oss.; Wir teilen uns die Hausarbeit gerecht auf.
+no-al-0076; Trockner; en tørketrommel; ; B1; Alltag/Zuhause/Haushalt; Legg de våte håndklærne i tørketrommelen.; Leg die nassen Handtücher in den Trockner.
+no-al-0077; Waschmittel; et vaskemiddel; ; B2; Alltag/Zuhause/Haushalt; Vi er tomme for vaskemiddel igjen.; Das Waschmittel ist schon wieder alle.
+no-al-0078; Putzmittel; et rengjøringsmiddel; ; B2; Alltag/Zuhause/Haushalt; Dette rengjøringsmiddelet virker bra på glass.; Dieses Putzmittel wirkt gut auf Glas.
+no-al-0079; Unordnung; et rot; en uorden; B2; Alltag/Zuhause/Haushalt; Etter festen var det stort rot på kjøkkenet.; Nach der Party herrschte in der Küche große Unordnung.
+no-al-0080; fegen; å feie; ; B2; Alltag/Zuhause/Haushalt; Han feier bladene av trappen hver høst.; Er fegt die Blätter von den Stufen.
+no-al-0081; wischen; å moppe; ; B2; Alltag/Zuhause/Haushalt; Hun mopper kjøkkengulvet hjemme hos oss hver uke.; Sie wischt jede Woche den Küchenboden.
+no-al-0082; Glühbirne; ei lyspære; en lyspære; B2; Alltag/Zuhause/Haushalt; Lyspæra i gangen må skiftes ut.; Die Glühbirne im Flur muss ausgetauscht werden.
+no-al-0083; Steckdose; en stikkontakt; ; B2; Alltag/Zuhause/Haushalt; Er det en stikkontakt bak sofaen?; Gibt es hinter dem Sofa eine Steckdose?
+no-al-0084; Weichspüler; en tøymykner; ; C1; Alltag/Zuhause/Haushalt; Denne tøymykneren lukter friskt av lavendel.; Dieser Weichspüler riecht nach frischem Lavendel.
+no-al-0085; Mülltrennung; en kildesortering; ; C1; Alltag/Zuhause/Haushalt; Kildesortering tas veldig alvorlig i Tyskland.; Mülltrennung wird in Deutschland sehr ernst genommen.
+no-al-0086; Schimmel; en mugg; en skimmel; C1; Alltag/Zuhause/Haushalt; Vi fant mugg bak skapet på badet.; Wir haben hinter dem Badezimmerschrank Schimmel gefunden.
+no-al-0087; verstopft; tett; tilstoppet; C1; Alltag/Zuhause/Haushalt; Sluket i dusjen er tett igjen.; Der Abfluss in der Dusche ist wieder verstopft.
+no-al-0088; undicht; lekk; utett; C1; Alltag/Zuhause/Haushalt; Den gamle kranen er lekk og drypper hele natten.; Der alte Wasserhahn ist undicht und tropft die ganze Nacht.
+no-al-0089; Sicherung (Strom); en sikring; ; C1; Alltag/Zuhause/Haushalt; Sikringen røk da jeg slo på stekeovnen.; Die Sicherung flog raus, als ich den Backofen anmachte.
+no-al-0090; entrümpeln; å rydde ut; ; C2; Alltag/Zuhause/Haushalt; Vi vil rydde ut kjelleren i helgen.; Wir wollen am Wochenende den Keller entrümpeln.
+no-al-0091; Werkzeug; et verktøy; ; A2; Alltag/Zuhause/Werkzeug; Til dette arbeidet trenger du riktig verktøy.; Für diese Arbeit brauchst du das richtige Werkzeug.
+no-al-0092; Hammer; en hammer; ; A2; Alltag/Zuhause/Werkzeug; Han slo inn spikeren med hammeren.; Er schlug den Nagel mit dem Hammer ein.
+no-al-0093; reparieren; å reparere; å fikse; B1; Alltag/Zuhause/Werkzeug; Faren min kan reparere nesten alt selv.; Mein Vater kann fast alles selbst reparieren.
+no-al-0094; Leiter (zum Steigen); en stige; ; B1; Alltag/Zuhause/Werkzeug; Hold stigen fast mens jeg klatrer opp.; Halt die Leiter fest, während ich hinaufsteige.
+no-al-0095; Nagel; en spiker; ; B1; Alltag/Zuhause/Werkzeug; Bildet henger på en liten spiker.; Das Bild hängt an einem kleinen Nagel.
+no-al-0096; Schraube; ei skrue; en skrue; B1; Alltag/Zuhause/Werkzeug; Denne skruen er løs og må strammes.; Diese Schraube ist locker und muss angezogen werden.
+no-al-0097; Schraubenzieher; en skrutrekker; ; B2; Alltag/Zuhause/Werkzeug; Gi meg den lille skrutrekkeren, takk.; Gib mir bitte den kleinen Schraubenzieher.
+no-al-0098; Bohrmaschine; ei boremaskin; en boremaskin; B2; Alltag/Zuhause/Werkzeug; Han lånte en boremaskin av naboen.; Er hat sich eine Bohrmaschine vom Nachbarn geliehen.
+no-al-0099; Säge; ei sag; en sag; B2; Alltag/Zuhause/Werkzeug; Med en skarp sag går arbeidet raskt.; Mit einer scharfen Säge geht die Arbeit schnell.
+no-al-0100; Zange; ei tang; en tang; B2; Alltag/Zuhause/Werkzeug; Han trakk ut den gamle spikeren med tanga.; Er zog den alten Nagel mit der Zange heraus.
+no-al-0101; Maßband; et målebånd; ; B2; Alltag/Zuhause/Werkzeug; Mål opp veggen først med målebåndet.; Miss die Wand zuerst mit dem Maßband aus.
+no-al-0102; Wasserwaage; et vater; en vaterpass; C1; Alltag/Zuhause/Werkzeug; Bruk et vater for å henge hyllen rett.; Benutz eine Wasserwaage, um das Regal gerade aufzuhängen.
+no-al-0103; Akkuschrauber; en batteridrevet skrutrekker; ; C1; Alltag/Zuhause/Werkzeug; Den batteridrevne skrutrekkeren gjør det mye lettere å bygge møbler.; Der Akkuschrauber macht das Möbelaufbauen viel leichter.
+no-al-0104; Dübel; en veggplugg; en plugg; C2; Alltag/Zuhause/Werkzeug; Uten en veggplugg holder ikke skruen i veggen.; Ohne Dübel hält die Schraube nicht.
+no-al-0105; Garten; en hage; ; A1; Alltag/Zuhause/Garten; Barna leker ute i hagen etter skolen.; Die Kinder spielen im Garten.
+no-al-0106; Blume; en blomst; ; A1; Alltag/Zuhause/Garten; Hun plukket en blomst til moren sin.; Sie pflückte eine Blume für ihre Mutter.
+no-al-0107; Baum; et tre; ; A2; Alltag/Zuhause/Garten; Det står et gammelt tre i hagen vår.; In unserem Garten steht ein alter Apfelbaum.
+no-al-0108; gießen (Pflanzen); å vanne; ; A2; Alltag/Zuhause/Garten; Kan du vanne plantene mens jeg er borte?; Gieß bitte die Pflanzen, während ich weg bin.
+no-al-0109; Rasen; en plen; ; B1; Alltag/Zuhause/Garten; Plenen må klippes annenhver uke om sommeren.; Der Rasen muss alle zwei Wochen gemäht werden.
+no-al-0110; Zaun; et gjerde; ; B1; Alltag/Zuhause/Garten; Et hvitt gjerde går rundt hagen.; Ein weißer Zaun verläuft um den Garten.
+no-al-0111; Terrasse; en terrasse; ; B1; Alltag/Zuhause/Garten; Vi drakk kaffe på den solfulle terrassen.; Wir tranken Kaffee auf der sonnigen Terrasse.
+no-al-0112; pflanzen; å plante; ; B1; Alltag/Zuhause/Garten; Hver vår planter vi nye tomater i hagen.; Wir pflanzen jedes Frühjahr frische Tomaten im Garten.
+no-al-0113; Rasenmäher; en gressklipper; ; B2; Alltag/Zuhause/Garten; Gressklipperen vår lager en rar lyd.; Der Rasenmäher macht ein seltsames Geräusch.
+no-al-0114; Hecke; en hekk; ; B2; Alltag/Zuhause/Garten; Hekken mellom hagene har vokst seg høy.; Die Hecke zwischen den Gärten ist hoch gewachsen.
+no-al-0115; Beet; et blomsterbed; et bed; B2; Alltag/Zuhause/Garten; Hun plantet roser i blomsterbedet foran huset.; Sie pflanzte Rosen ins Beet.
+no-al-0116; Schuppen; et skur; ; B2; Alltag/Zuhause/Garten; Verktøyet blir oppbevart i skuret bak huset.; Die Werkzeuge werden im Schuppen aufbewahrt.
+no-al-0117; Unkraut; et ugress; ; B2; Alltag/Zuhause/Garten; Ugresset i hagen vokser fortere enn grønnsakene.; Das Unkraut wächst schneller als das Gemüse.
+no-al-0118; ernten; å høste; å plukke; B2; Alltag/Zuhause/Garten; Om høsten høster vi epler og pærer.; Im Herbst ernten wir Äpfel und Birnen.
+no-al-0119; mähen; å slå gresset; å klippe plenen, å klippe gresset; B2; Alltag/Zuhause/Garten; Han slår gresset hver lørdag morgen.; Er mäht jeden Samstagmorgen den Rasen.
+no-al-0120; Gewächshaus; et drivhus; ; C1; Alltag/Zuhause/Garten; Agurker vokser godt i det varme drivhuset.; Gurken wachsen gut im warmen Gewächshaus.
+no-al-0121; Schubkarre; ei trillebår; en trillebår; C1; Alltag/Zuhause/Garten; Han dyttet den tunge trillebåra gjennom hagen.; Er schob die schwere Schubkarre durch den Garten.
+no-al-0122; säen; å så; ; C1; Alltag/Zuhause/Garten; I mars sår vi de første frøene.; Im März säen wir die ersten Samen.
+no-al-0123; Spaten; ei spade; en spade; C1; Alltag/Zuhause/Garten; Å grave med spaden er hardt arbeid.; Mit dem Spaten zu graben ist harte Arbeit.
+no-al-0124; Gartenschere; ei hagesaks; en hagesaks; C1; Alltag/Zuhause/Garten; Hun klippet rosene med hagesaksa si.; Sie schnitt die Rosen mit ihrer Gartenschere.
+no-al-0125; jäten; å luke; ; C2; Alltag/Zuhause/Garten; Jeg har luket i blomsterbedene hele ettermiddagen.; Ich habe den ganzen Nachmittag die Beete gejätet.
+no-al-0126; düngen; å gjødsle; ; C2; Alltag/Zuhause/Garten; Du bør gjødsle rosene to ganger i året.; Du solltest die Rosen zweimal im Jahr düngen.
+no-al-0127; aufstehen (morgens, aus dem Bett); å stå opp; ; A1; Alltag/Zuhause/Tagesablauf; Jeg står opp klokka sju hver morgen.; Ich stehe jeden Morgen um sieben auf.
+no-al-0128; frühstücken; å spise frokost; ; A1; Alltag/Zuhause/Tagesablauf; På søndager spiser vi frokost sammen.; Sonntags frühstücken wir zusammen.
+no-al-0129; kochen; å lage mat; ; A1; Alltag/Zuhause/Tagesablauf, Alltag/Essen/Kochen; I kveld lager jeg pasta til hele familien.; Heute Abend koche ich Pasta für die ganze Familie.
+no-al-0130; einkaufen; å handle; ; A1; Alltag/Zuhause/Tagesablauf, Alltag/Einkaufen/Geschäfte; Vi handler på Rema 1 hver fredag.; Wir kaufen jeden Freitag bei Rema 1 ein.
+no-al-0131; duschen; å dusje; å ta en dusj; A2; Alltag/Zuhause/Tagesablauf; Han dusjer fort før han går på jobb.; Er duscht schnell, bevor er zur Arbeit geht.
+no-al-0132; aufwachen; å våkne; ; A2; Alltag/Zuhause/Tagesablauf; Jeg våkner tidlig selv i helgene.; Ich wache sogar am Wochenende früh auf.
+no-al-0133; sich anziehen; å kle på seg; å kle seg; A2; Alltag/Zuhause/Tagesablauf; Kle på deg fort, for vi skal snart dra.; Zieh dich schnell an, weil wir gleich losfahren.
+no-al-0134; Wecker; ei vekkerklokke; en vekkerklokke; A2; Alltag/Zuhause/Tagesablauf; Vekkerklokka mi ringer klokka halv sju.; Mein Wecker klingelt um halb sieben.
+no-al-0135; einschlafen; å sovne; å falle i søvn; B1; Alltag/Zuhause/Tagesablauf; Hun har sovnet foran fjernsynet i stua.; Sie ist im Wohnzimmer vor dem Fernseher eingeschlafen.
+no-al-0136; Tagesablauf; en dagsrutine; en dagsrytme; B1; Alltag/Zuhause/Tagesablauf; En fast dagsrutine hjelper små barn veldig mye.; Ein fester Tagesablauf hilft kleinen Kindern sehr.
+no-al-0137; den Tisch decken; å dekke bordet; å dekke på; B1; Alltag/Zuhause/Tagesablauf; Kan du dekke bordet til fire personer?; Kannst du den Tisch für vier Personen decken?
+no-al-0138; Mittagsschlaf; en middagslur; en blund; B1; Alltag/Zuhause/Tagesablauf; Etter lunsj tar bestefar alltid en kort middagslur.; Nach dem Mittagessen macht Opa immer einen kurzen Mittagsschlaf.
+no-al-0139; sich beeilen; å skynde seg; ; B1; Alltag/Zuhause/Tagesablauf; Skynd deg, ellers mister vi bussen.; Beeil dich, sonst verpassen wir den Bus.
+no-al-0140; verschlafen; å sove over seg; å forsove seg; B2; Alltag/Zuhause/Tagesablauf; Han sov over seg og gikk glipp av det første møtet.; Er hat verschlafen und sein erstes Meeting verpasst.
+no-al-0141; ausschlafen; å sove lenge; å sove ut; B2; Alltag/Zuhause/Tagesablauf; På søndager sover vi gjerne lenge.; Sonntags schlafen wir gerne aus.
+no-al-0142; Gewohnheit; en vane; ; B2; Alltag/Zuhause/Tagesablauf; Å lese før jeg legger meg har blitt en fin vane.; Lesen vor dem Schlafen ist eine schöne Gewohnheit geworden.
+no-al-0143; pendeln; å pendle; ; C1; Alltag/Zuhause/Tagesablauf; Han pendler med toget til Oslo hver dag.; Er pendelt jeden Tag mit dem Zug nach Oslo.
+no-al-0144; Besorgungen machen; å ordne ærender; å gjøre ærender; C1; Alltag/Zuhause/Tagesablauf; Jeg må ordne noen ærender i byen.; Ich muss in der Stadt ein paar Besorgungen machen.
+no-al-0145; Feierabend; slutten av arbeidsdagen; arbeidsdagens slutt; C1; Alltag/Zuhause/Tagesablauf; Ved slutten av arbeidsdagen slår hun av datamaskinen.; Am Feierabend schaltet sie ihren Computer aus.
+no-al-0146; Morgenmuffel; en morgengretten person; ; C1; Alltag/Zuhause/Tagesablauf; Broren min er en skikkelig morgengretten person.; Mein Bruder ist ein echter Morgenmuffel.
+no-al-0147; aufschieben; å utsette; ; C1; Alltag/Zuhause/Tagesablauf; Ikke utsett rengjøringen til i morgen.; Schieb das Putzen nicht bis morgen auf.
+no-al-0148; trödeln; å somle; ; C2; Alltag/Zuhause/Tagesablauf; Ikke somle, vi må dra nå!; Trödel nicht, wir müssen jetzt los.
+no-al-0149; Alltagstrott; en hverdagslunk; ; C2; Alltag/Zuhause/Tagesablauf; En ferie hjelper oss å slippe unna hverdagslunken.; Ein Urlaub hilft, dem Alltagstrott zu entkommen.
+no-al-0150; verrichten; å utføre; ; C2; Alltag/Zuhause/Tagesablauf; Hun utfører husarbeidet uten å klage.; Sie verrichtet ihre Hausarbeit, ohne sich zu beschweren.

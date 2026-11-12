@@ -1,0 +1,152 @@
+# Norwegisch: Wirtschaft & Finanzen
+id; Deutsch; Norwegisch; Weitere Antworten; Niveau; Themen; Beispiel Norwegisch; Beispiel Deutsch
+no-wf-0001; Geld; penger; ; A1; Wirtschaft/Finanzen/Geld & Zahlung; Hvor mye penger har du med deg?; Wie viel Geld hast du dabei?
+no-wf-0002; kaufen; å kjøpe; ; A1; Wirtschaft/Finanzen/Markt & Handel; Vi vil kjøpe ferskt brød i dag.; Wir wollen heute frisches Brot kaufen.
+no-wf-0003; verkaufen; å selge; ; A1; Wirtschaft/Finanzen/Markt & Handel; Han vil selge den gamle bilen sin.; Er will sein altes Auto verkaufen.
+no-wf-0004; bezahlen; å betale; ; A1; Wirtschaft/Finanzen/Geld & Zahlung; Kan jeg betale med kort her?; Kann ich hier mit Karte bezahlen?
+no-wf-0005; Preis (Kosten); en pris; ; A1; Wirtschaft/Finanzen/Markt & Handel; Prisen på kaffe har gått opp igjen.; Der Preis für Kaffee ist wieder gestiegen.
+no-wf-0006; teuer; dyr; ; A1; Wirtschaft/Finanzen/Markt & Handel; Dette hotellet er for dyrt for oss.; Dieses Hotel ist zu teuer für uns.
+no-wf-0007; billig; billig; ; A1; Wirtschaft/Finanzen/Markt & Handel; Grønnsaker er billige på markedet i dag.; Gemüse ist heute auf dem Markt billig.
+no-wf-0008; Geschäft (Laden); en butikk; en forretning; A1; Wirtschaft/Finanzen/Markt & Handel; Butikken åpner klokka ni om morgenen.; Das Geschäft öffnet um neun Uhr morgens.
+no-wf-0009; arbeiten; å jobbe; å arbeide; A1; Wirtschaft/Finanzen/Arbeit & Einkommen; Hun jobber i en bank i Bergen.; Sie arbeitet in einer Bank in Bergen.
+no-wf-0010; Firma; et firma; ; A1; Wirtschaft/Finanzen/Unternehmen; Firmaet mitt har kontorer i tre byer.; Meine Firma hat Büros in drei Städten.
+no-wf-0011; Bank (Geldinstitut); en bank; ; A2; Wirtschaft/Finanzen/Bank; Banken stenger klokka fire om ettermiddagen.; Die Bank schließt um vier Uhr nachmittags.
+no-wf-0012; Konto; en konto; en bankkonto; A2; Wirtschaft/Finanzen/Bank; Jeg har åpnet en konto for datteren min.; Ich habe ein Konto für meine Tochter eröffnet.
+no-wf-0013; sparen; å spare; å spare penger; A2; Wirtschaft/Finanzen/Bank; Vi sparer penger til en lang ferie.; Wir sparen Geld für einen langen Urlaub.
+no-wf-0014; Kunde; en kunde; ; A2; Wirtschaft/Finanzen/Markt & Handel; Kunden spurte etter en mindre størrelse.; Der Kunde fragte nach einer kleineren Größe.
+no-wf-0015; Rechnung; en regning; en faktura; A2; Wirtschaft/Finanzen/Unternehmen; Vennligst send regningen innen slutten av måneden.; Bitte schicken Sie die Rechnung bis Ende des Monats.
+no-wf-0016; Wirtschaft; en økonomi; ; A2; Wirtschaft/Finanzen/Konjunktur; Økonomien vokser ganske langsomt i år.; Die Wirtschaft wächst dieses Jahr ziemlich langsam.
+no-wf-0017; Markt; et marked; et torg; A2; Wirtschaft/Finanzen/Markt & Handel; Markedet for elbiler vokser veldig raskt.; Der Markt für Elektroautos wächst sehr schnell.
+no-wf-0018; Angebot; et tilbud; ; A2; Wirtschaft/Finanzen/Markt & Handel; Tilbudet gjelder bare frem til fredag.; Das Angebot gilt nur bis einschließlich Freitag.
+no-wf-0019; verdienen; å tjene; ; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; Hun tjener gode penger som ingeniør.; Sie verdient als Ingenieurin gutes Geld.
+no-wf-0020; Gehalt; en lønn; ei lønn; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; Lønnen blir utbetalt på slutten av måneden.; Das Gehalt wird am Ende des Monats gezahlt.
+no-wf-0021; Lohn (Bezahlung); en lønn; ; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; Lønnen blir betalt ut kontant hver uke.; Der Lohn wird jede Woche bar ausgezahlt.
+no-wf-0022; Chef; en sjef; ; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; Sjefen min er på forretningsreise i dag.; Mein Chef ist heute auf Geschäftsreise.
+no-wf-0023; Mitarbeiter; en ansatt; en medarbeider; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; Firmaet har fått tjue nye ansatte i vår.; Die Firma stellte in diesem Frühjahr zwanzig neue Mitarbeiter ein.
+no-wf-0024; Beruf; et yrke; ; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; Pleie er et slitsomt, men viktig yrke.; Pflege ist ein anstrengender, aber wichtiger Beruf.
+no-wf-0025; Arbeitgeber; en arbeidsgiver; ; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; Arbeidsgiveren min betaler togbilletten til jobben.; Mein Arbeitgeber bezahlt das Zugticket zur Arbeit.
+no-wf-0026; Steuer; en skatt; ; A2; Wirtschaft/Finanzen/Steuern; Skatten på drivstoff gikk opp igjen i januar.; Die Steuer auf Kraftstoff stieg im Januar erneut.
+no-wf-0027; Kredit; et lån; en kreditt; A2; Wirtschaft/Finanzen/Bank; De tok opp et lån for å kjøpe huset.; Sie nahmen einen Kredit auf, um das Haus zu kaufen.
+no-wf-0028; Zinsen; renter; ; A2; Wirtschaft/Finanzen/Bank; Banken betaler veldig lite renter akkurat nå.; Die Bank zahlt im Moment sehr wenig Zinsen.
+no-wf-0029; Versicherung; en forsikring; ; A2; Wirtschaft/Finanzen/Geld & Zahlung; Forsikringen betalte for vannskaden i kjelleren.; Die Versicherung bezahlte den Wasserschaden im Keller.
+no-wf-0030; Bargeld; kontanter; ; A2; Wirtschaft/Finanzen/Geld & Zahlung; Jeg har aldri mye kontanter på meg.; Ich habe nie viel Bargeld dabei.
+no-wf-0031; Kasse; en kasse; ; A2; Wirtschaft/Finanzen/Markt & Handel; Det var en lang kø ved kassen.; An der Kasse gab es eine lange Schlange.
+no-wf-0032; Quittung; en kvittering; ; A2; Wirtschaft/Finanzen/Geld & Zahlung; Vennligst ta vare på kvitteringen på grunn av garantien.; Bitte bewahren Sie die Quittung für die Garantie auf.
+no-wf-0033; bestellen; å bestille; ; A2; Wirtschaft/Finanzen/Markt & Handel; Vi har bestilt nye stoler til kontoret.; Wir haben neue Stühle für das Büro bestellt.
+no-wf-0034; liefern; å levere; ; A2; Wirtschaft/Finanzen/Markt & Handel; Butikken leverer møbler innen fem dager.; Das Geschäft liefert Möbel innerhalb von fünf Tagen.
+no-wf-0035; Geldautomat; en minibank; en pengeautomat, en bankautomat; A2; Wirtschaft/Finanzen/Bank; Ved siden av supermarkedet er det en minibank.; Neben dem Supermarkt gibt es einen Geldautomaten.
+no-wf-0036; Unternehmen; en bedrift; et foretak; B1; Wirtschaft/Finanzen/Unternehmen; Bedriften har over fem hundre ansatte.; Das Unternehmen beschäftigt über fünfhundert Menschen.
+no-wf-0037; Unternehmer; en gründer; ; B1; Wirtschaft/Finanzen/Unternehmen; Gründeren åpnet sin tredje restaurant i år.; Der Unternehmer eröffnete dieses Jahr sein drittes Restaurant.
+no-wf-0038; gründen; å grunnlegge; å stifte; B1; Wirtschaft/Finanzen/Unternehmen; De grunnla firmaet for tjue år siden.; Sie gründeten die Firma vor zwanzig Jahren.
+no-wf-0039; Gewinn; en fortjeneste; en profitt; B1; Wirtschaft/Finanzen/Unternehmen; Fortjenesten doblet seg på bare to år.; Der Gewinn verdoppelte sich innerhalb von nur zwei Jahren.
+no-wf-0040; Verlust; et tap; ; B1; Wirtschaft/Finanzen/Unternehmen; Flyselskapet meldte om et stort tap dette kvartalet.; Die Fluggesellschaft meldete in diesem Quartal einen hohen Verlust.
+no-wf-0041; Umsatz; en omsetning; ; B1; Wirtschaft/Finanzen/Unternehmen; Omsetningen økte med ti prosent i fjor.; Der Umsatz wuchs letztes Jahr um zehn Prozent.
+no-wf-0042; Kosten; kostnader; utgifter; B1; Wirtschaft/Finanzen/Unternehmen; Kostnadene til energi steg kraftig igjen.; Die Kosten für Energie stiegen erneut stark.
+no-wf-0043; Einkommen; en inntekt; ; B1; Wirtschaft/Finanzen/Arbeit & Einkommen; Inntekten hennes avhenger av antall oppdrag.; Ihr Einkommen hängt von der Zahl der Aufträge ab.
+no-wf-0044; Einnahmen; inntekter; ; B1; Wirtschaft/Finanzen/Unternehmen; Museets inntekter kommer hovedsakelig fra billettsalg.; Die Einnahmen des Museums stammen hauptsächlich aus Eintrittskarten.
+no-wf-0045; Handel; en handel; ; B1; Wirtschaft/Finanzen/Markt & Handel; Handelen mellom de to landene vokser jevnt.; Der Handel zwischen den beiden Ländern wächst stetig.
+no-wf-0046; handeln (Handel treiben); å drive handel; å handle med; B1; Wirtschaft/Finanzen/Markt & Handel; Firmaet driver handel med kaffe og fine krydder.; Die Firma handelt mit Kaffee und feinen Gewürzen.
+no-wf-0047; exportieren; å eksportere; ; B1; Wirtschaft/Finanzen/Markt & Handel; Tyskland eksporterer maskiner til hele verden.; Deutschland exportiert Maschinen in die ganze Welt.
+no-wf-0048; importieren; å importere; ; B1; Wirtschaft/Finanzen/Markt & Handel; Vi importerer det meste av frukten fra Spania.; Wir importieren das meiste Obst aus Spanien.
+no-wf-0049; Lieferung; en levering; en leveranse; B1; Wirtschaft/Finanzen/Markt & Handel; Leveringen kom to dager tidligere enn planlagt.; Die Lieferung kam zwei Tage früher als geplant.
+no-wf-0050; Ware; en vare; ; B1; Wirtschaft/Finanzen/Markt & Handel; Varen blir kontrollert før den forlater fabrikken.; Die Ware wird geprüft, bevor sie das Werk verlässt.
+no-wf-0051; Lager (Waren); et lager; et varelager; B1; Wirtschaft/Finanzen/Markt & Handel; Lageret er alltid fullt før jul.; Das Lager ist vor Weihnachten immer voll.
+no-wf-0052; Nachfrage; en etterspørsel; ; B1; Wirtschaft/Finanzen/Markt & Handel; Etterspørselen etter varmepumper øker veldig raskt.; Die Nachfrage nach Wärmepumpen steigt schnell.
+no-wf-0053; Wettbewerb (Konkurrenz); en konkurranse; ; B1; Wirtschaft/Finanzen/Markt & Handel; Hard konkurranse holder prisene svært lave.; Starker Wettbewerb hält die Preise sehr niedrig.
+no-wf-0054; Konkurrent; en konkurrent; ; B1; Wirtschaft/Finanzen/Markt & Handel; Vår største konkurrent senket prisene sine i går.; Unser größter Konkurrent senkte gestern seine Preise.
+no-wf-0055; Rabatt; en rabatt; ; B1; Wirtschaft/Finanzen/Markt & Handel; Studenter får en rabatt på tjue prosent.; Studenten bekommen einen Rabatt von zwanzig Prozent.
+no-wf-0056; Schulden; gjeld; ; B1; Wirtschaft/Finanzen/Bank; Han betalte ned gjelden sin i løpet av tre år.; Er zahlte seine Schulden innerhalb von drei Jahren ab.
+no-wf-0057; leihen (jemandem etwas); å låne ut; å låne bort; B1; Wirtschaft/Finanzen/Bank; Jeg kan låne ut sykkelen min til deg i helga.; Ich kann dir mein Fahrrad am Wochenende leihen.
+no-wf-0058; überweisen; å overføre penger; ; B1; Wirtschaft/Finanzen/Bank; Jeg har overført penger til utleieren for husleien i dag.; Ich habe die Miete heute an den Vermieter überwiesen.
+no-wf-0059; Überweisung (Bank); en overføring; en bankoverføring; B1; Wirtschaft/Finanzen/Bank; Overføringen mellom bankene tar omtrent en virkedag.; Die Überweisung zwischen den Banken dauert ungefähr einen Werktag.
+no-wf-0060; abheben (Geld); å ta ut penger; å ta ut kontanter; B1; Wirtschaft/Finanzen/Bank; Hun tok ut penger i banken til reisen.; Sie hob für die Reise Geld bei der Bank ab.
+no-wf-0061; einzahlen; å sette inn penger; ; B1; Wirtschaft/Finanzen/Bank; Han setter inn penger på kontoen hver eneste måned.; Er zahlt jeden einzelnen Monat einen kleinen Betrag ein.
+no-wf-0062; Aktie; en aksje; ; B1; Wirtschaft/Finanzen/Investieren & Börse; Aksjen mistet fem prosent av verdien sin.; Die Aktie verlor fünf Prozent ihres Wertes.
+no-wf-0063; Börse; en børs; ; B1; Wirtschaft/Finanzen/Investieren & Börse; Børsen i Oslo reagerte rolig på nyhetene.; Die Börse in Oslo reagierte gelassen auf die Nachrichten.
+no-wf-0064; investieren; å investere; ; B1; Wirtschaft/Finanzen/Investieren & Börse; De investerer hvert år en del av sparepengene sine.; Sie investieren jedes Jahr einen Teil ihrer Ersparnisse.
+no-wf-0065; Investition; en investering; ; B1; Wirtschaft/Finanzen/Investieren & Börse; Investeringen i solceller betalte seg raskt.; Die Investition in Solaranlagen zahlte sich schnell aus.
+no-wf-0066; Anleger; en investor; ; B1; Wirtschaft/Finanzen/Investieren & Börse; Mange investorer foretrekker trygge statsobligasjoner nå for tiden.; Viele Anleger bevorzugen heutzutage sichere Staatsanleihen.
+no-wf-0067; Gebühr; et gebyr; ; B1; Wirtschaft/Finanzen/Bank; Banken tar et månedlig gebyr for kontoen.; Die Bank verlangt eine monatliche Gebühr für das Konto.
+no-wf-0068; Budget; et budsjett; ; B1; Wirtschaft/Finanzen/Geld & Zahlung; Budsjettet vårt for prosjektet er veldig knapt.; Unser Budget für das Projekt ist sehr knapp.
+no-wf-0069; Filiale; en filial; ; B1; Wirtschaft/Finanzen/Bank; Banken stengte filialen i byen vår.; Die Bank schloss ihre Filiale in unserer Stadt.
+no-wf-0070; Vertrag; en kontrakt; en avtale; B1; Wirtschaft/Finanzen/Unternehmen; Les kontrakten nøye før du skriver under.; Lies den Vertrag sorgfältig, bevor du ihn unterschreibst.
+no-wf-0071; verhandeln; å forhandle; ; B1; Wirtschaft/Finanzen/Markt & Handel; Vi forhandlet med leverandøren om en bedre pris.; Wir verhandelten mit dem Lieferanten einen besseren Preis.
+no-wf-0072; Branche; en bransje; ; B1; Wirtschaft/Finanzen/Unternehmen; Byggebransjen leter desperat etter faglærte arbeidere.; Die Baubranche sucht händeringend Fachkräfte.
+no-wf-0073; Produktion; en produksjon; ; B1; Wirtschaft/Finanzen/Unternehmen; Produksjonen av den nye modellen starter i mai.; Die Produktion des neuen Modells beginnt im Mai.
+no-wf-0074; produzieren; å produsere; ; B1; Wirtschaft/Finanzen/Unternehmen; Fabrikken produserer to tusen sykler i uka.; Die Fabrik produziert zweitausend Fahrräder pro Woche.
+no-wf-0075; Hersteller; en produsent; en fabrikant; B1; Wirtschaft/Finanzen/Unternehmen; Produsenten gir fem års garanti på bilen.; Der Hersteller bietet fünf Jahre Garantie auf das Auto.
+no-wf-0076; Währung; en valuta; ; B2; Wirtschaft/Finanzen/Geld & Zahlung; Euro er den felles valutaen i mange land.; Der Euro ist die gemeinsame Währung vieler Länder.
+no-wf-0077; Wechselkurs; en valutakurs; en vekslingskurs; B2; Wirtschaft/Finanzen/Geld & Zahlung; Valutakursen endret seg til vår fordel.; Der Wechselkurs änderte sich zu unseren Gunsten.
+no-wf-0078; Inflation; en inflasjon; ; B2; Wirtschaft/Finanzen/Konjunktur; Høy inflasjon reduserer verdien av sparepengene.; Hohe Inflation mindert den Wert der Ersparnisse.
+no-wf-0079; Zinssatz; en rentesats; en rente; B2; Wirtschaft/Finanzen/Bank; Rentesatsen for boliglån steg igjen i dag.; Der Zinssatz für Hypotheken stieg heute erneut.
+no-wf-0080; Konjunktur; en konjunktur; ; B2; Wirtschaft/Finanzen/Konjunktur; Konjunkturen tar seg langsomt opp igjen.; Die Konjunktur zieht langsam wieder an.
+no-wf-0081; Aufschwung; en oppgang; et oppsving; B2; Wirtschaft/Finanzen/Konjunktur; Oppgangen i økonomien skapte tusenvis av nye arbeidsplasser.; Der Aufschwung schuf Tausende neue Arbeitsplätze.
+no-wf-0082; Abschwung; en nedgang; ; B2; Wirtschaft/Finanzen/Konjunktur; Nedgangen rammet bilindustrien aller hardest i fjor.; Der Abschwung traf im letzten Jahr die Autoindustrie am härtesten.
+no-wf-0083; Rezession; en resesjon; en lavkonjunktur; B2; Wirtschaft/Finanzen/Konjunktur; Landet gled inn i en mild resesjon.; Das Land rutschte in eine milde Rezession.
+no-wf-0084; Wachstum; en vekst; ; B2; Wirtschaft/Finanzen/Konjunktur; Eksperter venter en vekst på to prosent neste år.; Experten erwarten nächstes Jahr ein Wachstum von zwei Prozent.
+no-wf-0085; Bruttoinlandsprodukt; et bruttonasjonalprodukt; ; B2; Wirtschaft/Finanzen/Konjunktur; Bruttonasjonalproduktet økte svakt i høst igjen.; Das Bruttoinlandsprodukt stieg im Herbst erneut leicht an.
+no-wf-0086; Arbeitslosenquote; en arbeidsledighet; ; B2; Wirtschaft/Finanzen/Konjunktur; Arbeidsledigheten falt under fem prosent i fjor.; Die Arbeitslosenquote fiel im letzten Jahr unter fünf Prozent.
+no-wf-0087; Aktienkurs; en aksjekurs; ; B2; Wirtschaft/Finanzen/Investieren & Börse; Aksjekursen hoppet opp etter de gode nyhetene.; Der Aktienkurs sprang nach den guten Nachrichten nach oben.
+no-wf-0088; Dividende; et utbytte; en dividende; B2; Wirtschaft/Finanzen/Investieren & Börse; Selskapet betaler utbytte to ganger i året.; Das Unternehmen zahlt zweimal im Jahr eine Dividende.
+no-wf-0089; Rendite; en avkastning; ; B2; Wirtschaft/Finanzen/Investieren & Börse; Fondet ga en avkastning på seks prosent.; Der Fonds erzielte eine Rendite von sechs Prozent.
+no-wf-0090; Wertpapier; et verdipapir; ; B2; Wirtschaft/Finanzen/Investieren & Börse; En obligasjon er et verdipapir med fast rente.; Eine Anleihe ist ein Wertpapier mit festen Zinsen.
+no-wf-0091; Anleihe; en obligasjon; et obligasjonslån; B2; Wirtschaft/Finanzen/Investieren & Börse; Staten utstedte en ny obligasjon med ti års løpetid.; Der Staat gab eine neue zehnjährige Anleihe heraus.
+no-wf-0092; Fonds; et fond; et investeringsfond; B2; Wirtschaft/Finanzen/Investieren & Börse; Fondet investerer i selskaper over hele verden.; Der Fonds investiert in Unternehmen auf der ganzen Welt.
+no-wf-0093; Depot; en verdipapirkonto; ; B2; Wirtschaft/Finanzen/Investieren & Börse; Hun åpnet en verdipapirkonto til barna sine.; Sie eröffnete ein Depot für ihre Kinder.
+no-wf-0094; Risiko; en risiko; ; B2; Wirtschaft/Finanzen/Investieren & Börse; Høyere avkastning følger som regel med mye høyere risiko.; Höhere Renditen gehen meist mit deutlich höherem Risiko einher.
+no-wf-0095; spekulieren; å spekulere; ; B2; Wirtschaft/Finanzen/Investieren & Börse; Han spekulerte i stigende oljepriser og tapte penger.; Er spekulierte auf steigende Ölpreise und verlor.
+no-wf-0096; Vermögen; en formue; ; B2; Wirtschaft/Finanzen/Investieren & Börse; Hun bygde opp formuen sin med tålmodighet og disiplin.; Sie baute ihr Vermögen mit Geduld und Disziplin auf.
+no-wf-0097; Insolvenz; en konkurs; ; B2; Wirtschaft/Finanzen/Unternehmen; Kjeden begjærte konkurs i forrige uke.; Die Kette meldete letzte Woche Insolvenz an.
+no-wf-0098; pleite; blakk; konkurs; B2; Wirtschaft/Finanzen/Unternehmen; Etter det mislykkede prosjektet var firmaet helt blakk.; Nach dem gescheiterten Projekt war die Firma pleite.
+no-wf-0099; Mehrwertsteuer; en merverdiavgift; en moms; B2; Wirtschaft/Finanzen/Steuern; Merverdiavgiften på matvarer er redusert i Norge.; Die Mehrwertsteuer auf Lebensmittel ist in Norwegen ermäßigt.
+no-wf-0100; Einkommensteuer; en inntektsskatt; ; B2; Wirtschaft/Finanzen/Steuern; Inntektsskatten avhenger av hvor mye man tjener.; Die Einkommensteuer hängt davon ab, wie viel man verdient.
+no-wf-0101; Steuererklärung; en skattemelding; ; B2; Wirtschaft/Finanzen/Steuern; Jeg leverer skattemeldingen min på nett hver vår.; Ich reiche meine Steuererklärung jedes Frühjahr online ein.
+no-wf-0102; Steuerberater; en skatterådgiver; ; B2; Wirtschaft/Finanzen/Steuern; Skatterådgiveren min fant flere fradrag til meg.; Mein Steuerberater fand mehrere Abzugsmöglichkeiten für mich.
+no-wf-0103; Finanzamt; Skatteetaten; et skattekontor; B2; Wirtschaft/Finanzen/Steuern; Skatteetaten sendte en påminnelse i oktober.; Das Finanzamt schickte im Oktober eine Mahnung.
+no-wf-0104; absetzen (steuerlich); å trekke fra på skatten; å få fradrag for; B2; Wirtschaft/Finanzen/Steuern; Du kan trekke fra reiseutgiftene på skatten.; Du kannst Fahrtkosten von der Steuer absetzen.
+no-wf-0105; Buchhaltung; et regnskap; en bokføring; B2; Wirtschaft/Finanzen/Unternehmen; Et ryddig regnskap sparer deg for bry med Skatteetaten.; Eine saubere Buchhaltung erspart Ärger mit dem Finanzamt.
+no-wf-0106; Bilanz; en balanse; ; B2; Wirtschaft/Finanzen/Unternehmen; Balansen viser alle eiendeler og all gjeld.; Die Bilanz zeigt alle Vermögenswerte und Verbindlichkeiten.
+no-wf-0107; Hypothek; et boliglån; et huslån; B2; Wirtschaft/Finanzen/Bank; De tok opp et boliglån på huset.; Sie nahmen eine Hypothek auf das Haus auf.
+no-wf-0108; Aufsichtsrat; et styre; et tilsynsråd; B2; Wirtschaft/Finanzen/Unternehmen; Styret godkjente den planlagte fusjonen i går.; Der Aufsichtsrat stimmte der geplanten Fusion zu.
+no-wf-0109; Vorstand; en konsernledelse; en toppledelse; B2; Wirtschaft/Finanzen/Unternehmen; Konsernledelsen la fram sin nye vekststrategi.; Der Vorstand stellte seine neue Wachstumsstrategie vor.
+no-wf-0110; Geschäftsführer; en daglig leder; en administrerende direktør; B2; Wirtschaft/Finanzen/Unternehmen; Den daglige lederen forklarte planen for de ansatte.; Der Geschäftsführer erklärte der Belegschaft den Plan.
+no-wf-0111; Übernahme; et oppkjøp; en overtakelse; B2; Wirtschaft/Finanzen/Unternehmen; Oppkjøpet av konkurrenten overrasket markedene i Oslo.; Die Übernahme des Konkurrenten überraschte die Märkte.
+no-wf-0112; Fusion; en fusjon; ; B2; Wirtschaft/Finanzen/Unternehmen; Fusjonen skapte den største banken i Europa.; Die Fusion schuf die größte Bank Europas.
+no-wf-0113; Lieferkette; ei forsyningskjede; en forsyningskjede; B2; Wirtschaft/Finanzen/Markt & Handel; Én eneste manglende del kan stoppe hele forsyningskjeden.; Ein einziges fehlendes Teil kann die ganze Lieferkette stoppen.
+no-wf-0114; Rohstoff; ei råvare; en råvare; B2; Wirtschaft/Finanzen/Markt & Handel; Litium er en viktig råvare til batterier.; Lithium ist ein wichtiger Rohstoff für Batterien.
+no-wf-0115; Subvention; en subsidie; ; B2; Wirtschaft/Finanzen/Konjunktur; Subsidien for varmepumper ble forlenget til neste år.; Die Subvention für Wärmepumpen wurde verlängert.
+no-wf-0116; Geldpolitik; en pengepolitikk; ; C1; Wirtschaft/Finanzen/Konjunktur; Sentralbanken strammet inn pengepolitikken enda en gang.; Die Zentralbank straffte erneut ihre Geldpolitik.
+no-wf-0117; Fiskalpolitik; en finanspolitikk; ; C1; Wirtschaft/Finanzen/Konjunktur; Finanspolitikken kan dempe virkningen av en økonomisk nedgangstid.; Die Fiskalpolitik kann einen Wirtschaftsabschwung abfedern.
+no-wf-0118; Zentralbank; en sentralbank; ; C1; Wirtschaft/Finanzen/Konjunktur; Sentralbanken lot renten være uendret denne gangen.; Die Zentralbank ließ die Zinsen unverändert.
+no-wf-0119; Leitzins; en styringsrente; ; C1; Wirtschaft/Finanzen/Konjunktur; Styringsrenten ble satt ned med et kvart prosentpoeng.; Der Leitzins wurde um einen Viertelpunkt gesenkt.
+no-wf-0120; Staatsverschuldung; en statsgjeld; ; C1; Wirtschaft/Finanzen/Konjunktur; Statsgjelden økte kraftig i årene med krise.; Die Staatsverschuldung wuchs in den Krisenjahren.
+no-wf-0121; Haushaltsdefizit; et budsjettunderskudd; ; C1; Wirtschaft/Finanzen/Konjunktur; Budsjettunderskuddet tvang regjeringen til å kutte i utgiftene.; Das Haushaltsdefizit zwang die Regierung zum Sparen.
+no-wf-0122; Deflation; en deflasjon; ; C1; Wirtschaft/Finanzen/Konjunktur; Deflasjon kan være like farlig som høy inflasjon.; Deflation kann so gefährlich sein wie hohe Inflation.
+no-wf-0123; Kaufkraft; en kjøpekraft; ; C1; Wirtschaft/Finanzen/Konjunktur; Stigende priser svekker kjøpekraften til husholdningene.; Steigende Preise schwächen die Kaufkraft der Haushalte.
+no-wf-0124; Wertschöpfung; en verdiskaping; ; C1; Wirtschaft/Finanzen/Unternehmen; Det meste av verdiskapingen skjer i sluttmonteringen.; Die meiste Wertschöpfung entsteht in der Endmontage.
+no-wf-0125; Liquidität; en likviditet; ; C1; Wirtschaft/Finanzen/Unternehmen; Firmaet sikret likviditeten sin med en kredittramme.; Die Firma sicherte ihre Liquidität mit einer Kreditlinie.
+no-wf-0126; Eigenkapital; en egenkapital; ; C1; Wirtschaft/Finanzen/Unternehmen; Gründerne skjøt inn en million i egenkapital.; Die Gründer brachten eine Million Eigenkapital ein.
+no-wf-0127; Fremdkapital; en fremmedkapital; en lånekapital; C1; Wirtschaft/Finanzen/Unternehmen; Prosjektet ble hovedsakelig finansiert med fremmedkapital.; Das Projekt wurde überwiegend mit Fremdkapital finanziert.
+no-wf-0128; Abschreibung; en avskrivning; ; C1; Wirtschaft/Finanzen/Unternehmen; Avskrivningen av maskinene reduserer det skattepliktige overskuddet.; Die Abschreibung der Maschinen senkt den steuerpflichtigen Gewinn.
+no-wf-0129; Rücklage; en reserve; ; C1; Wirtschaft/Finanzen/Unternehmen; Foreningen bygde opp en reserve for dårlige tider.; Der Verein bildete eine Rücklage für schlechte Zeiten.
+no-wf-0130; Tilgung; et avdrag; en nedbetaling; C1; Wirtschaft/Finanzen/Bank; Den månedlige terminen består av renter og avdrag.; Die monatliche Rate enthält Zinsen und Tilgung.
+no-wf-0131; Bonität; en kredittverdighet; ; C1; Wirtschaft/Finanzen/Bank; Kredittverdigheten din bestemmer vilkårene for lånet.; Deine Bonität bestimmt die Konditionen des Kredits.
+no-wf-0132; Bürgschaft; en kausjon; ; C1; Wirtschaft/Finanzen/Bank; Foreldrene hans gikk i kausjon for lånet.; Seine Eltern übernahmen eine Bürgschaft für den Kredit.
+no-wf-0133; Volatilität; en volatilitet; ; C1; Wirtschaft/Finanzen/Investieren & Börse; Høy volatilitet gjør mange småsparere veldig nervøse.; Hohe Volatilität macht viele Kleinanleger sehr nervös.
+no-wf-0134; Diversifikation; en diversifisering; en risikospredning; C1; Wirtschaft/Finanzen/Investieren & Börse; Diversifisering beskytter porteføljen mot store tap.; Diversifikation schützt ein Portfolio vor großen Verlusten.
+no-wf-0135; Hebelwirkung; en giringseffekt; en giring; C1; Wirtschaft/Finanzen/Investieren & Börse; Giringseffekten mangedobler både gevinster og tap.; Die Hebelwirkung vervielfacht sowohl Gewinne als auch Verluste.
+no-wf-0136; Marktkapitalisierung; en markedsverdi; en børsverdi, en markedskapitalisering; C1; Wirtschaft/Finanzen/Investieren & Börse; Selskapets markedsverdi tredoblet seg på kort tid.; Die Marktkapitalisierung des Unternehmens verdreifachte sich rasch.
+no-wf-0137; Wettbewerbsfähigkeit; en konkurranseevne; ; C1; Wirtschaft/Finanzen/Markt & Handel; Høye energipriser skader industriens konkurranseevne i Norge.; Hohe Energiepreise schaden der Wettbewerbsfähigkeit der Industrie.
+no-wf-0138; Regulierung; en regulering; ; C1; Wirtschaft/Finanzen/Markt & Handel; Etter krisen kom en strengere regulering av bankene.; Nach der Krise folgte eine strengere Regulierung der Banken.
+no-wf-0139; Kartell; et kartell; ; C1; Wirtschaft/Finanzen/Markt & Handel; Kartellet avtalte i hemmelighet høyere priser.; Das Kartell sprach heimlich höhere Preise ab.
+no-wf-0140; Monopol; et monopol; ; C1; Wirtschaft/Finanzen/Markt & Handel; Selskapet hadde et monopol på all jernbanetrafikk i landet.; Das Unternehmen hatte ein Monopol auf den Schienenverkehr.
+no-wf-0141; Geldwäsche; en hvitvasking; ; C2; Wirtschaft/Finanzen/Bank; Banken meldte mistenkelige transaksjoner som mulig hvitvasking.; Die Bank meldete verdächtige Transaktionen als mögliche Geldwäsche.
+no-wf-0142; Insiderhandel; en innsidehandel; ; C2; Wirtschaft/Finanzen/Investieren & Börse; Lederen ble dømt for innsidehandel i Oslo.; Der Manager wurde wegen Insiderhandels verurteilt.
+no-wf-0143; Steuerhinterziehung; en skatteunndragelse; ; C2; Wirtschaft/Finanzen/Steuern; Han havnet i fengsel for omfattende skatteunndragelse.; Er kam wegen massiver Steuerhinterziehung ins Gefängnis.
+no-wf-0144; Verstaatlichung; en nasjonalisering; ; C2; Wirtschaft/Finanzen/Konjunktur; Nasjonaliseringen av energikonsernet var veldig omstridt.; Die Verstaatlichung des Energiekonzerns war umstritten.
+no-wf-0145; Enteignung; en ekspropriasjon; ; C2; Wirtschaft/Finanzen/Konjunktur; Ekspropriasjonen av tomten krevde en rimelig erstatning.; Die Enteignung des Grundstücks erforderte eine faire Entschädigung.
+no-wf-0146; Geldmenge; en pengemengde; ; C2; Wirtschaft/Finanzen/Konjunktur; En voksende pengemengde kan sterkt øke inflasjonen.; Eine wachsende Geldmenge kann die Inflation stark anheizen.
+no-wf-0147; Spekulationsblase; ei spekulasjonsboble; en spekulasjonsboble; C2; Wirtschaft/Finanzen/Investieren & Börse; Spekulasjonsboblen sprakk, og aksjekursene falt kraftig.; Die Spekulationsblase platzte und die Kurse brachen ein.
+no-wf-0148; Opportunitätskosten; en alternativkostnad; ; C2; Wirtschaft/Finanzen/Konjunktur; Hver beslutning har en alternativkostnad som vi ofte overser.; Jede Entscheidung hat Opportunitätskosten, die wir oft übersehen.
+no-wf-0149; Schuldenbremse; en gjeldsbremse; ; C2; Wirtschaft/Finanzen/Konjunktur; Gjeldsbremsen begrenser hvor mye ny gjeld staten kan ta opp.; Die Schuldenbremse begrenzt die Neuverschuldung des Staates.
+no-wf-0150; Leitwährung; en reservevaluta; ; C2; Wirtschaft/Finanzen/Geld & Zahlung; Dollaren er fortsatt verdens viktigste reservevaluta.; Der Dollar bleibt die wichtigste Leitwährung der Welt.

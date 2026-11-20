@@ -1,0 +1,135 @@
+# Paket K1: Karstens Liste – Komma-Felder mit verschiedenen Bedeutungen aufgeteilt, unpassende Beispielsätze ersetzt (alle vier Sprachen).
+# Je Basis-ID eine Zeile, darunter je neuer Teil eine Zeile. Antworten: en / fr / es / it (Stand nach K1, Klammerhinweise schon in der neuen Form).
+# Änderung: „Deutsch“ = Feld Deutsch geändert (alle Sprachen gleich), „Beispiel“ = Beispielsatz neu, „Weitere“ = Weitere Antworten der anderen Bedeutung gestrichen bzw. angepasst, „Antwort“ = Antwort geändert.
+id; Deutsch vorher; Deutsch jetzt; Antworten; Änderung
+ke-0040; herum, um, ungefähr; herum, um; around / autour / alrededor / intorno; Deutsch
+ke-0997; (neu, Teil von ke-0040); ungefähr (so gegen acht Uhr); around / vers / alrededor de / verso; neu
+ke-0049; Rücken, Rückseite; Rücken; back / le dos / la espalda / la schiena; Deutsch · fr: Weitere · es: Weitere · it: Weitere
+ke-0998; (neu, Teil von ke-0049); Rückseite; back / le dos / el reverso / il retro; neu, Antworten und Beispiele wie xf-0183
+ke-0072; Körper, Leiche; Körper; body / le corps / el cuerpo / il corpo; Deutsch · fr: Weitere · es: Weitere · it: Weitere
+ke-0999; (neu, Teil von ke-0072); Leiche; body / le cadavre / el cadáver / il cadavere; neu
+ke-0094; Karte, Visitenkarte; Karte (Karten spielen); card / la carte / la carta / la carta; Deutsch · en: Weitere · fr: Weitere · es: Antwort, Weitere, Beispiel · it: Weitere
+ke-1000; (neu, Teil von ke-0094); Visitenkarte; business card / la carte de visite / la tarjeta de visita / il biglietto da visita; neu, Antworten und Beispiele wie bb-0123
+ke-0104; Gelegenheit, Zufall; Gelegenheit; chance / l'occasion / la oportunidad / l'occasione; Deutsch
+ke-1001; (neu, Teil von ke-0104); Zufall (durch Zufall); chance / le hasard / la casualidad / il caso; neu
+ke-0124; Begleitung, Firma; Begleitung; company / la compagnie / la compañía / la compagnia; Deutsch · en: Beispiel
+ke-1002; (neu, Teil von ke-0124); Firma; company / l'entreprise / la empresa / la ditta; neu, Antworten und Beispiele wie ab-0017
+ke-0133; Kurs, Verlauf; Kurs (einen Kurs besuchen); course / le cours / el curso / il corso; Deutsch · en: Weitere, Beispiel · fr: Weitere, Beispiel · es: Weitere, Beispiel · it: Weitere
+ke-1003; (neu, Teil von ke-0133); Verlauf (der Verlauf eines Flusses); course / le cours / el curso / il corso; neu
+ke-0134; Hof, Hinterhof, Gericht; Hof, Hinterhof; court / la cour / el patio / il cortile; Deutsch · en: Weitere, Beispiel
+ke-1004; (neu, Teil von ke-0134); Gericht (vor Gericht gehen); court / le tribunal / el tribunal / il tribunale; neu, Antworten und Beispiele wie pg-0029
+ke-0151; Maß, Ausmaß, Grad; Maß (in gewissem Maße); degree / la mesure / la medida / la misura; Deutsch · en: Beispiel
+ke-1005; (neu, Teil von ke-0151); Grad; degree / le degré / el grado / il grado; neu, Antworten und Beispiele wie wu-0033
+ke-0168; Droge, Medikament; Droge; drug / la drogue / la droga / la droga; Deutsch · en: Beispiel
+ke-1006; (neu, Teil von ke-0168); Medikament; drug / le médicament / el medicamento / il farmaco; neu
+ke-0218; Gestalt, Figur, Zahl; Gestalt, Figur; figure / la silhouette / la figura / la figura; Deutsch · en: Beispiel · it: Beispiel
+ke-1007; (neu, Teil von ke-0218); Zahl (die Umsatzzahlen); figure / le chiffre / la cifra / la cifra; neu
+ke-0227; Fußboden, Etage; Fußboden; floor / le sol / el suelo / il pavimento; Deutsch
+ke-1008; (neu, Teil von ke-0227); Etage; floor / l'étage / la planta / il piano; neu, Antworten und Beispiele wie xf-0287
+ke-0253; Ziel, Tor; Ziel; goal / le but / el objetivo / l'obiettivo; Deutsch
+ke-1009; (neu, Teil von ke-0253); Tor (ein Tor schießen); goal / le but / el gol / il gol; neu, Antworten und Beispiele wie sf-0008
+ke-0261; groß, großartig; groß (ein großer Dichter); great / grand / grande / grande; Deutsch · en: Beispiel · fr: Beispiel · es: Weitere, Beispiel · it: Weitere, Beispiel
+ke-1010; (neu, Teil von ke-0261); großartig; great / génial / genial / magnifico; neu, Antworten und Beispiele wie xf-0094
+ke-0274; hart, fest, schwierig; hart, fest; hard / dur / duro / duro; Deutsch · en: Beispiel · fr: Weitere · es: Weitere · it: Weitere
+ke-0157; schwierig; schwierig; difficult / difficile / difícil / difficile; en: Weitere
+ke-0302; Bild, Vorstellung; Bild (das Bild auf dem Bildschirm); image / l'image / la imagen / l'immagine; Deutsch · en: Beispiel · fr: Weitere, Beispiel · es: Weitere, Beispiel · it: Weitere, Beispiel
+ke-1011; (neu, Teil von ke-0302); Vorstellung (ein Bild im Kopf); image / l'image / la imagen / l'immagine; neu
+ke-0303; Auswirkung, Aufprall; Auswirkung; impact / l'impact / el impacto / l'impatto; Deutsch
+ke-1012; (neu, Teil von ke-0303); Aufprall; impact / le choc / el impacto / l'urto; neu
+ke-0312; Interesse, Zins; Interesse; interest / l'intérêt / el interés / l'interesse; Deutsch
+ke-1013; (neu, Teil von ke-0312); Zinsen; interest / les intérêts / los intereses / gli interessi; neu, Antworten und Beispiele wie eg-0108
+ke-0334; Brief, Buchstabe; Brief; letter / la lettre / la carta / la lettera; Deutsch
+ke-1014; (neu, Teil von ke-0334); Buchstabe; letter / la lettre / la letra / la lettera; neu, Antworten und Beispiele wie xb-0135
+ke-0336; leicht, hell; leicht (eine leichte Tasche); light / léger / ligero / leggero; Deutsch
+ke-1015; (neu, Teil von ke-0336); hell (ein helles Zimmer); light / clair / luminoso / luminoso; neu
+ke-0338; Linie, Zeile; Linie; line / la ligne / la línea / la linea; Deutsch · fr: Beispiel · es: Weitere, Beispiel
+ke-1016; (neu, Teil von ke-0338); Zeile; line / la ligne / la línea / la riga; neu, Antworten und Beispiele wie xf-0316
+ke-0355; Maß, Ausmaß; Maß, Ausmaß; measure / la mesure / la medida / la misura; en: Beispiel
+ke-0414; an, auf, in, eingeschaltet; an, auf, in; on / sur / en / su; Deutsch
+ke-1017; (neu, Teil von ke-0414); eingeschaltet (das Licht ist an); on / allumé / encendido / acceso; neu
+ke-0422; Befehl, Reihenfolge, Bestellung; Befehl; order / l'ordre / la orden / l'ordine; Deutsch · en: Beispiel · fr: Beispiel
+ke-1018; (neu, Teil von ke-0422); Reihenfolge; order / l'ordre / el orden / l'ordine; neu, Antworten und Beispiele wie xf-0250
+ke-1019; (neu, Teil von ke-0422); Bestellung; order / la commande / el pedido / l'ordine; neu, Antworten und Beispiele wie mv-0014
+ke-0426; über, vorbei; über (über die Stadt fliegen); over / au-dessus / sobre / sopra; Deutsch
+ke-1020; (neu, Teil von ke-0426); vorbei (die Ferien sind vorbei); over / fini / terminado / finito; neu, Antworten und Beispiele wie xf-0159
+ke-0431; Gemälde, Anstrich; Gemälde; painting / le tableau / el cuadro / il dipinto; Deutsch
+ke-1021; (neu, Teil von ke-0431); Anstrich (ein frischer Anstrich); painting / la peinture / la pintura / la tinteggiatura; neu
+ke-0438; vergangen, vorbei, Vergangenheit; vergangen; past / passé / pasado / passato; Deutsch · en: Beispiel · fr: Weitere · es: Weitere · it: Weitere
+ke-1022; (neu, Teil von ke-0438); Vergangenheit; past / le passé / el pasado / il passato; neu, Antworten und Beispiele wie gw-0334
+ke-1023; (neu, Teil von ke-0438); vorbei (am Haus vorbei); past / – / – / –; neu, Antworten und Beispiele wie xf-0167
+ke-0454; Pflanze, Betrieb, Fabrik; Pflanze; plant / la plante / la planta / la pianta; Deutsch
+ke-1024; (neu, Teil von ke-0454); Betrieb, Fabrik; plant / l'usine / la planta / lo stabilimento; neu
+ke-0468; Macht, Strom; Macht; power / le pouvoir / el poder / il potere; Deutsch
+ke-1025; (neu, Teil von ke-0468); Strom (der Strom fällt aus); power / l'électricité / la electricidad / l'elettricità; neu
+ke-0470; Gegenwart, Geschenk, gegenwärtig; Gegenwart; present / le présent / el presente / il presente; Deutsch · fr: Weitere · es: Weitere · it: Weitere
+ke-1026; (neu, Teil von ke-0470); Geschenk; present / le cadeau / el regalo / il regalo; neu, Antworten und Beispiele wie fb-0092
+ke-1027; (neu, Teil von ke-0470); gegenwärtig (die gegenwärtige Lage); present / actuel / actual / attuale; neu
+ke-0503; Grund, Vernunft; Grund; reason / la raison / la razón / la ragione; Deutsch
+ke-1028; (neu, Teil von ke-0503); Vernunft; reason / la raison / la razón / la ragione; neu, Antworten und Beispiele wie xf-0074
+ke-0505; Bericht, Aufzeichnung, Rekord; Bericht, Aufzeichnung; record / le rapport / el informe / il rapporto; Deutsch · en: Beispiel
+ke-1029; (neu, Teil von ke-0505); Rekord; record / le record / el récord / il record; neu, Antworten und Beispiele wie sf-0089
+ke-0519; rechts, richtig; rechts; right / à droite / a la derecha / a destra; Deutsch · en: Weitere, Beispiel
+ke-1030; (neu, Teil von ke-0519); richtig; right / juste / correcto / giusto; neu, Antworten und Beispiele wie gw-0227
+ke-0542; ältere, höhergestellt; ältere; senior / plus âgé / mayor / più anziano; Deutsch · fr: Weitere · es: Weitere · it: Weitere
+ke-1031; (neu, Teil von ke-0542); höhergestellt (ein höhergestellter Kollege); senior / haut placé / de alto rango / di grado superiore; neu
+ke-0547; spitz, scharf, schrill; spitz, scharf; sharp / pointu / puntiagudo / appuntito; Deutsch · fr: Weitere · es: Weitere · it: Weitere
+ke-1032; (neu, Teil von ke-0547); schrill (ein schriller Schrei); sharp / aigu / agudo / acuto; neu
+ke-0558; seit, weil; seit; since / depuis / desde / da; Deutsch
+ke-1033; (neu, Teil von ke-0558); weil (weil es regnet); since / puisque / ya que / poiché; neu
+ke-0594; Bühne, Phase; Bühne; stage / la scène / el escenario / il palcoscenico; Deutsch
+ke-1034; (neu, Teil von ke-0594); Phase (die erste Phase eines Projekts); stage / le stade / la etapa / la fase; neu
+ke-0597; Zustand, Bundesland, Staat; Zustand; state / l'état / el estado / lo stato; Deutsch · en: Beispiel · fr: Beispiel · es: Beispiel · it: Beispiel
+ke-1035; (neu, Teil von ke-0597); Staat; state / l'État / el Estado / lo Stato; neu, Antworten und Beispiele wie pg-0020
+ke-1036; (neu, Teil von ke-0597); Bundesland; state / le Land / el estado federado / il Land; neu
+ke-0600; Stufe, Schritt; Stufe (die Stufen der Treppe); step / la marche / el escalón / il gradino; Deutsch · en: Weitere, Beispiel · fr: Weitere · es: Weitere · it: Weitere
+ke-1037; (neu, Teil von ke-0600); Schritt; step / l'étape / el paso / il passo; neu, Antworten und Beispiele wie pm-0060
+ke-0608; Geschichte, Erzählung; Geschichte, Erzählung; story / l'histoire / la historia / la storia; en: Beispiel · fr: Beispiel · es: Beispiel · it: Beispiel
+ke-0613; Struktur, Gliederung, Gebäude; Struktur, Gliederung; structure / la structure / la estructura / la struttura; Deutsch · en: Beispiel · fr: Weitere
+ke-1038; (neu, Teil von ke-0613); Bauwerk; structure / l'ouvrage / la construcción / la costruzione; neu, Antworten und Beispiele wie kk-0118
+ke-0618; Thema, Fach; Thema; subject / le sujet / el tema / l'argomento; Deutsch · en: Beispiel
+ke-1039; (neu, Teil von ke-0618); Fach; subject / la matière / la asignatura / la materia; neu, Antworten und Beispiele wie gw-0495
+ke-0640; Begriff, Semester; Begriff; term / le terme / el término / il termine; Deutsch · en: Beispiel
+ke-1040; (neu, Teil von ke-0640); Semester; term / le semestre / el semestre / il semestre; neu
+ke-0644; dann, danach, damals; dann, danach; then / ensuite / entonces / poi; Deutsch · fr: Weitere
+ke-1041; (neu, Teil von ke-0644); damals; then / à l'époque / entonces / allora; neu
+ke-0676; argumentieren, streiten; argumentieren; to argue / argumenter / argumentar / argomentare; Deutsch · en: Beispiel · fr: Weitere · es: Weitere · it: Weitere
+ke-1042; (neu, Teil von ke-0676); streiten; to argue / se disputer / discutir / litigare; neu, Antworten und Beispiele wie gw-0509
+ke-0700; berechnen, aufladen; berechnen; to charge / facturer / cobrar / far pagare; Deutsch · en: Beispiel
+ke-1043; (neu, Teil von ke-0700); aufladen; to charge / recharger / cargar / ricaricare; neu, Antworten und Beispiele wie tc-0033
+ke-0723; zeichnen, auslosen; zeichnen; to draw / dessiner / dibujar / disegnare; Deutsch
+ke-1044; (neu, Teil von ke-0723); auslosen; to draw / tirer au sort / sortear / sorteggiare; neu
+ke-0780; liegen, lügen; liegen (im Bett liegen); to lie / être allongé / estar tumbado / essere sdraiato; Deutsch · en: Beispiel
+ke-1045; (neu, Teil von ke-0780); lügen; to lie / mentir / mentir / mentire; neu, Antworten und Beispiele wie gw-0293
+ke-0798; vermissen, verpassen; vermissen; to miss / manquer / echar de menos / mancare; Deutsch · en: Beispiel
+ke-1046; (neu, Teil von ke-0798); verpassen; to miss / rater / perder / perdere; neu, Antworten und Beispiele wie gw-0297
+ke-0805; bestellen, befehlen; bestellen; to order / commander / pedir / ordinare; Deutsch
+ke-1047; (neu, Teil von ke-0805); befehlen; to order / ordonner / ordenar / ordinare; neu
+ke-0807; vorbeigehen, bestehen; vorbeigehen; to pass / passer / pasar / passare; Deutsch · en: Beispiel
+ke-1048; (neu, Teil von ke-0807); bestehen (eine Prüfung bestehen); to pass / réussir / aprobar / superare; neu, Antworten und Beispiele wie sb-0040
+ke-0811; vorführen, leisten; vorführen; to perform / exécuter / actuar / esibirsi; Deutsch · fr: Weitere · it: Weitere
+ke-1049; (neu, Teil von ke-0811); leisten (gute Arbeit leisten); to perform / accomplir / rendir / rendere; neu
+ke-0814; üben, betreiben; üben; to practise / s'exercer / practicar / esercitarsi; Deutsch
+ke-1050; (neu, Teil von ke-0814); betreiben (Sport betreiben); to practise / pratiquer / practicar / praticare; neu
+ke-0845; sparen, retten; sparen; to save / économiser / ahorrar / risparmiare; Deutsch
+ke-1051; (neu, Teil von ke-0845); retten; to save / sauver / salvar / salvare; neu
+ke-0868; ausgeben, verbringen; ausgeben; to spend / dépenser / gastar / spendere; Deutsch
+ke-1052; (neu, Teil von ke-0868); verbringen; to spend / passer / pasar / passare; neu, Antworten und Beispiele wie xf-0014
+ke-0874; lernen, studieren; lernen (für eine Prüfung lernen); to study / réviser / estudiar / studiare; Deutsch · en: Beispiel · fr: Antwort, Weitere, Beispiel · es: Antwort, Weitere, Beispiel · it: Antwort, Weitere, Beispiel
+ke-1053; (neu, Teil von ke-0874); studieren; to study / étudier / estudiar / studiare; neu, Antworten und Beispiele wie sb-0071
+ke-0918; Handel, Gewerbe, Handwerk; Handel; trade / le commerce / el comercio / il commercio; Deutsch · fr: Weitere · es: Weitere · it: Weitere
+ke-1054; (neu, Teil von ke-0918); Gewerbe, Handwerk; trade / le métier / el oficio / il mestiere; neu
+ke-0947; Aussicht, Blick, Standpunkt; Aussicht, Blick; view / la vue / la vista / la vista; Deutsch
+ke-1055; (neu, Teil von ke-0947); Standpunkt; view / le point de vue / el punto de vista / il punto di vista; neu
+ke-0951; Wand, Mauer; Wand; wall / le mur / la pared / la parete; Deutsch · fr: Weitere · es: Weitere · it: Weitere
+ke-1056; (neu, Teil von ke-0951); Mauer; wall / le mur / el muro / il muro; neu
+ke-0955; Art, Weise, Weg; Art, Weise; way / la façon / la manera / il modo; Deutsch · en: Beispiel · it: Weitere, Beispiel
+ke-1057; (neu, Teil von ke-0955); Weg; way / le chemin / el camino / la via; neu, Antworten und Beispiele wie vm-0017
+ke-0994; schon, dennoch; schon (bist du schon fertig?); yet / déjà / ya / già; Deutsch
+ke-1058; (neu, Teil von ke-0994); dennoch; yet / pourtant / sin embargo / eppure; neu
+ke-0500; wirklich; wirklich; real / réel / real / vero; en: Beispiel
+ke-0554; Zeichen; Zeichen; sign / le signe / la señal / il segno; en: Beispiel
+ke-0575; etwas, manche, einige; etwas, manche, einige; some / quelques / algunos / alcuni; en: Beispiel
+ke-0652; dieser, diese, dieses; dieser, diese, dieses; this / ce / este / questo; en: Beispiel
+ke-0770; einbeziehen; einbeziehen; to involve / impliquer / implicar / coinvolgere; en: Beispiel · fr: Beispiel
+ke-0842; aufsteigen, ansteigen; aufsteigen, ansteigen; to rise / monter / subir / salire; en: Beispiel
+ke-0884; jemandem etwas erzählen, mitteilen; jemandem etwas erzählen, mitteilen; to tell someone something / raconter quelque chose à quelqu'un / contar algo a alguien / raccontare; en: Beispiel

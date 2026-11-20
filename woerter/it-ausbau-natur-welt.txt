@@ -5,14 +5,14 @@ it-xc-0002; Lamm; l'agnello; ; A2; Natur/Tiere/Haustiere; In primavera gli agnel
 it-xc-0003; Welpe; il cucciolo; ; A2; Natur/Tiere/Haustiere; Il nostro nuovo cucciolo mordicchia tutto quello che trova.; Unser neuer Welpe kaut auf allem herum, was er findet.
 it-xc-0004; Kätzchen; il gattino; ; A2; Natur/Tiere/Haustiere; Il gattino gioca con un gomitolo di lana.; Das Kätzchen spielt mit einem Wollknäuel.
 it-xc-0005; Küken; il pulcino; ; B1; Natur/Tiere/Haustiere; Stamattina sono nati sei pulcini gialli.; Heute Morgen sind sechs gelbe Küken geschlüpft.
-it-xc-0006; Hahn (Tier); il gallo; ; A2; Natur/Tiere/Haustiere; Il gallo sveglia tutta la fattoria alle cinque.; Der Hahn weckt um fünf den ganzen Hof.
+it-xc-0006; Hahn (der Hahn kräht); il gallo; ; A2; Natur/Tiere/Haustiere; Il gallo sveglia tutta la fattoria alle cinque.; Der Hahn weckt um fünf den ganzen Hof.
 it-xc-0007; Stier; il toro; ; B1; Natur/Tiere/Haustiere; Non entrare mai in un campo dove c'è un toro.; Geh nie auf eine Weide, auf der ein Stier steht.
 it-xc-0008; Gans; l'oca; ; B1; Natur/Tiere/Haustiere; Un'oca ci ha inseguiti attraverso il prato.; Eine Gans hat uns über die Wiese gejagt.
 it-xc-0009; Truthahn; il tacchino; ; B1; Natur/Tiere/Haustiere; Molte famiglie mangiano il tacchino a Natale.; Viele Familien essen an Weihnachten Truthahn.
 it-xc-0010; Hamster; il criceto; ; A2; Natur/Tiere/Haustiere; Il mio criceto dorme tutto il giorno e corre tutta la notte.; Mein Hamster schläft den ganzen Tag und rennt die ganze Nacht.
 it-xc-0011; Meerschweinchen; il porcellino d'India; la cavia; A2; Natur/Tiere/Haustiere; I bambini danno da mangiare al porcellino d'India ogni mattina.; Die Kinder füttern jeden Morgen das Meerschweinchen.
 it-xc-0012; Goldfisch; il pesce rosso; ; A2; Natur/Tiere/Haustiere; Due pesci rossi nuotano nella boccia sulla sua scrivania.; Zwei Goldfische schwimmen im Glas auf ihrem Schreibtisch.
-it-xc-0013; Pony (Tier); il pony; ; A2; Natur/Tiere/Haustiere; La mia sorellina cavalca un pony ogni sabato.; Meine kleine Schwester reitet jeden Samstag auf einem Pony.
+it-xc-0013; Pony (auf einem Pony reiten); il pony; ; A2; Natur/Tiere/Haustiere; La mia sorellina cavalca un pony ogni sabato.; Meine kleine Schwester reitet jeden Samstag auf einem Pony.
 it-xc-0014; Käfig; la gabbia; ; B1; Natur/Tiere/Haustiere; L'uccellino canta nella sua gabbia vicino alla finestra.; Der Vogel singt in seinem Käfig am Fenster.
 it-xc-0015; Stall; la stalla; la scuderia; B1; Natur/Tiere/Haustiere; I cavalli passano la notte nella stalla.; Die Pferde verbringen die Nacht im Stall.
 it-xc-0016; Tierarzt; il veterinario; la veterinaria; A2; Natur/Tiere/Haustiere; Dobbiamo portare il cane dal veterinario.; Wir müssen mit dem Hund zum Tierarzt.
@@ -48,14 +48,14 @@ it-xc-0045; Delfin; il delfino; ; A2; Natur/Tiere/Meerestiere; Alcuni delfini nu
 it-xc-0046; Hai; lo squalo; ; A2; Natur/Tiere/Meerestiere; La maggior parte degli squali non è pericolosa per l'uomo.; Die meisten Haie sind für Menschen nicht gefährlich.
 it-xc-0047; Tintenfisch; il calamaro; la seppia, il polpo; B2; Natur/Tiere/Meerestiere; Un calamaro può cambiare colore in pochi secondi.; Ein Tintenfisch kann in Sekunden seine Farbe ändern.
 it-xc-0048; Qualle; la medusa; ; B2; Natur/Tiere/Meerestiere; Attenzione, oggi ci sono meduse in acqua.; Pass auf, heute sind Quallen im Wasser.
-it-xc-0049; Muschel (Schale); la conchiglia; ; B1; Natur/Tiere/Meerestiere; I bambini hanno raccolto conchiglie sulla spiaggia.; Die Kinder haben am Strand Muscheln gesammelt.
+it-xc-0049; Muschel (Muscheln am Strand sammeln); la conchiglia; ; B1; Natur/Tiere/Meerestiere; I bambini hanno raccolto conchiglie sulla spiaggia.; Die Kinder haben am Strand Muscheln gesammelt.
 it-xc-0050; Seestern; la stella marina; ; B2; Natur/Tiere/Meerestiere; Abbiamo trovato una stella marina in una pozza tra gli scogli.; Wir haben in einem Becken zwischen den Felsen einen Seestern gefunden.
 it-xc-0051; Pinguin; il pinguino; ; A2; Natur/Tiere/Vögel; I pinguini non sanno volare, ma nuotano benissimo.; Pinguine können nicht fliegen, aber sie schwimmen sehr gut.
 it-xc-0052; Spatz; il passero; ; B2; Natur/Tiere/Vögel; Un passero becca le briciole sotto il nostro tavolo.; Ein Spatz pickt unter unserem Tisch Krümel auf.
 it-xc-0053; Amsel; il merlo; ; B2; Natur/Tiere/Vögel; Ogni sera un merlo canta sul nostro tetto.; Jeden Abend singt eine Amsel auf unserem Dach.
 it-xc-0054; Rabe; il corvo; ; B2; Natur/Tiere/Vögel; Un grosso corvo nero era posato sulla recinzione.; Ein großer schwarzer Rabe saß auf dem Zaun.
 it-xc-0055; Krähe; la cornacchia; ; B2; Natur/Tiere/Vögel; Stamattina le cornacchie fanno un gran chiasso.; Die Krähen machen heute Morgen viel Lärm.
-it-xc-0056; Strauß (Vogel); lo struzzo; ; B1; Natur/Tiere/Vögel; Uno struzzo può correre più veloce di un cavallo.; Ein Strauß kann schneller laufen als ein Pferd.
+it-xc-0056; Strauß (der Vogel Strauß); lo struzzo; ; B1; Natur/Tiere/Vögel; Uno struzzo può correre più veloce di un cavallo.; Ein Strauß kann schneller laufen als ein Pferd.
 it-xc-0057; Flamingo; il fenicottero; ; B1; Natur/Tiere/Vögel; I fenicotteri rosa stavano su una zampa sola nel lago.; Die rosa Flamingos standen auf einem Bein im See.
 it-xc-0058; Storch; la cicogna; ; B2; Natur/Tiere/Vögel; Una cicogna ha fatto il nido sul tetto della chiesa.; Ein Storch hat sein Nest auf dem Kirchendach gebaut.
 it-xc-0059; zwitschern; cinguettare; ; C1; Natur/Tiere/Vögel; Gli uccelli cominciano a cinguettare prima che sorga il sole.; Die Vögel fangen an zu zwitschern, bevor die Sonne aufgeht.
@@ -70,8 +70,8 @@ it-xc-0067; Zecke; la zecca; ; B2; Natur/Tiere/Insekten; Dopo una passeggiata ne
 it-xc-0068; Motte; la falena; la tarma; B2; Natur/Tiere/Insekten; Una falena volava intorno alla lampada.; Eine Motte flog um die Lampe herum.
 it-xc-0069; Kakerlake; lo scarafaggio; ; B2; Natur/Tiere/Insekten; La cucina dell'albergo era piena di scarafaggi.; Die Hotelküche war voller Kakerlaken.
 it-xc-0070; Ungeziefer; i parassiti; gli animali infestanti; C1; Natur/Tiere/Insekten; Il vecchio fienile era pieno di parassiti.; Die alte Scheune war voller Ungeziefer.
-it-xc-0071; summen (Insekt); ronzare; ; B1; Natur/Tiere/Insekten; Le api ronzano intorno al melo.; Bienen summen um den Apfelbaum.
-it-xc-0072; stechen (Insekt); pungere; ; B1; Natur/Tiere/Insekten; In giardino mi ha punto un'ape.; Im Garten hat mich eine Biene gestochen.
+it-xc-0071; summen (die Biene summt); ronzare; ; B1; Natur/Tiere/Insekten; Le api ronzano intorno al melo.; Bienen summen um den Apfelbaum.
+it-xc-0072; stechen (eine Biene sticht); pungere; ; B1; Natur/Tiere/Insekten; In giardino mi ha punto un'ape.; Im Garten hat mich eine Biene gestochen.
 it-xc-0073; Spinnennetz; la ragnatela; ; B1; Natur/Tiere/Insekten; Nell'angolo del soffitto c'è un'enorme ragnatela.; In der Ecke an der Decke hängt ein riesiges Spinnennetz.
 it-xc-0074; Rose; la rosa; ; A1; Natur/Pflanzen; Per il suo compleanno le ha regalato una rosa rossa.; Er hat ihr zum Geburtstag eine rote Rose geschenkt.
 it-xc-0075; Tulpe; il tulipano; ; B1; Natur/Pflanzen; Ad aprile i tulipani del parco cominciano a fiorire.; Im April beginnen die Tulpen im Park zu blühen.
@@ -96,7 +96,7 @@ it-xc-0093; Laub; le foglie; il fogliame; B2; Natur/Pflanzen; In autunno raccogl
 it-xc-0094; Pollen; il polline; ; B2; Natur/Pflanzen; A maggio nell'aria c'è molto polline.; Im Mai ist viel Pollen in der Luft.
 it-xc-0095; Efeu; l'edera; ; B2; Natur/Pflanzen; L'edera ha ricoperto tutto il vecchio muro.; Efeu hat die ganze alte Mauer überwuchert.
 it-xc-0096; Scheune; il fienile; ; B2; Natur/Landwirtschaft; Il contadino tiene il fieno nel vecchio fienile.; Der Bauer lagert das Heu in der alten Scheune.
-it-xc-0097; Weide (Wiese); il pascolo; ; C1; Natur/Landwirtschaft; Le mucche passano l'estate al pascolo.; Die Kühe verbringen den Sommer auf der Weide.
+it-xc-0097; Weide (Kühe auf der Weide); il pascolo; ; C1; Natur/Landwirtschaft; Le mucche passano l'estate al pascolo.; Die Kühe verbringen den Sommer auf der Weide.
 it-xc-0098; Ernte; il raccolto; ; B1; Natur/Landwirtschaft; La pioggia è arrivata poco prima del raccolto.; Der Regen kam kurz vor der Ernte.
 it-xc-0099; Getreide; i cereali; ; B2; Natur/Landwirtschaft; La regione coltiva soprattutto cereali e patate.; In der Region werden vor allem Getreide und Kartoffeln angebaut.
 it-xc-0100; Weizen; il grano; il frumento; B1; Natur/Landwirtschaft; Il pane di solito si fa con il grano.; Brot wird meistens aus Weizen gemacht.
@@ -111,7 +111,7 @@ it-xc-0108; Felsen; la roccia; lo scoglio; B1; Natur/Landschaft; Al mare siamo s
 it-xc-0109; Sand; la sabbia; ; A1; Natur/Landschaft; La sabbia di questa spiaggia è quasi bianca.; Der Sand an diesem Strand ist fast weiß.
 it-xc-0110; Düne; la duna; ; B2; Natur/Landschaft; Per favore non camminate sulle dune.; Bitte nicht auf den Dünen laufen.
 it-xc-0111; Vulkan; il vulcano; ; B1; Natur/Landschaft; L'ultima eruzione del vulcano risale a cento anni fa.; Der Vulkan ist vor hundert Jahren zuletzt ausgebrochen.
-it-xc-0112; Quelle (Wasser); la sorgente; ; B2; Natur/Landschaft; Il fiume nasce da una piccola sorgente tra le colline.; Der Fluss entspringt an einer kleinen Quelle in den Hügeln.
+it-xc-0112; Quelle (Wasser aus der Quelle); la sorgente; ; B2; Natur/Landschaft; Il fiume nasce da una piccola sorgente tra le colline.; Der Fluss entspringt an einer kleinen Quelle in den Hügeln.
 it-xc-0113; Dschungel; la giungla; ; B1; Natur/Landschaft; Nella giungla vivono scimmie e pappagalli.; Im Dschungel leben Affen und Papageien.
 it-xc-0114; Urwald; la foresta vergine; la foresta primaria; B2; Natur/Landschaft; Gran parte della foresta vergine è stata abbattuta.; Ein großer Teil des Urwalds wurde abgeholzt.
 it-xc-0115; Bucht; la baia; l'insenatura; B1; Natur/Landschaft; Il nostro albergo si trova in una piccola baia tranquilla.; Unser Hotel liegt in einer ruhigen kleinen Bucht.
@@ -120,7 +120,7 @@ it-xc-0117; Ozean; l'oceano; ; A2; Natur/Landschaft; Il Pacifico è l'oceano pi�
 it-xc-0118; Horizont; l'orizzonte; ; B1; Natur/Landschaft; Improvvisamente all'orizzonte è comparsa una nave.; Plötzlich tauchte am Horizont ein Schiff auf.
 it-xc-0119; Landschaft; il paesaggio; ; B1; Natur/Landschaft; Il paesaggio della Sardegna è selvaggio e bellissimo.; Die Landschaft Sardiniens ist wild und wunderschön.
 it-xc-0120; Ebbe; la bassa marea; ; B2; Natur/Landschaft; Con la bassa marea si può arrivare a piedi all'isola.; Bei Ebbe kann man zur Insel laufen.
-it-xc-0121; Flut (Gezeiten); l'alta marea; ; B2; Natur/Landschaft; Con l'alta marea la spiaggia quasi scompare.; Bei Flut verschwindet der Strand fast ganz.
+it-xc-0121; Flut (Ebbe und Flut); l'alta marea; ; B2; Natur/Landschaft; Con l'alta marea la spiaggia quasi scompare.; Bei Flut verschwindet der Strand fast ganz.
 it-xc-0122; Strömung; la corrente; ; B2; Natur/Landschaft; Non nuotare qui, la corrente è troppo forte.; Schwimm hier nicht, die Strömung ist zu stark.
 it-xc-0123; Korallenriff; la barriera corallina; ; B2; Natur/Landschaft; Abbiamo fatto immersioni vicino a una barriera corallina.; Wir sind an einem Korallenriff tauchen gegangen.
 it-xc-0124; Eisberg; l'iceberg; ; B1; Natur/Landschaft; Nel 1912 il Titanic urtò un iceberg.; Die Titanic stieß 1912 mit einem Eisberg zusammen.
@@ -242,8 +242,8 @@ it-xc-0239; Sonnenschein; il sole; la luce del sole; A2; Natur/Umwelt/Wetter; In
 it-xc-0240; Unwetter; il maltempo; il nubifragio; B2; Natur/Umwelt/Wetter; Il maltempo ha causato alluvioni nel sud.; Das Unwetter hat im Süden Überschwemmungen verursacht.
 it-xc-0241; Wetterbericht; le previsioni del tempo; il bollettino meteo, il meteo; A2; Natur/Umwelt/Wetter; Secondo le previsioni del tempo domani pioverà.; Laut Wetterbericht regnet es morgen.
 it-xc-0242; Thermometer; il termometro; ; B1; Natur/Umwelt/Wetter; Il termometro segna meno dieci gradi.; Das Thermometer zeigt minus zehn Grad.
-it-xc-0243; Schatten (kühler Ort); l'ombra; ; A2; Natur/Umwelt/Wetter; Sediamoci all'ombra, qui fa troppo caldo.; Lass uns in den Schatten setzen, hier ist es zu heiß.
-it-xc-0244; Schatten (Umriss); l'ombra; ; B1; Natur/Umwelt/Wetter; La sera le nostre ombre diventano lunghissime.; Am Abend werden unsere Schatten sehr lang.
+it-xc-0243; Schatten (im Schatten sitzen); l'ombra; ; A2; Natur/Umwelt/Wetter; Sediamoci all'ombra, qui fa troppo caldo.; Lass uns in den Schatten setzen, hier ist es zu heiß.
+it-xc-0244; Schatten (einen Schatten werfen); l'ombra; ; B1; Natur/Umwelt/Wetter; La sera le nostre ombre diventano lunghissime.; Am Abend werden unsere Schatten sehr lang.
 it-xc-0245; donnern; tuonare; ; B1; Natur/Umwelt/Wetter; Ha tuonato tutta la notte e nessuno è riuscito a dormire.; Es hat die ganze Nacht gedonnert, und keiner konnte schlafen.
 it-xc-0246; hageln; grandinare; ; B2; Natur/Umwelt/Wetter; In piena estate all'improvviso ha cominciato a grandinare.; Mitten im Sommer fing es plötzlich an zu hageln.
 it-xc-0247; tauen; sciogliersi; ; B2; Natur/Umwelt/Wetter; La neve si sta sciogliendo e i sentieri sono bagnati.; Der Schnee taut, und die Wege sind nass.
@@ -327,12 +327,12 @@ it-xc-0324; Reihenhaus; la villetta a schiera; la casa a schiera; B2; Alltag/Sta
 it-xc-0325; Einfamilienhaus; la casa unifamiliare; la villetta; B2; Alltag/Stadt/Gebäude; Molte famiglie sognano una casa unifamiliare con giardino.; Viele Familien träumen von einem Einfamilienhaus mit Garten.
 it-xc-0326; Wohnblock; il condominio; il caseggiato; B2; Alltag/Stadt/Gebäude; Sono cresciuti in un grande condominio di periferia.; Sie sind in einem großen Wohnblock am Stadtrand aufgewachsen.
 it-xc-0327; Abriss; la demolizione; ; C1; Alltag/Stadt/Gebäude; La demolizione della vecchia fabbrica inizierà l'anno prossimo.; Der Abriss der alten Fabrik beginnt nächstes Jahr.
-it-xc-0328; Botschaft (Vertretung); l'ambasciata; ; B1; Alltag/Stadt/Gebäude; All'ambasciata puoi richiedere un nuovo passaporto.; Bei der Botschaft kannst du einen neuen Pass beantragen.
+it-xc-0328; Botschaft (die deutsche Botschaft); l'ambasciata; ; B1; Alltag/Stadt/Gebäude; All'ambasciata puoi richiedere un nuovo passaporto.; Bei der Botschaft kannst du einen neuen Pass beantragen.
 it-xc-0329; Marktplatz; la piazza del mercato; ; A2; Alltag/Stadt/Straßen & Plätze; Ogni sabato in piazza del mercato c'è il mercato contadino.; Jeden Samstag ist auf dem Marktplatz ein Bauernmarkt.
 it-xc-0330; Gasse; il vicolo; la viuzza; B2; Alltag/Stadt/Straßen & Plätze; Ci siamo persi nei vicoli stretti del centro storico.; Wir haben uns in den engen Gassen der Altstadt verlaufen.
 it-xc-0331; Hauptstraße; la strada principale; la via principale, il corso; A2; Alltag/Stadt/Straßen & Plätze; Il panificio è sulla strada principale accanto alla banca.; Die Bäckerei ist an der Hauptstraße neben der Bank.
 it-xc-0332; Seitenstraße; la strada laterale; la traversa; B1; Alltag/Stadt/Straßen & Plätze; In una strada laterale si parcheggia più tranquillamente.; In einer Seitenstraße parkt man ruhiger.
-it-xc-0333; Sackgasse (Straße); la strada senza uscita; il vicolo cieco; B2; Alltag/Stadt/Straßen & Plätze; Abitiamo in fondo a una tranquilla strada senza uscita.; Wir wohnen am Ende einer ruhigen Sackgasse.
+it-xc-0333; Sackgasse (in einer Sackgasse wohnen); la strada senza uscita; il vicolo cieco; B2; Alltag/Stadt/Straßen & Plätze; Abitiamo in fondo a una tranquilla strada senza uscita.; Wir wohnen am Ende einer ruhigen Sackgasse.
 it-xc-0334; Straßenlaterne; il lampione; ; B2; Alltag/Stadt/Straßen & Plätze; I lampioni si accendono alle sei.; Die Straßenlaternen gehen um sechs Uhr an.
 it-xc-0335; Bürgersteig; il marciapiede; ; B1; Alltag/Stadt/Straßen & Plätze; Per favore non andare in bicicletta sul marciapiede.; Bitte fahr nicht mit dem Fahrrad auf dem Bürgersteig.
 it-xc-0336; Hausnummer; il numero civico; ; A2; Alltag/Stadt/Straßen & Plätze; Scusi, qual è il suo numero civico?; Entschuldigung, wie ist Ihre Hausnummer?
@@ -373,8 +373,8 @@ it-xc-0370; E-Roller; il monopattino elettrico; ; B1; Reisen/Verkehr/Fahrrad; Il
 it-xc-0371; Radtour; il giro in bicicletta; il giro in bici; A2; Reisen/Verkehr/Fahrrad; Domenica abbiamo fatto un lungo giro in bicicletta lungo il fiume.; Am Sonntag haben wir eine lange Radtour am Fluss entlang gemacht.
 it-xc-0372; Hupe; il clacson; ; B1; Reisen/Verkehr/Auto; L'automobilista dietro di noi ha suonato il clacson.; Der Fahrer hinter uns drückte auf die Hupe.
 it-xc-0373; Lenkrad; il volante; ; B1; Reisen/Verkehr/Auto; In Gran Bretagna il volante è a destra.; In Großbritannien ist das Lenkrad rechts.
-it-xc-0374; lenken (Auto); sterzare; ; B1; Reisen/Verkehr/Auto; Sul ghiaccio è difficile sterzare con la macchina.; Auf Eis ist es schwer, das Auto zu lenken.
-it-xc-0375; Gang (Auto); la marcia; ; B2; Reisen/Verkehr/Auto; Metti la prima marcia e parti piano.; Leg den ersten Gang ein und fahr langsam los.
+it-xc-0374; lenken (das Auto lenken); sterzare; ; B1; Reisen/Verkehr/Auto; Sul ghiaccio è difficile sterzare con la macchina.; Auf Eis ist es schwer, das Auto zu lenken.
+it-xc-0375; Gang (in den zweiten Gang schalten); la marcia; ; B2; Reisen/Verkehr/Auto; Metti la prima marcia e parti piano.; Leg den ersten Gang ein und fahr langsam los.
 it-xc-0376; Windschutzscheibe; il parabrezza; ; B2; Reisen/Verkehr/Auto; Un sasso ha incrinato il parabrezza.; Ein Stein hat die Windschutzscheibe beschädigt.
 it-xc-0377; Scheinwerfer; il faro; il proiettore; B2; Reisen/Verkehr/Auto; Accendi i fari, sta diventando buio.; Mach die Scheinwerfer an, es wird dunkel.
 it-xc-0378; rückwärts fahren; fare retromarcia; andare in retromarcia; B1; Reisen/Verkehr/Auto; È uscita dal garage facendo retromarcia con attenzione.; Sie ist vorsichtig rückwärts aus der Garage gefahren.
@@ -401,7 +401,7 @@ it-xc-0398; Auffahrunfall; il tamponamento; ; C1; Reisen/Verkehr/Straße & Regel
 it-xc-0399; Parklücke; il posto auto; ; B1; Reisen/Verkehr/Straße & Regeln; Ci abbiamo messo venti minuti a trovare un posto auto libero.; Wir haben zwanzig Minuten gebraucht, um eine Parklücke zu finden.
 it-xc-0400; Gegenverkehr; il traffico in senso contrario; il traffico contrario; B2; Reisen/Verkehr/Straße & Regeln; Non sorpassare qui, c'è troppo traffico in senso contrario.; Überhol hier nicht, es gibt zu viel Gegenverkehr.
 it-xc-0401; Rastplatz; l'area di sosta; l'area di servizio; B2; Reisen/Verkehr/Straße & Regeln; Fermiamoci alla prossima area di sosta a sgranchirci le gambe.; Lass uns am nächsten Rastplatz anhalten und uns die Beine vertreten.
-it-xc-0402; Abkürzung (Weg); la scorciatoia; ; B1; Reisen/Verkehr/Wegbeschreibung; Abbiamo preso una scorciatoia attraverso il parco.; Wir haben eine Abkürzung durch den Park genommen.
+it-xc-0402; Abkürzung (eine Abkürzung nehmen); la scorciatoia; ; B1; Reisen/Verkehr/Wegbeschreibung; Abbiamo preso una scorciatoia attraverso il parco.; Wir haben eine Abkürzung durch den Park genommen.
 it-xc-0403; Arbeitsweg; il tragitto casa-lavoro; il tragitto per andare al lavoro; B2; Reisen/Verkehr/Straße & Regeln; In treno il mio tragitto casa-lavoro dura quaranta minuti.; Mein Arbeitsweg dauert mit dem Zug vierzig Minuten.
 it-xc-0404; Reisebus; il pullman; ; B1; Reisen/Verkehr/Bus & Bahn; Tutta la classe è andata a Firenze in pullman.; Die ganze Klasse ist mit dem Reisebus nach Florenz gefahren.
 it-xc-0405; Fernbus; l'autobus a lunga percorrenza; il pullman a lunga percorrenza; B1; Reisen/Verkehr/Bus & Bahn; L'autobus a lunga percorrenza costa meno del treno.; Der Fernbus ist billiger als der Zug.
@@ -414,7 +414,7 @@ it-xc-0411; Hauptbahnhof; la stazione centrale; ; A2; Reisen/Verkehr/Bus & Bahn;
 it-xc-0412; Sitzplatzreservierung; la prenotazione del posto; ; B1; Reisen/Verkehr/Bus & Bahn; A Natale la prenotazione del posto è indispensabile.; An Weihnachten braucht man unbedingt eine Sitzplatzreservierung.
 it-xc-0413; erste Klasse; la prima classe; ; A2; Reisen/Verkehr/Bus & Bahn; Ci siamo concessi un lusso e abbiamo viaggiato in prima classe.; Wir haben uns etwas gegönnt und sind erste Klasse gefahren.
 it-xc-0414; Busfahrer; l'autista dell'autobus; l'autista; A2; Reisen/Verkehr/Bus & Bahn; L'autista dell'autobus mi ha aspettato alla fermata.; Der Busfahrer hat an der Haltestelle auf mich gewartet.
-it-xc-0415; Schalter (Bahnhof); la biglietteria; lo sportello; B1; Reisen/Verkehr/Bus & Bahn; Il biglietto si può comprare in biglietteria o online.; Eine Fahrkarte kann man am Schalter oder online kaufen.
+it-xc-0415; Schalter (Fahrkarten am Schalter); la biglietteria; lo sportello; B1; Reisen/Verkehr/Bus & Bahn; Il biglietto si può comprare in biglietteria o online.; Eine Fahrkarte kann man am Schalter oder online kaufen.
 it-xc-0416; Gepäckband; il nastro bagagli; il nastro trasportatore; B2; Reisen/Urlaub/Flughafen; Abbiamo aspettato mezz'ora al nastro bagagli.; Wir haben eine halbe Stunde am Gepäckband gewartet.
 it-xc-0417; Flugticket; il biglietto aereo; ; A2; Reisen/Urlaub/Flughafen; I biglietti aerei costavano meno del previsto.; Die Flugtickets waren billiger als erwartet.
 it-xc-0418; Fluggesellschaft; la compagnia aerea; ; B1; Reisen/Urlaub/Flughafen; Con quale compagnia aerea parti per Londra?; Mit welcher Fluggesellschaft fliegst du nach London?

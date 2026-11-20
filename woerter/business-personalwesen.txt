@@ -5,7 +5,7 @@ pw-0003; Bewerbung; application; job application; A2; Business/Personal/Recruiti
 pw-0004; Lebenslauf; CV; resume, curriculum vitae; A2; Business/Personal/Recruiting; Her CV shows ten years of project experience.; Ihr Lebenslauf zeigt zehn Jahre Projekterfahrung.
 pw-0005; Anschreiben; cover letter; letter of application; B1; Business/Personal/Recruiting; A good cover letter explains why you want the job.; Ein gutes Anschreiben erklärt, warum Sie die Stelle wollen.
 pw-0006; Vorstellungsgespräch; job interview; interview; A2; Business/Personal/Recruiting; The job interview lasted almost two hours.; Das Vorstellungsgespräch dauerte fast zwei Stunden.
-pw-0007; einstellen (Personal); to hire; to recruit, to employ; A2; Business/Personal/Recruiting; We plan to hire five new developers this year.; Wir planen, dieses Jahr fünf neue Entwickler einzustellen.
+pw-0007; einstellen (neue Mitarbeiter einstellen); to hire; to recruit, to employ; A2; Business/Personal/Recruiting; We plan to hire five new developers this year.; Wir planen, dieses Jahr fünf neue Entwickler einzustellen.
 pw-0008; Personalabteilung; human resources department; HR department; B1; Business/Personal/Recruiting; The human resources department answers all questions about contracts.; Die Personalabteilung beantwortet alle Fragen zu Verträgen.
 pw-0009; Personalbeschaffung; recruitment; recruiting, talent acquisition; B2; Business/Personal/Recruiting; Recruitment takes longer when few experts are available.; Die Personalbeschaffung dauert länger, wenn wenige Fachleute verfügbar sind.
 pw-0010; Stellenangebot; job offer; employment offer; B1; Business/Personal/Recruiting; She received a job offer from a large bank.; Sie erhielt ein Stellenangebot von einer großen Bank.
@@ -45,7 +45,7 @@ pw-0043; Hospitation; job shadowing; work shadowing; C2; Business/Personal/Onboa
 pw-0044; Chef; boss; superior, manager; A1; Business/Personal/Onboarding; My boss explains the goals for the week.; Mein Chef erklärt die Ziele für die Woche.
 pw-0045; Willkommensveranstaltung; welcome event; orientation event; B2; Business/Personal/Onboarding; The welcome event for new staff starts at nine.; Die Willkommensveranstaltung für neue Mitarbeiter beginnt um neun.
 pw-0046; Gehalt; salary; ; A2; Business/Personal/Vergütung & Benefits; The salary is paid at the end of each month.; Das Gehalt wird am Ende jedes Monats gezahlt.
-pw-0047; Lohn (Bezahlung); wage; wages, pay; A2; Business/Personal/Vergütung & Benefits; The hourly wage in this factory is quite fair.; Der Stundenlohn in dieser Fabrik ist recht fair.
+pw-0047; Lohn (der Lohn pro Stunde); wage; wages, pay; A2; Business/Personal/Vergütung & Benefits; The hourly wage in this factory is quite fair.; Der Stundenlohn in dieser Fabrik ist recht fair.
 pw-0048; Vergütung; remuneration; compensation; C1; Business/Personal/Vergütung & Benefits; The total remuneration includes a fixed and a variable part.; Die Gesamtvergütung umfasst einen festen und einen variablen Teil.
 pw-0049; Prämie; bonus; incentive payment; B1; Business/Personal/Vergütung & Benefits; The team received a bonus for the successful project.; Das Team erhielt eine Prämie für das erfolgreiche Projekt.
 pw-0050; Gehaltserhöhung; pay rise; salary increase, raise; B2; Business/Personal/Vergütung & Benefits; She asked for a pay rise after two years.; Sie bat nach zwei Jahren um eine Gehaltserhöhung.
@@ -131,8 +131,8 @@ pw-0129; Arbeitssicherheit; occupational safety; workplace safety; B2; Business/
 pw-0130; Betriebsvereinbarung; works agreement; company agreement; C2; Business/Personal/Arbeitsrecht; A new works agreement regulates remote work rules.; Eine neue Betriebsvereinbarung regelt die Regeln für Homeoffice.
 pw-0131; Abmahnung; written warning; formal warning; C1; Business/Personal/Arbeitsrecht; He received a written warning for repeated lateness.; Er erhielt eine Abmahnung wegen wiederholter Verspätung.
 pw-0132; Arbeitszeitgesetz; working time act; ; C2; Business/Personal/Arbeitsrecht; The working time act limits daily hours to ten.; Das Arbeitszeitgesetz begrenzt die tägliche Arbeitszeit auf zehn Stunden.
-pw-0133; Kündigung (Stelle); dismissal; termination; B1; Business/Personal/Trennung; The dismissal must be delivered in written form.; Die Kündigung muss in schriftlicher Form zugestellt werden.
-pw-0134; kündigen (Stelle); to resign; to quit, to hand in one's notice; B1; Business/Personal/Trennung; She decided to resign after fifteen years with the firm.; Sie beschloss, nach fünfzehn Jahren in der Firma zu kündigen.
+pw-0133; Kündigung (der Arbeitsstelle); dismissal; termination; B1; Business/Personal/Trennung; The dismissal must be delivered in written form.; Die Kündigung muss in schriftlicher Form zugestellt werden.
+pw-0134; kündigen (seine Stelle kündigen); to resign; to quit, to hand in one's notice; B1; Business/Personal/Trennung; She decided to resign after fifteen years with the firm.; Sie beschloss, nach fünfzehn Jahren in der Firma zu kündigen.
 pw-0135; entlassen; to dismiss; to fire, to lay off; B1; Business/Personal/Trennung; The company had to dismiss twenty workers last year.; Das Unternehmen musste letztes Jahr zwanzig Mitarbeiter entlassen.
 pw-0136; Kündigungsfrist; notice period; period of notice; B2; Business/Personal/Trennung; My notice period is three months to the quarter.; Meine Kündigungsfrist beträgt drei Monate zum Quartal.
 pw-0137; Abfindung; severance pay; severance package; C1; Business/Personal/Trennung; He negotiated a generous severance pay with his employer.; Er verhandelte eine großzügige Abfindung mit seinem Arbeitgeber.

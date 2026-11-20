@@ -34,24 +34,24 @@ ab-0032; verdienen; to earn; ; A2; Arbeit/Beruf/Vertrag & Gehalt; She earns good
 ab-0033; Arbeitgeber; employer; ; A2; Arbeit/Beruf/Vertrag & Gehalt; My employer pays for my train ticket.; Mein Arbeitgeber bezahlt meine Zugfahrkarte.
 ab-0034; Arbeitnehmer; employee; worker; A2; Arbeit/Beruf/Vertrag & Gehalt; Every employee gets thirty days of holiday.; Jeder Arbeitnehmer bekommt dreißig Tage Urlaub.
 ab-0035; Fabrik; factory; plant; A2; Arbeit/Beruf/Arbeitsalltag; The factory produces cars for the whole world.; Die Fabrik produziert Autos für die ganze Welt.
-ab-0036; Werkstatt (Auto); garage; repair shop; A2; Arbeit/Beruf/Arbeitsalltag; My car is in the garage until Friday.; Mein Auto ist bis Freitag in der Werkstatt.
+ab-0036; Werkstatt (mit dem Auto in die Werkstatt); garage; repair shop; A2; Arbeit/Beruf/Arbeitsalltag; My car is in the garage until Friday.; Mein Auto ist bis Freitag in der Werkstatt.
 ab-0037; Termin; appointment; ; A2; Arbeit/Beruf/Arbeitsalltag; I have an important appointment on Monday morning.; Ich habe am Montagmorgen einen wichtigen Termin.
 ab-0038; Urlaub; vacation; holiday; A2; Arbeit/Beruf/Arbeitsalltag; We take our vacation in August this year.; Wir nehmen unseren Urlaub dieses Jahr im August.
 ab-0039; Teilzeit; part-time; ; A2; Arbeit/Beruf/Vertrag & Gehalt; She works part-time because of her children.; Sie arbeitet wegen ihrer Kinder in Teilzeit.
 ab-0040; Vollzeit; full-time; ; A2; Arbeit/Beruf/Vertrag & Gehalt; He works full-time in a large bank.; Er arbeitet Vollzeit in einer großen Bank.
 ab-0041; Bewerbung; application; job application; A2; Arbeit/Beruf/Bewerbung; I send my application by email today.; Ich schicke meine Bewerbung heute per E-Mail.
 ab-0042; Lebenslauf; CV; resume, curriculum vitae; A2; Arbeit/Beruf/Bewerbung; Please add a photo to your CV.; Bitte fügen Sie Ihrem Lebenslauf ein Foto hinzu.
-ab-0043; Stelle (Arbeitsplatz); position; post, job opening; A2; Arbeit/Beruf/Bewerbung; The new position starts on the first of May.; Die neue Stelle beginnt am ersten Mai.
+ab-0043; Stelle (eine neue Stelle suchen); position; post, job opening; A2; Arbeit/Beruf/Bewerbung; The new position starts on the first of May.; Die neue Stelle beginnt am ersten Mai.
 ab-0044; Arbeitsplatz; workplace; ; A2; Arbeit/Beruf/Arbeitsalltag; My workplace is bright and very quiet.; Mein Arbeitsplatz ist hell und sehr ruhig.
 ab-0045; Überstunden; overtime; extra hours; A2; Arbeit/Beruf/Arbeitsalltag; He often does overtime at the end of the month.; Er macht am Monatsende oft Überstunden.
-ab-0046; kündigen (Stelle); to quit; to hand in one's notice, to resign; A2; Arbeit/Beruf/Kündigung; She wants to quit her boring job.; Sie will ihren langweiligen Job kündigen.
+ab-0046; kündigen (seine Stelle kündigen); to quit; to hand in one's notice, to resign; A2; Arbeit/Beruf/Kündigung; She wants to quit her boring job.; Sie will ihren langweiligen Job kündigen.
 ab-0047; Rentner; pensioner; retiree; A2; Arbeit/Beruf/Rechte & Soziales; The pensioner enjoys his free time in the garden.; Der Rentner genießt seine freie Zeit im Garten.
 ab-0048; Praktikum; internship; work placement; A2; Arbeit/Beruf/Karriere; I am doing an internship at a newspaper.; Ich mache ein Praktikum bei einer Zeitung.
 ab-0049; Ausbildung; apprenticeship; vocational training; A2; Arbeit/Beruf/Karriere; He starts an apprenticeship as an electrician in August.; Er beginnt im August eine Ausbildung als Elektriker.
 ab-0050; arbeitslos; unemployed; out of work; A2; Arbeit/Beruf/Rechte & Soziales; He was unemployed for six months last year.; Er war letztes Jahr sechs Monate arbeitslos.
 ab-0051; Vorstellungsgespräch; job interview; interview; B1; Arbeit/Beruf/Bewerbung; She is well prepared for the job interview.; Sie ist gut auf das Vorstellungsgespräch vorbereitet.
 ab-0052; Arbeitsvertrag; employment contract; work contract; B1; Arbeit/Beruf/Vertrag & Gehalt; Please read the employment contract before you sign it.; Bitte lesen Sie den Arbeitsvertrag, bevor Sie ihn unterschreiben.
-ab-0053; Kündigung (Stelle); termination; dismissal, notice; B1; Arbeit/Beruf/Kündigung; He received his termination at the end of March.; Er erhielt seine Kündigung Ende März.
+ab-0053; Kündigung (der Arbeitsstelle); termination; dismissal, notice; B1; Arbeit/Beruf/Kündigung; He received his termination at the end of March.; Er erhielt seine Kündigung Ende März.
 ab-0054; Probezeit; probation period; trial period, probationary period; B1; Arbeit/Beruf/Vertrag & Gehalt; The probation period lasts six months in this company.; Die Probezeit dauert in dieser Firma sechs Monate.
 ab-0055; Gehaltserhöhung; pay rise; salary increase, raise; B1; Arbeit/Beruf/Vertrag & Gehalt; She asked her boss for a pay rise.; Sie bat ihren Chef um eine Gehaltserhöhung.
 ab-0056; Abteilung; department; division; B1; Arbeit/Beruf/Arbeitsalltag; Our department is responsible for new customers.; Unsere Abteilung ist für neue Kunden zuständig.
@@ -61,7 +61,7 @@ ab-0059; Erfahrung; experience; ; B1; Arbeit/Beruf/Bewerbung; She has many years
 ab-0060; Fähigkeit; skill; ability; B1; Arbeit/Beruf/Bewerbung; Good communication is an important skill in this job.; Gute Kommunikation ist eine wichtige Fähigkeit in diesem Beruf.
 ab-0061; Stärke; strength; ; B1; Arbeit/Beruf/Bewerbung; Please tell us about your greatest strength.; Bitte erzählen Sie uns von Ihrer größten Stärke.
 ab-0062; Schwäche; weakness; ; B1; Arbeit/Beruf/Bewerbung; Everyone should know their own weaknesses well.; Jeder sollte seine eigenen Schwächen gut kennen.
-ab-0063; Zeugnis (Arbeit); certificate; reference; B1; Arbeit/Beruf/Bewerbung; Please attach your certificate to the application.; Bitte fügen Sie der Bewerbung Ihr Zeugnis bei.
+ab-0063; Zeugnis (ein Zeugnis vom Arbeitgeber); certificate; reference; B1; Arbeit/Beruf/Bewerbung; Please attach your certificate to the application.; Bitte fügen Sie der Bewerbung Ihr Zeugnis bei.
 ab-0064; Anforderung; requirement; demand; B1; Arbeit/Beruf/Bewerbung; This position has very high requirements.; Diese Stelle hat sehr hohe Anforderungen.
 ab-0065; Verantwortung; responsibility; ; B1; Arbeit/Beruf/Arbeitsalltag; She takes responsibility for the whole project.; Sie übernimmt die Verantwortung für das ganze Projekt.
 ab-0066; Aufgabe; task; assignment, duty; B1; Arbeit/Beruf/Arbeitsalltag; My first task is to answer customer emails.; Meine erste Aufgabe ist es, Kunden-E-Mails zu beantworten.
@@ -73,13 +73,13 @@ ab-0071; Gewerkschaft; trade union; union; B1; Arbeit/Beruf/Rechte & Soziales; T
 ab-0072; Streik; strike; walkout; B1; Arbeit/Beruf/Rechte & Soziales; The strike at the airport lasted two days.; Der Streik am Flughafen dauerte zwei Tage.
 ab-0073; streiken; to go on strike; to strike; B1; Arbeit/Beruf/Rechte & Soziales; The train drivers want to go on strike tomorrow.; Die Lokführer wollen morgen streiken.
 ab-0074; Arbeitszeit; working hours; work time; B1; Arbeit/Beruf/Arbeitsalltag; Our working hours are flexible in this company.; Unsere Arbeitszeiten sind in dieser Firma flexibel.
-ab-0075; Schicht (Arbeit); shift; ; B1; Arbeit/Beruf/Arbeitsalltag; My shift starts at six in the morning.; Meine Schicht beginnt um sechs Uhr morgens.
+ab-0075; Schicht (in Schichten arbeiten); shift; ; B1; Arbeit/Beruf/Arbeitsalltag; My shift starts at six in the morning.; Meine Schicht beginnt um sechs Uhr morgens.
 ab-0076; Mindestlohn; minimum wage; ; B1; Arbeit/Beruf/Vertrag & Gehalt; The minimum wage will rise again next year.; Der Mindestlohn steigt nächstes Jahr wieder.
-ab-0077; Lohn (Bezahlung); wage; wages; B1; Arbeit/Beruf/Vertrag & Gehalt; The workers receive their wage every Friday.; Die Arbeiter erhalten ihren Lohn jeden Freitag.
+ab-0077; Lohn (der Lohn pro Stunde); wage; wages; B1; Arbeit/Beruf/Vertrag & Gehalt; The workers receive their wage every Friday.; Die Arbeiter erhalten ihren Lohn jeden Freitag.
 ab-0078; Steuer; tax; ; B1; Arbeit/Beruf/Rechte & Soziales; I pay less tax than last year.; Ich zahle weniger Steuern als letztes Jahr.
 ab-0079; Versicherung; insurance; ; B1; Arbeit/Beruf/Rechte & Soziales; Good insurance is important for every worker.; Eine gute Versicherung ist für jeden Arbeitnehmer wichtig.
 ab-0080; Rente; pension; retirement pay; B1; Arbeit/Beruf/Rechte & Soziales; My grandfather receives a small pension every month.; Mein Großvater bekommt jeden Monat eine kleine Rente.
-ab-0081; einstellen (Personal); to hire; to employ, to recruit; B1; Arbeit/Beruf/Karriere; The company wants to hire three new developers.; Die Firma möchte drei neue Entwickler einstellen.
+ab-0081; einstellen (neue Mitarbeiter einstellen); to hire; to employ, to recruit; B1; Arbeit/Beruf/Karriere; The company wants to hire three new developers.; Die Firma möchte drei neue Entwickler einstellen.
 ab-0082; entlassen; to dismiss; to lay off, to fire; B1; Arbeit/Beruf/Kündigung; The factory dismissed twenty workers in October.; Die Fabrik entließ im Oktober zwanzig Arbeiter.
 ab-0083; Berufserfahrung; professional experience; work experience; B1; Arbeit/Beruf/Bewerbung; This job requires five years of professional experience.; Diese Stelle erfordert fünf Jahre Berufserfahrung.
 ab-0084; Anschreiben; cover letter; covering letter; B1; Arbeit/Beruf/Bewerbung; A good cover letter should be short and clear.; Ein gutes Anschreiben sollte kurz und klar sein.
@@ -108,7 +108,7 @@ ab-0106; Nettogehalt; net salary; take-home pay; B2; Arbeit/Beruf/Vertrag & Geha
 ab-0107; Sozialversicherung; social insurance; social security; B2; Arbeit/Beruf/Rechte & Soziales; Social insurance protects workers in difficult times.; Die Sozialversicherung schützt Arbeitnehmer in schwierigen Zeiten.
 ab-0108; Altersvorsorge; retirement provision; pension plan; B2; Arbeit/Beruf/Rechte & Soziales; Private retirement provision is becoming more and more important.; Private Altersvorsorge wird immer wichtiger.
 ab-0109; Quereinsteiger; career changer; lateral entrant; B2; Arbeit/Beruf/Karriere; As a career changer he quickly learned the basics.; Als Quereinsteiger lernte er schnell die Grundlagen.
-ab-0110; Berufung (Lebensaufgabe); vocation; calling; B2; Arbeit/Beruf/Karriere; Teaching is not just her job but her vocation.; Unterrichten ist nicht nur ihr Beruf, sondern ihre Berufung.
+ab-0110; Berufung (seine Berufung finden); vocation; calling; B2; Arbeit/Beruf/Karriere; Teaching is not just her job but her vocation.; Unterrichten ist nicht nur ihr Beruf, sondern ihre Berufung.
 ab-0111; Arbeitsmarkt; labour market; job market; B2; Arbeit/Beruf/Karriere; The labour market for engineers is very good.; Der Arbeitsmarkt für Ingenieure ist sehr gut.
 ab-0112; Fachkraft; skilled worker; specialist; B2; Arbeit/Beruf/Karriere; The region urgently needs every skilled worker.; Die Region braucht dringend jede Fachkraft.
 ab-0113; Arbeitslosigkeit; unemployment; joblessness; B2; Arbeit/Beruf/Rechte & Soziales; Unemployment fell slightly in the last quarter.; Die Arbeitslosigkeit sank im letzten Quartal leicht.

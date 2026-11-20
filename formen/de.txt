@@ -2364,10 +2364,8 @@ geschah; passieren, geschehen; Präteritum
 litt; leiden, ertragen; Präteritum
 gelitten; leiden, ertragen; Partizip
 ertrug; leiden, ertragen; Präteritum
-lag; liegen, lügen; Präteritum
-gelegen; liegen, lügen; Partizip
-log; liegen, lügen; Präteritum
-gelogen; liegen, lügen; Partizip
+lag; liegen; Präteritum
+gelegen; liegen; Partizip
 dachte nach; nachdenken, überlegen; Präteritum
 nachgedacht; nachdenken, überlegen; Partizip
 schlug; schlagen, besiegen; Präteritum
@@ -2393,8 +2391,8 @@ verließ; weggehen, verlassen; Präteritum
 verließ sich; sich verlassen auf; Präteritum
 verriet; verraten, enthüllen; Präteritum
 verstieß; verstoßen gegen; Präteritum
-ging vorbei; vorbeigehen, bestehen; Präteritum
-vorbeigegangen; vorbeigehen, bestehen; Partizip
+ging vorbei; vorbeigehen; Präteritum
+vorbeigegangen; vorbeigehen; Partizip
 gab heraus; herausgeben, ausstellen; Präteritum
 herausgegeben; herausgeben, ausstellen; Partizip
 schrie an; jemanden anschreien; Präteritum
@@ -2403,8 +2401,8 @@ erschlich sich; sich erschleichen; Präteritum
 erschlichen; sich erschleichen; Partizip
 kam heran; sich nähern, herankommen; Präteritum
 herangekommen; sich nähern, herankommen; Partizip
-betrieb; üben, betreiben; Präteritum
-betrieben; üben, betreiben; Partizip
+betrieb; betreiben; Präteritum
+betrieben; betreiben; Partizip
 hatte an; tragen, anhaben; Präteritum
 angehabt; tragen, anhaben; Partizip
 half aus; jemandem aushelfen, einspringen; Präteritum
@@ -2419,54 +2417,50 @@ entwarf; entwerfen, gestalten; Präteritum
 entworfen; entwerfen, gestalten; Partizip
 fuhr fort; fortfahren, weitermachen; Präteritum
 fortgefahren; fortfahren, weitermachen; Partizip
-verbrachte; ausgeben, verbringen; Präteritum
-verbracht; ausgeben, verbringen; Partizip
+verbrachte; verbringen; Präteritum
+verbracht; verbringen; Partizip
 vertrug sich; sich vertragen; Präteritum
 näher; nah, in der Nähe; Komparativ
 am nächsten; nah, in der Nähe; Superlativ
-härter; hart, fest, schwierig; Komparativ
-am härtesten; hart, fest, schwierig; Superlativ
+härter; hart, fest; Komparativ
+am härtesten; hart, fest; Superlativ
 härter; rau, zäh, hart; Komparativ
 am härtesten; rau, zäh, hart; Superlativ
-größer; groß (Körpergröße); Komparativ
-am größten; groß (Körpergröße); Superlativ
-größer; groß, großartig; Komparativ
-am größten; groß, großartig; Superlativ
+größer; groß (ein großer Mann); Komparativ
+am größten; groß (ein großer Mann); Superlativ
 Typen; Art, Typ, Sorte; Plural
 Sorten; Art, Typ, Sorte; Plural
 Gegenstände; Artikel, Ware, Gegenstand; Plural
 Momente; Augenblick, Moment; Plural
 Aussagen; Aussage, Erklärung; Plural
-Blicke; Aussicht, Blick, Standpunkt; Plural
+Blicke; Aussicht, Blick; Plural
 Effekte; Auswirkung, Effekt; Plural
-Reihenfolgen; Befehl, Reihenfolge, Bestellung; Plural
-Begriffe; Begriff, Semester; Plural
-Aufzeichnungen; Bericht, Aufzeichnung, Rekord; Plural
+Reihenfolgen; Reihenfolge; Plural
+Begriffe; Begriff; Plural
+Aufzeichnungen; Bericht, Aufzeichnung; Plural
 Beschäftigungen; Beschäftigung, Aktivität; Plural
 Aktivitäten; Beschäftigung, Aktivität; Plural
 Grundsätze; Bestimmung, Grundsatz; Plural
-Buchstaben; Brief, Buchstabe; Plural
+Buchstaben; Buchstabe; Plural
 Dienste; Dienst, Service; Plural
 Services; Dienst, Service; Plural
 Dinge; Ding, Sache; Plural
 Sachen; Ding, Sache; Plural
 Orte; Dorf, Ort; Plural
-Drogen; Droge, Medikament; Plural
+Drogen; Droge; Plural
 Enkelsöhne; Enkel, Enkelsohn; Plural
 Vorfälle; Ereignis, Vorfall; Plural
 Fakten; Fakt, Tatsache; Plural
 Tatsachen; Fakt, Tatsache; Plural
 Reihen; Folge, Serie, Reihe; Plural
-Fußböden; Fußboden, Etage; Plural
-Etagen; Fußboden, Etage; Plural
+Etagen; Etage; Plural
 Gebiete; Gegend, Gebiet; Plural
 Gegenstände; Gegenstand, Objekt; Plural
 Objekte; Gegenstand, Objekt; Plural
-Zufälle; Gelegenheit, Zufall; Plural
+Zufälle; Zufall; Plural
 Geräusche; Geräusch, Klang; Plural
 Klänge; Geräusch, Klang; Plural
-Läden; Geschäft, Laden; Plural
-Gestalten; Gestalt, Figur, Zahl; Plural
+Gestalten; Gestalt, Figur; Plural
 Großstädte; Großstadt, Stadt; Plural
 Ursachen; Grund, Ursache; Plural
 Grundstücke; Grundstück, Stätte, Standort; Plural
@@ -2474,23 +2468,22 @@ Stätten; Grundstück, Stätte, Standort; Plural
 Standorte; Grundstück, Stätte, Standort; Plural
 Taten; Handlung, Tat, Aktion; Plural
 Aktionen; Handlung, Tat, Aktion; Plural
-Höfe; Hof, Hinterhof, Gericht; Plural
-Hinterhöfe; Hof, Hinterhof, Gericht; Plural
-Zinsen; Interesse, Zins; Plural
+Höfe; Hof, Hinterhof; Plural
+Hinterhöfe; Hof, Hinterhof; Plural
 Werdegänge; Karriere, Werdegang; Plural
 Kisten; Kiste, Schachtel; Plural
 Schachteln; Kiste, Schachtel; Plural
-Leichen; Körper, Leiche; Plural
-Kurse; Kurs, Verlauf; Plural
-Verläufe; Kurs, Verlauf; Plural
+Leichen; Leiche; Plural
+Kurse; Kurs; Plural
+Verläufe; Verlauf; Plural
 Lagen; Lage, Position, Stellung; Plural
 Stellungen; Lage, Position, Stellung; Plural
-Linien; Linie, Zeile; Plural
-Zeilen; Linie, Zeile; Plural
+Linien; Linie; Plural
+Zeilen; Zeile; Plural
 Zentren; Mitte, Zentrum; Plural
-Mitteilungen; Nachricht, Mitteilung; Plural
+Mitteilungen; Mitteilung; Plural
 Orte; Ort, Stelle; Plural
-Betriebe; Pflanze, Betrieb, Fabrik; Plural
+Betriebe; Betrieb, Fabrik; Plural
 Räume; Platz, Raum; Plural
 Prozesse; Prozess, Vorgang; Plural
 Ränder; Rand, Kante; Plural
@@ -2498,21 +2491,21 @@ Kanten; Rand, Kante; Plural
 Regionen; Region, Gebiet; Plural
 Gebiete; Region, Gebiet; Plural
 Funktionen; Rolle, Funktion, Aufgabe; Plural
-Rückseiten; Rücken, Rückseite; Plural
+Rückseiten; Rückseite; Plural
 Schauplätze; Schauplatz, Szene; Plural
 Szenen; Schauplatz, Szene; Plural
 Ränder; Seite, Rand; Plural
-Strukturen; Struktur, Gliederung, Gebäude; Plural
-Gliederungen; Struktur, Gliederung, Gebäude; Plural
-Stufen; Stufe, Schritt; Plural
+Strukturen; Struktur, Gliederung; Plural
+Gliederungen; Struktur, Gliederung; Plural
+Stufen; Stufe; Plural
 Systeme; System, Methode; Plural
 Schläge; Treffer, Schlag; Plural
 Typen; Typ, Kerl; Plural
 Kerle; Typ, Kerl; Plural
 Umgebungen; Umwelt, Umfeld, Umgebung; Plural
 Vorderseiten; Vorderseite, Vorderteil; Plural
-Zustände; Zustand, Bundesland, Staat; Plural
-Bundesländer; Zustand, Bundesland, Staat; Plural
+Zustände; Zustand; Plural
+Bundesländer; Bundesland; Plural
 befristete Verträge; befristeter Vertrag; Plural
 unbefristete Verträge; unbefristeter Vertrag; Plural
 soziale Netzwerke; soziales Netzwerk; Plural

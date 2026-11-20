@@ -31,7 +31,7 @@ no-gc-0028; Hoffnung; et håp; ; A2; Mensch/Gefühle/Emotionen; Det er fortsatt 
 no-gc-0029; Sorge; en bekymring; ; A2; Mensch/Gefühle/Emotionen; Den største bekymringen hennes er å miste jobben.; Ihre größte Sorge ist, die Arbeit zu verlieren.
 no-gc-0030; sich freuen; å glede seg; ; A2; Mensch/Gefühle/Emotionen; Jeg gleder meg over hver eneste lille suksess.; Ich freue mich über jeden kleinen Erfolg.
 no-gc-0031; nervös; nervøs; ; A2; Mensch/Gefühle/Stimmungen; Han er alltid nervøs før en prøve.; Vor einer Prüfung ist er immer nervös.
-no-gc-0032; sauer (verärgert); sur; ; A2; Mensch/Gefühle/Emotionen; Hun er sur fordi han glemte bursdagen hennes.; Sie ist sauer, weil er ihren Geburtstag vergessen hat.
+no-gc-0032; sauer (auf jemanden sauer sein); sur; ; A2; Mensch/Gefühle/Emotionen; Hun er sur fordi han glemte bursdagen hennes.; Sie ist sauer, weil er ihren Geburtstag vergessen hat.
 no-gc-0033; zufrieden; fornøyd; ; A2; Mensch/Gefühle/Stimmungen; Jeg er fornøyd med resultatet av testen.; Ich bin mit dem Ergebnis des Tests zufrieden.
 no-gc-0034; überrascht; overrasket; ; A2; Mensch/Gefühle/Emotionen; Vi ble overrasket over den plutselige invitasjonen.; Wir waren von der plötzlichen Einladung überrascht.
 no-gc-0035; Überraschung; en overraskelse; ; A2; Mensch/Gefühle/Emotionen; Festen var en total overraskelse for henne.; Die Party war eine völlige Überraschung für sie.
@@ -51,7 +51,7 @@ no-gc-0048; ehrlich; ærlig; ; A2; Mensch/Gefühle/Charakter; Vær ærlig mot me
 no-gc-0049; lügen; å lyve; ; A2; Mensch/Gefühle/Verhalten; Du bør aldri lyve for vennene dine.; Du solltest deine Freunde niemals anlügen.
 no-gc-0050; klug; smart; klok, intelligent; A2; Mensch/Gefühle/Charakter; Hun er smart og lærer språk raskt.; Sie ist klug und lernt Sprachen schnell.
 no-gc-0051; dumm; dum; tåpelig; A2; Mensch/Gefühle/Charakter; Det var dumt å gå ut uten jakke.; Es war dumm, ohne Jacke loszugehen.
-no-gc-0052; faul (träge); lat; ; A2; Mensch/Gefühle/Charakter; På søndager er vi alle litt late.; Sonntags sind wir alle ein bisschen faul.
+no-gc-0052; faul (zu faul zum Lernen); lat; ; A2; Mensch/Gefühle/Charakter; På søndager er vi alle litt late.; Sonntags sind wir alle ein bisschen faul.
 no-gc-0053; fleißig; flittig; ; A2; Mensch/Gefühle/Charakter; Den flittige studenten fullførte prosjektet tidlig.; Der fleißige Student beendete das Projekt früh.
 no-gc-0054; geduldig; tålmodig; ; A2; Mensch/Gefühle/Charakter; En god lærer er tålmodig med nybegynnere.; Ein guter Lehrer ist geduldig mit Anfängern.
 no-gc-0055; ungeduldig; utålmodig; ; A2; Mensch/Gefühle/Charakter; Han blir utålmodig når han må vente.; Er wird ungeduldig, wenn er warten muss.

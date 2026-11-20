@@ -4,13 +4,13 @@ no-wf-0001; Geld; penger; ; A1; Wirtschaft/Finanzen/Geld & Zahlung; Hvor mye pen
 no-wf-0002; kaufen; å kjøpe; ; A1; Wirtschaft/Finanzen/Markt & Handel; Vi vil kjøpe ferskt brød i dag.; Wir wollen heute frisches Brot kaufen.
 no-wf-0003; verkaufen; å selge; ; A1; Wirtschaft/Finanzen/Markt & Handel; Han vil selge den gamle bilen sin.; Er will sein altes Auto verkaufen.
 no-wf-0004; bezahlen; å betale; ; A1; Wirtschaft/Finanzen/Geld & Zahlung; Kan jeg betale med kort her?; Kann ich hier mit Karte bezahlen?
-no-wf-0005; Preis (Kosten); en pris; ; A1; Wirtschaft/Finanzen/Markt & Handel; Prisen på kaffe har gått opp igjen.; Der Preis für Kaffee ist wieder gestiegen.
+no-wf-0005; Preis (ein günstiger Preis); en pris; ; A1; Wirtschaft/Finanzen/Markt & Handel; Prisen på kaffe har gått opp igjen.; Der Preis für Kaffee ist wieder gestiegen.
 no-wf-0006; teuer; dyr; ; A1; Wirtschaft/Finanzen/Markt & Handel; Dette hotellet er for dyrt for oss.; Dieses Hotel ist zu teuer für uns.
 no-wf-0007; billig; billig; ; A1; Wirtschaft/Finanzen/Markt & Handel; Grønnsaker er billige på markedet i dag.; Gemüse ist heute auf dem Markt billig.
-no-wf-0008; Geschäft (Laden); en butikk; en forretning; A1; Wirtschaft/Finanzen/Markt & Handel; Butikken åpner klokka ni om morgenen.; Das Geschäft öffnet um neun Uhr morgens.
+no-wf-0008; Geschäft (im Geschäft einkaufen); en butikk; en forretning; A1; Wirtschaft/Finanzen/Markt & Handel; Butikken åpner klokka ni om morgenen.; Das Geschäft öffnet um neun Uhr morgens.
 no-wf-0009; arbeiten; å jobbe; å arbeide; A1; Wirtschaft/Finanzen/Arbeit & Einkommen; Hun jobber i en bank i Bergen.; Sie arbeitet in einer Bank in Bergen.
 no-wf-0010; Firma; et firma; ; A1; Wirtschaft/Finanzen/Unternehmen; Firmaet mitt har kontorer i tre byer.; Meine Firma hat Büros in drei Städten.
-no-wf-0011; Bank (Geldinstitut); en bank; ; A2; Wirtschaft/Finanzen/Bank; Banken stenger klokka fire om ettermiddagen.; Die Bank schließt um vier Uhr nachmittags.
+no-wf-0011; Bank (Geld auf die Bank bringen); en bank; ; A2; Wirtschaft/Finanzen/Bank; Banken stenger klokka fire om ettermiddagen.; Die Bank schließt um vier Uhr nachmittags.
 no-wf-0012; Konto; en konto; en bankkonto; A2; Wirtschaft/Finanzen/Bank; Jeg har åpnet en konto for datteren min.; Ich habe ein Konto für meine Tochter eröffnet.
 no-wf-0013; sparen; å spare; å spare penger; A2; Wirtschaft/Finanzen/Bank; Vi sparer penger til en lang ferie.; Wir sparen Geld für einen langen Urlaub.
 no-wf-0014; Kunde; en kunde; ; A2; Wirtschaft/Finanzen/Markt & Handel; Kunden spurte etter en mindre størrelse.; Der Kunde fragte nach einer kleineren Größe.
@@ -20,7 +20,7 @@ no-wf-0017; Markt; et marked; et torg; A2; Wirtschaft/Finanzen/Markt & Handel; M
 no-wf-0018; Angebot; et tilbud; ; A2; Wirtschaft/Finanzen/Markt & Handel; Tilbudet gjelder bare frem til fredag.; Das Angebot gilt nur bis einschließlich Freitag.
 no-wf-0019; verdienen; å tjene; ; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; Hun tjener gode penger som ingeniør.; Sie verdient als Ingenieurin gutes Geld.
 no-wf-0020; Gehalt; en lønn; ei lønn; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; Lønnen blir utbetalt på slutten av måneden.; Das Gehalt wird am Ende des Monats gezahlt.
-no-wf-0021; Lohn (Bezahlung); en lønn; ; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; Lønnen blir betalt ut kontant hver uke.; Der Lohn wird jede Woche bar ausgezahlt.
+no-wf-0021; Lohn (der Lohn pro Stunde); en lønn; ; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; Lønnen blir betalt ut kontant hver uke.; Der Lohn wird jede Woche bar ausgezahlt.
 no-wf-0022; Chef; en sjef; ; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; Sjefen min er på forretningsreise i dag.; Mein Chef ist heute auf Geschäftsreise.
 no-wf-0023; Mitarbeiter; en ansatt; en medarbeider; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; Firmaet har fått tjue nye ansatte i vår.; Die Firma stellte in diesem Frühjahr zwanzig neue Mitarbeiter ein.
 no-wf-0024; Beruf; et yrke; ; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; Pleie er et slitsomt, men viktig yrke.; Pflege ist ein anstrengender, aber wichtiger Beruf.
@@ -45,21 +45,21 @@ no-wf-0042; Kosten; kostnader; utgifter; B1; Wirtschaft/Finanzen/Unternehmen; Ko
 no-wf-0043; Einkommen; en inntekt; ; B1; Wirtschaft/Finanzen/Arbeit & Einkommen; Inntekten hennes avhenger av antall oppdrag.; Ihr Einkommen hängt von der Zahl der Aufträge ab.
 no-wf-0044; Einnahmen; inntekter; ; B1; Wirtschaft/Finanzen/Unternehmen; Museets inntekter kommer hovedsakelig fra billettsalg.; Die Einnahmen des Museums stammen hauptsächlich aus Eintrittskarten.
 no-wf-0045; Handel; en handel; ; B1; Wirtschaft/Finanzen/Markt & Handel; Handelen mellom de to landene vokser jevnt.; Der Handel zwischen den beiden Ländern wächst stetig.
-no-wf-0046; handeln (Handel treiben); å drive handel; å handle med; B1; Wirtschaft/Finanzen/Markt & Handel; Firmaet driver handel med kaffe og fine krydder.; Die Firma handelt mit Kaffee und feinen Gewürzen.
+no-wf-0046; handeln (mit Waren handeln); å drive handel; å handle med; B1; Wirtschaft/Finanzen/Markt & Handel; Firmaet driver handel med kaffe og fine krydder.; Die Firma handelt mit Kaffee und feinen Gewürzen.
 no-wf-0047; exportieren; å eksportere; ; B1; Wirtschaft/Finanzen/Markt & Handel; Tyskland eksporterer maskiner til hele verden.; Deutschland exportiert Maschinen in die ganze Welt.
 no-wf-0048; importieren; å importere; ; B1; Wirtschaft/Finanzen/Markt & Handel; Vi importerer det meste av frukten fra Spania.; Wir importieren das meiste Obst aus Spanien.
 no-wf-0049; Lieferung; en levering; en leveranse; B1; Wirtschaft/Finanzen/Markt & Handel; Leveringen kom to dager tidligere enn planlagt.; Die Lieferung kam zwei Tage früher als geplant.
 no-wf-0050; Ware; en vare; ; B1; Wirtschaft/Finanzen/Markt & Handel; Varen blir kontrollert før den forlater fabrikken.; Die Ware wird geprüft, bevor sie das Werk verlässt.
-no-wf-0051; Lager (Waren); et lager; et varelager; B1; Wirtschaft/Finanzen/Markt & Handel; Lageret er alltid fullt før jul.; Das Lager ist vor Weihnachten immer voll.
+no-wf-0051; Lager (Waren im Lager); et lager; et varelager; B1; Wirtschaft/Finanzen/Markt & Handel; Lageret er alltid fullt før jul.; Das Lager ist vor Weihnachten immer voll.
 no-wf-0052; Nachfrage; en etterspørsel; ; B1; Wirtschaft/Finanzen/Markt & Handel; Etterspørselen etter varmepumper øker veldig raskt.; Die Nachfrage nach Wärmepumpen steigt schnell.
-no-wf-0053; Wettbewerb (Konkurrenz); en konkurranse; ; B1; Wirtschaft/Finanzen/Markt & Handel; Hard konkurranse holder prisene svært lave.; Starker Wettbewerb hält die Preise sehr niedrig.
+no-wf-0053; Wettbewerb (zwischen Firmen); en konkurranse; ; B1; Wirtschaft/Finanzen/Markt & Handel; Hard konkurranse holder prisene svært lave.; Starker Wettbewerb hält die Preise sehr niedrig.
 no-wf-0054; Konkurrent; en konkurrent; ; B1; Wirtschaft/Finanzen/Markt & Handel; Vår største konkurrent senket prisene sine i går.; Unser größter Konkurrent senkte gestern seine Preise.
 no-wf-0055; Rabatt; en rabatt; ; B1; Wirtschaft/Finanzen/Markt & Handel; Studenter får en rabatt på tjue prosent.; Studenten bekommen einen Rabatt von zwanzig Prozent.
 no-wf-0056; Schulden; gjeld; ; B1; Wirtschaft/Finanzen/Bank; Han betalte ned gjelden sin i løpet av tre år.; Er zahlte seine Schulden innerhalb von drei Jahren ab.
 no-wf-0057; leihen (jemandem etwas); å låne ut; å låne bort; B1; Wirtschaft/Finanzen/Bank; Jeg kan låne ut sykkelen min til deg i helga.; Ich kann dir mein Fahrrad am Wochenende leihen.
 no-wf-0058; überweisen; å overføre penger; ; B1; Wirtschaft/Finanzen/Bank; Jeg har overført penger til utleieren for husleien i dag.; Ich habe die Miete heute an den Vermieter überwiesen.
-no-wf-0059; Überweisung (Bank); en overføring; en bankoverføring; B1; Wirtschaft/Finanzen/Bank; Overføringen mellom bankene tar omtrent en virkedag.; Die Überweisung zwischen den Banken dauert ungefähr einen Werktag.
-no-wf-0060; abheben (Geld); å ta ut penger; å ta ut kontanter; B1; Wirtschaft/Finanzen/Bank; Hun tok ut penger i banken til reisen.; Sie hob für die Reise Geld bei der Bank ab.
+no-wf-0059; Überweisung (Geld per Überweisung); en overføring; en bankoverføring; B1; Wirtschaft/Finanzen/Bank; Overføringen mellom bankene tar omtrent en virkedag.; Die Überweisung zwischen den Banken dauert ungefähr einen Werktag.
+no-wf-0060; abheben (Geld vom Konto abheben); å ta ut penger; å ta ut kontanter; B1; Wirtschaft/Finanzen/Bank; Hun tok ut penger i banken til reisen.; Sie hob für die Reise Geld bei der Bank ab.
 no-wf-0061; einzahlen; å sette inn penger; ; B1; Wirtschaft/Finanzen/Bank; Han setter inn penger på kontoen hver eneste måned.; Er zahlt jeden einzelnen Monat einen kleinen Betrag ein.
 no-wf-0062; Aktie; en aksje; ; B1; Wirtschaft/Finanzen/Investieren & Börse; Aksjen mistet fem prosent av verdien sin.; Die Aktie verlor fünf Prozent ihres Wertes.
 no-wf-0063; Börse; en børs; ; B1; Wirtschaft/Finanzen/Investieren & Börse; Børsen i Oslo reagerte rolig på nyhetene.; Die Börse in Oslo reagierte gelassen auf die Nachrichten.
@@ -103,7 +103,7 @@ no-wf-0100; Einkommensteuer; en inntektsskatt; ; B2; Wirtschaft/Finanzen/Steuern
 no-wf-0101; Steuererklärung; en skattemelding; ; B2; Wirtschaft/Finanzen/Steuern; Jeg leverer skattemeldingen min på nett hver vår.; Ich reiche meine Steuererklärung jedes Frühjahr online ein.
 no-wf-0102; Steuerberater; en skatterådgiver; ; B2; Wirtschaft/Finanzen/Steuern; Skatterådgiveren min fant flere fradrag til meg.; Mein Steuerberater fand mehrere Abzugsmöglichkeiten für mich.
 no-wf-0103; Finanzamt; Skatteetaten; et skattekontor; B2; Wirtschaft/Finanzen/Steuern; Skatteetaten sendte en påminnelse i oktober.; Das Finanzamt schickte im Oktober eine Mahnung.
-no-wf-0104; absetzen (steuerlich); å trekke fra på skatten; å få fradrag for; B2; Wirtschaft/Finanzen/Steuern; Du kan trekke fra reiseutgiftene på skatten.; Du kannst Fahrtkosten von der Steuer absetzen.
+no-wf-0104; absetzen (von der Steuer absetzen); å trekke fra på skatten; å få fradrag for; B2; Wirtschaft/Finanzen/Steuern; Du kan trekke fra reiseutgiftene på skatten.; Du kannst Fahrtkosten von der Steuer absetzen.
 no-wf-0105; Buchhaltung; et regnskap; en bokføring; B2; Wirtschaft/Finanzen/Unternehmen; Et ryddig regnskap sparer deg for bry med Skatteetaten.; Eine saubere Buchhaltung erspart Ärger mit dem Finanzamt.
 no-wf-0106; Bilanz; en balanse; ; B2; Wirtschaft/Finanzen/Unternehmen; Balansen viser alle eiendeler og all gjeld.; Die Bilanz zeigt alle Vermögenswerte und Verbindlichkeiten.
 no-wf-0107; Hypothek; et boliglån; et huslån; B2; Wirtschaft/Finanzen/Bank; De tok opp et boliglån på huset.; Sie nahmen eine Hypothek auf das Haus auf.

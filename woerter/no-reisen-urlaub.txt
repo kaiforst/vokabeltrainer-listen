@@ -6,7 +6,7 @@ no-ru-0003; Urlaub; en ferie; ; A1; Reisen/Urlaub/Planung & Buchung; Ferien min 
 no-ru-0004; Hotel; et hotell; ; A1; Reisen/Urlaub/Unterkunft; Hotellet ligger rett nede ved stranda.; Das Hotel liegt direkt am Strand.
 no-ru-0005; Zimmer; et rom; ; A1; Reisen/Urlaub/Unterkunft; Rommet vårt har utsikt mot havet.; Unser Zimmer hat Blick auf das Meer.
 no-ru-0006; Koffer; en koffert; ; A1; Reisen/Urlaub/Gepäck; Kofferten min er tung på grunn av bøkene.; Mein Koffer ist wegen der Bücher schwer.
-no-ru-0007; Tasche (zum Tragen); en pose; en handlepose; A1; Reisen/Urlaub/Gepäck; Posen med billettene ligger i bilen.; Die Tasche mit den Tickets liegt im Auto.
+no-ru-0007; Tasche (eine Tasche tragen); en pose; en handlepose; A1; Reisen/Urlaub/Gepäck; Posen med billettene ligger i bilen.; Die Tasche mit den Tickets liegt im Auto.
 no-ru-0008; Flugzeug; et fly; ; A1; Reisen/Urlaub/Flughafen; Flyet går klokka seks om morgenen.; Das Flugzeug fliegt um sechs Uhr morgens ab.
 no-ru-0009; fliegen; å fly; ; A1; Reisen/Urlaub/Flughafen; Vi flyr til Lisboa tidlig på lørdag.; Wir fliegen am Samstag früh nach Lissabon.
 no-ru-0010; Flughafen; en flyplass; ; A1; Reisen/Urlaub/Flughafen; Flyplassen ligger tretti minutter fra byen.; Der Flughafen liegt dreißig Minuten von der Stadt entfernt.
@@ -16,11 +16,11 @@ no-ru-0013; Auto; en bil; ; A1; Reisen/Urlaub/Unterwegs; Vi kjører med bilen op
 no-ru-0014; Bus; en buss; ; A1; Reisen/Urlaub/Unterwegs; Bussen til sentrum kommer hvert tiende minutt.; Der Bus in die Altstadt kommt alle zehn Minuten.
 no-ru-0015; Fahrkarte; en billett; ; A1; Reisen/Urlaub/Unterwegs; En billett til innsjøen koster førti kroner.; Eine Fahrkarte zum See kostet vier Euro.
 no-ru-0016; Stadt; en by; ; A1; Reisen/Urlaub/Sightseeing; Den gamle byen er nydelig i kveldslyset.; Die alte Stadt ist im Abendlicht wunderschön.
-no-ru-0017; Land (Staat); et land; ; A1; Reisen/Urlaub/Planung & Buchung; Portugal er et fantastisk land å feriere i.; Portugal ist ein wunderbares Land für einen Urlaub.
+no-ru-0017; Land (ein fremdes Land); et land; ; A1; Reisen/Urlaub/Planung & Buchung; Portugal er et fantastisk land å feriere i.; Portugal ist ein wunderbares Land für einen Urlaub.
 no-ru-0018; Meer; et hav; en sjø; A1; Reisen/Urlaub/Strand & Natur; Havet er varmt og stille i september.; Das Meer ist im September warm und ruhig.
 no-ru-0019; Strand; en strand; ei strand; A1; Reisen/Urlaub/Strand & Natur; Barna leker på stranda hele dagen.; Die Kinder spielen den ganzen Tag am Strand.
 no-ru-0020; Sonne; ei sol; en sol; A1; Reisen/Urlaub/Strand & Natur; Sola skinner her nesten hver dag.; Die Sonne scheint hier fast jeden Tag.
-no-ru-0021; Karte (Landkarte); et kart; ; A1; Reisen/Urlaub/Unterwegs; Uten kart ville vi gått oss bort her.; Ohne Karte wären wir hier verloren.
+no-ru-0021; Karte (auf der Karte nachsehen); et kart; ; A1; Reisen/Urlaub/Unterwegs; Uten kart ville vi gått oss bort her.; Ohne Karte wären wir hier verloren.
 no-ru-0022; Kamera; et kamera; ; A1; Reisen/Urlaub/Sightseeing; Ta med kameraet, lyset er perfekt i dag.; Nimm die Kamera mit, das Licht ist heute perfekt.
 no-ru-0023; Taxi; en drosje; en taxi; A1; Reisen/Urlaub/Unterwegs; Vi tar en drosje fra flyplassen til hotellet.; Wir nehmen ein Taxi vom Flughafen zum Hotel.
 no-ru-0024; Straße; en gate; ; A1; Reisen/Urlaub/Unterwegs; Denne gata går rett ned til den gamle havna.; Diese Straße führt direkt zum alten Hafen.
@@ -39,10 +39,10 @@ no-ru-0036; Grenze; ei grense; en grense; A2; Reisen/Urlaub/Unterwegs; Vi krysse
 no-ru-0037; Ausland; utlandet; ; A2; Reisen/Urlaub/Planung & Buchung; Hun jobber et helt år i utlandet.; Sie arbeitet ein ganzes Jahr im Ausland.
 no-ru-0038; Tourist; en turist; ; A2; Reisen/Urlaub/Sightseeing; I august er byen full av turister.; Im August ist die Stadt voller Touristen.
 no-ru-0039; Reiseführer; en reiseguide; en reisehåndbok; A2; Reisen/Urlaub/Sightseeing; Reiseguiden anbefaler en spasertur langs elva.; Der Reiseführer empfiehlt einen Spaziergang am Fluss.
-no-ru-0040; besuchen (Ort); å besøke; ; A2; Reisen/Urlaub/Sightseeing; Vi besøker den gamle borgen over byen.; Wir besuchen die alte Burg über der Stadt.
+no-ru-0040; besuchen (ein Museum besuchen); å besøke; ; A2; Reisen/Urlaub/Sightseeing; Vi besøker den gamle borgen over byen.; Wir besuchen die alte Burg über der Stadt.
 no-ru-0041; Museum; et museum; ; A2; Reisen/Urlaub/Sightseeing, Kultur; Museet er gratis den første søndagen.; Das Museum ist am ersten Sonntag kostenlos.
 no-ru-0042; Kirche; ei kirke; en kirke; A2; Reisen/Urlaub/Sightseeing; Den lille kirka på haugen er veldig gammel.; Die kleine Kirche auf dem Hügel ist sehr alt.
-no-ru-0043; Schloss (Gebäude); et slott; ; A2; Reisen/Urlaub/Sightseeing; Slottet åpner hagene sine om sommeren.; Das Schloss öffnet im Sommer seine Gärten.
+no-ru-0043; Schloss (ein Schloss besichtigen); et slott; ; A2; Reisen/Urlaub/Sightseeing; Slottet åpner hagene sine om sommeren.; Das Schloss öffnet im Sommer seine Gärten.
 no-ru-0044; Insel; ei øy; en øy; A2; Reisen/Urlaub/Strand & Natur; Den lille øya har bare ett hotell.; Die kleine Insel hat nur ein kleines Hotel.
 no-ru-0045; See; en innsjø; en sjø; A2; Reisen/Urlaub/Strand & Natur; Vi svømmer i innsjøen før frokost.; Wir schwimmen vor dem Frühstück im See.
 no-ru-0046; Berg; et fjell; ; A2; Reisen/Urlaub/Strand & Natur; Fra fjellet kan man se hele dalen.; Vom Berg sieht man das ganze Tal.
@@ -63,7 +63,7 @@ no-ru-0060; Stadtplan; et bykart; ; A2; Reisen/Urlaub/Sightseeing; Hotellet gir 
 no-ru-0061; Unterkunft; et overnattingssted; en innkvartering; B1; Reisen/Urlaub/Unterkunft; Vi fant et rimelig overnattingssted nær gamlebyen.; Wir fanden eine günstige Unterkunft nahe der Altstadt.
 no-ru-0062; Ferienwohnung; ei ferieleilighet; en ferieleilighet; B1; Reisen/Urlaub/Unterkunft; Ferieleiligheten har balkong og et lite kjøkken.; Die Ferienwohnung hat einen Balkon und eine kleine Küche.
 no-ru-0063; Jugendherberge; et vandrerhjem; ; B1; Reisen/Urlaub/Unterkunft; Vandrerhjemmet er billig og veldig rent.; Die Jugendherberge ist günstig und sehr sauber.
-no-ru-0064; Pension (Unterkunft); et pensjonat; ; B1; Reisen/Urlaub/Unterkunft; Pensjonatet drives av et hyggelig, eldre par.; Die Pension wird von einem freundlichen alten Paar geführt.
+no-ru-0064; Pension (in einer Pension übernachten); et pensjonat; ; B1; Reisen/Urlaub/Unterkunft; Pensjonatet drives av et hyggelig, eldre par.; Die Pension wird von einem freundlichen alten Paar geführt.
 no-ru-0065; Doppelzimmer; et dobbeltrom; ; B1; Reisen/Urlaub/Unterkunft; Et dobbeltrom med frokost koster tolv hundre kroner.; Ein Doppelzimmer mit Frühstück kostet zwölfhundert Kronen.
 no-ru-0066; Einzelzimmer; et enkeltrom; ; B1; Reisen/Urlaub/Unterkunft; Det siste enkeltrommet var allerede opptatt i går.; Das letzte Einzelzimmer war gestern schon vergeben.
 no-ru-0067; Halbpension; en halvpensjon; ; B1; Reisen/Urlaub/Unterkunft; Vi valgte halvpensjon fordi vi spiser lunsj ute.; Wir wählten Halbpension, weil wir mittags unterwegs essen.
@@ -80,12 +80,12 @@ no-ru-0077; Zoll; en toll; ; B1; Reisen/Urlaub/Flughafen; Ved tollen ville ingen
 no-ru-0078; Flugbegleiter; en kabinansatt; en flyvert; B1; Reisen/Urlaub/Flughafen; Den kabinansatte ga oss vann og kaffe.; Der Flugbegleiter brachte uns Wasser und Kaffee.
 no-ru-0079; Landung; en landing; ; B1; Reisen/Urlaub/Flughafen; Landingen var myk til tross for den sterke vinden.; Die Landung war trotz des starken Windes sanft.
 no-ru-0080; landen; å lande; ; B1; Reisen/Urlaub/Flughafen; Vi lander i Madrid like etter midnatt i dag.; Wir landen heute kurz nach Mitternacht in Madrid.
-no-ru-0081; abheben (Flugzeug); å ta av; ; B1; Reisen/Urlaub/Flughafen; Flyet tok av med litt forsinkelse.; Das Flugzeug hob mit kurzer Verspätung ab.
+no-ru-0081; abheben (das Flugzeug hebt ab); å ta av; ; B1; Reisen/Urlaub/Flughafen; Flyet tok av med litt forsinkelse.; Das Flugzeug hob mit kurzer Verspätung ab.
 no-ru-0082; Notausgang; en nødutgang; ; B1; Reisen/Urlaub/Flughafen; Nødutgangen er merket med grønne skilt.; Der Notausgang ist mit grünen Schildern markiert.
 no-ru-0083; Sehenswürdigkeit; en severdighet; ; B1; Reisen/Urlaub/Sightseeing; Katedralen er byens mest kjente severdighet.; Die Kathedrale ist die berühmteste Sehenswürdigkeit der Stadt.
 no-ru-0084; Denkmal; et minnesmerke; et monument; B1; Reisen/Urlaub/Sightseeing; Minnesmerket på torget hedrer en lokal dikter.; Das Denkmal auf dem Platz ehrt einen hiesigen Dichter.
 no-ru-0085; Altstadt; en gamleby; ; B1; Reisen/Urlaub/Sightseeing; Vi gikk oss bort i de trange smugene i gamlebyen.; Wir verliefen uns in den engen Gassen der Altstadt.
-no-ru-0086; Führung (Besichtigung); en omvisning; ; B1; Reisen/Urlaub/Sightseeing; Omvisningen på slottet varer i en time.; Die Führung durch das Schloss dauert eine Stunde.
+no-ru-0086; Führung (eine Führung durchs Museum); en omvisning; ; B1; Reisen/Urlaub/Sightseeing; Omvisningen på slottet varer i en time.; Die Führung durch das Schloss dauert eine Stunde.
 no-ru-0087; Souvenir; et suvenir; ; B1; Reisen/Urlaub/Sightseeing; Hun kjøpte et lite suvenir til kollegene sine.; Sie kaufte ein kleines Souvenir für ihre Kollegen.
 no-ru-0088; Sonnenbrand; en solforbrenning; en solbrenthet; B1; Reisen/Urlaub/Strand & Natur; Etter én ettermiddag hadde han allerede fått solforbrenning.; Nach einem Nachmittag hatte er schon einen Sonnenbrand.
 no-ru-0089; Liegestuhl; en liggestol; ; B1; Reisen/Urlaub/Strand & Natur; Hver eneste liggestol ved bassenget var opptatt klokka ni.; Jeder Liegestuhl am Pool war um neun besetzt.
@@ -99,7 +99,7 @@ no-ru-0096; Pauschalreise; en pakkereise; ; B2; Reisen/Urlaub/Planung & Buchung;
 no-ru-0097; Reiseveranstalter; en reisearrangør; ; B2; Reisen/Urlaub/Planung & Buchung; Reisearrangøren ga oss beskjed om planendringen.; Der Reiseveranstalter informierte uns über die Planänderung.
 no-ru-0098; Reiseversicherung; en reiseforsikring; ; B2; Reisen/Urlaub/Planung & Buchung; En god reiseforsikring dekker også tapt bagasje.; Eine gute Reiseversicherung deckt auch verlorenes Gepäck ab.
 no-ru-0099; Anzahlung; et depositum; en forskuddsbetaling; B2; Reisen/Urlaub/Planung & Buchung; Vi betalte et depositum på to hundre euro.; Wir leisteten eine Anzahlung von zweihundert Euro.
-no-ru-0100; Zuschlag (Aufpreis); et tillegg; ; B2; Reisen/Urlaub/Planung & Buchung; For rom med havutsikt må man betale et tillegg.; Für Zimmer mit Meerblick gibt es einen Zuschlag.
+no-ru-0100; Zuschlag (einen Zuschlag zahlen); et tillegg; ; B2; Reisen/Urlaub/Planung & Buchung; For rom med havutsikt må man betale et tillegg.; Für Zimmer mit Meerblick gibt es einen Zuschlag.
 no-ru-0101; Hochsaison; en høysesong; ; B2; Reisen/Urlaub/Planung & Buchung; I høysesongen dobles nesten prisene her.; In der Hochsaison verdoppeln sich hier fast die Preise.
 no-ru-0102; Nebensaison; en lavsesong; ; B2; Reisen/Urlaub/Planung & Buchung; I lavsesongen er strendene herlig tomme.; In der Nebensaison sind die Strände herrlich leer.
 no-ru-0103; Übernachtung; en overnatting; ; B2; Reisen/Urlaub/Unterkunft; Prisen inkluderer én overnatting med frokost.; Der Preis beinhaltet eine Übernachtung mit Frühstück.

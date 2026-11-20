@@ -10,7 +10,7 @@ it-xa-0007; Mieter; l'inquilino; l'inquilina; B1; Alltag/Zuhause/Räume; Il nuov
 it-xa-0008; Vermieter; il padrone di casa; la padrona di casa; B1; Alltag/Zuhause/Räume; Il nostro padrone di casa ha finalmente riparato il riscaldamento.; Unser Vermieter hat endlich die Heizung repariert.
 it-xa-0009; Miete; l'affitto; ; A2; Alltag/Zuhause/Räume; L'affitto di questo appartamento è molto alto.; Die Miete für diese Wohnung ist sehr hoch.
 it-xa-0010; Wohngemeinschaft; l'appartamento condiviso; la casa condivisa; B1; Alltag/Zuhause/Räume; Da studentessa viveva in un appartamento condiviso.; Als Studentin hat sie in einer Wohngemeinschaft gewohnt.
-it-xa-0011; umziehen (Wohnung); traslocare; trasferirsi; A2; Alltag/Zuhause/Räume; A giugno traslochiamo in un appartamento più grande.; Wir ziehen im Juni in eine größere Wohnung um.
+it-xa-0011; umziehen (in eine neue Wohnung); traslocare; trasferirsi; A2; Alltag/Zuhause/Räume; A giugno traslochiamo in un appartamento più grande.; Wir ziehen im Juni in eine größere Wohnung um.
 it-xa-0012; Speisekammer; la dispensa; ; B2; Alltag/Zuhause/Räume; Teniamo le patate nella dispensa.; Wir bewahren die Kartoffeln in der Speisekammer auf.
 it-xa-0013; Dachrinne; la grondaia; ; C1; Alltag/Zuhause/Räume; La grondaia è di nuovo piena di foglie.; Die Dachrinne ist schon wieder voller Laub.
 it-xa-0014; Abfluss; lo scarico; ; B2; Alltag/Zuhause/Räume; I capelli hanno intasato lo scarico della doccia.; Haare haben den Abfluss in der Dusche verstopft.
@@ -41,14 +41,14 @@ it-xa-0038; Spülmittel; il detersivo per i piatti; ; B1; Alltag/Zuhause/Haushal
 it-xa-0039; Mülltüte; il sacchetto della spazzatura; il sacco della spazzatura; B1; Alltag/Zuhause/Haushalt; Puoi mettere un sacchetto della spazzatura nuovo in cucina?; Kannst du eine neue Mülltüte in der Küche einlegen?
 it-xa-0040; Geschirrtuch; lo strofinaccio; il canovaccio; B1; Alltag/Zuhause/Haushalt; Asciuga i bicchieri con uno strofinaccio pulito.; Trockne die Gläser mit einem sauberen Geschirrtuch ab.
 it-xa-0041; Putzfrau; la donna delle pulizie; ; B1; Alltag/Zuhause/Haushalt; La nostra donna delle pulizie viene ogni venerdì mattina.; Unsere Putzfrau kommt jeden Freitagmorgen.
-it-xa-0042; Haushalt (zu Hause); il nucleo familiare; ; B1; Alltag/Zuhause/Haushalt; Nel nostro nucleo familiare tutti aiutano a cucinare.; In unserem Haushalt hilft jeder beim Kochen.
+it-xa-0042; Haushalt (ein Haushalt mit Kindern); il nucleo familiare; ; B1; Alltag/Zuhause/Haushalt; Nel nostro nucleo familiare tutti aiutano a cucinare.; In unserem Haushalt hilft jeder beim Kochen.
 it-xa-0043; staubsaugen; passare l'aspirapolvere; ; A2; Alltag/Zuhause/Haushalt; Il sabato passo l'aspirapolvere in tutto l'appartamento.; Samstags staubsauge ich die ganze Wohnung.
 it-xa-0044; lüften; arieggiare; cambiare l'aria; B1; Alltag/Zuhause/Haushalt; Apri le finestre e arieggia la stanza per dieci minuti.; Mach die Fenster auf und lüfte das Zimmer zehn Minuten.
 it-xa-0045; renovieren; ristrutturare; rinnovare; B1; Alltag/Zuhause/Haushalt; Stanno ristrutturando da soli la vecchia casa colonica.; Sie renovieren das alte Bauernhaus selbst.
-it-xa-0046; streichen (Wand); pitturare; dipingere, imbiancare; B1; Alltag/Zuhause/Haushalt; Vogliamo pitturare la camera da letto di verde.; Wir wollen das Schlafzimmer grün streichen.
+it-xa-0046; streichen (die Wand streichen); pitturare; dipingere, imbiancare; B1; Alltag/Zuhause/Haushalt; Vogliamo pitturare la camera da letto di verde.; Wir wollen das Schlafzimmer grün streichen.
 it-xa-0047; tapezieren; tappezzare; ; B2; Alltag/Zuhause/Haushalt; Lo scorso fine settimana mio padre ha tappezzato il corridoio.; Mein Vater hat letztes Wochenende den Flur tapeziert.
 it-xa-0431; Tapete; la carta da parati; ; B1; Alltag/Zuhause/Haushalt; Abbiamo scelto una carta da parati con piccoli fiori.; Wir haben eine Tapete mit kleinen Blumen ausgesucht.
-it-xa-0432; Farbe (zum Streichen); la vernice; la pittura; A2; Alltag/Zuhause/Haushalt; Ci servono ancora due barattoli di vernice bianca.; Wir brauchen noch zwei Dosen weiße Farbe.
+it-xa-0432; Farbe (ein Eimer Farbe); la vernice; la pittura; A2; Alltag/Zuhause/Haushalt; Ci servono ancora due barattoli di vernice bianca.; Wir brauchen noch zwei Dosen weiße Farbe.
 it-xa-0433; Lack; la lacca; la vernice trasparente; B2; Alltag/Zuhause/Haushalt; Il vecchio tavolo ha bisogno di una nuova mano di lacca.; Der alte Tisch braucht eine neue Schicht Lack.
 it-xa-0048; unordentlich; disordinato; ; A2; Alltag/Zuhause/Haushalt; La tua scrivania è sempre così disordinata.; Dein Schreibtisch ist immer so unordentlich.
 it-xa-0049; staubig; polveroso; ; B1; Alltag/Zuhause/Haushalt; I vecchi libri in soffitta sono molto polverosi.; Die alten Bücher auf dem Dachboden sind sehr staubig.
@@ -88,12 +88,12 @@ it-xa-0081; Mais (zum Essen); il mais; ; A2; Alltag/Essen/Lebensmittel; Aggiungi
 it-xa-0082; Aubergine; la melanzana; ; B1; Alltag/Essen/Lebensmittel; Taglia la melanzana a fette sottili e friggila.; Schneide die Aubergine in dünne Scheiben und brate sie.
 it-xa-0083; Lauch; il porro; ; B1; Alltag/Essen/Lebensmittel; In inverno la zuppa di patate e porri è perfetta.; Kartoffelsuppe mit Lauch ist im Winter perfekt.
 it-xa-0084; Spargel; l'asparago; gli asparagi; B1; Alltag/Essen/Lebensmittel; A maggio mangiamo asparagi bianchi con il prosciutto.; Im Mai essen wir weißen Spargel mit Schinken.
-it-xa-0085; Linse (Hülsenfrucht); la lenticchia; ; B1; Alltag/Essen/Lebensmittel; Le lenticchie rosse cuociono in circa quindici minuti.; Rote Linsen sind in etwa fünfzehn Minuten gar.
+it-xa-0085; Linse (Suppe mit Linsen); la lenticchia; ; B1; Alltag/Essen/Lebensmittel; Le lenticchie rosse cuociono in circa quindici minuti.; Rote Linsen sind in etwa fünfzehn Minuten gar.
 it-xa-0086; Kichererbse; il cece; ; B2; Alltag/Essen/Lebensmittel; L'hummus si fa con i ceci.; Hummus wird aus Kichererbsen gemacht.
 it-xa-0087; Ananas; l'ananas; ; A2; Alltag/Essen/Lebensmittel; L'ananas è abbastanza maturo da mangiare?; Ist die Ananas reif genug zum Essen?
 it-xa-0088; Kirsche; la ciliegia; ; A1; Alltag/Essen/Lebensmittel; Le ciliegie del nostro albero sono molto dolci.; Die Kirschen von unserem Baum sind sehr süß.
 it-xa-0089; Pfirsich; la pesca; ; A2; Alltag/Essen/Lebensmittel; Questa pesca è morbida e succosa.; Dieser Pfirsich ist weich und saftig.
-it-xa-0090; Mandel (Nuss); la mandorla; ; B1; Alltag/Essen/Lebensmittel; La torta si fa con le mandorle tritate.; Der Kuchen wird mit gemahlenen Mandeln gebacken.
+it-xa-0090; Mandel (gebrannte Mandeln); la mandorla; ; B1; Alltag/Essen/Lebensmittel; La torta si fa con le mandorle tritate.; Der Kuchen wird mit gemahlenen Mandeln gebacken.
 it-xa-0091; Walnuss; la noce; ; B1; Alltag/Essen/Lebensmittel; Ha messo qualche noce nell'insalata.; Sie hat ein paar Walnüsse in den Salat getan.
 it-xa-0092; Keks; il biscotto; ; A1; Alltag/Essen/Lebensmittel; Vuoi un biscotto con il tè?; Möchtest du einen Keks zum Tee?
 it-xa-0093; Bonbon; la caramella; ; A1; Alltag/Essen/Lebensmittel; Il medico ha dato una caramella al bambino.; Der Arzt gab dem Kind ein Bonbon.
@@ -126,10 +126,10 @@ it-xa-0118; Orangensaft; il succo d'arancia; la spremuta d'arancia; A1; Alltag/E
 it-xa-0119; Rotwein; il vino rosso; ; A2; Alltag/Essen/Getränke; A cena abbiamo bevuto una bottiglia di vino rosso.; Zum Abendessen haben wir eine Flasche Rotwein getrunken.
 it-xa-0120; alkoholfrei; analcolico; ; B1; Alltag/Essen/Getränke; Il guidatore beve solo birra analcolica.; Der Fahrer trinkt nur alkoholfreies Bier.
 it-xa-0121; Alkohol; l'alcol; ; A2; Alltag/Essen/Getränke; In questo punch non c'è alcol.; In dieser Bowle ist kein Alkohol.
-it-xa-0122; reiben (Käse); grattugiare; ; B2; Alltag/Essen/Kochen; Grattugia un po' di formaggio sulla pasta.; Reib etwas Käse über die Nudeln.
+it-xa-0122; reiben (Käse reiben); grattugiare; ; B2; Alltag/Essen/Kochen; Grattugia un po' di formaggio sulla pasta.; Reib etwas Käse über die Nudeln.
 it-xa-0123; kneten; impastare; ; B2; Alltag/Essen/Kochen; Impasta la farina e l'acqua per dieci minuti.; Knete Mehl und Wasser zehn Minuten lang.
 it-xa-0124; abgießen; scolare; ; B2; Alltag/Essen/Kochen; Scola le patate e lasciale raffreddare un po'.; Gieß die Kartoffeln ab und lass sie etwas abkühlen.
-it-xa-0125; würfeln (Gemüse); tagliare a dadini; ; B2; Alltag/Essen/Kochen; Taglia le cipolle a dadini e falle soffriggere nell'olio.; Würfle die Zwiebeln und brate sie in Öl an.
+it-xa-0125; würfeln (Zwiebeln würfeln); tagliare a dadini; ; B2; Alltag/Essen/Kochen; Taglia le cipolle a dadini e falle soffriggere nell'olio.; Würfle die Zwiebeln und brate sie in Öl an.
 it-xa-0126; bestreuen; cospargere; ; B2; Alltag/Essen/Kochen; Cospargi la pizza di formaggio e origano.; Bestreu die Pizza mit Käse und Oregano.
 it-xa-0127; verquirlen; sbattere; ; C1; Alltag/Essen/Kochen; Sbatti le uova con un po' di latte.; Verquirl die Eier mit etwas Milch.
 it-xa-0128; Prise; il pizzico; ; B2; Alltag/Essen/Kochen; Metti un pizzico di sale nell'acqua.; Gib eine Prise Salz ins Wasser.
@@ -149,13 +149,13 @@ it-xa-0141; Rührei; le uova strapazzate; ; A2; Alltag/Essen/Mahlzeiten; La dome
 it-xa-0142; Eintopf; lo stufato; lo spezzatino; B1; Alltag/Essen/Mahlzeiten; Uno stufato caldo è perfetto in una giornata fredda.; Ein heißer Eintopf ist an einem kalten Tag genau richtig.
 it-xa-0143; Auflauf; lo sformato; il gratin; B2; Alltag/Essen/Mahlzeiten; Ha fatto uno sformato di verdure con il formaggio sopra.; Sie hat einen Gemüseauflauf mit Käse obendrauf gemacht.
 it-xa-0144; Portion; la porzione; ; A2; Alltag/Essen/Mahlzeiten; Le porzioni in questo ristorante sono enormi.; Die Portionen in diesem Restaurant sind riesig.
-it-xa-0145; Scheibe (Brot); la fetta; ; A2; Alltag/Essen/Mahlzeiten; Potrei avere un'altra fetta di pane?; Könnte ich noch eine Scheibe Brot haben?
+it-xa-0145; Scheibe (eine Scheibe Brot); la fetta; ; A2; Alltag/Essen/Mahlzeiten; Potrei avere un'altra fetta di pane?; Könnte ich noch eine Scheibe Brot haben?
 it-xa-0146; Kantine; la mensa; ; B1; Alltag/Essen/Restaurant; Al lavoro pranziamo in mensa.; Wir essen in der Kantine bei der Arbeit zu Mittag.
 it-xa-0147; Café; il bar; il caffè; A1; Alltag/Essen/Restaurant; Vediamoci al bar all'angolo della strada.; Lass uns im Café an der Ecke treffen.
 it-xa-0148; Bedienung; il servizio; ; B1; Alltag/Essen/Restaurant; Il cibo era buono, ma il servizio era lento.; Das Essen war gut, aber die Bedienung war langsam.
 it-xa-0149; Tagesgericht; il piatto del giorno; ; B1; Alltag/Essen/Restaurant; Il piatto del giorno è il pollo al curry.; Das Tagesgericht ist Hähnchencurry.
 it-xa-0150; Beilage; il contorno; ; B1; Alltag/Essen/Restaurant; Come contorno c'è riso o insalata.; Als Beilage gibt es Reis oder Salat.
-it-xa-0151; Gang (beim Essen); la portata; ; B2; Alltag/Essen/Restaurant; Il pranzo di nozze aveva cinque portate.; Das Hochzeitsessen hatte fünf Gänge.
+it-xa-0151; Gang (ein Menü mit drei Gängen); la portata; ; B2; Alltag/Essen/Restaurant; Il pranzo di nozze aveva cinque portate.; Das Hochzeitsessen hatte fünf Gänge.
 it-xa-0152; Buffet; il buffet; ; B1; Alltag/Essen/Restaurant; La colazione in albergo è un grande buffet.; Das Frühstück im Hotel ist ein großes Buffet.
 it-xa-0153; Lieferdienst; il servizio di consegna; il servizio a domicilio; B1; Alltag/Essen/Restaurant; Abbiamo ordinato la pizza con un servizio di consegna.; Wir haben Pizza bei einem Lieferdienst bestellt.
 it-xa-0154; Kleidung; i vestiti; l'abbigliamento; A1; Alltag/Kleidung/Kleidungsstücke; Porta vestiti caldi, perché di notte fa freddo.; Nimm warme Kleidung mit, weil es nachts kalt wird.
@@ -175,7 +175,7 @@ it-xa-0167; Schnalle; la fibbia; ; C1; Alltag/Kleidung/Schuhe & Accessoires; La 
 it-xa-0439; Brieftasche; il portafoglio; ; B1; Alltag/Kleidung/Schuhe & Accessoires; Tiene la carta d'identità nel portafoglio.; Er hat seinen Ausweis in der Brieftasche.
 it-xa-0440; Laufschuh; la scarpa da corsa; la scarpa da running; B1; Alltag/Kleidung/Schuhe & Accessoires; Per la maratona mi servono scarpe da corsa nuove.; Für den Marathon brauche ich neue Laufschuhe.
 it-xa-0168; Schuhgröße; il numero di scarpe; ; A2; Alltag/Kleidung/Einkauf & Passform; Che numero di scarpe hai?; Welche Schuhgröße hast du?
-it-xa-0169; locker (Kleidung); largo; ; B1; Alltag/Kleidung/Einkauf & Passform; In estate mi piace portare vestiti larghi.; Im Sommer trage ich gern lockere Kleidung.
+it-xa-0169; locker (die Hose sitzt locker); largo; ; B1; Alltag/Kleidung/Einkauf & Passform; In estate mi piace portare vestiti larghi.; Im Sommer trage ich gern lockere Kleidung.
 it-xa-0170; ärmellos; senza maniche; ; B1; Alltag/Kleidung/Kleidungsstücke; Fa troppo freddo per un vestito senza maniche.; Für ein ärmelloses Kleid ist es zu kalt.
 it-xa-0171; wasserdicht; impermeabile; ; B1; Alltag/Kleidung/Kleidungsstücke; Per questa escursione ti serve una giacca impermeabile.; Für diese Wanderung brauchst du eine wasserdichte Jacke.
 it-xa-0172; schick; elegante; ; B1; Alltag/Kleidung/Stil; Con quell'abito sei molto elegante.; Du siehst in dem Anzug sehr schick aus.
@@ -185,14 +185,14 @@ it-xa-0175; flicken; rammendare; rattoppare; B2; Alltag/Kleidung/Pflege & Schnei
 it-xa-0176; Loch; il buco; ; A2; Alltag/Kleidung/Pflege & Schneiderei; Nel tuo calzino c'è un grosso buco.; In deiner Socke ist ein großes Loch.
 it-xa-0177; zerrissen; strappato; ; B1; Alltag/Kleidung/Pflege & Schneiderei; Dopo la rissa la sua camicia era strappata.; Nach der Prügelei war sein Hemd zerrissen.
 it-xa-0178; Etikett; l'etichetta; ; B1; Alltag/Kleidung/Pflege & Schneiderei; Leggi l'etichetta prima di lavare il maglione.; Lies das Etikett, bevor du den Pullover wäschst.
-it-xa-0179; einlaufen (Wäsche); restringersi; ; B2; Alltag/Kleidung/Pflege & Schneiderei; La mia maglietta preferita si è ristretta in lavatrice.; Mein Lieblings-T-Shirt ist in der Wäsche eingelaufen.
+it-xa-0179; einlaufen (der Pulli ist eingelaufen); restringersi; ; B2; Alltag/Kleidung/Pflege & Schneiderei; La mia maglietta preferita si è ristretta in lavatrice.; Mein Lieblings-T-Shirt ist in der Wäsche eingelaufen.
 it-xa-0180; knittern; stropicciarsi; sgualcirsi; B2; Alltag/Kleidung/Pflege & Schneiderei; Il lino si stropiccia molto facilmente.; Leinen knittert sehr leicht.
 it-xa-0181; zerknittert; stropicciato; sgualcito; B2; Alltag/Kleidung/Pflege & Schneiderei; Dopo il lungo volo la sua camicia era tutta stropicciata.; Nach dem langen Flug war sein Hemd ganz zerknittert.
 it-xa-0182; Lebensmittelgeschäft; il negozio di alimentari; l'alimentari; A2; Alltag/Einkaufen/Geschäfte; In fondo alla nostra strada c'è un piccolo negozio di alimentari.; Am Ende unserer Straße gibt es ein kleines Lebensmittelgeschäft.
 it-xa-0183; Kaufhaus; il grande magazzino; ; A2; Alltag/Einkaufen/Geschäfte; Il grande magazzino vende di tutto, dalle scarpe ai divani.; Das Kaufhaus verkauft alles von Schuhen bis zu Sofas.
 it-xa-0184; Schreibwarenladen; la cartoleria; ; B1; Alltag/Einkaufen/Geschäfte; Ho comprato penne nuove in cartoleria.; Ich habe im Schreibwarenladen neue Stifte gekauft.
 it-xa-0185; Optiker; l'ottico; ; B1; Alltag/Einkaufen/Geschäfte; Vado a ritirare i miei occhiali nuovi dall'ottico.; Ich hole meine neue Brille beim Optiker ab.
-it-xa-0186; Reinigung (Geschäft); la tintoria; la lavanderia; B2; Alltag/Einkaufen/Geschäfte; Puoi portare il mio abito in tintoria?; Kannst du meinen Anzug in die Reinigung bringen?
+it-xa-0186; Reinigung (den Anzug zur Reinigung bringen); la tintoria; la lavanderia; B2; Alltag/Einkaufen/Geschäfte; Puoi portare il mio abito in tintoria?; Kannst du meinen Anzug in die Reinigung bringen?
 it-xa-0187; Waschsalon; la lavanderia a gettoni; la lavanderia self-service; B2; Alltag/Einkaufen/Geschäfte; La nostra lavatrice è rotta, quindi vado alla lavanderia a gettoni.; Unsere Waschmaschine ist kaputt, deshalb gehe ich in den Waschsalon.
 it-xa-0188; Theke; il banco; il bancone; B1; Alltag/Einkaufen/Geschäfte; Chiedi il formaggio al banco.; Frag an der Theke nach dem Käse.
 it-xa-0189; Kassierer; il cassiere; la cassiera; A2; Alltag/Einkaufen/Geschäfte; Il cassiere mi ha dato il resto sbagliato.; Der Kassierer hat mir falsches Wechselgeld gegeben.
@@ -213,7 +213,7 @@ it-xa-0200; übergewichtig; in sovrappeso; ; B1; Mensch/Aussehen; Il medico gli 
 it-xa-0201; blond; biondo; ; A2; Mensch/Aussehen; Entrambi i bambini hanno i capelli biondi e gli occhi azzurri.; Beide Kinder haben blonde Haare und blaue Augen.
 it-xa-0202; dunkelhaarig; moro; bruno; B1; Mensch/Aussehen; Una donna mora aspettava alla porta.; Eine dunkelhaarige Frau wartete an der Tür.
 it-xa-0203; lockig; riccio; ricciuto; A2; Mensch/Aussehen; Sua figlia ha i capelli lunghi e ricci.; Ihre Tochter hat lange, lockige Haare.
-it-xa-0204; glatt (Haar); liscio; ; A2; Mensch/Aussehen; I miei capelli sono lisci, ma quelli di mio fratello sono ricci.; Meine Haare sind glatt, aber die meines Bruders sind lockig.
+it-xa-0204; glatt (glatte Haare); liscio; ; A2; Mensch/Aussehen; I miei capelli sono lisci, ma quelli di mio fratello sono ricci.; Meine Haare sind glatt, aber die meines Bruders sind lockig.
 it-xa-0205; kahl; calvo; pelato; B1; Mensch/Aussehen; Mio zio è diventato calvo a trent'anni.; Mein Onkel wurde mit dreißig kahl.
 it-xa-0206; Bart; la barba; ; A2; Mensch/Aussehen; Dall'estate si è fatto crescere la barba.; Er hat sich seit dem Sommer einen Bart wachsen lassen.
 it-xa-0207; Schnurrbart; i baffi; ; B1; Mensch/Aussehen; L'uomo nella foto ha dei baffi folti.; Der Mann auf dem Foto hat einen dichten Schnurrbart.
@@ -224,7 +224,7 @@ it-xa-0211; Muttermal; il neo; ; C1; Mensch/Aussehen; Fai controllare da un medi
 it-xa-0212; Zopf; la treccia; ; B2; Mensch/Aussehen; Sua madre le fa una treccia ogni mattina.; Ihre Mutter flicht ihr jeden Morgen einen Zopf.
 it-xa-0213; Pferdeschwanz; la coda di cavallo; la coda; B1; Mensch/Aussehen; Quando fa sport si lega i capelli a coda di cavallo.; Beim Sport bindet sie ihre Haare zu einem Pferdeschwanz.
 it-xa-0214; Frisur; la pettinatura; l'acconciatura; A2; Mensch/Aussehen; Ti piace la mia nuova pettinatura?; Gefällt dir meine neue Frisur?
-it-xa-0215; Pony (Frisur); la frangia; la frangetta; B2; Mensch/Aussehen; La tua frangia sta diventando troppo lunga.; Dein Pony wird zu lang.
+it-xa-0215; Pony (die Haare über der Stirn); la frangia; la frangetta; B2; Mensch/Aussehen; La tua frangia sta diventando troppo lunga.; Dein Pony wird zu lang.
 it-xa-0216; blass; pallido; ; B1; Mensch/Aussehen; Sei molto pallido oggi, stai bene?; Du siehst heute sehr blass aus, geht es dir gut?
 it-xa-0217; braun gebrannt; abbronzato; ; B1; Mensch/Aussehen; Sono tornati dalla Spagna belli abbronzati.; Sie kamen schön braun gebrannt aus Spanien zurück.
 it-xa-0218; muskulös; muscoloso; ; B2; Mensch/Aussehen; Il nuotatore ha spalle larghe e muscolose.; Der Schwimmer hat breite, muskulöse Schultern.
@@ -303,7 +303,7 @@ it-xa-0290; Augenlid; la palpebra; ; B2; Gesundheit/Körper; Mi trema la palpebr
 it-xa-0291; Nasenloch; la narice; ; B2; Gesundheit/Körper; Respira attraverso una narice sola.; Atme durch ein Nasenloch ein.
 it-xa-0292; Zahnfleisch; le gengive; la gengiva; B2; Gesundheit/Körper; Quando mi lavo i denti mi sanguinano le gengive.; Mein Zahnfleisch blutet beim Zähneputzen.
 it-xa-0293; Nacken; la nuca; ; B1; Gesundheit/Körper; Mi fa male la nuca perché ho dormito male.; Mir tut der Nacken weh, weil ich schlecht geschlafen habe.
-it-xa-0294; Brust (Oberkörper); il petto; il torace; A2; Gesundheit/Körper; Ha un forte dolore al petto.; Er hat Schmerzen in der Brust.
+it-xa-0294; Brust (Schmerzen in der Brust); il petto; il torace; A2; Gesundheit/Körper; Ha un forte dolore al petto.; Er hat Schmerzen in der Brust.
 it-xa-0295; Hüfte; l'anca; il fianco; B1; Gesundheit/Körper; Mia nonna deve farsi operare all'anca.; Meine Großmutter muss an der Hüfte operiert werden.
 it-xa-0296; Taille; la vita; ; B1; Gesundheit/Körper; Questi pantaloni sono troppo stretti in vita.; Diese Hose ist an der Taille zu eng.
 it-xa-0297; Po; il sedere; ; A2; Gesundheit/Körper; Il bambino è caduto sul sedere.; Der kleine Junge ist auf den Po gefallen.
@@ -316,7 +316,7 @@ it-xa-0303; Faust; il pugno; ; B1; Gesundheit/Körper; Ha battuto il pugno sul t
 it-xa-0304; Handfläche; il palmo; il palmo della mano; B2; Gesundheit/Körper; Teneva l'uccellino nel palmo della mano.; Sie hielt den kleinen Vogel in ihrer Handfläche.
 it-xa-0305; Bauchnabel; l'ombelico; ; B1; Gesundheit/Körper; Il bambino ride quando gli fai il solletico sull'ombelico.; Das Baby lacht, wenn man es am Bauchnabel kitzelt.
 it-xa-0306; Darm; l'intestino; ; B2; Gesundheit/Körper; Le fibre fanno bene all'intestino.; Ballaststoffe sind gut für den Darm.
-it-xa-0307; Blase (Organ); la vescica; ; C1; Gesundheit/Körper; Bere abbastanza acqua fa bene alla vescica.; Genug Wasser zu trinken ist gut für die Blase.
+it-xa-0307; Blase (die Harnblase); la vescica; ; C1; Gesundheit/Körper; Bere abbastanza acqua fa bene alla vescica.; Genug Wasser zu trinken ist gut für die Blase.
 it-xa-0308; Nerv; il nervo; ; B1; Gesundheit/Körper; Il dentista ha toccato un nervo e mi ha fatto davvero male.; Der Zahnarzt hat einen Nerv getroffen, und es tat richtig weh.
 it-xa-0309; Sehne; il tendine; ; C1; Gesundheit/Körper; Il calciatore si è rotto un tendine del piede.; Der Fußballer hat sich eine Sehne im Fuß gerissen.
 it-xa-0310; Schädel; il cranio; ; B2; Gesundheit/Körper; Il casco protegge il cranio se cadi.; Der Helm schützt deinen Schädel, wenn du stürzt.
@@ -330,7 +330,7 @@ it-xa-0317; Schwellung; il gonfiore; ; B2; Gesundheit/Symptome; Mettici del ghia
 it-xa-0318; geschwollen; gonfio; ; B1; Gesundheit/Symptome; Dopo la caduta la mia caviglia è molto gonfia.; Nach dem Sturz ist mein Knöchel stark geschwollen.
 it-xa-0319; blauer Fleck; il livido; ; B1; Gesundheit/Symptome; Ho un grosso livido sul braccio.; Ich habe einen großen blauen Fleck am Arm.
 it-xa-0320; Krampf; il crampo; ; B2; Gesundheit/Symptome; Di notte mi sono svegliato con un crampo alla gamba.; Nachts bin ich mit einem Krampf im Bein aufgewacht.
-it-xa-0321; Kater (nach Alkohol); i postumi della sbornia; il dopo sbornia; B2; Gesundheit/Symptome; Dopo la festa aveva dei terribili postumi della sbornia.; Nach der Party hatte er einen schrecklichen Kater.
+it-xa-0321; Kater (einen Kater haben); i postumi della sbornia; il dopo sbornia; B2; Gesundheit/Symptome; Dopo la festa aveva dei terribili postumi della sbornia.; Nach der Party hatte er einen schrecklichen Kater.
 it-xa-0322; Verbrennung; l'ustione; la bruciatura; B1; Gesundheit/Symptome; Raffredda subito l'ustione con acqua fredda.; Kühl die Verbrennung sofort mit kaltem Wasser.
 it-xa-0323; Beule; il bernoccolo; ; B1; Gesundheit/Symptome; Ha un bernoccolo in testa per colpa della porta.; Er hat von der Tür eine Beule am Kopf.
 it-xa-0324; Kratzer; il graffio; ; B1; Gesundheit/Symptome; Il gatto mi ha fatto un graffio sulla mano.; Die Katze hat mir einen Kratzer an der Hand verpasst.
@@ -377,7 +377,7 @@ it-xa-0364; Hausarzt; il medico di famiglia; il medico di base; A2; Gesundheit/B
 it-xa-0365; Kinderarzt; il pediatra; la pediatra; B1; Gesundheit/Beim Arzt; Domani portiamo il bambino dal pediatra.; Wir gehen morgen mit dem Baby zum Kinderarzt.
 it-xa-0366; Augenarzt; l'oculista; ; B1; Gesundheit/Beim Arzt; L'oculista dice che mi servono occhiali più forti.; Der Augenarzt sagt, dass ich eine stärkere Brille brauche.
 it-xa-0367; Facharzt; lo specialista; la specialista; B2; Gesundheit/Beim Arzt; Il mio medico mi ha mandato da uno specialista di malattie cardiache.; Mein Arzt hat mich zu einem Facharzt für Herzkrankheiten geschickt.
-it-xa-0368; Sprechstunde (Arzt); l'orario di ambulatorio; l'orario di ricevimento; B2; Gesundheit/Beim Arzt; L'orario di ambulatorio del medico è dalle otto alle dodici.; Die Sprechstunde des Arztes ist von acht bis zwölf.
+it-xa-0368; Sprechstunde (beim Arzt); l'orario di ambulatorio; l'orario di ricevimento; B2; Gesundheit/Beim Arzt; L'orario di ambulatorio del medico è dalle otto alle dodici.; Die Sprechstunde des Arztes ist von acht bis zwölf.
 it-xa-0369; Arztpraxis; lo studio medico; l'ambulatorio; B1; Gesundheit/Beim Arzt; Lo studio medico è al secondo piano.; Die Arztpraxis ist im zweiten Stock.
 it-xa-0370; Untersuchung; la visita medica; l'esame; B1; Gesundheit/Beim Arzt; La visita medica dura solo pochi minuti.; Die Untersuchung dauert nur ein paar Minuten.
 it-xa-0371; Blutprobe; il prelievo di sangue; il campione di sangue; B1; Gesundheit/Beim Arzt; L'infermiera mi ha fatto un prelievo di sangue dal braccio.; Die Krankenschwester hat mir eine Blutprobe aus dem Arm genommen.
@@ -412,9 +412,9 @@ it-xa-0396; Antibiotikum; l'antibiotico; ; B2; Gesundheit/Apotheke & Medikamente
 it-xa-0397; Kapsel; la capsula; ; B2; Gesundheit/Apotheke & Medikamente; Ingoia la capsula con un bicchiere d'acqua.; Schluck die Kapsel mit einem Glas Wasser.
 it-xa-0398; Creme; la crema; ; A2; Gesundheit/Apotheke & Medikamente; Applica questa crema sullo sfogo due volte al giorno.; Trag diese Creme zweimal am Tag auf den Ausschlag auf.
 it-xa-0399; Schlaftablette; il sonnifero; ; B1; Gesundheit/Apotheke & Medikamente; Senza sonnifero non riesce a dormire.; Ohne Schlaftablette kann sie nicht schlafen.
-it-xa-0400; einnehmen (Medikament); prendere; assumere; B1; Gesundheit/Apotheke & Medikamente; Prenda le compresse dopo i pasti.; Nehmen Sie die Tabletten nach dem Essen ein.
+it-xa-0400; einnehmen (Tabletten einnehmen); prendere; assumere; B1; Gesundheit/Apotheke & Medikamente; Prenda le compresse dopo i pasti.; Nehmen Sie die Tabletten nach dem Essen ein.
 it-xa-0401; verschreibungspflichtig; soggetto a prescrizione medica; con obbligo di ricetta; C1; Gesundheit/Apotheke & Medikamente; In Italia questo farmaco è soggetto a prescrizione medica.; Dieses Medikament ist in Italien verschreibungspflichtig.
-it-xa-0402; abnehmen (Gewicht); dimagrire; perdere peso; A2; Gesundheit/Gesunde Lebensweise; Vorrebbe dimagrire un po' prima dell'estate.; Sie möchte vor dem Sommer etwas abnehmen.
+it-xa-0402; abnehmen (fünf Kilo abnehmen); dimagrire; perdere peso; A2; Gesundheit/Gesunde Lebensweise; Vorrebbe dimagrire un po' prima dell'estate.; Sie möchte vor dem Sommer etwas abnehmen.
 it-xa-0403; rauchen; fumare; ; A2; Gesundheit/Gesunde Lebensweise; Mio padre ha smesso di fumare vent'anni fa.; Mein Vater hat vor zwanzig Jahren aufgehört zu rauchen.
 it-xa-0404; Nichtraucher; il non fumatore; la non fumatrice; B1; Gesundheit/Gesunde Lebensweise; Ormai sono un non fumatore da tre anni.; Ich bin jetzt seit drei Jahren Nichtraucher.
 it-xa-0405; Raucher; il fumatore; la fumatrice; A2; Gesundheit/Gesunde Lebensweise; I fumatori tossiscono spesso la mattina.; Raucher husten morgens oft.

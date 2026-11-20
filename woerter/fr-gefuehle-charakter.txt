@@ -31,7 +31,7 @@ fr-gc-0028; Hoffnung; l'espoir; l'espérance; A2; Mensch/Gefühle/Emotionen; Il 
 fr-gc-0029; Sorge; le souci; l'inquiétude; A2; Mensch/Gefühle/Emotionen; Son plus grand souci, c'est de perdre son travail.; Ihre größte Sorge ist, die Arbeit zu verlieren.
 fr-gc-0030; sich freuen; se réjouir; être content; A2; Mensch/Gefühle/Emotionen; Je me réjouis de chaque petit succès.; Ich freue mich über jeden kleinen Erfolg.
 fr-gc-0031; nervös; nerveux; ; A2; Mensch/Gefühle/Stimmungen; Il est toujours nerveux avant un examen.; Vor einer Prüfung ist er immer nervös.
-fr-gc-0032; sauer (verärgert); fâché; vexé, en colère; A2; Mensch/Gefühle/Emotionen; Elle est fâchée parce qu'il a oublié son anniversaire.; Sie ist sauer, weil er ihren Geburtstag vergessen hat.
+fr-gc-0032; sauer (auf jemanden sauer sein); fâché; vexé, en colère; A2; Mensch/Gefühle/Emotionen; Elle est fâchée parce qu'il a oublié son anniversaire.; Sie ist sauer, weil er ihren Geburtstag vergessen hat.
 fr-gc-0033; zufrieden; satisfait; content; A2; Mensch/Gefühle/Stimmungen; Je suis satisfait du résultat du test.; Ich bin mit dem Ergebnis des Tests zufrieden.
 fr-gc-0034; überrascht; surpris; ; A2; Mensch/Gefühle/Emotionen; Nous avons été surpris par cette invitation soudaine.; Wir waren von der plötzlichen Einladung überrascht.
 fr-gc-0035; Überraschung; la surprise; ; A2; Mensch/Gefühle/Emotionen; La fête a été une surprise totale pour elle.; Die Party war eine völlige Überraschung für sie.
@@ -51,7 +51,7 @@ fr-gc-0048; ehrlich; honnête; franc, sincère; A2; Mensch/Gefühle/Charakter; S
 fr-gc-0049; lügen; mentir; ; A2; Mensch/Gefühle/Verhalten; Tu ne devrais jamais mentir à tes amis.; Du solltest deine Freunde niemals anlügen.
 fr-gc-0050; klug; intelligent; malin; A2; Mensch/Gefühle/Charakter; Elle est intelligente et apprend vite les langues.; Sie ist klug und lernt Sprachen schnell.
 fr-gc-0051; dumm; bête; stupide; A2; Mensch/Gefühle/Charakter; C'était bête de partir sans veste.; Es war dumm, ohne Jacke loszugehen.
-fr-gc-0052; faul (träge); paresseux; ; A2; Mensch/Gefühle/Charakter; Le dimanche, nous sommes tous un peu paresseux.; Sonntags sind wir alle ein bisschen faul.
+fr-gc-0052; faul (zu faul zum Lernen); paresseux; ; A2; Mensch/Gefühle/Charakter; Le dimanche, nous sommes tous un peu paresseux.; Sonntags sind wir alle ein bisschen faul.
 fr-gc-0053; fleißig; travailleur; studieux, assidu; A2; Mensch/Gefühle/Charakter; L'étudiant travailleur a terminé le projet en avance.; Der fleißige Student beendete das Projekt früh.
 fr-gc-0054; geduldig; patient; ; A2; Mensch/Gefühle/Charakter; Un bon professeur est patient avec les débutants.; Ein guter Lehrer ist geduldig mit Anfängern.
 fr-gc-0055; ungeduldig; impatient; ; A2; Mensch/Gefühle/Charakter; Il devient impatient quand il doit attendre.; Er wird ungeduldig, wenn er warten muss.

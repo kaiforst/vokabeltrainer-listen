@@ -82,7 +82,7 @@ no-xb-0079; Bachelor; en bachelorgrad; en bachelor; B1; Bildung/Universität; Hu
 no-xb-0080; Master; en mastergrad; en master; B1; Bildung/Universität; Etter bachelorgraden vil jeg ta en mastergrad.; Nach dem Bachelor möchte ich einen Master machen.
 no-xb-0081; Hochschule; en høyskole; ; B1; Bildung/Universität; Han studerer musikk ved en høyskole i Oslo.; Er studiert Musik an einer Hochschule in Oslo.
 no-xb-0082; Fachhochschule; en yrkesrettet høyskole; ; C1; Bildung/Universität; Hun har studert maskinteknikk ved en yrkesrettet høyskole.; Sie hat Maschinenbau an einer Fachhochschule studiert.
-no-xb-0083; Sprechstunde (Hochschule); en veiledningstid; en kontortid; B2; Bildung/Universität; Professorens veiledningstid er på tirsdag ettermiddag.; Die Sprechstunde des Professors ist am Dienstagnachmittag.
+no-xb-0083; Sprechstunde (beim Professor); en veiledningstid; en kontortid; B2; Bildung/Universität; Professorens veiledningstid er på tirsdag ettermiddag.; Die Sprechstunde des Professors ist am Dienstagnachmittag.
 no-xb-0084; Tutor; en tutor; ; B2; Bildung/Universität; Tutoren vår hjelper oss med å forberede eksamen.; Unser Tutor hilft uns bei der Vorbereitung auf die Prüfungen.
 no-xb-0085; Literaturverzeichnis; ei litteraturliste; en litteraturliste; C1; Bildung/Universität; Ta med alle kildene dine i litteraturlista.; Nimm alle deine Quellen ins Literaturverzeichnis auf.
 no-xb-0086; Zitat; et sitat; ; B1; Bildung/Universität; Essayet begynner med et sitat fra Goethe.; Der Aufsatz beginnt mit einem Zitat von Goethe.
@@ -144,10 +144,10 @@ no-xb-0141; Vokal; en vokal; ; B1; Bildung/Sprache/Wörter & Aussprache; Bokstav
 no-xb-0142; Konsonant; en konsonant; ; B1; Bildung/Sprache/Wörter & Aussprache; Ordet strength har mange konsonanter etter hverandre.; Das Wort strength hat viele Konsonanten hintereinander.
 no-xb-0143; Akzent; en aksent; ; B1; Bildung/Sprache/Wörter & Aussprache; Han snakker engelsk med en sterk tysk aksent.; Er spricht Englisch mit einem starken deutschen Akzent.
 no-xb-0144; Dialekt; en dialekt; ; B2; Bildung/Sprache/Wörter & Aussprache; Besteforeldrene mine snakker en dialekt jeg knapt forstår.; Meine Großeltern sprechen einen Dialekt, den ich kaum verstehe.
-no-xb-0145; Ausdruck (Formulierung); et uttrykk; ; B1; Bildung/Sprache/Wörter & Aussprache; Dette uttrykket er veldig vanlig i muntlig engelsk.; Dieser Ausdruck ist im gesprochenen Englisch sehr üblich.
+no-xb-0145; Ausdruck (ein höflicher Ausdruck); et uttrykk; ; B1; Bildung/Sprache/Wörter & Aussprache; Dette uttrykket er veldig vanlig i muntlig engelsk.; Dieser Ausdruck ist im gesprochenen Englisch sehr üblich.
 no-xb-0146; Redewendung; et idiom; et fast uttrykk; B2; Bildung/Sprache/Wörter & Aussprache; It's raining cats and dogs er et morsomt idiom.; It's raining cats and dogs ist eine lustige Redewendung.
 no-xb-0147; Synonym; et synonym; ; B2; Bildung/Sprache/Wörter & Aussprache; Big er et synonym for large.; Big ist ein Synonym für large.
-no-xb-0148; Abkürzung (Wort); en forkortelse; ; B1; Bildung/Sprache/Wörter & Aussprache; UK er forkortelsen for United Kingdom.; UK ist die Abkürzung für United Kingdom.
+no-xb-0148; Abkürzung (ein abgekürztes Wort); en forkortelse; ; B1; Bildung/Sprache/Wörter & Aussprache; UK er forkortelsen for United Kingdom.; UK ist die Abkürzung für United Kingdom.
 no-xb-0149; Fremdwort; et fremmedord; ; B2; Bildung/Sprache/Wörter & Aussprache; Tysk har mange fremmedord fra engelsk.; Das Deutsche hat viele Fremdwörter aus dem Englischen.
 no-xb-0150; Wortfamilie; ei ordfamilie; en ordfamilie; B2; Bildung/Sprache/Wörter & Aussprache; Happy, happiness og unhappy hører til samme ordfamilie.; Happy, happiness und unhappy gehören zu einer Wortfamilie.
 no-xb-0151; Definition; en definisjon; ; B1; Bildung/Sprache/Wörter & Aussprache; Les definisjonen og prøv å gjette ordet.; Lies die Definition und rate das Wort.
@@ -169,7 +169,7 @@ no-xb-0166; Stichwort; et stikkord; ; B1; Bildung/Sprache/Lesen & Schreiben; Skr
 no-xb-0167; Stichpunkt; et kulepunkt; et punkt; B2; Bildung/Sprache/Lesen & Schreiben; Lag notater i kulepunkter til foredraget ditt.; Mach dir für dein Referat Notizen in Stichpunkten.
 no-xb-0168; Einleitung; en innledning; ; B1; Bildung/Sprache/Lesen & Schreiben; Innledningen bør ikke være for lang.; Die Einleitung sollte nicht zu lang sein.
 no-xb-0169; Hauptteil; en hoveddel; ; B1; Bildung/Sprache/Lesen & Schreiben; I hoveddelen presenterer du argumentene dine.; Im Hauptteil stellst du deine Argumente dar.
-no-xb-0170; Schluss (Text); en avslutning; ; B1; Bildung/Sprache/Lesen & Schreiben; I avslutningen sier du din egen mening.; Im Schluss sagst du deine eigene Meinung.
+no-xb-0170; Schluss (Einleitung, Hauptteil, Schluss); en avslutning; ; B1; Bildung/Sprache/Lesen & Schreiben; I avslutningen sier du din egen mening.; Im Schluss sagst du deine eigene Meinung.
 no-xb-0171; Entwurf; et utkast; ; B2; Bildung/Sprache/Lesen & Schreiben; Jeg har skrevet første utkast til stilen min.; Ich habe den ersten Entwurf meines Aufsatzes geschrieben.
 no-xb-0172; Bildbeschreibung; ei bildebeskrivelse; en bildebeskrivelse; B1; Bildung/Sprache/Lesen & Schreiben; På den muntlige eksamenen må du lage ei bildebeskrivelse.; In der mündlichen Prüfung musst du eine Bildbeschreibung machen.
 no-xb-0173; Leseverstehen; en leseforståelse; ; B2; Bildung/Sprache/Lesen & Schreiben; Prøven har en del om leseforståelse.; Der Test hat einen Teil zum Leseverstehen.
@@ -190,7 +190,7 @@ no-xb-0187; Gebärdensprache; et tegnspråk; ; B2; Bildung/Sprache/Sprachen; Dø
 no-xb-0188; Handwerker; en håndverker; ; B1; Arbeit/Beruf/Berufe; Vi trenger en håndverker som kan reparere taket.; Wir brauchen einen Handwerker, der das Dach repariert.
 no-xb-0189; Klempner; en rørlegger; ; B1; Arbeit/Beruf/Berufe; Rørleggeren kommer for å reparere det lekke røret.; Der Klempner kommt, um das undichte Rohr zu reparieren.
 no-xb-0190; Tischler; en snekker; ; B1; Arbeit/Beruf/Berufe; Snekkeren har laget dette bordet av eik.; Der Tischler hat diesen Tisch aus Eiche gemacht.
-no-xb-0191; Maler (Handwerker); en maler; ; B1; Arbeit/Beruf/Berufe; Malerne skal male leiligheten vår neste uke.; Die Maler streichen nächste Woche unsere Wohnung.
+no-xb-0191; Maler (der Maler streicht die Wände); en maler; ; B1; Arbeit/Beruf/Berufe; Malerne skal male leiligheten vår neste uke.; Die Maler streichen nächste Woche unsere Wohnung.
 no-xb-0192; Maurer; en murer; ; B2; Arbeit/Beruf/Berufe; Murerne er ferdige med veggene på huset.; Die Maurer sind mit den Wänden des Hauses fertig.
 no-xb-0193; Automechaniker; en bilmekaniker; ; A2; Arbeit/Beruf/Berufe; Fetteren min tar utdanning som bilmekaniker.; Mein Cousin macht eine Ausbildung zum Automechaniker.
 no-xb-0194; Programmierer; en programmerer; ; A2; Arbeit/Beruf/Berufe; Programmereren skriver en ny app til telefonen.; Der Programmierer schreibt eine neue App für das Handy.
@@ -224,7 +224,7 @@ no-xb-0221; Arbeitstag; en arbeidsdag; ; A2; Arbeit/Beruf/Arbeitsalltag; Arbeids
 no-xb-0222; Mittagspause; en lunsjpause; ei lunsjpause; A1; Arbeit/Beruf/Arbeitsalltag; I lunsjpausen går jeg en kort tur.; In meiner Mittagspause mache ich einen kurzen Spaziergang.
 no-xb-0223; Kaffeepause; en kaffepause; ; A2; Arbeit/Beruf/Arbeitsalltag; La oss ta en kort kaffepause nå.; Lass uns jetzt eine kurze Kaffeepause machen.
 no-xb-0224; Kantine; en kantine; ; A2; Arbeit/Beruf/Arbeitsalltag; Maten i kantinen vår er billig og god.; Das Essen in unserer Kantine ist billig und gut.
-no-xb-0225; Empfang (Büro); en resepsjon; ; B1; Arbeit/Beruf/Arbeitsalltag; Vent i resepsjonen, så blir du hentet.; Bitte warten Sie am Empfang, Sie werden abgeholt.
+no-xb-0225; Empfang (sich am Empfang melden); en resepsjon; ; B1; Arbeit/Beruf/Arbeitsalltag; Vent i resepsjonen, så blir du hentet.; Bitte warten Sie am Empfang, Sie werden abgeholt.
 no-xb-0226; Nebenjob; en ekstrajobb; en bijobb, en deltidsjobb; B1; Arbeit/Beruf/Arbeitsalltag; Mange studenter har en ekstrajobb på en kafé.; Viele Studenten haben einen Nebenjob in einem Café.
 no-xb-0227; Ferienjob; en sommerjobb; en feriejobb; A2; Arbeit/Beruf/Arbeitsalltag; Jeg tjente litt penger på en sommerjobb.; Ich habe mit einem Ferienjob etwas Geld verdient.
 no-xb-0228; Traumberuf; en drømmejobb; et drømmeyrke; A2; Arbeit/Beruf/Karriere; Pilot har alltid vært drømmejobben min.; Pilot ist schon immer mein Traumberuf gewesen.
@@ -252,7 +252,7 @@ no-xb-0249; Aktenschrank; et arkivskap; ; B2; Arbeit/Beruf/Arbeitsplatz; De gaml
 no-xb-0250; Aktentasche; ei dokumentveske; en dokumentveske, en dokumentmappe; B1; Arbeit/Beruf/Arbeitsplatz; Han bærer laptopen sin i ei dokumentveske av skinn.; Er trägt seinen Laptop in einer Aktentasche aus Leder.
 no-xb-0251; Tinte; et blekk; ; A2; Arbeit/Beruf/Arbeitsplatz; Fyllepennen min har ikke mer blekk.; Mein Füller hat keine Tinte mehr.
 no-xb-0252; Druckerpatrone; en blekkpatron; ; B2; Arbeit/Beruf/Arbeitsplatz; Vi trenger en ny blekkpatron til skriveren.; Wir brauchen eine neue Druckerpatrone für den Drucker.
-no-xb-0253; Ausdruck (Papier); ei utskrift; en utskrift; B2; Arbeit/Beruf/Arbeitsplatz; Kan du ta med ei utskrift av rapporten til møtet?; Kannst du einen Ausdruck des Berichts zur Besprechung mitbringen?
+no-xb-0253; Ausdruck (ein Ausdruck vom Drucker); ei utskrift; en utskrift; B2; Arbeit/Beruf/Arbeitsplatz; Kan du ta med ei utskrift av rapporten til møtet?; Kannst du einen Ausdruck des Berichts zur Besprechung mitbringen?
 no-xb-0254; fotokopieren; å kopiere; å fotokopiere; B1; Arbeit/Beruf/Arbeitsplatz; Kopier denne siden tjue ganger til klassen, takk.; Bitte fotokopier diese Seite zwanzigmal für die Klasse.
 no-xb-0255; Mikrofon; en mikrofon; ; A2; Technik/Computer/Geräte; Vær så snill å snakke litt nærmere mikrofonen.; Sprich bitte etwas näher ins Mikrofon.
 no-xb-0256; Webcam; et webkamera; en webcam; A2; Technik/Computer/Geräte; Webkameraet mitt virker ikke under videosamtaler.; Meine Webcam funktioniert bei Videoanrufen nicht.
@@ -276,11 +276,11 @@ no-xb-0273; Ladekabel; en ladekabel; ; A2; Technik/Computer/Hardware; Har du en 
 no-xb-0274; Adapter; en adapter; ; B1; Technik/Computer/Hardware; Til stikkontakter i Storbritannia trenger du en adapter.; Für Steckdosen in Großbritannien brauchst du einen Adapter.
 no-xb-0275; einfügen; å lime inn; å sette inn; B1; Technik/Computer/Software; Kopier teksten og lim den inn i e-posten.; Kopier den Text und füg ihn in die E-Mail ein.
 no-xb-0276; scannen; å skanne; ; B1; Technik/Computer/Software; Kan du skanne kontrakten og sende den til meg?; Kannst du den Vertrag scannen und mir schicken?
-no-xb-0277; tippen (schreiben); å skrive på tastatur; å taste; A2; Technik/Computer/Software; Hun kan skrive veldig raskt på tastaturet uten å se ned.; Sie kann sehr schnell tippen, ohne auf die Tastatur zu schauen.
+no-xb-0277; tippen (auf der Tastatur tippen); å skrive på tastatur; å taste; A2; Technik/Computer/Software; Hun kan skrive veldig raskt på tastaturet uten å se ned.; Sie kann sehr schnell tippen, ohne auf die Tastatur zu schauen.
 no-xb-0278; doppelklicken; å dobbeltklikke; ; B1; Technik/Computer/Software; Dobbeltklikk på ikonet for å åpne programmet.; Doppelklicke auf das Symbol, um das Programm zu öffnen.
 no-xb-0279; scrollen; å scrolle; å rulle; A2; Technik/Computer/Software; Scroll ned til slutten av siden.; Scroll nach unten bis zum Ende der Seite.
 no-xb-0280; Einstellungen; innstillinger; ; A2; Technik/Computer/Software; Du kan endre språket i innstillingene.; Du kannst die Sprache in den Einstellungen ändern.
-no-xb-0281; Symbol (Bildschirm); et ikon; ; B1; Technik/Computer/Software; Klikk på ikonet med skriveren øverst.; Klick oben auf das Symbol mit dem Drucker.
+no-xb-0281; Symbol (ein Symbol auf dem Bildschirm); et ikon; ; B1; Technik/Computer/Software; Klikk på ikonet med skriveren øverst.; Klick oben auf das Symbol mit dem Drucker.
 no-xb-0282; Cursor; en markør; ; B2; Technik/Computer/Software; Flytt markøren til slutten av linjen.; Beweg den Cursor an das Ende der Zeile.
 no-xb-0283; Tabelle; en tabell; ; B1; Technik/Computer/Software; Tabellen viser alle resultatene av spørreundersøkelsen.; Die Tabelle zeigt die Ergebnisse der Umfrage.
 no-xb-0284; Tabellenkalkulation; et regneark; ; B2; Technik/Computer/Software; Jeg holder oversikt over utgiftene mine i et regneark.; Ich halte meine Ausgaben in einer Tabellenkalkulation fest.
@@ -288,12 +288,12 @@ no-xb-0285; Textverarbeitung; ei tekstbehandling; en tekstbehandler; B2; Technik
 no-xb-0286; Schriftart; en skrifttype; en font; B2; Technik/Computer/Software; Velg en skrifttype som er lett å lese.; Wähl eine Schriftart, die gut lesbar ist.
 no-xb-0287; Tastenkombination; en tastekombinasjon; en hurtigtast; B2; Technik/Computer/Software; Med denne tastekombinasjonen lagrer du dokumentet raskt.; Diese Tastenkombination speichert das Dokument.
 no-xb-0288; Pixel; en piksel; ; B2; Technik/Computer/Software; Bildet har for få piksler til en plakat.; Das Foto hat zu wenige Pixel für ein Poster.
-no-xb-0289; Auflösung (Bildschirm); ei oppløsning; en oppløsning; B2; Technik/Computer/Software; Den nye skjermen har veldig høy oppløsning.; Der neue Monitor hat eine sehr hohe Auflösung.
+no-xb-0289; Auflösung (die Auflösung des Bildschirms); ei oppløsning; en oppløsning; B2; Technik/Computer/Software; Den nye skjermen har veldig høy oppløsning.; Der neue Monitor hat eine sehr hohe Auflösung.
 no-xb-0290; Bildschirmschoner; en skjermsparer; ; B2; Technik/Computer/Software; Skjermspareren slår seg på etter fem minutter.; Der Bildschirmschoner geht nach fünf Minuten an.
 no-xb-0291; Rechtschreibprüfung; en stavekontroll; ; B2; Technik/Computer/Software; Stavekontrollen fant ikke akkurat denne feilen.; Die Rechtschreibprüfung hat diesen Fehler nicht gefunden.
 no-xb-0292; Autokorrektur; en autokorrektur; ; B1; Technik/Computer/Software; Autokorrekturen gjorde meldingen min om til noe merkelig.; Die Autokorrektur hat meine Nachricht in etwas Seltsames verwandelt.
 no-xb-0293; Zwischenablage; ei utklippstavle; en utklippstavle; C1; Technik/Computer/Software; Den kopierte teksten ligger nå på utklippstavlen.; Der kopierte Text ist jetzt in der Zwischenablage.
-no-xb-0294; Papierkorb (Computer); en papirkurv; ; B1; Technik/Computer/Software; Den slettede filen ligger fortsatt i papirkurven.; Die gelöschte Datei ist noch im Papierkorb.
+no-xb-0294; Papierkorb (auf dem Computer); en papirkurv; ; B1; Technik/Computer/Software; Den slettede filen ligger fortsatt i papirkurven.; Die gelöschte Datei ist noch im Papierkorb.
 no-xb-0295; Desktop; et skrivebord; ; B1; Technik/Computer/Software; Jeg lagret filen på skrivebordet på datamaskinen.; Ich habe die Datei auf dem Desktop gespeichert.
 no-xb-0296; Registerkarte; en fane; ; C1; Technik/Computer/Software; Åpne lenken i en ny fane.; Öffne den Link in einer neuen Registerkarte.
 no-xb-0297; Version; en versjon; ; B1; Technik/Computer/Software; Installer den nyeste versjonen av appen, takk.; Bitte installier die neueste Version der App.
@@ -333,7 +333,7 @@ no-xb-0330; Handyvertrag; et mobilabonnement; en mobilavtale; B1; Technik/Comput
 no-xb-0331; Bildschirmzeit; en skjermtid; ; B1; Technik/Computer/Smartphone; Barn bør ikke ha for mye skjermtid.; Kinder sollten nicht zu viel Bildschirmzeit haben.
 no-xb-0332; Stecker; et støpsel; ; B1; Technik/Elektrik; Trekk ut støpselet før du rengjør apparatet.; Zieh den Stecker, bevor du das Gerät sauber machst.
 no-xb-0333; Verlängerungskabel; en skjøteledning; en skjøtekabel; B2; Technik/Elektrik; Kabelen er for kort, vi trenger en skjøteledning.; Das Kabel ist zu kurz, wir brauchen ein Verlängerungskabel.
-no-xb-0334; Schalter (für Strom); en bryter; ; A2; Technik/Elektrik; Bryteren for lyset er ved siden av døra.; Der Schalter für das Licht ist neben der Tür.
+no-xb-0334; Schalter (den Schalter drücken); en bryter; ; A2; Technik/Elektrik; Bryteren for lyset er ved siden av døra.; Der Schalter für das Licht ist neben der Tür.
 no-xb-0335; einschalten; å slå på; å skru på; A2; Technik/Elektrik; Kan du slå på lyset, er du snill?; Kannst du bitte das Licht einschalten?
 no-xb-0336; ausschalten; å slå av; å skru av; A2; Technik/Elektrik; Ikke glem å slå av datamaskinen din.; Vergiss nicht, deinen Computer auszuschalten.
 no-xb-0337; Kurzschluss; en kortslutning; ; C1; Technik/Elektrik; En kortslutning startet brannen på kjøkkenet.; Ein Kurzschluss hat das Feuer in der Küche verursacht.
@@ -401,7 +401,7 @@ no-xb-0398; Wochenzeitung; ei ukeavis; en ukeavis; B1; Medien/Kommunikation/Nach
 no-xb-0399; Titelseite; en forside; en førsteside, ei forside; B2; Medien/Kommunikation/Nachrichten & Presse; Saken sto på forsida i alle avisene.; Die Geschichte stand auf der Titelseite jeder Zeitung.
 no-xb-0400; Leserbrief; et leserbrev; ; B2; Medien/Kommunikation/Nachrichten & Presse; Bestefaren min skriver ofte leserbrev til avisa.; Mein Großvater schreibt oft Leserbriefe.
 no-xb-0401; Kolumne; en kolumne; en spalte; B2; Medien/Kommunikation/Nachrichten & Presse; Hun skriver en ukentlig kolumne om mat.; Sie schreibt eine wöchentliche Kolumne über Essen.
-no-xb-0402; Ausgabe (Zeitung); en utgave; ; B2; Medien/Kommunikation/Nachrichten & Presse; Den nye utgaven av bladet kommer ut mandag.; Die neue Ausgabe der Zeitschrift erscheint am Montag.
+no-xb-0402; Ausgabe (die neue Ausgabe der Zeitschrift); en utgave; ; B2; Medien/Kommunikation/Nachrichten & Presse; Den nye utgaven av bladet kommer ut mandag.; Die neue Ausgabe der Zeitschrift erscheint am Montag.
 no-xb-0403; Nachrichtenagentur; et nyhetsbyrå; ; C1; Medien/Kommunikation/Nachrichten & Presse; Meldingen kommer fra et internasjonalt nyhetsbyrå.; Die Meldung stammt von einer internationalen Nachrichtenagentur.
 no-xb-0404; Bildunterschrift; en bildetekst; ; C1; Medien/Kommunikation/Nachrichten & Presse; Bildeteksten under fotografiet nevner navnet på byen.; Die Bildunterschrift unter dem Foto nennt den Namen der Stadt.
 no-xb-0405; Kritiker; en kritiker; ; B2; Medien/Kommunikation/Nachrichten & Presse; Kritikerne var begeistret for den nye serien.; Die Kritiker waren von der neuen Serie begeistert.
@@ -422,7 +422,7 @@ no-xb-0419; Rundfunk; en kringkasting; ; C1; Medien/Kommunikation/Fernsehen & Ra
 no-xb-0420; ausstrahlen; å sende; ; B2; Medien/Kommunikation/Fernsehen & Radio; Den siste episoden sendes neste søndag.; Die letzte Folge wird nächsten Sonntag ausgestrahlt.
 no-xb-0421; Aufnahme (Ton oder Video); et opptak; ; B1; Medien/Kommunikation/Fernsehen & Radio; Kvaliteten på dette gamle opptaket er ikke så god.; Die Qualität dieser alten Aufnahme ist nicht sehr gut.
 no-xb-0422; aufnehmen (Ton oder Video); å ta opp; å spille inn; B1; Medien/Kommunikation/Fernsehen & Radio; Bandet tok opp det nye albumet sitt i London.; Die Band hat ihr neues Album in London aufgenommen.
-no-xb-0423; Staffel (Serie); en sesong; ; B1; Medien/Kommunikation/Fernsehen & Radio; Tredje sesong av serien starter i mai.; Die dritte Staffel der Serie beginnt im Mai.
+no-xb-0423; Staffel (die zweite Staffel); en sesong; ; B1; Medien/Kommunikation/Fernsehen & Radio; Tredje sesong av serien starter i mai.; Die dritte Staffel der Serie beginnt im Mai.
 no-xb-0424; synchronisiert; dubbet; ; B2; Medien/Kommunikation/Fernsehen & Radio; I Tyskland er de fleste utenlandske filmer dubbet.; In Deutschland sind die meisten ausländischen Filme synchronisiert.
 no-xb-0425; Kommentator; en kommentator; ; B2; Medien/Kommunikation/Fernsehen & Radio; Kommentatoren ble helt ellevill da målet kom.; Der Kommentator geriet bei dem Tor ganz aus dem Häuschen.
 no-xb-0426; Antenne; en antenne; ; B2; Medien/Kommunikation/Fernsehen & Radio; Stormen skadet antennen på taket vårt.; Der Sturm hat die Antenne auf unserem Dach beschädigt.
@@ -433,8 +433,8 @@ no-xb-0430; Emoji; en emoji; ; A2; Medien/Kommunikation/Social Media; Hun svarte
 no-xb-0431; viral; viral; ; B2; Medien/Kommunikation/Social Media; Den morsomme videoen hans ble viral på få timer.; Sein lustiges Video ging innerhalb weniger Stunden viral.
 no-xb-0432; Telefonnummer; et telefonnummer; ; A1; Medien/Kommunikation/Telefon & Post; Kan jeg få telefonnummeret ditt, takk?; Kann ich bitte deine Telefonnummer haben?
 no-xb-0433; Vorwahl; et retningsnummer; ; B2; Medien/Kommunikation/Telefon & Post; Vet du hva retningsnummeret til Berlin er?; Wie lautet die Vorwahl für Berlin?
-no-xb-0434; besetzt (Telefon); opptatt; ; A2; Medien/Kommunikation/Telefon & Post; Jeg ringte tre ganger, men det var opptatt.; Ich habe dreimal angerufen, aber es war besetzt.
-no-xb-0435; Hörer (Telefon); et telefonrør; ; B2; Medien/Kommunikation/Telefon & Post; Hun tok av telefonrøret og tastet nummeret.; Sie nahm den Hörer ab und wählte die Nummer.
+no-xb-0434; besetzt (die Leitung ist besetzt); opptatt; ; A2; Medien/Kommunikation/Telefon & Post; Jeg ringte tre ganger, men det var opptatt.; Ich habe dreimal angerufen, aber es war besetzt.
+no-xb-0435; Hörer (den Hörer abnehmen); et telefonrør; ; B2; Medien/Kommunikation/Telefon & Post; Hun tok av telefonrøret og tastet nummeret.; Sie nahm den Hörer ab und wählte die Nummer.
 no-xb-0436; Postleitzahl; et postnummer; ; A1; Medien/Kommunikation/Telefon & Post; Ikke glem å skrive postnummeret på konvolutten.; Vergiss die Postleitzahl auf dem Umschlag nicht.
 no-xb-0437; Briefumschlag; en konvolutt; ; A2; Medien/Kommunikation/Telefon & Post; Legg brevet i en konvolutt og sett på et frimerke.; Steck den Brief in einen Briefumschlag und kleb eine Marke drauf.
 no-xb-0438; Briefkasten; ei postkasse; en postkasse; A2; Medien/Kommunikation/Telefon & Post; Det lå et postkort fra Spania i postkassa.; Im Briefkasten war eine Postkarte aus Spanien.

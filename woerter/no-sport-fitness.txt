@@ -6,8 +6,8 @@ no-sf-0003; schwimmen; å svømme; ; A1; Freizeit/Sport/Sportarten; Jeg svømmer
 no-sf-0004; laufen; å løpe; ; A1; Freizeit/Sport/Training; Han løper tre kilometer hver morgen.; Er läuft jeden Morgen drei Kilometer.
 no-sf-0005; spielen; å spille; å leke; A1; Freizeit/Sport/Sportarten; Barna spiller tennis hver dag etter skolen.; Die Kinder spielen jeden Tag nach der Schule Tennis.
 no-sf-0006; Tennis; en tennis; ; A1; Freizeit/Sport/Sportarten; Hun spiller tennis med broren sin på søndager.; Sie spielt sonntags mit ihrem Bruder Tennis.
-no-sf-0007; Spiel (Sport); en kamp; ; A1; Freizeit/Sport/Wettkampf; Kampen begynner i dag klokka tre.; Das Spiel beginnt heute um drei Uhr.
-no-sf-0008; Tor (Sport); et mål; ; A1; Freizeit/Sport/Wettkampf; Laget vårt scoret et mål i det siste minuttet.; Unsere Mannschaft schoss in der letzten Minute ein Tor.
+no-sf-0007; Spiel (ein Fußballspiel ansehen); en kamp; ; A1; Freizeit/Sport/Wettkampf; Kampen begynner i dag klokka tre.; Das Spiel beginnt heute um drei Uhr.
+no-sf-0008; Tor (ein Tor schießen); et mål; ; A1; Freizeit/Sport/Wettkampf; Laget vårt scoret et mål i det siste minuttet.; Unsere Mannschaft schoss in der letzten Minute ein Tor.
 no-sf-0009; Mannschaft; et lag; ; A1; Freizeit/Sport/Verein; Laget vårt trener to ganger i uka.; Unsere Mannschaft trainiert zweimal pro Woche.
 no-sf-0010; gewinnen; å vinne; ; A1; Freizeit/Sport/Wettkampf; Vi vil vinne den neste kampen.; Wir wollen das nächste Spiel gewinnen.
 no-sf-0011; verlieren; å miste; ; A1; Freizeit/Sport/Wettkampf; Ingen liker å miste en viktig kamp.; Niemand verliert gern ein wichtiges Spiel.
@@ -61,19 +61,19 @@ no-sf-0058; Badeanzug; en badedrakt; ; A2; Freizeit/Sport/Ausrüstung; Ikke glem
 no-sf-0059; Helm; en hjelm; ; A2; Freizeit/Sport/Ausrüstung; Bruk alltid hjelm når du sykler.; Trag auf dem Fahrrad immer einen Helm.
 no-sf-0060; fit; i form; ; A2; Freizeit/Sport/Fitnessstudio; Regelmessig trening hjelper deg å holde deg i form.; Regelmäßiges Training hilft dir, fit zu bleiben.
 no-sf-0061; Ausdauer; en utholdenhet; ; B1; Freizeit/Sport/Training; Lange løpeturer bygger utholdenhet over flere måneder.; Lange Läufe bauen über Monate Ausdauer auf.
-no-sf-0062; Kraft (körperlich); en styrke; en kraft; B1; Freizeit/Sport/Training; Klatring krever styrke og god teknikk.; Zum Klettern braucht man Kraft und Technik.
+no-sf-0062; Kraft (viel Kraft in den Armen); en styrke; en kraft; B1; Freizeit/Sport/Training; Klatring krever styrke og god teknikk.; Zum Klettern braucht man Kraft und Technik.
 no-sf-0063; Beweglichkeit; en bevegelighet; en fleksibilitet; B1; Freizeit/Sport/Training; Yoga forbedrer bevegeligheten og den indre roen.; Yoga verbessert die Beweglichkeit und die innere Ruhe.
 no-sf-0064; Geschwindigkeit; en hastighet; en fart; B1; Freizeit/Sport/Training; Hastigheten hans på korte distanser er imponerende.; Seine Geschwindigkeit auf kurzen Strecken ist beeindruckend.
 no-sf-0065; Muskelkater; en treningsverk; ; B1; Freizeit/Sport/Training; Etter den første timen hadde jeg treningsverk.; Nach der ersten Stunde hatte ich Muskelkater.
 no-sf-0066; Hantel; en håndvekt; en manual; B1; Freizeit/Sport/Fitnessstudio; Han løfter en tung håndvekt med hver arm.; Er hebt mit jedem Arm eine schwere Hantel.
-no-sf-0067; Laufband (Fitness); en tredemølle; ; B1; Freizeit/Sport/Fitnessstudio; Når det regner, løper hun på tredemølla.; Bei Regen läuft sie auf dem Laufband.
+no-sf-0067; Laufband (im Fitnessstudio); en tredemølle; ; B1; Freizeit/Sport/Fitnessstudio; Når det regner, løper hun på tredemølla.; Bei Regen läuft sie auf dem Laufband.
 no-sf-0068; Gewichte heben; å løfte vekter; ; B1; Freizeit/Sport/Fitnessstudio; Han løfter vekter tre ganger i uka.; Er hebt dreimal pro Woche Gewichte.
 no-sf-0069; Liegestütz; en armhevning; ; B1; Freizeit/Sport/Fitnessstudio; Klarer du tjue armhevninger uten pause?; Schaffst du zwanzig Liegestütze ohne Pause?
 no-sf-0070; Klimmzug; en pull-up; en chins; B1; Freizeit/Sport/Fitnessstudio; En ren pull-up er vanskeligere enn den ser ut til.; Ein sauberer Klimmzug ist schwerer, als er aussieht.
 no-sf-0071; Kniebeuge; en knebøy; ; B1; Freizeit/Sport/Fitnessstudio; Gjør hver knebøy sakte og kontrollert.; Mach jede Kniebeuge langsam und kontrolliert.
 no-sf-0072; Runde; en runde; ; B1; Freizeit/Sport/Training; Hun løper ti runder rundt banen hver morgen.; Sie läuft jeden Morgen zehn Runden um die Bahn.
 no-sf-0073; Halbzeit; en omgang; en halvlek; B1; Freizeit/Sport/Wettkampf; Etter første omgang sto det fortsatt null mot null.; Nach der ersten Halbzeit stand es noch null zu null.
-no-sf-0074; Verlängerung (Sport); en forlengning; en ekstraomgang; B1; Freizeit/Sport/Wettkampf; Finalen ble til slutt avgjort i forlengningen.; Das Finale wurde in der Verlängerung entschieden.
+no-sf-0074; Verlängerung (nach neunzig Minuten); en forlengning; en ekstraomgang; B1; Freizeit/Sport/Wettkampf; Finalen ble til slutt avgjort i forlengningen.; Das Finale wurde in der Verlängerung entschieden.
 no-sf-0075; Elfmeter; et straffespark; en penalty; B1; Freizeit/Sport/Wettkampf; Han satte straffesparket med stor letthet.; Er verwandelte den Elfmeter mit Leichtigkeit.
 no-sf-0076; Abseits; offside; ; B1; Freizeit/Sport/Wettkampf; Målet telte ikke fordi han sto offside.; Das Tor zählte wegen Abseits nicht.
 no-sf-0077; Foul; en foul; ; B1; Freizeit/Sport/Wettkampf; Dommeren så med en gang at det var en hard foul.; Der Schiedsrichter sah das harte Foul sofort.
@@ -87,7 +87,7 @@ no-sf-0084; Liga; en liga; en divisjon; B1; Freizeit/Sport/Wettkampf; Laget spil
 no-sf-0085; Turnier; en turnering; ; B1; Freizeit/Sport/Wettkampf; Turneringen blir arrangert her hver eneste sommer.; Das Turnier findet hier jeden Sommer statt.
 no-sf-0086; Saison; en sesong; ; B1; Freizeit/Sport/Wettkampf; Den nye sesongen begynner i slutten av august.; Die neue Saison beginnt Ende August.
 no-sf-0087; Aufstieg; et opprykk; ; B1; Freizeit/Sport/Wettkampf; Fansen drømmer om opprykk i år.; Die Fans träumen dieses Jahr vom Aufstieg.
-no-sf-0088; Abstieg (Sport); et nedrykk; ; B1; Freizeit/Sport/Wettkampf; Klubben unngikk så vidt nedrykk forrige sesong.; Der Verein entging letzte Saison knapp dem Abstieg.
+no-sf-0088; Abstieg (in die zweite Liga); et nedrykk; ; B1; Freizeit/Sport/Wettkampf; Klubben unngikk så vidt nedrykk forrige sesong.; Der Verein entging letzte Saison knapp dem Abstieg.
 no-sf-0089; Rekord; en rekord; ; B1; Freizeit/Sport/Wettkampf; Hun slo den nasjonale rekorden med to sekunder.; Sie brach den nationalen Rekord um zwei Sekunden.
 no-sf-0090; Weltmeister; en verdensmester; ; B1; Freizeit/Sport/Wettkampf; Han ble verdensmester i ung alder.; Er wurde in jungen Jahren Weltmeister.
 no-sf-0091; Olympische Spiele; de olympiske leker; ; B1; Freizeit/Sport/Wettkampf; De olympiske leker arrangeres hvert fjerde år.; Die Olympischen Spiele finden alle vier Jahre statt.
@@ -104,7 +104,7 @@ no-sf-0101; Gegner; en motstander; ; B2; Freizeit/Sport/Wettkampf; Man bør aldr
 no-sf-0102; Rivale; en rival; ; B2; Freizeit/Sport/Wettkampf; De to rivalene møtes igjen i finalen.; Die beiden Rivalen treffen im Finale wieder aufeinander.
 no-sf-0103; Favorit; en favoritt; ; B2; Freizeit/Sport/Wettkampf; Favoritten tapte overraskende i første runde.; Der Favorit verlor überraschend in der ersten Runde.
 no-sf-0104; Außenseiter; en outsider; en underdog; B2; Freizeit/Sport/Wettkampf; Outsideren overrasket alle med en klar seier.; Der Außenseiter überraschte alle mit einem klaren Sieg.
-no-sf-0105; Qualifikation (Sport); en kvalifisering; en kvalifikasjon; B2; Freizeit/Sport/Wettkampf; Hun nådde finalen etter en sterk kvalifisering.; Sie erreichte das Finale durch eine starke Qualifikation.
+no-sf-0105; Qualifikation (die Qualifikation für die WM); en kvalifisering; en kvalifikasjon; B2; Freizeit/Sport/Wettkampf; Hun nådde finalen etter en sterk kvalifisering.; Sie erreichte das Finale durch eine starke Qualifikation.
 no-sf-0106; Endspiel; en finale; en sluttkamp; B2; Freizeit/Sport/Wettkampf; Finalen blir spilt på søndag kveld.; Das Endspiel wird am Sonntagabend gespielt.
 no-sf-0107; Halbfinale; en semifinale; en halvfinale; B2; Freizeit/Sport/Wettkampf; De tapte semifinalen etter en dramatisk kamp.; Sie verloren das Halbfinale nach einem dramatischen Spiel.
 no-sf-0108; Vorrunde; en innledende runde; et gruppespill; B2; Freizeit/Sport/Wettkampf; Laget ble slått ut i den innledende runden.; Die Mannschaft schied in der Vorrunde aus.

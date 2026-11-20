@@ -82,7 +82,7 @@ xb-0079; Bachelor; bachelor's degree; bachelor; B1; Bildung/Universität; She ha
 xb-0080; Master; master's degree; master; B1; Bildung/Universität; After my bachelor's I want to do a master's degree.; Nach dem Bachelor möchte ich einen Master machen.
 xb-0081; Hochschule; university; college; B1; Bildung/Universität; He is studying music at a university in Cologne.; Er studiert Musik an einer Hochschule in Köln.
 xb-0082; Fachhochschule; university of applied sciences; ; C1; Bildung/Universität; She studied engineering at a university of applied sciences.; Sie hat Maschinenbau an einer Fachhochschule studiert.
-xb-0083; Sprechstunde (Hochschule); office hours; ; B2; Bildung/Universität; The professor's office hours are on Tuesday afternoon.; Die Sprechstunde des Professors ist am Dienstagnachmittag.
+xb-0083; Sprechstunde (beim Professor); office hours; ; B2; Bildung/Universität; The professor's office hours are on Tuesday afternoon.; Die Sprechstunde des Professors ist am Dienstagnachmittag.
 xb-0084; Tutor; tutor; ; B2; Bildung/Universität; Our tutor helps us prepare for the exams.; Unser Tutor hilft uns bei der Vorbereitung auf die Prüfungen.
 xb-0085; Literaturverzeichnis; bibliography; reference list, list of references; C1; Bildung/Universität; Add all your sources to the bibliography.; Nimm alle deine Quellen ins Literaturverzeichnis auf.
 xb-0086; Zitat; quotation; quote; B1; Bildung/Universität; The essay begins with a quotation from Goethe.; Der Aufsatz beginnt mit einem Zitat von Goethe.
@@ -144,10 +144,10 @@ xb-0141; Vokal; vowel; ; B1; Bildung/Sprache/Wörter & Aussprache; The letters a
 xb-0142; Konsonant; consonant; ; B1; Bildung/Sprache/Wörter & Aussprache; The word strength has many consonants in a row.; Das Wort strength hat viele Konsonanten hintereinander.
 xb-0143; Akzent; accent; ; B1; Bildung/Sprache/Wörter & Aussprache; He speaks English with a strong German accent.; Er spricht Englisch mit einem starken deutschen Akzent.
 xb-0144; Dialekt; dialect; ; B2; Bildung/Sprache/Wörter & Aussprache; My grandparents speak a dialect I hardly understand.; Meine Großeltern sprechen einen Dialekt, den ich kaum verstehe.
-xb-0145; Ausdruck (Formulierung); expression; phrase; B1; Bildung/Sprache/Wörter & Aussprache; This expression is very common in spoken English.; Dieser Ausdruck ist im gesprochenen Englisch sehr üblich.
+xb-0145; Ausdruck (ein höflicher Ausdruck); expression; phrase; B1; Bildung/Sprache/Wörter & Aussprache; This expression is very common in spoken English.; Dieser Ausdruck ist im gesprochenen Englisch sehr üblich.
 xb-0146; Redewendung; idiom; saying; B2; Bildung/Sprache/Wörter & Aussprache; It's raining cats and dogs is a funny idiom.; It's raining cats and dogs ist eine lustige Redewendung.
 xb-0147; Synonym; synonym; ; B2; Bildung/Sprache/Wörter & Aussprache; Big is a synonym for large.; Big ist ein Synonym für large.
-xb-0148; Abkürzung (Wort); abbreviation; ; B1; Bildung/Sprache/Wörter & Aussprache; UK is the abbreviation for United Kingdom.; UK ist die Abkürzung für United Kingdom.
+xb-0148; Abkürzung (ein abgekürztes Wort); abbreviation; ; B1; Bildung/Sprache/Wörter & Aussprache; UK is the abbreviation for United Kingdom.; UK ist die Abkürzung für United Kingdom.
 xb-0149; Fremdwort; foreign word; loanword; B2; Bildung/Sprache/Wörter & Aussprache; German has many foreign words from English.; Das Deutsche hat viele Fremdwörter aus dem Englischen.
 xb-0150; Wortfamilie; word family; ; B2; Bildung/Sprache/Wörter & Aussprache; Happy, happiness and unhappy belong to one word family.; Happy, happiness und unhappy gehören zu einer Wortfamilie.
 xb-0151; Definition; definition; ; B1; Bildung/Sprache/Wörter & Aussprache; Read the definition and guess the word.; Lies die Definition und rate das Wort.
@@ -169,7 +169,7 @@ xb-0166; Stichwort; keyword; ; B1; Bildung/Sprache/Lesen & Schreiben; Write down
 xb-0167; Stichpunkt; bullet point; note; B2; Bildung/Sprache/Lesen & Schreiben; Make notes in bullet points for your presentation.; Mach dir für dein Referat Notizen in Stichpunkten.
 xb-0168; Einleitung; introduction; ; B1; Bildung/Sprache/Lesen & Schreiben; The introduction should not be too long.; Die Einleitung sollte nicht zu lang sein.
 xb-0169; Hauptteil; main part; main body, body; B1; Bildung/Sprache/Lesen & Schreiben; In the main part you present your arguments.; Im Hauptteil stellst du deine Argumente dar.
-xb-0170; Schluss (Text); conclusion; ending; B1; Bildung/Sprache/Lesen & Schreiben; In the conclusion you give your own opinion.; Im Schluss sagst du deine eigene Meinung.
+xb-0170; Schluss (Einleitung, Hauptteil, Schluss); conclusion; ending; B1; Bildung/Sprache/Lesen & Schreiben; In the conclusion you give your own opinion.; Im Schluss sagst du deine eigene Meinung.
 xb-0171; Entwurf; draft; ; B2; Bildung/Sprache/Lesen & Schreiben; I have written the first draft of my essay.; Ich habe den ersten Entwurf meines Aufsatzes geschrieben.
 xb-0172; Bildbeschreibung; picture description; description of a picture; B1; Bildung/Sprache/Lesen & Schreiben; In the oral exam you have to give a picture description.; In der mündlichen Prüfung musst du eine Bildbeschreibung machen.
 xb-0173; Leseverstehen; reading comprehension; ; B2; Bildung/Sprache/Lesen & Schreiben; The test has a part on reading comprehension.; Der Test hat einen Teil zum Leseverstehen.
@@ -190,7 +190,7 @@ xb-0187; Gebärdensprache; sign language; ; B2; Bildung/Sprache/Sprachen; Deaf p
 xb-0188; Handwerker; tradesman; craftsman, workman; B1; Arbeit/Beruf/Berufe; We need a tradesman to repair the roof.; Wir brauchen einen Handwerker, der das Dach repariert.
 xb-0189; Klempner; plumber; ; B1; Arbeit/Beruf/Berufe; The plumber is coming to fix the leaking pipe.; Der Klempner kommt, um das undichte Rohr zu reparieren.
 xb-0190; Tischler; carpenter; joiner; B1; Arbeit/Beruf/Berufe; The carpenter made this table out of oak.; Der Tischler hat diesen Tisch aus Eiche gemacht.
-xb-0191; Maler (Handwerker); painter; painter and decorator, decorator; B1; Arbeit/Beruf/Berufe; The painters are painting our flat next week.; Die Maler streichen nächste Woche unsere Wohnung.
+xb-0191; Maler (der Maler streicht die Wände); painter; painter and decorator, decorator; B1; Arbeit/Beruf/Berufe; The painters are painting our flat next week.; Die Maler streichen nächste Woche unsere Wohnung.
 xb-0192; Maurer; bricklayer; ; B2; Arbeit/Beruf/Berufe; The bricklayers have finished the walls of the house.; Die Maurer sind mit den Wänden des Hauses fertig.
 xb-0193; Automechaniker; car mechanic; motor mechanic; A2; Arbeit/Beruf/Berufe; My cousin is training to be a car mechanic.; Mein Cousin macht eine Ausbildung zum Automechaniker.
 xb-0194; Programmierer; programmer; ; A2; Arbeit/Beruf/Berufe; The programmer is writing a new app.; Der Programmierer schreibt eine neue App.
@@ -224,7 +224,7 @@ xb-0221; Arbeitstag; working day; workday; A2; Arbeit/Beruf/Arbeitsalltag; My wo
 xb-0222; Mittagspause; lunch break; ; A1; Arbeit/Beruf/Arbeitsalltag; In my lunch break I go for a short walk.; In meiner Mittagspause mache ich einen kurzen Spaziergang.
 xb-0223; Kaffeepause; coffee break; ; A2; Arbeit/Beruf/Arbeitsalltag; Let's have a short coffee break now.; Lass uns jetzt eine kurze Kaffeepause machen.
 xb-0224; Kantine; canteen; staff canteen; A2; Arbeit/Beruf/Arbeitsalltag; The food in our canteen is cheap and good.; Das Essen in unserer Kantine ist billig und gut.
-xb-0225; Empfang (Büro); reception; ; B1; Arbeit/Beruf/Arbeitsalltag; Please wait at reception, someone will collect you.; Bitte warten Sie am Empfang, Sie werden abgeholt.
+xb-0225; Empfang (sich am Empfang melden); reception; ; B1; Arbeit/Beruf/Arbeitsalltag; Please wait at reception, someone will collect you.; Bitte warten Sie am Empfang, Sie werden abgeholt.
 xb-0226; Nebenjob; side job; part-time job, second job; B1; Arbeit/Beruf/Arbeitsalltag; Many students have a side job in a café.; Viele Studenten haben einen Nebenjob in einem Café.
 xb-0227; Ferienjob; holiday job; summer job; A2; Arbeit/Beruf/Arbeitsalltag; I earned some money with a holiday job.; Ich habe mit einem Ferienjob etwas Geld verdient.
 xb-0228; Traumberuf; dream job; ; A2; Arbeit/Beruf/Karriere; My dream job has always been to become a pilot.; Pilot ist schon immer mein Traumberuf gewesen.
@@ -252,7 +252,7 @@ xb-0249; Aktenschrank; filing cabinet; file cabinet; B2; Arbeit/Beruf/Arbeitspla
 xb-0250; Aktentasche; briefcase; ; B1; Arbeit/Beruf/Arbeitsplatz; He carries his laptop in a leather briefcase.; Er trägt seinen Laptop in einer Aktentasche aus Leder.
 xb-0251; Tinte; ink; ; A2; Arbeit/Beruf/Arbeitsplatz; My fountain pen has run out of ink.; Mein Füller hat keine Tinte mehr.
 xb-0252; Druckerpatrone; ink cartridge; printer cartridge, cartridge; B2; Arbeit/Beruf/Arbeitsplatz; We need a new ink cartridge for the printer.; Wir brauchen eine neue Druckerpatrone für den Drucker.
-xb-0253; Ausdruck (Papier); printout; print-out; B2; Arbeit/Beruf/Arbeitsplatz; Could you bring a printout of the report to the meeting?; Kannst du einen Ausdruck des Berichts zur Besprechung mitbringen?
+xb-0253; Ausdruck (ein Ausdruck vom Drucker); printout; print-out; B2; Arbeit/Beruf/Arbeitsplatz; Could you bring a printout of the report to the meeting?; Kannst du einen Ausdruck des Berichts zur Besprechung mitbringen?
 xb-0254; fotokopieren; to photocopy; to copy; B1; Arbeit/Beruf/Arbeitsplatz; Please photocopy this page twenty times for the class.; Bitte fotokopier diese Seite zwanzigmal für die Klasse.
 xb-0255; Mikrofon; microphone; ; A2; Technik/Computer/Geräte; Speak a bit closer to the microphone, please.; Sprich bitte etwas näher ins Mikrofon.
 xb-0256; Webcam; webcam; ; A2; Technik/Computer/Geräte; My webcam does not work in video calls.; Meine Webcam funktioniert bei Videoanrufen nicht.
@@ -276,11 +276,11 @@ xb-0273; Ladekabel; charging cable; charger cable; A2; Technik/Computer/Hardware
 xb-0274; Adapter; adapter; adaptor; B1; Technik/Computer/Hardware; You need an adapter for sockets in the UK.; Für Steckdosen in Großbritannien brauchst du einen Adapter.
 xb-0275; einfügen; to paste; to insert; B1; Technik/Computer/Software; Copy the text and paste it into the email.; Kopier den Text und füg ihn in die E-Mail ein.
 xb-0276; scannen; to scan; ; B1; Technik/Computer/Software; Can you scan the contract and send it to me?; Kannst du den Vertrag scannen und mir schicken?
-xb-0277; tippen (schreiben); to type; ; A2; Technik/Computer/Software; She can type very fast without looking at the keyboard.; Sie kann sehr schnell tippen, ohne auf die Tastatur zu schauen.
+xb-0277; tippen (auf der Tastatur tippen); to type; ; A2; Technik/Computer/Software; She can type very fast without looking at the keyboard.; Sie kann sehr schnell tippen, ohne auf die Tastatur zu schauen.
 xb-0278; doppelklicken; to double-click; to double click; B1; Technik/Computer/Software; Double-click on the icon to open the program.; Doppelklicke auf das Symbol, um das Programm zu öffnen.
 xb-0279; scrollen; to scroll; ; A2; Technik/Computer/Software; Scroll down to the end of the page.; Scroll nach unten bis zum Ende der Seite.
 xb-0280; Einstellungen; settings; ; A2; Technik/Computer/Software; You can change the language in the settings.; Du kannst die Sprache in den Einstellungen ändern.
-xb-0281; Symbol (Bildschirm); icon; ; B1; Technik/Computer/Software; Click on the printer icon at the top.; Klick oben auf das Symbol mit dem Drucker.
+xb-0281; Symbol (ein Symbol auf dem Bildschirm); icon; ; B1; Technik/Computer/Software; Click on the printer icon at the top.; Klick oben auf das Symbol mit dem Drucker.
 xb-0282; Cursor; cursor; ; B2; Technik/Computer/Software; Move the cursor to the end of the line.; Beweg den Cursor an das Ende der Zeile.
 xb-0283; Tabelle; table; ; B1; Technik/Computer/Software; The table shows the results of the survey.; Die Tabelle zeigt die Ergebnisse der Umfrage.
 xb-0284; Tabellenkalkulation; spreadsheet; spreadsheet program; B2; Technik/Computer/Software; I keep track of my expenses in a spreadsheet.; Ich halte meine Ausgaben in einer Tabellenkalkulation fest.
@@ -288,12 +288,12 @@ xb-0285; Textverarbeitung; word processing; word processor; B2; Technik/Computer
 xb-0286; Schriftart; font; typeface; B2; Technik/Computer/Software; Choose a font that is easy to read.; Wähl eine Schriftart, die gut lesbar ist.
 xb-0287; Tastenkombination; keyboard shortcut; shortcut; B2; Technik/Computer/Software; This keyboard shortcut saves the document.; Diese Tastenkombination speichert das Dokument.
 xb-0288; Pixel; pixel; ; B2; Technik/Computer/Software; The photo has too few pixels for a poster.; Das Foto hat zu wenige Pixel für ein Poster.
-xb-0289; Auflösung (Bildschirm); resolution; ; B2; Technik/Computer/Software; The new monitor has a very high resolution.; Der neue Monitor hat eine sehr hohe Auflösung.
+xb-0289; Auflösung (die Auflösung des Bildschirms); resolution; ; B2; Technik/Computer/Software; The new monitor has a very high resolution.; Der neue Monitor hat eine sehr hohe Auflösung.
 xb-0290; Bildschirmschoner; screensaver; screen saver; B2; Technik/Computer/Software; The screensaver comes on after five minutes.; Der Bildschirmschoner geht nach fünf Minuten an.
 xb-0291; Rechtschreibprüfung; spellcheck; spell checker, spellchecker; B2; Technik/Computer/Software; The spellcheck did not find this mistake.; Die Rechtschreibprüfung hat diesen Fehler nicht gefunden.
 xb-0292; Autokorrektur; autocorrect; ; B1; Technik/Computer/Software; Autocorrect changed my message into something strange.; Die Autokorrektur hat meine Nachricht in etwas Seltsames verwandelt.
 xb-0293; Zwischenablage; clipboard; ; C1; Technik/Computer/Software; The copied text is now on the clipboard.; Der kopierte Text ist jetzt in der Zwischenablage.
-xb-0294; Papierkorb (Computer); recycle bin; trash; B1; Technik/Computer/Software; The deleted file is still in the recycle bin.; Die gelöschte Datei ist noch im Papierkorb.
+xb-0294; Papierkorb (auf dem Computer); recycle bin; trash; B1; Technik/Computer/Software; The deleted file is still in the recycle bin.; Die gelöschte Datei ist noch im Papierkorb.
 xb-0295; Desktop; desktop; ; B1; Technik/Computer/Software; I saved the file on the desktop.; Ich habe die Datei auf dem Desktop gespeichert.
 xb-0296; Registerkarte; tab; ; C1; Technik/Computer/Software; Open the link in a new tab.; Öffne den Link in einer neuen Registerkarte.
 xb-0297; Version; version; ; B1; Technik/Computer/Software; Please install the latest version of the app.; Bitte installier die neueste Version der App.
@@ -333,7 +333,7 @@ xb-0330; Handyvertrag; mobile phone contract; phone contract, mobile contract; B
 xb-0331; Bildschirmzeit; screen time; ; B1; Technik/Computer/Smartphone; Children should not have too much screen time.; Kinder sollten nicht zu viel Bildschirmzeit haben.
 xb-0332; Stecker; plug; ; B1; Technik/Elektrik; Pull the plug out before you clean the machine.; Zieh den Stecker, bevor du das Gerät sauber machst.
 xb-0333; Verlängerungskabel; extension cable; extension lead, extension cord; B2; Technik/Elektrik; The cable is too short, we need an extension cable.; Das Kabel ist zu kurz, wir brauchen ein Verlängerungskabel.
-xb-0334; Schalter (für Strom); switch; light switch; A2; Technik/Elektrik; The switch for the light is next to the door.; Der Schalter für das Licht ist neben der Tür.
+xb-0334; Schalter (den Schalter drücken); switch; light switch; A2; Technik/Elektrik; The switch for the light is next to the door.; Der Schalter für das Licht ist neben der Tür.
 xb-0335; einschalten; to switch on; to turn on; A2; Technik/Elektrik; Can you switch on the light, please?; Kannst du bitte das Licht einschalten?
 xb-0336; ausschalten; to switch off; to turn off; A2; Technik/Elektrik; Don't forget to switch off your computer.; Vergiss nicht, deinen Computer auszuschalten.
 xb-0337; Kurzschluss; short circuit; ; C1; Technik/Elektrik; A short circuit caused the fire in the kitchen.; Ein Kurzschluss hat das Feuer in der Küche verursacht.
@@ -401,7 +401,7 @@ xb-0398; Wochenzeitung; weekly newspaper; weekly; B1; Medien/Kommunikation/Nachr
 xb-0399; Titelseite; front page; cover; B2; Medien/Kommunikation/Nachrichten & Presse; The story was on the front page of every newspaper.; Die Geschichte stand auf der Titelseite jeder Zeitung.
 xb-0400; Leserbrief; letter to the editor; reader's letter; B2; Medien/Kommunikation/Nachrichten & Presse; My grandfather often writes letters to the editor.; Mein Großvater schreibt oft Leserbriefe.
 xb-0401; Kolumne; column; ; B2; Medien/Kommunikation/Nachrichten & Presse; She writes a weekly column about food.; Sie schreibt eine wöchentliche Kolumne über Essen.
-xb-0402; Ausgabe (Zeitung); issue; edition; B2; Medien/Kommunikation/Nachrichten & Presse; The new issue of the magazine comes out on Monday.; Die neue Ausgabe der Zeitschrift erscheint am Montag.
+xb-0402; Ausgabe (die neue Ausgabe der Zeitschrift); issue; edition; B2; Medien/Kommunikation/Nachrichten & Presse; The new issue of the magazine comes out on Monday.; Die neue Ausgabe der Zeitschrift erscheint am Montag.
 xb-0403; Nachrichtenagentur; news agency; press agency; C1; Medien/Kommunikation/Nachrichten & Presse; The report comes from an international news agency.; Die Meldung stammt von einer internationalen Nachrichtenagentur.
 xb-0404; Bildunterschrift; caption; ; C1; Medien/Kommunikation/Nachrichten & Presse; The caption under the photo gives the name of the town.; Die Bildunterschrift unter dem Foto nennt den Namen der Stadt.
 xb-0405; Kritiker; critic; ; B2; Medien/Kommunikation/Nachrichten & Presse; The critics loved the new series.; Die Kritiker waren von der neuen Serie begeistert.
@@ -422,7 +422,7 @@ xb-0419; Rundfunk; broadcasting; radio and television; C1; Medien/Kommunikation/
 xb-0420; ausstrahlen; to broadcast; to air, to show; B2; Medien/Kommunikation/Fernsehen & Radio; The final episode will be broadcast next Sunday.; Die letzte Folge wird nächsten Sonntag ausgestrahlt.
 xb-0421; Aufnahme (Ton oder Video); recording; ; B1; Medien/Kommunikation/Fernsehen & Radio; The quality of this old recording is not very good.; Die Qualität dieser alten Aufnahme ist nicht sehr gut.
 xb-0422; aufnehmen (Ton oder Video); to record; ; B1; Medien/Kommunikation/Fernsehen & Radio; The band recorded their new album in London.; Die Band hat ihr neues Album in London aufgenommen.
-xb-0423; Staffel (Serie); season; series; B1; Medien/Kommunikation/Fernsehen & Radio; The third season of the series starts in May.; Die dritte Staffel der Serie beginnt im Mai.
+xb-0423; Staffel (die zweite Staffel); season; series; B1; Medien/Kommunikation/Fernsehen & Radio; The third season of the series starts in May.; Die dritte Staffel der Serie beginnt im Mai.
 xb-0424; synchronisiert; dubbed; ; B2; Medien/Kommunikation/Fernsehen & Radio; In Germany most foreign films are dubbed.; In Deutschland sind die meisten ausländischen Filme synchronisiert.
 xb-0425; Kommentator; commentator; ; B2; Medien/Kommunikation/Fernsehen & Radio; The commentator got very excited about the goal.; Der Kommentator geriet bei dem Tor ganz aus dem Häuschen.
 xb-0426; Antenne; aerial; antenna; B2; Medien/Kommunikation/Fernsehen & Radio; The storm damaged the aerial on our roof.; Der Sturm hat die Antenne auf unserem Dach beschädigt.
@@ -433,8 +433,8 @@ xb-0430; Emoji; emoji; ; A2; Medien/Kommunikation/Social Media; She answered my 
 xb-0431; viral; viral; ; B2; Medien/Kommunikation/Social Media; His funny video went viral within a few hours.; Sein lustiges Video ging innerhalb weniger Stunden viral.
 xb-0432; Telefonnummer; phone number; telephone number; A1; Medien/Kommunikation/Telefon & Post; Can I have your phone number, please?; Kann ich bitte deine Telefonnummer haben?
 xb-0433; Vorwahl; dialling code; area code, dialing code, country code; B2; Medien/Kommunikation/Telefon & Post; What is the dialling code for Berlin?; Wie lautet die Vorwahl für Berlin?
-xb-0434; besetzt (Telefon); engaged; busy; A2; Medien/Kommunikation/Telefon & Post; I called three times, but the line was engaged.; Ich habe dreimal angerufen, aber es war besetzt.
-xb-0435; Hörer (Telefon); receiver; handset; B2; Medien/Kommunikation/Telefon & Post; She picked up the receiver and dialled the number.; Sie nahm den Hörer ab und wählte die Nummer.
+xb-0434; besetzt (die Leitung ist besetzt); engaged; busy; A2; Medien/Kommunikation/Telefon & Post; I called three times, but the line was engaged.; Ich habe dreimal angerufen, aber es war besetzt.
+xb-0435; Hörer (den Hörer abnehmen); receiver; handset; B2; Medien/Kommunikation/Telefon & Post; She picked up the receiver and dialled the number.; Sie nahm den Hörer ab und wählte die Nummer.
 xb-0436; Postleitzahl; postcode; zip code, postal code; A1; Medien/Kommunikation/Telefon & Post; Don't forget the postcode on the envelope.; Vergiss die Postleitzahl auf dem Umschlag nicht.
 xb-0437; Briefumschlag; envelope; ; A2; Medien/Kommunikation/Telefon & Post; Put the letter in an envelope and add a stamp.; Steck den Brief in einen Briefumschlag und kleb eine Marke drauf.
 xb-0438; Briefkasten; letterbox; postbox, mailbox; A2; Medien/Kommunikation/Telefon & Post; There was a postcard from Spain in the letterbox.; Im Briefkasten war eine Postkarte aus Spanien.

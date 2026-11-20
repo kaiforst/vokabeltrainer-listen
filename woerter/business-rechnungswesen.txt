@@ -1,7 +1,7 @@
 id; Deutsch; Englisch; Weitere Antworten; Niveau; Themen; Beispiel Englisch; Beispiel Deutsch
 rc-0001; Geld; money; ; A1; Business/Rechnungswesen/Rechnung & Zahlung, Alltag/Einkaufen; The company needs money to pay its bills.; Das Unternehmen braucht Geld, um seine Rechnungen zu bezahlen.
 rc-0002; bezahlen; to pay; ; A1; Business/Rechnungswesen/Rechnung & Zahlung; Please pay the invoice by the end of May.; Bitte bezahlen Sie die Rechnung bis Ende Mai.
-rc-0003; Preis (Kosten); price; ; A1; Business/Rechnungswesen/Rechnung & Zahlung, Alltag/Einkaufen; The price of the new software is very high.; Der Preis der neuen Software ist sehr hoch.
+rc-0003; Preis (ein günstiger Preis); price; ; A1; Business/Rechnungswesen/Rechnung & Zahlung, Alltag/Einkaufen; The price of the new software is very high.; Der Preis der neuen Software ist sehr hoch.
 rc-0004; kaufen; to buy; to purchase; A1; Business/Rechnungswesen/Rechnung & Zahlung; We want to buy new computers for the office.; Wir wollen neue Computer für das Büro kaufen.
 rc-0005; Konto; account; bank account; A1; Business/Rechnungswesen/Buchhaltung; The money arrived in our account on Monday.; Das Geld kam am Montag auf unserem Konto an.
 rc-0006; Rechnung; invoice; bill; A2; Business/Rechnungswesen/Rechnung & Zahlung; We send the invoice right after the delivery.; Wir senden die Rechnung direkt nach der Lieferung.
@@ -15,7 +15,7 @@ rc-0013; Kunde; customer; client; A2; Business/Rechnungswesen/Rechnung & Zahlung
 rc-0014; Lieferant; supplier; vendor; A2; Business/Rechnungswesen/Rechnung & Zahlung; Our supplier offers good prices and fast delivery.; Unser Lieferant bietet gute Preise und schnelle Lieferung.
 rc-0015; Zahlung; payment; ; A2; Business/Rechnungswesen/Rechnung & Zahlung; We received your payment last week, thank you.; Wir haben Ihre Zahlung letzte Woche erhalten, vielen Dank.
 rc-0016; Bargeld; cash; ; A2; Business/Rechnungswesen/Rechnung & Zahlung; Many companies do not accept cash anymore.; Viele Unternehmen akzeptieren kein Bargeld mehr.
-rc-0017; Überweisung (Bank); bank transfer; wire transfer; A2; Business/Rechnungswesen/Rechnung & Zahlung; Payment by bank transfer takes one or two days.; Eine Zahlung per Überweisung dauert ein bis zwei Tage.
+rc-0017; Überweisung (Geld per Überweisung); bank transfer; wire transfer; A2; Business/Rechnungswesen/Rechnung & Zahlung; Payment by bank transfer takes one or two days.; Eine Zahlung per Überweisung dauert ein bis zwei Tage.
 rc-0018; Kreditkarte; credit card; ; A2; Business/Rechnungswesen/Rechnung & Zahlung; You can pay the hotel with your credit card.; Sie können das Hotel mit Ihrer Kreditkarte bezahlen.
 rc-0019; Rabatt; discount; price reduction; A2; Business/Rechnungswesen/Rechnung & Zahlung; We give a discount for large orders.; Wir geben einen Rabatt für große Bestellungen.
 rc-0020; Gewinn; profit; earnings; A2; Business/Rechnungswesen/Bilanz & GuV; The profit rose by ten percent last year.; Der Gewinn stieg im letzten Jahr um zehn Prozent.
@@ -50,7 +50,7 @@ rc-0048; Beleg; voucher; supporting document; B1; Business/Rechnungswesen/Buchha
 rc-0049; Kostenstelle; cost center; ; B1; Business/Rechnungswesen/Controlling & Kennzahlen; Each department has its own cost center in our system.; Jede Abteilung hat eine eigene Kostenstelle in unserem System.
 rc-0050; Gebühr; fee; charge; B1; Business/Rechnungswesen/Rechnung & Zahlung; The bank charges a small fee for each transfer.; Die Bank berechnet eine kleine Gebühr für jede Überweisung.
 rc-0051; berechnen; to calculate; to compute; B1; Business/Rechnungswesen/Controlling & Kennzahlen; We calculate the total costs at the end of each month.; Wir berechnen die Gesamtkosten am Ende jedes Monats.
-rc-0052; buchen (Buchhaltung); to book; to post, to record; B1; Business/Rechnungswesen/Buchhaltung; The accountant books every payment on the right account.; Der Buchhalter bucht jede Zahlung auf das richtige Konto.
+rc-0052; buchen (eine Rechnung buchen); to book; to post, to record; B1; Business/Rechnungswesen/Buchhaltung; The accountant books every payment on the right account.; Der Buchhalter bucht jede Zahlung auf das richtige Konto.
 rc-0053; überweisen; to transfer; to remit; B1; Business/Rechnungswesen/Rechnung & Zahlung; Please transfer the money to the account below.; Bitte überweisen Sie das Geld auf das untenstehende Konto.
 rc-0054; erstatten; to reimburse; to refund; B1; Business/Rechnungswesen/Rechnung & Zahlung; The company will reimburse your travel costs next week.; Das Unternehmen erstattet Ihre Reisekosten nächste Woche.
 rc-0055; Rückerstattung; refund; reimbursement; B1; Business/Rechnungswesen/Rechnung & Zahlung; The customer asked for a refund after the cancellation.; Der Kunde bat nach der Stornierung um eine Rückerstattung.
@@ -66,7 +66,7 @@ rc-0064; Kosten senken; to cut costs; to reduce costs; B1; Business/Rechnungswes
 rc-0065; in Rechnung stellen; to invoice; to bill, to charge for; B1; Business/Rechnungswesen/Rechnung & Zahlung; We will invoice the extra hours at the usual rate.; Wir stellen die zusätzlichen Stunden zum üblichen Satz in Rechnung.
 rc-0066; Gewinn- und Verlustrechnung; profit and loss statement; income statement; B2; Business/Rechnungswesen/Bilanz & GuV; The profit and loss statement shows income and expenses.; Die Gewinn- und Verlustrechnung zeigt Erträge und Aufwendungen.
 rc-0067; Abschreibung; depreciation; amortization; B2; Business/Rechnungswesen/Bilanz & GuV; Depreciation reduces the book value of our machines.; Die Abschreibung mindert den Buchwert unserer Maschinen.
-rc-0068; abschreiben (Buchhaltung); to depreciate; to write off; B2; Business/Rechnungswesen/Buchhaltung; We depreciate the new vehicles over six years.; Wir schreiben die neuen Fahrzeuge über sechs Jahre ab.
+rc-0068; abschreiben (in der Buchhaltung abschreiben); to depreciate; to write off; B2; Business/Rechnungswesen/Buchhaltung; We depreciate the new vehicles over six years.; Wir schreiben die neuen Fahrzeuge über sechs Jahre ab.
 rc-0069; Cashflow; cash flow; ; B2; Business/Rechnungswesen/Controlling & Kennzahlen; A healthy cash flow keeps the company flexible.; Ein gesunder Cashflow hält das Unternehmen flexibel.
 rc-0070; Liquidität; liquidity; ; B2; Business/Rechnungswesen/Controlling & Kennzahlen; The company improved its liquidity by selling old stock.; Das Unternehmen verbesserte seine Liquidität durch den Verkauf alter Bestände.
 rc-0071; Forderungen; receivables; accounts receivable; B2; Business/Rechnungswesen/Bilanz & GuV; Our receivables increased because many customers pay late.; Unsere Forderungen stiegen, weil viele Kunden spät zahlen.

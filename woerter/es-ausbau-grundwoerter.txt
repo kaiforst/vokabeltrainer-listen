@@ -14,7 +14,7 @@ es-xe-0011; verstecken; esconder; ocultar; A2; Allgemein/Verben; ¿Dónde has es
 es-xe-0012; wecken; despertar; ; A2; Allgemein/Verben; Por favor, despiértame mañana a las siete.; Bitte weck mich morgen früh um sieben.
 es-xe-0013; mischen; mezclar; ; A2; Allgemein/Verben; Mezcla la pintura azul con la amarilla.; Misch die blaue und die gelbe Farbe zusammen.
 es-xe-0014; heben; levantar; alzar; B1; Allgemein/Verben; ¿Me ayudas a levantar esta caja tan pesada?; Kannst du mir helfen, diese schwere Kiste zu heben?
-es-xe-0015; schaffen (bewältigen); conseguir; lograr; B1; Allgemein/Verben; No te preocupes, lo vas a conseguir sin problemas.; Keine Sorge, du schaffst das leicht.
+es-xe-0015; schaffen (es gerade noch schaffen); conseguir; lograr; B1; Allgemein/Verben; No te preocupes, lo vas a conseguir sin problemas.; Keine Sorge, du schaffst das leicht.
 es-xe-0016; sich verlassen; confiar en; contar con, fiarse de; B1; Allgemein/Verben; Siempre puedes confiar en tu mejor amiga.; Auf deine beste Freundin kannst du dich immer verlassen.
 es-xe-0017; sich gewöhnen; acostumbrarse; ; B1; Allgemein/Verben; Poco a poco me he acostumbrado al tiempo frío.; Ich habe mich langsam an das kalte Wetter gewöhnt.
 es-xe-0018; sich lohnen; merecer la pena; valer la pena; B1; Allgemein/Verben; La larga subida hasta la cima mereció la pena.; Der lange Weg nach oben hat sich gelohnt.
@@ -109,9 +109,9 @@ es-xe-0106; eigen; propio; ; B1; Allgemein/Adjektive; Algún día quiero tener m
 es-xe-0107; sorgfältig; cuidadoso; minucioso, esmerado; B1; Allgemein/Adjektive; Ha hecho un trabajo muy cuidadoso.; Er hat eine sehr sorgfältige Arbeit gemacht.
 es-xe-0108; einzig; único; ; B1; Allgemein/Adjektive; Ella es la única persona que sabe la respuesta.; Sie ist die einzige Person, die die Antwort kennt.
 es-xe-0109; geheim; secreto; ; B1; Allgemein/Adjektive; El plan tiene que seguir siendo secreto hasta el viernes.; Der Plan muss bis Freitag geheim bleiben.
-es-xe-0110; glatt (Oberfläche); liso; ; B1; Allgemein/Adjektive; Tras años en el río, la piedra está completamente lisa.; Der Stein ist nach Jahren im Fluss ganz glatt.
+es-xe-0110; glatt (eine glatte Oberfläche); liso; ; B1; Allgemein/Adjektive; Tras años en el río, la piedra está completamente lisa.; Der Stein ist nach Jahren im Fluss ganz glatt.
 es-xe-0111; korrekt; correcto; ; B1; Allgemein/Adjektive; Todas tus respuestas del examen eran correctas.; Alle deine Antworten im Test waren korrekt.
-es-xe-0112; locker (nicht fest); flojo; suelto; B1; Allgemein/Adjektive; Tengo un diente flojo desde ayer.; Ich habe seit gestern einen lockeren Zahn.
+es-xe-0112; locker (die Schraube ist locker); flojo; suelto; B1; Allgemein/Adjektive; Tengo un diente flojo desde ayer.; Ich habe seit gestern einen lockeren Zahn.
 es-xe-0113; merkwürdig; extraño; curioso, raro; B1; Allgemein/Adjektive; Ayer me pasó algo muy extraño.; Gestern ist mir etwas Merkwürdiges passiert.
 es-xe-0114; passend; adecuado; apropiado; B1; Allgemein/Adjektive; No encuentro un regalo adecuado para ella.; Ich finde kein passendes Geschenk für sie.
 es-xe-0115; rein; puro; ; B1; Allgemein/Adjektive; Este jersey es de lana pura.; Dieser Pullover ist aus reiner Wolle.
@@ -152,7 +152,7 @@ es-xe-0149; so; tan; así; A1; Allgemein/Kleine Wörter; Estoy tan cansado despu
 es-xe-0150; denn; porque; pues; A1; Allgemein/Kleine Wörter; Me quedo en casa porque estoy enfermo.; Ich bleibe zu Hause, denn ich bin krank.
 es-xe-0151; gern; con mucho gusto; con gusto; A1; Allgemein/Kleine Wörter; Te ayudo con mucho gusto con las cajas.; Ich helfe dir gern mit den Kisten.
 es-xe-0152; niemand; nadie; ; A2; Allgemein/Kleine Wörter; En casa nadie contestó al teléfono.; Zu Hause ist niemand ans Telefon gegangen.
-es-xe-0153; über (Thema); sobre; de, acerca de; A2; Allgemein/Kleine Wörter; Hablamos sobre nuestros planes para el verano.; Wir haben über unsere Pläne für den Sommer gesprochen.
+es-xe-0153; über (ein Buch über Tiere); sobre; de, acerca de; A2; Allgemein/Kleine Wörter; Hablamos sobre nuestros planes para el verano.; Wir haben über unsere Pläne für den Sommer gesprochen.
 es-xe-0154; wieso; por qué; ; A2; Allgemein/Kleine Wörter; ¿Por qué no me lo dijiste antes?; Wieso hast du mir das nicht früher gesagt?
 es-xe-0155; trotzdem; aun así; sin embargo, de todas formas; A2; Allgemein/Kleine Wörter; Llovía, pero aun así fuimos a dar un paseo.; Es regnete, trotzdem gingen wir spazieren.
 es-xe-0156; wegen; a causa de; por, debido a, por culpa de; A2; Allgemein/Kleine Wörter; Suspendieron el partido a causa de la lluvia.; Das Spiel wurde wegen des Regens abgesagt.
@@ -167,7 +167,7 @@ es-xe-0164; einander; el uno al otro; mutuamente, entre sí; B1; Allgemein/Klein
 es-xe-0165; deswegen; por eso; por esa razón, por lo tanto; B1; Allgemein/Kleine Wörter; El autobús llegó tarde, por eso me perdí la película.; Der Bus kam zu spät, deswegen habe ich den Film verpasst.
 es-xe-0166; statt; en lugar de; en vez de; B1; Allgemein/Kleine Wörter; Hoy vamos a tomar té en lugar de café.; Lass uns heute Tee statt Kaffee trinken.
 es-xe-0167; außer; excepto; salvo, menos; B1; Allgemein/Kleine Wörter; Todos vinieron a la fiesta excepto Tomás.; Alle außer Tomás kamen zur Party.
-es-xe-0168; damit (Zweck); para que; ; B1; Allgemein/Kleine Wörter; Habla más alto para que todos te oigan.; Sprich lauter, damit dich alle hören können.
+es-xe-0168; damit (damit er pünktlich ist); para que; ; B1; Allgemein/Kleine Wörter; Habla más alto para que todos te oigan.; Sprich lauter, damit dich alle hören können.
 es-xe-0169; falls; por si; en caso de que, si; B1; Allgemein/Kleine Wörter; Llévate un paraguas por si llueve.; Nimm einen Schirm mit, falls es regnet.
 es-xe-0170; nachdem; después de; después de que; B1; Allgemein/Kleine Wörter; Después de comer, fuimos a dar un paseo.; Nachdem wir gegessen hatten, gingen wir spazieren.
 es-xe-0171; seitdem; desde que; desde entonces; B1; Allgemein/Kleine Wörter; Desde que se mudó, nos vemos muy poco.; Seitdem sie weggezogen ist, sehen wir uns selten.
@@ -191,7 +191,7 @@ es-xe-0188; absolut; absolutamente; totalmente; B1; Allgemein/Kleine Wörter; Es
 es-xe-0189; relativ; relativamente; ; B1; Allgemein/Kleine Wörter; Esta vez el examen fue relativamente fácil.; Der Test war diesmal relativ leicht.
 es-xe-0190; extrem; extremadamente; sumamente; B1; Allgemein/Kleine Wörter; Las noches en la montaña eran extremadamente frías.; Die Nächte in den Bergen waren extrem kalt.
 es-xe-0191; gemeinsam; juntos; conjuntamente; B1; Allgemein/Kleine Wörter; Anoche mi novio y yo cocinamos juntos en casa.; Gestern Abend haben mein Freund und ich gemeinsam zu Hause gekocht.
-es-xe-0192; da (weil); como; ya que, puesto que; B1; Allgemein/Kleine Wörter; Como llovía, nos quedamos en casa.; Da es regnete, blieben wir zu Hause.
+es-xe-0192; da (da es spät ist); como; ya que, puesto que; B1; Allgemein/Kleine Wörter; Como llovía, nos quedamos en casa.; Da es regnete, blieben wir zu Hause.
 es-xe-0193; wozu; para qué; ; B1; Allgemein/Kleine Wörter; ¿Para qué necesitas todo ese dinero?; Wozu brauchst du das ganze Geld?
 es-xe-0194; gegenseitig; mutuamente; mutuo, recíproco; B2; Allgemein/Kleine Wörter; Nos ayudamos mutuamente con los deberes.; Wir helfen uns gegenseitig bei den Hausaufgaben.
 es-xe-0195; dank; gracias a; ; B2; Allgemein/Kleine Wörter; Gracias a tu ayuda terminamos a tiempo.; Dank deiner Hilfe sind wir rechtzeitig fertig geworden.
@@ -206,7 +206,7 @@ es-xe-0204; bezüglich; en relación con; respecto a, con respecto a, acerca de;
 es-xe-0205; zudem; además; asimismo; C1; Allgemein/Kleine Wörter; El piso es barato y, además, muy céntrico.; Die Wohnung ist günstig und zudem sehr zentral.
 es-xe-0206; lediglich; únicamente; simplemente, solo; C1; Allgemein/Kleine Wörter; No fue nada grave, fue únicamente un pequeño malentendido.; Es war nichts Schlimmes, es war lediglich ein kleines Missverständnis.
 es-xe-0207; keinesfalls; de ninguna manera; de ningún modo, bajo ningún concepto; C1; Allgemein/Kleine Wörter; De ninguna manera debes abrir esta puerta.; Du solltest diese Tür keinesfalls öffnen.
-es-xe-0208; um (Uhrzeit); a las; a; A1; Allgemein/Zeit; La clase empieza a las nueve.; Der Unterricht beginnt um neun Uhr.
+es-xe-0208; um (um acht Uhr); a las; a; A1; Allgemein/Zeit; La clase empieza a las nueve.; Der Unterricht beginnt um neun Uhr.
 es-xe-0209; morgens; por la mañana; ; A1; Allgemein/Zeit; Por la mañana siempre tomo té.; Morgens trinke ich immer Tee.
 es-xe-0210; abends; por la noche; por la tarde; A1; Allgemein/Zeit; Por la noche jugamos a menudo a las cartas.; Abends spielen wir oft Karten.
 es-xe-0211; Ende; el final; el fin; A1; Allgemein/Zeit; Nos mudamos al final del mes.; Wir ziehen am Ende des Monats um.
@@ -219,7 +219,7 @@ es-xe-0217; Mal (das erste Mal); la vez; ; A2; Allgemein/Zeit; Es la primera vez
 es-xe-0218; Vormittag; la mañana; ; A2; Allgemein/Zeit; El lunes por la mañana tengo dos horas de matemáticas.; Am Montagvormittag habe ich zwei Stunden Mathe.
 es-xe-0219; Nachmittag; la tarde; ; A2; Allgemein/Zeit; Pasamos toda la tarde en el parque.; Wir haben den ganzen Nachmittag im Park verbracht.
 es-xe-0220; Viertelstunde; el cuarto de hora; ; A2; Allgemein/Zeit; El autobús pasa cada cuarto de hora.; Der Bus kommt jede Viertelstunde.
-es-xe-0221; früher (in der Vergangenheit); antes; antiguamente, en el pasado; A2; Allgemein/Zeit; Antes había un cine en nuestra calle.; Früher gab es in unserer Straße ein Kino.
+es-xe-0221; früher (früher war alles anders); antes; antiguamente, en el pasado; A2; Allgemein/Zeit; Antes había un cine en nuestra calle.; Früher gab es in unserer Straße ein Kino.
 es-xe-0222; damals; en aquella época; entonces, en aquel entonces; A2; Allgemein/Zeit; En aquella época no teníamos móviles.; Damals hatten wir keine Handys.
 es-xe-0223; danach; después; luego, más tarde; A2; Allgemein/Zeit; Fuimos de compras y después comimos.; Wir waren einkaufen und haben danach zu Mittag gegessen.
 es-xe-0224; täglich; a diario; diariamente, cada día, todos los días; A2; Allgemein/Zeit; Practico piano media hora a diario.; Ich übe täglich eine halbe Stunde Klavier.
@@ -230,7 +230,7 @@ es-xe-0228; nochmal; otra vez; de nuevo; A2; Allgemein/Zeit; ¿Puedes decirlo ot
 es-xe-0229; niemals; nunca; jamás; A2; Allgemein/Zeit; Nunca olvidaré este día tan bonito.; Ich werde diesen schönen Tag niemals vergessen.
 es-xe-0230; Weile; el rato; ; B1; Allgemein/Zeit; Esperamos un rato y luego nos fuimos a casa.; Wir warteten eine Weile, dann gingen wir nach Hause.
 es-xe-0231; Beginn; el comienzo; el inicio, el principio; B1; Allgemein/Zeit; Por favor, sed puntuales para el comienzo del concierto.; Bitte seid zum Beginn des Konzerts pünktlich.
-es-xe-0232; Schluss (Ende); el final; el fin; B1; Allgemein/Zeit; Al final de la clase cantamos una canción.; Zum Schluss der Stunde haben wir ein Lied gesungen.
+es-xe-0232; Schluss (zum Schluss); el final; el fin; B1; Allgemein/Zeit; Al final de la clase cantamos una canción.; Zum Schluss der Stunde haben wir ein Lied gesungen.
 es-xe-0233; Eile; la prisa; ; B1; Allgemein/Zeit; Lo siento, hoy tengo mucha prisa.; Entschuldigung, ich bin heute sehr in Eile.
 es-xe-0234; dringend; urgente; ; B1; Allgemein/Zeit; Tengo que hacer una llamada urgente.; Ich muss einen dringenden Anruf machen.
 es-xe-0235; nachher; luego; después, más tarde; B1; Allgemein/Zeit; Ahora no puedo hablar, luego te llamo.; Ich kann jetzt nicht reden, ich rufe dich nachher an.
@@ -264,8 +264,8 @@ es-xe-0262; Jahrtausend; el milenio; ; B2; Allgemein/Zeit; Celebramos juntos el 
 es-xe-0263; wohin; adónde; a dónde; A1; Allgemein/Raum; ¿Adónde vais de vacaciones este año?; Wohin fahrt ihr dieses Jahr in den Urlaub?
 es-xe-0264; woher; de dónde; ; A1; Allgemein/Raum; ¿De dónde es tu nuevo vecino?; Woher kommt dein neuer Nachbar?
 es-xe-0265; neben; al lado de; junto a; A1; Allgemein/Raum; Siéntate al lado de tu hermano.; Setz dich neben deinen Bruder.
-es-xe-0266; vor (räumlich); delante de; enfrente de; A1; Allgemein/Raum; Delante de nuestra casa hay un árbol grande.; Vor unserem Haus steht ein großer Baum.
-es-xe-0267; nach (Richtung); a; hacia; A1; Allgemein/Raum; Mañana volamos a Italia para visitar a mis abuelos.; Morgen fliegen wir nach Italien, um meine Großeltern zu besuchen.
+es-xe-0266; vor (vor dem Haus); delante de; enfrente de; A1; Allgemein/Raum; Delante de nuestra casa hay un árbol grande.; Vor unserem Haus steht ein großer Baum.
+es-xe-0267; nach (nach Berlin fahren); a; hacia; A1; Allgemein/Raum; Mañana volamos a Italia para visitar a mis abuelos.; Morgen fliegen wir nach Italien, um meine Großeltern zu besuchen.
 es-xe-0268; oben; arriba; ; A2; Allgemein/Raum; El cuarto de baño está arriba a la izquierda.; Das Badezimmer ist oben links.
 es-xe-0269; unten; abajo; ; A2; Allgemein/Raum; La cocina está abajo, al lado del salón.; Die Küche ist unten neben dem Wohnzimmer.
 es-xe-0270; vorne; delante; adelante; A2; Allgemein/Raum; En el autobús me gusta sentarme delante.; Ich sitze im Bus gern vorne.
@@ -296,7 +296,7 @@ es-xe-0294; rückwärts; hacia atrás; marcha atrás; B1; Allgemein/Raum; Da un 
 es-xe-0295; Zentrum; el centro; ; B1; Allgemein/Raum; Nuestro hotel está justo en el centro de la ciudad.; Unser Hotel liegt direkt im Zentrum der Stadt.
 es-xe-0296; Abstand; la distancia; ; B1; Allgemein/Raum; Por favor, mantén la distancia con el coche de delante.; Bitte halte Abstand zum vorderen Auto.
 es-xe-0297; Umgebung; los alrededores; el entorno; B1; Allgemein/Raum; En los alrededores hay muchos paseos bonitos.; In der Umgebung gibt es viele schöne Spazierwege.
-es-xe-0298; Lage (Ort); la ubicación; la situación; B1; Allgemein/Raum; El hotel tiene una ubicación perfecta junto al mar.; Das Hotel hat eine perfekte Lage am Meer.
+es-xe-0298; Lage (eine ruhige Lage); la ubicación; la situación; B1; Allgemein/Raum; El hotel tiene una ubicación perfecta junto al mar.; Das Hotel hat eine perfekte Lage am Meer.
 es-xe-0299; Kurve; la curva; ; B1; Allgemein/Raum; Conduce despacio, más adelante hay una curva cerrada.; Fahr langsam, vorne kommt eine scharfe Kurve.
 es-xe-0300; Hintergrund; el fondo; ; B1; Allgemein/Raum; Al fondo de la foto se ven las montañas.; Im Hintergrund des Fotos sieht man die Berge.
 es-xe-0301; Lücke; el hueco; ; B1; Allgemein/Raum; El gato se coló por un hueco de la valla.; Die Katze zwängte sich durch eine Lücke im Zaun.
@@ -317,7 +317,7 @@ es-xe-0315; unterhalb; por debajo de; debajo de; B2; Allgemein/Raum; El lago se 
 es-xe-0316; umgekehrt; al revés; a la inversa, al contrario; B2; Allgemein/Raum; No fue culpa mía, fue al revés.; Es war nicht meine Schuld, es war umgekehrt.
 es-xe-0317; jenseits; más allá de; al otro lado de; C1; Allgemein/Raum; Más allá de las montañas se extiende un amplio valle.; Jenseits der Berge liegt ein weites Tal.
 es-xe-0318; Rest; el resto; ; A2; Allgemein/Mengen; Puedes quedarte con el resto de la tarta.; Du kannst den Rest vom Kuchen haben.
-es-xe-0319; Viertel (Bruchteil); el cuarto; la cuarta parte; A2; Allgemein/Mengen; Un cuarto de los alumnos viene en bici.; Ein Viertel der Schüler kommt mit dem Rad.
+es-xe-0319; Viertel (ein Viertel der Torte); el cuarto; la cuarta parte; A2; Allgemein/Mengen; Un cuarto de los alumnos viene en bici.; Ein Viertel der Schüler kommt mit dem Rad.
 es-xe-0320; Million; el millón; ; A2; Allgemein/Mengen; La ciudad tiene más de un millón de habitantes.; Die Stadt hat mehr als eine Million Einwohner.
 es-xe-0321; Meter; el metro; ; A2; Allgemein/Mengen; La piscina mide veinticinco metros de largo.; Das Schwimmbecken ist fünfundzwanzig Meter lang.
 es-xe-0322; Zentimeter; el centímetro; ; A2; Allgemein/Mengen; Mi hermana pequeña ha crecido cinco centímetros.; Meine kleine Schwester ist fünf Zentimeter gewachsen.
@@ -336,8 +336,8 @@ es-xe-0334; Anzahl; el número; la cantidad; B1; Allgemein/Mengen; Este año ha 
 es-xe-0335; Dutzend; la docena; ; B1; Allgemein/Mengen; Compré una docena de huevos en el mercado.; Ich habe auf dem Markt ein Dutzend Eier gekauft.
 es-xe-0336; Milliarde; mil millones; ; B1; Allgemein/Mengen; El nuevo estadio costó mil millones de euros.; Das neue Stadion hat eine Milliarde Euro gekostet.
 es-xe-0337; Inhalt; el contenido; ; B1; Allgemein/Mengen; El contenido de la caja se cayó al suelo.; Der Inhalt der Schachtel fiel auf den Boden.
-es-xe-0338; Tonne (Gewicht); la tonelada; ; B1; Allgemein/Mengen; El camión puede transportar diez toneladas de arena.; Der Lastwagen kann zehn Tonnen Sand transportieren.
-es-xe-0339; Pfund (Gewicht); el medio kilo; la libra; B1; Allgemein/Mengen; ¿Me pone medio kilo de tomates, por favor?; Kann ich bitte ein Pfund Tomaten haben?
+es-xe-0338; Tonne (eine Tonne wiegen); la tonelada; ; B1; Allgemein/Mengen; El camión puede transportar diez toneladas de arena.; Der Lastwagen kann zehn Tonnen Sand transportieren.
+es-xe-0339; Pfund (ein Pfund Butter); el medio kilo; la libra; B1; Allgemein/Mengen; ¿Me pone medio kilo de tomates, por favor?; Kann ich bitte ein Pfund Tomaten haben?
 es-xe-0340; Quadratmeter; el metro cuadrado; ; B1; Allgemein/Mengen; El piso tiene setenta metros cuadrados.; Die Wohnung hat siebzig Quadratmeter.
 es-xe-0341; Haufen; el montón; la pila; B1; Allgemein/Mengen; En el suelo hay un montón de ropa sucia.; Auf dem Boden liegt ein Haufen schmutziger Kleider.
 es-xe-0342; Kleinigkeit; el detalle; la pequeñez, la tontería; B1; Allgemein/Mengen; Te he comprado un detalle por tu cumpleaños.; Ich habe dir eine Kleinigkeit zum Geburtstag gekauft.
@@ -368,7 +368,7 @@ es-xe-0366; sich unterhalten; charlar; conversar, hablar; A2; Allgemein/Denken &
 es-xe-0367; grüßen; saludar; ; A2; Allgemein/Denken & Sprechen; Siempre saluda a los vecinos con amabilidad.; Er grüßt die Nachbarn immer freundlich.
 es-xe-0368; gratulieren; felicitar; dar la enhorabuena; A2; Allgemein/Denken & Sprechen; La felicitamos por su nuevo trabajo.; Wir haben ihr zu ihrer neuen Stelle gratuliert.
 es-xe-0369; nachdenken; reflexionar; pensar; B1; Allgemein/Denken & Sprechen; Necesito algo de tiempo para reflexionar sobre ello.; Ich brauche etwas Zeit, um darüber nachzudenken.
-es-xe-0370; überlegen (nachdenken); pensar; pensarse, considerar; B1; Allgemein/Denken & Sprechen; Déjame pensar tu oferta hasta mañana.; Ich überlege mir dein Angebot bis morgen.
+es-xe-0370; überlegen (sich etwas gut überlegen); pensar; pensarse, considerar; B1; Allgemein/Denken & Sprechen; Déjame pensar tu oferta hasta mañana.; Ich überlege mir dein Angebot bis morgen.
 es-xe-0371; erraten; adivinar; ; B1; Allgemein/Denken & Sprechen; Nunca adivinarás quién me ha llamado.; Du errätst nie, wer mich angerufen hat.
 es-xe-0372; vermuten; suponer; sospechar; B1; Allgemein/Denken & Sprechen; Supongo que ha vuelto a perder el autobús.; Ich vermute, er hat wieder den Bus verpasst.
 es-xe-0373; sich irren; equivocarse; ; B1; Allgemein/Denken & Sprechen; Creo que en eso te equivocas.; Ich glaube, da irrst du dich.
@@ -404,7 +404,7 @@ es-xe-0402; zitieren; citar; ; B2; Allgemein/Denken & Sprechen; Le gusta citar a
 es-xe-0403; schwören; jurar; ; B2; Allgemein/Denken & Sprechen; Te juro que no he cogido tu dinero.; Ich schwöre, dass ich dein Geld nicht genommen habe.
 es-xe-0404; äußern; expresar; manifestar; B2; Allgemein/Denken & Sprechen; Expresó sus dudas sobre el plan.; Sie äußerte ihre Zweifel an dem Plan.
 es-xe-0405; begründen; justificar; argumentar, fundamentar; B2; Allgemein/Denken & Sprechen; En la redacción tienes que justificar tu opinión.; Du musst deine Meinung im Aufsatz begründen.
-es-xe-0406; tippen (wetten); apostar; ; B2; Allgemein/Denken & Sprechen; Apuesto a que nuestro equipo gana el sábado.; Ich tippe, dass unsere Mannschaft am Samstag gewinnt.
+es-xe-0406; tippen (auf den Sieger tippen); apostar; ; B2; Allgemein/Denken & Sprechen; Apuesto a que nuestro equipo gana el sábado.; Ich tippe, dass unsere Mannschaft am Samstag gewinnt.
 es-xe-0407; gestehen; confesar; admitir; B2; Allgemein/Denken & Sprechen; Al final confesó que había mentido.; Schließlich gestand er, dass er gelogen hatte.
 es-xe-0408; Ansicht; la opinión; el punto de vista, el parecer; B2; Allgemein/Denken & Sprechen; En mi opinión, el plan es demasiado caro.; Meiner Ansicht nach ist der Plan zu teuer.
 es-xe-0409; Vermutung; la suposición; la sospecha, la conjetura; B2; Allgemein/Denken & Sprechen; Mi suposición es que se ha olvidado de nosotros.; Meine Vermutung ist, dass sie uns vergessen hat.

@@ -1,6 +1,6 @@
 # Norwegisch: Business – Verhandlungen
 id; Deutsch; Norwegisch; Weitere Antworten; Niveau; Themen; Beispiel Norwegisch; Beispiel Deutsch
-no-vh-0001; Preis (Kosten); en pris; ; A1; Business/Verhandlung/Angebot; Prisen er for høy for oss.; Der Preis ist zu hoch für uns.
+no-vh-0001; Preis (ein günstiger Preis); en pris; ; A1; Business/Verhandlung/Angebot; Prisen er for høy for oss.; Der Preis ist zu hoch für uns.
 no-vh-0002; kaufen; å kjøpe; ; A1; Business/Verhandlung/Abschluss, Alltag/Einkaufen; Vi vil kjøpe den nye maskinen neste måned.; Wir wollen die neue Maschine nächsten Monat kaufen.
 no-vh-0003; verkaufen; å selge; ; A1; Business/Verhandlung/Abschluss; De selger produktene sine i mange land.; Sie verkaufen ihre Produkte in vielen Ländern.
 no-vh-0004; anbieten; å tilby; ; A1; Business/Verhandlung/Angebot; Vi kan tilby deg en bedre pris i dag.; Wir können Ihnen heute einen besseren Preis anbieten.
@@ -57,13 +57,13 @@ no-vh-0054; Budget; et budsjett; ; B1; Business/Verhandlung/Vorbereitung; Budsje
 no-vh-0055; Alternative; et alternativ; ; B1; Business/Verhandlung/Taktik; Vi bør alltid ha et alternativ i bakhodet.; Wir sollten immer eine Alternative im Kopf haben.
 no-vh-0056; flexibel; fleksibel; ; B1; Business/Verhandlung/Zugeständnisse; Vi er fleksible når det gjelder leveringsdatoen.; Beim Liefertermin sind wir flexibel.
 no-vh-0057; fair; rettferdig; fair; B1; Business/Verhandlung/Positionen; Vi vil ha en rettferdig avtale for begge parter.; Wir wollen ein faires Geschäft für beide Seiten.
-no-vh-0058; Abschluss (Geschäft); en avtaleinngåelse; ; B1; Business/Verhandlung/Abschluss; Vi er veldig nær avtaleinngåelsen med kunden i Bergen.; Wir sind kurz vor dem Abschluss mit dem Kunden in Bergen.
-no-vh-0059; abschließen (Vertrag); å inngå; ; B1; Business/Verhandlung/Abschluss; Vi inngikk kontrakten etter to møter.; Wir schlossen den Vertrag nach zwei Treffen ab.
+no-vh-0058; Abschluss (der Abschluss eines Geschäfts); en avtaleinngåelse; ; B1; Business/Verhandlung/Abschluss; Vi er veldig nær avtaleinngåelsen med kunden i Bergen.; Wir sind kurz vor dem Abschluss mit dem Kunden in Bergen.
+no-vh-0059; abschließen (einen Vertrag abschließen); å inngå; ; B1; Business/Verhandlung/Abschluss; Vi inngikk kontrakten etter to møter.; Wir schlossen den Vertrag nach zwei Treffen ab.
 no-vh-0060; Bedenken; betenkeligheter; ; B1; Business/Verhandlung/Einwände; Vi har fortsatt noen betenkeligheter på grunn av kostnadene.; Wir haben noch einige Bedenken wegen der Kosten.
 no-vh-0061; Hauptpunkt; et hovedpunkt; ; B1; Business/Verhandlung/Vorbereitung; Hovedpunktet i dag er den nye prisen.; Der Hauptpunkt heute ist der neue Preis.
 no-vh-0062; klären; å avklare; ; B1; Business/Verhandlung/Einwände; Vi må avklare noen åpne spørsmål.; Wir müssen noch ein paar offene Fragen klären.
 no-vh-0063; bestätigen; å bekrefte; ; B1; Business/Verhandlung/Abschluss; Kan du bekrefte bestillingen på e-post?; Bitte bestätigen Sie die Bestellung per E-Mail.
-no-vh-0064; Protokoll (Sitzung); et referat; ; B1; Business/Verhandlung/Abschluss; Hun skrev referatet fra møtet i går.; Sie schrieb das Protokoll der Sitzung.
+no-vh-0064; Protokoll (Protokoll führen); et referat; ; B1; Business/Verhandlung/Abschluss; Hun skrev referatet fra møtet i går.; Sie schrieb das Protokoll der Sitzung.
 no-vh-0065; Zusammenfassung; et sammendrag; en oppsummering; B1; Business/Verhandlung/Abschluss; Her er et kort sammendrag av resultatene våre.; Hier ist eine kurze Zusammenfassung unserer Ergebnisse.
 no-vh-0066; Verhandlungsziel; et forhandlingsmål; ; B2; Business/Verhandlung/Vorbereitung; Definer forhandlingsmålet ditt før du går inn i rommet.; Definieren Sie Ihr Verhandlungsziel, bevor Sie den Raum betreten.
 no-vh-0067; Ausgangsposition; en utgangsposisjon; ; B2; Business/Verhandlung/Positionen; Utgangsposisjonen vår i disse samtalene er ganske sterk.; Unsere Ausgangsposition in diesen Gesprächen ist ziemlich stark.
@@ -75,7 +75,7 @@ no-vh-0072; Taktik; en taktikk; ; B2; Business/Verhandlung/Taktik; Taushet kan v
 no-vh-0073; Zeitdruck; et tidspress; ; B2; Business/Verhandlung/Taktik; De brukte tidspress for å tvinge frem en rask avgjørelse.; Sie nutzten Zeitdruck, um eine schnelle Entscheidung zu erzwingen.
 no-vh-0074; Machtverhältnis; et styrkeforhold; et maktforhold; B2; Business/Verhandlung/Positionen; Styrkeforholdet mellom partene endret seg etter fusjonen.; Das Machtverhältnis änderte sich nach der Fusion.
 no-vh-0075; Verhandlungstisch; et forhandlingsbord; ; B2; Business/Verhandlung/Wendungen; Begge sider vendte tilbake til forhandlingsbordet i går.; Beide Seiten kehrten gestern an den Verhandlungstisch zurück.
-no-vh-0076; Sackgasse (ausweglose Lage); en blindgate; ; B2; Business/Verhandlung/Taktik; Samtalene endte i en blindgate etter to dager.; Die Gespräche endeten nach zwei Tagen in einer Sackgasse.
+no-vh-0076; Sackgasse (Verhandlungen in der Sackgasse); en blindgate; ; B2; Business/Verhandlung/Taktik; Samtalene endte i en blindgate etter to dager.; Die Gespräche endeten nach zwei Tagen in einer Sackgasse.
 no-vh-0077; Durchbruch; et gjennombrudd; ; B2; Business/Verhandlung/Abschluss; Sent i går kveld fikk vi et gjennombrudd.; Spät gestern Abend gelang uns ein Durchbruch.
 no-vh-0078; Stillstand; et stillstand; ; B2; Business/Verhandlung/Taktik; Forhandlingene kom til et fullstendig stillstand.; Die Verhandlungen kamen zu einem völligen Stillstand.
 no-vh-0079; überdenken; å revurdere; å tenke over; B2; Business/Verhandlung/Einwände; Vennligst revurder tilbudet vårt før dere bestemmer dere.; Bitte überdenken Sie unser Angebot, bevor Sie entscheiden.

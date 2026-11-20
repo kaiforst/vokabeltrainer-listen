@@ -3,7 +3,7 @@ id; Deutsch; Italienisch; Weitere Antworten; Niveau; Themen; Beispiel Italienisc
 it-xf-0001; anfangen; cominciare; iniziare; A1; Allgemein/Verben; Il film comincia tra dieci minuti, sbrighiamoci.; Der Film fängt in zehn Minuten an, beeilen wir uns.
 it-xf-0002; aussehen; sembrare; avere l'aria; A1; Allgemein/Verben; Oggi sembri davvero stanco, va tutto bene?; Du siehst heute richtig müde aus, ist alles in Ordnung?
 it-xf-0003; anschauen; guardare; ; A1; Allgemein/Verben; Più tardi posso guardare le foto delle tue vacanze?; Kann ich mir später deine Urlaubsfotos anschauen?
-it-xf-0004; liegen (Lebewesen); essere sdraiato; stare sdraiato; A1; Allgemein/Verben; Il gatto è sdraiato sul divano al sole.; Die Katze liegt auf dem Sofa in der Sonne.
+it-xf-0004; liegen (im Bett liegen); essere sdraiato; stare sdraiato; A1; Allgemein/Verben; Il gatto è sdraiato sul divano al sole.; Die Katze liegt auf dem Sofa in der Sonne.
 it-xf-0005; leben; vivere; ; A1; Allgemein/Verben; I miei nonni vivono in un piccolo paese sul mare.; Meine Großeltern leben in einem kleinen Dorf am Meer.
 it-xf-0006; dürfen; potere; avere il permesso di; A1; Allgemein/Verben; I bambini non possono giocare nel cantiere.; Kinder dürfen nicht auf der Baustelle spielen.
 it-xf-0007; aufmachen; aprire; ; A1; Allgemein/Verben; Puoi aprire la finestra, per favore? Fa molto caldo.; Kannst du bitte das Fenster aufmachen? Es ist sehr warm.
@@ -15,7 +15,7 @@ it-xf-0012; verlassen; lasciare; ; A2; Allgemein/Verben; Dopo la scuola mio frat
 it-xf-0013; versuchen; provare; cercare di; A2; Allgemein/Verben; Stasera proverò a chiamarti di nuovo.; Ich werde versuchen, dich heute Abend noch mal anzurufen.
 it-xf-0014; verbringen; passare; trascorrere; A2; Allgemein/Verben; Abbiamo passato tutto il fine settimana al lago.; Wir haben das ganze Wochenende am See verbracht.
 it-xf-0015; setzen; mettere; ; B1; Allgemein/Verben; Ha messo con cura il bambino nel passeggino.; Sie setzte das Baby vorsichtig in den Kinderwagen.
-it-xf-0016; stellen (hinstellen); mettere; posare; A2; Allgemein/Verben; Metti il vaso sul tavolo della cucina, per favore.; Stell die Vase bitte auf den Küchentisch.
+it-xf-0016; stellen (auf den Tisch stellen); mettere; posare; A2; Allgemein/Verben; Metti il vaso sul tavolo della cucina, per favore.; Stell die Vase bitte auf den Küchentisch.
 it-xf-0017; schlagen; picchiare; colpire; A2; Allgemein/Verben; Non si deve mai picchiare un animale, neanche per rabbia.; Man darf ein Tier nie schlagen, auch nicht aus Wut.
 it-xf-0018; besiegen; sconfiggere; battere; B1; Allgemein/Verben; La nostra squadra ha sconfitto i campioni in finale.; Unsere Mannschaft hat im Finale den Meister besiegt.
 it-xf-0019; kontrollieren; controllare; ; B1; Allgemein/Verben; Sul treno il capotreno ha controllato i nostri biglietti.; Im Zug hat der Schaffner unsere Fahrkarten kontrolliert.
@@ -39,7 +39,7 @@ it-xf-0036; fortfahren; continuare; proseguire; B1; Allgemein/Verben; Dopo una b
 it-xf-0037; umkehren; tornare indietro; ; B1; Allgemein/Verben; La strada era chiusa, così siamo dovuti tornare indietro.; Die Straße war gesperrt, also mussten wir umkehren.
 it-xf-0038; vorbeigehen; passare; ; A2; Allgemein/Verben; Ogni mattina passo davanti al panificio.; Ich gehe jeden Morgen an der Bäckerei vorbei.
 it-xf-0039; eintreten; entrare; ; B1; Allgemein/Verben; Per favore, bussa prima di entrare nella stanza.; Bitte klopf an, bevor du in das Zimmer eintrittst.
-it-xf-0040; wenden (Auto); fare inversione; fare inversione a U; B1; Allgemein/Verben; Ha fatto inversione nella strada stretta.; Er hat das Auto in der engen Straße gewendet.
+it-xf-0040; wenden (mit dem Auto wenden); fare inversione; fare inversione a U; B1; Allgemein/Verben; Ha fatto inversione nella strada stretta.; Er hat das Auto in der engen Straße gewendet.
 it-xf-0041; bilden; formare; ; B1; Allgemein/Verben; I bambini hanno formato un cerchio intorno alla maestra.; Die Kinder bildeten einen Kreis um die Lehrerin.
 it-xf-0042; formen; formare; modellare; B1; Allgemein/Verben; Con le mani forma delle piccole palline di impasto.; Form mit den Händen kleine Kugeln aus dem Teig.
 it-xf-0043; herstellen; produrre; fabbricare; B1; Allgemein/Verben; Questa fabbrica produce pezzi per auto e autobus.; Diese Fabrik stellt Teile für Autos und Busse her.
@@ -49,7 +49,7 @@ it-xf-0046; gestalten; creare; realizzare; B2; Allgemein/Verben; Gli alunni hann
 it-xf-0047; festlegen; stabilire; fissare, determinare; B2; Allgemein/Verben; Dobbiamo ancora stabilire una data per la riunione.; Wir müssen noch einen Termin für das Treffen festlegen.
 it-xf-0048; anwenden; applicare; ; B1; Allgemein/Verben; Adesso prova ad applicare la regola a queste frasi.; Versuch jetzt, die Regel auf diese Sätze anzuwenden.
 it-xf-0049; leiten; dirigere; gestire, guidare; B1; Allgemein/Verben; La signora Rossi dirige la scuola da molti anni.; Frau Rossi leitet die Schule seit vielen Jahren.
-it-xf-0050; betreiben (führen); gestire; ; B2; Allgemein/Verben; La sua famiglia gestisce un piccolo albergo sul lago di Garda.; Seine Familie betreibt ein kleines Hotel am Gardasee.
+it-xf-0050; betreiben (ein Hotel betreiben); gestire; ; B2; Allgemein/Verben; La sua famiglia gestisce un piccolo albergo sul lago di Garda.; Seine Familie betreibt ein kleines Hotel am Gardasee.
 it-xf-0051; beherrschen; padroneggiare; ; B2; Allgemein/Verben; Ci vogliono anni per padroneggiare una lingua straniera.; Es dauert Jahre, eine Fremdsprache zu beherrschen.
 it-xf-0052; enthüllen; rivelare; svelare; B2; Allgemein/Verben; Il mago non rivela mai come funzionano i suoi trucchi.; Der Zauberer enthüllt nie, wie seine Tricks funktionieren.
 it-xf-0053; ansteigen; salire; aumentare; B1; Allgemein/Verben; Dopo le forti piogge il livello del fiume è salito.; Nach dem starken Regen ist der Wasserstand des Flusses angestiegen.
@@ -58,7 +58,7 @@ it-xf-0055; übrig bleiben; rimanere; restare, avanzare; B1; Allgemein/Verben; D
 it-xf-0056; aushelfen; dare una mano; ; B1; Allgemein/Verben; Mio cugino a volte dà una mano nel negozio dello zio.; Mein Cousin hilft manchmal im Laden seines Onkels aus.
 it-xf-0057; einspringen; sostituire; ; B2; Allgemein/Verben; Quando la cantante era malata, l'ha sostituita sua sorella.; Als die Sängerin krank war, ist ihre Schwester für sie eingesprungen.
 it-xf-0058; vorführen; mostrare; ; B2; Allgemein/Verben; Il venditore ci ha mostrato come funziona il nuovo aspirapolvere.; Der Verkäufer hat uns vorgeführt, wie der neue Staubsauger funktioniert.
-it-xf-0059; leisten (vollbringen); compiere; realizzare; B2; Allgemein/Verben; In questa stagione la squadra ha compiuto un'impresa.; Die Mannschaft hat in dieser Saison Großes geleistet.
+it-xf-0059; leisten (Großes leisten); compiere; realizzare; B2; Allgemein/Verben; In questa stagione la squadra ha compiuto un'impresa.; Die Mannschaft hat in dieser Saison Großes geleistet.
 it-xf-0060; gebrauchen; usare; utilizzare; B1; Allgemein/Verben; Puoi ancora usare queste vecchie scatole per il trasloco?; Kannst du diese alten Kisten noch für deinen Umzug gebrauchen?
 it-xf-0061; abwarten; aspettare; stare a vedere; B1; Allgemein/Verben; Aspettiamo di sentire che cosa dice il medico.; Lass uns abwarten, was der Arzt sagt.
 it-xf-0062; anhaben; indossare; portare, avere addosso; A2; Allgemein/Verben; Alla festa indossava un vestito rosso.; Auf der Party hatte sie ein rotes Kleid an.
@@ -66,10 +66,10 @@ it-xf-0063; siegen; vincere; ; B2; Allgemein/Verben; Alla fine la squadra più p
 it-xf-0064; neigen; tendere; ; B2; Allgemein/Verben; Mio fratello tende a esagerare quando racconta qualcosa.; Mein Bruder neigt dazu, beim Erzählen zu übertreiben.
 it-xf-0065; spüren; sentire; percepire; B1; Allgemein/Verben; Sentivo il vento freddo sul viso.; Ich spürte den kalten Wind im Gesicht.
 it-xf-0067; sich auswirken; influire; incidere, ripercuotersi; B2; Allgemein/Verben; La mancanza di sonno influisce sulla concentrazione a scuola.; Schlafmangel wirkt sich auf die Konzentration in der Schule aus.
-it-xf-0403; wählen (aussuchen); scegliere; ; A2; Allgemein/Verben; Puoi scegliere tra tre dolci diversi.; Du kannst zwischen drei verschiedenen Nachspeisen wählen.
+it-xf-0403; wählen (zwischen zwei Dingen wählen); scegliere; ; A2; Allgemein/Verben; Puoi scegliere tra tre dolci diversi.; Du kannst zwischen drei verschiedenen Nachspeisen wählen.
 it-xf-0068; sich fragen; chiedersi; domandarsi; B1; Allgemein/Denken & Sprechen; Mi chiedo perché Giulia non abbia ancora risposto.; Ich frage mich, warum Giulia noch nicht geantwortet hat.
 it-xf-0069; meinen (der Meinung sein); pensare; credere; A2; Allgemein/Denken & Sprechen; Che cosa ne pensi, prendiamo l'autobus o andiamo a piedi?; Was meinst du, nehmen wir den Bus oder gehen wir zu Fuß?
-it-xf-0070; meinen (sagen wollen); voler dire; intendere; A2; Allgemein/Denken & Sprechen; Scusa, non capisco che cosa vuoi dire.; Entschuldigung, ich verstehe nicht, was du meinst.
+it-xf-0070; meinen (was meinst du damit?); voler dire; intendere; A2; Allgemein/Denken & Sprechen; Scusa, non capisco che cosa vuoi dire.; Entschuldigung, ich verstehe nicht, was du meinst.
 it-xf-0071; merken; accorgersi; notare, rendersi conto; B1; Allgemein/Denken & Sprechen; Ti sei accorto che ha un nuovo taglio di capelli?; Hast du gemerkt, dass er eine neue Frisur hat?
 it-xf-0072; Aussage; la dichiarazione; l'affermazione; B1; Allgemein/Denken & Sprechen; Il testimone ha fatto una dichiarazione alla polizia.; Der Zeuge hat bei der Polizei eine Aussage gemacht.
 it-xf-0073; Begriff; il termine; il concetto; B2; Allgemein/Denken & Sprechen; Puoi spiegarmi questo termine con parole semplici?; Kannst du mir diesen Begriff mit einfachen Worten erklären?
@@ -80,7 +80,7 @@ it-xf-0077; Begründung; la motivazione; la giustificazione; B2; Allgemein/Denke
 it-xf-0078; Mitteilung; la comunicazione; il messaggio; B1; Allgemein/Denken & Sprechen; Oggi abbiamo ricevuto una breve comunicazione dalla scuola.; Wir haben heute eine kurze Mitteilung von der Schule bekommen.
 it-xf-0079; Versprechen; la promessa; ; A2; Allgemein/Denken & Sprechen; Mi hai fatto una promessa, quindi mantienila.; Du hast mir ein Versprechen gegeben, also halte es.
 it-xf-0080; Gewissheit; la certezza; ; B2; Allgemein/Denken & Sprechen; Adesso sappiamo con certezza che il piano funziona.; Jetzt wissen wir mit Gewissheit, dass der Plan funktioniert.
-it-xf-0081; Vorstellung (Idee); l'idea; ; B2; Allgemein/Denken & Sprechen; Non ho la minima idea di come sia il nuovo appartamento.; Ich habe keine Vorstellung, wie die neue Wohnung aussieht.
+it-xf-0081; Vorstellung (keine Vorstellung haben); l'idea; ; B2; Allgemein/Denken & Sprechen; Non ho la minima idea di come sia il nuovo appartamento.; Ich habe keine Vorstellung, wie die neue Wohnung aussieht.
 it-xf-0082; Zustimmung; l'approvazione; il consenso; B2; Allgemein/Denken & Sprechen; Il progetto ha bisogno dell'approvazione di tutti i genitori.; Der Plan braucht die Zustimmung aller Eltern.
 it-xf-0083; Lob; la lode; l'elogio; B1; Allgemein/Denken & Sprechen; Una parola di lode può motivare molto i bambini.; Ein Wort des Lobes kann Kinder sehr motivieren.
 it-xf-0084; Absprache; l'accordo; l'intesa; B2; Allgemein/Denken & Sprechen; Previo accordo possiamo consegnare anche il sabato.; Nach Absprache können wir auch samstags liefern.
@@ -95,7 +95,7 @@ it-xf-0092; bereit; pronto; ; A2; Allgemein/Adjektive; Sei pronto? Dobbiamo usci
 it-xf-0093; kräftig; forte; robusto; B1; Allgemein/Adjektive; Grazie al lavoro nei campi ha braccia forti.; Von der Arbeit auf dem Feld hat er kräftige Arme.
 it-xf-0094; großartig; magnifico; grandioso, splendido; B1; Allgemein/Adjektive; È stata davvero un'idea magnifica, grazie mille!; Das war wirklich eine großartige Idee, vielen Dank!
 it-xf-0095; fantastisch; fantastico; ; A2; Allgemein/Adjektive; La vista dalla cima è fantastica.; Die Aussicht vom Gipfel ist fantastisch.
-it-xf-0096; grob (ungefähr); approssimativo; grossolano; B2; Allgemein/Adjektive; Questa è solo una stima approssimativa dei costi.; Das ist nur eine grobe Schätzung der Kosten.
+it-xf-0096; grob (grob geschätzt); approssimativo; grossolano; B2; Allgemein/Adjektive; Questa è solo una stima approssimativa dei costi.; Das ist nur eine grobe Schätzung der Kosten.
 it-xf-0097; rau; ruvido; ; B1; Allgemein/Adjektive; Con il freddo ho le mani ruvide.; Von der Kälte sind meine Hände ganz rau.
 it-xf-0098; uneben; irregolare; accidentato; B2; Allgemein/Adjektive; Attenzione, il pavimento di questa vecchia casa è irregolare.; Pass auf, der Fußboden in diesem alten Haus ist uneben.
 it-xf-0099; zäh; duro; coriaceo; B2; Allgemein/Adjektive; La carne era così dura che non sono riuscito a mangiarla.; Das Fleisch war so zäh, dass ich es nicht essen konnte.
@@ -109,7 +109,7 @@ it-xf-0106; legal; legale; ; B1; Allgemein/Adjektive; È legale andare in bici s
 it-xf-0107; öffentlich; pubblico; ; B1; Allgemein/Adjektive; Negli edifici pubblici è vietato fumare.; In öffentlichen Gebäuden ist Rauchen verboten.
 it-xf-0108; örtlich; locale; ; B2; Allgemein/Adjektive; La riunione inizia alle otto ora locale.; Das Treffen beginnt um acht Uhr örtlicher Zeit.
 it-xf-0109; schrill; stridulo; acuto, penetrante; B2; Allgemein/Adjektive; Di notte ci ha svegliato un rumore stridulo.; In der Nacht hat uns ein schrilles Geräusch geweckt.
-it-xf-0110; ganz (komplett); intero; ; A2; Allgemein/Adjektive; Ha mangiato da sola la torta intera.; Sie hat den ganzen Kuchen allein gegessen.
+it-xf-0110; ganz (die ganze Pizza); intero; ; A2; Allgemein/Adjektive; Ha mangiato da sola la torta intera.; Sie hat den ganzen Kuchen allein gegessen.
 it-xf-0111; eingeschaltet; acceso; ; B1; Allgemein/Adjektive; Il forno in cucina è ancora acceso?; Ist der Ofen in der Küche noch eingeschaltet?
 it-xf-0112; liebevoll; affettuoso; amorevole; B1; Mensch/Charakter; È una madre molto affettuosa con i suoi tre figli.; Sie ist eine sehr liebevolle Mutter für ihre drei Kinder.
 it-xf-0113; herzlich; caloroso; cordiale; B1; Mensch/Charakter; I nostri ospiti ci hanno fatto un'accoglienza molto calorosa.; Unsere Gastgeber haben uns sehr herzlich empfangen.
@@ -127,13 +127,13 @@ it-xf-0124; prahlen; vantarsi; ; B2; Mensch/Charakter; Le piace vantarsi dei suo
 it-xf-0125; Stolz; l'orgoglio; la fierezza; B1; Mensch/Gefühle; Quando suo figlio ha vinto, i suoi occhi erano pieni di orgoglio.; Als sein Sohn gewann, waren seine Augen voller Stolz.
 it-xf-0126; sich sorgen; preoccuparsi; ; B1; Mensch/Gefühle; I miei genitori si preoccupano quando torno tardi.; Meine Eltern sorgen sich, wenn ich spät nach Hause komme.
 it-xf-0127; von; da; di; A1; Allgemein/Kleine Wörter; Ho ricevuto una lunga lettera da mia zia.; Ich habe einen langen Brief von meiner Tante bekommen.
-it-xf-0128; aus (Herkunft); da; di; A1; Allgemein/Kleine Wörter; Il mio migliore amico viene dalla Germania.; Mein bester Freund kommt aus Deutschland.
-it-xf-0129; aus (heraus); fuori da; da; A1; Allgemein/Kleine Wörter; Il gatto è saltato fuori dalla scatola.; Die Katze ist aus der Kiste gesprungen.
-it-xf-0130; aus (ausgeschaltet); spento; ; A2; Allgemein/Kleine Wörter; La televisione è spenta o ancora accesa?; Ist der Fernseher aus oder noch an?
-it-xf-0131; auf (Präposition); su; sopra; A1; Allgemein/Kleine Wörter; I tuoi occhiali sono sul tavolo della cucina.; Deine Brille liegt auf dem Küchentisch.
-it-xf-0132; auf (offen); aperto; ; A2; Allgemein/Kleine Wörter; Il panificio all'angolo è aperto la domenica?; Hat die Bäckerei an der Ecke sonntags auf?
-it-xf-0133; wenn (Bedingung); se; ; A1; Allgemein/Kleine Wörter; Se domani piove, restiamo a casa.; Wenn es morgen regnet, bleiben wir zu Hause.
-it-xf-0134; wenn (zeitlich); quando; ogni volta che; A2; Allgemein/Kleine Wörter; Quando torno a casa, bevo sempre una tazza di tè.; Wenn ich nach Hause komme, trinke ich immer eine Tasse Tee.
+it-xf-0128; aus (ich komme aus Berlin); da; di; A1; Allgemein/Kleine Wörter; Il mio migliore amico viene dalla Germania.; Mein bester Freund kommt aus Deutschland.
+it-xf-0129; aus (aus dem Zimmer gehen); fuori da; da; A1; Allgemein/Kleine Wörter; Il gatto è saltato fuori dalla scatola.; Die Katze ist aus der Kiste gesprungen.
+it-xf-0130; aus (das Licht ist aus); spento; ; A2; Allgemein/Kleine Wörter; La televisione è spenta o ancora accesa?; Ist der Fernseher aus oder noch an?
+it-xf-0131; auf (auf dem Tisch); su; sopra; A1; Allgemein/Kleine Wörter; I tuoi occhiali sono sul tavolo della cucina.; Deine Brille liegt auf dem Küchentisch.
+it-xf-0132; auf (die Tür ist auf); aperto; ; A2; Allgemein/Kleine Wörter; Il panificio all'angolo è aperto la domenica?; Hat die Bäckerei an der Ecke sonntags auf?
+it-xf-0133; wenn (wenn ich reich wäre); se; ; A1; Allgemein/Kleine Wörter; Se domani piove, restiamo a casa.; Wenn es morgen regnet, bleiben wir zu Hause.
+it-xf-0134; wenn (immer wenn ich komme); quando; ogni volta che; A2; Allgemein/Kleine Wörter; Quando torno a casa, bevo sempre una tazza di tè.; Wenn ich nach Hause komme, trinke ich immer eine Tasse Tee.
 it-xf-0135; welcher; quale; ; A1; Allgemein/Kleine Wörter; Scusi, quale autobus va alla stazione centrale?; Entschuldigung, welcher Bus fährt zum Hauptbahnhof?
 it-xf-0136; jeder; ogni; ciascuno; A1; Allgemein/Kleine Wörter; Ogni alunno riceve un libro nuovo all'inizio dell'anno.; Jeder Schüler bekommt am Anfang des Jahres ein neues Buch.
 it-xf-0137; keiner; nessuno; ; A2; Allgemein/Kleine Wörter; Nessuno sapeva la risposta all'ultima domanda.; Keiner wusste die Antwort auf die letzte Frage.
@@ -152,26 +152,26 @@ it-xf-0149; Sorte; il tipo; la varietà, la qualità; A2; Allgemein/Mengen; Che 
 it-xf-0150; Zunahme; l'aumento; la crescita; B2; Allgemein/Mengen; C'è stato un forte aumento del traffico.; Es gab eine starke Zunahme des Verkehrs.
 it-xf-0151; wieder; di nuovo; ancora, ancora una volta; A1; Allgemein/Zeit; Ho dimenticato di nuovo le chiavi, che rabbia!; Ich habe schon wieder meine Schlüssel vergessen, wie ärgerlich!
 it-xf-0152; dann; poi; allora, dopo; A1; Allgemein/Zeit; Prima mangiamo e poi andiamo al cinema.; Zuerst essen wir, und dann gehen wir ins Kino.
-it-xf-0153; nach (zeitlich); dopo; ; A1; Allgemein/Zeit; Dopo la scuola di solito vado agli allenamenti di calcio.; Nach der Schule gehe ich meistens zum Fußballtraining.
+it-xf-0153; nach (nach dem Essen); dopo; ; A1; Allgemein/Zeit; Dopo la scuola di solito vado agli allenamenti di calcio.; Nach der Schule gehe ich meistens zum Fußballtraining.
 it-xf-0154; hinterher; dopo; in seguito, poi; B1; Allgemein/Zeit; Abbiamo fatto una passeggiata e dopo abbiamo preso un caffè.; Wir sind spazieren gegangen und haben hinterher einen Kaffee getrunken.
 it-xf-0155; endlich; finalmente; ; A2; Allgemein/Zeit; Finalmente sono cominciate le vacanze, evviva!; Endlich haben die Ferien angefangen, hurra!
 it-xf-0156; Moment; il momento; l'attimo; A2; Allgemein/Zeit; Un momento, per favore, torno subito.; Einen Moment bitte, ich bin gleich zurück.
 it-xf-0157; nächste; prossimo; ; A1; Allgemein/Zeit; La settimana prossima andiamo in Spagna in aereo.; Nächste Woche fliegen wir nach Spanien.
 it-xf-0158; seit; da; ; A2; Allgemein/Zeit; Abito a Torino da tre anni.; Ich wohne seit drei Jahren in Turin.
-it-xf-0159; vorbei (zu Ende); finito; passato; A2; Allgemein/Zeit; L'estate è finita e ricomincia la scuola.; Der Sommer ist vorbei und die Schule fängt wieder an.
+it-xf-0159; vorbei (die Ferien sind vorbei); finito; passato; A2; Allgemein/Zeit; L'estate è finita e ricomincia la scuola.; Der Sommer ist vorbei und die Schule fängt wieder an.
 it-xf-0160; vergangen; passato; scorso; B1; Allgemein/Zeit; Nelle settimane passate è piovuto molto.; In den vergangenen Wochen hat es viel geregnet.
 it-xf-0161; gegenwärtig; attuale; presente; B2; Allgemein/Zeit; La situazione attuale è difficile per molte famiglie.; Die gegenwärtige Lage ist für viele Familien schwierig.
 it-xf-0162; dort; lì; là; A1; Allgemein/Raum; Vedi quella casa rossa lì in fondo?; Siehst du das rote Haus dort hinten?
 it-xf-0163; weg; via; ; A2; Allgemein/Raum; Vai via, voglio stare da solo!; Geh weg, ich will allein sein!
 it-xf-0164; herum; intorno; attorno, in giro; B1; Allgemein/Raum; Abbiamo camminato intorno al lago per un'ora.; Wir sind eine Stunde um den See herum gelaufen.
-it-xf-0165; um (räumlich); intorno a; attorno a; A2; Allgemein/Raum; Ci siamo seduti intorno al fuoco e abbiamo cantato.; Wir saßen um das Feuer und haben gesungen.
-it-xf-0166; über (räumlich); sopra; su; A2; Allgemein/Raum; Un piccolo aereo è passato sopra la nostra casa.; Ein kleines Flugzeug ist über unser Haus geflogen.
+it-xf-0165; um (um das Haus herum); intorno a; attorno a; A2; Allgemein/Raum; Ci siamo seduti intorno al fuoco e abbiamo cantato.; Wir saßen um das Feuer und haben gesungen.
+it-xf-0166; über (über die Stadt fliegen); sopra; su; A2; Allgemein/Raum; Un piccolo aereo è passato sopra la nostra casa.; Ein kleines Flugzeug ist über unser Haus geflogen.
 it-xf-0168; hinunter; giù; ; B1; Allgemein/Raum; I bambini sono corsi giù dalla collina fino al lago.; Die Kinder rannten den Hügel hinunter zum See.
 it-xf-0169; hinauf; su; ; B1; Allgemein/Raum; Vieni su, ti aspettiamo in terrazza!; Komm hinauf, wir warten auf der Terrasse auf dich!
 it-xf-0170; nach oben; di sopra; su, in alto; A2; Allgemein/Raum; Vado di sopra a prendere il maglione.; Ich gehe nach oben und hole meinen Pullover.
 it-xf-0171; oberhalb; sopra; al di sopra di; B1; Allgemein/Raum; Sopra il paese c'è una piccola baita.; Oberhalb des Dorfes gibt es eine kleine Hütte.
 it-xf-0172; nah; vicino; ; A2; Allgemein/Raum; L'albergo è molto vicino alla spiaggia.; Das Hotel liegt ganz nah am Strand.
-it-xf-0173; Ort (Platz); il posto; il luogo; A2; Allgemein/Raum; Questo è il posto perfetto per un picnic.; Das ist der perfekte Ort für ein Picknick.
+it-xf-0173; Ort (ein schöner Ort); il posto; il luogo; A2; Allgemein/Raum; Questo è il posto perfetto per un picnic.; Das ist der perfekte Ort für ein Picknick.
 it-xf-0174; Gebiet; la zona; l'area; A2; Allgemein/Raum; Questa zona è famosa per il suo vino.; Dieses Gebiet ist für seinen Wein bekannt.
 it-xf-0175; Region; la regione; ; B1; Allgemein/Raum; In questa regione d'inverno nevica spesso.; In dieser Region schneit es im Winter oft.
 it-xf-0176; Standort; la sede; l'ubicazione; B2; Allgemein/Raum; L'azienda cerca una nuova sede per i suoi uffici.; Die Firma sucht einen neuen Standort für ihre Büros.
@@ -182,8 +182,8 @@ it-xf-0180; Mitte; il mezzo; il centro; A2; Allgemein/Raum; In mezzo al giardino
 it-xf-0181; Mittelpunkt; il centro; ; B1; Allgemein/Raum; Alla festa la neonata era il centro dell'attenzione.; Auf der Feier war das Baby der Mittelpunkt.
 it-xf-0182; Vorderseite; la parte anteriore; il davanti; B1; Allgemein/Raum; Scrivi il tuo nome sulla parte anteriore della busta.; Schreib deinen Namen auf die Vorderseite des Umschlags.
 it-xf-0183; Rückseite; il retro; ; B1; Allgemein/Raum; Le soluzioni sono sul retro della pagina.; Die Lösungen stehen auf der Rückseite der Seite.
-it-xf-0184; Raum (Platz); lo spazio; il posto; B1; Allgemein/Raum; Nel nostro appartamento non c'è abbastanza spazio per un pianoforte.; In unserer Wohnung ist nicht genug Raum für ein Klavier.
-it-xf-0185; rund (Form); rotondo; tondo; A2; Allgemein/Raum; Abbiamo comprato un tavolo rotondo per la cucina.; Wir haben einen runden Tisch für die Küche gekauft.
+it-xf-0184; Raum (Raum für neue Ideen); lo spazio; il posto; B1; Allgemein/Raum; Nel nostro appartamento non c'è abbastanza spazio per un pianoforte.; In unserer Wohnung ist nicht genug Raum für ein Klavier.
+it-xf-0185; rund (ein runder Tisch); rotondo; tondo; A2; Allgemein/Raum; Abbiamo comprato un tavolo rotondo per la cucina.; Wir haben einen runden Tisch für die Küche gekauft.
 it-xf-0186; schief; storto; ; B2; Allgemein/Raum; Il quadro sulla parete è storto.; Das Bild an der Wand hängt schief.
 it-xf-0187; Ausgang; l'uscita; ; A2; Allgemein/Raum; Scusi, dov'è l'uscita di questo parcheggio sotterraneo?; Entschuldigung, wo ist der Ausgang dieser Tiefgarage?
 it-xf-0188; Eingang; l'ingresso; l'entrata; A2; Allgemein/Raum; Ci vediamo alle otto all'ingresso della stazione.; Treffen wir uns um acht am Eingang des Bahnhofs.
@@ -193,7 +193,7 @@ it-xf-0191; Fall; il caso; ; B1; Allgemein/Begriffe; In quel caso restiamo a cas
 it-xf-0192; Zustand; lo stato; la condizione; B1; Allgemein/Begriffe; La vecchia macchina è ancora in ottimo stato.; Das alte Auto ist noch in sehr gutem Zustand.
 it-xf-0193; Veränderung; il cambiamento; ; B1; Allgemein/Begriffe; Trasferirsi in una nuova città è un grande cambiamento.; Der Umzug in eine neue Stadt ist eine große Veränderung.
 it-xf-0194; Wandel; il cambiamento; la trasformazione, il mutamento; B2; Allgemein/Begriffe; Negli ultimi anni il paese ha vissuto un grande cambiamento.; Das Dorf hat in den letzten Jahren einen großen Wandel erlebt.
-it-xf-0195; Versuch (Bemühung); il tentativo; la prova; B1; Allgemein/Begriffe; Ha passato l'esame di guida al primo tentativo.; Er hat die Fahrprüfung beim ersten Versuch bestanden.
+it-xf-0195; Versuch (beim ersten Versuch); il tentativo; la prova; B1; Allgemein/Begriffe; Ha passato l'esame di guida al primo tentativo.; Er hat die Fahrprüfung beim ersten Versuch bestanden.
 it-xf-0196; Mühe; la fatica; lo sforzo; B1; Allgemein/Begriffe; È stata una bella fatica, ma ne è valsa la pena.; Es war eine ziemliche Mühe, aber es hat sich gelohnt.
 it-xf-0197; Gefahr; il pericolo; ; A2; Allgemein/Begriffe; I medici dicono che adesso è fuori pericolo.; Die Ärzte sagen, er ist jetzt außer Gefahr.
 it-xf-0198; Schutz; la protezione; ; B1; Allgemein/Begriffe; Questa crema offre una buona protezione dal sole.; Diese Creme bietet guten Schutz vor der Sonne.
@@ -223,7 +223,7 @@ it-xf-0221; Kontakt; il contatto; ; A2; Allgemein/Begriffe; Sei ancora in contat
 it-xf-0222; Merkmal; la caratteristica; il tratto; B2; Allgemein/Begriffe; I capelli rossi sono una caratteristica tipica della sua famiglia.; Rote Haare sind ein typisches Merkmal seiner Familie.
 it-xf-0223; Prinzip; il principio; ; B1; Allgemein/Begriffe; Per principio non presto mai soldi a nessuno.; Aus Prinzip leihe ich niemandem Geld.
 it-xf-0224; Grundsatz; il principio; ; B2; Allgemein/Begriffe; L'onestà è uno dei suoi principi più importanti.; Ehrlichkeit ist einer seiner wichtigsten Grundsätze.
-it-xf-0225; Verhältnis (Beziehung); il rapporto; la relazione; B1; Allgemein/Begriffe; Ho un ottimo rapporto con mio fratello.; Ich habe ein sehr gutes Verhältnis zu meinem Bruder.
+it-xf-0225; Verhältnis (ein gutes Verhältnis zu den Eltern); il rapporto; la relazione; B1; Allgemein/Begriffe; Ho un ottimo rapporto con mio fratello.; Ich habe ein sehr gutes Verhältnis zu meinem Bruder.
 it-xf-0226; Abwechslung; la varietà; il diversivo; B1; Allgemein/Begriffe; Un po' di varietà nel menù fa bene a tutti.; Ein bisschen Abwechslung auf dem Speiseplan tut allen gut.
 it-xf-0227; Belohnung; la ricompensa; il premio; B1; Allgemein/Begriffe; Come ricompensa per i bei voti siamo andati allo zoo.; Als Belohnung für die guten Noten sind wir in den Zoo gegangen.
 it-xf-0228; Respekt; il rispetto; ; A2; Allgemein/Begriffe; Dovremmo trattare tutte le persone con rispetto.; Wir sollten alle Menschen mit Respekt behandeln.
@@ -249,30 +249,30 @@ it-xf-0247; Funktion; la funzione; ; B1; Allgemein/Begriffe; Qual è la funzione
 it-xf-0248; Struktur; la struttura; ; B2; Allgemein/Begriffe; La struttura del testo è chiara e logica.; Die Struktur des Textes ist klar und logisch.
 it-xf-0249; System; il sistema; ; B1; Allgemein/Begriffe; La scuola ha un nuovo sistema per i compiti.; Die Schule hat ein neues System für Hausaufgaben.
 it-xf-0250; Reihenfolge; l'ordine; la sequenza; B1; Allgemein/Begriffe; Metti queste immagini nell'ordine giusto, per favore.; Bring diese Bilder bitte in die richtige Reihenfolge.
-it-xf-0251; Typ (Art); il tipo; il genere; B1; Allgemein/Begriffe; Questo tipo di riscaldamento è molto economico.; Dieser Typ von Heizung ist sehr sparsam.
-it-xf-0252; Typ (Mensch); il tipo; il tizio; B1; Allgemein/Begriffe; Chi è quel tipo accanto a tua sorella?; Wer ist der Typ neben deiner Schwester?
+it-xf-0251; Typ (ein neuer Typ von Handy); il tipo; il genere; B1; Allgemein/Begriffe; Questo tipo di riscaldamento è molto economico.; Dieser Typ von Heizung ist sehr sparsam.
+it-xf-0252; Typ (ein netter Typ); il tipo; il tizio; B1; Allgemein/Begriffe; Chi è quel tipo accanto a tua sorella?; Wer ist der Typ neben deiner Schwester?
 it-xf-0253; Kerl; il tipo; il tizio; B1; Allgemein/Begriffe; È davvero un tipo simpatico, ti piacerà.; Er ist ein echt netter Kerl, du wirst ihn mögen.
 it-xf-0254; Weise; il modo; la maniera; B1; Allgemein/Begriffe; L'ha spiegato in modo molto semplice.; Sie hat es auf sehr einfache Weise erklärt.
 it-xf-0255; Vorhaben; il progetto; il piano, l'intenzione; B2; Allgemein/Begriffe; A causa del tempo abbiamo dovuto rinunciare al nostro progetto.; Wegen des Wetters mussten wir unser Vorhaben aufgeben.
 it-xf-0256; Zeug; la roba; ; B1; Allgemein/Begriffe; Puoi togliere la tua roba dal tavolo, per favore?; Kannst du bitte dein Zeug vom Tisch nehmen?
 it-xf-0257; Kram; la roba; le cianfrusaglie; B2; Allgemein/Begriffe; La soffitta è piena di roba vecchia.; Der Dachboden ist voll mit altem Kram.
 it-xf-0258; Heimat; la patria; il paese d'origine; B1; Allgemein/Begriffe; Dopo la guerra molte persone hanno dovuto lasciare la loro patria.; Nach dem Krieg mussten viele Menschen ihre Heimat verlassen.
-it-xf-0259; Stufe (Niveau); il livello; la fase, lo stadio; B1; Allgemein/Begriffe; Ora siamo al secondo livello del corso.; Wir sind jetzt auf der zweiten Stufe des Kurses.
-it-xf-0260; Blick (Aussicht); la vista; il panorama; B1; Allgemein/Begriffe; Dalla nostra camera abbiamo una vista stupenda sulle montagne.; Von unserem Zimmer haben wir einen tollen Blick auf die Berge.
-it-xf-0261; Blick (Anschauen); lo sguardo; l'occhiata; B1; Allgemein/Begriffe; Mi ha lanciato uno sguardo arrabbiato.; Sie warf mir einen wütenden Blick zu.
-it-xf-0262; Spur (Abdruck); la traccia; l'impronta; B2; Allgemein/Begriffe; Il ladro è sparito senza lasciare traccia.; Der Dieb verschwand ohne jede Spur.
-it-xf-0263; Beitrag (Anteil); il contributo; ; B2; Allgemein/Begriffe; Ognuno ha dato un piccolo contributo per il regalo.; Jeder hat einen kleinen Beitrag zu dem Geschenk geleistet.
-it-xf-0264; Mittel (Methode); il mezzo; il modo; B2; Allgemein/Begriffe; La bici è un mezzo economico per andare a scuola.; Das Fahrrad ist ein günstiges Mittel, um zur Schule zu kommen.
+it-xf-0259; Stufe (eine höhere Stufe); il livello; la fase, lo stadio; B1; Allgemein/Begriffe; Ora siamo al secondo livello del corso.; Wir sind jetzt auf der zweiten Stufe des Kurses.
+it-xf-0260; Blick (der Blick aufs Meer); la vista; il panorama; B1; Allgemein/Begriffe; Dalla nostra camera abbiamo una vista stupenda sulle montagne.; Von unserem Zimmer haben wir einen tollen Blick auf die Berge.
+it-xf-0261; Blick (einen Blick darauf werfen); lo sguardo; l'occhiata; B1; Allgemein/Begriffe; Mi ha lanciato uno sguardo arrabbiato.; Sie warf mir einen wütenden Blick zu.
+it-xf-0262; Spur (Spuren im Schnee); la traccia; l'impronta; B2; Allgemein/Begriffe; Il ladro è sparito senza lasciare traccia.; Der Dieb verschwand ohne jede Spur.
+it-xf-0263; Beitrag (einen Beitrag leisten); il contributo; ; B2; Allgemein/Begriffe; Ognuno ha dato un piccolo contributo per il regalo.; Jeder hat einen kleinen Beitrag zu dem Geschenk geleistet.
+it-xf-0264; Mittel (ein Mittel zum Zweck); il mezzo; il modo; B2; Allgemein/Begriffe; La bici è un mezzo economico per andare a scuola.; Das Fahrrad ist ein günstiges Mittel, um zur Schule zu kommen.
 it-xf-0265; Anblick; lo spettacolo; la vista; B2; Allgemein/Begriffe; Il tramonto sul mare era uno spettacolo meraviglioso.; Der Sonnenuntergang über dem Meer war ein wunderschöner Anblick.
 it-xf-0266; Chance; la possibilità; l'opportunità, l'occasione; A2; Allgemein/Begriffe; Questa è la tua ultima possibilità, non sprecarla!; Das ist deine letzte Chance, verschwende sie nicht!
 it-xf-0267; Einblick; lo sguardo; la visione; B2; Allgemein/Begriffe; Il viaggio ci ha offerto uno sguardo sulla vita in fattoria.; Die Reise hat uns einen Einblick in das Leben auf einem Bauernhof gegeben.
 it-xf-0268; Erlebnis; l'esperienza; ; B1; Allgemein/Begriffe; Il concerto è stato un'esperienza indimenticabile per tutti noi.; Das Konzert war für uns alle ein unvergessliches Erlebnis.
 it-xf-0269; Gefallen; il favore; la cortesia; B1; Allgemein/Begriffe; Mi fai un favore e dai da mangiare al mio gatto?; Kannst du mir einen Gefallen tun und meine Katze füttern?
-it-xf-0270; Haltung (Einstellung); l'atteggiamento; ; B2; Allgemein/Begriffe; Ha un atteggiamento molto positivo verso la vita.; Sie hat eine sehr positive Haltung zum Leben.
+it-xf-0270; Haltung (eine kritische Haltung); l'atteggiamento; ; B2; Allgemein/Begriffe; Ha un atteggiamento molto positivo verso la vita.; Sie hat eine sehr positive Haltung zum Leben.
 it-xf-0271; Illusion; l'illusione; ; B2; Allgemein/Begriffe; Non farti illusioni, l'esame sarà difficile.; Mach dir keine Illusionen, die Prüfung wird schwer.
 it-xf-0272; Missgeschick; l'inconveniente; la disavventura, il contrattempo; B2; Allgemein/Begriffe; Mi è capitato un piccolo inconveniente con la macchinetta del caffè.; Mir ist ein kleines Missgeschick mit der Kaffeemaschine passiert.
 it-xf-0273; Notwendigkeit; la necessità; ; B2; Allgemein/Begriffe; In una grande città la macchina non è una necessità.; In einer Großstadt ist ein Auto keine Notwendigkeit.
-it-xf-0274; Ruf (Ansehen); la reputazione; la fama; B2; Allgemein/Begriffe; Il ristorante ha un'ottima reputazione in città.; Das Restaurant hat in der Stadt einen ausgezeichneten Ruf.
+it-xf-0274; Ruf (einen guten Ruf haben); la reputazione; la fama; B2; Allgemein/Begriffe; Il ristorante ha un'ottima reputazione in città.; Das Restaurant hat in der Stadt einen ausgezeichneten Ruf.
 it-xf-0275; Unsicherheit; l'incertezza; l'insicurezza; B2; Allgemein/Begriffe; C'è ancora molta incertezza sulle nuove regole.; Über die neuen Regeln herrscht noch große Unsicherheit.
 it-xf-0276; Unterbrechung; l'interruzione; ; B1; Allgemein/Begriffe; Abbiamo lavorato sei ore senza interruzione.; Wir haben sechs Stunden ohne Unterbrechung gearbeitet.
 it-xf-0277; Vorstellungskraft; l'immaginazione; la fantasia; B2; Allgemein/Begriffe; Per scrivere storie ci vuole molta immaginazione.; Zum Geschichtenschreiben braucht man viel Vorstellungskraft.
@@ -286,11 +286,11 @@ it-xf-0284; Beutel; il sacchetto; la busta; B1; Alltag/Zuhause/Haushalt; Metti i
 it-xf-0285; Müllsack; il sacco della spazzatura; il sacchetto della spazzatura, il sacco dell'immondizia; B1; Alltag/Zuhause/Haushalt; Puoi portare fuori il sacco della spazzatura, per favore?; Kannst du bitte den Müllsack nach draußen bringen?
 it-xf-0286; Fußboden; il pavimento; ; A2; Alltag/Zuhause/Räume; I bambini erano seduti sul pavimento a giocare.; Die Kinder saßen auf dem Fußboden und spielten.
 it-xf-0287; Etage; il piano; ; A2; Alltag/Zuhause/Räume; Il nostro appartamento è al terzo piano.; Unsere Wohnung ist in der dritten Etage.
-it-xf-0288; Raum (Zimmer); la stanza; ; A2; Alltag/Zuhause/Räume; La stanza più grande della casa è la cucina.; Der größte Raum im Haus ist die Küche.
-it-xf-0289; Stufe (Treppe); il gradino; lo scalino; A2; Alltag/Zuhause/Räume; Attenzione, il primo gradino è molto alto.; Pass auf, die erste Stufe ist sehr hoch.
+it-xf-0288; Raum (einen Raum betreten); la stanza; ; A2; Alltag/Zuhause/Räume; La stanza più grande della casa è la cucina.; Der größte Raum im Haus ist die Küche.
+it-xf-0289; Stufe (die Stufen der Treppe); il gradino; lo scalino; A2; Alltag/Zuhause/Räume; Attenzione, il primo gradino è molto alto.; Pass auf, die erste Stufe ist sehr hoch.
 it-xf-0290; Garage; il garage; ; A2; Alltag/Zuhause/Räume; Ogni sera papà mette la macchina in garage.; Papa stellt das Auto jeden Abend in die Garage.
 it-xf-0291; Schornstein; il camino; il comignolo; B1; Alltag/Zuhause/Räume; Dal camino della vecchia casa usciva del fumo.; Aus dem Schornstein des alten Hauses kam Rauch.
-it-xf-0292; Hof (am Haus); il cortile; ; B1; Alltag/Zuhause/Garten; I bambini giocano a calcio nel cortile.; Die Kinder spielen im Hof Fußball.
+it-xf-0292; Hof (der Hof hinter dem Haus); il cortile; ; B1; Alltag/Zuhause/Garten; I bambini giocano a calcio nel cortile.; Die Kinder spielen im Hof Fußball.
 it-xf-0293; Grundstück; il terreno; il lotto; B2; Alltag/Zuhause/Garten; Hanno comprato un terreno e vogliono costruire una casa.; Sie haben ein Grundstück gekauft und wollen ein Haus bauen.
 it-xf-0294; Essen; il cibo; il pasto; A1; Alltag/Essen/Mahlzeiten; In questo ristorante il cibo è davvero buono.; Das Essen in diesem Restaurant ist richtig gut.
 it-xf-0295; Lebensmittel; gli alimenti; i generi alimentari; A2; Alltag/Essen/Lebensmittel; Questi alimenti vanno conservati in frigorifero.; Diese Lebensmittel müssen im Kühlschrank aufbewahrt werden.
@@ -312,14 +312,14 @@ it-xf-0310; riechen; odorare; sentire l'odore; A2; Gesundheit/Körper; Questa cu
 it-xf-0311; nackt; nudo; ; B1; Gesundheit/Körper; Il bambino era sdraiato nudo sull'asciugamano.; Das Baby lag nackt auf dem Handtuch.
 it-xf-0312; verletzt; ferito; ; A2; Gesundheit/Symptome; Nell'incidente sono rimaste ferite due persone.; Bei dem Unfall wurden zwei Menschen verletzt.
 it-xf-0313; Sonnenstich; l'insolazione; il colpo di sole; B2; Gesundheit/Krankheiten; Mettiti un cappello, altrimenti ti prendi un'insolazione.; Setz einen Hut auf, sonst bekommst du einen Sonnenstich.
-it-xf-0314; Kurs (Unterricht); il corso; ; A2; Bildung/Lernen; Il martedì sera frequento un corso di cucina italiana.; Dienstagabends besuche ich einen Kurs für italienische Küche.
+it-xf-0314; Kurs (einen Kurs besuchen); il corso; ; A2; Bildung/Lernen; Il martedì sera frequento un corso di cucina italiana.; Dienstagabends besuche ich einen Kurs für italienische Küche.
 it-xf-0315; Wiederholung; il ripasso; la ripetizione; B1; Bildung/Lernen; Prima della verifica facciamo un'ora di ripasso.; Vor dem Test haben wir eine Stunde zur Wiederholung.
 it-xf-0316; Zeile; la riga; ; A2; Bildung/Sprache/Lesen & Schreiben; Leggi ad alta voce le prime tre righe.; Lies bitte die ersten drei Zeilen laut vor.
 it-xf-0317; Gliederung; la scaletta; lo schema; B2; Bildung/Sprache/Lesen & Schreiben; Fai una scaletta prima di cominciare il tema.; Mach eine Gliederung, bevor du deinen Aufsatz schreibst.
 it-xf-0318; nachsprechen; ripetere; ; B1; Bildung/Sprache/Wörter & Aussprache; Ascoltate e ripetete le parole dopo di me.; Hört zu und sprecht mir die Wörter nach.
 it-xf-0319; Geografie; la geografia; ; A2; Bildung/Schule/Fächer; In geografia studiamo i fiumi e le montagne.; In Geografie lernen wir etwas über Flüsse und Berge.
 it-xf-0320; Zeichenblock; l'album da disegno; il blocco da disegno; B1; Bildung/Schule/Schulsachen; Per arte ti servono un album da disegno e matite.; Für Kunst brauchst du einen Zeichenblock und Bleistifte.
-it-xf-0321; Betrieb (Firma); l'azienda; l'impresa, la ditta; B1; Arbeit/Beruf/Arbeitsplatz; Ha fatto l'apprendistato in una piccola azienda della città.; Sie hat ihre Ausbildung in einem kleinen Betrieb in der Stadt gemacht.
+it-xf-0321; Betrieb (in einem Betrieb arbeiten); l'azienda; l'impresa, la ditta; B1; Arbeit/Beruf/Arbeitsplatz; Ha fatto l'apprendistato in una piccola azienda della città.; Sie hat ihre Ausbildung in einem kleinen Betrieb in der Stadt gemacht.
 it-xf-0322; Dienst; il servizio; il turno; B1; Arbeit/Beruf/Arbeitsalltag; Oggi l'infermiera è di servizio fino a mezzanotte.; Die Krankenschwester hat heute bis Mitternacht Dienst.
 it-xf-0323; beruflich; professionale; lavorativo; B1; Arbeit/Beruf/Arbeitsalltag; Mio padre viaggia spesso per motivi professionali.; Mein Vater reist oft aus beruflichen Gründen.
 it-xf-0324; Handwerk; l'artigianato; il mestiere; B2; Arbeit/Beruf/Berufe; In Val Gardena l'artigianato del legno ha una lunga tradizione.; Im Grödnertal hat das Holzhandwerk eine lange Tradition.
@@ -360,14 +360,14 @@ it-xf-0358; Trailer; il trailer; ; B1; Kultur/Theater & Film; Il trailer del nuo
 it-xf-0359; Harfe; l'arpa; ; B1; Kultur/Musik; Suona l'arpa da quando aveva sei anni.; Sie spielt Harfe, seit sie sechs ist.
 it-xf-0360; Klang; il suono; ; B1; Kultur/Musik; Adoro il suono del pianoforte la sera.; Ich liebe den Klang des Klaviers am Abend.
 it-xf-0361; Rahmen; la cornice; ; B1; Kultur/Kunst & Museum; Il quadro è appeso in una pesante cornice dorata.; Das Gemälde hängt in einem schweren goldenen Rahmen.
-it-xf-0362; ausstellen (zeigen); esporre; ; B1; Kultur/Kunst & Museum; Il museo espone i quadri di giovani artisti.; Das Museum stellt Bilder von jungen Künstlern aus.
+it-xf-0362; ausstellen (Bilder ausstellen); esporre; ; B1; Kultur/Kunst & Museum; Il museo espone i quadri di giovani artisti.; Das Museum stellt Bilder von jungen Künstlern aus.
 it-xf-0363; reimen; fare rima; rimare; B1; Kultur/Literatur; In questa poesia ogni secondo verso fa rima.; In diesem Gedicht reimt sich jede zweite Zeile.
 it-xf-0364; Zeitalter; l'era; l'epoca, l'età; B2; Kultur/Geschichte; Oggi viviamo nell'era di internet e degli smartphone.; Heute leben wir im Zeitalter des Internets und der Smartphones.
 it-xf-0365; Zeitleiste; la linea del tempo; ; B2; Kultur/Geschichte; Disegna una linea del tempo degli eventi più importanti.; Zeichne eine Zeitleiste der wichtigsten Ereignisse.
 it-xf-0366; Kaiserin; l'imperatrice; ; B2; Kultur/Geschichte; L'imperatrice viveva in un enorme palazzo a Vienna.; Die Kaiserin lebte in einem riesigen Palast in Wien.
 it-xf-0367; Kreuzzug; la crociata; ; C1; Kultur/Geschichte; La prima crociata cominciò alla fine dell'undicesimo secolo.; Der erste Kreuzzug begann am Ende des elften Jahrhunderts.
 it-xf-0368; Glocke; la campana; ; A2; Gesellschaft/Religion; Ogni domenica mattina suonano le campane della chiesa.; Jeden Sonntagmorgen läuten die Glocken der Kirche.
-it-xf-0369; Kapelle (Kirche); la cappella; ; B2; Gesellschaft/Religion; In cima alla collina c'è una piccola cappella.; Oben auf dem Hügel steht eine kleine Kapelle.
+it-xf-0369; Kapelle (in der Kapelle beten); la cappella; ; B2; Gesellschaft/Religion; In cima alla collina c'è una piccola cappella.; Oben auf dem Hügel steht eine kleine Kapelle.
 it-xf-0370; Paradies; il paradiso; ; B1; Gesellschaft/Religion; Questa spiaggia è un vero paradiso per i surfisti.; Dieser Strand ist ein echtes Paradies für Surfer.
 it-xf-0371; Predigt; la predica; l'omelia; B2; Gesellschaft/Religion; Il parroco ha tenuto una breve predica sulla speranza.; Der Pfarrer hielt eine kurze Predigt über die Hoffnung.
 it-xf-0372; Altar; l'altare; ; B2; Gesellschaft/Religion; Sull'altare della chiesa c'erano dei fiori freschi.; Auf dem Altar der Kirche standen frische Blumen.

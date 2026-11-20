@@ -14,7 +14,7 @@ xe-0011; verstecken; to hide; ; A2; Allgemein/Verben; Where did you hide the bir
 xe-0012; wecken; to wake; to wake up; A2; Allgemein/Verben; Please wake me at seven tomorrow morning.; Bitte weck mich morgen früh um sieben.
 xe-0013; mischen; to mix; ; A2; Allgemein/Verben; Mix the blue and the yellow paint together.; Misch die blaue und die gelbe Farbe zusammen.
 xe-0014; heben; to lift; to raise; B1; Allgemein/Verben; Can you help me lift this heavy box?; Kannst du mir helfen, diese schwere Kiste zu heben?
-xe-0015; schaffen (bewältigen); to manage; ; B1; Allgemein/Verben; Don't worry, you will manage it easily.; Keine Sorge, du schaffst das leicht.
+xe-0015; schaffen (es gerade noch schaffen); to manage; ; B1; Allgemein/Verben; Don't worry, you will manage it easily.; Keine Sorge, du schaffst das leicht.
 xe-0016; sich verlassen; to rely on; to depend on; B1; Allgemein/Verben; You can always rely on your best friend.; Auf deine beste Freundin kannst du dich immer verlassen.
 xe-0017; sich gewöhnen; to get used to; ; B1; Allgemein/Verben; I slowly got used to the cold weather.; Ich habe mich langsam an das kalte Wetter gewöhnt.
 xe-0018; sich lohnen; to be worth it; ; B1; Allgemein/Verben; The long walk to the top was worth it.; Der lange Weg nach oben hat sich gelohnt.
@@ -109,9 +109,9 @@ xe-0106; eigen; own; ; B1; Allgemein/Adjektive; One day I want my own room.; Ein
 xe-0107; sorgfältig; careful; thorough; B1; Allgemein/Adjektive; Read the text carefully before you answer.; Lies den Text sorgfältig, bevor du antwortest.
 xe-0108; einzig; only; single; B1; Allgemein/Adjektive; She is the only person who knows the answer.; Sie ist die einzige Person, die die Antwort kennt.
 xe-0109; geheim; secret; ; B1; Allgemein/Adjektive; The plan must stay secret until Friday.; Der Plan muss bis Freitag geheim bleiben.
-xe-0110; glatt (Oberfläche); smooth; ; B1; Allgemein/Adjektive; The stone is completely smooth after years in the river.; Der Stein ist nach Jahren im Fluss ganz glatt.
+xe-0110; glatt (eine glatte Oberfläche); smooth; ; B1; Allgemein/Adjektive; The stone is completely smooth after years in the river.; Der Stein ist nach Jahren im Fluss ganz glatt.
 xe-0111; korrekt; correct; ; B1; Allgemein/Adjektive; All your answers in the test were correct.; Alle deine Antworten im Test waren korrekt.
-xe-0112; locker (nicht fest); loose; ; B1; Allgemein/Adjektive; One of my teeth is loose.; Einer meiner Zähne ist locker.
+xe-0112; locker (die Schraube ist locker); loose; ; B1; Allgemein/Adjektive; One of my teeth is loose.; Einer meiner Zähne ist locker.
 xe-0113; merkwürdig; strange; odd; B1; Allgemein/Adjektive; Something strange happened to me yesterday.; Gestern ist mir etwas Merkwürdiges passiert.
 xe-0114; passend; suitable; matching; B1; Allgemein/Adjektive; I can't find a suitable present for her.; Ich finde kein passendes Geschenk für sie.
 xe-0115; rein; pure; ; B1; Allgemein/Adjektive; This jumper is made of pure wool.; Dieser Pullover ist aus reiner Wolle.
@@ -152,7 +152,7 @@ xe-0149; so; so; ; A1; Allgemein/Kleine Wörter; I am so tired after the long da
 xe-0150; denn; because; as; A1; Allgemein/Kleine Wörter; I am staying at home because I am ill.; Ich bleibe zu Hause, denn ich bin krank.
 xe-0151; gern; gladly; with pleasure; A1; Allgemein/Kleine Wörter; I will gladly help you with the boxes.; Ich helfe dir gern mit den Kisten.
 xe-0152; niemand; nobody; no one; A2; Allgemein/Kleine Wörter; Nobody answered the phone at home.; Zu Hause ist niemand ans Telefon gegangen.
-xe-0153; über (Thema); about; ; A2; Allgemein/Kleine Wörter; We talked about our plans for the summer.; Wir haben über unsere Pläne für den Sommer gesprochen.
+xe-0153; über (ein Buch über Tiere); about; ; A2; Allgemein/Kleine Wörter; We talked about our plans for the summer.; Wir haben über unsere Pläne für den Sommer gesprochen.
 xe-0154; wieso; why; ; A2; Allgemein/Kleine Wörter; Why didn't you tell me earlier?; Wieso hast du mir das nicht früher gesagt?
 xe-0155; trotzdem; nevertheless; anyway; A2; Allgemein/Kleine Wörter; It was raining, but we went for a walk anyway.; Es regnete, trotzdem gingen wir spazieren.
 xe-0156; wegen; because of; ; A2; Allgemein/Kleine Wörter; The match was cancelled because of the rain.; Das Spiel wurde wegen des Regens abgesagt.
@@ -167,7 +167,7 @@ xe-0164; einander; each other; one another; B1; Allgemein/Kleine Wörter; The tw
 xe-0165; deswegen; that is why; therefore; B1; Allgemein/Kleine Wörter; The bus was late, that is why I missed the film.; Der Bus kam zu spät, deswegen habe ich den Film verpasst.
 xe-0166; statt; instead of; ; B1; Allgemein/Kleine Wörter; Let's have tea instead of coffee today.; Lass uns heute Tee statt Kaffee trinken.
 xe-0167; außer; except; apart from; B1; Allgemein/Kleine Wörter; Everyone came to the party except Tom.; Alle außer Tom kamen zur Party.
-xe-0168; damit (Zweck); so that; ; B1; Allgemein/Kleine Wörter; Speak louder so that everyone can hear you.; Sprich lauter, damit dich alle hören können.
+xe-0168; damit (damit er pünktlich ist); so that; ; B1; Allgemein/Kleine Wörter; Speak louder so that everyone can hear you.; Sprich lauter, damit dich alle hören können.
 xe-0169; falls; in case; if; B1; Allgemein/Kleine Wörter; Take an umbrella in case it rains.; Nimm einen Schirm mit, falls es regnet.
 xe-0170; nachdem; after; ; B1; Allgemein/Kleine Wörter; After we had eaten, we went for a walk.; Nachdem wir gegessen hatten, gingen wir spazieren.
 xe-0171; seitdem; since; ever since; B1; Allgemein/Kleine Wörter; Since she moved away, we rarely see each other.; Seitdem sie weggezogen ist, sehen wir uns selten.
@@ -191,7 +191,7 @@ xe-0188; absolut; absolutely; ; B1; Allgemein/Kleine Wörter; I am absolutely su
 xe-0189; relativ; relatively; ; B1; Allgemein/Kleine Wörter; The test was relatively easy this time.; Der Test war diesmal relativ leicht.
 xe-0190; extrem; extremely; ; B1; Allgemein/Kleine Wörter; It was extremely cold in the mountains.; In den Bergen war es extrem kalt.
 xe-0191; gemeinsam; together; jointly; B1; Allgemein/Kleine Wörter; We cooked dinner together last night.; Wir haben gestern Abend gemeinsam gekocht.
-xe-0192; da (weil); since; as; B1; Allgemein/Kleine Wörter; Since it was raining, we stayed at home.; Da es regnete, blieben wir zu Hause.
+xe-0192; da (da es spät ist); since; as; B1; Allgemein/Kleine Wörter; Since it was raining, we stayed at home.; Da es regnete, blieben wir zu Hause.
 xe-0193; wozu; what for; ; B1; Allgemein/Kleine Wörter; What do you need all that money for?; Wozu brauchst du das ganze Geld?
 xe-0194; gegenseitig; mutual; each other; B2; Allgemein/Kleine Wörter; We help each other with our homework.; Wir helfen uns gegenseitig bei den Hausaufgaben.
 xe-0195; dank; thanks to; ; B2; Allgemein/Kleine Wörter; Thanks to your help, we finished on time.; Dank deiner Hilfe sind wir rechtzeitig fertig geworden.
@@ -207,7 +207,7 @@ xe-0204; bezüglich; regarding; concerning; C1; Allgemein/Kleine Wörter; I have
 xe-0205; zudem; moreover; in addition; C1; Allgemein/Kleine Wörter; The flat is cheap and, moreover, very central.; Die Wohnung ist günstig und zudem sehr zentral.
 xe-0206; lediglich; merely; only; C1; Allgemein/Kleine Wörter; It was merely a small misunderstanding.; Es war lediglich ein kleines Missverständnis.
 xe-0207; keinesfalls; by no means; under no circumstances; C1; Allgemein/Kleine Wörter; You should under no circumstances open this door.; Du solltest diese Tür keinesfalls öffnen.
-xe-0208; um (Uhrzeit); at; ; A1; Allgemein/Zeit; The lesson starts at nine o'clock.; Der Unterricht beginnt um neun Uhr.
+xe-0208; um (um acht Uhr); at; ; A1; Allgemein/Zeit; The lesson starts at nine o'clock.; Der Unterricht beginnt um neun Uhr.
 xe-0209; morgens; in the morning; ; A1; Allgemein/Zeit; I always drink tea in the morning.; Morgens trinke ich immer Tee.
 xe-0210; abends; in the evening; ; A1; Allgemein/Zeit; In the evening we often play cards.; Abends spielen wir oft Karten.
 xe-0211; Ende; end; ; A1; Allgemein/Zeit; We are moving at the end of the month.; Wir ziehen am Ende des Monats um.
@@ -220,7 +220,7 @@ xe-0217; Mal (das erste Mal); time; ; A2; Allgemein/Zeit; This is the first time
 xe-0218; Vormittag; morning; ; A2; Allgemein/Zeit; I have two hours of maths on Monday morning.; Am Montagvormittag habe ich zwei Stunden Mathe.
 xe-0219; Nachmittag; afternoon; ; A2; Allgemein/Zeit; We spent the whole afternoon in the park.; Wir haben den ganzen Nachmittag im Park verbracht.
 xe-0220; Viertelstunde; quarter of an hour; ; A2; Allgemein/Zeit; The bus comes every quarter of an hour.; Der Bus kommt jede Viertelstunde.
-xe-0221; früher (in der Vergangenheit); in the past; formerly; A2; Allgemein/Zeit; In the past there was a cinema in our street.; Früher gab es in unserer Straße ein Kino.
+xe-0221; früher (früher war alles anders); in the past; formerly; A2; Allgemein/Zeit; In the past there was a cinema in our street.; Früher gab es in unserer Straße ein Kino.
 xe-0222; damals; at that time; back then; A2; Allgemein/Zeit; Back then we didn't have mobile phones.; Damals hatten wir keine Handys.
 xe-0223; danach; afterwards; after that; A2; Allgemein/Zeit; We went shopping and afterwards we had lunch.; Wir waren einkaufen und haben danach zu Mittag gegessen.
 xe-0224; täglich; daily; every day; A2; Allgemein/Zeit; I practise the piano for half an hour daily.; Ich übe täglich eine halbe Stunde Klavier.
@@ -231,7 +231,7 @@ xe-0228; nochmal; once more; again; A2; Allgemein/Zeit; Can you say that once mo
 xe-0229; niemals; never; ; A2; Allgemein/Zeit; I will never forget this day.; Ich werde diesen Tag niemals vergessen.
 xe-0230; Weile; while; ; B1; Allgemein/Zeit; We waited for a while, then we went home.; Wir warteten eine Weile, dann gingen wir nach Hause.
 xe-0231; Beginn; start; beginning; B1; Allgemein/Zeit; Please be on time for the start of the concert.; Bitte seid zum Beginn des Konzerts pünktlich.
-xe-0232; Schluss (Ende); end; ; B1; Allgemein/Zeit; At the end of the lesson we sang a song.; Zum Schluss der Stunde haben wir ein Lied gesungen.
+xe-0232; Schluss (zum Schluss); end; ; B1; Allgemein/Zeit; At the end of the lesson we sang a song.; Zum Schluss der Stunde haben wir ein Lied gesungen.
 xe-0233; Eile; hurry; rush; B1; Allgemein/Zeit; Sorry, I am in a hurry today.; Entschuldigung, ich bin heute in Eile.
 xe-0234; dringend; urgent; ; B1; Allgemein/Zeit; I have to make an urgent phone call.; Ich muss einen dringenden Anruf machen.
 xe-0235; nachher; afterwards; later; B1; Allgemein/Zeit; I will call you back later.; Ich rufe dich nachher zurück.
@@ -265,8 +265,8 @@ xe-0262; Jahrtausend; millennium; ; B2; Allgemein/Zeit; We celebrated the start 
 xe-0263; wohin; where to; where; A1; Allgemein/Raum; Where are you going on holiday this year?; Wohin fahrt ihr dieses Jahr in den Urlaub?
 xe-0264; woher; where from; ; A1; Allgemein/Raum; Where does your new neighbour come from?; Woher kommt dein neuer Nachbar?
 xe-0265; neben; next to; beside; A1; Allgemein/Raum; Come and sit next to me.; Komm und setz dich neben mich.
-xe-0266; vor (räumlich); in front of; ; A1; Allgemein/Raum; There is a big tree in front of our house.; Vor unserem Haus steht ein großer Baum.
-xe-0267; nach (Richtung); to; ; A1; Allgemein/Raum; Tomorrow we are flying to Spain.; Morgen fliegen wir nach Spanien.
+xe-0266; vor (vor dem Haus); in front of; ; A1; Allgemein/Raum; There is a big tree in front of our house.; Vor unserem Haus steht ein großer Baum.
+xe-0267; nach (nach Berlin fahren); to; ; A1; Allgemein/Raum; Tomorrow we are flying to Spain.; Morgen fliegen wir nach Spanien.
 xe-0268; oben; at the top; upstairs; A2; Allgemein/Raum; The bathroom is upstairs on the left.; Das Badezimmer ist oben links.
 xe-0269; unten; at the bottom; downstairs; A2; Allgemein/Raum; The kitchen is downstairs next to the living room.; Die Küche ist unten neben dem Wohnzimmer.
 xe-0270; vorne; at the front; ; A2; Allgemein/Raum; I like to sit at the front of the bus.; Ich sitze im Bus gern vorne.
@@ -297,7 +297,7 @@ xe-0294; rückwärts; backwards; ; B1; Allgemein/Raum; She parked the car backwa
 xe-0295; Zentrum; centre; ; B1; Allgemein/Raum; Our hotel is right in the centre of the town.; Unser Hotel liegt direkt im Zentrum der Stadt.
 xe-0296; Abstand; distance; gap; B1; Allgemein/Raum; Please keep your distance from the car in front.; Bitte halte Abstand zum vorderen Auto.
 xe-0297; Umgebung; surroundings; area; B1; Allgemein/Raum; There are many nice walks in the area.; In der Umgebung gibt es viele schöne Spazierwege.
-xe-0298; Lage (Ort); location; position; B1; Allgemein/Raum; The hotel is in a perfect location by the sea.; Das Hotel hat eine perfekte Lage am Meer.
+xe-0298; Lage (eine ruhige Lage); location; position; B1; Allgemein/Raum; The hotel is in a perfect location by the sea.; Das Hotel hat eine perfekte Lage am Meer.
 xe-0299; Kurve; bend; curve; B1; Allgemein/Raum; Drive slowly, there is a sharp bend ahead.; Fahr langsam, vorne kommt eine scharfe Kurve.
 xe-0300; Hintergrund; background; ; B1; Allgemein/Raum; You can see the mountains in the background of the photo.; Im Hintergrund des Fotos sieht man die Berge.
 xe-0301; Lücke; gap; ; B1; Allgemein/Raum; The cat squeezed through a gap in the fence.; Die Katze zwängte sich durch eine Lücke im Zaun.
@@ -318,7 +318,7 @@ xe-0315; unterhalb; below; beneath; B2; Allgemein/Raum; The lake lies below the 
 xe-0316; umgekehrt; the other way round; reverse; B2; Allgemein/Raum; It was not my fault, it was the other way round.; Es war nicht meine Schuld, es war umgekehrt.
 xe-0317; jenseits; beyond; on the other side of; C1; Allgemein/Raum; Beyond the mountains lies a wide valley.; Jenseits der Berge liegt ein weites Tal.
 xe-0318; Rest; rest; remainder; A2; Allgemein/Mengen; You can have the rest of the cake.; Du kannst den Rest vom Kuchen haben.
-xe-0319; Viertel (Bruchteil); quarter; ; A2; Allgemein/Mengen; Cut the apple into four quarters, please.; Schneide den Apfel bitte in vier Viertel.
+xe-0319; Viertel (ein Viertel der Torte); quarter; ; A2; Allgemein/Mengen; Cut the apple into four quarters, please.; Schneide den Apfel bitte in vier Viertel.
 xe-0320; Million; million; ; A2; Allgemein/Mengen; The city has more than a million inhabitants.; Die Stadt hat mehr als eine Million Einwohner.
 xe-0321; Meter; metre; ; A2; Allgemein/Mengen; The pool is twenty-five metres long.; Das Schwimmbecken ist fünfundzwanzig Meter lang.
 xe-0322; Zentimeter; centimetre; ; A2; Allgemein/Mengen; My little sister has grown five centimetres.; Meine kleine Schwester ist fünf Zentimeter gewachsen.
@@ -337,8 +337,8 @@ xe-0334; Anzahl; number; ; B1; Allgemein/Mengen; The number of students has rise
 xe-0335; Dutzend; dozen; ; B1; Allgemein/Mengen; I bought a dozen eggs at the market.; Ich habe auf dem Markt ein Dutzend Eier gekauft.
 xe-0336; Milliarde; billion; ; B1; Allgemein/Mengen; The new stadium cost a billion euros.; Das neue Stadion hat eine Milliarde Euro gekostet.
 xe-0337; Inhalt; contents; content; B1; Allgemein/Mengen; The contents of the box fell on the floor.; Der Inhalt der Schachtel fiel auf den Boden.
-xe-0338; Tonne (Gewicht); tonne; ; B1; Allgemein/Mengen; The lorry can carry ten tonnes of sand.; Der Lastwagen kann zehn Tonnen Sand transportieren.
-xe-0339; Pfund (Gewicht); pound; ; B1; Allgemein/Mengen; Can I have a pound of tomatoes, please?; Kann ich bitte ein Pfund Tomaten haben?
+xe-0338; Tonne (eine Tonne wiegen); tonne; ; B1; Allgemein/Mengen; The lorry can carry ten tonnes of sand.; Der Lastwagen kann zehn Tonnen Sand transportieren.
+xe-0339; Pfund (ein Pfund Butter); pound; ; B1; Allgemein/Mengen; Can I have a pound of tomatoes, please?; Kann ich bitte ein Pfund Tomaten haben?
 xe-0340; Quadratmeter; square metre; ; B1; Allgemein/Mengen; The flat has seventy square metres.; Die Wohnung hat siebzig Quadratmeter.
 xe-0341; Haufen; pile; heap; B1; Allgemein/Mengen; There is a pile of dirty clothes on the floor.; Auf dem Boden liegt ein Haufen schmutziger Kleider.
 xe-0342; Kleinigkeit; small thing; little something; B1; Allgemein/Mengen; I bought a little something for your birthday.; Ich habe dir eine Kleinigkeit zum Geburtstag gekauft.
@@ -369,7 +369,7 @@ xe-0366; sich unterhalten; to talk; to chat; A2; Allgemein/Denken & Sprechen; We
 xe-0367; grüßen; to greet; to say hello to; A2; Allgemein/Denken & Sprechen; He always greets the neighbours in a friendly way.; Er grüßt die Nachbarn immer freundlich.
 xe-0368; gratulieren; to congratulate; ; A2; Allgemein/Denken & Sprechen; We congratulated her on her new job.; Wir haben ihr zu ihrer neuen Stelle gratuliert.
 xe-0369; nachdenken; to think about; to reflect; B1; Allgemein/Denken & Sprechen; I need some time to think about it.; Ich brauche etwas Zeit, um darüber nachzudenken.
-xe-0370; überlegen (nachdenken); to consider; to think about; B1; Allgemein/Denken & Sprechen; Let me consider your offer until tomorrow.; Ich überlege mir dein Angebot bis morgen.
+xe-0370; überlegen (sich etwas gut überlegen); to consider; to think about; B1; Allgemein/Denken & Sprechen; Let me consider your offer until tomorrow.; Ich überlege mir dein Angebot bis morgen.
 xe-0371; erraten; to guess; ; B1; Allgemein/Denken & Sprechen; You will never guess who called me.; Du errätst nie, wer mich angerufen hat.
 xe-0372; vermuten; to suppose; to assume; B1; Allgemein/Denken & Sprechen; I suppose he has missed the bus again.; Ich vermute, er hat wieder den Bus verpasst.
 xe-0373; sich irren; to be wrong; to be mistaken; B1; Allgemein/Denken & Sprechen; I think you are wrong about that.; Ich glaube, da irrst du dich.
@@ -405,7 +405,7 @@ xe-0402; zitieren; to quote; ; B2; Allgemein/Denken & Sprechen; He likes to quot
 xe-0403; schwören; to swear; ; B2; Allgemein/Denken & Sprechen; I swear I didn't take your money.; Ich schwöre, dass ich dein Geld nicht genommen habe.
 xe-0404; äußern; to express; to voice; B2; Allgemein/Denken & Sprechen; She expressed her doubts about the plan.; Sie äußerte ihre Zweifel an dem Plan.
 xe-0405; begründen; to justify; to give reasons for; B2; Allgemein/Denken & Sprechen; You have to justify your opinion in the essay.; Du musst deine Meinung im Aufsatz begründen.
-xe-0406; tippen (wetten); to bet; to guess; B2; Allgemein/Denken & Sprechen; I bet that our team will win on Saturday.; Ich tippe, dass unsere Mannschaft am Samstag gewinnt.
+xe-0406; tippen (auf den Sieger tippen); to bet; to guess; B2; Allgemein/Denken & Sprechen; I bet that our team will win on Saturday.; Ich tippe, dass unsere Mannschaft am Samstag gewinnt.
 xe-0407; gestehen; to confess; ; B2; Allgemein/Denken & Sprechen; In the end he confessed that he had lied.; Schließlich gestand er, dass er gelogen hatte.
 xe-0408; Ansicht; view; opinion; B2; Allgemein/Denken & Sprechen; In my view, the plan is too expensive.; Meiner Ansicht nach ist der Plan zu teuer.
 xe-0409; Vermutung; assumption; guess; B2; Allgemein/Denken & Sprechen; My guess is that she has forgotten us.; Meine Vermutung ist, dass sie uns vergessen hat.

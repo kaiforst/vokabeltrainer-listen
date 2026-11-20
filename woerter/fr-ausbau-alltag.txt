@@ -10,7 +10,7 @@ fr-xa-0007; Mieter; le locataire; la locataire; B1; Alltag/Zuhause/Räume; Le no
 fr-xa-0008; Vermieter; le propriétaire; la propriétaire, le bailleur; B1; Alltag/Zuhause/Räume; Notre propriétaire a enfin fait réparer le chauffage.; Unser Vermieter hat endlich die Heizung reparieren lassen.
 fr-xa-0009; Miete; le loyer; ; A2; Alltag/Zuhause/Räume; Le loyer de cet appartement est de 800 euros.; Die Miete für diese Wohnung beträgt 800 Euro.
 fr-xa-0010; Wohngemeinschaft; la colocation; ; B1; Alltag/Zuhause/Räume; Je vis en colocation avec deux étudiantes à Lille.; Ich wohne mit zwei Studentinnen in Lille in einer Wohngemeinschaft.
-fr-xa-0011; umziehen (Wohnung); déménager; ; A2; Alltag/Zuhause/Räume; Nous allons déménager à Lyon en septembre.; Wir werden im September nach Lyon umziehen.
+fr-xa-0011; umziehen (in eine neue Wohnung); déménager; ; A2; Alltag/Zuhause/Räume; Nous allons déménager à Lyon en septembre.; Wir werden im September nach Lyon umziehen.
 fr-xa-0012; Speisekammer; le garde-manger; le cellier; B2; Alltag/Zuhause/Räume; Les conserves sont rangées dans le garde-manger.; Die Konserven stehen in der Speisekammer.
 fr-xa-0013; Dachrinne; la gouttière; ; C1; Alltag/Zuhause/Räume; Chaque automne, les feuilles mortes bouchent la gouttière.; Jeden Herbst verstopft das Laub die Dachrinne.
 fr-xa-0014; Abfluss; l'évacuation; la bonde; B2; Alltag/Zuhause/Räume; Des cheveux bouchent l'évacuation de la douche.; Haare verstopfen den Abfluss der Dusche.
@@ -41,14 +41,14 @@ fr-xa-0038; Spülmittel; le liquide vaisselle; ; B1; Alltag/Zuhause/Haushalt; Il
 fr-xa-0039; Mülltüte; le sac poubelle; ; B1; Alltag/Zuhause/Haushalt; Tu peux descendre le sac poubelle, s'il te plaît ?; Kannst du bitte die Mülltüte runterbringen?
 fr-xa-0040; Geschirrtuch; le torchon; ; B1; Alltag/Zuhause/Haushalt; Prends un torchon propre pour essuyer les verres.; Nimm ein sauberes Geschirrtuch, um die Gläser abzutrocknen.
 fr-xa-0041; Putzfrau; la femme de ménage; ; B1; Alltag/Zuhause/Haushalt; La femme de ménage vient le mardi matin.; Die Putzfrau kommt dienstagmorgens.
-fr-xa-0042; Haushalt (zu Hause); le ménage; le foyer; B1; Alltag/Zuhause/Haushalt; Chez nous, tout le monde participe au ménage.; Bei uns hilft jeder im Haushalt mit.
+fr-xa-0042; Haushalt (ein Haushalt mit Kindern); le ménage; le foyer; B1; Alltag/Zuhause/Haushalt; Chez nous, tout le monde participe au ménage.; Bei uns hilft jeder im Haushalt mit.
 fr-xa-0043; staubsaugen; passer l'aspirateur; ; A2; Alltag/Zuhause/Haushalt; Le samedi, je passe l'aspirateur dans le salon.; Samstags sauge ich im Wohnzimmer Staub.
 fr-xa-0044; lüften; aérer; ; B1; Alltag/Zuhause/Haushalt; Ouvre la fenêtre pour aérer un peu la chambre.; Mach das Fenster auf, um das Zimmer ein bisschen zu lüften.
 fr-xa-0045; renovieren; rénover; refaire; B1; Alltag/Zuhause/Haushalt; Ils ont rénové toute la cuisine l'année dernière.; Sie haben letztes Jahr die ganze Küche renoviert.
-fr-xa-0046; streichen (Wand); peindre; repeindre; B1; Alltag/Zuhause/Haushalt; Ce week-end, nous peignons le salon en blanc.; Dieses Wochenende streichen wir das Wohnzimmer weiß.
+fr-xa-0046; streichen (die Wand streichen); peindre; repeindre; B1; Alltag/Zuhause/Haushalt; Ce week-end, nous peignons le salon en blanc.; Dieses Wochenende streichen wir das Wohnzimmer weiß.
 fr-xa-0047; tapezieren; tapisser; ; B2; Alltag/Zuhause/Haushalt; Mon père a tapissé la chambre du bébé.; Mein Vater hat das Babyzimmer tapeziert.
 fr-xa-0431; Tapete; le papier peint; ; B1; Alltag/Zuhause/Haushalt; Nous avons choisi un papier peint à fleurs.; Wir haben eine geblümte Tapete ausgesucht.
-fr-xa-0432; Farbe (zum Streichen); la peinture; ; A2; Alltag/Zuhause/Haushalt; Il faut deux pots de peinture pour cette pièce.; Für dieses Zimmer braucht man zwei Eimer Farbe.
+fr-xa-0432; Farbe (ein Eimer Farbe); la peinture; ; A2; Alltag/Zuhause/Haushalt; Il faut deux pots de peinture pour cette pièce.; Für dieses Zimmer braucht man zwei Eimer Farbe.
 fr-xa-0433; Lack; le vernis; la laque; B2; Alltag/Zuhause/Haushalt; Il passe une couche de vernis sur la vieille table.; Er trägt eine Schicht Lack auf den alten Tisch auf.
 fr-xa-0048; unordentlich; désordonné; en désordre, mal rangé; A2; Alltag/Zuhause/Haushalt; Mon frère est très désordonné avec ses affaires.; Mein Bruder ist sehr unordentlich mit seinen Sachen.
 fr-xa-0049; staubig; poussiéreux; ; B1; Alltag/Zuhause/Haushalt; Les vieux livres du grenier sont très poussiéreux.; Die alten Bücher auf dem Dachboden sind sehr staubig.
@@ -88,12 +88,12 @@ fr-xa-0081; Mais (zum Essen); le maïs; ; A2; Alltag/Essen/Lebensmittel; J'ajout
 fr-xa-0082; Aubergine; l'aubergine; ; B1; Alltag/Essen/Lebensmittel; Elle prépare des aubergines farcies pour le dîner.; Sie macht gefüllte Auberginen zum Abendessen.
 fr-xa-0083; Lauch; le poireau; ; B1; Alltag/Essen/Lebensmittel; La soupe aux poireaux est une recette très simple.; Suppe mit Lauch ist ein sehr einfaches Rezept.
 fr-xa-0084; Spargel; l'asperge; les asperges; B1; Alltag/Essen/Lebensmittel; Au printemps, nous mangeons des asperges blanches.; Im Frühling essen wir weißen Spargel.
-fr-xa-0085; Linse (Hülsenfrucht); la lentille; ; B1; Alltag/Essen/Lebensmittel; Je prépare une soupe de lentilles corail.; Ich koche eine Suppe aus roten Linsen.
+fr-xa-0085; Linse (Suppe mit Linsen); la lentille; ; B1; Alltag/Essen/Lebensmittel; Je prépare une soupe de lentilles corail.; Ich koche eine Suppe aus roten Linsen.
 fr-xa-0086; Kichererbse; le pois chiche; ; B2; Alltag/Essen/Lebensmittel; Le houmous est fait avec des pois chiches.; Hummus wird aus Kichererbsen gemacht.
 fr-xa-0087; Ananas; l'ananas; ; A2; Alltag/Essen/Lebensmittel; Cet ananas est bien mûr et très sucré.; Diese Ananas ist reif und sehr süß.
 fr-xa-0088; Kirsche; la cerise; ; A1; Alltag/Essen/Lebensmittel; Les cerises de notre arbre sont déjà rouges.; Die Kirschen an unserem Baum sind schon rot.
 fr-xa-0089; Pfirsich; la pêche; ; A2; Alltag/Essen/Lebensmittel; Elle mange une pêche très juteuse.; Sie isst einen sehr saftigen Pfirsich.
-fr-xa-0090; Mandel (Nuss); l'amande; ; B1; Alltag/Essen/Lebensmittel; Ce gâteau est fait avec des amandes.; Dieser Kuchen ist mit Mandeln gemacht.
+fr-xa-0090; Mandel (gebrannte Mandeln); l'amande; ; B1; Alltag/Essen/Lebensmittel; Ce gâteau est fait avec des amandes.; Dieser Kuchen ist mit Mandeln gemacht.
 fr-xa-0091; Walnuss; la noix; ; B1; Alltag/Essen/Lebensmittel; Il y a des noix et du fromage dans cette salade.; In diesem Salat sind Walnüsse und Käse.
 fr-xa-0092; Keks; le biscuit; le gâteau sec; A1; Alltag/Essen/Lebensmittel; Tu veux un biscuit avec ton café ?; Möchtest du einen Keks zu deinem Kaffee?
 fr-xa-0093; Bonbon; le bonbon; ; A1; Alltag/Essen/Lebensmittel; L'enfant suce un bonbon à la fraise.; Das Kind lutscht ein Bonbon mit Erdbeergeschmack.
@@ -126,10 +126,10 @@ fr-xa-0118; Orangensaft; le jus d'orange; ; A1; Alltag/Essen/Getränke; Le matin
 fr-xa-0119; Rotwein; le vin rouge; ; A2; Alltag/Essen/Getränke; Ce bon vin rouge vient de Bordeaux.; Dieser gute Rotwein kommt aus Bordeaux.
 fr-xa-0120; alkoholfrei; sans alcool; ; B1; Alltag/Essen/Getränke; Je prends une bière sans alcool, je dois conduire.; Ich nehme ein alkoholfreies Bier, ich muss noch fahren.
 fr-xa-0121; Alkohol; l'alcool; ; A2; Alltag/Essen/Getränke; Il ne boit jamais d'alcool pendant la semaine.; Unter der Woche trinkt er nie Alkohol.
-fr-xa-0122; reiben (Käse); râper; ; B2; Alltag/Essen/Kochen; Râpe un peu de fromage sur les pâtes.; Reib etwas Käse über die Nudeln.
+fr-xa-0122; reiben (Käse reiben); râper; ; B2; Alltag/Essen/Kochen; Râpe un peu de fromage sur les pâtes.; Reib etwas Käse über die Nudeln.
 fr-xa-0123; kneten; pétrir; ; B2; Alltag/Essen/Kochen; Il faut pétrir la pâte pendant dix minutes.; Man muss den Teig zehn Minuten lang kneten.
 fr-xa-0124; abgießen; égoutter; ; B2; Alltag/Essen/Kochen; Égoutte les pâtes et ajoute la sauce.; Gieß die Nudeln ab und gib die Soße dazu.
-fr-xa-0125; würfeln (Gemüse); couper en dés; ; B2; Alltag/Essen/Kochen; Coupe les carottes et les oignons en dés.; Würfle die Möhren und die Zwiebeln.
+fr-xa-0125; würfeln (Zwiebeln würfeln); couper en dés; ; B2; Alltag/Essen/Kochen; Coupe les carottes et les oignons en dés.; Würfle die Möhren und die Zwiebeln.
 fr-xa-0126; bestreuen; saupoudrer; parsemer; B2; Alltag/Essen/Kochen; Saupoudre la tarte de cannelle avant de la servir.; Bestreu den Kuchen vor dem Servieren mit Zimt.
 fr-xa-0127; verquirlen; battre; fouetter; C1; Alltag/Essen/Kochen; Bats les œufs avec un peu de lait.; Verquirle die Eier mit etwas Milch.
 fr-xa-0128; Prise; la pincée; ; B2; Alltag/Essen/Kochen; Ajoute une pincée de sel dans l'eau.; Gib eine Prise Salz ins Wasser.
@@ -149,13 +149,13 @@ fr-xa-0141; Rührei; les œufs brouillés; ; A2; Alltag/Essen/Mahlzeiten; Le dim
 fr-xa-0142; Eintopf; le ragoût; la potée; B1; Alltag/Essen/Mahlzeiten; En hiver, ma mère fait souvent un ragoût.; Im Winter kocht meine Mutter oft einen Eintopf.
 fr-xa-0143; Auflauf; le gratin; ; B2; Alltag/Essen/Mahlzeiten; Ce soir, il y a un gratin de pâtes.; Heute Abend gibt es einen Auflauf mit Nudeln.
 fr-xa-0144; Portion; la portion; ; A2; Alltag/Essen/Mahlzeiten; Les portions de ce restaurant sont énormes.; Die Portionen in diesem Restaurant sind riesig.
-fr-xa-0145; Scheibe (Brot); la tranche; ; A2; Alltag/Essen/Mahlzeiten; Je mange une tranche de pain avec du beurre.; Ich esse eine Scheibe Brot mit Butter.
+fr-xa-0145; Scheibe (eine Scheibe Brot); la tranche; ; A2; Alltag/Essen/Mahlzeiten; Je mange une tranche de pain avec du beurre.; Ich esse eine Scheibe Brot mit Butter.
 fr-xa-0146; Kantine; la cantine; ; B1; Alltag/Essen/Restaurant; Je déjeune à la cantine de l'entreprise.; Ich esse in der Kantine der Firma zu Mittag.
 fr-xa-0147; Café; le café; ; A1; Alltag/Essen/Restaurant; On se retrouve au café en face de la gare ?; Treffen wir uns im Café gegenüber vom Bahnhof?
 fr-xa-0148; Bedienung; le service; ; B1; Alltag/Essen/Restaurant; Le service dans ce restaurant est très rapide.; Die Bedienung in diesem Restaurant ist sehr schnell.
 fr-xa-0149; Tagesgericht; le plat du jour; ; B1; Alltag/Essen/Restaurant; Je prends le plat du jour, s'il vous plaît.; Ich nehme das Tagesgericht, bitte.
 fr-xa-0150; Beilage; l'accompagnement; la garniture; B1; Alltag/Essen/Restaurant; Comme accompagnement, vous préférez des frites ou du riz ?; Möchten Sie als Beilage lieber Pommes oder Reis?
-fr-xa-0151; Gang (beim Essen); le plat; ; B2; Alltag/Essen/Restaurant; Le menu de mariage comprend quatre plats.; Das Hochzeitsmenü hat vier Gänge.
+fr-xa-0151; Gang (ein Menü mit drei Gängen); le plat; ; B2; Alltag/Essen/Restaurant; Le menu de mariage comprend quatre plats.; Das Hochzeitsmenü hat vier Gänge.
 fr-xa-0152; Buffet; le buffet; ; B1; Alltag/Essen/Restaurant; L'hôtel propose un grand buffet au petit-déjeuner.; Das Hotel bietet zum Frühstück ein großes Buffet.
 fr-xa-0153; Lieferdienst; le service de livraison; ; B1; Alltag/Essen/Restaurant; Ce service de livraison apporte les repas en vingt minutes.; Dieser Lieferdienst bringt das Essen in zwanzig Minuten.
 fr-xa-0154; Kleidung; les vêtements; ; A1; Alltag/Kleidung/Kleidungsstücke; Elle achète presque tous ses vêtements sur Internet.; Sie kauft fast ihre ganze Kleidung im Internet.
@@ -175,7 +175,7 @@ fr-xa-0167; Schnalle; la boucle; ; C1; Alltag/Kleidung/Schuhe & Accessoires; La 
 fr-xa-0439; Brieftasche; le portefeuille; ; B1; Alltag/Kleidung/Schuhe & Accessoires; J'ai perdu mon portefeuille dans le métro.; Ich habe meine Brieftasche in der U-Bahn verloren.
 fr-xa-0440; Laufschuh; la chaussure de course; la chaussure de running; B1; Alltag/Kleidung/Schuhe & Accessoires; J'ai besoin de nouvelles chaussures de course pour le marathon.; Ich brauche neue Laufschuhe für den Marathon.
 fr-xa-0168; Schuhgröße; la pointure; ; A2; Alltag/Kleidung/Einkauf & Passform; Je fais du 39, quelle est ta pointure ?; Ich habe Größe 39, welche Schuhgröße hast du?
-fr-xa-0169; locker (Kleidung); ample; large; B1; Alltag/Kleidung/Einkauf & Passform; En été, je porte des vêtements amples.; Im Sommer trage ich lockere Kleidung.
+fr-xa-0169; locker (die Hose sitzt locker); ample; large; B1; Alltag/Kleidung/Einkauf & Passform; En été, je porte des vêtements amples.; Im Sommer trage ich lockere Kleidung.
 fr-xa-0170; ärmellos; sans manches; ; B1; Alltag/Kleidung/Kleidungsstücke; Il fait chaud, je mets une robe sans manches.; Es ist warm, ich ziehe ein ärmelloses Kleid an.
 fr-xa-0171; wasserdicht; imperméable; étanche; B1; Alltag/Kleidung/Kleidungsstücke; Cette veste de randonnée est complètement imperméable.; Diese Wanderjacke ist völlig wasserdicht.
 fr-xa-0172; schick; chic; élégant; B1; Alltag/Kleidung/Stil; Tu es très chic ce soir, tu sors ?; Du bist heute Abend sehr schick, gehst du aus?
@@ -185,14 +185,14 @@ fr-xa-0175; flicken; raccommoder; rapiécer; B2; Alltag/Kleidung/Pflege & Schnei
 fr-xa-0176; Loch; le trou; ; A2; Alltag/Kleidung/Pflege & Schneiderei; Il y a un trou dans mon pull.; Mein Pullover hat ein Loch.
 fr-xa-0177; zerrissen; déchiré; ; B1; Alltag/Kleidung/Pflege & Schneiderei; Son jean est déchiré aux deux genoux.; Seine Jeans ist an beiden Knien zerrissen.
 fr-xa-0178; Etikett; l'étiquette; ; B1; Alltag/Kleidung/Pflege & Schneiderei; Coupe l'étiquette, elle me gratte le cou.; Schneid das Etikett ab, es kratzt mich am Hals.
-fr-xa-0179; einlaufen (Wäsche); rétrécir; ; B2; Alltag/Kleidung/Pflege & Schneiderei; Mon pull en laine a rétréci au lavage.; Mein Wollpullover ist in der Wäsche eingelaufen.
+fr-xa-0179; einlaufen (der Pulli ist eingelaufen); rétrécir; ; B2; Alltag/Kleidung/Pflege & Schneiderei; Mon pull en laine a rétréci au lavage.; Mein Wollpullover ist in der Wäsche eingelaufen.
 fr-xa-0180; knittern; se froisser; froisser; B2; Alltag/Kleidung/Pflege & Schneiderei; Ce tissu en lin se froisse très vite.; Dieser Leinenstoff knittert sehr schnell.
 fr-xa-0181; zerknittert; froissé; chiffonné; B2; Alltag/Kleidung/Pflege & Schneiderei; Ta chemise est toute froissée, repasse-la.; Dein Hemd ist ganz zerknittert, bügle es.
 fr-xa-0182; Lebensmittelgeschäft; l'épicerie; le magasin d'alimentation; A2; Alltag/Einkaufen/Geschäfte; Il y a une petite épicerie au coin de la rue.; An der Ecke gibt es ein kleines Lebensmittelgeschäft.
 fr-xa-0183; Kaufhaus; le grand magasin; ; A2; Alltag/Einkaufen/Geschäfte; Les Galeries Lafayette sont un grand magasin très connu.; Die Galeries Lafayette sind ein sehr bekanntes Kaufhaus.
 fr-xa-0184; Schreibwarenladen; la papeterie; ; B1; Alltag/Einkaufen/Geschäfte; J'achète mes cahiers à la papeterie du quartier.; Ich kaufe meine Hefte im Schreibwarenladen im Viertel.
 fr-xa-0185; Optiker; l'opticien; l'opticienne; B1; Alltag/Einkaufen/Geschäfte; Je vais chez l'opticien pour de nouvelles lunettes.; Ich gehe zum Optiker, um eine neue Brille zu holen.
-fr-xa-0186; Reinigung (Geschäft); le pressing; la teinturerie; B2; Alltag/Einkaufen/Geschäfte; Je dois récupérer mon costume au pressing.; Ich muss meinen Anzug aus der Reinigung abholen.
+fr-xa-0186; Reinigung (den Anzug zur Reinigung bringen); le pressing; la teinturerie; B2; Alltag/Einkaufen/Geschäfte; Je dois récupérer mon costume au pressing.; Ich muss meinen Anzug aus der Reinigung abholen.
 fr-xa-0187; Waschsalon; la laverie; la laverie automatique; B2; Alltag/Einkaufen/Geschäfte; Beaucoup d'étudiants lavent leur linge à la laverie.; Viele Studenten waschen ihre Wäsche im Waschsalon.
 fr-xa-0188; Theke; le comptoir; ; B1; Alltag/Einkaufen/Geschäfte; Payez au comptoir avant de prendre votre café.; Zahlen Sie an der Theke, bevor Sie Ihren Kaffee nehmen.
 fr-xa-0189; Kassierer; le caissier; la caissière; A2; Alltag/Einkaufen/Geschäfte; Le caissier compte la monnaie deux fois.; Der Kassierer zählt das Wechselgeld zweimal.
@@ -213,7 +213,7 @@ fr-xa-0200; übergewichtig; en surpoids; ; B1; Mensch/Aussehen; Le médecin dit 
 fr-xa-0201; blond; blond; ; A2; Mensch/Aussehen; Ma petite sœur a les cheveux blonds et bouclés.; Meine kleine Schwester hat blonde, lockige Haare.
 fr-xa-0202; dunkelhaarig; brun; aux cheveux foncés; B1; Mensch/Aussehen; Son nouveau copain est grand et brun.; Ihr neuer Freund ist groß und dunkelhaarig.
 fr-xa-0203; lockig; bouclé; frisé; A2; Mensch/Aussehen; Elle a les cheveux bouclés comme son père.; Sie hat lockige Haare wie ihr Vater.
-fr-xa-0204; glatt (Haar); raide; lisse; A2; Mensch/Aussehen; Ma sœur a les cheveux longs et raides.; Meine Schwester hat lange, glatte Haare.
+fr-xa-0204; glatt (glatte Haare); raide; lisse; A2; Mensch/Aussehen; Ma sœur a les cheveux longs et raides.; Meine Schwester hat lange, glatte Haare.
 fr-xa-0205; kahl; chauve; ; B1; Mensch/Aussehen; Mon oncle est devenu chauve très jeune.; Mein Onkel wurde schon sehr jung kahl.
 fr-xa-0206; Bart; la barbe; ; A2; Mensch/Aussehen; Mon père porte une barbe grise depuis des années.; Mein Vater trägt seit Jahren einen grauen Bart.
 fr-xa-0207; Schnurrbart; la moustache; ; B1; Mensch/Aussehen; Le vieux monsieur a une grande moustache blanche.; Der alte Herr hat einen großen weißen Schnurrbart.
@@ -224,7 +224,7 @@ fr-xa-0211; Muttermal; le grain de beauté; ; C1; Mensch/Aussehen; Elle a un pet
 fr-xa-0212; Zopf; la tresse; la natte; B2; Mensch/Aussehen; Ma fille veut une tresse pour aller à l'école.; Meine Tochter möchte für die Schule einen Zopf.
 fr-xa-0213; Pferdeschwanz; la queue de cheval; ; B1; Mensch/Aussehen; Pour le sport, elle s'attache les cheveux en queue de cheval.; Zum Sport bindet sie sich die Haare zu einem Pferdeschwanz.
 fr-xa-0214; Frisur; la coiffure; ; A2; Mensch/Aussehen; Ta nouvelle coiffure te va très bien !; Deine neue Frisur steht dir sehr gut!
-fr-xa-0215; Pony (Frisur); la frange; ; B2; Mensch/Aussehen; Elle s'est coupé une frange toute seule.; Sie hat sich ganz allein einen Pony geschnitten.
+fr-xa-0215; Pony (die Haare über der Stirn); la frange; ; B2; Mensch/Aussehen; Elle s'est coupé une frange toute seule.; Sie hat sich ganz allein einen Pony geschnitten.
 fr-xa-0216; blass; pâle; ; B1; Mensch/Aussehen; Tu es tout pâle, tu te sens bien ?; Du bist ganz blass, fühlst du dich gut?
 fr-xa-0217; braun gebrannt; bronzé; ; B1; Mensch/Aussehen; Il est revenu de Nice tout bronzé.; Er ist ganz braun gebrannt aus Nizza zurückgekommen.
 fr-xa-0218; muskulös; musclé; ; B2; Mensch/Aussehen; Grâce à la salle de sport, mon frère est très musclé.; Durch das Fitnessstudio ist mein Bruder sehr muskulös.
@@ -303,7 +303,7 @@ fr-xa-0290; Augenlid; la paupière; ; B2; Gesundheit/Körper; Ce matin, j'ai la 
 fr-xa-0291; Nasenloch; la narine; ; B2; Gesundheit/Körper; Il a un petit piercing à la narine droite.; Er hat ein kleines Piercing am rechten Nasenloch.
 fr-xa-0292; Zahnfleisch; les gencives; la gencive; B2; Gesundheit/Körper; Mes gencives saignent quand je me brosse les dents.; Mein Zahnfleisch blutet, wenn ich mir die Zähne putze.
 fr-xa-0293; Nacken; la nuque; ; B1; Gesundheit/Körper; Après une journée devant l'ordinateur, j'ai mal à la nuque.; Nach einem Tag am Computer tut mir der Nacken weh.
-fr-xa-0294; Brust (Oberkörper); la poitrine; le torse; A2; Gesundheit/Körper; Le patient se plaint d'une douleur à la poitrine.; Der Patient klagt über Schmerzen in der Brust.
+fr-xa-0294; Brust (Schmerzen in der Brust); la poitrine; le torse; A2; Gesundheit/Körper; Le patient se plaint d'une douleur à la poitrine.; Der Patient klagt über Schmerzen in der Brust.
 fr-xa-0295; Hüfte; la hanche; ; B1; Gesundheit/Körper; Ma grand-mère s'est cassé la hanche en tombant.; Meine Oma hat sich bei einem Sturz die Hüfte gebrochen.
 fr-xa-0296; Taille; la taille; ; B1; Gesundheit/Körper; Cette jupe est trop serrée à la taille.; Dieser Rock ist an der Taille zu eng.
 fr-xa-0297; Po; les fesses; le derrière; A2; Gesundheit/Körper; En patinant, le petit est tombé sur les fesses.; Beim Eislaufen ist der Kleine auf den Po gefallen.
@@ -316,7 +316,7 @@ fr-xa-0303; Faust; le poing; ; B1; Gesundheit/Körper; De colère, il a tapé du
 fr-xa-0304; Handfläche; la paume; la paume de la main; B2; Gesundheit/Körper; Elle a une petite cicatrice sur la paume.; Sie hat eine kleine Narbe auf der Handfläche.
 fr-xa-0305; Bauchnabel; le nombril; ; B1; Gesundheit/Körper; Ce tee-shirt court laisse voir le nombril.; Dieses kurze T-Shirt lässt den Bauchnabel frei.
 fr-xa-0306; Darm; l'intestin; ; B2; Gesundheit/Körper; Les fibres sont très bonnes pour l'intestin.; Ballaststoffe sind sehr gut für den Darm.
-fr-xa-0307; Blase (Organ); la vessie; ; C1; Gesundheit/Körper; Boire beaucoup d'eau est bon pour la vessie.; Viel Wasser zu trinken ist gut für die Blase.
+fr-xa-0307; Blase (die Harnblase); la vessie; ; C1; Gesundheit/Körper; Boire beaucoup d'eau est bon pour la vessie.; Viel Wasser zu trinken ist gut für die Blase.
 fr-xa-0308; Nerv; le nerf; ; B1; Gesundheit/Körper; Le dentiste a touché un nerf, ça fait mal !; Der Zahnarzt hat einen Nerv getroffen, das tut weh!
 fr-xa-0309; Sehne; le tendon; ; C1; Gesundheit/Körper; Le coureur s'est déchiré un tendon du pied.; Der Läufer hat sich eine Sehne am Fuß gerissen.
 fr-xa-0310; Schädel; le crâne; ; B2; Gesundheit/Körper; Le casque protège le crâne en cas de chute.; Der Helm schützt bei einem Sturz den Schädel.
@@ -330,7 +330,7 @@ fr-xa-0317; Schwellung; le gonflement; l'enflure; B2; Gesundheit/Symptome; Mets 
 fr-xa-0318; geschwollen; enflé; gonflé; B1; Gesundheit/Symptome; Après la chute, sa cheville était très enflée.; Nach dem Sturz war ihr Knöchel stark geschwollen.
 fr-xa-0319; blauer Fleck; le bleu; l'hématome; B1; Gesundheit/Symptome; Je me suis cogné et j'ai un bleu sur la jambe.; Ich habe mich gestoßen und habe einen blauen Fleck am Bein.
 fr-xa-0320; Krampf; la crampe; ; B2; Gesundheit/Symptome; Pendant la nuit, j'ai eu une crampe au mollet.; In der Nacht hatte ich einen Krampf in der Wade.
-fr-xa-0321; Kater (nach Alkohol); la gueule de bois; ; B2; Gesundheit/Symptome; Après la fête, il avait une terrible gueule de bois.; Nach der Party hatte er einen schrecklichen Kater.
+fr-xa-0321; Kater (einen Kater haben); la gueule de bois; ; B2; Gesundheit/Symptome; Après la fête, il avait une terrible gueule de bois.; Nach der Party hatte er einen schrecklichen Kater.
 fr-xa-0322; Verbrennung; la brûlure; ; B1; Gesundheit/Symptome; Mets tout de suite la brûlure sous l'eau froide.; Halte die Verbrennung sofort unter kaltes Wasser.
 fr-xa-0323; Beule; la bosse; ; B1; Gesundheit/Symptome; Il s'est cogné la tête et il a une grosse bosse.; Er hat sich den Kopf gestoßen und hat eine dicke Beule.
 fr-xa-0324; Kratzer; l'égratignure; la griffure; B1; Gesundheit/Symptome; Ce n'est qu'une petite égratignure, ne pleure pas.; Das ist nur ein kleiner Kratzer, wein nicht.
@@ -377,7 +377,7 @@ fr-xa-0364; Hausarzt; le médecin traitant; le médecin de famille, le général
 fr-xa-0365; Kinderarzt; le pédiatre; la pédiatre; B1; Gesundheit/Beim Arzt; Demain, nous emmenons le bébé chez le pédiatre.; Morgen bringen wir das Baby zum Kinderarzt.
 fr-xa-0366; Augenarzt; l'ophtalmologue; l'ophtalmologiste; B1; Gesundheit/Beim Arzt; Je dois prendre rendez-vous chez l'ophtalmologue.; Ich muss einen Termin beim Augenarzt machen.
 fr-xa-0367; Facharzt; le spécialiste; la spécialiste; B2; Gesundheit/Beim Arzt; Mon médecin m'envoie chez un spécialiste du cœur.; Mein Arzt überweist mich an einen Facharzt für das Herz.
-fr-xa-0368; Sprechstunde (Arzt); les heures de consultation; la consultation; B2; Gesundheit/Beim Arzt; Les heures de consultation sont de neuf heures à midi.; Die Sprechstunde ist von neun bis zwölf Uhr.
+fr-xa-0368; Sprechstunde (beim Arzt); les heures de consultation; la consultation; B2; Gesundheit/Beim Arzt; Les heures de consultation sont de neuf heures à midi.; Die Sprechstunde ist von neun bis zwölf Uhr.
 fr-xa-0369; Arztpraxis; le cabinet médical; le cabinet; B1; Gesundheit/Beim Arzt; Le cabinet médical est fermé le mercredi après-midi.; Die Arztpraxis ist mittwochnachmittags geschlossen.
 fr-xa-0370; Untersuchung; l'examen médical; l'examen; B1; Gesundheit/Beim Arzt; L'examen médical n'a duré que dix minutes.; Die Untersuchung hat nur zehn Minuten gedauert.
 fr-xa-0371; Blutprobe; la prise de sang; l'échantillon de sang; B1; Gesundheit/Beim Arzt; Pour la prise de sang, il faut venir à jeun.; Zur Blutprobe muss man nüchtern kommen.
@@ -412,9 +412,9 @@ fr-xa-0396; Antibiotikum; l'antibiotique; ; B2; Gesundheit/Apotheke & Medikament
 fr-xa-0397; Kapsel; la gélule; la capsule; B2; Gesundheit/Apotheke & Medikamente; Prenez une gélule le matin et le soir.; Nehmen Sie morgens und abends eine Kapsel.
 fr-xa-0398; Creme; la crème; ; A2; Gesundheit/Apotheke & Medikamente; Mets un peu de crème sur tes mains sèches.; Trag etwas Creme auf deine trockenen Hände auf.
 fr-xa-0399; Schlaftablette; le somnifère; ; B1; Gesundheit/Apotheke & Medikamente; Elle ne peut pas dormir sans somnifère.; Sie kann ohne Schlaftablette nicht schlafen.
-fr-xa-0400; einnehmen (Medikament); prendre; ; B1; Gesundheit/Apotheke & Medikamente; Prenez ce médicament trois fois par jour.; Nehmen Sie dieses Medikament dreimal täglich ein.
+fr-xa-0400; einnehmen (Tabletten einnehmen); prendre; ; B1; Gesundheit/Apotheke & Medikamente; Prenez ce médicament trois fois par jour.; Nehmen Sie dieses Medikament dreimal täglich ein.
 fr-xa-0401; verschreibungspflichtig; sur ordonnance; ; C1; Gesundheit/Apotheke & Medikamente; Cet antibiotique n'est vendu que sur ordonnance.; Dieses Antibiotikum ist verschreibungspflichtig.
-fr-xa-0402; abnehmen (Gewicht); maigrir; perdre du poids; A2; Gesundheit/Gesunde Lebensweise; J'ai maigri de cinq kilos cet été.; Ich habe diesen Sommer fünf Kilo abgenommen.
+fr-xa-0402; abnehmen (fünf Kilo abnehmen); maigrir; perdre du poids; A2; Gesundheit/Gesunde Lebensweise; J'ai maigri de cinq kilos cet été.; Ich habe diesen Sommer fünf Kilo abgenommen.
 fr-xa-0403; rauchen; fumer; ; A2; Gesundheit/Gesunde Lebensweise; Mon père a arrêté de fumer il y a dix ans.; Mein Vater hat vor zehn Jahren aufgehört zu rauchen.
 fr-xa-0404; Nichtraucher; le non-fumeur; la non-fumeuse; B1; Gesundheit/Gesunde Lebensweise; Je suis non-fumeur depuis mes trente ans.; Ich bin seit meinem dreißigsten Geburtstag Nichtraucher.
 fr-xa-0405; Raucher; le fumeur; la fumeuse; A2; Gesundheit/Gesunde Lebensweise; Les fumeurs doivent sortir sur la terrasse.; Die Raucher müssen auf die Terrasse gehen.

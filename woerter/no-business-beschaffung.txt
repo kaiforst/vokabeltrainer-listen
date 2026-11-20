@@ -15,7 +15,7 @@ no-ba-0012; Anfrage; en forespørsel; en henvendelse; B1; Business/Beschaffung/A
 no-ba-0013; Angebotsanfrage; en tilbudsforespørsel; ; B2; Business/Beschaffung/Ausschreibung; Tilbudsforespørselen ble sendt til fem selskaper.; Die Angebotsanfrage wurde an fünf Unternehmen gesendet.
 no-ba-0014; Teilnahmeantrag; en søknad om deltakelse; ; C2; Business/Beschaffung/Ausschreibung; Søknaden om deltakelse må være levert før fredag middag.; Unser Teilnahmeantrag muss vor Freitagmittag eingehen.
 no-ba-0015; Bieterfragen; spørsmål fra tilbydere; ; C1; Business/Beschaffung/Ausschreibung; Alle spørsmål fra tilbydere besvares skriftlig.; Alle Bieterfragen werden schriftlich beantwortet.
-no-ba-0016; Los (Ausschreibung); en delkontrakt; ; B2; Business/Beschaffung/Ausschreibung; Prosjektet ble delt opp i en delkontrakt for hver region.; Das Projekt wurde in ein Los pro Region aufgeteilt.
+no-ba-0016; Los (ein Los einer Ausschreibung); en delkontrakt; ; B2; Business/Beschaffung/Ausschreibung; Prosjektet ble delt opp i en delkontrakt for hver region.; Das Projekt wurde in ein Los pro Region aufgeteilt.
 no-ba-0017; Eignungskriterien; kvalifikasjonskrav; kvalifikasjonskriterier; C1; Business/Beschaffung/Ausschreibung; Kvalifikasjonskravene omfatter erfaring og økonomisk styrke.; Die Eignungskriterien umfassen Erfahrung und finanzielle Stärke.
 no-ba-0018; Frist; en frist; en deadline; B1; Business/Beschaffung/Ausschreibung; Fristen for spørsmål er neste onsdag klokka tolv.; Die Frist für Fragen ist nächsten Mittwoch um zwölf.
 no-ba-0019; verlängern; å forlenge; ; A2; Business/Beschaffung/Ausschreibung; De bestemte å forlenge fristen med en uke.; Sie beschlossen, die Frist um eine Woche zu verlängern.
@@ -23,7 +23,7 @@ no-ba-0020; veröffentlichen; å publisere; å utgi; B1; Business/Beschaffung/Au
 no-ba-0021; Angebot; et tilbud; ; A2; Business/Beschaffung/Angebot & Bewertung; Tilbudet deres var billigere, men teknisk mye svakere.; Ihr Angebot war billiger, aber technisch viel schwächer.
 no-ba-0022; Angebotsabgabe; en innlevering av tilbud; en tilbudsinnlevering; B2; Business/Beschaffung/Angebot & Bewertung; Innlevering av tilbud er bare mulig via nettportalen.; Die Angebotsabgabe ist nur über das Online-Portal möglich.
 no-ba-0023; Bieter; en tilbyder; ; B2; Business/Beschaffung/Angebot & Bewertung; Syv tilbydere leverte tilbud innen fristen.; Sieben Bieter reichten fristgerecht ein Angebot ein.
-no-ba-0024; Preis (Kosten); en pris; ; A1; Business/Beschaffung/Angebot & Bewertung; Prisen for programvaren er for høy.; Der Preis für die Software ist zu hoch.
+no-ba-0024; Preis (ein günstiger Preis); en pris; ; A1; Business/Beschaffung/Angebot & Bewertung; Prisen for programvaren er for høy.; Der Preis für die Software ist zu hoch.
 no-ba-0025; Preisliste; ei prisliste; en prisliste; A2; Business/Beschaffung/Angebot & Bewertung; Send oss gjerne den nyeste prislisten for kabler.; Bitte senden Sie uns Ihre aktuelle Preisliste für Kabel.
 no-ba-0026; Kosten; kostnader; utgifter; A2; Business/Beschaffung/Angebot & Bewertung; Kostnadene for transporten er ikke inkludert ennå.; Die Kosten für den Transport sind noch nicht enthalten.
 no-ba-0027; Kostenvoranschlag; et kostnadsoverslag; ; B2; Business/Beschaffung/Angebot & Bewertung; Verkstedet laget et kostnadsoverslag for reparasjonen.; Die Werkstatt erstellte einen Kostenvoranschlag für die Reparatur.
@@ -45,11 +45,11 @@ no-ba-0042; Preis-Leistungs-Verhältnis; valuta for pengene; forholdet mellom pr
 no-ba-0043; Angebotsöffnung; en tilbudsåpning; ; B2; Business/Beschaffung/Angebot & Bewertung; Tilbudsåpningen foregikk i et lukket møte.; Die Angebotsöffnung fand in einer geschlossenen Sitzung statt.
 no-ba-0044; vergleichen; å sammenligne; ; A2; Business/Beschaffung/Angebot & Bewertung; Vi sammenligner tilbudene før vi tar en beslutning.; Wir vergleichen die Angebote, bevor wir eine Entscheidung treffen.
 no-ba-0045; Vergleich; en sammenligning; en sammenlikning; B1; Business/Beschaffung/Angebot & Bewertung; Sammenligningen av alle tilbudene tok nesten en måned.; Der Vergleich aller Angebote dauerte fast einen Monat.
-no-ba-0046; Zuschlag (Ausschreibung); en tildeling; ; C1; Business/Beschaffung/Zuschlag & Vergabe; Tildelingen gikk til den regionale leverandøren.; Der Zuschlag ging an den regionalen Lieferanten.
+no-ba-0046; Zuschlag (den Zuschlag erhalten); en tildeling; ; C1; Business/Beschaffung/Zuschlag & Vergabe; Tildelingen gikk til den regionale leverandøren.; Der Zuschlag ging an den regionalen Lieferanten.
 no-ba-0047; den Zuschlag erhalten; å få tildelt kontrakten; å vinne kontrakten; B2; Business/Beschaffung/Zuschlag & Vergabe; Konsortiet vårt håper å få tildelt kontrakten neste måned.; Unser Konsortium hofft, nächsten Monat den Zuschlag zu erhalten.
 no-ba-0048; Vergabe; en tildeling; en kontraktstildeling; C1; Business/Beschaffung/Zuschlag & Vergabe; Tildelingen av prosjektet ble forsinket på grunn av klager.; Die Vergabe des Projekts verzögerte sich durch Beschwerden.
 no-ba-0049; Vergabeverfahren; en anskaffelsesprosedyre; ; C1; Business/Beschaffung/Zuschlag & Vergabe; Anskaffelsesprosedyren må følge strenge europeiske regler.; Das Vergabeverfahren folgt strengen europäischen Regeln.
-no-ba-0050; vergeben (Auftrag); å tildele; ; B2; Business/Beschaffung/Zuschlag & Vergabe; Byen vil tildele oppdraget tidlig på forsommeren.; Die Stadt wird den Auftrag im Frühsommer vergeben.
+no-ba-0050; vergeben (einen Auftrag vergeben); å tildele; ; B2; Business/Beschaffung/Zuschlag & Vergabe; Byen vil tildele oppdraget tidlig på forsommeren.; Die Stadt wird den Auftrag im Frühsommer vergeben.
 no-ba-0051; Auftrag; et oppdrag; en kontrakt; B1; Business/Beschaffung/Zuschlag & Vergabe; Vi har vunnet et stort oppdrag for den nye terminalen.; Wir haben einen großen Auftrag für das neue Terminal gewonnen.
 no-ba-0052; Auftraggeber; en oppdragsgiver; ; B1; Business/Beschaffung/Zuschlag & Vergabe; Oppdragsgiveren forventer en ukentlig rapport om fremdriften.; Der Auftraggeber erwartet einen wöchentlichen Bericht über den Fortschritt.
 no-ba-0053; Auftragnehmer; en oppdragstaker; ; B1; Business/Beschaffung/Zuschlag & Vergabe; Oppdragstakeren er ansvarlig for alle sikkerhetstiltak.; Der Auftragnehmer ist für alle Sicherheitsmaßnahmen verantwortlich.
@@ -57,7 +57,7 @@ no-ba-0054; beauftragen; å engasjere; ; B2; Business/Beschaffung/Zuschlag & Ver
 no-ba-0055; benachrichtigen; å varsle; å underrette; B1; Business/Beschaffung/Zuschlag & Vergabe; Vi varsler alle tilbydere om avgjørelsen i morgen.; Wir werden morgen alle Bieter über die Entscheidung benachrichtigen.
 no-ba-0056; ablehnen; å avvise; å avslå; B1; Business/Beschaffung/Zuschlag & Vergabe; Utvalget måtte avvise to ufullstendige tilbud.; Der Ausschuss musste zwei unvollständige Angebote ablehnen.
 no-ba-0057; Ablehnung; et avslag; en avvisning; B1; Business/Beschaffung/Zuschlag & Vergabe; Et avslag må alltid oppgi minst én begrunnelse.; Das Ablehnungsschreiben muss mindestens einen Grund nennen.
-no-ba-0058; Wettbewerb (Konkurrenz); en konkurranse; ; B1; Business/Beschaffung/Zuschlag & Vergabe; Sterk konkurranse mellom leverandører senker vanligvis prisene.; Starker Wettbewerb zwischen Lieferanten senkt normalerweise die Preise.
+no-ba-0058; Wettbewerb (zwischen Firmen); en konkurranse; ; B1; Business/Beschaffung/Zuschlag & Vergabe; Sterk konkurranse mellom leverandører senker vanligvis prisene.; Starker Wettbewerb zwischen Lieferanten senkt normalerweise die Preise.
 no-ba-0059; Wettbewerber; en konkurrent; ; B1; Business/Beschaffung/Zuschlag & Vergabe; Vår største konkurrent tilbød en mye kortere leveringstid.; Unser Hauptwettbewerber bot eine viel kürzere Lieferzeit an.
 no-ba-0060; unterschreiben; å signere; å skrive under; A2; Business/Beschaffung/Zuschlag & Vergabe; Begge partnere skal signere kontrakten på fredag.; Beide Partner werden den Vertrag am Freitag unterschreiben.
 no-ba-0061; Vergaberecht; et anskaffelsesregelverk; en anskaffelsesrett; C2; Business/Beschaffung/Vergaberecht; Anskaffelsesregelverket gjelder for kontrakter over en viss verdi.; Das Vergaberecht gilt oberhalb bestimmter Auftragswerte.
@@ -89,7 +89,7 @@ no-ba-0086; Referenz; en referanse; ; B1; Business/Beschaffung/Lieferanten; Oppg
 no-ba-0087; Zertifikat; et sertifikat; ; B1; Business/Beschaffung/Lieferanten; Leverandøren har et sertifikat for kvalitetsstyring.; Der Lieferant besitzt ein Zertifikat für Qualitätsmanagement.
 no-ba-0088; Qualitätsmanagement; en kvalitetsstyring; ; B2; Business/Beschaffung/Lieferanten; God kvalitetsstyring forhindrer dyre feil i produksjonen.; Gutes Qualitätsmanagement verhindert teure Fehler in der Produktion.
 no-ba-0089; Qualitätssicherung; en kvalitetssikring; ; B2; Business/Beschaffung/Lieferanten; Kvalitetssikringen tester en stikkprøve fra hver leveranse.; Die Qualitätssicherung testet eine Stichprobe aus jeder Lieferung.
-no-ba-0090; Muster (Warenprobe); en prøve; en vareprøve; B1; Business/Beschaffung/Lieferanten; Send oss en prøve før vi bestiller store mengder.; Senden Sie uns ein Muster, bevor wir große Mengen bestellen.
+no-ba-0090; Muster (ein kostenloses Muster); en prøve; en vareprøve; B1; Business/Beschaffung/Lieferanten; Send oss en prøve før vi bestiller store mengder.; Senden Sie uns ein Muster, bevor wir große Mengen bestellen.
 no-ba-0091; Katalog; en katalog; ; A2; Business/Beschaffung/Lieferanten; Den nye katalogen viser alle produktene med priser.; Der neue Katalog zeigt alle Produkte mit Preisen.
 no-ba-0092; Konditionen; betingelser; vilkår; B2; Business/Beschaffung/Lieferanten; Vi har forhandlet fram bedre betingelser for neste år.; Wir haben bessere Konditionen für das kommende Jahr ausgehandelt.
 no-ba-0093; verhandeln; å forhandle; ; B1; Business/Beschaffung/Lieferanten; Vi skal forhandle om prisene med tre leverandører.; Wir werden die Preise mit drei Lieferanten verhandeln.
@@ -98,7 +98,7 @@ no-ba-0095; Geschäftsbeziehung; et forretningsforhold; ; B2; Business/Beschaffu
 no-ba-0096; Bestellung; en bestilling; en ordre; B2; Business/Beschaffung/Bestellung & Lieferung; Bestillingen ble godkjent av avdelingslederen i går.; Die Bestellung wurde vom Abteilungsleiter freigegeben.
 no-ba-0097; bestellen; å bestille; ; A1; Business/Beschaffung/Bestellung & Lieferung; Vi bestiller nytt papir til kontoret hver måned.; Wir bestellen jeden Monat neues Papier für das Büro.
 no-ba-0098; kaufen; å kjøpe; ; A1; Business/Beschaffung/Bestellung & Lieferung; Firmaet vil kjøpe tjue nye bærbare datamaskiner.; Die Firma möchte zwanzig neue Laptops kaufen.
-no-ba-0099; Einkauf (Abteilung); en innkjøpsavdeling; ; B1; Business/Beschaffung/Bestellung & Lieferung; Innkjøpsavdelingen kontrollerer hver bestilling over fem tusen euro.; Der Einkauf prüft jede Bestellung über fünftausend Euro.
+no-ba-0099; Einkauf (im Einkauf arbeiten); en innkjøpsavdeling; ; B1; Business/Beschaffung/Bestellung & Lieferung; Innkjøpsavdelingen kontrollerer hver bestilling over fem tusen euro.; Der Einkauf prüft jede Bestellung über fünftausend Euro.
 no-ba-0100; Beschaffung; en anskaffelse; ; B2; Business/Beschaffung/Bestellung & Lieferung; Anskaffelsen av reservedeler tar lengre tid enn planlagt.; Die Beschaffung von Ersatzteilen dauert länger als geplant.
 no-ba-0101; beschaffen; å anskaffe; å skaffe; C1; Business/Beschaffung/Bestellung & Lieferung; Vi må anskaffe spesialkabler til kontrollrommet.; Wir müssen spezielle Kabel für den Kontrollraum beschaffen.
 no-ba-0102; Ware; en vare; ; A2; Business/Beschaffung/Bestellung & Lieferung; Varene kom i perfekt stand i morges.; Die Ware kam heute Morgen in einwandfreiem Zustand an.
@@ -127,9 +127,9 @@ no-ba-0124; Mängelrüge; en reklamasjon; ; C1; Business/Beschaffung/Bestellung 
 no-ba-0125; Wareneingang; et varemottak; ; B2; Business/Beschaffung/Bestellung & Lieferung; Alt som kommer inn i varemottaket registreres i systemet.; Jeder Wareneingang wird im System erfasst.
 no-ba-0126; Lieferkette; ei forsyningskjede; en forsyningskjede; B2; Business/Beschaffung/Lieferkette; En stabil forsyningskjede krever mer enn én leverandør.; Eine stabile Lieferkette braucht mehr als einen Lieferanten.
 no-ba-0127; Logistik; en logistikk; ; B1; Business/Beschaffung/Lieferkette; Kostnadene til logistikk økte sterkt på grunn av drivstoffprisene.; Die Logistikkosten stiegen wegen der Kraftstoffpreise stark an.
-no-ba-0128; Lager (Waren); et lager; et varelager; A2; Business/Beschaffung/Lieferkette; Lageret nær flyplassen oppbevarer alle reservedelene.; Das Lager nahe dem Flughafen bewahrt alle Ersatzteile auf.
+no-ba-0128; Lager (Waren im Lager); et lager; et varelager; A2; Business/Beschaffung/Lieferkette; Lageret nær flyplassen oppbevarer alle reservedelene.; Das Lager nahe dem Flughafen bewahrt alle Ersatzteile auf.
 no-ba-0129; Lagerbestand; en lagerbeholdning; ; B2; Business/Beschaffung/Lieferkette; Lagerbeholdningen blir kontrollert automatisk hver eneste natt.; Der Lagerbestand wird jede Nacht automatisch geprüft.
-no-ba-0130; Bestand (Lager); en beholdning; ; B1; Business/Beschaffung/Lieferkette; Beholdningen vår av kabler rekker i omtrent to måneder.; Unser Bestand an Kabeln reicht etwa zwei Monate.
+no-ba-0130; Bestand (der Bestand im Lager); en beholdning; ; B1; Business/Beschaffung/Lieferkette; Beholdningen vår av kabler rekker i omtrent to måneder.; Unser Bestand an Kabeln reicht etwa zwei Monate.
 no-ba-0131; Nachschub; en etterfylling; et påfyll; B2; Business/Beschaffung/Lieferkette; Etterfyllingen utløses når beholdningen faller under minimum.; Der Nachschub wird ausgelöst, wenn der Bestand unter das Minimum fällt.
 no-ba-0132; Engpass; en flaskehals; ; C1; Business/Beschaffung/Lieferkette; Flaskehalsen i produksjonen var den gamle pakkemaskinen.; Der Engpass in der Produktion war die alte Verpackungsmaschine.
 no-ba-0133; Lieferengpass; et leveringsproblem; ; C1; Business/Beschaffung/Lieferkette; Leveringsproblemene med databrikker rammet mange bilprodusenter hardt.; Die Lieferprobleme bei Chips trafen viele Autohersteller hart.

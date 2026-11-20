@@ -42,14 +42,14 @@ no-kg-0039; Bauchschmerzen; magesmerter; vondt i magen; A2; Gesundheit/Symptome;
 no-kg-0040; Halsschmerzen; vondt i halsen; ; A2; Gesundheit/Symptome; Varm te hjelper mot vondt i halsen.; Warmer Tee hilft gegen Halsschmerzen.
 no-kg-0041; Grippe; en influensa; en grippe; A2; Gesundheit/Krankheiten; Mange mennesker får influensa i januar måned.; Viele Menschen bekommen im Januar die Grippe.
 no-kg-0042; Medikament; et medikament; en medisin; A2; Gesundheit/Apotheke & Medikamente; Dette medikamentet hjelper raskt mot smertene.; Dieses Medikament hilft schnell gegen die Schmerzen.
-no-kg-0043; Rezept (Arzt); en resept; ; A2; Gesundheit/Apotheke & Medikamente; Du trenger en resept for disse tablettene.; Für diese Tabletten brauchen Sie ein Rezept.
+no-kg-0043; Rezept (ein Rezept vom Arzt); en resept; ; A2; Gesundheit/Apotheke & Medikamente; Du trenger en resept for disse tablettene.; Für diese Tabletten brauchen Sie ein Rezept.
 no-kg-0044; Termin; en avtale; en time; A2; Gesundheit/Beim Arzt; Jeg har en avtale hos legen fredag morgen.; Ich habe einen Termin für Freitagmorgen gemacht.
 no-kg-0045; Krankenschwester; en sykepleier; ; A2; Gesundheit/Krankenhaus; Sykepleieren ser til pasientene hver time.; Die Krankenschwester sieht jede Stunde nach den Patienten.
 no-kg-0046; Patient; en pasient; ; A2; Gesundheit/Krankenhaus; Pasienten har det mye bedre i dag.; Dem Patienten geht es heute viel besser.
 no-kg-0047; Wartezimmer; et venterom; ; A2; Gesundheit/Beim Arzt; Venterommet på legekontoret var fullt i morges.; Das Wartezimmer war heute Morgen voll.
 no-kg-0048; Spritze; ei sprøyte; en sprøyte; A2; Gesundheit/Beim Arzt; Sprøyta gjorde bare vondt i ett sekund.; Die Spritze hat nur eine Sekunde wehgetan.
 no-kg-0049; Pflaster; et plaster; ; A2; Gesundheit/Apotheke & Medikamente; Sett et plaster på det lille kuttet.; Kleb ein Pflaster auf den kleinen Schnitt.
-no-kg-0050; Verband (Wunde); en bandasje; ; A2; Gesundheit/Beim Arzt; Legen skiftet bandasjen på hånden min.; Der Arzt wechselte den Verband an meiner Hand.
+no-kg-0050; Verband (einen Verband anlegen); en bandasje; ; A2; Gesundheit/Beim Arzt; Legen skiftet bandasjen på hånden min.; Der Arzt wechselte den Verband an meiner Hand.
 no-kg-0051; Salbe; ei salve; en salve; A2; Gesundheit/Apotheke & Medikamente; Bruk denne salva to ganger om dagen.; Benutzen Sie diese Salbe zweimal am Tag.
 no-kg-0052; Unfall; en ulykke; ei ulykke; A2; Gesundheit/Krankenhaus; Etter ulykken trengte han raskt hjelp.; Nach dem Unfall brauchte er schnell Hilfe.
 no-kg-0053; Notruf; et nødanrop; ; A2; Gesundheit/Krankenhaus; Hun foretok et nødanrop med en gang.; Sie setzte sofort einen Notruf ab.
@@ -144,7 +144,7 @@ no-kg-0141; Heilungsprozess; en tilhelingsprosess; ; C1; Gesundheit/Krankenhaus;
 no-kg-0142; Rehabilitation; en rehabilitering; ; C1; Gesundheit/Krankenhaus; Etter operasjonen startet hun straks rehabiliteringen.; Nach der Operation begann sie sofort mit der Rehabilitation.
 no-kg-0143; Arzneimittel; et legemiddel; ; C1; Gesundheit/Apotheke & Medikamente; Hvert nytt legemiddel testes i mange år.; Jedes neue Arzneimittel wird jahrelang getestet.
 no-kg-0144; Anamnese; en anamnese; ; C2; Gesundheit/Beim Arzt; Legen tok først en grundig anamnese.; Der Arzt erhob zuerst eine ausführliche Anamnese.
-no-kg-0145; Prognose (Medizin); en prognose; ; C2; Gesundheit/Krankenhaus; Til tross for sykdommen er prognosen god.; Trotz der Krankheit ist die Prognose gut.
+no-kg-0145; Prognose (die Prognose des Arztes); en prognose; ; C2; Gesundheit/Krankenhaus; Til tross for sykdommen er prognosen god.; Trotz der Krankheit ist die Prognose gut.
 no-kg-0146; bösartig; ondartet; ; C2; Gesundheit/Krankheiten; Heldigvis var svulsten i brystet ikke ondartet.; Zum Glück war der Tumor nicht bösartig.
 no-kg-0147; gutartig; godartet; ; C2; Gesundheit/Krankheiten; Svulsten viste seg å være godartet.; Die Geschwulst erwies sich als gutartig.
 no-kg-0148; Beipackzettel; et pakningsvedlegg; ; C2; Gesundheit/Apotheke & Medikamente; Les pakningsvedlegget før du tar medisinen.; Lesen Sie vor der Einnahme den Beipackzettel.

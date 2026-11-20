@@ -18,7 +18,7 @@ no-nt-0015; Affe; en ape; ; A1; Natur/Tiere/Wildtiere; Apen hopper fra tre til t
 no-nt-0016; Baum; et tre; ; A1; Natur/Pflanzen; Det gamle treet gir oss skygge om sommeren.; Der alte Baum spendet uns im Sommer Schatten.
 no-nt-0017; Blume; en blomst; ; A1; Natur/Pflanzen; Hun plukket en blomst til moren sin.; Sie pflückte eine Blume für ihre Mutter.
 no-nt-0018; Gras; et gress; ; A1; Natur/Pflanzen; Gresset er fortsatt vått etter regnet.; Das Gras ist noch nass vom Regen.
-no-nt-0019; Blatt (Baum); et blad; ; A1; Natur/Pflanzen; Et gult blad falt ned fra treet.; Ein gelbes Blatt fiel vom Baum.
+no-nt-0019; Blatt (ein Blatt am Baum); et blad; ; A1; Natur/Pflanzen; Et gult blad falt ned fra treet.; Ein gelbes Blatt fiel vom Baum.
 no-nt-0020; Wald; en skog; ; A1; Natur/Landschaft; Vi går en tur i skogen hver søndag.; Wir machen jeden Sonntag einen Spaziergang im Wald.
 no-nt-0021; Berg; et fjell; ; A1; Natur/Landschaft; Fjellet er dekket av snø om vinteren.; Der Berg ist im Winter mit Schnee bedeckt.
 no-nt-0022; See; en innsjø; en sjø; A1; Natur/Landschaft; Vi bader i innsjøen hver sommer.; Wir schwimmen jeden Sommer im See.
@@ -38,7 +38,7 @@ no-nt-0035; Löwe; en løve; ; A2; Natur/Tiere/Wildtiere; Løven hviler i skygge
 no-nt-0036; Tiger; en tiger; ; A2; Natur/Tiere/Wildtiere; Tigeren er en utmerket og tålmodig jeger.; Der Tiger ist ein hervorragender und geduldiger Jäger.
 no-nt-0037; Elefant; en elefant; ; A2; Natur/Tiere/Wildtiere; Elefanten drikker veldig mye vann hver dag.; Der Elefant trinkt täglich sehr viel Wasser.
 no-nt-0038; Giraffe; en sjiraff; ; A2; Natur/Tiere/Wildtiere; Sjiraffen spiser blader fra de høyeste trærne.; Die Giraffe frisst Blätter von den höchsten Bäumen.
-no-nt-0039; Schlange (Tier); ei slange; en slange; A2; Natur/Tiere/Wildtiere; Ei grønn slange lå på den varme steinen.; Eine grüne Schlange lag auf dem warmen Stein.
+no-nt-0039; Schlange (eine giftige Schlange); ei slange; en slange; A2; Natur/Tiere/Wildtiere; Ei grønn slange lå på den varme steinen.; Eine grüne Schlange lag auf dem warmen Stein.
 no-nt-0040; Frosch; en frosk; ; A2; Natur/Tiere/Wildtiere; Frosken hopper med et plask ut i dammen.; Der Frosch springt mit einem Platscher in den Teich.
 no-nt-0041; Biene; ei bie; en bie; A2; Natur/Tiere/Insekten; Bia flyr fra blomst til blomst.; Die Biene fliegt von Blüte zu Blüte.
 no-nt-0042; Fliege; ei flue; en flue; A2; Natur/Tiere/Insekten; Ei flue summer rundt i kjøkkenet.; Eine Fliege summt durch die Küche.
@@ -74,7 +74,7 @@ no-nt-0071; Raubtier; et rovdyr; ; B1; Natur/Tiere/Wildtiere; Gaupa er et sky ro
 no-nt-0072; Beute; et bytte; ; B1; Natur/Tiere/Wildtiere; Ugla nærmer seg byttet sitt lydløst.; Die Eule nähert sich lautlos ihrer Beute.
 no-nt-0073; Herde; en flokk; ; B1; Natur/Tiere/Wildtiere; En flokk kyr blokkerte den lille veien.; Eine Herde Kühe blockierte die kleine Straße.
 no-nt-0074; Schwarm; en sverm; ; B1; Natur/Tiere/Insekten; En sverm med bier slo seg ned i det gamle treet.; Ein Bienenschwarm ließ sich im alten Baum nieder.
-no-nt-0075; Art (Biologie); en art; ; B1; Natur/Tiere/Wildtiere; Denne arten av sommerfugl er veldig sjelden her.; Diese Schmetterlingsart ist hier sehr selten.
+no-nt-0075; Art (eine bedrohte Tierart); en art; ; B1; Natur/Tiere/Wildtiere; Denne arten av sommerfugl er veldig sjelden her.; Diese Schmetterlingsart ist hier sehr selten.
 no-nt-0076; Lebensraum; et leveområde; et habitat; B1; Natur/Tiere/Wildtiere; Våtmarker er et viktig leveområde for mange fugler.; Feuchtgebiete sind ein wichtiger Lebensraum für viele Vögel.
 no-nt-0077; Umwelt; et miljø; ; B1; Natur/Landschaft; Vi bør alle ta bedre vare på miljøet.; Wir sollten alle unsere Umwelt besser schützen.
 no-nt-0078; Naturschutz; et naturvern; ; B1; Natur/Landschaft; Naturvern begynner allerede i vår egen hage.; Naturschutz beginnt im eigenen Garten.
@@ -87,14 +87,14 @@ no-nt-0084; Teich; en dam; ; B1; Natur/Landschaft; I dammen vår bor det frosker
 no-nt-0085; Wüste; en ørken; ; B1; Natur/Landschaft; I den tørre ørkenen vokser det nesten ingenting.; In der trockenen Wüste wächst kaum etwas.
 no-nt-0086; Höhle; ei hule; en hule; B1; Natur/Landschaft; Flaggermus tilbringer vinteren i denne hulen.; Fledermäuse überwintern in dieser Höhle.
 no-nt-0087; Gipfel; en topp; en fjelltopp; B1; Natur/Landschaft; Etter fem timer nådde vi toppen.; Nach fünf Stunden erreichten wir den Gipfel.
-no-nt-0088; Boden (Erde); ei jord; en jord; B1; Natur/Pflanzen; Sunn jord er full av bittesmå organismer.; Gesunder Boden ist voller winziger Lebewesen.
+no-nt-0088; Boden (fruchtbarer Boden); ei jord; en jord; B1; Natur/Pflanzen; Sunn jord er full av bittesmå organismer.; Gesunder Boden ist voller winziger Lebewesen.
 no-nt-0089; Samen; et frø; ; B1; Natur/Pflanzen; Vi sådde frøene i hagen om våren.; Wir haben die Samen im Frühjahr im Garten ausgesät.
-no-nt-0090; Stamm (Baum); en stamme; ; B1; Natur/Pflanzen; Stammen på bøketreet er glatt og grå.; Der Stamm der Buche ist glatt und grau.
+no-nt-0090; Stamm (der Stamm eines Baumes); en stamme; ; B1; Natur/Pflanzen; Stammen på bøketreet er glatt og grå.; Der Stamm der Buche ist glatt und grau.
 no-nt-0091; Rinde; en bark; ; B1; Natur/Pflanzen; Rådyr spiser noen ganger barken på unge trær.; Rehe fressen manchmal die Rinde junger Bäume.
 no-nt-0092; blühen; å blomstre; ; B1; Natur/Pflanzen; Kirsebærtrærne blomstrer i slutten av april.; Die Kirschbäume blühen Ende April.
 no-nt-0093; Eiche; ei eik; en eik; B1; Natur/Pflanzen; Den gamle eika er over tre hundre år gammel.; Die alte Eiche ist über dreihundert Jahre alt.
 no-nt-0094; Birke; ei bjørk; en bjørk; B1; Natur/Pflanzen; Ei bjørk kjenner man igjen på den hvite barken.; Eine Birke erkennt man an ihrer weißen Rinde.
-no-nt-0095; Kiefer (Baum); ei furu; en furu; B1; Natur/Pflanzen; Furua vokser godt på sandholdig jord.; Die Kiefer wächst gut auf sandigem Boden.
+no-nt-0095; Kiefer (Kiefern im Wald); ei furu; en furu; B1; Natur/Pflanzen; Furua vokser godt på sandholdig jord.; Die Kiefer wächst gut auf sandigem Boden.
 no-nt-0096; Kralle; ei klo; en klo; B2; Natur/Tiere/Wildtiere; Hauken grep musa med de skarpe klørne sine.; Der Habicht packte die Maus mit seinen scharfen Krallen.
 no-nt-0097; Geweih; et gevir; ; B2; Natur/Tiere/Wildtiere; Hjorten mister geviret sitt hvert eneste år.; Der Hirsch verliert jedes Jahr sein Geweih.
 no-nt-0098; Huf; en hov; ; B2; Natur/Tiere/Haustiere; Hovslageren sjekket den venstre hoven til hesten.; Der Hufschmied prüfte den linken Huf des Pferdes.
@@ -142,7 +142,7 @@ no-nt-0139; Artenschutz; et artsvern; ; C1; Natur/Tiere/Wildtiere; Strengt artsv
 no-nt-0140; Monokultur; en monokultur; ; C1; Natur/Pflanzen; En monokultur er mye mer utsatt for skadedyr.; Eine Monokultur ist deutlich anfälliger für Schädlinge.
 no-nt-0141; Photosynthese; en fotosyntese; ; C1; Natur/Pflanzen; Gjennom fotosyntese gjør planter lys om til energi.; Durch Photosynthese wandeln Pflanzen Licht in Energie um.
 no-nt-0142; Keimling; ei spire; en spire, en kimplante; C1; Natur/Pflanzen; Den lille spiren trenger varme og jevn fuktighet.; Der winzige Keimling braucht Wärme und gleichmäßige Feuchtigkeit.
-no-nt-0143; Bestand (Tiere); en bestand; ; C1; Natur/Tiere/Wildtiere; Bestanden av ulv i dette området vokser sakte.; Der Bestand an Wölfen wächst in dieser Region langsam.
+no-nt-0143; Bestand (der Bestand an Wölfen); en bestand; ; C1; Natur/Tiere/Wildtiere; Bestanden av ulv i dette området vokser sakte.; Der Bestand an Wölfen wächst in dieser Region langsam.
 no-nt-0144; Renaturierung; en naturrestaurering; ; C2; Natur/Landschaft; Naturrestaureringen av elva tok ti år.; Die Renaturierung des Flusses dauerte zehn Jahre.
 no-nt-0145; Zersiedelung; en byspredning; ; C2; Natur/Landschaft; Byspredningen spiser seg inn i det åpne landskapet.; Die Zersiedelung frisst sich in die offene Landschaft.
 no-nt-0146; Flächenversiegelung; tette flater; ; C2; Natur/Landschaft; Tette flater hindrer regnvann i å trenge ned i grunnvannet.; Versiegelte Flächen verhindern, dass Regenwasser ins Grundwasser eindringt.

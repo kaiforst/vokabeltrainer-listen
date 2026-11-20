@@ -5,8 +5,8 @@ sf-0003; schwimmen; to swim; ; A1; Freizeit/Sport/Sportarten; I swim in the lake
 sf-0004; laufen; to run; ; A1; Freizeit/Sport/Training; He runs three kilometres every morning.; Er läuft jeden Morgen drei Kilometer.
 sf-0005; spielen; to play; ; A1; Freizeit/Sport/Sportarten; The children play tennis after school.; Die Kinder spielen nach der Schule Tennis.
 sf-0006; Tennis; tennis; ; A1; Freizeit/Sport/Sportarten; She plays tennis with her brother on Sundays.; Sie spielt sonntags mit ihrem Bruder Tennis.
-sf-0007; Spiel (Sport); match; game; A1; Freizeit/Sport/Wettkampf; The game starts at three o'clock today.; Das Spiel beginnt heute um drei Uhr.
-sf-0008; Tor (Sport); goal; ; A1; Freizeit/Sport/Wettkampf; Our team scored a goal in the last minute.; Unsere Mannschaft schoss in der letzten Minute ein Tor.
+sf-0007; Spiel (ein Fußballspiel ansehen); match; game; A1; Freizeit/Sport/Wettkampf; The game starts at three o'clock today.; Das Spiel beginnt heute um drei Uhr.
+sf-0008; Tor (ein Tor schießen); goal; ; A1; Freizeit/Sport/Wettkampf; Our team scored a goal in the last minute.; Unsere Mannschaft schoss in der letzten Minute ein Tor.
 sf-0009; Mannschaft; team; ; A1; Freizeit/Sport/Verein; Our team trains twice a week.; Unsere Mannschaft trainiert zweimal pro Woche.
 sf-0010; gewinnen; to win; ; A1; Freizeit/Sport/Wettkampf; We want to win the next game.; Wir wollen das nächste Spiel gewinnen.
 sf-0011; verlieren; to lose; ; A1; Freizeit/Sport/Wettkampf; Nobody likes to lose an important game.; Niemand verliert gern ein wichtiges Spiel.
@@ -60,19 +60,19 @@ sf-0058; Badeanzug; swimsuit; bathing suit; A2; Freizeit/Sport/Ausrüstung; Don'
 sf-0059; Helm; helmet; ; A2; Freizeit/Sport/Ausrüstung; Always wear a helmet on your bike.; Trag auf dem Fahrrad immer einen Helm.
 sf-0060; fit; fit; in shape; A2; Freizeit/Sport/Fitnessstudio; Regular training keeps you fit and strong.; Regelmäßiges Training hält dich fit und stark.
 sf-0061; Ausdauer; stamina; endurance; B1; Freizeit/Sport/Training; Long runs build stamina over the months.; Lange Läufe bauen über Monate Ausdauer auf.
-sf-0062; Kraft (körperlich); strength; power; B1; Freizeit/Sport/Training; You need strength and technique for climbing.; Zum Klettern braucht man Kraft und Technik.
+sf-0062; Kraft (viel Kraft in den Armen); strength; power; B1; Freizeit/Sport/Training; You need strength and technique for climbing.; Zum Klettern braucht man Kraft und Technik.
 sf-0063; Beweglichkeit; flexibility; mobility; B1; Freizeit/Sport/Training; Yoga improves flexibility and inner calm.; Yoga verbessert die Beweglichkeit und die innere Ruhe.
 sf-0064; Geschwindigkeit; speed; ; B1; Freizeit/Sport/Training; His speed on short distances is impressive.; Seine Geschwindigkeit auf kurzen Strecken ist beeindruckend.
 sf-0065; Muskelkater; sore muscles; muscle soreness; B1; Freizeit/Sport/Training; I had sore muscles after the first lesson.; Nach der ersten Stunde hatte ich Muskelkater.
 sf-0066; Hantel; dumbbell; ; B1; Freizeit/Sport/Fitnessstudio; He lifts a heavy dumbbell with each arm.; Er hebt mit jedem Arm eine schwere Hantel.
-sf-0067; Laufband (Fitness); treadmill; ; B1; Freizeit/Sport/Fitnessstudio; She runs on the treadmill when it rains.; Bei Regen läuft sie auf dem Laufband.
+sf-0067; Laufband (im Fitnessstudio); treadmill; ; B1; Freizeit/Sport/Fitnessstudio; She runs on the treadmill when it rains.; Bei Regen läuft sie auf dem Laufband.
 sf-0068; Gewichte heben; to lift weights; ; B1; Freizeit/Sport/Fitnessstudio; He lifts weights three times a week.; Er hebt dreimal pro Woche Gewichte.
 sf-0069; Liegestütz; push-up; press-up; B1; Freizeit/Sport/Fitnessstudio; Can you do twenty push-ups without a break?; Schaffst du zwanzig Liegestütze ohne Pause?
 sf-0070; Klimmzug; pull-up; chin-up; B1; Freizeit/Sport/Fitnessstudio; A clean pull-up is harder than it looks.; Ein sauberer Klimmzug ist schwerer, als er aussieht.
 sf-0071; Kniebeuge; squat; ; B1; Freizeit/Sport/Fitnessstudio; Do each squat slowly and with control.; Mach jede Kniebeuge langsam und kontrolliert.
 sf-0072; Runde; lap; round; B1; Freizeit/Sport/Training; She swims twenty laps every single morning.; Sie schwimmt jeden Morgen zwanzig Runden.
 sf-0073; Halbzeit; half-time; ; B1; Freizeit/Sport/Wettkampf; At half-time the score was still zero zero.; Zur Halbzeit stand es noch null zu null.
-sf-0074; Verlängerung (Sport); extra time; overtime; B1; Freizeit/Sport/Wettkampf; The final was decided in extra time.; Das Finale wurde in der Verlängerung entschieden.
+sf-0074; Verlängerung (nach neunzig Minuten); extra time; overtime; B1; Freizeit/Sport/Wettkampf; The final was decided in extra time.; Das Finale wurde in der Verlängerung entschieden.
 sf-0075; Elfmeter; penalty kick; penalty; B1; Freizeit/Sport/Wettkampf; He scored the penalty kick with ease.; Er verwandelte den Elfmeter mit Leichtigkeit.
 sf-0076; Abseits; offside; ; B1; Freizeit/Sport/Wettkampf; The goal did not count because of offside.; Das Tor zählte wegen Abseits nicht.
 sf-0077; Foul; foul; ; B1; Freizeit/Sport/Wettkampf; The referee saw the hard foul immediately.; Der Schiedsrichter sah das harte Foul sofort.
@@ -86,7 +86,7 @@ sf-0084; Liga; league; division; B1; Freizeit/Sport/Wettkampf; The team plays in
 sf-0085; Turnier; tournament; ; B1; Freizeit/Sport/Wettkampf; The tournament takes place every summer here.; Das Turnier findet hier jeden Sommer statt.
 sf-0086; Saison; season; ; B1; Freizeit/Sport/Wettkampf; The new season starts in late August.; Die neue Saison beginnt Ende August.
 sf-0087; Aufstieg; promotion; ; B1; Freizeit/Sport/Wettkampf; The fans dream of promotion this year.; Die Fans träumen dieses Jahr vom Aufstieg.
-sf-0088; Abstieg (Sport); relegation; ; B1; Freizeit/Sport/Wettkampf; The club barely avoided relegation last season.; Der Verein entging letzte Saison knapp dem Abstieg.
+sf-0088; Abstieg (in die zweite Liga); relegation; ; B1; Freizeit/Sport/Wettkampf; The club barely avoided relegation last season.; Der Verein entging letzte Saison knapp dem Abstieg.
 sf-0089; Rekord; record; ; B1; Freizeit/Sport/Wettkampf; She broke the national record by two seconds.; Sie brach den nationalen Rekord um zwei Sekunden.
 sf-0090; Weltmeister; world champion; ; B1; Freizeit/Sport/Wettkampf; He became world champion at a young age.; Er wurde in jungen Jahren Weltmeister.
 sf-0091; Olympische Spiele; Olympic Games; Olympics; B1; Freizeit/Sport/Wettkampf; The Olympic Games take place every four years.; Die Olympischen Spiele finden alle vier Jahre statt.
@@ -103,7 +103,7 @@ sf-0101; Gegner; opponent; ; B2; Freizeit/Sport/Wettkampf; You should never unde
 sf-0102; Rivale; rival; ; B2; Freizeit/Sport/Wettkampf; The two rivals meet again in the final.; Die beiden Rivalen treffen im Finale wieder aufeinander.
 sf-0103; Favorit; favourite; favorite; B2; Freizeit/Sport/Wettkampf; The favourite lost surprisingly in the first round.; Der Favorit verlor überraschend in der ersten Runde.
 sf-0104; Außenseiter; underdog; outsider; B2; Freizeit/Sport/Wettkampf; The underdog surprised everyone with a clear win.; Der Außenseiter überraschte alle mit einem klaren Sieg.
-sf-0105; Qualifikation (Sport); qualification; qualifying round; B2; Freizeit/Sport/Wettkampf; She reached the final through a strong qualification.; Sie erreichte das Finale durch eine starke Qualifikation.
+sf-0105; Qualifikation (die Qualifikation für die WM); qualification; qualifying round; B2; Freizeit/Sport/Wettkampf; She reached the final through a strong qualification.; Sie erreichte das Finale durch eine starke Qualifikation.
 sf-0106; Endspiel; final; ; B2; Freizeit/Sport/Wettkampf; The final will be played on Sunday evening.; Das Endspiel wird am Sonntagabend gespielt.
 sf-0107; Halbfinale; semi-final; semifinal; B2; Freizeit/Sport/Wettkampf; They lost the semi-final after a dramatic game.; Sie verloren das Halbfinale nach einem dramatischen Spiel.
 sf-0108; Vorrunde; preliminary round; group stage; B2; Freizeit/Sport/Wettkampf; The team went out in the preliminary round.; Die Mannschaft schied in der Vorrunde aus.

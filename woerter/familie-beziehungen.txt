@@ -1,6 +1,6 @@
 id; Deutsch; Englisch; Weitere Antworten; Niveau; Themen; Beispiel Englisch; Beispiel Deutsch
 fb-0001; Familie; family; ; A1; Alltag/Familie/Verwandtschaft; My family lives in a small town.; Meine Familie lebt in einer kleinen Stadt.
-fb-0002; Mutter (Elternteil); mother; mum, mom; A1; Alltag/Familie/Verwandtschaft; My mother calls me every Sunday evening.; Meine Mutter ruft mich jeden Sonntagabend an.
+fb-0002; Mutter (Vater und Mutter); mother; mum, mom; A1; Alltag/Familie/Verwandtschaft; My mother calls me every Sunday evening.; Meine Mutter ruft mich jeden Sonntagabend an.
 fb-0003; Vater; father; dad; A1; Alltag/Familie/Verwandtschaft; His father works at the airport.; Sein Vater arbeitet am Flughafen.
 fb-0004; Eltern; parents; ; A1; Alltag/Familie/Verwandtschaft; My parents have been married for thirty years.; Meine Eltern sind seit dreißig Jahren verheiratet.
 fb-0005; Kind; child; kid; A1; Alltag/Familie/Verwandtschaft; The child is playing with the dog.; Das Kind spielt mit dem Hund.
@@ -39,8 +39,8 @@ fb-0037; Alleinerziehende; single parent; single mother; B2; Alltag/Familie/Verw
 fb-0038; Stammbaum; family tree; ; B2; Alltag/Familie/Verwandtschaft; He traced his family tree back three hundred years.; Er verfolgte seinen Stammbaum dreihundert Jahre zurück.
 fb-0039; Verwandtschaft; extended family; relatives, kin; C1; Alltag/Familie/Verwandtschaft; The whole extended family met at Easter.; Die ganze Verwandtschaft traf sich an Ostern.
 fb-0040; Vormund; legal guardian; guardian; C1; Alltag/Familie/Verwandtschaft; After the accident her uncle became her legal guardian.; Nach dem Unfall wurde ihr Onkel ihr Vormund.
-fb-0041; Freund (Partner); boyfriend; ; A1; Alltag/Familie/Partnerschaft; Her boyfriend brings her flowers every Friday.; Ihr Freund bringt ihr jeden Freitag Blumen.
-fb-0042; Freundin (Partnerin); girlfriend; ; A1; Alltag/Familie/Partnerschaft; He cooks for his girlfriend tonight.; Er kocht heute Abend für seine Freundin.
+fb-0041; Freund (mein fester Freund); boyfriend; ; A1; Alltag/Familie/Partnerschaft; Her boyfriend brings her flowers every Friday.; Ihr Freund bringt ihr jeden Freitag Blumen.
+fb-0042; Freundin (meine feste Freundin); girlfriend; ; A1; Alltag/Familie/Partnerschaft; He cooks for his girlfriend tonight.; Er kocht heute Abend für seine Freundin.
 fb-0043; Liebe; love; ; A1; Alltag/Familie/Partnerschaft; Love is the most important thing in life.; Liebe ist das Wichtigste im Leben.
 fb-0044; lieben; to love; ; A2; Alltag/Familie/Partnerschaft; I love you more than anything.; Ich liebe dich über alles.
 fb-0045; Paar; couple; pair; A2; Alltag/Familie/Partnerschaft; The young couple is moving in together.; Das junge Paar zieht zusammen.
@@ -110,7 +110,7 @@ fb-0108; Trauzeuge; best man; witness; B2; Alltag/Familie/Lebensereignisse; His 
 fb-0109; Beerdigung; funeral; burial; B2; Alltag/Familie/Lebensereignisse; Many old friends came to the funeral.; Viele alte Freunde kamen zur Beerdigung.
 fb-0110; Trauer; grief; mourning, sorrow; B2; Alltag/Familie/Lebensereignisse; Grief needs time and the support of others.; Trauer braucht Zeit und die Unterstützung anderer.
 fb-0111; Ruhestand; retirement; ; B2; Alltag/Familie/Lebensereignisse; My father is enjoying his well-earned retirement.; Mein Vater genießt seinen wohlverdienten Ruhestand.
-fb-0112; Erbe (Nachlass); inheritance; ; B2; Alltag/Familie/Lebensereignisse; The siblings argued about their parents' inheritance.; Die Geschwister stritten über das Erbe ihrer Eltern.
+fb-0112; Erbe (das Erbe der Großeltern); inheritance; ; B2; Alltag/Familie/Lebensereignisse; The siblings argued about their parents' inheritance.; Die Geschwister stritten über das Erbe ihrer Eltern.
 fb-0113; Standesamt; registry office; civil registry; B2; Alltag/Familie/Lebensereignisse; They got married quietly at the registry office.; Sie heirateten in aller Stille auf dem Standesamt.
 fb-0114; Trauung; wedding ceremony; marriage ceremony; C1; Alltag/Familie/Lebensereignisse; The wedding ceremony was held in the old town hall.; Die Trauung fand im alten Rathaus statt.
 fb-0115; Nachwuchs; offspring; new baby; C1; Alltag/Familie/Lebensereignisse; The young couple is expecting offspring in May.; Das junge Paar erwartet im Mai Nachwuchs.
@@ -138,7 +138,7 @@ fb-0136; sich vertragen; to make up; to get along again; B2; Alltag/Familie/Mite
 fb-0137; beleidigen; to insult; to offend; B2; Alltag/Familie/Miteinander; He did not mean to insult your cousin.; Er wollte deinen Cousin nicht beleidigen.
 fb-0138; Missverständnis; misunderstanding; ; B2; Alltag/Familie/Miteinander; The whole argument was just a silly misunderstanding.; Der ganze Streit war nur ein dummes Missverständnis.
 fb-0139; respektieren; to respect; ; B2; Alltag/Familie/Miteinander; Children should learn to respect other opinions.; Kinder sollten lernen, andere Meinungen zu respektieren.
-fb-0140; schätzen (wertschätzen); to appreciate; to value; B2; Alltag/Familie/Miteinander; I really appreciate your honest advice.; Ich schätze deinen ehrlichen Rat sehr.
+fb-0140; schätzen (jemandes Hilfe schätzen); to appreciate; to value; B2; Alltag/Familie/Miteinander; I really appreciate your honest advice.; Ich schätze deinen ehrlichen Rat sehr.
 fb-0141; vernachlässigen; to neglect; ; B2; Alltag/Familie/Miteinander; He neglected his friends during the busy years.; Er vernachlässigte seine Freunde in den stressigen Jahren.
 fb-0142; sich versöhnen; to reconcile; to make peace; C1; Alltag/Familie/Miteinander; The brothers reconciled after many years of silence.; Die Brüder versöhnten sich nach vielen Jahren des Schweigens.
 fb-0143; Mitgefühl; compassion; sympathy; C1; Alltag/Familie/Miteinander; She showed great compassion for the grieving family.; Sie zeigte großes Mitgefühl für die trauernde Familie.

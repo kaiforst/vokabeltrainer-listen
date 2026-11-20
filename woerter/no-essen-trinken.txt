@@ -6,7 +6,7 @@ no-et-0003; Milch; en melk; ; A1; Alltag/Essen/Getränke; Jeg drikker melk til f
 no-et-0004; Apfel; et eple; ; A1; Alltag/Essen/Lebensmittel; Hun spiser et eple etter lunsjen.; Sie isst nach dem Mittagessen einen Apfel.
 no-et-0005; Käse; en ost; ; A1; Alltag/Essen/Lebensmittel; Denne osten kommer fra en liten gård.; Dieser Käse kommt von einem kleinen Bauernhof.
 no-et-0006; Ei; et egg; ; A1; Alltag/Essen/Lebensmittel; Jeg spiser et egg hver morgen.; Ich esse jeden Morgen ein Ei.
-no-et-0007; Fisch (Speise); en fisk; ; A1; Alltag/Essen/Lebensmittel; Vi spiser fisk hver fredag kveld.; Wir essen jeden Freitagabend Fisch.
+no-et-0007; Fisch (Fisch zum Abendessen); en fisk; ; A1; Alltag/Essen/Lebensmittel; Vi spiser fisk hver fredag kveld.; Wir essen jeden Freitagabend Fisch.
 no-et-0008; Fleisch; et kjøtt; ; A1; Alltag/Essen/Lebensmittel; Han spiser ikke så mye kjøtt.; Er isst nicht viel Fleisch.
 no-et-0009; Kaffee; en kaffe; ; A1; Alltag/Essen/Getränke; En kopp kaffe hjelper meg å våkne.; Eine Tasse Kaffee hilft mir beim Aufwachen.
 no-et-0010; Tee; en te; ; A1; Alltag/Essen/Getränke; Vil du ha litt te med honning?; Möchtest du etwas Tee mit Honig?
@@ -32,13 +32,13 @@ no-et-0029; Zwiebel; en løk; ; A2; Alltag/Essen/Lebensmittel; Når jeg skjærer
 no-et-0030; Banane; en banan; ; A2; Alltag/Essen/Lebensmittel; En banan er en god matbit før trening.; Eine Banane ist ein guter Snack vor dem Sport.
 no-et-0031; Orange; en appelsin; ; A2; Alltag/Essen/Lebensmittel; Denne appelsinen er søt og veldig saftig.; Diese Orange ist süß und sehr saftig.
 no-et-0032; Erdbeere; et jordbær; ; A2; Alltag/Essen/Lebensmittel; Hvert eneste jordbær i denne kurven ser perfekt ut.; Jede Erdbeere in diesem Korb sieht perfekt aus.
-no-et-0033; Huhn (Speise); en kylling; ; A2; Alltag/Essen/Lebensmittel; Det blir kylling med ris til middag i dag.; Es gibt heute Huhn mit Reis.
+no-et-0033; Huhn (Huhn mit Reis); en kylling; ; A2; Alltag/Essen/Lebensmittel; Det blir kylling med ris til middag i dag.; Es gibt heute Huhn mit Reis.
 no-et-0034; Wurst; en pølse; ; A2; Alltag/Essen/Lebensmittel; Han kjøpte en pølse på torget.; Er hat auf dem Markt eine Wurst gekauft.
 no-et-0035; Schinken; ei skinke; en skinke; A2; Alltag/Essen/Lebensmittel; Jeg vil gjerne ha et rundstykke med skinke.; Ich hätte gern ein Brötchen mit Schinken.
 no-et-0036; Nudeln; en pasta; nudler; A2; Alltag/Essen/Lebensmittel; Barna vil ha pasta med tomatsaus.; Die Kinder wollen Nudeln mit Tomatensoße.
 no-et-0037; Salat; en salat; ; A2; Alltag/Essen/Mahlzeiten; Jeg bestilte en grønn salat til steaken.; Ich habe einen grünen Salat zum Steak bestellt.
 no-et-0038; Schokolade; en sjokolade; ; A2; Alltag/Essen/Lebensmittel; Mørk sjokolade er mindre søt enn melkesjokolade.; Dunkle Schokolade ist weniger süß als Milchschokolade.
-no-et-0039; Eis (Speiseeis); en is; en iskrem; A2; Alltag/Essen/Lebensmittel; Barna vil ha is etter middagen.; Die Kinder wollen nach dem Abendessen Eis.
+no-et-0039; Eis (ein Eis essen); en is; en iskrem; A2; Alltag/Essen/Lebensmittel; Barna vil ha is etter middagen.; Die Kinder wollen nach dem Abendessen Eis.
 no-et-0040; Honig; en honning; ; A2; Alltag/Essen/Lebensmittel; Hun legger honning i teen sin.; Sie gibt Honig in ihren Tee.
 no-et-0041; Mehl; et mel; ; A2; Alltag/Essen/Kochen; Vi trenger mel og egg til deigen.; Wir brauchen Mehl und Eier für den Teig.
 no-et-0042; Öl; ei olje; en olje; A2; Alltag/Essen/Kochen; Varm først opp litt olje i stekepannen.; Erhitze zuerst etwas Öl in der Pfanne.
@@ -59,23 +59,23 @@ no-et-0056; Flasche; ei flaske; en flaske; A2; Alltag/Essen/Getränke; Vi har å
 no-et-0057; Kellner; en servitør; ; A2; Alltag/Essen/Restaurant; Servitøren kom raskt med menyen til oss.; Der Kellner brachte uns schnell die Speisekarte.
 no-et-0058; Speisekarte; en meny; et menykort; A2; Alltag/Essen/Restaurant; Kan vi få se menyen, takk?; Können wir bitte die Speisekarte sehen?
 no-et-0059; bestellen; å bestille; ; A2; Alltag/Essen/Restaurant; Jeg vil gjerne bestille fisken, takk.; Ich möchte bitte den Fisch bestellen.
-no-et-0060; Rechnung (Restaurant); en regning; ; A2; Alltag/Essen/Restaurant; Kan vi få regningen nå, takk?; Könnten wir bitte die Rechnung haben?
+no-et-0060; Rechnung (die Rechnung im Restaurant); en regning; ; A2; Alltag/Essen/Restaurant; Kan vi få regningen nå, takk?; Könnten wir bitte die Rechnung haben?
 no-et-0061; Vorspeise; en forrett; ; B1; Alltag/Essen/Restaurant; Som forrett anbefaler jeg tomatsuppen her.; Als Vorspeise empfehle ich die Tomatensuppe.
 no-et-0062; Hauptgericht; en hovedrett; ; B1; Alltag/Essen/Restaurant; Hovedretten var grillet fisk med grønnsaker.; Das Hauptgericht war gegrillter Fisch mit Gemüse.
 no-et-0063; Nachtisch; en dessert; ; B1; Alltag/Essen/Restaurant; Til dessert delte vi en sjokoladekake.; Zum Nachtisch teilten wir uns einen Schokoladenkuchen.
 no-et-0064; Trinkgeld; en driks; ; B1; Alltag/Essen/Restaurant; Han ga servitøren en raus driks.; Er gab dem Kellner ein großzügiges Trinkgeld.
 no-et-0065; reservieren; å reservere; å bestille; B1; Alltag/Essen/Restaurant; Jeg vil reservere et bord til fire personer.; Ich möchte einen Tisch für vier Personen reservieren.
 no-et-0066; empfehlen; å anbefale; ; B1; Alltag/Essen/Restaurant; Kan du anbefale en god lokal restaurant?; Kannst du ein gutes lokales Restaurant empfehlen?
-no-et-0067; Rezept (Kochen); ei oppskrift; en oppskrift; B1; Alltag/Essen/Kochen; Denne oppskriften kommer fra min italienske bestemor.; Dieses Rezept stammt von meiner italienischen Großmutter.
+no-et-0067; Rezept (ein Rezept für Kuchen); ei oppskrift; en oppskrift; B1; Alltag/Essen/Kochen; Denne oppskriften kommer fra min italienske bestemor.; Dieses Rezept stammt von meiner italienischen Großmutter.
 no-et-0068; Zutat; en ingrediens; ; B1; Alltag/Essen/Kochen; Den viktigste ingrediensen er fersk hvitløk.; Die wichtigste Zutat ist frischer Knoblauch.
 no-et-0069; würzen; å krydre; ; B1; Alltag/Essen/Kochen; Krydre kjøttet godt før du steker det.; Würze das Fleisch gut bevor du es brätst.
 no-et-0070; probieren; å smake på; ; B1; Alltag/Essen/Geschmack; Du må smake på denne fantastiske osten.; Du musst diesen fantastischen Käse probieren.
 no-et-0071; schmecken; å smake; ; B1; Alltag/Essen/Geschmack; Denne sausen bør smake litt søtt.; Die Soße sollte leicht süß schmecken.
 no-et-0072; süß; søt; ; B1; Alltag/Essen/Geschmack; Denne desserten er for søt for meg.; Dieser Nachtisch ist mir zu süß.
-no-et-0073; sauer (Geschmack); sur; ; B1; Alltag/Essen/Geschmack; Denne sitronsausen er litt for sur for meg.; Die Zitronensoße ist angenehm sauer.
+no-et-0073; sauer (saure Zitronen); sur; ; B1; Alltag/Essen/Geschmack; Denne sitronsausen er litt for sur for meg.; Die Zitronensoße ist angenehm sauer.
 no-et-0074; salzig; salt; ; B1; Alltag/Essen/Geschmack; Suppen var altfor salt, så jeg drakk vann.; Die Suppe war viel zu salzig, also trank ich Wasser.
 no-et-0075; bitter; bitter; ; B1; Alltag/Essen/Geschmack; God mørk sjokolade smaker litt bittert.; Gute dunkle Schokolade schmeckt leicht bitter.
-no-et-0076; scharf (Essen); sterk; krydret; B1; Alltag/Essen/Geschmack; Jeg elsker sterk mat fra Thailand.; Ich liebe scharfes Essen aus Thailand.
+no-et-0076; scharf (scharfes Essen); sterk; krydret; B1; Alltag/Essen/Geschmack; Jeg elsker sterk mat fra Thailand.; Ich liebe scharfes Essen aus Thailand.
 no-et-0077; lecker; god; deilig; B1; Alltag/Essen/Geschmack; Den hjemmelagde pizzaen var helt utrolig god.; Die selbstgemachte Pizza war absolut lecker.
 no-et-0078; frisch; fersk; ; B1; Alltag/Essen/Lebensmittel; Fisken på dette markedet er alltid fersk.; Der Fisch auf diesem Markt ist immer frisch.
 no-et-0079; roh; rå; ; B1; Alltag/Essen/Kochen; Gulrøtter kan spises rå eller kokte.; Man kann Karotten roh oder gekocht essen.
@@ -106,7 +106,7 @@ no-et-0103; anbraten; å brune; ; B2; Alltag/Essen/Kochen; Brun biffen raskt på
 no-et-0104; dämpfen; å dampe; ; B2; Alltag/Essen/Kochen; Du bør dampe grønnsakene på en skånsom måte.; Du solltest das Gemüse schonend dämpfen.
 no-et-0105; schmoren; å braisere; ; B2; Alltag/Essen/Kochen; Du må braisere oksekjøttet sakte i tre timer.; Du musst das Rindfleisch langsam drei Stunden lang schmoren.
 no-et-0106; rühren; å røre; ; B2; Alltag/Essen/Kochen; Du må røre i sausen så den ikke brenner seg.; Rühre die Soße damit sie nicht anbrennt.
-no-et-0107; gießen (Flüssigkeit); å helle; ; B2; Alltag/Essen/Kochen; Hell deigen sakte ned i stekepannen.; Gieße den Teig langsam in die Pfanne.
+no-et-0107; gießen (eine Flüssigkeit gießen); å helle; ; B2; Alltag/Essen/Kochen; Hell deigen sakte ned i stekepannen.; Gieße den Teig langsam in die Pfanne.
 no-et-0108; abschmecken; å smake til; ; B2; Alltag/Essen/Kochen; Smak til suppen med salt og pepper før servering.; Schmecke die Suppe vor dem Servieren mit Salz und Pfeffer ab.
 no-et-0109; Herd; en komfyr; ; B2; Alltag/Essen/Kochen; Har du husket å slå av komfyren?; Hast du den Herd ausgemacht?
 no-et-0110; Backofen; en stekeovn; en ovn; B2; Alltag/Essen/Kochen; Varm opp stekeovnen til to hundre grader.; Heize den Backofen auf zweihundert Grad vor.
@@ -115,7 +115,7 @@ no-et-0112; Schüssel; ei skål; en skål; B2; Alltag/Essen/Kochen; Bland alle i
 no-et-0113; Geschirr; en oppvask; ; B2; Alltag/Essen/Mahlzeiten; Hvem tar oppvasken her i kveld?; Wer spült heute Abend das Geschirr?
 no-et-0114; Besteck; et bestikk; ; B2; Alltag/Essen/Mahlzeiten; Legg bestikket på bordet, er du snill.; Leg bitte das Besteck auf den Tisch.
 no-et-0115; Mahlzeit; et måltid; ; B2; Alltag/Essen/Mahlzeiten; Et varmt måltid om kvelden er godt.; Eine warme Mahlzeit am Abend tut gut.
-no-et-0116; Imbiss (Lokal); et gatekjøkken; ; B2; Alltag/Essen/Restaurant; Det finnes et godt gatekjøkken i nærheten av stasjonen.; In der Nähe des Bahnhofs gibt es einen guten Imbiss.
+no-et-0116; Imbiss (eine Wurst am Imbiss); et gatekjøkken; ; B2; Alltag/Essen/Restaurant; Det finnes et godt gatekjøkken i nærheten av stasjonen.; In der Nähe des Bahnhofs gibt es einen guten Imbiss.
 no-et-0117; Feinschmecker; en gourmet; ; B2; Alltag/Essen/Geschmack; Onkelen min er en ekte gourmet.; Mein Onkel ist ein echter Feinschmecker.
 no-et-0118; herzhaft; kraftig; solid; B2; Alltag/Essen/Geschmack; Jeg liker en kraftig frokost bedre enn en søt.; Ich mag herzhaftes Frühstück lieber als süßes.
 no-et-0119; zart; mør; ; B2; Alltag/Essen/Geschmack; Kjøttet var så mørt at det nesten smeltet.; Das Fleisch war so zart dass es zerging.

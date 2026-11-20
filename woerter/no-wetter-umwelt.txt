@@ -5,7 +5,7 @@ no-wu-0002; Regen; et regn; ; A1; Natur/Umwelt/Wetter; Vi trenger mer regn til h
 no-wu-0003; Schnee; en snø; ; A1; Natur/Umwelt/Wetter; Snøen er hvit og veldig kald.; Der Schnee ist weiß und sehr kalt.
 no-wu-0004; Wind; en vind; ; A1; Natur/Umwelt/Wetter; Vinden er veldig sterk i dag.; Der Wind ist heute sehr stark.
 no-wu-0005; Wolke; en sky; ; A1; Natur/Umwelt/Wetter; Det er en stor sky over huset.; Über dem Haus ist eine große Wolke.
-no-wu-0006; Himmel (Wetter, Sterne); en himmel; ; A1; Natur/Umwelt/Wetter; Himmelen er blå i dag tidlig.; Der Himmel ist heute Morgen blau.
+no-wu-0006; Himmel (der blaue Himmel); en himmel; ; A1; Natur/Umwelt/Wetter; Himmelen er blå i dag tidlig.; Der Himmel ist heute Morgen blau.
 no-wu-0007; Wetter; et vær; ; A1; Natur/Umwelt/Wetter; Været er fint her i Oslo denne uka.; Das Wetter ist diese Woche hier in Oslo schön.
 no-wu-0008; warm; varm; ; A1; Natur/Umwelt/Wetter; Det er varmt i hagen i dag.; Es ist heute warm im Garten.
 no-wu-0009; kalt; kald; ; A1; Natur/Umwelt/Wetter; Ute er det veldig kaldt i januar.; Draußen ist es im Januar sehr kalt.
@@ -21,7 +21,7 @@ no-wu-0018; Luft; en luft; ei luft; A1; Natur/Umwelt/Natur; Luften i fjellet er 
 no-wu-0019; Eis (gefrorenes Wasser); en is; ; A1; Natur/Umwelt/Wetter; Om vinteren er det is på innsjøen.; Im Winter ist Eis auf dem See.
 no-wu-0020; regnen; å regne; ; A1; Natur/Umwelt/Wetter; Jeg tror det kommer til å regne i morgen ettermiddag.; Ich glaube, morgen Nachmittag wird es regnen.
 no-wu-0021; schneien; å snø; ; A1; Natur/Umwelt/Wetter; Det begynte å snø midt på natta.; In der Nacht begann es zu schneien.
-no-wu-0022; scheinen (Sonne); å skinne; ; A1; Natur/Umwelt/Wetter; På søndag skal sola skinne igjen.; Am Sonntag wird die Sonne wieder scheinen.
+no-wu-0022; scheinen (die Sonne scheint); å skinne; ; A1; Natur/Umwelt/Wetter; På søndag skal sola skinne igjen.; Am Sonntag wird die Sonne wieder scheinen.
 no-wu-0023; Natur; en natur; ; A1; Natur/Umwelt/Natur; I helgene går vi gjerne tur i naturen.; Am Wochenende gehen wir gern in der Natur spazieren.
 no-wu-0024; Gras; et gress; ; A1; Natur/Umwelt/Natur; Etter regnet er gresset helt grønt.; Nach dem Regen ist das Gras grün.
 no-wu-0025; Müll; et søppel; ; A1; Natur/Umwelt/Recycling; Vær så snill å kaste søppelet i tønna.; Bitte wirf den Müll in die Tonne.
@@ -47,7 +47,7 @@ no-wu-0044; Energie; en energi; ; A2; Natur/Umwelt/Energie; Huset vårt bruker m
 no-wu-0045; Strom; en strøm; ; A2; Natur/Umwelt/Energie; Under stormen gikk strømmen i hele nabolaget.; Während des Sturms fiel im ganzen Viertel der Strom aus.
 no-wu-0046; Mülltonne; en søppeldunk; en søppelkasse; A2; Natur/Umwelt/Recycling; Søppeldunken bak huset er helt full igjen.; Die Mülltonne hinter dem Haus ist schon wieder ganz voll.
 no-wu-0047; Plastik; en plast; ; A2; Natur/Umwelt/Recycling; Det er altfor mye plast i havet.; Es gibt zu viel Plastik im Meer.
-no-wu-0048; Glas (Material); et glass; ; A2; Natur/Umwelt/Recycling; Gammelt glass leverer du til glassinnsamlingen.; Altes Glas gibst du bei der Glassammelstelle ab.
+no-wu-0048; Glas (aus Glas gemacht); et glass; ; A2; Natur/Umwelt/Recycling; Gammelt glass leverer du til glassinnsamlingen.; Altes Glas gibst du bei der Glassammelstelle ab.
 no-wu-0049; Papier; et papir; ; A2; Natur/Umwelt/Recycling; Vi samler gammelt papir til gjenvinning.; Wir sammeln altes Papier für das Recycling.
 no-wu-0050; Dose; en boks; ; A2; Natur/Umwelt/Recycling; Han kastet den tomme boksen i søpla.; Er warf die leere Dose in den Mülleimer.
 no-wu-0051; Flasche; ei flaske; en flaske; A2; Natur/Umwelt/Recycling; Ta med de tomme flaskene tilbake til butikken.; Bitte bring die leeren Flaschen zum Laden zurück.

@@ -3,7 +3,7 @@ id; Deutsch; Englisch; Weitere Antworten; Niveau; Themen; Beispiel Englisch; Bei
 xf-0001; anfangen; to start; to begin; A1; Allgemein/Verben; The film starts in ten minutes, so let's hurry.; Der Film fängt in zehn Minuten an, also beeilen wir uns.
 xf-0002; aussehen; to look; ; A1; Allgemein/Verben; You look really tired today, are you okay?; Du siehst heute richtig müde aus, geht es dir gut?
 xf-0003; anschauen; to look at; to watch; A1; Allgemein/Verben; Can I look at your holiday photos later?; Kann ich mir später deine Urlaubsfotos anschauen?
-xf-0004; liegen (Lebewesen); to lie; ; A1; Allgemein/Verben; The cat is lying on the sofa in the sun.; Die Katze liegt auf dem Sofa in der Sonne.
+xf-0004; liegen (im Bett liegen); to lie; ; A1; Allgemein/Verben; The cat is lying on the sofa in the sun.; Die Katze liegt auf dem Sofa in der Sonne.
 xf-0005; leben; to live; ; A1; Allgemein/Verben; My grandparents live in a small village by the sea.; Meine Großeltern leben in einem kleinen Dorf am Meer.
 xf-0006; dürfen; to be allowed to; may; A1; Allgemein/Verben; Children are not allowed to play on the building site.; Kinder dürfen nicht auf der Baustelle spielen.
 xf-0007; aufmachen; to open; ; A1; Allgemein/Verben; Could you open the window, please? It's very warm.; Könntest du bitte das Fenster aufmachen? Es ist sehr warm.
@@ -15,7 +15,7 @@ xf-0012; verlassen; to leave; ; A2; Allgemein/Verben; We leave the house every m
 xf-0013; versuchen; to try; ; A2; Allgemein/Verben; I will try to call you again tonight.; Ich werde versuchen, dich heute Abend noch mal anzurufen.
 xf-0014; verbringen; to spend; ; A2; Allgemein/Verben; We spent the whole weekend at the lake.; Wir haben das ganze Wochenende am See verbracht.
 xf-0015; setzen; to put; to place; B1; Allgemein/Verben; She put the baby carefully in the pram.; Sie setzte das Baby vorsichtig in den Kinderwagen.
-xf-0016; stellen (hinstellen); to put; to place, to stand; A2; Allgemein/Verben; Please put the vase on the kitchen table.; Stell die Vase bitte auf den Küchentisch.
+xf-0016; stellen (auf den Tisch stellen); to put; to place, to stand; A2; Allgemein/Verben; Please put the vase on the kitchen table.; Stell die Vase bitte auf den Küchentisch.
 xf-0017; schlagen; to hit; to beat, to strike; A2; Allgemein/Verben; You must never hit an animal, not even in anger.; Man darf ein Tier nie schlagen, auch nicht aus Wut.
 xf-0018; besiegen; to defeat; to beat; B1; Allgemein/Verben; Our team defeated the champions in the final.; Unsere Mannschaft hat im Finale den Meister besiegt.
 xf-0019; kontrollieren; to check; ; B1; Allgemein/Verben; The conductor checked our tickets on the train.; Der Schaffner hat im Zug unsere Fahrkarten kontrolliert.
@@ -39,7 +39,7 @@ xf-0036; fortfahren; to continue; to carry on; B1; Allgemein/Verben; After a sho
 xf-0037; umkehren; to turn back; to turn round, to turn around; B1; Allgemein/Verben; The road was closed, so we had to turn back.; Die Straße war gesperrt, also mussten wir umkehren.
 xf-0038; vorbeigehen; to go past; to walk past, to pass; A2; Allgemein/Verben; I go past the bakery every morning.; Ich gehe jeden Morgen an der Bäckerei vorbei.
 xf-0039; eintreten; to enter; to come in; B1; Allgemein/Verben; Please knock before you enter the room.; Bitte klopf an, bevor du in das Zimmer eintrittst.
-xf-0040; wenden (Auto); to turn; to turn round, to turn around; B1; Allgemein/Verben; He turned the car round in the narrow street.; Er hat das Auto in der engen Straße gewendet.
+xf-0040; wenden (mit dem Auto wenden); to turn; to turn round, to turn around; B1; Allgemein/Verben; He turned the car round in the narrow street.; Er hat das Auto in der engen Straße gewendet.
 xf-0041; bilden; to form; ; B1; Allgemein/Verben; The children formed a circle around the teacher.; Die Kinder bildeten einen Kreis um die Lehrerin.
 xf-0042; formen; to shape; to form; B1; Allgemein/Verben; Shape the dough into small balls with your hands.; Form den Teig mit den Händen zu kleinen Kugeln.
 xf-0043; herstellen; to produce; to make, to manufacture; B1; Allgemein/Verben; This factory produces parts for cars and buses.; Diese Fabrik stellt Teile für Autos und Busse her.
@@ -49,7 +49,7 @@ xf-0046; gestalten; to design; to shape, to create; B2; Allgemein/Verben; The pu
 xf-0047; festlegen; to set; to fix, to determine; B2; Allgemein/Verben; We still have to set a date for the meeting.; Wir müssen noch einen Termin für das Treffen festlegen.
 xf-0048; anwenden; to apply; ; B1; Allgemein/Verben; Now try to apply the rule to these sentences.; Versuch jetzt, die Regel auf diese Sätze anzuwenden.
 xf-0049; leiten; to lead; to run, to manage; B1; Allgemein/Verben; Mrs Becker has led the school for many years.; Frau Becker leitet die Schule seit vielen Jahren.
-xf-0050; betreiben (führen); to run; to operate; B2; Allgemein/Verben; His family runs a small hotel by the lake.; Seine Familie betreibt ein kleines Hotel am See.
+xf-0050; betreiben (ein Hotel betreiben); to run; to operate; B2; Allgemein/Verben; His family runs a small hotel by the lake.; Seine Familie betreibt ein kleines Hotel am See.
 xf-0051; beherrschen; to master; to have a good command of; B2; Allgemein/Verben; It takes years to master a foreign language.; Es dauert Jahre, eine Fremdsprache zu beherrschen.
 xf-0052; enthüllen; to reveal; ; B2; Allgemein/Verben; The magician never reveals how his tricks work.; Der Zauberer enthüllt nie, wie seine Tricks funktionieren.
 xf-0053; ansteigen; to rise; to increase; B1; Allgemein/Verben; The water level rose after the heavy rain.; Nach dem starken Regen ist der Wasserstand angestiegen.
@@ -58,7 +58,7 @@ xf-0055; übrig bleiben; to be left; to be left over; B1; Allgemein/Verben; Only
 xf-0056; aushelfen; to help out; ; B1; Allgemein/Verben; My cousin sometimes helps out in his uncle's shop.; Mein Cousin hilft manchmal im Laden seines Onkels aus.
 xf-0057; einspringen; to step in; to stand in; B2; Allgemein/Verben; When the singer was ill, her sister stepped in.; Als die Sängerin krank war, ist ihre Schwester eingesprungen.
 xf-0058; vorführen; to demonstrate; to show; B2; Allgemein/Verben; The salesman demonstrated how the new vacuum cleaner works.; Der Verkäufer führte vor, wie der neue Staubsauger funktioniert.
-xf-0059; leisten (vollbringen); to achieve; to accomplish; B2; Allgemein/Verben; The team has achieved a lot this season.; Die Mannschaft hat in dieser Saison viel geleistet.
+xf-0059; leisten (Großes leisten); to achieve; to accomplish; B2; Allgemein/Verben; The team has achieved a lot this season.; Die Mannschaft hat in dieser Saison viel geleistet.
 xf-0060; gebrauchen; to use; to make use of; B1; Allgemein/Verben; Can you still use these old boxes for your move?; Kannst du diese alten Kisten noch für deinen Umzug gebrauchen?
 xf-0061; abwarten; to wait and see; to wait; B1; Allgemein/Verben; Let's wait and see what the doctor says.; Lass uns abwarten, was der Arzt sagt.
 xf-0062; anhaben; to wear; to have on; A2; Allgemein/Verben; She was wearing a red dress at the party.; Sie hatte auf der Party ein rotes Kleid an.
@@ -67,10 +67,10 @@ xf-0064; neigen; to tend; ; B2; Allgemein/Verben; My brother tends to exaggerate
 xf-0065; spüren; to feel; to sense; B1; Allgemein/Verben; I could feel the cold wind on my face.; Ich konnte den kalten Wind im Gesicht spüren.
 xf-0066; sich anfühlen; to feel; ; B1; Allgemein/Verben; This blanket feels really soft and warm.; Diese Decke fühlt sich richtig weich und warm an.
 xf-0067; sich auswirken; to affect; to have an effect; B2; Allgemein/Verben; Lack of sleep affects your concentration at school.; Schlafmangel wirkt sich auf deine Konzentration in der Schule aus.
-xf-0403; wählen (aussuchen); to choose; to pick, to select; A2; Allgemein/Verben; You can choose between three different desserts.; Du kannst zwischen drei verschiedenen Nachspeisen wählen.
+xf-0403; wählen (zwischen zwei Dingen wählen); to choose; to pick, to select; A2; Allgemein/Verben; You can choose between three different desserts.; Du kannst zwischen drei verschiedenen Nachspeisen wählen.
 xf-0068; sich fragen; to wonder; ; B1; Allgemein/Denken & Sprechen; I wonder why she hasn't called me back.; Ich frage mich, warum sie mich nicht zurückgerufen hat.
 xf-0069; meinen (der Meinung sein); to think; to believe; A2; Allgemein/Denken & Sprechen; What do you think, should we take the bus?; Was meinst du, sollen wir den Bus nehmen?
-xf-0070; meinen (sagen wollen); to mean; ; A2; Allgemein/Denken & Sprechen; Sorry, I don't understand what you mean.; Entschuldigung, ich verstehe nicht, was du meinst.
+xf-0070; meinen (was meinst du damit?); to mean; ; A2; Allgemein/Denken & Sprechen; Sorry, I don't understand what you mean.; Entschuldigung, ich verstehe nicht, was du meinst.
 xf-0071; merken; to notice; to realise, to realize; B1; Allgemein/Denken & Sprechen; Did you notice that he has a new haircut?; Hast du gemerkt, dass er eine neue Frisur hat?
 xf-0072; Aussage; statement; ; B1; Allgemein/Denken & Sprechen; The witness made a statement to the police.; Der Zeuge hat bei der Polizei eine Aussage gemacht.
 xf-0073; Begriff; term; concept; B2; Allgemein/Denken & Sprechen; Can you explain this term to me in simple words?; Kannst du mir diesen Begriff mit einfachen Worten erklären?
@@ -81,7 +81,7 @@ xf-0077; Begründung; justification; reason; B2; Allgemein/Denken & Sprechen; Yo
 xf-0078; Mitteilung; message; notice; B1; Allgemein/Denken & Sprechen; We received a short message from the school today.; Wir haben heute eine kurze Mitteilung von der Schule bekommen.
 xf-0079; Versprechen; promise; ; A2; Allgemein/Denken & Sprechen; You made me a promise, so please keep it.; Du hast mir ein Versprechen gegeben, also halte es bitte.
 xf-0080; Gewissheit; certainty; ; B2; Allgemein/Denken & Sprechen; Now we know with certainty that the plan works.; Jetzt wissen wir mit Gewissheit, dass der Plan funktioniert.
-xf-0081; Vorstellung (Idee); idea; notion; B2; Allgemein/Denken & Sprechen; I have no idea what the new flat looks like.; Ich habe keine Vorstellung, wie die neue Wohnung aussieht.
+xf-0081; Vorstellung (keine Vorstellung haben); idea; notion; B2; Allgemein/Denken & Sprechen; I have no idea what the new flat looks like.; Ich habe keine Vorstellung, wie die neue Wohnung aussieht.
 xf-0082; Zustimmung; approval; agreement, consent; B2; Allgemein/Denken & Sprechen; The plan needs the approval of all parents.; Der Plan braucht die Zustimmung aller Eltern.
 xf-0083; Lob; praise; ; B1; Allgemein/Denken & Sprechen; A little praise can motivate children a lot.; Ein bisschen Lob kann Kinder sehr motivieren.
 xf-0084; Absprache; arrangement; agreement; B2; Allgemein/Denken & Sprechen; By arrangement, we can also deliver on Saturdays.; Nach Absprache können wir auch samstags liefern.
@@ -96,7 +96,7 @@ xf-0092; bereit; ready; ; A2; Allgemein/Adjektive; Are you ready? We have to go 
 xf-0093; kräftig; strong; powerful; B1; Allgemein/Adjektive; He has strong arms from working on the farm.; Von der Arbeit auf dem Hof hat er kräftige Arme.
 xf-0094; großartig; great; wonderful, terrific; B1; Allgemein/Adjektive; That was a great idea, thank you!; Das war eine großartige Idee, danke!
 xf-0095; fantastisch; fantastic; ; A2; Allgemein/Adjektive; The view from the top is fantastic.; Die Aussicht von oben ist fantastisch.
-xf-0096; grob (ungefähr); rough; ; B2; Allgemein/Adjektive; This is only a rough plan for the trip.; Das ist nur ein grober Plan für die Reise.
+xf-0096; grob (grob geschätzt); rough; ; B2; Allgemein/Adjektive; This is only a rough plan for the trip.; Das ist nur ein grober Plan für die Reise.
 xf-0097; rau; rough; ; B1; Allgemein/Adjektive; My hands are rough from the cold weather.; Meine Hände sind vom kalten Wetter ganz rau.
 xf-0098; uneben; uneven; ; B2; Allgemein/Adjektive; Be careful, the path is very uneven here.; Pass auf, der Weg ist hier sehr uneben.
 xf-0099; zäh; tough; ; B2; Allgemein/Adjektive; The meat was so tough that I couldn't eat it.; Das Fleisch war so zäh, dass ich es nicht essen konnte.
@@ -110,7 +110,7 @@ xf-0106; legal; legal; ; B1; Allgemein/Adjektive; Is it legal to ride a bike wit
 xf-0107; öffentlich; public; ; B1; Allgemein/Adjektive; Smoking is not allowed in public buildings.; In öffentlichen Gebäuden ist Rauchen nicht erlaubt.
 xf-0108; örtlich; local; ; B2; Allgemein/Adjektive; The meeting starts at eight o'clock local time.; Das Treffen beginnt um acht Uhr örtlicher Zeit.
 xf-0109; schrill; shrill; piercing; B2; Allgemein/Adjektive; We were woken by a shrill noise in the night.; Wir wurden in der Nacht von einem schrillen Geräusch geweckt.
-xf-0110; ganz (komplett); whole; entire; A2; Allgemein/Adjektive; She ate the whole cake by herself.; Sie hat den ganzen Kuchen allein gegessen.
+xf-0110; ganz (die ganze Pizza); whole; entire; A2; Allgemein/Adjektive; She ate the whole cake by herself.; Sie hat den ganzen Kuchen allein gegessen.
 xf-0111; eingeschaltet; switched on; on, turned on; B1; Allgemein/Adjektive; Is the oven in the kitchen still switched on?; Ist der Ofen in der Küche noch eingeschaltet?
 xf-0112; liebevoll; loving; affectionate; B1; Mensch/Charakter; She is a very loving mother to her three children.; Sie ist eine sehr liebevolle Mutter für ihre drei Kinder.
 xf-0113; herzlich; warm; warm-hearted, cordial; B1; Mensch/Charakter; Our hosts gave us a very warm welcome.; Unsere Gastgeber haben uns sehr herzlich empfangen.
@@ -128,13 +128,13 @@ xf-0124; prahlen; to boast; to brag; B2; Mensch/Charakter; She likes to boast ab
 xf-0125; Stolz; pride; ; B1; Mensch/Gefühle; His eyes were full of pride when his son won.; Seine Augen waren voller Stolz, als sein Sohn gewann.
 xf-0126; sich sorgen; to worry; ; B1; Mensch/Gefühle; My parents worry when I come home late.; Meine Eltern sorgen sich, wenn ich spät nach Hause komme.
 xf-0127; von; from; of; A1; Allgemein/Kleine Wörter; I got a long letter from my aunt.; Ich habe einen langen Brief von meiner Tante bekommen.
-xf-0128; aus (Herkunft); from; ; A1; Allgemein/Kleine Wörter; My best friend comes from Italy.; Meine beste Freundin kommt aus Italien.
-xf-0129; aus (heraus); out of; ; A1; Allgemein/Kleine Wörter; He took the keys out of his pocket.; Er nahm die Schlüssel aus seiner Tasche.
-xf-0130; aus (ausgeschaltet); off; ; A2; Allgemein/Kleine Wörter; Is the television off or still on?; Ist der Fernseher aus oder noch an?
-xf-0131; auf (Präposition); on; ; A1; Allgemein/Kleine Wörter; Your glasses are on the kitchen table.; Deine Brille liegt auf dem Küchentisch.
-xf-0132; auf (offen); open; ; A2; Allgemein/Kleine Wörter; Is the bakery on the corner open on Sundays?; Hat die Bäckerei an der Ecke sonntags auf?
-xf-0133; wenn (Bedingung); if; ; A1; Allgemein/Kleine Wörter; If it rains tomorrow, we will stay at home.; Wenn es morgen regnet, bleiben wir zu Hause.
-xf-0134; wenn (zeitlich); when; whenever; A2; Allgemein/Kleine Wörter; When I get home, I always have a cup of tea.; Wenn ich nach Hause komme, trinke ich immer eine Tasse Tee.
+xf-0128; aus (ich komme aus Berlin); from; ; A1; Allgemein/Kleine Wörter; My best friend comes from Italy.; Meine beste Freundin kommt aus Italien.
+xf-0129; aus (aus dem Zimmer gehen); out of; ; A1; Allgemein/Kleine Wörter; He took the keys out of his pocket.; Er nahm die Schlüssel aus seiner Tasche.
+xf-0130; aus (das Licht ist aus); off; ; A2; Allgemein/Kleine Wörter; Is the television off or still on?; Ist der Fernseher aus oder noch an?
+xf-0131; auf (auf dem Tisch); on; ; A1; Allgemein/Kleine Wörter; Your glasses are on the kitchen table.; Deine Brille liegt auf dem Küchentisch.
+xf-0132; auf (die Tür ist auf); open; ; A2; Allgemein/Kleine Wörter; Is the bakery on the corner open on Sundays?; Hat die Bäckerei an der Ecke sonntags auf?
+xf-0133; wenn (wenn ich reich wäre); if; ; A1; Allgemein/Kleine Wörter; If it rains tomorrow, we will stay at home.; Wenn es morgen regnet, bleiben wir zu Hause.
+xf-0134; wenn (immer wenn ich komme); when; whenever; A2; Allgemein/Kleine Wörter; When I get home, I always have a cup of tea.; Wenn ich nach Hause komme, trinke ich immer eine Tasse Tee.
 xf-0135; welcher; which; ; A1; Allgemein/Kleine Wörter; Which bus goes to the station?; Welcher Bus fährt zum Bahnhof?
 xf-0136; jeder; every; each; A1; Allgemein/Kleine Wörter; Every pupil gets a new book at the start of the year.; Jeder Schüler bekommt am Anfang des Jahres ein neues Buch.
 xf-0137; keiner; nobody; no one, none; A2; Allgemein/Kleine Wörter; Nobody knew the answer to the last question.; Keiner wusste die Antwort auf die letzte Frage.
@@ -153,27 +153,27 @@ xf-0149; Sorte; sort; kind, type, variety; A2; Allgemein/Mengen; Which sort of a
 xf-0150; Zunahme; increase; rise; B2; Allgemein/Mengen; There has been a sharp increase in traffic.; Es gab eine starke Zunahme des Verkehrs.
 xf-0151; wieder; again; ; A1; Allgemein/Zeit; I've forgotten my keys again, how annoying!; Ich habe schon wieder meine Schlüssel vergessen, wie ärgerlich!
 xf-0152; dann; then; ; A1; Allgemein/Zeit; First we eat, and then we go to the cinema.; Zuerst essen wir, und dann gehen wir ins Kino.
-xf-0153; nach (zeitlich); after; ; A1; Allgemein/Zeit; After school I usually go to football training.; Nach der Schule gehe ich meistens zum Fußballtraining.
+xf-0153; nach (nach dem Essen); after; ; A1; Allgemein/Zeit; After school I usually go to football training.; Nach der Schule gehe ich meistens zum Fußballtraining.
 xf-0154; hinterher; afterwards; afterward; B1; Allgemein/Zeit; We went for a walk and had a coffee afterwards.; Wir sind spazieren gegangen und haben hinterher einen Kaffee getrunken.
 xf-0155; endlich; finally; at last; A2; Allgemein/Zeit; The holidays have finally started, hooray!; Endlich haben die Ferien angefangen, hurra!
 xf-0156; Moment; moment; ; A2; Allgemein/Zeit; Just a moment, please, I'll be right back.; Einen Moment bitte, ich bin gleich zurück.
 xf-0157; nächste; next; ; A1; Allgemein/Zeit; We are flying to Spain next week.; Nächste Woche fliegen wir nach Spanien.
 xf-0158; seit; since; for; A2; Allgemein/Zeit; I have been learning English since I was eight.; Ich lerne Englisch, seit ich acht bin.
-xf-0159; vorbei (zu Ende); over; ; A2; Allgemein/Zeit; The summer is over and school starts again.; Der Sommer ist vorbei und die Schule fängt wieder an.
+xf-0159; vorbei (die Ferien sind vorbei); over; ; A2; Allgemein/Zeit; The summer is over and school starts again.; Der Sommer ist vorbei und die Schule fängt wieder an.
 xf-0160; vergangen; past; last; B1; Allgemein/Zeit; In the past few weeks it has rained a lot.; In den vergangenen Wochen hat es viel geregnet.
 xf-0161; gegenwärtig; current; present; B2; Allgemein/Zeit; The current situation is difficult for many families.; Die gegenwärtige Lage ist für viele Familien schwierig.
 xf-0162; dort; there; ; A1; Allgemein/Raum; Can you see the red house over there?; Siehst du das rote Haus dort drüben?
 xf-0163; weg; away; gone; A2; Allgemein/Raum; Go away, I want to be alone!; Geh weg, ich will allein sein!
 xf-0164; herum; around; round; B1; Allgemein/Raum; We walked around the lake in an hour.; Wir sind in einer Stunde um den See herum gelaufen.
-xf-0165; um (räumlich); around; round; A2; Allgemein/Raum; We sat around the fire and sang songs.; Wir saßen um das Feuer und sangen Lieder.
-xf-0166; über (räumlich); over; above; A2; Allgemein/Raum; A small plane flew over our house.; Ein kleines Flugzeug ist über unser Haus geflogen.
-xf-0167; vorbei (räumlich); past; ; A2; Allgemein/Raum; We drove past the old castle on our way home.; Auf dem Heimweg sind wir an der alten Burg vorbeigefahren.
+xf-0165; um (um das Haus herum); around; round; A2; Allgemein/Raum; We sat around the fire and sang songs.; Wir saßen um das Feuer und sangen Lieder.
+xf-0166; über (über die Stadt fliegen); over; above; A2; Allgemein/Raum; A small plane flew over our house.; Ein kleines Flugzeug ist über unser Haus geflogen.
+xf-0167; vorbei (am Haus vorbei); past; ; A2; Allgemein/Raum; We drove past the old castle on our way home.; Auf dem Heimweg sind wir an der alten Burg vorbeigefahren.
 xf-0168; hinunter; down; ; B1; Allgemein/Raum; The children ran down the hill to the lake.; Die Kinder rannten den Hügel hinunter zum See.
 xf-0169; hinauf; up; ; B1; Allgemein/Raum; We climbed up the tower to see the view.; Wir sind auf den Turm hinaufgestiegen, um die Aussicht zu sehen.
 xf-0170; nach oben; up; upstairs; A2; Allgemein/Raum; Take the lift up to the fifth floor.; Fahr mit dem Aufzug nach oben in den fünften Stock.
 xf-0171; oberhalb; above; ; B1; Allgemein/Raum; There is a small hut above the village.; Oberhalb des Dorfes gibt es eine kleine Hütte.
 xf-0172; nah; near; close; A2; Allgemein/Raum; The hotel is very near the beach.; Das Hotel liegt ganz nah am Strand.
-xf-0173; Ort (Platz); place; ; A2; Allgemein/Raum; This is the perfect place for a picnic.; Das ist der perfekte Ort für ein Picknick.
+xf-0173; Ort (ein schöner Ort); place; ; A2; Allgemein/Raum; This is the perfect place for a picnic.; Das ist der perfekte Ort für ein Picknick.
 xf-0174; Gebiet; area; region; A2; Allgemein/Raum; This area is famous for its wine.; Dieses Gebiet ist für seinen Wein bekannt.
 xf-0175; Region; region; ; B1; Allgemein/Raum; It often snows in this region in winter.; In dieser Region schneit es im Winter oft.
 xf-0176; Standort; location; site; B2; Allgemein/Raum; The company is looking for a new location for its office.; Die Firma sucht einen neuen Standort für ihr Büro.
@@ -184,8 +184,8 @@ xf-0180; Mitte; middle; centre, center; A2; Allgemein/Raum; There is a big tree 
 xf-0181; Mittelpunkt; centre; center; B1; Allgemein/Raum; The baby was the centre of attention at the party.; Das Baby war auf der Feier der Mittelpunkt.
 xf-0182; Vorderseite; front; ; B1; Allgemein/Raum; Write your name on the front of the envelope.; Schreib deinen Namen auf die Vorderseite des Umschlags.
 xf-0183; Rückseite; back; reverse; B1; Allgemein/Raum; The answers are on the back of the page.; Die Lösungen stehen auf der Rückseite der Seite.
-xf-0184; Raum (Platz); space; room; B1; Allgemein/Raum; There isn't enough space for a piano in our flat.; In unserer Wohnung ist nicht genug Raum für ein Klavier.
-xf-0185; rund (Form); round; ; A2; Allgemein/Raum; We bought a round table for the kitchen.; Wir haben einen runden Tisch für die Küche gekauft.
+xf-0184; Raum (Raum für neue Ideen); space; room; B1; Allgemein/Raum; There isn't enough space for a piano in our flat.; In unserer Wohnung ist nicht genug Raum für ein Klavier.
+xf-0185; rund (ein runder Tisch); round; ; A2; Allgemein/Raum; We bought a round table for the kitchen.; Wir haben einen runden Tisch für die Küche gekauft.
 xf-0186; schief; crooked; lopsided; B2; Allgemein/Raum; The picture on the wall is hanging crooked.; Das Bild an der Wand hängt schief.
 xf-0187; Ausgang; exit; way out; A2; Allgemein/Raum; Excuse me, where is the exit of the car park?; Entschuldigung, wo ist der Ausgang vom Parkhaus?
 xf-0188; Eingang; entrance; way in; A2; Allgemein/Raum; Let's meet at the entrance of the station.; Treffen wir uns am Eingang des Bahnhofs.
@@ -195,7 +195,7 @@ xf-0191; Fall; case; ; B1; Allgemein/Begriffe; In that case, we'll stay at home.
 xf-0192; Zustand; condition; state; B1; Allgemein/Begriffe; The old car is still in very good condition.; Das alte Auto ist noch in sehr gutem Zustand.
 xf-0193; Veränderung; change; ; B1; Allgemein/Begriffe; Moving to a new city is a big change.; Der Umzug in eine neue Stadt ist eine große Veränderung.
 xf-0194; Wandel; change; transformation; B2; Allgemein/Begriffe; The village has undergone a lot of change in recent years.; Das Dorf hat in den letzten Jahren einen großen Wandel erlebt.
-xf-0195; Versuch (Bemühung); attempt; try; B1; Allgemein/Begriffe; He passed his driving test at the first attempt.; Er hat die Fahrprüfung beim ersten Versuch bestanden.
+xf-0195; Versuch (beim ersten Versuch); attempt; try; B1; Allgemein/Begriffe; He passed his driving test at the first attempt.; Er hat die Fahrprüfung beim ersten Versuch bestanden.
 xf-0196; Mühe; effort; trouble; B1; Allgemein/Begriffe; Thank you for all the effort you put into the party.; Danke für die Mühe, die du dir mit der Party gemacht hast.
 xf-0197; Gefahr; danger; ; A2; Allgemein/Begriffe; The doctors say he is out of danger now.; Die Ärzte sagen, er ist jetzt außer Gefahr.
 xf-0198; Schutz; protection; ; B1; Allgemein/Begriffe; This cream offers good protection against the sun.; Diese Creme bietet guten Schutz vor der Sonne.
@@ -225,7 +225,7 @@ xf-0221; Kontakt; contact; ; A2; Allgemein/Begriffe; Do you still have contact w
 xf-0222; Merkmal; feature; characteristic; B2; Allgemein/Begriffe; Red hair is a typical feature of his family.; Rote Haare sind ein typisches Merkmal seiner Familie.
 xf-0223; Prinzip; principle; ; B1; Allgemein/Begriffe; On principle, I never lend money to anyone.; Aus Prinzip leihe ich niemandem Geld.
 xf-0224; Grundsatz; principle; ; B2; Allgemein/Begriffe; Honesty is one of his most important principles.; Ehrlichkeit ist einer seiner wichtigsten Grundsätze.
-xf-0225; Verhältnis (Beziehung); relationship; ; B1; Allgemein/Begriffe; I have a very good relationship with my brother.; Ich habe ein sehr gutes Verhältnis zu meinem Bruder.
+xf-0225; Verhältnis (ein gutes Verhältnis zu den Eltern); relationship; ; B1; Allgemein/Begriffe; I have a very good relationship with my brother.; Ich habe ein sehr gutes Verhältnis zu meinem Bruder.
 xf-0226; Abwechslung; change; variety; B1; Allgemein/Begriffe; Let's eat out tonight for a change.; Lass uns heute Abend zur Abwechslung essen gehen.
 xf-0227; Belohnung; reward; ; B1; Allgemein/Begriffe; As a reward for the good marks, we went to the zoo.; Als Belohnung für die guten Noten sind wir in den Zoo gegangen.
 xf-0228; Respekt; respect; ; A2; Allgemein/Begriffe; We should treat everyone with respect.; Wir sollten alle mit Respekt behandeln.
@@ -251,30 +251,30 @@ xf-0247; Funktion; function; ; B1; Allgemein/Begriffe; What is the function of t
 xf-0248; Struktur; structure; ; B2; Allgemein/Begriffe; The structure of the text is clear and logical.; Die Struktur des Textes ist klar und logisch.
 xf-0249; System; system; ; B1; Allgemein/Begriffe; The school has a new system for homework.; Die Schule hat ein neues System für Hausaufgaben.
 xf-0250; Reihenfolge; order; sequence; B1; Allgemein/Begriffe; Put the pictures in the right order.; Bring die Bilder in die richtige Reihenfolge.
-xf-0251; Typ (Art); type; kind; B1; Allgemein/Begriffe; This type of heating is very economical.; Dieser Typ von Heizung ist sehr sparsam.
-xf-0252; Typ (Mensch); guy; bloke; B1; Allgemein/Begriffe; Who is that guy next to your sister?; Wer ist der Typ neben deiner Schwester?
+xf-0251; Typ (ein neuer Typ von Handy); type; kind; B1; Allgemein/Begriffe; This type of heating is very economical.; Dieser Typ von Heizung ist sehr sparsam.
+xf-0252; Typ (ein netter Typ); guy; bloke; B1; Allgemein/Begriffe; Who is that guy next to your sister?; Wer ist der Typ neben deiner Schwester?
 xf-0253; Kerl; guy; bloke, fellow; B1; Allgemein/Begriffe; He is a really nice guy, you'll like him.; Er ist ein echt netter Kerl, du wirst ihn mögen.
 xf-0254; Weise; way; manner; B1; Allgemein/Begriffe; She explained it in a very simple way.; Sie hat es auf sehr einfache Weise erklärt.
 xf-0255; Vorhaben; plan; project; B2; Allgemein/Begriffe; We had to give up our plan because of the weather.; Wegen des Wetters mussten wir unser Vorhaben aufgeben.
 xf-0256; Zeug; stuff; things; B1; Allgemein/Begriffe; Can you take your stuff off the table, please?; Kannst du bitte dein Zeug vom Tisch nehmen?
 xf-0257; Kram; stuff; junk; B2; Allgemein/Begriffe; The attic is full of old stuff.; Der Dachboden ist voll mit altem Kram.
 xf-0258; Heimat; home; homeland; B1; Allgemein/Begriffe; After the war, many people had to leave their home.; Nach dem Krieg mussten viele Menschen ihre Heimat verlassen.
-xf-0259; Stufe (Niveau); level; stage; B1; Allgemein/Begriffe; We are now at the second level of the course.; Wir sind jetzt auf der zweiten Stufe des Kurses.
-xf-0260; Blick (Aussicht); view; ; B1; Allgemein/Begriffe; From our room we have a great view of the mountains.; Von unserem Zimmer haben wir einen tollen Blick auf die Berge.
-xf-0261; Blick (Anschauen); look; glance; B1; Allgemein/Begriffe; She gave me an angry look.; Sie warf mir einen wütenden Blick zu.
-xf-0262; Spur (Abdruck); trace; track; B2; Allgemein/Begriffe; The thief disappeared without a trace.; Der Dieb verschwand ohne jede Spur.
-xf-0263; Beitrag (Anteil); contribution; ; B2; Allgemein/Begriffe; Everyone made a small contribution to the present.; Jeder hat einen kleinen Beitrag zu dem Geschenk geleistet.
-xf-0264; Mittel (Methode); means; way; B2; Allgemein/Begriffe; Cycling is a cheap means of getting to school.; Radfahren ist ein günstiges Mittel, um zur Schule zu kommen.
+xf-0259; Stufe (eine höhere Stufe); level; stage; B1; Allgemein/Begriffe; We are now at the second level of the course.; Wir sind jetzt auf der zweiten Stufe des Kurses.
+xf-0260; Blick (der Blick aufs Meer); view; ; B1; Allgemein/Begriffe; From our room we have a great view of the mountains.; Von unserem Zimmer haben wir einen tollen Blick auf die Berge.
+xf-0261; Blick (einen Blick darauf werfen); look; glance; B1; Allgemein/Begriffe; She gave me an angry look.; Sie warf mir einen wütenden Blick zu.
+xf-0262; Spur (Spuren im Schnee); trace; track; B2; Allgemein/Begriffe; The thief disappeared without a trace.; Der Dieb verschwand ohne jede Spur.
+xf-0263; Beitrag (einen Beitrag leisten); contribution; ; B2; Allgemein/Begriffe; Everyone made a small contribution to the present.; Jeder hat einen kleinen Beitrag zu dem Geschenk geleistet.
+xf-0264; Mittel (ein Mittel zum Zweck); means; way; B2; Allgemein/Begriffe; Cycling is a cheap means of getting to school.; Radfahren ist ein günstiges Mittel, um zur Schule zu kommen.
 xf-0265; Anblick; sight; ; B2; Allgemein/Begriffe; The sunset over the sea was a beautiful sight.; Der Sonnenuntergang über dem Meer war ein schöner Anblick.
 xf-0266; Chance; chance; opportunity; A2; Allgemein/Begriffe; This is your last chance, so don't waste it!; Das ist deine letzte Chance, also verschwende sie nicht!
 xf-0267; Einblick; insight; ; B2; Allgemein/Begriffe; The trip gave us an insight into life on a farm.; Die Reise hat uns einen Einblick in das Leben auf einem Bauernhof gegeben.
 xf-0268; Erlebnis; experience; ; B1; Allgemein/Begriffe; The concert was an unforgettable experience for all of us.; Das Konzert war für uns alle ein unvergessliches Erlebnis.
 xf-0269; Gefallen; favour; favor; B1; Allgemein/Begriffe; Could you do me a favour and feed my cat?; Kannst du mir einen Gefallen tun und meine Katze füttern?
-xf-0270; Haltung (Einstellung); attitude; ; B2; Allgemein/Begriffe; She has a very positive attitude towards life.; Sie hat eine sehr positive Haltung zum Leben.
+xf-0270; Haltung (eine kritische Haltung); attitude; ; B2; Allgemein/Begriffe; She has a very positive attitude towards life.; Sie hat eine sehr positive Haltung zum Leben.
 xf-0271; Illusion; illusion; ; B2; Allgemein/Begriffe; Don't have any illusions, the exam will be hard.; Mach dir keine Illusionen, die Prüfung wird schwer.
 xf-0272; Missgeschick; mishap; ; B2; Allgemein/Begriffe; I had a little mishap with the coffee machine.; Mir ist ein kleines Missgeschick mit der Kaffeemaschine passiert.
 xf-0273; Notwendigkeit; necessity; need; B2; Allgemein/Begriffe; A car is not a necessity in a big city.; In einer Großstadt ist ein Auto keine Notwendigkeit.
-xf-0274; Ruf (Ansehen); reputation; ; B2; Allgemein/Begriffe; The restaurant has an excellent reputation in the town.; Das Restaurant hat in der Stadt einen ausgezeichneten Ruf.
+xf-0274; Ruf (einen guten Ruf haben); reputation; ; B2; Allgemein/Begriffe; The restaurant has an excellent reputation in the town.; Das Restaurant hat in der Stadt einen ausgezeichneten Ruf.
 xf-0275; Unsicherheit; uncertainty; insecurity; B2; Allgemein/Begriffe; There is still a lot of uncertainty about the new rules.; Über die neuen Regeln herrscht noch große Unsicherheit.
 xf-0276; Unterbrechung; interruption; ; B1; Allgemein/Begriffe; We worked for six hours without interruption.; Wir haben sechs Stunden ohne Unterbrechung gearbeitet.
 xf-0277; Vorstellungskraft; imagination; ; B2; Allgemein/Begriffe; Writing stories needs a lot of imagination.; Zum Geschichtenschreiben braucht man viel Vorstellungskraft.
@@ -288,11 +288,11 @@ xf-0284; Beutel; bag; pouch; B1; Alltag/Zuhause/Haushalt; Put the sandwiches in 
 xf-0285; Müllsack; bin bag; rubbish bag, bin liner, garbage bag, trash bag; B1; Alltag/Zuhause/Haushalt; Can you take the bin bag outside, please?; Kannst du bitte den Müllsack nach draußen bringen?
 xf-0286; Fußboden; floor; ; A2; Alltag/Zuhause/Räume; The children were sitting on the floor and playing.; Die Kinder saßen auf dem Fußboden und spielten.
 xf-0287; Etage; floor; storey, story; A2; Alltag/Zuhause/Räume; Our flat is on the third floor.; Unsere Wohnung ist in der dritten Etage.
-xf-0288; Raum (Zimmer); room; ; A2; Alltag/Zuhause/Räume; The biggest room in the house is the kitchen.; Der größte Raum im Haus ist die Küche.
-xf-0289; Stufe (Treppe); step; stair; A2; Alltag/Zuhause/Räume; Be careful, the first step is very high.; Pass auf, die erste Stufe ist sehr hoch.
+xf-0288; Raum (einen Raum betreten); room; ; A2; Alltag/Zuhause/Räume; The biggest room in the house is the kitchen.; Der größte Raum im Haus ist die Küche.
+xf-0289; Stufe (die Stufen der Treppe); step; stair; A2; Alltag/Zuhause/Räume; Be careful, the first step is very high.; Pass auf, die erste Stufe ist sehr hoch.
 xf-0290; Garage; garage; ; A2; Alltag/Zuhause/Räume; Dad parks the car in the garage every evening.; Papa stellt das Auto jeden Abend in die Garage.
 xf-0291; Schornstein; chimney; ; B1; Alltag/Zuhause/Räume; Smoke was coming out of the chimney.; Aus dem Schornstein kam Rauch.
-xf-0292; Hof (am Haus); yard; courtyard; B1; Alltag/Zuhause/Garten; The children are playing football in the yard.; Die Kinder spielen im Hof Fußball.
+xf-0292; Hof (der Hof hinter dem Haus); yard; courtyard; B1; Alltag/Zuhause/Garten; The children are playing football in the yard.; Die Kinder spielen im Hof Fußball.
 xf-0293; Grundstück; plot; property, piece of land; B2; Alltag/Zuhause/Garten; They bought a plot and want to build a house.; Sie haben ein Grundstück gekauft und wollen ein Haus bauen.
 xf-0294; Essen; food; meal; A1; Alltag/Essen/Mahlzeiten; The food in this restaurant is really good.; Das Essen in diesem Restaurant ist richtig gut.
 xf-0295; Lebensmittel; food; groceries; A2; Alltag/Essen/Lebensmittel; We buy our food at the market on Saturdays.; Unsere Lebensmittel kaufen wir samstags auf dem Markt.
@@ -314,14 +314,14 @@ xf-0310; riechen; to smell; ; A2; Gesundheit/Körper; The kitchen smells of fres
 xf-0311; nackt; naked; ; B1; Gesundheit/Körper; The baby was lying naked on the towel.; Das Baby lag nackt auf dem Handtuch.
 xf-0312; verletzt; injured; hurt; A2; Gesundheit/Symptome; Two people were injured in the accident.; Bei dem Unfall wurden zwei Menschen verletzt.
 xf-0313; Sonnenstich; sunstroke; ; B2; Gesundheit/Krankheiten; Wear a hat, or you'll get sunstroke.; Setz einen Hut auf, sonst bekommst du einen Sonnenstich.
-xf-0314; Kurs (Unterricht); course; class; A2; Bildung/Lernen; I'm doing a course at the adult education centre.; Ich mache einen Kurs an der Volkshochschule.
+xf-0314; Kurs (einen Kurs besuchen); course; class; A2; Bildung/Lernen; I'm doing a course at the adult education centre.; Ich mache einen Kurs an der Volkshochschule.
 xf-0315; Wiederholung; revision; repetition, review; B1; Bildung/Lernen; Before the test we have a lesson for revision.; Vor dem Test haben wir eine Stunde zur Wiederholung.
 xf-0316; Zeile; line; ; A2; Bildung/Sprache/Lesen & Schreiben; Please read the first three lines aloud.; Lies bitte die ersten drei Zeilen laut vor.
 xf-0317; Gliederung; outline; structure; B2; Bildung/Sprache/Lesen & Schreiben; Make an outline before you start writing your essay.; Mach eine Gliederung, bevor du deinen Aufsatz schreibst.
 xf-0318; nachsprechen; to repeat; ; B1; Bildung/Sprache/Wörter & Aussprache; Listen and repeat the words after me.; Hört zu und sprecht die Wörter nach.
 xf-0319; Geografie; geography; ; A2; Bildung/Schule/Fächer; In geography we are learning about rivers and mountains.; In Geografie lernen wir etwas über Flüsse und Berge.
 xf-0320; Zeichenblock; sketchpad; sketchbook, drawing pad; B1; Bildung/Schule/Schulsachen; For art class you need a sketchpad and pencils.; Für den Kunstunterricht brauchst du einen Zeichenblock und Bleistifte.
-xf-0321; Betrieb (Firma); company; business, firm; B1; Arbeit/Beruf/Arbeitsplatz; She did her training at a small company in town.; Sie hat ihre Ausbildung in einem kleinen Betrieb in der Stadt gemacht.
+xf-0321; Betrieb (in einem Betrieb arbeiten); company; business, firm; B1; Arbeit/Beruf/Arbeitsplatz; She did her training at a small company in town.; Sie hat ihre Ausbildung in einem kleinen Betrieb in der Stadt gemacht.
 xf-0322; Dienst; duty; service; B1; Arbeit/Beruf/Arbeitsalltag; The nurse is on duty until midnight today.; Die Krankenschwester hat heute bis Mitternacht Dienst.
 xf-0323; beruflich; professional; work-related; B1; Arbeit/Beruf/Arbeitsalltag; My father often travels for professional reasons.; Mein Vater reist oft aus beruflichen Gründen.
 xf-0324; Handwerk; craft; trade; B2; Arbeit/Beruf/Berufe; Carpentry is an old craft that needs a lot of skill.; Die Tischlerei ist ein altes Handwerk, das viel Geschick braucht.
@@ -362,14 +362,14 @@ xf-0358; Trailer; trailer; ; B1; Kultur/Theater & Film; The trailer for the new 
 xf-0359; Harfe; harp; ; B1; Kultur/Musik; She has been playing the harp since she was six.; Sie spielt Harfe, seit sie sechs ist.
 xf-0360; Klang; sound; ; B1; Kultur/Musik; I love the sound of the piano in the evening.; Ich liebe den Klang des Klaviers am Abend.
 xf-0361; Rahmen; frame; ; B1; Kultur/Kunst & Museum; The painting hangs in a heavy golden frame.; Das Gemälde hängt in einem schweren goldenen Rahmen.
-xf-0362; ausstellen (zeigen); to exhibit; to display, to show; B1; Kultur/Kunst & Museum; The museum is exhibiting paintings by young artists.; Das Museum stellt Bilder von jungen Künstlern aus.
+xf-0362; ausstellen (Bilder ausstellen); to exhibit; to display, to show; B1; Kultur/Kunst & Museum; The museum is exhibiting paintings by young artists.; Das Museum stellt Bilder von jungen Künstlern aus.
 xf-0363; reimen; to rhyme; ; B1; Kultur/Literatur; In this poem, every second line rhymes.; In diesem Gedicht reimt sich jede zweite Zeile.
 xf-0364; Zeitalter; age; era; B2; Kultur/Geschichte; We live in the age of the internet.; Wir leben im Zeitalter des Internets.
 xf-0365; Zeitleiste; timeline; ; B2; Kultur/Geschichte; Draw a timeline of the most important events.; Zeichne eine Zeitleiste der wichtigsten Ereignisse.
 xf-0366; Kaiserin; empress; ; B2; Kultur/Geschichte; The empress lived in a huge palace in Vienna.; Die Kaiserin lebte in einem riesigen Palast in Wien.
 xf-0367; Kreuzzug; crusade; ; C1; Kultur/Geschichte; The first crusade began at the end of the eleventh century.; Der erste Kreuzzug begann am Ende des elften Jahrhunderts.
 xf-0368; Glocke; bell; ; A2; Gesellschaft/Religion; The church bells ring every Sunday morning.; Jeden Sonntagmorgen läuten die Glocken der Kirche.
-xf-0369; Kapelle (Kirche); chapel; ; B2; Gesellschaft/Religion; There is a small chapel at the top of the hill.; Oben auf dem Hügel steht eine kleine Kapelle.
+xf-0369; Kapelle (in der Kapelle beten); chapel; ; B2; Gesellschaft/Religion; There is a small chapel at the top of the hill.; Oben auf dem Hügel steht eine kleine Kapelle.
 xf-0370; Paradies; paradise; ; B1; Gesellschaft/Religion; This beach is a real paradise for surfers.; Dieser Strand ist ein echtes Paradies für Surfer.
 xf-0371; Predigt; sermon; ; B2; Gesellschaft/Religion; The priest gave a short sermon about hope.; Der Pfarrer hielt eine kurze Predigt über die Hoffnung.
 xf-0372; Altar; altar; ; B2; Gesellschaft/Religion; There were fresh flowers on the altar.; Auf dem Altar standen frische Blumen.

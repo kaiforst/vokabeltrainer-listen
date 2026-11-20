@@ -39,7 +39,7 @@ no-ke-0036; irgendetwas; noe; ; A2; Karstens Empfehlung/Wörter; Er det noe å s
 no-ke-0037; Gegend, Gebiet; et område; en egn; A2; Karstens Empfehlung/Wörter; Dette området er kjent for sine fine fjellturer.; Diese Gegend ist bekannt für ihre schönen Bergwanderungen.
 no-ke-0038; Streit; en krangel; ; A2; Karstens Empfehlung/Wörter; De hadde en krangel om pengene.; Sie hatten einen Streit um das Geld.
 no-ke-0039; Arm; en arm; ; A1; Karstens Empfehlung/Wörter; Hun brakk armen i fjor vinter.; Sie hat sich letzten Winter den Arm gebrochen.
-no-ke-0040; herum, um, ungefähr; rundt; omkring; A2; Karstens Empfehlung/Wörter; Vi gikk rundt vannet på søndag.; Wir sind am Sonntag um den See herumgelaufen.
+no-ke-0040; herum, um; rundt; omkring; A2; Karstens Empfehlung/Wörter; Vi gikk rundt vannet på søndag.; Wir sind am Sonntag um den See herumgelaufen.
 no-ke-0041; Kunst; en kunst; ; A1; Karstens Empfehlung/Wörter; Moderne kunst er ikke alltid lett å forstå.; Moderne Kunst ist nicht immer leicht zu verstehen.
 no-ke-0042; Artikel, Ware, Gegenstand; en artikkel; en vare; A2; Karstens Empfehlung/Wörter; Jeg leste en interessant artikkel om sunn mat.; Ich habe einen interessanten Artikel über gesundes Essen gelesen.
 no-ke-0043; so, wie, genauso; like; så, som; A2; Karstens Empfehlung/Wörter; Broren min er like høy som faren min.; Mein Bruder ist genauso groß wie mein Vater.
@@ -48,11 +48,11 @@ no-ke-0045; Zuschauer, Publikum; et publikum; tilskuere; B1; Karstens Empfehlung
 no-ke-0046; verfügbar; tilgjengelig; ; B1; Karstens Empfehlung/Wörter; Billettene er fortsatt tilgjengelige på nettsiden.; Die Karten sind auf der Website noch verfügbar.
 no-ke-0047; weg, fort; bort; vekk; A2; Karstens Empfehlung/Wörter; Fuglen fløy bort da den så katten.; Der Vogel flog weg, als er die Katze sah.
 no-ke-0048; fantastisch, großartig; fantastisk; flott; B1; Karstens Empfehlung/Wörter; Konserten i går kveld var fantastisk.; Das Konzert gestern Abend war fantastisch.
-no-ke-0049; Rücken, Rückseite; en rygg; en bakside; A1; Karstens Empfehlung/Wörter; Ryggen hans verker etter å ha sittet så lenge.; Sein Rücken schmerzt vom langen Sitzen.
+no-ke-0049; Rücken; en rygg; ; A1; Karstens Empfehlung/Wörter; Ryggen hans verker etter å ha sittet så lenge.; Sein Rücken schmerzt vom langen Sitzen.
 no-ke-0050; schlecht; dårlig; ; A1; Karstens Empfehlung/Wörter; Filmen var virkelig dårlig, det beklager jeg.; Der Film war wirklich schlecht, tut mir leid.
 no-ke-0051; Tasche, Beutel; en pose; en bærepose; A1; Karstens Empfehlung/Wörter; Trenger du en pose til dette?; Brauchen Sie dafür eine Tasche?
 no-ke-0052; Bäckerei; et bakeri; ; A2; Karstens Empfehlung/Wörter; Bakeriet åpner klokka seks om morgenen.; Die Bäckerei öffnet um sechs Uhr morgens.
-no-ke-0053; Bank (Geldinstitut); en bank; ; A2; Karstens Empfehlung/Wörter; Banken stenger klokka fire på ettermiddagen.; Die Bank schließt um vier Uhr nachmittags.
+no-ke-0053; Bank (Geld auf die Bank bringen); en bank; ; A2; Karstens Empfehlung/Wörter; Banken stenger klokka fire på ettermiddagen.; Die Bank schließt um vier Uhr nachmittags.
 no-ke-0054; wunderschön; nydelig; vakker, praktfull; A1; Karstens Empfehlung/Wörter; Om våren ser hagen nydelig ut.; Im Frühling sieht der Garten wunderschön aus.
 no-ke-0055; weil; fordi; ; A1; Karstens Empfehlung/Wörter; Jeg blir hjemme fordi jeg er syk.; Ich bleibe zu Hause, weil ich krank bin.
 no-ke-0056; Bett; ei seng; en seng; A1; Karstens Empfehlung/Wörter; Jeg legger meg i sengen klokka ti.; Ich gehe um zehn Uhr ins Bett.
@@ -67,11 +67,11 @@ no-ke-0064; zwischen; mellom; ; A2; Karstens Empfehlung/Wörter; Butikken ligger
 no-ke-0065; jenseits von; bortenfor; hinsides; B2; Karstens Empfehlung/Wörter; Landsbyen ligger bortenfor åsene, ved fjorden.; Das Dorf liegt jenseits der Hügel, am Fjord.
 no-ke-0066; groß; stor; ; A1; Karstens Empfehlung/Wörter; De bor i et stort hus med hage.; Sie wohnen in einem großen Haus mit Garten.
 no-ke-0067; Fahrrad; en sykkel; ; A1; Karstens Empfehlung/Wörter; Jeg tar sykkelen til skolen hver dag.; Ich fahre jeden Tag mit dem Fahrrad zur Schule.
-no-ke-0068; Rechnung (Restaurant); en regning; ; A2; Karstens Empfehlung/Wörter; Unnskyld, kan vi få regningen, takk?; Könnten wir bitte die Rechnung haben?
+no-ke-0068; Rechnung (die Rechnung im Restaurant); en regning; ; A2; Karstens Empfehlung/Wörter; Unnskyld, kan vi få regningen, takk?; Könnten wir bitte die Rechnung haben?
 no-ke-0069; schwarz; svart; ; A1; Karstens Empfehlung/Wörter; Katten min er svart med hvite poter.; Meine Katze ist schwarz mit weißen Pfoten.
 no-ke-0070; Blut; et blod; ; A2; Karstens Empfehlung/Wörter; Sykepleieren tok blod av meg i dag tidlig.; Die Schwester hat heute Morgen Blut abgenommen.
 no-ke-0071; blau; blå; ; A1; Karstens Empfehlung/Wörter; Himmelen over Bergen er blå i dag.; Der Himmel über Bergen ist heute blau.
-no-ke-0072; Körper, Leiche; en kropp; et legeme; A2; Karstens Empfehlung/Wörter; Sport er bra for kropp og sinn.; Sport ist gut für Körper und Geist.
+no-ke-0072; Körper; en kropp; et legeme; A2; Karstens Empfehlung/Wörter; Sport er bra for kropp og sinn.; Sport ist gut für Körper und Geist.
 no-ke-0073; frech, dreist; frekk; uforskammet; B2; Karstens Empfehlung/Wörter; Det var et frekt svar til læreren.; Das war eine freche Antwort an den Lehrer.
 no-ke-0074; Buch; ei bok; en bok; A1; Karstens Empfehlung/Wörter; Denne boka om dyr er veldig interessant.; Dieses Buch über Tiere ist sehr interessant.
 no-ke-0075; langweilig; kjedelig; ; A1; Karstens Empfehlung/Wörter; Filmen var lang og veldig kjedelig.; Der Film war lang und sehr langweilig.
@@ -84,16 +84,16 @@ no-ke-0081; Schwager; en svoger; ; B1; Karstens Empfehlung/Wörter; Svogeren min
 no-ke-0082; braun; brun; ; A1; Karstens Empfehlung/Wörter; Hunden min har store brune øyne.; Mein Hund hat große braune Augen.
 no-ke-0083; Gebäude; en bygning; et bygg; A2; Karstens Empfehlung/Wörter; Denne bygningen er den høyeste i landet.; Dieses Gebäude ist das höchste im Land.
 no-ke-0084; Bus; en buss; ; A1; Karstens Empfehlung/Wörter; Bussen til sentrum går hvert tiende minutt.; Der Bus in die Stadt kommt alle zehn Minuten.
-no-ke-0085; Geschäft (Handel); en handel; en forretning; A2; Karstens Empfehlung/Wörter; Handelen med den nye partneren går bra.; Das Geschäft mit dem neuen Partner läuft gut.
+no-ke-0085; Geschäft (Geschäfte machen); en handel; en forretning; A2; Karstens Empfehlung/Wörter; Handelen med den nye partneren går bra.; Das Geschäft mit dem neuen Partner läuft gut.
 no-ke-0086; aber; men; ; A1; Karstens Empfehlung/Wörter; Jeg liker epler, men jeg liker ikke pærer.; Ich mag Äpfel, aber ich mag keine Birnen.
 no-ke-0087; ruhig, still, unbewegt; rolig; stille; A1; Karstens Empfehlung/Wörter; Hold deg rolig, alt er i orden.; Bleib ruhig, alles ist in Ordnung.
 no-ke-0088; können; å kunne; ; A1; Karstens Empfehlung/Verben; Kan du hjelpe meg med denne tunge vesken?; Kannst du mir mit dieser schweren Tasche helfen?
-no-ke-0089; Krebs (Krankheit); en kreft; ; B1; Karstens Empfehlung/Wörter; Flere i bygda ble rammet av kreft.; Mehrere Menschen im Ort erkrankten an Krebs.
+no-ke-0089; Krebs (an Krebs erkranken); en kreft; ; B1; Karstens Empfehlung/Wörter; Flere i bygda ble rammet av kreft.; Mehrere Menschen im Ort erkrankten an Krebs.
 no-ke-0090; offen, ehrlich, aufrichtig; oppriktig; åpen, ærlig; C1; Karstens Empfehlung/Wörter; Takk for det oppriktige svaret ditt.; Danke für deine offene Antwort.
 no-ke-0091; schlau, geschickt, gerissen; slu; utspekulert; C2; Karstens Empfehlung/Wörter; Den slue reven fant en vei inn i hagen.; Der schlaue Fuchs fand einen Weg in den Garten.
 no-ke-0092; Hauptstadt; en hovedstad; ei hovedstad; A2; Karstens Empfehlung/Wörter; Oslo er hovedstaden i Norge og landets største by.; Oslo ist die Hauptstadt von Norwegen und die größte Stadt des Landes.
 no-ke-0093; Auto; en bil; ; A1; Karstens Empfehlung/Wörter; Bilen vår er gammel, men fortsatt god.; Unser Auto ist alt, aber noch gut.
-no-ke-0094; Karte, Visitenkarte; et kort; et visittkort; A1; Karstens Empfehlung/Wörter; Hun holder det beste kortet i hånden.; Sie hält die beste Spielkarte in der Hand.
+no-ke-0094; Karte (Karten spielen); et kort; et spillkort; A1; Karstens Empfehlung/Wörter; Hun holder det beste kortet i hånden.; Sie hält die beste Spielkarte in der Hand.
 no-ke-0095; Karriere, Werdegang; en karriere; ; B1; Karstens Empfehlung/Wörter; Han vil gjøre karriere innen markedsføring.; Er möchte Karriere im Marketing machen.
 no-ke-0096; vorsichtig; forsiktig; ; A2; Karstens Empfehlung/Wörter; Vær forsiktig når du krysser veien.; Sei vorsichtig, wenn du die Straße überquerst.
 no-ke-0097; Grund, Ursache; en årsak; en grunn; B1; Karstens Empfehlung/Wörter; Ingen kjenner den egentlige årsaken til brannen.; Niemand kennt die eigentliche Ursache des Feuers.
@@ -103,7 +103,7 @@ no-ke-0100; sicher, bestimmt; sikker; viss; B1; Karstens Empfehlung/Wörter; Jeg
 no-ke-0101; sicherlich, gewiss; sikkert; ; B1; Karstens Empfehlung/Wörter; Dette er sikkert ikke den billigste løsningen.; Das ist sicherlich nicht die günstigste Lösung.
 no-ke-0102; Stuhl; en stol; ; A1; Karstens Empfehlung/Wörter; Sett deg på denne stolen her.; Bitte setz dich auf diesen Stuhl hier.
 no-ke-0103; Herausforderung; en utfordring; ; B1; Karstens Empfehlung/Wörter; Å lære kinesisk er en reell utfordring for meg.; Chinesisch zu lernen ist eine echte Herausforderung für mich.
-no-ke-0104; Gelegenheit, Zufall; en mulighet; en anledning, en sjanse, en tilfeldighet; B1; Karstens Empfehlung/Wörter; Dette er en flott mulighet til å få nye venner.; Das ist eine tolle Gelegenheit, neue Freunde zu finden.
+no-ke-0104; Gelegenheit; en mulighet; en anledning, en sjanse; B1; Karstens Empfehlung/Wörter; Dette er en flott mulighet til å få nye venner.; Das ist eine tolle Gelegenheit, neue Freunde zu finden.
 no-ke-0105; billig; billig; ; A1; Karstens Empfehlung/Wörter; Billettene er veldig billige på mandager.; Die Karten sind montags billig.
 no-ke-0106; Kind; et barn; ; A1; Karstens Empfehlung/Wörter; Barnet leker med en liten ball.; Das Kind spielt mit einem kleinen Ball.
 no-ke-0107; Wahl, Auswahl; et valg; et utvalg; B1; Karstens Empfehlung/Wörter; Du har valget mellom te og juice.; Du hast die Wahl zwischen Tee und Saft.
@@ -121,19 +121,19 @@ no-ke-0118; bewölkt, trüb; overskyet; skyet; A2; Karstens Empfehlung/Wörter; 
 no-ke-0119; ungeschickt, tollpatschig; klønete; keitete; B2; Karstens Empfehlung/Wörter; Jeg er så klønete, jeg mistet koppen igjen.; Ich bin so tollpatschig, ich habe meine Tasse wieder fallen lassen.
 no-ke-0120; kalt; kald; ; A1; Karstens Empfehlung/Wörter; Vannet i innsjøen er veldig kaldt nå.; Das Wasser im See ist kalt.
 no-ke-0121; Sammlung; en samling; ; A2; Karstens Empfehlung/Wörter; Samlingen hans av frimerker fyller tre tykke album.; Seine Sammlung von Briefmarken füllt drei dicke Alben.
-no-ke-0122; Farbe (Farbton); ei farge; en farge; A1; Karstens Empfehlung/Wörter; Hvilken farge har den nye sykkelen din?; Welche Farbe hat dein neues Fahrrad?
+no-ke-0122; Farbe (welche Farbe hat das?); ei farge; en farge; A1; Karstens Empfehlung/Wörter; Hvilken farge har den nye sykkelen din?; Welche Farbe hat dein neues Fahrrad?
 no-ke-0123; Gemeinde, Gemeinschaft; et fellesskap; et samfunn, en kommune; B2; Karstens Empfehlung/Wörter; Et sterkt fellesskap støtter de svakeste medlemmene sine.; Eine starke Gemeinschaft unterstützt ihre schwächsten Mitglieder.
-no-ke-0124; Begleitung, Firma; et selskap; et firma, en bedrift; A1; Karstens Empfehlung/Wörter; Selskapet har over to hundre ansatte.; Die Firma hat über zweihundert Mitarbeiter.
+no-ke-0124; Begleitung; et selskap; ; A1; Karstens Empfehlung/Wörter; Takk for selskapet i kveld.; Danke für deine Begleitung heute Abend.
 no-ke-0125; Bedingung; en betingelse; ; B1; Karstens Empfehlung/Wörter; Godt lys er en viktig betingelse for fotografering.; Gutes Licht ist eine wichtige Bedingung für das Fotografieren.
 no-ke-0126; zuversichtlich; optimistisk; ; B1; Karstens Empfehlung/Wörter; Hun er optimistisk og tror at hun klarer prøven.; Sie ist optimistisch und glaubt, dass sie den Test schafft.
 no-ke-0127; verwirrend; forvirrende; ; B1; Karstens Empfehlung/Wörter; Reglene i dette spillet er veldig forvirrende.; Die Regeln dieses Spiels sind sehr verwirrend.
 no-ke-0128; zufrieden; fornøyd; tilfreds; B2; Karstens Empfehlung/Wörter; Katten så fornøyd ut i den varme solen.; Die Katze sah in der warmen Sonne zufrieden aus.
 no-ke-0129; Kosten; kostnader; utgifter; B1; Karstens Empfehlung/Wörter; Kostnadene for skoleturen er fem hundre kroner.; Die Kosten für den Schulausflug betragen fünfhundert Kronen.
 no-ke-0130; könnte; kunne; ; A2; Karstens Empfehlung/Verben; Kunne du hjelpe meg med vesken min, takk?; Könntest du mir bitte mit meiner Tasche helfen?
-no-ke-0131; Land (Staat); et land; ; A1; Karstens Empfehlung/Wörter; Norge er et lite land i Nord-Europa.; Norwegen ist ein kleines Land in Nordeuropa.
+no-ke-0131; Land (ein fremdes Land); et land; ; A1; Karstens Empfehlung/Wörter; Norge er et lite land i Nord-Europa.; Norwegen ist ein kleines Land in Nordeuropa.
 no-ke-0132; ländlicher Raum; ei landsbygd; en landsbygd; A2; Karstens Empfehlung/Wörter; Besteforeldrene mine har alltid bodd på landsbygda.; Meine Großeltern haben immer im ländlichen Raum gelebt.
-no-ke-0133; Kurs, Verlauf; et kurs; et løp, et forløp; B1; Karstens Empfehlung/Wörter; Elva endret kurs etter den store flommen.; Der Fluss änderte nach dem großen Hochwasser seinen Kurs.
-no-ke-0134; Hof, Hinterhof, Gericht; en domstol; en rett; A2; Karstens Empfehlung/Wörter; Domstolen skal avgjøre saken i morgen.; Das Gericht entscheidet den Fall morgen.
+no-ke-0133; Kurs (einen Kurs besuchen); et kurs; ; B1; Karstens Empfehlung/Wörter; Søsteren min går på gitarkurs.; Meine Schwester macht einen Gitarrenkurs.
+no-ke-0134; Hof, Hinterhof; en gårdsplass; et tun, en bakgård; A2; Karstens Empfehlung/Wörter; Barna leker på gårdsplassen bak huset.; Die Kinder spielen auf dem Hof hinter dem Haus.
 no-ke-0135; Verbrechen; en forbrytelse; ; B1; Karstens Empfehlung/Wörter; Politiet oppklarte forbrytelsen i løpet av få dager.; Die Polizei klärte das Verbrechen innerhalb weniger Tage auf.
 no-ke-0136; schief, schräg; skjev; skrå; C1; Karstens Empfehlung/Wörter; Bildet på veggen i stua henger skjevt.; Das Bild an der Wand im Wohnzimmer hängt schief.
 no-ke-0137; Tasse; en kopp; ; A1; Karstens Empfehlung/Wörter; Jeg drikker en kopp kaffe på jobben.; Ich trinke bei der Arbeit eine Tasse Kaffee.
@@ -150,7 +150,7 @@ no-ke-0147; anständig, ehrbar; anstendig; hederlig, skikkelig; B2; Karstens Emp
 no-ke-0148; Entscheidung; en beslutning; en avgjørelse; B2; Karstens Empfehlung/Wörter; Den endelige beslutningen tas på fredag.; Die endgültige Entscheidung fällt am Freitag.
 no-ke-0149; tief; dyp; ; A2; Karstens Empfehlung/Wörter; Innsjøen er veldig dyp i midten.; Der See ist in der Mitte sehr tief.
 no-ke-0150; Verteidigung; et forsvar; ; B1; Karstens Empfehlung/Wörter; Et sterkt forsvar vinner mange jevne kamper.; Eine starke Verteidigung gewinnt viele enge Spiele.
-no-ke-0151; Maß, Ausmaß, Grad; en grad; et omfang; A2; Karstens Empfehlung/Wörter; I skyggen er det tretti grader i dag.; Im Schatten sind es dreißig Grad.
+no-ke-0151; Maß (in gewissem Maße); en grad; ; A2; Karstens Empfehlung/Wörter; Jeg er enig med deg i en viss grad.; Ich stimme dir in gewissem Maße zu.
 no-ke-0152; köstlich; deilig; lekker; A2; Karstens Empfehlung/Wörter; Bestemoren min baker en deilig eplekake.; Meine Oma backt einen köstlichen Apfelkuchen.
 no-ke-0153; trotz; til tross for; tross; B2; Karstens Empfehlung/Wörter; Til tross for dårlig vær gikk vi til stranden.; Trotz des schlechten Wetters gingen wir an den Strand.
 no-ke-0154; Entwicklung; en utvikling; ; B1; Karstens Empfehlung/Wörter; Utviklingen av sentrum tok flere år.; Die Entwicklung des Stadtzentrums dauerte mehrere Jahre.
@@ -167,7 +167,7 @@ no-ke-0164; Hund; en hund; ; A1; Karstens Empfehlung/Wörter; Hunden vår elsker
 no-ke-0165; Tür; ei dør; en dør; A1; Karstens Empfehlung/Wörter; Lukk døra stille bak deg, takk.; Bitte schließ die Tür leise hinter dir.
 no-ke-0166; unten, hinunter; ned; nedover; A1; Karstens Empfehlung/Wörter; Vi gikk ned bakken til elva.; Wir gingen den Hügel hinunter zum Fluss.
 no-ke-0167; Traum; en drøm; ; A2; Karstens Empfehlung/Wörter; Jeg har en drøm om å bli pilot.; Ich habe einen Traum davon, Pilot zu werden.
-no-ke-0168; Droge, Medikament; et legemiddel; en medisin, et medikament; B1; Karstens Empfehlung/Wörter; Legen ga meg et nytt legemiddel mot hosten.; Der Arzt gab mir ein neues Medikament gegen meinen Husten.
+no-ke-0168; Droge; et rusmiddel; narkotika, dop; B1; Karstens Empfehlung/Wörter; Noen rusmidler er svært farlige for unge mennesker.; Manche Drogen sind für junge Leute sehr gefährlich.
 no-ke-0169; trocken; tørr; ; A2; Karstens Empfehlung/Wörter; Sommeren var veldig varm og tørr.; Der Sommer war sehr heiß und trocken.
 no-ke-0170; langweilig, glanzlos; kjedelig; glansløs; B1; Karstens Empfehlung/Wörter; Filmen var så kjedelig at jeg sovnet.; Der Film war so langweilig, dass ich eingeschlafen bin.
 no-ke-0171; während; under; ; A2; Karstens Empfehlung/Wörter; Vær så snill å ikke snakke under filmen.; Bitte sprich während des Films nicht.
@@ -198,34 +198,34 @@ no-ke-0195; Abend; en kveld; ; A1; Karstens Empfehlung/Wörter; Vi ser en film s
 no-ke-0196; Ereignis, Vorfall; en hendelse; en begivenhet; B1; Karstens Empfehlung/Wörter; Berlinmurens fall var en historisk hendelse.; Der Mauerfall war ein historisches Ereignis.
 no-ke-0197; jemals; noen gang; ; A2; Karstens Empfehlung/Wörter; Har du noen gang vært ved havet?; Warst du jemals am Meer?
 no-ke-0199; Beweis; et bevis; ; B1; Karstens Empfehlung/Wörter; Politiet fant ikke noe bevis mot den unge mannen.; Die Polizei fand keinen Beweis gegen den jungen Mann.
-no-ke-0200; böse (schlecht, gemein); ond; ondskapsfull; B1; Karstens Empfehlung/Wörter; Heksa i eventyret er veldig ond.; Die Hexe in der Geschichte ist sehr böse.
+no-ke-0200; böse (die böse Hexe); ond; ondskapsfull; B1; Karstens Empfehlung/Wörter; Heksa i eventyret er veldig ond.; Die Hexe in der Geschichte ist sehr böse.
 no-ke-0201; genau; akkurat; nøyaktig, presis; A2; Karstens Empfehlung/Wörter; Det er akkurat det jeg ønsket meg.; Das ist genau das, was ich wollte.
 no-ke-0202; Beispiel; et eksempel; ; A2; Karstens Empfehlung/Wörter; Kan du gi meg et eksempel, takk?; Kannst du mir bitte ein Beispiel geben?
 no-ke-0203; aufgeregt; spent; oppspilt; A2; Karstens Empfehlung/Wörter; Barna er veldig spente på skoleturen.; Die Kinder sind wegen des Schulausflugs aufgeregt.
 no-ke-0204; Erfahrung; en erfaring; ; A2; Karstens Empfehlung/Wörter; Hun har mye erfaring med barn.; Sie hat viel Erfahrung mit Kindern.
-no-ke-0205; erfahren (mit viel Erfahrung); erfaren; rutinert; B1; Karstens Empfehlung/Wörter; Treneren vår er veldig erfaren og dyktig.; Unser Trainer ist sehr erfahren und tüchtig.
+no-ke-0205; erfahren (ein erfahrener Arzt); erfaren; rutinert; B1; Karstens Empfehlung/Wörter; Treneren vår er veldig erfaren og dyktig.; Unser Trainer ist sehr erfahren und tüchtig.
 no-ke-0206; Auge; et øye; ; A1; Karstens Empfehlung/Wörter; Det venstre øyet hennes er rødt og klør.; Ihr linkes Auge ist rot und juckt.
 no-ke-0207; Gesicht; et ansikt; ; A1; Karstens Empfehlung/Wörter; Husk å vaske ansiktet før frokost.; Wasch dir vor dem Frühstück das Gesicht.
 no-ke-0208; Fakt, Tatsache; et faktum; en kjensgjerning; B1; Karstens Empfehlung/Wörter; Det er et faktum at hvaler er pattedyr.; Es ist eine Tatsache, dass Wale Säugetiere sind.
 no-ke-0209; treu; trofast; tro; B2; Karstens Empfehlung/Wörter; Han var alltid trofast mot henne.; Er war ihr immer treu.
 no-ke-0210; falsch, gefälscht; falsk; forfalsket; B1; Karstens Empfehlung/Wörter; Dette er ikke ekte penger, de er falske.; Das ist kein echtes Geld, es ist gefälscht.
 no-ke-0211; Familie; en familie; ; A1; Karstens Empfehlung/Wörter; Familien vår spiser sammen hver kveld.; Unsere Familie isst jeden Abend zusammen.
-no-ke-0212; weit (Entfernung); langt; ; A1; Karstens Empfehlung/Wörter; Er det langt herfra til stasjonen?; Ist der Bahnhof weit von hier?
+no-ke-0212; weit (weit weg); langt; ; A1; Karstens Empfehlung/Wörter; Er det langt herfra til stasjonen?; Ist der Bahnhof weit von hier?
 no-ke-0213; schnell; rask; hurtig, fort; A1; Karstens Empfehlung/Wörter; Dette toget er veldig raskt og moderne.; Dieser Zug ist sehr schnell und modern.
 no-ke-0214; Vater; en far; en pappa; A1; Karstens Empfehlung/Wörter; Faren min jobber på flyplassen i Oslo.; Mein Vater arbeitet am Flughafen.
 no-ke-0215; Angst; en angst; ; A1; Karstens Empfehlung/Wörter; Barnet kjenner angst når det ser store hunder.; Das Kind hat Angst vor großen Hunden.
 no-ke-0216; Gefühl; en følelse; ; A1; Karstens Empfehlung/Wörter; Jeg har en god følelse med denne planen.; Ich habe ein gutes Gefühl bei diesem Plan.
 no-ke-0217; wenige; få; ; A2; Karstens Empfehlung/Wörter; Bare få folk kom til festen.; Nur wenige Leute kamen zur Party.
-no-ke-0218; Gestalt, Figur, Zahl; en figur; en skikkelse; B1; Karstens Empfehlung/Wörter; Vi så en mørk figur nær skogkanten.; Wir sahen eine dunkle Gestalt am Waldrand.
+no-ke-0218; Gestalt, Figur; en figur; en skikkelse; B1; Karstens Empfehlung/Wörter; Vi så en mørk figur nær skogkanten.; Wir sahen eine dunkle Gestalt am Waldrand.
 no-ke-0219; endgültig; endelig; definitiv; B1; Karstens Empfehlung/Wörter; Den endelige avgjørelsen er opp til læreren.; Die endgültige Entscheidung liegt bei der Lehrerin.
 no-ke-0220; endlich, schließlich; endelig; omsider, til slutt; A2; Karstens Empfehlung/Wörter; Etter lang venting kom bussen endelig.; Nach langem Warten kam der Bus schließlich.
 no-ke-0221; Finger; en finger; ; A1; Karstens Empfehlung/Wörter; Jeg skar meg i fingeren på kjøkkenet.; Ich habe mir in der Küche in den Finger geschnitten.
 no-ke-0222; Feuer; en ild; ; A1; Karstens Empfehlung/Wörter; Ild trenger oksygen for å brenne videre.; Feuer braucht Sauerstoff, um weiterzubrennen.
 no-ke-0223; fest; fast; hard; B2; Karstens Empfehlung/Wörter; Madrassen på hotellet var for fast for meg.; Die Matratze im Hotel war mir zu fest.
 no-ke-0224; zuerst; først; ; A1; Karstens Empfehlung/Wörter; Først vasker du hendene, så kan vi spise.; Zuerst wasch dir die Hände, dann können wir essen.
-no-ke-0225; Fisch (Speise); en fisk; ; A1; Karstens Empfehlung/Wörter; På fredager spiser vi fisk med ris.; Freitags essen wir Fisch mit Reis.
+no-ke-0225; Fisch (Fisch zum Abendessen); en fisk; ; A1; Karstens Empfehlung/Wörter; På fredager spiser vi fisk med ris.; Freitags essen wir Fisch mit Reis.
 no-ke-0226; flach, eben; flat; jevn; B1; Karstens Empfehlung/Wörter; Landet ved havet er veldig flatt.; Das Land am Meer ist sehr flach.
-no-ke-0227; Fußboden, Etage; et gulv; ; A1; Karstens Empfehlung/Wörter; Vesken min ligger på gulvet ved siden av bordet.; Meine Tasche liegt auf dem Fußboden neben meinem Tisch.
+no-ke-0227; Fußboden; et gulv; ; A1; Karstens Empfehlung/Wörter; Vesken min ligger på gulvet ved siden av bordet.; Meine Tasche liegt auf dem Fußboden neben meinem Tisch.
 no-ke-0228; Nebel; ei tåke; en tåke; A2; Karstens Empfehlung/Wörter; Tett tåke dekket hele dalen i morges.; Dichter Nebel bedeckte das ganze Tal.
 no-ke-0229; Essen, Lebensmittel; en mat; matvarer; A1; Karstens Empfehlung/Wörter; Vi må kjøpe mat til helgen.; Wir müssen Lebensmittel für das Wochenende kaufen.
 no-ke-0230; Fuß; en fot; ; A1; Karstens Empfehlung/Wörter; Den høyre foten min verker når jeg går.; Mein rechter Fuß tut beim Gehen weh.
@@ -251,7 +251,7 @@ no-ke-0249; wahr, echt; ekte; genuin, autentisk; B2; Karstens Empfehlung/Wörter
 no-ke-0250; Mädchen; ei jente; en jente; A1; Karstens Empfehlung/Wörter; Ei jente leser en bok om hester.; Das Mädchen liest ein Buch über Pferde.
 no-ke-0251; froh; glad; ; A1; Karstens Empfehlung/Wörter; Jeg er glad for at du er her.; Ich bin froh, dass du hier bist.
 no-ke-0252; Glas; et glass; ; A1; Karstens Empfehlung/Wörter; Et glass saft står på bordet.; Ein Glas Saft steht auf dem Tisch.
-no-ke-0253; Ziel, Tor; et mål; en målsetting; B1; Karstens Empfehlung/Wörter; Målet vårt er å avslutte prosjektet i juni.; Unser Ziel ist es, das Projekt im Juni abzuschließen.
+no-ke-0253; Ziel; et mål; en målsetting; B1; Karstens Empfehlung/Wörter; Målet vårt er å avslutte prosjektet i juni.; Unser Ziel ist es, das Projekt im Juni abzuschließen.
 no-ke-0254; gut; god; bra; A1; Karstens Empfehlung/Wörter; Været er veldig godt i dag.; Das Wetter ist heute sehr gut.
 no-ke-0255; gutaussehend; pen; kjekk; B1; Karstens Empfehlung/Wörter; Skuespilleren i filmen er veldig pen.; Der Schauspieler im Film ist sehr gutaussehend.
 no-ke-0256; Regierung; en regjering; ; B1; Karstens Empfehlung/Wörter; Regjeringen vil bruke mer penger på skolene.; Die Regierung will mehr Geld für Schulen ausgeben.
@@ -259,7 +259,7 @@ no-ke-0257; ja; ja; ; A1; Karstens Empfehlung/Wörter; Ja, jeg vil gjerne ha lit
 no-ke-0258; Enkeltochter; ei sønnedatter; en sønnedatter, ei dattersdatter, et barnebarn; A2; Karstens Empfehlung/Wörter; Bestefar gikk til dyrehagen med sønnedatteren sin.; Opa ging mit seiner Enkeltochter in den Zoo.
 no-ke-0259; Enkel, Enkelsohn; en sønnesønn; en dattersønn, et barnebarn; A2; Karstens Empfehlung/Wörter; Sønnesønnen hennes besøker henne hver helg.; Ihr Enkel besucht sie jedes Wochenende.
 no-ke-0260; dankbar; takknemlig; ; B1; Karstens Empfehlung/Wörter; Jeg er virkelig takknemlig for all støtten din.; Ich bin wirklich dankbar für deine ganze Unterstützung.
-no-ke-0261; groß, großartig; flott; kjempefin, storartet; A1; Karstens Empfehlung/Wörter; Vi hadde det helt flott i dyrehagen.; Wir hatten eine großartige Zeit im Zoo.
+no-ke-0261; groß (ein großer Dichter); stor; ; A1; Karstens Empfehlung/Wörter; Ibsen var en stor forfatter.; Ibsen war ein großer Schriftsteller.
 no-ke-0262; gierig; grådig; ; B2; Karstens Empfehlung/Wörter; Ikke vær grådig, del godteriet ditt.; Sei nicht gierig, teile deine Süßigkeiten.
 no-ke-0263; grün; grønn; ; A1; Karstens Empfehlung/Wörter; Gresset er veldig grønt etter regnet.; Das Gras ist nach dem Regen sehr grün.
 no-ke-0264; Boden, Gelände; en bakke; en grunn, et terreng; A2; Karstens Empfehlung/Wörter; Eplet falt ned på bakken under treet.; Der Apfel fiel unter dem Baum auf den Boden.
@@ -270,20 +270,20 @@ no-ke-0268; Typ, Kerl; en fyr; en kar; A2; Karstens Empfehlung/Wörter; Den nye 
 no-ke-0269; Haar, Haare; et hår; ; A1; Karstens Empfehlung/Wörter; Håret hennes er langt og veldig mørkt.; Ihr Haar ist lang und sehr dunkel.
 no-ke-0270; halb; halv; ; A1; Karstens Empfehlung/Wörter; Jeg spiser bare den halve kaken.; Ich esse nur den halben Kuchen.
 no-ke-0271; Hand; ei hånd; en hånd; A1; Karstens Empfehlung/Wörter; Vask hendene før kveldsmaten, er du snill.; Bitte wasch dir vor dem Abendessen die Hände.
-no-ke-0272; gutaussehend, attraktiv (männlich); kjekk; pen, staselig; B1; Karstens Empfehlung/Wörter; Prinsen i eventyret er høy og kjekk.; Der Prinz in der Geschichte ist groß und gutaussehend.
+no-ke-0272; gutaussehend (ein gutaussehender Mann); kjekk; pen, staselig; B1; Karstens Empfehlung/Wörter; Prinsen i eventyret er høy og kjekk.; Der Prinz in der Geschichte ist groß und gutaussehend.
 no-ke-0273; glücklich; glad; lykkelig; A1; Karstens Empfehlung/Wörter; Barna er veldig glade for snøen.; Die Kinder sind glücklich über den Schnee.
-no-ke-0274; hart, fest, schwierig; hard; fast, vanskelig; A2; Karstens Empfehlung/Wörter; Steinen er mye hardere enn treet.; Der Stein ist viel härter als das Holz.
+no-ke-0274; hart, fest; hard; fast; A2; Karstens Empfehlung/Wörter; Steinen er mye hardere enn treet.; Der Stein ist viel härter als das Holz.
 no-ke-0275; fleißig; flittig; arbeidsom, ivrig; B1; Karstens Empfehlung/Wörter; Moren min er alltid veldig flittig på jobben.; Meine Mutter ist bei der Arbeit immer sehr fleißig.
 no-ke-0276; Kopf; et hode; ; A1; Karstens Empfehlung/Wörter; Hodet mitt verker etter det lange møtet.; Mein Kopf tut nach der langen Besprechung weh.
 no-ke-0277; gesund; sunn; frisk; A1; Karstens Empfehlung/Wörter; Grønnsaker og frukt er veldig sunt.; Gemüse und Obst sind sehr gesund.
 no-ke-0278; Herz; et hjerte; ; A1; Karstens Empfehlung/Wörter; Hjertet hennes slår raskere når hun er nervøs.; Ihr Herz schlägt schneller, wenn sie nervös ist.
 no-ke-0279; Hitze; en hete; en varme; B1; Karstens Empfehlung/Wörter; På grunn av heten ble vi inne.; Wegen der Hitze sind wir drinnen geblieben.
-no-ke-0280; schwer (Gewicht); tung; ; A2; Karstens Empfehlung/Wörter; Denne vesken er for tung for meg.; Diese Tasche ist zu schwer für mich.
+no-ke-0280; schwer (ein schwerer Koffer); tung; ; A2; Karstens Empfehlung/Wörter; Denne vesken er for tung for meg.; Diese Tasche ist zu schwer für mich.
 no-ke-0281; hilfsbereit; hjelpsom; ; B1; Karstens Empfehlung/Wörter; Den hjelpsomme naboen bar de tunge posene mine opp.; Der hilfsbereite Nachbar trug meine schweren Taschen nach oben.
 no-ke-0282; hilflos; hjelpeløs; ; B2; Karstens Empfehlung/Wörter; Den lille fuglen var hjelpeløs uten moren sin.; Der kleine Vogel war ohne seine Mutter hilflos.
 no-ke-0283; hier; her; ; A1; Karstens Empfehlung/Wörter; Kom hit og se på dette her.; Komm her und schau dir das hier an.
 no-ke-0284; hoch; høy; ; A1; Karstens Empfehlung/Wörter; Dette fjellet er veldig høyt og bratt.; Dieser Berg ist sehr hoch und steil.
-no-ke-0285; Geschichte (Vergangenheit); en historie; ; A1; Karstens Empfehlung/Wörter; Jeg synes den tyske historien er veldig interessant.; Ich finde die deutsche Geschichte sehr interessant.
+no-ke-0285; Geschichte (die deutsche Geschichte); en historie; ; A1; Karstens Empfehlung/Wörter; Jeg synes den tyske historien er veldig interessant.; Ich finde die deutsche Geschichte sehr interessant.
 no-ke-0286; Treffer, Schlag; et treff; et slag; B1; Karstens Empfehlung/Wörter; Det andre kastet mot blinken var et treff.; Ihr zweiter Wurf auf die Zielscheibe war ein Treffer.
 no-ke-0287; Zuhause, Heimat; et hjem; et hjemland; A1; Karstens Empfehlung/Wörter; Dette lille huset har vært hjemmet mitt i ti år.; Dieses kleine Haus ist seit zehn Jahren mein Zuhause.
 no-ke-0288; ehrlich; ærlig; ; B1; Karstens Empfehlung/Wörter; Ærlig talt likte jeg ikke filmen.; Um ehrlich zu sein, der Film hat mir nicht gefallen.
@@ -300,8 +300,8 @@ no-ke-0298; menschlich; menneskelig; ; B1; Karstens Empfehlung/Wörter; Den menn
 no-ke-0299; Ehemann; en ektemann; en mann; A2; Karstens Empfehlung/Wörter; Ektemannen hennes lager middag hver kveld.; Ihr Ehemann kocht jeden Abend das Abendessen.
 no-ke-0300; Idee; en idé; ei idé; A2; Karstens Empfehlung/Wörter; Han hadde en glimrende idé til prosjektet.; Er hatte eine großartige Idee für das Projekt.
 no-ke-0301; wenn, falls; hvis; dersom; A1; Karstens Empfehlung/Wörter; Hvis det regner, blir vi hjemme.; Wenn es regnet, bleiben wir zu Hause.
-no-ke-0302; Bild, Vorstellung; et bilde; ; B1; Karstens Empfehlung/Wörter; Bildet på skjermen er veldig klart.; Das Bild auf dem Bildschirm ist sehr klar.
-no-ke-0303; Auswirkung, Aufprall; en innvirkning; en påvirkning; B2; Karstens Empfehlung/Wörter; Den nye loven fikk stor innvirkning på små bedrifter.; Das neue Gesetz hatte enorme Auswirkungen auf kleine Betriebe.
+no-ke-0302; Bild (das Bild auf dem Bildschirm); et bilde; ; B1; Karstens Empfehlung/Wörter; Bildet på skjermen er veldig klart.; Das Bild auf dem Bildschirm ist sehr klar.
+no-ke-0303; Auswirkung; en innvirkning; en påvirkning; B2; Karstens Empfehlung/Wörter; Den nye loven fikk stor innvirkning på små bedrifter.; Das neue Gesetz hatte enorme Auswirkungen auf kleine Betriebe.
 no-ke-0304; teilnahmslos; uberørt; uttrykksløs; C2; Karstens Empfehlung/Wörter; Ansiktet hans forble uberørt gjennom hele filmen.; Sein Gesicht blieb während des ganzen Films teilnahmslos.
 no-ke-0305; wichtig; viktig; ; A1; Karstens Empfehlung/Wörter; Det er viktig å drikke nok vann.; Es ist wichtig, genug Wasser zu trinken.
 no-ke-0306; einschließlich, inklusive; inkludert; inklusive, medregnet; B1; Karstens Empfehlung/Wörter; Billetten koster hundre kroner, inkludert en drikke.; Die Karte kostet hundert Kronen, einschließlich eines Getränks.
@@ -310,7 +310,7 @@ no-ke-0308; desinteressiert, gleichgültig; likegyldig; uinteressert; B2; Karste
 no-ke-0309; unsicher; usikker; utrygg; B2; Karstens Empfehlung/Wörter; Han føler seg usikker når han snakker foran klassen.; Er fühlt sich unsicher, wenn er vor der Klasse spricht.
 no-ke-0310; innen; inne; innvendig; A2; Karstens Empfehlung/Wörter; Inne er huset varmt og lunt.; Innen ist das Haus warm und gemütlich.
 no-ke-0311; anstatt; i stedet for; istedenfor; B1; Karstens Empfehlung/Wörter; La oss gå i stedet for å ta bussen.; Lass uns laufen, anstatt den Bus zu nehmen.
-no-ke-0312; Interesse, Zins; en interesse; ; B1; Karstens Empfehlung/Wörter; Begge firmaene har interesse av denne avtalen.; Beide Firmen haben Interesse an diesem Geschäft.
+no-ke-0312; Interesse; en interesse; ; B1; Karstens Empfehlung/Wörter; Begge firmaene har interesse av denne avtalen.; Beide Firmen haben Interesse an diesem Geschäft.
 no-ke-0313; interessant; interessant; ; A1; Karstens Empfehlung/Wörter; Denne boka om dyr er veldig interessant.; Dieses Buch über Tiere ist sehr interessant.
 no-ke-0314; international; internasjonal; ; B1; Karstens Empfehlung/Wörter; Skolen vår har et internasjonalt fotballag.; Unsere Schule hat eine internationale Fußballmannschaft.
 no-ke-0315; hinein; inn; inn i; A2; Karstens Empfehlung/Wörter; Barna hoppet inn i det kalde bassenget.; Die Kinder sprangen in das kalte Becken hinein.
@@ -323,7 +323,7 @@ no-ke-0321; Kindergarten; en barnehage; ; A1; Karstens Empfehlung/Wörter; Lille
 no-ke-0322; Küche; et kjøkken; ; A1; Karstens Empfehlung/Wörter; Vi lager middag sammen på kjøkkenet.; Wir kochen das Abendessen zusammen in der Küche.
 no-ke-0323; Wissen; en kunnskap; ; B1; Karstens Empfehlung/Wörter; Bestefaren min har mye kunnskap om fugler.; Mein Opa hat viel Wissen über Vögel.
 no-ke-0324; See; en innsjø; en sjø; A2; Karstens Empfehlung/Wörter; Om sommeren svømmer vi i innsjøen.; Im Sommer schwimmen wir im See.
-no-ke-0325; Land (Boden); ei jord; en jord, et landområde; A2; Karstens Empfehlung/Wörter; Bonden på gården eier mye jord.; Der Bauer auf dem Hof besitzt viel Land.
+no-ke-0325; Land (ein Stück Land kaufen); ei jord; en jord, et landområde; A2; Karstens Empfehlung/Wörter; Bonden på gården eier mye jord.; Der Bauer auf dem Hof besitzt viel Land.
 no-ke-0326; Sprache; et språk; ; A1; Karstens Empfehlung/Wörter; Engelsk er et lett språk for meg.; Englisch ist eine leichte Sprache für mich.
 no-ke-0328; spät; sent; ; A1; Karstens Empfehlung/Wörter; Beklager, jeg kommer for sent, bussen var treg.; Entschuldigung, ich bin zu spät, der Bus war langsam.
 no-ke-0329; Gesetz; en lov; ; B1; Karstens Empfehlung/Wörter; Den nye loven trer i kraft i januar.; Das neue Gesetz tritt im Januar in Kraft.
@@ -331,11 +331,11 @@ no-ke-0330; Anwalt; en advokat; ; A2; Karstens Empfehlung/Wörter; Advokaten les
 no-ke-0331; links; til venstre; ; A1; Karstens Empfehlung/Wörter; Ta til venstre ved neste hjørne, takk.; Biegen Sie an der nächsten Ecke bitte links ab.
 no-ke-0332; Bein; et ben; ; A1; Karstens Empfehlung/Wörter; Det venstre benet hans er fortsatt veldig svakt.; Sein linkes Bein ist noch sehr schwach.
 no-ke-0333; gesetzlich, legal; lovlig; legal; B1; Karstens Empfehlung/Wörter; Er det lovlig å sykle på fortauet?; Ist es legal, auf dem Gehweg Fahrrad zu fahren?
-no-ke-0334; Brief, Buchstabe; et brev; ; A1; Karstens Empfehlung/Wörter; Det viktige brevet kommer i morgen tidlig.; Der wichtige Brief kommt morgen früh an.
+no-ke-0334; Brief; et brev; ; A1; Karstens Empfehlung/Wörter; Det viktige brevet kommer i morgen tidlig.; Der wichtige Brief kommt morgen früh an.
 no-ke-0335; Leben; et liv; ; A2; Karstens Empfehlung/Wörter; Katter sover en stor del av livet sitt.; Katzen schlafen einen großen Teil ihres Lebens.
-no-ke-0336; leicht, hell; lett; ; A2; Karstens Empfehlung/Wörter; Denne vesken er veldig lett å bære.; Diese Tasche ist sehr leicht zu tragen.
+no-ke-0336; leicht (eine leichte Tasche); lett; ; A2; Karstens Empfehlung/Wörter; Denne vesken er veldig lett å bære.; Diese Tasche ist sehr leicht zu tragen.
 no-ke-0337; wahrscheinlich; sannsynlig; ; B1; Karstens Empfehlung/Wörter; Det er sannsynlig at flyet blir forsinket.; Es ist wahrscheinlich, dass der Flug Verspätung haben wird.
-no-ke-0338; Linie, Zeile; en linje; en strek; A2; Karstens Empfehlung/Wörter; Trekk en rett linje under overskriften.; Zieh eine gerade Linie unter die Überschrift.
+no-ke-0338; Linie; en linje; en strek; A2; Karstens Empfehlung/Wörter; Trekk en rett linje under overskriften.; Zieh eine gerade Linie unter die Überschrift.
 no-ke-0339; Liste; ei liste; en liste; A2; Karstens Empfehlung/Wörter; Her er en liste over alle åpne punkter.; Hier ist eine Liste aller offenen Punkte.
 no-ke-0340; klein, wenig; lite; liten; A1; Karstens Empfehlung/Wörter; Jeg har veldig lite penger denne måneden.; Ich habe diesen Monat sehr wenig Geld.
 no-ke-0341; vor Ort, örtlich; lokal; på stedet; B1; Karstens Empfehlung/Wörter; Vi kjøper grønnsakene våre på det lokale torget.; Wir kaufen unser Gemüse auf dem örtlichen Markt.
@@ -356,7 +356,7 @@ no-ke-0355; Maß, Ausmaß; et omfang; et mål; B2; Karstens Empfehlung/Wörter; 
 no-ke-0356; Fleisch; et kjøtt; ; A1; Karstens Empfehlung/Wörter; Søsteren min spiser ikke noe kjøtt.; Meine Schwester isst kein Fleisch.
 no-ke-0357; medizinisch; medisinsk; ; B1; Karstens Empfehlung/Wörter; Mannen trengte medisinsk hjelp etter fallet.; Der Mann brauchte nach seinem Sturz medizinische Hilfe.
 no-ke-0358; Erinnerung; et minne; ; B1; Karstens Empfehlung/Wörter; Jeg har mange lykkelige minner fra barndommen.; Ich habe viele glückliche Erinnerungen an meine Kindheit.
-no-ke-0359; Nachricht, Mitteilung; en melding; ei melding; A2; Karstens Empfehlung/Wörter; Jeg sendte deg en melding i morges.; Ich habe dir heute Morgen eine Nachricht geschickt.
+no-ke-0359; Nachricht (eine Nachricht schicken); en melding; ei melding; A2; Karstens Empfehlung/Wörter; Jeg sendte deg en melding i morges.; Ich habe dir heute Morgen eine Nachricht geschickt.
 no-ke-0360; Methode; en metode; ; B1; Karstens Empfehlung/Wörter; Den nye metoden gir mye mer nøyaktige verdier.; Die neue Methode liefert viel genauere Werte.
 no-ke-0361; Mitte, Zentrum; en midte; et sentrum; A2; Karstens Empfehlung/Wörter; I midten av hagen står et stort tre.; In der Mitte des Gartens steht ein großer Baum.
 no-ke-0362; Milch; en melk; ; A1; Karstens Empfehlung/Wörter; Husk at melken er i kjøleskapet.; Denk daran, die Milch ist im Kühlschrank.
@@ -370,7 +370,7 @@ no-ke-0369; Geld; penger; ; A1; Karstens Empfehlung/Wörter; Jeg sparer penger t
 no-ke-0370; Monat; en måned; ; A1; Karstens Empfehlung/Wörter; Juli er favorittmåneden min i året.; Juli ist mein Lieblingsmonat im Jahr.
 no-ke-0371; mehr; mer; mere; A1; Karstens Empfehlung/Wörter; Kan jeg få mer melk, takk?; Kann ich bitte mehr Milch haben?
 no-ke-0372; Morgen; en morgen; ; A1; Karstens Empfehlung/Wörter; Jeg drikker kaffe klokka sju hver morgen.; Ich trinke jeden Morgen um sieben Kaffee.
-no-ke-0373; Mutter (Elternteil); ei mor; en mor, ei mamma; A1; Karstens Empfehlung/Wörter; Moren min lager verdens beste kake.; Meine Mutter macht den besten Kuchen.
+no-ke-0373; Mutter (Vater und Mutter); ei mor; en mor, ei mamma; A1; Karstens Empfehlung/Wörter; Moren min lager verdens beste kake.; Meine Mutter macht den besten Kuchen.
 no-ke-0374; Berg; et fjell; ; A1; Karstens Empfehlung/Wörter; Fjellet er dekket av snø om vinteren.; Der Berg ist im Winter mit Schnee bedeckt.
 no-ke-0375; Mund; en munn; ; A1; Karstens Empfehlung/Wörter; Vær så snill å åpne munnen for legen.; Bitte öffnen Sie den Mund für den Arzt.
 no-ke-0376; Bewegung; en bevegelse; ; B1; Karstens Empfehlung/Wörter; Katten fulgte med på hver bevegelse musa gjorde.; Die Katze beobachtete jede Bewegung der Maus.
@@ -387,7 +387,7 @@ no-ke-0387; notwendig; nødvendig; ; B1; Karstens Empfehlung/Wörter; Det er nø
 no-ke-0388; Neffe; en nevø; ; A2; Karstens Empfehlung/Wörter; Nevøen hennes spiller fotball i en liten klubb.; Ihr Neffe spielt Fußball in einem kleinen Verein.
 no-ke-0389; nie; aldri; ; A1; Karstens Empfehlung/Wörter; Han drikker aldri kaffe etter middagen.; Er trinkt nach dem Abendessen nie Kaffee.
 no-ke-0390; neu; ny; ; A1; Karstens Empfehlung/Wörter; Jeg trenger nye sko til vinteren.; Ich brauche neue Schuhe für den Winter.
-no-ke-0391; Nachricht (Neuigkeit); en nyhet; ei nyhet; A2; Karstens Empfehlung/Wörter; Jeg har en god nyhet til deg.; Ich habe eine gute Nachricht für dich.
+no-ke-0391; Nachricht (eine gute Nachricht); en nyhet; ei nyhet; A2; Karstens Empfehlung/Wörter; Jeg har en god nyhet til deg.; Ich habe eine gute Nachricht für dich.
 no-ke-0392; Zeitung; ei avis; en avis; A1; Karstens Empfehlung/Wörter; Faren min leser avisen hver morgen.; Mein Vater liest jeden Morgen die Zeitung.
 no-ke-0393; nächster, nächste, nächstes; neste; ; A1; Karstens Empfehlung/Wörter; Ha det bra, vi sees neste uke.; Tschüss, wir sehen uns nächste Woche.
 no-ke-0394; nett; hyggelig; grei; A1; Karstens Empfehlung/Wörter; Den nye naboen vår er veldig hyggelig.; Unser neuer Nachbar ist wirklich nett.
@@ -410,7 +410,7 @@ no-ke-0410; offiziell; offisiell; ; B1; Karstens Empfehlung/Wörter; Engelsk er 
 no-ke-0411; oft; ofte; ; A1; Karstens Empfehlung/Wörter; Vi spiller ofte kort om kvelden.; Wir spielen abends oft Karten.
 no-ke-0412; Öl; ei olje; en olje; A2; Karstens Empfehlung/Wörter; Varm først opp litt olje i pannen.; Erhitze zuerst etwas Öl in der Pfanne.
 no-ke-0413; alt; gammel; ; A1; Karstens Empfehlung/Wörter; Kirken i byen vår er veldig gammel.; Die Kirche in unserer Stadt ist sehr alt.
-no-ke-0414; an, auf, in, eingeschaltet; på; ; A1; Karstens Empfehlung/Wörter; Boka mi ligger på det store bordet.; Mein Buch liegt auf dem großen Tisch.
+no-ke-0414; an, auf, in; på; ; A1; Karstens Empfehlung/Wörter; Boka mi ligger på det store bordet.; Mein Buch liegt auf dem großen Tisch.
 no-ke-0415; einmal; en gang; ; A2; Karstens Empfehlung/Wörter; Jeg går og svømmer en gang i uka.; Ich gehe einmal pro Woche schwimmen.
 no-ke-0416; nur; bare; kun; A1; Karstens Empfehlung/Wörter; Jeg har bare ti kroner igjen.; Ich habe nur noch zehn Kronen.
 no-ke-0417; auf, auf etwas; opp på; på; B1; Karstens Empfehlung/Wörter; Katten hoppet plutselig opp på bordet.; Die Katze sprang plötzlich auf den Tisch.
@@ -418,25 +418,25 @@ no-ke-0418; offen; åpen; ; A1; Karstens Empfehlung/Wörter; Butikken er åpen t
 no-ke-0419; aufgeschlossen, vorurteilsfrei; åpen for nye ting; fordomsfri; B2; Karstens Empfehlung/Wörter; Bestemora mi er veldig åpen for ny musikk.; Meine Oma ist neuer Musik gegenüber sehr aufgeschlossen.
 no-ke-0420; Möglichkeit, Gelegenheit; en mulighet; en sjanse; B1; Karstens Empfehlung/Wörter; Denne jobben er en flott mulighet for unge folk.; Diese Stelle ist eine großartige Gelegenheit für junge Leute.
 no-ke-0421; oder; eller; ; A1; Karstens Empfehlung/Wörter; Vil du ha te eller saft?; Möchtest du Tee oder Saft?
-no-ke-0422; Befehl, Reihenfolge, Bestellung; en bestilling; en ordre; A2; Karstens Empfehlung/Wörter; Bestillingen din kommer til deg på torsdag.; Deine Bestellung kommt am Donnerstag bei dir an.
+no-ke-0422; Befehl; en ordre; en befaling; A2; Karstens Empfehlung/Wörter; Kapteinen ga ordre om å dra.; Der Kapitän gab den Befehl zum Aufbruch.
 no-ke-0423; andere; andre; ; A2; Karstens Empfehlung/Wörter; Noen barn liker matte, andre liker kunst.; Manche Kinder mögen Mathe, andere mögen Kunst.
 no-ke-0424; aus, außen; ut; ; A1; Karstens Empfehlung/Wörter; La oss gå ut og leke.; Lass uns rausgehen und spielen.
 no-ke-0425; draußen; ute; utendørs; A1; Karstens Empfehlung/Wörter; Barna leker ute i hagen hver dag.; Die Kinder spielen jeden Tag draußen im Garten.
-no-ke-0426; über, vorbei; over; ; A2; Karstens Empfehlung/Wörter; Flyet fløy lavt over huset vårt.; Das Flugzeug flog tief über unser Haus.
+no-ke-0426; über (über die Stadt fliegen); over; ; A2; Karstens Empfehlung/Wörter; Flyet fløy lavt over huset vårt.; Das Flugzeug flog tief über unser Haus.
 no-ke-0427; insgesamt; totalt; alt i alt, samlet sett; B2; Karstens Empfehlung/Wörter; Totalt sett var det et veldig bra skoleår.; Insgesamt war es ein sehr gutes Schuljahr.
 no-ke-0428; Eigentümer; en eier; ; B1; Karstens Empfehlung/Wörter; Hvem er eieren av denne svarte sykkelen?; Wer ist der Eigentümer dieses schwarzen Fahrrads?
 no-ke-0429; Seite; ei side; en side; A1; Karstens Empfehlung/Wörter; Åpne bøkene på side ti, takk.; Bitte schlagt eure Bücher auf Seite zehn auf.
 no-ke-0430; Schmerz; en smerte; ; A1; Karstens Empfehlung/Wörter; Smerten i kneet mitt blir verre.; Der Schmerz in meinem Knie wird schlimmer.
-no-ke-0431; Gemälde, Anstrich; et maleri; ; B1; Karstens Empfehlung/Wörter; Dette maleriet er over fire hundre år gammelt.; Dieses Gemälde ist über vierhundert Jahre alt.
+no-ke-0431; Gemälde; et maleri; ; B1; Karstens Empfehlung/Wörter; Dette maleriet er over fire hundre år gammelt.; Dieses Gemälde ist über vierhundert Jahre alt.
 no-ke-0432; Papier; et papir; ; A1; Karstens Empfehlung/Wörter; Jeg trenger papir til den lille tegningen min.; Ich brauche Papier für meine kleine Zeichnung.
 no-ke-0433; Eltern; foreldre; ; A1; Karstens Empfehlung/Wörter; Foreldrene mine bor i en liten bygd.; Meine Eltern wohnen in einem kleinen Dorf.
 no-ke-0434; Teil; en del; ; A2; Karstens Empfehlung/Wörter; Denne delen av historien liker jeg best.; Dieser Teil der Geschichte gefällt mir am besten.
 no-ke-0435; Teilnehmer; en deltaker; ; B1; Karstens Empfehlung/Wörter; Hver deltaker får papirene på forhånd.; Jeder Teilnehmer erhält die Unterlagen im Voraus.
 no-ke-0437; Party; en fest; en party; A1; Karstens Empfehlung/Wörter; Festen begynner klokka åtte hos oss.; Die Party beginnt um acht bei uns zu Hause.
-no-ke-0438; vergangen, vorbei, Vergangenheit; en fortid; ei fortid; A2; Karstens Empfehlung/Wörter; I fortiden skrev folk mange brev.; In der Vergangenheit schrieben die Menschen viele Briefe.
+no-ke-0438; vergangen; forgangen; forrige, tidligere; A2; Karstens Empfehlung/Wörter; Den forgangne uka var veldig travel.; Die vergangene Woche war sehr anstrengend.
 no-ke-0439; Geduld; en tålmodighet; ei tålmodighet; B1; Karstens Empfehlung/Wörter; Man trenger mye tålmodighet for å lære å spille piano.; Man braucht viel Geduld, um Klavier zu lernen.
 no-ke-0440; geduldig; tålmodig; ; B1; Karstens Empfehlung/Wörter; Man må være tålmodig med små barn.; Mit kleinen Kindern muss man geduldig sein.
-no-ke-0441; Muster (Design); et mønster; ; B1; Karstens Empfehlung/Wörter; Jeg liker mønsteret på den nye skjorta di.; Mir gefällt das Muster auf deinem neuen Hemd.
+no-ke-0441; Muster (ein Muster auf dem Stoff); et mønster; ; B1; Karstens Empfehlung/Wörter; Jeg liker mønsteret på den nye skjorta di.; Mir gefällt das Muster auf deinem neuen Hemd.
 no-ke-0442; Friede; en fred; ; B1; Karstens Empfehlung/Wörter; Etter den lange krigen var det endelig fred.; Nach dem langen Krieg herrschte endlich Friede.
 no-ke-0443; Leute; folk; mennesker; A1; Karstens Empfehlung/Wörter; Mange folk venter utenfor butikken nå.; Viele Leute warten vor dem Geschäft.
 no-ke-0444; Leistung; en prestasjon; ; B2; Karstens Empfehlung/Wörter; Prestasjonen din var utmerket hele året.; Ihre Leistung war das ganze Jahr über ausgezeichnet.
@@ -448,7 +448,7 @@ no-ke-0450; Bild; et bilde; ; A1; Karstens Empfehlung/Wörter; Et fint bilde hen
 no-ke-0451; Stück; et stykke; en bit; A1; Karstens Empfehlung/Wörter; Vil du ha et stykke sjokolade?; Möchtest du ein Stück Schokolade?
 no-ke-0452; Ort, Stelle; et sted; ; A2; Karstens Empfehlung/Wörter; Dette er et fint sted for en piknik.; Das ist ein schöner Ort für ein Picknick.
 no-ke-0453; Flugzeug; et fly; ; A1; Karstens Empfehlung/Wörter; Flyet letter klokka seks om morgenen.; Das Flugzeug fliegt um sechs Uhr morgens ab.
-no-ke-0454; Pflanze, Betrieb, Fabrik; ei plante; en plante; A2; Karstens Empfehlung/Wörter; Planta i vinduet trenger mer vann.; Die Pflanze am Fenster braucht mehr Wasser.
+no-ke-0454; Pflanze; ei plante; en plante; A2; Karstens Empfehlung/Wörter; Planta i vinduet trenger mer vann.; Die Pflanze am Fenster braucht mehr Wasser.
 no-ke-0455; Spieler; en spiller; ; A2; Karstens Empfehlung/Wörter; Den beste spilleren fikk en liten pris.; Der beste Spieler bekam einen kleinen Preis.
 no-ke-0456; spitz zulaufend; spiss; ; C1; Karstens Empfehlung/Wörter; Heksa hadde på seg en svart, spiss hatt.; Die Hexe trug einen schwarzen, spitz zulaufenden Hut.
 no-ke-0457; giftig; giftig; ; B2; Karstens Empfehlung/Wörter; Noen sopper i skogen er giftige.; Manche Pilze im Wald sind giftig.
@@ -462,13 +462,13 @@ no-ke-0464; Hafen; en havn; ; B1; Karstens Empfehlung/Wörter; Det store skipet 
 no-ke-0465; Lage, Position, Stellung; en posisjon; ; B1; Karstens Empfehlung/Wörter; Kapteinen sjekket skipets posisjon på kartet.; Der Kapitän prüfte die Position des Schiffes auf der Karte.
 no-ke-0466; positiv; positiv; ; B1; Karstens Empfehlung/Wörter; Prøv å være positiv, det ordner seg.; Versuch, positiv zu bleiben, es wird gut.
 no-ke-0467; möglich; mulig; ; A2; Karstens Empfehlung/Wörter; Er det mulig å endre billetten min?; Ist es möglich, mein Ticket zu ändern?
-no-ke-0468; Macht, Strom; en makt; ; B2; Karstens Empfehlung/Wörter; For mye makt på få hender er farlig.; Zu viel Macht in wenigen Händen ist gefährlich.
+no-ke-0468; Macht; en makt; ; B2; Karstens Empfehlung/Wörter; For mye makt på få hender er farlig.; Zu viel Macht in wenigen Händen ist gefährlich.
 no-ke-0469; mächtig; mektig; ; B1; Karstens Empfehlung/Wörter; Løven er et stort og mektig dyr.; Der Löwe ist ein großes und mächtiges Tier.
-no-ke-0470; Gegenwart, Geschenk, gegenwärtig; en nåtid; ei nåtid; A2; Karstens Empfehlung/Wörter; Glem bekymringene og lev i nåtiden.; Vergiss deine Sorgen und lebe in der Gegenwart.
+no-ke-0470; Gegenwart; en nåtid; ei nåtid; A2; Karstens Empfehlung/Wörter; Glem bekymringene og lev i nåtiden.; Vergiss deine Sorgen und lebe in der Gegenwart.
 no-ke-0471; Präsident; en president; ; A2; Karstens Empfehlung/Wörter; Presidenten besøkte byen vår i forrige uke.; Der Präsident besuchte letzte Woche unsere Stadt.
 no-ke-0472; Druck; et trykk; ; B1; Karstens Empfehlung/Wörter; Trykket i dekket er for lavt.; Der Druck im Reifen ist zu niedrig.
-no-ke-0473; hübsch (weiblich); pen; vakker; A1; Karstens Empfehlung/Wörter; Du ser veldig pen ut i den kjolen.; Du siehst in dem Kleid sehr hübsch aus.
-no-ke-0474; Preis (Kosten); en pris; ; A2; Karstens Empfehlung/Wörter; Prisen inkluderer både levering og montering.; Der Preis beinhaltet Lieferung und Montage.
+no-ke-0473; hübsch (ein hübsches Mädchen); pen; vakker; A1; Karstens Empfehlung/Wörter; Du ser veldig pen ut i den kjolen.; Du siehst in dem Kleid sehr hübsch aus.
+no-ke-0474; Preis (ein günstiger Preis); en pris; ; A2; Karstens Empfehlung/Wörter; Prisen inkluderer både levering og montering.; Der Preis beinhaltet Lieferung und Montage.
 no-ke-0475; privat; privat; ; B1; Karstens Empfehlung/Wörter; Dette er en privat hage, du kan ikke gå inn.; Das ist ein privater Garten, du darfst nicht hinein.
 no-ke-0476; wahrscheinlich; sannsynligvis; antagelig, trolig; A2; Karstens Empfehlung/Wörter; Det kommer sannsynligvis til å regne i ettermiddag.; Heute Nachmittag wird es wahrscheinlich regnen.
 no-ke-0477; Problem; et problem; ; A2; Karstens Empfehlung/Wörter; Vi fant et problem med programvaren.; Wir haben ein Problem mit der Software gefunden.
@@ -491,15 +491,15 @@ no-ke-0493; Radio, Funk; en radio; ; A1; Karstens Empfehlung/Wörter; Vi hører 
 no-ke-0494; Bahnhof; en togstasjon; en jernbanestasjon, en stasjon; A2; Karstens Empfehlung/Wörter; Vi møttes klokka åtte på togstasjonen.; Wir trafen uns um acht am Bahnhof.
 no-ke-0495; Regen; et regn; ; A1; Karstens Empfehlung/Wörter; Vi trenger mer regn til hagen.; Wir brauchen mehr Regen für den Garten.
 no-ke-0496; regnerisch; regnfull; ; A2; Karstens Empfehlung/Wörter; Det var en kald og regnfull dag.; Es war ein kalter und regnerischer Tag.
-no-ke-0497; Reichweite (Fahrzeug); en rekkevidde; ; C1; Karstens Empfehlung/Wörter; Rekkevidden synker tydelig når det er kaldt.; Die Reichweite sinkt bei kaltem Wetter deutlich.
+no-ke-0497; Reichweite (eines Elektroautos); en rekkevidde; ; C1; Karstens Empfehlung/Wörter; Rekkevidden synker tydelig når det er kaldt.; Die Reichweite sinkt bei kaltem Wetter deutlich.
 no-ke-0498; lieber; heller; ; B1; Karstens Empfehlung/Wörter; Jeg blir heller hjemme i dag.; Ich würde heute lieber zu Hause bleiben.
 no-ke-0499; fertig, bereit; klar; ferdig; A1; Karstens Empfehlung/Wörter; Er du klar til å gå?; Bist du bereit zu gehen?
-no-ke-0500; wirklich; ekte; virkelig; A2; Karstens Empfehlung/Wörter; Er denne diamanten ekte, eller er den falsk?; Ist dieser Diamant echt oder ist er falsch?
+no-ke-0500; wirklich; ekte; virkelig; A2; Karstens Empfehlung/Wörter; Filmen forteller en ekte historie.; Der Film erzählt eine wirkliche Geschichte.
 no-ke-0501; Wirklichkeit, Realität; en virkelighet; en realitet; B2; Karstens Empfehlung/Wörter; Sangen begynner med et spørsmål om virkeligheten.; Das Lied beginnt mit einer Frage nach der Wirklichkeit.
 no-ke-0502; wirklich; virkelig; ; A1; Karstens Empfehlung/Wörter; Jeg liker den nye jakka di virkelig godt.; Ich mag deine neue Jacke wirklich.
-no-ke-0503; Grund, Vernunft; en grunn; ; A2; Karstens Empfehlung/Wörter; Hva var grunnen til at du kom for sent?; Was war der Grund für deine späte Ankunft?
+no-ke-0503; Grund; en grunn; ; A2; Karstens Empfehlung/Wörter; Hva var grunnen til at du kom for sent?; Was war der Grund für deine späte Ankunft?
 no-ke-0504; kürzlich; nylig; ; A2; Karstens Empfehlung/Wörter; Vi flyttet nylig til en større leilighet.; Wir sind kürzlich in eine größere Wohnung gezogen.
-no-ke-0505; Bericht, Aufzeichnung, Rekord; en rekord; ; B1; Karstens Empfehlung/Wörter; Hun slo den nasjonale rekorden med to sekunder.; Sie brach den nationalen Rekord um zwei Sekunden.
+no-ke-0505; Bericht, Aufzeichnung; en rapport; en registrering; B1; Karstens Empfehlung/Wörter; Skriv en kort rapport om turen, er du snill.; Schreib bitte einen kurzen Bericht über den Ausflug.
 no-ke-0506; rot; rød; ; A1; Karstens Empfehlung/Wörter; Jeg har et rødt pennal i sekken.; Ich habe ein rotes Mäppchen im Rucksack.
 no-ke-0507; Region, Gebiet; en region; et område; B1; Karstens Empfehlung/Wörter; Denne regionen er kjent for eplene sine.; Diese Region ist für ihre Äpfel bekannt.
 no-ke-0508; Beziehung; et forhold; en relasjon; B1; Karstens Empfehlung/Wörter; De har hatt et nært forhold i mange år.; Sie haben seit vielen Jahren eine enge Beziehung.
@@ -512,7 +512,7 @@ no-ke-0515; Toilette; et toalett; et do; A1; Karstens Empfehlung/Wörter; Unnsky
 no-ke-0516; Ergebnis; et resultat; ; B1; Karstens Empfehlung/Wörter; Resultatet av testen var veldig positivt.; Das Ergebnis des Tests war sehr positiv.
 no-ke-0517; reich; rik; ; A2; Karstens Empfehlung/Wörter; Den rike mannen ga penger til skolen.; Der reiche Mann gab der Schule Geld.
 no-ke-0518; lächerlich; latterlig; ; B2; Karstens Empfehlung/Wörter; Den hatten ser latterlig ut på deg.; Der Hut sieht an dir lächerlich aus.
-no-ke-0519; rechts, richtig; riktig; korrekt; A1; Karstens Empfehlung/Wörter; Svaret ditt er riktig, bra jobba!; Deine Antwort ist richtig, gut gemacht!
+no-ke-0519; rechts; til høyre; på høyre side; A1; Karstens Empfehlung/Wörter; Postkontoret ligger til høyre.; Die Post ist rechts.
 no-ke-0520; Risiko; en risiko; ; B2; Karstens Empfehlung/Wörter; Høyere avkastning følger vanligvis med mye høyere risiko.; Höhere Renditen gehen meist mit deutlich höherem Risiko einher.
 no-ke-0521; Fluss; ei elv; en elv; A1; Karstens Empfehlung/Wörter; Elva renner sakte gjennom hele dalen.; Der Fluss fließt langsam durch das Tal.
 no-ke-0522; Straße; en gate; en vei; A1; Karstens Empfehlung/Wörter; Vær forsiktig når du går over gaten.; Sei vorsichtig, wenn du über die Straße gehst.
@@ -523,7 +523,7 @@ no-ke-0526; grob, rau, uneben; ujevn; humpete; B1; Karstens Empfehlung/Wörter; 
 no-ke-0527; rund, rundlich; rund; ; A2; Karstens Empfehlung/Wörter; Vi satt ved et rundt bord.; Wir saßen an einem runden Tisch.
 no-ke-0528; unhöflich; uhøflig; ; B1; Karstens Empfehlung/Wörter; Det er uhøflig å snakke med munnen full.; Es ist unhöflich, mit vollem Mund zu sprechen.
 no-ke-0529; sicher; trygg; ; A2; Karstens Empfehlung/Wörter; Oppbevar passet ditt på et trygt sted.; Bewahre deinen Reisepass an einem sicheren Ort auf.
-no-ke-0530; gleich (derselbe); samme; ; A2; Karstens Empfehlung/Wörter; Hun og jeg går i samme klasse.; Sie und ich gehen in dieselbe Klasse.
+no-ke-0530; gleich (die gleiche Farbe); samme; ; A2; Karstens Empfehlung/Wörter; Hun og jeg går i samme klasse.; Sie und ich gehen in dieselbe Klasse.
 no-ke-0531; Samstag; lørdag; ; A1; Karstens Empfehlung/Wörter; På lørdag går vi på markedet.; Am Samstag gehen wir auf den Markt.
 no-ke-0532; Schauplatz, Szene; en scene; ei scene; B1; Karstens Empfehlung/Wörter; Den siste scenen i filmen var veldig morsom.; Die letzte Szene des Films war sehr lustig.
 no-ke-0533; Schule; en skole; ; A1; Karstens Empfehlung/Wörter; Skolen vår ligger nær den store parken.; Unsere Schule ist in der Nähe des großen Parks.
@@ -535,12 +535,12 @@ no-ke-0538; Sekunde; et sekund; ; A2; Karstens Empfehlung/Wörter; Vent et lite 
 no-ke-0539; Sicherheit; en sikkerhet; ; B1; Karstens Empfehlung/Wörter; Sikkerhet er veldig viktig på internett.; Sicherheit ist im Internet sehr wichtig.
 no-ke-0540; selbstbewusst; selvsikker; ; B1; Karstens Empfehlung/Wörter; Hun ga et selvsikkert svar i jobbintervjuet.; Sie gab im Vorstellungsgespräch eine selbstbewusste Antwort.
 no-ke-0541; befangen, gehemmt; brydd; hemmet; C1; Karstens Empfehlung/Wörter; Han følte seg brydd foran kameraet.; Er fühlte sich vor der Kamera befangen.
-no-ke-0542; ältere, höhergestellt; eldre; ; B2; Karstens Empfehlung/Wörter; Bestemora mi går på en klubb for eldre mennesker.; Meine Oma geht in einen Klub für ältere Menschen.
+no-ke-0542; ältere; eldre; ; B2; Karstens Empfehlung/Wörter; Bestemora mi går på en klubb for eldre mennesker.; Meine Oma geht in einen Klub für ältere Menschen.
 no-ke-0543; Folge, Serie, Reihe; en serie; ; A2; Karstens Empfehlung/Wörter; Vi så hele serien på en helg.; Wir haben die ganze Serie an einem Wochenende geschaut.
 no-ke-0544; ernst; alvorlig; seriøs; B1; Karstens Empfehlung/Wörter; Dette er et alvorlig problem for oss alle.; Das ist ein ernstes Problem für uns alle.
 no-ke-0545; Dienst, Service; en service; ; B1; Karstens Empfehlung/Wörter; Servicen på denne kafeen er veldig vennlig.; Der Service in diesem Café ist sehr freundlich.
 no-ke-0546; einige; flere; noen; B1; Karstens Empfehlung/Wörter; Jeg har lest denne boka flere ganger.; Ich habe dieses Buch einige Male gelesen.
-no-ke-0547; spitz, scharf, schrill; skarp; hvass; B1; Karstens Empfehlung/Wörter; Vær forsiktig, kniven er veldig skarp.; Sei vorsichtig, das Messer ist sehr scharf.
+no-ke-0547; spitz, scharf; skarp; hvass; B1; Karstens Empfehlung/Wörter; Vær forsiktig, kniven er veldig skarp.; Sei vorsichtig, das Messer ist sehr scharf.
 no-ke-0548; Schiff; et skip; ; A2; Karstens Empfehlung/Wörter; Vi krysset havet på et stort skip.; Wir überquerten das Meer auf einem großen Schiff.
 no-ke-0549; kurz; kort; ; A1; Karstens Empfehlung/Wörter; Filmen er kort, bare én time.; Der Film ist kurz, nur eine Stunde.
 no-ke-0550; Schuss; et skudd; ; B1; Karstens Empfehlung/Wörter; Keeperen reddet skuddet med begge hendene.; Der Torwart hielt den Schuss mit beiden Händen.
@@ -551,7 +551,7 @@ no-ke-0554; Zeichen; et tegn; et skilt; B1; Karstens Empfehlung/Wörter; Hun ga 
 no-ke-0555; bedeutsam; betydelig; vesentlig; B2; Karstens Empfehlung/Wörter; Det var en betydelig endring i været.; Es gab eine bedeutsame Veränderung beim Wetter.
 no-ke-0556; ähnlich; lik; liknende; A2; Karstens Empfehlung/Wörter; De to brødrene er veldig like.; Die beiden Brüder sehen sich sehr ähnlich.
 no-ke-0557; einfach; enkel; ; A2; Karstens Empfehlung/Wörter; Dette spillet har veldig enkle regler.; Dieses Spiel hat sehr einfache Regeln.
-no-ke-0558; seit, weil; siden; ; B1; Karstens Empfehlung/Wörter; Jeg har bodd her siden jeg var tre.; Ich wohne hier, seit ich drei war.
+no-ke-0558; seit; siden; ; B1; Karstens Empfehlung/Wörter; Jeg har bodd her siden jeg var tre.; Ich wohne hier, seit ich drei war.
 no-ke-0559; einzeln; enkelt; ; B1; Karstens Empfehlung/Wörter; Hver enkelt elev fikk en liten gave.; Jeder einzelne Schüler bekam ein kleines Geschenk.
 no-ke-0560; Schwester; ei søster; en søster; A1; Karstens Empfehlung/Wörter; Søsteren min synger i skolekoret vårt.; Meine Schwester singt im Schulchor.
 no-ke-0561; Schwägerin; ei svigerinne; en svigerinne; B1; Karstens Empfehlung/Wörter; Svigerinnen min venter sitt andre barn.; Meine Schwägerin erwartet ihr zweites Kind.
@@ -568,7 +568,7 @@ no-ke-0571; verschneit; snødekt; ; A2; Karstens Empfehlung/Wörter; Vi elsker d
 no-ke-0572; gesellschaftlich; sosial; ; B1; Karstens Empfehlung/Wörter; Ensomhet er et stort sosialt problem.; Einsamkeit ist ein großes gesellschaftliches Problem.
 no-ke-0573; weich, sanft; myk; ; A2; Karstens Empfehlung/Wörter; Den nye hodeputen er deilig myk.; Das neue Kissen ist wunderbar weich.
 no-ke-0574; Soldat; en soldat; ; B1; Karstens Empfehlung/Wörter; Soldaten sto vakt foran det store slottet.; Der Soldat stand Wache vor dem großen Schloss.
-no-ke-0575; etwas, manche, einige; noe; noen; A1; Karstens Empfehlung/Wörter; Vil du ha noe å drikke?; Möchtest du etwas trinken?
+no-ke-0575; etwas, manche, einige; noen; noe; A1; Karstens Empfehlung/Wörter; Jeg kjøpte noen epler på torget.; Ich habe einige Äpfel auf dem Markt gekauft.
 no-ke-0576; etwas; noe; ; A1; Karstens Empfehlung/Wörter; Vil du ha noe å drikke?; Möchtest du etwas trinken?
 no-ke-0577; manchmal; noen ganger; av og til, iblant; A1; Karstens Empfehlung/Wörter; Noen ganger leser jeg i sengen om natten.; Manchmal lese ich nachts im Bett.
 no-ke-0578; Sohn; en sønn; ; A1; Karstens Empfehlung/Wörter; Sønnen deres spiller tennis hver onsdag ettermiddag.; Ihr Sohn spielt jeden Mittwochnachmittag Tennis.
@@ -576,7 +576,7 @@ no-ke-0579; Lied; en sang; en låt; A2; Karstens Empfehlung/Wörter; Denne sange
 no-ke-0580; bald; snart; ; A2; Karstens Empfehlung/Wörter; Vi er snart hjemme, så vent litt.; Wir sind bald zu Hause, warte noch kurz.
 no-ke-0581; Geräusch, Klang; en lyd; ; A2; Karstens Empfehlung/Wörter; Jeg elsker lyden av regn på taket.; Ich liebe das Geräusch des Regens auf dem Dach.
 no-ke-0582; Suppe; ei suppe; en suppe; A1; Karstens Empfehlung/Wörter; Bestemor lager en varm suppe om vinteren.; Oma macht im Winter eine warme Suppe.
-no-ke-0583; sauer (Geschmack); sur; ; B1; Karstens Empfehlung/Wörter; Sitronsausen har en behagelig sur smak.; Die Zitronensoße ist angenehm sauer.
+no-ke-0583; sauer (saure Zitronen); sur; ; B1; Karstens Empfehlung/Wörter; Sitronsausen har en behagelig sur smak.; Die Zitronensoße ist angenehm sauer.
 no-ke-0584; Quelle, Ursprung; en kilde; ei kilde; B2; Karstens Empfehlung/Wörter; En god journalist sjekker alltid kildene sine nøye.; Ein guter Journalist prüft seine Quellen immer sorgfältig.
 no-ke-0585; Süden; sør; ; A2; Karstens Empfehlung/Wörter; Om høsten flyr fuglene mot sør.; Im Herbst fliegen die Vögel in den Süden.
 no-ke-0586; südlich; sørlig; ; B1; Karstens Empfehlung/Wörter; Vi tilbrakte ferien i det sørlige Italia.; Wir haben unseren Urlaub im südlichen Italien verbracht.
@@ -587,30 +587,30 @@ no-ke-0590; Rede; en tale; ; B2; Karstens Empfehlung/Wörter; Talen hennes rørt
 no-ke-0591; Sport; en sport; ; A1; Karstens Empfehlung/Wörter; Sport holder deg i form og frisk.; Sport hält dich fit und gesund.
 no-ke-0592; Frühling; en vår; ; A1; Karstens Empfehlung/Wörter; Om våren kommer blomstene tilbake igjen.; Im Frühling kommen die Blumen zurück.
 no-ke-0593; Personal, Belegschaft; et personale; et personell; B2; Karstens Empfehlung/Wörter; Vi trenger mer personale i de travle sommermånedene.; Wir brauchen mehr Personal für die arbeitsreichen Sommermonate.
-no-ke-0594; Bühne, Phase; en scene; ei scene; B1; Karstens Empfehlung/Wörter; Bandet entret scenen klokka ni om kvelden.; Die Band betrat um neun Uhr abends die Bühne.
+no-ke-0594; Bühne; en scene; ei scene; B1; Karstens Empfehlung/Wörter; Bandet entret scenen klokka ni om kvelden.; Die Band betrat um neun Uhr abends die Bühne.
 no-ke-0595; Standard; en standard; ; B2; Karstens Empfehlung/Wörter; Hotellet har høy standard, også på maten.; Das Hotel hat einen hohen Standard, auch beim Essen.
 no-ke-0596; Stern; en stjerne; ; A1; Karstens Empfehlung/Wörter; I ørkenen ser man hver stjerne tydelig.; In der Wüste sieht man jeden Stern deutlich.
-no-ke-0597; Zustand, Bundesland, Staat; en stat; ; A2; Karstens Empfehlung/Wörter; Staten betaler for skoler og veier.; Der Staat bezahlt Schulen und Straßen.
+no-ke-0597; Zustand; en tilstand; ; A2; Karstens Empfehlung/Wörter; Det gamle huset er i dårlig tilstand.; Das alte Haus ist in einem schlechten Zustand.
 no-ke-0598; Aussage, Erklärung; en uttalelse; en erklæring; B2; Karstens Empfehlung/Wörter; Politiet ga en kort uttalelse på radioen.; Die Polizei gab im Radio eine kurze Erklärung ab.
 no-ke-0599; steil; bratt; ; B2; Karstens Empfehlung/Wörter; Stien opp fjellet er veldig bratt.; Der Weg auf den Berg ist sehr steil.
-no-ke-0600; Stufe, Schritt; et steg; et trinn; B1; Karstens Empfehlung/Wörter; Neste steg er testen med ekte brukere.; Der nächste Schritt ist der Test mit echten Nutzern.
+no-ke-0600; Stufe (die Stufen der Treppe); et trinn; ; B1; Karstens Empfehlung/Wörter; Pass på det siste trinnet i trappa.; Vorsicht bei der letzten Stufe der Treppe.
 no-ke-0601; Stiefbruder; en stebror; ; B1; Karstens Empfehlung/Wörter; Stebroren min og jeg deler rom.; Mein Stiefbruder und ich teilen uns ein Zimmer.
 no-ke-0602; Stiefschwester; ei stesøster; en stesøster; B1; Karstens Empfehlung/Wörter; Stesøstera mi er to år eldre enn meg.; Meine Stiefschwester ist zwei Jahre älter als ich.
 no-ke-0603; still; stille; rolig; A2; Karstens Empfehlung/Wörter; Det er alltid veldig stille på biblioteket.; In der Bibliothek ist es immer sehr still.
 no-ke-0604; Vorrat; et lager; ; B2; Karstens Empfehlung/Wörter; Butikken har ikke flere sko på lager.; Das Geschäft hat keine Schuhe mehr auf Vorrat.
-no-ke-0605; Geschäft, Laden; en butikk; en forretning; A1; Karstens Empfehlung/Wörter; Jeg kjøpte brød i butikken på hjørnet.; Ich habe im Laden an der Ecke Brot gekauft.
+no-ke-0605; Geschäft (im Geschäft einkaufen); en butikk; en forretning; A1; Karstens Empfehlung/Wörter; Jeg kjøpte brød i butikken på hjørnet.; Ich habe im Laden an der Ecke Brot gekauft.
 no-ke-0606; Sturm; en storm; ; A2; Karstens Empfehlung/Wörter; Stormen knekte mange gamle trær i skogen.; Der Sturm brach viele alte Bäume.
 no-ke-0607; stürmisch; stormfull; ; B1; Karstens Empfehlung/Wörter; Det var en mørk og stormfull natt.; Es war eine dunkle und stürmische Nacht.
-no-ke-0608; Geschichte, Erzählung; en historie; ei historie, en fortelling; A1; Karstens Empfehlung/Wörter; Jeg synes tysk historie er veldig interessant.; Ich finde die deutsche Geschichte sehr interessant.
-no-ke-0609; gerade (nicht krumm); rett; ; A2; Karstens Empfehlung/Wörter; Gå rett fram og så til venstre.; Geh geradeaus und dann links.
+no-ke-0608; Geschichte, Erzählung; en historie; ei historie, en fortelling; A1; Karstens Empfehlung/Wörter; Bestemor forteller oss en historie hver kveld.; Meine Oma erzählt uns jeden Abend eine Geschichte.
+no-ke-0609; gerade (eine gerade Linie); rett; ; A2; Karstens Empfehlung/Wörter; Gå rett fram og så til venstre.; Geh geradeaus und dann links.
 no-ke-0610; Bach; en bekk; ; B1; Karstens Empfehlung/Wörter; Bak huset renner en klar bekk.; Hinter dem Haus fließt ein klarer Bach.
 no-ke-0612; stark, kräftig, stabil; sterk; kraftig, solid; A1; Karstens Empfehlung/Wörter; I vanskelige tider må man være sterk.; In schweren Zeiten muss man stark sein.
-no-ke-0613; Struktur, Gliederung, Gebäude; en konstruksjon; en struktur; B2; Karstens Empfehlung/Wörter; Brua er en veldig gammel konstruksjon.; Die Brücke ist ein sehr altes Bauwerk.
+no-ke-0613; Struktur, Gliederung; en struktur; en oppbygning; B2; Karstens Empfehlung/Wörter; Strukturen i stilen din må være tydelig.; Die Gliederung deines Aufsatzes muss klar sein.
 no-ke-0614; Student, Schüler; en student; ; A1; Karstens Empfehlung/Wörter; Studenten lærer engelsk på universitetet i Oslo.; Der Student lernt Englisch an der Universität in Oslo.
 no-ke-0615; Zeug, Kram; greier; ting og tang; B1; Karstens Empfehlung/Wörter; Det ligger mange greier under sengen min.; Unter meinem Bett ist viel Kram.
 no-ke-0616; dumm; dum; tåpelig; A2; Karstens Empfehlung/Wörter; Det var dumt å glemme paraplyen min.; Es war dumm, meinen Regenschirm zu vergessen.
 no-ke-0617; Stil; en stil; ; B1; Karstens Empfehlung/Wörter; Jeg liker stilen din når du maler.; Mir gefällt dein Stil zu malen.
-no-ke-0618; Thema, Fach; et emne; et tema, et fag; A2; Karstens Empfehlung/Wörter; Favorittemnet mitt på skolen er historie.; Mein Lieblingsfach in der Schule ist Geschichte.
+no-ke-0618; Thema; et emne; et tema; A2; Karstens Empfehlung/Wörter; La oss snakke om et annet emne nå.; Lass uns jetzt über ein anderes Thema sprechen.
 no-ke-0619; U-Bahn; en T-bane; en tunnelbane; A2; Karstens Empfehlung/Wörter; Vi tok T-banen fra Majorstuen til museet.; Wir sind mit der U-Bahn von Majorstuen zum Museum gefahren.
 no-ke-0620; Erfolg; en suksess; ; A2; Karstens Empfehlung/Wörter; Skolefesten vår var en stor suksess.; Das Schulfest war ein großer Erfolg.
 no-ke-0621; erfolgreich; vellykket; suksessfull; B1; Karstens Empfehlung/Wörter; Skolefesten vår var veldig vellykket i år.; Unser Schulfest war dieses Jahr sehr erfolgreich.
@@ -627,21 +627,21 @@ no-ke-0631; süß; søt; ; B1; Karstens Empfehlung/Wörter; Denne desserten er f
 no-ke-0632; mitfühlend, verständnisvoll; forståelsesfull; medfølende; B2; Karstens Empfehlung/Wörter; Læreren min var veldig forståelsesfull da jeg var syk.; Meine Lehrerin war sehr verständnisvoll, als ich krank war.
 no-ke-0633; System, Methode; et system; en metode; B1; Karstens Empfehlung/Wörter; Vi har et nytt system for å sortere søppel.; Wir haben ein neues System, um unseren Müll zu trennen.
 no-ke-0634; Tisch; et bord; ; A1; Karstens Empfehlung/Wörter; Bøkene ligger på det store bordet.; Die Bücher liegen auf dem großen Tisch.
-no-ke-0635; groß (Körpergröße); høy; ; A1; Karstens Empfehlung/Wörter; Faren min er veldig høy, nesten to meter.; Mein Vater ist sehr groß, fast zwei Meter.
+no-ke-0635; groß (ein großer Mann); høy; ; A1; Karstens Empfehlung/Wörter; Faren min er veldig høy, nesten to meter.; Mein Vater ist sehr groß, fast zwei Meter.
 no-ke-0636; Aufgabe; en oppgave; ; B1; Karstens Empfehlung/Wörter; Min første oppgave er å svare på kundenes e-poster.; Meine erste Aufgabe ist es, Kunden-E-Mails zu beantworten.
 no-ke-0637; Steuer; en skatt; ; B1; Karstens Empfehlung/Wörter; Jeg betaler mindre skatt enn i fjor.; Ich zahle weniger Steuern als letztes Jahr.
 no-ke-0638; Lehrer; en lærer; ; A1; Karstens Empfehlung/Wörter; Læreren vår forklarer de nye ordene sakte.; Unser Lehrer erklärt die neuen Wörter langsam.
 no-ke-0639; zart, weich; mør; ; B2; Karstens Empfehlung/Wörter; Kjøttet var så mørt at det nærmest smeltet.; Das Fleisch war so zart dass es zerging.
-no-ke-0640; Begriff, Semester; et semester; ; B2; Karstens Empfehlung/Wörter; Det første semesteret begynner i september.; Das erste Semester beginnt im September.
+no-ke-0640; Begriff; et begrep; en term; B2; Karstens Empfehlung/Wörter; Jeg kjenner ikke dette vitenskapelige begrepet.; Ich kenne diesen wissenschaftlichen Begriff nicht.
 no-ke-0641; furchtbar, schrecklich; forferdelig; fryktelig, grusom; A2; Karstens Empfehlung/Wörter; Været var forferdelig under ferien vår.; Das Wetter war schrecklich während unseres Urlaubs.
-no-ke-0642; als (Vergleich); enn; ; A2; Karstens Empfehlung/Wörter; Broren min er eldre enn meg.; Mein Bruder ist älter als ich.
+no-ke-0642; als (größer als ich); enn; ; A2; Karstens Empfehlung/Wörter; Broren min er eldre enn meg.; Mein Bruder ist älter als ich.
 no-ke-0643; dass; at; ; A2; Karstens Empfehlung/Wörter; Jeg tror at det regner i dag.; Ich denke, dass es heute regnet.
-no-ke-0644; dann, danach, damals; så; deretter, da; A1; Karstens Empfehlung/Wörter; Vi spiste lunsj, og så gikk vi til parken.; Wir aßen zu Mittag und dann gingen wir in den Park.
+no-ke-0644; dann, danach; så; deretter; A1; Karstens Empfehlung/Wörter; Vi spiste lunsj, og så gikk vi til parken.; Wir aßen zu Mittag und dann gingen wir in den Park.
 no-ke-0645; Theorie; en teori; ; B1; Karstens Empfehlung/Wörter; En god teori kan prøves med eksperimenter.; Eine gute Theorie lässt sich durch Experimente prüfen.
 no-ke-0646; da, dort; der; ; A1; Karstens Empfehlung/Wörter; Jakka di henger der borte ved døra.; Deine Jacke hängt dort drüben an der Tür.
 no-ke-0647; daher, deshalb; derfor; ; B2; Karstens Empfehlung/Wörter; Det regnet, derfor ble vi inne.; Es regnete, deshalb blieben wir drinnen.
 no-ke-0648; diese (Plural); disse; ; A1; Karstens Empfehlung/Wörter; Disse eplene fra hagen er veldig søte.; Diese Äpfel aus dem Garten sind sehr süß.
-no-ke-0649; dick (Gegenstand); tykk; ; A2; Karstens Empfehlung/Wörter; Denne boka er veldig tykk og tung.; Dieses Buch ist sehr dick und schwer.
+no-ke-0649; dick (ein dickes Buch); tykk; ; A2; Karstens Empfehlung/Wörter; Denne boka er veldig tykk og tung.; Dieses Buch ist sehr dick und schwer.
 no-ke-0650; dünn; tynn; ; A2; Karstens Empfehlung/Wörter; Skjær brødet i tynne skiver, takk.; Schneide das Brot bitte in dünne Scheiben.
 no-ke-0651; Ding, Sache; en ting; ; A1; Karstens Empfehlung/Wörter; Jeg må kjøpe noen ting til skolen.; Ich muss ein paar Dinge für die Schule kaufen.
 no-ke-0652; dieser, diese, dieses; denne; dette; A1; Karstens Empfehlung/Wörter; Denne gutten er min beste venn, Tom.; Dieser Junge ist mein bester Freund Tom.
@@ -668,10 +668,10 @@ no-ke-0672; zulassen; å tillate; ; B1; Karstens Empfehlung/Verben; Foreldrene m
 no-ke-0673; scheinen, den Anschein haben, aussehen; å virke; å se ut til; B1; Karstens Empfehlung/Verben; Han virker veldig trøtt i dag.; Er scheint heute sehr müde zu sein.
 no-ke-0674; anwenden, einsetzen; å anvende; å bruke; B2; Karstens Empfehlung/Verben; Anvend det du har lært, på denne oppgaven nå.; Wende jetzt das Gelernte bei dieser Aufgabe an.
 no-ke-0675; sich nähern, herankommen; å nærme seg; ; B2; Karstens Empfehlung/Verben; Katten nærmet seg fuglen veldig sakte.; Die Katze näherte sich dem Vogel sehr langsam.
-no-ke-0676; argumentieren, streiten; å krangle; ; B1; Karstens Empfehlung/Verben; De krangler ofte om penger og husarbeid.; Sie streiten oft über Geld und Hausarbeit.
+no-ke-0676; argumentieren; å argumentere; ; B1; Karstens Empfehlung/Verben; Hun argumenterer for at skolen trenger flere lærere.; Sie argumentiert, dass die Schule mehr Lehrer braucht.
 no-ke-0677; ankommen; å komme fram; å komme frem, å ankomme; A1; Karstens Empfehlung/Verben; Toget kommer fram klokka ti om morgenen.; Der Zug kommt morgens um zehn an.
 no-ke-0678; etwas fragen; å spørre om noe; ; A1; Karstens Empfehlung/Verben; Kan jeg spørre deg om noe?; Darf ich dich etwas fragen?
-no-ke-0679; annehmen, vermuten; å anta; ; B1; Karstens Empfehlung/Verben; Jeg antar at toget kommer presis.; Ich nehme an, dass der Zug pünktlich sein wird.
+no-ke-0679; annehmen (ich nehme an, er kommt); å anta; ; B1; Karstens Empfehlung/Verben; Jeg antar at toget kommer presis.; Ich nehme an, dass der Zug pünktlich sein wird.
 no-ke-0680; angreifen; å angripe; ; B1; Karstens Empfehlung/Verben; Hunden angriper bare når den er redd.; Der Hund greift nur an, wenn er Angst hat.
 no-ke-0681; vermeiden; å unngå; ; B1; Karstens Empfehlung/Verben; Prøv å unngå feil ved å sjekke arbeidet to ganger.; Versuche Fehler zu vermeiden, indem du deine Arbeit zweimal prüfst.
 no-ke-0682; sein; å være; ; A1; Karstens Empfehlung/Verben; Jeg vil bare være hjemme nå.; Ich will jetzt zu Hause sein.
@@ -688,11 +688,11 @@ no-ke-0692; etwas kaufen; å kjøpe noe; ; A1; Karstens Empfehlung/Verben; Jeg v
 no-ke-0693; rufen; å rope; ; A2; Karstens Empfehlung/Verben; Mamma ropte oss inn til middag.; Mama rief uns zum Abendessen herein.
 no-ke-0694; jemanden anrufen; å ringe noen; å ringe til noen; A2; Karstens Empfehlung/Verben; Jeg skal ringe bestemora mi i kveld.; Ich werde heute Abend meine Oma anrufen.
 no-ke-0695; sich kümmern um; å ta seg av; å ta vare på; B1; Karstens Empfehlung/Verben; Etter skolen tar hun seg av lillesøsteren sin.; Nach der Schule kümmert sie sich um ihre kleine Schwester.
-no-ke-0696; tragen (Last); å bære; ; A2; Karstens Empfehlung/Verben; Kan du hjelpe meg å bære denne kassen?; Kannst du mir helfen, diese Kiste zu tragen?
+no-ke-0696; tragen (einen Koffer tragen); å bære; ; A2; Karstens Empfehlung/Verben; Kan du hjelpe meg å bære denne kassen?; Kannst du mir helfen, diese Kiste zu tragen?
 no-ke-0697; fangen; å fange; ; A2; Karstens Empfehlung/Verben; Hunden elsker å fange ballen sin.; Der Hund liebt es, den Ball zu fangen.
 no-ke-0698; verursachen; å forårsake; ; B1; Karstens Empfehlung/Verben; Det kraftige regnet forårsaket alvorlige problemer på veiene.; Der starke Regen verursachte ernste Probleme auf den Straßen.
 no-ke-0699; ändern; å endre; å forandre; A2; Karstens Empfehlung/Verben; Jeg vil gjerne endre plassen min.; Ich möchte meinen Platz ändern.
-no-ke-0700; berechnen, aufladen; å lade opp; ; A2; Karstens Empfehlung/Verben; Jeg må lade opp mobilen hver natt.; Ich muss mein Handy jede Nacht aufladen.
+no-ke-0700; berechnen; å ta betalt; å belaste; A2; Karstens Empfehlung/Verben; Rørleggeren tok betalt for to timer.; Der Klempner hat zwei Stunden berechnet.
 no-ke-0701; kontrollieren, prüfen; å kontrollere; å sjekke; A2; Karstens Empfehlung/Verben; Advokaten vår kontrollerer kontrakten i dag.; Unser Anwalt prüft den Vertrag heute.
 no-ke-0702; auswählen, wählen; å velge; å velge ut; A2; Karstens Empfehlung/Verben; Du kan velge mellom te og kaffe.; Du kannst zwischen Tee und Kaffee auswählen.
 no-ke-0703; fordern, beanspruchen; å kreve; å gjøre krav på; C1; Karstens Empfehlung/Verben; Begge partene krever seieren for seg selv.; Beide Parteien beanspruchen den Sieg für sich.
@@ -715,9 +715,9 @@ no-ke-0719; entwickeln; å utvikle; ; A2; Karstens Empfehlung/Verben; Firmaet v�
 no-ke-0720; sterben; å dø; ; A2; Karstens Empfehlung/Verben; Planter dør hvis de ikke får vann.; Pflanzen sterben ohne Wasser.
 no-ke-0721; entdecken; å oppdage; ; B1; Karstens Empfehlung/Verben; Forskere oppdaget en ny art i skogen.; Wissenschaftler entdeckten eine neue Art im Wald.
 no-ke-0722; etwas tun, erledigen; å gjøre noe; ; A1; Karstens Empfehlung/Verben; Hva vil du gjøre i helga?; Was willst du dieses Wochenende tun?
-no-ke-0723; zeichnen, auslosen; å tegne; ; A2; Karstens Empfehlung/Verben; Hun tegner fine bilder av ville dyr.; Sie zeichnet schöne Bilder von wilden Tieren.
+no-ke-0723; zeichnen; å tegne; ; A2; Karstens Empfehlung/Verben; Hun tegner fine bilder av ville dyr.; Sie zeichnet schöne Bilder von wilden Tieren.
 no-ke-0724; träumen; å drømme; ; A2; Karstens Empfehlung/Verben; Jeg drømmer ofte om en lang reise.; Ich träume oft von einer langen Reise.
-no-ke-0725; fahren (am Steuer); å kjøre; ; A1; Karstens Empfehlung/Verben; Moren min kjører til jobben hver dag.; Meine Mutter fährt jeden Tag zur Arbeit.
+no-ke-0725; fahren (Auto fahren); å kjøre; ; A1; Karstens Empfehlung/Verben; Moren min kjører til jobben hver dag.; Meine Mutter fährt jeden Tag zur Arbeit.
 no-ke-0726; fallen lassen; å slippe; å miste; B1; Karstens Empfehlung/Verben; Vær så snill, ikke slipp eggene!; Bitte lass die Eier nicht fallen.
 no-ke-0727; etwas essen; å spise noe; ; A1; Karstens Empfehlung/Verben; Jeg spiser et eple hver dag.; Ich esse jeden Tag einen Apfel.
 no-ke-0728; genießen; å nyte; ; A2; Karstens Empfehlung/Verben; Jeg nyter virkelig å lese i sengen.; Ich genieße es sehr, im Bett zu lesen.
@@ -741,12 +741,12 @@ no-ke-0745; formen, bilden; å danne; å forme; B1; Karstens Empfehlung/Verben; 
 no-ke-0746; mit jemandem auskommen; å komme overens med noen; ; B1; Karstens Empfehlung/Verben; Jeg kommer veldig godt overens med de nye klassekameratene.; Ich komme mit meinen neuen Mitschülern sehr gut aus.
 no-ke-0747; entfliehen, entkommen; å rømme; å slippe unna; B1; Karstens Empfehlung/Verben; Den lille musa klarte å rømme fra katten.; Die kleine Maus schaffte es, der Katze zu entkommen.
 no-ke-0748; etwas von jemandem bekommen; å få noe fra noen; å få noe av noen; A2; Karstens Empfehlung/Verben; Jeg fikk et fint brev fra tanten min.; Ich habe von meiner Tante einen schönen Brief bekommen.
-no-ke-0749; aufstehen (morgens, aus dem Bett); å stå opp; ; A1; Karstens Empfehlung/Verben; Jeg står opp klokka sju hver morgen.; Ich stehe jeden Morgen um sieben auf.
+no-ke-0749; aufstehen (morgens aufstehen); å stå opp; ; A1; Karstens Empfehlung/Verben; Jeg står opp klokka sju hver morgen.; Ich stehe jeden Morgen um sieben auf.
 no-ke-0750; geben; å gi; ; A1; Karstens Empfehlung/Verben; Vær så snill å gi meg boka på bordet.; Bitte gib mir das Buch auf dem Tisch.
 no-ke-0751; gehen, fahren; å gå; å dra; A1; Karstens Empfehlung/Verben; Vi går til skolen hver morgen.; Wir gehen jeden Morgen zur Schule.
 no-ke-0752; spazieren gehen; å gå en tur; ; A2; Karstens Empfehlung/Verben; La oss gå en tur i parken.; Lass uns im Park spazieren gehen.
 no-ke-0753; wachsen; å vokse; ; A2; Karstens Empfehlung/Verben; Disse blomstene vokser veldig fort om sommeren.; Diese Blumen wachsen im Sommer sehr schnell.
-no-ke-0754; raten (schätzen); å gjette; ; A2; Karstens Empfehlung/Verben; Kan du gjette hvor gammel bestemoren min er?; Kannst du raten, wie alt meine Großmutter ist?
+no-ke-0754; raten (rate mal!); å gjette; ; A2; Karstens Empfehlung/Verben; Kan du gjette hvor gammel bestemoren min er?; Kannst du raten, wie alt meine Großmutter ist?
 no-ke-0755; passieren, geschehen; å skje; å hende; A2; Karstens Empfehlung/Verben; Hva skjedde på skolen i dag?; Was ist heute in der Schule passiert?
 no-ke-0756; etwas haben; å ha noe; ; A1; Karstens Empfehlung/Verben; Jeg har en liten bror og en hund.; Ich habe einen kleinen Bruder und einen Hund.
 no-ke-0757; etwas tun müssen; å måtte gjøre noe; ; A2; Karstens Empfehlung/Verben; Jeg må gjøre leksene mine først.; Ich muss zuerst meine Hausaufgaben machen.
@@ -755,7 +755,7 @@ no-ke-0759; helfen; å hjelpe; ; A1; Karstens Empfehlung/Verben; Kan du hjelpe m
 no-ke-0760; jemandem aushelfen, einspringen; å stille opp for noen; å hjelpe noen ut; B1; Karstens Empfehlung/Verben; Kan du stille opp og handle for meg?; Kannst du für mich einspringen und einkaufen?
 no-ke-0761; jemandem mit etwas helfen; å hjelpe noen med noe; ; A2; Karstens Empfehlung/Verben; Storesøsteren min hjelper meg med matteleksene.; Meine große Schwester hilft mir bei den Matheaufgaben.
 no-ke-0762; schlagen, treffen; å slå; å treffe; B1; Karstens Empfehlung/Verben; Han slo ballen så hardt han kunne.; Er schlug den Ball so fest, wie er konnte.
-no-ke-0763; halten (festhalten); å holde; ; A2; Karstens Empfehlung/Verben; Kan du holde vesken min et øyeblikk?; Bitte halt kurz meine Tasche.
+no-ke-0763; halten (etwas in der Hand halten); å holde; ; A2; Karstens Empfehlung/Verben; Kan du holde vesken min et øyeblikk?; Bitte halt kurz meine Tasche.
 no-ke-0764; hoffen; å håpe; ; A1; Karstens Empfehlung/Verben; Jeg håper det blir fint vær i morgen.; Ich hoffe, das Wetter ist morgen schön.
 no-ke-0765; sich vorstellen; å forestille seg; å se for seg; B1; Karstens Empfehlung/Verben; Prøv å forestille deg en verden uten grenser.; Versuche, dir eine Welt ohne Grenzen vorzustellen.
 no-ke-0766; verbessern; å forbedre; ; A2; Karstens Empfehlung/Verben; Jeg vil forbedre engelsken min i år.; Ich möchte dieses Jahr mein Englisch verbessern.
@@ -772,7 +772,7 @@ no-ke-0776; führen; å lede; å føre; B1; Karstens Empfehlung/Verben; Guiden s
 no-ke-0777; etwas lernen; å lære noe; ; A1; Karstens Empfehlung/Verben; Jeg vil gjerne lære å svømme.; Ich möchte schwimmen lernen.
 no-ke-0778; weggehen, verlassen; å dra; å forlate; A2; Karstens Empfehlung/Verben; Vi drar hjemmefra klokka åtte hver morgen.; Wir fahren jeden Morgen um acht Uhr von zu Hause los.
 no-ke-0779; lassen; å la; ; A2; Karstens Empfehlung/Verben; Vær så snill, la meg leke med dere.; Bitte lass mich mit euch spielen.
-no-ke-0780; liegen, lügen; å lyve; ; A2; Karstens Empfehlung/Verben; Vær så snill, ikke lyv for meg om pengene.; Bitte lüg mich wegen des Geldes nicht an.
+no-ke-0780; liegen (im Bett liegen); å ligge; ; A2; Karstens Empfehlung/Verben; Hunden ligger i sola i hagen.; Der Hund liegt im Garten in der Sonne.
 no-ke-0781; etwas oder jemanden mögen; å like noe eller noen; ; A1; Karstens Empfehlung/Verben; Jeg liker sjokoladeis, men ikke vaniljeis.; Ich mag Schokoladeneis, aber kein Vanilleeis.
 no-ke-0782; jemandem zuhören; å høre på noen; å lytte til noen; A2; Karstens Empfehlung/Verben; Hør på læreren din, vær så snill.; Bitte hör deiner Lehrerin zu.
 no-ke-0783; etwas anhören; å høre på noe; å lytte til noe; A1; Karstens Empfehlung/Verben; Jeg hører gjerne på musikk i bilen.; Ich höre mir im Auto gern Musik an.
@@ -790,23 +790,23 @@ no-ke-0794; bedeuten, meinen; å bety; ; A2; Karstens Empfehlung/Verben; Hva bet
 no-ke-0795; messen; å måle; ; A2; Karstens Empfehlung/Verben; Vi måler temperaturen tre ganger om dagen.; Wir messen die Temperatur dreimal am Tag.
 no-ke-0796; jemanden treffen, kennenlernen; å møte noen; å treffe noen; A1; Karstens Empfehlung/Verben; Jeg vil gjerne møte foreldrene dine.; Ich möchte deine Eltern kennenlernen.
 no-ke-0797; erwähnen; å nevne; ; B1; Karstens Empfehlung/Verben; Han nevnte at han kanskje snart bytter jobb.; Er erwähnte, dass er vielleicht bald die Stelle wechselt.
-no-ke-0798; vermissen, verpassen; å gå glipp av; å miste; A2; Karstens Empfehlung/Verben; Skynd deg, ellers går vi glipp av bussen.; Beeil dich, sonst verpassen wir den Bus.
+no-ke-0798; vermissen; å savne; ; A2; Karstens Empfehlung/Verben; Jeg savner deg når du er borte.; Ich vermisse dich, wenn du weg bist.
 no-ke-0799; sich bewegen; å bevege seg; å røre på seg; A2; Karstens Empfehlung/Verben; Ikke beveg deg, jeg skal ta et bilde.; Bitte beweg dich nicht, ich mache ein Foto.
 no-ke-0800; etwas brauchen; å trenge noe; ; A1; Karstens Empfehlung/Verben; Jeg trenger en ny blyant til skolen.; Ich brauche einen neuen Bleistift.
 no-ke-0801; bemerken; å legge merke til; ; A2; Karstens Empfehlung/Verben; Jeg la merke til en liten feil i teksten.; Ich bemerkte einen kleinen Fehler im Text.
 no-ke-0802; auftreten, sich ereignen; å inntreffe; å forekomme, å skje; B2; Karstens Empfehlung/Verben; Ulykken inntraff sent på natten i Trondheim.; Der Unfall ereignete sich spät in der Nacht.
 no-ke-0803; anbieten; å tilby; ; A2; Karstens Empfehlung/Verben; Hun tilbød meg en kopp varm te.; Sie bot mir eine Tasse heißen Tee an.
 no-ke-0804; etwas öffnen, aufmachen; å åpne noe; ; A1; Karstens Empfehlung/Verben; Kan du være så snill å åpne vinduet?; Kannst du bitte das Fenster aufmachen?
-no-ke-0805; bestellen, befehlen; å bestille; ; A1; Karstens Empfehlung/Verben; Vi bestiller to pizzaer og en salat.; Wir bestellen zwei Pizzas und einen Salat.
+no-ke-0805; bestellen; å bestille; ; A1; Karstens Empfehlung/Verben; Vi bestiller to pizzaer og en salat.; Wir bestellen zwei Pizzas und einen Salat.
 no-ke-0806; besitzen; å eie; ; A2; Karstens Empfehlung/Verben; Familien eier et lite hotell ved havet.; Die Familie besitzt ein kleines Hotel am Meer.
-no-ke-0807; vorbeigehen, bestehen; å bestå; ; A2; Karstens Empfehlung/Verben; Jeg er sikker på at du består eksamen.; Ich bin sicher, dass du die Prüfung bestehst.
+no-ke-0807; vorbeigehen; å gå forbi; å passere; A2; Karstens Empfehlung/Verben; Jeg går forbi bakeriet hver morgen.; Ich gehe jeden Morgen an der Bäckerei vorbei.
 no-ke-0808; für etwas bezahlen; å betale for noe; ; A2; Karstens Empfehlung/Verben; Pappa betalte for alle billettene våre.; Papa hat für unsere Karten bezahlt.
 no-ke-0809; jemanden bezahlen, entlohnen; å betale noen; å lønne noen; B1; Karstens Empfehlung/Verben; De betaler barnevakten godt hver uke.; Sie bezahlen den Babysitter jede Woche gut.
 no-ke-0810; etwas abbezahlen; å betale ned noe; å nedbetale noe; B2; Karstens Empfehlung/Verben; Foreldrene mine skal betale ned bilen neste år.; Meine Eltern werden das Auto nächstes Jahr abbezahlen.
-no-ke-0811; vorführen, leisten; å fremføre; å framføre, å oppføre; B1; Karstens Empfehlung/Verben; Klassen vår skal fremføre et teaterstykke til jul.; Unsere Klasse wird zu Weihnachten ein Theaterstück vorführen.
+no-ke-0811; vorführen; å fremføre; å framføre, å oppføre; B1; Karstens Empfehlung/Verben; Klassen vår skal fremføre et teaterstykke til jul.; Unsere Klasse wird zu Weihnachten ein Theaterstück vorführen.
 no-ke-0812; planen; å planlegge; ; A2; Karstens Empfehlung/Verben; Vi planlegger prosjektet sammen med kunden.; Wir planen das Projekt zusammen mit dem Kunden.
 no-ke-0813; spielen; å spille; å leke; A1; Karstens Empfehlung/Verben; Barna spiller fotball sammen i parken.; Die Kinder spielen Fußball im Park.
-no-ke-0814; üben, betreiben; å øve; ; A2; Karstens Empfehlung/Verben; Du bør øve på piano hver dag.; Du solltest jeden Tag Klavier üben.
+no-ke-0814; üben; å øve; ; A2; Karstens Empfehlung/Verben; Du bør øve på piano hver dag.; Du solltest jeden Tag Klavier üben.
 no-ke-0815; vorbereiten, zubereiten; å forberede; å gjøre klar; A2; Karstens Empfehlung/Verben; Vi forberedte alt i god tid til bursdagsfesten.; Wir bereiteten alles für die Geburtstagsfeier vor.
 no-ke-0816; verhindern; å forhindre; å hindre; B1; Karstens Empfehlung/Verben; En god lås kan forhindre mange innbrudd.; Ein gutes Schloss kann viele Einbrüche verhindern.
 no-ke-0817; verarbeiten; å prosessere; å behandle; B2; Karstens Empfehlung/Verben; Datamaskinen prosesserer alle dataene veldig raskt.; Der Computer verarbeitet die Daten sehr schnell.
@@ -837,7 +837,7 @@ no-ke-0841; verraten, enthüllen; å røpe; å avsløre; B2; Karstens Empfehlung
 no-ke-0842; aufsteigen, ansteigen; å stige; å gå opp; B1; Karstens Empfehlung/Verben; Om våren stiger temperaturen veldig raskt.; Im Frühling steigt die Temperatur sehr schnell.
 no-ke-0843; riskieren; å risikere; ; B2; Karstens Empfehlung/Verben; Du bør ikke risikere helsa for et spill.; Riskiere nicht deine Gesundheit für ein Spiel.
 no-ke-0844; rennen, laufen; å løpe; ; A1; Karstens Empfehlung/Verben; Han løper i parken hver søndag.; Er läuft jeden Sonntag im Park.
-no-ke-0845; sparen, retten; å spare; ; A2; Karstens Empfehlung/Verben; Vi sparer litt penger hver måned.; Wir sparen jeden Monat etwas Geld.
+no-ke-0845; sparen; å spare; ; A2; Karstens Empfehlung/Verben; Vi sparer litt penger hver måned.; Wir sparen jeden Monat etwas Geld.
 no-ke-0846; etwas sagen; å si noe; ; A1; Karstens Empfehlung/Verben; Hva var det du sa akkurat nå?; Was war das, was du gerade gesagt hast?
 no-ke-0847; sehen; å se; ; A1; Karstens Empfehlung/Verben; Jeg kan se bussen helt herfra.; Ich kann den Bus von hier sehen.
 no-ke-0848; verkaufen; å selge; ; A1; Karstens Empfehlung/Verben; I denne butikken selger de pene sko.; In diesem Geschäft verkaufen sie schöne Schuhe.
@@ -860,13 +860,13 @@ no-ke-0864; klingen; å høres ut; ; B1; Karstens Empfehlung/Verben; Det høres 
 no-ke-0865; sprechen; å snakke; ; A1; Karstens Empfehlung/Verben; Hun kan snakke tre språk veldig godt.; Sie kann drei Sprachen sehr gut sprechen.
 no-ke-0866; über etwas sprechen; å snakke om noe; å prate om noe; B1; Karstens Empfehlung/Verben; I dag snakker vi om ferien vår.; Heute sprechen wir über unsere Ferien.
 no-ke-0867; lauter sprechen; å snakke høyere; ; B1; Karstens Empfehlung/Verben; Snakk litt høyere, jeg hører deg ikke.; Bitte sprich lauter, ich kann dich nicht hören.
-no-ke-0868; ausgeben, verbringen; å bruke; ; A2; Karstens Empfehlung/Verben; Han bruker for mye penger på klær.; Er gibt zu viel für Kleidung aus.
+no-ke-0868; ausgeben; å bruke; ; A2; Karstens Empfehlung/Verben; Han bruker for mye penger på klær.; Er gibt zu viel für Kleidung aus.
 no-ke-0869; stehen; å stå; ; A1; Karstens Empfehlung/Verben; Mange folk står rett utenfor kinoen.; Viele Leute stehen vor dem Kino.
-no-ke-0870; aufstehen (von einem Stuhl); å reise seg; ; A1; Karstens Empfehlung/Verben; Reis deg opp når du svarer, takk.; Bitte steh auf, wenn du antwortest.
+no-ke-0870; aufstehen (vom Stuhl aufstehen); å reise seg; ; A1; Karstens Empfehlung/Verben; Reis deg opp når du svarer, takk.; Bitte steh auf, wenn du antwortest.
 no-ke-0871; beginnen, anfangen, starten; å begynne; å starte; A1; Karstens Empfehlung/Verben; Vi begynner med arbeidet på mandag.; Wir beginnen die Arbeit am Montag.
 no-ke-0872; bleiben; å bli; ; A1; Karstens Empfehlung/Verben; Vi blir hjemme fordi det regner.; Wir bleiben zu Hause, weil es regnet.
 no-ke-0873; anhalten, stoppen; å stoppe; å stanse; A1; Karstens Empfehlung/Verben; Bussen stopper rett foran skolen vår.; Der Bus hält vor unserer Schule an.
-no-ke-0874; lernen, studieren; å studere; ; B1; Karstens Empfehlung/Verben; Sønnen min vil studere medisin i Bergen.; Mein Sohn möchte in Bergen Medizin studieren.
+no-ke-0874; lernen (für eine Prüfung lernen); å lese; å studere, å pugge; B1; Karstens Empfehlung/Verben; Jeg må lese til matteprøven.; Ich muss für meine Mathearbeit lernen.
 no-ke-0875; gelingen, erfolgreich sein; å lykkes; ; B2; Karstens Empfehlung/Verben; Hvis du øver mye, kommer du til å lykkes.; Wenn du übst, wird es dir gelingen.
 no-ke-0876; leiden, ertragen; å lide; ; B2; Karstens Empfehlung/Verben; Mange dyr lider i den varme sommeren.; Viele Tiere leiden im heißen Sommer.
 no-ke-0877; vorschlagen; å foreslå; ; A2; Karstens Empfehlung/Verben; Jeg foreslår at vi snakker om prisen først.; Ich schlage vor, dass wir zuerst über den Preis sprechen.
@@ -876,7 +876,7 @@ no-ke-0880; über etwas oder jemanden reden; å prate om noen eller noe; å snak
 no-ke-0881; jemanden zu etwas überreden; å overtale noen til noe; ; B2; Karstens Empfehlung/Verben; Venninnen min overtalte meg til å bli med i koret.; Meine Freundin hat mich überredet, in den Chor zu gehen.
 no-ke-0882; sich mit jemandem unterhalten; å snakke med noen; å prate med noen; A2; Karstens Empfehlung/Verben; Jeg snakker gjerne med bestemor på telefonen.; Ich unterhalte mich gern am Telefon mit meiner Oma.
 no-ke-0883; lehren; å undervise; ; A2; Karstens Empfehlung/Verben; Moren min underviser i matte på en skole.; Meine Mama lehrt Mathe an einer Schule.
-no-ke-0884; jemandem etwas erzählen, mitteilen; å si noe til noen; å fortelle noen noe; A2; Karstens Empfehlung/Verben; Kan du si meg veien til stasjonen?; Kannst du mir den Weg zum Bahnhof sagen?
+no-ke-0884; jemandem etwas erzählen, mitteilen; å fortelle noen noe; å si noe til noen, å fortelle; A2; Karstens Empfehlung/Verben; Fortell meg hva du gjorde i ferien.; Erzähl mir, was du in den Ferien gemacht hast.
 no-ke-0885; zu etwas neigen, tendieren; å ha en tendens til; å tendere til; B2; Karstens Empfehlung/Verben; Jeg har en tendens til å glemme nøklene mine.; Ich neige dazu, meine Schlüssel zu vergessen.
 no-ke-0886; danken; å takke; ; A1; Karstens Empfehlung/Verben; Jeg vil takke deg for hjelpen din.; Ich möchte dir für deine Hilfe danken.
 no-ke-0887; denken, meinen, glauben; å tenke; å tro, å mene; A1; Karstens Empfehlung/Verben; Hva tenker du om den nye filmen?; Was denkst du über den neuen Film?
@@ -910,7 +910,7 @@ no-ke-0914; gesamt, völlig, gänzlich; total; samlet, fullstendig; B1; Karstens
 no-ke-0915; rau, zäh, hart; seig; ; B1; Karstens Empfehlung/Wörter; Dette kjøttet er faktisk veldig seigt.; Das Fleisch ist sehr zäh.
 no-ke-0916; Handtuch; et håndkle; ; A2; Karstens Empfehlung/Wörter; Det henger rene håndklær på badet.; Im Badezimmer sind saubere Handtücher.
 no-ke-0917; Stadt; en by; ; A1; Karstens Empfehlung/Wörter; Jeg bor i en liten by ved havet.; Ich wohne in einer kleinen Stadt am Meer.
-no-ke-0918; Handel, Gewerbe, Handwerk; en handel; ; B1; Karstens Empfehlung/Wörter; Handelen mellom de to landene vokser jevnt.; Der Handel zwischen den beiden Ländern wächst stetig.
+no-ke-0918; Handel; en handel; ; B1; Karstens Empfehlung/Wörter; Handelen mellom de to landene vokser jevnt.; Der Handel zwischen den beiden Ländern wächst stetig.
 no-ke-0919; Pfad, Wanderweg; en sti; en tursti; B2; Karstens Empfehlung/Wörter; Vi fulgte den smale stien gjennom skogen.; Wir folgten dem Wanderweg durch den Wald.
 no-ke-0920; Zug; et tog; ; A1; Karstens Empfehlung/Wörter; Toget til Bergen går klokka sju.; Der Zug nach Bergen fährt um sieben.
 no-ke-0921; Leckerei; en godbit; ; B1; Karstens Empfehlung/Wörter; Hunden får en godbit når den sitter.; Der Hund bekommt eine Leckerei, wenn er sitzt.
@@ -939,15 +939,15 @@ no-ke-0943; verschiedenartig; forskjellig; ulik, variert; B1; Karstens Empfehlun
 no-ke-0944; Gemüse; grønnsaker; ; A1; Karstens Empfehlung/Wörter; Lørdager kjøper vi grønnsaker på torget.; Samstags kaufen wir Gemüse auf dem Markt.
 no-ke-0945; sehr; veldig; svært; A1; Karstens Empfehlung/Wörter; I dag er det veldig kaldt ute.; Heute ist es sehr kalt.
 no-ke-0946; Opfer; et offer; ; B1; Karstens Empfehlung/Wörter; Offeret fikk støtte fra en lokal hjelpeorganisasjon.; Das Opfer erhielt Unterstützung von einer örtlichen Hilfsorganisation.
-no-ke-0947; Aussicht, Blick, Standpunkt; en utsikt; ; B1; Karstens Empfehlung/Wörter; Utsikten fra terrassen er helt fantastisk.; Die Aussicht von der Terrasse ist einfach fantastisch.
+no-ke-0947; Aussicht, Blick; en utsikt; ; B1; Karstens Empfehlung/Wörter; Utsikten fra terrassen er helt fantastisk.; Die Aussicht von der Terrasse ist einfach fantastisch.
 no-ke-0948; Dorf, Ort; en landsby; ei bygd; A1; Karstens Empfehlung/Wörter; Besteforeldrene mine bor i en rolig landsby.; Meine Großeltern wohnen in einem ruhigen Dorf.
 no-ke-0949; Gewalt; en vold; ; B1; Karstens Empfehlung/Wörter; Krangelen på skolegården endte i fysisk vold.; Der Streit auf dem Schulhof endete in körperlicher Gewalt.
-no-ke-0950; Stimme (beim Sprechen); ei stemme; en stemme; A2; Karstens Empfehlung/Wörter; Hun har ei veldig nydelig stemme.; Sie hat eine wunderschöne Stimme.
-no-ke-0951; Wand, Mauer; en vegg; ; A2; Karstens Empfehlung/Wörter; Vi malte veggen i stua lyseblå.; Wir haben die Wand hellblau gestrichen.
+no-ke-0950; Stimme (eine laute Stimme); ei stemme; en stemme; A2; Karstens Empfehlung/Wörter; Hun har ei veldig nydelig stemme.; Sie hat eine wunderschöne Stimme.
+no-ke-0951; Wand; en vegg; ; A2; Karstens Empfehlung/Wörter; Vi malte veggen i stua lyseblå.; Wir haben die Wand hellblau gestrichen.
 no-ke-0952; Krieg; en krig; ; A2; Karstens Empfehlung/Wörter; Krigen varte i nesten tretti år.; Der Krieg dauerte fast dreißig Jahre.
 no-ke-0953; warm; varm; ; A1; Karstens Empfehlung/Wörter; Ta på deg en varm jakke, det blåser.; Nimm eine warme Jacke, es ist windig.
 no-ke-0954; Wasser; et vann; ; A1; Karstens Empfehlung/Wörter; Kan jeg få et glass vann?; Kann ich ein Glas Wasser haben?
-no-ke-0955; Art, Weise, Weg; en vei; ; A1; Karstens Empfehlung/Wörter; Kan du vise meg veien til havna?; Können Sie mir den Weg zum Hafen zeigen?
+no-ke-0955; Art, Weise; en måte; ; A1; Karstens Empfehlung/Wörter; Jeg liker måten du forteller historier på.; Ich mag deine Art, Geschichten zu erzählen.
 no-ke-0956; schwach, kraftlos; svak; kraftløs; A1; Karstens Empfehlung/Wörter; Etter den lange sykdommen følte han seg svak.; Nach der langen Krankheit fühlte er sich schwach.
 no-ke-0957; Waffe; et våpen; ; B1; Karstens Empfehlung/Wörter; Ridderen hadde et sverd som våpen.; Der Ritter trug ein Schwert als Waffe.
 no-ke-0958; Mittwoch; onsdag; ; A1; Karstens Empfehlung/Wörter; På onsdag morgen har vi engelsk.; Am Mittwochmorgen haben wir Englisch.
@@ -985,6 +985,68 @@ no-ke-0990; Welt; en verden; ; A1; Karstens Empfehlung/Wörter; Verden kunne væ
 no-ke-0991; falsch; feil; ; A1; Karstens Empfehlung/Wörter; Svaret er feil, prøv en gang til.; Diese Antwort ist falsch, bitte versuch es nochmal.
 no-ke-0992; Jahr; et år; ; A1; Karstens Empfehlung/Wörter; Neste år flyr vi til Portugal.; Nächstes Jahr fliegen wir nach Portugal.
 no-ke-0993; gelb; gul; ; A1; Karstens Empfehlung/Wörter; Solsikkene i hagen vår er gule.; Die Sonnenblumen in unserem Garten sind gelb.
-no-ke-0994; schon, dennoch; allerede; ; B1; Karstens Empfehlung/Wörter; Er du allerede ferdig med leksene dine?; Hast du deine Hausaufgaben schon fertig?
+no-ke-0994; schon (bist du schon fertig?); allerede; ; B1; Karstens Empfehlung/Wörter; Er du allerede ferdig med leksene dine?; Hast du deine Hausaufgaben schon fertig?
 no-ke-0995; jung; ung; ; A1; Karstens Empfehlung/Wörter; Den unge mannen hjelper den gamle kvinnen.; Der junge Mann hilft der alten Frau.
 no-ke-0996; jugendlich; ungdommelig; ; C1; Karstens Empfehlung/Wörter; Bestemoren min har fortsatt et ungdommelig ansikt.; Meine Oma hat immer noch ein jugendliches Gesicht.
+no-ke-0997; ungefähr (so gegen acht Uhr); rundt; omkring, cirka; A2; Karstens Empfehlung/Wörter; Vi kommer rundt klokka åtte.; Wir kommen ungefähr um acht Uhr an.
+no-ke-0998; Rückseite; en bakside; ; B1; Karstens Empfehlung/Wörter; Løsningene står på baksiden av arket.; Die Lösungen stehen auf der Rückseite der Seite.
+no-ke-0999; Leiche; et lik; ; B2; Karstens Empfehlung/Wörter; Politiet fant et lik i elva.; Die Polizei fand eine Leiche im Fluss.
+no-ke-1000; Visitenkarte; et visittkort; ; B2; Karstens Empfehlung/Wörter; Han ga meg visittkortet sitt på messen.; Er gab mir auf der Messe seine Visitenkarte.
+no-ke-1001; Zufall (durch Zufall); en tilfeldighet; et tilfelle; B1; Karstens Empfehlung/Wörter; Jeg traff min gamle lærer ved en tilfeldighet.; Ich habe meinen alten Lehrer durch Zufall getroffen.
+no-ke-1002; Firma; et firma; en bedrift, et selskap; A1; Karstens Empfehlung/Wörter; Firmaet vårt har to hundre ansatte.; Unsere Firma hat zweihundert Mitarbeiter.
+no-ke-1003; Verlauf (der Verlauf eines Flusses); et løp; et forløp; B2; Karstens Empfehlung/Wörter; Elva endret løp etter flommen.; Der Fluss änderte nach dem Hochwasser seinen Verlauf.
+no-ke-1004; Gericht (vor Gericht gehen); en domstol; ; A2; Karstens Empfehlung/Wörter; Domstolen avgjør saken i morgen klokka ti.; Das Gericht entscheidet den Fall morgen.
+no-ke-1005; Grad; en grad; ; A2; Karstens Empfehlung/Wörter; I skyggen er det tretti grader.; Im Schatten sind es dreißig Grad.
+no-ke-1006; Medikament; et legemiddel; en medisin, et medikament; B1; Karstens Empfehlung/Wörter; Legen ga meg et nytt legemiddel mot hosten.; Der Arzt gab mir ein neues Medikament gegen meinen Husten.
+no-ke-1007; Zahl (die Umsatzzahlen); et tall; ; B2; Karstens Empfehlung/Wörter; Salgstallene for mai er veldig gode.; Die Verkaufszahlen für Mai sind sehr gut.
+no-ke-1008; Etage; en etasje; ; A2; Karstens Empfehlung/Wörter; Leiligheten vår ligger i tredje etasje.; Unsere Wohnung ist in der dritten Etage.
+no-ke-1009; Tor (ein Tor schießen); et mål; ; A1; Karstens Empfehlung/Wörter; Laget vårt scoret et mål i det siste minuttet.; Unsere Mannschaft schoss in der letzten Minute ein Tor.
+no-ke-1010; großartig; flott; storartet; B1; Karstens Empfehlung/Wörter; Det var en flott idé, takk skal du ha!; Das war eine großartige Idee, danke!
+no-ke-1011; Vorstellung (ein Bild im Kopf); et bilde; en forestilling; B2; Karstens Empfehlung/Wörter; Jeg har et klart bilde av drømmehuset mitt.; Ich habe eine klare Vorstellung von meinem Traumhaus.
+no-ke-1012; Aufprall; et sammenstøt; et støt; B2; Karstens Empfehlung/Wörter; Sammenstøtet knuste frontruta på bilen.; Der Aufprall zerbrach die Windschutzscheibe des Autos.
+no-ke-1013; Zinsen; renter; ; B2; Karstens Empfehlung/Wörter; Denne sparekontoen gir veldig lave renter.; Das Sparkonto bringt sehr wenig Zinsen.
+no-ke-1014; Buchstabe; en bokstav; ; A1; Karstens Empfehlung/Wörter; Det engelske alfabetet har tjueseks bokstaver.; Das englische Alphabet hat sechsundzwanzig Buchstaben.
+no-ke-1015; hell (ein helles Zimmer); lys; ; A2; Karstens Empfehlung/Wörter; Den nye leiligheten vår er veldig lys.; Unsere neue Wohnung ist sehr hell.
+no-ke-1016; Zeile; en linje; ; A2; Karstens Empfehlung/Wörter; Les de tre første linjene høyt, takk.; Lies bitte die ersten drei Zeilen laut vor.
+no-ke-1017; eingeschaltet (das Licht ist an); på; slått på; A2; Karstens Empfehlung/Wörter; Er ovnen fortsatt på?; Ist der Ofen noch eingeschaltet?
+no-ke-1018; Reihenfolge; en rekkefølge; ; B1; Karstens Empfehlung/Wörter; Legg bildene i riktig rekkefølge, fra først til sist.; Bring die Bilder in die richtige Reihenfolge.
+no-ke-1019; Bestellung; en bestilling; en ordre; A2; Karstens Empfehlung/Wörter; Bestillingen din kommer fram på torsdag.; Ihre Bestellung kommt am Donnerstag an.
+no-ke-1020; vorbei (die Ferien sind vorbei); over; forbi; A2; Karstens Empfehlung/Wörter; Sommeren er over, og skolen begynner igjen.; Der Sommer ist vorbei und die Schule fängt wieder an.
+no-ke-1021; Anstrich (ein frischer Anstrich); en maling; et strøk; B2; Karstens Empfehlung/Wörter; Malingen av huset tok tre dager.; Der Anstrich des Hauses dauerte drei Tage.
+no-ke-1022; Vergangenheit; en fortid; ; A2; Karstens Empfehlung/Wörter; I fortiden skrev folk mange brev.; In der Vergangenheit schrieben die Menschen viele Briefe.
+no-ke-1023; vorbei (am Haus vorbei); forbi; ; A2; Karstens Empfehlung/Wörter; På vei hjem kjørte vi forbi den gamle borgen.; Auf dem Heimweg sind wir an der alten Burg vorbeigefahren.
+no-ke-1024; Betrieb, Fabrik; en fabrikk; et anlegg, et verk; B1; Karstens Empfehlung/Wörter; Den nye fabrikken produserer elbiler.; Die neue Fabrik produziert Elektroautos.
+no-ke-1025; Strom (der Strom fällt aus); strøm; elektrisitet; B1; Karstens Empfehlung/Wörter; Stormen førte til strømbrudd i går kveld.; Durch den Sturm ist gestern Abend der Strom ausgefallen.
+no-ke-1026; Geschenk; en gave; en present; A1; Karstens Empfehlung/Wörter; Han kjøpte en gave til bestevennen sin.; Er kaufte ein Geschenk für seinen besten Freund.
+no-ke-1027; gegenwärtig (die gegenwärtige Lage); nåværende; aktuell; B2; Karstens Empfehlung/Wörter; Den nåværende situasjonen er vanskelig for alle.; Die gegenwärtige Lage ist für alle schwierig.
+no-ke-1028; Vernunft; en fornuft; ; B2; Karstens Empfehlung/Wörter; Vær så snill og vis litt fornuft og bli hjemme i kveld.; Bitte nimm Vernunft an und bleib heute Abend zu Hause.
+no-ke-1029; Rekord; en rekord; ; B1; Karstens Empfehlung/Wörter; Hun slo den nasjonale rekorden med to sekunder.; Sie brach den nationalen Rekord um zwei Sekunden.
+no-ke-1030; richtig; riktig; rett; A1; Karstens Empfehlung/Wörter; Svaret ditt er riktig, bra jobbet!; Deine Antwort ist richtig, gut gemacht!
+no-ke-1031; höhergestellt (ein höhergestellter Kollege); overordnet; høytstående; B2; Karstens Empfehlung/Wörter; Han snakker med en overordnet kollega.; Er spricht mit einem höhergestellten Kollegen.
+no-ke-1032; schrill (ein schriller Schrei); skarp; skingrende; B2; Karstens Empfehlung/Wörter; Vi hørte et skarpt skrik fra hagen.; Wir hörten einen schrillen Schrei aus dem Garten.
+no-ke-1033; weil (weil es regnet); siden; fordi, ettersom; B1; Karstens Empfehlung/Wörter; Siden det regner, blir vi hjemme.; Weil es regnet, bleiben wir zu Hause.
+no-ke-1034; Phase (die erste Phase eines Projekts); en fase; et stadium; B1; Karstens Empfehlung/Wörter; Prosjektet er fortsatt i en tidlig fase.; Das Projekt ist noch in einer frühen Phase.
+no-ke-1035; Staat; en stat; ; A2; Karstens Empfehlung/Wörter; Staten betaler for skoler og veier.; Der Staat bezahlt Schulen und Straßen.
+no-ke-1036; Bundesland; en delstat; ; B1; Karstens Empfehlung/Wörter; Bayern er den største delstaten i Tyskland.; Bayern ist das größte Bundesland Deutschlands.
+no-ke-1037; Schritt; et steg; et skritt, et trinn; B1; Karstens Empfehlung/Wörter; Neste steg er testing med ekte brukere.; Der nächste Schritt ist der Test mit echten Nutzern.
+no-ke-1038; Bauwerk; et byggverk; ; B2; Karstens Empfehlung/Wörter; Det antikke byggverket har overlevd mange jordskjelv.; Das antike Bauwerk hat viele Erdbeben überstanden.
+no-ke-1039; Fach; et fag; ; A2; Karstens Empfehlung/Wörter; Det beste faget mitt på skolen er historie.; Mein Lieblingsfach in der Schule ist Geschichte.
+no-ke-1040; Semester; et semester; ; B2; Karstens Empfehlung/Wörter; Det første semesteret begynner i oktober.; Das erste Semester beginnt im Oktober.
+no-ke-1041; damals; da; den gangen, på den tiden; A2; Karstens Empfehlung/Wörter; Da var jeg bare ti år gammel.; Damals war ich erst zehn Jahre alt.
+no-ke-1042; streiten; å krangle; ; B1; Karstens Empfehlung/Verben; De krangler ofte om penger og husarbeid.; Sie streiten oft über Geld und Hausarbeit.
+no-ke-1043; aufladen; å lade; å lade opp; A2; Karstens Empfehlung/Verben; Jeg må lade mobilen hver natt.; Ich muss mein Handy jede Nacht aufladen.
+no-ke-1044; auslosen; å trekke; å trekke lodd; B2; Karstens Empfehlung/Verben; Vi trekker vinnerne på fredag.; Wir losen die Gewinner am Freitag aus.
+no-ke-1045; lügen; å lyve; ; A2; Karstens Empfehlung/Verben; Ikke lyv for meg om pengene, vær så snill.; Bitte lüg mich wegen des Geldes nicht an.
+no-ke-1046; verpassen; å gå glipp av; ; A2; Karstens Empfehlung/Verben; Skynd deg, ellers går vi glipp av bussen.; Beeil dich, sonst verpassen wir den Bus.
+no-ke-1047; befehlen; å beordre; å befale; B1; Karstens Empfehlung/Verben; Offiseren beordret soldatene til å vente.; Der Offizier befahl den Soldaten zu warten.
+no-ke-1048; bestehen (eine Prüfung bestehen); å bestå; ; A2; Karstens Empfehlung/Verben; Jeg er sikker på at du består eksamen.; Ich bin sicher, dass du die Prüfung bestehst.
+no-ke-1049; leisten (gute Arbeit leisten); å prestere; ; B2; Karstens Empfehlung/Verben; Laget vårt har prestert veldig bra i år.; Unser Team hat dieses Jahr sehr viel geleistet.
+no-ke-1050; betreiben (Sport betreiben); å drive med; å utøve; B1; Karstens Empfehlung/Verben; Han har drevet med judo siden han var seks.; Er betreibt Judo, seit er sechs ist.
+no-ke-1051; retten; å redde; ; A2; Karstens Empfehlung/Verben; Brannmennene reddet barna ut av brannen.; Die Feuerwehrleute retteten die Kinder aus dem Feuer.
+no-ke-1052; verbringen; å tilbringe; ; A2; Karstens Empfehlung/Verben; Vi tilbrakte hele helgen ved sjøen.; Wir haben das ganze Wochenende am See verbracht.
+no-ke-1053; studieren; å studere; ; B1; Karstens Empfehlung/Verben; Sønnen min vil studere medisin i Bergen.; Mein Sohn möchte in Berlin Medizin studieren.
+no-ke-1054; Gewerbe, Handwerk; et håndverk; et fag, et yrke; B2; Karstens Empfehlung/Wörter; Han lærte håndverket sitt som ung.; Er hat sein Handwerk als junger Mann gelernt.
+no-ke-1055; Standpunkt; et synspunkt; en mening; B2; Karstens Empfehlung/Wörter; Fra mitt synspunkt er planen for dyr.; Von meinem Standpunkt aus ist der Plan zu teuer.
+no-ke-1056; Mauer; en mur; ; A2; Karstens Empfehlung/Wörter; Det står en høy mur rundt den gamle hagen.; Um den alten Garten steht eine hohe Mauer.
+no-ke-1057; Weg; en vei; ; A1; Karstens Empfehlung/Wörter; Kan du vise meg veien til havna?; Können Sie mir den Weg zum Hafen zeigen?
+no-ke-1058; dennoch; likevel; allikevel, imidlertid; B2; Karstens Empfehlung/Wörter; Filmen er lang, men likevel aldri kjedelig.; Der Film ist lang und dennoch nie langweilig.

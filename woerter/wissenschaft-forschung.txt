@@ -37,7 +37,7 @@ wi-0035; Temperatur; temperature; ; A2; Wissenschaft/Physik; The temperature in 
 wi-0036; Trägheit; inertia; ; C2; Wissenschaft/Physik; Because of its inertia the heavy ball keeps rolling.; Wegen seiner Trägheit rollt der schwere Ball weiter.
 wi-0037; Strom; electricity; electric current; A2; Wissenschaft/Physik; Wind turbines produce electricity for thousands of homes.; Windräder erzeugen Strom für tausende Haushalte.
 wi-0038; Magnet; magnet; ; B1; Wissenschaft/Physik; The magnet holds the notes on the fridge.; Der Magnet hält die Notizen am Kühlschrank.
-wi-0039; Welle (Physik); wave; ; B1; Wissenschaft/Physik; Sound spreads through the air as a wave.; Schall breitet sich als Welle in der Luft aus.
+wi-0039; Welle (Licht- und Schallwellen); wave; ; B1; Wissenschaft/Physik; Sound spreads through the air as a wave.; Schall breitet sich als Welle in der Luft aus.
 wi-0040; Teilchen; particle; ; B2; Wissenschaft/Physik; Each tiny particle carries an electric charge.; Jedes winzige Teilchen trägt eine elektrische Ladung.
 wi-0041; Atom; atom; ; B1; Wissenschaft/Physik; A single atom is far too small to see.; Ein einzelnes Atom ist viel zu klein, um es zu sehen.
 wi-0042; Schwerkraft; gravity; gravitation; B2; Wissenschaft/Physik; Gravity keeps the moon on its path around the earth.; Die Schwerkraft hält den Mond auf seiner Bahn um die Erde.
@@ -48,7 +48,7 @@ wi-0046; Strahlung; radiation; ; B2; Wissenschaft/Physik; The device measures ra
 wi-0047; Leitfähigkeit; conductivity; ; C1; Wissenschaft/Physik; Copper is known for its excellent electrical conductivity.; Kupfer ist für seine ausgezeichnete elektrische Leitfähigkeit bekannt.
 wi-0048; Quantenmechanik; quantum mechanics; ; C1; Wissenschaft/Physik; Quantum mechanics describes the strange world of tiny particles.; Die Quantenmechanik beschreibt die seltsame Welt winziger Teilchen.
 wi-0049; Relativitätstheorie; theory of relativity; relativity; C1; Wissenschaft/Physik; Einstein published his theory of relativity in 1905.; Einstein veröffentlichte seine Relativitätstheorie im Jahr 1905.
-wi-0050; Spannung (Strom); voltage; ; B2; Wissenschaft/Physik; The voltage in this cable is dangerously high.; Die Spannung in diesem Kabel ist gefährlich hoch.
+wi-0050; Spannung (elektrische Spannung); voltage; ; B2; Wissenschaft/Physik; The voltage in this cable is dangerously high.; Die Spannung in diesem Kabel ist gefährlich hoch.
 wi-0051; Brechung; refraction; ; C2; Wissenschaft/Physik; The refraction of light makes the straw look bent.; Die Brechung des Lichts lässt den Strohhalm gebogen aussehen.
 wi-0052; Wechselwirkung; interaction; interplay; C1; Wissenschaft/Physik; Researchers study the interaction between light and matter.; Forscher untersuchen die Wechselwirkung zwischen Licht und Materie.
 wi-0053; Wasser; water; ; A1; Wissenschaft/Chemie; Water boils at one hundred degrees Celsius.; Wasser kocht bei hundert Grad Celsius.
@@ -62,12 +62,12 @@ wi-0060; Säure; acid; ; B2; Wissenschaft/Chemie; The acid slowly dissolves the 
 wi-0061; Salz; salt; ; A2; Wissenschaft/Chemie; Salt dissolves quickly in warm water.; Salz löst sich schnell in warmem Wasser.
 wi-0062; Gas; gas; ; A2; Wissenschaft/Chemie; The balloon is filled with a light gas.; Der Ballon ist mit einem leichten Gas gefüllt.
 wi-0063; Flüssigkeit; liquid; fluid; B1; Wissenschaft/Chemie; Pour the liquid carefully into the glass tube.; Gieß die Flüssigkeit vorsichtig in das Glasrohr.
-wi-0064; Stoff (Chemie); substance; material; B1; Wissenschaft/Chemie; This substance is harmless to humans and animals.; Dieser Stoff ist für Menschen und Tiere harmlos.
+wi-0064; Stoff (ein chemischer Stoff); substance; material; B1; Wissenschaft/Chemie; This substance is harmless to humans and animals.; Dieser Stoff ist für Menschen und Tiere harmlos.
 wi-0065; Aggregatzustand; state of matter; physical state; C2; Wissenschaft/Chemie; Ice, water and steam are three states of matter.; Eis, Wasser und Dampf sind drei Aggregatzustände.
 wi-0066; Reaktion; reaction; ; B1; Wissenschaft/Chemie; The reaction produces heat and a new substance.; Die Reaktion erzeugt Wärme und einen neuen Stoff.
 wi-0067; Element; element; ; B1; Wissenschaft/Chemie; Oxygen is the most common element in the crust of the earth.; Sauerstoff ist das häufigste Element der Erdkruste.
 wi-0068; Molekül; molecule; ; B2; Wissenschaft/Chemie; A water molecule consists of three atoms.; Ein Wassermolekül besteht aus drei Atomen.
-wi-0069; Verbindung (Chemie); compound; chemical compound; B2; Wissenschaft/Chemie; Salt is a compound of sodium and chlorine.; Salz ist eine Verbindung aus Natrium und Chlor.
+wi-0069; Verbindung (eine chemische Verbindung); compound; chemical compound; B2; Wissenschaft/Chemie; Salt is a compound of sodium and chlorine.; Salz ist eine Verbindung aus Natrium und Chlor.
 wi-0070; auflösen; to dissolve; ; B2; Wissenschaft/Chemie; The tablet dissolves completely in a glass of water.; Die Tablette löst sich vollständig in einem Glas Wasser auf.
 wi-0071; Katalysator; catalyst; ; C1; Wissenschaft/Chemie; A catalyst speeds up the reaction without being used up.; Ein Katalysator beschleunigt die Reaktion, ohne verbraucht zu werden.
 wi-0072; Destillation; distillation; ; C2; Wissenschaft/Chemie; Distillation separates alcohol from water by careful heating.; Die Destillation trennt Alkohol durch vorsichtiges Erhitzen vom Wasser.
@@ -83,7 +83,7 @@ wi-0081; Virus; virus; ; B1; Wissenschaft/Biologie; The virus spreads mainly thr
 wi-0082; Gen; gene; ; B2; Wissenschaft/Biologie; A single gene can influence eye color.; Ein einzelnes Gen kann die Augenfarbe beeinflussen.
 wi-0083; Vererbung; heredity; inheritance; B2; Wissenschaft/Biologie; Heredity explains why children resemble their parents.; Die Vererbung erklärt, warum Kinder ihren Eltern ähneln.
 wi-0084; Evolution; evolution; ; B2; Wissenschaft/Biologie; Evolution works over many millions of years.; Die Evolution wirkt über viele Millionen Jahre.
-wi-0085; Art (Biologie); species; ; B1; Wissenschaft/Biologie; This rare species lives only on one island.; Diese seltene Art lebt nur auf einer Insel.
+wi-0085; Art (eine bedrohte Tierart); species; ; B1; Wissenschaft/Biologie; This rare species lives only on one island.; Diese seltene Art lebt nur auf einer Insel.
 wi-0086; Lebensraum; habitat; ; B2; Wissenschaft/Biologie; The frogs are losing their natural habitat.; Die Frösche verlieren ihren natürlichen Lebensraum.
 wi-0087; Ökosystem; ecosystem; ; B2; Wissenschaft/Biologie; A forest is a complex ecosystem with countless species.; Ein Wald ist ein komplexes Ökosystem mit unzähligen Arten.
 wi-0088; Stoffwechsel; metabolism; ; C1; Wissenschaft/Biologie; Regular exercise speeds up the human metabolism.; Regelmäßige Bewegung beschleunigt den menschlichen Stoffwechsel.
@@ -102,7 +102,7 @@ wi-0100; Dreieck; triangle; ; A2; Wissenschaft/Mathematik; A triangle always has
 wi-0101; Kreis; circle; ; A2; Wissenschaft/Mathematik; Draw a circle with a radius of five centimeters.; Zeichne einen Kreis mit einem Radius von fünf Zentimetern.
 wi-0102; Quadrat; square; ; B1; Wissenschaft/Mathematik; A square has four sides of equal length.; Ein Quadrat hat vier gleich lange Seiten.
 wi-0103; Gleichung; equation; ; B1; Wissenschaft/Mathematik; Solve the equation and check your result.; Löse die Gleichung und überprüfe dein Ergebnis.
-wi-0104; Bruch (Mathematik); fraction; ; B1; Wissenschaft/Mathematik; A fraction like one half is easy to picture.; Ein Bruch wie ein Halb ist leicht vorstellbar.
+wi-0104; Bruch (beim Bruchrechnen); fraction; ; B1; Wissenschaft/Mathematik; A fraction like one half is easy to picture.; Ein Bruch wie ein Halb ist leicht vorstellbar.
 wi-0105; Durchschnitt; average; mean; B1; Wissenschaft/Mathematik; The average of the three grades is two.; Der Durchschnitt der drei Noten ist zwei.
 wi-0106; Wahrscheinlichkeit; probability; likelihood; B2; Wissenschaft/Mathematik; The probability of rain tomorrow is very low.; Die Wahrscheinlichkeit für Regen morgen ist sehr gering.
 wi-0107; Integralrechnung; integral calculus; calculus; C2; Wissenschaft/Mathematik; Integral calculus is used to compute areas under curves.; Mit der Integralrechnung berechnet man Flächen unter Kurven.
@@ -133,7 +133,7 @@ wi-0131; Sonne; sun; ; A1; Wissenschaft/Raumfahrt; The sun rises in the east eve
 wi-0132; Mond; moon; ; A1; Wissenschaft/Raumfahrt; The moon looks especially large tonight.; Der Mond sieht heute Nacht besonders groß aus.
 wi-0133; Stern; star; ; A1; Wissenschaft/Raumfahrt; You can see every star clearly in the desert.; In der Wüste sieht man jeden Stern deutlich.
 wi-0134; Erde; earth; Earth; A1; Wissenschaft/Raumfahrt; The earth circles the sun once a year.; Die Erde umkreist die Sonne einmal im Jahr.
-wi-0135; Himmel (Wetter, Sterne); sky; heavens; A2; Wissenschaft/Raumfahrt; The night sky over the mountains was full of stars.; Der Nachthimmel über den Bergen war voller Sterne.
+wi-0135; Himmel (der blaue Himmel); sky; heavens; A2; Wissenschaft/Raumfahrt; The night sky over the mountains was full of stars.; Der Nachthimmel über den Bergen war voller Sterne.
 wi-0136; Rakete; rocket; ; A2; Wissenschaft/Raumfahrt; The rocket launched early in the morning.; Die Rakete startete früh am Morgen.
 wi-0137; Planet; planet; ; A2; Wissenschaft/Raumfahrt; Mars is the fourth planet from the sun.; Der Mars ist der vierte Planet von der Sonne aus.
 wi-0138; Weltraum; space; outer space; B1; Wissenschaft/Raumfahrt; In space there is no air to breathe.; Im Weltraum gibt es keine Luft zum Atmen.

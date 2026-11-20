@@ -171,7 +171,7 @@ no-ap-0168; Wartezeit; en ventetid; ; A2; Business/Airport/Terminalbetrieb; Gjen
 no-ap-0169; Durchsatz; en gjennomstrømning; ; C1; Business/Airport/Terminalbetrieb; Hvert kontrollspor har en gjennomstrømning på 180 passasjerer i timen.; Jede Kontrollspur hat einen Durchsatz von 180 Passagieren pro Stunde.
 no-ap-0170; Personalplanung; en bemanningsplanlegging; ; B2; Business/Airport/Terminalbetrieb; Bemanningsplanleggingen for sommerruten starter i mars.; Die Personalplanung für den Sommerflugplan beginnt im März.
 no-ap-0171; Dienstplan; en vaktplan; ; B2; Business/Airport/Terminalbetrieb; Vaktplanen for neste uke henger på oppslagstavlen.; Der Dienstplan für nächste Woche hängt am schwarzen Brett.
-no-ap-0172; Schicht (Arbeit); et skift; ; B1; Business/Airport/Terminalbetrieb; Skiftet mitt begynner klokka fem om morgenen.; Meine Schicht beginnt um fünf Uhr morgens.
+no-ap-0172; Schicht (in Schichten arbeiten); et skift; ; B1; Business/Airport/Terminalbetrieb; Skiftet mitt begynner klokka fem om morgenen.; Meine Schicht beginnt um fünf Uhr morgens.
 no-ap-0173; Betriebsleitzentrale; en operasjonssentral; ; C1; Business/Airport/Terminalbetrieb; Operasjonssentralen koordinerer alle fly og gater.; Die Betriebsleitzentrale koordiniert alle Flüge und Gates.
 no-ap-0174; Flugplan; en ruteplan; en rutetabell; A2; Business/Airport/Terminalbetrieb; Vinterruteplanen starter i slutten av oktober.; Der Winterflugplan beginnt Ende Oktober.
 no-ap-0175; Zeitnische; et slot; ; B2; Business/Airport/Terminalbetrieb; Flyet mistet slotten sin og må vente i 40 minutter.; Das Flugzeug hat seine Zeitnische verpasst und muss 40 Minuten warten.
@@ -188,7 +188,7 @@ no-ap-0185; Notfallplan; en beredskapsplan; ; C1; Business/Airport/Terminalbetri
 no-ap-0186; Barrierefreiheit; universell utforming; ; B2; Business/Airport/Terminalbetrieb; Universell utforming er en prioritet i den nye terminalen.; Barrierefreiheit hat bei der Gestaltung des neuen Terminals Priorität.
 no-ap-0187; Beschilderung; en skilting; ; B2; Business/Airport/Terminalbetrieb; Den nye skiltingen gjør det lettere å finne gatene.; Die neue Beschilderung macht es leichter, die Gates zu finden.
 no-ap-0188; Wegeleitsystem; et veivisningssystem; ; C1; Business/Airport/Terminalbetrieb; Et godt veivisningssystem reduserer antall passasjerer som mister flyet sitt.; Ein gutes Wegeleitsystem verringert die Zahl der Passagiere, die ihren Flug verpassen.
-no-ap-0189; Laufband (Flughafen); et rullefortau; et rullende fortau; B1; Business/Airport/Terminalbetrieb; Ta rullefortauet for å komme raskere til B-gatene.; Nehmen Sie das Laufband, um die B-Gates schneller zu erreichen.
+no-ap-0189; Laufband (am Flughafen); et rullefortau; et rullende fortau; B1; Business/Airport/Terminalbetrieb; Ta rullefortauet for å komme raskere til B-gatene.; Nehmen Sie das Laufband, um die B-Gates schneller zu erreichen.
 no-ap-0190; Rolltreppe; en rulletrapp; ; A2; Business/Airport/Terminalbetrieb; Rulletrappen til ankomsthallen er ute av drift.; Die Rolltreppe zur Ankunftshalle ist außer Betrieb.
 no-ap-0191; Verspätung; en forsinkelse; ; A1; Business/Airport/Unregelmäßigkeiten; Vi beklager forsinkelsen på omtrent 50 minutter.; Wir entschuldigen uns für die Verspätung von etwa 50 Minuten.
 no-ap-0192; verspätet; forsinket; ; A1; Business/Airport/Unregelmäßigkeiten; Fly EW 240 er forsinket på grunn av været.; Flug EW 240 ist wegen der Wetterlage verspätet.

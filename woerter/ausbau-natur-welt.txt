@@ -5,14 +5,14 @@ xc-0002; Lamm; lamb; ; A2; Natur/Tiere/Haustiere; In spring the lambs play in th
 xc-0003; Welpe; puppy; ; A2; Natur/Tiere/Haustiere; Our new puppy chews everything it can find.; Unser neuer Welpe kaut auf allem herum, was er findet.
 xc-0004; Kätzchen; kitten; ; A2; Natur/Tiere/Haustiere; The kitten is playing with a ball of wool.; Das Kätzchen spielt mit einem Wollknäuel.
 xc-0005; Küken; chick; ; B1; Natur/Tiere/Haustiere; Six yellow chicks hatched this morning.; Heute Morgen sind sechs gelbe Küken geschlüpft.
-xc-0006; Hahn (Tier); cockerel; rooster; A2; Natur/Tiere/Haustiere; The cockerel wakes the whole farm at five.; Der Hahn weckt um fünf den ganzen Hof.
+xc-0006; Hahn (der Hahn kräht); cockerel; rooster; A2; Natur/Tiere/Haustiere; The cockerel wakes the whole farm at five.; Der Hahn weckt um fünf den ganzen Hof.
 xc-0007; Stier; bull; ; B1; Natur/Tiere/Haustiere; Never go into a field with a bull in it.; Geh nie auf eine Weide, auf der ein Stier steht.
 xc-0008; Gans; goose; ; B1; Natur/Tiere/Haustiere; A goose chased us across the meadow.; Eine Gans hat uns über die Wiese gejagt.
 xc-0009; Truthahn; turkey; ; B1; Natur/Tiere/Haustiere; Many families eat turkey at Christmas.; Viele Familien essen an Weihnachten Truthahn.
 xc-0010; Hamster; hamster; ; A2; Natur/Tiere/Haustiere; My hamster sleeps all day and runs all night.; Mein Hamster schläft den ganzen Tag und rennt die ganze Nacht.
 xc-0011; Meerschweinchen; guinea pig; ; A2; Natur/Tiere/Haustiere; The children feed the guinea pig every morning.; Die Kinder füttern jeden Morgen das Meerschweinchen.
 xc-0012; Goldfisch; goldfish; ; A2; Natur/Tiere/Haustiere; Two goldfish swim in the bowl on her desk.; Zwei Goldfische schwimmen im Glas auf ihrem Schreibtisch.
-xc-0013; Pony (Tier); pony; ; A2; Natur/Tiere/Haustiere; My little sister rides a pony every Saturday.; Meine kleine Schwester reitet jeden Samstag auf einem Pony.
+xc-0013; Pony (auf einem Pony reiten); pony; ; A2; Natur/Tiere/Haustiere; My little sister rides a pony every Saturday.; Meine kleine Schwester reitet jeden Samstag auf einem Pony.
 xc-0014; Käfig; cage; ; B1; Natur/Tiere/Haustiere; The bird sings in its cage by the window.; Der Vogel singt in seinem Käfig am Fenster.
 xc-0015; Stall; stable; ; B1; Natur/Tiere/Haustiere; The horses spend the night in the stable.; Die Pferde verbringen die Nacht im Stall.
 xc-0016; Tierarzt; vet; veterinarian, veterinary surgeon; A2; Natur/Tiere/Haustiere; We have to take the dog to the vet.; Wir müssen mit dem Hund zum Tierarzt.
@@ -48,14 +48,14 @@ xc-0045; Delfin; dolphin; ; A2; Natur/Tiere/Meerestiere; Dolphins were swimming 
 xc-0046; Hai; shark; ; A2; Natur/Tiere/Meerestiere; Most sharks are not dangerous to people.; Die meisten Haie sind für Menschen nicht gefährlich.
 xc-0047; Tintenfisch; squid; octopus; B2; Natur/Tiere/Meerestiere; A squid can change its colour in seconds.; Ein Tintenfisch kann in Sekunden seine Farbe ändern.
 xc-0048; Qualle; jellyfish; ; B2; Natur/Tiere/Meerestiere; Be careful, there are jellyfish in the water today.; Pass auf, heute sind Quallen im Wasser.
-xc-0049; Muschel (Schale); shell; seashell; B1; Natur/Tiere/Meerestiere; The children collected shells on the beach.; Die Kinder haben am Strand Muscheln gesammelt.
+xc-0049; Muschel (Muscheln am Strand sammeln); shell; seashell; B1; Natur/Tiere/Meerestiere; The children collected shells on the beach.; Die Kinder haben am Strand Muscheln gesammelt.
 xc-0050; Seestern; starfish; ; B2; Natur/Tiere/Meerestiere; We found a starfish in a pool between the rocks.; Wir haben in einem Becken zwischen den Felsen einen Seestern gefunden.
 xc-0051; Pinguin; penguin; ; A2; Natur/Tiere/Vögel; Penguins cannot fly, but they swim very well.; Pinguine können nicht fliegen, aber sie schwimmen sehr gut.
 xc-0052; Spatz; sparrow; ; B2; Natur/Tiere/Vögel; A sparrow is picking up crumbs under our table.; Ein Spatz pickt unter unserem Tisch Krümel auf.
 xc-0053; Amsel; blackbird; ; B2; Natur/Tiere/Vögel; A blackbird sings on our roof every evening.; Jeden Abend singt eine Amsel auf unserem Dach.
 xc-0054; Rabe; raven; ; B2; Natur/Tiere/Vögel; A big black raven sat on the fence.; Ein großer schwarzer Rabe saß auf dem Zaun.
 xc-0055; Krähe; crow; ; B2; Natur/Tiere/Vögel; The crows are making a lot of noise this morning.; Die Krähen machen heute Morgen viel Lärm.
-xc-0056; Strauß (Vogel); ostrich; ; B1; Natur/Tiere/Vögel; An ostrich can run faster than a horse.; Ein Strauß kann schneller laufen als ein Pferd.
+xc-0056; Strauß (der Vogel Strauß); ostrich; ; B1; Natur/Tiere/Vögel; An ostrich can run faster than a horse.; Ein Strauß kann schneller laufen als ein Pferd.
 xc-0057; Flamingo; flamingo; ; B1; Natur/Tiere/Vögel; The pink flamingos stood on one leg in the lake.; Die rosa Flamingos standen auf einem Bein im See.
 xc-0058; Storch; stork; ; B2; Natur/Tiere/Vögel; A stork has built its nest on the church roof.; Ein Storch hat sein Nest auf dem Kirchendach gebaut.
 xc-0059; zwitschern; to chirp; to twitter, to tweet; C1; Natur/Tiere/Vögel; The birds start chirping before the sun comes up.; Die Vögel fangen an zu zwitschern, bevor die Sonne aufgeht.
@@ -70,8 +70,8 @@ xc-0067; Zecke; tick; ; B2; Natur/Tiere/Insekten; Check your legs for ticks afte
 xc-0068; Motte; moth; ; B2; Natur/Tiere/Insekten; A moth was flying round the lamp.; Eine Motte flog um die Lampe herum.
 xc-0069; Kakerlake; cockroach; ; B2; Natur/Tiere/Insekten; The hotel kitchen was full of cockroaches.; Die Hotelküche war voller Kakerlaken.
 xc-0070; Ungeziefer; vermin; pests; C1; Natur/Tiere/Insekten; The old barn was full of vermin.; Die alte Scheune war voller Ungeziefer.
-xc-0071; summen (Insekt); to buzz; ; B1; Natur/Tiere/Insekten; Bees are buzzing around the apple tree.; Bienen summen um den Apfelbaum.
-xc-0072; stechen (Insekt); to sting; ; B1; Natur/Tiere/Insekten; I was stung by a bee in the garden.; Im Garten hat mich eine Biene gestochen.
+xc-0071; summen (die Biene summt); to buzz; ; B1; Natur/Tiere/Insekten; Bees are buzzing around the apple tree.; Bienen summen um den Apfelbaum.
+xc-0072; stechen (eine Biene sticht); to sting; ; B1; Natur/Tiere/Insekten; I was stung by a bee in the garden.; Im Garten hat mich eine Biene gestochen.
 xc-0073; Spinnennetz; spider's web; cobweb, spiderweb; B1; Natur/Tiere/Insekten; There is a huge spider's web in the corner.; In der Ecke hängt ein riesiges Spinnennetz.
 xc-0074; Rose; rose; ; A1; Natur/Pflanzen; He gave her a red rose for her birthday.; Er hat ihr zum Geburtstag eine rote Rose geschenkt.
 xc-0075; Tulpe; tulip; ; B1; Natur/Pflanzen; In April the tulips in the park start to flower.; Im April beginnen die Tulpen im Park zu blühen.
@@ -96,7 +96,7 @@ xc-0093; Laub; leaves; foliage; B2; Natur/Pflanzen; In autumn we sweep up the le
 xc-0094; Pollen; pollen; ; B2; Natur/Pflanzen; In May there is a lot of pollen in the air.; Im Mai ist viel Pollen in der Luft.
 xc-0095; Efeu; ivy; ; B2; Natur/Pflanzen; Ivy has grown all over the old wall.; Efeu hat die ganze alte Mauer überwuchert.
 xc-0096; Scheune; barn; ; B2; Natur/Landwirtschaft; The farmer keeps the hay in the old barn.; Der Bauer lagert das Heu in der alten Scheune.
-xc-0097; Weide (Wiese); pasture; ; C1; Natur/Landwirtschaft; The cows spend the summer on the pasture.; Die Kühe verbringen den Sommer auf der Weide.
+xc-0097; Weide (Kühe auf der Weide); pasture; ; C1; Natur/Landwirtschaft; The cows spend the summer on the pasture.; Die Kühe verbringen den Sommer auf der Weide.
 xc-0098; Ernte; harvest; ; B1; Natur/Landwirtschaft; The rain came just before the harvest.; Der Regen kam kurz vor der Ernte.
 xc-0099; Getreide; grain; cereal, cereals; B2; Natur/Landwirtschaft; The region grows mainly grain and potatoes.; In der Region werden vor allem Getreide und Kartoffeln angebaut.
 xc-0100; Weizen; wheat; ; B1; Natur/Landwirtschaft; Bread is usually made from wheat.; Brot wird meistens aus Weizen gemacht.
@@ -111,7 +111,7 @@ xc-0108; Felsen; rock; ; B1; Natur/Landschaft; We climbed up onto a big rock by 
 xc-0109; Sand; sand; ; A1; Natur/Landschaft; The sand on this beach is almost white.; Der Sand an diesem Strand ist fast weiß.
 xc-0110; Düne; dune; sand dune; B2; Natur/Landschaft; Please do not walk on the dunes.; Bitte nicht auf den Dünen laufen.
 xc-0111; Vulkan; volcano; ; B1; Natur/Landschaft; The volcano last erupted a hundred years ago.; Der Vulkan ist vor hundert Jahren zuletzt ausgebrochen.
-xc-0112; Quelle (Wasser); spring; ; B2; Natur/Landschaft; The river begins at a small spring in the hills.; Der Fluss beginnt an einer kleinen Quelle in den Hügeln.
+xc-0112; Quelle (Wasser aus der Quelle); spring; ; B2; Natur/Landschaft; The river begins at a small spring in the hills.; Der Fluss beginnt an einer kleinen Quelle in den Hügeln.
 xc-0113; Dschungel; jungle; ; B1; Natur/Landschaft; Monkeys and parrots live in the jungle.; Im Dschungel leben Affen und Papageien.
 xc-0114; Urwald; primeval forest; virgin forest, jungle; B2; Natur/Landschaft; Large parts of the primeval forest have been cut down.; Große Teile des Urwalds wurden abgeholzt.
 xc-0115; Bucht; bay; ; B1; Natur/Landschaft; Our hotel is in a quiet little bay.; Unser Hotel liegt in einer ruhigen kleinen Bucht.
@@ -120,7 +120,7 @@ xc-0117; Ozean; ocean; ; A2; Natur/Landschaft; The Pacific is the largest ocean 
 xc-0118; Horizont; horizon; ; B1; Natur/Landschaft; A ship appeared on the horizon.; Am Horizont tauchte ein Schiff auf.
 xc-0119; Landschaft; landscape; scenery; B1; Natur/Landschaft; The landscape in Scotland is wild and beautiful.; Die Landschaft in Schottland ist wild und schön.
 xc-0120; Ebbe; low tide; ; B2; Natur/Landschaft; At low tide you can walk to the island.; Bei Ebbe kann man zur Insel laufen.
-xc-0121; Flut (Gezeiten); high tide; ; B2; Natur/Landschaft; At high tide the beach almost disappears.; Bei Flut verschwindet der Strand fast ganz.
+xc-0121; Flut (Ebbe und Flut); high tide; ; B2; Natur/Landschaft; At high tide the beach almost disappears.; Bei Flut verschwindet der Strand fast ganz.
 xc-0122; Strömung; current; ; B2; Natur/Landschaft; Don't swim here, the current is too strong.; Schwimm hier nicht, die Strömung ist zu stark.
 xc-0123; Korallenriff; coral reef; ; B2; Natur/Landschaft; We went diving at a coral reef.; Wir sind an einem Korallenriff tauchen gegangen.
 xc-0124; Eisberg; iceberg; ; B1; Natur/Landschaft; The Titanic hit an iceberg in 1912.; Die Titanic stieß 1912 mit einem Eisberg zusammen.
@@ -242,8 +242,8 @@ xc-0239; Sonnenschein; sunshine; ; A2; Natur/Umwelt/Wetter; We had a week of sun
 xc-0240; Unwetter; severe weather; storm; B2; Natur/Umwelt/Wetter; The severe weather caused floods in the south.; Das Unwetter hat im Süden Überschwemmungen verursacht.
 xc-0241; Wetterbericht; weather report; ; A2; Natur/Umwelt/Wetter; According to the weather report it will rain tomorrow.; Laut Wetterbericht regnet es morgen.
 xc-0242; Thermometer; thermometer; ; B1; Natur/Umwelt/Wetter; The thermometer shows minus ten degrees.; Das Thermometer zeigt minus zehn Grad.
-xc-0243; Schatten (kühler Ort); shade; ; A2; Natur/Umwelt/Wetter; Let's sit in the shade, it's too hot here.; Lass uns in den Schatten setzen, hier ist es zu heiß.
-xc-0244; Schatten (Umriss); shadow; ; B1; Natur/Umwelt/Wetter; In the evening our shadows grow very long.; Am Abend werden unsere Schatten sehr lang.
+xc-0243; Schatten (im Schatten sitzen); shade; ; A2; Natur/Umwelt/Wetter; Let's sit in the shade, it's too hot here.; Lass uns in den Schatten setzen, hier ist es zu heiß.
+xc-0244; Schatten (einen Schatten werfen); shadow; ; B1; Natur/Umwelt/Wetter; In the evening our shadows grow very long.; Am Abend werden unsere Schatten sehr lang.
 xc-0245; donnern; to thunder; ; B1; Natur/Umwelt/Wetter; It thundered all night and nobody could sleep.; Es hat die ganze Nacht gedonnert, und keiner konnte schlafen.
 xc-0246; hageln; to hail; ; B2; Natur/Umwelt/Wetter; Suddenly it started to hail in the middle of summer.; Mitten im Sommer fing es plötzlich an zu hageln.
 xc-0247; tauen; to thaw; ; B2; Natur/Umwelt/Wetter; The snow is thawing and the paths are wet.; Der Schnee taut, und die Wege sind nass.
@@ -327,12 +327,12 @@ xc-0324; Reihenhaus; terraced house; row house; B2; Alltag/Stadt/Gebäude; They 
 xc-0325; Einfamilienhaus; detached house; single-family house; B2; Alltag/Stadt/Gebäude; Many families dream of a detached house with a garden.; Viele Familien träumen von einem Einfamilienhaus mit Garten.
 xc-0326; Wohnblock; block of flats; apartment block; B2; Alltag/Stadt/Gebäude; They grew up in a large block of flats.; Sie sind in einem großen Wohnblock aufgewachsen.
 xc-0327; Abriss; demolition; ; C1; Alltag/Stadt/Gebäude; The demolition of the old factory starts next year.; Der Abriss der alten Fabrik beginnt nächstes Jahr.
-xc-0328; Botschaft (Vertretung); embassy; ; B1; Alltag/Stadt/Gebäude; You can get a new passport at the embassy.; Einen neuen Pass bekommt man bei der Botschaft.
+xc-0328; Botschaft (die deutsche Botschaft); embassy; ; B1; Alltag/Stadt/Gebäude; You can get a new passport at the embassy.; Einen neuen Pass bekommt man bei der Botschaft.
 xc-0329; Marktplatz; market square; marketplace; A2; Alltag/Stadt/Straßen & Plätze; There is a farmers' market on the market square every Saturday.; Jeden Samstag ist auf dem Marktplatz ein Bauernmarkt.
 xc-0330; Gasse; alley; alleyway, lane; B2; Alltag/Stadt/Straßen & Plätze; We got lost in the narrow alleys of the old town.; Wir haben uns in den engen Gassen der Altstadt verlaufen.
 xc-0331; Hauptstraße; main road; main street, high street; A2; Alltag/Stadt/Straßen & Plätze; The bakery is on the main road next to the bank.; Die Bäckerei ist an der Hauptstraße neben der Bank.
 xc-0332; Seitenstraße; side street; ; B1; Alltag/Stadt/Straßen & Plätze; It is quieter to park in a side street.; In einer Seitenstraße parkt man ruhiger.
-xc-0333; Sackgasse (Straße); dead end; cul-de-sac; B2; Alltag/Stadt/Straßen & Plätze; We live at the end of a quiet dead end.; Wir wohnen am Ende einer ruhigen Sackgasse.
+xc-0333; Sackgasse (in einer Sackgasse wohnen); dead end; cul-de-sac; B2; Alltag/Stadt/Straßen & Plätze; We live at the end of a quiet dead end.; Wir wohnen am Ende einer ruhigen Sackgasse.
 xc-0334; Straßenlaterne; street lamp; streetlight; B2; Alltag/Stadt/Straßen & Plätze; The street lamps come on at six o'clock.; Die Straßenlaternen gehen um sechs Uhr an.
 xc-0335; Bürgersteig; pavement; sidewalk; B1; Alltag/Stadt/Straßen & Plätze; Please don't ride your bike on the pavement.; Bitte fahr nicht mit dem Fahrrad auf dem Bürgersteig.
 xc-0336; Hausnummer; house number; ; A2; Alltag/Stadt/Straßen & Plätze; What is your house number?; Wie ist deine Hausnummer?
@@ -373,8 +373,8 @@ xc-0370; E-Roller; electric scooter; e-scooter; B1; Reisen/Verkehr/Fahrrad; You 
 xc-0371; Radtour; bike ride; bike tour, cycling tour; A2; Reisen/Verkehr/Fahrrad; On Sunday we went on a long bike ride along the river.; Am Sonntag haben wir eine lange Radtour am Fluss entlang gemacht.
 xc-0372; Hupe; horn; car horn; B1; Reisen/Verkehr/Auto; The driver behind us pressed the horn.; Der Fahrer hinter uns drückte auf die Hupe.
 xc-0373; Lenkrad; steering wheel; ; B1; Reisen/Verkehr/Auto; In Britain the steering wheel is on the right.; In Großbritannien ist das Lenkrad rechts.
-xc-0374; lenken (Auto); to steer; ; B1; Reisen/Verkehr/Auto; It's hard to steer the car on ice.; Auf Eis ist es schwer, das Auto zu lenken.
-xc-0375; Gang (Auto); gear; ; B2; Reisen/Verkehr/Auto; Put the car in first gear and drive off slowly.; Leg den ersten Gang ein und fahr langsam los.
+xc-0374; lenken (das Auto lenken); to steer; ; B1; Reisen/Verkehr/Auto; It's hard to steer the car on ice.; Auf Eis ist es schwer, das Auto zu lenken.
+xc-0375; Gang (in den zweiten Gang schalten); gear; ; B2; Reisen/Verkehr/Auto; Put the car in first gear and drive off slowly.; Leg den ersten Gang ein und fahr langsam los.
 xc-0376; Windschutzscheibe; windscreen; windshield; B2; Reisen/Verkehr/Auto; A stone has cracked the windscreen.; Ein Stein hat die Windschutzscheibe beschädigt.
 xc-0377; Scheinwerfer; headlight; headlamp; B2; Reisen/Verkehr/Auto; Turn on your headlights, it's getting dark.; Mach die Scheinwerfer an, es wird dunkel.
 xc-0378; rückwärts fahren; to reverse; to back up; B1; Reisen/Verkehr/Auto; She reversed carefully out of the garage.; Sie ist vorsichtig rückwärts aus der Garage gefahren.
@@ -401,7 +401,7 @@ xc-0398; Auffahrunfall; rear-end collision; ; C1; Reisen/Verkehr/Straße & Regel
 xc-0399; Parklücke; parking space; ; B1; Reisen/Verkehr/Straße & Regeln; It took us twenty minutes to find a parking space.; Wir haben zwanzig Minuten gebraucht, um eine Parklücke zu finden.
 xc-0400; Gegenverkehr; oncoming traffic; ; B2; Reisen/Verkehr/Straße & Regeln; Don't overtake here, there's too much oncoming traffic.; Überhol hier nicht, es gibt zu viel Gegenverkehr.
 xc-0401; Rastplatz; lay-by; rest area; B2; Reisen/Verkehr/Straße & Regeln; Let's stop at the next lay-by and have a coffee.; Lass uns am nächsten Rastplatz anhalten und einen Kaffee trinken.
-xc-0402; Abkürzung (Weg); shortcut; short cut; B1; Reisen/Verkehr/Wegbeschreibung; We took a shortcut through the park.; Wir haben eine Abkürzung durch den Park genommen.
+xc-0402; Abkürzung (eine Abkürzung nehmen); shortcut; short cut; B1; Reisen/Verkehr/Wegbeschreibung; We took a shortcut through the park.; Wir haben eine Abkürzung durch den Park genommen.
 xc-0403; Arbeitsweg; commute; journey to work, way to work; B2; Reisen/Verkehr/Straße & Regeln; My commute takes forty minutes by train.; Mein Arbeitsweg dauert mit dem Zug vierzig Minuten.
 xc-0404; Reisebus; coach; ; B1; Reisen/Verkehr/Bus & Bahn; The whole class went to London by coach.; Die ganze Klasse ist mit dem Reisebus nach London gefahren.
 xc-0405; Fernbus; long-distance coach; long-distance bus; B1; Reisen/Verkehr/Bus & Bahn; The long-distance coach is cheaper than the train.; Der Fernbus ist billiger als der Zug.
@@ -414,7 +414,7 @@ xc-0411; Hauptbahnhof; main station; central station; A2; Reisen/Verkehr/Bus & B
 xc-0412; Sitzplatzreservierung; seat reservation; ; B1; Reisen/Verkehr/Bus & Bahn; At Christmas you really need a seat reservation.; An Weihnachten braucht man unbedingt eine Sitzplatzreservierung.
 xc-0413; erste Klasse; first class; ; A2; Reisen/Verkehr/Bus & Bahn; We treated ourselves and travelled first class.; Wir haben uns etwas gegönnt und sind erste Klasse gefahren.
 xc-0414; Busfahrer; bus driver; ; A2; Reisen/Verkehr/Bus & Bahn; The bus driver waited for me at the stop.; Der Busfahrer hat an der Haltestelle auf mich gewartet.
-xc-0415; Schalter (Bahnhof); ticket office; counter, ticket counter; B1; Reisen/Verkehr/Bus & Bahn; You can buy a ticket at the ticket office or online.; Eine Fahrkarte kann man am Schalter oder online kaufen.
+xc-0415; Schalter (Fahrkarten am Schalter); ticket office; counter, ticket counter; B1; Reisen/Verkehr/Bus & Bahn; You can buy a ticket at the ticket office or online.; Eine Fahrkarte kann man am Schalter oder online kaufen.
 xc-0416; Gepäckband; baggage carousel; luggage carousel; B2; Reisen/Urlaub/Flughafen; We waited at the baggage carousel for half an hour.; Wir haben eine halbe Stunde am Gepäckband gewartet.
 xc-0417; Flugticket; plane ticket; flight ticket, air ticket; A2; Reisen/Urlaub/Flughafen; The plane tickets were cheaper than we expected.; Die Flugtickets waren billiger als erwartet.
 xc-0418; Fluggesellschaft; airline; ; B1; Reisen/Urlaub/Flughafen; Which airline are you flying with?; Mit welcher Fluggesellschaft fliegst du?

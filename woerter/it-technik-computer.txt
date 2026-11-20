@@ -7,7 +7,7 @@ it-tc-0004; Internet; internet; la rete; A1; Technik/Computer/Internet; Usiamo i
 it-tc-0005; Fernseher; il televisore; la tv, la televisione; A1; Technik/Computer/Geräte; Il televisore in soggiorno è nuovo.; Der Fernseher im Wohnzimmer ist neu.
 it-tc-0006; Bildschirm; lo schermo; il monitor, il display; A1; Technik/Computer/Geräte; Di notte lo schermo è troppo luminoso.; Der Bildschirm ist nachts zu hell.
 it-tc-0007; Tastatur; la tastiera; ; A1; Technik/Computer/Geräte; Mi serve una nuova tastiera per il computer.; Ich brauche eine neue Tastatur für meinen Computer.
-it-tc-0008; Maus (Computer); il mouse; ; A1; Technik/Computer/Geräte; Il mouse non funziona senza pila.; Die Maus funktioniert nicht ohne Batterie.
+it-tc-0008; Maus (die Maus am Computer); il mouse; ; A1; Technik/Computer/Geräte; Il mouse non funziona senza pila.; Die Maus funktioniert nicht ohne Batterie.
 it-tc-0009; Drucker; la stampante; ; A1; Technik/Computer/Geräte; La stampante dell'ufficio è di nuovo rotta.; Der Drucker im Büro ist schon wieder kaputt.
 it-tc-0010; Kamera; la fotocamera; la macchina fotografica, la videocamera; A1; Technik/Computer/Geräte; Questa fotocamera fa foto molto belle.; Diese Kamera macht sehr gute Fotos.
 it-tc-0011; Laptop; il portatile; il laptop, il notebook; A1; Technik/Computer/Geräte; Ogni mattina porta il portatile al lavoro.; Sie nimmt ihren Laptop jeden Morgen mit zur Arbeit.
@@ -22,7 +22,7 @@ it-tc-0019; ausmachen; spegnere; ; A1; Technik/Computer/Geräte; Per favore, spe
 it-tc-0020; Fehler; l'errore; ; A1; Technik/Computer/Software; Nel nuovo programma c'è un errore.; Es gibt einen Fehler im neuen Programm.
 it-tc-0021; Passwort; la password; la parola d'accesso; A2; Technik/Computer/Sicherheit; Non dovresti mai dire a nessuno la tua password.; Du solltest niemandem dein Passwort verraten.
 it-tc-0022; Datei; il file; ; A2; Technik/Computer/Dateien; Ho salvato il file sul mio portatile.; Ich habe die Datei auf meinem Laptop gespeichert.
-it-tc-0023; Ordner (Computer); la cartella; ; A2; Technik/Computer/Dateien; Metti tutte le foto in una cartella.; Leg alle Fotos in einen Ordner.
+it-tc-0023; Ordner (ein Ordner auf dem Computer); la cartella; ; A2; Technik/Computer/Dateien; Metti tutte le foto in una cartella.; Leg alle Fotos in einen Ordner.
 it-tc-0024; drucken; stampare; ; A2; Technik/Computer/Dateien; Puoi stampare questo documento per me?; Kannst du dieses Dokument für mich drucken?
 it-tc-0025; speichern; salvare; memorizzare; A2; Technik/Computer/Dateien; Non dimenticare di salvare il tuo lavoro.; Vergiss nicht, deine Arbeit zu speichern.
 it-tc-0026; löschen; cancellare; eliminare; A2; Technik/Computer/Dateien; Ho cancellato per sbaglio le vecchie foto.; Ich habe die alten Fotos aus Versehen gelöscht.
@@ -37,14 +37,14 @@ it-tc-0034; Ladegerät; il caricabatterie; il caricatore; A2; Technik/Computer/S
 it-tc-0035; Kopfhörer; le cuffie; gli auricolari; A2; Technik/Computer/Geräte; Ascolta la musica con le cuffie.; Er hört Musik mit seinen Kopfhörern.
 it-tc-0036; Lautsprecher; l'altoparlante; la cassa, lo speaker; A2; Technik/Computer/Geräte; L'altoparlante è abbastanza forte per la festa.; Der Lautsprecher ist laut genug für die Party.
 it-tc-0037; Smartphone; lo smartphone; ; A2; Technik/Computer/Smartphone; Oggi quasi tutti hanno uno smartphone.; Fast jeder hat heutzutage ein Smartphone.
-it-tc-0038; Nachricht (Mitteilung); il messaggio; ; A2; Technik/Computer/Smartphone; Stamattina mi ha mandato un messaggio.; Sie hat mir heute Morgen eine Nachricht geschickt.
+it-tc-0038; Nachricht (eine Nachricht schicken); il messaggio; ; A2; Technik/Computer/Smartphone; Stamattina mi ha mandato un messaggio.; Sie hat mir heute Morgen eine Nachricht geschickt.
 it-tc-0039; Benutzer; l'utente; ; A2; Technik/Computer/Software; Il nuovo utente ha bisogno prima di una password.; Der neue Benutzer braucht zuerst ein Passwort.
 it-tc-0040; Benutzername; il nome utente; ; A2; Technik/Computer/Sicherheit; Per favore, inserisci il tuo nome utente e la tua password.; Bitte gib deinen Benutzernamen und dein Passwort ein.
 it-tc-0041; Suchmaschine; il motore di ricerca; ; A2; Technik/Computer/Internet; Ho trovato la risposta con un motore di ricerca.; Ich habe die Antwort mit einer Suchmaschine gefunden.
 it-tc-0042; suchen; cercare; ; A2; Technik/Computer/Internet; Ho cercato voli economici su internet.; Ich habe im Internet nach günstigen Flügen gesucht.
 it-tc-0043; senden; inviare; mandare, spedire; A2; Technik/Computer/Internet; Al lavoro invia molte e-mail ogni giorno.; Er sendet bei der Arbeit jeden Tag viele E-Mails.
 it-tc-0044; empfangen; ricevere; ; A2; Technik/Computer/Internet; Hai ricevuto il mio messaggio ieri sera?; Hast du gestern Abend meine Nachricht empfangen?
-it-tc-0045; Verbindung (Internet); la connessione; il collegamento; A2; Technik/Computer/Internet; Oggi la connessione a internet è molto lenta.; Die Internetverbindung ist heute sehr langsam.
+it-tc-0045; Verbindung (keine Verbindung zum Internet); la connessione; il collegamento; A2; Technik/Computer/Internet; Oggi la connessione a internet è molto lenta.; Die Internetverbindung ist heute sehr langsam.
 it-tc-0046; verbinden; collegare; connettere; A2; Technik/Computer/Internet; Devi collegare il portatile alla stampante.; Du musst den Laptop mit dem Drucker verbinden.
 it-tc-0047; WLAN; il wi-fi; la rete wireless; A2; Technik/Computer/Internet, Reisen/Urlaub/Unterkunft; L'hotel ha il wi-fi gratuito in ogni camera.; Das Hotel hat kostenloses WLAN in jedem Zimmer.
 it-tc-0048; Akku; la batteria; la batteria ricaricabile, l'accumulatore; A2; Technik/Computer/Smartphone; La mia batteria dura quasi due giorni.; Mein Akku hält fast zwei Tage.
@@ -53,12 +53,12 @@ it-tc-0050; funktionieren; funzionare; ; A2; Technik/Computer/Geräte; La stampa
 it-tc-0051; Software; il software; ; B1; Technik/Computer/Software; L'azienda sviluppa software per piccole imprese.; Die Firma entwickelt Software für kleine Unternehmen.
 it-tc-0052; Hardware; l'hardware; ; B1; Technik/Computer/Hardware; Un buon hardware è importante per i giochi moderni.; Gute Hardware ist wichtig für moderne Spiele.
 it-tc-0053; Festplatte; il disco rigido; l'hard disk; B1; Technik/Computer/Hardware; Il mio disco rigido è di nuovo quasi pieno.; Meine Festplatte ist schon wieder fast voll.
-it-tc-0054; Speicher (Computer); la memoria; ; B1; Technik/Computer/Hardware; Il telefono non ha più abbastanza memoria.; Das Handy hat nicht mehr genug Speicher.
+it-tc-0054; Speicher (der Speicher des Computers); la memoria; ; B1; Technik/Computer/Hardware; Il telefono non ha più abbastanza memoria.; Das Handy hat nicht mehr genug Speicher.
 it-tc-0055; Betriebssystem; il sistema operativo; ; B1; Technik/Computer/Software; Il nuovo sistema operativo è molto più veloce.; Das neue Betriebssystem läuft viel schneller.
 it-tc-0056; Anwendung; l'applicazione; il programma; B1; Technik/Computer/Software; Questa applicazione funziona solo su computer più recenti.; Diese Anwendung läuft nur auf neueren Computern.
 it-tc-0057; installieren; installare; ; B1; Technik/Computer/Software; Prima devi installare il programma.; Du musst das Programm zuerst installieren.
 it-tc-0058; aktualisieren; aggiornare; ; B1; Technik/Computer/Software; Per favore, aggiorna l'app all'ultima versione.; Bitte aktualisiere die App auf die neueste Version.
-it-tc-0059; Einstellung (Technik); l'impostazione; ; B1; Technik/Computer/Software; Puoi cambiare questa impostazione nel menu.; Du kannst diese Einstellung im Menü ändern.
+it-tc-0059; Einstellung (die Einstellungen am Handy); l'impostazione; ; B1; Technik/Computer/Software; Puoi cambiare questa impostazione nel menu.; Du kannst diese Einstellung im Menü ändern.
 it-tc-0060; Virus; il virus; ; B1; Technik/Computer/Sicherheit; Un virus può distruggere rapidamente file importanti.; Ein Virus kann wichtige Dateien schnell zerstören.
 it-tc-0061; Sicherheit; la sicurezza; ; B1; Technik/Computer/Sicherheit; Su internet la sicurezza è molto importante.; Sicherheit ist im Internet sehr wichtig.
 it-tc-0062; sicher; sicuro; ; B1; Technik/Computer/Sicherheit; Scegli una password sicura con molti caratteri.; Wähle ein sicheres Passwort mit vielen Zeichen.

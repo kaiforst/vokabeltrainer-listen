@@ -3,7 +3,7 @@ id; Deutsch; Französisch; Weitere Antworten; Niveau; Themen; Beispiel Französi
 fr-xf-0001; anfangen; commencer; ; A1; Allgemein/Verben; Le film commence dans dix minutes, alors dépêchons-nous.; Der Film fängt in zehn Minuten an, also beeilen wir uns.
 fr-xf-0002; aussehen; avoir l'air; sembler; A1; Allgemein/Verben; Tu as l'air vraiment fatigué aujourd'hui, ça va ?; Du siehst heute richtig müde aus, geht es dir gut?
 fr-xf-0003; anschauen; regarder; ; A1; Allgemein/Verben; Je peux regarder tes photos de vacances plus tard ?; Kann ich mir später deine Urlaubsfotos anschauen?
-fr-xf-0004; liegen (Lebewesen); être allongé; être couché; A1; Allgemein/Verben; Le chat est allongé sur le canapé au soleil.; Die Katze liegt auf dem Sofa in der Sonne.
+fr-xf-0004; liegen (im Bett liegen); être allongé; être couché; A1; Allgemein/Verben; Le chat est allongé sur le canapé au soleil.; Die Katze liegt auf dem Sofa in der Sonne.
 fr-xf-0005; leben; vivre; ; A1; Allgemein/Verben; Mes grands-parents vivent dans un petit village au bord de la mer.; Meine Großeltern leben in einem kleinen Dorf am Meer.
 fr-xf-0006; dürfen; avoir le droit; pouvoir; A1; Allgemein/Verben; Les enfants n'ont pas le droit de jouer sur le chantier.; Kinder dürfen nicht auf der Baustelle spielen.
 fr-xf-0007; aufmachen; ouvrir; ; A1; Allgemein/Verben; Tu peux ouvrir la fenêtre, s'il te plaît ? Il fait très chaud.; Kannst du bitte das Fenster aufmachen? Es ist sehr warm.
@@ -15,7 +15,7 @@ fr-xf-0012; verlassen; quitter; ; A2; Allgemein/Verben; Nous quittons la maison 
 fr-xf-0013; versuchen; essayer; ; A2; Allgemein/Verben; J'essaierai de te rappeler ce soir, c'est promis.; Ich werde versuchen, dich heute Abend noch mal anzurufen, versprochen.
 fr-xf-0014; verbringen; passer; ; A2; Allgemein/Verben; Nous avons passé tout le week-end au bord du lac.; Wir haben das ganze Wochenende am See verbracht.
 fr-xf-0015; setzen; mettre; placer; B1; Allgemein/Verben; Elle a mis le bébé avec précaution dans la poussette.; Sie setzte das Baby vorsichtig in den Kinderwagen.
-fr-xf-0016; stellen (hinstellen); mettre; poser; A2; Allgemein/Verben; Mets le vase sur la table de la cuisine, s'il te plaît.; Stell die Vase bitte auf den Küchentisch.
+fr-xf-0016; stellen (auf den Tisch stellen); mettre; poser; A2; Allgemein/Verben; Mets le vase sur la table de la cuisine, s'il te plaît.; Stell die Vase bitte auf den Küchentisch.
 fr-xf-0017; schlagen; frapper; battre; A2; Allgemein/Verben; Il ne faut jamais frapper un animal, même en colère.; Man darf ein Tier nie schlagen, auch nicht aus Wut.
 fr-xf-0018; besiegen; battre; vaincre; B1; Allgemein/Verben; Notre équipe a battu les champions en finale.; Unsere Mannschaft hat im Finale den Meister besiegt.
 fr-xf-0019; kontrollieren; contrôler; vérifier; B1; Allgemein/Verben; Dans le train, on a contrôlé nos billets deux fois.; Im Zug wurden unsere Fahrkarten zweimal kontrolliert.
@@ -39,7 +39,7 @@ fr-xf-0036; fortfahren; continuer; poursuivre; B1; Allgemein/Verben; Après une 
 fr-xf-0037; umkehren; faire demi-tour; rebrousser chemin; B1; Allgemein/Verben; La route était fermée, alors nous avons dû faire demi-tour.; Die Straße war gesperrt, also mussten wir umkehren.
 fr-xf-0038; vorbeigehen; passer; passer devant; A2; Allgemein/Verben; Je passe devant la boulangerie tous les matins.; Ich gehe jeden Morgen an der Bäckerei vorbei.
 fr-xf-0039; eintreten; entrer; ; B1; Allgemein/Verben; Frappe avant d'entrer dans la pièce, s'il te plaît.; Bitte klopf an, bevor du in das Zimmer eintrittst.
-fr-xf-0040; wenden (Auto); faire demi-tour; ; B1; Allgemein/Verben; Il a fait demi-tour dans la rue étroite.; Er hat das Auto in der engen Straße gewendet.
+fr-xf-0040; wenden (mit dem Auto wenden); faire demi-tour; ; B1; Allgemein/Verben; Il a fait demi-tour dans la rue étroite.; Er hat das Auto in der engen Straße gewendet.
 fr-xf-0041; bilden; former; ; B1; Allgemein/Verben; Les enfants ont formé un cercle autour de la maîtresse.; Die Kinder bildeten einen Kreis um die Lehrerin.
 fr-xf-0042; formen; former; façonner; B1; Allgemein/Verben; Avec tes mains, forme de petites boules de pâte.; Form mit den Händen kleine Kugeln aus dem Teig.
 fr-xf-0043; herstellen; fabriquer; produire; B1; Allgemein/Verben; Cette usine fabrique des pièces pour les voitures et les bus.; Diese Fabrik stellt Teile für Autos und Busse her.
@@ -49,7 +49,7 @@ fr-xf-0046; gestalten; concevoir; créer; B2; Allgemein/Verben; Les élèves ont
 fr-xf-0047; festlegen; fixer; déterminer; B2; Allgemein/Verben; Nous devons encore fixer une date pour la réunion.; Wir müssen noch einen Termin für das Treffen festlegen.
 fr-xf-0048; anwenden; appliquer; ; B1; Allgemein/Verben; Essaie maintenant d'appliquer la règle à ces phrases.; Versuch jetzt, die Regel auf diese Sätze anzuwenden.
 fr-xf-0049; leiten; diriger; gérer; B1; Allgemein/Verben; Madame Moreau dirige l'école depuis de nombreuses années.; Frau Moreau leitet die Schule seit vielen Jahren.
-fr-xf-0050; betreiben (führen); exploiter; tenir, gérer; B2; Allgemein/Verben; Sa famille exploite un petit hôtel au bord du lac.; Seine Familie betreibt ein kleines Hotel am See.
+fr-xf-0050; betreiben (ein Hotel betreiben); exploiter; tenir, gérer; B2; Allgemein/Verben; Sa famille exploite un petit hôtel au bord du lac.; Seine Familie betreibt ein kleines Hotel am See.
 fr-xf-0051; beherrschen; maîtriser; ; B2; Allgemein/Verben; Il faut des années pour maîtriser une langue étrangère.; Es dauert Jahre, eine Fremdsprache zu beherrschen.
 fr-xf-0052; enthüllen; révéler; dévoiler; B2; Allgemein/Verben; Le magicien ne révèle jamais le secret de ses tours.; Der Zauberer enthüllt nie das Geheimnis seiner Tricks.
 fr-xf-0053; ansteigen; monter; augmenter; B1; Allgemein/Verben; Le niveau de l'eau est monté après les fortes pluies.; Nach dem starken Regen ist der Wasserstand angestiegen.
@@ -58,7 +58,7 @@ fr-xf-0055; übrig bleiben; rester; ; B1; Allgemein/Verben; Il ne reste plus que
 fr-xf-0056; aushelfen; donner un coup de main; dépanner; B1; Allgemein/Verben; Mon cousin donne parfois un coup de main au magasin.; Mein Cousin hilft manchmal im Laden aus.
 fr-xf-0057; einspringen; remplacer; ; B2; Allgemein/Verben; Quand la chanteuse était malade, sa sœur l'a remplacée.; Als die Sängerin krank war, ist ihre Schwester eingesprungen.
 fr-xf-0058; vorführen; montrer; présenter, faire une démonstration; B2; Allgemein/Verben; Le vendeur a montré comment marche le nouvel aspirateur.; Der Verkäufer führte vor, wie der neue Staubsauger funktioniert.
-fr-xf-0059; leisten (vollbringen); accomplir; réaliser; B2; Allgemein/Verben; L'équipe a accompli beaucoup de choses cette saison.; Die Mannschaft hat in dieser Saison viel geleistet.
+fr-xf-0059; leisten (Großes leisten); accomplir; réaliser; B2; Allgemein/Verben; L'équipe a accompli beaucoup de choses cette saison.; Die Mannschaft hat in dieser Saison viel geleistet.
 fr-xf-0060; gebrauchen; utiliser; se servir de; B1; Allgemein/Verben; Tu peux encore utiliser ces vieux cartons pour ton déménagement ?; Kannst du diese alten Kartons noch für deinen Umzug gebrauchen?
 fr-xf-0061; abwarten; attendre; attendre de voir; B1; Allgemein/Verben; Attendons de voir ce que dit le médecin.; Lass uns abwarten, was der Arzt sagt.
 fr-xf-0062; anhaben; porter; ; A2; Allgemein/Verben; Elle portait une robe rouge à la fête.; Sie hatte auf der Party ein rotes Kleid an.
@@ -66,10 +66,10 @@ fr-xf-0063; siegen; gagner; vaincre, l'emporter; B2; Allgemein/Verben; À la fin
 fr-xf-0064; neigen; avoir tendance; ; B2; Allgemein/Verben; Mon frère a tendance à exagérer quand il raconte des histoires.; Mein Bruder neigt dazu, beim Erzählen zu übertreiben.
 fr-xf-0065; spüren; sentir; ressentir; B1; Allgemein/Verben; Je sentais le vent froid sur mon visage.; Ich konnte den kalten Wind im Gesicht spüren.
 fr-xf-0067; sich auswirken; se répercuter; avoir un effet; B2; Allgemein/Verben; Le manque de sommeil se répercute sur ta concentration en classe.; Schlafmangel wirkt sich auf deine Konzentration in der Schule aus.
-fr-xf-0403; wählen (aussuchen); choisir; ; A2; Allgemein/Verben; Tu peux choisir entre trois desserts différents.; Du kannst zwischen drei verschiedenen Nachspeisen wählen.
+fr-xf-0403; wählen (zwischen zwei Dingen wählen); choisir; ; A2; Allgemein/Verben; Tu peux choisir entre trois desserts différents.; Du kannst zwischen drei verschiedenen Nachspeisen wählen.
 fr-xf-0068; sich fragen; se demander; ; B1; Allgemein/Denken & Sprechen; Je me demande pourquoi elle ne m'a pas rappelé.; Ich frage mich, warum sie mich nicht zurückgerufen hat.
 fr-xf-0069; meinen (der Meinung sein); penser; croire, trouver; A2; Allgemein/Denken & Sprechen; Qu'est-ce que tu en penses, on prend le bus ?; Was meinst du, sollen wir den Bus nehmen?
-fr-xf-0070; meinen (sagen wollen); vouloir dire; ; A2; Allgemein/Denken & Sprechen; Pardon, je ne comprends pas ce que tu veux dire.; Entschuldigung, ich verstehe nicht, was du meinst.
+fr-xf-0070; meinen (was meinst du damit?); vouloir dire; ; A2; Allgemein/Denken & Sprechen; Pardon, je ne comprends pas ce que tu veux dire.; Entschuldigung, ich verstehe nicht, was du meinst.
 fr-xf-0071; merken; remarquer; se rendre compte, s'apercevoir; B1; Allgemein/Denken & Sprechen; Tu as remarqué qu'il a une nouvelle coupe de cheveux ?; Hast du gemerkt, dass er eine neue Frisur hat?
 fr-xf-0072; Aussage; la déclaration; la déposition; B1; Allgemein/Denken & Sprechen; Le témoin a fait une déclaration à la police.; Der Zeuge hat bei der Polizei eine Aussage gemacht.
 fr-xf-0073; Begriff; le terme; la notion; B2; Allgemein/Denken & Sprechen; Tu peux m'expliquer ce terme avec des mots simples ?; Kannst du mir diesen Begriff mit einfachen Worten erklären?
@@ -80,7 +80,7 @@ fr-xf-0077; Begründung; la justification; ; B2; Allgemein/Denken & Sprechen; Ta
 fr-xf-0078; Mitteilung; le message; la communication; B1; Allgemein/Denken & Sprechen; Nous avons reçu un court message de l'école aujourd'hui.; Wir haben heute eine kurze Mitteilung von der Schule bekommen.
 fr-xf-0079; Versprechen; la promesse; ; A2; Allgemein/Denken & Sprechen; Tu m'as fait une promesse, alors tiens-la, s'il te plaît.; Du hast mir ein Versprechen gegeben, also halte es bitte.
 fr-xf-0080; Gewissheit; la certitude; ; B2; Allgemein/Denken & Sprechen; Maintenant, nous savons avec certitude que le plan fonctionne.; Jetzt wissen wir mit Gewissheit, dass der Plan funktioniert.
-fr-xf-0081; Vorstellung (Idee); l'idée; la notion; B2; Allgemein/Denken & Sprechen; Je n'ai aucune idée de ce à quoi ressemble l'appartement.; Ich habe keine Vorstellung, wie die Wohnung aussieht.
+fr-xf-0081; Vorstellung (keine Vorstellung haben); l'idée; la notion; B2; Allgemein/Denken & Sprechen; Je n'ai aucune idée de ce à quoi ressemble l'appartement.; Ich habe keine Vorstellung, wie die Wohnung aussieht.
 fr-xf-0082; Zustimmung; l'accord; l'approbation, le consentement; B2; Allgemein/Denken & Sprechen; Le projet a besoin de l'accord de tous les parents.; Der Plan braucht die Zustimmung aller Eltern.
 fr-xf-0083; Lob; l'éloge; les compliments, les félicitations; B1; Allgemein/Denken & Sprechen; Un éloge sincère peut beaucoup motiver les enfants.; Ehrliches Lob kann Kinder sehr motivieren.
 fr-xf-0084; Absprache; l'arrangement; l'accord; B2; Allgemein/Denken & Sprechen; Nous avons un arrangement : je cuisine et tu fais la vaisselle.; Wir haben eine Absprache: Ich koche und du spülst ab.
@@ -95,7 +95,7 @@ fr-xf-0092; bereit; prêt; ; A2; Allgemein/Adjektive; Tu es prêt ? Nous devons 
 fr-xf-0093; kräftig; fort; robuste, vigoureux; B1; Allgemein/Adjektive; Grâce au travail à la ferme, il a des bras très forts.; Von der Arbeit auf dem Hof hat er kräftige Arme.
 fr-xf-0094; großartig; génial; formidable, magnifique; B1; Allgemein/Adjektive; C'était une idée géniale, merci beaucoup !; Das war eine großartige Idee, vielen Dank!
 fr-xf-0095; fantastisch; fantastique; génial; A2; Allgemein/Adjektive; La vue d'en haut est vraiment fantastique.; Die Aussicht von oben ist wirklich fantastisch.
-fr-xf-0096; grob (ungefähr); approximatif; ; B2; Allgemein/Adjektive; Voici une estimation approximative du prix du voyage.; Das ist eine grobe Schätzung des Reisepreises.
+fr-xf-0096; grob (grob geschätzt); approximatif; ; B2; Allgemein/Adjektive; Voici une estimation approximative du prix du voyage.; Das ist eine grobe Schätzung des Reisepreises.
 fr-xf-0097; rau; rugueux; rêche; B1; Allgemein/Adjektive; J'ai les mains rugueuses à cause du froid.; Meine Hände sind vom kalten Wetter ganz rau.
 fr-xf-0098; uneben; inégal; accidenté; B2; Allgemein/Adjektive; Attention, le chemin est très inégal ici.; Pass auf, der Weg ist hier sehr uneben.
 fr-xf-0099; zäh; coriace; dur; B2; Allgemein/Adjektive; La viande était si coriace que je n'ai pas pu la manger.; Das Fleisch war so zäh, dass ich es nicht essen konnte.
@@ -109,7 +109,7 @@ fr-xf-0106; legal; légal; ; B1; Allgemein/Adjektive; Est-ce que c'est légal de
 fr-xf-0107; öffentlich; public; ; B1; Allgemein/Adjektive; Il est interdit de fumer dans les bâtiments publics.; In öffentlichen Gebäuden ist Rauchen nicht erlaubt.
 fr-xf-0108; örtlich; local; ; B2; Allgemein/Adjektive; La réunion commence à huit heures, heure locale.; Das Treffen beginnt um acht Uhr örtlicher Zeit.
 fr-xf-0109; schrill; strident; perçant, aigu; B2; Allgemein/Adjektive; Un bruit strident nous a réveillés pendant la nuit.; Wir wurden in der Nacht von einem schrillen Geräusch geweckt.
-fr-xf-0110; ganz (komplett); entier; complet; A2; Allgemein/Adjektive; Elle a mangé le gâteau entier toute seule.; Sie hat den ganzen Kuchen allein gegessen.
+fr-xf-0110; ganz (die ganze Pizza); entier; complet; A2; Allgemein/Adjektive; Elle a mangé le gâteau entier toute seule.; Sie hat den ganzen Kuchen allein gegessen.
 fr-xf-0111; eingeschaltet; allumé; en marche; B1; Allgemein/Adjektive; Le four de la cuisine est encore allumé ?; Ist der Ofen in der Küche noch eingeschaltet?
 fr-xf-0112; liebevoll; affectueux; tendre; B1; Mensch/Charakter; C'est une mère très affectueuse avec ses trois enfants.; Sie ist eine sehr liebevolle Mutter für ihre drei Kinder.
 fr-xf-0113; herzlich; chaleureux; cordial; B1; Mensch/Charakter; Nos hôtes nous ont réservé un accueil très chaleureux.; Unsere Gastgeber haben uns sehr herzlich empfangen.
@@ -127,13 +127,13 @@ fr-xf-0124; prahlen; se vanter; ; B2; Mensch/Charakter; Elle aime bien se vanter
 fr-xf-0125; Stolz; la fierté; ; B1; Mensch/Gefühle; Ses yeux étaient pleins de fierté quand son fils a gagné.; Seine Augen waren voller Stolz, als sein Sohn gewann.
 fr-xf-0126; sich sorgen; s'inquiéter; se faire du souci; B1; Mensch/Gefühle; Mes parents s'inquiètent quand je rentre tard à la maison.; Meine Eltern sorgen sich, wenn ich spät nach Hause komme.
 fr-xf-0127; von; de; ; A1; Allgemein/Kleine Wörter; J'ai reçu une longue lettre de ma tante.; Ich habe einen langen Brief von meiner Tante bekommen.
-fr-xf-0128; aus (Herkunft); de; ; A1; Allgemein/Kleine Wörter; Ma meilleure amie vient d'Italie, de Rome.; Meine beste Freundin kommt aus Italien, aus Rom.
-fr-xf-0129; aus (heraus); hors de; ; A1; Allgemein/Kleine Wörter; Le chat a sauté hors de la boîte en carton.; Die Katze ist aus dem Karton gesprungen.
-fr-xf-0130; aus (ausgeschaltet); éteint; ; A2; Allgemein/Kleine Wörter; La télé est éteinte ou encore allumée ?; Ist der Fernseher aus oder noch an?
-fr-xf-0131; auf (Präposition); sur; ; A1; Allgemein/Kleine Wörter; Tes lunettes sont sur la table de la cuisine.; Deine Brille liegt auf dem Küchentisch.
-fr-xf-0132; auf (offen); ouvert; ; A2; Allgemein/Kleine Wörter; La boulangerie du coin est ouverte le dimanche ?; Hat die Bäckerei an der Ecke sonntags auf?
-fr-xf-0133; wenn (Bedingung); si; ; A1; Allgemein/Kleine Wörter; Si tu as faim, il y a du pain.; Wenn du Hunger hast, gibt es Brot.
-fr-xf-0134; wenn (zeitlich); quand; lorsque; A2; Allgemein/Kleine Wörter; Quand je rentre à la maison, je bois toujours un thé.; Wenn ich nach Hause komme, trinke ich immer einen Tee.
+fr-xf-0128; aus (ich komme aus Berlin); de; ; A1; Allgemein/Kleine Wörter; Ma meilleure amie vient d'Italie, de Rome.; Meine beste Freundin kommt aus Italien, aus Rom.
+fr-xf-0129; aus (aus dem Zimmer gehen); hors de; ; A1; Allgemein/Kleine Wörter; Le chat a sauté hors de la boîte en carton.; Die Katze ist aus dem Karton gesprungen.
+fr-xf-0130; aus (das Licht ist aus); éteint; ; A2; Allgemein/Kleine Wörter; La télé est éteinte ou encore allumée ?; Ist der Fernseher aus oder noch an?
+fr-xf-0131; auf (auf dem Tisch); sur; ; A1; Allgemein/Kleine Wörter; Tes lunettes sont sur la table de la cuisine.; Deine Brille liegt auf dem Küchentisch.
+fr-xf-0132; auf (die Tür ist auf); ouvert; ; A2; Allgemein/Kleine Wörter; La boulangerie du coin est ouverte le dimanche ?; Hat die Bäckerei an der Ecke sonntags auf?
+fr-xf-0133; wenn (wenn ich reich wäre); si; ; A1; Allgemein/Kleine Wörter; Si tu as faim, il y a du pain.; Wenn du Hunger hast, gibt es Brot.
+fr-xf-0134; wenn (immer wenn ich komme); quand; lorsque; A2; Allgemein/Kleine Wörter; Quand je rentre à la maison, je bois toujours un thé.; Wenn ich nach Hause komme, trinke ich immer einen Tee.
 fr-xf-0135; welcher; quel; ; A1; Allgemein/Kleine Wörter; Quel bus va à la gare, s'il vous plaît ?; Welcher Bus fährt bitte zum Bahnhof?
 fr-xf-0136; jeder; chaque; ; A1; Allgemein/Kleine Wörter; Chaque élève reçoit un nouveau livre en début d'année.; Jeder Schüler bekommt am Anfang des Jahres ein neues Buch.
 fr-xf-0137; keiner; personne; aucun; A2; Allgemein/Kleine Wörter; Personne ne connaissait la réponse à la dernière question.; Keiner wusste die Antwort auf die letzte Frage.
@@ -152,26 +152,26 @@ fr-xf-0149; Sorte; la sorte; la variété, le type; A2; Allgemein/Mengen; Quelle
 fr-xf-0150; Zunahme; l'augmentation; la hausse; B2; Allgemein/Mengen; Il y a eu une forte augmentation de la circulation.; Es gab eine starke Zunahme des Verkehrs.
 fr-xf-0151; wieder; encore; de nouveau, à nouveau; A1; Allgemein/Zeit; J'ai encore oublié mes clés, c'est vraiment énervant !; Ich habe schon wieder meine Schlüssel vergessen, wie ärgerlich!
 fr-xf-0152; dann; ensuite; puis; A1; Allgemein/Zeit; D'abord on mange, et ensuite on va au cinéma.; Zuerst essen wir, und dann gehen wir ins Kino.
-fr-xf-0153; nach (zeitlich); après; ; A1; Allgemein/Zeit; Après l'école, je vais en général à l'entraînement de foot.; Nach der Schule gehe ich meistens zum Fußballtraining.
+fr-xf-0153; nach (nach dem Essen); après; ; A1; Allgemein/Zeit; Après l'école, je vais en général à l'entraînement de foot.; Nach der Schule gehe ich meistens zum Fußballtraining.
 fr-xf-0154; hinterher; après; ensuite; B1; Allgemein/Zeit; Nous avons fait une promenade et pris un café après.; Wir sind spazieren gegangen und haben hinterher einen Kaffee getrunken.
 fr-xf-0155; endlich; enfin; ; A2; Allgemein/Zeit; Les vacances ont enfin commencé, youpi !; Endlich haben die Ferien angefangen, hurra!
 fr-xf-0156; Moment; le moment; l'instant; A2; Allgemein/Zeit; Un moment, s'il vous plaît, je reviens tout de suite.; Einen Moment bitte, ich bin gleich zurück.
 fr-xf-0157; nächste; prochain; ; A1; Allgemein/Zeit; La semaine prochaine, nous partons en Espagne en avion.; Nächste Woche fliegen wir nach Spanien.
 fr-xf-0158; seit; depuis; ; A2; Allgemein/Zeit; J'apprends l'anglais depuis l'âge de huit ans.; Ich lerne Englisch, seit ich acht bin.
-fr-xf-0159; vorbei (zu Ende); fini; terminé; A2; Allgemein/Zeit; L'été est fini et l'école recommence.; Der Sommer ist vorbei und die Schule fängt wieder an.
+fr-xf-0159; vorbei (die Ferien sind vorbei); fini; terminé; A2; Allgemein/Zeit; L'été est fini et l'école recommence.; Der Sommer ist vorbei und die Schule fängt wieder an.
 fr-xf-0160; vergangen; passé; dernier; B1; Allgemein/Zeit; Au cours des semaines passées, il a beaucoup plu.; In den vergangenen Wochen hat es viel geregnet.
 fr-xf-0161; gegenwärtig; actuel; présent; B2; Allgemein/Zeit; La situation actuelle est difficile pour beaucoup de familles.; Die gegenwärtige Lage ist für viele Familien schwierig.
 fr-xf-0162; dort; là-bas; là; A1; Allgemein/Raum; Tu vois la maison rouge, là-bas ?; Siehst du das rote Haus dort?
 fr-xf-0163; weg; parti; loin; A2; Allgemein/Raum; Quand je suis arrivé, le bus était déjà parti.; Als ich ankam, war der Bus schon weg.
 fr-xf-0164; herum; autour; ; B1; Allgemein/Raum; Les enfants couraient autour de la maison en criant.; Die Kinder liefen schreiend um das Haus herum.
-fr-xf-0165; um (räumlich); autour de; ; A2; Allgemein/Raum; Nous étions assis autour du feu et nous chantions.; Wir saßen um das Feuer und sangen Lieder.
-fr-xf-0166; über (räumlich); au-dessus de; ; A2; Allgemein/Raum; Un petit avion est passé au-dessus de notre maison.; Ein kleines Flugzeug ist über unser Haus geflogen.
+fr-xf-0165; um (um das Haus herum); autour de; ; A2; Allgemein/Raum; Nous étions assis autour du feu et nous chantions.; Wir saßen um das Feuer und sangen Lieder.
+fr-xf-0166; über (über die Stadt fliegen); au-dessus de; ; A2; Allgemein/Raum; Un petit avion est passé au-dessus de notre maison.; Ein kleines Flugzeug ist über unser Haus geflogen.
 fr-xf-0168; hinunter; en bas; vers le bas; B1; Allgemein/Raum; Les enfants ont couru jusqu'en bas de la colline.; Die Kinder sind den Hügel hinunter gerannt.
 fr-xf-0169; hinauf; en haut; vers le haut; B1; Allgemein/Raum; Nous sommes montés tout en haut de la tour pour la vue.; Wir sind auf den Turm hinaufgestiegen, um die Aussicht zu sehen.
 fr-xf-0170; nach oben; en haut; à l'étage, vers le haut; A2; Allgemein/Raum; Prends l'ascenseur jusqu'en haut, au cinquième étage.; Fahr mit dem Aufzug nach oben in den fünften Stock.
 fr-xf-0171; oberhalb; au-dessus de; au-dessus; B1; Allgemein/Raum; Il y a une petite cabane au-dessus du village.; Oberhalb des Dorfes gibt es eine kleine Hütte.
 fr-xf-0172; nah; proche; près; A2; Allgemein/Raum; L'hôtel est très proche de la plage.; Das Hotel liegt ganz nah am Strand.
-fr-xf-0173; Ort (Platz); l'endroit; le lieu; A2; Allgemein/Raum; C'est l'endroit parfait pour un pique-nique.; Das ist der perfekte Ort für ein Picknick.
+fr-xf-0173; Ort (ein schöner Ort); l'endroit; le lieu; A2; Allgemein/Raum; C'est l'endroit parfait pour un pique-nique.; Das ist der perfekte Ort für ein Picknick.
 fr-xf-0174; Gebiet; la région; la zone, le territoire; A2; Allgemein/Raum; Cette région est célèbre pour son vin.; Dieses Gebiet ist für seinen Wein bekannt.
 fr-xf-0175; Region; la région; ; B1; Allgemein/Raum; Il neige souvent dans cette région en hiver.; In dieser Region schneit es im Winter oft.
 fr-xf-0176; Standort; l'emplacement; le site; B2; Allgemein/Raum; L'entreprise cherche un nouvel emplacement pour ses bureaux.; Die Firma sucht einen neuen Standort für ihr Büro.
@@ -182,8 +182,8 @@ fr-xf-0180; Mitte; le milieu; le centre; A2; Allgemein/Raum; Il y a un grand arb
 fr-xf-0181; Mittelpunkt; le centre; ; B1; Allgemein/Raum; Pendant la fête, le bébé était au centre de l'attention.; Das Baby war auf der Feier der Mittelpunkt.
 fr-xf-0182; Vorderseite; le devant; l'avant, le recto; B1; Allgemein/Raum; Écris ton nom sur le devant de l'enveloppe.; Schreib deinen Namen auf die Vorderseite des Umschlags.
 fr-xf-0183; Rückseite; le dos; le verso, l'arrière; B1; Allgemein/Raum; Les réponses sont au dos de la feuille.; Die Lösungen stehen auf der Rückseite des Blattes.
-fr-xf-0184; Raum (Platz); l'espace; la place; B1; Allgemein/Raum; Notre appartement n'a pas assez d'espace pour un piano.; In unserer Wohnung ist nicht genug Raum für ein Klavier.
-fr-xf-0185; rund (Form); rond; ; A2; Allgemein/Raum; Nous avons acheté une table ronde pour la cuisine.; Wir haben einen runden Tisch für die Küche gekauft.
+fr-xf-0184; Raum (Raum für neue Ideen); l'espace; la place; B1; Allgemein/Raum; Notre appartement n'a pas assez d'espace pour un piano.; In unserer Wohnung ist nicht genug Raum für ein Klavier.
+fr-xf-0185; rund (ein runder Tisch); rond; ; A2; Allgemein/Raum; Nous avons acheté une table ronde pour la cuisine.; Wir haben einen runden Tisch für die Küche gekauft.
 fr-xf-0186; schief; de travers; tordu, penché; B2; Allgemein/Raum; Le tableau sur le mur est accroché de travers.; Das Bild an der Wand hängt schief.
 fr-xf-0187; Ausgang; la sortie; ; A2; Allgemein/Raum; Excusez-moi, où est la sortie du parking ?; Entschuldigung, wo ist der Ausgang vom Parkhaus?
 fr-xf-0188; Eingang; l'entrée; ; A2; Allgemein/Raum; On se retrouve à l'entrée de la gare ?; Treffen wir uns am Eingang des Bahnhofs?
@@ -193,7 +193,7 @@ fr-xf-0191; Fall; le cas; ; B1; Allgemein/Begriffe; Dans ce cas, nous restons à
 fr-xf-0192; Zustand; l'état; ; B1; Allgemein/Begriffe; La vieille voiture est encore en très bon état.; Das alte Auto ist noch in sehr gutem Zustand.
 fr-xf-0193; Veränderung; le changement; ; B1; Allgemein/Begriffe; Déménager dans une nouvelle ville est un grand changement.; Der Umzug in eine neue Stadt ist eine große Veränderung.
 fr-xf-0194; Wandel; la transformation; le changement, l'évolution; B2; Allgemein/Begriffe; Le village a connu une grande transformation ces dernières années.; Das Dorf hat in den letzten Jahren einen großen Wandel erlebt.
-fr-xf-0195; Versuch (Bemühung); la tentative; l'essai; B1; Allgemein/Begriffe; Il a réussi son permis à la première tentative.; Er hat die Fahrprüfung beim ersten Versuch bestanden.
+fr-xf-0195; Versuch (beim ersten Versuch); la tentative; l'essai; B1; Allgemein/Begriffe; Il a réussi son permis à la première tentative.; Er hat die Fahrprüfung beim ersten Versuch bestanden.
 fr-xf-0196; Mühe; la peine; l'effort; B1; Allgemein/Begriffe; Merci pour toute la peine que tu t'es donnée pour la fête.; Danke für die Mühe, die du dir mit der Party gemacht hast.
 fr-xf-0197; Gefahr; le danger; ; A2; Allgemein/Begriffe; Les médecins disent qu'il est maintenant hors de danger.; Die Ärzte sagen, er ist jetzt außer Gefahr.
 fr-xf-0198; Schutz; la protection; ; B1; Allgemein/Begriffe; Cette crème offre une bonne protection contre le soleil.; Diese Creme bietet guten Schutz vor der Sonne.
@@ -223,7 +223,7 @@ fr-xf-0221; Kontakt; le contact; ; A2; Allgemein/Begriffe; Tu es encore en conta
 fr-xf-0222; Merkmal; la caractéristique; le trait; B2; Allgemein/Begriffe; Les cheveux roux sont une caractéristique de sa famille.; Rote Haare sind ein typisches Merkmal seiner Familie.
 fr-xf-0223; Prinzip; le principe; ; B1; Allgemein/Begriffe; Par principe, je ne prête jamais d'argent à personne.; Aus Prinzip leihe ich niemandem Geld.
 fr-xf-0224; Grundsatz; le principe; ; B2; Allgemein/Begriffe; L'honnêteté est l'un de ses principes les plus importants.; Ehrlichkeit ist einer seiner wichtigsten Grundsätze.
-fr-xf-0225; Verhältnis (Beziehung); la relation; ; B1; Allgemein/Begriffe; J'ai une très bonne relation avec mon frère.; Ich habe ein sehr gutes Verhältnis zu meinem Bruder.
+fr-xf-0225; Verhältnis (ein gutes Verhältnis zu den Eltern); la relation; ; B1; Allgemein/Begriffe; J'ai une très bonne relation avec mon frère.; Ich habe ein sehr gutes Verhältnis zu meinem Bruder.
 fr-xf-0226; Abwechslung; le changement; la variété, la diversité; B1; Allgemein/Begriffe; Un peu de changement, ça fait du bien.; Ein bisschen Abwechslung tut gut.
 fr-xf-0227; Belohnung; la récompense; ; B1; Allgemein/Begriffe; En récompense de nos bonnes notes, nous sommes allés au zoo.; Als Belohnung für die guten Noten sind wir in den Zoo gegangen.
 fr-xf-0228; Respekt; le respect; ; A2; Allgemein/Begriffe; Nous devrions traiter tout le monde avec respect.; Wir sollten alle mit Respekt behandeln.
@@ -249,30 +249,30 @@ fr-xf-0247; Funktion; la fonction; ; B1; Allgemein/Begriffe; Quelle est la fonct
 fr-xf-0248; Struktur; la structure; ; B2; Allgemein/Begriffe; La structure du texte est claire et logique.; Die Struktur des Textes ist klar und logisch.
 fr-xf-0249; System; le système; ; B1; Allgemein/Begriffe; L'école a un nouveau système pour les devoirs.; Die Schule hat ein neues System für Hausaufgaben.
 fr-xf-0250; Reihenfolge; l'ordre; ; B1; Allgemein/Begriffe; Mets les images dans le bon ordre.; Bring die Bilder in die richtige Reihenfolge.
-fr-xf-0251; Typ (Art); le type; le genre; B1; Allgemein/Begriffe; Ce type de chauffage est très économique.; Dieser Typ von Heizung ist sehr sparsam.
-fr-xf-0252; Typ (Mensch); le type; le mec; B1; Allgemein/Begriffe; C'est qui, le type à côté de ta sœur ?; Wer ist der Typ neben deiner Schwester?
+fr-xf-0251; Typ (ein neuer Typ von Handy); le type; le genre; B1; Allgemein/Begriffe; Ce type de chauffage est très économique.; Dieser Typ von Heizung ist sehr sparsam.
+fr-xf-0252; Typ (ein netter Typ); le type; le mec; B1; Allgemein/Begriffe; C'est qui, le type à côté de ta sœur ?; Wer ist der Typ neben deiner Schwester?
 fr-xf-0253; Kerl; le type; le gars, le mec; B1; Allgemein/Begriffe; C'est un type vraiment sympa, tu vas l'aimer.; Er ist ein echt netter Kerl, du wirst ihn mögen.
 fr-xf-0254; Weise; la façon; la manière; B1; Allgemein/Begriffe; Elle l'a expliqué d'une façon très simple.; Sie hat es auf sehr einfache Weise erklärt.
 fr-xf-0255; Vorhaben; le projet; ; B2; Allgemein/Begriffe; Nous avons dû abandonner notre projet à cause du temps.; Wegen des Wetters mussten wir unser Vorhaben aufgeben.
 fr-xf-0256; Zeug; les trucs; les affaires; B1; Allgemein/Begriffe; Tu peux enlever tes trucs de la table, s'il te plaît ?; Kannst du bitte dein Zeug vom Tisch nehmen?
 fr-xf-0257; Kram; le bazar; les trucs; B2; Allgemein/Begriffe; Le grenier est rempli de vieux bazar.; Der Dachboden ist voll mit altem Kram.
 fr-xf-0258; Heimat; le pays natal; la patrie; B1; Allgemein/Begriffe; Après la guerre, beaucoup de gens ont dû quitter leur pays natal.; Nach dem Krieg mussten viele Menschen ihre Heimat verlassen.
-fr-xf-0259; Stufe (Niveau); le niveau; l'étape, le stade; B1; Allgemein/Begriffe; Nous sommes maintenant au deuxième niveau du cours.; Wir sind jetzt auf der zweiten Stufe des Kurses.
-fr-xf-0260; Blick (Aussicht); la vue; ; B1; Allgemein/Begriffe; De notre chambre, nous avons une vue magnifique sur les montagnes.; Von unserem Zimmer haben wir einen tollen Blick auf die Berge.
-fr-xf-0261; Blick (Anschauen); le regard; le coup d'œil; B1; Allgemein/Begriffe; Elle m'a lancé un regard furieux.; Sie warf mir einen wütenden Blick zu.
-fr-xf-0262; Spur (Abdruck); la trace; ; B2; Allgemein/Begriffe; Le voleur a disparu sans laisser de trace.; Der Dieb verschwand ohne jede Spur.
-fr-xf-0263; Beitrag (Anteil); la contribution; la participation; B2; Allgemein/Begriffe; Chacun a donné une petite contribution pour le cadeau.; Jeder hat einen kleinen Beitrag zu dem Geschenk geleistet.
-fr-xf-0264; Mittel (Methode); le moyen; ; B2; Allgemein/Begriffe; Le vélo est un moyen économique d'aller à l'école.; Radfahren ist ein günstiges Mittel, um zur Schule zu kommen.
+fr-xf-0259; Stufe (eine höhere Stufe); le niveau; l'étape, le stade; B1; Allgemein/Begriffe; Nous sommes maintenant au deuxième niveau du cours.; Wir sind jetzt auf der zweiten Stufe des Kurses.
+fr-xf-0260; Blick (der Blick aufs Meer); la vue; ; B1; Allgemein/Begriffe; De notre chambre, nous avons une vue magnifique sur les montagnes.; Von unserem Zimmer haben wir einen tollen Blick auf die Berge.
+fr-xf-0261; Blick (einen Blick darauf werfen); le regard; le coup d'œil; B1; Allgemein/Begriffe; Elle m'a lancé un regard furieux.; Sie warf mir einen wütenden Blick zu.
+fr-xf-0262; Spur (Spuren im Schnee); la trace; ; B2; Allgemein/Begriffe; Le voleur a disparu sans laisser de trace.; Der Dieb verschwand ohne jede Spur.
+fr-xf-0263; Beitrag (einen Beitrag leisten); la contribution; la participation; B2; Allgemein/Begriffe; Chacun a donné une petite contribution pour le cadeau.; Jeder hat einen kleinen Beitrag zu dem Geschenk geleistet.
+fr-xf-0264; Mittel (ein Mittel zum Zweck); le moyen; ; B2; Allgemein/Begriffe; Le vélo est un moyen économique d'aller à l'école.; Radfahren ist ein günstiges Mittel, um zur Schule zu kommen.
 fr-xf-0265; Anblick; le spectacle; la vue; B2; Allgemein/Begriffe; Le coucher de soleil sur la mer était un beau spectacle.; Der Sonnenuntergang über dem Meer war ein schöner Anblick.
 fr-xf-0266; Chance; la chance; l'occasion; A2; Allgemein/Begriffe; C'est ta dernière chance, alors ne la gâche pas !; Das ist deine letzte Chance, also verschwende sie nicht!
 fr-xf-0267; Einblick; l'aperçu; ; B2; Allgemein/Begriffe; Le stage nous a donné un bon aperçu du métier.; Das Praktikum hat uns einen guten Einblick in den Beruf gegeben.
 fr-xf-0268; Erlebnis; l'expérience; ; B1; Allgemein/Begriffe; Le concert a été une expérience inoubliable pour nous tous.; Das Konzert war für uns alle ein unvergessliches Erlebnis.
 fr-xf-0269; Gefallen; le service; ; B1; Allgemein/Begriffe; Tu peux me rendre un service et nourrir mon chat ?; Kannst du mir einen Gefallen tun und meine Katze füttern?
-fr-xf-0270; Haltung (Einstellung); l'attitude; ; B2; Allgemein/Begriffe; Elle a une attitude très positive face à la vie.; Sie hat eine sehr positive Haltung zum Leben.
+fr-xf-0270; Haltung (eine kritische Haltung); l'attitude; ; B2; Allgemein/Begriffe; Elle a une attitude très positive face à la vie.; Sie hat eine sehr positive Haltung zum Leben.
 fr-xf-0271; Illusion; l'illusion; ; B2; Allgemein/Begriffe; Ne te fais pas d'illusions, l'examen sera difficile.; Mach dir keine Illusionen, die Prüfung wird schwer.
 fr-xf-0272; Missgeschick; la mésaventure; ; B2; Allgemein/Begriffe; J'ai eu une petite mésaventure avec la machine à café.; Mir ist ein kleines Missgeschick mit der Kaffeemaschine passiert.
 fr-xf-0273; Notwendigkeit; la nécessité; ; B2; Allgemein/Begriffe; Dans une grande ville, la voiture n'est pas une nécessité.; In einer Großstadt ist ein Auto keine Notwendigkeit.
-fr-xf-0274; Ruf (Ansehen); la réputation; ; B2; Allgemein/Begriffe; Le restaurant a une excellente réputation en ville.; Das Restaurant hat in der Stadt einen ausgezeichneten Ruf.
+fr-xf-0274; Ruf (einen guten Ruf haben); la réputation; ; B2; Allgemein/Begriffe; Le restaurant a une excellente réputation en ville.; Das Restaurant hat in der Stadt einen ausgezeichneten Ruf.
 fr-xf-0275; Unsicherheit; l'incertitude; ; B2; Allgemein/Begriffe; Il y a encore beaucoup d'incertitude sur les nouvelles règles.; Über die neuen Regeln herrscht noch große Unsicherheit.
 fr-xf-0276; Unterbrechung; l'interruption; ; B1; Allgemein/Begriffe; Nous avons travaillé six heures sans interruption.; Wir haben sechs Stunden ohne Unterbrechung gearbeitet.
 fr-xf-0277; Vorstellungskraft; l'imagination; ; B2; Allgemein/Begriffe; Pour écrire des histoires, il faut beaucoup d'imagination.; Zum Geschichtenschreiben braucht man viel Vorstellungskraft.
@@ -286,11 +286,11 @@ fr-xf-0284; Beutel; le sac; le sachet; B1; Alltag/Zuhause/Haushalt; Mets les san
 fr-xf-0285; Müllsack; le sac poubelle; ; B1; Alltag/Zuhause/Haushalt; Tu peux sortir le sac poubelle, s'il te plaît ?; Kannst du bitte den Müllsack nach draußen bringen?
 fr-xf-0286; Fußboden; le sol; le plancher; A2; Alltag/Zuhause/Räume; Les enfants jouaient assis sur le sol du salon.; Die Kinder saßen auf dem Fußboden im Wohnzimmer und spielten.
 fr-xf-0287; Etage; l'étage; ; A2; Alltag/Zuhause/Räume; Notre appartement est au troisième étage.; Unsere Wohnung ist in der dritten Etage.
-fr-xf-0288; Raum (Zimmer); la pièce; la salle; A2; Alltag/Zuhause/Räume; La plus grande pièce de la maison est la cuisine.; Der größte Raum im Haus ist die Küche.
-fr-xf-0289; Stufe (Treppe); la marche; ; A2; Alltag/Zuhause/Räume; Attention, la première marche est très haute.; Pass auf, die erste Stufe ist sehr hoch.
+fr-xf-0288; Raum (einen Raum betreten); la pièce; la salle; A2; Alltag/Zuhause/Räume; La plus grande pièce de la maison est la cuisine.; Der größte Raum im Haus ist die Küche.
+fr-xf-0289; Stufe (die Stufen der Treppe); la marche; ; A2; Alltag/Zuhause/Räume; Attention, la première marche est très haute.; Pass auf, die erste Stufe ist sehr hoch.
 fr-xf-0290; Garage; le garage; ; A2; Alltag/Zuhause/Räume; Papa gare la voiture dans le garage tous les soirs.; Papa stellt das Auto jeden Abend in die Garage.
 fr-xf-0291; Schornstein; la cheminée; ; B1; Alltag/Zuhause/Räume; De la fumée sortait de la cheminée.; Aus dem Schornstein kam Rauch.
-fr-xf-0292; Hof (am Haus); la cour; ; B1; Alltag/Zuhause/Garten; Les enfants jouent au foot dans la cour.; Die Kinder spielen im Hof Fußball.
+fr-xf-0292; Hof (der Hof hinter dem Haus); la cour; ; B1; Alltag/Zuhause/Garten; Les enfants jouent au foot dans la cour.; Die Kinder spielen im Hof Fußball.
 fr-xf-0293; Grundstück; le terrain; ; B2; Alltag/Zuhause/Garten; Ils ont acheté un terrain et veulent construire une maison.; Sie haben ein Grundstück gekauft und wollen ein Haus bauen.
 fr-xf-0294; Essen; la nourriture; le repas; A1; Alltag/Essen/Mahlzeiten; La nourriture de ce restaurant est vraiment bonne.; Das Essen in diesem Restaurant ist richtig gut.
 fr-xf-0295; Lebensmittel; les aliments; la nourriture, les produits alimentaires; A2; Alltag/Essen/Lebensmittel; Le samedi, nous achetons nos aliments frais au marché.; Samstags kaufen wir unsere frischen Lebensmittel auf dem Markt.
@@ -312,14 +312,14 @@ fr-xf-0310; riechen; sentir; ; A2; Gesundheit/Körper; Toute la cuisine sent le 
 fr-xf-0311; nackt; nu; ; B1; Gesundheit/Körper; Le bébé était allongé tout nu sur la serviette.; Das Baby lag nackt auf dem Handtuch.
 fr-xf-0312; verletzt; blessé; ; A2; Gesundheit/Symptome; Deux personnes ont été blessées dans l'accident.; Bei dem Unfall wurden zwei Menschen verletzt.
 fr-xf-0313; Sonnenstich; l'insolation; ; B2; Gesundheit/Krankheiten; Mets un chapeau, sinon tu vas attraper une insolation.; Setz einen Hut auf, sonst bekommst du einen Sonnenstich.
-fr-xf-0314; Kurs (Unterricht); le cours; ; A2; Bildung/Lernen; Ce cours dure dix semaines et coûte cent euros.; Dieser Kurs dauert zehn Wochen und kostet hundert Euro.
+fr-xf-0314; Kurs (einen Kurs besuchen); le cours; ; A2; Bildung/Lernen; Ce cours dure dix semaines et coûte cent euros.; Dieser Kurs dauert zehn Wochen und kostet hundert Euro.
 fr-xf-0315; Wiederholung; la révision; la répétition; B1; Bildung/Lernen; Avant le contrôle, nous avons une heure de révision.; Vor dem Test haben wir eine Stunde zur Wiederholung.
 fr-xf-0316; Zeile; la ligne; ; A2; Bildung/Sprache/Lesen & Schreiben; Lis les trois premières lignes à voix haute, s'il te plaît.; Lies bitte die ersten drei Zeilen laut vor.
 fr-xf-0317; Gliederung; le plan; la structure; B2; Bildung/Sprache/Lesen & Schreiben; Fais un plan avant de commencer ta rédaction.; Mach eine Gliederung, bevor du deinen Aufsatz schreibst.
 fr-xf-0318; nachsprechen; répéter; ; B1; Bildung/Sprache/Wörter & Aussprache; Écoutez et répétez les mots après moi.; Hört zu und sprecht die Wörter nach.
 fr-xf-0319; Geografie; la géographie; ; A2; Bildung/Schule/Fächer; En géographie, nous étudions les fleuves et les montagnes.; In Geografie lernen wir etwas über Flüsse und Berge.
 fr-xf-0320; Zeichenblock; le bloc à dessin; le carnet de croquis; B1; Bildung/Schule/Schulsachen; Pour les arts plastiques, il te faut un bloc à dessin.; Für den Kunstunterricht brauchst du einen Zeichenblock.
-fr-xf-0321; Betrieb (Firma); l'entreprise; la société; B1; Arbeit/Beruf/Arbeitsplatz; Elle a fait son apprentissage dans une petite entreprise en ville.; Sie hat ihre Ausbildung in einem kleinen Betrieb in der Stadt gemacht.
+fr-xf-0321; Betrieb (in einem Betrieb arbeiten); l'entreprise; la société; B1; Arbeit/Beruf/Arbeitsplatz; Elle a fait son apprentissage dans une petite entreprise en ville.; Sie hat ihre Ausbildung in einem kleinen Betrieb in der Stadt gemacht.
 fr-xf-0322; Dienst; le service; la garde; B1; Arbeit/Beruf/Arbeitsalltag; Aujourd'hui, l'infirmière est de service jusqu'à minuit.; Die Krankenschwester hat heute bis Mitternacht Dienst.
 fr-xf-0323; beruflich; professionnel; ; B1; Arbeit/Beruf/Arbeitsalltag; Mon père voyage souvent pour des raisons professionnelles.; Mein Vater reist oft aus beruflichen Gründen.
 fr-xf-0324; Handwerk; l'artisanat; le métier; B2; Arbeit/Beruf/Berufe; Ce village est célèbre pour son artisanat.; Dieses Dorf ist für sein Handwerk bekannt.
@@ -360,14 +360,14 @@ fr-xf-0358; Trailer; la bande-annonce; ; B1; Kultur/Theater & Film; La bande-ann
 fr-xf-0359; Harfe; la harpe; ; B1; Kultur/Musik; Elle joue de la harpe depuis l'âge de six ans.; Sie spielt Harfe, seit sie sechs ist.
 fr-xf-0360; Klang; le son; ; B1; Kultur/Musik; J'adore le son du piano le soir.; Ich liebe den Klang des Klaviers am Abend.
 fr-xf-0361; Rahmen; le cadre; ; B1; Kultur/Kunst & Museum; Le tableau est accroché dans un lourd cadre doré.; Das Gemälde hängt in einem schweren goldenen Rahmen.
-fr-xf-0362; ausstellen (zeigen); exposer; ; B1; Kultur/Kunst & Museum; Le musée expose des tableaux de jeunes artistes.; Das Museum stellt Bilder von jungen Künstlern aus.
+fr-xf-0362; ausstellen (Bilder ausstellen); exposer; ; B1; Kultur/Kunst & Museum; Le musée expose des tableaux de jeunes artistes.; Das Museum stellt Bilder von jungen Künstlern aus.
 fr-xf-0363; reimen; rimer; ; B1; Kultur/Literatur; Dans ce poème, un vers sur deux rime.; In diesem Gedicht reimt sich jede zweite Zeile.
 fr-xf-0364; Zeitalter; l'ère; l'époque, l'âge; B2; Kultur/Geschichte; Aujourd'hui, nous vivons à l'ère d'Internet.; Heute leben wir im Zeitalter des Internets.
 fr-xf-0365; Zeitleiste; la frise chronologique; ; B2; Kultur/Geschichte; Dessine une frise chronologique des événements les plus importants.; Zeichne eine Zeitleiste der wichtigsten Ereignisse.
 fr-xf-0366; Kaiserin; l'impératrice; ; B2; Kultur/Geschichte; L'impératrice Joséphine a vécu au château de Malmaison.; Kaiserin Joséphine lebte im Schloss Malmaison.
 fr-xf-0367; Kreuzzug; la croisade; ; C1; Kultur/Geschichte; La première croisade a commencé à la fin du onzième siècle.; Der erste Kreuzzug begann am Ende des elften Jahrhunderts.
 fr-xf-0368; Glocke; la cloche; ; A2; Gesellschaft/Religion; Les cloches de l'église sonnent tous les dimanches matin.; Jeden Sonntagmorgen läuten die Glocken der Kirche.
-fr-xf-0369; Kapelle (Kirche); la chapelle; ; B2; Gesellschaft/Religion; Il y a une petite chapelle en haut de la colline.; Oben auf dem Hügel steht eine kleine Kapelle.
+fr-xf-0369; Kapelle (in der Kapelle beten); la chapelle; ; B2; Gesellschaft/Religion; Il y a une petite chapelle en haut de la colline.; Oben auf dem Hügel steht eine kleine Kapelle.
 fr-xf-0370; Paradies; le paradis; ; B1; Gesellschaft/Religion; Cette plage est un vrai paradis pour les surfeurs.; Dieser Strand ist ein echtes Paradies für Surfer.
 fr-xf-0371; Predigt; le sermon; l'homélie; B2; Gesellschaft/Religion; Le prêtre a fait un court sermon sur l'espoir.; Der Pfarrer hielt eine kurze Predigt über die Hoffnung.
 fr-xf-0372; Altar; l'autel; ; B2; Gesellschaft/Religion; Il y avait des fleurs fraîches sur l'autel.; Auf dem Altar standen frische Blumen.

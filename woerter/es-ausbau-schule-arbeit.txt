@@ -82,7 +82,7 @@ es-xb-0079; Bachelor; el grado; el título de grado; B1; Bildung/Universität; M
 es-xb-0080; Master; el máster; ; B1; Bildung/Universität; Después del grado quiero hacer un máster.; Nach dem Bachelor möchte ich einen Master machen.
 es-xb-0081; Hochschule; la universidad; la escuela superior; B1; Bildung/Universität; Estudia música en una universidad de Colonia.; Er studiert Musik an einer Hochschule in Köln.
 es-xb-0082; Fachhochschule; la universidad de ciencias aplicadas; ; C1; Bildung/Universität; Estudió Ingeniería en una universidad de ciencias aplicadas.; Sie hat Maschinenbau an einer Fachhochschule studiert.
-es-xb-0083; Sprechstunde (Hochschule); las horas de tutoría; la tutoría; B2; Bildung/Universität; Las horas de tutoría del profesor son el martes por la tarde.; Die Sprechstunde des Professors ist am Dienstagnachmittag.
+es-xb-0083; Sprechstunde (beim Professor); las horas de tutoría; la tutoría; B2; Bildung/Universität; Las horas de tutoría del profesor son el martes por la tarde.; Die Sprechstunde des Professors ist am Dienstagnachmittag.
 es-xb-0084; Tutor; el tutor; la tutora; B2; Bildung/Universität; Nuestro tutor nos ayuda a preparar los exámenes.; Unser Tutor hilft uns bei der Vorbereitung auf die Prüfungen.
 es-xb-0085; Literaturverzeichnis; la bibliografía; ; C1; Bildung/Universität; Añade todas tus fuentes a la bibliografía.; Nimm alle deine Quellen ins Literaturverzeichnis auf.
 es-xb-0086; Zitat; la cita; ; B1; Bildung/Universität; El ensayo empieza con una cita de Cervantes.; Der Aufsatz beginnt mit einem Zitat von Cervantes.
@@ -144,10 +144,10 @@ es-xb-0141; Vokal; la vocal; ; B1; Bildung/Sprache/Wörter & Aussprache; Las let
 es-xb-0142; Konsonant; la consonante; ; B1; Bildung/Sprache/Wörter & Aussprache; La palabra alemana Strumpf tiene muchas consonantes seguidas.; Das deutsche Wort Strumpf hat viele Konsonanten hintereinander.
 es-xb-0143; Akzent; el acento; ; B1; Bildung/Sprache/Wörter & Aussprache; Habla español con un fuerte acento alemán.; Er spricht Spanisch mit einem starken deutschen Akzent.
 es-xb-0144; Dialekt; el dialecto; ; B2; Bildung/Sprache/Wörter & Aussprache; Mis abuelos hablan un dialecto que casi no entiendo.; Meine Großeltern sprechen einen Dialekt, den ich kaum verstehe.
-es-xb-0145; Ausdruck (Formulierung); la expresión; ; B1; Bildung/Sprache/Wörter & Aussprache; Esta expresión es muy común en el español hablado.; Dieser Ausdruck ist im gesprochenen Spanisch sehr üblich.
+es-xb-0145; Ausdruck (ein höflicher Ausdruck); la expresión; ; B1; Bildung/Sprache/Wörter & Aussprache; Esta expresión es muy común en el español hablado.; Dieser Ausdruck ist im gesprochenen Spanisch sehr üblich.
 es-xb-0146; Redewendung; la expresión idiomática; el modismo, la frase hecha; B2; Bildung/Sprache/Wörter & Aussprache; Llover a cántaros es una expresión idiomática muy graciosa.; Llover a cántaros ist eine sehr lustige Redewendung.
 es-xb-0147; Synonym; el sinónimo; ; B2; Bildung/Sprache/Wörter & Aussprache; La palabra bonito es un sinónimo de precioso.; Das Wort bonito ist ein Synonym für precioso.
-es-xb-0148; Abkürzung (Wort); la abreviatura; la sigla; B1; Bildung/Sprache/Wörter & Aussprache; La abreviatura de señor se escribe Sr.; Die Abkürzung für señor schreibt man Sr.
+es-xb-0148; Abkürzung (ein abgekürztes Wort); la abreviatura; la sigla; B1; Bildung/Sprache/Wörter & Aussprache; La abreviatura de señor se escribe Sr.; Die Abkürzung für señor schreibt man Sr.
 es-xb-0149; Fremdwort; el extranjerismo; la palabra extranjera, el préstamo; B2; Bildung/Sprache/Wörter & Aussprache; El español tiene muchos extranjerismos que vienen del inglés.; Das Spanische hat viele Fremdwörter aus dem Englischen.
 es-xb-0150; Wortfamilie; la familia de palabras; la familia léxica; B2; Bildung/Sprache/Wörter & Aussprache; Pan, panadero y panadería pertenecen a la misma familia de palabras.; Pan, panadero und panadería gehören zu einer Wortfamilie.
 es-xb-0151; Definition; la definición; ; B1; Bildung/Sprache/Wörter & Aussprache; Lee la definición y adivina la palabra.; Lies die Definition und rate das Wort.
@@ -169,7 +169,7 @@ es-xb-0166; Stichwort; la palabra clave; ; B1; Bildung/Sprache/Lesen & Schreiben
 es-xb-0167; Stichpunkt; el punto clave; la viñeta; B2; Bildung/Sprache/Lesen & Schreiben; Toma notas en puntos clave para tu exposición.; Mach dir für dein Referat Notizen in Stichpunkten.
 es-xb-0168; Einleitung; la introducción; ; B1; Bildung/Sprache/Lesen & Schreiben; La introducción no debería ser demasiado larga.; Die Einleitung sollte nicht zu lang sein.
 es-xb-0169; Hauptteil; el desarrollo; el cuerpo; B1; Bildung/Sprache/Lesen & Schreiben; En el desarrollo de la redacción presentas tus argumentos.; Im Hauptteil des Aufsatzes stellst du deine Argumente dar.
-es-xb-0170; Schluss (Text); la conclusión; ; B1; Bildung/Sprache/Lesen & Schreiben; En la conclusión das tu propia opinión.; Im Schluss sagst du deine eigene Meinung.
+es-xb-0170; Schluss (Einleitung, Hauptteil, Schluss); la conclusión; ; B1; Bildung/Sprache/Lesen & Schreiben; En la conclusión das tu propia opinión.; Im Schluss sagst du deine eigene Meinung.
 es-xb-0171; Entwurf; el borrador; ; B2; Bildung/Sprache/Lesen & Schreiben; He escrito el primer borrador de mi redacción.; Ich habe den ersten Entwurf meines Aufsatzes geschrieben.
 es-xb-0172; Bildbeschreibung; la descripción de una imagen; la descripción de la imagen; B1; Bildung/Sprache/Lesen & Schreiben; En el examen oral tienes que hacer una descripción de una imagen.; In der mündlichen Prüfung musst du eine Bildbeschreibung machen.
 es-xb-0173; Leseverstehen; la comprensión lectora; ; B2; Bildung/Sprache/Lesen & Schreiben; El examen tiene una parte de comprensión lectora.; Der Test hat einen Teil zum Leseverstehen.
@@ -190,7 +190,7 @@ es-xb-0187; Gebärdensprache; la lengua de signos; ; B2; Bildung/Sprache/Sprache
 es-xb-0188; Handwerker; el operario; el obrero, el artesano; B1; Arbeit/Beruf/Berufe; Necesitamos un operario para reparar el tejado.; Wir brauchen einen Handwerker, der das Dach repariert.
 es-xb-0189; Klempner; el fontanero; la fontanera; B1; Arbeit/Beruf/Berufe; El fontanero viene a arreglar la tubería que gotea.; Der Klempner kommt, um das undichte Rohr zu reparieren.
 es-xb-0190; Tischler; el carpintero; la carpintera, el ebanista; B1; Arbeit/Beruf/Berufe; El carpintero hizo esta mesa de madera de roble.; Der Tischler hat diesen Tisch aus Eichenholz gemacht.
-es-xb-0191; Maler (Handwerker); el pintor; la pintora; B1; Arbeit/Beruf/Berufe; Los pintores van a pintar nuestro piso la semana que viene.; Die Maler streichen nächste Woche unsere Wohnung.
+es-xb-0191; Maler (der Maler streicht die Wände); el pintor; la pintora; B1; Arbeit/Beruf/Berufe; Los pintores van a pintar nuestro piso la semana que viene.; Die Maler streichen nächste Woche unsere Wohnung.
 es-xb-0192; Maurer; el albañil; ; B2; Arbeit/Beruf/Berufe; Los albañiles han terminado las paredes de la casa.; Die Maurer sind mit den Wänden des Hauses fertig.
 es-xb-0193; Automechaniker; el mecánico de coches; la mecánica de coches, el mecánico; A2; Arbeit/Beruf/Berufe; Mi primo se está formando como mecánico de coches.; Mein Cousin macht eine Ausbildung zum Automechaniker.
 es-xb-0194; Programmierer; el programador; la programadora; A2; Arbeit/Beruf/Berufe; El programador está escribiendo una aplicación nueva.; Der Programmierer schreibt eine neue App.
@@ -224,7 +224,7 @@ es-xb-0221; Arbeitstag; la jornada laboral; el día laborable, la jornada; A2; A
 es-xb-0222; Mittagspause; la pausa para comer; la pausa del mediodía, el descanso para comer; A1; Arbeit/Beruf/Arbeitsalltag; En la pausa para comer doy un paseo corto.; In meiner Mittagspause mache ich einen kurzen Spaziergang.
 es-xb-0223; Kaffeepause; la pausa para el café; el descanso para el café; A2; Arbeit/Beruf/Arbeitsalltag; Hagamos ahora una breve pausa para el café.; Lass uns jetzt eine kurze Kaffeepause machen.
 es-xb-0224; Kantine; el comedor; la cantina, el comedor de empresa; A2; Arbeit/Beruf/Arbeitsalltag; La comida de nuestro comedor es barata y buena.; Das Essen in unserer Kantine ist billig und gut.
-es-xb-0225; Empfang (Büro); la recepción; ; B1; Arbeit/Beruf/Arbeitsalltag; Espere en la recepción, por favor, alguien vendrá a buscarle.; Bitte warten Sie am Empfang, Sie werden abgeholt.
+es-xb-0225; Empfang (sich am Empfang melden); la recepción; ; B1; Arbeit/Beruf/Arbeitsalltag; Espere en la recepción, por favor, alguien vendrá a buscarle.; Bitte warten Sie am Empfang, Sie werden abgeholt.
 es-xb-0226; Nebenjob; el trabajo extra; el trabajillo, el segundo empleo; B1; Arbeit/Beruf/Arbeitsalltag; Muchos estudiantes tienen un trabajo extra en una cafetería.; Viele Studenten haben einen Nebenjob in einem Café.
 es-xb-0227; Ferienjob; el trabajo de verano; el trabajo de vacaciones; A2; Arbeit/Beruf/Arbeitsalltag; Gané algo de dinero con un trabajo de verano.; Ich habe mit einem Ferienjob etwas Geld verdient.
 es-xb-0228; Traumberuf; el trabajo soñado; la profesión soñada, el trabajo ideal; A2; Arbeit/Beruf/Karriere; Ser piloto siempre ha sido el trabajo de mis sueños.; Pilot ist schon immer mein Traumberuf gewesen.
@@ -252,7 +252,7 @@ es-xb-0249; Aktenschrank; el archivador; el armario archivador; B2; Arbeit/Beruf
 es-xb-0250; Aktentasche; el maletín; la cartera; B1; Arbeit/Beruf/Arbeitsplatz; Lleva el portátil en un maletín de piel.; Er trägt seinen Laptop in einer Aktentasche aus Leder.
 es-xb-0251; Tinte; la tinta; ; A2; Arbeit/Beruf/Arbeitsplatz; A mi pluma estilográfica se le ha acabado la tinta.; Mein Füller hat keine Tinte mehr.
 es-xb-0252; Druckerpatrone; el cartucho de tinta; el cartucho; B2; Arbeit/Beruf/Arbeitsplatz; Necesitamos un cartucho de tinta nuevo para la impresora.; Wir brauchen eine neue Druckerpatrone für den Drucker.
-es-xb-0253; Ausdruck (Papier); la copia impresa; la impresión; B2; Arbeit/Beruf/Arbeitsplatz; ¿Puedes traer una copia impresa del informe a la reunión?; Kannst du einen Ausdruck des Berichts zur Besprechung mitbringen?
+es-xb-0253; Ausdruck (ein Ausdruck vom Drucker); la copia impresa; la impresión; B2; Arbeit/Beruf/Arbeitsplatz; ¿Puedes traer una copia impresa del informe a la reunión?; Kannst du einen Ausdruck des Berichts zur Besprechung mitbringen?
 es-xb-0254; fotokopieren; fotocopiar; hacer fotocopias; B1; Arbeit/Beruf/Arbeitsplatz; Fotocopia esta página veinte veces para la clase, por favor.; Bitte fotokopier diese Seite zwanzigmal für die Klasse.
 es-xb-0255; Mikrofon; el micrófono; ; A2; Technik/Computer/Geräte; Habla un poco más cerca del micrófono, por favor.; Sprich bitte etwas näher ins Mikrofon.
 es-xb-0256; Webcam; la webcam; la cámara web; A2; Technik/Computer/Geräte; Mi webcam no funciona en las videollamadas.; Meine Webcam funktioniert bei Videoanrufen nicht.
@@ -276,11 +276,11 @@ es-xb-0273; Ladekabel; el cable de carga; el cable del cargador; A2; Technik/Com
 es-xb-0274; Adapter; el adaptador; ; B1; Technik/Computer/Hardware; Para los enchufes del Reino Unido necesitas un adaptador.; Für Steckdosen in Großbritannien brauchst du einen Adapter.
 es-xb-0275; einfügen; pegar; insertar; B1; Technik/Computer/Software; Copia el texto y pégalo en el correo electrónico.; Kopier den Text und füg ihn in die E-Mail ein.
 es-xb-0276; scannen; escanear; ; B1; Technik/Computer/Software; ¿Puedes escanear el contrato y enviármelo por correo?; Kannst du den Vertrag scannen und mir schicken?
-es-xb-0277; tippen (schreiben); teclear; ; A2; Technik/Computer/Software; Sabe teclear muy rápido sin mirar el teclado.; Sie kann sehr schnell tippen, ohne auf die Tastatur zu schauen.
+es-xb-0277; tippen (auf der Tastatur tippen); teclear; ; A2; Technik/Computer/Software; Sabe teclear muy rápido sin mirar el teclado.; Sie kann sehr schnell tippen, ohne auf die Tastatur zu schauen.
 es-xb-0278; doppelklicken; hacer doble clic; ; B1; Technik/Computer/Software; Haz doble clic en el icono para abrir el programa.; Doppelklicke auf das Symbol, um das Programm zu öffnen.
 es-xb-0279; scrollen; desplazarse; hacer scroll; A2; Technik/Computer/Software; Desplázate hacia abajo hasta el final de la página.; Scroll nach unten bis zum Ende der Seite.
 es-xb-0280; Einstellungen; la configuración; los ajustes; A2; Technik/Computer/Software; Puedes cambiar el idioma en la configuración.; Du kannst die Sprache in den Einstellungen ändern.
-es-xb-0281; Symbol (Bildschirm); el icono; ; B1; Technik/Computer/Software; Haz clic arriba en el icono de la impresora.; Klick oben auf das Symbol mit dem Drucker.
+es-xb-0281; Symbol (ein Symbol auf dem Bildschirm); el icono; ; B1; Technik/Computer/Software; Haz clic arriba en el icono de la impresora.; Klick oben auf das Symbol mit dem Drucker.
 es-xb-0282; Cursor; el cursor; ; B2; Technik/Computer/Software; Mueve el cursor al final de la línea.; Beweg den Cursor an das Ende der Zeile.
 es-xb-0283; Tabelle; la tabla; ; B1; Technik/Computer/Software; La tabla muestra los resultados de la encuesta.; Die Tabelle zeigt die Ergebnisse der Umfrage.
 es-xb-0284; Tabellenkalkulation; la hoja de cálculo; ; B2; Technik/Computer/Software; Apunto todos mis gastos en una hoja de cálculo.; Ich halte alle meine Ausgaben in einer Tabellenkalkulation fest.
@@ -288,12 +288,12 @@ es-xb-0285; Textverarbeitung; el procesador de textos; el tratamiento de textos;
 es-xb-0286; Schriftart; la fuente; el tipo de letra; B2; Technik/Computer/Software; Elige una fuente que se lea con facilidad.; Wähl eine Schriftart, die gut lesbar ist.
 es-xb-0287; Tastenkombination; el atajo de teclado; la combinación de teclas; B2; Technik/Computer/Software; Este atajo de teclado guarda el documento.; Diese Tastenkombination speichert das Dokument.
 es-xb-0288; Pixel; el píxel; ; B2; Technik/Computer/Software; La foto tiene muy pocos píxeles para un póster.; Das Foto hat zu wenige Pixel für ein Poster.
-es-xb-0289; Auflösung (Bildschirm); la resolución; ; B2; Technik/Computer/Software; El nuevo monitor tiene una resolución muy alta.; Der neue Monitor hat eine sehr hohe Auflösung.
+es-xb-0289; Auflösung (die Auflösung des Bildschirms); la resolución; ; B2; Technik/Computer/Software; El nuevo monitor tiene una resolución muy alta.; Der neue Monitor hat eine sehr hohe Auflösung.
 es-xb-0290; Bildschirmschoner; el salvapantallas; ; B2; Technik/Computer/Software; El salvapantallas se activa a los cinco minutos.; Der Bildschirmschoner geht nach fünf Minuten an.
 es-xb-0291; Rechtschreibprüfung; el corrector ortográfico; el corrector; B2; Technik/Computer/Software; El corrector ortográfico no encontró este error.; Die Rechtschreibprüfung hat diesen Fehler nicht gefunden.
 es-xb-0292; Autokorrektur; el autocorrector; la autocorrección; B1; Technik/Computer/Software; El autocorrector convirtió mi mensaje en algo rarísimo.; Die Autokorrektur hat meine Nachricht in etwas sehr Seltsames verwandelt.
 es-xb-0293; Zwischenablage; el portapapeles; ; C1; Technik/Computer/Software; El texto copiado está ahora en el portapapeles.; Der kopierte Text ist jetzt in der Zwischenablage.
-es-xb-0294; Papierkorb (Computer); la papelera de reciclaje; la papelera; B1; Technik/Computer/Software; El archivo borrado todavía está en la papelera de reciclaje.; Die gelöschte Datei ist noch im Papierkorb.
+es-xb-0294; Papierkorb (auf dem Computer); la papelera de reciclaje; la papelera; B1; Technik/Computer/Software; El archivo borrado todavía está en la papelera de reciclaje.; Die gelöschte Datei ist noch im Papierkorb.
 es-xb-0295; Desktop; el escritorio; ; B1; Technik/Computer/Software; Guardé el archivo en el escritorio del ordenador.; Ich habe die Datei auf dem Desktop des Computers gespeichert.
 es-xb-0296; Registerkarte; la pestaña; ; C1; Technik/Computer/Software; Abre el enlace en una pestaña nueva.; Öffne den Link in einer neuen Registerkarte.
 es-xb-0297; Version; la versión; ; B1; Technik/Computer/Software; Instala la última versión de la aplicación, por favor.; Bitte installier die neueste Version der App.
@@ -333,7 +333,7 @@ es-xb-0330; Handyvertrag; el contrato de móvil; el contrato de telefonía móvi
 es-xb-0331; Bildschirmzeit; el tiempo de pantalla; el tiempo frente a la pantalla; B1; Technik/Computer/Smartphone; Los niños no deberían tener demasiado tiempo de pantalla.; Kinder sollten nicht zu viel Bildschirmzeit haben.
 es-xb-0332; Stecker; el enchufe; la clavija; B1; Technik/Elektrik; Saca el enchufe antes de limpiar el aparato.; Zieh den Stecker, bevor du das Gerät sauber machst.
 es-xb-0333; Verlängerungskabel; el alargador; el cable alargador, la alargadera; B2; Technik/Elektrik; El cable es demasiado corto, necesitamos un alargador.; Das Kabel ist zu kurz, wir brauchen ein Verlängerungskabel.
-es-xb-0334; Schalter (für Strom); el interruptor; ; A2; Technik/Elektrik; El interruptor de la luz está al lado de la puerta.; Der Schalter für das Licht ist neben der Tür.
+es-xb-0334; Schalter (den Schalter drücken); el interruptor; ; A2; Technik/Elektrik; El interruptor de la luz está al lado de la puerta.; Der Schalter für das Licht ist neben der Tür.
 es-xb-0335; einschalten; encender; ; A2; Technik/Elektrik; ¿Puedes encender la luz, por favor?; Kannst du bitte das Licht einschalten?
 es-xb-0336; ausschalten; apagar; ; A2; Technik/Elektrik; No te olvides de apagar el ordenador.; Vergiss nicht, deinen Computer auszuschalten.
 es-xb-0337; Kurzschluss; el cortocircuito; ; C1; Technik/Elektrik; Un cortocircuito provocó el incendio en la cocina.; Ein Kurzschluss hat das Feuer in der Küche verursacht.
@@ -401,7 +401,7 @@ es-xb-0398; Wochenzeitung; el semanario; el periódico semanal; B1; Medien/Kommu
 es-xb-0399; Titelseite; la portada; la primera página, la primera plana; B2; Medien/Kommunikation/Nachrichten & Presse; La noticia salió en la portada de todos los periódicos.; Die Geschichte stand auf der Titelseite jeder Zeitung.
 es-xb-0400; Leserbrief; la carta al director; la carta del lector; B2; Medien/Kommunikation/Nachrichten & Presse; Mi abuelo escribe a menudo cartas al director.; Mein Großvater schreibt oft Leserbriefe.
 es-xb-0401; Kolumne; la columna; ; B2; Medien/Kommunikation/Nachrichten & Presse; Escribe una columna semanal sobre gastronomía.; Sie schreibt eine wöchentliche Kolumne über Essen.
-es-xb-0402; Ausgabe (Zeitung); el número; la edición; B2; Medien/Kommunikation/Nachrichten & Presse; El nuevo número de la revista sale el lunes.; Die neue Ausgabe der Zeitschrift erscheint am Montag.
+es-xb-0402; Ausgabe (die neue Ausgabe der Zeitschrift); el número; la edición; B2; Medien/Kommunikation/Nachrichten & Presse; El nuevo número de la revista sale el lunes.; Die neue Ausgabe der Zeitschrift erscheint am Montag.
 es-xb-0403; Nachrichtenagentur; la agencia de noticias; la agencia de prensa; C1; Medien/Kommunikation/Nachrichten & Presse; La noticia viene de una agencia de noticias internacional.; Die Meldung stammt von einer internationalen Nachrichtenagentur.
 es-xb-0404; Bildunterschrift; el pie de foto; ; C1; Medien/Kommunikation/Nachrichten & Presse; El pie de foto da el nombre del pueblo.; Die Bildunterschrift nennt den Namen des Dorfes.
 es-xb-0405; Kritiker; el crítico; la crítica; B2; Medien/Kommunikation/Nachrichten & Presse; A los críticos les encantó la nueva serie.; Die Kritiker waren von der neuen Serie begeistert.
@@ -422,7 +422,7 @@ es-xb-0419; Rundfunk; la radiodifusión; la radio y la televisión; C1; Medien/K
 es-xb-0420; ausstrahlen; emitir; transmitir, retransmitir; B2; Medien/Kommunikation/Fernsehen & Radio; El último episodio se emitirá el próximo domingo.; Die letzte Folge wird nächsten Sonntag ausgestrahlt.
 es-xb-0421; Aufnahme (Ton oder Video); la grabación; ; B1; Medien/Kommunikation/Fernsehen & Radio; La calidad de esta grabación antigua no es muy buena.; Die Qualität dieser alten Aufnahme ist nicht sehr gut.
 es-xb-0422; aufnehmen (Ton oder Video); grabar; ; B1; Medien/Kommunikation/Fernsehen & Radio; El grupo grabó su nuevo disco en Londres.; Die Band hat ihr neues Album in London aufgenommen.
-es-xb-0423; Staffel (Serie); la temporada; ; B1; Medien/Kommunikation/Fernsehen & Radio; La tercera temporada de la serie empieza en mayo.; Die dritte Staffel der Serie beginnt im Mai.
+es-xb-0423; Staffel (die zweite Staffel); la temporada; ; B1; Medien/Kommunikation/Fernsehen & Radio; La tercera temporada de la serie empieza en mayo.; Die dritte Staffel der Serie beginnt im Mai.
 es-xb-0424; synchronisiert; doblado; ; B2; Medien/Kommunikation/Fernsehen & Radio; En España la mayoría de las películas extranjeras están dobladas.; In Spanien sind die meisten ausländischen Filme synchronisiert.
 es-xb-0425; Kommentator; el comentarista; la comentarista; B2; Medien/Kommunikation/Fernsehen & Radio; El comentarista se emocionó muchísimo con el gol.; Der Kommentator geriet bei dem Tor ganz aus dem Häuschen.
 es-xb-0426; Antenne; la antena; ; B2; Medien/Kommunikation/Fernsehen & Radio; La tormenta dañó la antena de nuestro tejado.; Der Sturm hat die Antenne auf unserem Dach beschädigt.
@@ -433,8 +433,8 @@ es-xb-0430; Emoji; el emoji; el emoticono; A2; Medien/Kommunikation/Social Media
 es-xb-0431; viral; viral; ; B2; Medien/Kommunikation/Social Media; Su vídeo gracioso se hizo viral en pocas horas.; Sein lustiges Video ging innerhalb weniger Stunden viral.
 es-xb-0432; Telefonnummer; el número de teléfono; ; A1; Medien/Kommunikation/Telefon & Post; ¿Me das tu número de teléfono, por favor?; Kann ich bitte deine Telefonnummer haben?
 es-xb-0433; Vorwahl; el prefijo; el prefijo telefónico; B2; Medien/Kommunikation/Telefon & Post; ¿Cuál es el prefijo telefónico de Madrid?; Wie lautet die Vorwahl für Madrid?
-es-xb-0434; besetzt (Telefon); comunicando; ocupado; A2; Medien/Kommunikation/Telefon & Post; Llamé tres veces, pero siempre estaba comunicando.; Ich habe dreimal angerufen, aber es war immer besetzt.
-es-xb-0435; Hörer (Telefon); el auricular; ; B2; Medien/Kommunikation/Telefon & Post; Descolgó el auricular y marcó el número.; Sie nahm den Hörer ab und wählte die Nummer.
+es-xb-0434; besetzt (die Leitung ist besetzt); comunicando; ocupado; A2; Medien/Kommunikation/Telefon & Post; Llamé tres veces, pero siempre estaba comunicando.; Ich habe dreimal angerufen, aber es war immer besetzt.
+es-xb-0435; Hörer (den Hörer abnehmen); el auricular; ; B2; Medien/Kommunikation/Telefon & Post; Descolgó el auricular y marcó el número.; Sie nahm den Hörer ab und wählte die Nummer.
 es-xb-0436; Postleitzahl; el código postal; ; A1; Medien/Kommunikation/Telefon & Post; No olvides poner el código postal en el sobre.; Vergiss die Postleitzahl auf dem Umschlag nicht.
 es-xb-0437; Briefumschlag; el sobre; ; A2; Medien/Kommunikation/Telefon & Post; Mete la carta en un sobre y pégale un sello.; Steck den Brief in einen Briefumschlag und kleb eine Marke drauf.
 es-xb-0438; Briefkasten; el buzón; ; A2; Medien/Kommunikation/Telefon & Post; Había una postal de Italia en el buzón.; Im Briefkasten war eine Postkarte aus Italien.

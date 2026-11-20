@@ -30,7 +30,7 @@ gc-0028; Hoffnung; hope; ; A2; Mensch/Gefühle/Emotionen; There is still hope fo
 gc-0029; Sorge; worry; concern; A2; Mensch/Gefühle/Emotionen; Her biggest worry is losing her job.; Ihre größte Sorge ist, die Arbeit zu verlieren.
 gc-0030; sich freuen; to be pleased; ; A2; Mensch/Gefühle/Emotionen; I am pleased about every little success.; Ich freue mich über jeden kleinen Erfolg.
 gc-0031; nervös; nervous; jittery; A2; Mensch/Gefühle/Stimmungen; He is always nervous before an exam.; Vor einer Prüfung ist er immer nervös.
-gc-0032; sauer (verärgert); mad; annoyed, angry, cross; A2; Mensch/Gefühle/Emotionen; She is mad because he forgot her birthday.; Sie ist sauer, weil er ihren Geburtstag vergessen hat.
+gc-0032; sauer (auf jemanden sauer sein); mad; annoyed, angry, cross; A2; Mensch/Gefühle/Emotionen; She is mad because he forgot her birthday.; Sie ist sauer, weil er ihren Geburtstag vergessen hat.
 gc-0033; zufrieden; satisfied; content; A2; Mensch/Gefühle/Stimmungen; I am satisfied with the result of the test.; Ich bin mit dem Ergebnis des Tests zufrieden.
 gc-0034; überrascht; surprised; ; A2; Mensch/Gefühle/Emotionen; We were surprised by the sudden invitation.; Wir waren von der plötzlichen Einladung überrascht.
 gc-0035; Überraschung; surprise; ; A2; Mensch/Gefühle/Emotionen; The party was a complete surprise for her.; Die Party war eine völlige Überraschung für sie.
@@ -50,7 +50,7 @@ gc-0048; ehrlich; honest; truthful; A2; Mensch/Gefühle/Charakter; Be honest wit
 gc-0049; lügen; to lie; ; A2; Mensch/Gefühle/Verhalten; You should never lie to your friends.; Du solltest deine Freunde niemals anlügen.
 gc-0050; klug; smart; clever, intelligent; A2; Mensch/Gefühle/Charakter; She is smart and learns languages quickly.; Sie ist klug und lernt Sprachen schnell.
 gc-0051; dumm; stupid; dumb; A2; Mensch/Gefühle/Charakter; It was stupid to leave without a jacket.; Es war dumm, ohne Jacke loszugehen.
-gc-0052; faul (träge); lazy; idle; A2; Mensch/Gefühle/Charakter; On Sundays we are all a bit lazy.; Sonntags sind wir alle ein bisschen faul.
+gc-0052; faul (zu faul zum Lernen); lazy; idle; A2; Mensch/Gefühle/Charakter; On Sundays we are all a bit lazy.; Sonntags sind wir alle ein bisschen faul.
 gc-0053; fleißig; hard-working; diligent, hardworking; A2; Mensch/Gefühle/Charakter; The hard-working student finished the project early.; Der fleißige Student beendete das Projekt früh.
 gc-0054; geduldig; patient; ; A2; Mensch/Gefühle/Charakter; A good teacher is patient with beginners.; Ein guter Lehrer ist geduldig mit Anfängern.
 gc-0055; ungeduldig; impatient; ; A2; Mensch/Gefühle/Charakter; He gets impatient when he has to wait.; Er wird ungeduldig, wenn er warten muss.

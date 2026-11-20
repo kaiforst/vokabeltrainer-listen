@@ -3,7 +3,7 @@ id; Deutsch; Norwegisch; Weitere Antworten; Niveau; Themen; Beispiel Norwegisch;
 no-xf-0001; anfangen; å begynne; å starte; A1; Allgemein/Verben; Filmen begynner om ti minutter, så vi må skynde oss.; Der Film fängt in zehn Minuten an, also beeilen wir uns.
 no-xf-0002; aussehen; å se ut; ; A1; Allgemein/Verben; Du ser virkelig sliten ut i dag, går det bra?; Du siehst heute richtig müde aus, geht es dir gut?
 no-xf-0003; anschauen; å se på; ; A1; Allgemein/Verben; Kan jeg se på feriebildene dine senere?; Kann ich mir später deine Urlaubsfotos anschauen?
-no-xf-0004; liegen (Lebewesen); å ligge; ; A1; Allgemein/Verben; Katten ligger i sofaen i sola.; Die Katze liegt auf dem Sofa in der Sonne.
+no-xf-0004; liegen (im Bett liegen); å ligge; ; A1; Allgemein/Verben; Katten ligger i sofaen i sola.; Die Katze liegt auf dem Sofa in der Sonne.
 no-xf-0005; leben; å leve; ; A1; Allgemein/Verben; Besteforeldrene mine lever fortsatt, og de er veldig friske.; Meine Großeltern leben noch, und sie sind sehr gesund.
 no-xf-0006; dürfen; å ha lov til; å få lov til; A1; Allgemein/Verben; Barn har ikke lov til å leke på byggeplassen.; Kinder dürfen nicht auf der Baustelle spielen.
 no-xf-0007; aufmachen; å åpne; ; A1; Allgemein/Verben; Kan du åpne vinduet, takk? Det er veldig varmt.; Könntest du bitte das Fenster aufmachen? Es ist sehr warm.
@@ -15,7 +15,7 @@ no-xf-0012; verlassen; å forlate; ; A2; Allgemein/Verben; Vi forlater huset hve
 no-xf-0013; versuchen; å prøve; ; A2; Allgemein/Verben; Jeg skal prøve å ringe deg igjen i kveld.; Ich werde versuchen, dich heute Abend noch mal anzurufen.
 no-xf-0014; verbringen; å tilbringe; ; A2; Allgemein/Verben; Vi tilbrakte hele helgen ved sjøen.; Wir haben das ganze Wochenende am See verbracht.
 no-xf-0015; setzen; å sette; ; B1; Allgemein/Verben; Hun satte babyen forsiktig i barnevognen.; Sie setzte das Baby vorsichtig in den Kinderwagen.
-no-xf-0016; stellen (hinstellen); å stille; å sette; A2; Allgemein/Verben; Kan du stille vasen på kjøkkenbordet, takk?; Stell die Vase bitte auf den Küchentisch.
+no-xf-0016; stellen (auf den Tisch stellen); å stille; å sette; A2; Allgemein/Verben; Kan du stille vasen på kjøkkenbordet, takk?; Stell die Vase bitte auf den Küchentisch.
 no-xf-0017; schlagen; å slå; ; A2; Allgemein/Verben; Du skal aldri slå et dyr, heller ikke i sinne.; Man darf ein Tier nie schlagen, auch nicht aus Wut.
 no-xf-0018; besiegen; å beseire; ; B1; Allgemein/Verben; Laget vårt beseiret mesteren i finalen.; Unsere Mannschaft hat im Finale den Meister besiegt.
 no-xf-0019; kontrollieren; å kontrollere; å sjekke; B1; Allgemein/Verben; Billettkontrolløren kontrollerte billettene våre på toget.; Der Schaffner hat im Zug unsere Fahrkarten kontrolliert.
@@ -39,7 +39,7 @@ no-xf-0036; fortfahren; å fortsette; ; B1; Allgemein/Verben; Etter en kort paus
 no-xf-0037; umkehren; å snu; ; B1; Allgemein/Verben; Veien var stengt, så vi måtte snu.; Die Straße war gesperrt, also mussten wir umkehren.
 no-xf-0038; vorbeigehen; å gå forbi; ; A2; Allgemein/Verben; Jeg går forbi bakeriet hver morgen.; Ich gehe jeden Morgen an der Bäckerei vorbei.
 no-xf-0039; eintreten; å gå inn; å komme inn; B1; Allgemein/Verben; Bank på før du går inn i rommet.; Bitte klopf an, bevor du in das Zimmer eintrittst.
-no-xf-0040; wenden (Auto); å snu; å vende; B1; Allgemein/Verben; Han snudde bilen i den trange gaten.; Er hat das Auto in der engen Straße gewendet.
+no-xf-0040; wenden (mit dem Auto wenden); å snu; å vende; B1; Allgemein/Verben; Han snudde bilen i den trange gaten.; Er hat das Auto in der engen Straße gewendet.
 no-xf-0041; bilden; å danne; ; B1; Allgemein/Verben; Barna dannet en sirkel rundt læreren.; Die Kinder bildeten einen Kreis um die Lehrerin.
 no-xf-0042; formen; å forme; ; B1; Allgemein/Verben; Form deigen til små kuler med hendene.; Form den Teig mit den Händen zu kleinen Kugeln.
 no-xf-0043; herstellen; å framstille; å produsere; B1; Allgemein/Verben; Denne fabrikken framstiller deler til biler og busser.; Diese Fabrik stellt Teile für Autos und Busse her.
@@ -49,7 +49,7 @@ no-xf-0046; gestalten; å utforme; å skape; B2; Allgemein/Verben; Elevene har u
 no-xf-0047; festlegen; å fastsette; å bestemme; B2; Allgemein/Verben; Vi må fortsatt fastsette en dato for møtet.; Wir müssen noch einen Termin für das Treffen festlegen.
 no-xf-0048; anwenden; å anvende; å bruke; B1; Allgemein/Verben; Prøv nå å anvende regelen på disse setningene.; Versuch jetzt, die Regel auf diese Sätze anzuwenden.
 no-xf-0049; leiten; å lede; å styre; B1; Allgemein/Verben; Fru Becker har ledet skolen i mange år.; Frau Becker leitet die Schule seit vielen Jahren.
-no-xf-0050; betreiben (führen); å drive; ; B2; Allgemein/Verben; Familien hans driver et lite hotell ved sjøen.; Seine Familie betreibt ein kleines Hotel am See.
+no-xf-0050; betreiben (ein Hotel betreiben); å drive; ; B2; Allgemein/Verben; Familien hans driver et lite hotell ved sjøen.; Seine Familie betreibt ein kleines Hotel am See.
 no-xf-0051; beherrschen; å beherske; ; B2; Allgemein/Verben; Det tar år å beherske et fremmedspråk.; Es dauert Jahre, eine Fremdsprache zu beherrschen.
 no-xf-0052; enthüllen; å avsløre; å røpe; B2; Allgemein/Verben; Tryllekunstneren avslører aldri hvordan triksene fungerer.; Der Zauberer enthüllt nie, wie seine Tricks funktionieren.
 no-xf-0053; ansteigen; å stige; å øke; B1; Allgemein/Verben; Etter det kraftige regnet har vannstanden steget.; Nach dem starken Regen ist der Wasserstand angestiegen.
@@ -58,7 +58,7 @@ no-xf-0055; übrig bleiben; å bli igjen; å være igjen; B1; Allgemein/Verben; 
 no-xf-0056; aushelfen; å hjelpe til; ; B1; Allgemein/Verben; Fetteren min hjelper til i butikken til onkelen sin av og til.; Mein Cousin hilft manchmal im Laden seines Onkels aus.
 no-xf-0057; einspringen; å hoppe inn; å ta over; B2; Allgemein/Verben; Da sangeren var syk, hoppet søsteren hennes inn.; Als die Sängerin krank war, ist ihre Schwester eingesprungen.
 no-xf-0058; vorführen; å demonstrere; å vise fram; B2; Allgemein/Verben; Selgeren demonstrerte hvordan den nye støvsugeren fungerer.; Der Verkäufer führte vor, wie der neue Staubsauger funktioniert.
-no-xf-0059; leisten (vollbringen); å utrette; å prestere; B2; Allgemein/Verben; Laget har utrettet mye denne sesongen.; Die Mannschaft hat in dieser Saison viel geleistet.
+no-xf-0059; leisten (Großes leisten); å utrette; å prestere; B2; Allgemein/Verben; Laget har utrettet mye denne sesongen.; Die Mannschaft hat in dieser Saison viel geleistet.
 no-xf-0060; gebrauchen; å ha bruk for; ; B1; Allgemein/Verben; Kan du ha bruk for disse gamle kassene når du skal flytte?; Kannst du diese alten Kisten noch für deinen Umzug gebrauchen?
 no-xf-0061; abwarten; å vente og se; å avvente; B1; Allgemein/Verben; La oss vente og se hva legen sier.; Lass uns abwarten, was der Arzt sagt.
 no-xf-0062; anhaben; å ha på seg; ; A2; Allgemein/Verben; Hun hadde på seg en rød kjole på festen.; Sie hatte auf der Party ein rotes Kleid an.
@@ -67,10 +67,10 @@ no-xf-0064; neigen; å ha tendens til; å være tilbøyelig til; B2; Allgemein/V
 no-xf-0065; spüren; å kjenne; ; B1; Allgemein/Verben; Jeg kunne kjenne den kalde vinden i ansiktet.; Ich konnte den kalten Wind im Gesicht spüren.
 no-xf-0066; sich anfühlen; å føles; å kjennes; B1; Allgemein/Verben; Dette teppet føles virkelig mykt og varmt.; Diese Decke fühlt sich richtig weich und warm an.
 no-xf-0067; sich auswirken; å påvirke; å virke inn på; B2; Allgemein/Verben; Søvnmangel påvirker konsentrasjonen din på skolen.; Schlafmangel wirkt sich auf deine Konzentration in der Schule aus.
-no-xf-0403; wählen (aussuchen); å velge; ; A2; Allgemein/Verben; Du kan velge mellom tre forskjellige desserter.; Du kannst zwischen drei verschiedenen Nachspeisen wählen.
+no-xf-0403; wählen (zwischen zwei Dingen wählen); å velge; ; A2; Allgemein/Verben; Du kan velge mellom tre forskjellige desserter.; Du kannst zwischen drei verschiedenen Nachspeisen wählen.
 no-xf-0068; sich fragen; å lure på; å undre seg; B1; Allgemein/Denken & Sprechen; Jeg lurer på hvorfor hun ikke ringte meg tilbake.; Ich frage mich, warum sie mich nicht zurückgerufen hat.
 no-xf-0069; meinen (der Meinung sein); å synes; å tro; A2; Allgemein/Denken & Sprechen; Hva synes du, skal vi ta bussen?; Was meinst du, sollen wir den Bus nehmen?
-no-xf-0070; meinen (sagen wollen); å mene; ; A2; Allgemein/Denken & Sprechen; Unnskyld, jeg skjønner ikke hva du mener.; Entschuldigung, ich verstehe nicht, was du meinst.
+no-xf-0070; meinen (was meinst du damit?); å mene; ; A2; Allgemein/Denken & Sprechen; Unnskyld, jeg skjønner ikke hva du mener.; Entschuldigung, ich verstehe nicht, was du meinst.
 no-xf-0071; merken; å legge merke til; å merke; B1; Allgemein/Denken & Sprechen; Har du lagt merke til at han har ny frisyre?; Hast du gemerkt, dass er eine neue Frisur hat?
 no-xf-0072; Aussage; en uttalelse; ; B1; Allgemein/Denken & Sprechen; Vitnet kom med en uttalelse til politiet.; Der Zeuge hat bei der Polizei eine Aussage gemacht.
 no-xf-0073; Begriff; et begrep; ; B2; Allgemein/Denken & Sprechen; Kan du forklare meg dette begrepet med enkle ord?; Kannst du mir diesen Begriff mit einfachen Worten erklären?
@@ -81,7 +81,7 @@ no-xf-0077; Begründung; en begrunnelse; ; B2; Allgemein/Denken & Sprechen; Svar
 no-xf-0078; Mitteilung; en melding; en beskjed; B1; Allgemein/Denken & Sprechen; Vi fikk en kort melding fra skolen i dag.; Wir haben heute eine kurze Mitteilung von der Schule bekommen.
 no-xf-0079; Versprechen; et løfte; ; A2; Allgemein/Denken & Sprechen; Du ga meg et løfte, så hold det.; Du hast mir ein Versprechen gegeben, also halte es bitte.
 no-xf-0080; Gewissheit; en visshet; ; B2; Allgemein/Denken & Sprechen; Nå har vi visshet om at planen fungerer.; Jetzt wissen wir mit Gewissheit, dass der Plan funktioniert.
-no-xf-0081; Vorstellung (Idee); en forestilling; ; B2; Allgemein/Denken & Sprechen; Jeg har ingen forestilling om hvordan den nye leiligheten ser ut.; Ich habe keine Vorstellung, wie die neue Wohnung aussieht.
+no-xf-0081; Vorstellung (keine Vorstellung haben); en forestilling; ; B2; Allgemein/Denken & Sprechen; Jeg har ingen forestilling om hvordan den nye leiligheten ser ut.; Ich habe keine Vorstellung, wie die neue Wohnung aussieht.
 no-xf-0082; Zustimmung; en godkjenning; et samtykke; B2; Allgemein/Denken & Sprechen; Planen krever godkjenning fra alle foreldrene.; Der Plan braucht die Zustimmung aller Eltern.
 no-xf-0083; Lob; en ros; ; B1; Allgemein/Denken & Sprechen; Litt ros kan motivere barn veldig mye.; Ein bisschen Lob kann Kinder sehr motivieren.
 no-xf-0084; Absprache; en avtale; ; B2; Allgemein/Denken & Sprechen; Etter avtale kan vi også levere på lørdager.; Nach Absprache können wir auch samstags liefern.
@@ -96,7 +96,7 @@ no-xf-0092; bereit; klar; rede; A2; Allgemein/Adjektive; Er du klar? Vi må dra 
 no-xf-0093; kräftig; kraftig; sterk; B1; Allgemein/Adjektive; Etter arbeidet på gården har han kraftige armer.; Von der Arbeit auf dem Hof hat er kräftige Arme.
 no-xf-0094; großartig; flott; storartet; B1; Allgemein/Adjektive; Det var en flott idé, takk skal du ha!; Das war eine großartige Idee, danke!
 no-xf-0095; fantastisch; fantastisk; ; A2; Allgemein/Adjektive; Utsikten fra toppen er helt fantastisk.; Die Aussicht von oben ist fantastisch.
-no-xf-0096; grob (ungefähr); grov; ; B2; Allgemein/Adjektive; Dette er bare en grov plan for reisen.; Das ist nur ein grober Plan für die Reise.
+no-xf-0096; grob (grob geschätzt); grov; ; B2; Allgemein/Adjektive; Dette er bare en grov plan for reisen.; Das ist nur ein grober Plan für die Reise.
 no-xf-0097; rau; ru; ; B1; Allgemein/Adjektive; Hendene mine er helt rue av det kalde været.; Meine Hände sind vom kalten Wetter ganz rau.
 no-xf-0098; uneben; ujevn; ; B2; Allgemein/Adjektive; Se opp, veien er veldig ujevn her.; Pass auf, der Weg ist hier sehr uneben.
 no-xf-0099; zäh; seig; ; B2; Allgemein/Adjektive; Kjøttet var så seigt at jeg ikke kunne spise det.; Das Fleisch war so zäh, dass ich es nicht essen konnte.
@@ -110,7 +110,7 @@ no-xf-0106; legal; lovlig; legal; B1; Allgemein/Adjektive; Er det lovlig å sykl
 no-xf-0107; öffentlich; offentlig; ; B1; Allgemein/Adjektive; I offentlige bygninger er det forbudt å røyke.; In öffentlichen Gebäuden ist Rauchen nicht erlaubt.
 no-xf-0108; örtlich; lokal; ; B2; Allgemein/Adjektive; Møtet begynner klokka åtte lokal tid.; Das Treffen beginnt um acht Uhr örtlicher Zeit.
 no-xf-0109; schrill; skingrende; gjennomtrengende; B2; Allgemein/Adjektive; Vi ble vekket av en skingrende lyd om natten.; Wir wurden in der Nacht von einem schrillen Geräusch geweckt.
-no-xf-0110; ganz (komplett); hel; ; A2; Allgemein/Adjektive; Hun spiste hele kaken helt alene.; Sie hat den ganzen Kuchen allein gegessen.
+no-xf-0110; ganz (die ganze Pizza); hel; ; A2; Allgemein/Adjektive; Hun spiste hele kaken helt alene.; Sie hat den ganzen Kuchen allein gegessen.
 no-xf-0111; eingeschaltet; slått på; ; B1; Allgemein/Adjektive; Er ovnen på kjøkkenet fortsatt slått på?; Ist der Ofen in der Küche noch eingeschaltet?
 no-xf-0112; liebevoll; kjærlig; omsorgsfull; B1; Mensch/Charakter; Hun er en veldig kjærlig mor for de tre barna sine.; Sie ist eine sehr liebevolle Mutter für ihre drei Kinder.
 no-xf-0113; herzlich; hjertelig; varm; B1; Mensch/Charakter; Vertskapet vårt tok veldig hjertelig imot oss.; Unsere Gastgeber haben uns sehr herzlich empfangen.
@@ -128,13 +128,13 @@ no-xf-0124; prahlen; å prale; å skryte; B2; Mensch/Charakter; Hun praler gjern
 no-xf-0125; Stolz; en stolthet; ; B1; Mensch/Gefühle; Øynene hans var fulle av stolthet da sønnen vant.; Seine Augen waren voller Stolz, als sein Sohn gewann.
 no-xf-0126; sich sorgen; å bekymre seg; å uroe seg; B1; Mensch/Gefühle; Foreldrene mine bekymrer seg når jeg kommer sent hjem.; Meine Eltern sorgen sich, wenn ich spät nach Hause komme.
 no-xf-0127; von; fra; av; A1; Allgemein/Kleine Wörter; Jeg har fått et langt brev fra tanta mi.; Ich habe einen langen Brief von meiner Tante bekommen.
-no-xf-0128; aus (Herkunft); fra; ; A1; Allgemein/Kleine Wörter; Den beste venninnen min kommer fra Italia.; Meine beste Freundin kommt aus Italien.
-no-xf-0129; aus (heraus); ut av; ; A1; Allgemein/Kleine Wörter; Han tok nøklene ut av lommen sin.; Er nahm die Schlüssel aus seiner Tasche.
-no-xf-0130; aus (ausgeschaltet); av; ; A2; Allgemein/Kleine Wörter; Er TV-en av eller fortsatt på?; Ist der Fernseher aus oder noch an?
-no-xf-0131; auf (Präposition); på; ; A1; Allgemein/Kleine Wörter; Brillene dine ligger på kjøkkenbordet nå.; Deine Brille liegt auf dem Küchentisch.
-no-xf-0132; auf (offen); åpen; ; A2; Allgemein/Kleine Wörter; Er bakeriet på hjørnet åpent på søndager?; Hat die Bäckerei an der Ecke sonntags auf?
-no-xf-0133; wenn (Bedingung); hvis; dersom; A1; Allgemein/Kleine Wörter; Hvis det regner i morgen, blir vi hjemme.; Wenn es morgen regnet, bleiben wir zu Hause.
-no-xf-0134; wenn (zeitlich); når; ; A2; Allgemein/Kleine Wörter; Når jeg kommer hjem, drikker jeg alltid en kopp te.; Wenn ich nach Hause komme, trinke ich immer eine Tasse Tee.
+no-xf-0128; aus (ich komme aus Berlin); fra; ; A1; Allgemein/Kleine Wörter; Den beste venninnen min kommer fra Italia.; Meine beste Freundin kommt aus Italien.
+no-xf-0129; aus (aus dem Zimmer gehen); ut av; ; A1; Allgemein/Kleine Wörter; Han tok nøklene ut av lommen sin.; Er nahm die Schlüssel aus seiner Tasche.
+no-xf-0130; aus (das Licht ist aus); av; ; A2; Allgemein/Kleine Wörter; Er TV-en av eller fortsatt på?; Ist der Fernseher aus oder noch an?
+no-xf-0131; auf (auf dem Tisch); på; ; A1; Allgemein/Kleine Wörter; Brillene dine ligger på kjøkkenbordet nå.; Deine Brille liegt auf dem Küchentisch.
+no-xf-0132; auf (die Tür ist auf); åpen; ; A2; Allgemein/Kleine Wörter; Er bakeriet på hjørnet åpent på søndager?; Hat die Bäckerei an der Ecke sonntags auf?
+no-xf-0133; wenn (wenn ich reich wäre); hvis; dersom; A1; Allgemein/Kleine Wörter; Hvis det regner i morgen, blir vi hjemme.; Wenn es morgen regnet, bleiben wir zu Hause.
+no-xf-0134; wenn (immer wenn ich komme); når; ; A2; Allgemein/Kleine Wörter; Når jeg kommer hjem, drikker jeg alltid en kopp te.; Wenn ich nach Hause komme, trinke ich immer eine Tasse Tee.
 no-xf-0135; welcher; hvilken; ; A1; Allgemein/Kleine Wörter; Hvilken buss går til den nærmeste togstasjonen?; Welcher Bus fährt zum Bahnhof?
 no-xf-0136; jeder; hver; ; A1; Allgemein/Kleine Wörter; Hver elev får en ny bok i begynnelsen av året.; Jeder Schüler bekommt am Anfang des Jahres ein neues Buch.
 no-xf-0137; keiner; ingen; ; A2; Allgemein/Kleine Wörter; Ingen visste svaret på det siste spørsmålet.; Keiner wusste die Antwort auf die letzte Frage.
@@ -153,27 +153,27 @@ no-xf-0149; Sorte; en sort; en type; A2; Allgemein/Mengen; Hvilken sort epler li
 no-xf-0150; Zunahme; en økning; en vekst; B2; Allgemein/Mengen; Det var en kraftig økning i trafikken.; Es gab eine starke Zunahme des Verkehrs.
 no-xf-0151; wieder; igjen; ; A1; Allgemein/Zeit; Jeg har glemt nøklene mine igjen, så irriterende!; Ich habe schon wieder meine Schlüssel vergessen, wie ärgerlich!
 no-xf-0152; dann; så; deretter; A1; Allgemein/Zeit; Først spiser vi, og så går vi på kino.; Zuerst essen wir, und dann gehen wir ins Kino.
-no-xf-0153; nach (zeitlich); etter; ; A1; Allgemein/Zeit; Etter skolen går jeg som regel på fotballtrening.; Nach der Schule gehe ich meistens zum Fußballtraining.
+no-xf-0153; nach (nach dem Essen); etter; ; A1; Allgemein/Zeit; Etter skolen går jeg som regel på fotballtrening.; Nach der Schule gehe ich meistens zum Fußballtraining.
 no-xf-0154; hinterher; etterpå; ; B1; Allgemein/Zeit; Vi gikk en tur og drakk kaffe etterpå.; Wir sind spazieren gegangen und haben hinterher einen Kaffee getrunken.
 no-xf-0155; endlich; endelig; ; A2; Allgemein/Zeit; Endelig har skoleferien begynt, hurra, nå blir det moro!; Endlich haben die Ferien angefangen, hurra!
 no-xf-0156; Moment; et øyeblikk; et moment; A2; Allgemein/Zeit; Et øyeblikk, takk, jeg er straks tilbake.; Einen Moment bitte, ich bin gleich zurück.
 no-xf-0157; nächste; neste; ; A1; Allgemein/Zeit; Neste uke flyr vi til Spania.; Nächste Woche fliegen wir nach Spanien.
 no-xf-0158; seit; siden; ; A2; Allgemein/Zeit; Jeg har lært engelsk siden jeg var åtte.; Ich lerne Englisch, seit ich acht bin.
-no-xf-0159; vorbei (zu Ende); over; forbi; A2; Allgemein/Zeit; Sommeren er over, og skolen begynner igjen.; Der Sommer ist vorbei und die Schule fängt wieder an.
+no-xf-0159; vorbei (die Ferien sind vorbei); over; forbi; A2; Allgemein/Zeit; Sommeren er over, og skolen begynner igjen.; Der Sommer ist vorbei und die Schule fängt wieder an.
 no-xf-0160; vergangen; siste; forrige; B1; Allgemein/Zeit; De siste ukene har det regnet mye.; In den vergangenen Wochen hat es viel geregnet.
 no-xf-0161; gegenwärtig; nåværende; aktuell; B2; Allgemein/Zeit; Den nåværende situasjonen er vanskelig for mange familier.; Die gegenwärtige Lage ist für viele Familien schwierig.
 no-xf-0162; dort; der; ; A1; Allgemein/Raum; Ser du det røde huset der borte?; Siehst du das rote Haus dort drüben?
 no-xf-0163; weg; vekk; bort; A2; Allgemein/Raum; Gå vekk, jeg vil være alene!; Geh weg, ich will allein sein!
 no-xf-0164; herum; rundt; ; B1; Allgemein/Raum; Vi gikk rundt sjøen på en time.; Wir sind in einer Stunde um den See herum gelaufen.
-no-xf-0165; um (räumlich); rundt; ; A2; Allgemein/Raum; Vi satt rundt bålet og sang sanger.; Wir saßen um das Feuer und sangen Lieder.
-no-xf-0166; über (räumlich); over; ; A2; Allgemein/Raum; Et lite fly fløy over huset vårt.; Ein kleines Flugzeug ist über unser Haus geflogen.
-no-xf-0167; vorbei (räumlich); forbi; ; A2; Allgemein/Raum; På vei hjem kjørte vi forbi den gamle borgen.; Auf dem Heimweg sind wir an der alten Burg vorbeigefahren.
+no-xf-0165; um (um das Haus herum); rundt; ; A2; Allgemein/Raum; Vi satt rundt bålet og sang sanger.; Wir saßen um das Feuer und sangen Lieder.
+no-xf-0166; über (über die Stadt fliegen); over; ; A2; Allgemein/Raum; Et lite fly fløy over huset vårt.; Ein kleines Flugzeug ist über unser Haus geflogen.
+no-xf-0167; vorbei (am Haus vorbei); forbi; ; A2; Allgemein/Raum; På vei hjem kjørte vi forbi den gamle borgen.; Auf dem Heimweg sind wir an der alten Burg vorbeigefahren.
 no-xf-0168; hinunter; ned; nedover; B1; Allgemein/Raum; Barna løp ned bakken mot sjøen.; Die Kinder rannten den Hügel hinunter zum See.
 no-xf-0169; hinauf; opp; oppover; B1; Allgemein/Raum; Vi gikk opp i tårnet for å se utsikten.; Wir sind auf den Turm hinaufgestiegen, um die Aussicht zu sehen.
 no-xf-0170; nach oben; opp; ; A2; Allgemein/Raum; Ta heisen opp til femte etasje.; Fahr mit dem Aufzug nach oben in den fünften Stock.
 no-xf-0171; oberhalb; ovenfor; over; B1; Allgemein/Raum; Ovenfor landsbyen ligger det en liten hytte.; Oberhalb des Dorfes gibt es eine kleine Hütte.
 no-xf-0172; nah; nær; ; A2; Allgemein/Raum; Hotellet ligger helt nær stranden, bare noen få minutter unna.; Das Hotel liegt ganz nah am Strand.
-no-xf-0173; Ort (Platz); et sted; en plass; A2; Allgemein/Raum; Dette er det perfekte stedet for en piknik.; Das ist der perfekte Ort für ein Picknick.
+no-xf-0173; Ort (ein schöner Ort); et sted; en plass; A2; Allgemein/Raum; Dette er det perfekte stedet for en piknik.; Das ist der perfekte Ort für ein Picknick.
 no-xf-0174; Gebiet; et område; ; A2; Allgemein/Raum; Dette området er kjent for vinen sin.; Dieses Gebiet ist für seinen Wein bekannt.
 no-xf-0175; Region; en region; ; B1; Allgemein/Raum; I denne regionen snør det ofte om vinteren.; In dieser Region schneit es im Winter oft.
 no-xf-0176; Standort; en lokalisering; en lokasjon; B2; Allgemein/Raum; Firmaet leter etter en ny lokalisering for kontoret sitt.; Die Firma sucht einen neuen Standort für ihr Büro.
@@ -184,8 +184,8 @@ no-xf-0180; Mitte; en midte; ; A2; Allgemein/Raum; I midten av hagen står det e
 no-xf-0181; Mittelpunkt; et midtpunkt; et sentrum; B1; Allgemein/Raum; Babyen var midtpunktet på hele festen, alle ville holde henne.; Das Baby war auf der Feier der Mittelpunkt.
 no-xf-0182; Vorderseite; en forside; en framside; B1; Allgemein/Raum; Skriv navnet ditt på forsiden av konvolutten.; Schreib deinen Namen auf die Vorderseite des Umschlags.
 no-xf-0183; Rückseite; en bakside; ; B1; Allgemein/Raum; Løsningene står på baksiden av arket.; Die Lösungen stehen auf der Rückseite der Seite.
-no-xf-0184; Raum (Platz); en plass; ; B1; Allgemein/Raum; Det er ikke nok plass til et piano i leiligheten vår.; In unserer Wohnung ist nicht genug Raum für ein Klavier.
-no-xf-0185; rund (Form); rund; ; A2; Allgemein/Raum; Vi har kjøpt et rundt bord til kjøkkenet.; Wir haben einen runden Tisch für die Küche gekauft.
+no-xf-0184; Raum (Raum für neue Ideen); en plass; ; B1; Allgemein/Raum; Det er ikke nok plass til et piano i leiligheten vår.; In unserer Wohnung ist nicht genug Raum für ein Klavier.
+no-xf-0185; rund (ein runder Tisch); rund; ; A2; Allgemein/Raum; Vi har kjøpt et rundt bord til kjøkkenet.; Wir haben einen runden Tisch für die Küche gekauft.
 no-xf-0186; schief; skjev; ; B2; Allgemein/Raum; Bildet som henger på veggen, henger litt skjevt.; Das Bild an der Wand hängt schief.
 no-xf-0187; Ausgang; en utgang; ; A2; Allgemein/Raum; Unnskyld, hvor er utgangen fra parkeringshuset?; Entschuldigung, wo ist der Ausgang vom Parkhaus?
 no-xf-0188; Eingang; en inngang; ; A2; Allgemein/Raum; Vi møtes ved inngangen til stasjonen.; Treffen wir uns am Eingang des Bahnhofs.
@@ -195,7 +195,7 @@ no-xf-0191; Fall; et tilfelle; et fall; B1; Allgemein/Begriffe; I dette tilfelle
 no-xf-0192; Zustand; en tilstand; en stand; B1; Allgemein/Begriffe; Den gamle bilen er fortsatt i veldig god tilstand.; Das alte Auto ist noch in sehr gutem Zustand.
 no-xf-0193; Veränderung; en forandring; en endring; B1; Allgemein/Begriffe; Flyttingen til en ny by er en stor forandring.; Der Umzug in eine neue Stadt ist eine große Veränderung.
 no-xf-0194; Wandel; en endring; en forandring; B2; Allgemein/Begriffe; Landsbyen har gjennomgått en stor endring de siste årene.; Das Dorf hat in den letzten Jahren einen großen Wandel erlebt.
-no-xf-0195; Versuch (Bemühung); et forsøk; ; B1; Allgemein/Begriffe; Han besto førerprøven på første forsøk.; Er hat die Fahrprüfung beim ersten Versuch bestanden.
+no-xf-0195; Versuch (beim ersten Versuch); et forsøk; ; B1; Allgemein/Begriffe; Han besto førerprøven på første forsøk.; Er hat die Fahrprüfung beim ersten Versuch bestanden.
 no-xf-0196; Mühe; en umake; ; B1; Allgemein/Begriffe; Takk for umaken du har gjort deg med festen.; Danke für die Mühe, die du dir mit der Party gemacht hast.
 no-xf-0197; Gefahr; en fare; ; A2; Allgemein/Begriffe; Legene sier at han er utenfor fare nå.; Die Ärzte sagen, er ist jetzt außer Gefahr.
 no-xf-0198; Schutz; en beskyttelse; et vern; B1; Allgemein/Begriffe; Denne kremen gir god beskyttelse mot sola.; Diese Creme bietet guten Schutz vor der Sonne.
@@ -225,7 +225,7 @@ no-xf-0221; Kontakt; en kontakt; ; A2; Allgemein/Begriffe; Har du fortsatt konta
 no-xf-0222; Merkmal; et kjennetegn; et trekk; B2; Allgemein/Begriffe; Rødt hår er et typisk kjennetegn ved familien hans.; Rote Haare sind ein typisches Merkmal seiner Familie.
 no-xf-0223; Prinzip; et prinsipp; ; B1; Allgemein/Begriffe; Av prinsipp låner jeg ikke ut penger til noen.; Aus Prinzip leihe ich niemandem Geld.
 no-xf-0224; Grundsatz; et grunnprinsipp; et prinsipp; B2; Allgemein/Begriffe; Ærlighet er et av hans viktigste grunnprinsipper.; Ehrlichkeit ist einer seiner wichtigsten Grundsätze.
-no-xf-0225; Verhältnis (Beziehung); et forhold; ; B1; Allgemein/Begriffe; Jeg har et veldig godt forhold til broren min.; Ich habe ein sehr gutes Verhältnis zu meinem Bruder.
+no-xf-0225; Verhältnis (ein gutes Verhältnis zu den Eltern); et forhold; ; B1; Allgemein/Begriffe; Jeg har et veldig godt forhold til broren min.; Ich habe ein sehr gutes Verhältnis zu meinem Bruder.
 no-xf-0226; Abwechslung; en variasjon; en avveksling; B1; Allgemein/Begriffe; La oss spise ute i kveld, bare for variasjonens skyld.; Lass uns heute Abend zur Abwechslung essen gehen.
 no-xf-0227; Belohnung; en belønning; ; B1; Allgemein/Begriffe; Som belønning for de gode karakterene dro vi i dyrehagen.; Als Belohnung für die guten Noten sind wir in den Zoo gegangen.
 no-xf-0228; Respekt; en respekt; ; A2; Allgemein/Begriffe; Vi bør behandle alle med respekt.; Wir sollten alle mit Respekt behandeln.
@@ -251,30 +251,30 @@ no-xf-0247; Funktion; en funksjon; ; B1; Allgemein/Begriffe; Hvilken funksjon ha
 no-xf-0248; Struktur; en struktur; ; B2; Allgemein/Begriffe; Strukturen i teksten er klar og logisk.; Die Struktur des Textes ist klar und logisch.
 no-xf-0249; System; et system; ; B1; Allgemein/Begriffe; Skolen har et nytt system for lekser.; Die Schule hat ein neues System für Hausaufgaben.
 no-xf-0250; Reihenfolge; en rekkefølge; ; B1; Allgemein/Begriffe; Legg bildene i riktig rekkefølge, fra først til sist.; Bring die Bilder in die richtige Reihenfolge.
-no-xf-0251; Typ (Art); en type; ; B1; Allgemein/Begriffe; Denne typen oppvarming er veldig økonomisk.; Dieser Typ von Heizung ist sehr sparsam.
-no-xf-0252; Typ (Mensch); en fyr; ; B1; Allgemein/Begriffe; Hvem er fyren ved siden av søsteren din?; Wer ist der Typ neben deiner Schwester?
+no-xf-0251; Typ (ein neuer Typ von Handy); en type; ; B1; Allgemein/Begriffe; Denne typen oppvarming er veldig økonomisk.; Dieser Typ von Heizung ist sehr sparsam.
+no-xf-0252; Typ (ein netter Typ); en fyr; ; B1; Allgemein/Begriffe; Hvem er fyren ved siden av søsteren din?; Wer ist der Typ neben deiner Schwester?
 no-xf-0253; Kerl; en kar; en fyr; B1; Allgemein/Begriffe; Han er en skikkelig hyggelig kar, du kommer til å like ham.; Er ist ein echt netter Kerl, du wirst ihn mögen.
 no-xf-0254; Weise; en måte; ; B1; Allgemein/Begriffe; Hun forklarte det på en veldig enkel måte.; Sie hat es auf sehr einfache Weise erklärt.
 no-xf-0255; Vorhaben; en plan; et forehavende; B2; Allgemein/Begriffe; På grunn av været måtte vi gi opp planen vår.; Wegen des Wetters mussten wir unser Vorhaben aufgeben.
 no-xf-0256; Zeug; ting; saker; B1; Allgemein/Begriffe; Kan du ta tingene dine vekk fra bordet?; Kannst du bitte dein Zeug vom Tisch nehmen?
 no-xf-0257; Kram; et skrap; ; B2; Allgemein/Begriffe; Loftet er fullt av gammelt skrap.; Der Dachboden ist voll mit altem Kram.
 no-xf-0258; Heimat; et hjemland; ; B1; Allgemein/Begriffe; Etter krigen måtte mange mennesker forlate hjemlandet sitt.; Nach dem Krieg mussten viele Menschen ihre Heimat verlassen.
-no-xf-0259; Stufe (Niveau); et nivå; et trinn; B1; Allgemein/Begriffe; Vi er nå på det andre nivået i kurset.; Wir sind jetzt auf der zweiten Stufe des Kurses.
-no-xf-0260; Blick (Aussicht); en utsikt; ; B1; Allgemein/Begriffe; Fra rommet vårt har vi en fantastisk utsikt mot fjellene.; Von unserem Zimmer haben wir einen tollen Blick auf die Berge.
-no-xf-0261; Blick (Anschauen); et blikk; ; B1; Allgemein/Begriffe; Hun kastet et sint blikk på meg.; Sie warf mir einen wütenden Blick zu.
-no-xf-0262; Spur (Abdruck); et spor; ; B2; Allgemein/Begriffe; Tyven forsvant uten et eneste spor.; Der Dieb verschwand ohne jede Spur.
-no-xf-0263; Beitrag (Anteil); et bidrag; ; B2; Allgemein/Begriffe; Alle har gitt et lite bidrag til gaven.; Jeder hat einen kleinen Beitrag zu dem Geschenk geleistet.
-no-xf-0264; Mittel (Methode); et middel; en måte; B2; Allgemein/Begriffe; Det å sykle er et rimelig middel for å komme til skolen.; Radfahren ist ein günstiges Mittel, um zur Schule zu kommen.
+no-xf-0259; Stufe (eine höhere Stufe); et nivå; et trinn; B1; Allgemein/Begriffe; Vi er nå på det andre nivået i kurset.; Wir sind jetzt auf der zweiten Stufe des Kurses.
+no-xf-0260; Blick (der Blick aufs Meer); en utsikt; ; B1; Allgemein/Begriffe; Fra rommet vårt har vi en fantastisk utsikt mot fjellene.; Von unserem Zimmer haben wir einen tollen Blick auf die Berge.
+no-xf-0261; Blick (einen Blick darauf werfen); et blikk; ; B1; Allgemein/Begriffe; Hun kastet et sint blikk på meg.; Sie warf mir einen wütenden Blick zu.
+no-xf-0262; Spur (Spuren im Schnee); et spor; ; B2; Allgemein/Begriffe; Tyven forsvant uten et eneste spor.; Der Dieb verschwand ohne jede Spur.
+no-xf-0263; Beitrag (einen Beitrag leisten); et bidrag; ; B2; Allgemein/Begriffe; Alle har gitt et lite bidrag til gaven.; Jeder hat einen kleinen Beitrag zu dem Geschenk geleistet.
+no-xf-0264; Mittel (ein Mittel zum Zweck); et middel; en måte; B2; Allgemein/Begriffe; Det å sykle er et rimelig middel for å komme til skolen.; Radfahren ist ein günstiges Mittel, um zur Schule zu kommen.
 no-xf-0265; Anblick; et syn; ; B2; Allgemein/Begriffe; Solnedgangen over havet var et vakkert syn.; Der Sonnenuntergang über dem Meer war ein schöner Anblick.
 no-xf-0266; Chance; en sjanse; en mulighet; A2; Allgemein/Begriffe; Dette er din siste sjanse, så ikke kast den bort!; Das ist deine letzte Chance, also verschwende sie nicht!
 no-xf-0267; Einblick; et innblikk; ; B2; Allgemein/Begriffe; Reisen ga oss et innblikk i livet på en gård.; Die Reise hat uns einen Einblick in das Leben auf einem Bauernhof gegeben.
 no-xf-0268; Erlebnis; en opplevelse; ; B1; Allgemein/Begriffe; Konserten var en uforglemmelig opplevelse for oss alle.; Das Konzert war für uns alle ein unvergessliches Erlebnis.
 no-xf-0269; Gefallen; en tjeneste; en vennetjeneste; B1; Allgemein/Begriffe; Kan du gjøre meg en tjeneste og mate katten min?; Kannst du mir einen Gefallen tun und meine Katze füttern?
-no-xf-0270; Haltung (Einstellung); en holdning; ; B2; Allgemein/Begriffe; Hun har en veldig positiv holdning til livet.; Sie hat eine sehr positive Haltung zum Leben.
+no-xf-0270; Haltung (eine kritische Haltung); en holdning; ; B2; Allgemein/Begriffe; Hun har en veldig positiv holdning til livet.; Sie hat eine sehr positive Haltung zum Leben.
 no-xf-0271; Illusion; en illusjon; ; B2; Allgemein/Begriffe; Ikke gjør deg noen illusjoner, prøven blir vanskelig.; Mach dir keine Illusionen, die Prüfung wird schwer.
 no-xf-0272; Missgeschick; et uhell; ; B2; Allgemein/Begriffe; Jeg hadde et lite uhell med kaffemaskinen.; Mir ist ein kleines Missgeschick mit der Kaffeemaschine passiert.
 no-xf-0273; Notwendigkeit; en nødvendighet; ; B2; Allgemein/Begriffe; I en storby er ikke bil en nødvendighet.; In einer Großstadt ist ein Auto keine Notwendigkeit.
-no-xf-0274; Ruf (Ansehen); et rykte; ; B2; Allgemein/Begriffe; Restauranten har et utmerket rykte i byen.; Das Restaurant hat in der Stadt einen ausgezeichneten Ruf.
+no-xf-0274; Ruf (einen guten Ruf haben); et rykte; ; B2; Allgemein/Begriffe; Restauranten har et utmerket rykte i byen.; Das Restaurant hat in der Stadt einen ausgezeichneten Ruf.
 no-xf-0275; Unsicherheit; en usikkerhet; ; B2; Allgemein/Begriffe; Det hersker fortsatt stor usikkerhet om de nye reglene.; Über die neuen Regeln herrscht noch große Unsicherheit.
 no-xf-0276; Unterbrechung; et avbrudd; ; B1; Allgemein/Begriffe; Vi har jobbet i seks timer uten avbrudd.; Wir haben sechs Stunden ohne Unterbrechung gearbeitet.
 no-xf-0277; Vorstellungskraft; en fantasi; ; B2; Allgemein/Begriffe; Man trenger mye fantasi for å skrive historier.; Zum Geschichtenschreiben braucht man viel Vorstellungskraft.
@@ -288,11 +288,11 @@ no-xf-0284; Beutel; en pose; ; B1; Alltag/Zuhause/Haushalt; Ha matpakkene til tu
 no-xf-0285; Müllsack; en søppelsekk; ; B1; Alltag/Zuhause/Haushalt; Kan du ta med søppelsekken ut, takk?; Kannst du bitte den Müllsack nach draußen bringen?
 no-xf-0286; Fußboden; et gulv; ; A2; Alltag/Zuhause/Räume; Barna satt på gulvet og lekte.; Die Kinder saßen auf dem Fußboden und spielten.
 no-xf-0287; Etage; en etasje; ; A2; Alltag/Zuhause/Räume; Leiligheten vår ligger i tredje etasje.; Unsere Wohnung ist in der dritten Etage.
-no-xf-0288; Raum (Zimmer); et rom; ; A2; Alltag/Zuhause/Räume; Det største rommet i huset er kjøkkenet.; Der größte Raum im Haus ist die Küche.
-no-xf-0289; Stufe (Treppe); et trinn; et trappetrinn; A2; Alltag/Zuhause/Räume; Pass opp, det første trinnet er veldig høyt.; Pass auf, die erste Stufe ist sehr hoch.
+no-xf-0288; Raum (einen Raum betreten); et rom; ; A2; Alltag/Zuhause/Räume; Det største rommet i huset er kjøkkenet.; Der größte Raum im Haus ist die Küche.
+no-xf-0289; Stufe (die Stufen der Treppe); et trinn; et trappetrinn; A2; Alltag/Zuhause/Räume; Pass opp, det første trinnet er veldig høyt.; Pass auf, die erste Stufe ist sehr hoch.
 no-xf-0290; Garage; en garasje; ; A2; Alltag/Zuhause/Räume; Pappa setter bilen i garasjen hver kveld.; Papa stellt das Auto jeden Abend in die Garage.
 no-xf-0291; Schornstein; en skorstein; ; B1; Alltag/Zuhause/Räume; Det kom røyk ut av skorsteinen.; Aus dem Schornstein kam Rauch.
-no-xf-0292; Hof (am Haus); en gårdsplass; en bakgård; B1; Alltag/Zuhause/Garten; Barna spiller fotball på gårdsplassen etter skolen hver dag.; Die Kinder spielen im Hof Fußball.
+no-xf-0292; Hof (der Hof hinter dem Haus); en gårdsplass; en bakgård; B1; Alltag/Zuhause/Garten; Barna spiller fotball på gårdsplassen etter skolen hver dag.; Die Kinder spielen im Hof Fußball.
 no-xf-0293; Grundstück; ei tomt; en tomt; B2; Alltag/Zuhause/Garten; De har kjøpt en tomt og vil bygge hus.; Sie haben ein Grundstück gekauft und wollen ein Haus bauen.
 no-xf-0294; Essen; mat; ; A1; Alltag/Essen/Mahlzeiten; Maten på denne restauranten er skikkelig god.; Das Essen in diesem Restaurant ist richtig gut.
 no-xf-0295; Lebensmittel; matvarer; ; A2; Alltag/Essen/Lebensmittel; Vi kjøper matvarene våre på torget hver lørdag.; Unsere Lebensmittel kaufen wir samstags auf dem Markt.
@@ -314,14 +314,14 @@ no-xf-0310; riechen; å lukte; ; A2; Gesundheit/Körper; Det lukter ferskt brød
 no-xf-0311; nackt; naken; ; B1; Gesundheit/Körper; Babyen lå helt naken på det myke håndkleet.; Das Baby lag nackt auf dem Handtuch.
 no-xf-0312; verletzt; skadet; såret; A2; Gesundheit/Symptome; To personer ble skadet i ulykken.; Bei dem Unfall wurden zwei Menschen verletzt.
 no-xf-0313; Sonnenstich; et solstikk; ; B2; Gesundheit/Krankheiten; Ta på deg en lue, ellers får du solstikk.; Setz einen Hut auf, sonst bekommst du einen Sonnenstich.
-no-xf-0314; Kurs (Unterricht); et kurs; ; A2; Bildung/Lernen; Jeg tar et kurs på voksenopplæringen.; Ich mache einen Kurs an der Volkshochschule.
+no-xf-0314; Kurs (einen Kurs besuchen); et kurs; ; A2; Bildung/Lernen; Jeg tar et kurs på voksenopplæringen.; Ich mache einen Kurs an der Volkshochschule.
 no-xf-0315; Wiederholung; en repetisjon; en gjentakelse; B1; Bildung/Lernen; Før prøven har vi en time med repetisjon.; Vor dem Test haben wir eine Stunde zur Wiederholung.
 no-xf-0316; Zeile; en linje; ; A2; Bildung/Sprache/Lesen & Schreiben; Les de tre første linjene høyt, takk.; Lies bitte die ersten drei Zeilen laut vor.
 no-xf-0317; Gliederung; en disposisjon; ; B2; Bildung/Sprache/Lesen & Schreiben; Lag en disposisjon før du skriver stilen din.; Mach eine Gliederung, bevor du deinen Aufsatz schreibst.
 no-xf-0318; nachsprechen; å gjenta; å si etter; B1; Bildung/Sprache/Wörter & Aussprache; Hør godt etter og gjenta ordene.; Hört zu und sprecht die Wörter nach.
 no-xf-0319; Geografie; geografi; ; A2; Bildung/Schule/Fächer; I geografi lærer vi om elver og fjell.; In Geografie lernen wir etwas über Flüsse und Berge.
 no-xf-0320; Zeichenblock; en tegneblokk; ; B1; Bildung/Schule/Schulsachen; Til kunst og håndverk trenger du en tegneblokk og blyanter.; Für den Kunstunterricht brauchst du einen Zeichenblock und Bleistifte.
-no-xf-0321; Betrieb (Firma); en bedrift; ; B1; Arbeit/Beruf/Arbeitsplatz; Hun tok læretiden sin i en liten bedrift i byen.; Sie hat ihre Ausbildung in einem kleinen Betrieb in der Stadt gemacht.
+no-xf-0321; Betrieb (in einem Betrieb arbeiten); en bedrift; ; B1; Arbeit/Beruf/Arbeitsplatz; Hun tok læretiden sin i en liten bedrift i byen.; Sie hat ihre Ausbildung in einem kleinen Betrieb in der Stadt gemacht.
 no-xf-0322; Dienst; en vakt; ; B1; Arbeit/Beruf/Arbeitsalltag; Sykepleieren har vakt til midnatt i dag.; Die Krankenschwester hat heute bis Mitternacht Dienst.
 no-xf-0323; beruflich; jobbrelatert; ; B1; Arbeit/Beruf/Arbeitsalltag; Faren min reiser ofte av jobbrelaterte årsaker.; Mein Vater reist oft aus beruflichen Gründen.
 no-xf-0324; Handwerk; et håndverk; ; B2; Arbeit/Beruf/Berufe; Snekkerfaget er et gammelt håndverk som krever mye ferdighet.; Die Tischlerei ist ein altes Handwerk, das viel Geschick braucht.
@@ -362,14 +362,14 @@ no-xf-0358; Trailer; en trailer; ; B1; Kultur/Theater & Film; Traileren til den 
 no-xf-0359; Harfe; ei harpe; en harpe; B1; Kultur/Musik; Hun har spilt harpe siden hun var seks.; Sie spielt Harfe, seit sie sechs ist.
 no-xf-0360; Klang; en klang; ; B1; Kultur/Musik; Jeg elsker klangen av pianoet om kvelden.; Ich liebe den Klang des Klaviers am Abend.
 no-xf-0361; Rahmen; en ramme; ; B1; Kultur/Kunst & Museum; Maleriet henger i en tung gullramme.; Das Gemälde hängt in einem schweren goldenen Rahmen.
-no-xf-0362; ausstellen (zeigen); å stille ut; ; B1; Kultur/Kunst & Museum; Museet stiller ut bilder av unge kunstnere.; Das Museum stellt Bilder von jungen Künstlern aus.
+no-xf-0362; ausstellen (Bilder ausstellen); å stille ut; ; B1; Kultur/Kunst & Museum; Museet stiller ut bilder av unge kunstnere.; Das Museum stellt Bilder von jungen Künstlern aus.
 no-xf-0363; reimen; å rime; ; B1; Kultur/Literatur; I dette diktet rimer annenhver linje.; In diesem Gedicht reimt sich jede zweite Zeile.
 no-xf-0364; Zeitalter; en tidsalder; en æra; B2; Kultur/Geschichte; Vi lever i internettets tidsalder, og alt går fort.; Wir leben im Zeitalter des Internets.
 no-xf-0365; Zeitleiste; en tidslinje; ; B2; Kultur/Geschichte; Tegn en tidslinje over de viktigste hendelsene.; Zeichne eine Zeitleiste der wichtigsten Ereignisse.
 no-xf-0366; Kaiserin; en keiserinne; ; B2; Kultur/Geschichte; Keiserinnen bodde i et enormt slott i Wien.; Die Kaiserin lebte in einem riesigen Palast in Wien.
 no-xf-0367; Kreuzzug; et korstog; ; C1; Kultur/Geschichte; Det første korstoget startet på slutten av det ellevte århundre.; Der erste Kreuzzug begann am Ende des elften Jahrhunderts.
 no-xf-0368; Glocke; ei klokke; en klokke; A2; Gesellschaft/Religion; Hver søndag morgen ringer kirkeklokkene i hele byen.; Jeden Sonntagmorgen läuten die Glocken der Kirche.
-no-xf-0369; Kapelle (Kirche); et kapell; ; B2; Gesellschaft/Religion; Oppe på bakken står det et lite kapell.; Oben auf dem Hügel steht eine kleine Kapelle.
+no-xf-0369; Kapelle (in der Kapelle beten); et kapell; ; B2; Gesellschaft/Religion; Oppe på bakken står det et lite kapell.; Oben auf dem Hügel steht eine kleine Kapelle.
 no-xf-0370; Paradies; et paradis; ; B1; Gesellschaft/Religion; Denne stranda er et ekte paradis for surfere.; Dieser Strand ist ein echtes Paradies für Surfer.
 no-xf-0371; Predigt; en preken; ; B2; Gesellschaft/Religion; Presten holdt en kort preken om håp.; Der Pfarrer hielt eine kurze Predigt über die Hoffnung.
 no-xf-0372; Altar; et alter; ; B2; Gesellschaft/Religion; Det sto friske blomster på alteret.; Auf dem Altar standen frische Blumen.

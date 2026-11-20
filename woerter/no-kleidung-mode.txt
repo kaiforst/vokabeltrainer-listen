@@ -3,7 +3,7 @@ id; Deutsch; Norwegisch; Weitere Antworten; Niveau; Themen; Beispiel Norwegisch;
 no-km-0001; Hemd; en skjorte; ; A1; Alltag/Kleidung/Kleidungsstücke; Han har på seg en hvit skjorte i dag.; Er trägt heute ein weißes Hemd.
 no-km-0002; Hose; ei bukse; en bukse; A1; Alltag/Kleidung/Kleidungsstücke; Denne buksen er for lang for meg.; Diese Hose ist mir zu lang.
 no-km-0003; Kleid; en kjole; ei kjole; A1; Alltag/Kleidung/Kleidungsstücke; Hun kjøpte en rød kjole til festen.; Sie hat ein rotes Kleid für die Party gekauft.
-no-km-0004; Rock (Kleidungsstück); et skjørt; ; A1; Alltag/Kleidung/Kleidungsstücke; Søsteren min går ofte i et blått skjørt.; Meine Schwester trägt oft einen blauen Rock.
+no-km-0004; Rock (einen Rock tragen); et skjørt; ; A1; Alltag/Kleidung/Kleidungsstücke; Søsteren min går ofte i et blått skjørt.; Meine Schwester trägt oft einen blauen Rock.
 no-km-0005; Schuh; en sko; ; A1; Alltag/Kleidung/Schuhe & Accessoires; Det er et hull i den venstre skoen min.; In meinem linken Schuh ist ein Loch.
 no-km-0006; Jacke; ei jakke; en jakke; A1; Alltag/Kleidung/Kleidungsstücke; Ta med jakken din, for det er kaldt ute.; Nimm deine Jacke, denn draußen ist es kalt.
 no-km-0007; Mantel; en frakk; en kåpe; A1; Alltag/Kleidung/Kleidungsstücke; Om vinteren bruker jeg en varm frakk.; Im Winter trage ich einen warmen Mantel.
@@ -15,16 +15,16 @@ no-km-0012; Hut; en hatt; ; A1; Alltag/Kleidung/Schuhe & Accessoires; Bestefaren
 no-km-0013; Schal; et skjerf; ; A1; Alltag/Kleidung/Schuhe & Accessoires; Hun ga meg et varmt skjerf til jul.; Sie hat mir zu Weihnachten einen warmen Schal geschenkt.
 no-km-0014; Handschuh; en hanske; ; A1; Alltag/Kleidung/Schuhe & Accessoires; Jeg mistet en hanske i snøen.; Ich habe einen Handschuh im Schnee verloren.
 no-km-0015; Gürtel; et belte; ; A1; Alltag/Kleidung/Schuhe & Accessoires; Han trenger et nytt belte til buksen sin.; Er braucht einen neuen Gürtel für seine Hose.
-no-km-0016; Tasche (zum Tragen); en pose; en handlepose; A1; Alltag/Kleidung/Schuhe & Accessoires; Posen hennes er full av gamle klær.; Ihre Tasche ist voller alter Kleidung.
+no-km-0016; Tasche (eine Tasche tragen); en pose; en handlepose; A1; Alltag/Kleidung/Schuhe & Accessoires; Posen hennes er full av gamle klær.; Ihre Tasche ist voller alter Kleidung.
 no-km-0017; Knopf; en knapp; ; A1; Alltag/Kleidung/Kleidungsstücke; I går falt en knapp av frakken min.; Gestern ist ein Knopf von meinem Mantel abgefallen.
 no-km-0018; Stiefel; en støvel; ; A1; Alltag/Kleidung/Schuhe & Accessoires; Disse støvlene holder føttene mine varme og tørre.; Diese Stiefel halten meine Füße warm und trocken.
-no-km-0019; anziehen (Kleidung); å ta på seg; ; A1; Alltag/Kleidung/Kleidungsstücke; Ta på deg skoene før vi går.; Bitte zieh deine Schuhe an, bevor wir gehen.
-no-km-0020; ausziehen (Kleidung); å ta av seg; ; A1; Alltag/Kleidung/Kleidungsstücke; Ta av deg den våte jakken ved døra.; Zieh deine nasse Jacke an der Tür aus.
-no-km-0021; tragen (Kleidung); å ha på seg; ; A1; Alltag/Kleidung/Stil; Hun liker å ha på seg lyse farger om sommeren.; Sie trägt im Sommer gern helle Farben.
+no-km-0019; anziehen (eine Jacke anziehen); å ta på seg; ; A1; Alltag/Kleidung/Kleidungsstücke; Ta på deg skoene før vi går.; Bitte zieh deine Schuhe an, bevor wir gehen.
+no-km-0020; ausziehen (die Schuhe ausziehen); å ta av seg; ; A1; Alltag/Kleidung/Kleidungsstücke; Ta av deg den våte jakken ved døra.; Zieh deine nasse Jacke an der Tür aus.
+no-km-0021; tragen (eine Brille tragen); å ha på seg; ; A1; Alltag/Kleidung/Stil; Hun liker å ha på seg lyse farger om sommeren.; Sie trägt im Sommer gern helle Farben.
 no-km-0022; kaufen; å kjøpe; ; A1; Alltag/Kleidung/Einkauf & Passform, Alltag/Einkaufen; Jeg vil kjøpe en ny vinterkåpe.; Ich möchte einen neuen Wintermantel kaufen.
 no-km-0023; neu; ny; ; A1; Alltag/Kleidung/Einkauf & Passform; De nye skoene mine er litt stive.; Meine neuen Schuhe sind noch etwas steif.
 no-km-0024; alt; gammel; ; A1; Alltag/Kleidung/Einkauf & Passform; Denne genseren er gammel, men fortsatt favoritten min.; Dieser Pullover ist alt, aber immer noch mein Lieblingsstück.
-no-km-0025; Farbe (Farbton); ei farge; en farge; A1; Alltag/Kleidung/Stil; Hvilken farge liker du best på skjorter?; Welche Farbe magst du bei Hemden am liebsten?
+no-km-0025; Farbe (welche Farbe hat das?); ei farge; en farge; A1; Alltag/Kleidung/Stil; Hvilken farge liker du best på skjorter?; Welche Farbe magst du bei Hemden am liebsten?
 no-km-0026; Bluse; ei bluse; en bluse; A2; Alltag/Kleidung/Kleidungsstücke; Hun strøk blusen sin til møtet.; Sie hat ihre Bluse für die Besprechung gebügelt.
 no-km-0027; Anzug; en dress; ; A2; Alltag/Kleidung/Kleidungsstücke; Han går i en mørk dress på jobben.; Er trägt bei der Arbeit einen dunklen Anzug.
 no-km-0028; Krawatte; et slips; en kravatt; A2; Alltag/Kleidung/Schuhe & Accessoires; Slipset hans passer ikke til skjorta hans.; Seine Krawatte passt nicht zu seinem Hemd.
@@ -53,20 +53,20 @@ no-km-0050; Größe; en størrelse; ; A2; Alltag/Kleidung/Einkauf & Passform; Ha
 no-km-0051; anprobieren; å prøve; ; A2; Alltag/Kleidung/Einkauf & Passform; Kan jeg prøve disse skoene i brun?; Kann ich diese Schuhe in Braun anprobieren?
 no-km-0052; passen; å passe; ; A2; Alltag/Kleidung/Einkauf & Passform; Disse jeansene passer perfekt i livet.; Diese Jeans passt an der Taille perfekt.
 no-km-0053; eng; trang; ; A2; Alltag/Kleidung/Einkauf & Passform; Kjolen er for trang over skuldrene.; Das Kleid ist an den Schultern zu eng.
-no-km-0054; weit (Kleidung); vid; ; A2; Alltag/Kleidung/Einkauf & Passform; Han liker vide skjorter i sommervarmen.; Er mag weite Hemden in der Sommerhitze.
+no-km-0054; weit (eine weite Hose); vid; ; A2; Alltag/Kleidung/Einkauf & Passform; Han liker vide skjorter i sommervarmen.; Er mag weite Hemden in der Sommerhitze.
 no-km-0055; bequem; komfortabel; behagelig; A2; Alltag/Kleidung/Einkauf & Passform; Disse joggeskoene er veldig komfortable for lange turer.; Diese Turnschuhe sind wirklich bequem für lange Spaziergänge.
 no-km-0056; billig; billig; ; A2; Alltag/Kleidung/Einkauf & Passform; Jakka var billig, men overraskende bra.; Die Jacke war billig, aber überraschend gut.
 no-km-0057; teuer; dyr; ; A2; Alltag/Kleidung/Einkauf & Passform; Denne frakken er altfor dyr for meg.; Dieser Mantel ist mir zu teuer.
 no-km-0058; Umkleidekabine; et prøverom; ; A2; Alltag/Kleidung/Einkauf & Passform; Prøverommet ligger helt bakerst i butikken.; Die Umkleidekabine ist hinten im Laden.
 no-km-0059; Kasse; en kasse; ; A2; Alltag/Kleidung/Einkauf & Passform, Alltag/Einkaufen; Det var en lang kø ved kassen.; An der Kasse war eine lange Schlange.
-no-km-0060; Preis (Kosten); en pris; ; A2; Alltag/Kleidung/Einkauf & Passform; Prisen er mye lavere under det store salget.; Der Preis ist beim großen Ausverkauf viel niedriger.
-no-km-0061; Stoff (Textil); et stoff; ; B1; Alltag/Kleidung/Stoffe & Muster; Dette stoffet føles veldig mykt mot huden.; Dieser Stoff fühlt sich auf der Haut sehr weich an.
+no-km-0060; Preis (ein günstiger Preis); en pris; ; A2; Alltag/Kleidung/Einkauf & Passform; Prisen er mye lavere under det store salget.; Der Preis ist beim großen Ausverkauf viel niedriger.
+no-km-0061; Stoff (Stoff für ein Kleid); et stoff; ; B1; Alltag/Kleidung/Stoffe & Muster; Dette stoffet føles veldig mykt mot huden.; Dieser Stoff fühlt sich auf der Haut sehr weich an.
 no-km-0062; Baumwolle; en bomull; ; B1; Alltag/Kleidung/Stoffe & Muster; Skjorta er laget av ren bomull.; Das Hemd ist aus reiner Baumwolle.
 no-km-0063; Wolle; en ull; ei ull; B1; Alltag/Kleidung/Stoffe & Muster; Ull holder deg varm selv når den er våt.; Wolle hält warm, selbst wenn sie nass ist.
 no-km-0064; Leder; et lær; ; B1; Alltag/Kleidung/Stoffe & Muster; Gode sko av lær holder i mange år.; Gute Lederschuhe halten viele Jahre.
 no-km-0065; Seide; en silke; ; B1; Alltag/Kleidung/Stoffe & Muster; Hun hadde på seg et skjerf av fin silke.; Sie trug einen Schal aus feiner Seide.
 no-km-0066; Leinen; et lin; ; B1; Alltag/Kleidung/Stoffe & Muster; Lin er lett, men krøller seg veldig fort.; Leinen ist leicht, knittert aber sehr schnell.
-no-km-0067; Muster (Design); et mønster; ; B1; Alltag/Kleidung/Stoffe & Muster; Jeg liker mønsteret på den nye skjorta di.; Mir gefällt das Muster auf deinem neuen Hemd.
+no-km-0067; Muster (ein Muster auf dem Stoff); et mønster; ; B1; Alltag/Kleidung/Stoffe & Muster; Jeg liker mønsteret på den nye skjorta di.; Mir gefällt das Muster auf deinem neuen Hemd.
 no-km-0068; gestreift; stripete; ; B1; Alltag/Kleidung/Stoffe & Muster; Han valgte en stripete skjorte til jobbintervjuet.; Er wählte ein gestreiftes Hemd für das Vorstellungsgespräch.
 no-km-0069; kariert; rutete; ; B1; Alltag/Kleidung/Stoffe & Muster; Hun elsker rutete skjorter i høstfarger.; Sie liebt karierte Hemden in Herbstfarben.
 no-km-0070; gepunktet; prikkete; ; B1; Alltag/Kleidung/Stoffe & Muster; Den prikkete kjolen virker leken og frisk.; Das gepunktete Kleid wirkt verspielt und frisch.
@@ -76,7 +76,7 @@ no-km-0073; Kragen; en krage; ; B1; Alltag/Kleidung/Kleidungsstücke; Kragen på
 no-km-0074; Ärmel; et erme; ; B1; Alltag/Kleidung/Kleidungsstücke; Ermene på jakka er litt for korte.; Die Ärmel sind ein bisschen zu kurz.
 no-km-0075; Hosentasche; ei bukselomme; en bukselomme; B1; Alltag/Kleidung/Kleidungsstücke; Han har alltid nøklene i bukselomma.; Er hat seine Schlüssel immer in der Hosentasche.
 no-km-0076; Kapuze; ei hette; en hette; B1; Alltag/Kleidung/Kleidungsstücke; Dra hetta over hodet, det regner.; Zieh die Kapuze hoch, es regnet.
-no-km-0077; Absatz (Schuh); en hæl; ; B1; Alltag/Kleidung/Schuhe & Accessoires; Hælen på skoen hennes brakk i trappa.; Der Absatz ihres Schuhs brach auf der Treppe ab.
+no-km-0077; Absatz (Schuhe mit hohem Absatz); en hæl; ; B1; Alltag/Kleidung/Schuhe & Accessoires; Hælen på skoen hennes brakk i trappa.; Der Absatz ihres Schuhs brach auf der Treppe ab.
 no-km-0078; Schnürsenkel; en skolisse; ; B1; Alltag/Kleidung/Schuhe & Accessoires; Skolissen din er løs, så pass på.; Dein Schnürsenkel ist offen, pass auf.
 no-km-0079; umtauschen; å bytte; ; B1; Alltag/Kleidung/Einkauf & Passform; Kan jeg bytte denne genseren mot en større?; Kann ich diesen Pullover gegen einen größeren umtauschen?
 no-km-0080; zurückgeben; å levere tilbake; å returnere; B1; Alltag/Kleidung/Einkauf & Passform; Du kan levere skoene tilbake innen to uker.; Sie können die Schuhe innerhalb von zwei Wochen zurückgeben.
@@ -125,14 +125,14 @@ no-km-0122; Kaschmir; en kasjmir; ; B2; Alltag/Kleidung/Stoffe & Muster; En kasj
 no-km-0123; atmungsaktiv; pustende; ; B2; Alltag/Kleidung/Stoffe & Muster; Denne jakka er vanntett og samtidig pustende.; Diese Jacke ist wasserdicht und zugleich atmungsaktiv.
 no-km-0124; knitterfrei; skrukkefri; ; B2; Alltag/Kleidung/Stoffe & Muster; Skrukkefrie skjorter er praktiske på forretningsreiser.; Knitterfreie Hemden sind praktisch für Geschäftsreisen.
 no-km-0125; Umhang; ei kappe; en kappe; B2; Alltag/Kleidung/Kleidungsstücke; Skuespilleren bar ei lang svart kappe på scenen.; Der Schauspieler trug auf der Bühne einen langen schwarzen Umhang.
-no-km-0126; Garderobe (Kleidung); ei garderobe; en garderobe; C1; Alltag/Kleidung/Stil; Hun fornyer garderoben sin to ganger i året.; Sie erneuert ihre Garderobe zweimal im Jahr.
+no-km-0126; Garderobe (alle Kleider, die man besitzt); ei garderobe; en garderobe; C1; Alltag/Kleidung/Stil; Hun fornyer garderoben sin to ganger i året.; Sie erneuert ihre Garderobe zweimal im Jahr.
 no-km-0127; Maßanzug; en skreddersydd dress; ; C1; Alltag/Kleidung/Pflege & Schneiderei; En skreddersydd dress sitter bedre enn alle andre.; Ein Maßanzug sitzt besser als jeder andere.
 no-km-0128; Konfektionsware; konfeksjonsklær; ; C1; Alltag/Kleidung/Mode & Design; Konfeksjonsklær er billigere enn skreddersydde klær.; Konfektionsware ist günstiger als maßgeschneiderte Kleidung.
 no-km-0129; Stoffmuster; en stoffprøve; ; C1; Alltag/Kleidung/Stoffe & Muster; Skredderen viste oss flere stoffprøver i blått.; Der Schneider zeigte uns mehrere Stoffmuster in Blau.
 no-km-0130; Webart; en vevning; ; C1; Alltag/Kleidung/Stoffe & Muster; Den tette vevningen gjør stoffet svært slitesterkt.; Die dichte Webart macht den Stoff sehr strapazierfähig.
 no-km-0131; Schnitt; et snitt; ; C1; Alltag/Kleidung/Mode & Design; Det moderne snittet får frakken til å virke slankere.; Der moderne Schnitt lässt den Mantel schlanker wirken.
 no-km-0132; Stickerei; et broderi; en brodering; C1; Alltag/Kleidung/Stoffe & Muster; Blusen har et fint broderi på kragen.; Die Bluse hat eine feine Stickerei am Kragen.
-no-km-0133; Spitze (Stoff); en blonde; ; C1; Alltag/Kleidung/Stoffe & Muster; Brudekjolen var pyntet med hvit blonde.; Das Hochzeitskleid war mit weißer Spitze verziert.
+no-km-0133; Spitze (ein Kleid aus Spitze); en blonde; ; C1; Alltag/Kleidung/Stoffe & Muster; Brudekjolen var pyntet med hvit blonde.; Das Hochzeitskleid war mit weißer Spitze verziert.
 no-km-0134; Rüsche; en rysj; ; C1; Alltag/Kleidung/Stoffe & Muster; Skjørtet har lekne rysjer i kanten.; Der Rock hat verspielte Rüschen am Saum.
 no-km-0135; Passform; en passform; ; C1; Alltag/Kleidung/Einkauf & Passform; Passformen på denne buksa er rett og slett perfekt.; Die Passform dieser Hose ist einfach perfekt.
 no-km-0136; Textilindustrie; en tekstilindustri; ; C1; Alltag/Kleidung/Mode & Design; Tekstilindustrien blir sakte men sikkert mer bærekraftig.; Die Textilindustrie wird langsam nachhaltiger.

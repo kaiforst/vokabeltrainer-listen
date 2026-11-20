@@ -15,7 +15,7 @@ xd-0012; Volk; people; nation; B1; Gesellschaft/Politik/Demokratie; In a democra
 xd-0013; Unabhängigkeit; independence; ; B1; Gesellschaft/Politik/Staat & Wahlen; The country celebrated fifty years of independence.; Das Land feierte fünfzig Jahre Unabhängigkeit.
 xd-0014; Flagge; flag; ; A2; Gesellschaft/Politik/Staat & Wahlen; The flag on the town hall is red and white.; Die Flagge auf dem Rathaus ist rot und weiß.
 xd-0015; Nationalhymne; national anthem; ; B1; Gesellschaft/Politik/Staat & Wahlen; The players sang the national anthem before the match.; Die Spieler sangen vor dem Spiel die Nationalhymne.
-xd-0016; Antrag (bei einer Behörde); application; ; B1; Gesellschaft/Politik/Staat & Wahlen; I filled in the application for a new passport.; Ich habe den Antrag für einen neuen Pass ausgefüllt.
+xd-0016; Antrag (einen Antrag stellen); application; ; B1; Gesellschaft/Politik/Staat & Wahlen; I filled in the application for a new passport.; Ich habe den Antrag für einen neuen Pass ausgefüllt.
 xd-0017; Bürokratie; bureaucracy; ; C1; Gesellschaft/Politik/Staat & Wahlen; Many small firms complain about too much bureaucracy.; Viele kleine Firmen klagen über zu viel Bürokratie.
 xd-0018; Stadtrat; city council; town council; B2; Gesellschaft/Politik/Staat & Wahlen; The city council voted for a new swimming pool.; Der Stadtrat stimmte für ein neues Schwimmbad.
 xd-0019; Regierungschef; head of government; ; B2; Gesellschaft/Politik/Staat & Wahlen; The heads of government met in Brussels.; Die Regierungschefs trafen sich in Brüssel.
@@ -32,7 +32,7 @@ xd-0029; Populismus; populism; ; C1; Gesellschaft/Politik/Parteien; Populism oft
 xd-0030; Parteivorsitzender; party leader; ; B2; Gesellschaft/Politik/Parteien; The party leader gave a speech after the election.; Der Parteivorsitzende hielt nach der Wahl eine Rede.
 xd-0031; Wahlversprechen; election promise; campaign promise; B2; Gesellschaft/Politik/Parteien; The government broke many of its election promises.; Die Regierung hat viele ihrer Wahlversprechen gebrochen.
 xd-0032; Steuerzahler; taxpayer; ; B2; Gesellschaft/Politik/Staat & Wahlen; The new bridge cost the taxpayers millions.; Die neue Brücke hat die Steuerzahler Millionen gekostet.
-xd-0033; Botschaft (Vertretung); embassy; ; B1; Gesellschaft/Politik/Internationales; You can get a visa at the embassy.; Ein Visum bekommst du bei der Botschaft.
+xd-0033; Botschaft (die deutsche Botschaft); embassy; ; B1; Gesellschaft/Politik/Internationales; You can get a visa at the embassy.; Ein Visum bekommst du bei der Botschaft.
 xd-0034; Konsulat; consulate; ; C1; Gesellschaft/Politik/Internationales; The consulate helped him after he lost his passport.; Das Konsulat half ihm, nachdem er seinen Pass verloren hatte.
 xd-0035; Gipfeltreffen; summit; ; B2; Gesellschaft/Politik/Internationales; The summit will take place in Paris next spring.; Das Gipfeltreffen findet nächsten Frühling in Paris statt.
 xd-0036; Sanktion; sanction; ; C1; Gesellschaft/Politik/Internationales; The European Union decided on new sanctions.; Die Europäische Union beschloss neue Sanktionen.
@@ -173,7 +173,7 @@ xd-0170; Karneval; carnival; ; A2; Freizeit/Feste & Feiern; At carnival the chil
 xd-0171; Muttertag; Mother's Day; ; A2; Freizeit/Feste & Feiern; On Mother's Day I make breakfast for my mum.; Am Muttertag mache ich meiner Mama Frühstück.
 xd-0172; Valentinstag; Valentine's Day; ; A2; Freizeit/Feste & Feiern; He sent her red roses on Valentine's Day.; Er schickte ihr am Valentinstag rote Rosen.
 xd-0173; Halloween; Halloween; ; A2; Freizeit/Feste & Feiern; At Halloween children go from door to door.; An Halloween gehen Kinder von Tür zu Tür.
-xd-0174; Fest (Feier); celebration; festival; A2; Freizeit/Feste & Feiern; The whole village came to the celebration in the square.; Das ganze Dorf kam zum Fest auf dem Marktplatz.
+xd-0174; Fest (ein Fest feiern); celebration; festival; A2; Freizeit/Feste & Feiern; The whole village came to the celebration in the square.; Das ganze Dorf kam zum Fest auf dem Marktplatz.
 xd-0175; Gastgeber; host; ; B1; Freizeit/Feste & Feiern; Our hosts had cooked a wonderful dinner.; Unsere Gastgeber hatten ein wunderbares Abendessen gekocht.
 xd-0176; Luftballon; balloon; ; A1; Freizeit/Feste & Feiern; We need fifty balloons for the party.; Wir brauchen fünfzig Luftballons für die Party.
 xd-0177; gratulieren; to congratulate; ; A2; Freizeit/Feste & Feiern; We all congratulated her on her birthday.; Wir haben ihr alle zum Geburtstag gratuliert.
@@ -227,7 +227,7 @@ xd-0224; Pyramide; pyramid; ; A2; Kultur/Geschichte; The pyramids in Egypt are v
 xd-0225; Mumie; mummy; ; B1; Kultur/Geschichte; The museum has a real Egyptian mummy.; Das Museum hat eine echte ägyptische Mumie.
 xd-0226; Antike; antiquity; ancient times; C1; Kultur/Geschichte; The theatre was invented in antiquity.; Das Theater wurde in der Antike erfunden.
 xd-0227; Römer; Roman; ; A2; Kultur/Geschichte; The Romans built roads all over Europe.; Die Römer bauten Straßen in ganz Europa.
-xd-0228; Reich (Herrschaftsgebiet); empire; ; B1; Kultur/Geschichte; The Roman Empire was very large.; Das Römische Reich war sehr groß.
+xd-0228; Reich (das Römische Reich); empire; ; B1; Kultur/Geschichte; The Roman Empire was very large.; Das Römische Reich war sehr groß.
 xd-0229; Herrscher; ruler; ; B1; Kultur/Geschichte; The ruler wanted to make his empire even bigger.; Der Herrscher wollte sein Reich noch größer machen.
 xd-0230; Thron; throne; ; B1; Kultur/Geschichte; The young prince came to the throne at sixteen.; Der junge Prinz bestieg mit sechzehn den Thron.
 xd-0231; Krone; crown; ; A2; Kultur/Geschichte; The queen's crown is kept in the tower.; Die Krone der Königin wird im Turm aufbewahrt.
@@ -248,7 +248,7 @@ xd-0245; Renaissance; Renaissance; ; B2; Kultur/Geschichte; Florence is famous f
 xd-0246; Kolonie; colony; ; B2; Kultur/Geschichte; India was once a British colony.; Indien war einst eine britische Kolonie.
 xd-0247; Kolonialismus; colonialism; ; C1; Kultur/Geschichte; Many African countries still feel the effects of colonialism.; Viele afrikanische Länder spüren noch die Folgen des Kolonialismus.
 xd-0248; Sklaverei; slavery; ; B1; Kultur/Geschichte; Slavery was abolished in the nineteenth century.; Die Sklaverei wurde im neunzehnten Jahrhundert abgeschafft.
-xd-0249; Aufklärung (Epoche); Enlightenment; ; C1; Kultur/Geschichte; Kant is one of the great thinkers of the Enlightenment.; Kant ist einer der großen Denker der Aufklärung.
+xd-0249; Aufklärung (das Zeitalter der Aufklärung); Enlightenment; ; C1; Kultur/Geschichte; Kant is one of the great thinkers of the Enlightenment.; Kant ist einer der großen Denker der Aufklärung.
 xd-0250; Industrialisierung; industrialisation; industrialization; C1; Kultur/Geschichte; Industrialisation brought many people into the cities.; Die Industrialisierung brachte viele Menschen in die Städte.
 xd-0251; Aufstand; uprising; rebellion, revolt; C1; Kultur/Geschichte; The uprising was ended by the army.; Der Aufstand wurde von der Armee beendet.
 xd-0252; Rebell; rebel; ; B2; Kultur/Geschichte; The rebels took control of the capital.; Die Rebellen übernahmen die Kontrolle über die Hauptstadt.
@@ -263,7 +263,7 @@ xd-0260; Archäologie; archaeology; archeology; B2; Kultur/Geschichte; She wants
 xd-0261; Kultur; culture; ; A2; Kultur/Kunst & Museum; I love learning about the culture of other countries.; Ich lerne gern etwas über die Kultur anderer Länder.
 xd-0262; kulturell; cultural; ; B1; Kultur/Kunst & Museum; The city has a rich cultural life.; Die Stadt hat ein reiches kulturelles Leben.
 xd-0263; Malerei; painting; ; B1; Kultur/Kunst & Museum; She is interested in modern painting.; Sie interessiert sich für moderne Malerei.
-xd-0264; Maler (Künstler); painter; artist; A2; Kultur/Kunst & Museum; Van Gogh is a famous Dutch painter.; Van Gogh ist ein berühmter niederländischer Maler.
+xd-0264; Maler (ein berühmter Maler); painter; artist; A2; Kultur/Kunst & Museum; Van Gogh is a famous Dutch painter.; Van Gogh ist ein berühmter niederländischer Maler.
 xd-0265; Kunstgeschichte; art history; history of art; B1; Kultur/Kunst & Museum; My sister studies art history in Munich.; Meine Schwester studiert Kunstgeschichte in München.
 xd-0266; Statue; statue; ; A2; Kultur/Kunst & Museum; There is a bronze statue in the middle of the square.; Mitten auf dem Platz steht eine Statue aus Bronze.
 xd-0267; Skizze; sketch; ; B1; Kultur/Kunst & Museum; The artist made a quick sketch of the bridge.; Der Künstler machte eine schnelle Skizze der Brücke.
@@ -294,7 +294,7 @@ xd-0291; Drache; dragon; ; A2; Kultur/Literatur; The knight had to fight a drago
 xd-0292; Science-Fiction; science fiction; ; B1; Kultur/Literatur; My brother only reads science fiction.; Mein Bruder liest nur Science-Fiction.
 xd-0293; Theaterstück; play; ; A2; Kultur/Theater & Film; Our class is performing a play at the end of term.; Unsere Klasse führt zum Schuljahresende ein Theaterstück auf.
 xd-0294; Drama; drama; ; B1; Kultur/Theater & Film; The drama is about a family in crisis.; Das Drama handelt von einer Familie in der Krise.
-xd-0295; Akt (Theater); act; ; B2; Kultur/Theater & Film; The hero dies in the last act.; Der Held stirbt im letzten Akt.
+xd-0295; Akt (der erste Akt eines Stücks); act; ; B2; Kultur/Theater & Film; The hero dies in the last act.; Der Held stirbt im letzten Akt.
 xd-0296; Szene; scene; ; B1; Kultur/Theater & Film; The best scene of the film is at the beach.; Die beste Szene des Films spielt am Strand.
 xd-0297; Musical; musical; ; A2; Kultur/Theater & Film; We saw a musical in London.; Wir haben in London ein Musical gesehen.
 xd-0298; Ballett; ballet; ; A2; Kultur/Theater & Film; My little sister goes to ballet twice a week.; Meine kleine Schwester geht zweimal pro Woche zum Ballett.
@@ -334,7 +334,7 @@ xd-0331; Studie; study; ; B2; Wissenschaft/Forschung & Methode; A new study show
 xd-0332; Analyse; analysis; ; B2; Wissenschaft/Forschung & Methode; The analysis of the data took several weeks.; Die Analyse der Daten dauerte mehrere Wochen.
 xd-0333; analysieren; to analyse; to analyze; B2; Wissenschaft/Forschung & Methode; The scientists analysed the water from the lake.; Die Wissenschaftler analysierten das Wasser aus dem See.
 xd-0334; Beobachtung; observation; ; B2; Wissenschaft/Forschung & Methode; Write down your observations in your notebook.; Schreib deine Beobachtungen in dein Heft.
-xd-0335; Probe (Untersuchung); sample; ; B2; Wissenschaft/Forschung & Methode; The doctor sent the sample to the lab.; Der Arzt schickte die Probe ins Labor.
+xd-0335; Probe (eine Probe im Labor); sample; ; B2; Wissenschaft/Forschung & Methode; The doctor sent the sample to the lab.; Der Arzt schickte die Probe ins Labor.
 xd-0336; Mikroskop; microscope; ; B1; Wissenschaft/Forschung & Methode; Under the microscope you can see the cells.; Unter dem Mikroskop kann man die Zellen sehen.
 xd-0337; Lupe; magnifying glass; ; B1; Wissenschaft/Forschung & Methode; The boy looked at the ant through a magnifying glass.; Der Junge betrachtete die Ameise durch eine Lupe.
 xd-0338; Formel; formula; ; B1; Wissenschaft/Forschung & Methode; You have to learn this formula for the test.; Diese Formel musst du für den Test lernen.
@@ -355,7 +355,7 @@ xd-0352; Stahl; steel; ; B1; Wissenschaft/Chemie; The bridge is made of steel.; 
 xd-0353; Mischung; mixture; ; B1; Wissenschaft/Chemie; Air is a mixture of different gases.; Luft ist eine Mischung aus verschiedenen Gasen.
 xd-0354; plus; plus; ; A1; Wissenschaft/Mathematik; Two plus three is five.; Zwei plus drei ist fünf.
 xd-0355; minus; minus; ; A1; Wissenschaft/Mathematik; Ten minus four is six.; Zehn minus vier ist sechs.
-xd-0356; mal (beim Rechnen); times; ; A1; Wissenschaft/Mathematik; Three times four is twelve.; Drei mal vier ist zwölf.
+xd-0356; mal (drei mal vier); times; ; A1; Wissenschaft/Mathematik; Three times four is twelve.; Drei mal vier ist zwölf.
 xd-0357; geteilt durch; divided by; ; A1; Wissenschaft/Mathematik; Twenty divided by five is four.; Zwanzig geteilt durch fünf ist vier.
 xd-0358; addieren; to add; to add up; A2; Wissenschaft/Mathematik; First add the two numbers together.; Addiere zuerst die beiden Zahlen.
 xd-0359; subtrahieren; to subtract; ; A2; Wissenschaft/Mathematik; Subtract seven from twenty and write down the result.; Subtrahiere sieben von zwanzig und schreib das Ergebnis auf.
@@ -389,7 +389,7 @@ xd-0386; Yoga; yoga; ; A2; Freizeit/Sport/Sportarten; My mother does yoga every 
 xd-0387; Marathon; marathon; ; B1; Freizeit/Sport/Sportarten; He ran his first marathon at fifty.; Mit fünfzig lief er seinen ersten Marathon.
 xd-0388; segeln; to sail; ; A2; Freizeit/Sport/Sportarten; We sailed around the island in a small boat.; Wir segelten in einem kleinen Boot um die Insel.
 xd-0389; rudern; to row; ; B1; Freizeit/Sport/Sportarten; They rowed across the lake in an old boat.; Sie ruderten in einem alten Boot über den See.
-xd-0390; surfen (Wellen); to surf; ; A2; Freizeit/Sport/Sportarten; We learned to surf in Portugal.; Wir haben in Portugal surfen gelernt.
+xd-0390; surfen (auf den Wellen surfen); to surf; ; A2; Freizeit/Sport/Sportarten; We learned to surf in Portugal.; Wir haben in Portugal surfen gelernt.
 xd-0391; tauchen; to dive; ; A2; Freizeit/Sport/Sportarten; In the Red Sea we dived with turtles.; Im Roten Meer sind wir mit Schildkröten getaucht.
 xd-0392; Bergsteigen; mountaineering; ; B1; Freizeit/Sport/Sportarten; Mountaineering in the Alps can be dangerous.; Bergsteigen in den Alpen kann gefährlich sein.
 xd-0393; Wintersport; winter sports; ; A2; Freizeit/Sport/Sportarten; We love winter sports like skiing and skating.; Wir lieben Wintersport wie Skifahren und Eislaufen.
@@ -401,13 +401,13 @@ xd-0398; Unentschieden; draw; tie; B1; Freizeit/Sport/Wettkampf; The match ended
 xd-0399; Freistoß; free kick; ; B1; Freizeit/Sport/Wettkampf; He scored directly from a free kick.; Er traf direkt aus einem Freistoß.
 xd-0400; Eckball; corner; corner kick; B2; Freizeit/Sport/Wettkampf; The goal came after a corner.; Das Tor fiel nach einem Eckball.
 xd-0401; Kopfball; header; ; B2; Freizeit/Sport/Wettkampf; He scored the winning goal with a header.; Er erzielte das Siegtor mit einem Kopfball.
-xd-0402; Verteidiger (Sport); defender; ; B1; Freizeit/Sport/Wettkampf; The defender stopped the ball just before the line.; Der Verteidiger stoppte den Ball kurz vor der Linie.
+xd-0402; Verteidiger (im Fußball); defender; ; B1; Freizeit/Sport/Wettkampf; The defender stopped the ball just before the line.; Der Verteidiger stoppte den Ball kurz vor der Linie.
 xd-0403; Fan; fan; ; A2; Freizeit/Sport/Wettkampf, Kultur/Musik; The fans sang during the whole match.; Die Fans sangen während des ganzen Spiels.
 xd-0404; Heimspiel; home game; home match; B1; Freizeit/Sport/Wettkampf; Our team won all its home games this season.; Unsere Mannschaft hat in dieser Saison alle Heimspiele gewonnen.
 xd-0405; Auswärtsspiel; away game; away match; B1; Freizeit/Sport/Wettkampf; Many fans travelled to the away game.; Viele Fans reisten zum Auswärtsspiel.
 xd-0406; Finale; final; ; A2; Freizeit/Sport/Wettkampf; Germany reached the final after a great match.; Deutschland erreichte nach einem tollen Spiel das Finale.
 xd-0407; Weltmeisterschaft; World Cup; world championship; A2; Freizeit/Sport/Wettkampf; The World Cup takes place every four years.; Die Weltmeisterschaft findet alle vier Jahre statt.
-xd-0408; Meister (Sport); champion; ; B1; Freizeit/Sport/Wettkampf; Our club became champions for the first time.; Unser Verein wurde zum ersten Mal Meister.
+xd-0408; Meister (deutscher Meister werden); champion; ; B1; Freizeit/Sport/Wettkampf; Our club became champions for the first time.; Unser Verein wurde zum ersten Mal Meister.
 xd-0409; Goldmedaille; gold medal; ; A2; Freizeit/Sport/Wettkampf; She won a gold medal in swimming.; Sie gewann eine Goldmedaille im Schwimmen.
 xd-0410; Weltrekord; world record; ; B1; Freizeit/Sport/Wettkampf; He broke the world record by one second.; Er brach den Weltrekord um eine Sekunde.
 xd-0411; Siegerehrung; award ceremony; medal ceremony; B2; Freizeit/Sport/Wettkampf; At the award ceremony she could not stop smiling.; Bei der Siegerehrung konnte sie nicht aufhören zu lächeln.
@@ -429,11 +429,11 @@ xd-0426; Kuscheltier; cuddly toy; soft toy; A2; Freizeit/Spiele; She took her fa
 xd-0427; Schaukel; swing; ; A2; Freizeit/Spiele; The children are playing on the swings.; Die Kinder spielen auf der Schaukel.
 xd-0428; Rutsche; slide; ; A2; Freizeit/Spiele; The slide in the park is very high.; Die Rutsche im Park ist sehr hoch.
 xd-0429; Verstecken; hide and seek; hide-and-seek; A2; Freizeit/Spiele; Let's play hide and seek in the garden.; Lass uns im Garten Verstecken spielen.
-xd-0430; Drachen (Spielzeug); kite; ; A2; Freizeit/Spiele; In autumn we fly our kite in the fields.; Im Herbst lassen wir auf den Feldern unseren Drachen steigen.
+xd-0430; Drachen (einen Drachen steigen lassen); kite; ; A2; Freizeit/Spiele; In autumn we fly our kite in the fields.; Im Herbst lassen wir auf den Feldern unseren Drachen steigen.
 xd-0431; Videospiel; video game; ; A2; Freizeit/Spiele; He spends too much time playing video games.; Er verbringt zu viel Zeit mit Videospielen.
 xd-0432; Computerspiel; computer game; ; A2; Freizeit/Spiele; This computer game is for children over twelve.; Dieses Computerspiel ist für Kinder über zwölf.
 xd-0433; Spielkonsole; games console; game console; B1; Freizeit/Spiele; He got a new games console for Christmas.; Er hat zu Weihnachten eine neue Spielkonsole bekommen.
-xd-0434; würfeln (Spiel); to roll the dice; to throw the dice; A2; Freizeit/Spiele; It is your turn to roll the dice.; Jetzt bist du dran zu würfeln.
+xd-0434; würfeln (beim Brettspiel würfeln); to roll the dice; to throw the dice; A2; Freizeit/Spiele; It is your turn to roll the dice.; Jetzt bist du dran zu würfeln.
 xd-0435; Rätsel; riddle; puzzle; A2; Freizeit/Spiele; Can you solve this riddle in one minute?; Kannst du dieses Rätsel in einer Minute lösen?
 xd-0436; Kreuzworträtsel; crossword; crossword puzzle; B1; Freizeit/Spiele; My father does the crossword every morning.; Mein Vater löst jeden Morgen das Kreuzworträtsel.
 xd-0437; Quiz; quiz; ; A2; Freizeit/Spiele; Our team won the quiz at the pub.; Unser Team hat das Quiz in der Kneipe gewonnen.

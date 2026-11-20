@@ -5,14 +5,14 @@ fr-xc-0002; Lamm; l'agneau; ; A2; Natur/Tiere/Haustiere; Au printemps, les agnea
 fr-xc-0003; Welpe; le chiot; ; A2; Natur/Tiere/Haustiere; Notre nouveau chiot mordille tout ce qu'il trouve.; Unser neuer Welpe kaut auf allem herum, was er findet.
 fr-xc-0004; Kätzchen; le chaton; ; A2; Natur/Tiere/Haustiere; Le chaton joue avec une pelote de laine.; Das Kätzchen spielt mit einem Wollknäuel.
 fr-xc-0005; Küken; le poussin; ; B1; Natur/Tiere/Haustiere; Six petits poussins jaunes ont éclos ce matin.; Heute Morgen sind sechs kleine gelbe Küken geschlüpft.
-fr-xc-0006; Hahn (Tier); le coq; ; A2; Natur/Tiere/Haustiere; Le coq réveille toute la ferme à cinq heures.; Der Hahn weckt um fünf Uhr den ganzen Hof.
+fr-xc-0006; Hahn (der Hahn kräht); le coq; ; A2; Natur/Tiere/Haustiere; Le coq réveille toute la ferme à cinq heures.; Der Hahn weckt um fünf Uhr den ganzen Hof.
 fr-xc-0007; Stier; le taureau; ; B1; Natur/Tiere/Haustiere; N'entre jamais dans un pré où il y a un taureau.; Geh nie auf eine Weide, auf der ein Stier steht.
 fr-xc-0008; Gans; l'oie; ; B1; Natur/Tiere/Haustiere; Une oie nous a poursuivis à travers le pré.; Eine Gans hat uns über die Wiese gejagt.
 fr-xc-0009; Truthahn; la dinde; le dindon; B1; Natur/Tiere/Haustiere; Beaucoup de familles mangent de la dinde à Noël.; Viele Familien essen an Weihnachten Truthahn.
 fr-xc-0010; Hamster; le hamster; ; A2; Natur/Tiere/Haustiere; Mon hamster dort le jour et court toute la nuit.; Mein Hamster schläft tagsüber und rennt die ganze Nacht.
 fr-xc-0011; Meerschweinchen; le cochon d'Inde; le cobaye; A2; Natur/Tiere/Haustiere; Les enfants nourrissent le cochon d'Inde chaque matin.; Die Kinder füttern jeden Morgen das Meerschweinchen.
 fr-xc-0012; Goldfisch; le poisson rouge; ; A2; Natur/Tiere/Haustiere; Notre poisson rouge nage en rond dans son bocal.; Unser Goldfisch schwimmt in seinem Glas im Kreis.
-fr-xc-0013; Pony (Tier); le poney; ; A2; Natur/Tiere/Haustiere; Ma petite sœur monte un poney tous les samedis.; Meine kleine Schwester reitet jeden Samstag auf einem Pony.
+fr-xc-0013; Pony (auf einem Pony reiten); le poney; ; A2; Natur/Tiere/Haustiere; Ma petite sœur monte un poney tous les samedis.; Meine kleine Schwester reitet jeden Samstag auf einem Pony.
 fr-xc-0014; Käfig; la cage; ; B1; Natur/Tiere/Haustiere; L'oiseau chante toute la journée dans sa cage.; Der Vogel singt den ganzen Tag in seinem Käfig.
 fr-xc-0015; Stall; l'écurie; l'étable; B1; Natur/Tiere/Haustiere; Les chevaux passent la nuit dans l'écurie.; Die Pferde verbringen die Nacht im Stall.
 fr-xc-0016; Tierarzt; le vétérinaire; la vétérinaire; A2; Natur/Tiere/Haustiere; Demain, nous emmenons le chat chez le vétérinaire.; Morgen bringen wir die Katze zum Tierarzt.
@@ -48,14 +48,14 @@ fr-xc-0045; Delfin; le dauphin; ; A2; Natur/Tiere/Meerestiere; Des dauphins ont 
 fr-xc-0046; Hai; le requin; ; A2; Natur/Tiere/Meerestiere; On voit parfois des requins près de cette plage.; Man sieht manchmal Haie an diesem Strand.
 fr-xc-0047; Tintenfisch; le calmar; le calamar, la pieuvre, le poulpe, la seiche; B2; Natur/Tiere/Meerestiere; Le calmar projette de l'encre quand il a peur.; Der Tintenfisch spritzt Tinte, wenn er Angst hat.
 fr-xc-0048; Qualle; la méduse; ; B2; Natur/Tiere/Meerestiere; Attention, il y a des méduses dans l'eau aujourd'hui.; Vorsicht, heute sind Quallen im Wasser.
-fr-xc-0049; Muschel (Schale); le coquillage; la coquille; B1; Natur/Tiere/Meerestiere; Les enfants ramassent des coquillages sur la plage.; Die Kinder sammeln Muscheln am Strand.
+fr-xc-0049; Muschel (Muscheln am Strand sammeln); le coquillage; la coquille; B1; Natur/Tiere/Meerestiere; Les enfants ramassent des coquillages sur la plage.; Die Kinder sammeln Muscheln am Strand.
 fr-xc-0050; Seestern; l'étoile de mer; ; B2; Natur/Tiere/Meerestiere; Nous avons trouvé une étoile de mer entre les rochers.; Wir haben zwischen den Felsen einen Seestern gefunden.
 fr-xc-0051; Pinguin; le manchot; le pingouin; A2; Natur/Tiere/Vögel; Les manchots vivent surtout dans l'hémisphère Sud.; Pinguine leben vor allem auf der Südhalbkugel.
 fr-xc-0052; Spatz; le moineau; ; B2; Natur/Tiere/Vögel; Un moineau picore les miettes sous notre table.; Ein Spatz pickt die Krümel unter unserem Tisch auf.
 fr-xc-0053; Amsel; le merle; ; B2; Natur/Tiere/Vögel; Le merle chante très tôt le matin dans le jardin.; Die Amsel singt sehr früh am Morgen im Garten.
 fr-xc-0054; Rabe; le corbeau; ; B2; Natur/Tiere/Vögel; Un grand corbeau noir est posé sur le toit.; Ein großer schwarzer Rabe sitzt auf dem Dach.
 fr-xc-0055; Krähe; la corneille; ; B2; Natur/Tiere/Vögel; Les corneilles cherchent à manger dans le champ.; Die Krähen suchen auf dem Feld nach Futter.
-fr-xc-0056; Strauß (Vogel); l'autruche; ; B1; Natur/Tiere/Vögel; L'autruche court très vite mais ne vole pas.; Der Strauß läuft sehr schnell, aber er fliegt nicht.
+fr-xc-0056; Strauß (der Vogel Strauß); l'autruche; ; B1; Natur/Tiere/Vögel; L'autruche court très vite mais ne vole pas.; Der Strauß läuft sehr schnell, aber er fliegt nicht.
 fr-xc-0057; Flamingo; le flamant rose; le flamant; B1; Natur/Tiere/Vögel; Des milliers de flamants roses vivent en Camargue.; Tausende Flamingos leben in der Camargue.
 fr-xc-0058; Storch; la cigogne; ; B2; Natur/Tiere/Vögel; En Alsace, les cigognes font leur nid sur les toits.; Im Elsass bauen die Störche ihre Nester auf den Dächern.
 fr-xc-0059; zwitschern; gazouiller; pépier; C1; Natur/Tiere/Vögel; Dès l'aube, les oiseaux gazouillent dans le jardin.; Schon im Morgengrauen zwitschern die Vögel im Garten.
@@ -70,8 +70,8 @@ fr-xc-0067; Zecke; la tique; ; B2; Natur/Tiere/Insekten; Après la promenade, v�
 fr-xc-0068; Motte; la mite; ; B2; Natur/Tiere/Insekten; Les mites ont fait des trous dans mon pull.; Die Motten haben Löcher in meinen Pullover gefressen.
 fr-xc-0069; Kakerlake; le cafard; la blatte; B2; Natur/Tiere/Insekten; Il y avait un cafard dans la cuisine de l'hôtel.; In der Küche des Hotels war eine Kakerlake.
 fr-xc-0070; Ungeziefer; la vermine; les nuisibles; C1; Natur/Tiere/Insekten; La vieille cave était pleine de vermine.; Der alte Keller war voller Ungeziefer.
-fr-xc-0071; summen (Insekt); bourdonner; ; B1; Natur/Tiere/Insekten; Les abeilles bourdonnent autour des fleurs.; Die Bienen summen um die Blumen herum.
-fr-xc-0072; stechen (Insekt); piquer; ; B1; Natur/Tiere/Insekten; Une guêpe m'a piqué au bras.; Eine Wespe hat mich in den Arm gestochen.
+fr-xc-0071; summen (die Biene summt); bourdonner; ; B1; Natur/Tiere/Insekten; Les abeilles bourdonnent autour des fleurs.; Die Bienen summen um die Blumen herum.
+fr-xc-0072; stechen (eine Biene sticht); piquer; ; B1; Natur/Tiere/Insekten; Une guêpe m'a piqué au bras.; Eine Wespe hat mich in den Arm gestochen.
 fr-xc-0073; Spinnennetz; la toile d'araignée; ; B1; Natur/Tiere/Insekten; Il y a une toile d'araignée dans le coin de la fenêtre.; In der Ecke des Fensters hängt ein Spinnennetz.
 fr-xc-0074; Rose; la rose; ; A1; Natur/Pflanzen; Il lui a offert une rose rouge.; Er hat ihr eine rote Rose geschenkt.
 fr-xc-0075; Tulpe; la tulipe; ; B1; Natur/Pflanzen; Au printemps, les tulipes fleurissent dans tout le parc.; Im Frühling blühen im ganzen Park die Tulpen.
@@ -96,7 +96,7 @@ fr-xc-0093; Laub; les feuilles; le feuillage, les feuilles mortes; B2; Natur/Pfl
 fr-xc-0094; Pollen; le pollen; ; B2; Natur/Pflanzen; Au printemps, le pollen me fait éternuer.; Im Frühling bringen mich die Pollen zum Niesen.
 fr-xc-0095; Efeu; le lierre; ; B2; Natur/Pflanzen; Le lierre couvre tout le mur de la maison.; Der Efeu bedeckt die ganze Wand des Hauses.
 fr-xc-0096; Scheune; la grange; ; B2; Natur/Landwirtschaft; Le foin est stocké dans la grange.; Das Heu wird in der Scheune gelagert.
-fr-xc-0097; Weide (Wiese); le pâturage; ; C1; Natur/Landwirtschaft; Les vaches passent tout l'été au pâturage.; Die Kühe verbringen den ganzen Sommer auf der Weide.
+fr-xc-0097; Weide (Kühe auf der Weide); le pâturage; ; C1; Natur/Landwirtschaft; Les vaches passent tout l'été au pâturage.; Die Kühe verbringen den ganzen Sommer auf der Weide.
 fr-xc-0098; Ernte; la récolte; ; B1; Natur/Landwirtschaft; Cette année, la récolte a commencé dès août.; Dieses Jahr hat die Ernte schon im August begonnen.
 fr-xc-0099; Getreide; les céréales; ; B2; Natur/Landwirtschaft; Le pain est fabriqué avec des céréales.; Brot wird aus Getreide hergestellt.
 fr-xc-0100; Weizen; le blé; ; B1; Natur/Landwirtschaft; En juillet, le blé est doré dans les champs.; Im Juli steht der Weizen goldgelb auf den Feldern.
@@ -111,7 +111,7 @@ fr-xc-0108; Felsen; le rocher; la roche; B1; Natur/Landschaft; Les enfants grimp
 fr-xc-0109; Sand; le sable; ; A1; Natur/Landschaft; Le sable de cette plage est très fin.; Der Sand an diesem Strand ist sehr fein.
 fr-xc-0110; Düne; la dune; ; B2; Natur/Landschaft; La dune du Pilat est la plus haute d'Europe.; Die Düne von Pilat ist die höchste Europas.
 fr-xc-0111; Vulkan; le volcan; ; B1; Natur/Landschaft; L'Etna est un volcan toujours actif.; Der Ätna ist ein immer noch aktiver Vulkan.
-fr-xc-0112; Quelle (Wasser); la source; ; B2; Natur/Landschaft; L'eau de cette source est fraîche et pure.; Das Wasser dieser Quelle ist frisch und rein.
+fr-xc-0112; Quelle (Wasser aus der Quelle); la source; ; B2; Natur/Landschaft; L'eau de cette source est fraîche et pure.; Das Wasser dieser Quelle ist frisch und rein.
 fr-xc-0113; Dschungel; la jungle; ; B1; Natur/Landschaft; Le guide nous a conduits à travers la jungle.; Der Führer hat uns durch den Dschungel geführt.
 fr-xc-0114; Urwald; la forêt vierge; la forêt primaire, la jungle; B2; Natur/Landschaft; Chaque année, une partie de la forêt vierge disparaît.; Jedes Jahr verschwindet ein Teil des Urwalds.
 fr-xc-0115; Bucht; la baie; la crique; B1; Natur/Landschaft; Nous avons nagé dans une petite baie tranquille.; Wir sind in einer kleinen, ruhigen Bucht geschwommen.
@@ -120,7 +120,7 @@ fr-xc-0117; Ozean; l'océan; ; A2; Natur/Landschaft; L'océan Atlantique est plu
 fr-xc-0118; Horizont; l'horizon; ; B1; Natur/Landschaft; Le soleil disparaît lentement à l'horizon.; Die Sonne verschwindet langsam am Horizont.
 fr-xc-0119; Landschaft; le paysage; ; B1; Natur/Landschaft; Le paysage du Jura est magnifique en automne.; Die Landschaft im Jura ist im Herbst wunderschön.
 fr-xc-0120; Ebbe; la marée basse; ; B2; Natur/Landschaft; À marée basse, on peut marcher jusqu'à l'île.; Bei Ebbe kann man bis zur Insel laufen.
-fr-xc-0121; Flut (Gezeiten); la marée haute; ; B2; Natur/Landschaft; À marée haute, la plage disparaît presque entièrement.; Bei Flut verschwindet der Strand fast ganz.
+fr-xc-0121; Flut (Ebbe und Flut); la marée haute; ; B2; Natur/Landschaft; À marée haute, la plage disparaît presque entièrement.; Bei Flut verschwindet der Strand fast ganz.
 fr-xc-0122; Strömung; le courant; ; B2; Natur/Landschaft; Ne nage pas ici, le courant est trop fort.; Schwimm hier nicht, die Strömung ist zu stark.
 fr-xc-0123; Korallenriff; le récif de corail; le récif corallien; B2; Natur/Landschaft; Nous avons plongé près d'un récif de corail.; Wir sind an einem Korallenriff getaucht.
 fr-xc-0124; Eisberg; l'iceberg; ; B1; Natur/Landschaft; Le Titanic a heurté un iceberg en 1912.; Die Titanic ist 1912 mit einem Eisberg zusammengestoßen.
@@ -242,8 +242,8 @@ fr-xc-0239; Sonnenschein; le soleil; l'ensoleillement; A2; Natur/Umwelt/Wetter; 
 fr-xc-0240; Unwetter; les intempéries; ; B2; Natur/Umwelt/Wetter; Les intempéries ont causé des dégâts dans toute la région.; Das Unwetter hat in der ganzen Region Schäden verursacht.
 fr-xc-0241; Wetterbericht; le bulletin météo; la météo; A2; Natur/Umwelt/Wetter; Mon père écoute le bulletin météo tous les matins.; Mein Vater hört jeden Morgen den Wetterbericht.
 fr-xc-0242; Thermometer; le thermomètre; ; B1; Natur/Umwelt/Wetter; Le thermomètre indique moins dix degrés.; Das Thermometer zeigt minus zehn Grad.
-fr-xc-0243; Schatten (kühler Ort); l'ombre; ; A2; Natur/Umwelt/Wetter; Asseyons-nous à l'ombre de ce grand arbre.; Setzen wir uns in den Schatten dieses großen Baums.
-fr-xc-0244; Schatten (Umriss); l'ombre; ; B1; Natur/Umwelt/Wetter; Le soir, nos ombres deviennent très longues.; Am Abend werden unsere Schatten sehr lang.
+fr-xc-0243; Schatten (im Schatten sitzen); l'ombre; ; A2; Natur/Umwelt/Wetter; Asseyons-nous à l'ombre de ce grand arbre.; Setzen wir uns in den Schatten dieses großen Baums.
+fr-xc-0244; Schatten (einen Schatten werfen); l'ombre; ; B1; Natur/Umwelt/Wetter; Le soir, nos ombres deviennent très longues.; Am Abend werden unsere Schatten sehr lang.
 fr-xc-0245; donnern; tonner; ; B1; Natur/Umwelt/Wetter; Il a tonné presque toute la nuit.; Es hat fast die ganze Nacht gedonnert.
 fr-xc-0246; hageln; grêler; ; B2; Natur/Umwelt/Wetter; Hier, il a grêlé pendant dix minutes.; Gestern hat es zehn Minuten lang gehagelt.
 fr-xc-0247; tauen; fondre; dégeler; B2; Natur/Umwelt/Wetter; Au soleil, la neige fond très vite.; In der Sonne taut der Schnee sehr schnell.
@@ -327,12 +327,12 @@ fr-xc-0324; Reihenhaus; la maison mitoyenne; la maison en bande; B2; Alltag/Stad
 fr-xc-0325; Einfamilienhaus; la maison individuelle; ; B2; Alltag/Stadt/Gebäude; Beaucoup de familles rêvent d'une maison individuelle avec jardin.; Viele Familien träumen von einem Einfamilienhaus mit Garten.
 fr-xc-0326; Wohnblock; l'immeuble d'habitation; l'immeuble; B2; Alltag/Stadt/Gebäude; Nous habitons dans un grand immeuble près du parc.; Wir wohnen in einem großen Wohnblock am Park.
 fr-xc-0327; Abriss; la démolition; ; C1; Alltag/Stadt/Gebäude; La démolition du vieux stade commence lundi.; Der Abriss des alten Stadions beginnt am Montag.
-fr-xc-0328; Botschaft (Vertretung); l'ambassade; ; B1; Alltag/Stadt/Gebäude; Pour obtenir le visa, il faut aller à l'ambassade.; Um das Visum zu bekommen, muss man zur Botschaft gehen.
+fr-xc-0328; Botschaft (die deutsche Botschaft); l'ambassade; ; B1; Alltag/Stadt/Gebäude; Pour obtenir le visa, il faut aller à l'ambassade.; Um das Visum zu bekommen, muss man zur Botschaft gehen.
 fr-xc-0329; Marktplatz; la place du marché; ; A2; Alltag/Stadt/Straßen & Plätze; Le samedi, il y a beaucoup de stands sur la place du marché.; Samstags gibt es auf dem Marktplatz viele Stände.
 fr-xc-0330; Gasse; la ruelle; ; B2; Alltag/Stadt/Straßen & Plätze; Nous nous sommes perdus dans les ruelles de la vieille ville.; Wir haben uns in den Gassen der Altstadt verlaufen.
 fr-xc-0331; Hauptstraße; la rue principale; la grand-rue, la route principale; A2; Alltag/Stadt/Straßen & Plätze; Tous les magasins se trouvent dans la rue principale.; Alle Geschäfte liegen an der Hauptstraße.
 fr-xc-0332; Seitenstraße; la rue adjacente; la rue latérale, la rue transversale; B1; Alltag/Stadt/Straßen & Plätze; Nous avons trouvé un petit café dans une rue adjacente.; Wir haben in einer Seitenstraße ein kleines Café gefunden.
-fr-xc-0333; Sackgasse (Straße); l'impasse; le cul-de-sac; B2; Alltag/Stadt/Straßen & Plätze; Notre maison se trouve au fond d'une impasse.; Unser Haus liegt am Ende einer Sackgasse.
+fr-xc-0333; Sackgasse (in einer Sackgasse wohnen); l'impasse; le cul-de-sac; B2; Alltag/Stadt/Straßen & Plätze; Notre maison se trouve au fond d'une impasse.; Unser Haus liegt am Ende einer Sackgasse.
 fr-xc-0334; Straßenlaterne; le réverbère; le lampadaire; B2; Alltag/Stadt/Straßen & Plätze; Les réverbères s'allument à la tombée de la nuit.; Die Straßenlaternen gehen bei Einbruch der Dunkelheit an.
 fr-xc-0335; Bürgersteig; le trottoir; ; B1; Alltag/Stadt/Straßen & Plätze; Les vélos n'ont pas le droit de rouler sur le trottoir.; Fahrräder dürfen nicht auf dem Bürgersteig fahren.
 fr-xc-0336; Hausnummer; le numéro de rue; le numéro de maison; A2; Alltag/Stadt/Straßen & Plätze; Il manque le numéro de rue sur l'enveloppe.; Auf dem Umschlag fehlt die Hausnummer.
@@ -373,8 +373,8 @@ fr-xc-0370; E-Roller; la trottinette électrique; ; B1; Reisen/Verkehr/Fahrrad; 
 fr-xc-0371; Radtour; la balade à vélo; la randonnée à vélo, la sortie à vélo; A2; Reisen/Verkehr/Fahrrad; Dimanche, nous faisons une balade à vélo le long de la Loire.; Am Sonntag machen wir eine Radtour an der Loire entlang.
 fr-xc-0372; Hupe; le klaxon; l'avertisseur; B1; Reisen/Verkehr/Auto; Le chauffeur a donné un coup de klaxon.; Der Fahrer hat kurz auf die Hupe gedrückt.
 fr-xc-0373; Lenkrad; le volant; ; B1; Reisen/Verkehr/Auto; Garde toujours les deux mains sur le volant.; Behalte immer beide Hände am Lenkrad.
-fr-xc-0374; lenken (Auto); diriger; conduire; B1; Reisen/Verkehr/Auto; Sur la glace, il est difficile de diriger la voiture.; Auf Eis ist es schwer, das Auto zu lenken.
-fr-xc-0375; Gang (Auto); la vitesse; ; B2; Reisen/Verkehr/Auto; Passe en deuxième vitesse dans la montée.; Schalt am Berg in den zweiten Gang.
+fr-xc-0374; lenken (das Auto lenken); diriger; conduire; B1; Reisen/Verkehr/Auto; Sur la glace, il est difficile de diriger la voiture.; Auf Eis ist es schwer, das Auto zu lenken.
+fr-xc-0375; Gang (in den zweiten Gang schalten); la vitesse; ; B2; Reisen/Verkehr/Auto; Passe en deuxième vitesse dans la montée.; Schalt am Berg in den zweiten Gang.
 fr-xc-0376; Windschutzscheibe; le pare-brise; ; B2; Reisen/Verkehr/Auto; Un caillou a fissuré le pare-brise sur l'autoroute.; Ein Steinchen hat auf der Autobahn die Windschutzscheibe beschädigt.
 fr-xc-0377; Scheinwerfer; le phare; ; B2; Reisen/Verkehr/Auto; La nuit, il faut allumer les phares.; Nachts muss man die Scheinwerfer einschalten.
 fr-xc-0378; rückwärts fahren; faire marche arrière; reculer; B1; Reisen/Verkehr/Auto; Fais marche arrière doucement, il y a un poteau derrière toi.; Fahr langsam rückwärts, hinter dir ist ein Pfosten.
@@ -401,7 +401,7 @@ fr-xc-0398; Auffahrunfall; la collision par l'arrière; le télescopage; C1; Rei
 fr-xc-0399; Parklücke; la place de parking; la place de stationnement, la place libre; B1; Reisen/Verkehr/Straße & Regeln; Nous avons tourné vingt minutes pour trouver une place de parking.; Wir sind zwanzig Minuten herumgefahren, um eine Parklücke zu finden.
 fr-xc-0400; Gegenverkehr; la circulation en sens inverse; ; B2; Reisen/Verkehr/Straße & Regeln; Sur cette route étroite, attention à la circulation en sens inverse.; Achte auf dieser engen Straße auf den Gegenverkehr.
 fr-xc-0401; Rastplatz; l'aire de repos; ; B2; Reisen/Verkehr/Straße & Regeln; Nous nous arrêtons sur une aire de repos pour manger.; Wir halten an einem Rastplatz, um zu essen.
-fr-xc-0402; Abkürzung (Weg); le raccourci; ; B1; Reisen/Verkehr/Wegbeschreibung; Je connais un raccourci par la forêt.; Ich kenne eine Abkürzung durch den Wald.
+fr-xc-0402; Abkürzung (eine Abkürzung nehmen); le raccourci; ; B1; Reisen/Verkehr/Wegbeschreibung; Je connais un raccourci par la forêt.; Ich kenne eine Abkürzung durch den Wald.
 fr-xc-0403; Arbeitsweg; le trajet domicile-travail; le trajet pour aller au travail; B2; Reisen/Verkehr/Straße & Regeln; Mon trajet domicile-travail dure quarante minutes.; Mein Arbeitsweg dauert vierzig Minuten.
 fr-xc-0404; Reisebus; l'autocar; le car; B1; Reisen/Verkehr/Bus & Bahn; Toute la classe est partie en Italie en autocar.; Die ganze Klasse ist mit dem Reisebus nach Italien gefahren.
 fr-xc-0405; Fernbus; l'autocar longue distance; le bus longue distance; B1; Reisen/Verkehr/Bus & Bahn; L'autocar longue distance coûte souvent moins cher que le train.; Der Fernbus ist oft billiger als der Zug.
@@ -414,7 +414,7 @@ fr-xc-0411; Hauptbahnhof; la gare centrale; la gare principale; A2; Reisen/Verke
 fr-xc-0412; Sitzplatzreservierung; la réservation de place; la réservation de siège; B1; Reisen/Verkehr/Bus & Bahn; Dans le TGV, la réservation de place est obligatoire.; Im TGV ist eine Sitzplatzreservierung Pflicht.
 fr-xc-0413; erste Klasse; la première classe; ; A2; Reisen/Verkehr/Bus & Bahn; Pour la première fois, nous avons voyagé en première classe.; Wir sind zum ersten Mal erster Klasse gereist.
 fr-xc-0414; Busfahrer; le chauffeur de bus; le conducteur de bus; A2; Reisen/Verkehr/Bus & Bahn; Le chauffeur de bus attend les retardataires.; Der Busfahrer wartet auf die Nachzügler.
-fr-xc-0415; Schalter (Bahnhof); le guichet; ; B1; Reisen/Verkehr/Bus & Bahn; Vous pouvez acheter votre billet au guichet de la gare.; Sie können Ihre Fahrkarte am Schalter im Bahnhof kaufen.
+fr-xc-0415; Schalter (Fahrkarten am Schalter); le guichet; ; B1; Reisen/Verkehr/Bus & Bahn; Vous pouvez acheter votre billet au guichet de la gare.; Sie können Ihre Fahrkarte am Schalter im Bahnhof kaufen.
 fr-xc-0416; Gepäckband; le tapis à bagages; ; B2; Reisen/Urlaub/Flughafen; Nous attendons nos valises devant le tapis à bagages.; Wir warten am Gepäckband auf unsere Koffer.
 fr-xc-0417; Flugticket; le billet d'avion; ; A2; Reisen/Urlaub/Flughafen; J'ai réservé mon billet d'avion sur Internet.; Ich habe mein Flugticket im Internet gebucht.
 fr-xc-0418; Fluggesellschaft; la compagnie aérienne; ; B1; Reisen/Urlaub/Flughafen; Quelle compagnie aérienne vole directement à Lisbonne?; Welche Fluggesellschaft fliegt direkt nach Lissabon?

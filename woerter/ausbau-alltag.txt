@@ -10,7 +10,7 @@ xa-0007; Mieter; tenant; ; B1; Alltag/Zuhause/Räume; The new tenant moves in ne
 xa-0008; Vermieter; landlord; ; B1; Alltag/Zuhause/Räume; Our landlord finally repaired the heating.; Unser Vermieter hat endlich die Heizung repariert.
 xa-0009; Miete; rent; ; A2; Alltag/Zuhause/Räume; The rent for this flat is very high.; Die Miete für diese Wohnung ist sehr hoch.
 xa-0010; Wohngemeinschaft; shared flat; flatshare; B1; Alltag/Zuhause/Räume; As a student she lived in a shared flat.; Als Studentin hat sie in einer Wohngemeinschaft gewohnt.
-xa-0011; umziehen (Wohnung); to move; to move house; A2; Alltag/Zuhause/Räume; We are moving to a bigger flat in June.; Wir ziehen im Juni in eine größere Wohnung um.
+xa-0011; umziehen (in eine neue Wohnung); to move; to move house; A2; Alltag/Zuhause/Räume; We are moving to a bigger flat in June.; Wir ziehen im Juni in eine größere Wohnung um.
 xa-0012; Speisekammer; pantry; larder; B2; Alltag/Zuhause/Räume; We keep the potatoes in the pantry.; Wir bewahren die Kartoffeln in der Speisekammer auf.
 xa-0013; Dachrinne; gutter; ; C1; Alltag/Zuhause/Räume; The gutter is full of leaves again.; Die Dachrinne ist schon wieder voller Laub.
 xa-0014; Abfluss; drain; plughole; B2; Alltag/Zuhause/Räume; Hair has blocked the drain in the shower.; Haare haben den Abfluss in der Dusche verstopft.
@@ -41,14 +41,14 @@ xa-0038; Spülmittel; washing-up liquid; dish soap; B1; Alltag/Zuhause/Haushalt;
 xa-0039; Mülltüte; bin bag; rubbish bag; B1; Alltag/Zuhause/Haushalt; Can you put a new bin bag in the kitchen?; Kannst du eine neue Mülltüte in der Küche einlegen?
 xa-0040; Geschirrtuch; tea towel; dish towel; B1; Alltag/Zuhause/Haushalt; Dry the glasses with a clean tea towel.; Trockne die Gläser mit einem sauberen Geschirrtuch ab.
 xa-0041; Putzfrau; cleaner; cleaning lady; B1; Alltag/Zuhause/Haushalt; Our cleaner comes every Friday morning.; Unsere Putzfrau kommt jeden Freitagmorgen.
-xa-0042; Haushalt (zu Hause); household; ; B1; Alltag/Zuhause/Haushalt; In our household everyone helps with the cooking.; In unserem Haushalt hilft jeder beim Kochen.
+xa-0042; Haushalt (ein Haushalt mit Kindern); household; ; B1; Alltag/Zuhause/Haushalt; In our household everyone helps with the cooking.; In unserem Haushalt hilft jeder beim Kochen.
 xa-0043; staubsaugen; to vacuum; to hoover; A2; Alltag/Zuhause/Haushalt; I vacuum the whole flat on Saturdays.; Samstags staubsauge ich die ganze Wohnung.
 xa-0044; lüften; to air; to ventilate; B1; Alltag/Zuhause/Haushalt; Open the windows and air the room for ten minutes.; Mach die Fenster auf und lüfte das Zimmer zehn Minuten.
 xa-0045; renovieren; to renovate; to do up; B1; Alltag/Zuhause/Haushalt; They are renovating the old farmhouse themselves.; Sie renovieren das alte Bauernhaus selbst.
-xa-0046; streichen (Wand); to paint; ; B1; Alltag/Zuhause/Haushalt; We want to paint the bedroom green.; Wir wollen das Schlafzimmer grün streichen.
+xa-0046; streichen (die Wand streichen); to paint; ; B1; Alltag/Zuhause/Haushalt; We want to paint the bedroom green.; Wir wollen das Schlafzimmer grün streichen.
 xa-0047; tapezieren; to wallpaper; ; B2; Alltag/Zuhause/Haushalt; My father wallpapered the hall last weekend.; Mein Vater hat letztes Wochenende den Flur tapeziert.
 xa-0431; Tapete; wallpaper; ; B1; Alltag/Zuhause/Haushalt; We chose a wallpaper with small flowers.; Wir haben eine Tapete mit kleinen Blumen ausgesucht.
-xa-0432; Farbe (zum Streichen); paint; ; A2; Alltag/Zuhause/Haushalt; We need two more tins of white paint.; Wir brauchen noch zwei Dosen weiße Farbe.
+xa-0432; Farbe (ein Eimer Farbe); paint; ; A2; Alltag/Zuhause/Haushalt; We need two more tins of white paint.; Wir brauchen noch zwei Dosen weiße Farbe.
 xa-0433; Lack; varnish; lacquer; B2; Alltag/Zuhause/Haushalt; The old table needs a new coat of varnish.; Der alte Tisch braucht eine neue Schicht Lack.
 xa-0048; unordentlich; untidy; messy; A2; Alltag/Zuhause/Haushalt; Your desk is always so untidy.; Dein Schreibtisch ist immer so unordentlich.
 xa-0049; staubig; dusty; ; B1; Alltag/Zuhause/Haushalt; The old books in the attic are very dusty.; Die alten Bücher auf dem Dachboden sind sehr staubig.
@@ -88,12 +88,12 @@ xa-0081; Mais (zum Essen); sweetcorn; corn; A2; Alltag/Essen/Lebensmittel; Add a
 xa-0082; Aubergine; aubergine; eggplant; B1; Alltag/Essen/Lebensmittel; Cut the aubergine into thin slices and fry them.; Schneide die Aubergine in dünne Scheiben und brate sie.
 xa-0083; Lauch; leek; ; B1; Alltag/Essen/Lebensmittel; Potato and leek soup is perfect in winter.; Kartoffelsuppe mit Lauch ist im Winter perfekt.
 xa-0084; Spargel; asparagus; ; B1; Alltag/Essen/Lebensmittel; In May we eat white asparagus with ham.; Im Mai essen wir weißen Spargel mit Schinken.
-xa-0085; Linse (Hülsenfrucht); lentil; ; B1; Alltag/Essen/Lebensmittel; Red lentils cook in about fifteen minutes.; Rote Linsen sind in etwa fünfzehn Minuten gar.
+xa-0085; Linse (Suppe mit Linsen); lentil; ; B1; Alltag/Essen/Lebensmittel; Red lentils cook in about fifteen minutes.; Rote Linsen sind in etwa fünfzehn Minuten gar.
 xa-0086; Kichererbse; chickpea; ; B2; Alltag/Essen/Lebensmittel; Hummus is made from chickpeas.; Hummus wird aus Kichererbsen gemacht.
 xa-0087; Ananas; pineapple; ; A2; Alltag/Essen/Lebensmittel; Is the pineapple ripe enough to eat?; Ist die Ananas reif genug zum Essen?
 xa-0088; Kirsche; cherry; ; A1; Alltag/Essen/Lebensmittel; The cherries from our tree are very sweet.; Die Kirschen von unserem Baum sind sehr süß.
 xa-0089; Pfirsich; peach; ; A2; Alltag/Essen/Lebensmittel; This peach is soft and juicy.; Dieser Pfirsich ist weich und saftig.
-xa-0090; Mandel (Nuss); almond; ; B1; Alltag/Essen/Lebensmittel; The cake is made with ground almonds.; Der Kuchen wird mit gemahlenen Mandeln gebacken.
+xa-0090; Mandel (gebrannte Mandeln); almond; ; B1; Alltag/Essen/Lebensmittel; The cake is made with ground almonds.; Der Kuchen wird mit gemahlenen Mandeln gebacken.
 xa-0091; Walnuss; walnut; ; B1; Alltag/Essen/Lebensmittel; She put some walnuts in the salad.; Sie hat ein paar Walnüsse in den Salat getan.
 xa-0092; Keks; biscuit; cookie; A1; Alltag/Essen/Lebensmittel; Would you like a biscuit with your tea?; Möchtest du einen Keks zum Tee?
 xa-0093; Bonbon; sweet; candy; A1; Alltag/Essen/Lebensmittel; The doctor gave the child a sweet.; Der Arzt gab dem Kind ein Bonbon.
@@ -126,10 +126,10 @@ xa-0118; Orangensaft; orange juice; ; A1; Alltag/Essen/Getränke; Fresh orange j
 xa-0119; Rotwein; red wine; ; A2; Alltag/Essen/Getränke; We had a bottle of red wine with dinner.; Zum Abendessen haben wir eine Flasche Rotwein getrunken.
 xa-0120; alkoholfrei; non-alcoholic; alcohol-free; B1; Alltag/Essen/Getränke; The driver only drinks non-alcoholic beer.; Der Fahrer trinkt nur alkoholfreies Bier.
 xa-0121; Alkohol; alcohol; ; A2; Alltag/Essen/Getränke; There is no alcohol in this punch.; In dieser Bowle ist kein Alkohol.
-xa-0122; reiben (Käse); to grate; ; B2; Alltag/Essen/Kochen; Grate some cheese over the pasta.; Reib etwas Käse über die Nudeln.
+xa-0122; reiben (Käse reiben); to grate; ; B2; Alltag/Essen/Kochen; Grate some cheese over the pasta.; Reib etwas Käse über die Nudeln.
 xa-0123; kneten; to knead; ; B2; Alltag/Essen/Kochen; Knead the dough for ten minutes.; Knete den Teig zehn Minuten lang.
 xa-0124; abgießen; to drain; ; B2; Alltag/Essen/Kochen; Drain the potatoes and let them cool a little.; Gieß die Kartoffeln ab und lass sie etwas abkühlen.
-xa-0125; würfeln (Gemüse); to dice; ; B2; Alltag/Essen/Kochen; Dice the onions and fry them in oil.; Würfle die Zwiebeln und brate sie in Öl an.
+xa-0125; würfeln (Zwiebeln würfeln); to dice; ; B2; Alltag/Essen/Kochen; Dice the onions and fry them in oil.; Würfle die Zwiebeln und brate sie in Öl an.
 xa-0126; bestreuen; to sprinkle; ; B2; Alltag/Essen/Kochen; Sprinkle the pizza with cheese and oregano.; Bestreu die Pizza mit Käse und Oregano.
 xa-0127; verquirlen; to whisk; to beat; C1; Alltag/Essen/Kochen; Whisk the eggs with a little milk.; Verquirl die Eier mit etwas Milch.
 xa-0128; Prise; pinch; ; B2; Alltag/Essen/Kochen; Add a pinch of salt to the water.; Gib eine Prise Salz ins Wasser.
@@ -149,13 +149,13 @@ xa-0141; Rührei; scrambled eggs; ; A2; Alltag/Essen/Mahlzeiten; On Sundays we h
 xa-0142; Eintopf; stew; ; B1; Alltag/Essen/Mahlzeiten; A hot stew is just right on a cold day.; Ein heißer Eintopf ist an einem kalten Tag genau richtig.
 xa-0143; Auflauf; casserole; bake; B2; Alltag/Essen/Mahlzeiten; She made a vegetable casserole with cheese on top.; Sie hat einen Gemüseauflauf mit Käse obendrauf gemacht.
 xa-0144; Portion; portion; ; A2; Alltag/Essen/Mahlzeiten; The portions in this restaurant are huge.; Die Portionen in diesem Restaurant sind riesig.
-xa-0145; Scheibe (Brot); slice; ; A2; Alltag/Essen/Mahlzeiten; Could I have another slice of bread?; Könnte ich noch eine Scheibe Brot haben?
+xa-0145; Scheibe (eine Scheibe Brot); slice; ; A2; Alltag/Essen/Mahlzeiten; Could I have another slice of bread?; Könnte ich noch eine Scheibe Brot haben?
 xa-0146; Kantine; canteen; ; B1; Alltag/Essen/Restaurant; We have lunch in the canteen at work.; Wir essen in der Kantine bei der Arbeit zu Mittag.
 xa-0147; Café; café; cafe; A1; Alltag/Essen/Restaurant; Let's meet at the café on the corner.; Lass uns im Café an der Ecke treffen.
 xa-0148; Bedienung; service; ; B1; Alltag/Essen/Restaurant; The food was good but the service was slow.; Das Essen war gut, aber die Bedienung war langsam.
 xa-0149; Tagesgericht; dish of the day; ; B1; Alltag/Essen/Restaurant; The dish of the day is chicken curry.; Das Tagesgericht ist Hähnchencurry.
 xa-0150; Beilage; side dish; ; B1; Alltag/Essen/Restaurant; Rice or salad comes as a side dish.; Als Beilage gibt es Reis oder Salat.
-xa-0151; Gang (beim Essen); course; ; B2; Alltag/Essen/Restaurant; The wedding dinner had five courses.; Das Hochzeitsessen hatte fünf Gänge.
+xa-0151; Gang (ein Menü mit drei Gängen); course; ; B2; Alltag/Essen/Restaurant; The wedding dinner had five courses.; Das Hochzeitsessen hatte fünf Gänge.
 xa-0152; Buffet; buffet; ; B1; Alltag/Essen/Restaurant; Breakfast at the hotel is a big buffet.; Das Frühstück im Hotel ist ein großes Buffet.
 xa-0153; Lieferdienst; delivery service; ; B1; Alltag/Essen/Restaurant; We ordered pizza from a delivery service.; Wir haben Pizza bei einem Lieferdienst bestellt.
 xa-0154; Kleidung; clothes; clothing; A1; Alltag/Kleidung/Kleidungsstücke; Take warm clothes because it gets cold at night.; Nimm warme Kleidung mit, weil es nachts kalt wird.
@@ -175,7 +175,7 @@ xa-0167; Schnalle; buckle; ; C1; Alltag/Kleidung/Schuhe & Accessoires; The buckl
 xa-0439; Brieftasche; wallet; ; B1; Alltag/Kleidung/Schuhe & Accessoires; He keeps his ID card in his wallet.; Er hat seinen Ausweis in der Brieftasche.
 xa-0440; Laufschuh; running shoe; ; B1; Alltag/Kleidung/Schuhe & Accessoires; I need new running shoes for the marathon.; Für den Marathon brauche ich neue Laufschuhe.
 xa-0168; Schuhgröße; shoe size; ; A2; Alltag/Kleidung/Einkauf & Passform; What is your shoe size?; Welche Schuhgröße hast du?
-xa-0169; locker (Kleidung); loose; ; B1; Alltag/Kleidung/Einkauf & Passform; In summer I like to wear loose clothes.; Im Sommer trage ich gern lockere Kleidung.
+xa-0169; locker (die Hose sitzt locker); loose; ; B1; Alltag/Kleidung/Einkauf & Passform; In summer I like to wear loose clothes.; Im Sommer trage ich gern lockere Kleidung.
 xa-0170; ärmellos; sleeveless; ; B1; Alltag/Kleidung/Kleidungsstücke; It is too cold for a sleeveless dress.; Für ein ärmelloses Kleid ist es zu kalt.
 xa-0171; wasserdicht; waterproof; ; B1; Alltag/Kleidung/Kleidungsstücke; You need a waterproof jacket for this hike.; Für diese Wanderung brauchst du eine wasserdichte Jacke.
 xa-0172; schick; smart; chic, stylish; B1; Alltag/Kleidung/Stil; You look very smart in that suit.; Du siehst in dem Anzug sehr schick aus.
@@ -185,14 +185,14 @@ xa-0175; flicken; to mend; to patch; B2; Alltag/Kleidung/Pflege & Schneiderei; M
 xa-0176; Loch; hole; ; A2; Alltag/Kleidung/Pflege & Schneiderei; There is a big hole in your sock.; In deiner Socke ist ein großes Loch.
 xa-0177; zerrissen; torn; ripped; B1; Alltag/Kleidung/Pflege & Schneiderei; His shirt was torn after the fight.; Nach der Prügelei war sein Hemd zerrissen.
 xa-0178; Etikett; label; ; B1; Alltag/Kleidung/Pflege & Schneiderei; Read the label before you wash the sweater.; Lies das Etikett, bevor du den Pullover wäschst.
-xa-0179; einlaufen (Wäsche); to shrink; ; B2; Alltag/Kleidung/Pflege & Schneiderei; My favourite T-shirt shrank in the wash.; Mein Lieblings-T-Shirt ist in der Wäsche eingelaufen.
+xa-0179; einlaufen (der Pulli ist eingelaufen); to shrink; ; B2; Alltag/Kleidung/Pflege & Schneiderei; My favourite T-shirt shrank in the wash.; Mein Lieblings-T-Shirt ist in der Wäsche eingelaufen.
 xa-0180; knittern; to crease; ; B2; Alltag/Kleidung/Pflege & Schneiderei; Linen creases very easily.; Leinen knittert sehr leicht.
 xa-0181; zerknittert; creased; crumpled; B2; Alltag/Kleidung/Pflege & Schneiderei; After the long flight his shirt was all creased.; Nach dem langen Flug war sein Hemd ganz zerknittert.
 xa-0182; Lebensmittelgeschäft; grocery shop; grocer's; A2; Alltag/Einkaufen/Geschäfte; There is a small grocery shop at the end of our street.; Am Ende unserer Straße gibt es ein kleines Lebensmittelgeschäft.
 xa-0183; Kaufhaus; department store; ; A2; Alltag/Einkaufen/Geschäfte; The department store sells everything from shoes to sofas.; Das Kaufhaus verkauft alles von Schuhen bis zu Sofas.
 xa-0184; Schreibwarenladen; stationer's; stationery shop; B1; Alltag/Einkaufen/Geschäfte; I bought new pens at the stationer's.; Ich habe im Schreibwarenladen neue Stifte gekauft.
 xa-0185; Optiker; optician; optician's; B1; Alltag/Einkaufen/Geschäfte; I am picking up my new glasses from the optician.; Ich hole meine neue Brille beim Optiker ab.
-xa-0186; Reinigung (Geschäft); dry cleaner's; dry cleaners; B2; Alltag/Einkaufen/Geschäfte; Can you take my suit to the dry cleaner's?; Kannst du meinen Anzug in die Reinigung bringen?
+xa-0186; Reinigung (den Anzug zur Reinigung bringen); dry cleaner's; dry cleaners; B2; Alltag/Einkaufen/Geschäfte; Can you take my suit to the dry cleaner's?; Kannst du meinen Anzug in die Reinigung bringen?
 xa-0187; Waschsalon; launderette; laundromat; B2; Alltag/Einkaufen/Geschäfte; Our washing machine is broken, so I go to the launderette.; Unsere Waschmaschine ist kaputt, deshalb gehe ich in den Waschsalon.
 xa-0188; Theke; counter; ; B1; Alltag/Einkaufen/Geschäfte; Ask for the cheese at the counter.; Frag an der Theke nach dem Käse.
 xa-0189; Kassierer; cashier; ; A2; Alltag/Einkaufen/Geschäfte; The cashier gave me the wrong change.; Der Kassierer hat mir falsches Wechselgeld gegeben.
@@ -213,7 +213,7 @@ xa-0200; übergewichtig; overweight; ; B1; Mensch/Aussehen; The doctor told him 
 xa-0201; blond; blond; blonde; A2; Mensch/Aussehen; Both children have blond hair and blue eyes.; Beide Kinder haben blonde Haare und blaue Augen.
 xa-0202; dunkelhaarig; dark-haired; ; B1; Mensch/Aussehen; A dark-haired woman was waiting at the door.; Eine dunkelhaarige Frau wartete an der Tür.
 xa-0203; lockig; curly; ; A2; Mensch/Aussehen; Her daughter has long curly hair.; Ihre Tochter hat lange, lockige Haare.
-xa-0204; glatt (Haar); straight; ; A2; Mensch/Aussehen; My hair is straight, but my brother's is curly.; Meine Haare sind glatt, aber die meines Bruders sind lockig.
+xa-0204; glatt (glatte Haare); straight; ; A2; Mensch/Aussehen; My hair is straight, but my brother's is curly.; Meine Haare sind glatt, aber die meines Bruders sind lockig.
 xa-0205; kahl; bald; ; B1; Mensch/Aussehen; My uncle went bald when he was thirty.; Mein Onkel wurde mit dreißig kahl.
 xa-0206; Bart; beard; ; A2; Mensch/Aussehen; He has grown a beard since the summer.; Er hat sich seit dem Sommer einen Bart wachsen lassen.
 xa-0207; Schnurrbart; moustache; mustache; B1; Mensch/Aussehen; The man in the photo has a thick moustache.; Der Mann auf dem Foto hat einen dichten Schnurrbart.
@@ -224,7 +224,7 @@ xa-0211; Muttermal; mole; ; C1; Mensch/Aussehen; Have a doctor check that mole o
 xa-0212; Zopf; plait; braid; B2; Mensch/Aussehen; Her mother does her hair in a plait every morning.; Ihre Mutter flicht ihr jeden Morgen einen Zopf.
 xa-0213; Pferdeschwanz; ponytail; ; B1; Mensch/Aussehen; For sport she ties her hair in a ponytail.; Beim Sport bindet sie ihre Haare zu einem Pferdeschwanz.
 xa-0214; Frisur; hairstyle; ; A2; Mensch/Aussehen; Do you like my new hairstyle?; Gefällt dir meine neue Frisur?
-xa-0215; Pony (Frisur); fringe; bangs; B2; Mensch/Aussehen; Your fringe is getting too long.; Dein Pony wird zu lang.
+xa-0215; Pony (die Haare über der Stirn); fringe; bangs; B2; Mensch/Aussehen; Your fringe is getting too long.; Dein Pony wird zu lang.
 xa-0216; blass; pale; ; B1; Mensch/Aussehen; You look pale, are you feeling all right?; Du siehst blass aus, geht es dir gut?
 xa-0217; braun gebrannt; tanned; ; B1; Mensch/Aussehen; They came back from Spain nicely tanned.; Sie kamen schön braun gebrannt aus Spanien zurück.
 xa-0218; muskulös; muscular; ; B2; Mensch/Aussehen; The swimmer has broad, muscular shoulders.; Der Schwimmer hat breite, muskulöse Schultern.
@@ -303,7 +303,7 @@ xa-0290; Augenlid; eyelid; ; B2; Gesundheit/Körper; My left eyelid has been twi
 xa-0291; Nasenloch; nostril; ; B2; Gesundheit/Körper; Breathe in through one nostril.; Atme durch ein Nasenloch ein.
 xa-0292; Zahnfleisch; gums; ; B2; Gesundheit/Körper; My gums bleed when I brush my teeth.; Mein Zahnfleisch blutet beim Zähneputzen.
 xa-0293; Nacken; neck; back of the neck; B1; Gesundheit/Körper; I have a stiff neck from sleeping badly.; Ich habe einen steifen Nacken, weil ich schlecht geschlafen habe.
-xa-0294; Brust (Oberkörper); chest; ; A2; Gesundheit/Körper; He has a pain in his chest.; Er hat Schmerzen in der Brust.
+xa-0294; Brust (Schmerzen in der Brust); chest; ; A2; Gesundheit/Körper; He has a pain in his chest.; Er hat Schmerzen in der Brust.
 xa-0295; Hüfte; hip; ; B1; Gesundheit/Körper; My grandmother needs a new hip.; Meine Großmutter braucht eine neue Hüfte.
 xa-0296; Taille; waist; ; B1; Gesundheit/Körper; These trousers are too tight at the waist.; Diese Hose ist an der Taille zu eng.
 xa-0297; Po; bottom; bum; A2; Gesundheit/Körper; The little boy fell on his bottom.; Der kleine Junge ist auf den Po gefallen.
@@ -316,7 +316,7 @@ xa-0303; Faust; fist; ; B1; Gesundheit/Körper; He banged his fist on the table.
 xa-0304; Handfläche; palm; ; B2; Gesundheit/Körper; She held the little bird in the palm of her hand.; Sie hielt den kleinen Vogel in ihrer Handfläche.
 xa-0305; Bauchnabel; belly button; navel; B1; Gesundheit/Körper; The baby laughs when you tickle his belly button.; Das Baby lacht, wenn man es am Bauchnabel kitzelt.
 xa-0306; Darm; bowel; intestine; B2; Gesundheit/Körper; Fibre is good for your bowel.; Ballaststoffe sind gut für den Darm.
-xa-0307; Blase (Organ); bladder; ; C1; Gesundheit/Körper; Drinking enough water is good for the bladder.; Genug Wasser zu trinken ist gut für die Blase.
+xa-0307; Blase (die Harnblase); bladder; ; C1; Gesundheit/Körper; Drinking enough water is good for the bladder.; Genug Wasser zu trinken ist gut für die Blase.
 xa-0308; Nerv; nerve; ; B1; Gesundheit/Körper; The dentist hit a nerve and it really hurt.; Der Zahnarzt hat einen Nerv getroffen, und es tat richtig weh.
 xa-0309; Sehne; tendon; ; C1; Gesundheit/Körper; The footballer tore a tendon in his foot.; Der Fußballer hat sich eine Sehne im Fuß gerissen.
 xa-0310; Schädel; skull; ; B2; Gesundheit/Körper; The helmet protects your skull if you fall.; Der Helm schützt deinen Schädel, wenn du stürzt.
@@ -330,7 +330,7 @@ xa-0317; Schwellung; swelling; ; B2; Gesundheit/Symptome; Put ice on it to reduc
 xa-0318; geschwollen; swollen; ; B1; Gesundheit/Symptome; My ankle is badly swollen after the fall.; Nach dem Sturz ist mein Knöchel stark geschwollen.
 xa-0319; blauer Fleck; bruise; ; B1; Gesundheit/Symptome; I have a big bruise on my arm.; Ich habe einen großen blauen Fleck am Arm.
 xa-0320; Krampf; cramp; ; B2; Gesundheit/Symptome; In the night I woke up with a cramp in my leg.; Nachts bin ich mit einem Krampf im Bein aufgewacht.
-xa-0321; Kater (nach Alkohol); hangover; ; B2; Gesundheit/Symptome; After the party he had a terrible hangover.; Nach der Party hatte er einen schrecklichen Kater.
+xa-0321; Kater (einen Kater haben); hangover; ; B2; Gesundheit/Symptome; After the party he had a terrible hangover.; Nach der Party hatte er einen schrecklichen Kater.
 xa-0322; Verbrennung; burn; ; B1; Gesundheit/Symptome; Cool the burn with cold water at once.; Kühl die Verbrennung sofort mit kaltem Wasser.
 xa-0323; Beule; bump; ; B1; Gesundheit/Symptome; He has a bump on his head from the door.; Er hat von der Tür eine Beule am Kopf.
 xa-0324; Kratzer; scratch; ; B1; Gesundheit/Symptome; The cat left a scratch on my hand.; Die Katze hat mir einen Kratzer an der Hand verpasst.
@@ -377,7 +377,7 @@ xa-0364; Hausarzt; family doctor; general practitioner; A2; Gesundheit/Beim Arzt
 xa-0365; Kinderarzt; paediatrician; children's doctor; B1; Gesundheit/Beim Arzt; We are taking the baby to the paediatrician tomorrow.; Wir gehen morgen mit dem Baby zum Kinderarzt.
 xa-0366; Augenarzt; eye doctor; eye specialist; B1; Gesundheit/Beim Arzt; The eye doctor says I need stronger glasses.; Der Augenarzt sagt, dass ich eine stärkere Brille brauche.
 xa-0367; Facharzt; specialist; ; B2; Gesundheit/Beim Arzt; My doctor sent me to a heart specialist.; Mein Arzt hat mich zu einem Facharzt für Herzkrankheiten geschickt.
-xa-0368; Sprechstunde (Arzt); consulting hours; surgery hours; B2; Gesundheit/Beim Arzt; The doctor's consulting hours are from eight to twelve.; Die Sprechstunde des Arztes ist von acht bis zwölf.
+xa-0368; Sprechstunde (beim Arzt); consulting hours; surgery hours; B2; Gesundheit/Beim Arzt; The doctor's consulting hours are from eight to twelve.; Die Sprechstunde des Arztes ist von acht bis zwölf.
 xa-0369; Arztpraxis; doctor's surgery; doctor's office; B1; Gesundheit/Beim Arzt; The doctor's surgery is on the second floor.; Die Arztpraxis ist im zweiten Stock.
 xa-0370; Untersuchung; examination; medical examination; B1; Gesundheit/Beim Arzt; The examination will only take a few minutes.; Die Untersuchung dauert nur ein paar Minuten.
 xa-0371; Blutprobe; blood sample; ; B1; Gesundheit/Beim Arzt; The nurse took a blood sample from my arm.; Die Krankenschwester hat mir eine Blutprobe aus dem Arm genommen.
@@ -412,9 +412,9 @@ xa-0396; Antibiotikum; antibiotic; ; B2; Gesundheit/Apotheke & Medikamente; Anti
 xa-0397; Kapsel; capsule; ; B2; Gesundheit/Apotheke & Medikamente; Swallow the capsule with a glass of water.; Schluck die Kapsel mit einem Glas Wasser.
 xa-0398; Creme; cream; ; A2; Gesundheit/Apotheke & Medikamente; Put this cream on the rash twice a day.; Trag diese Creme zweimal am Tag auf den Ausschlag auf.
 xa-0399; Schlaftablette; sleeping pill; ; B1; Gesundheit/Apotheke & Medikamente; She cannot sleep without a sleeping pill.; Ohne Schlaftablette kann sie nicht schlafen.
-xa-0400; einnehmen (Medikament); to take; ; B1; Gesundheit/Apotheke & Medikamente; Take the tablets after meals.; Nehmen Sie die Tabletten nach dem Essen ein.
+xa-0400; einnehmen (Tabletten einnehmen); to take; ; B1; Gesundheit/Apotheke & Medikamente; Take the tablets after meals.; Nehmen Sie die Tabletten nach dem Essen ein.
 xa-0401; verschreibungspflichtig; prescription-only; ; C1; Gesundheit/Apotheke & Medikamente; This medicine is prescription-only in Germany.; Dieses Medikament ist in Deutschland verschreibungspflichtig.
-xa-0402; abnehmen (Gewicht); to lose weight; ; A2; Gesundheit/Gesunde Lebensweise; She wants to lose weight before the summer.; Sie möchte vor dem Sommer abnehmen.
+xa-0402; abnehmen (fünf Kilo abnehmen); to lose weight; ; A2; Gesundheit/Gesunde Lebensweise; She wants to lose weight before the summer.; Sie möchte vor dem Sommer abnehmen.
 xa-0403; rauchen; to smoke; ; A2; Gesundheit/Gesunde Lebensweise; My father stopped smoking twenty years ago.; Mein Vater hat vor zwanzig Jahren aufgehört zu rauchen.
 xa-0404; Nichtraucher; non-smoker; ; B1; Gesundheit/Gesunde Lebensweise; I have been a non-smoker for three years now.; Ich bin jetzt seit drei Jahren Nichtraucher.
 xa-0405; Raucher; smoker; ; A2; Gesundheit/Gesunde Lebensweise; Smokers often cough in the morning.; Raucher husten morgens oft.

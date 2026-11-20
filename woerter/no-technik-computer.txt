@@ -7,7 +7,7 @@ no-tc-0004; Internet; internett; ; A1; Technik/Computer/Internet; Vi bruker inte
 no-tc-0005; Fernseher; et fjernsyn; ; A1; Technik/Computer/Geräte; Fjernsynet i stua vår er nytt.; Der Fernseher im Wohnzimmer ist neu.
 no-tc-0006; Bildschirm; en skjerm; ; A1; Technik/Computer/Geräte; Skjermen er for lys om natten.; Der Bildschirm ist nachts zu hell.
 no-tc-0007; Tastatur; et tastatur; ; A1; Technik/Computer/Geräte; Jeg trenger et nytt tastatur til datamaskinen.; Ich brauche eine neue Tastatur für meinen Computer.
-no-tc-0008; Maus (Computer); ei mus; en mus; A1; Technik/Computer/Geräte; Den trådløse musen virker ikke uten batteri.; Die Maus funktioniert nicht ohne Batterie.
+no-tc-0008; Maus (die Maus am Computer); ei mus; en mus; A1; Technik/Computer/Geräte; Den trådløse musen virker ikke uten batteri.; Die Maus funktioniert nicht ohne Batterie.
 no-tc-0009; Drucker; en skriver; ; A1; Technik/Computer/Geräte; Skriveren på kontoret er ødelagt igjen.; Der Drucker im Büro ist schon wieder kaputt.
 no-tc-0010; Kamera; et kamera; ; A1; Technik/Computer/Geräte; Dette kameraet tar veldig gode bilder.; Diese Kamera macht sehr gute Fotos.
 no-tc-0011; Laptop; en laptop; en bærbar datamaskin; A1; Technik/Computer/Geräte; Hun tar med laptopen på jobb hver morgen.; Sie nimmt ihren Laptop jeden Morgen mit zur Arbeit.
@@ -22,7 +22,7 @@ no-tc-0019; ausmachen; å slå av; å skru av; A1; Technik/Computer/Geräte; Sl�
 no-tc-0020; Fehler; en feil; ; A1; Technik/Computer/Software; Det er en feil i det nye programmet.; Es gibt einen Fehler im neuen Programm.
 no-tc-0021; Passwort; et passord; ; A2; Technik/Computer/Sicherheit; Du bør ikke røpe passordet ditt til noen.; Du solltest niemandem dein Passwort verraten.
 no-tc-0022; Datei; ei fil; en fil; A2; Technik/Computer/Dateien; Jeg lagret filen på laptopen min.; Ich habe die Datei auf meinem Laptop gespeichert.
-no-tc-0023; Ordner (Computer); en mappe; ei mappe; A2; Technik/Computer/Dateien; Legg alle bildene i en mappe.; Leg alle Fotos in einen Ordner.
+no-tc-0023; Ordner (ein Ordner auf dem Computer); en mappe; ei mappe; A2; Technik/Computer/Dateien; Legg alle bildene i en mappe.; Leg alle Fotos in einen Ordner.
 no-tc-0024; drucken; å skrive ut; ; A2; Technik/Computer/Dateien; Kan du skrive ut dette dokumentet for meg?; Kannst du dieses Dokument für mich drucken?
 no-tc-0025; speichern; å lagre; ; A2; Technik/Computer/Dateien; Husk å lagre arbeidet ditt før du går.; Vergiss nicht, deine Arbeit zu speichern.
 no-tc-0026; löschen; å slette; ; A2; Technik/Computer/Dateien; Jeg slettet de gamle bildene ved et uhell.; Ich habe die alten Fotos aus Versehen gelöscht.
@@ -37,14 +37,14 @@ no-tc-0034; Ladegerät; en lader; ; A2; Technik/Computer/Smartphone; Jeg mistet 
 no-tc-0035; Kopfhörer; hodetelefoner; ; A2; Technik/Computer/Geräte; Han hører på musikk med hodetelefonene sine.; Er hört Musik mit seinen Kopfhörern.
 no-tc-0036; Lautsprecher; en høyttaler; ; A2; Technik/Computer/Geräte; Høyttaleren er kraftig nok til festen.; Der Lautsprecher ist laut genug für die Party.
 no-tc-0037; Smartphone; en smarttelefon; en smartmobil; A2; Technik/Computer/Smartphone; Nesten alle har en smarttelefon i dag.; Fast jeder hat heutzutage ein Smartphone.
-no-tc-0038; Nachricht (Mitteilung); en melding; ei melding; A2; Technik/Computer/Smartphone; Hun sendte meg en melding i morges.; Sie hat mir heute Morgen eine Nachricht geschickt.
+no-tc-0038; Nachricht (eine Nachricht schicken); en melding; ei melding; A2; Technik/Computer/Smartphone; Hun sendte meg en melding i morges.; Sie hat mir heute Morgen eine Nachricht geschickt.
 no-tc-0039; Benutzer; en bruker; ; A2; Technik/Computer/Software; Den nye brukeren trenger først et passord.; Der neue Benutzer braucht zuerst ein Passwort.
 no-tc-0040; Benutzername; et brukernavn; ; A2; Technik/Computer/Sicherheit; Skriv inn brukernavnet og passordet ditt, er du snill.; Bitte gib deinen Benutzernamen und dein Passwort ein.
 no-tc-0041; Suchmaschine; en søkemotor; ; A2; Technik/Computer/Internet; Jeg fant svaret ved hjelp av en søkemotor.; Ich habe die Antwort mit einer Suchmaschine gefunden.
 no-tc-0042; suchen; å søke; ; A2; Technik/Computer/Internet; Jeg vil søke på nettet etter billige flyreiser.; Ich will im Internet nach günstigen Flügen suchen.
 no-tc-0043; senden; å sende; ; A2; Technik/Computer/Internet; Han sender mange e-poster på jobb hver dag.; Er sendet bei der Arbeit jeden Tag viele E-Mails.
 no-tc-0044; empfangen; å motta; ; A2; Technik/Computer/Internet; Mottok du meldingen min i går kveld?; Hast du gestern Abend meine Nachricht empfangen?
-no-tc-0045; Verbindung (Internet); en forbindelse; en tilkobling; A2; Technik/Computer/Internet; Internettforbindelsen er veldig treg i dag.; Die Internetverbindung ist heute sehr langsam.
+no-tc-0045; Verbindung (keine Verbindung zum Internet); en forbindelse; en tilkobling; A2; Technik/Computer/Internet; Internettforbindelsen er veldig treg i dag.; Die Internetverbindung ist heute sehr langsam.
 no-tc-0046; verbinden; å koble; ; A2; Technik/Computer/Internet; Du må koble laptopen til skriveren.; Du musst den Laptop mit dem Drucker verbinden.
 no-tc-0047; WLAN; wifi; et trådløst nett; A2; Technik/Computer/Internet, Reisen/Urlaub/Unterkunft; Hotellet har gratis wifi på alle rommene.; Das Hotel hat kostenloses WLAN in jedem Zimmer.
 no-tc-0048; Akku; et oppladbart batteri; ; A2; Technik/Computer/Smartphone; Det oppladbare batteriet mitt varer i nesten to dager.; Mein Akku hält fast zwei Tage.
@@ -53,12 +53,12 @@ no-tc-0050; funktionieren; å fungere; å virke; A2; Technik/Computer/Geräte; S
 no-tc-0051; Software; en programvare; en software; B1; Technik/Computer/Software; Firmaet utvikler programvare for små bedrifter.; Die Firma entwickelt Software für kleine Unternehmen.
 no-tc-0052; Hardware; en maskinvare; en hardware; B1; Technik/Computer/Hardware; God maskinvare er viktig for moderne spill.; Gute Hardware ist wichtig für moderne Spiele.
 no-tc-0053; Festplatte; en harddisk; ; B1; Technik/Computer/Hardware; Harddisken min er nesten full igjen.; Meine Festplatte ist schon wieder fast voll.
-no-tc-0054; Speicher (Computer); et minne; ; B1; Technik/Computer/Hardware; Mobilen har ikke nok minne igjen.; Das Handy hat nicht mehr genug Speicher.
+no-tc-0054; Speicher (der Speicher des Computers); et minne; ; B1; Technik/Computer/Hardware; Mobilen har ikke nok minne igjen.; Das Handy hat nicht mehr genug Speicher.
 no-tc-0055; Betriebssystem; et operativsystem; ; B1; Technik/Computer/Software; Det nye operativsystemet går mye raskere.; Das neue Betriebssystem läuft viel schneller.
 no-tc-0056; Anwendung; en applikasjon; ; B1; Technik/Computer/Software; Denne applikasjonen kjører bare på nyere datamaskiner.; Diese Anwendung läuft nur auf neueren Computern.
 no-tc-0057; installieren; å installere; ; B1; Technik/Computer/Software; Du må først installere programmet på datamaskinen.; Du musst das Programm zuerst installieren.
 no-tc-0058; aktualisieren; å oppdatere; ; B1; Technik/Computer/Software; Oppdater appen til den nyeste versjonen, er du snill.; Bitte aktualisiere die App auf die neueste Version.
-no-tc-0059; Einstellung (Technik); en innstilling; ; B1; Technik/Computer/Software; Du kan endre denne innstillingen i menyen.; Du kannst diese Einstellung im Menü ändern.
+no-tc-0059; Einstellung (die Einstellungen am Handy); en innstilling; ; B1; Technik/Computer/Software; Du kan endre denne innstillingen i menyen.; Du kannst diese Einstellung im Menü ändern.
 no-tc-0060; Virus; et virus; ; B1; Technik/Computer/Sicherheit; Et virus kan raskt ødelegge viktige filer.; Ein Virus kann wichtige Dateien schnell zerstören.
 no-tc-0061; Sicherheit; en sikkerhet; ; B1; Technik/Computer/Sicherheit; Sikkerhet er veldig viktig på internett.; Sicherheit ist im Internet sehr wichtig.
 no-tc-0062; sicher; sikker; ; B1; Technik/Computer/Sicherheit; Velg et sikkert passord med mange tegn.; Wähle ein sicheres Passwort mit vielen Zeichen.

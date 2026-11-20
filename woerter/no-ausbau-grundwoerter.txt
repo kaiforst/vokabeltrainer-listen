@@ -14,7 +14,7 @@ no-xe-0011; verstecken; å gjemme; å skjule; A2; Allgemein/Verben; Hvor har du 
 no-xe-0012; wecken; å vekke; ; A2; Allgemein/Verben; Vekk meg i morgen tidlig klokka sju.; Bitte weck mich morgen früh um sieben.
 no-xe-0013; mischen; å blande; ; A2; Allgemein/Verben; Bland den blå og den gule fargen sammen.; Misch die blaue und die gelbe Farbe zusammen.
 no-xe-0014; heben; å løfte; ; B1; Allgemein/Verben; Kan du hjelpe meg å løfte denne tunge kassen?; Kannst du mir helfen, diese schwere Kiste zu heben?
-no-xe-0015; schaffen (bewältigen); å klare; å få til; B1; Allgemein/Verben; Ikke bekymre deg, du klarer det lett.; Keine Sorge, du schaffst das leicht.
+no-xe-0015; schaffen (es gerade noch schaffen); å klare; å få til; B1; Allgemein/Verben; Ikke bekymre deg, du klarer det lett.; Keine Sorge, du schaffst das leicht.
 no-xe-0016; sich verlassen; å stole på; ; B1; Allgemein/Verben; Du kan alltid stole på den beste venninnen din.; Auf deine beste Freundin kannst du dich immer verlassen.
 no-xe-0017; sich gewöhnen; å venne seg til; ; B1; Allgemein/Verben; Jeg har sakte vendt meg til det kalde været.; Ich habe mich langsam an das kalte Wetter gewöhnt.
 no-xe-0018; sich lohnen; å lønne seg; ; B1; Allgemein/Verben; Den lange veien opp lønte seg.; Der lange Weg nach oben hat sich gelohnt.
@@ -109,9 +109,9 @@ no-xe-0106; eigen; egen; ; B1; Allgemein/Adjektive; Jeg vil ha mitt eget rom en 
 no-xe-0107; sorgfältig; nøye; omhyggelig, grundig; B1; Allgemein/Adjektive; Les teksten nøye før du svarer.; Lies den Text sorgfältig, bevor du antwortest.
 no-xe-0108; einzig; eneste; ; B1; Allgemein/Adjektive; Hun er den eneste som kjenner svaret.; Sie ist die einzige Person, die die Antwort kennt.
 no-xe-0109; geheim; hemmelig; ; B1; Allgemein/Adjektive; Planen må være hemmelig helt til fredag.; Der Plan muss bis Freitag geheim bleiben.
-no-xe-0110; glatt (Oberfläche); glatt; ; B1; Allgemein/Adjektive; Steinen er helt glatt etter mange år i elva.; Der Stein ist nach Jahren im Fluss ganz glatt.
+no-xe-0110; glatt (eine glatte Oberfläche); glatt; ; B1; Allgemein/Adjektive; Steinen er helt glatt etter mange år i elva.; Der Stein ist nach Jahren im Fluss ganz glatt.
 no-xe-0111; korrekt; riktig; korrekt; B1; Allgemein/Adjektive; Alle svarene dine på prøven var riktige.; Alle deine Antworten im Test waren korrekt.
-no-xe-0112; locker (nicht fest); løs; ; B1; Allgemein/Adjektive; En av tennene mine er løs.; Einer meiner Zähne ist locker.
+no-xe-0112; locker (die Schraube ist locker); løs; ; B1; Allgemein/Adjektive; En av tennene mine er løs.; Einer meiner Zähne ist locker.
 no-xe-0113; merkwürdig; merkelig; underlig; B1; Allgemein/Adjektive; I går skjedde det noe merkelig med meg.; Gestern ist mir etwas Merkwürdiges passiert.
 no-xe-0114; passend; passende; ; B1; Allgemein/Adjektive; Jeg finner ingen passende gave til henne.; Ich finde kein passendes Geschenk für sie.
 no-xe-0115; rein; ren; ; B1; Allgemein/Adjektive; Denne genseren er laget av ren ull.; Dieser Pullover ist aus reiner Wolle.
@@ -152,7 +152,7 @@ no-xe-0149; so; så; ; A1; Allgemein/Kleine Wörter; Jeg er så trøtt etter den
 no-xe-0150; denn; for; ; A1; Allgemein/Kleine Wörter; Jeg blir hjemme, for jeg er syk.; Ich bleibe zu Hause, denn ich bin krank.
 no-xe-0151; gern; gjerne; ; A1; Allgemein/Kleine Wörter; Jeg hjelper deg gjerne med kassene.; Ich helfe dir gern mit den Kisten.
 no-xe-0152; niemand; ingen; ; A2; Allgemein/Kleine Wörter; Det var ingen som tok telefonen hjemme.; Zu Hause ist niemand ans Telefon gegangen.
-no-xe-0153; über (Thema); om; ; A2; Allgemein/Kleine Wörter; Vi snakket om planene våre for sommeren.; Wir haben über unsere Pläne für den Sommer gesprochen.
+no-xe-0153; über (ein Buch über Tiere); om; ; A2; Allgemein/Kleine Wörter; Vi snakket om planene våre for sommeren.; Wir haben über unsere Pläne für den Sommer gesprochen.
 no-xe-0154; wieso; hvorfor; ; A2; Allgemein/Kleine Wörter; Hvorfor sa du ikke det til meg tidligere?; Wieso hast du mir das nicht früher gesagt?
 no-xe-0155; trotzdem; likevel; allikevel; A2; Allgemein/Kleine Wörter; Det regnet, men vi gikk tur likevel.; Es regnete, aber wir gingen trotzdem spazieren.
 no-xe-0156; wegen; på grunn av; grunnet; A2; Allgemein/Kleine Wörter; Kampen ble avlyst på grunn av regnet.; Das Spiel wurde wegen des Regens abgesagt.
@@ -167,7 +167,7 @@ no-xe-0164; einander; hverandre; ; B1; Allgemein/Kleine Wörter; De to gamle ven
 no-xe-0165; deswegen; derfor; ; B1; Allgemein/Kleine Wörter; Bussen kom for sent, derfor gikk jeg glipp av filmen.; Der Bus kam zu spät, deswegen habe ich den Film verpasst.
 no-xe-0166; statt; i stedet for; ; B1; Allgemein/Kleine Wörter; La oss drikke te i stedet for kaffe i dag.; Lass uns heute Tee statt Kaffee trinken.
 no-xe-0167; außer; unntatt; bortsett fra; B1; Allgemein/Kleine Wörter; Alle unntatt Tom kom til festen.; Alle außer Tom kamen zur Party.
-no-xe-0168; damit (Zweck); slik at; ; B1; Allgemein/Kleine Wörter; Snakk høyere slik at alle kan høre deg.; Sprich lauter, damit dich alle hören können.
+no-xe-0168; damit (damit er pünktlich ist); slik at; ; B1; Allgemein/Kleine Wörter; Snakk høyere slik at alle kan høre deg.; Sprich lauter, damit dich alle hören können.
 no-xe-0169; falls; hvis; dersom; B1; Allgemein/Kleine Wörter; Ta med en paraply hvis det regner.; Nimm einen Schirm mit, falls es regnet.
 no-xe-0170; nachdem; etter at; ; B1; Allgemein/Kleine Wörter; Etter at vi hadde spist, gikk vi en tur.; Nachdem wir gegessen hatten, gingen wir spazieren.
 no-xe-0171; seitdem; siden; ; B1; Allgemein/Kleine Wörter; Siden hun flyttet, ser vi hverandre sjelden.; Seitdem sie weggezogen ist, sehen wir uns selten.
@@ -191,7 +191,7 @@ no-xe-0188; absolut; absolutt; helt; B1; Allgemein/Kleine Wörter; Jeg er absolu
 no-xe-0189; relativ; relativt; ; B1; Allgemein/Kleine Wörter; Prøven var relativt lett denne gangen.; Der Test war diesmal relativ leicht.
 no-xe-0190; extrem; ekstremt; ; B1; Allgemein/Kleine Wörter; Det var ekstremt kaldt oppe i fjellet.; In den Bergen war es extrem kalt.
 no-xe-0191; gemeinsam; sammen; ; B1; Allgemein/Kleine Wörter; Vi lagde mat sammen i går kveld.; Wir haben gestern Abend gemeinsam gekocht.
-no-xe-0192; da (weil); siden; ettersom; B1; Allgemein/Kleine Wörter; Siden det regnet, ble vi hjemme.; Da es regnete, blieben wir zu Hause.
+no-xe-0192; da (da es spät ist); siden; ettersom; B1; Allgemein/Kleine Wörter; Siden det regnet, ble vi hjemme.; Da es regnete, blieben wir zu Hause.
 no-xe-0193; wozu; til hva; ; B1; Allgemein/Kleine Wörter; Til hva trenger du alle de pengene?; Wozu brauchst du das ganze Geld?
 no-xe-0194; gegenseitig; gjensidig; ; B2; Allgemein/Kleine Wörter; Vi hjelper hverandre gjensidig med leksene.; Wir helfen uns gegenseitig bei den Hausaufgaben.
 no-xe-0195; dank; takket være; ; B2; Allgemein/Kleine Wörter; Takket være hjelpen din ble vi ferdige i tide.; Dank deiner Hilfe sind wir rechtzeitig fertig geworden.
@@ -207,7 +207,7 @@ no-xe-0204; bezüglich; angående; vedrørende, med hensyn til; C1; Allgemein/Kl
 no-xe-0205; zudem; i tillegg; dessuten; C1; Allgemein/Kleine Wörter; Leiligheten er billig og i tillegg veldig sentral.; Die Wohnung ist günstig und zudem sehr zentral.
 no-xe-0206; lediglich; kun; bare; C1; Allgemein/Kleine Wörter; Det var kun en liten misforståelse.; Es war lediglich ein kleines Missverständnis.
 no-xe-0207; keinesfalls; under ingen omstendigheter; på ingen måte; C1; Allgemein/Kleine Wörter; Du må under ingen omstendigheter åpne denne døra.; Du solltest diese Tür keinesfalls öffnen.
-no-xe-0208; um (Uhrzeit); klokka; ; A1; Allgemein/Zeit; Første time begynner i morgen klokka ni.; Die erste Stunde beginnt morgen um neun Uhr.
+no-xe-0208; um (um acht Uhr); klokka; ; A1; Allgemein/Zeit; Første time begynner i morgen klokka ni.; Die erste Stunde beginnt morgen um neun Uhr.
 no-xe-0209; morgens; om morgenen; på morgenen; A1; Allgemein/Zeit; Om morgenen drikker jeg alltid te.; Morgens trinke ich immer Tee.
 no-xe-0210; abends; om kvelden; på kvelden; A1; Allgemein/Zeit; Om kvelden spiller vi ofte kort.; Abends spielen wir oft Karten.
 no-xe-0211; Ende; en slutt; en ende; A1; Allgemein/Zeit; Vi flytter i slutten av måneden.; Wir ziehen am Ende des Monats um.
@@ -220,7 +220,7 @@ no-xe-0217; Mal (das erste Mal); en gang; ; A2; Allgemein/Zeit; Dette er første
 no-xe-0218; Vormittag; en formiddag; ; A2; Allgemein/Zeit; På mandagsformiddagen har jeg to timer matte.; Am Montagvormittag habe ich zwei Stunden Mathe.
 no-xe-0219; Nachmittag; en ettermiddag; ; A2; Allgemein/Zeit; Vi tilbrakte hele ettermiddagen i parken.; Wir haben den ganzen Nachmittag im Park verbracht.
 no-xe-0220; Viertelstunde; et kvarter; ; A2; Allgemein/Zeit; Bussen til byen kommer hvert kvarter.; Der Bus in die Stadt kommt jede Viertelstunde.
-no-xe-0221; früher (in der Vergangenheit); før i tiden; tidligere; A2; Allgemein/Zeit; Før i tiden var det kino i gata vår.; Früher gab es in unserer Straße ein Kino.
+no-xe-0221; früher (früher war alles anders); før i tiden; tidligere; A2; Allgemein/Zeit; Før i tiden var det kino i gata vår.; Früher gab es in unserer Straße ein Kino.
 no-xe-0222; damals; den gangen; på den tiden; A2; Allgemein/Zeit; Den gangen hadde vi ikke mobiltelefoner.; Damals hatten wir keine Handys.
 no-xe-0223; danach; etterpå; deretter; A2; Allgemein/Zeit; Vi handlet og spiste lunsj etterpå.; Wir waren einkaufen und haben danach zu Mittag gegessen.
 no-xe-0224; täglich; daglig; hver dag; A2; Allgemein/Zeit; Jeg øver piano daglig i en halv time.; Ich übe täglich eine halbe Stunde Klavier.
@@ -231,7 +231,7 @@ no-xe-0228; nochmal; en gang til; igjen; A2; Allgemein/Zeit; Kan du si det en ga
 no-xe-0229; niemals; aldri; ; A2; Allgemein/Zeit; Jeg kommer aldri til å glemme denne dagen.; Ich werde diesen Tag niemals vergessen.
 no-xe-0230; Weile; en stund; ei stund; B1; Allgemein/Zeit; Vi ventet en stund, så gikk vi hjem.; Wir warteten eine Weile, dann gingen wir nach Hause.
 no-xe-0231; Beginn; en start; en begynnelse; B1; Allgemein/Zeit; Vær presise til starten av konserten, takk.; Bitte seid zum Beginn des Konzerts pünktlich.
-no-xe-0232; Schluss (Ende); en slutt; ; B1; Allgemein/Zeit; Mot slutten av timen sang vi en sang.; Zum Schluss der Stunde haben wir ein Lied gesungen.
+no-xe-0232; Schluss (zum Schluss); en slutt; ; B1; Allgemein/Zeit; Mot slutten av timen sang vi en sang.; Zum Schluss der Stunde haben wir ein Lied gesungen.
 no-xe-0233; Eile; en hast; ; B1; Allgemein/Zeit; Unnskyld, jeg har litt hast i dag.; Entschuldigung, ich bin heute in Eile.
 no-xe-0234; dringend; presserende; hastende; B1; Allgemein/Zeit; Jeg må ta en presserende telefon.; Ich muss einen dringenden Anruf machen.
 no-xe-0235; nachher; senere; etterpå; B1; Allgemein/Zeit; Jeg skal ringe deg tilbake senere.; Ich rufe dich nachher zurück.
@@ -265,8 +265,8 @@ no-xe-0262; Jahrtausend; et årtusen; ; B2; Allgemein/Zeit; Vi feiret starten p�
 no-xe-0263; wohin; hvor; hvorhen; A1; Allgemein/Raum; Hvor skal dere på ferie i år?; Wohin fahrt ihr dieses Jahr in den Urlaub?
 no-xe-0264; woher; hvorfra; ; A1; Allgemein/Raum; Vet du hvorfra den nye naboen din kommer?; Weißt du, woher dein neuer Nachbar kommt?
 no-xe-0265; neben; ved siden av; ; A1; Allgemein/Raum; Kom og sett deg ved siden av meg.; Komm und setz dich neben mich.
-no-xe-0266; vor (räumlich); foran; ; A1; Allgemein/Raum; Foran huset vårt står det et stort tre.; Vor unserem Haus steht ein großer Baum.
-no-xe-0267; nach (Richtung); til; ; A1; Allgemein/Raum; I morgen flyr vi til Spania.; Morgen fliegen wir nach Spanien.
+no-xe-0266; vor (vor dem Haus); foran; ; A1; Allgemein/Raum; Foran huset vårt står det et stort tre.; Vor unserem Haus steht ein großer Baum.
+no-xe-0267; nach (nach Berlin fahren); til; ; A1; Allgemein/Raum; I morgen flyr vi til Spania.; Morgen fliegen wir nach Spanien.
 no-xe-0268; oben; oppe; ; A2; Allgemein/Raum; Badet er oppe til venstre, ved trappa.; Das Badezimmer ist oben links, bei der Treppe.
 no-xe-0269; unten; nede; ; A2; Allgemein/Raum; Kjøkkenet er nede ved siden av stua.; Die Küche ist unten neben dem Wohnzimmer.
 no-xe-0270; vorne; foran; fremme; A2; Allgemein/Raum; Jeg sitter helst foran på bussen.; Ich sitze im Bus gern vorne.
@@ -297,7 +297,7 @@ no-xe-0294; rückwärts; baklengs; bakover; B1; Allgemein/Raum; Hun parkerte bil
 no-xe-0295; Zentrum; et sentrum; ; B1; Allgemein/Raum; Hotellet vårt ligger rett i sentrum av byen.; Unser Hotel liegt direkt im Zentrum der Stadt.
 no-xe-0296; Abstand; en avstand; ; B1; Allgemein/Raum; Hold avstand til bilen foran deg, takk.; Bitte halte Abstand zum vorderen Auto.
 no-xe-0297; Umgebung; en omegn; omgivelser; B1; Allgemein/Raum; I omegnen er det mange fine turstier.; In der Umgebung gibt es viele schöne Spazierwege.
-no-xe-0298; Lage (Ort); en beliggenhet; ei beliggenhet; B1; Allgemein/Raum; Hotellet har en perfekt beliggenhet ved sjøen.; Das Hotel hat eine perfekte Lage am Meer.
+no-xe-0298; Lage (eine ruhige Lage); en beliggenhet; ei beliggenhet; B1; Allgemein/Raum; Hotellet har en perfekt beliggenhet ved sjøen.; Das Hotel hat eine perfekte Lage am Meer.
 no-xe-0299; Kurve; en sving; ; B1; Allgemein/Raum; Kjør sakte, det kommer en skarp sving.; Fahr langsam, vorne kommt eine scharfe Kurve.
 no-xe-0300; Hintergrund; en bakgrunn; ; B1; Allgemein/Raum; I bakgrunnen på bildet ser man fjellene.; Im Hintergrund des Fotos sieht man die Berge.
 no-xe-0301; Lücke; et hull; ; B1; Allgemein/Raum; Katta presset seg gjennom et hull i gjerdet.; Die Katze zwängte sich durch eine Lücke im Zaun.
@@ -318,7 +318,7 @@ no-xe-0315; unterhalb; nedenfor; ; B2; Allgemein/Raum; Den lille innsjøen ligge
 no-xe-0316; umgekehrt; omvendt; motsatt; B2; Allgemein/Raum; Det var ikke min skyld, det var omvendt.; Es war nicht meine Schuld, es war umgekehrt.
 no-xe-0317; jenseits; bortenfor; hinsides; C1; Allgemein/Raum; Bortenfor fjellene ligger en vid dal.; Jenseits der Berge liegt ein weites Tal.
 no-xe-0318; Rest; en rest; ; A2; Allgemein/Mengen; Du kan få resten av kaka.; Du kannst den Rest vom Kuchen haben.
-no-xe-0319; Viertel (Bruchteil); en fjerdedel; ; A2; Allgemein/Mengen; Skjær eplet i fire fjerdedeler, takk.; Schneide den Apfel bitte in vier Viertel.
+no-xe-0319; Viertel (ein Viertel der Torte); en fjerdedel; ; A2; Allgemein/Mengen; Skjær eplet i fire fjerdedeler, takk.; Schneide den Apfel bitte in vier Viertel.
 no-xe-0320; Million; en million; ; A2; Allgemein/Mengen; Byen har mer enn en million innbyggere.; Die Stadt hat mehr als eine Million Einwohner.
 no-xe-0321; Meter; en meter; ; A2; Allgemein/Mengen; Svømmebassenget på skolen er tjuefem meter langt.; Das Schwimmbecken in der Schule ist fünfundzwanzig Meter lang.
 no-xe-0322; Zentimeter; en centimeter; en sentimeter; A2; Allgemein/Mengen; Lillesøsteren min har vokst fem centimeter.; Meine kleine Schwester ist fünf Zentimeter gewachsen.
@@ -337,8 +337,8 @@ no-xe-0334; Anzahl; et antall; ; B1; Allgemein/Mengen; Antallet elever har økt 
 no-xe-0335; Dutzend; et dusin; ; B1; Allgemein/Mengen; Jeg kjøpte et dusin egg på markedet.; Ich habe auf dem Markt ein Dutzend Eier gekauft.
 no-xe-0336; Milliarde; en milliard; ; B1; Allgemein/Mengen; Det nye stadionet kostet en milliard euro.; Das neue Stadion hat eine Milliarde Euro gekostet.
 no-xe-0337; Inhalt; et innhold; ; B1; Allgemein/Mengen; Innholdet i esken falt ned på gulvet.; Der Inhalt der Schachtel fiel auf den Boden.
-no-xe-0338; Tonne (Gewicht); et tonn; ; B1; Allgemein/Mengen; Lastebilen kan frakte ti tonn sand.; Der Lastwagen kann zehn Tonnen Sand transportieren.
-no-xe-0339; Pfund (Gewicht); et pund; ; B1; Allgemein/Mengen; Kan jeg få et pund tomater, takk?; Kann ich bitte ein Pfund Tomaten haben?
+no-xe-0338; Tonne (eine Tonne wiegen); et tonn; ; B1; Allgemein/Mengen; Lastebilen kan frakte ti tonn sand.; Der Lastwagen kann zehn Tonnen Sand transportieren.
+no-xe-0339; Pfund (ein Pfund Butter); et pund; ; B1; Allgemein/Mengen; Kan jeg få et pund tomater, takk?; Kann ich bitte ein Pfund Tomaten haben?
 no-xe-0340; Quadratmeter; en kvadratmeter; ; B1; Allgemein/Mengen; Leiligheten vår er på sytti kvadratmeter.; Die Wohnung hat siebzig Quadratmeter.
 no-xe-0341; Haufen; en haug; ; B1; Allgemein/Mengen; Det ligger en haug med skittent tøy på gulvet.; Auf dem Boden liegt ein Haufen schmutziger Kleider.
 no-xe-0342; Kleinigkeit; en liten ting; ; B1; Allgemein/Mengen; Jeg har kjøpt en liten ting til deg i bursdagsgave.; Ich habe dir eine Kleinigkeit zum Geburtstag gekauft.
@@ -369,7 +369,7 @@ no-xe-0366; sich unterhalten; å prate; å snakke sammen; A2; Allgemein/Denken &
 no-xe-0367; grüßen; å hilse; ; A2; Allgemein/Denken & Sprechen; Han hilser alltid vennlig på naboene.; Er grüßt die Nachbarn immer freundlich.
 no-xe-0368; gratulieren; å gratulere; ; A2; Allgemein/Denken & Sprechen; Vi gratulerte henne med den nye jobben.; Wir haben ihr zu ihrer neuen Stelle gratuliert.
 no-xe-0369; nachdenken; å tenke over; å fundere på; B1; Allgemein/Denken & Sprechen; Jeg trenger litt tid til å tenke over det.; Ich brauche etwas Zeit, um darüber nachzudenken.
-no-xe-0370; überlegen (nachdenken); å vurdere; å overveie; B1; Allgemein/Denken & Sprechen; Jeg vurderer tilbudet ditt til i morgen.; Ich überlege mir dein Angebot bis morgen.
+no-xe-0370; überlegen (sich etwas gut überlegen); å vurdere; å overveie; B1; Allgemein/Denken & Sprechen; Jeg vurderer tilbudet ditt til i morgen.; Ich überlege mir dein Angebot bis morgen.
 no-xe-0371; erraten; å gjette; ; B1; Allgemein/Denken & Sprechen; Du gjetter aldri hvem som ringte meg.; Du errätst nie, wer mich angerufen hat.
 no-xe-0372; vermuten; å anta; å formode; B1; Allgemein/Denken & Sprechen; Jeg antar at han har mistet bussen igjen.; Ich vermute, er hat wieder den Bus verpasst.
 no-xe-0373; sich irren; å ta feil; ; B1; Allgemein/Denken & Sprechen; Jeg tror du tar feil der.; Ich glaube, da irrst du dich.
@@ -405,7 +405,7 @@ no-xe-0402; zitieren; å sitere; ; B2; Allgemein/Denken & Sprechen; Han siterer 
 no-xe-0403; schwören; å sverge; ; B2; Allgemein/Denken & Sprechen; Jeg sverger på at jeg ikke tok pengene dine.; Ich schwöre, dass ich dein Geld nicht genommen habe.
 no-xe-0404; äußern; å uttrykke; å ytre; B2; Allgemein/Denken & Sprechen; Hun uttrykte tvilen sin på planen.; Sie äußerte ihre Zweifel an dem Plan.
 no-xe-0405; begründen; å begrunne; ; B2; Allgemein/Denken & Sprechen; Du må begrunne meningen din i stilen.; Du musst deine Meinung im Aufsatz begründen.
-no-xe-0406; tippen (wetten); å tippe; ; B2; Allgemein/Denken & Sprechen; Jeg tipper at laget vårt vinner på lørdag.; Ich tippe, dass unsere Mannschaft am Samstag gewinnt.
+no-xe-0406; tippen (auf den Sieger tippen); å tippe; ; B2; Allgemein/Denken & Sprechen; Jeg tipper at laget vårt vinner på lørdag.; Ich tippe, dass unsere Mannschaft am Samstag gewinnt.
 no-xe-0407; gestehen; å tilstå; å innrømme; B2; Allgemein/Denken & Sprechen; Til slutt tilsto han at han hadde løyet.; Schließlich gestand er, dass er gelogen hatte.
 no-xe-0408; Ansicht; en oppfatning; en mening; B2; Allgemein/Denken & Sprechen; Etter min oppfatning er planen for dyr.; Meiner Ansicht nach ist der Plan zu teuer.
 no-xe-0409; Vermutung; en antakelse; en formodning; B2; Allgemein/Denken & Sprechen; Min antakelse er at hun har glemt oss.; Meine Vermutung ist, dass sie uns vergessen hat.

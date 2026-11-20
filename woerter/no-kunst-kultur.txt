@@ -4,7 +4,7 @@ no-kk-0001; Museum; et museum; ; A1; Kultur/Kunst & Museum; Vi besøkte det nye 
 no-kk-0002; Bild; et bilde; ; A1; Kultur/Kunst & Museum; Det henger et vakkert bilde på veggen.; An der Wand hängt ein schönes Bild.
 no-kk-0003; malen; å male; ; A1; Kultur/Kunst & Museum; Datteren min maler gjerne fargerike blomster.; Meine Tochter malt gern bunte Blumen.
 no-kk-0004; Kunst; en kunst; ; A1; Kultur/Kunst & Museum; Moderne kunst er ikke alltid lett å forstå.; Moderne Kunst ist nicht immer leicht zu verstehen.
-no-kk-0005; Farbe (Farbton); ei farge; en farge; A2; Kultur/Kunst & Museum; Blå er den fargen jeg liker best på malerier.; Blau ist die Farbe, die ich auf Gemälden am liebsten mag.
+no-kk-0005; Farbe (welche Farbe hat das?); ei farge; en farge; A2; Kultur/Kunst & Museum; Blå er den fargen jeg liker best på malerier.; Blau ist die Farbe, die ich auf Gemälden am liebsten mag.
 no-kk-0006; Künstler; en kunstner; ; A2; Kultur/Kunst & Museum; Den unge kunstneren selger verkene sine på nett.; Der junge Künstler verkauft seine Werke online.
 no-kk-0007; zeichnen; å tegne; ; A2; Kultur/Kunst & Museum; Han lærte på skolen å tegne ansikter.; Er hat in der Schule gelernt, Gesichter zu zeichnen.
 no-kk-0008; Zeichnung; en tegning; ; A2; Kultur/Kunst & Museum; Hun viste meg en tegning av katten sin.; Sie zeigte mir eine Zeichnung ihrer Katze.
@@ -14,7 +14,7 @@ no-kk-0011; Ausstellung; en utstilling; ; B1; Kultur/Kunst & Museum; Utstillinge
 no-kk-0012; Galerie; et galleri; ; B1; Kultur/Kunst & Museum; Et lite galleri viser lokale kunstnere hver måned.; Eine kleine Galerie zeigt jeden Monat lokale Künstler.
 no-kk-0013; Skulptur; en skulptur; ; B1; Kultur/Kunst & Museum; Skulpturen i parken er laget av bronse.; Die Skulptur im Park ist aus Bronze.
 no-kk-0014; Porträt; et portrett; ; B1; Kultur/Kunst & Museum; Kongen bestilte et portrett av familien sin.; Der König gab ein Porträt seiner Familie in Auftrag.
-no-kk-0015; Leinwand (Malerei); et lerret; ; B1; Kultur/Kunst & Museum; Hun spente opp et nytt lerret til neste verk.; Sie spannte eine neue Leinwand für ihr nächstes Werk.
+no-kk-0015; Leinwand (auf Leinwand malen); et lerret; ; B1; Kultur/Kunst & Museum; Hun spente opp et nytt lerret til neste verk.; Sie spannte eine neue Leinwand für ihr nächstes Werk.
 no-kk-0016; Kunstwerk; et kunstverk; ; B1; Kultur/Kunst & Museum; Hvert kunstverk forteller sin egen historie.; Jedes Kunstwerk erzählt seine eigene Geschichte.
 no-kk-0017; Sammlung; en samling; ; B1; Kultur/Kunst & Museum; Museet har en berømt samling av gamle mynter.; Das Museum besitzt eine berühmte Sammlung alter Münzen.
 no-kk-0018; Meisterwerk; et mesterverk; ; B2; Kultur/Kunst & Museum; Kritikere kaller maleriet et absolutt mesterverk.; Kritiker nennen das Gemälde ein absolutes Meisterwerk.
@@ -38,19 +38,19 @@ no-kk-0035; Bühne; en scene; ; A2; Kultur/Theater & Film; Barna sto nervøse p�
 no-kk-0036; Komödie; en komedie; ; A2; Kultur/Theater & Film; Vi lo veldig mye under hele komedien.; Wir haben während der Komödie viel gelacht.
 no-kk-0037; Eintrittskarte; en billett; en inngangsbillett; A2; Kultur/Theater & Film; Jeg kjøpte to billetter til kveldsforestillingen.; Ich habe zwei Eintrittskarten für die Abendvorstellung gekauft.
 no-kk-0038; Publikum; et publikum; ; B1; Kultur/Theater & Film; Publikum klappet i nesten ti minutter.; Das Publikum klatschte fast zehn Minuten lang.
-no-kk-0039; Vorstellung (Theater); en forestilling; ; B1; Kultur/Theater & Film; Den siste forestillingen var helt utsolgt.; Die letzte Vorstellung war komplett ausverkauft.
+no-kk-0039; Vorstellung (die Vorstellung beginnt); en forestilling; ; B1; Kultur/Theater & Film; Den siste forestillingen var helt utsolgt.; Die letzte Vorstellung war komplett ausverkauft.
 no-kk-0040; Regisseur; en regissør; ; B1; Kultur/Theater & Film; Regissøren forklarte den neste scenen for alle skuespillerne.; Der Regisseur erklärte allen Schauspielern die nächste Szene.
 no-kk-0041; Dramaturgie; en dramaturgi; ; C2; Kultur/Theater & Film; Dramaturgien i stykket bygger opp spenningen veldig sakte.; Die Dramaturgie des Stücks baut die Spannung sehr langsam auf.
-no-kk-0042; Probe (Theater); en teaterprøve; ; B1; Kultur/Theater & Film; Den siste teaterprøven varte til midnatt.; Die letzte Probe dauerte bis Mitternacht.
+no-kk-0042; Probe (die Probe vor der Premiere); en teaterprøve; ; B1; Kultur/Theater & Film; Den siste teaterprøven varte til midnatt.; Die letzte Probe dauerte bis Mitternacht.
 no-kk-0043; Applaus; en applaus; ; B1; Kultur/Theater & Film; Sangeren takket publikum for den hjertelige applausen.; Die Sängerin dankte dem Publikum für den herzlichen Applaus.
-no-kk-0044; Vorhang (Theater); et sceneteppe; et teaterteppe; B1; Kultur/Theater & Film; Sceneteppet gikk opp, og stykket begynte.; Der Vorhang hob sich und das Stück begann.
+no-kk-0044; Vorhang (der Vorhang fällt); et sceneteppe; et teaterteppe; B1; Kultur/Theater & Film; Sceneteppet gikk opp, og stykket begynte.; Der Vorhang hob sich und das Stück begann.
 no-kk-0045; Tragödie; en tragedie; ; B1; Kultur/Theater & Film; Tragedien ender med at helten dør til slutt.; Die Tragödie endet mit dem Tod des Helden.
 no-kk-0046; Dokumentarfilm; en dokumentarfilm; ; B1; Kultur/Theater & Film; Vi så en dokumentarfilm om dyphavet.; Wir haben einen Dokumentarfilm über die Tiefsee gesehen.
 no-kk-0047; Drehbuch; et manus; et filmmanus; B2; Kultur/Theater & Film; Hun skrev manus til et prisbelønt drama.; Sie schrieb das Drehbuch für ein preisgekröntes Drama.
 no-kk-0048; Hauptrolle; en hovedrolle; ; B2; Kultur/Theater & Film; Han fikk hovedrollen i den nye serien.; Er bekam die Hauptrolle in der neuen Serie.
 no-kk-0049; Nebenrolle; ei birolle; en birolle; B2; Kultur/Theater & Film; Selv i ei birolle imponerte hun kritikerne.; Selbst in einer Nebenrolle beeindruckte sie die Kritiker.
 no-kk-0050; Premiere; en premiere; ; B2; Kultur/Theater & Film; Mange stjerner kom til premieren i Oslo.; Viele Stars kamen zur Premiere nach Oslo.
-no-kk-0051; Besetzung (Film, Theater); en rollebesetning; en rolleliste; B2; Kultur/Theater & Film; Filmen overbeviser med en fremragende rollebesetning.; Der Film überzeugt mit einer hervorragenden Besetzung.
+no-kk-0051; Besetzung (die Besetzung eines Films); en rollebesetning; en rolleliste; B2; Kultur/Theater & Film; Filmen overbeviser med en fremragende rollebesetning.; Der Film überzeugt mit einer hervorragenden Besetzung.
 no-kk-0052; Spielfilm; en spillefilm; ; B2; Kultur/Theater & Film; Den første spillefilmen hennes vant flere internasjonale priser.; Ihr erster Spielfilm gewann mehrere internationale Preise.
 no-kk-0053; Synchronisation; en dubbing; ; C1; Kultur/Theater & Film; I Tyskland er dubbing av utenlandske filmer svært utbredt.; In Deutschland ist die Synchronisation ausländischer Filme sehr verbreitet.
 no-kk-0054; Bühnenbild; en scenografi; et scenebilde; C1; Kultur/Theater & Film; Den minimalistiske scenografien rettet oppmerksomheten mot skuespillerne.; Das minimalistische Bühnenbild lenkte die Aufmerksamkeit auf die Schauspieler.
@@ -70,16 +70,16 @@ no-kk-0067; veröffentlichen; å publisere; å utgi; B1; Kultur/Literatur; Hun v
 no-kk-0068; Übersetzung; en oversettelse; ; B1; Kultur/Literatur; Den engelske oversettelsen kom ut to år senere.; Die englische Übersetzung erschien zwei Jahre später.
 no-kk-0069; Figur; en figur; en karakter; B1; Kultur/Literatur; Figuren forandrer seg helt i løpet av historien.; Die Figur verändert sich im Laufe der Geschichte völlig.
 no-kk-0070; Kapitel; et kapittel; ; A2; Kultur/Literatur; Jeg leste det første kapittelet på toget.; Ich habe das erste Kapitel im Zug gelesen.
-no-kk-0071; Gattung (Literatur); en sjanger; ; C1; Kultur/Literatur; Novellen er en krevende litterær sjanger.; Die Kurzgeschichte ist eine anspruchsvolle literarische Gattung.
+no-kk-0071; Gattung (eine literarische Gattung); en sjanger; ; C1; Kultur/Literatur; Novellen er en krevende litterær sjanger.; Die Kurzgeschichte ist eine anspruchsvolle literarische Gattung.
 no-kk-0072; Sinnbild; et symbol; et sinnbilde; C2; Kultur/Literatur; Den hvite duen er et symbol på fred.; Die weiße Taube dient als Sinnbild des Friedens.
-no-kk-0073; Handlung (Geschichte); en handling; ; B2; Kultur/Literatur; Handlingen i boka tar flere overraskende vendinger.; Die Handlung nimmt mehrere überraschende Wendungen.
+no-kk-0073; Handlung (die Handlung eines Films); en handling; ; B2; Kultur/Literatur; Handlingen i boka tar flere overraskende vendinger.; Die Handlung nimmt mehrere überraschende Wendungen.
 no-kk-0074; Lyrik; en lyrikk; ; B2; Kultur/Literatur; Moderne lyrikk klarer seg ofte helt uten rim.; Moderne Lyrik kommt oft ganz ohne Reim aus.
 no-kk-0075; Erzählung; en fortelling; ; B2; Kultur/Literatur; Fortellingen utspiller seg i en liten fiskerlandsby.; Die Erzählung spielt in einem kleinen Fischerdorf.
 no-kk-0076; Sprichwort; et ordtak; ; B2; Kultur/Literatur; Et gammelt ordtak sier at tiden leger alle sår.; Ein altes Sprichwort sagt, dass Zeit alle Wunden heilt.
 no-kk-0077; Lesung; en opplesning; ; B2; Kultur/Literatur; Forfatteren holdt en opplesning på folkebiblioteket.; Der Autor hielt eine Lesung in der öffentlichen Bibliothek.
-no-kk-0078; Auflage (Ausgabe); en utgave; ; C1; Kultur/Literatur; Den første utgaven var utsolgt på én uke.; Die erste Auflage war innerhalb einer Woche vergriffen.
+no-kk-0078; Auflage (die zweite Auflage eines Buches); en utgave; ; C1; Kultur/Literatur; Den første utgaven var utsolgt på én uke.; Die erste Auflage war innerhalb einer Woche vergriffen.
 no-kk-0079; Metapher; en metafor; ; C1; Kultur/Literatur; Dikteren bruker havet som metafor for frihet.; Der Dichter benutzt das Meer als Metapher für Freiheit.
-no-kk-0080; Nachlass (Erbe); etterlatte papirer; ; C2; Kultur/Literatur; Forskere undersøker forfatterens etterlatte papirer og brev.; Forscher untersuchen die hinterlassenen Papiere und Briefe des Schriftstellers.
+no-kk-0080; Nachlass (der Nachlass eines Dichters); etterlatte papirer; ; C2; Kultur/Literatur; Forskere undersøker forfatterens etterlatte papirer og brev.; Forscher untersuchen die hinterlassenen Papiere und Briefe des Schriftstellers.
 no-kk-0081; Musik; en musikk; ; A1; Kultur/Musik; Jeg hører på musikk på vei til jobb.; Ich höre Musik auf dem Weg zur Arbeit.
 no-kk-0082; Lied; en sang; en låt; A1; Kultur/Musik; Denne sangen var veldig populær i fjor sommer.; Dieses Lied war letzten Sommer sehr beliebt.
 no-kk-0083; singen; å synge; ; A1; Kultur/Musik; Barna synger en sang hver morgen.; Die Kinder singen jeden Morgen ein Lied.
@@ -110,7 +110,7 @@ no-kk-0107; Kirche; ei kirke; en kirke; A2; Kultur/Architektur; Den gamle kirka 
 no-kk-0108; Turm; et tårn; ; A2; Kultur/Architektur; Fra tårnet kan man se hele byen.; Vom Turm aus sieht man die ganze Stadt.
 no-kk-0109; Brücke; ei bru; en bru; A2; Kultur/Architektur; Brua forbinder de to bydelene med hverandre.; Die Brücke verbindet die beiden Stadtteile miteinander.
 no-kk-0110; Gebäude; en bygning; et bygg; A2; Kultur/Architektur; Denne bygningen er den høyeste i landet.; Dieses Gebäude ist das höchste im Land.
-no-kk-0111; Schloss (Gebäude); et slott; ; B1; Kultur/Architektur, Reisen/Urlaub/Sightseeing; Slottet på høyden trekker mange turister.; Das Schloss auf dem Hügel zieht viele Touristen an.
+no-kk-0111; Schloss (ein Schloss besichtigen); et slott; ; B1; Kultur/Architektur, Reisen/Urlaub/Sightseeing; Slottet på høyden trekker mange turister.; Das Schloss auf dem Hügel zieht viele Touristen an.
 no-kk-0112; Architekt; en arkitekt; ; B1; Kultur/Architektur; Arkitekten tegnet en moderne skolebygning for kommunen.; Der Architekt entwarf ein modernes Schulgebäude für die Gemeinde.
 no-kk-0113; Architektur; en arkitektur; ; B1; Kultur/Architektur; Hun studerer arkitektur ved et universitet i München.; Sie studiert Architektur an einer Universität in München.
 no-kk-0114; Denkmal; et minnesmerke; et monument; B1; Kultur/Architektur; Minnesmerket minner oss om krigens ofre.; Das Denkmal erinnert uns an die Opfer des Krieges.
@@ -125,7 +125,7 @@ no-kk-0122; Kuppel; en kuppel; ; B2; Kultur/Architektur; Den gylne kuppelen glit
 no-kk-0123; Grundriss; en plantegning; en grunnplan; C1; Kultur/Architektur; Plantegningen viser fire rom og to bad.; Der Grundriss zeigt vier Zimmer und zwei Bäder.
 no-kk-0124; Stadtplanung; en byplanlegging; ; C1; Kultur/Architektur; God byplanlegging gir plass til mennesker, ikke til biler.; Gute Stadtplanung schafft Raum für Menschen, nicht für Autos.
 no-kk-0125; Gewölbe; et hvelv; ; C2; Kultur/Architektur; Den gamle vinkjelleren har et imponerende hvelv av stein.; Der alte Weinkeller hat ein beeindruckendes Steingewölbe.
-no-kk-0126; Geschichte (Vergangenheit); en historie; ; A1; Kultur/Geschichte; Jeg synes tysk historie er veldig interessant.; Ich finde die deutsche Geschichte sehr interessant.
+no-kk-0126; Geschichte (die deutsche Geschichte); en historie; ; A1; Kultur/Geschichte; Jeg synes tysk historie er veldig interessant.; Ich finde die deutsche Geschichte sehr interessant.
 no-kk-0127; König; en konge; ; A2; Kultur/Geschichte; Kongen bodde i et enormt slott.; Der König lebte in einem riesigen Palast.
 no-kk-0128; Königin; ei dronning; en dronning; A2; Kultur/Geschichte; Dronninga vinket til folk fra balkongen.; Die Königin winkte den Menschen vom Balkon zu.
 no-kk-0129; Krieg; en krig; ; A2; Kultur/Geschichte; Krigen varte i nesten tretti år.; Der Krieg dauerte fast dreißig Jahre.
@@ -143,7 +143,7 @@ no-kk-0140; Archäologe; en arkeolog; ; B2; Kultur/Geschichte; Arkeologen fant r
 no-kk-0141; Herrschaft; et herredømme; et styre; B2; Kultur/Geschichte; Under hans herredømme vokste riket veldig raskt.; Unter seiner Herrschaft wuchs das Reich sehr schnell.
 no-kk-0142; erobern; å erobre; ; B2; Kultur/Geschichte; Romerne prøvde å erobre hele regionen.; Die Römer versuchten, die ganze Region zu erobern.
 no-kk-0143; Niederlage; et nederlag; ; B2; Kultur/Geschichte; Nederlaget gjorde endelig slutt på den lange krigen.; Die Niederlage beendete endlich den langen Krieg.
-no-kk-0144; Erbe (Kultur); en kulturarv; en arv; B2; Kultur/Geschichte; Gamlebyen er en del av vår kulturarv.; Die Altstadt ist Teil unseres kulturellen Erbes.
+no-kk-0144; Erbe (das kulturelle Erbe); en kulturarv; en arv; B2; Kultur/Geschichte; Gamlebyen er en del av vår kulturarv.; Die Altstadt ist Teil unseres kulturellen Erbes.
 no-kk-0145; Ausgrabung; en utgraving; ; C1; Kultur/Geschichte; Utgravingen avdekket murene til en romersk villa.; Die Ausgrabung legte die Mauern einer römischen Villa frei.
 no-kk-0146; Altertum; oldtiden; ; C1; Kultur/Geschichte; Allerede i oldtiden forbandt handelsruter Europa og Asia.; Schon im Altertum verbanden Handelswege Europa und Asien.
 no-kk-0147; Überlieferung; en overlevering; ; C1; Kultur/Geschichte; Ifølge overleveringen ble byen grunnlagt av munker.; Der Überlieferung nach wurde die Stadt von Mönchen gegründet.

@@ -5,7 +5,7 @@ no-gw-0002; Tschüss; ha det; hadet, ha det bra; A1; Grundwortschatz/Kommunikati
 no-gw-0003; Danke; takk; tusen takk; A1; Grundwortschatz/Kommunikation; Tusen takk for den fine gaven.; Danke für das schöne Geschenk.
 no-gw-0004; Bitte; vær så snill; ; A1; Grundwortschatz/Kommunikation; Kan jeg få en kopp kaffe, vær så snill?; Kann ich eine Tasse Kaffee haben, bitte?
 no-gw-0005; Gern geschehen; bare hyggelig; ingen årsak, det var så lite; A1; Grundwortschatz/Kommunikation; Bare hyggelig, det var ikke noe problem.; Gern geschehen, das war kein Problem.
-no-gw-0006; Entschuldigung (Ausruf); unnskyld; ; A1; Grundwortschatz/Kommunikation; Unnskyld, kan du si hvor stasjonen ligger?; Entschuldigung, wo ist der Bahnhof?
+no-gw-0006; Entschuldigung (Entschuldigung, wie spät ist es?); unnskyld; ; A1; Grundwortschatz/Kommunikation; Unnskyld, kan du si hvor stasjonen ligger?; Entschuldigung, wo ist der Bahnhof?
 no-gw-0007; Ja; ja; ; A1; Grundwortschatz/Kommunikation; Ja, jeg vil gjerne ha litt te.; Ja, ich möchte gern etwas Tee.
 no-gw-0008; Nein; nei; ; A1; Grundwortschatz/Kommunikation; Nei, jeg har ikke tid i dag.; Nein, ich habe heute keine Zeit.
 no-gw-0009; Guten Morgen; god morgen; ; A1; Grundwortschatz/Kommunikation; God morgen, sov du godt i natt?; Guten Morgen, hast du gut geschlafen?
@@ -71,7 +71,7 @@ no-gw-0068; ankommen; å komme fram; å komme frem, å ankomme; A1; Grundwortsch
 no-gw-0069; zeigen; å vise; ; A1; Grundwortschatz/Verben; Kan du vise meg veien til hotellet?; Kannst du mir den Weg zum Hotel zeigen?
 no-gw-0070; glauben; å tro; ; A1; Grundwortschatz/Verben; Jeg tror deg, historien er sann.; Ich glaube dir, die Geschichte ist wahr.
 no-gw-0071; hoffen; å håpe; ; A1; Grundwortschatz/Verben; Jeg håper det blir fint vær i morgen.; Ich hoffe, das Wetter ist morgen schön.
-no-gw-0072; tragen (Kleidung); å ha på seg; ; A1; Grundwortschatz/Verben; Hun har på seg en rød kjole på festen.; Sie trägt ein rotes Kleid auf der Party.
+no-gw-0072; tragen (eine Brille tragen); å ha på seg; ; A1; Grundwortschatz/Verben; Hun har på seg en rød kjole på festen.; Sie trägt ein rotes Kleid auf der Party.
 no-gw-0073; kosten; å koste; ; A1; Grundwortschatz/Verben; Hvor mye koster denne billetten til Bergen?; Wie viel kostet diese Fahrkarte, bitte?
 no-gw-0074; bekommen; å få; å motta; A1; Grundwortschatz/Verben; Jeg får et brev fra tanten min i dag.; Ich bekomme heute einen Brief von meiner Tante.
 no-gw-0075; vergessen; å glemme; ; A1; Grundwortschatz/Verben; Ikke glem nøklene dine hjemme, vær så snill!; Vergiss deine Schlüssel nicht zu Hause!
@@ -95,7 +95,7 @@ no-gw-0092; Frau; en kvinne; ei kvinne; A1; Grundwortschatz/Menschen & Familie; 
 no-gw-0093; Kind; et barn; ; A1; Grundwortschatz/Menschen & Familie; Barnet leker med en liten ball.; Das Kind spielt mit einem kleinen Ball.
 no-gw-0094; Junge; en gutt; ; A1; Grundwortschatz/Menschen & Familie; Gutten sykler til skolen hver morgen.; Der Junge fährt jeden Morgen mit dem Rad zur Schule.
 no-gw-0095; Mädchen; ei jente; en jente; A1; Grundwortschatz/Menschen & Familie; Jenta leser en bok om hester.; Das Mädchen liest ein Buch über Pferde.
-no-gw-0096; Mutter (Elternteil); ei mor; en mor, ei mamma; A1; Grundwortschatz/Menschen & Familie; Moren min lager den beste kaka.; Meine Mutter macht den besten Kuchen.
+no-gw-0096; Mutter (Vater und Mutter); ei mor; en mor, ei mamma; A1; Grundwortschatz/Menschen & Familie; Moren min lager den beste kaka.; Meine Mutter macht den besten Kuchen.
 no-gw-0097; Vater; en far; en pappa; A1; Grundwortschatz/Menschen & Familie; Faren min jobber på flyplassen hver dag.; Mein Vater arbeitet jeden Tag am Flughafen.
 no-gw-0098; Eltern; foreldre; ; A1; Grundwortschatz/Menschen & Familie; Foreldrene mine bor i en liten bygd.; Meine Eltern wohnen in einem kleinen Dorf.
 no-gw-0099; Bruder; en bror; ; A1; Grundwortschatz/Menschen & Familie; Broren min er ett år eldre enn meg.; Mein Bruder ist ein Jahr älter als ich.
@@ -159,7 +159,7 @@ no-gw-0156; Apfel; et eple; ; A1; Grundwortschatz/Essen & Trinken; Jeg spiser et
 no-gw-0157; Käse; en ost; ; A1; Grundwortschatz/Essen & Trinken; Jeg liker brød med ost og tomat.; Ich mag Brot mit Käse und Tomate.
 no-gw-0158; Ei; et egg; ; A1; Grundwortschatz/Essen & Trinken; Jeg spiser et egg til frokost på søndager.; Sonntags esse ich ein Ei zum Frühstück.
 no-gw-0159; Fleisch; et kjøtt; ; A1; Grundwortschatz/Essen & Trinken; Søsteren min spiser ikke noe kjøtt.; Meine Schwester isst kein Fleisch.
-no-gw-0160; Fisch (Speise); en fisk; ; A1; Grundwortschatz/Essen & Trinken; På fredager spiser vi fisk med ris.; Freitags essen wir Fisch mit Reis.
+no-gw-0160; Fisch (Fisch zum Abendessen); en fisk; ; A1; Grundwortschatz/Essen & Trinken; På fredager spiser vi fisk med ris.; Freitags essen wir Fisch mit Reis.
 no-gw-0161; Obst; ei frukt; en frukt; A1; Grundwortschatz/Essen & Trinken; Frisk frukt er bra for helsen din.; Frisches Obst ist gut für deine Gesundheit.
 no-gw-0162; Gemüse; grønnsaker; ; A1; Grundwortschatz/Essen & Trinken; På lørdager kjøper vi grønnsaker på markedet.; Samstags kaufen wir Gemüse auf dem Markt.
 no-gw-0163; Reis; et ris; ; A1; Grundwortschatz/Essen & Trinken; I dag lager vi ris med kylling.; Heute kochen wir Reis mit Hähnchen.
@@ -216,7 +216,7 @@ no-gw-0213; warm; varm; ; A1; Grundwortschatz/Adjektive; Ta på deg en varm jakk
 no-gw-0214; teuer; dyr; ; A1; Grundwortschatz/Adjektive; Dette hotellet er for dyrt for oss.; Dieses Hotel ist zu teuer für uns.
 no-gw-0215; billig; billig; ; A1; Grundwortschatz/Adjektive; Billettene er ganske billige på mandager.; Die Karten sind montags billig.
 no-gw-0216; leicht; lett; enkel; A1; Grundwortschatz/Adjektive; Prøven i dag var virkelig lett.; Der Test heute war wirklich leicht.
-no-gw-0217; schwer (schwierig); vanskelig; ; A1; Grundwortschatz/Adjektive; Denne oppgaven er for vanskelig for meg.; Diese Übung ist zu schwer für mich.
+no-gw-0217; schwer (eine schwere Aufgabe); vanskelig; ; A1; Grundwortschatz/Adjektive; Denne oppgaven er for vanskelig for meg.; Diese Übung ist zu schwer für mich.
 no-gw-0218; glücklich; glad; lykkelig; A1; Grundwortschatz/Adjektive; Barna er veldig glade for snøen.; Die Kinder sind glücklich über den Schnee.
 no-gw-0219; traurig; trist; lei seg; A1; Grundwortschatz/Adjektive; Hun er trist fordi venninnen hennes flytter.; Sie ist traurig, weil ihre Freundin wegzieht.
 no-gw-0220; müde; trøtt; sliten; A1; Grundwortschatz/Adjektive; Jeg er trøtt og går og legger meg nå.; Ich bin müde und gehe jetzt ins Bett.
@@ -238,7 +238,7 @@ no-gw-0235; Bad; et bad; et baderom; A1; Grundwortschatz/Orte; Badet ligger ved 
 no-gw-0236; Stadt; en by; ; A1; Grundwortschatz/Orte; Bergen er en stor by med en flyplass.; Bergen ist eine große Stadt mit einem Flughafen.
 no-gw-0237; Dorf; en landsby; ; A1; Grundwortschatz/Orte; Besteforeldrene mine bor i en rolig landsby.; Meine Großeltern wohnen in einem ruhigen Dorf.
 no-gw-0238; Straße; en gate; ; A1; Grundwortschatz/Orte; Gata vår er stille om natten.; Unsere Straße ist nachts ruhig.
-no-gw-0239; Geschäft (Laden); en butikk; en forretning; A1; Grundwortschatz/Orte; Butikken åpner klokka ni om morgenen.; Das Geschäft öffnet morgens um neun.
+no-gw-0239; Geschäft (im Geschäft einkaufen); en butikk; en forretning; A1; Grundwortschatz/Orte; Butikken åpner klokka ni om morgenen.; Das Geschäft öffnet morgens um neun.
 no-gw-0240; Supermarkt; et supermarked; ; A1; Grundwortschatz/Orte; Supermarkedet er åpent til klokka ti i dag.; Der Supermarkt hat heute bis zehn geöffnet.
 no-gw-0241; Bahnhof; en togstasjon; en stasjon, en jernbanestasjon; A1; Grundwortschatz/Orte; Vi møtes på togstasjonen klokka fem.; Wir treffen uns um fünf am Bahnhof.
 no-gw-0242; Flughafen; en flyplass; ; A1; Grundwortschatz/Orte, Reisen/Urlaub/Flughafen; Flyplassen ligger omtrent tretti minutter herfra.; Der Flughafen ist dreißig Minuten von hier.
@@ -284,7 +284,7 @@ no-gw-0281; ausfüllen; å fylle ut; ; A2; Grundwortschatz/Verben; Fyll ut skjem
 no-gw-0282; reparieren; å reparere; å fikse; A2; Grundwortschatz/Verben; Faren min reparerte den ødelagte vaskemaskinen.; Mein Vater reparierte die kaputte Waschmaschine.
 no-gw-0283; folgen; å følge; ; A2; Grundwortschatz/Verben; Følg denne gata helt til kirken.; Folgen Sie dieser Straße bis zur Kirche.
 no-gw-0284; wachsen; å vokse; ; A2; Grundwortschatz/Verben; Disse blomstene vokser veldig fort om sommeren.; Diese Blumen wachsen im Sommer sehr schnell.
-no-gw-0285; raten (schätzen); å gjette; ; A2; Grundwortschatz/Verben; Kan du gjette hvor gammel bestemoren min er?; Kannst du raten, wie alt meine Großmutter ist?
+no-gw-0285; raten (rate mal!); å gjette; ; A2; Grundwortschatz/Verben; Kan du gjette hvor gammel bestemoren min er?; Kannst du raten, wie alt meine Großmutter ist?
 no-gw-0286; hassen; å hate; ; A2; Grundwortschatz/Verben; Jeg hater å stå opp tidlig på mandager.; Ich hasse es, montags früh aufzustehen.
 no-gw-0287; wiegen; å veie; ; A2; Grundwortschatz/Verben; Babyen veier omtrent fire kilo nå.; Das Baby wiegt jetzt ungefähr vier Kilo.
 no-gw-0288; verletzen; å skade; ; A2; Grundwortschatz/Verben; Han skadet seg i beinet under fotballkampen.; Er verletzte sich beim Fußballspiel am Bein.
@@ -312,7 +312,7 @@ no-gw-0309; stehlen; å stjele; ; A2; Grundwortschatz/Verben; Noen har stjålet 
 no-gw-0310; werfen; å kaste; ; A2; Grundwortschatz/Verben; Kan du kaste ballen til meg, takk?; Wirf mir bitte den Ball zu!
 no-gw-0311; Erwachsener; en voksen; ; A2; Grundwortschatz/Menschen & Familie; Barn betaler mindre enn voksne på museet.; Kinder zahlen im Museum weniger als Erwachsene.
 no-gw-0312; Jugendlicher; en tenåring; en ungdom; A2; Grundwortschatz/Menschen & Familie; Mange tenåringer bruker timevis på mobilen.; Viele Jugendliche verbringen Stunden an ihren Handys.
-no-gw-0313; Leiter (zum Steigen); en stige; ; A2; Grundwortschatz/Alltag; Han klatret opp stigen for å nå taket.; Er stieg die Leiter hinauf, um das Dach zu erreichen.
+no-gw-0313; Leiter (auf eine Leiter steigen); en stige; ; A2; Grundwortschatz/Alltag; Han klatret opp stigen for å nå taket.; Er stieg die Leiter hinauf, um das Dach zu erreichen.
 no-gw-0314; Kollege; en kollega; ; A2; Grundwortschatz/Menschen & Familie; Jeg spiser lunsj med kollegene mine hver dag.; Ich esse jeden Tag mit meinen Kollegen zu Mittag.
 no-gw-0315; Gast; en gjest; ; A2; Grundwortschatz/Menschen & Familie; Gjestene kom klokka sju om kvelden.; Die Gäste kamen um sieben Uhr abends an.
 no-gw-0316; Besucher; en besøkende; ; A2; Grundwortschatz/Menschen & Familie; Slottet får mange besøkende om sommeren.; Das Schloss bekommt im Sommer viele Besucher.
@@ -354,13 +354,13 @@ no-gw-0351; Mahlzeit; et måltid; ; A2; Grundwortschatz/Essen & Trinken; Frokost
 no-gw-0352; Nachtisch; en dessert; ; A2; Grundwortschatz/Essen & Trinken; Vi fikk is og jordbær til dessert.; Wir hatten Eis zum Nachtisch.
 no-gw-0353; Vorspeise; en forrett; ; A2; Grundwortschatz/Essen & Trinken; Til forrett bestilte jeg en liten salat.; Als Vorspeise bestellte ich einen kleinen Salat.
 no-gw-0354; Hauptgericht; en hovedrett; ; A2; Grundwortschatz/Essen & Trinken; Hovedretten var kokt fisk med ris.; Das Hauptgericht war Fisch mit Reis.
-no-gw-0355; Rezept (Kochen); ei oppskrift; en oppskrift; A2; Grundwortschatz/Essen & Trinken; Bestemor ga meg oppskriften sin på kake.; Meine Großmutter gab mir ihr Kuchenrezept.
+no-gw-0355; Rezept (ein Rezept für Kuchen); ei oppskrift; en oppskrift; A2; Grundwortschatz/Essen & Trinken; Bestemor ga meg oppskriften sin på kake.; Meine Großmutter gab mir ihr Kuchenrezept.
 no-gw-0356; Zutat; en ingrediens; ; A2; Grundwortschatz/Essen & Trinken; Vi trenger bare fem ingredienser til denne retten.; Wir brauchen nur fünf Zutaten für dieses Gericht.
 no-gw-0357; Geschmack; en smak; ; A2; Grundwortschatz/Essen & Trinken; Jeg liker ikke smaken av denne suppen.; Ich mag den Geschmack dieser Suppe nicht.
 no-gw-0358; lecker; god; deilig; A2; Grundwortschatz/Essen & Trinken; Pizzaen på denne restauranten er virkelig god.; Die Pizza in diesem Restaurant ist wirklich lecker.
-no-gw-0359; Imbiss (kleine Mahlzeit); en matbit; ; A2; Grundwortschatz/Essen & Trinken; Vi kjøpte en rask matbit på stasjonen.; Wir kauften einen schnellen Imbiss am Bahnhof.
+no-gw-0359; Imbiss (etwas zwischendurch essen); en matbit; ; A2; Grundwortschatz/Essen & Trinken; Vi kjøpte en rask matbit på stasjonen.; Wir kauften einen schnellen Imbiss am Bahnhof.
 no-gw-0360; Kellner; en servitør; ; A2; Grundwortschatz/Essen & Trinken; Servitøren kom raskt med menyen til oss.; Der Kellner brachte uns schnell die Speisekarte.
-no-gw-0361; Rechnung (Restaurant); en regning; ; A2; Grundwortschatz/Essen & Trinken; Kan vi få regningen nå, takk?; Könnten wir bitte die Rechnung haben?
+no-gw-0361; Rechnung (die Rechnung im Restaurant); en regning; ; A2; Grundwortschatz/Essen & Trinken; Kan vi få regningen nå, takk?; Könnten wir bitte die Rechnung haben?
 no-gw-0362; Trinkgeld; en driks; ; A2; Grundwortschatz/Essen & Trinken; Vi la igjen en liten driks til den hyggelige servitøren.; Wir ließen dem freundlichen Kellner ein kleines Trinkgeld da.
 no-gw-0363; Pfanne; ei steikepanne; en steikepanne; A2; Grundwortschatz/Essen & Trinken; Varm litt olje i en stor steikepanne.; Erhitze etwas Öl in einer großen Pfanne.
 no-gw-0364; Topf; ei gryte; en gryte; A2; Grundwortschatz/Essen & Trinken; Kok potetene i en stor gryte.; Koche die Kartoffeln in einem großen Topf.
@@ -394,7 +394,7 @@ no-gw-0391; neblig; tåkete; ; A2; Grundwortschatz/Adjektive; Her er det ofte t�
 no-gw-0392; Seil; et tau; ; A2; Grundwortschatz/Alltag; Barna hoppet over det lange tauet.; Die Kinder sprangen über das lange Seil.
 no-gw-0393; laut; høy; ; A2; Grundwortschatz/Adjektive; Musikken på festen var for høy.; Die Musik auf der Party war zu laut.
 no-gw-0394; leise; stille; ; A2; Grundwortschatz/Adjektive; Vær så snill å være stille, babyen sover.; Bitte sei leise, das Baby schläft.
-no-gw-0395; faul (träge); lat; ; A2; Grundwortschatz/Adjektive; På søndager er jeg ofte litt lat.; Sonntags bin ich oft ein bisschen faul.
+no-gw-0395; faul (zu faul zum Lernen); lat; ; A2; Grundwortschatz/Adjektive; På søndager er jeg ofte litt lat.; Sonntags bin ich oft ein bisschen faul.
 no-gw-0396; einsam; ensom; ; A2; Grundwortschatz/Adjektive; Han følte seg ensom i den store nye byen.; Er fühlte sich einsam in der großen neuen Stadt.
 no-gw-0397; modern; moderne; ; A2; Grundwortschatz/Adjektive; De bor i en moderne leilighet ved parken.; Sie wohnen in einer modernen Wohnung am Park.
 no-gw-0398; schmal; smal; ; A2; Grundwortschatz/Adjektive; Gamlebyen i Bergen har mange smale gater.; Die Altstadt hat viele schmale Gassen.
@@ -416,7 +416,7 @@ no-gw-0413; überrascht; overrasket; ; A2; Grundwortschatz/Adjektive; Vi ble ove
 no-gw-0414; ordentlich; ryddig; ; A2; Grundwortschatz/Adjektive; Skrivebordet hennes er alltid rent og ryddig.; Ihr Schreibtisch ist immer sauber und ordentlich.
 no-gw-0415; nützlich; nyttig; ; A2; Grundwortschatz/Adjektive; En ordbok er nyttig når man lærer engelsk.; Ein Wörterbuch ist nützlich, wenn man Englisch lernt.
 no-gw-0416; Brücke; ei bru; en bru; A2; Grundwortschatz/Orte; Vi gikk over den gamle broen av stein.; Wir gingen über die alte Steinbrücke.
-no-gw-0417; Schloss (Gebäude); et slott; ; A2; Grundwortschatz/Orte; Slottet ligger på en høyde over byen.; Das Schloss steht auf einem Hügel über der Stadt.
+no-gw-0417; Schloss (ein Schloss besichtigen); et slott; ; A2; Grundwortschatz/Orte; Slottet ligger på en høyde over byen.; Das Schloss steht auf einem Hügel über der Stadt.
 no-gw-0418; Küste; ei kyst; en kyst; A2; Grundwortschatz/Orte; Vi tilbrakte ferien ved den franske kysten.; Wir verbrachten unseren Urlaub an der französischen Küste.
 no-gw-0419; Wald; en skog; ; A2; Grundwortschatz/Orte; Vi går ofte tur i skogen.; Wir gehen oft im Wald spazieren.
 no-gw-0420; Insel; ei øy; en øy; A2; Grundwortschatz/Orte; Den lille øya har bare én landsby.; Die kleine Insel hat nur ein Dorf.
@@ -426,7 +426,7 @@ no-gw-0423; Bauernhof; en gård; ; A2; Grundwortschatz/Orte; Barna elsker alle d
 no-gw-0424; Fabrik; en fabrikk; ; A2; Grundwortschatz/Orte; Han jobber på en fabrikk utenfor Frankfurt.; Er arbeitet in einer Fabrik außerhalb von Frankfurt.
 no-gw-0425; Stadion; et stadion; ; A2; Grundwortschatz/Orte; Stadionet var fullt under den store kampen.; Das Stadion war beim großen Spiel voll.
 no-gw-0426; Turm; et tårn; ; A2; Grundwortschatz/Orte; Fra tårnet kan man se hele byen.; Vom Turm kann man die ganze Stadt sehen.
-no-gw-0427; Platz (in der Stadt); en plass; ; A2; Grundwortschatz/Orte; På plassen er det marked hver fredag.; Auf dem Platz ist jeden Freitag ein Markt.
+no-gw-0427; Platz (der Platz vor dem Rathaus); en plass; ; A2; Grundwortschatz/Orte; På plassen er det marked hver fredag.; Auf dem Platz ist jeden Freitag ein Markt.
 no-gw-0428; Ecke; et hjørne; ; A2; Grundwortschatz/Orte; Bakeriet ligger like rundt det neste hjørnet.; Die Bäckerei ist gleich um die Ecke.
 no-gw-0429; Gegend; et område; en egn; A2; Grundwortschatz/Orte; Dette området er kjent for den gode vinen.; Diese Gegend ist bekannt für ihren guten Wein.
 no-gw-0430; Pfad; en sti; ; A2; Grundwortschatz/Orte; En smal sti fører ned til stranden.; Ein schmaler Pfad führt hinunter zum Strand.
@@ -440,7 +440,7 @@ no-gw-0437; Buchhandlung; ei bokhandel; en bokhandel; A2; Grundwortschatz/Orte; 
 no-gw-0438; Spielplatz; en lekeplass; ; A2; Grundwortschatz/Orte; Barna leker sammen på lekeplassen hver dag.; Die Kinder spielen auf dem Spielplatz.
 no-gw-0439; Parkplatz; en parkeringsplass; ; A2; Grundwortschatz/Orte; Parkeringsplassen bak det store supermarkedet er gratis.; Der Parkplatz hinter dem Supermarkt ist kostenlos.
 no-gw-0440; Tankstelle; en bensinstasjon; ; A2; Grundwortschatz/Orte; Vi stoppet på en bensinstasjon langs motorveien.; Wir hielten an einer Tankstelle auf der Autobahn.
-no-gw-0441; Nachricht (Mitteilung); en melding; ei melding; A2; Grundwortschatz/Kommunikation; Jeg sendte deg en melding i morges.; Ich habe dir heute Morgen eine Nachricht geschickt.
+no-gw-0441; Nachricht (eine Nachricht schicken); en melding; ei melding; A2; Grundwortschatz/Kommunikation; Jeg sendte deg en melding i morges.; Ich habe dir heute Morgen eine Nachricht geschickt.
 no-gw-0442; Neuigkeiten; nyheter; ; A2; Grundwortschatz/Kommunikation; Har du hørt nyhetene om Tom?; Hast du die Neuigkeiten über Tom gehört?
 no-gw-0443; Gespräch; en samtale; ; A2; Grundwortschatz/Kommunikation; Vi hadde en lang samtale om planene våre.; Wir hatten ein langes Gespräch über unsere Pläne.
 no-gw-0444; Meinung; en mening; ; A2; Grundwortschatz/Kommunikation; Etter min mening var filmen for lang.; Meiner Meinung nach war der Film zu lang.
@@ -449,7 +449,7 @@ no-gw-0446; Erklärung; en forklaring; ; A2; Grundwortschatz/Kommunikation; Lær
 no-gw-0447; Geheimnis; en hemmelighet; ; A2; Grundwortschatz/Kommunikation; Kan du holde på en hemmelighet for meg?; Kannst du bitte ein Geheimnis für dich behalten?
 no-gw-0448; Witz; en vits; ; A2; Grundwortschatz/Kommunikation; Han fortalte en morsom vits under middagen.; Er erzählte beim Abendessen einen lustigen Witz.
 no-gw-0449; Streit; en krangel; ; A2; Grundwortschatz/Kommunikation; De hadde en krangel om pengene.; Sie hatten einen Streit um das Geld.
-no-gw-0450; Rat (Ratschlag); et råd; ; A2; Grundwortschatz/Kommunikation; Faren min ga meg et godt råd.; Mein Vater gab mir einen guten Rat.
+no-gw-0450; Rat (einen Rat geben); et råd; ; A2; Grundwortschatz/Kommunikation; Faren min ga meg et godt råd.; Mein Vater gab mir einen guten Rat.
 no-gw-0451; Einladung; en invitasjon; ; A2; Grundwortschatz/Kommunikation; Takk for invitasjonen til festen din.; Danke für die Einladung zu deiner Party.
 no-gw-0452; Anruf; en oppringning; en telefon, en telefonsamtale; A2; Grundwortschatz/Kommunikation; Jeg fikk en oppringning fra en gammel venn.; Ich bekam einen Anruf von meinem alten Freund.
 no-gw-0453; Postkarte; et postkort; ; A2; Grundwortschatz/Kommunikation; Hun sendte oss et postkort fra Italia.; Sie schickte uns eine Postkarte aus Italien.
@@ -480,7 +480,7 @@ no-gw-0477; Werkzeug; et verktøy; ; A2; Grundwortschatz/Alltag; Man trenger rik
 no-gw-0478; Taschenlampe; ei lommelykt; en lommelykt; A2; Grundwortschatz/Alltag; Ta med en lommelykt, det er mørkt i kjelleren.; Nimm eine Taschenlampe, im Keller ist es dunkel.
 no-gw-0479; Batterie; et batteri; ; A2; Grundwortschatz/Alltag; Batteriet på mobilen min er nesten tomt.; Die Batterie meines Handys ist fast leer.
 no-gw-0480; Schublade; ei skuff; en skuff; A2; Grundwortschatz/Alltag; Saksen ligger i den øverste skuffen.; Die Schere ist in der obersten Schublade.
-no-gw-0481; Decke (zum Zudecken); et pledd; ; A2; Grundwortschatz/Alltag; Hun la et varmt pledd over barnet.; Sie legte eine warme Decke über das Kind.
+no-gw-0481; Decke (eine warme Decke); et pledd; ; A2; Grundwortschatz/Alltag; Hun la et varmt pledd over barnet.; Sie legte eine warme Decke über das Kind.
 no-gw-0482; Kissen; ei pute; en pute; A2; Grundwortschatz/Alltag; Jeg kan ikke sove uten min egen pute.; Ich kann ohne mein eigenes Kissen nicht schlafen.
 no-gw-0483; Wecker; ei vekkerklokke; en vekkerklokke; A2; Grundwortschatz/Alltag; Vekkerklokka mi ringer hver morgen halv sju.; Mein Wecker klingelt um halb sieben.
 no-gw-0484; Glück (Glück haben); en flaks; ; A2; Grundwortschatz/Alltag; Med litt flaks får vi fortsatt billetter.; Mit etwas Glück bekommen wir noch Karten.
@@ -493,7 +493,7 @@ no-gw-0490; Vorstellungsgespräch; et jobbintervju; et intervju; A2; Grundwortsc
 no-gw-0491; Erfahrung; en erfaring; ; A2; Grundwortschatz/Arbeit & Schule; Hun har mye erfaring med barn.; Sie hat viel Erfahrung mit Kindern.
 no-gw-0492; Erfolg; en suksess; ; A2; Grundwortschatz/Arbeit & Schule; Skolefesten ble en stor suksess for alle.; Das Schulfest war ein großer Erfolg.
 no-gw-0493; Prüfung; en eksamen; ; A2; Grundwortschatz/Arbeit & Schule; Jeg må lese til eksamen i engelsk.; Ich muss für meine Englischprüfung lernen.
-no-gw-0494; Note (Schule); en karakter; ; A2; Grundwortschatz/Arbeit & Schule; Han fikk den beste karakteren i klassen.; Er bekam die beste Note in der Klasse.
+no-gw-0494; Note (eine gute Note); en karakter; ; A2; Grundwortschatz/Arbeit & Schule; Han fikk den beste karakteren i klassen.; Er bekam die beste Note in der Klasse.
 no-gw-0495; Fach; et fag; ; A2; Grundwortschatz/Arbeit & Schule; Det beste faget mitt på skolen er historie.; Mein Lieblingsfach in der Schule ist Geschichte.
 no-gw-0496; Pause; en pause; ; A2; Grundwortschatz/Arbeit & Schule; La oss ta en kort pause etter denne timen.; Machen wir nach dieser Stunde eine kurze Pause.
 no-gw-0497; Projekt; et prosjekt; ; A2; Grundwortschatz/Arbeit & Schule; Klassen vår jobber med et prosjekt i naturfag.; Unsere Klasse arbeitet an einem Wissenschaftsprojekt.
@@ -510,7 +510,7 @@ no-gw-0507; zu schätzen wissen; å sette pris på; å verdsette; B1; Grundworts
 no-gw-0508; genehmigen; å godkjenne; ; B1; Grundwortschatz/Verben; Kommunen godkjente endelig planene for den nye skolen.; Die Stadt genehmigte endlich die Pläne für die neue Schule.
 no-gw-0509; streiten; å krangle; ; B1; Grundwortschatz/Verben; De krangler ofte om penger og husarbeid.; Sie streiten oft über Geld und Hausarbeit.
 no-gw-0510; vereinbaren; å avtale; ; B1; Grundwortschatz/Verben; Vi avtalte et møte neste tirsdag morgen.; Wir vereinbarten ein Treffen für nächsten Dienstagmorgen.
-no-gw-0511; annehmen (vermuten); å anta; ; B1; Grundwortschatz/Verben; Jeg antar at toget kommer presis.; Ich nehme an, dass der Zug pünktlich sein wird.
+no-gw-0511; annehmen (ich nehme an, er kommt); å anta; ; B1; Grundwortschatz/Verben; Jeg antar at toget kommer presis.; Ich nehme an, dass der Zug pünktlich sein wird.
 no-gw-0512; vermeiden; å unngå; ; B1; Grundwortschatz/Verben; Prøv å unngå feil ved å sjekke arbeidet to ganger.; Versuche Fehler zu vermeiden, indem du deine Arbeit zweimal prüfst.
 no-gw-0513; sich verhalten; å oppføre seg; ; B1; Grundwortschatz/Verben; Barna oppførte seg veldig bra på den lange reisen.; Die Kinder verhielten sich während der langen Reise sehr gut.
 no-gw-0514; verschütten; å søle; ; B1; Grundwortschatz/Verben; Pass på at du ikke søler kaffe på tastaturet.; Pass auf, dass du keinen Kaffee über die Tastatur verschüttest.
@@ -571,7 +571,7 @@ no-gw-0568; niesen; å nyse; ; B1; Grundwortschatz/Verben; Han nøs tre ganger p
 no-gw-0569; ablehnen; å avslå; å avvise; B1; Grundwortschatz/Verben; Hun avslo å svare på personlige spørsmål.; Sie lehnte es ab, persönliche Fragen zu beantworten.
 no-gw-0570; bereuen; å angre; ; B1; Grundwortschatz/Verben, Grundwortschatz/Gefühle & Meinung; Du kommer til å angre på den avgjørelsen senere, tro meg.; Du wirst diese Entscheidung später bereuen, glaub mir.
 no-gw-0571; sich verlassen auf; å stole på; ; B1; Grundwortschatz/Verben; Du kan alltid stole på de beste vennene dine.; Du kannst dich immer auf deine besten Freunde verlassen.
-no-gw-0572; erinnern (jemanden); å minne noen på; ; B1; Grundwortschatz/Verben, Grundwortschatz/Alltag; Minn meg på å kjøpe melk i kveld.; Bitte erinnere mich daran, heute Abend Milch zu kaufen.
+no-gw-0572; erinnern (jemanden an etwas erinnern); å minne noen på; ; B1; Grundwortschatz/Verben, Grundwortschatz/Alltag; Minn meg på å kjøpe melk i kveld.; Bitte erinnere mich daran, heute Abend Milch zu kaufen.
 no-gw-0573; ersetzen; å erstatte; ; B1; Grundwortschatz/Verben; Vi må snart erstatte den gamle printeren.; Wir müssen den alten Drucker bald ersetzen.
 no-gw-0574; erfordern; å kreve; ; B1; Grundwortschatz/Verben; Denne stillingen krever tålmodighet og gode kommunikasjonsevner.; Diese Stelle erfordert Geduld und gute kommunikative Fähigkeiten.
 no-gw-0575; reagieren; å reagere; ; B1; Grundwortschatz/Verben; Hvordan reagerte hun på den overraskende nyheten?; Wie hat sie auf die überraschende Nachricht reagiert?
@@ -587,7 +587,7 @@ no-gw-0584; praktisch; praktisk; ; B1; Grundwortschatz/Adjektive; Nettbank er ve
 no-gw-0585; neugierig; nysgjerrig; ; B1; Grundwortschatz/Adjektive; Det nysgjerrige barnet stilte spørsmål om alt.; Das neugierige Kind stellte Fragen zu allem.
 no-gw-0586; aktuell; aktuell; gjeldende; B1; Grundwortschatz/Adjektive; Den aktuelle situasjonen på veiene er vanskelig.; Die aktuelle Lage auf den Straßen ist schwierig.
 no-gw-0587; enttäuscht; skuffet; ; B1; Grundwortschatz/Adjektive, Grundwortschatz/Gefühle & Meinung; Vi var skuffet over hotellet og servicen.; Wir waren von dem Hotel und dem Service enttäuscht.
-no-gw-0588; verlegen (beschämt); flau; brydd; B1; Grundwortschatz/Adjektive, Grundwortschatz/Gefühle & Meinung; Han ble flau da han glemte navnet hennes.; Er war verlegen, als er ihren Namen vergaß.
+no-gw-0588; verlegen (verlegen lächeln); flau; brydd; B1; Grundwortschatz/Adjektive, Grundwortschatz/Gefühle & Meinung; Han ble flau da han glemte navnet hennes.; Er war verlegen, als er ihren Namen vergaß.
 no-gw-0589; riesig; enorm; diger, kjempestor; B1; Grundwortschatz/Adjektive; De bor i et enormt hus ved sjøen.; Sie wohnen in einem riesigen Haus am See.
 no-gw-0590; wesentlich; vesentlig; ; B1; Grundwortschatz/Adjektive; God planlegging er vesentlig for et vellykket prosjekt.; Gute Planung ist wesentlich für ein erfolgreiches Projekt.
 no-gw-0591; erschöpft; utmattet; utslitt; B1; Grundwortschatz/Adjektive; Etter den lange turen var vi helt utmattet.; Nach der langen Wanderung waren wir völlig erschöpft.
@@ -657,7 +657,7 @@ no-gw-0654; Leistung; en prestasjon; ; B1; Grundwortschatz/Abstrakte Begriffe; �
 no-gw-0655; Vereinbarung; en avtale; ; B1; Grundwortschatz/Kommunikation; De to firmaene signerte endelig en avtale.; Die beiden Firmen unterzeichneten endlich eine Vereinbarung.
 no-gw-0656; Ziel; et mål; ; B1; Grundwortschatz/Abstrakte Begriffe; Målet med kurset er at du skal bli bedre til å snakke.; Das Ziel des Kurses ist es, dein Sprechen zu verbessern.
 no-gw-0657; Menge; en mengde; ; B1; Grundwortschatz/Abstrakte Begriffe; Det ble brukt en stor mengde penger på prosjektet.; Eine große Menge Geld wurde für das Projekt ausgegeben.
-no-gw-0658; Einstellung (Haltung); en holdning; en innstilling; B1; Grundwortschatz/Gefühle & Meinung; Den positive holdningen hennes hjalp henne i vanskelige tider.; Ihre positive Einstellung half ihr in schwierigen Zeiten.
+no-gw-0658; Einstellung (eine positive Einstellung); en holdning; en innstilling; B1; Grundwortschatz/Gefühle & Meinung; Den positive holdningen hennes hjalp henne i vanskelige tider.; Ihre positive Einstellung half ihr in schwierigen Zeiten.
 no-gw-0659; Publikum; et publikum; ; B1; Grundwortschatz/Gesellschaft; Publikum klappet høyt da forestillingen var slutt.; Das Publikum klatschte am Ende der Vorstellung laut.
 no-gw-0660; Behörde; en myndighet; ; B1; Grundwortschatz/Gesellschaft; Du må melde ulykken til de lokale myndighetene.; Du musst den Unfall der örtlichen Behörde melden.
 no-gw-0661; Durchschnitt; et gjennomsnitt; ; B1; Grundwortschatz/Abstrakte Begriffe; Karakterene hans ligger over klassens gjennomsnitt.; Seine Noten liegen über dem Durchschnitt der Klasse.
@@ -668,8 +668,8 @@ no-gw-0665; Vergleich; en sammenligning; en sammenlikning; B1; Grundwortschatz/A
 no-gw-0666; Wettbewerb; en konkurranse; ; B1; Grundwortschatz/Gesellschaft; Skolen vår vant førstepremien i konkurransen.; Unsere Schule gewann den ersten Preis im Wettbewerb.
 no-gw-0667; Beschwerde; en klage; ; B1; Grundwortschatz/Kommunikation; Hotellet fikk flere klager på den høye musikken.; Das Hotel erhielt mehrere Beschwerden über die laute Musik.
 no-gw-0668; Bedingung; en betingelse; ; B1; Grundwortschatz/Abstrakte Begriffe; Godt lys er en viktig betingelse for å lykkes med fotografering.; Gutes Licht ist eine wichtige Bedingung für das Fotografieren.
-no-gw-0669; Verbindung (Zusammenhang); en sammenheng; en forbindelse; B1; Grundwortschatz/Abstrakte Begriffe; Det er en klar sammenheng mellom røyking og kreft.; Es gibt eine klare Verbindung zwischen Rauchen und Krebs.
-no-gw-0670; Folge (Konsequenz); en konsekvens; en følge; B1; Grundwortschatz/Abstrakte Begriffe; Den nye loven fikk alvorlige konsekvenser for små butikker.; Das neue Gesetz hatte ernste Folgen für kleine Geschäfte.
+no-gw-0669; Verbindung (eine Verbindung erkennen); en sammenheng; en forbindelse; B1; Grundwortschatz/Abstrakte Begriffe; Det er en klar sammenheng mellom røyking og kreft.; Es gibt eine klare Verbindung zwischen Rauchen und Krebs.
+no-gw-0670; Folge (die Folgen tragen); en konsekvens; en følge; B1; Grundwortschatz/Abstrakte Begriffe; Den nye loven fikk alvorlige konsekvenser for små butikker.; Das neue Gesetz hatte ernste Folgen für kleine Geschäfte.
 no-gw-0671; Entwicklung; en utvikling; ; B1; Grundwortschatz/Abstrakte Begriffe; Utviklingen av sentrum tok flere år.; Die Entwicklung des Stadtzentrums dauerte mehrere Jahre.
 no-gw-0672; Pflicht; en plikt; ; B1; Grundwortschatz/Gesellschaft; Det er din plikt å informere politiet.; Es ist deine Pflicht, die Polizei zu informieren.
 no-gw-0673; Wirtschaft; en økonomi; ; B1; Grundwortschatz/Gesellschaft; Økonomien i landet vokser ganske sakte for tiden.; Die Wirtschaft des Landes wächst langsam.
@@ -714,7 +714,7 @@ no-gw-0711; Zweck; et formål; ; B1; Grundwortschatz/Abstrakte Begriffe; Formål
 no-gw-0712; Beziehung; et forhold; en relasjon; B1; Grundwortschatz/Gefühle & Meinung; De har hatt et nært forhold i mange år.; Sie haben seit vielen Jahren eine enge Beziehung.
 no-gw-0713; Forschung; en forskning; ; B1; Grundwortschatz/Arbeit & Schule; Moderne forskning har endret behandlingen av mange sykdommer.; Die moderne Forschung hat die Behandlung vieler Krankheiten verändert.
 no-gw-0714; Verantwortung; et ansvar; ; B1; Grundwortschatz/Abstrakte Begriffe; Som teamleder har hun mye ansvar.; Als Teamleiterin trägt sie viel Verantwortung.
-no-gw-0715; Lohn (Bezahlung); en lønn; ei lønn; B1; Grundwortschatz/Arbeit & Schule; Arbeiderne ba sjefen om høyere lønn.; Die Arbeiter baten um einen höheren Lohn.
+no-gw-0715; Lohn (der Lohn pro Stunde); en lønn; ei lønn; B1; Grundwortschatz/Arbeit & Schule; Arbeiderne ba sjefen om høyere lønn.; Die Arbeiter baten um einen höheren Lohn.
 no-gw-0716; Gesellschaft; et samfunn; ; B1; Grundwortschatz/Gesellschaft; Eldre mennesker spiller en viktig rolle i samfunnet vårt.; Ältere Menschen spielen eine wichtige Rolle in unserer Gesellschaft.
 no-gw-0717; Lösung; en løsning; ; B1; Grundwortschatz/Abstrakte Begriffe; Sammen finner vi en løsning på dette problemet.; Gemeinsam werden wir eine Lösung für dieses Problem finden.
 no-gw-0718; Stärke; en styrke; ; B1; Grundwortschatz/Abstrakte Begriffe; Tålmodighet er en av hennes største styrker.; Geduld ist eine ihrer größten Stärken.

@@ -15,7 +15,7 @@ fr-xd-0012; Volk; le peuple; la nation; B1; Gesellschaft/Politik/Demokratie; Le 
 fr-xd-0013; Unabhängigkeit; l'indépendance; ; B1; Gesellschaft/Politik/Staat & Wahlen; Le pays a obtenu son indépendance en 1960.; Das Land erlangte 1960 seine Unabhängigkeit.
 fr-xd-0014; Flagge; le drapeau; ; A2; Gesellschaft/Politik/Staat & Wahlen; Le drapeau bleu, blanc, rouge flotte sur la mairie.; Die blau-weiß-rote Flagge weht über dem Rathaus.
 fr-xd-0015; Nationalhymne; l'hymne national; ; B1; Gesellschaft/Politik/Staat & Wahlen; Les joueurs chantent l'hymne national avant le match.; Die Spieler singen vor dem Spiel die Nationalhymne.
-fr-xd-0016; Antrag (bei einer Behörde); la demande; ; B1; Gesellschaft/Politik/Staat & Wahlen; Il a déposé une demande de passeport à la mairie.; Er hat im Rathaus einen Antrag auf einen Reisepass gestellt.
+fr-xd-0016; Antrag (einen Antrag stellen); la demande; ; B1; Gesellschaft/Politik/Staat & Wahlen; Il a déposé une demande de passeport à la mairie.; Er hat im Rathaus einen Antrag auf einen Reisepass gestellt.
 fr-xd-0017; Bürokratie; la bureaucratie; ; C1; Gesellschaft/Politik/Staat & Wahlen; La bureaucratie rend chaque démarche longue et compliquée.; Die Bürokratie macht jeden Behördengang lang und kompliziert.
 fr-xd-0018; Stadtrat; le conseil municipal; ; B2; Gesellschaft/Politik/Staat & Wahlen; Le conseil municipal se réunit une fois par mois.; Der Stadtrat tritt einmal im Monat zusammen.
 fr-xd-0019; Regierungschef; le chef du gouvernement; ; B2; Gesellschaft/Politik/Staat & Wahlen; Le chef du gouvernement a présenté son programme aux députés.; Der Regierungschef hat den Abgeordneten sein Programm vorgestellt.
@@ -32,7 +32,7 @@ fr-xd-0029; Populismus; le populisme; ; C1; Gesellschaft/Politik/Parteien; Le po
 fr-xd-0030; Parteivorsitzender; le chef du parti; le président du parti; B2; Gesellschaft/Politik/Parteien; Le chef du parti a donné une interview à la radio.; Der Parteivorsitzende hat dem Radio ein Interview gegeben.
 fr-xd-0031; Wahlversprechen; la promesse électorale; la promesse de campagne; B2; Gesellschaft/Politik/Parteien; Le maire n'a pas tenu sa promesse électorale.; Der Bürgermeister hat sein Wahlversprechen nicht gehalten.
 fr-xd-0032; Steuerzahler; le contribuable; ; B2; Gesellschaft/Politik/Staat & Wahlen; Ce nouveau stade coûte très cher aux contribuables.; Dieses neue Stadion kostet die Steuerzahler sehr viel Geld.
-fr-xd-0033; Botschaft (Vertretung); l'ambassade; ; B1; Gesellschaft/Politik/Internationales; J'ai demandé un visa à l'ambassade d'Allemagne.; Ich habe bei der deutschen Botschaft ein Visum beantragt.
+fr-xd-0033; Botschaft (die deutsche Botschaft); l'ambassade; ; B1; Gesellschaft/Politik/Internationales; J'ai demandé un visa à l'ambassade d'Allemagne.; Ich habe bei der deutschen Botschaft ein Visum beantragt.
 fr-xd-0034; Konsulat; le consulat; ; C1; Gesellschaft/Politik/Internationales; Le consulat se trouve près de la gare centrale.; Das Konsulat liegt in der Nähe des Hauptbahnhofs.
 fr-xd-0035; Gipfeltreffen; le sommet; ; B2; Gesellschaft/Politik/Internationales; Le prochain sommet européen aura lieu à Bruxelles.; Das nächste europäische Gipfeltreffen findet in Brüssel statt.
 fr-xd-0036; Sanktion; la sanction; ; C1; Gesellschaft/Politik/Internationales; L'Union européenne a décidé de nouvelles sanctions économiques.; Die Europäische Union hat neue wirtschaftliche Sanktionen beschlossen.
@@ -173,7 +173,7 @@ fr-xd-0170; Karneval; le carnaval; ; A2; Freizeit/Feste & Feiern; Au carnaval, l
 fr-xd-0171; Muttertag; la fête des Mères; ; A2; Freizeit/Feste & Feiern; Pour la fête des Mères, j'ai offert des fleurs à maman.; Zum Muttertag habe ich Mama Blumen geschenkt.
 fr-xd-0172; Valentinstag; la Saint-Valentin; ; A2; Freizeit/Feste & Feiern; Pour la Saint-Valentin, il l'a invitée au restaurant.; Zum Valentinstag hat er sie ins Restaurant eingeladen.
 fr-xd-0173; Halloween; Halloween; ; A2; Freizeit/Feste & Feiern; Pour Halloween, les enfants se déguisent en sorcières.; An Halloween verkleiden sich die Kinder als Hexen.
-fr-xd-0174; Fest (Feier); la fête; la célébration; A2; Freizeit/Feste & Feiern; Nous organisons une grande fête pour les soixante ans de papa.; Wir organisieren ein großes Fest zu Papas sechzigstem Geburtstag.
+fr-xd-0174; Fest (ein Fest feiern); la fête; la célébration; A2; Freizeit/Feste & Feiern; Nous organisons une grande fête pour les soixante ans de papa.; Wir organisieren ein großes Fest zu Papas sechzigstem Geburtstag.
 fr-xd-0175; Gastgeber; l'hôte; ; B1; Freizeit/Feste & Feiern; L'hôte a accueilli ses invités avec un verre de champagne.; Der Gastgeber begrüßte seine Gäste mit einem Glas Champagner.
 fr-xd-0176; Luftballon; le ballon; le ballon de baudruche; A1; Freizeit/Feste & Feiern; Les enfants ont gonflé des ballons pour la fête.; Die Kinder haben Luftballons für das Fest aufgeblasen.
 fr-xd-0177; gratulieren; féliciter; ; A2; Freizeit/Feste & Feiern; Nous l'avons félicité pour son nouveau travail.; Wir haben ihm zu seiner neuen Arbeit gratuliert.
@@ -227,7 +227,7 @@ fr-xd-0224; Pyramide; la pyramide; ; A2; Kultur/Geschichte; Nous avons visité l
 fr-xd-0225; Mumie; la momie; ; B1; Kultur/Geschichte; Au Louvre, on peut voir une momie égyptienne.; Im Louvre kann man eine ägyptische Mumie sehen.
 fr-xd-0226; Antike; l'Antiquité; ; C1; Kultur/Geschichte; Pendant l'Antiquité, Rome dominait toute la Méditerranée.; In der Antike beherrschte Rom das ganze Mittelmeer.
 fr-xd-0227; Römer; le Romain; la Romaine; A2; Kultur/Geschichte; Les Romains ont construit le pont du Gard.; Die Römer haben den Pont du Gard gebaut.
-fr-xd-0228; Reich (Herrschaftsgebiet); l'empire; ; B1; Kultur/Geschichte; L'empire de Charlemagne couvrait une grande partie de l'Europe.; Das Reich Karls des Großen umfasste einen großen Teil Europas.
+fr-xd-0228; Reich (das Römische Reich); l'empire; ; B1; Kultur/Geschichte; L'empire de Charlemagne couvrait une grande partie de l'Europe.; Das Reich Karls des Großen umfasste einen großen Teil Europas.
 fr-xd-0229; Herrscher; le souverain; la souveraine, le dirigeant; B1; Kultur/Geschichte; Le souverain vivait dans un immense palais.; Der Herrscher lebte in einem riesigen Palast.
 fr-xd-0230; Thron; le trône; ; B1; Kultur/Geschichte; Le jeune prince est monté sur le trône à seize ans.; Der junge Prinz bestieg mit sechzehn Jahren den Thron.
 fr-xd-0231; Krone; la couronne; ; A2; Kultur/Geschichte; La reine porte une couronne en or.; Die Königin trägt eine Krone aus Gold.
@@ -248,7 +248,7 @@ fr-xd-0245; Renaissance; la Renaissance; ; B2; Kultur/Geschichte; Léonard de Vi
 fr-xd-0246; Kolonie; la colonie; ; B2; Kultur/Geschichte; L'Algérie a été une colonie française jusqu'en 1962.; Algerien war bis 1962 eine französische Kolonie.
 fr-xd-0247; Kolonialismus; le colonialisme; ; C1; Kultur/Geschichte; Ce livre raconte les conséquences du colonialisme en Afrique.; Dieses Buch erzählt von den Folgen des Kolonialismus in Afrika.
 fr-xd-0248; Sklaverei; l'esclavage; ; B1; Kultur/Geschichte; La France a aboli l'esclavage en 1848.; Frankreich hat 1848 die Sklaverei abgeschafft.
-fr-xd-0249; Aufklärung (Epoche); les Lumières; le siècle des Lumières; C1; Kultur/Geschichte; Voltaire est un grand philosophe des Lumières.; Voltaire ist ein großer Philosoph der Aufklärung.
+fr-xd-0249; Aufklärung (das Zeitalter der Aufklärung); les Lumières; le siècle des Lumières; C1; Kultur/Geschichte; Voltaire est un grand philosophe des Lumières.; Voltaire ist ein großer Philosoph der Aufklärung.
 fr-xd-0250; Industrialisierung; l'industrialisation; ; C1; Kultur/Geschichte; L'industrialisation a transformé les villes au dix-neuvième siècle.; Die Industrialisierung hat die Städte im neunzehnten Jahrhundert verändert.
 fr-xd-0251; Aufstand; le soulèvement; la révolte, la rébellion, l'insurrection; C1; Kultur/Geschichte; Le soulèvement du peuple a commencé dans la capitale.; Der Aufstand des Volkes begann in der Hauptstadt.
 fr-xd-0252; Rebell; le rebelle; la rebelle; B2; Kultur/Geschichte; Les rebelles ont pris le contrôle de la ville.; Die Rebellen haben die Kontrolle über die Stadt übernommen.
@@ -263,7 +263,7 @@ fr-xd-0260; Archäologie; l'archéologie; ; B2; Kultur/Geschichte; Elle veut ét
 fr-xd-0261; Kultur; la culture; ; A2; Kultur/Kunst & Museum; J'aime découvrir la culture d'autres pays.; Ich entdecke gern die Kultur anderer Länder.
 fr-xd-0262; kulturell; culturel; ; B1; Kultur/Kunst & Museum; La ville propose beaucoup d'activités culturelles en été.; Die Stadt bietet im Sommer viele kulturelle Aktivitäten an.
 fr-xd-0263; Malerei; la peinture; ; B1; Kultur/Kunst & Museum; Elle s'intéresse surtout à la peinture moderne.; Sie interessiert sich vor allem für moderne Malerei.
-fr-xd-0264; Maler (Künstler); le peintre; la peintre; A2; Kultur/Kunst & Museum; Monet est un peintre français très connu.; Monet ist ein sehr bekannter französischer Maler.
+fr-xd-0264; Maler (ein berühmter Maler); le peintre; la peintre; A2; Kultur/Kunst & Museum; Monet est un peintre français très connu.; Monet ist ein sehr bekannter französischer Maler.
 fr-xd-0265; Kunstgeschichte; l'histoire de l'art; ; B1; Kultur/Kunst & Museum; Ma sœur étudie l'histoire de l'art à Lyon.; Meine Schwester studiert Kunstgeschichte in Lyon.
 fr-xd-0266; Statue; la statue; ; A2; Kultur/Kunst & Museum; Une grande statue se trouve au milieu de la place.; In der Mitte des Platzes steht eine große Statue.
 fr-xd-0267; Skizze; le croquis; l'esquisse; B1; Kultur/Kunst & Museum; L'architecte a fait un croquis de la maison.; Der Architekt hat eine Skizze des Hauses gemacht.
@@ -294,7 +294,7 @@ fr-xd-0291; Drache; le dragon; ; A2; Kultur/Literatur; Le chevalier combat un dr
 fr-xd-0292; Science-Fiction; la science-fiction; ; B1; Kultur/Literatur; Mon frère lit surtout des romans de science-fiction.; Mein Bruder liest vor allem Science-Fiction-Romane.
 fr-xd-0293; Theaterstück; la pièce de théâtre; la pièce; A2; Kultur/Theater & Film; Notre classe joue une pièce de théâtre en juin.; Unsere Klasse spielt im Juni ein Theaterstück.
 fr-xd-0294; Drama; le drame; ; B1; Kultur/Theater & Film; Ce film est un drame sur une famille pauvre.; Dieser Film ist ein Drama über eine arme Familie.
-fr-xd-0295; Akt (Theater); l'acte; ; B2; Kultur/Theater & Film; Cette pièce de Molière a cinq actes.; Dieses Stück von Molière hat fünf Akte.
+fr-xd-0295; Akt (der erste Akt eines Stücks); l'acte; ; B2; Kultur/Theater & Film; Cette pièce de Molière a cinq actes.; Dieses Stück von Molière hat fünf Akte.
 fr-xd-0296; Szene; la scène; ; B1; Kultur/Theater & Film; Cette scène du film m'a fait pleurer.; Diese Szene des Films hat mich zum Weinen gebracht.
 fr-xd-0297; Musical; la comédie musicale; ; A2; Kultur/Theater & Film; Nous avons vu une comédie musicale à Paris.; Wir haben in Paris ein Musical gesehen.
 fr-xd-0298; Ballett; le ballet; ; A2; Kultur/Theater & Film; Nous avons vu un ballet à l'Opéra de Paris.; Wir haben in der Pariser Oper ein Ballett gesehen.
@@ -334,7 +334,7 @@ fr-xd-0331; Studie; l'étude; ; B2; Wissenschaft/Forschung & Methode; Une nouvel
 fr-xd-0332; Analyse; l'analyse; ; B2; Wissenschaft/Forschung & Methode; L'analyse des données prendra quelques semaines.; Die Analyse der Daten wird einige Wochen dauern.
 fr-xd-0333; analysieren; analyser; ; B2; Wissenschaft/Forschung & Methode; Les scientifiques analysent l'eau de la rivière.; Die Wissenschaftler analysieren das Wasser des Flusses.
 fr-xd-0334; Beobachtung; l'observation; ; B2; Wissenschaft/Forschung & Methode; L'observation des oiseaux demande beaucoup de patience.; Die Beobachtung von Vögeln erfordert viel Geduld.
-fr-xd-0335; Probe (Untersuchung); l'échantillon; le prélèvement; B2; Wissenschaft/Forschung & Methode; Le laboratoire a reçu un échantillon de l'eau du lac.; Das Labor hat eine Probe des Seewassers erhalten.
+fr-xd-0335; Probe (eine Probe im Labor); l'échantillon; le prélèvement; B2; Wissenschaft/Forschung & Methode; Le laboratoire a reçu un échantillon de l'eau du lac.; Das Labor hat eine Probe des Seewassers erhalten.
 fr-xd-0336; Mikroskop; le microscope; ; B1; Wissenschaft/Forschung & Methode; Au microscope, on voit les cellules de la plante.; Unter dem Mikroskop sieht man die Zellen der Pflanze.
 fr-xd-0337; Lupe; la loupe; ; B1; Wissenschaft/Forschung & Methode; Le détective examine les traces avec une loupe.; Der Detektiv untersucht die Spuren mit einer Lupe.
 fr-xd-0338; Formel; la formule; ; B1; Wissenschaft/Forschung & Methode; Il faut apprendre cette formule par cœur pour l'examen.; Diese Formel muss man für die Prüfung auswendig lernen.
@@ -355,7 +355,7 @@ fr-xd-0352; Stahl; l'acier; ; B1; Wissenschaft/Chemie; Les couteaux de cuisine s
 fr-xd-0353; Mischung; le mélange; ; B1; Wissenschaft/Chemie; Versez lentement le mélange dans le tube à essai.; Gießt die Mischung langsam in das Reagenzglas.
 fr-xd-0354; plus; plus; ; A1; Wissenschaft/Mathematik; Deux plus trois égale cinq.; Zwei plus drei ist fünf.
 fr-xd-0355; minus; moins; ; A1; Wissenschaft/Mathematik; Dix moins quatre égale six.; Zehn minus vier ist sechs.
-fr-xd-0356; mal (beim Rechnen); fois; ; A1; Wissenschaft/Mathematik; Trois fois quatre égale douze.; Drei mal vier ist zwölf.
+fr-xd-0356; mal (drei mal vier); fois; ; A1; Wissenschaft/Mathematik; Trois fois quatre égale douze.; Drei mal vier ist zwölf.
 fr-xd-0357; geteilt durch; divisé par; ; A1; Wissenschaft/Mathematik; Vingt divisé par cinq égale quatre.; Zwanzig geteilt durch fünf ist vier.
 fr-xd-0358; addieren; additionner; ; A2; Wissenschaft/Mathematik; Additionne tous les prix pour connaître le total.; Addiere alle Preise, um die Summe zu erhalten.
 fr-xd-0359; subtrahieren; soustraire; ; A2; Wissenschaft/Mathematik; Il faut soustraire les frais du prix total.; Man muss die Kosten vom Gesamtpreis subtrahieren.
@@ -389,7 +389,7 @@ fr-xd-0386; Yoga; le yoga; ; A2; Freizeit/Sport/Sportarten; Je fais du yoga tous
 fr-xd-0387; Marathon; le marathon; ; B1; Freizeit/Sport/Sportarten; Elle a couru le marathon de Paris en quatre heures.; Sie ist den Marathon von Paris in vier Stunden gelaufen.
 fr-xd-0388; segeln; faire de la voile; ; A2; Freizeit/Sport/Sportarten; En été, nous faisons de la voile en Bretagne.; Im Sommer segeln wir in der Bretagne.
 fr-xd-0389; rudern; ramer; faire de l'aviron; B1; Freizeit/Sport/Sportarten; Nous avons ramé jusqu'à l'autre rive du lac.; Wir sind bis zum anderen Ufer des Sees gerudert.
-fr-xd-0390; surfen (Wellen); surfer; faire du surf; A2; Freizeit/Sport/Sportarten; À Biarritz, on peut surfer presque toute l'année.; In Biarritz kann man fast das ganze Jahr surfen.
+fr-xd-0390; surfen (auf den Wellen surfen); surfer; faire du surf; A2; Freizeit/Sport/Sportarten; À Biarritz, on peut surfer presque toute l'année.; In Biarritz kann man fast das ganze Jahr surfen.
 fr-xd-0391; tauchen; plonger; faire de la plongée; A2; Freizeit/Sport/Sportarten; En vacances, nous avons plongé près des rochers.; Im Urlaub sind wir bei den Felsen getaucht.
 fr-xd-0392; Bergsteigen; l'alpinisme; ; B1; Freizeit/Sport/Sportarten; L'alpinisme demande une très bonne condition physique.; Bergsteigen erfordert eine sehr gute Kondition.
 fr-xd-0393; Wintersport; les sports d'hiver; ; A2; Freizeit/Sport/Sportarten; Nous partons aux sports d'hiver en février.; Wir fahren im Februar zum Wintersport.
@@ -401,13 +401,13 @@ fr-xd-0398; Unentschieden; le match nul; ; B1; Freizeit/Sport/Wettkampf; Un matc
 fr-xd-0399; Freistoß; le coup franc; ; B1; Freizeit/Sport/Wettkampf; Il a marqué sur un coup franc magnifique.; Er hat mit einem herrlichen Freistoß ein Tor geschossen.
 fr-xd-0400; Eckball; le corner; le coup de pied de coin; B2; Freizeit/Sport/Wettkampf; Notre équipe a obtenu un corner à la dernière minute.; Unsere Mannschaft bekam in der letzten Minute einen Eckball.
 fr-xd-0401; Kopfball; la tête; le coup de tête; B2; Freizeit/Sport/Wettkampf; Il a marqué le but décisif sur une tête.; Er hat das entscheidende Tor per Kopfball erzielt.
-fr-xd-0402; Verteidiger (Sport); le défenseur; ; B1; Freizeit/Sport/Wettkampf; Le défenseur a arrêté l'attaquant juste avant le but.; Der Verteidiger hat den Stürmer kurz vor dem Tor gestoppt.
+fr-xd-0402; Verteidiger (im Fußball); le défenseur; ; B1; Freizeit/Sport/Wettkampf; Le défenseur a arrêté l'attaquant juste avant le but.; Der Verteidiger hat den Stürmer kurz vor dem Tor gestoppt.
 fr-xd-0403; Fan; le fan; la fan, le supporter; A2; Freizeit/Sport/Wettkampf, Kultur/Musik; Des milliers de fans attendaient le groupe devant la salle.; Tausende Fans warteten vor der Halle auf die Band.
 fr-xd-0404; Heimspiel; le match à domicile; ; B1; Freizeit/Sport/Wettkampf; Samedi, notre équipe joue un match à domicile.; Am Samstag hat unsere Mannschaft ein Heimspiel.
 fr-xd-0405; Auswärtsspiel; le match à l'extérieur; ; B1; Freizeit/Sport/Wettkampf; Le prochain match à l'extérieur aura lieu à Marseille.; Das nächste Auswärtsspiel findet in Marseille statt.
 fr-xd-0406; Finale; la finale; ; A2; Freizeit/Sport/Wettkampf; La France a joué la finale de la Coupe du monde.; Frankreich hat das Finale der Weltmeisterschaft gespielt.
 fr-xd-0407; Weltmeisterschaft; la Coupe du monde; le championnat du monde; A2; Freizeit/Sport/Wettkampf; La Coupe du monde de football a lieu tous les quatre ans.; Die Weltmeisterschaft im Fußball findet alle vier Jahre statt.
-fr-xd-0408; Meister (Sport); le champion; la championne; B1; Freizeit/Sport/Wettkampf; Le club est devenu champion de France cette année.; Der Verein ist dieses Jahr französischer Meister geworden.
+fr-xd-0408; Meister (deutscher Meister werden); le champion; la championne; B1; Freizeit/Sport/Wettkampf; Le club est devenu champion de France cette année.; Der Verein ist dieses Jahr französischer Meister geworden.
 fr-xd-0409; Goldmedaille; la médaille d'or; ; A2; Freizeit/Sport/Wettkampf; La nageuse a gagné la médaille d'or aux Jeux olympiques.; Die Schwimmerin hat bei den Olympischen Spielen die Goldmedaille gewonnen.
 fr-xd-0410; Weltrekord; le record du monde; ; B1; Freizeit/Sport/Wettkampf; Il a battu le record du monde du cent mètres.; Er hat den Weltrekord über hundert Meter gebrochen.
 fr-xd-0411; Siegerehrung; la remise des médailles; la remise des prix; B2; Freizeit/Sport/Wettkampf; Toute la famille a assisté à la remise des médailles.; Die ganze Familie war bei der Siegerehrung dabei.
@@ -429,11 +429,11 @@ fr-xd-0426; Kuscheltier; la peluche; l'animal en peluche; A2; Freizeit/Spiele; M
 fr-xd-0427; Schaukel; la balançoire; ; A2; Freizeit/Spiele; Les enfants jouent sur la balançoire dans le parc.; Die Kinder spielen im Park auf der Schaukel.
 fr-xd-0428; Rutsche; le toboggan; ; A2; Freizeit/Spiele; La petite fille descend le toboggan en riant.; Das kleine Mädchen rutscht lachend die Rutsche hinunter.
 fr-xd-0429; Verstecken; le cache-cache; cache-cache; A2; Freizeit/Spiele; Les enfants jouent à cache-cache dans le jardin.; Die Kinder spielen Verstecken im Garten.
-fr-xd-0430; Drachen (Spielzeug); le cerf-volant; ; A2; Freizeit/Spiele; Sur la plage, nous faisons voler un cerf-volant.; Am Strand lassen wir einen Drachen steigen.
+fr-xd-0430; Drachen (einen Drachen steigen lassen); le cerf-volant; ; A2; Freizeit/Spiele; Sur la plage, nous faisons voler un cerf-volant.; Am Strand lassen wir einen Drachen steigen.
 fr-xd-0431; Videospiel; le jeu vidéo; ; A2; Freizeit/Spiele; Mon frère joue aux jeux vidéo tous les soirs.; Mein Bruder spielt jeden Abend Videospiele.
 fr-xd-0432; Computerspiel; le jeu vidéo; le jeu sur ordinateur; A2; Freizeit/Spiele; Ce nouveau jeu vidéo sur ordinateur est très difficile.; Dieses neue Computerspiel ist sehr schwierig.
 fr-xd-0433; Spielkonsole; la console de jeux; la console; B1; Freizeit/Spiele; Pour Noël, il a reçu une nouvelle console de jeux.; Zu Weihnachten hat er eine neue Spielkonsole bekommen.
-fr-xd-0434; würfeln (Spiel); lancer les dés; jeter les dés; A2; Freizeit/Spiele; C'est ton tour, tu dois lancer les dés.; Du bist dran, du musst würfeln.
+fr-xd-0434; würfeln (beim Brettspiel würfeln); lancer les dés; jeter les dés; A2; Freizeit/Spiele; C'est ton tour, tu dois lancer les dés.; Du bist dran, du musst würfeln.
 fr-xd-0435; Rätsel; la devinette; l'énigme; A2; Freizeit/Spiele; Mon grand-père nous pose toujours des devinettes difficiles.; Mein Großvater stellt uns immer schwierige Rätsel.
 fr-xd-0436; Kreuzworträtsel; les mots croisés; ; B1; Freizeit/Spiele; Mon père fait les mots croisés du journal chaque matin.; Mein Vater löst jeden Morgen das Kreuzworträtsel der Zeitung.
 fr-xd-0437; Quiz; le quiz; ; A2; Freizeit/Spiele; Nous avons participé à un quiz sur l'histoire de France.; Wir haben an einem Quiz über die Geschichte Frankreichs teilgenommen.

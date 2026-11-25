@@ -1,0 +1,152 @@
+# Niederländisch: Essen & Trinken
+id; Deutsch; Niederländisch; Weitere Antworten; Niveau; Themen; Beispiel Niederländisch; Beispiel Deutsch
+nl-et-0001; Brot; het brood; ; A1; Alltag/Essen/Lebensmittel; We kopen elke ochtend vers brood.; Wir kaufen jeden Morgen frisches Brot.
+nl-et-0002; Wasser; het water; ; A1; Alltag/Essen/Getränke; Geef me alsjeblieft een glas water.; Bitte gib mir ein Glas Wasser.
+nl-et-0003; Milch; de melk; ; A1; Alltag/Essen/Getränke; Ik drink elke dag melk bij het ontbijt.; Ich trinke jeden Tag Milch zum Frühstück.
+nl-et-0004; Apfel; de appel; ; A1; Alltag/Essen/Lebensmittel; Ze eet na de lunch een appel.; Sie isst nach dem Mittagessen einen Apfel.
+nl-et-0005; Käse; de kaas; ; A1; Alltag/Essen/Lebensmittel; Deze kaas komt van een kleine boerderij.; Dieser Käse kommt von einem kleinen Bauernhof.
+nl-et-0006; Ei; het ei; ; A1; Alltag/Essen/Lebensmittel; Ik eet elke ochtend een ei.; Ich esse jeden Morgen ein Ei.
+nl-et-0007; Fisch (Speise); de vis; ; A1; Alltag/Essen/Lebensmittel; We eten elke vrijdagavond vis.; Wir essen jeden Freitagabend Fisch.
+nl-et-0008; Fleisch; het vlees; ; A1; Alltag/Essen/Lebensmittel; Hij eet niet veel vlees.; Er isst nicht viel Fleisch.
+nl-et-0009; Kaffee; de koffie; ; A1; Alltag/Essen/Getränke; Een kop koffie helpt me wakker te worden.; Eine Tasse Kaffee hilft mir beim Aufwachen.
+nl-et-0010; Tee; de thee; ; A1; Alltag/Essen/Getränke; Wil je wat thee met honing?; Möchtest du etwas Tee mit Honig?
+nl-et-0011; Zucker; de suiker; ; A1; Alltag/Essen/Lebensmittel; Ik drink mijn koffie zonder suiker.; Ich trinke meinen Kaffee ohne Zucker.
+nl-et-0012; Salz; het zout; ; A1; Alltag/Essen/Kochen; De soep heeft nog wat meer zout nodig.; Die Suppe braucht noch etwas mehr Salz.
+nl-et-0013; Butter; de boter; ; A1; Alltag/Essen/Lebensmittel; Smeer wat boter op het warme brood.; Streich etwas Butter auf das warme Brot.
+nl-et-0014; Reis; de rijst; ; A1; Alltag/Essen/Lebensmittel; We koken vanavond rijst bij de kip.; Wir kochen heute Abend Reis zum Hähnchen.
+nl-et-0015; Suppe; de soep; ; A1; Alltag/Essen/Mahlzeiten; Deze tomatensoep is echt heet.; Diese Tomatensuppe ist wirklich heiß.
+nl-et-0016; Kuchen; de taart; de cake, het gebak; A1; Alltag/Essen/Lebensmittel; Mijn oma bakt elke zondag een taart.; Meine Großmutter backt jeden Sonntag einen Kuchen.
+nl-et-0017; Obst; het fruit; ; A1; Alltag/Essen/Lebensmittel; Vers fruit is goed voor je gezondheid.; Frisches Obst ist gut für deine Gesundheit.
+nl-et-0018; Gemüse; de groente; de groenten; A1; Alltag/Essen/Lebensmittel; Kinderen zouden elke dag meer groente moeten eten.; Kinder sollten jeden Tag mehr Gemüse essen.
+nl-et-0019; Saft; het sap; ; A1; Alltag/Essen/Getränke; Sinaasappelsap smaakt het lekkerst als het vers is.; Orangensaft schmeckt am besten frisch.
+nl-et-0020; Bier; het bier; ; A1; Alltag/Essen/Getränke; Hij bestelde een koud bier aan de bar.; Er bestellte ein kaltes Bier an der Theke.
+nl-et-0021; Wein; de wijn; ; A1; Alltag/Essen/Getränke; We hebben samen een fles rode wijn gedronken.; Wir haben zusammen eine Flasche Rotwein getrunken.
+nl-et-0022; Frühstück; het ontbijt; ; A1; Alltag/Essen/Mahlzeiten; Het ontbijt is mijn favoriete maaltijd van de dag.; Das Frühstück ist meine Lieblingsmahlzeit des Tages.
+nl-et-0023; Mittagessen; de lunch; het middageten; A1; Alltag/Essen/Mahlzeiten; Om twaalf uur eten we samen onze lunch.; Wir essen um zwölf zusammen zu Mittag.
+nl-et-0024; essen; eten; ; A1; Alltag/Essen/Mahlzeiten; Wat wil je vanavond eten?; Was möchtest du heute Abend essen?
+nl-et-0025; trinken; drinken; ; A1; Alltag/Essen/Getränke; Je zou in de zomer meer water moeten drinken.; Du solltest im Sommer mehr Wasser trinken.
+nl-et-0026; Abendessen; het avondeten; het diner; A2; Alltag/Essen/Mahlzeiten; Het avondeten is vandaag om zeven uur klaar.; Das Abendessen ist heute um sieben fertig.
+nl-et-0027; Kartoffel; de aardappel; ; A2; Alltag/Essen/Lebensmittel; Schil alsjeblieft een aardappel voor de salade.; Schäl bitte eine Kartoffel für den Salat.
+nl-et-0028; Tomate; de tomaat; ; A2; Alltag/Essen/Lebensmittel; Snijd de tomaat in kleine stukjes.; Schneide die Tomate in kleine Stücke.
+nl-et-0029; Zwiebel; de ui; ; A2; Alltag/Essen/Lebensmittel; Van de ui gaan mijn ogen tranen.; Die Zwiebel bringt meine Augen zum Tränen.
+nl-et-0030; Banane; de banaan; ; A2; Alltag/Essen/Lebensmittel; Een banaan is een goede snack voor het sporten.; Eine Banane ist ein guter Snack vor dem Sport.
+nl-et-0031; Orange; de sinaasappel; ; A2; Alltag/Essen/Lebensmittel; Deze sinaasappel is zoet en heel sappig.; Diese Orange ist süß und sehr saftig.
+nl-et-0032; Erdbeere; de aardbei; ; A2; Alltag/Essen/Lebensmittel; Elke aardbei in deze mand ziet er perfect uit.; Jede Erdbeere in diesem Korb sieht perfekt aus.
+nl-et-0033; Huhn (Speise); de kip; ; A2; Alltag/Essen/Lebensmittel; Er is vandaag kip met rijst.; Es gibt heute Huhn mit Reis.
+nl-et-0034; Wurst; de worst; ; A2; Alltag/Essen/Lebensmittel; Hij heeft op de markt een worst gekocht.; Er hat auf dem Markt eine Wurst gekauft.
+nl-et-0035; Schinken; de ham; ; A2; Alltag/Essen/Lebensmittel; Ik wil graag een broodje met ham.; Ich hätte gern ein Brötchen mit Schinken.
+nl-et-0036; Nudeln; de pasta; de noedels; A2; Alltag/Essen/Lebensmittel; De kinderen willen pasta met tomatensaus.; Die Kinder wollen Nudeln mit Tomatensoße.
+nl-et-0037; Salat; de salade; de sla; A2; Alltag/Essen/Mahlzeiten; Ik heb een groene salade bij de biefstuk besteld.; Ich habe einen grünen Salat zum Steak bestellt.
+nl-et-0038; Schokolade; de chocolade; de chocola; A2; Alltag/Essen/Lebensmittel; Pure chocolade is minder zoet dan melkchocolade.; Dunkle Schokolade ist weniger süß als Milchschokolade.
+nl-et-0039; Eis (Speiseeis); het ijs; het ijsje; A2; Alltag/Essen/Lebensmittel; De kinderen willen na het avondeten ijs.; Die Kinder wollen nach dem Abendessen Eis.
+nl-et-0040; Honig; de honing; ; A2; Alltag/Essen/Lebensmittel; Ze doet honing in haar thee.; Sie gibt Honig in ihren Tee.
+nl-et-0041; Mehl; het meel; de bloem; A2; Alltag/Essen/Kochen; We hebben meel en eieren nodig voor het deeg.; Wir brauchen Mehl und Eier für den Teig.
+nl-et-0042; Öl; de olie; ; A2; Alltag/Essen/Kochen; Verhit eerst wat olie in de pan.; Erhitze zuerst etwas Öl in der Pfanne.
+nl-et-0043; Pfeffer; de peper; ; A2; Alltag/Essen/Kochen; Doe zout en peper in de saus.; Gib Salz und Pfeffer in die Soße.
+nl-et-0044; kochen; koken; ; A2; Alltag/Essen/Kochen; Ik vind het heerlijk om voor mijn vrienden te koken.; Ich liebe es für meine Freunde zu kochen.
+nl-et-0045; backen; bakken; ; A2; Alltag/Essen/Kochen; We willen in het weekend brood bakken.; Wir wollen am Wochenende Brot backen.
+nl-et-0046; braten; bakken; braden; A2; Alltag/Essen/Kochen; Bak de uien alsjeblieft goudbruin.; Brate die Zwiebeln bitte goldbraun an.
+nl-et-0047; schneiden; snijden; ; A2; Alltag/Essen/Kochen; Kun je het brood voor me snijden?; Kannst du das Brot für mich schneiden?
+nl-et-0048; Pfanne; de koekenpan; de pan, de bakpan; A2; Alltag/Essen/Kochen; De eieren liggen nog in de koekenpan.; Die Eier sind noch in der Pfanne.
+nl-et-0049; Topf; de pan; de kookpan; A2; Alltag/Essen/Kochen; Doe de aardappels in een grote pan.; Gib die Kartoffeln in einen großen Topf.
+nl-et-0050; Messer; het mes; ; A2; Alltag/Essen/Kochen; Dit mes is heel scherp, dus wees voorzichtig.; Dieses Messer ist sehr scharf also sei vorsichtig.
+nl-et-0051; Gabel; de vork; ; A2; Alltag/Essen/Mahlzeiten; Pasta eet je met een vork.; Nudeln isst man mit einer Gabel.
+nl-et-0052; Löffel; de lepel; ; A2; Alltag/Essen/Mahlzeiten; Ik heb een lepel nodig voor mijn soep.; Ich brauche einen Löffel für meine Suppe.
+nl-et-0053; Teller; het bord; ; A2; Alltag/Essen/Mahlzeiten; Haar bord was na vijf minuten leeg.; Ihr Teller war nach fünf Minuten leer.
+nl-et-0054; Tasse; het kopje; de kop, de mok; A2; Alltag/Essen/Getränke; Hij drinkt elke avond een kopje thee.; Er trinkt jeden Abend eine Tasse Tee.
+nl-et-0055; Glas; het glas; ; A2; Alltag/Essen/Getränke; Ze vulde het glas met koud water.; Sie füllte das Glas mit kaltem Wasser.
+nl-et-0056; Flasche; de fles; ; A2; Alltag/Essen/Getränke; We hebben een fles witte wijn geopend.; Wir haben eine Flasche Weißwein geöffnet.
+nl-et-0057; Kellner; de ober; de serveerder; A2; Alltag/Essen/Restaurant; De ober bracht ons snel de menukaart.; Der Kellner brachte uns schnell die Speisekarte.
+nl-et-0058; Speisekarte; de menukaart; de kaart, het menu; A2; Alltag/Essen/Restaurant; Kunnen we alstublieft de menukaart zien?; Können wir bitte die Speisekarte sehen?
+nl-et-0059; bestellen; bestellen; ; A2; Alltag/Essen/Restaurant; Ik wil graag de vis bestellen.; Ich möchte bitte den Fisch bestellen.
+nl-et-0060; Rechnung (Restaurant); de rekening; ; A2; Alltag/Essen/Restaurant; Kunnen we alstublieft de rekening krijgen?; Könnten wir bitte die Rechnung haben?
+nl-et-0061; Vorspeise; het voorgerecht; ; B1; Alltag/Essen/Restaurant; Als voorgerecht raad ik de tomatensoep aan.; Als Vorspeise empfehle ich die Tomatensuppe.
+nl-et-0062; Hauptgericht; het hoofdgerecht; ; B1; Alltag/Essen/Restaurant; Het hoofdgerecht was gegrilde vis met groente.; Das Hauptgericht war gegrillter Fisch mit Gemüse.
+nl-et-0063; Nachtisch; het toetje; het nagerecht, het dessert; B1; Alltag/Essen/Restaurant; Als toetje deelden we een chocoladetaart.; Zum Nachtisch teilten wir uns einen Schokoladenkuchen.
+nl-et-0064; Trinkgeld; de fooi; ; B1; Alltag/Essen/Restaurant; Hij gaf de ober een royale fooi.; Er gab dem Kellner ein großzügiges Trinkgeld.
+nl-et-0065; reservieren; reserveren; ; B1; Alltag/Essen/Restaurant; Ik wil een tafel voor vier personen reserveren.; Ich möchte einen Tisch für vier Personen reservieren.
+nl-et-0066; empfehlen; aanbevelen; aanraden; B1; Alltag/Essen/Restaurant; Kun je een goed lokaal restaurant aanbevelen?; Kannst du ein gutes lokales Restaurant empfehlen?
+nl-et-0067; Rezept (Kochen); het recept; ; B1; Alltag/Essen/Kochen; Dit recept komt van mijn Italiaanse oma.; Dieses Rezept stammt von meiner italienischen Großmutter.
+nl-et-0068; Zutat; het ingrediënt; ; B1; Alltag/Essen/Kochen; Het belangrijkste ingrediënt is verse knoflook.; Die wichtigste Zutat ist frischer Knoblauch.
+nl-et-0069; würzen; kruiden; op smaak brengen; B1; Alltag/Essen/Kochen; Kruid het vlees goed voordat je het bakt.; Würze das Fleisch gut bevor du es brätst.
+nl-et-0070; probieren; proeven; ; B1; Alltag/Essen/Geschmack; Je moet deze fantastische kaas proeven.; Du musst diesen fantastischen Käse probieren.
+nl-et-0071; schmecken; smaken; ; B1; Alltag/Essen/Geschmack; De saus moet licht zoet smaken.; Die Soße sollte leicht süß schmecken.
+nl-et-0072; süß; zoet; ; B1; Alltag/Essen/Geschmack; Dit toetje is mij te zoet.; Dieser Nachtisch ist mir zu süß.
+nl-et-0073; sauer (Geschmack); zuur; ; B1; Alltag/Essen/Geschmack; De citroensaus is aangenaam zuur.; Die Zitronensoße ist angenehm sauer.
+nl-et-0074; salzig; zout; zoutig; B1; Alltag/Essen/Geschmack; De frietjes waren veel te zout.; Die Pommes waren viel zu salzig.
+nl-et-0075; bitter; bitter; ; B1; Alltag/Essen/Geschmack; Goede pure chocolade smaakt licht bitter.; Gute dunkle Schokolade schmeckt leicht bitter.
+nl-et-0076; scharf (Essen); pittig; scherp, heet; B1; Alltag/Essen/Geschmack; Ik hou van pittig eten uit Thailand.; Ich liebe scharfes Essen aus Thailand.
+nl-et-0077; lecker; lekker; heerlijk; B1; Alltag/Essen/Geschmack; De zelfgemaakte pizza was absoluut lekker.; Die selbstgemachte Pizza war absolut lecker.
+nl-et-0078; frisch; vers; ; B1; Alltag/Essen/Lebensmittel; De vis op deze markt is altijd vers.; Der Fisch auf diesem Markt ist immer frisch.
+nl-et-0079; roh; rauw; ; B1; Alltag/Essen/Kochen; Je kunt wortels rauw of gekookt eten.; Man kann Karotten roh oder gekocht essen.
+nl-et-0080; reif; rijp; ; B1; Alltag/Essen/Lebensmittel; De avocado is nog niet rijp.; Die Avocado ist noch nicht reif.
+nl-et-0081; Sahne; de room; de slagroom; B1; Alltag/Essen/Lebensmittel; Doe wat room in de saus voor de smaak.; Gib etwas Sahne für den Geschmack in die Soße.
+nl-et-0082; Teig; het deeg; het beslag; B1; Alltag/Essen/Kochen; Laat het deeg een uur rusten.; Lass den Teig eine Stunde ruhen.
+nl-et-0083; Gewürz; de specerij; het kruid; B1; Alltag/Essen/Kochen; Dit kruid geeft de Indiase curry zijn typische smaak.; Dieses Gewürz gibt dem indischen Curry seinen typischen Geschmack.
+nl-et-0084; Kräuter; de kruiden; ; B1; Alltag/Essen/Kochen; Verse kruiden maken elk gerecht beter.; Frische Kräuter machen jedes Gericht besser.
+nl-et-0085; Knoblauch; de knoflook; ; B1; Alltag/Essen/Lebensmittel; Bak de knoflook maar één minuut.; Brate den Knoblauch nur eine Minute an.
+nl-et-0086; Pilz; de paddenstoel; de champignon; B1; Alltag/Essen/Lebensmittel; Deze paddenstoel groeit in het bos hier dichtbij.; Dieser Pilz wächst im Wald in der Nähe.
+nl-et-0087; Gurke; de komkommer; ; B1; Alltag/Essen/Lebensmittel; Snijd de komkommer in dunne plakjes voor de salade.; Schneide die Gurke für den Salat in dünne Scheiben.
+nl-et-0088; Paprika; de paprika; ; B1; Alltag/Essen/Lebensmittel; De rode paprika is zoeter dan de groene.; Die rote Paprika ist süßer als die grüne.
+nl-et-0089; Birne; de peer; ; B1; Alltag/Essen/Lebensmittel; Deze peer is zacht en heel zoet.; Diese Birne ist weich und sehr süß.
+nl-et-0090; Traube; de druif; ; B1; Alltag/Essen/Lebensmittel; Elke druif uit deze wijngaard smaakt heerlijk.; Jede Traube aus diesem Weinberg schmeckt wunderbar.
+nl-et-0091; Zitrone; de citroen; ; B1; Alltag/Essen/Lebensmittel; Pers een halve citroen uit over de vis.; Presse eine halbe Zitrone über den Fisch.
+nl-et-0092; Nuss; de noot; ; B1; Alltag/Essen/Lebensmittel; Elke noot in deze mix is geroosterd.; Jede Nuss in dieser Mischung ist geröstet.
+nl-et-0093; Getränk; het drankje; de drank; B1; Alltag/Essen/Getränke; Welk drankje wilt u bij uw eten?; Welches Getränk möchten Sie zu Ihrem Essen?
+nl-et-0094; Leitungswasser; het kraanwater; het leidingwater; B1; Alltag/Essen/Getränke; In Nederland kun je kraanwater zonder zorgen drinken.; In den Niederlanden kann man Leitungswasser bedenkenlos trinken.
+nl-et-0095; Mineralwasser; het mineraalwater; het bronwater; B1; Alltag/Essen/Getränke; Mag ik een fles mineraalwater, alstublieft?; Eine Flasche Mineralwasser bitte.
+nl-et-0096; Ernährung; de voeding; ; B2; Alltag/Essen/Lebensmittel; Goede voeding is belangrijk voor sporters.; Eine gute Ernährung ist wichtig für Sportler.
+nl-et-0097; Vollkornbrot; het volkorenbrood; ; B2; Alltag/Essen/Lebensmittel; Van volkorenbrood blijf je langer verzadigd.; Vollkornbrot hält länger satt.
+nl-et-0098; Tiefkühlkost; de diepvriesproducten; het diepvriesvoedsel, de diepvriesmaaltijd; B2; Alltag/Essen/Lebensmittel; Diepvriesproducten zijn handig maar vaak minder lekker.; Tiefkühlkost ist praktisch aber oft weniger lecker.
+nl-et-0099; Konserve; het blik; de conserven, het conservenblik; B2; Alltag/Essen/Lebensmittel; We hebben voor noodgevallen blikken in huis.; Wir haben Konserven für Notfälle im Haus.
+nl-et-0100; Haltbarkeitsdatum; de houdbaarheidsdatum; de vervaldatum; B2; Alltag/Essen/Lebensmittel; Controleer voor het kopen altijd de houdbaarheidsdatum.; Prüfe vor dem Kauf immer das Haltbarkeitsdatum.
+nl-et-0101; verderben; bederven; ; B2; Alltag/Essen/Lebensmittel; Melk bederft snel buiten de koelkast.; Milch verdirbt schnell außerhalb des Kühlschranks.
+nl-et-0102; auftauen; ontdooien; ; B2; Alltag/Essen/Kochen; Laat het vlees een nacht in de koelkast ontdooien.; Lass das Fleisch über Nacht im Kühlschrank auftauen.
+nl-et-0103; anbraten; aanbraden; aanbakken, dichtschroeien; B2; Alltag/Essen/Kochen; Braad de biefstuk aan beide kanten kort aan.; Brate das Steak auf beiden Seiten kurz an.
+nl-et-0104; dämpfen; stomen; ; B2; Alltag/Essen/Kochen; Je zou de groente zachtjes moeten stomen.; Du solltest das Gemüse schonend dämpfen.
+nl-et-0105; schmoren; stoven; smoren; B2; Alltag/Essen/Kochen; Stoof het rundvlees langzaam drie uur lang.; Schmore das Rindfleisch langsam drei Stunden lang.
+nl-et-0106; rühren; roeren; ; B2; Alltag/Essen/Kochen; Roer in de saus zodat die niet aanbrandt.; Rühre die Soße damit sie nicht anbrennt.
+nl-et-0107; gießen (Flüssigkeit); gieten; schenken; B2; Alltag/Essen/Kochen; Giet het beslag langzaam in de pan.; Gieße den Teig langsam in die Pfanne.
+nl-et-0108; abschmecken; op smaak brengen; afproeven; B2; Alltag/Essen/Kochen; Breng de soep voor het serveren op smaak.; Schmecke die Suppe vor dem Servieren ab.
+nl-et-0109; Herd; het fornuis; de kookplaat; B2; Alltag/Essen/Kochen; Heb je het fornuis uitgezet?; Hast du den Herd ausgemacht?
+nl-et-0110; Backofen; de oven; ; B2; Alltag/Essen/Kochen; Verwarm de oven voor op tweehonderd graden.; Heize den Backofen auf zweihundert Grad vor.
+nl-et-0111; Schneidebrett; de snijplank; ; B2; Alltag/Essen/Kochen; Gebruik een aparte snijplank voor rauw vlees.; Benutze ein eigenes Schneidebrett für rohes Fleisch.
+nl-et-0112; Schüssel; de kom; de schaal; B2; Alltag/Essen/Kochen; Meng alle ingrediënten in een grote kom.; Vermische alle Zutaten in einer großen Schüssel.
+nl-et-0113; Geschirr; de vaat; het servies, de afwas; B2; Alltag/Essen/Mahlzeiten; Wie doet vanavond de vaat?; Wer spült heute Abend das Geschirr?
+nl-et-0114; Besteck; het bestek; ; B2; Alltag/Essen/Mahlzeiten; Leg het bestek alsjeblieft op tafel.; Leg bitte das Besteck auf den Tisch.
+nl-et-0115; Mahlzeit; de maaltijd; ; B2; Alltag/Essen/Mahlzeiten; Een warme maaltijd 's avonds doet goed.; Eine warme Mahlzeit am Abend tut gut.
+nl-et-0116; Imbiss (Lokal); de snackbar; de cafetaria; B2; Alltag/Essen/Restaurant; Vlak bij het station is een goede snackbar.; In der Nähe des Bahnhofs gibt es einen guten Imbiss.
+nl-et-0117; Feinschmecker; de fijnproever; de lekkerbek, de gourmet; B2; Alltag/Essen/Geschmack; Mijn oom is een echte fijnproever.; Mein Onkel ist ein echter Feinschmecker.
+nl-et-0118; herzhaft; hartig; ; B2; Alltag/Essen/Geschmack; Ik heb liever een hartig ontbijt dan een zoet.; Ich mag herzhaftes Frühstück lieber als süßes.
+nl-et-0119; zart; mals; zacht; B2; Alltag/Essen/Geschmack; Het vlees was zo mals dat het op de tong smolt.; Das Fleisch war so zart dass es zerging.
+nl-et-0120; knusprig; knapperig; krokant; B2; Alltag/Essen/Geschmack; De huid van de eend was perfect knapperig.; Die Haut der Ente war perfekt knusprig.
+nl-et-0121; saftig; sappig; ; B2; Alltag/Essen/Geschmack; De sinaasappel was heerlijk sappig en zoet.; Die Orange war wunderbar saftig und süß.
+nl-et-0122; fade; flauw; smaakloos; B2; Alltag/Essen/Geschmack; Zonder kruiden smaakt de saus vrij flauw.; Ohne Kräuter schmeckt die Soße ziemlich fade.
+nl-et-0123; nahrhaft; voedzaam; ; B2; Alltag/Essen/Lebensmittel; Linzen zijn goedkoop en heel voedzaam.; Linsen sind günstig und sehr nahrhaft.
+nl-et-0124; bekömmlich; licht verteerbaar; ; B2; Alltag/Essen/Geschmack; Lichte soepen zijn 's avonds licht verteerbaar.; Leichte Suppen sind abends gut bekömmlich.
+nl-et-0125; Durst; de dorst; ; B2; Alltag/Essen/Getränke; Na de wandeling had ik enorme dorst.; Nach der Wanderung war mein Durst riesig.
+nl-et-0126; Genuss; het genot; de genieting; C1; Alltag/Essen/Geschmack; Een goede espresso is een klein dagelijks genot.; Ein guter Espresso ist ein kleiner täglicher Genuss.
+nl-et-0127; Gaumen; het gehemelte; ; C1; Alltag/Essen/Geschmack; Deze wijn streelt zelfs het meest veeleisende gehemelte.; Dieser Wein schmeichelt selbst dem anspruchsvollsten Gaumen.
+nl-et-0128; Aroma; het aroma; de geur; C1; Alltag/Essen/Geschmack; Het aroma van verse koffie vulde de keuken.; Das Aroma von frischem Kaffee erfüllte die Küche.
+nl-et-0129; Konsistenz; de consistentie; de structuur, de textuur; C1; Alltag/Essen/Geschmack; De consistentie van de mousse was perfect glad.; Die Konsistenz der Mousse war perfekt glatt.
+nl-et-0130; anrichten; opmaken; dresseren; C1; Alltag/Essen/Kochen; De kok maakt elk gerecht graag kunstig op.; Der Koch richtet jedes Gericht gerne kunstvoll an.
+nl-et-0131; verfeinern; verfijnen; ; C1; Alltag/Essen/Kochen; Verfijn de saus met een beetje room.; Verfeinere die Soße mit etwas Sahne.
+nl-et-0132; einkochen; inkoken; ; C1; Alltag/Essen/Kochen; Laat de fond inkoken tot hij mooi indikt.; Koche den Fond ein bis er schön eindickt.
+nl-et-0133; marinieren; marineren; ; C1; Alltag/Essen/Kochen; Marineer de kip een nacht in citroen en kruiden.; Mariniere das Hähnchen über Nacht in Zitrone und Kräutern.
+nl-et-0134; pürieren; pureren; ; C1; Alltag/Essen/Kochen; Pureer de soep tot hij helemaal glad is.; Püriere die Suppe bis sie ganz glatt ist.
+nl-et-0135; Sternekoch; de sterrenkok; de sterrenchef; C1; Alltag/Essen/Restaurant; De sterrenkok opende een tweede restaurant in Amsterdam.; Der Sternekoch eröffnete ein zweites Restaurant in Amsterdam.
+nl-et-0136; kulinarisch; culinair; ; C1; Alltag/Essen/Geschmack; De reis was een culinaire ontdekkingstocht door Italië.; Die Reise war eine kulinarische Entdeckungstour durch Italien.
+nl-et-0137; Stammgast; de stamgast; de vaste gast, de vaste klant; C1; Alltag/Essen/Restaurant; Als stamgast krijgt hij altijd de hoektafel.; Als Stammgast bekommt er immer den Ecktisch.
+nl-et-0138; gehoben; chic; exclusief, deftig; C1; Alltag/Essen/Restaurant; Ze vierden in een chic restaurant in het centrum.; Sie feierten in einem gehobenen Restaurant in der Innenstadt.
+nl-et-0139; Nahrungsergänzungsmittel; het voedingssupplement; het supplement; C1; Alltag/Essen/Lebensmittel; Een evenwichtige voeding heeft zelden een voedingssupplement nodig.; Eine ausgewogene Ernährung braucht selten ein Nahrungsergänzungsmittel.
+nl-et-0140; Unverträglichkeit; de intolerantie; de overgevoeligheid; C1; Alltag/Essen/Lebensmittel; Haar intolerantie voor lactose ontwikkelde zich heel plotseling.; Ihre Unverträglichkeit gegenüber Laktose entwickelte sich ganz plötzlich.
+nl-et-0141; Konservierungsstoff; het conserveringsmiddel; het conserveermiddel; C1; Alltag/Essen/Lebensmittel; Dit sap bevat helemaal geen kunstmatig conserveringsmiddel.; Dieser Saft enthält überhaupt keinen künstlichen Konservierungsstoff.
+nl-et-0142; Geschmacksverstärker; de smaakversterker; ; C1; Alltag/Essen/Geschmack; Veel kant-en-klaarmaaltijden bevatten een smaakversterker.; Viele Fertiggerichte enthalten einen Geschmacksverstärker.
+nl-et-0143; Hausmannskost; de Hollandse pot; de huiselijke keuken; C1; Alltag/Essen/Mahlzeiten; Na weken in het buitenland verlangde hij naar gewone Hollandse pot.; Nach Wochen im Ausland sehnte er sich nach einfacher Hausmannskost.
+nl-et-0144; Gaumenfreude; de lekkernij; de delicatesse; C2; Alltag/Essen/Geschmack; Het proefmenu was de ene lekkernij na de andere.; Das Degustationsmenü war eine Gaumenfreude nach der anderen.
+nl-et-0145; Völlerei; de vraatzucht; de gulzigheid; C2; Alltag/Essen/Mahlzeiten; De feestdagen verleiden ons vaak tot vrolijke vraatzucht.; Die Feiertage verführen uns oft zu fröhlicher Völlerei.
+nl-et-0146; kredenzen; serveren; voorzetten, inschenken; C2; Alltag/Essen/Restaurant; De gastheer serveert graag zeldzame wijnen.; Der Gastgeber kredenzt gerne seltene Weine.
+nl-et-0147; süffig; doordrinkbaar; soepel; C2; Alltag/Essen/Getränke; Deze lichte rode wijn is gevaarlijk doordrinkbaar.; Dieser leichte Rotwein ist gefährlich süffig.
+nl-et-0148; verköstigen; te eten geven; voeden; C2; Alltag/Essen/Mahlzeiten; Ze moest vijftig hongerige gasten te eten geven.; Sie musste fünfzig hungrige Gäste verköstigen.
+nl-et-0149; Schlemmerei; de smulpartij; de schranspartij; C2; Alltag/Essen/Mahlzeiten; De bruiloft eindigde in een urenlange vrolijke smulpartij.; Die Hochzeit endete in stundenlanger fröhlicher Schlemmerei.
+nl-et-0150; abgestanden; verschaald; muf; C2; Alltag/Essen/Getränke; Het bier in het glas smaakte verschaald.; Das Bier im Glas schmeckte abgestanden.

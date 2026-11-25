@@ -1,0 +1,152 @@
+# Niederländisch: Schule & Bildung
+id; Deutsch; Niederländisch; Weitere Antworten; Niveau; Themen; Beispiel Niederländisch; Beispiel Deutsch
+nl-sb-0001; Schule; de school; ; A1; Bildung/Schule/Schulformen; De kinderen lopen elke ochtend naar school.; Die Kinder gehen jeden Morgen zu Fuß zur Schule.
+nl-sb-0002; Lehrer; de leraar; de leerkracht, de docent; A1; Bildung/Schule/Unterricht; Onze leraar legt alles heel goed uit.; Unser Lehrer erklärt alles sehr gut.
+nl-sb-0003; Schüler; de leerling; de scholier; A1; Bildung/Schule/Unterricht; Elke leerling in de klas heeft een boek.; Jeder Schüler in der Klasse hat ein Buch.
+nl-sb-0004; Klasse; de klas; ; A1; Bildung/Schule/Unterricht; In onze klas zitten vijfentwintig kinderen.; In unserer Klasse sind fünfundzwanzig Kinder.
+nl-sb-0005; Buch; het boek; ; A1; Bildung/Schule/Schulsachen; Open jullie boek alsjeblieft op bladzijde tien.; Bitte öffnet euer Buch auf Seite zehn.
+nl-sb-0006; Heft; het schrift; ; A1; Bildung/Schule/Schulsachen; Schrijf de nieuwe woorden in je schrift.; Schreib die neuen Wörter in dein Heft.
+nl-sb-0007; Stift; de pen; ; A1; Bildung/Schule/Schulsachen; Mag ik een pen van je lenen?; Kann ich mir einen Stift von dir leihen?
+nl-sb-0008; Bleistift; het potlood; ; A1; Bildung/Schule/Schulsachen; Ik teken de tekening met een potlood.; Ich zeichne das Bild mit einem Bleistift.
+nl-sb-0009; Tafel; het bord; het schoolbord; A1; Bildung/Schule/Unterricht; De leraar schrijft de datum op het bord.; Der Lehrer schreibt das Datum an die Tafel.
+nl-sb-0010; Schultasche; de schooltas; de boekentas; A1; Bildung/Schule/Schulsachen; Mijn schooltas is vandaag erg zwaar.; Meine Schultasche ist heute sehr schwer.
+nl-sb-0011; lernen; leren; ; A1; Bildung/Lernen; We leren elke dag tien nieuwe woorden.; Wir lernen jeden Tag zehn neue Wörter.
+nl-sb-0012; lesen; lezen; ; A1; Bildung/Lernen; Ik lees 's avonds graag boeken.; Ich lese abends gern Bücher.
+nl-sb-0013; schreiben; schrijven; ; A1; Bildung/Lernen; De leerlingen schrijven een korte tekst over hun familie.; Die Schüler schreiben einen kurzen Text über ihre Familie.
+nl-sb-0014; rechnen; rekenen; ; A1; Bildung/Lernen; De kinderen rekenen eerst met kleine getallen.; Die Kinder rechnen zuerst mit kleinen Zahlen.
+nl-sb-0015; fragen; vragen; ; A1; Bildung/Schule/Unterricht; Je kunt altijd vragen als iets onduidelijk is.; Du kannst immer fragen, wenn etwas unklar ist.
+nl-sb-0016; antworten; antwoorden; ; A1; Bildung/Schule/Unterricht; Denk eerst na en antwoord dan in hele zinnen.; Denk zuerst nach und antworte dann in ganzen Sätzen.
+nl-sb-0017; Frage; de vraag; ; A1; Bildung/Schule/Unterricht; Ik heb een vraag over het huiswerk.; Ich habe eine Frage zu den Hausaufgaben.
+nl-sb-0018; Antwort; het antwoord; ; A1; Bildung/Schule/Unterricht; Het juiste antwoord staat op de volgende bladzijde.; Die richtige Antwort steht auf der nächsten Seite.
+nl-sb-0019; Hausaufgaben; het huiswerk; ; A1; Bildung/Schule/Unterricht; Ik maak mijn huiswerk na de lunch.; Ich mache meine Hausaufgaben nach dem Mittagessen.
+nl-sb-0020; Pause (Schule); de pauze; ; A1; Bildung/Schule/Unterricht; In de grote pauze spelen we voetbal.; In der großen Pause spielen wir Fußball.
+nl-sb-0021; Mathematik; wiskunde; ; A1; Bildung/Schule/Fächer; Op maandag en donderdag hebben we wiskunde.; Montags und donnerstags haben wir Mathematik.
+nl-sb-0022; Englisch; Engels; ; A1; Bildung/Schule/Fächer; Bij Engels zingen we liedjes en doen we spelletjes.; In Englisch singen wir Lieder und spielen Spiele.
+nl-sb-0023; Deutsch; Duits; ; A1; Bildung/Schule/Fächer; Bij Duits lezen we nu een korte roman.; In Deutsch lesen wir gerade einen kurzen Roman.
+nl-sb-0024; Sport (Schulfach); gym; lichamelijke opvoeding, gymnastiek; A1; Bildung/Schule/Fächer; Bij gym spelen we vandaag basketbal.; Im Sport spielen wir heute Basketball.
+nl-sb-0025; Musik; de muziek; muziek; A1; Bildung/Schule/Fächer; Bij muziek leren we een nieuw lied.; In Musik lernen wir ein neues Lied.
+nl-sb-0026; Kunst; de kunst; tekenen; A2; Bildung/Schule/Fächer; Bij kunst schilderen we met waterverf.; In Kunst malen wir mit Wasserfarben.
+nl-sb-0027; Geschichte (Vergangenheit); de geschiedenis; geschiedenis; A2; Bildung/Schule/Fächer; Bij geschiedenis leren we nu over het oude Rome.; In Geschichte lernen wir gerade etwas über das alte Rom.
+nl-sb-0028; Erdkunde; aardrijkskunde; ; A2; Bildung/Schule/Fächer; Bij aardrijkskunde tekenen we kaarten van Europa.; In Erdkunde zeichnen wir Karten von Europa.
+nl-sb-0029; Biologie; biologie; ; A2; Bildung/Schule/Fächer; Bij biologie onderzoeken we planten en dieren.; In Biologie untersuchen wir Pflanzen und Tiere.
+nl-sb-0030; Chemie; scheikunde; chemie; A2; Bildung/Schule/Fächer; Bij scheikunde doen we spannende experimenten.; In Chemie machen wir spannende Experimente.
+nl-sb-0031; Physik; natuurkunde; fysica; A2; Bildung/Schule/Fächer; Bij natuurkunde leren we hoe stroom werkt.; In Physik lernen wir, wie Strom funktioniert.
+nl-sb-0032; Informatik; informatica; ; A2; Bildung/Schule/Fächer; Bij informatica schrijven we onze eerste programma's.; In Informatik schreiben wir unsere ersten Programme.
+nl-sb-0033; Fach; het vak; het schoolvak; A2; Bildung/Schule/Fächer; Welk vak vind je op school het leukst?; Welches Fach magst du in der Schule am liebsten?
+nl-sb-0034; Stundenplan; het rooster; het lesrooster; A2; Bildung/Schule/Unterricht; Het nieuwe rooster begint na de vakantie.; Der neue Stundenplan beginnt nach den Ferien.
+nl-sb-0035; Unterricht; de les; de lessen, het onderwijs; A2; Bildung/Schule/Unterricht; De les begint precies om acht uur.; Der Unterricht beginnt pünktlich um acht Uhr.
+nl-sb-0036; Note (Schule); het cijfer; ; A2; Bildung/Schule/Prüfungen; Ze heeft een goed cijfer voor de toets gekregen.; Sie hat eine gute Note im Test bekommen.
+nl-sb-0037; Zeugnis (Schule); het rapport; het schoolrapport; A2; Bildung/Schule/Prüfungen; Hij liet zijn rapport aan zijn ouders zien.; Er zeigte seinen Eltern sein Zeugnis.
+nl-sb-0038; Prüfung; het examen; ; A2; Bildung/Schule/Prüfungen; Het examen vindt volgende week vrijdagochtend plaats.; Die Prüfung findet nächsten Freitagmorgen statt.
+nl-sb-0039; Test; de toets; het proefwerk; A2; Bildung/Schule/Prüfungen; We maken om de twee weken een korte toets.; Wir schreiben alle zwei Wochen einen kurzen Test.
+nl-sb-0040; bestehen (Prüfung); slagen; halen; A2; Bildung/Schule/Prüfungen; Ik weet zeker dat je voor het examen slaagt.; Ich bin sicher, dass du die Prüfung bestehst.
+nl-sb-0041; durchfallen; zakken; ; A2; Bildung/Schule/Prüfungen; Niemand wil voor de laatste toets zakken.; Niemand will beim letzten Test durchfallen.
+nl-sb-0042; üben; oefenen; ; A2; Bildung/Lernen; Je moet de nieuwe woorden elke dag oefenen.; Du solltest die neuen Wörter jeden Tag üben.
+nl-sb-0043; wiederholen (Lernstoff); herhalen; ; A2; Bildung/Lernen; Laten we de grammatica van vorige week herhalen.; Lass uns die Grammatik von letzter Woche wiederholen.
+nl-sb-0044; erklären; uitleggen; ; A2; Bildung/Schule/Unterricht; Kun je deze regel nog een keer uitleggen?; Kannst du diese Regel bitte noch einmal erklären?
+nl-sb-0045; verstehen; begrijpen; verstaan; A2; Bildung/Lernen; Ik heb de laatste zin niet begrepen.; Ich habe den letzten Satz nicht verstanden.
+nl-sb-0046; vergessen; vergeten; ; A2; Bildung/Lernen; Vergeet je huiswerk niet thuis.; Vergiss deine Hausaufgaben nicht zu Hause.
+nl-sb-0047; Wörterbuch; het woordenboek; ; A2; Bildung/Schule/Schulsachen; Zoek het nieuwe woord op in het woordenboek.; Schlag das neue Wort im Wörterbuch nach.
+nl-sb-0048; Lineal; de liniaal; ; A2; Bildung/Schule/Schulsachen; Trek met de liniaal een rechte lijn.; Zieh mit dem Lineal eine gerade Linie.
+nl-sb-0049; Schere; de schaar; ; A2; Bildung/Schule/Schulsachen; Knip de afbeelding uit met de schaar.; Schneide das Bild mit der Schere aus.
+nl-sb-0050; Kleber; de lijm; ; A2; Bildung/Schule/Schulsachen; We hebben lijm en papier nodig voor de poster.; Wir brauchen Kleber und Papier für das Plakat.
+nl-sb-0051; Radiergummi; de gum; het gummetje; A2; Bildung/Schule/Schulsachen; Mag ik even je gum lenen?; Darf ich kurz deinen Radiergummi leihen?
+nl-sb-0052; Spitzer; de puntenslijper; ; A2; Bildung/Schule/Schulsachen; Mijn potlood is afgebroken, waar is de puntenslijper?; Mein Bleistift ist abgebrochen, wo ist der Spitzer?
+nl-sb-0053; Füller; de vulpen; ; A2; Bildung/Schule/Schulsachen; In de derde klas schrijven de kinderen met een vulpen.; In der dritten Klasse schreiben die Kinder mit dem Füller.
+nl-sb-0054; Taschenrechner; de rekenmachine; de calculator; A2; Bildung/Schule/Schulsachen; Bij deze opgave mag je een rekenmachine gebruiken.; Bei dieser Aufgabe darfst du einen Taschenrechner benutzen.
+nl-sb-0055; Klassenzimmer; het klaslokaal; de klas; A2; Bildung/Schule/Unterricht; Ons klaslokaal is op de tweede verdieping.; Unser Klassenzimmer ist im zweiten Stock.
+nl-sb-0056; Turnhalle; de gymzaal; de sporthal; A2; Bildung/Schule/Unterricht; We verzamelen voor de gymles in de gymzaal.; Wir treffen uns zur Sportstunde in der Turnhalle.
+nl-sb-0057; Schulhof; het schoolplein; ; A2; Bildung/Schule/Unterricht; De leerlingen spelen in de pauze op het schoolplein.; Die Schüler spielen in der Pause auf dem Schulhof.
+nl-sb-0058; Mensa; de mensa; de kantine; A2; Bildung/Universität; We eten samen in de mensa tussen de middag.; Wir essen zusammen in der Mensa zu Mittag.
+nl-sb-0059; Grundschule; de basisschool; ; A2; Bildung/Schule/Schulformen; Mijn dochter is dit jaar naar de basisschool gegaan.; Meine Tochter kam dieses Jahr in die Grundschule.
+nl-sb-0060; Ferien; de vakantie; de schoolvakantie; A2; Bildung/Schule/Unterricht; De vakantie begint volgende week vrijdag.; Die Ferien beginnen nächste Woche am Freitag.
+nl-sb-0061; Gymnasium; het gymnasium; het vwo; B1; Bildung/Schule/Schulformen; Ze zit op een gymnasium in Frankfurt.; Sie besucht ein Gymnasium in Frankfurt.
+nl-sb-0062; weiterführende Schule; de middelbare school; het voortgezet onderwijs; B1; Bildung/Schule/Schulformen; Na de basisschool kiezen de kinderen een middelbare school.; Nach der Grundschule wählen die Kinder eine weiterführende Schule.
+nl-sb-0063; Abschluss (Schule); het diploma; ; B1; Bildung/Schule/Prüfungen; Een goed diploma opent later veel deuren.; Ein guter Abschluss öffnet später viele Türen.
+nl-sb-0064; Abitur; het eindexamen; het vwo-eindexamen, het vwo-diploma; B1; Bildung/Schule/Prüfungen; Hij is met heel goede cijfers voor zijn eindexamen geslaagd.; Er hat sein Abitur mit sehr guten Noten bestanden.
+nl-sb-0065; Universität; de universiteit; ; B1; Bildung/Universität; Ze studeert rechten aan de universiteit in Mainz.; Sie studiert Jura an der Universität in Mainz.
+nl-sb-0066; Student; de student; ; B1; Bildung/Universität; Als student woonde hij in een klein appartement.; Als Student wohnte er in einer kleinen Wohnung.
+nl-sb-0067; Vorlesung; het college; het hoorcollege; B1; Bildung/Universität; Het college over Europese geschiedenis begint om tien uur.; Die Vorlesung über europäische Geschichte beginnt um zehn.
+nl-sb-0068; Seminar; het werkcollege; het seminar, de werkgroep; B1; Bildung/Universität; In het werkcollege bespreken we elke week een tekst.; Im Seminar besprechen wir jede Woche einen Text.
+nl-sb-0069; Semester; het semester; ; B1; Bildung/Universität; Het nieuwe semester begint in oktober.; Das neue Semester beginnt im Oktober.
+nl-sb-0070; Studium; de studie; ; B1; Bildung/Universität; Ze rondde haar studie na vijf jaar af.; Sie beendete ihr Studium nach fünf Jahren.
+nl-sb-0071; studieren; studeren; ; B1; Bildung/Universität; Mijn zoon wil in Berlijn geneeskunde studeren.; Mein Sohn möchte in Berlin Medizin studieren.
+nl-sb-0072; Studiengang; de opleiding; de studierichting, de studie; B1; Bildung/Universität; Deze opleiding combineert biologie en informatica.; Dieser Studiengang verbindet Biologie und Informatik.
+nl-sb-0073; Bibliothek; de bibliotheek; ; B1; Bildung/Universität; 's Avonds studeer ik vaak in de bibliotheek.; Abends lerne ich oft in der Bibliothek.
+nl-sb-0074; Hörsaal; de collegezaal; ; B1; Bildung/Universität; De collegezaal was vijf minuten van tevoren al vol.; Der Hörsaal war fünf Minuten vorher schon voll.
+nl-sb-0075; Dozent; de docent; ; B1; Bildung/Universität; Onze docent beantwoordt vragen altijd geduldig.; Unser Dozent beantwortet Fragen immer geduldig.
+nl-sb-0076; Professor; de professor; de hoogleraar; B1; Bildung/Universität; De professor doceert hier al twintig jaar.; Der Professor lehrt hier seit zwanzig Jahren.
+nl-sb-0077; Klausur; het tentamen; het schriftelijk examen; B1; Bildung/Universität; Het tentamen duurt precies negentig minuten.; Die Klausur dauert genau neunzig Minuten.
+nl-sb-0078; mündliche Prüfung; het mondeling examen; het mondelinge examen, het mondeling; B1; Bildung/Schule/Prüfungen; Voor haar mondeling examen was ze nerveus.; Vor ihrer mündlichen Prüfung war sie nervös.
+nl-sb-0079; Hausarbeit (Studium); het werkstuk; het paper, het essay; B1; Bildung/Universität; Ik moet een werkstuk over Kafka schrijven.; Ich muss eine Hausarbeit über Kafka schreiben.
+nl-sb-0080; Referat; de spreekbeurt; de presentatie; B1; Bildung/Schule/Unterricht; Morgen houd ik een spreekbeurt over vulkanen.; Morgen halte ich ein Referat über Vulkane.
+nl-sb-0081; Notizen; de aantekeningen; de notities; B1; Bildung/Lernen; Goede aantekeningen helpen je enorm voor examens.; Gute Notizen helfen dir vor Prüfungen sehr.
+nl-sb-0082; auswendig lernen; uit het hoofd leren; ; B1; Bildung/Lernen; We moesten voor maandag een gedicht uit het hoofd leren.; Wir mussten für Montag ein Gedicht auswendig lernen.
+nl-sb-0083; nachschlagen; opzoeken; naslaan; B1; Bildung/Lernen; Onbekende woorden kun je online opzoeken.; Unbekannte Wörter kannst du online nachschlagen.
+nl-sb-0084; teilnehmen; deelnemen; meedoen; B1; Bildung/Schule/Unterricht; Alle leerlingen moeten aan de projectweek deelnemen.; Alle Schüler müssen an der Projektwoche teilnehmen.
+nl-sb-0085; sich anmelden; zich aanmelden; zich inschrijven; B1; Bildung/Universität; Tot vrijdag kun je je voor de cursus aanmelden.; Bis Freitag kannst du dich für den Kurs anmelden.
+nl-sb-0086; abgeben; inleveren; ; B1; Bildung/Universität; Lever je opstel alsjeblieft voor eind mei in.; Bitte gib deinen Aufsatz bis Ende Mai ab.
+nl-sb-0087; korrigieren; corrigeren; nakijken, verbeteren; B1; Bildung/Schule/Prüfungen; De lerares corrigeert de toetsen in het weekend.; Die Lehrerin korrigiert die Tests am Wochenende.
+nl-sb-0088; benoten; beoordelen; een cijfer geven; B1; Bildung/Schule/Prüfungen; De spreekbeurten worden volgende week beoordeeld.; Die Referate werden nächste Woche benotet.
+nl-sb-0089; schwänzen; spijbelen; ; B1; Bildung/Schule/Unterricht; Hij heeft vorige maand twee keer gespijbeld.; Er hat letzten Monat zweimal die Schule geschwänzt.
+nl-sb-0090; sitzen bleiben; zittenblijven; blijven zitten; B1; Bildung/Schule/Prüfungen; Met twee slechte cijfers zou hij kunnen blijven zitten.; Mit zwei schlechten Noten könnte er sitzen bleiben.
+nl-sb-0091; Nachhilfe; de bijles; ; B1; Bildung/Lernen; Ze krijgt een keer per week bijles in wiskunde.; Sie bekommt einmal pro Woche Nachhilfe in Mathe.
+nl-sb-0092; Austauschschüler; de uitwisselingsstudent; de uitwisselingsleerling; B1; Bildung/Schule/Unterricht; Onze uitwisselingsstudent uit Frankrijk blijft drie maanden.; Unser Austauschschüler aus Frankreich bleibt drei Monate.
+nl-sb-0093; Klassenfahrt; de schoolreis; het schoolreisje, de werkweek; B1; Bildung/Schule/Unterricht; De schoolreis gaat dit jaar naar Texel.; Die Klassenfahrt geht dieses Jahr nach Texel.
+nl-sb-0094; Elternabend; de ouderavond; ; B1; Bildung/Schule/Unterricht; De volgende ouderavond is donderdag om zeven uur.; Der nächste Elternabend ist am Donnerstag um sieben.
+nl-sb-0095; Berufsschule; de beroepsschool; de vakschool, het mbo; B1; Bildung/Schule/Schulformen; Leerlingen gaan twee keer per week naar de beroepsschool.; Auszubildende besuchen zweimal pro Woche die Berufsschule.
+nl-sb-0096; Ausbildung; de opleiding; de beroepsopleiding; B2; Bildung/Lernen; Na school begon ze een opleiding tot elektricien.; Nach der Schule begann sie eine Ausbildung als Elektrikerin.
+nl-sb-0097; Schulpflicht; de leerplicht; ; B2; Bildung/Bildungspolitik; In Duitsland begint de leerplicht op zesjarige leeftijd.; In Deutschland beginnt die Schulpflicht mit sechs Jahren.
+nl-sb-0098; Lehrplan; het leerplan; het curriculum, het lesprogramma; B2; Bildung/Schule/Unterricht; Het nieuwe leerplan legt meer nadruk op digitale vaardigheden.; Der neue Lehrplan legt mehr Gewicht auf digitale Kompetenzen.
+nl-sb-0099; Leistung; de prestatie; ; B2; Bildung/Schule/Prüfungen; Haar prestaties verbeterden duidelijk in de tweede jaarhelft.; Ihre Leistung verbesserte sich in der zweiten Jahreshälfte deutlich.
+nl-sb-0100; Bewertung (Schule); de beoordeling; ; B2; Bildung/Schule/Prüfungen; De beoordeling van mondelinge prestaties is vaak moeilijk.; Die Bewertung mündlicher Leistungen ist oft schwierig.
+nl-sb-0101; Abschlussprüfung; het eindexamen; ; B2; Bildung/Schule/Prüfungen; Het eindexamen omvat de stof van twee jaar.; Die Abschlussprüfung umfasst den Stoff von zwei Jahren.
+nl-sb-0102; Bachelorarbeit; de bachelorscriptie; ; B2; Bildung/Universität; Hij schrijft zijn bachelorscriptie over hernieuwbare energie.; Er schreibt seine Bachelorarbeit über erneuerbare Energien.
+nl-sb-0103; Masterarbeit; de masterscriptie; ; B2; Bildung/Universität; Haar masterscriptie werd als een klein boek gepubliceerd.; Ihre Masterarbeit wurde als kleines Buch veröffentlicht.
+nl-sb-0104; Doktorarbeit; het proefschrift; de dissertatie; B2; Bildung/Universität; Hij werkte vier jaar aan zijn proefschrift.; Er arbeitete vier Jahre an seiner Doktorarbeit.
+nl-sb-0105; Promotion; de promotie; ; B2; Bildung/Universität; Na haar promotie stapte ze over naar het bedrijfsleven.; Nach ihrer Promotion wechselte sie in die Industrie.
+nl-sb-0106; Stipendium; de beurs; de studiebeurs; B2; Bildung/Universität; De beurs dekt haar huur en haar boeken.; Das Stipendium deckt ihre Miete und ihre Bücher.
+nl-sb-0107; Studiengebühren; het collegegeld; ; B2; Bildung/Universität; Het collegegeld verschilt sterk tussen Europese landen.; Die Studiengebühren unterscheiden sich stark zwischen europäischen Ländern.
+nl-sb-0108; Wohnheim; het studentenhuis; de studentenflat; B2; Bildung/Universität; In het eerste jaar woonde hij in een studentenhuis.; Im ersten Jahr wohnte er in einem Wohnheim.
+nl-sb-0109; Fakultät; de faculteit; ; B2; Bildung/Universität; De technische faculteit verhuisde naar een nieuw gebouw.; Die Fakultät für Ingenieurwesen zog in ein neues Gebäude.
+nl-sb-0110; Forschung; het onderzoek; ; B2; Bildung/Universität; De universiteit geeft veel geld uit aan onderzoek.; Die Universität gibt viel Geld für Forschung aus.
+nl-sb-0111; Wissenschaft; de wetenschap; ; B2; Bildung/Universität; De wetenschap heeft open debatten en zorgvuldige methoden nodig.; Die Wissenschaft braucht offene Debatten und sorgfältige Methoden.
+nl-sb-0112; Wissenschaftler; de wetenschapper; de onderzoeker; B2; Bildung/Universität; De wetenschapper presenteerde zijn resultaten op een conferentie.; Der Wissenschaftler stellte seine Ergebnisse auf einer Konferenz vor.
+nl-sb-0113; Vorlesungsverzeichnis; de studiegids; de collegegids; B2; Bildung/Universität; De studiegids voor het volgende semester staat nu online.; Das Vorlesungsverzeichnis für das nächste Semester ist jetzt online.
+nl-sb-0114; Prüfungsordnung; de examenregeling; het examenreglement; B2; Bildung/Universität; Lees de examenregeling voordat je je aanmeldt.; Lies die Prüfungsordnung, bevor du dich anmeldest.
+nl-sb-0115; Leistungspunkt; het studiepunt; ; B2; Bildung/Universität; Dit werkcollege levert vijf studiepunten op.; Dieses Seminar bringt fünf Leistungspunkte.
+nl-sb-0116; Pflichtfach; het verplichte vak; het verplicht vak; B2; Bildung/Universität; Statistiek is in deze opleiding een verplicht vak.; Statistik ist in diesem Studiengang ein Pflichtfach.
+nl-sb-0117; Wahlfach; het keuzevak; ; B2; Bildung/Universität; Ze koos dit semester Spaans als keuzevak.; Sie wählte dieses Semester Spanisch als Wahlfach.
+nl-sb-0118; Weiterbildung; de bijscholing; de nascholing, de vervolgopleiding; B2; Bildung/Lernen; Het bedrijf betaalt cursussen voor bijscholing.; Die Firma bezahlt Kurse zur Weiterbildung.
+nl-sb-0119; Fernstudium; het afstandsonderwijs; de afstandsstudie; B2; Bildung/Universität; Afstandsonderwijs laat je naast je werk studeren.; Ein Fernstudium lässt dich neben dem Beruf studieren.
+nl-sb-0120; Praktikum; de stage; ; B2; Bildung/Universität; Hij liep stage bij een ingenieursbureau.; Er machte ein Praktikum in einem Ingenieurbüro.
+nl-sb-0121; Bewerbung; de sollicitatie; de aanmelding; B2; Bildung/Universität; Haar sollicitatie voor de masteropleiding was succesvol.; Ihre Bewerbung für den Masterstudiengang war erfolgreich.
+nl-sb-0122; Lebenslauf; het cv; het curriculum vitae, de cv; B2; Bildung/Universität; Voeg bij je sollicitatie alsjeblieft je cv toe.; Bitte füge der Bewerbung deinen Lebenslauf bei.
+nl-sb-0123; Zulassung (Studium); de toelating; ; B2; Bildung/Universität; Ze wacht nog op haar toelating tot de universiteit.; Sie wartet noch auf ihre Zulassung zur Universität.
+nl-sb-0124; Einschreibung; de inschrijving; ; B2; Bildung/Universität; De termijn voor de inschrijving loopt half september af.; Die Frist für die Einschreibung endet Mitte September.
+nl-sb-0125; Abschlussfeier; de diploma-uitreiking; de afstudeerceremonie; B2; Bildung/Universität; De hele familie kwam naar haar diploma-uitreiking.; Die ganze Familie kam zu ihrer Abschlussfeier.
+nl-sb-0126; Chancengleichheit; de kansengelijkheid; gelijke kansen; C1; Bildung/Bildungspolitik; Kansengelijkheid in het onderwijs blijft een ver doel.; Chancengleichheit in der Bildung bleibt ein fernes Ziel.
+nl-sb-0127; Bildungspolitik; het onderwijsbeleid; ; C1; Bildung/Bildungspolitik; Onderwijsbeleid wordt in Duitsland door de deelstaten bepaald.; Bildungspolitik wird von den Bundesländern entschieden.
+nl-sb-0128; Analphabetismus; het analfabetisme; ; C1; Bildung/Bildungspolitik; Analfabetisme onder volwassenen komt vaker voor dan gedacht.; Der Analphabetismus unter Erwachsenen ist verbreiteter als gedacht.
+nl-sb-0129; lebenslanges Lernen; levenslang leren; een leven lang leren; C1; Bildung/Lernen; Levenslang leren is in moderne beroepen onmisbaar geworden.; Lebenslanges Lernen ist in modernen Berufen unverzichtbar geworden.
+nl-sb-0130; Hochschulreife; het vwo-diploma; ; C1; Bildung/Schule/Prüfungen; Het vwo-diploma opent de weg naar de universiteit.; Die Hochschulreife öffnet den Weg zur Universität.
+nl-sb-0131; Habilitation; de habilitatie; ; C1; Bildung/Universität; In Duitsland is voor een hoogleraarschap vaak een habilitatie nodig.; In Deutschland erfordert eine Professur oft eine Habilitation.
+nl-sb-0132; Gutachten; het deskundigenrapport; het expertiserapport, het advies; C1; Bildung/Universität; De commissie vroeg een deskundigenrapport over het proefschrift.; Die Kommission forderte ein Gutachten über die Arbeit an.
+nl-sb-0133; Lehrstuhl; de leerstoel; ; C1; Bildung/Universität; Haar werd een leerstoel in toegepaste natuurkunde aangeboden.; Ihr wurde ein Lehrstuhl für angewandte Physik angeboten.
+nl-sb-0134; Studienabbrecher; de uitvaller; de studiestaker, de drop-out; C1; Bildung/Universität; Veel uitvallers zijn later succesvol in praktische beroepen.; Viele Studienabbrecher sind später in praktischen Berufen erfolgreich.
+nl-sb-0135; Leistungsdruck; de prestatiedruk; ; C1; Bildung/Schule/Prüfungen; De prestatiedruk begint voor veel leerlingen vroeg.; Der Leistungsdruck beginnt für viele Schüler früh.
+nl-sb-0136; Begabtenförderung; het hoogbegaafdenonderwijs; de talentontwikkeling; C1; Bildung/Bildungspolitik; Het hoogbegaafdenonderwijs verschilt sterk tussen de scholen.; Die Begabtenförderung unterscheidet sich stark zwischen den Schulen.
+nl-sb-0137; Durchfallquote; het zakpercentage; ; C1; Bildung/Schule/Prüfungen; Het zakpercentage bij dit examen is opvallend hoog.; Die Durchfallquote in dieser Prüfung ist bemerkenswert hoch.
+nl-sb-0138; Anwesenheitspflicht; de aanwezigheidsplicht; ; C1; Bildung/Universität; Bij sommige werkcolleges geldt aanwezigheidsplicht, bij andere niet.; In manchen Seminaren gilt Anwesenheitspflicht, in anderen nicht.
+nl-sb-0139; Lernstrategie; de leerstrategie; ; C1; Bildung/Lernen; Een goede leerstrategie bespaart tijd voor examens.; Eine gute Lernstrategie spart Zeit vor Prüfungen.
+nl-sb-0140; Wissensvermittlung; de kennisoverdracht; ; C1; Bildung/Lernen; Goed onderwijs is meer dan pure kennisoverdracht.; Guter Unterricht ist mehr als reine Wissensvermittlung.
+nl-sb-0141; Fachliteratur; de vakliteratuur; ; C1; Bildung/Universität; De bibliotheek biedt vakliteratuur in veertig talen.; Die Bibliothek bietet Fachliteratur in vierzig Sprachen.
+nl-sb-0142; Plagiat; het plagiaat; ; C1; Bildung/Universität; De software controleert elke scriptie op plagiaat.; Die Software prüft jede Abschlussarbeit auf Plagiate.
+nl-sb-0143; Quellenangabe; de bronvermelding; ; C1; Bildung/Universität; Elk citaat heeft een volledige en correcte bronvermelding nodig.; Jedes Zitat braucht eine vollständige und korrekte Quellenangabe.
+nl-sb-0144; Bildungsbürgertum; de ontwikkelde burgerij; de intellectuele burgerij; C2; Bildung/Bildungspolitik; De ontwikkelde burgerij bepaalde het Duitse culturele leven.; Das Bildungsbürgertum prägte das deutsche Kulturleben.
+nl-sb-0145; Elfenbeinturm; de ivoren toren; ; C2; Bildung/Universität; Onderzoekers zouden hun ivoren toren vaker moeten verlaten.; Forscher sollten den Elfenbeinturm öfter verlassen.
+nl-sb-0146; Autodidakt; de autodidact; ; C2; Bildung/Lernen; Als autodidact leerde hij zichzelf vier talen.; Als Autodidakt brachte er sich vier Sprachen bei.
+nl-sb-0147; Koryphäe; de coryfee; de autoriteit; C2; Bildung/Universität; Ze geldt als coryfee op haar vakgebied.; Sie gilt als Koryphäe auf ihrem Gebiet.
+nl-sb-0148; Emeritierung; het emeritaat; ; C2; Bildung/Universität; Ook na zijn emeritaat gaf hij nog colleges.; Auch nach seiner Emeritierung hielt er weiter Vorlesungen.
+nl-sb-0149; Wissbegierde; de weetgierigheid; de leergierigheid; C2; Bildung/Lernen; Haar weetgierigheid nam met de jaren nooit af.; Ihre Wissbegierde ließ mit dem Alter nie nach.
+nl-sb-0150; Gelehrsamkeit; de geleerdheid; de eruditie; C2; Bildung/Lernen; Zijn geleerdheid maakte zelfs indruk op de oudere professoren.; Seine Gelehrsamkeit beeindruckte selbst die älteren Professoren.

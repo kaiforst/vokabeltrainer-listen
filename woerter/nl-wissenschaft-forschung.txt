@@ -1,0 +1,152 @@
+# Niederländisch: Wissenschaft & Forschung
+id; Deutsch; Niederländisch; Weitere Antworten; Niveau; Themen; Beispiel Niederländisch; Beispiel Deutsch
+nl-wi-0001; Frage; de vraag; ; A1; Wissenschaft/Forschung & Methode; Elk goed experiment begint met een eenvoudige vraag.; Jedes gute Experiment beginnt mit einer einfachen Frage.
+nl-wi-0002; Antwort; het antwoord; ; A1; Wissenschaft/Forschung & Methode; De wetenschap geeft niet altijd een snel antwoord.; Die Wissenschaft gibt nicht immer eine schnelle Antwort.
+nl-wi-0003; Test; de test; de proef, de toets; A1; Wissenschaft/Forschung & Methode; Het nieuwe materiaal doorstond elke toets in het laboratorium.; Das neue Material bestand jeden Test im Labor.
+nl-wi-0004; Wissenschaft; de wetenschap; ; A2; Wissenschaft/Forschung & Methode; De wetenschap helpt ons de wereld beter te begrijpen.; Die Wissenschaft hilft uns, die Welt besser zu verstehen.
+nl-wi-0005; Wissenschaftler; de wetenschapper; de onderzoeker; A2; Wissenschaft/Forschung & Methode; De wetenschapper legde zijn resultaten in eenvoudige woorden uit.; Der Wissenschaftler erklärte seine Ergebnisse in einfachen Worten.
+nl-wi-0006; Forschung; het onderzoek; ; A2; Wissenschaft/Forschung & Methode; Het onderzoek naar nieuwe batterijen maakt snelle vorderingen.; Die Forschung an neuen Batterien macht schnelle Fortschritte.
+nl-wi-0007; forschen; onderzoek doen; onderzoeken; B1; Wissenschaft/Forschung & Methode; Ze wil in Afrika onderzoek doen naar tropische ziekten.; Sie möchte in Afrika zu Tropenkrankheiten forschen.
+nl-wi-0008; Experiment; het experiment; de proef; B1; Wissenschaft/Forschung & Methode; Het experiment werd meer dan twintig keer herhaald.; Das Experiment wurde mehr als zwanzigmal wiederholt.
+nl-wi-0009; Labor; het laboratorium; het lab; B1; Wissenschaft/Forschung & Methode; De monsters worden in een modern laboratorium onderzocht.; Die Proben werden in einem modernen Labor untersucht.
+nl-wi-0010; entdecken; ontdekken; ; A2; Wissenschaft/Forschung & Methode; Onderzoekers ontdekken elk jaar nieuwe soorten in het regenwoud.; Forscher entdecken jedes Jahr neue Arten im Regenwald.
+nl-wi-0011; Entdeckung; de ontdekking; ; B1; Wissenschaft/Forschung & Methode; De ontdekking van penicilline redde miljoenen levens.; Die Entdeckung des Penicillins rettete Millionen von Leben.
+nl-wi-0012; erfinden; uitvinden; ; A2; Wissenschaft/Forschung & Methode; Hij wil een machine uitvinden die rivieren schoonmaakt.; Er will eine Maschine erfinden, die Flüsse reinigt.
+nl-wi-0013; Erfindung; de uitvinding; ; B1; Wissenschaft/Forschung & Methode; De boekdrukkunst was een baanbrekende uitvinding.; Der Buchdruck war eine bahnbrechende Erfindung.
+nl-wi-0014; Ergebnis; het resultaat; de uitkomst; A2; Wissenschaft/Forschung & Methode; Het resultaat van de test verraste iedereen.; Das Ergebnis des Tests überraschte alle.
+nl-wi-0015; untersuchen; onderzoeken; ; B1; Wissenschaft/Forschung & Methode; Het team gaat de watermonsters morgen onderzoeken.; Das Team wird die Wasserproben morgen untersuchen.
+nl-wi-0016; Fachzeitschrift; het vaktijdschrift; het wetenschappelijk tijdschrift, het vakblad; C1; Wissenschaft/Forschung & Methode; De studie verscheen in een toonaangevend vaktijdschrift.; Die Studie erschien in einer führenden Fachzeitschrift.
+nl-wi-0017; Theorie; de theorie; ; B1; Wissenschaft/Forschung & Methode; Een goede theorie kun je met experimenten toetsen.; Eine gute Theorie lässt sich durch Experimente prüfen.
+nl-wi-0018; Methode; de methode; ; B1; Wissenschaft/Forschung & Methode; De nieuwe methode levert veel nauwkeurigere waarden.; Die neue Methode liefert viel genauere Werte.
+nl-wi-0019; Beweis; het bewijs; ; B1; Wissenschaft/Forschung & Methode; Voor deze bewering is er nog geen bewijs.; Für diese Behauptung gibt es noch keinen Beweis.
+nl-wi-0020; beweisen; bewijzen; aantonen; B1; Wissenschaft/Forschung & Methode; De gegevens bewijzen duidelijk dat de methode werkt.; Die Daten beweisen eindeutig, dass die Methode funktioniert.
+nl-wi-0021; Hypothese; de hypothese; ; B2; Wissenschaft/Forschung & Methode; De resultaten ondersteunen de oorspronkelijke hypothese niet.; Die Ergebnisse stützen die ursprüngliche Hypothese nicht.
+nl-wi-0022; Daten; de gegevens; de data; B1; Wissenschaft/Forschung & Methode; De sensoren verzamelen de klok rond gegevens.; Die Sensoren sammeln rund um die Uhr Daten.
+nl-wi-0023; messen; meten; ; A2; Wissenschaft/Forschung & Methode; We meten de temperatuur drie keer per dag.; Wir messen die Temperatur dreimal am Tag.
+nl-wi-0024; Messgenauigkeit; de meetnauwkeurigheid; ; C2; Wissenschaft/Forschung & Methode; Het nieuwe instrument verdubbelt de meetnauwkeurigheid van het systeem.; Das neue Instrument verdoppelt die Messgenauigkeit des Systems.
+nl-wi-0025; vergleichen; vergelijken; ; A2; Wissenschaft/Forschung & Methode; De leerlingen vergelijken de resultaten van beide groepen.; Die Schüler vergleichen die Ergebnisse beider Gruppen.
+nl-wi-0026; Annahme (Vermutung); de aanname; de veronderstelling; B2; Wissenschaft/Forschung & Methode; Het model berust op een eenvoudige aanname.; Das Modell beruht auf einer einfachen Annahme.
+nl-wi-0027; Erkenntnis; het inzicht; de bevinding; C1; Wissenschaft/Forschung & Methode; De studie leidde tot een verrassend inzicht over slaap.; Die Studie führte zu einer überraschenden Erkenntnis über den Schlaf.
+nl-wi-0028; Gutachten; het deskundigenrapport; het expertiserapport, het deskundigenbericht; C1; Wissenschaft/Forschung & Methode; De rechtbank vroeg een deskundigenrapport van de universiteit aan.; Das Gericht forderte ein Gutachten der Universität an.
+nl-wi-0029; Versuchsreihe; de reeks experimenten; de proevenreeks, de testreeks; C1; Wissenschaft/Forschung & Methode; De lange reeks experimenten bevestigde de eerste resultaten.; Die lange Versuchsreihe bestätigte die ersten Ergebnisse.
+nl-wi-0030; Grundlagenforschung; het fundamentele onderzoek; het fundamenteel onderzoek, het basisonderzoek; C2; Wissenschaft/Forschung & Methode; Fundamenteel onderzoek betaalt zich vaak pas na decennia uit.; Grundlagenforschung zahlt sich oft erst nach Jahrzehnten aus.
+nl-wi-0031; Licht; het licht; ; A1; Wissenschaft/Physik; Licht is sneller dan alles wat we kennen.; Licht ist schneller als alles andere, das wir kennen.
+nl-wi-0032; Energie; de energie; ; A2; Wissenschaft/Physik; De zon geeft ons licht en energie.; Die Sonne gibt uns Licht und Energie.
+nl-wi-0033; Kraft (Physik); de kracht; ; B1; Wissenschaft/Physik; Een sterke kracht trekt de magneet naar het metaal.; Eine starke Kraft zieht den Magneten zum Metall.
+nl-wi-0034; Geschwindigkeit; de snelheid; ; B2; Wissenschaft/Physik; De raket bereikt binnen enkele minuten een enorme snelheid.; Die Rakete erreicht innerhalb von Minuten eine enorme Geschwindigkeit.
+nl-wi-0035; Temperatur; de temperatuur; ; A2; Wissenschaft/Physik; De temperatuur in het laboratorium moet constant blijven.; Die Temperatur im Labor muss konstant bleiben.
+nl-wi-0036; Trägheit; de traagheid; de inertie; C2; Wissenschaft/Physik; Door zijn traagheid rolt de zware bal verder.; Wegen seiner Trägheit rollt der schwere Ball weiter.
+nl-wi-0037; Strom; de stroom; de elektriciteit; A2; Wissenschaft/Physik; Windmolens leveren stroom voor duizenden huishoudens.; Windräder erzeugen Strom für tausende Haushalte.
+nl-wi-0038; Magnet; de magneet; ; B1; Wissenschaft/Physik; De magneet houdt de briefjes op de koelkast.; Der Magnet hält die Notizen am Kühlschrank.
+nl-wi-0039; Welle (Physik); de golf; ; B1; Wissenschaft/Physik; Geluid verspreidt zich als een golf door de lucht.; Schall breitet sich als Welle in der Luft aus.
+nl-wi-0040; Teilchen; het deeltje; ; B2; Wissenschaft/Physik; Elk piepklein deeltje draagt een elektrische lading.; Jedes winzige Teilchen trägt eine elektrische Ladung.
+nl-wi-0041; Atom; het atoom; ; B1; Wissenschaft/Physik; Een enkel atoom is veel te klein om te zien.; Ein einzelnes Atom ist viel zu klein, um es zu sehen.
+nl-wi-0042; Schwerkraft; de zwaartekracht; de gravitatie; B2; Wissenschaft/Physik; De zwaartekracht houdt de maan in zijn baan om de aarde.; Die Schwerkraft hält den Mond auf seiner Bahn um die Erde.
+nl-wi-0043; Druck; de druk; ; B1; Wissenschaft/Physik; De druk in de band is te laag.; Der Druck im Reifen ist zu niedrig.
+nl-wi-0044; Masse; de massa; ; B2; Wissenschaft/Physik; De massa van een voorwerp verandert niet in de ruimte.; Die Masse eines Objekts ändert sich im Weltall nicht.
+nl-wi-0045; Reibung; de wrijving; de frictie; B2; Wissenschaft/Physik; Wrijving zet beweging langzaam om in warmte.; Reibung verwandelt Bewegung langsam in Wärme.
+nl-wi-0046; Strahlung; de straling; ; B2; Wissenschaft/Physik; Het apparaat meet de straling in de omgeving.; Das Gerät misst die Strahlung in der Umgebung.
+nl-wi-0047; Leitfähigkeit; de geleidbaarheid; het geleidingsvermogen; C1; Wissenschaft/Physik; Koper is bekend om zijn uitstekende elektrische geleidbaarheid.; Kupfer ist für seine ausgezeichnete elektrische Leitfähigkeit bekannt.
+nl-wi-0048; Quantenmechanik; de kwantummechanica; de quantummechanica; C1; Wissenschaft/Physik; De kwantummechanica beschrijft de vreemde wereld van piepkleine deeltjes.; Die Quantenmechanik beschreibt die seltsame Welt winziger Teilchen.
+nl-wi-0049; Relativitätstheorie; de relativiteitstheorie; ; C1; Wissenschaft/Physik; Einstein publiceerde zijn relativiteitstheorie in het jaar 1905.; Einstein veröffentlichte seine Relativitätstheorie im Jahr 1905.
+nl-wi-0050; Spannung (Strom); de spanning; het voltage; B2; Wissenschaft/Physik; De spanning op deze kabel is gevaarlijk hoog.; Die Spannung in diesem Kabel ist gefährlich hoch.
+nl-wi-0051; Brechung; de breking; de lichtbreking, de refractie; C2; Wissenschaft/Physik; Door de breking van het licht lijkt het rietje gebogen.; Die Brechung des Lichts lässt den Strohhalm gebogen aussehen.
+nl-wi-0052; Wechselwirkung; de interactie; de wisselwerking; C1; Wissenschaft/Physik; Onderzoekers bestuderen de interactie tussen licht en materie.; Forscher untersuchen die Wechselwirkung zwischen Licht und Materie.
+nl-wi-0053; Wasser; het water; ; A1; Wissenschaft/Chemie; Water kookt bij honderd graden Celsius.; Wasser kocht bei hundert Grad Celsius.
+nl-wi-0054; Luft; de lucht; ; A1; Wissenschaft/Chemie; De lucht in de bergen is schoon en fris.; Die Luft in den Bergen ist sauber und frisch.
+nl-wi-0055; Feuer; het vuur; ; A1; Wissenschaft/Chemie; Vuur heeft zuurstof nodig om te blijven branden.; Feuer braucht Sauerstoff, um weiterzubrennen.
+nl-wi-0056; Gold; het goud; ; A2; Wissenschaft/Chemie; Goud roest niet en blijft glanzen.; Gold rostet nicht und bleibt glänzend.
+nl-wi-0057; Sauerstoff; de zuurstof; ; B1; Wissenschaft/Chemie; Ons bloed vervoert zuurstof door het hele lichaam.; Unser Blut transportiert Sauerstoff durch den ganzen Körper.
+nl-wi-0058; Wasserstoff; de waterstof; ; B2; Wissenschaft/Chemie; Waterstof kan een belangrijke brandstof van de toekomst worden.; Wasserstoff könnte ein wichtiger Kraftstoff der Zukunft werden.
+nl-wi-0059; Kohlenstoff; de koolstof; ; B2; Wissenschaft/Chemie; Diamant en steenkool bestaan beide uit pure koolstof.; Diamanten und Kohle bestehen beide aus reinem Kohlenstoff.
+nl-wi-0060; Säure; het zuur; ; B2; Wissenschaft/Chemie; Het zuur lost de dunne metalen plaat langzaam op.; Die Säure löst die dünne Metallplatte langsam auf.
+nl-wi-0061; Salz; het zout; ; A2; Wissenschaft/Chemie; Zout lost snel op in warm water.; Salz löst sich schnell in warmem Wasser.
+nl-wi-0062; Gas; het gas; ; A2; Wissenschaft/Chemie; De ballon is gevuld met een licht gas.; Der Ballon ist mit einem leichten Gas gefüllt.
+nl-wi-0063; Flüssigkeit; de vloeistof; ; B1; Wissenschaft/Chemie; Giet de vloeistof voorzichtig in de glazen buis.; Gieß die Flüssigkeit vorsichtig in das Glasrohr.
+nl-wi-0064; Stoff (Chemie); de stof; de substantie; B1; Wissenschaft/Chemie; Deze stof is onschadelijk voor mensen en dieren.; Dieser Stoff ist für Menschen und Tiere harmlos.
+nl-wi-0065; Aggregatzustand; de aggregatietoestand; de fase; C2; Wissenschaft/Chemie; IJs, water en stoom zijn drie aggregatietoestanden.; Eis, Wasser und Dampf sind drei Aggregatzustände.
+nl-wi-0066; Reaktion; de reactie; ; B1; Wissenschaft/Chemie; De reactie produceert warmte en een nieuwe stof.; Die Reaktion erzeugt Wärme und einen neuen Stoff.
+nl-wi-0067; Element; het element; ; B1; Wissenschaft/Chemie; Zuurstof is het meest voorkomende element in de aardkorst.; Sauerstoff ist das häufigste Element der Erdkruste.
+nl-wi-0068; Molekül; het molecuul; ; B2; Wissenschaft/Chemie; Een watermolecuul bestaat uit drie atomen.; Ein Wassermolekül besteht aus drei Atomen.
+nl-wi-0069; Verbindung (Chemie); de verbinding; de chemische verbinding; B2; Wissenschaft/Chemie; Zout is een verbinding van natrium en chloor.; Salz ist eine Verbindung aus Natrium und Chlor.
+nl-wi-0070; auflösen; oplossen; ; B2; Wissenschaft/Chemie; De tablet lost volledig op in een glas water.; Die Tablette löst sich vollständig in einem Glas Wasser auf.
+nl-wi-0071; Katalysator; de katalysator; ; C1; Wissenschaft/Chemie; Een katalysator versnelt de reactie zonder zelf verbruikt te worden.; Ein Katalysator beschleunigt die Reaktion, ohne verbraucht zu werden.
+nl-wi-0072; Destillation; de destillatie; de distillatie; C2; Wissenschaft/Chemie; Destillatie scheidt alcohol van water door voorzichtig verhitten.; Die Destillation trennt Alkohol durch vorsichtiges Erhitzen vom Wasser.
+nl-wi-0073; Tier; het dier; ; A1; Wissenschaft/Biologie; De olifant is het grootste landdier.; Der Elefant ist das größte Landtier.
+nl-wi-0074; Pflanze; de plant; ; A1; Wissenschaft/Biologie; Deze plant heeft veel licht en water nodig.; Diese Pflanze braucht viel Licht und Wasser.
+nl-wi-0075; Natur; de natuur; ; A2; Wissenschaft/Biologie; We brengen het weekend buiten in de natuur door.; Wir verbringen das Wochenende draußen in der Natur.
+nl-wi-0076; Zelle; de cel; ; B1; Wissenschaft/Biologie; Elk levend wezen bestaat uit piepkleine cellen.; Jedes Lebewesen besteht aus winzigen Zellen.
+nl-wi-0077; Gehirn; de hersenen; het brein; A2; Wissenschaft/Biologie; De menselijke hersenen rusten nooit echt.; Das menschliche Gehirn ruht nie wirklich.
+nl-wi-0078; Herz; het hart; ; A2; Wissenschaft/Biologie; Een gezond hart klopt ongeveer zeventig keer per minuut.; Ein gesundes Herz schlägt etwa siebzigmal pro Minute.
+nl-wi-0079; Blut; het bloed; ; A2; Wissenschaft/Biologie; Het bloed vervoert zuurstof naar elk deel van het lichaam.; Das Blut transportiert Sauerstoff in jeden Teil des Körpers.
+nl-wi-0080; Bakterie; de bacterie; ; B1; Wissenschaft/Biologie; Een enkele bacterie kan zich heel snel vermenigvuldigen.; Eine einzelne Bakterie kann sich sehr schnell vermehren.
+nl-wi-0081; Virus; het virus; ; B1; Wissenschaft/Biologie; Het virus verspreidt zich vooral via de lucht.; Das Virus verbreitet sich hauptsächlich über die Luft.
+nl-wi-0082; Gen; het gen; ; B2; Wissenschaft/Biologie; Een enkel gen kan de kleur van de ogen beïnvloeden.; Ein einzelnes Gen kann die Augenfarbe beeinflussen.
+nl-wi-0083; Vererbung; de erfelijkheid; de overerving; B2; Wissenschaft/Biologie; De erfelijkheid verklaart waarom kinderen op hun ouders lijken.; Die Vererbung erklärt, warum Kinder ihren Eltern ähneln.
+nl-wi-0084; Evolution; de evolutie; ; B2; Wissenschaft/Biologie; De evolutie werkt over vele miljoenen jaren.; Die Evolution wirkt über viele Millionen Jahre.
+nl-wi-0085; Art (Biologie); de soort; ; B1; Wissenschaft/Biologie; Deze zeldzame soort leeft maar op één eiland.; Diese seltene Art lebt nur auf einer Insel.
+nl-wi-0086; Lebensraum; het leefgebied; de habitat, de leefomgeving; B2; Wissenschaft/Biologie; De kikkers verliezen hun natuurlijke leefgebied.; Die Frösche verlieren ihren natürlichen Lebensraum.
+nl-wi-0087; Ökosystem; het ecosysteem; ; B2; Wissenschaft/Biologie; Een bos is een complex ecosysteem met ontelbare soorten.; Ein Wald ist ein komplexes Ökosystem mit unzähligen Arten.
+nl-wi-0088; Stoffwechsel; de stofwisseling; het metabolisme; C1; Wissenschaft/Biologie; Regelmatig bewegen versnelt de menselijke stofwisseling.; Regelmäßige Bewegung beschleunigt den menschlichen Stoffwechsel.
+nl-wi-0089; Photosynthese; de fotosynthese; ; B2; Wissenschaft/Biologie; Groene planten maken door fotosynthese zuurstof en suiker.; Grüne Pflanzen erzeugen durch Photosynthese Sauerstoff und Zucker.
+nl-wi-0090; Fortpflanzung; de voortplanting; de reproductie; B2; Wissenschaft/Biologie; De voortplanting van deze vissen hangt af van de watertemperatuur.; Die Fortpflanzung dieser Fische hängt von der Wassertemperatur ab.
+nl-wi-0091; Einzeller; de eencellige; het eencellige organisme; C2; Wissenschaft/Biologie; Onder de microscoop zagen we een eencellige.; Unter dem Mikroskop beobachteten wir einen Einzeller.
+nl-wi-0092; Artenvielfalt; de biodiversiteit; de soortenrijkdom; C1; Wissenschaft/Biologie; De biodiversiteit van het regenwoud wordt ernstig bedreigd.; Die Artenvielfalt des Regenwaldes ist ernsthaft bedroht.
+nl-wi-0093; Erbgut; het erfelijk materiaal; het genoom, het DNA; C1; Wissenschaft/Biologie; Het virus smokkelt zijn erfelijk materiaal de cel binnen.; Das Virus schleust sein Erbgut in die Zelle ein.
+nl-wi-0094; Zellkern; de celkern; ; C1; Wissenschaft/Biologie; De celkern bevat bijna alle erfelijke informatie.; Der Zellkern enthält fast die gesamte Erbinformation.
+nl-wi-0095; Zahl; het getal; ; A1; Wissenschaft/Mathematik; Zeven is bij elk spel mijn lievelingsgetal.; Sieben ist in jedem Spiel meine Lieblingszahl.
+nl-wi-0096; rechnen; rekenen; ; A2; Wissenschaft/Mathematik; De leerlingen rekenen vandaag zonder rekenmachine.; Die Schüler rechnen heute ohne Taschenrechner.
+nl-wi-0097; zählen; tellen; ; A2; Wissenschaft/Mathematik; De kleine jongen kan tot honderd tellen.; Der kleine Junge kann bis hundert zählen.
+nl-wi-0098; Prozent; het procent; procent, het percentage; A2; Wissenschaft/Mathematik; Ongeveer zeventig procent van de aarde is bedekt met water.; Etwa siebzig Prozent der Erde sind von Wasser bedeckt.
+nl-wi-0099; Hälfte; de helft; ; A2; Wissenschaft/Mathematik; De helft van de leerlingen koos het tweede antwoord.; Die Hälfte der Schüler wählte die zweite Antwort.
+nl-wi-0100; Dreieck; de driehoek; ; A2; Wissenschaft/Mathematik; Een driehoek heeft altijd drie hoeken en drie zijden.; Ein Dreieck hat immer drei Ecken und drei Seiten.
+nl-wi-0101; Kreis; de cirkel; ; A2; Wissenschaft/Mathematik; Teken een cirkel met een straal van vijf centimeter.; Zeichne einen Kreis mit einem Radius von fünf Zentimetern.
+nl-wi-0102; Quadrat; het vierkant; ; B1; Wissenschaft/Mathematik; Een vierkant heeft vier even lange zijden.; Ein Quadrat hat vier gleich lange Seiten.
+nl-wi-0103; Gleichung; de vergelijking; ; B1; Wissenschaft/Mathematik; Los de vergelijking op en controleer je antwoord.; Löse die Gleichung und überprüfe dein Ergebnis.
+nl-wi-0104; Bruch (Mathematik); de breuk; ; B1; Wissenschaft/Mathematik; Een breuk als een half is makkelijk voor te stellen.; Ein Bruch wie ein Halb ist leicht vorstellbar.
+nl-wi-0105; Durchschnitt; het gemiddelde; ; B1; Wissenschaft/Mathematik; Het gemiddelde van de drie cijfers is een acht.; Der Durchschnitt der drei Noten ist eine Acht.
+nl-wi-0106; Wahrscheinlichkeit; de waarschijnlijkheid; de kans; B2; Wissenschaft/Mathematik; De waarschijnlijkheid van regen morgen is heel klein.; Die Wahrscheinlichkeit für Regen morgen ist sehr gering.
+nl-wi-0107; Integralrechnung; de integraalrekening; ; C2; Wissenschaft/Mathematik; Met de integraalrekening bereken je oppervlakten onder krommen.; Mit der Integralrechnung berechnet man Flächen unter Kurven.
+nl-wi-0108; Fläche; de oppervlakte; het oppervlak; B1; Wissenschaft/Mathematik; Bereken de oppervlakte van de rechthoek in vierkante meters.; Berechne die Fläche des Rechtecks in Quadratmetern.
+nl-wi-0109; Volumen; het volume; de inhoud; B2; Wissenschaft/Mathematik; Het volume van de kubus is acht kubieke centimeter.; Das Volumen des Würfels beträgt acht Kubikzentimeter.
+nl-wi-0110; Winkel; de hoek; ; B1; Wissenschaft/Mathematik; Een rechte hoek heeft precies negentig graden.; Ein rechter Winkel hat genau neunzig Grad.
+nl-wi-0111; Statistik; de statistiek; ; B2; Wissenschaft/Mathematik; De statistiek toont een duidelijke trend over tien jaar.; Die Statistik zeigt einen klaren Trend über zehn Jahre.
+nl-wi-0112; unendlich; oneindig; eindeloos; B2; Wissenschaft/Mathematik; De reeks van priemgetallen is oneindig.; Die Reihe der Primzahlen ist unendlich.
+nl-wi-0113; Ableitung; de afgeleide; ; C2; Wissenschaft/Mathematik; De afgeleide beschrijft hoe snel een functie verandert.; Die Ableitung beschreibt, wie schnell sich eine Funktion ändert.
+nl-wi-0114; Primzahl; het priemgetal; ; C1; Wissenschaft/Mathematik; Zeventien is een priemgetal en dertien ook.; Siebzehn ist eine Primzahl und dreizehn auch.
+nl-wi-0115; Arzt; de arts; de dokter; A1; Wissenschaft/Medizin; De arts onderzoekt de patiënt heel grondig.; Der Arzt untersucht den Patienten sehr gründlich.
+nl-wi-0116; Krankheit; de ziekte; de aandoening; A2; Wissenschaft/Medizin; De ziekte verspreidde zich snel op school.; Die Krankheit verbreitete sich schnell in der Schule.
+nl-wi-0117; Medikament; het medicijn; het geneesmiddel, het medicament; A2; Wissenschaft/Medizin; Neem het medicijn twee keer per dag na het eten.; Nimm das Medikament zweimal täglich nach dem Essen.
+nl-wi-0118; Impfung; de vaccinatie; de inenting; B1; Wissenschaft/Medizin; De vaccinatie beschermt kinderen tegen gevaarlijke ziekten.; Die Impfung schützt Kinder vor gefährlichen Krankheiten.
+nl-wi-0119; Heilung; de genezing; ; B2; Wissenschaft/Medizin; Onderzoekers zoeken nog naar een genezing voor de ziekte.; Forscher suchen noch nach einer Heilung für die Krankheit.
+nl-wi-0120; heilen; genezen; helen; B1; Wissenschaft/Medizin; Dit kleine wondje geneest binnen twee weken.; Diese kleine Wunde heilt innerhalb von zwei Wochen.
+nl-wi-0121; Diagnose; de diagnose; ; B1; Wissenschaft/Medizin; De arts stelde heel snel de juiste diagnose.; Der Arzt stellte die richtige Diagnose sehr schnell.
+nl-wi-0122; Behandlung; de behandeling; de therapie; B1; Wissenschaft/Medizin; De nieuwe behandeling laat heel goede resultaten zien.; Die neue Behandlung zeigt sehr gute Ergebnisse.
+nl-wi-0123; Symptom; het symptoom; ; B1; Wissenschaft/Medizin; Koorts is vaak het eerste symptoom van een infectie.; Fieber ist oft das erste Symptom einer Infektion.
+nl-wi-0124; Nebenwirkung; de bijwerking; ; B2; Wissenschaft/Medizin; Hoofdpijn is een zeldzame bijwerking van dit medicijn.; Kopfschmerzen sind eine seltene Nebenwirkung dieses Medikaments.
+nl-wi-0125; klinische Studie; de klinische studie; het klinisch onderzoek, de klinische trial; C1; Wissenschaft/Medizin; Het nieuwe medicijn wordt in een klinische studie getest.; Das neue Medikament wird in einer klinischen Studie getestet.
+nl-wi-0126; Wirkstoff; de werkzame stof; het werkzame bestanddeel; C1; Wissenschaft/Medizin; De werkzame stof werd in een tropische plant ontdekt.; Der Wirkstoff wurde in einer tropischen Pflanze entdeckt.
+nl-wi-0127; Immunsystem; het immuunsysteem; het afweersysteem; B2; Wissenschaft/Medizin; Een sterk immuunsysteem weert de meeste infecties af.; Ein starkes Immunsystem wehrt die meisten Infektionen ab.
+nl-wi-0128; Ansteckung; de besmetting; de infectie; B2; Wissenschaft/Medizin; Was regelmatig je handen om besmetting te voorkomen.; Wasch dir regelmäßig die Hände, um eine Ansteckung zu vermeiden.
+nl-wi-0129; Narkose; de narcose; de verdoving, de anesthesie; C1; Wissenschaft/Medizin; De patiënt werd langzaam wakker uit de narcose.; Der Patient wachte langsam aus der Narkose auf.
+nl-wi-0130; Placebo; de placebo; het placebo; C1; Wissenschaft/Medizin; De helft van de deelnemers kreeg alleen een placebo.; Die Hälfte der Teilnehmer erhielt nur ein Placebo.
+nl-wi-0131; Sonne; de zon; ; A1; Wissenschaft/Raumfahrt; De zon komt elke ochtend op in het oosten.; Die Sonne geht jeden Morgen im Osten auf.
+nl-wi-0132; Mond; de maan; ; A1; Wissenschaft/Raumfahrt; De maan ziet er vannacht bijzonder groot uit.; Der Mond sieht heute Nacht besonders groß aus.
+nl-wi-0133; Stern; de ster; ; A1; Wissenschaft/Raumfahrt; In de woestijn zie je elke ster duidelijk.; In der Wüste sieht man jeden Stern deutlich.
+nl-wi-0134; Erde; de aarde; ; A1; Wissenschaft/Raumfahrt; De aarde draait één keer per jaar om de zon.; Die Erde umkreist die Sonne einmal im Jahr.
+nl-wi-0135; Himmel (Wetter, Sterne); de hemel; de lucht; A2; Wissenschaft/Raumfahrt; De nachthemel boven de bergen was vol sterren.; Der Nachthimmel über den Bergen war voller Sterne.
+nl-wi-0136; Rakete; de raket; ; A2; Wissenschaft/Raumfahrt; De raket werd vroeg in de ochtend gelanceerd.; Die Rakete startete früh am Morgen.
+nl-wi-0137; Planet; de planeet; ; A2; Wissenschaft/Raumfahrt; Mars is de vierde planeet vanaf de zon.; Der Mars ist der vierte Planet von der Sonne aus.
+nl-wi-0138; Weltraum; de ruimte; het heelal; B1; Wissenschaft/Raumfahrt; In de ruimte is er geen lucht om te ademen.; Im Weltraum gibt es keine Luft zum Atmen.
+nl-wi-0139; Astronaut; de astronaut; de ruimtevaarder; A2; Wissenschaft/Raumfahrt; De astronaut trainde jarenlang voor de missie.; Der Astronaut trainierte jahrelang für die Mission.
+nl-wi-0140; Raumschiff; het ruimteschip; het ruimtevaartuig; B1; Wissenschaft/Raumfahrt; Het ruimteschip koppelde na twee dagen aan het station.; Das Raumschiff dockte nach zwei Tagen an der Station an.
+nl-wi-0141; Satellit; de satelliet; ; B1; Wissenschaft/Raumfahrt; De satelliet stuurt elk uur weergegevens naar de aarde.; Der Satellit sendet stündlich Wetterdaten zur Erde.
+nl-wi-0142; Umlaufbahn; de omloopbaan; de baan; B2; Wissenschaft/Raumfahrt; De sonde kwam in een omloopbaan rond Jupiter.; Die Sonde trat in die Umlaufbahn des Jupiters ein.
+nl-wi-0143; Schwerelosigkeit; de gewichtloosheid; ; C1; Wissenschaft/Raumfahrt; In gewichtloosheid worden zelfs eenvoudige taken moeilijk.; In der Schwerelosigkeit werden selbst einfache Aufgaben schwierig.
+nl-wi-0144; Sternwarte; de sterrenwacht; het observatorium; C1; Wissenschaft/Raumfahrt; De oude sterrenwacht staat op een heuvel buiten de stad.; Die alte Sternwarte steht auf einem Hügel vor der Stadt.
+nl-wi-0145; Teleskop; de telescoop; de sterrenkijker; B1; Wissenschaft/Raumfahrt; Door de telescoop zagen we de ringen van Saturnus.; Durch das Teleskop sahen wir die Ringe des Saturns.
+nl-wi-0146; Galaxie; het sterrenstelsel; de galaxie; B2; Wissenschaft/Raumfahrt; Ons sterrenstelsel bevat vele miljarden sterren.; Unsere Galaxie enthält viele Milliarden Sterne.
+nl-wi-0147; Sonnensystem; het zonnestelsel; ; B2; Wissenschaft/Raumfahrt; Acht planeten draaien om de zon in ons zonnestelsel.; Acht Planeten umkreisen die Sonne in unserem Sonnensystem.
+nl-wi-0148; Schubkraft; de stuwkracht; ; C2; Wissenschaft/Raumfahrt; De motoren leveren genoeg stuwkracht voor de zware lancering.; Die Triebwerke liefern genug Schubkraft für den schweren Start.
+nl-wi-0149; Raumstation; het ruimtestation; ; B2; Wissenschaft/Raumfahrt; De bemanning woonde zes maanden op het ruimtestation.; Die Besatzung lebte sechs Monate auf der Raumstation.
+nl-wi-0150; Lichtjahr; het lichtjaar; ; B2; Wissenschaft/Raumfahrt; De dichtstbijzijnde ster is meer dan vier lichtjaar ver weg.; Der nächste Stern ist über vier Lichtjahre entfernt.

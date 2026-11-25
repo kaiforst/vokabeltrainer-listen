@@ -1,0 +1,444 @@
+# Niederländisch: Ausbau Gesellschaft: Politik, Recht, Religion, Feste, Geld und Wirtschaft im Alltag, Geschichte, Kultur und Kunst, Wissenschaft, Sport, Hobbys und Spiele
+id; Deutsch; Niederländisch; Weitere Antworten; Niveau; Themen; Beispiel Niederländisch; Beispiel Deutsch
+nl-xd-0001; Wahllokal; het stembureau; ; C1; Gesellschaft/Politik/Staat & Wahlen; Het stembureau gaat om acht uur 's ochtends open.; Das Wahllokal öffnet um acht Uhr morgens.
+nl-xd-0002; Stimmzettel; het stembiljet; ; C1; Gesellschaft/Politik/Staat & Wahlen; Zet een kruisje op het stembiljet.; Mach ein Kreuz auf dem Stimmzettel.
+nl-xd-0003; abstimmen; stemmen; ; B1; Gesellschaft/Politik/Demokratie; De klas stemde over de datum van het uitje.; Die Klasse stimmte über den Termin des Ausflugs ab.
+nl-xd-0004; Wahlergebnis; de verkiezingsuitslag; het verkiezingsresultaat; B1; Gesellschaft/Politik/Staat & Wahlen; De verkiezingsuitslag werd laat in de nacht bekendgemaakt.; Das Wahlergebnis wurde spät in der Nacht bekannt gegeben.
+nl-xd-0005; Ministerium; het ministerie; ; B1; Gesellschaft/Politik/Staat & Wahlen; Zij werkt voor het ministerie van Onderwijs.; Sie arbeitet für das Bildungsministerium.
+nl-xd-0006; Gesetzentwurf; het wetsvoorstel; het wetsontwerp; C1; Gesellschaft/Politik/Staat & Wahlen; Het parlement bespreekt volgende week het wetsvoorstel.; Das Parlament berät nächste Woche über den Gesetzentwurf.
+nl-xd-0007; Reform; de hervorming; ; B2; Gesellschaft/Politik/Staat & Wahlen; Veel leraren steunen de onderwijshervorming.; Viele Lehrer unterstützen die Schulreform.
+nl-xd-0008; Republik; de republiek; ; B1; Gesellschaft/Politik/Staat & Wahlen; Frankrijk is al lang een republiek.; Frankreich ist schon lange eine Republik.
+nl-xd-0009; Monarchie; de monarchie; ; B2; Gesellschaft/Politik/Staat & Wahlen; Spanje is een monarchie met een koning.; Spanien ist eine Monarchie mit einem König.
+nl-xd-0010; Königreich; het koninkrijk; ; B1; Gesellschaft/Politik/Staat & Wahlen; Noorwegen is een klein koninkrijk in het noorden.; Norwegen ist ein kleines Königreich im Norden.
+nl-xd-0011; national; nationaal; ; B1; Gesellschaft/Politik/Staat & Wahlen; Vandaag is het in Italië een nationale feestdag.; Heute ist in Italien ein nationaler Feiertag.
+nl-xd-0012; Volk; het volk; ; B1; Gesellschaft/Politik/Demokratie; In een democratie komt de macht van het volk.; In einer Demokratie geht die Macht vom Volk aus.
+nl-xd-0013; Unabhängigkeit; de onafhankelijkheid; ; B1; Gesellschaft/Politik/Staat & Wahlen; Het land vierde vijftig jaar onafhankelijkheid.; Das Land feierte fünfzig Jahre Unabhängigkeit.
+nl-xd-0014; Flagge; de vlag; ; A2; Gesellschaft/Politik/Staat & Wahlen; De vlag op het stadhuis is rood en wit.; Die Flagge auf dem Rathaus ist rot und weiß.
+nl-xd-0015; Nationalhymne; het volkslied; ; B1; Gesellschaft/Politik/Staat & Wahlen; De spelers zongen voor de wedstrijd het volkslied.; Die Spieler sangen vor dem Spiel die Nationalhymne.
+nl-xd-0016; Antrag (bei einer Behörde); de aanvraag; ; B1; Gesellschaft/Politik/Staat & Wahlen; Ik heb de aanvraag voor een nieuw paspoort ingevuld.; Ich habe den Antrag für einen neuen Pass ausgefüllt.
+nl-xd-0017; Bürokratie; de bureaucratie; ; C1; Gesellschaft/Politik/Staat & Wahlen; Veel kleine bedrijven klagen over te veel bureaucratie.; Viele kleine Firmen klagen über zu viel Bürokratie.
+nl-xd-0018; Stadtrat; de gemeenteraad; ; B2; Gesellschaft/Politik/Staat & Wahlen; De gemeenteraad stemde voor een nieuw zwembad.; Der Stadtrat stimmte für ein neues Schwimmbad.
+nl-xd-0019; Regierungschef; de regeringsleider; het regeringshoofd; B2; Gesellschaft/Politik/Staat & Wahlen; De regeringsleiders kwamen bijeen in Brussel.; Die Regierungschefs trafen sich in Brüssel.
+nl-xd-0020; Diktatur; de dictatuur; ; B1; Gesellschaft/Politik/Demokratie; Mensen in een dictatuur kunnen niet vrij spreken.; Menschen in einer Diktatur können nicht frei sprechen.
+nl-xd-0021; Diktator; de dictator; ; B1; Gesellschaft/Politik/Demokratie; De dictator heerste dertig jaar over het land.; Der Diktator beherrschte das Land dreißig Jahre lang.
+nl-xd-0022; Protest; het protest; ; B1; Gesellschaft/Politik/Demokratie; Duizenden studenten sloten zich bij het protest aan.; Tausende Studenten schlossen sich dem Protest an.
+nl-xd-0023; protestieren; protesteren; ; B1; Gesellschaft/Politik/Demokratie; Jonge mensen protesteerden tegen de nieuwe wet.; Junge Leute protestierten gegen das neue Gesetz.
+nl-xd-0024; Petition; de petitie; ; B2; Gesellschaft/Politik/Demokratie; Meer dan tienduizend mensen ondertekenden de petitie.; Über zehntausend Menschen unterschrieben die Petition.
+nl-xd-0025; Aktivist; de activist; ; B2; Gesellschaft/Politik/Demokratie; De activisten wilden meer bescherming voor het bos.; Die Aktivisten wollten mehr Schutz für den Wald.
+nl-xd-0026; radikal; radicaal; ; B2; Gesellschaft/Politik/Parteien; De partij wil radicale veranderingen in het belastingstelsel.; Die Partei will radikale Änderungen am Steuersystem.
+nl-xd-0027; Ideologie; de ideologie; ; C1; Gesellschaft/Politik/Parteien; Hun ideologie laat geen ruimte voor andere meningen.; Ihre Ideologie lässt keinen Raum für andere Meinungen.
+nl-xd-0028; Extremismus; het extremisme; ; C1; Gesellschaft/Politik/Demokratie; Scholen moeten jongeren leren om extremisme te herkennen.; Schulen sollten jungen Menschen beibringen, Extremismus zu erkennen.
+nl-xd-0029; Populismus; het populisme; ; C1; Gesellschaft/Politik/Parteien; Populisme biedt vaak simpele antwoorden op moeilijke vragen.; Populismus bietet oft einfache Antworten auf schwierige Fragen.
+nl-xd-0030; Parteivorsitzender; de partijvoorzitter; de partijleider; B2; Gesellschaft/Politik/Parteien; De partijvoorzitter hield na de verkiezingen een toespraak.; Der Parteivorsitzende hielt nach der Wahl eine Rede.
+nl-xd-0031; Wahlversprechen; de verkiezingsbelofte; ; B2; Gesellschaft/Politik/Parteien; De regering heeft veel van haar verkiezingsbeloften gebroken.; Die Regierung hat viele ihrer Wahlversprechen gebrochen.
+nl-xd-0032; Steuerzahler; de belastingbetaler; ; B2; Gesellschaft/Politik/Staat & Wahlen; De nieuwe brug heeft de belastingbetaler miljoenen gekost.; Die neue Brücke hat die Steuerzahler Millionen gekostet.
+nl-xd-0033; Botschaft (Vertretung); de ambassade; ; B1; Gesellschaft/Politik/Internationales; Een visum krijg je bij de ambassade.; Ein Visum bekommst du bei der Botschaft.
+nl-xd-0034; Konsulat; het consulaat; ; C1; Gesellschaft/Politik/Internationales; Het consulaat hielp hem nadat hij zijn paspoort had verloren.; Das Konsulat half ihm, nachdem er seinen Pass verloren hatte.
+nl-xd-0035; Gipfeltreffen; de top; de topontmoeting, de topconferentie; B2; Gesellschaft/Politik/Internationales; De top vindt volgend voorjaar in Parijs plaats.; Das Gipfeltreffen findet nächsten Frühling in Paris statt.
+nl-xd-0036; Sanktion; de sanctie; ; C1; Gesellschaft/Politik/Internationales; De Europese Unie besloot tot nieuwe sancties.; Die Europäische Union beschloss neue Sanktionen.
+nl-xd-0037; Krise; de crisis; ; B1; Gesellschaft/Politik/Internationales; De regering moest in de crisis snel handelen.; Die Regierung musste in der Krise schnell handeln.
+nl-xd-0038; Konflikt; het conflict; ; B1; Gesellschaft/Politik/Internationales; Beide partijen willen een vreedzaam einde van het conflict.; Beide Seiten wollen ein friedliches Ende des Konflikts.
+nl-xd-0039; Militär; het leger; de krijgsmacht; B1; Gesellschaft/Politik/Internationales; Het leger hielp na de overstroming.; Das Militär half nach dem Hochwasser.
+nl-xd-0040; Bürgerkrieg; de burgeroorlog; ; B2; Gesellschaft/Politik/Internationales; Miljoenen mensen vluchtten voor de burgeroorlog.; Millionen Menschen flohen vor dem Bürgerkrieg.
+nl-xd-0041; Waffenstillstand; de wapenstilstand; het staakt-het-vuren; C1; Gesellschaft/Politik/Internationales; De wapenstilstand begon zondag om middernacht.; Der Waffenstillstand begann am Sonntag um Mitternacht.
+nl-xd-0042; Friedensvertrag; het vredesverdrag; ; B2; Gesellschaft/Politik/Internationales; De twee landen ondertekenden een vredesverdrag.; Die beiden Länder unterzeichneten einen Friedensvertrag.
+nl-xd-0043; Terrorismus; het terrorisme; ; B2; Gesellschaft/Politik/Internationales; Veel landen werken samen tegen het terrorisme.; Viele Länder arbeiten gegen den Terrorismus zusammen.
+nl-xd-0044; Terroranschlag; de terreuraanslag; de terroristische aanslag; B2; Gesellschaft/Politik/Internationales; Bij de terreuraanslag raakte niemand gewond.; Bei dem Terroranschlag wurde niemand verletzt.
+nl-xd-0045; Geisel; de gijzelaar; ; B2; Gesellschaft/Politik/Internationales; Alle gijzelaars werden de volgende dag bevrijd.; Alle Geiseln wurden am nächsten Tag befreit.
+nl-xd-0046; Weltmacht; de wereldmacht; ; B2; Gesellschaft/Politik/Internationales; China is een wereldmacht geworden.; China ist zu einer Weltmacht geworden.
+nl-xd-0047; Supermacht; de supermacht; de grootmacht; B2; Gesellschaft/Politik/Internationales; Tijdens de Koude Oorlog waren er twee supermachten.; Während des Kalten Krieges gab es zwei Supermächte.
+nl-xd-0048; Atomwaffe; het kernwapen; het atoomwapen; B2; Gesellschaft/Politik/Internationales; Veel mensen willen een wereld zonder kernwapens.; Viele Menschen wollen eine Welt ohne Atomwaffen.
+nl-xd-0049; Entwicklungsland; het ontwikkelingsland; ; B2; Gesellschaft/Politik/Internationales; Schoon water is in veel ontwikkelingslanden nog een probleem.; Sauberes Wasser ist in vielen Entwicklungsländern noch ein Problem.
+nl-xd-0050; Entwicklungshilfe; de ontwikkelingshulp; de ontwikkelingssamenwerking; C1; Gesellschaft/Politik/Internationales; Het land krijgt ontwikkelingshulp voor nieuwe scholen.; Das Land erhält Entwicklungshilfe für neue Schulen.
+nl-xd-0051; Globalisierung; de globalisering; de mondialisering; B2; Gesellschaft/Politik/Internationales; De globalisering heeft onze manier van werken veranderd.; Die Globalisierung hat unsere Art zu arbeiten verändert.
+nl-xd-0052; sozial; sociaal; ; B1; Gesellschaft/Soziales; De stad wil meer sociale woningbouw voor gezinnen.; Die Stadt will mehr sozialen Wohnungsbau für Familien.
+nl-xd-0053; Obdachloser; de dakloze; ; B1; Gesellschaft/Soziales; Een dakloze sliep in het portiek.; Ein Obdachloser schlief im Hauseingang.
+nl-xd-0054; Sozialhilfe; de bijstand; de bijstandsuitkering; C1; Gesellschaft/Soziales; Na het verlies van zijn baan leefde hij van de bijstand.; Nachdem er seine Arbeit verloren hatte, lebte er von Sozialhilfe.
+nl-xd-0055; Wohltätigkeit; de liefdadigheid; ; B2; Gesellschaft/Soziales; Mijn oma zet zich erg in voor liefdadigheid.; Meine Großmutter engagiert sich sehr für Wohltätigkeit.
+nl-xd-0056; Hilfsorganisation; de hulporganisatie; ; B2; Gesellschaft/Soziales; Een hulporganisatie bracht voedsel naar het dorp.; Eine Hilfsorganisation brachte Lebensmittel in das Dorf.
+nl-xd-0057; Rassismus; het racisme; ; B1; Gesellschaft/Soziales; De voetbalclub nam duidelijk stelling tegen racisme.; Der Fußballverein bezog klar Stellung gegen Rassismus.
+nl-xd-0058; rassistisch; racistisch; ; B2; Gesellschaft/Soziales; De opmerking was racistisch en kwetste veel mensen.; Der Kommentar war rassistisch und verletzte viele Menschen.
+nl-xd-0059; Toleranz; de tolerantie; de verdraagzaamheid; B1; Gesellschaft/Soziales; Samenleven vraagt tolerantie en respect.; Zusammenleben braucht Toleranz und Respekt.
+nl-xd-0060; Mittelschicht; de middenklasse; ; B2; Gesellschaft/Soziales; Ook voor de middenklasse stijgen de prijzen.; Auch für die Mittelschicht steigen die Preise.
+nl-xd-0061; Arbeiterklasse; de arbeidersklasse; ; B2; Gesellschaft/Soziales; Mijn opa kwam uit de arbeidersklasse.; Mein Großvater kam aus der Arbeiterklasse.
+nl-xd-0062; Oberschicht; de bovenlaag; de hogere klasse, de elite; C1; Gesellschaft/Soziales; Vroeger kon alleen de bovenlaag studeren.; Früher konnte nur die Oberschicht studieren.
+nl-xd-0063; Privatsphäre; de privacy; de privésfeer; B2; Gesellschaft/Soziales; Iedereen heeft recht op privacy.; Jeder hat ein Recht auf Privatsphäre.
+nl-xd-0064; Feminismus; het feminisme; ; C1; Gesellschaft/Soziales; Haar boek gaat over de geschiedenis van het feminisme.; Ihr Buch handelt von der Geschichte des Feminismus.
+nl-xd-0065; Flucht; de vlucht; ; B1; Gesellschaft/Soziales; Het gezin vertelde ons over hun vlucht voor de oorlog.; Die Familie erzählte uns von ihrer Flucht vor dem Krieg.
+nl-xd-0066; auswandern; emigreren; ; B1; Gesellschaft/Soziales; Mijn tante is twintig jaar geleden naar Canada geëmigreerd.; Meine Tante ist vor zwanzig Jahren nach Kanada ausgewandert.
+nl-xd-0067; einwandern; immigreren; ; B2; Gesellschaft/Soziales; Haar ouders zijn in de jaren zeventig naar Duitsland geïmmigreerd.; Ihre Eltern sind in den Siebzigern nach Deutschland eingewandert.
+nl-xd-0068; Migrant; de migrant; ; B2; Gesellschaft/Soziales; Veel migranten werken in de ziekenhuizen van grote steden.; Viele Migranten arbeiten in den Krankenhäusern großer Städte.
+nl-xd-0069; Asyl; het asiel; ; C1; Gesellschaft/Soziales; De jonge man vroeg in Duitsland asiel aan.; Der junge Mann bat in Deutschland um Asyl.
+nl-xd-0070; Asylbewerber; de asielzoeker; ; B2; Gesellschaft/Soziales; De asielzoekers leren op de avondschool Duits.; Die Asylbewerber lernen an der Abendschule Deutsch.
+nl-xd-0071; Dieb; de dief; ; A2; Gesellschaft/Recht; De dief rende weg met mijn handtas.; Der Dieb rannte mit meiner Handtasche davon.
+nl-xd-0072; Diebstahl; de diefstal; ; B1; Gesellschaft/Recht; Zij deed aangifte van de diefstal van haar auto.; Sie zeigte den Diebstahl ihres Autos an.
+nl-xd-0073; Taschendieb; de zakkenroller; ; B1; Gesellschaft/Recht; Let in de volle trein op zakkenrollers.; Pass im vollen Zug auf Taschendiebe auf.
+nl-xd-0074; Ladendiebstahl; de winkeldiefstal; ; B2; Gesellschaft/Recht; De winkel heeft camera's vanwege winkeldiefstal.; Das Geschäft hat wegen Ladendiebstahl Kameras.
+nl-xd-0075; Einbruch; de inbraak; ; B1; Gesellschaft/Recht; Vannacht was er een inbraak in onze straat.; Letzte Nacht gab es einen Einbruch in unserer Straße.
+nl-xd-0076; Einbrecher; de inbreker; ; B1; Gesellschaft/Recht; De inbreker kwam door het keukenraam binnen.; Der Einbrecher kam durch das Küchenfenster herein.
+nl-xd-0077; Raub; de roof; de overval, de beroving; B2; Gesellschaft/Recht; Na de roof werden twee mannen aangehouden.; Nach dem Raub wurden zwei Männer festgenommen.
+nl-xd-0078; Räuber; de rover; de overvaller; B1; Gesellschaft/Recht; De rovers vluchtten in een zwarte auto.; Die Räuber flohen in einem schwarzen Auto.
+nl-xd-0079; Mord; de moord; ; B1; Gesellschaft/Recht; De commissaris probeert de moord op te lossen.; Der Kommissar versucht, den Mord aufzuklären.
+nl-xd-0080; Mörder; de moordenaar; ; B1; Gesellschaft/Recht; Aan het eind van het boek horen we wie de moordenaar is.; Am Ende des Buches erfahren wir, wer der Mörder ist.
+nl-xd-0081; ermorden; vermoorden; ; B2; Gesellschaft/Recht; De koning werd door zijn eigen broer vermoord.; Der König wurde von seinem eigenen Bruder ermordet.
+nl-xd-0082; töten; doden; ; B1; Gesellschaft/Recht; De jager wilde de ree niet doden.; Der Jäger wollte das Reh nicht töten.
+nl-xd-0083; Betrug; het bedrog; de oplichting, de fraude; B2; Gesellschaft/Recht; Hij kwam wegens bedrog in de gevangenis.; Er kam wegen Betrugs ins Gefängnis.
+nl-xd-0084; Betrüger; de oplichter; de bedrieger, de fraudeur; B2; Gesellschaft/Recht; Een oplichter belde en vroeg naar haar bankgegevens.; Ein Betrüger rief an und fragte nach ihren Bankdaten.
+nl-xd-0085; Verdächtiger; de verdachte; ; B2; Gesellschaft/Recht; De politie zoekt nog naar de verdachte.; Die Polizei sucht noch nach dem Verdächtigen.
+nl-xd-0086; verdächtigen; verdenken; ; B2; Gesellschaft/Recht; De politie verdenkt de buurman van de diefstal.; Die Polizei verdächtigt den Nachbarn des Diebstahls.
+nl-xd-0087; verhaften; arresteren; aanhouden; B1; Gesellschaft/Recht; De politie arresteerde de man op het vliegveld.; Die Polizei verhaftete den Mann am Flughafen.
+nl-xd-0088; Gefangener; de gevangene; ; B1; Gesellschaft/Recht; De gevangenen mogen een keer per week hun familie bellen.; Die Gefangenen dürfen einmal pro Woche ihre Familien anrufen.
+nl-xd-0089; Gefängnisstrafe; de gevangenisstraf; de celstraf; B2; Gesellschaft/Recht; Hij kreeg een gevangenisstraf van drie jaar.; Er bekam eine Gefängnisstrafe von drei Jahren.
+nl-xd-0090; Geldstrafe; de boete; de geldboete; B1; Gesellschaft/Recht; Zij moest een boete van tweehonderd euro betalen.; Sie musste eine Geldstrafe von zweihundert Euro zahlen.
+nl-xd-0091; Todesstrafe; de doodstraf; ; B2; Gesellschaft/Recht; In de Europese Unie bestaat geen doodstraf.; In der Europäischen Union gibt es keine Todesstrafe.
+nl-xd-0092; Bewährung; voorwaardelijk; de proeftijd, de voorwaardelijke straf; C1; Gesellschaft/Recht; De jonge bestuurder kreeg zes maanden voorwaardelijk.; Der junge Fahrer bekam sechs Monate auf Bewährung.
+nl-xd-0093; Ermittlung; het onderzoek; het politieonderzoek; B2; Gesellschaft/Recht; Het onderzoek duurde meer dan een jaar.; Die Ermittlung dauerte mehr als ein Jahr.
+nl-xd-0094; ermitteln; onderzoeken; ; B2; Gesellschaft/Recht; De politie onderzoekt de oorzaak van de brand.; Die Polizei ermittelt die Ursache des Brandes.
+nl-xd-0095; Detektiv; de detective; de speurder; A2; Gesellschaft/Recht; De detective vond een belangrijke aanwijzing.; Der Detektiv fand einen wichtigen Hinweis.
+nl-xd-0096; Kriminalität; de criminaliteit; de misdaad; B2; Gesellschaft/Recht; De criminaliteit in de binnenstad is gedaald.; Die Kriminalität in der Innenstadt ist gesunken.
+nl-xd-0097; gewalttätig; gewelddadig; ; B2; Gesellschaft/Recht; In de avond werd het protest gewelddadig.; Am Abend wurde der Protest gewalttätig.
+nl-xd-0098; Pistole; het pistool; ; B1; Gesellschaft/Recht; De overvaller hield een pistool in zijn hand.; Der Räuber hielt eine Pistole in der Hand.
+nl-xd-0099; Handschellen; de handboeien; ; B2; Gesellschaft/Recht; De politieagent deed de dief handboeien om.; Der Polizist legte dem Dieb Handschellen an.
+nl-xd-0100; illegal; illegaal; ; B1; Gesellschaft/Recht; Voor de school parkeren is illegaal.; Vor der Schule zu parken ist illegal.
+nl-xd-0101; Verbot; het verbod; ; B1; Gesellschaft/Recht; In de oude binnenstad geldt een verbod op vuurwerk.; In der Altstadt gibt es ein Verbot für Feuerwerk.
+nl-xd-0102; Vorschrift; het voorschrift; de regel; B2; Gesellschaft/Recht; Volgens de voorschriften moeten honden aan de lijn.; Laut Vorschrift müssen Hunde an der Leine sein.
+nl-xd-0103; Prozess (vor Gericht); het proces; de rechtszaak; B2; Gesellschaft/Recht; Het proces begint in maart.; Der Prozess beginnt im März.
+nl-xd-0104; Gerichtssaal; de rechtszaal; ; B2; Gesellschaft/Recht; Tientallen journalisten wachtten voor de rechtszaal.; Dutzende Journalisten warteten vor dem Gerichtssaal.
+nl-xd-0105; anklagen; aanklagen; ; B2; Gesellschaft/Recht; De man werd aangeklaagd wegens diefstal.; Der Mann wurde wegen Diebstahls angeklagt.
+nl-xd-0106; Zeugenaussage; de getuigenverklaring; de getuigenis; C1; Gesellschaft/Recht; Haar getuigenverklaring hielp de rechter bij de beslissing.; Ihre Zeugenaussage half dem Richter bei der Entscheidung.
+nl-xd-0107; Freispruch; de vrijspraak; ; C1; Gesellschaft/Recht; Het proces eindigde in vrijspraak.; Der Prozess endete mit einem Freispruch.
+nl-xd-0108; Lösegeld; het losgeld; ; C1; Gesellschaft/Recht; De ontvoerders eisten een enorm losgeld.; Die Entführer forderten ein riesiges Lösegeld.
+nl-xd-0109; entführen; ontvoeren; ; B2; Gesellschaft/Recht; Het meisje in de film wordt door piraten ontvoerd.; Das Mädchen im Film wird von Piraten entführt.
+nl-xd-0110; Entführung; de ontvoering; ; B2; Gesellschaft/Recht; De ontvoering stond in alle kranten.; Die Entführung stand in allen Zeitungen.
+nl-xd-0111; erpressen; chanteren; afpersen; C1; Gesellschaft/Recht; Iemand probeerde de minister met foto's te chanteren.; Jemand versuchte, den Minister mit Fotos zu erpressen.
+nl-xd-0112; Bestechung; de omkoping; de corruptie; C1; Gesellschaft/Recht; De burgemeester werd beschuldigd van omkoping.; Der Bürgermeister wurde der Bestechung beschuldigt.
+nl-xd-0113; fälschen; vervalsen; ; B2; Gesellschaft/Recht; Hij vervalste de handtekening van zijn vader op de brief.; Er fälschte die Unterschrift seines Vaters auf dem Brief.
+nl-xd-0114; schmuggeln; smokkelen; ; B2; Gesellschaft/Recht; Zij probeerden sigaretten over de grens te smokkelen.; Sie versuchten, Zigaretten über die Grenze zu schmuggeln.
+nl-xd-0115; Vandalismus; het vandalisme; ; C1; Gesellschaft/Recht; Het bushokje werd door vandalisme vernield.; Das Wartehäuschen wurde durch Vandalismus zerstört.
+nl-xd-0116; Eigentum; het eigendom; ; B2; Gesellschaft/Recht; Het terrein is eigendom van de gemeente.; Das Grundstück ist Eigentum der Stadt.
+nl-xd-0117; Gott; God; ; A2; Gesellschaft/Religion; Veel mensen in het dorp geloven in God.; Viele Menschen im Dorf glauben an Gott.
+nl-xd-0118; beten; bidden; ; A2; Gesellschaft/Religion; Mijn oma bidt elke avond voor het slapengaan.; Meine Großmutter betet jeden Abend vor dem Schlafengehen.
+nl-xd-0119; Gebet; het gebed; ; B1; Gesellschaft/Religion; De kinderen zeiden voor het middageten een kort gebed.; Die Kinder sprachen vor dem Mittagessen ein kurzes Gebet.
+nl-xd-0120; Gottesdienst; de kerkdienst; de dienst, de mis; B1; Gesellschaft/Religion; De kerkdienst begint zondag om tien uur.; Der Gottesdienst beginnt am Sonntag um zehn.
+nl-xd-0121; Priester; de priester; ; B1; Gesellschaft/Religion; De priester begroette iedereen bij de deur.; Der Priester begrüßte alle an der Tür.
+nl-xd-0122; Pfarrer; de pastoor; de dominee, de predikant; B1; Gesellschaft/Religion; De pastoor van ons dorp is heel vriendelijk.; Der Pfarrer unseres Dorfes ist sehr freundlich.
+nl-xd-0123; Bibel; de Bijbel; ; A2; Gesellschaft/Religion; De Bijbel is in veel talen vertaald.; Die Bibel wurde in viele Sprachen übersetzt.
+nl-xd-0124; Koran; de Koran; ; B1; Gesellschaft/Religion; Hij leest elke dag een paar bladzijden in de Koran.; Er liest jeden Tag ein paar Seiten im Koran.
+nl-xd-0125; Christ; de christen; ; B1; Gesellschaft/Religion; Christenen over de hele wereld vieren Kerstmis en Pasen.; Christen auf der ganzen Welt feiern Weihnachten und Ostern.
+nl-xd-0126; Christentum; het christendom; ; B1; Gesellschaft/Religion; Het christendom kwam al heel vroeg naar deze streek.; Das Christentum kam sehr früh in diese Gegend.
+nl-xd-0127; Islam; de islam; ; B1; Gesellschaft/Religion; In de godsdienstles hebben we iets over de islam geleerd.; Im Religionsunterricht haben wir etwas über den Islam gelernt.
+nl-xd-0128; Muslim; de moslim; ; B1; Gesellschaft/Religion; Veel moslims eten tijdens de ramadan overdag niets.; Viele Muslime essen im Ramadan tagsüber nichts.
+nl-xd-0129; Ramadan; de ramadan; ; B1; Gesellschaft/Religion; De ramadan eindigt met een groot feest.; Der Ramadan endet mit einem großen Fest.
+nl-xd-0130; Judentum; het jodendom; ; B2; Gesellschaft/Religion; Het jodendom is een van de oudste religies ter wereld.; Das Judentum ist eine der ältesten Religionen der Welt.
+nl-xd-0131; jüdisch; joods; ; B1; Gesellschaft/Religion; We hebben het Joods Museum in Berlijn bezocht.; Wir haben das Jüdische Museum in Berlin besucht.
+nl-xd-0132; Buddhismus; het boeddhisme; ; B2; Gesellschaft/Religion; In Thailand raakte ze geïnteresseerd in het boeddhisme.; In Thailand begann sie sich für den Buddhismus zu interessieren.
+nl-xd-0133; Hinduismus; het hindoeïsme; ; B2; Gesellschaft/Religion; Het hindoeïsme is de belangrijkste religie in India.; Der Hinduismus ist die wichtigste Religion in Indien.
+nl-xd-0134; Moschee; de moskee; ; B1; Gesellschaft/Religion; De nieuwe moskee heeft een hoge witte toren.; Die neue Moschee hat einen hohen weißen Turm.
+nl-xd-0135; Synagoge; de synagoge; ; B1; Gesellschaft/Religion; De oude synagoge is nu een museum.; Die alte Synagoge ist heute ein Museum.
+nl-xd-0136; Tempel; de tempel; ; A2; Gesellschaft/Religion; Voordat we de tempel binnengingen, deden we onze schoenen uit.; Bevor wir den Tempel betraten, zogen wir die Schuhe aus.
+nl-xd-0137; Kloster; het klooster; ; B1; Gesellschaft/Religion; De monniken in dit klooster brouwen hun eigen bier.; Die Mönche in diesem Kloster brauen ihr eigenes Bier.
+nl-xd-0138; Mönch; de monnik; ; B1; Gesellschaft/Religion; De monnik leefde alleen in de bergen.; Der Mönch lebte allein in den Bergen.
+nl-xd-0139; Nonne; de non; de zuster; B1; Gesellschaft/Religion; De nonnen leiden een kleine meisjesschool.; Die Nonnen leiten eine kleine Mädchenschule.
+nl-xd-0140; Papst; de paus; ; B1; Gesellschaft/Religion; De paus woont in het Vaticaan in Rome.; Der Papst lebt im Vatikan in Rom.
+nl-xd-0141; Bischof; de bisschop; ; B2; Gesellschaft/Religion; De bisschop bezocht afgelopen zondag onze kerk.; Der Bischof besuchte letzten Sonntag unsere Kirche.
+nl-xd-0142; Engel; de engel; ; A2; Gesellschaft/Religion; Boven in de boom zit een kleine gouden engel.; Oben auf dem Baum sitzt ein kleiner goldener Engel.
+nl-xd-0143; Teufel; de duivel; ; B1; Gesellschaft/Religion; In het verhaal wil de duivel een ziel kopen.; In der Geschichte will der Teufel eine Seele kaufen.
+nl-xd-0144; Seele; de ziel; ; B1; Gesellschaft/Religion; Veel religies geloven dat de ziel voortleeft.; Viele Religionen glauben, dass die Seele weiterlebt.
+nl-xd-0145; Sünde; de zonde; ; B2; Gesellschaft/Religion; In de Bijbel is liegen een zonde.; In der Bibel ist Lügen eine Sünde.
+nl-xd-0146; heilig; heilig; ; B1; Gesellschaft/Religion; Jeruzalem is voor drie religies een heilige stad.; Jerusalem ist für drei Religionen eine heilige Stadt.
+nl-xd-0147; Heiliger; de heilige; ; B2; Gesellschaft/Religion; De kerk is genoemd naar een heilige uit de streek.; Die Kirche ist nach einem Heiligen aus der Gegend benannt.
+nl-xd-0148; Kreuz; het kruis; ; A2; Gesellschaft/Religion; Boven de deur hangt een houten kruis.; Über der Tür hängt ein Kreuz aus Holz.
+nl-xd-0149; taufen; dopen; ; C1; Gesellschaft/Religion; De baby werd in de dorpskerk gedoopt.; Das Baby wurde in der Dorfkirche getauft.
+nl-xd-0150; Konfirmation; de belijdenis; de confirmatie; C1; Gesellschaft/Religion; Voor haar belijdenis kreeg ze van haar tante een horloge.; Zur Konfirmation bekam sie von ihrer Tante eine Uhr.
+nl-xd-0151; segnen; zegenen; ; B2; Gesellschaft/Religion; De pastoor zegende het jonge paar.; Der Pfarrer segnete das junge Paar.
+nl-xd-0152; Segen; de zegen; ; B2; Gesellschaft/Religion; Het paar vroeg om de zegen van de kerk.; Das Paar bat um den Segen der Kirche.
+nl-xd-0153; fasten; vasten; ; B2; Gesellschaft/Religion; Sommige mensen vasten veertig dagen voor Pasen.; Manche Menschen fasten vierzig Tage vor Ostern.
+nl-xd-0154; Pilger; de pelgrim; ; C1; Gesellschaft/Religion; Elk jaar lopen duizenden pelgrims naar Santiago.; Jedes Jahr wandern Tausende Pilger nach Santiago.
+nl-xd-0155; Atheist; de atheïst; ; C1; Gesellschaft/Religion; Hij is atheïst en gaat niet naar de kerk.; Er ist Atheist und geht nicht in die Kirche.
+nl-xd-0156; Religionsfreiheit; de godsdienstvrijheid; de vrijheid van godsdienst; B2; Gesellschaft/Religion; Godsdienstvrijheid is een belangrijk grondrecht.; Religionsfreiheit ist ein wichtiges Grundrecht.
+nl-xd-0157; Ritual; het ritueel; ; B2; Gesellschaft/Religion; Kaarsen aansteken is een oud ritueel.; Kerzen anzuzünden ist ein altes Ritual.
+nl-xd-0158; Zeremonie; de ceremonie; de plechtigheid; B1; Gesellschaft/Religion; De ceremonie vond plaats in een kleine kapel.; Die Zeremonie fand in einer kleinen Kapelle statt.
+nl-xd-0159; Meditation; de meditatie; ; B1; Gesellschaft/Religion; Tien minuten meditatie helpen mij om te ontspannen.; Zehn Minuten Meditation helfen mir beim Entspannen.
+nl-xd-0160; Weihnachten; Kerstmis; kerst; A1; Freizeit/Feste & Feiern; We bezoeken mijn grootouders elk jaar met Kerstmis.; Wir besuchen meine Großeltern jedes Jahr an Weihnachten.
+nl-xd-0161; Weihnachtsbaum; de kerstboom; ; A1; Freizeit/Feste & Feiern; De kinderen versieren de kerstboom.; Die Kinder schmücken den Weihnachtsbaum.
+nl-xd-0162; Weihnachtsmann; de kerstman; ; A1; Freizeit/Feste & Feiern; De kerstman brengt de cadeaus in de nacht.; Der Weihnachtsmann bringt die Geschenke in der Nacht.
+nl-xd-0163; Heiligabend; kerstavond; de kerstavond; A2; Freizeit/Feste & Feiern; Op kerstavond pakken we onze cadeaus uit.; An Heiligabend packen wir unsere Geschenke aus.
+nl-xd-0164; Advent; de advent; de adventstijd; B1; Freizeit/Feste & Feiern; In de advent steken we elke zondag een nieuwe kaars aan.; Im Advent zünden wir jeden Sonntag eine neue Kerze an.
+nl-xd-0165; Ostern; Pasen; ; A1; Freizeit/Feste & Feiern; Met Pasen komt de hele familie op bezoek.; An Ostern kommt die ganze Familie zu Besuch.
+nl-xd-0166; Osterei; het paasei; ; A1; Freizeit/Feste & Feiern; De kinderen zoeken paaseieren in de tuin.; Die Kinder suchen im Garten Ostereier.
+nl-xd-0167; Pfingsten; Pinksteren; ; B1; Freizeit/Feste & Feiern; Met Pinksteren gaan we kamperen.; An Pfingsten fahren wir zum Zelten.
+nl-xd-0168; Silvester; oudejaarsavond; oud en nieuw, oudjaar; A2; Freizeit/Feste & Feiern; Op oudejaarsavond kijken we naar het vuurwerk.; An Silvester schauen wir uns das Feuerwerk an.
+nl-xd-0169; Neujahr; nieuwjaar; nieuwjaarsdag; A2; Freizeit/Feste & Feiern; Op nieuwjaarsdag slaapt iedereen lang.; An Neujahr schlafen alle lange.
+nl-xd-0170; Karneval; carnaval; het carnaval; A2; Freizeit/Feste & Feiern; Met carnaval verkleden de kinderen zich als piraten.; Im Karneval verkleiden sich die Kinder als Piraten.
+nl-xd-0171; Muttertag; moederdag; ; A2; Freizeit/Feste & Feiern; Op moederdag maak ik ontbijt voor mama.; Am Muttertag mache ich meiner Mama Frühstück.
+nl-xd-0172; Valentinstag; valentijnsdag; ; A2; Freizeit/Feste & Feiern; Hij stuurde haar op valentijnsdag rode rozen.; Er schickte ihr am Valentinstag rote Rosen.
+nl-xd-0173; Halloween; Halloween; ; A2; Freizeit/Feste & Feiern; Met Halloween gaan kinderen van deur tot deur.; An Halloween gehen Kinder von Tür zu Tür.
+nl-xd-0174; Fest (Feier); het feest; ; A2; Freizeit/Feste & Feiern; Het hele dorp kwam naar het feest op het marktplein.; Das ganze Dorf kam zum Fest auf dem Marktplatz.
+nl-xd-0175; Gastgeber; de gastheer; de gastvrouw; B1; Freizeit/Feste & Feiern; Onze gastheer en gastvrouw hadden een heerlijk diner gekookt.; Unsere Gastgeber hatten ein wunderbares Abendessen gekocht.
+nl-xd-0176; Luftballon; de ballon; ; A1; Freizeit/Feste & Feiern; We hebben vijftig ballonnen nodig voor het feest.; Wir brauchen fünfzig Luftballons für die Party.
+nl-xd-0177; gratulieren; feliciteren; gelukwensen; A2; Freizeit/Feste & Feiern; We hebben haar allemaal gefeliciteerd met haar verjaardag.; Wir haben ihr alle zum Geburtstag gratuliert.
+nl-xd-0178; Glückwunsch; de gelukwens; de felicitatie; A2; Freizeit/Feste & Feiern; Hartelijke gelukwensen met het behalen van je rijbewijs!; Herzlichen Glückwunsch zur bestandenen Führerscheinprüfung!
+nl-xd-0179; Geldschein; het bankbiljet; het briefje; A2; Wirtschaft/Finanzen/Geld & Zahlung; De automaat neemt geen grote bankbiljetten aan.; Der Automat nimmt keine großen Geldscheine.
+nl-xd-0180; Kleingeld; het kleingeld; ; A2; Wirtschaft/Finanzen/Geld & Zahlung; Heb je kleingeld voor de parkeermeter?; Hast du Kleingeld für die Parkuhr?
+nl-xd-0181; Taschengeld; het zakgeld; ; A2; Wirtschaft/Finanzen/Geld & Zahlung; Ik krijg tien euro zakgeld per week.; Ich bekomme zehn Euro Taschengeld in der Woche.
+nl-xd-0182; Sparschwein; het spaarvarken; de spaarpot; A2; Wirtschaft/Finanzen/Geld & Zahlung; Zij stopt elke munt in haar spaarvarken.; Sie steckt jede Münze in ihr Sparschwein.
+nl-xd-0183; Ersparnisse; het spaargeld; de spaarcenten; B1; Wirtschaft/Finanzen/Geld & Zahlung; Ze hebben al hun spaargeld aan de reis uitgegeven.; Sie haben ihre ganzen Ersparnisse für die Reise ausgegeben.
+nl-xd-0184; Finanzen; de financiën; ; B1; Wirtschaft/Finanzen/Geld & Zahlung; Mijn vader zorgt voor de financiën van het gezin.; Mein Vater kümmert sich um die Finanzen der Familie.
+nl-xd-0185; finanziell; financieel; ; B1; Wirtschaft/Finanzen/Geld & Zahlung; Veel studenten hebben aan het eind van de maand financiële problemen.; Viele Studenten haben am Monatsende finanzielle Probleme.
+nl-xd-0186; finanzieren; financieren; ; B2; Wirtschaft/Finanzen/Geld & Zahlung; Hoe wil je je studie financieren?; Wie willst du dein Studium finanzieren?
+nl-xd-0187; Luxus; de luxe; ; B1; Wirtschaft/Finanzen/Geld & Zahlung; Een taxi is een luxe die ik mezelf zelden gun.; Ein Taxi ist ein Luxus, den ich mir selten gönne.
+nl-xd-0188; kostbar; kostbaar; waardevol; B2; Wirtschaft/Finanzen/Geld & Zahlung; Het museum bewaart de kostbare stenen in een kluis.; Das Museum bewahrt die kostbaren Steine in einem Tresor auf.
+nl-xd-0189; Falschgeld; het valse geld; vals geld, het nepgeld; B2; Wirtschaft/Finanzen/Geld & Zahlung; De verkoopster merkte het valse geld op.; Die Verkäuferin bemerkte das Falschgeld.
+nl-xd-0190; Geldsorgen; de geldzorgen; de financiële zorgen; B2; Wirtschaft/Finanzen/Geld & Zahlung; Sinds hij zijn baan heeft verloren, heeft hij geldzorgen.; Seit er seine Arbeit verloren hat, hat er Geldsorgen.
+nl-xd-0191; verschwenderisch; verkwistend; ; B2; Wirtschaft/Finanzen/Geld & Zahlung; Het is verkwistend om goed eten weg te gooien.; Es ist verschwenderisch, gutes Essen wegzuwerfen.
+nl-xd-0192; Kaution; de borg; de waarborgsom, de borgsom; B2; Wirtschaft/Finanzen/Geld & Zahlung; We hebben een borg van twee maanden huur betaald.; Wir haben eine Kaution von zwei Monatsmieten bezahlt.
+nl-xd-0193; Rate; de termijn; de aflossing, de afbetaling; B2; Wirtschaft/Finanzen/Geld & Zahlung; We betalen de auto in maandelijkse termijnen.; Wir bezahlen das Auto in monatlichen Raten.
+nl-xd-0194; Bankkonto; de bankrekening; ; A2; Wirtschaft/Finanzen/Bank; Voor je salaris heb je een bankrekening nodig.; Für dein Gehalt brauchst du ein Bankkonto.
+nl-xd-0195; Kontonummer; het rekeningnummer; ; A2; Wirtschaft/Finanzen/Bank; Schrijf alsjeblieft je rekeningnummer op het formulier.; Bitte schreib deine Kontonummer auf das Formular.
+nl-xd-0196; Bankkarte; de bankpas; de pinpas, de betaalpas; A2; Wirtschaft/Finanzen/Bank; De automaat heeft mijn bankpas ingeslikt.; Der Automat hat meine Bankkarte eingezogen.
+nl-xd-0197; Kontostand; het saldo; het banksaldo, het rekeningsaldo; B1; Wirtschaft/Finanzen/Bank; Ik controleer mijn saldo op mijn telefoon.; Ich prüfe meinen Kontostand auf dem Handy.
+nl-xd-0198; Sparkonto; de spaarrekening; ; B1; Wirtschaft/Finanzen/Bank; Mijn grootouders hebben een spaarrekening voor mij geopend.; Meine Großeltern haben ein Sparkonto für mich eröffnet.
+nl-xd-0199; Online-Banking; het internetbankieren; het onlinebankieren; B1; Wirtschaft/Finanzen/Bank; Met internetbankieren kun je rekeningen van thuis betalen.; Mit Online-Banking kannst du Rechnungen von zu Hause bezahlen.
+nl-xd-0200; Überziehungskredit; de roodstand; het roodstaan, het rekening-courantkrediet; C1; Wirtschaft/Finanzen/Bank; Roodstaan is een dure manier om geld te lenen.; Ein Überziehungskredit ist eine teure Art, sich Geld zu leihen.
+nl-xd-0201; Darlehen; de lening; ; B2; Wirtschaft/Finanzen/Bank; Ze hebben een lening afgesloten om het huis te kopen.; Sie haben ein Darlehen aufgenommen, um das Haus zu kaufen.
+nl-xd-0202; Lebenshaltungskosten; de kosten van levensonderhoud; de levensonderhoudskosten; B2; Wirtschaft/Finanzen/Konjunktur; De kosten van levensonderhoud in grote steden zijn hoog.; Die Lebenshaltungskosten in Großstädten sind hoch.
+nl-xd-0203; Preisanstieg; de prijsstijging; ; B2; Wirtschaft/Finanzen/Konjunktur; Iedereen praat over de prijsstijging van energie.; Alle reden über den Preisanstieg bei der Energie.
+nl-xd-0204; Wirtschaftskrise; de economische crisis; ; B2; Wirtschaft/Finanzen/Konjunktur; In de economische crisis verloren veel mensen hun baan.; In der Wirtschaftskrise verloren viele Menschen ihre Arbeit.
+nl-xd-0205; Finanzkrise; de financiële crisis; ; B2; Wirtschaft/Finanzen/Konjunktur; Tijdens de financiële crisis sloten verschillende banken.; Während der Finanzkrise schlossen mehrere Banken.
+nl-xd-0206; wirtschaftlich; economisch; ; B1; Wirtschaft/Finanzen/Konjunktur; De regio heeft ernstige economische problemen.; Die Region hat ernste wirtschaftliche Probleme.
+nl-xd-0207; Industrie; de industrie; ; B1; Wirtschaft/Finanzen/Unternehmen; De industrie in deze regio heeft meer vakmensen nodig.; Die Industrie in dieser Region braucht mehr Fachkräfte.
+nl-xd-0208; Export; de export; de uitvoer; B1; Wirtschaft/Finanzen/Markt & Handel; Auto's zijn het belangrijkste exportproduct van het land.; Autos sind der wichtigste Export des Landes.
+nl-xd-0209; Import; de import; de invoer; B1; Wirtschaft/Finanzen/Markt & Handel; De meeste van onze bananen zijn import uit Zuid-Amerika.; Die meisten unserer Bananen sind Importe aus Südamerika.
+nl-xd-0210; Marktwirtschaft; de markteconomie; ; C1; Wirtschaft/Finanzen/Markt & Handel; In een markteconomie hangen de prijzen af van vraag en aanbod.; In einer Marktwirtschaft hängen die Preise von Angebot und Nachfrage ab.
+nl-xd-0211; Kapitalismus; het kapitalisme; ; C1; Wirtschaft/Finanzen/Markt & Handel; De auteur van dit boek bekritiseert het moderne kapitalisme.; Der Autor dieses Buches kritisiert den modernen Kapitalismus.
+nl-xd-0212; Sozialismus; het socialisme; ; C1; Gesellschaft/Politik/Parteien; De partij wilde het socialisme opbouwen.; Die Partei wollte den Sozialismus aufbauen.
+nl-xd-0213; Kommunismus; het communisme; ; B2; Gesellschaft/Politik/Parteien; Het communisme eindigde in Oost-Europa rond 1990.; Der Kommunismus endete in Osteuropa um 1990.
+nl-xd-0214; Millionär; de miljonair; ; B1; Wirtschaft/Finanzen/Geld & Zahlung; Na het winnen van de loterij was hij miljonair.; Nach dem Lottogewinn war er Millionär.
+nl-xd-0215; Erbschaft; de erfenis; ; B2; Wirtschaft/Finanzen/Geld & Zahlung; Zij kocht de woning van haar erfenis.; Sie kaufte die Wohnung von ihrer Erbschaft.
+nl-xd-0216; erben; erven; ; B2; Wirtschaft/Finanzen/Geld & Zahlung; Hij heeft het huis van zijn oom geërfd.; Er hat das Haus von seinem Onkel geerbt.
+nl-xd-0217; Steuersatz; het belastingtarief; ; B2; Wirtschaft/Finanzen/Steuern; Het belastingtarief voor levensmiddelen is lager.; Der Steuersatz für Lebensmittel ist niedriger.
+nl-xd-0218; Steuerrückerstattung; de belastingteruggave; de belastingteruggaaf; C1; Wirtschaft/Finanzen/Steuern; Ik heb mijn belastingteruggave gebruikt voor een vakantie.; Ich habe meine Steuerrückerstattung für einen Urlaub verwendet.
+nl-xd-0219; historisch; historisch; ; B1; Kultur/Geschichte; De film is gebaseerd op historische gebeurtenissen.; Der Film beruht auf historischen Ereignissen.
+nl-xd-0220; Historiker; de historicus; de geschiedkundige; B1; Kultur/Geschichte; Historici twisten nog over de oorzaken van de oorlog.; Historiker streiten noch über die Ursachen des Krieges.
+nl-xd-0221; Epoche; het tijdperk; het tijdvak; B2; Kultur/Geschichte; De renaissance was een tijdperk van grote kunstenaars.; Die Renaissance war eine Epoche großer Künstler.
+nl-xd-0222; Steinzeit; de steentijd; ; B1; Kultur/Geschichte; De mensen in de steentijd maakten werktuigen van steen.; Die Menschen in der Steinzeit stellten Werkzeuge aus Stein her.
+nl-xd-0223; Höhlenmalerei; de grotschildering; de rotsschildering; B2; Kultur/Geschichte; De grotschilderingen zijn meer dan dertigduizend jaar oud.; Die Höhlenmalereien sind über dreißigtausend Jahre alt.
+nl-xd-0224; Pyramide; de piramide; ; A2; Kultur/Geschichte; De piramides in Egypte zijn heel oud.; Die Pyramiden in Ägypten sind sehr alt.
+nl-xd-0225; Mumie; de mummie; ; B1; Kultur/Geschichte; Het museum heeft een echte Egyptische mummie.; Das Museum hat eine echte ägyptische Mumie.
+nl-xd-0226; Antike; de oudheid; de klassieke oudheid; C1; Kultur/Geschichte; Het theater werd in de oudheid uitgevonden.; Das Theater wurde in der Antike erfunden.
+nl-xd-0227; Römer; de Romein; ; A2; Kultur/Geschichte; De Romeinen bouwden wegen in heel Europa.; Die Römer bauten Straßen in ganz Europa.
+nl-xd-0228; Reich (Herrschaftsgebiet); het rijk; ; B1; Kultur/Geschichte; Het Romeinse Rijk was heel groot.; Das Römische Reich war sehr groß.
+nl-xd-0229; Herrscher; de heerser; ; B1; Kultur/Geschichte; De heerser wilde zijn rijk nog groter maken.; Der Herrscher wollte sein Reich noch größer machen.
+nl-xd-0230; Thron; de troon; ; B1; Kultur/Geschichte; De jonge prins besteeg op zijn zestiende de troon.; Der junge Prinz bestieg mit sechzehn den Thron.
+nl-xd-0231; Krone; de kroon; ; A2; Kultur/Geschichte; De kroon van de koningin wordt in de toren bewaard.; Die Krone der Königin wird im Turm aufbewahrt.
+nl-xd-0232; Krönung; de kroning; ; C1; Kultur/Geschichte; Miljoenen mensen zagen de kroning op televisie.; Millionen sahen die Krönung im Fernsehen.
+nl-xd-0233; Prinz; de prins; ; A1; Kultur/Geschichte; De prins woonde in een groot kasteel.; Der Prinz wohnte in einem großen Schloss.
+nl-xd-0234; Prinzessin; de prinses; ; A1; Kultur/Geschichte; Het kleine meisje wil een prinses zijn.; Das kleine Mädchen will eine Prinzessin sein.
+nl-xd-0235; Adel; de adel; ; C1; Kultur/Geschichte; Vroeger bezat de adel het grootste deel van het land.; Früher besaß der Adel den größten Teil des Landes.
+nl-xd-0236; Schwert; het zwaard; ; B1; Kultur/Geschichte; De ridder trok zijn zwaard en reed naar de burcht.; Der Ritter zog sein Schwert und ritt auf die Burg zu.
+nl-xd-0237; Rüstung; het harnas; de wapenrusting; B2; Kultur/Geschichte; Het harnas van een ridder was heel zwaar.; Die Rüstung eines Ritters war sehr schwer.
+nl-xd-0238; Schlacht; de slag; de veldslag; B1; Kultur/Geschichte; In de slag stierven duizenden soldaten.; In der Schlacht starben Tausende Soldaten.
+nl-xd-0239; Eroberung; de verovering; ; C1; Kultur/Geschichte; De verovering van de stad duurde drie maanden.; Die Eroberung der Stadt dauerte drei Monate.
+nl-xd-0240; Wikinger; de Viking; ; B1; Kultur/Geschichte; De Vikingen zeilden tot aan Amerika.; Die Wikinger segelten bis nach Amerika.
+nl-xd-0241; Pest; de pest; ; B2; Kultur/Geschichte; De pest doodde in de middeleeuwen veel mensen.; Die Pest tötete im Mittelalter viele Menschen.
+nl-xd-0242; Ruine; de ruïne; ; B1; Kultur/Geschichte; We hielden een picknick naast de oude ruïne.; Wir machten ein Picknick neben der alten Ruine.
+nl-xd-0243; Schatz; de schat; ; A2; Kultur/Geschichte; De piraten begroeven hun schat op een eiland.; Die Piraten vergruben ihren Schatz auf einer Insel.
+nl-xd-0244; Entdecker; de ontdekkingsreiziger; de ontdekker; B1; Kultur/Geschichte; De ontdekkingsreiziger reisde de Amazone af.; Der Entdecker reiste den Amazonas hinunter.
+nl-xd-0245; Renaissance; de renaissance; ; B2; Kultur/Geschichte; Florence is beroemd om zijn kunst uit de renaissance.; Florenz ist berühmt für seine Kunst der Renaissance.
+nl-xd-0246; Kolonie; de kolonie; ; B2; Kultur/Geschichte; India was ooit een Britse kolonie.; Indien war einst eine britische Kolonie.
+nl-xd-0247; Kolonialismus; het kolonialisme; ; C1; Kultur/Geschichte; Veel Afrikaanse landen voelen nog de gevolgen van het kolonialisme.; Viele afrikanische Länder spüren noch die Folgen des Kolonialismus.
+nl-xd-0248; Sklaverei; de slavernij; ; B1; Kultur/Geschichte; De slavernij werd in de negentiende eeuw afgeschaft.; Die Sklaverei wurde im neunzehnten Jahrhundert abgeschafft.
+nl-xd-0249; Aufklärung (Epoche); de verlichting; ; C1; Kultur/Geschichte; Kant is een van de grote denkers van de verlichting.; Kant ist einer der großen Denker der Aufklärung.
+nl-xd-0250; Industrialisierung; de industrialisatie; ; C1; Kultur/Geschichte; De industrialisatie bracht veel mensen naar de steden.; Die Industrialisierung brachte viele Menschen in die Städte.
+nl-xd-0251; Aufstand; de opstand; ; C1; Kultur/Geschichte; De opstand werd door het leger beëindigd.; Der Aufstand wurde von der Armee beendet.
+nl-xd-0252; Rebell; de rebel; ; B2; Kultur/Geschichte; De rebellen namen de controle over de hoofdstad over.; Die Rebellen übernahmen die Kontrolle über die Hauptstadt.
+nl-xd-0253; Weltkrieg; de wereldoorlog; ; B1; Kultur/Geschichte; Mijn overgrootvader vocht in de Eerste Wereldoorlog.; Mein Urgroßvater kämpfte im Ersten Weltkrieg.
+nl-xd-0254; Nationalsozialismus; het nationaalsocialisme; het nazisme; B2; Kultur/Geschichte; Op school leren we veel over het nationaalsocialisme.; In der Schule lernen wir viel über den Nationalsozialismus.
+nl-xd-0255; Holocaust; de Holocaust; ; B1; Kultur/Geschichte; In de Holocaust werden zes miljoen Joden vermoord.; Im Holocaust wurden sechs Millionen Juden ermordet.
+nl-xd-0256; Verfolgung; de vervolging; ; C1; Kultur/Geschichte; Veel schrijvers verlieten het land vanwege de vervolging.; Viele Schriftsteller verließen wegen der Verfolgung das Land.
+nl-xd-0257; Widerstand; het verzet; ; B2; Kultur/Geschichte; De studenten hoorden bij het verzet tegen Hitler.; Die Studenten gehörten zum Widerstand gegen Hitler.
+nl-xd-0258; Propaganda; de propaganda; ; C1; Kultur/Geschichte; De kranten stonden vol propaganda.; Die Zeitungen waren voller Propaganda.
+nl-xd-0259; Wiedervereinigung; de hereniging; ; C1; Kultur/Geschichte; De Duitse hereniging vond plaats in 1990.; Die deutsche Wiedervereinigung fand 1990 statt.
+nl-xd-0260; Archäologie; de archeologie; ; B2; Kultur/Geschichte; Ze wil in Rome archeologie studeren.; Sie möchte in Rom Archäologie studieren.
+nl-xd-0261; Kultur; de cultuur; ; A2; Kultur/Kunst & Museum; Ik leer graag iets over de cultuur van andere landen.; Ich lerne gern etwas über die Kultur anderer Länder.
+nl-xd-0262; kulturell; cultureel; ; B1; Kultur/Kunst & Museum; De stad heeft een rijk cultureel leven.; Die Stadt hat ein reiches kulturelles Leben.
+nl-xd-0263; Malerei; de schilderkunst; ; B1; Kultur/Kunst & Museum; Ze is geïnteresseerd in moderne schilderkunst.; Sie interessiert sich für moderne Malerei.
+nl-xd-0264; Maler (Künstler); de schilder; de kunstschilder; A2; Kultur/Kunst & Museum; Van Gogh is een beroemde Nederlandse schilder.; Van Gogh ist ein berühmter niederländischer Maler.
+nl-xd-0265; Kunstgeschichte; de kunstgeschiedenis; ; B1; Kultur/Kunst & Museum; Mijn zus studeert kunstgeschiedenis in München.; Meine Schwester studiert Kunstgeschichte in München.
+nl-xd-0266; Statue; het standbeeld; het beeld; A2; Kultur/Kunst & Museum; Midden op het plein staat een standbeeld van brons.; Mitten auf dem Platz steht eine Statue aus Bronze.
+nl-xd-0267; Skizze; de schets; ; B1; Kultur/Kunst & Museum; De kunstenaar maakte een snelle schets van de brug.; Der Künstler machte eine schnelle Skizze der Brücke.
+nl-xd-0268; Atelier; het atelier; ; B2; Kultur/Kunst & Museum; De schilder werkt in een licht atelier onder het dak.; Der Maler arbeitet in einem hellen Atelier unter dem Dach.
+nl-xd-0269; Talent; het talent; ; B1; Kultur/Kunst & Museum; Ze heeft een echt talent voor tekenen.; Sie hat ein echtes Talent zum Zeichnen.
+nl-xd-0270; begabt; begaafd; getalenteerd; B1; Kultur/Kunst & Museum; Hij is een heel begaafde jonge muzikant.; Er ist ein sehr begabter junger Musiker.
+nl-xd-0271; kreativ; creatief; ; B1; Kultur/Kunst & Museum; In de tekenles mogen we creatief zijn.; Im Kunstunterricht dürfen wir kreativ sein.
+nl-xd-0272; Kreativität; de creativiteit; ; B2; Kultur/Kunst & Museum; Dit werk vereist veel creativiteit.; Diese Arbeit erfordert viel Kreativität.
+nl-xd-0273; Inspiration; de inspiratie; ; B2; Kultur/Kunst & Museum; De zee was zijn grootste inspiratie.; Das Meer war seine größte Inspiration.
+nl-xd-0274; Eintritt; de toegang; de entree; A2; Kultur/Kunst & Museum; Op zondag is de toegang tot het museum gratis.; Sonntags ist der Eintritt ins Museum frei.
+nl-xd-0275; Graffiti; de graffiti; ; B1; Kultur/Kunst & Museum; Sommige mensen vinden graffiti echte kunst.; Manche Leute halten Graffiti für echte Kunst.
+nl-xd-0276; Held; de held; ; A2; Kultur/Literatur; De held van het verhaal is een jonge boer.; Der Held der Geschichte ist ein junger Bauer.
+nl-xd-0277; Bösewicht; de schurk; de slechterik; B1; Kultur/Literatur; Aan het einde wordt de schurk gepakt.; Am Ende wird der Bösewicht gefasst.
+nl-xd-0278; Hauptfigur; de hoofdpersoon; het hoofdpersonage; B1; Kultur/Literatur; De hoofdpersoon van de roman is een meisje van twaalf.; Die Hauptfigur des Romans ist ein zwölfjähriges Mädchen.
+nl-xd-0279; Erzähler; de verteller; ; B2; Kultur/Literatur; De verteller vertelt het verhaal vanuit het verleden.; Der Erzähler erzählt die Geschichte aus der Vergangenheit.
+nl-xd-0280; Kurzgeschichte; het korte verhaal; ; A2; Kultur/Literatur; We hebben in de Engelse les een kort verhaal gelezen.; Wir haben im Englischunterricht eine Kurzgeschichte gelesen.
+nl-xd-0281; Abenteuer; het avontuur; ; A2; Kultur/Literatur; Het boek zit vol spannende avonturen.; Das Buch ist voller spannender Abenteuer.
+nl-xd-0282; Biografie; de biografie; ; B1; Kultur/Literatur; Ik lees een biografie over Marie Curie.; Ich lese eine Biografie über Marie Curie.
+nl-xd-0283; Autobiografie; de autobiografie; ; B2; Kultur/Literatur; De zangeres schreef op haar veertigste haar autobiografie.; Die Sängerin schrieb mit vierzig ihre Autobiografie.
+nl-xd-0284; Sachbuch; het non-fictieboek; het informatieve boek; B2; Kultur/Literatur; Hij leest liever non-fictieboeken dan romans.; Er liest lieber Sachbücher als Romane.
+nl-xd-0285; Titel; de titel; ; A2; Kultur/Literatur; Ik kan me de titel van het boek niet herinneren.; Ich kann mich nicht an den Titel des Buches erinnern.
+nl-xd-0286; Fabel; de fabel; ; B1; Kultur/Literatur; In een fabel kunnen dieren praten.; In einer Fabel können Tiere sprechen.
+nl-xd-0287; Legende; de legende; ; B1; Kultur/Literatur; Volgens de legende woonde er een draak in de grot.; Der Legende nach lebte ein Drache in der Höhle.
+nl-xd-0288; Mythos; de mythe; ; B2; Kultur/Literatur; We lazen Griekse mythen over goden en helden.; Wir lasen griechische Mythen über Götter und Helden.
+nl-xd-0289; Reim; het rijm; ; B1; Kultur/Literatur; Kinderen houden van gedichten met grappige rijmen.; Kinder lieben Gedichte mit lustigen Reimen.
+nl-xd-0290; Hexe; de heks; ; A2; Kultur/Literatur; In het sprookje woont de heks in een bos.; Im Märchen wohnt die Hexe in einem Wald.
+nl-xd-0291; Drache; de draak; ; A2; Kultur/Literatur; De ridder moest tegen een draak vechten.; Der Ritter musste gegen einen Drachen kämpfen.
+nl-xd-0292; Science-Fiction; de sciencefiction; ; B1; Kultur/Literatur; Mijn broer leest alleen maar sciencefiction.; Mein Bruder liest nur Science-Fiction.
+nl-xd-0293; Theaterstück; het toneelstuk; ; A2; Kultur/Theater & Film; Onze klas voert aan het einde van het schooljaar een toneelstuk op.; Unsere Klasse führt zum Schuljahresende ein Theaterstück auf.
+nl-xd-0294; Drama; het drama; ; B1; Kultur/Theater & Film; Het drama gaat over een gezin in crisis.; Das Drama handelt von einer Familie in der Krise.
+nl-xd-0295; Akt (Theater); het bedrijf; de akte; B2; Kultur/Theater & Film; De held sterft in het laatste bedrijf.; Der Held stirbt im letzten Akt.
+nl-xd-0296; Szene; de scène; ; B1; Kultur/Theater & Film; De beste scène van de film speelt zich af op het strand.; Die beste Szene des Films spielt am Strand.
+nl-xd-0297; Musical; de musical; ; A2; Kultur/Theater & Film; We hebben in Londen een musical gezien.; Wir haben in London ein Musical gesehen.
+nl-xd-0298; Ballett; het ballet; ; A2; Kultur/Theater & Film; Mijn kleine zus gaat twee keer per week naar ballet.; Meine kleine Schwester geht zweimal pro Woche zum Ballett.
+nl-xd-0299; Tänzer; de danser; ; A2; Kultur/Theater & Film; De dansers oefenden elke dag urenlang.; Die Tänzer übten jeden Tag stundenlang.
+nl-xd-0300; Clown; de clown; ; A1; Kultur/Theater & Film; De clown liet alle kinderen lachen.; Der Clown brachte alle Kinder zum Lachen.
+nl-xd-0301; Zauberer; de goochelaar; de tovenaar; A2; Kultur/Theater & Film; De goochelaar haalde een konijn uit zijn hoed.; Der Zauberer zog ein Kaninchen aus seinem Hut.
+nl-xd-0302; Komiker; de komiek; de cabaretier; B1; Kultur/Theater & Film; De komiek vertelde grappen over zijn familie.; Der Komiker erzählte Witze über seine Familie.
+nl-xd-0303; Zeichentrickfilm; de tekenfilm; de animatiefilm; A2; Kultur/Theater & Film; De kinderen kijken naar een tekenfilm.; Die Kinder schauen einen Zeichentrickfilm.
+nl-xd-0304; Horrorfilm; de horrorfilm; de griezelfilm; A2; Kultur/Theater & Film; Ik kijk nooit alleen naar horrorfilms.; Ich schaue nie allein Horrorfilme.
+nl-xd-0305; Thriller; de thriller; ; B1; Kultur/Theater & Film; De thriller was zo spannend dat ik niet kon slapen.; Der Thriller war so spannend, dass ich nicht schlafen konnte.
+nl-xd-0306; Fortsetzung; het vervolg; ; B2; Kultur/Theater & Film; Het vervolg is niet zo goed als de eerste film.; Die Fortsetzung ist nicht so gut wie der erste Film.
+nl-xd-0307; Kritiker; de criticus; de recensent; B2; Kultur/Theater & Film; De critici waren enthousiast over het nieuwe stuk.; Die Kritiker waren von dem neuen Stück begeistert.
+nl-xd-0308; Festival; het festival; ; A2; Kultur/Musik; In juli gaan we naar een festival.; Im Juli gehen wir auf ein Festival.
+nl-xd-0309; Musiker; de muzikant; de musicus; A2; Kultur/Musik; De muzikant op straat speelde viool.; Der Musiker auf der Straße spielte Geige.
+nl-xd-0310; Instrument; het instrument; het muziekinstrument; A2; Kultur/Musik; Speel je in je vrije tijd een instrument?; Spielst du in deiner Freizeit ein Instrument?
+nl-xd-0311; Trommel; de trommel; de trom; A2; Kultur/Musik; De jongen sloeg op een kleine trommel.; Der Junge schlug auf eine kleine Trommel.
+nl-xd-0312; Blockflöte; de blokfluit; ; A2; Kultur/Musik; Veel kinderen leren op de basisschool blokfluit spelen.; Viele Kinder lernen in der Grundschule Blockflöte.
+nl-xd-0313; Saxofon; de saxofoon; ; B1; Kultur/Musik; Hij speelt saxofoon in een jazzband.; Er spielt Saxofon in einer Jazzband.
+nl-xd-0314; Klarinette; de klarinet; ; B1; Kultur/Musik; Ze speelt al zes jaar klarinet.; Sie spielt seit sechs Jahren Klarinette.
+nl-xd-0315; Cello; de cello; ; B1; Kultur/Musik; De cello heeft een diepe, warme klank.; Das Cello hat einen tiefen, warmen Klang.
+nl-xd-0316; Mundharmonika; de mondharmonica; ; B1; Kultur/Musik; Mijn opa speelt bij het vuur mondharmonica.; Mein Großvater spielt am Feuer Mundharmonika.
+nl-xd-0317; Akkordeon; de accordeon; de trekharmonica; B1; Kultur/Musik; Een oude man speelde op straat accordeon.; Ein alter Mann spielte auf der Straße Akkordeon.
+nl-xd-0318; Popmusik; de popmuziek; de pop; A2; Kultur/Musik; De meeste van mijn vrienden luisteren naar popmuziek.; Die meisten meiner Freunde hören Popmusik.
+nl-xd-0319; Rockmusik; de rockmuziek; de rock; A2; Kultur/Musik; Mijn vader houdt nog altijd van de rockmuziek van de jaren zeventig.; Mein Vater liebt noch immer die Rockmusik der Siebziger.
+nl-xd-0320; Hip-Hop; de hiphop; ; A2; Kultur/Musik; In zijn vrije tijd danst hij op hiphop.; In seiner Freizeit tanzt er zu Hip-Hop.
+nl-xd-0321; Jazz; de jazz; ; B1; Kultur/Musik; Op vrijdag is er live jazz in het café.; Freitags gibt es im Café Live-Jazz.
+nl-xd-0322; Klassik; de klassieke muziek; ; B1; Kultur/Musik; Tijdens het leren luister ik naar klassieke muziek.; Beim Lernen höre ich Klassik.
+nl-xd-0323; Volksmusik; de volksmuziek; ; B1; Kultur/Musik; Op het feest speelden ze traditionele volksmuziek.; Auf dem Fest spielten sie traditionelle Volksmusik.
+nl-xd-0324; Album; het album; ; A2; Kultur/Musik; De band heeft net een nieuw album uitgebracht.; Die Band hat gerade ein neues Album herausgebracht.
+nl-xd-0325; Liedtext; de songtekst; de liedtekst; B1; Kultur/Musik; Ik ken de hele songtekst van dit nummer.; Ich kenne den ganzen Liedtext dieses Songs.
+nl-xd-0326; Refrain; het refrein; ; B2; Kultur/Musik; Iedereen zong mee met het refrein.; Alle sangen beim Refrain mit.
+nl-xd-0327; Schallplatte; de grammofoonplaat; de plaat, de langspeelplaat; B1; Kultur/Musik; Mijn ouders hebben nog honderden oude grammofoonplaten.; Meine Eltern haben noch Hunderte alter Schallplatten.
+nl-xd-0328; Tournee; de tournee; de tour; B2; Kultur/Musik; De band is op tournee in Azië.; Die Band ist auf Tournee in Asien.
+nl-xd-0329; wissenschaftlich; wetenschappelijk; ; B1; Wissenschaft/Forschung & Methode; Voor dit idee is er geen wetenschappelijk bewijs.; Für diese Idee gibt es keinen wissenschaftlichen Beweis.
+nl-xd-0330; Forscher; de onderzoeker; ; B1; Wissenschaft/Forschung & Methode; De onderzoekers vonden een nieuwe kikkersoort.; Die Forscher fanden eine neue Froschart.
+nl-xd-0331; Studie; de studie; het onderzoek; B2; Wissenschaft/Forschung & Methode; Een nieuwe studie laat zien dat slaap ons helpt bij het leren.; Eine neue Studie zeigt, dass Schlaf uns beim Lernen hilft.
+nl-xd-0332; Analyse; de analyse; ; B2; Wissenschaft/Forschung & Methode; De analyse van de gegevens duurde enkele weken.; Die Analyse der Daten dauerte mehrere Wochen.
+nl-xd-0333; analysieren; analyseren; ; B2; Wissenschaft/Forschung & Methode; De wetenschappers analyseerden het water uit het meer.; Die Wissenschaftler analysierten das Wasser aus dem See.
+nl-xd-0334; Beobachtung; de waarneming; de observatie; B2; Wissenschaft/Forschung & Methode; Schrijf je waarnemingen op in je schrift.; Schreib deine Beobachtungen in dein Heft.
+nl-xd-0335; Probe (Untersuchung); het monster; ; B2; Wissenschaft/Forschung & Methode; De arts stuurde het monster naar het laboratorium.; Der Arzt schickte die Probe ins Labor.
+nl-xd-0336; Mikroskop; de microscoop; ; B1; Wissenschaft/Forschung & Methode; Onder de microscoop kun je de cellen zien.; Unter dem Mikroskop kann man die Zellen sehen.
+nl-xd-0337; Lupe; de loep; het vergrootglas; B1; Wissenschaft/Forschung & Methode; De jongen bekeek de mier door een loep.; Der Junge betrachtete die Ameise durch eine Lupe.
+nl-xd-0338; Formel; de formule; ; B1; Wissenschaft/Forschung & Methode; Deze formule moet je voor de toets leren.; Diese Formel musst du für den Test lernen.
+nl-xd-0339; Erfinder; de uitvinder; ; B1; Wissenschaft/Forschung & Methode; De uitvinder van de telefoon werd heel rijk.; Der Erfinder des Telefons wurde sehr reich.
+nl-xd-0340; Biologe; de bioloog; ; B1; Wissenschaft/Biologie; De bioloog onderzoekt vogels in het Noordpoolgebied.; Der Biologe erforscht Vögel in der Arktis.
+nl-xd-0341; Skelett; het skelet; ; B1; Wissenschaft/Biologie; Het museum toont het skelet van een walvis.; Das Museum zeigt das Skelett eines Wals.
+nl-xd-0342; Fossil; het fossiel; ; B2; Wissenschaft/Biologie; We vonden in de steen het fossiel van een kleine vis.; Wir fanden im Stein das Fossil eines kleinen Fisches.
+nl-xd-0343; Physiker; de natuurkundige; de fysicus; B2; Wissenschaft/Physik; Albert Einstein was een beroemde natuurkundige.; Albert Einstein war ein berühmter Physiker.
+nl-xd-0344; Elektrizität; de elektriciteit; ; B1; Wissenschaft/Physik; De eerste auto's reden op elektriciteit.; Die ersten Autos fuhren mit Elektrizität.
+nl-xd-0345; Schall; het geluid; ; B2; Wissenschaft/Physik; Geluid is langzamer dan licht.; Schall ist langsamer als Licht.
+nl-xd-0346; Lichtgeschwindigkeit; de lichtsnelheid; ; B2; Wissenschaft/Physik; Niets is sneller dan de lichtsnelheid.; Nichts ist schneller als die Lichtgeschwindigkeit.
+nl-xd-0347; Dampf; de stoom; ; B1; Wissenschaft/Physik; Als water kookt, wordt het stoom.; Wenn Wasser kocht, wird es zu Dampf.
+nl-xd-0348; Siedepunkt; het kookpunt; ; B2; Wissenschaft/Physik; Het kookpunt van water ligt bij honderd graden.; Der Siedepunkt von Wasser liegt bei hundert Grad.
+nl-xd-0349; Gefrierpunkt; het vriespunt; ; B2; Wissenschaft/Physik; Vannacht daalde de temperatuur tot onder het vriespunt.; Letzte Nacht fiel die Temperatur unter den Gefrierpunkt.
+nl-xd-0350; Metall; het metaal; ; A2; Wissenschaft/Chemie; De stoel is van metaal gemaakt.; Der Stuhl ist aus Metall.
+nl-xd-0351; Eisen; het ijzer; ; A2; Wissenschaft/Chemie; De oude poort is van ijzer.; Das alte Tor ist aus Eisen.
+nl-xd-0352; Stahl; het staal; ; B1; Wissenschaft/Chemie; De brug is van staal gemaakt.; Die Brücke ist aus Stahl.
+nl-xd-0353; Mischung; het mengsel; ; B1; Wissenschaft/Chemie; Lucht is een mengsel van verschillende gassen.; Luft ist eine Mischung aus verschiedenen Gasen.
+nl-xd-0354; plus; plus; ; A1; Wissenschaft/Mathematik; Twee plus drie is vijf.; Zwei plus drei ist fünf.
+nl-xd-0355; minus; min; minus; A1; Wissenschaft/Mathematik; Tien min vier is zes.; Zehn minus vier ist sechs.
+nl-xd-0356; mal (beim Rechnen); keer; maal; A1; Wissenschaft/Mathematik; Drie keer vier is twaalf.; Drei mal vier ist zwölf.
+nl-xd-0357; geteilt durch; gedeeld door; ; A1; Wissenschaft/Mathematik; Twintig gedeeld door vijf is vier.; Zwanzig geteilt durch fünf ist vier.
+nl-xd-0358; addieren; optellen; ; A2; Wissenschaft/Mathematik; Tel eerst de twee getallen bij elkaar op.; Addiere zuerst die beiden Zahlen.
+nl-xd-0359; subtrahieren; aftrekken; ; A2; Wissenschaft/Mathematik; Trek zeven van twintig af en schrijf het resultaat op.; Subtrahiere sieben von zwanzig und schreib das Ergebnis auf.
+nl-xd-0360; multiplizieren; vermenigvuldigen; ; A2; Wissenschaft/Mathematik; Vermenigvuldig de lengte met de breedte.; Multipliziere die Länge mit der Breite.
+nl-xd-0361; dividieren; delen; ; A2; Wissenschaft/Mathematik; In de laatste stap deel je het resultaat door twee.; Im letzten Schritt dividierst du das Ergebnis durch zwei.
+nl-xd-0362; Berechnung; de berekening; ; B2; Wissenschaft/Mathematik; In je berekening zit een fout.; In deiner Berechnung ist ein Fehler.
+nl-xd-0363; Ziffer; het cijfer; ; B1; Wissenschaft/Mathematik; Mijn telefoonnummer heeft elf cijfers.; Meine Telefonnummer hat elf Ziffern.
+nl-xd-0364; Quadratwurzel; de vierkantswortel; de wortel; B2; Wissenschaft/Mathematik; De vierkantswortel van negen is drie.; Die Quadratwurzel aus neun ist drei.
+nl-xd-0365; Rechteck; de rechthoek; ; A2; Wissenschaft/Mathematik; Teken een rechthoek op het bord.; Zeichne ein Rechteck an die Tafel.
+nl-xd-0366; Würfel (Geometrie); de kubus; ; B1; Wissenschaft/Mathematik; Een kubus heeft zes even grote vlakken.; Ein Würfel hat sechs gleich große Flächen.
+nl-xd-0367; Kugel (Geometrie); de bol; ; B2; Wissenschaft/Mathematik; De aarde is bijna een perfecte bol.; Die Erde ist fast eine perfekte Kugel.
+nl-xd-0368; Durchmesser; de diameter; de middellijn; B2; Wissenschaft/Mathematik; Het wiel heeft een diameter van zestig centimeter.; Das Rad hat einen Durchmesser von sechzig Zentimetern.
+nl-xd-0369; parallel; parallel; evenwijdig; B1; Wissenschaft/Mathematik; De twee lijnen op het bord lopen parallel.; Die beiden Linien an der Tafel sind parallel.
+nl-xd-0370; Geometrie; meetkunde; de meetkunde, geometrie; B1; Wissenschaft/Mathematik; Bij meetkunde leren we nu iets over driehoeken.; In Geometrie lernen wir gerade etwas über Dreiecke.
+nl-xd-0371; Universum; het universum; het heelal; B1; Wissenschaft/Raumfahrt; Het universum is ongeveer veertien miljard jaar oud.; Das Universum ist etwa vierzehn Milliarden Jahre alt.
+nl-xd-0372; Komet; de komeet; ; B1; Wissenschaft/Raumfahrt; Aan de nachtelijke hemel was een heldere komeet te zien.; Am Nachthimmel war ein heller Komet zu sehen.
+nl-xd-0373; Mondlandung; de maanlanding; ; B1; Wissenschaft/Raumfahrt; Mijn opa zag de maanlanding op televisie.; Mein Großvater sah die Mondlandung im Fernsehen.
+nl-xd-0374; Außerirdischer; het buitenaardse wezen; de alien, de buitenaardse; B1; Wissenschaft/Raumfahrt; De film gaat over een buitenaards wezen dat de aarde bezoekt.; Der Film handelt von einem Außerirdischen, der die Erde besucht.
+nl-xd-0375; Sportler; de sporter; de atleet; A2; Freizeit/Sport/Sportarten; De sporters trainden elke dag voor de Spelen.; Die Sportler trainierten vor den Spielen jeden Tag.
+nl-xd-0376; Golf; golf; ; A2; Freizeit/Sport/Sportarten; Mijn oom speelt elke zondag golf.; Mein Onkel spielt jeden Sonntag Golf.
+nl-xd-0377; Hockey; hockey; ; A2; Freizeit/Sport/Sportarten; Ze speelt hockey in het schoolteam.; Sie spielt Hockey in der Schulmannschaft.
+nl-xd-0378; Eishockey; ijshockey; ; A2; Freizeit/Sport/Sportarten; IJshockey is in Canada heel populair.; Eishockey ist in Kanada sehr beliebt.
+nl-xd-0379; Rugby; rugby; ; B1; Freizeit/Sport/Sportarten; Rugby is een hard spel met veel lichamelijk contact.; Rugby ist ein hartes Spiel mit viel Körperkontakt.
+nl-xd-0380; Badminton; badminton; ; A2; Freizeit/Sport/Sportarten; In de zomer spelen we in de tuin badminton.; Im Sommer spielen wir im Garten Badminton.
+nl-xd-0381; Bowling; bowlen; bowling; A2; Freizeit/Sport/Sportarten; Op mijn verjaardag gingen we bowlen.; Zu meinem Geburtstag waren wir beim Bowling.
+nl-xd-0382; Boxen; boksen; ; B1; Freizeit/Sport/Sportarten; Mijn moeder vindt boksen een gevaarlijke sport.; Meine Mutter findet Boxen einen gefährlichen Sport.
+nl-xd-0383; Judo; judo; ; A2; Freizeit/Sport/Sportarten; Mijn kleine broer doet twee keer per week judo.; Mein kleiner Bruder macht zweimal pro Woche Judo.
+nl-xd-0384; Kampfsport; de vechtsport; ; B1; Freizeit/Sport/Sportarten; Karate en judo zijn populaire vechtsporten.; Karate und Judo sind beliebte Kampfsportarten.
+nl-xd-0385; Fechten; schermen; ; B2; Freizeit/Sport/Sportarten; Schermen is al lang een olympische sport.; Fechten ist schon lange eine olympische Sportart.
+nl-xd-0386; Yoga; yoga; ; A2; Freizeit/Sport/Sportarten; Mijn moeder doet elke ochtend yoga.; Meine Mutter macht jeden Morgen Yoga.
+nl-xd-0387; Marathon; de marathon; ; B1; Freizeit/Sport/Sportarten; Op zijn vijftigste liep hij zijn eerste marathon.; Mit fünfzig lief er seinen ersten Marathon.
+nl-xd-0388; segeln; zeilen; ; A2; Freizeit/Sport/Sportarten; We zeilden in een kleine boot rond het eiland.; Wir segelten in einem kleinen Boot um die Insel.
+nl-xd-0389; rudern; roeien; ; B1; Freizeit/Sport/Sportarten; Ze roeiden in een oude boot over het meer.; Sie ruderten in einem alten Boot über den See.
+nl-xd-0390; surfen (Wellen); surfen; golfsurfen; A2; Freizeit/Sport/Sportarten; We hebben in Portugal leren surfen.; Wir haben in Portugal surfen gelernt.
+nl-xd-0391; tauchen; duiken; ; A2; Freizeit/Sport/Sportarten; In de Rode Zee hebben we met schildpadden gedoken.; Im Roten Meer sind wir mit Schildkröten getaucht.
+nl-xd-0392; Bergsteigen; bergbeklimmen; het bergbeklimmen, alpinisme; B1; Freizeit/Sport/Sportarten; Bergbeklimmen in de Alpen kan gevaarlijk zijn.; Bergsteigen in den Alpen kann gefährlich sein.
+nl-xd-0393; Wintersport; de wintersport; ; A2; Freizeit/Sport/Sportarten; We houden van wintersport zoals skiën en schaatsen.; Wir lieben Wintersport wie Skifahren und Eislaufen.
+nl-xd-0394; Mannschaftssport; de teamsport; ; B1; Freizeit/Sport/Sportarten; Voetbal is de populairste teamsport in Europa.; Fußball ist der beliebteste Mannschaftssport in Europa.
+nl-xd-0395; Weitsprung; het verspringen; verspringen; B1; Freizeit/Sport/Sportarten; Ze won het verspringen met bijna zes meter.; Sie gewann den Weitsprung mit fast sechs Metern.
+nl-xd-0396; Hochsprung; het hoogspringen; hoogspringen; B1; Freizeit/Sport/Sportarten; Bij het hoogspringen haalde hij twee meter.; Im Hochsprung schaffte er zwei Meter.
+nl-xd-0397; Spielstand; de stand; de tussenstand; B1; Freizeit/Sport/Wettkampf; Wat is de stand bij de rust?; Wie ist der Spielstand zur Halbzeit?
+nl-xd-0398; Unentschieden; het gelijkspel; ; B1; Freizeit/Sport/Wettkampf; De wedstrijd eindigde in een gelijkspel.; Das Spiel endete mit einem Unentschieden.
+nl-xd-0399; Freistoß; de vrije trap; de vrije schop; B1; Freizeit/Sport/Wettkampf; Hij scoorde rechtstreeks uit een vrije trap.; Er traf direkt aus einem Freistoß.
+nl-xd-0400; Eckball; de hoekschop; de corner; B2; Freizeit/Sport/Wettkampf; Het doelpunt viel na een hoekschop.; Das Tor fiel nach einem Eckball.
+nl-xd-0401; Kopfball; de kopbal; ; B2; Freizeit/Sport/Wettkampf; Hij maakte het winnende doelpunt met een kopbal.; Er erzielte das Siegtor mit einem Kopfball.
+nl-xd-0402; Verteidiger (Sport); de verdediger; ; B1; Freizeit/Sport/Wettkampf; De verdediger stopte de bal vlak voor de lijn.; Der Verteidiger stoppte den Ball kurz vor der Linie.
+nl-xd-0403; Fan; de fan; ; A2; Freizeit/Sport/Wettkampf, Kultur/Musik; De fans zongen tijdens de hele wedstrijd.; Die Fans sangen während des ganzen Spiels.
+nl-xd-0404; Heimspiel; de thuiswedstrijd; ; B1; Freizeit/Sport/Wettkampf; Ons team heeft dit seizoen alle thuiswedstrijden gewonnen.; Unsere Mannschaft hat in dieser Saison alle Heimspiele gewonnen.
+nl-xd-0405; Auswärtsspiel; de uitwedstrijd; ; B1; Freizeit/Sport/Wettkampf; Veel fans reisden naar de uitwedstrijd.; Viele Fans reisten zum Auswärtsspiel.
+nl-xd-0406; Finale; de finale; ; A2; Freizeit/Sport/Wettkampf; Duitsland bereikte na een geweldige wedstrijd de finale.; Deutschland erreichte nach einem tollen Spiel das Finale.
+nl-xd-0407; Weltmeisterschaft; het wereldkampioenschap; ; A2; Freizeit/Sport/Wettkampf; Het wereldkampioenschap vindt elke vier jaar plaats.; Die Weltmeisterschaft findet alle vier Jahre statt.
+nl-xd-0408; Meister (Sport); de kampioen; ; B1; Freizeit/Sport/Wettkampf; Onze club werd voor het eerst kampioen.; Unser Verein wurde zum ersten Mal Meister.
+nl-xd-0409; Goldmedaille; de gouden medaille; ; A2; Freizeit/Sport/Wettkampf; Ze won een gouden medaille bij het zwemmen.; Sie gewann eine Goldmedaille im Schwimmen.
+nl-xd-0410; Weltrekord; het wereldrecord; ; B1; Freizeit/Sport/Wettkampf; Hij brak het wereldrecord met één seconde.; Er brach den Weltrekord um eine Sekunde.
+nl-xd-0411; Siegerehrung; de prijsuitreiking; de huldiging, de medaille-uitreiking; B2; Freizeit/Sport/Wettkampf; Bij de prijsuitreiking kon ze niet stoppen met lachen.; Bei der Siegerehrung konnte sie nicht aufhören zu lächeln.
+nl-xd-0412; Gewinner; de winnaar; ; A2; Freizeit/Sport/Wettkampf; De winnaar krijgt honderd euro.; Der Gewinner bekommt hundert Euro.
+nl-xd-0413; Verlierer; de verliezer; ; B1; Freizeit/Sport/Wettkampf; Niemand is graag de verliezer.; Niemand ist gern der Verlierer.
+nl-xd-0414; Ziellinie; de finishlijn; de finish, de eindstreep; B1; Freizeit/Sport/Wettkampf; Vlak voor de finishlijn kwam hij ten val.; Kurz vor der Ziellinie stürzte er.
+nl-xd-0415; jubeln; juichen; ; B1; Freizeit/Sport/Wettkampf; De fans juichten toen het doelpunt viel.; Die Fans jubelten, als das Tor fiel.
+nl-xd-0416; Profi; de prof; de professional, de beroepsspeler; B1; Freizeit/Sport/Verein; Hij voetbalt al tien jaar als prof.; Er spielt seit zehn Jahren als Profi Fußball.
+nl-xd-0417; Freizeit; de vrije tijd; ; A1; Freizeit/Hobbys; Wat doe je in je vrije tijd?; Was machst du in deiner Freizeit?
+nl-xd-0418; Fotografie; de fotografie; ; B1; Freizeit/Hobbys; Fotografie is al jaren zijn hobby.; Die Fotografie ist seit Jahren sein Hobby.
+nl-xd-0419; häkeln; haken; ; B2; Freizeit/Hobbys; Mijn oma heeft een dekentje voor de baby gehaakt.; Meine Großmutter hat eine Decke für das Baby gehäkelt.
+nl-xd-0420; Freizeitpark; het pretpark; het attractiepark; A2; Freizeit/Ausgehen; Op mijn verjaardag waren we in een pretpark.; An meinem Geburtstag waren wir in einem Freizeitpark.
+nl-xd-0421; Achterbahn; de achtbaan; ; A2; Freizeit/Ausgehen; In de achtbaan was ik bang.; In der Achterbahn hatte ich Angst.
+nl-xd-0422; Jahrmarkt; de kermis; ; B1; Freizeit/Ausgehen; Deze week is er kermis op het marktplein.; Diese Woche ist auf dem Marktplatz Jahrmarkt.
+nl-xd-0423; Spielzeug; het speelgoed; ; A1; Freizeit/Spiele; De kinderen ruimen hun speelgoed op.; Die Kinder räumen ihr Spielzeug weg.
+nl-xd-0424; Puppe; de pop; ; A1; Freizeit/Spiele; Mijn dochter speelt elke dag met haar pop.; Meine Tochter spielt jeden Tag mit ihrer Puppe.
+nl-xd-0425; Teddybär; de teddybeer; ; A1; Freizeit/Spiele; Zonder zijn teddybeer kan hij niet slapen.; Ohne seinen Teddybären kann er nicht schlafen.
+nl-xd-0426; Kuscheltier; de knuffel; het knuffeldier, het knuffelbeest; A2; Freizeit/Spiele; Ze heeft haar lievelingsknuffel mee op vakantie genomen.; Sie hat ihr liebstes Kuscheltier mit in den Urlaub genommen.
+nl-xd-0427; Schaukel; de schommel; ; A2; Freizeit/Spiele; De kinderen spelen op de schommel.; Die Kinder spielen auf der Schaukel.
+nl-xd-0428; Rutsche; de glijbaan; ; A2; Freizeit/Spiele; De glijbaan in het park is heel hoog.; Die Rutsche im Park ist sehr hoch.
+nl-xd-0429; Verstecken; verstoppertje; ; A2; Freizeit/Spiele; Laten we in de tuin verstoppertje spelen.; Lass uns im Garten Verstecken spielen.
+nl-xd-0430; Drachen (Spielzeug); de vlieger; ; A2; Freizeit/Spiele; In de herfst laten we op de velden onze vlieger op.; Im Herbst lassen wir auf den Feldern unseren Drachen steigen.
+nl-xd-0431; Videospiel; het videospel; de videogame; A2; Freizeit/Spiele; Hij besteedt te veel tijd aan videospellen.; Er verbringt zu viel Zeit mit Videospielen.
+nl-xd-0432; Computerspiel; het computerspel; ; A2; Freizeit/Spiele; Dit computerspel is voor kinderen boven de twaalf.; Dieses Computerspiel ist für Kinder über zwölf.
+nl-xd-0433; Spielkonsole; de spelcomputer; de spelconsole, de gameconsole; B1; Freizeit/Spiele; Hij heeft voor kerst een nieuwe spelcomputer gekregen.; Er hat zu Weihnachten eine neue Spielkonsole bekommen.
+nl-xd-0434; würfeln (Spiel); dobbelen; met de dobbelsteen gooien; A2; Freizeit/Spiele; Nu is het jouw beurt om te dobbelen.; Jetzt bist du dran zu würfeln.
+nl-xd-0435; Rätsel; het raadsel; ; A2; Freizeit/Spiele; Kun je dit raadsel in één minuut oplossen?; Kannst du dieses Rätsel in einer Minute lösen?
+nl-xd-0436; Kreuzworträtsel; de kruiswoordpuzzel; het kruiswoordraadsel; B1; Freizeit/Spiele; Mijn vader lost elke ochtend de kruiswoordpuzzel op.; Mein Vater löst jeden Morgen das Kreuzworträtsel.
+nl-xd-0437; Quiz; de quiz; ; A2; Freizeit/Spiele; Ons team heeft de quiz in de kroeg gewonnen.; Unser Team hat das Quiz in der Kneipe gewonnen.
+nl-xd-0438; Zaubertrick; de goocheltruc; ; A2; Freizeit/Spiele; Mijn oom liet ons een goocheltruc met kaarten zien.; Mein Onkel zeigte uns einen Zaubertrick mit Karten.
+nl-xd-0439; Spielverderber; de spelbreker; ; B2; Freizeit/Spiele; Wees geen spelbreker en speel mee.; Sei kein Spielverderber und spiel mit.
+nl-xd-0440; Glücksspiel; het gokken; het kansspel; B2; Freizeit/Spiele; Gokken kan snel een verslaving worden.; Glücksspiel kann schnell zur Sucht werden.
+nl-xd-0441; wetten; wedden; ; B1; Freizeit/Spiele; Ik wed tien euro dat ons team wint.; Ich wette zehn Euro, dass unsere Mannschaft gewinnt.
+nl-xd-0442; Lotterie; de loterij; ; B1; Freizeit/Spiele; Ze speelt elke week mee in de loterij.; Sie spielt jede Woche Lotterie.

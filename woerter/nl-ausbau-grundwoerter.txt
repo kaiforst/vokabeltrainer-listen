@@ -1,0 +1,489 @@
+# Niederländisch: Ausbau Grundwörter: themenübergreifende Verben, Adjektive, kleine Wörter, Zeit, Raum, Mengen, Denken und Sprechen, Gefühle und Charakter
+id; Deutsch; Niederländisch; Weitere Antworten; Niveau; Themen; Beispiel Niederländisch; Beispiel Deutsch
+nl-xe-0001; aufhören; ophouden; stoppen; A2; Allgemein/Verben; Hou alsjeblieft op met praten en luister naar me.; Bitte hör auf zu reden und hör mir zu.
+nl-xe-0002; benutzen; gebruiken; ; A2; Allgemein/Verben; Mag ik even je telefoon gebruiken?; Darf ich kurz dein Handy benutzen?
+nl-xe-0003; hängen; hangen; ophangen; A2; Allgemein/Verben; Ik hang mijn jas aan de haak naast de deur.; Ich hänge meine Jacke an den Haken neben der Tür.
+nl-xe-0004; fehlen; ontbreken; missen; A2; Allgemein/Verben; Aan mijn nieuwe overhemd ontbreekt een knoop.; An meinem neuen Hemd fehlt ein Knopf.
+nl-xe-0005; holen; halen; ; A2; Allgemein/Verben; Kun je een glas water voor me halen?; Kannst du mir ein Glas Wasser holen?
+nl-xe-0006; bewegen; bewegen; verplaatsen; A2; Allgemein/Verben; Help me om de bank een beetje naar links te bewegen.; Hilf mir, das Sofa ein bisschen nach links zu bewegen.
+nl-xe-0007; drehen; draaien; ; A2; Allgemein/Verben; Draai de sleutel twee keer om de deur te openen.; Dreh den Schlüssel zweimal, um die Tür zu öffnen.
+nl-xe-0008; enden; eindigen; aflopen; A2; Allgemein/Verben; Het verhaal eindigt met een grote bruiloft.; Die Geschichte endet mit einer großen Hochzeit.
+nl-xe-0009; drücken; drukken; duwen; A2; Allgemein/Verben; Druk op de groene knop om de machine te starten.; Drück den grünen Knopf, um die Maschine zu starten.
+nl-xe-0010; stören; storen; ; A2; Allgemein/Verben; Sorry dat ik stoor, maar ik heb een vraag.; Entschuldigung, dass ich störe, aber ich habe eine Frage.
+nl-xe-0011; verstecken; verstoppen; verbergen; A2; Allgemein/Verben; Waar heb je de verjaardagscadeaus verstopt?; Wo hast du die Geburtstagsgeschenke versteckt?
+nl-xe-0012; wecken; wekken; wakker maken; A2; Allgemein/Verben; Wek me morgen alsjeblieft om zeven uur.; Bitte weck mich morgen früh um sieben.
+nl-xe-0013; mischen; mengen; mixen; A2; Allgemein/Verben; Meng de blauwe en de gele verf door elkaar.; Misch die blaue und die gelbe Farbe zusammen.
+nl-xe-0014; heben; optillen; heffen; B1; Allgemein/Verben; Kun je me helpen deze zware kist op te tillen?; Kannst du mir helfen, diese schwere Kiste zu heben?
+nl-xe-0015; schaffen (bewältigen); redden; klaarspelen; B1; Allgemein/Verben; Maak je geen zorgen, dat red je makkelijk.; Keine Sorge, du schaffst das leicht.
+nl-xe-0016; sich verlassen; vertrouwen op; rekenen op, zich verlaten op; B1; Allgemein/Verben; Op je beste vriendin kun je altijd vertrouwen.; Auf deine beste Freundin kannst du dich immer verlassen.
+nl-xe-0017; sich gewöhnen; wennen; gewend raken; B1; Allgemein/Verben; Ik ben langzaam gewend geraakt aan het koude weer.; Ich habe mich langsam an das kalte Wetter gewöhnt.
+nl-xe-0018; sich lohnen; de moeite waard zijn; lonen; B1; Allgemein/Verben; De lange weg naar boven was de moeite waard.; Der lange Weg nach oben hat sich gelohnt.
+nl-xe-0019; sich beteiligen; deelnemen; meedoen; B1; Allgemein/Verben; Iedereen in de klas nam deel aan de discussie.; Alle in der Klasse haben sich an der Diskussion beteiligt.
+nl-xe-0020; sich einigen; het eens worden; overeenkomen; B1; Allgemein/Verben; We zijn het eindelijk eens geworden over een datum voor het feest.; Wir haben uns endlich auf einen Termin für die Party geeinigt.
+nl-xe-0021; sich weigern; weigeren; ; B1; Allgemein/Verben; Hij weigerde mijn vraag te beantwoorden.; Er weigerte sich, meine Frage zu beantworten.
+nl-xe-0022; begleiten; begeleiden; meegaan; B1; Allgemein/Verben; Kun je me morgen naar de dokter begeleiden?; Kannst du mich morgen zum Arzt begleiten?
+nl-xe-0023; belohnen; belonen; ; B1; Allgemein/Verben; De hond werd beloond met een snoepje.; Der Hund wurde mit einem Leckerli belohnt.
+nl-xe-0024; verwenden; gebruiken; ; B1; Allgemein/Verben; Voor deze soep gebruiken we alleen verse groente.; Für diese Suppe verwenden wir nur frisches Gemüse.
+nl-xe-0025; nutzen; benutten; gebruiken; B1; Allgemein/Verben; Benut de vrije tijd om een beetje te ontspannen.; Nutze die freie Zeit, um dich ein bisschen zu entspannen.
+nl-xe-0026; beobachten; observeren; bekijken; B1; Allgemein/Verben; We hebben de vogels vanuit het keukenraam geobserveerd.; Wir haben die Vögel vom Küchenfenster aus beobachtet.
+nl-xe-0027; bestimmen; bepalen; beslissen; B1; Allgemein/Verben; Wie bepaalt wat we in het weekend doen?; Wer bestimmt, was wir am Wochenende machen?
+nl-xe-0028; bieten; bieden; ; B1; Allgemein/Verben; Het hotel biedt een prachtig uitzicht op zee.; Das Hotel bietet einen wunderbaren Blick aufs Meer.
+nl-xe-0029; erstellen; opstellen; maken, aanmaken; B1; Allgemein/Verben; Stel alsjeblieft een lijst op van alle deelnemers.; Bitte erstelle eine Liste aller Teilnehmer.
+nl-xe-0030; garantieren; garanderen; ; B1; Allgemein/Verben; Ik kan niet garanderen dat het werkt.; Ich kann nicht garantieren, dass es funktioniert.
+nl-xe-0031; genügen; genoeg zijn; volstaan, voldoende zijn; B1; Allgemein/Verben; Een klein stukje taart is genoeg voor mij.; Ein kleines Stück Kuchen genügt mir.
+nl-xe-0032; greifen; grijpen; pakken; B1; Allgemein/Verben; Hij greep met beide handen naar het touw.; Er griff mit beiden Händen nach dem Seil.
+nl-xe-0033; retten; redden; ; B1; Allgemein/Verben; De brandweer heeft de kat uit de boom gered.; Die Feuerwehr hat die Katze vom Baum gerettet.
+nl-xe-0034; stecken; steken; stoppen; B1; Allgemein/Verben; Hij stak de brief in zijn jaszak.; Er steckte den Brief in seine Manteltasche.
+nl-xe-0035; tauschen; ruilen; wisselen; B1; Allgemein/Verben; Zullen we van plaats ruilen, zodat je beter kunt zien?; Sollen wir die Plätze tauschen, damit du besser sehen kannst?
+nl-xe-0036; überraschen; verrassen; ; B1; Allgemein/Verben; We willen mama op haar verjaardag verrassen.; Wir wollen Mama an ihrem Geburtstag überraschen.
+nl-xe-0037; verbieten; verbieden; ; B1; Allgemein/Verben; Mijn ouders verbieden me om lang weg te blijven.; Meine Eltern verbieten mir, lange wegzubleiben.
+nl-xe-0038; verschwinden; verdwijnen; ; B1; Allgemein/Verben; Mijn sleutels zijn vanmorgen alweer verdwenen.; Meine Schlüssel sind heute Morgen schon wieder verschwunden.
+nl-xe-0039; kleben; plakken; lijmen; A2; Allgemein/Verben; Plak de foto in het midden van de pagina.; Kleb das Foto in die Mitte der Seite.
+nl-xe-0040; rollen; rollen; ; A2; Allgemein/Verben; De bal rolde langzaam onder de auto.; Der Ball rollte langsam unter das Auto.
+nl-xe-0041; rutschen; glijden; uitglijden, slippen; A2; Allgemein/Verben; Pas op, je kunt op het ijs uitglijden.; Pass auf, du könntest auf dem Eis rutschen.
+nl-xe-0042; sich verabschieden; afscheid nemen; ; A2; Allgemein/Verben; We hebben op het station afscheid genomen van onze vrienden.; Wir haben uns am Bahnhof von unseren Freunden verabschiedet.
+nl-xe-0043; sich bedanken; bedanken; ; A2; Allgemein/Verben; Vergeet niet om te bedanken voor het cadeau.; Vergiss nicht, dich für das Geschenk zu bedanken.
+nl-xe-0044; sich streiten; ruziemaken; ruziën, ruzie maken; A2; Allgemein/Verben; Mijn broer en ik maken vaak ruzie om de tv.; Mein Bruder und ich streiten uns oft um den Fernseher.
+nl-xe-0045; verteilen; verdelen; uitdelen; B1; Allgemein/Verben; De lerares verdeelde de werkbladen onder alle leerlingen.; Die Lehrerin verteilte die Arbeitsblätter an alle.
+nl-xe-0046; interessieren; interesseren; ; B1; Allgemein/Verben; Politiek interesseert me helemaal niet.; Politik interessiert mich überhaupt nicht.
+nl-xe-0047; ausreichen; voldoende zijn; genoeg zijn, volstaan; B1; Allgemein/Verben; Het geld zal niet voldoende zijn voor een nieuwe auto.; Das Geld wird für ein neues Auto nicht ausreichen.
+nl-xe-0048; beschädigen; beschadigen; ; B1; Allgemein/Verben; De storm heeft het dak van ons huis beschadigd.; Der Sturm hat das Dach unseres Hauses beschädigt.
+nl-xe-0049; biegen; buigen; ; B1; Allgemein/Verben; Hij boog de draad met zijn blote handen.; Er bog den Draht mit bloßen Händen.
+nl-xe-0050; erledigen; afhandelen; regelen, afwerken; B1; Allgemein/Verben; Ik moet vandaag nog een paar dingen afhandelen.; Ich muss heute noch ein paar Sachen erledigen.
+nl-xe-0051; ergänzen; aanvullen; toevoegen; B1; Allgemein/Verben; Wil je de lijst nog met iets aanvullen?; Möchtest du noch etwas auf der Liste ergänzen?
+nl-xe-0052; festhalten; vasthouden; ; B1; Allgemein/Verben; Houd je goed vast, de bus vertrekt zo.; Halt dich gut fest, der Bus fährt gleich los.
+nl-xe-0053; lehnen; leunen; ; B1; Allgemein/Verben; Hij leunde tegen de muur en wachtte op de bus.; Er lehnte an der Wand und wartete auf den Bus.
+nl-xe-0054; markieren; markeren; ; B1; Allgemein/Verben; Markeer de belangrijke woorden met een gele stift.; Markiere die wichtigen Wörter mit einem gelben Stift.
+nl-xe-0055; verändern; veranderen; ; B1; Allgemein/Verben; De nieuwe baan heeft zijn leven volledig veranderd.; Die neue Stelle hat sein Leben völlig verändert.
+nl-xe-0056; zerstören; verwoesten; vernietigen, kapotmaken; B1; Allgemein/Verben; Het vuur verwoestte de oude houten brug.; Das Feuer zerstörte die alte Holzbrücke.
+nl-xe-0057; zusammenarbeiten; samenwerken; ; B1; Allgemein/Verben; We hebben wekenlang aan het project samengewerkt.; Wir haben wochenlang an dem Projekt zusammengearbeitet.
+nl-xe-0058; loslassen; loslaten; ; B1; Allgemein/Verben; Laat in de menigte mijn hand niet los.; Lass in der Menge meine Hand nicht los.
+nl-xe-0059; aufheben (vom Boden); oprapen; ; B1; Allgemein/Verben; Raap alsjeblieft je kleren van de vloer op.; Bitte heb deine Kleider vom Boden auf.
+nl-xe-0060; erwischen; te pakken krijgen; ; B1; Allgemein/Verben; We hebben nog net de laatste bus naar huis te pakken gekregen.; Wir haben gerade noch den letzten Bus nach Hause erwischt.
+nl-xe-0061; klappen; lukken; ; B1; Allgemein/Verben; Ik hoop dat alles lukt met je nieuwe woning.; Ich hoffe, mit deiner neuen Wohnung klappt alles.
+nl-xe-0062; sich kümmern; zorgen voor; ; B1; Allgemein/Verben; Wie zorgt er voor je kat als je weg bent?; Wer kümmert sich um deine Katze, wenn du weg bist?
+nl-xe-0063; sich anstrengen; zich inspannen; moeite doen, zijn best doen; B1; Allgemein/Verben; Als je je inspant, haal je de toets.; Wenn du dich anstrengst, bestehst du den Test.
+nl-xe-0064; sich trauen; durven; ; B1; Allgemein/Verben; Ik durfde het niet aan de lerares te vragen.; Ich habe mich nicht getraut, die Lehrerin zu fragen.
+nl-xe-0065; sich wundern; zich verbazen; zich verwonderen; B1; Allgemein/Verben; Ik verbaasde me erover dat niemand naar het feest kwam.; Ich habe mich gewundert, dass niemand zur Party kam.
+nl-xe-0066; betreffen; betreffen; aangaan; B2; Allgemein/Verben; De nieuwe regels betreffen alle leerlingen van de school.; Die neuen Regeln betreffen alle Schüler der Schule.
+nl-xe-0067; darstellen; voorstellen; afbeelden, weergeven, uitbeelden; B2; Allgemein/Verben; Het schilderij stelt een rustig dorp aan een meer voor.; Das Gemälde stellt ein ruhiges Dorf an einem See dar.
+nl-xe-0068; entsprechen; overeenkomen met; beantwoorden aan; B2; Allgemein/Verben; Het resultaat komt precies overeen met onze verwachtingen.; Das Ergebnis entspricht genau unseren Erwartungen.
+nl-xe-0069; entstehen; ontstaan; ; B2; Allgemein/Verben; Tijdens het gesprek ontstond er een nieuw idee.; Während des Gesprächs entstand eine neue Idee.
+nl-xe-0070; erzeugen; veroorzaken; opwekken, produceren, voortbrengen; B2; Allgemein/Verben; Dit voortdurende lawaai veroorzaakt veel stress.; Dieser ständige Lärm erzeugt viel Stress.
+nl-xe-0071; gelten; gelden; ; B2; Allgemein/Verben; Deze regel geldt voor iedereen in de klas.; Diese Regel gilt für alle in der Klasse.
+nl-xe-0072; gleichen; lijken op; ; B2; Allgemein/Verben; De twee zussen lijken erg op elkaar.; Die beiden Schwestern gleichen sich sehr.
+nl-xe-0073; senken; verlagen; laten dalen; B2; Allgemein/Verben; De winkel heeft deze week zijn prijzen verlaagd.; Der Laden hat diese Woche seine Preise gesenkt.
+nl-xe-0074; wagen; wagen; durven; B2; Allgemein/Verben; Niemand waagde het om één woord te zeggen.; Niemand wagte es, ein einziges Wort zu sagen.
+nl-xe-0075; sich eignen; geschikt zijn; zich lenen; B2; Allgemein/Verben; Deze ruimte is geschikt voor kleine bijeenkomsten.; Dieser Raum eignet sich für kleine Treffen.
+nl-xe-0076; sich bemühen; moeite doen; zich inspannen, zijn best doen; B2; Allgemein/Verben; Ze heeft echt moeite gedaan om vriendelijk te zijn.; Sie hat sich wirklich bemüht, freundlich zu sein.
+nl-xe-0077; befestigen; bevestigen; vastmaken; B2; Allgemein/Verben; Bevestig het bordje met plakband aan de deur.; Befestige das Schild mit Klebeband an der Tür.
+nl-xe-0078; bewahren; bewaren; behouden; B2; Allgemein/Verben; Probeer in een moeilijke situatie je kalmte te bewaren.; Versuch, in einer schwierigen Situation die Ruhe zu bewahren.
+nl-xe-0079; erneuern; vernieuwen; verlengen; B2; Allgemein/Verben; Ik moet volgende maand mijn paspoort laten vernieuwen.; Ich muss nächsten Monat meinen Reisepass erneuern lassen.
+nl-xe-0080; stützen; ondersteunen; steunen, schragen; B2; Allgemein/Verben; Oude balken ondersteunen het dak van de schuur.; Alte Balken stützen das Dach der Scheune.
+nl-xe-0081; verbergen; verbergen; verhullen; B2; Allgemein/Verben; Ze probeerde haar teleurstelling te verbergen.; Sie versuchte, ihre Enttäuschung zu verbergen.
+nl-xe-0082; verdecken; bedekken; afdekken, verbergen; B2; Allgemein/Verben; Een grote wolk bedekte een tijdje de zon.; Eine große Wolke verdeckte eine Weile die Sonne.
+nl-xe-0083; vereinfachen; vereenvoudigen; versimpelen; B2; Allgemein/Verben; De nieuwe app vereenvoudigt veel dagelijkse taken.; Die neue App vereinfacht viele alltägliche Aufgaben.
+nl-xe-0084; verkürzen; verkorten; inkorten; B2; Allgemein/Verben; De nieuwe weg verkort de reis met een uur.; Die neue Straße verkürzt die Fahrt um eine Stunde.
+nl-xe-0085; versorgen; voorzien; bevoorraden; B2; Allgemein/Verben; De boerderij voorziet het dorp van verse melk.; Der Bauernhof versorgt das Dorf mit frischer Milch.
+nl-xe-0086; verstärken; versterken; ; B2; Allgemein/Verben; Het slechte nieuws versterkte zijn angsten.; Die schlechte Nachricht verstärkte seine Ängste.
+nl-xe-0087; vertreten; vertegenwoordigen; ; B2; Allgemein/Verben; Zij vertegenwoordigt onze klas in de leerlingenraad.; Sie vertritt unsere Klasse in der Schülervertretung.
+nl-xe-0088; toll; geweldig; fantastisch, te gek, super; A1; Allgemein/Adjektive; We hadden een geweldige tijd op het strand.; Wir hatten eine tolle Zeit am Strand.
+nl-xe-0089; fertig; klaar; af; A1; Allgemein/Adjektive; Ben je al klaar met je huiswerk?; Bist du schon mit deinen Hausaufgaben fertig?
+nl-xe-0090; hell; licht; helder; A2; Allgemein/Adjektive; Onze nieuwe woning is groot en erg licht.; Unsere neue Wohnung ist groß und sehr hell.
+nl-xe-0091; komisch; raar; vreemd, gek; A2; Allgemein/Adjektive; Het ruikt raar in de keuken.; In der Küche riecht es komisch.
+nl-xe-0092; kompliziert; ingewikkeld; gecompliceerd; A2; Allgemein/Adjektive; De handleiding van het spel is erg ingewikkeld.; Die Anleitung für das Spiel ist sehr kompliziert.
+nl-xe-0093; unmöglich; onmogelijk; ; A2; Allgemein/Adjektive; Het is onmogelijk om dat voor morgen af te krijgen.; Es ist unmöglich, das bis morgen fertig zu machen.
+nl-xe-0094; verboten; verboden; ; A2; Allgemein/Adjektive; Roken is in het hele gebouw verboden.; Rauchen ist im ganzen Gebäude verboten.
+nl-xe-0095; verrückt; gek; krankzinnig, waanzinnig, maf; A2; Allgemein/Adjektive; Dat is een gek idee, maar ik vind het leuk.; Das ist eine verrückte Idee, aber sie gefällt mir.
+nl-xe-0096; wach; wakker; ; A2; Allgemein/Adjektive; Ik was de halve nacht wakker.; Ich war die halbe Nacht wach.
+nl-xe-0097; wild; wild; ; A2; Allgemein/Adjektive; De kinderen waren na het feest erg wild.; Die Kinder waren nach der Party sehr wild.
+nl-xe-0098; normal; normaal; gewoon; A2; Allgemein/Adjektive; Het is normaal om voor een examen nerveus te zijn.; Es ist normal, vor einer Prüfung nervös zu sein.
+nl-xe-0099; schlimm; erg; slecht, vreselijk; A2; Allgemein/Adjektive; Het verkeer was vanmorgen echt heel erg.; Der Verkehr war heute Morgen wirklich schlimm.
+nl-xe-0100; echt; echt; ; A2; Allgemein/Adjektive; Is dat een echte diamant of een vervalsing?; Ist das ein echter Diamant oder eine Fälschung?
+nl-xe-0101; nötig; nodig; noodzakelijk; A2; Allgemein/Adjektive; Is het echt nodig om hem nu te bellen?; Ist es wirklich nötig, ihn jetzt anzurufen?
+nl-xe-0102; witzig; grappig; geestig, leuk; A2; Allgemein/Adjektive; Hij heeft ons een heel grappig verhaal verteld.; Er hat uns eine sehr witzige Geschichte erzählt.
+nl-xe-0103; unfair; oneerlijk; unfair; A2; Allgemein/Adjektive; Het is oneerlijk dat ik altijd moet afwassen.; Es ist unfair, dass ich immer abwaschen muss.
+nl-xe-0104; kühl; koel; ; A2; Allgemein/Adjektive; Bewaar het medicijn op een koele plaats.; Bewahre das Medikament an einem kühlen Ort auf.
+nl-xe-0105; bekannt; bekend; ; A2; Allgemein/Adjektive; De stad is bekend om zijn oude kasteel.; Die Stadt ist für ihr altes Schloss bekannt.
+nl-xe-0106; eigen; eigen; ; B1; Allgemein/Adjektive; Op een dag wil ik een eigen kamer hebben.; Eines Tages möchte ich ein eigenes Zimmer haben.
+nl-xe-0107; sorgfältig; zorgvuldig; nauwkeurig; B1; Allgemein/Adjektive; Lees de tekst zorgvuldig voordat je antwoordt.; Lies den Text sorgfältig, bevor du antwortest.
+nl-xe-0108; einzig; enig; ; B1; Allgemein/Adjektive; Zij is de enige persoon die het antwoord kent.; Sie ist die einzige Person, die die Antwort kennt.
+nl-xe-0109; geheim; geheim; ; B1; Allgemein/Adjektive; Het plan moet tot vrijdag geheim blijven.; Der Plan muss bis Freitag geheim bleiben.
+nl-xe-0110; glatt (Oberfläche); glad; ; B1; Allgemein/Adjektive; De steen is na jaren in de rivier helemaal glad.; Der Stein ist nach Jahren im Fluss ganz glatt.
+nl-xe-0111; korrekt; correct; juist; B1; Allgemein/Adjektive; Al je antwoorden in de toets waren correct.; Alle deine Antworten im Test waren korrekt.
+nl-xe-0112; locker (nicht fest); los; ; B1; Allgemein/Adjektive; Een van mijn tanden zit los.; Einer meiner Zähne ist locker.
+nl-xe-0113; merkwürdig; merkwaardig; vreemd, raar, eigenaardig; B1; Allgemein/Adjektive; Gisteren is me iets merkwaardigs overkomen.; Gestern ist mir etwas Merkwürdiges passiert.
+nl-xe-0114; passend; passend; geschikt; B1; Allgemein/Adjektive; Ik vind geen passend cadeau voor haar.; Ich finde kein passendes Geschenk für sie.
+nl-xe-0115; rein; zuiver; puur, rein; B1; Allgemein/Adjektive; Deze trui is van zuivere wol.; Dieser Pullover ist aus reiner Wolle.
+nl-xe-0116; üblich; gebruikelijk; gewoon, normaal; B1; Allgemein/Adjektive; Hier is het gebruikelijk om ongeveer tien procent fooi te geven.; Hier ist es üblich, etwa zehn Prozent Trinkgeld zu geben.
+nl-xe-0117; verschieden; verschillend; ; B1; Allgemein/Adjektive; De tweeling heeft heel verschillende interesses.; Die Zwillinge haben ganz verschiedene Interessen.
+nl-xe-0118; zusätzlich; extra; bijkomend, aanvullend; B1; Allgemein/Adjektive; Voor het ontbijt zijn er extra kosten.; Für das Frühstück gibt es eine zusätzliche Gebühr.
+nl-xe-0119; angenehm; aangenaam; prettig, fijn; B1; Allgemein/Adjektive; We hadden een aangename avond met onze buren.; Wir hatten einen angenehmen Abend mit unseren Nachbarn.
+nl-xe-0120; unangenehm; onaangenaam; onprettig, vervelend; B1; Allgemein/Adjektive; De geur in de kelder is erg onaangenaam.; Der Geruch im Keller ist sehr unangenehm.
+nl-xe-0121; ausgezeichnet; uitstekend; voortreffelijk, uitmuntend; B1; Allgemein/Adjektive; Het eten in dit restaurant is uitstekend.; Das Essen in diesem Restaurant ist ausgezeichnet.
+nl-xe-0122; winzig; piepklein; minuscuul, heel klein; B1; Allgemein/Adjektive; We woonden in een piepkleine kamer onder het dak.; Wir wohnten in einem winzigen Zimmer unter dem Dach.
+nl-xe-0123; direkt; direct; rechtstreeks; B1; Allgemein/Adjektive; Is er een directe trein naar München?; Gibt es einen direkten Zug nach München?
+nl-xe-0124; unbekannt; onbekend; ; B1; Allgemein/Adjektive; De oorzaak van de brand is nog onbekend.; Die Ursache des Feuers ist noch unbekannt.
+nl-xe-0125; sichtbar; zichtbaar; ; B1; Allgemein/Adjektive; De bergen zijn alleen op heldere dagen zichtbaar.; Die Berge sind nur an klaren Tagen sichtbar.
+nl-xe-0126; unsichtbar; onzichtbaar; ; B1; Allgemein/Adjektive; In het verhaal kan de jongen onzichtbaar worden.; In der Geschichte kann der Junge unsichtbar werden.
+nl-xe-0127; lebendig; levend; levendig; B1; Allgemein/Adjektive; De vis in de emmer was nog levend.; Der Fisch im Eimer war noch lebendig.
+nl-xe-0128; nutzlos; nutteloos; ; B1; Allgemein/Adjektive; Deze oude kaart is nu volkomen nutteloos.; Diese alte Karte ist jetzt völlig nutzlos.
+nl-xe-0129; logisch; logisch; ; B1; Allgemein/Adjektive; Daar moet een logische verklaring voor zijn.; Dafür muss es eine logische Erklärung geben.
+nl-xe-0130; sinnvoll; zinvol; verstandig; B1; Allgemein/Adjektive; Het zou zinvol zijn om wat eerder te vertrekken.; Es wäre sinnvoll, etwas früher loszufahren.
+nl-xe-0131; negativ; negatief; ; B1; Allgemein/Adjektive; Denk niet altijd aan de negatieve dingen.; Denk nicht immer an die negativen Dinge.
+nl-xe-0132; ideal; ideaal; ; B1; Allgemein/Adjektive; Het weer was ideaal voor een fietstocht.; Das Wetter war ideal für eine Radtour.
+nl-xe-0133; fein; fijn; ; B1; Allgemein/Adjektive; Het zand op dit strand is heel fijn.; Der Sand an diesem Strand ist sehr fein.
+nl-xe-0134; gemischt; gemengd; ; B1; Allgemein/Adjektive; De reacties op de film waren gemengd.; Die Reaktionen auf den Film waren gemischt.
+nl-xe-0135; vollständig; volledig; compleet; B1; Allgemein/Adjektive; Neem alsjeblieft een volledige lijst van je boeken mee.; Bitte bring eine vollständige Liste deiner Bücher mit.
+nl-xe-0136; hervorragend; voortreffelijk; uitstekend, uitmuntend; B2; Allgemein/Adjektive; Ze heeft in het toneelstuk een voortreffelijke prestatie geleverd.; Sie hat in dem Theaterstück eine hervorragende Leistung gezeigt.
+nl-xe-0137; gewaltig; enorm; reusachtig, gigantisch; B2; Allgemein/Adjektive; Een enorme golf trof het kleine bootje.; Eine gewaltige Welle traf das kleine Boot.
+nl-xe-0138; eindeutig; duidelijk; eenduidig, ondubbelzinnig; B2; Allgemein/Adjektive; De uitslag van de stemming was duidelijk.; Das Ergebnis der Abstimmung war eindeutig.
+nl-xe-0139; entscheidend; beslissend; doorslaggevend, cruciaal; B2; Allgemein/Adjektive; De komende dagen zullen beslissend zijn.; Die nächsten Tage werden entscheidend sein.
+nl-xe-0140; ausreichend; voldoende; toereikend, genoeg; B2; Allgemein/Adjektive; Er was niet voldoende tijd voor vragen.; Es gab nicht ausreichend Zeit für Fragen.
+nl-xe-0141; indirekt; indirect; ; B2; Allgemein/Adjektive; Zijn antwoord was een indirecte kritiek op het plan.; Seine Antwort war eine indirekte Kritik am Plan.
+nl-xe-0142; konkret; concreet; ; B2; Allgemein/Adjektive; Kun je me een concreet voorbeeld geven?; Kannst du mir ein konkretes Beispiel geben?
+nl-xe-0143; sinnlos; zinloos; ; B2; Allgemein/Adjektive; Het is zinloos om ruzie met hem te maken.; Es ist sinnlos, mit ihm zu streiten.
+nl-xe-0144; sanft; zacht; teder, zachtaardig; B2; Allgemein/Adjektive; Ze maakte de baby met zachte stem wakker.; Sie weckte das Baby mit sanfter Stimme.
+nl-xe-0145; gleichmäßig; gelijkmatig; ; B2; Allgemein/Adjektive; Verdeel de boter gelijkmatig over het brood.; Verteile die Butter gleichmäßig auf dem Brot.
+nl-xe-0146; in; in; ; A1; Allgemein/Kleine Wörter; De sleutels zitten in mijn schooltas.; Die Schlüssel sind in meiner Schultasche.
+nl-xe-0147; an; aan; bij, op; A1; Allgemein/Kleine Wörter; Er staat iemand aan de deur.; Jemand steht an der Tür.
+nl-xe-0148; bei; bij; ; A1; Allgemein/Kleine Wörter; Ik ben dit weekend bij mijn tante.; Ich bin dieses Wochenende bei meiner Tante.
+nl-xe-0149; so; zo; ; A1; Allgemein/Kleine Wörter; Ik ben na de lange dag zo moe.; Ich bin nach dem langen Tag so müde.
+nl-xe-0150; denn; want; ; A1; Allgemein/Kleine Wörter; Ik blijf thuis, want ik ben ziek.; Ich bleibe zu Hause, denn ich bin krank.
+nl-xe-0151; gern; graag; ; A1; Allgemein/Kleine Wörter; Ik help je graag met de dozen.; Ich helfe dir gern mit den Kisten.
+nl-xe-0152; niemand; niemand; ; A2; Allgemein/Kleine Wörter; Thuis nam niemand de telefoon op.; Zu Hause ist niemand ans Telefon gegangen.
+nl-xe-0153; über (Thema); over; ; A2; Allgemein/Kleine Wörter; We hebben over onze plannen voor de zomer gepraat.; Wir haben über unsere Pläne für den Sommer gesprochen.
+nl-xe-0154; wieso; waarom; hoezo; A2; Allgemein/Kleine Wörter; Waarom heb je me dat niet eerder gezegd?; Wieso hast du mir das nicht früher gesagt?
+nl-xe-0155; trotzdem; toch; desondanks, niettemin, evengoed; A2; Allgemein/Kleine Wörter; Het regende, toch gingen we wandelen.; Es regnete, trotzdem gingen wir spazieren.
+nl-xe-0156; wegen; vanwege; wegens, door; A2; Allgemein/Kleine Wörter; De wedstrijd werd vanwege de regen afgelast.; Das Spiel wurde wegen des Regens abgesagt.
+nl-xe-0157; ab; vanaf; ; A2; Allgemein/Kleine Wörter; De winkel is vanaf negen uur open.; Der Laden ist ab neun Uhr geöffnet.
+nl-xe-0158; bevor; voordat; voor, eer; A2; Allgemein/Kleine Wörter; Was je handen voordat je eet.; Wasch dir die Hände, bevor du isst.
+nl-xe-0159; eigentlich; eigenlijk; ; A2; Allgemein/Kleine Wörter; Eigenlijk wilde ik vandaag thuisblijven.; Eigentlich wollte ich heute zu Hause bleiben.
+nl-xe-0160; leider; helaas; jammer genoeg; A2; Allgemein/Kleine Wörter; Helaas kan ik niet naar je feest komen.; Leider kann ich nicht zu deiner Party kommen.
+nl-xe-0161; hoffentlich; hopelijk; ; A2; Allgemein/Kleine Wörter; Hopelijk is het weer morgen beter.; Hoffentlich ist das Wetter morgen besser.
+nl-xe-0162; also; dus; ; A2; Allgemein/Kleine Wörter; Het is laat, dus laten we naar huis gaan.; Es ist spät, also lass uns nach Hause gehen.
+nl-xe-0163; bestimmt; zeker; vast, beslist, vast en zeker; A2; Allgemein/Kleine Wörter; Ze belt je vanavond zeker.; Sie ruft dich heute Abend bestimmt an.
+nl-xe-0164; einander; elkaar; ; B1; Allgemein/Kleine Wörter; De twee oude vrienden kennen elkaar al jaren.; Die beiden alten Freunde kennen einander seit Jahren.
+nl-xe-0165; deswegen; daarom; daardoor, dus; B1; Allgemein/Kleine Wörter; De bus kwam te laat, daarom heb ik de film gemist.; Der Bus kam zu spät, deswegen habe ich den Film verpasst.
+nl-xe-0166; statt; in plaats van; ; B1; Allgemein/Kleine Wörter; Laten we vandaag thee drinken in plaats van koffie.; Lass uns heute Tee statt Kaffee trinken.
+nl-xe-0167; außer; behalve; ; B1; Allgemein/Kleine Wörter; Iedereen behalve Tom kwam naar het feest.; Alle außer Tom kamen zur Party.
+nl-xe-0168; damit (Zweck); zodat; opdat; B1; Allgemein/Kleine Wörter; Praat harder, zodat iedereen je kan horen.; Sprich lauter, damit dich alle hören können.
+nl-xe-0169; falls; als; indien, voor het geval dat; B1; Allgemein/Kleine Wörter; Bel me als er iets gebeurt.; Ruf mich an, falls etwas passiert.
+nl-xe-0170; nachdem; nadat; ; B1; Allgemein/Kleine Wörter; Nadat we gegeten hadden, gingen we wandelen.; Nachdem wir gegessen hatten, gingen wir spazieren.
+nl-xe-0171; seitdem; sindsdien; sinds; B1; Allgemein/Kleine Wörter; Ze is verhuisd en sindsdien zien we elkaar zelden.; Sie ist weggezogen und seitdem sehen wir uns selten.
+nl-xe-0172; sondern; maar; ; B1; Allgemein/Kleine Wörter; Hij is niet mijn broer, maar mijn neef.; Er ist nicht mein Bruder, sondern mein Cousin.
+nl-xe-0173; entweder; ofwel; of; B1; Allgemein/Kleine Wörter; We kunnen ofwel met de bus gaan ofwel lopen.; Wir können entweder mit dem Bus fahren oder zu Fuß gehen.
+nl-xe-0174; weder; noch; ; B1; Allgemein/Kleine Wörter; Ik hou noch van vis noch van vlees.; Ich mag weder Fisch noch Fleisch.
+nl-xe-0175; allerdings; echter; evenwel; B1; Allgemein/Kleine Wörter; Het hotel was mooi, het eten was echter verschrikkelijk.; Das Hotel war schön, das Essen war allerdings schrecklich.
+nl-xe-0176; außerdem; bovendien; trouwens, daarnaast; B1; Allgemein/Kleine Wörter; Het is te laat, en bovendien ben ik moe.; Es ist zu spät, und außerdem bin ich müde.
+nl-xe-0177; genauso; net zo; even, precies zo; B1; Allgemein/Kleine Wörter; Mijn nieuwe telefoon is net zo goed als de oude.; Mein neues Handy ist genauso gut wie das alte.
+nl-xe-0178; bloß; alleen maar; alleen, enkel, gewoon; B1; Allgemein/Kleine Wörter; Ik wilde je alleen maar helpen.; Ich wollte dir bloß helfen.
+nl-xe-0179; eher; eerder; liever; B1; Allgemein/Kleine Wörter; Dat is eerder een voordeel dan een nadeel.; Das ist eher ein Vorteil als ein Nachteil.
+nl-xe-0180; höchstens; hoogstens; maximaal, ten hoogste; B1; Allgemein/Kleine Wörter; De film duurt hoogstens anderhalf uur.; Der Film dauert höchstens eineinhalb Stunden.
+nl-xe-0181; wenigstens; tenminste; minstens, op zijn minst, althans; B1; Allgemein/Kleine Wörter; Je zou tenminste dankjewel kunnen zeggen.; Du könntest wenigstens Danke sagen.
+nl-xe-0182; sowieso; sowieso; toch, hoe dan ook; B1; Allgemein/Kleine Wörter; Maak je geen zorgen, ik wilde er sowieso heen.; Keine Sorge, ich wollte sowieso dorthin.
+nl-xe-0183; sonst; anders; ; B1; Allgemein/Kleine Wörter; Schiet op, anders missen we de trein.; Beeil dich, sonst verpassen wir den Zug.
+nl-xe-0184; irgendwie; op een of andere manier; ; B1; Allgemein/Kleine Wörter; Geen zorgen, we redden het op een of andere manier.; Keine Sorge, wir werden es irgendwie schaffen.
+nl-xe-0185; überhaupt; helemaal; überhaupt, totaal; B1; Allgemein/Kleine Wörter; Ik vind deze muziek helemaal niet leuk.; Ich mag diese Musik überhaupt nicht.
+nl-xe-0186; unbedingt; absoluut; beslist, per se, echt; B1; Allgemein/Kleine Wörter; Je moet deze film absoluut zien.; Du musst diesen Film unbedingt sehen.
+nl-xe-0187; zufällig; toevallig; per toeval; B1; Allgemein/Kleine Wörter; Ik heb toevallig mijn oude leraar in de stad ontmoet.; Ich habe zufällig meinen alten Lehrer in der Stadt getroffen.
+nl-xe-0188; absolut; absoluut; volkomen, helemaal; B1; Allgemein/Kleine Wörter; Ik ben er absoluut zeker van dat ik de deur heb afgesloten.; Ich bin absolut sicher, dass ich die Tür abgeschlossen habe.
+nl-xe-0189; relativ; relatief; betrekkelijk; B1; Allgemein/Kleine Wörter; De toets was deze keer relatief makkelijk.; Der Test war diesmal relativ leicht.
+nl-xe-0190; extrem; extreem; ; B1; Allgemein/Kleine Wörter; In de bergen was het extreem koud.; In den Bergen war es extrem kalt.
+nl-xe-0191; gemeinsam; samen; gezamenlijk; B1; Allgemein/Kleine Wörter; We hebben gisteravond samen gekookt.; Wir haben gestern Abend gemeinsam gekocht.
+nl-xe-0192; da (weil); aangezien; omdat, daar; B1; Allgemein/Kleine Wörter; Aangezien het regende, bleven we thuis.; Da es regnete, blieben wir zu Hause.
+nl-xe-0193; wozu; waarvoor; waartoe; B1; Allgemein/Kleine Wörter; Waarvoor heb je al dat geld nodig?; Wozu brauchst du das ganze Geld?
+nl-xe-0194; gegenseitig; wederzijds; onderling; B2; Allgemein/Kleine Wörter; Het vertrouwen tussen ons is wederzijds.; Das Vertrauen zwischen uns ist gegenseitig.
+nl-xe-0195; dank; dankzij; ; B2; Allgemein/Kleine Wörter; Dankzij jouw hulp waren we op tijd klaar.; Dank deiner Hilfe sind wir rechtzeitig fertig geworden.
+nl-xe-0196; sodass; zodat; ; B2; Allgemein/Kleine Wörter; Het was erg mistig, zodat we bijna niets konden zien.; Es war sehr neblig, sodass wir kaum etwas sehen konnten.
+nl-xe-0197; indem; door; door te; B2; Allgemein/Kleine Wörter; Je kunt geld besparen door thuis te koken.; Du kannst Geld sparen, indem du zu Hause kochst.
+nl-xe-0198; ebenfalls; eveneens; ook; B2; Allgemein/Kleine Wörter; Mijn broer studeert eveneens geneeskunde.; Mein Bruder studiert ebenfalls Medizin.
+nl-xe-0199; möglicherweise; mogelijk; misschien, wellicht, mogelijkerwijs; B2; Allgemein/Kleine Wörter; De trein heeft mogelijk wat vertraging.; Der Zug wird möglicherweise etwas Verspätung haben.
+nl-xe-0200; offenbar; blijkbaar; kennelijk, klaarblijkelijk; B2; Allgemein/Kleine Wörter; Blijkbaar had niemand hem over de bijeenkomst verteld.; Offenbar hatte ihm niemand von dem Treffen erzählt.
+nl-xe-0201; jedenfalls; in ieder geval; in elk geval, hoe dan ook; B2; Allgemein/Kleine Wörter; Ik weet niet wat de anderen doen, ik kom in ieder geval.; Ich weiß nicht, was die anderen machen, ich komme jedenfalls.
+nl-xe-0202; nämlich; namelijk; ; B2; Allgemein/Kleine Wörter; Er ontbraken twee leerlingen, namelijk Anna en Tim.; Zwei Schüler fehlten, nämlich Anna und Tim.
+nl-xe-0203; beispielsweise; bijvoorbeeld; ; B2; Allgemein/Kleine Wörter; Veel soorten fruit, bijvoorbeeld appels, groeien hier.; Viele Obstsorten, beispielsweise Äpfel, wachsen hier.
+nl-xe-0204; bezüglich; betreffende; met betrekking tot, aangaande, omtrent; C1; Allgemein/Kleine Wörter; Ik heb een vraag betreffende je laatste e-mail.; Ich habe eine Frage bezüglich deiner letzten E-Mail.
+nl-xe-0205; zudem; bovendien; daarnaast, tevens; C1; Allgemein/Kleine Wörter; De woning is goedkoop en bovendien erg centraal.; Die Wohnung ist günstig und zudem sehr zentral.
+nl-xe-0206; lediglich; slechts; alleen maar, enkel, louter; C1; Allgemein/Kleine Wörter; Het was slechts een klein misverstand.; Es war lediglich ein kleines Missverständnis.
+nl-xe-0207; keinesfalls; in geen geval; geenszins, zeker niet; C1; Allgemein/Kleine Wörter; Je mag deze deur in geen geval openen.; Du solltest diese Tür keinesfalls öffnen.
+nl-xe-0208; um (Uhrzeit); om; ; A1; Allgemein/Zeit; De les begint om negen uur.; Der Unterricht beginnt um neun Uhr.
+nl-xe-0209; morgens; 's morgens; 's ochtends; A1; Allgemein/Zeit; 's Morgens drink ik altijd thee.; Morgens trinke ich immer Tee.
+nl-xe-0210; abends; 's avonds; ; A1; Allgemein/Zeit; 's Avonds spelen we vaak kaart.; Abends spielen wir oft Karten.
+nl-xe-0211; Ende; het einde; het eind; A1; Allgemein/Zeit; We verhuizen aan het einde van de maand.; Wir ziehen am Ende des Monats um.
+nl-xe-0212; noch; nog; ; A2; Allgemein/Zeit; Woont je oma nog in Hamburg?; Wohnt deine Oma noch in Hamburg?
+nl-xe-0213; nachts; 's nachts; ; A2; Allgemein/Zeit; De hond van onze buurman blaft 's nachts.; Der Hund unseres Nachbarn bellt nachts.
+nl-xe-0214; Uhrzeit; de tijd; ; A2; Allgemein/Zeit; Kunt u mij alstublieft de tijd zeggen?; Können Sie mir bitte die Uhrzeit sagen?
+nl-xe-0215; Wochentag; de weekdag; de dag van de week; A2; Allgemein/Zeit; Op welke weekdag valt je verjaardag dit jaar?; Auf welchen Wochentag fällt dein Geburtstag dieses Jahr?
+nl-xe-0216; Anfang; het begin; de aanvang; A2; Allgemein/Zeit; In het begin was de film een beetje saai.; Am Anfang war der Film ein bisschen langweilig.
+nl-xe-0217; Mal (das erste Mal); de keer; ; A2; Allgemein/Zeit; Dit is de eerste keer dat ik in Londen ben.; Das ist das erste Mal, dass ich in London bin.
+nl-xe-0218; Vormittag; de ochtend; de morgen; A2; Allgemein/Zeit; Op maandagochtend heb ik twee uur wiskunde.; Am Montagvormittag habe ich zwei Stunden Mathe.
+nl-xe-0219; Nachmittag; de middag; de namiddag; A2; Allgemein/Zeit; We hebben de hele middag in het park doorgebracht.; Wir haben den ganzen Nachmittag im Park verbracht.
+nl-xe-0220; Viertelstunde; het kwartier; ; A2; Allgemein/Zeit; De bus komt elk kwartier.; Der Bus kommt jede Viertelstunde.
+nl-xe-0221; früher (in der Vergangenheit); vroeger; ; A2; Allgemein/Zeit; Vroeger was er in onze straat een bioscoop.; Früher gab es in unserer Straße ein Kino.
+nl-xe-0222; damals; destijds; toen, toentertijd, in die tijd; A2; Allgemein/Zeit; Destijds hadden we nog geen mobiele telefoons.; Damals hatten wir keine Handys.
+nl-xe-0223; danach; daarna; ; A2; Allgemein/Zeit; We waren boodschappen doen en hebben daarna geluncht.; Wir waren einkaufen und haben danach zu Mittag gegessen.
+nl-xe-0224; täglich; dagelijks; elke dag, iedere dag; A2; Allgemein/Zeit; Ik oefen dagelijks een half uur piano.; Ich übe täglich eine halbe Stunde Klavier.
+nl-xe-0225; mittags; 's middags; tussen de middag; A2; Allgemein/Zeit; 's Middags eten we in de schoolkantine.; Mittags essen wir in der Schulkantine.
+nl-xe-0226; nachmittags; 's middags; in de middag; A2; Allgemein/Zeit; 's Middags maak ik meestal mijn huiswerk.; Nachmittags mache ich meistens meine Hausaufgaben.
+nl-xe-0227; meistens; meestal; doorgaans; A2; Allgemein/Zeit; Ik ga meestal met de fiets naar school.; Ich fahre meistens mit dem Fahrrad zur Schule.
+nl-xe-0228; nochmal; nog een keer; nog eens, nogmaals, opnieuw; A2; Allgemein/Zeit; Kun je dat alsjeblieft nog een keer zeggen?; Kannst du das bitte nochmal sagen?
+nl-xe-0229; niemals; nooit; nimmer; A2; Allgemein/Zeit; Ik zal deze dag nooit vergeten.; Ich werde diesen Tag niemals vergessen.
+nl-xe-0230; Weile; het tijdje; het poosje, de poos; B1; Allgemein/Zeit; We wachtten een tijdje, toen gingen we naar huis.; Wir warteten eine Weile, dann gingen wir nach Hause.
+nl-xe-0231; Beginn; het begin; de aanvang, de start; B1; Allgemein/Zeit; Wees alsjeblieft op tijd voor het begin van het concert.; Bitte seid zum Beginn des Konzerts pünktlich.
+nl-xe-0232; Schluss (Ende); het einde; het slot, het eind; B1; Allgemein/Zeit; Aan het einde van de les hebben we een lied gezongen.; Zum Schluss der Stunde haben wir ein Lied gesungen.
+nl-xe-0233; Eile; de haast; de spoed; B1; Allgemein/Zeit; Sorry, ik heb vandaag haast.; Entschuldigung, ich bin heute in Eile.
+nl-xe-0234; dringend; dringend; urgent; B1; Allgemein/Zeit; Ik moet een dringend telefoontje plegen.; Ich muss einen dringenden Anruf machen.
+nl-xe-0235; nachher; straks; later, naderhand; B1; Allgemein/Zeit; Ik bel je straks terug.; Ich rufe dich nachher zurück.
+nl-xe-0236; inzwischen; intussen; ondertussen, inmiddels; B1; Allgemein/Zeit; Ik maak de thee, en intussen kun jij de tafel dekken.; Ich mache den Tee, und inzwischen kannst du den Tisch decken.
+nl-xe-0237; zuletzt; het laatst; voor het laatst, als laatste; B1; Allgemein/Zeit; Wanneer heb je hem het laatst gezien?; Wann hast du ihn zuletzt gesehen?
+nl-xe-0238; neulich; onlangs; laatst, kort geleden, recent; B1; Allgemein/Zeit; Ik heb onlangs je zus in de stad gezien.; Ich habe neulich deine Schwester in der Stadt gesehen.
+nl-xe-0239; vorhin; daarnet; zonet, zojuist, net; B1; Allgemein/Zeit; Je moeder heeft daarnet gebeld.; Deine Mutter hat vorhin angerufen.
+nl-xe-0240; rechtzeitig; op tijd; tijdig; B1; Allgemein/Zeit; We zijn nog net op tijd op het station aangekomen.; Wir sind gerade noch rechtzeitig am Bahnhof angekommen.
+nl-xe-0241; wöchentlich; wekelijks; elke week; B1; Allgemein/Zeit; Dit muziektijdschrift verschijnt wekelijks op donderdag.; Diese Musikzeitschrift erscheint wöchentlich am Donnerstag.
+nl-xe-0242; monatlich; maandelijks; elke maand, per maand; B1; Allgemein/Zeit; De huur voor de woning wordt maandelijks betaald.; Die Miete für die Wohnung wird monatlich bezahlt.
+nl-xe-0243; jährlich; jaarlijks; elk jaar, ieder jaar; B1; Allgemein/Zeit; Het feest vindt jaarlijks in juli plaats.; Das Fest findet jährlich im Juli statt.
+nl-xe-0244; gleichzeitig; tegelijkertijd; tegelijk, gelijktijdig; B1; Allgemein/Zeit; Ik kan niet tegelijkertijd luisteren en schrijven.; Ich kann nicht gleichzeitig zuhören und schreiben.
+nl-xe-0245; vorig; vorig; ; B1; Allgemein/Zeit; We hebben elkaar vorige week in de bioscoop ontmoet.; Wir haben uns vorige Woche im Kino getroffen.
+nl-xe-0246; zukünftig; toekomstig; ; B1; Allgemein/Zeit; We hebben gisteren haar toekomstige man ontmoet.; Wir haben gestern ihren zukünftigen Mann kennengelernt.
+nl-xe-0247; Ewigkeit; de eeuwigheid; ; B1; Allgemein/Zeit; We moesten bij de dokter een eeuwigheid wachten.; Wir mussten beim Arzt eine Ewigkeit warten.
+nl-xe-0248; Tempo; het tempo; ; B1; Allgemein/Zeit; We liepen in een langzaam tempo door het bos.; Wir gingen in langsamem Tempo durch den Wald.
+nl-xe-0249; ständig; voortdurend; constant, steeds; B1; Allgemein/Zeit; Mijn kleine broertje stelt voortdurend vragen.; Mein kleiner Bruder stellt ständig Fragen.
+nl-xe-0250; bereits; al; reeds; B1; Allgemein/Zeit; De trein was al vertrokken toen we aankwamen.; Der Zug war bereits abgefahren, als wir ankamen.
+nl-xe-0251; irgendwann; ooit; ; B1; Allgemein/Zeit; Ooit wil ik Australië bezoeken.; Irgendwann möchte ich Australien besuchen.
+nl-xe-0252; Zeitverschwendung; de tijdverspilling; ; B1; Allgemein/Zeit; Deze vergadering is pure tijdverspilling.; Dieses Treffen ist reine Zeitverschwendung.
+nl-xe-0253; Zeitpunkt; het tijdstip; het moment; B2; Allgemein/Zeit; Op dat tijdstip wist niemand van het probleem.; Zu diesem Zeitpunkt wusste niemand von dem Problem.
+nl-xe-0254; mittlerweile; inmiddels; ondertussen, intussen; B2; Allgemein/Zeit; Inmiddels weet iedereen van haar bruiloft.; Mittlerweile wissen alle von ihrer Hochzeit.
+nl-xe-0255; demnächst; binnenkort; ; B2; Allgemein/Zeit; Het nieuwe winkelcentrum opent binnenkort.; Das neue Einkaufszentrum öffnet demnächst.
+nl-xe-0256; stets; altijd; steeds; B2; Allgemein/Zeit; Ze is altijd vriendelijk tegen haar klanten.; Sie ist stets freundlich zu ihren Kunden.
+nl-xe-0257; allmählich; geleidelijk; langzamerhand; B2; Allgemein/Zeit; Het weer wordt geleidelijk beter.; Das Wetter wird allmählich besser.
+nl-xe-0258; vorübergehend; tijdelijk; ; B2; Allgemein/Zeit; De winkel is tijdelijk gesloten wegens reparaties.; Der Laden ist vorübergehend wegen Reparaturen geschlossen.
+nl-xe-0259; dauerhaft; blijvend; permanent, duurzaam; B2; Allgemein/Zeit; We zoeken naar een blijvende oplossing.; Wir suchen nach einer dauerhaften Lösung.
+nl-xe-0260; kurzfristig; op korte termijn; ; B2; Allgemein/Zeit; Het concert werd op korte termijn afgezegd.; Das Konzert wurde kurzfristig abgesagt.
+nl-xe-0261; langfristig; op lange termijn; ; B2; Allgemein/Zeit; Op lange termijn willen we een huis kopen.; Langfristig wollen wir ein Haus kaufen.
+nl-xe-0262; Jahrtausend; het millennium; ; B2; Allgemein/Zeit; We hebben het begin van het nieuwe millennium samen gevierd.; Wir haben den Beginn des neuen Jahrtausends zusammen gefeiert.
+nl-xe-0263; wohin; waarheen; waar naartoe; A1; Allgemein/Raum; Waarheen gaan jullie dit jaar op vakantie?; Wohin fahrt ihr dieses Jahr in den Urlaub?
+nl-xe-0264; woher; waarvandaan; ; A1; Allgemein/Raum; Waar komt je nieuwe buurman vandaan?; Woher kommt dein neuer Nachbar?
+nl-xe-0265; neben; naast; ; A1; Allgemein/Raum; Kom en ga naast me zitten.; Komm und setz dich neben mich.
+nl-xe-0266; vor (räumlich); voor; ; A1; Allgemein/Raum; Voor ons huis staat een grote boom.; Vor unserem Haus steht ein großer Baum.
+nl-xe-0267; nach (Richtung); naar; ; A1; Allgemein/Raum; Morgen vliegen we naar Spanje.; Morgen fliegen wir nach Spanien.
+nl-xe-0268; oben; boven; ; A2; Allgemein/Raum; De badkamer is boven links.; Das Badezimmer ist oben links.
+nl-xe-0269; unten; beneden; ; A2; Allgemein/Raum; De keuken is beneden naast de woonkamer.; Die Küche ist unten neben dem Wohnzimmer.
+nl-xe-0270; vorne; vooraan; voorin, voor; A2; Allgemein/Raum; Ik zit in de bus graag voorin.; Ich sitze im Bus gern vorne.
+nl-xe-0271; hinten; achteraan; achterin, achter; A2; Allgemein/Raum; De leerlingen achterin kunnen de lerares niet horen.; Die Schüler hinten können die Lehrerin nicht hören.
+nl-xe-0272; drinnen; binnen; ; A2; Allgemein/Raum; Als het regent, spelen we binnen.; Wenn es regnet, spielen wir drinnen.
+nl-xe-0273; überall; overal; ; A2; Allgemein/Raum; Ik heb overal naar mijn bril gezocht.; Ich habe überall nach meiner Brille gesucht.
+nl-xe-0274; irgendwo; ergens; ; A2; Allgemein/Raum; Ik heb mijn paraplu ergens in de stad laten liggen.; Ich habe meinen Schirm irgendwo in der Stadt liegen lassen.
+nl-xe-0275; zurück; terug; ; A2; Allgemein/Raum; We zijn terug voor het donker wordt.; Wir sind vor Einbruch der Dunkelheit zurück.
+nl-xe-0276; nebenan; hiernaast; ernaast; A2; Allgemein/Raum; Het nieuwe gezin hiernaast heeft drie kinderen.; Die neue Familie nebenan hat drei Kinder.
+nl-xe-0277; gegenüber; tegenover; ; A2; Allgemein/Raum; De bakkerij is tegenover de bank.; Die Bäckerei ist gegenüber der Bank.
+nl-xe-0278; entlang; langs; ; A2; Allgemein/Raum; We liepen langs de rivier tot aan de brug.; Wir gingen am Fluss entlang bis zur Brücke.
+nl-xe-0279; Länge; de lengte; ; A2; Allgemein/Raum; De lengte van de kamer is vijf meter.; Die Länge des Zimmers beträgt fünf Meter.
+nl-xe-0280; Höhe; de hoogte; ; A2; Allgemein/Raum; De toren heeft een hoogte van vijftig meter.; Der Turm hat eine Höhe von fünfzig Metern.
+nl-xe-0281; Form; de vorm; ; A2; Allgemein/Raum; De taart heeft de vorm van een hart.; Der Kuchen hat die Form eines Herzens.
+nl-xe-0282; Loch; het gat; ; A2; Allgemein/Raum; In mijn sok zit een gat.; In meiner Socke ist ein Loch.
+nl-xe-0283; Pfeil; de pijl; ; A2; Allgemein/Raum; Volg de pijlen naar de uitgang.; Folge den Pfeilen zum Ausgang.
+nl-xe-0284; Kreuz; het kruis; het kruisje; A2; Allgemein/Raum; Zet een kruisje naast het juiste antwoord.; Mach ein Kreuz neben die richtige Antwort.
+nl-xe-0285; Rechteck; de rechthoek; ; A2; Allgemein/Raum; Teken een rechthoek en een cirkel.; Zeichne ein Rechteck und einen Kreis.
+nl-xe-0286; Breite; de breedte; ; B1; Allgemein/Raum; Meet eerst de breedte van het raam.; Miss zuerst die Breite des Fensters.
+nl-xe-0287; Tiefe; de diepte; ; B1; Allgemein/Raum; Het bassin heeft een diepte van drie meter.; Das Becken hat eine Tiefe von drei Metern.
+nl-xe-0288; entfernt; verwijderd; ver weg, verderop; B1; Allgemein/Raum; Het dorp is tien kilometer van hier verwijderd.; Das Dorf ist zehn Kilometer entfernt.
+nl-xe-0289; außen; vanbuiten; buiten, aan de buitenkant; B1; Allgemein/Raum; Het huis is vanbuiten wit geschilderd.; Das Haus ist außen weiß gestrichen.
+nl-xe-0290; außerhalb; buiten; ; B1; Allgemein/Raum; We wonen net buiten de stad.; Wir wohnen knapp außerhalb der Stadt.
+nl-xe-0291; nirgends; nergens; ; B1; Allgemein/Raum; Mijn sleutel was nergens te vinden.; Mein Schlüssel war nirgends zu finden.
+nl-xe-0292; woanders; ergens anders; elders; B1; Allgemein/Raum; Laten we ergens anders heen gaan, hier is het te vol.; Lass uns woanders hingehen, hier ist es zu voll.
+nl-xe-0293; unterwegs; onderweg; ; B1; Allgemein/Raum; Ik bel je als ik onderweg ben.; Ich rufe dich an, wenn ich unterwegs bin.
+nl-xe-0294; rückwärts; achteruit; ; B1; Allgemein/Raum; Ze parkeerde de auto achteruit de garage in.; Sie parkte das Auto rückwärts in die Garage.
+nl-xe-0295; Zentrum; het centrum; ; B1; Allgemein/Raum; Ons hotel ligt midden in het centrum van de stad.; Unser Hotel liegt direkt im Zentrum der Stadt.
+nl-xe-0296; Abstand; de afstand; ; B1; Allgemein/Raum; Houd alsjeblieft afstand tot de auto voor je.; Bitte halte Abstand zum vorderen Auto.
+nl-xe-0297; Umgebung; de omgeving; ; B1; Allgemein/Raum; In de omgeving zijn veel mooie wandelpaden.; In der Umgebung gibt es viele schöne Spazierwege.
+nl-xe-0298; Lage (Ort); de ligging; de locatie; B1; Allgemein/Raum; Het hotel heeft een perfecte ligging aan zee.; Das Hotel hat eine perfekte Lage am Meer.
+nl-xe-0299; Kurve; de bocht; ; B1; Allgemein/Raum; Rij langzaam, er komt een scherpe bocht.; Fahr langsam, vorne kommt eine scharfe Kurve.
+nl-xe-0300; Hintergrund; de achtergrond; ; B1; Allgemein/Raum; Op de achtergrond van de foto zie je de bergen.; Im Hintergrund des Fotos sieht man die Berge.
+nl-xe-0301; Lücke; het gat; de opening, de leemte; B1; Allgemein/Raum; De kat wrong zich door een gat in het hek.; Die Katze zwängte sich durch eine Lücke im Zaun.
+nl-xe-0302; Ordnung; de orde; ; B1; Allgemein/Raum; Zorg alsjeblieft voor orde in je kamer.; Bitte halte in deinem Zimmer Ordnung.
+nl-xe-0303; sich befinden; zich bevinden; ; B1; Allgemein/Raum; De toiletten bevinden zich op de eerste verdieping.; Die Toiletten befinden sich im ersten Stock.
+nl-xe-0304; krumm; krom; ; B1; Allgemein/Raum; De oude man liep met een kromme stok.; Der alte Mann ging an einem krummen Stock.
+nl-xe-0305; spitz; scherp; puntig, spits; B1; Allgemein/Raum; Het potlood is erg scherp.; Der Bleistift ist sehr spitz.
+nl-xe-0306; eckig; hoekig; ; B1; Allgemein/Raum; We hebben een hoekige tafel voor de keuken gekocht.; Wir haben einen eckigen Tisch für die Küche gekauft.
+nl-xe-0307; quadratisch; vierkant; ; B1; Allgemein/Raum; De tuin achter ons huis is bijna vierkant.; Der Garten hinter unserem Haus ist fast quadratisch.
+nl-xe-0308; Nähe; de nabijheid; ; B2; Allgemein/Raum; De nabijheid van het vliegveld is een groot voordeel.; Die Nähe zum Flughafen ist ein großer Vorteil.
+nl-xe-0309; umgeben; omringen; omgeven; B2; Allgemein/Raum; Het kasteel is omringd door een diepe gracht.; Das Schloss ist von einem tiefen Graben umgeben.
+nl-xe-0310; hohl; hol; ; B2; Allgemein/Raum; De oude boom is binnenin helemaal hol.; Der alte Baum ist innen völlig hohl.
+nl-xe-0311; gebogen; gebogen; gekromd, krom; B2; Allgemein/Raum; De brug heeft een licht gebogen vorm.; Die Brücke hat eine leicht gebogene Form.
+nl-xe-0312; schräg; schuin; ; B2; Allgemein/Raum; Onze zolderkamer heeft een schuin plafond.; Unser Dachzimmer hat eine schräge Decke.
+nl-xe-0313; senkrecht; verticaal; loodrecht; B2; Allgemein/Raum; Trek een verticale lijn in het midden naar beneden.; Zieh eine senkrechte Linie in der Mitte nach unten.
+nl-xe-0314; waagerecht; horizontaal; waterpas; B2; Allgemein/Raum; De plank moet helemaal horizontaal zijn.; Das Regal muss ganz waagerecht sein.
+nl-xe-0315; unterhalb; onder; beneden; B2; Allgemein/Raum; Het meer ligt onder de burcht.; Der See liegt unterhalb der Burg.
+nl-xe-0316; umgekehrt; omgekeerd; andersom; B2; Allgemein/Raum; Het was niet mijn schuld, het was omgekeerd.; Es war nicht meine Schuld, es war umgekehrt.
+nl-xe-0317; jenseits; voorbij; aan de andere kant van; C1; Allgemein/Raum; Voorbij de bergen ligt een breed dal.; Jenseits der Berge liegt ein weites Tal.
+nl-xe-0318; Rest; de rest; ; A2; Allgemein/Mengen; Je mag de rest van de taart hebben.; Du kannst den Rest vom Kuchen haben.
+nl-xe-0319; Viertel (Bruchteil); het kwart; ; A2; Allgemein/Mengen; Snijd de appel alsjeblieft in vier kwarten.; Schneide den Apfel bitte in vier Viertel.
+nl-xe-0320; Million; het miljoen; ; A2; Allgemein/Mengen; De stad heeft meer dan een miljoen inwoners.; Die Stadt hat mehr als eine Million Einwohner.
+nl-xe-0321; Meter; de meter; ; A2; Allgemein/Mengen; Het zwembad is vijfentwintig meter lang.; Das Schwimmbecken ist fünfundzwanzig Meter lang.
+nl-xe-0322; Zentimeter; de centimeter; ; A2; Allgemein/Mengen; Mijn kleine zusje is vijf centimeter gegroeid.; Meine kleine Schwester ist fünf Zentimeter gewachsen.
+nl-xe-0323; Kilometer; de kilometer; ; A2; Allgemein/Mengen; We hebben vandaag meer dan tien kilometer gelopen.; Wir sind heute mehr als zehn Kilometer gelaufen.
+nl-xe-0324; Gramm; de gram; ; A2; Allgemein/Mengen; Je hebt tweehonderd gram bloem nodig.; Du brauchst zweihundert Gramm Mehl.
+nl-xe-0325; Kilo; de kilo; ; A2; Allgemein/Mengen; Een kilo appels kost op de markt twee euro.; Ein Kilo Äpfel kostet auf dem Markt zwei Euro.
+nl-xe-0326; Kilogramm; de kilogram; ; A2; Allgemein/Mengen; De koffer mag niet meer dan twintig kilogram wegen.; Der Koffer darf nicht mehr als zwanzig Kilogramm wiegen.
+nl-xe-0327; Liter; de liter; ; A2; Allgemein/Mengen; We drinken ongeveer twee liter water per dag.; Wir trinken etwa zwei Liter Wasser am Tag.
+nl-xe-0328; Reihe; de rij; ; A2; Allgemein/Mengen; We zaten in de bioscoop op de derde rij.; Wir saßen im Kino in der dritten Reihe.
+nl-xe-0329; doppelt; dubbel; ; A2; Allgemein/Mengen; Online kost dit overhemd de dubbele prijs.; Online kostet dieses Hemd den doppelten Preis.
+nl-xe-0330; mehrere; meerdere; verscheidene, verschillende; A2; Allgemein/Mengen; Ik heb meerdere keren geprobeerd je te bellen.; Ich habe mehrere Male versucht, dich anzurufen.
+nl-xe-0331; weniger; minder; ; A2; Allgemein/Mengen; Ik wil minder tijd aan mijn telefoon besteden.; Ich will weniger Zeit am Handy verbringen.
+nl-xe-0332; übrig; over; ; A2; Allgemein/Mengen; Is er nog pizza over?; Ist noch Pizza übrig?
+nl-xe-0333; Drittel; een derde; het derde deel; B1; Allgemein/Mengen; Een derde van de klas was ziek.; Ein Drittel der Klasse war krank.
+nl-xe-0334; Anzahl; het aantal; ; B1; Allgemein/Mengen; Het aantal leerlingen is dit jaar gestegen.; Die Anzahl der Schüler ist dieses Jahr gestiegen.
+nl-xe-0335; Dutzend; het dozijn; ; B1; Allgemein/Mengen; Ik heb op de markt een dozijn eieren gekocht.; Ich habe auf dem Markt ein Dutzend Eier gekauft.
+nl-xe-0336; Milliarde; het miljard; ; B1; Allgemein/Mengen; Het nieuwe stadion heeft een miljard euro gekost.; Das neue Stadion hat eine Milliarde Euro gekostet.
+nl-xe-0337; Inhalt; de inhoud; ; B1; Allgemein/Mengen; De inhoud van de doos viel op de grond.; Der Inhalt der Schachtel fiel auf den Boden.
+nl-xe-0338; Tonne (Gewicht); de ton; ; B1; Allgemein/Mengen; De vrachtwagen kan tien ton zand vervoeren.; Der Lastwagen kann zehn Tonnen Sand transportieren.
+nl-xe-0339; Pfund (Gewicht); het pond; ; B1; Allgemein/Mengen; Mag ik alstublieft een pond tomaten?; Kann ich bitte ein Pfund Tomaten haben?
+nl-xe-0340; Quadratmeter; de vierkante meter; ; B1; Allgemein/Mengen; De woning heeft zeventig vierkante meter.; Die Wohnung hat siebzig Quadratmeter.
+nl-xe-0341; Haufen; de hoop; de berg; B1; Allgemein/Mengen; Op de grond ligt een hoop vuile kleren.; Auf dem Boden liegt ein Haufen schmutziger Kleider.
+nl-xe-0342; Kleinigkeit; de kleinigheid; ; B1; Allgemein/Mengen; Ik heb een kleinigheid voor je verjaardag gekocht.; Ich habe dir eine Kleinigkeit zum Geburtstag gekauft.
+nl-xe-0343; Auswahl; de keuze; de selectie, het assortiment; B1; Allgemein/Mengen; De winkel heeft een grote keuze aan sportschoenen.; Der Laden hat eine große Auswahl an Sportschuhen.
+nl-xe-0344; mehrmals; meerdere keren; verschillende keren, herhaaldelijk; B1; Allgemein/Mengen; Ik heb de brief meerdere keren gelezen.; Ich habe den Brief mehrmals gelesen.
+nl-xe-0345; pro; per; ; B1; Allgemein/Mengen; De kaartjes kosten tien euro per persoon.; Die Karten kosten zehn Euro pro Person.
+nl-xe-0346; teilweise; gedeeltelijk; deels, ten dele; B1; Allgemein/Mengen; De weg was gedeeltelijk geblokkeerd door sneeuw.; Die Straße war teilweise durch Schnee blockiert.
+nl-xe-0347; Ziffer; het cijfer; ; B1; Allgemein/Mengen; De geheime code voor de deur heeft vier cijfers.; Der Geheimcode für die Tür hat vier Ziffern.
+nl-xe-0348; verdoppeln; verdubbelen; ; B1; Allgemein/Mengen; Het aantal bezoekers is dit jaar verdubbeld.; Die Zahl der Besucher hat sich dieses Jahr verdoppelt.
+nl-xe-0349; gesamt; geheel; heel, totaal, volledig; B1; Allgemein/Mengen; De gehele klas ging mee op de excursie.; Die gesamte Klasse ist mit auf den Ausflug gefahren.
+nl-xe-0350; Stapel; de stapel; ; B2; Allgemein/Mengen; Op het bureau van de leraar lag een stapel boeken.; Auf dem Lehrerpult lag ein Stapel Bücher.
+nl-xe-0351; Maximum; het maximum; ; B2; Allgemein/Mengen; De temperatuur bereikte een maximum van 35 graden.; Die Temperatur erreichte ein Maximum von 35 Grad.
+nl-xe-0352; Minimum; het minimum; ; B2; Allgemein/Mengen; Voor het spel hebben we een minimum van tien spelers nodig.; Für das Spiel brauchen wir ein Minimum von zehn Spielern.
+nl-xe-0353; zahlreich; talrijk; ; B2; Allgemein/Mengen; Talrijke fans wachtten voor het hotel.; Zahlreiche Fans warteten vor dem Hotel.
+nl-xe-0354; Anteil; het aandeel; het deel; B2; Allgemein/Mengen; Iedereen moet zijn aandeel van de rekening betalen.; Jeder muss seinen Anteil an der Rechnung zahlen.
+nl-xe-0355; Einheit; de eenheid; ; B2; Allgemein/Mengen; De meter is een eenheid voor lengte.; Der Meter ist eine Einheit für die Länge.
+nl-xe-0356; erheblich; aanzienlijk; behoorlijk, flink; B2; Allgemein/Mengen; De storm van vannacht heeft aanzienlijke schade aangericht in de stad.; Der Sturm letzte Nacht hat in der Stadt erheblichen Schaden angerichtet.
+nl-xe-0357; Großteil; het grootste deel; het merendeel, de meerderheid; B2; Allgemein/Mengen; Het grootste deel van de leerlingen kwam met de bus.; Der Großteil der Schüler kam mit dem Bus.
+nl-xe-0358; Anstieg; de stijging; de toename; B2; Allgemein/Mengen; Er was een sterke stijging van de prijzen.; Es gab einen starken Anstieg der Preise.
+nl-xe-0359; Rückgang; de daling; de afname, de teruggang; B2; Allgemein/Mengen; De stad ziet een daling in het toerisme.; Die Stadt verzeichnet einen Rückgang im Tourismus.
+nl-xe-0360; gering; gering; klein, laag; B2; Allgemein/Mengen; De kans op regen is vandaag gering.; Das Risiko für Regen ist heute gering.
+nl-xe-0361; unzählig; ontelbaar; talloos; C1; Allgemein/Mengen; Ik heb dit lied ontelbare keren gehoord.; Ich habe dieses Lied unzählige Male gehört.
+nl-xe-0362; zuhören; luisteren; ; A1; Allgemein/Denken & Sprechen; Luister alsjeblieft goed naar de aanwijzingen.; Bitte hör den Anweisungen gut zu.
+nl-xe-0363; bitten; vragen; verzoeken; A2; Allgemein/Denken & Sprechen; Ze vroeg me om het raam te sluiten.; Sie bat mich, das Fenster zu schließen.
+nl-xe-0364; beantworten; beantwoorden; ; A2; Allgemein/Denken & Sprechen; Beantwoord alsjeblieft alle vragen op het blad.; Bitte beantworte alle Fragen auf dem Blatt.
+nl-xe-0365; reden; praten; spreken; A2; Allgemein/Denken & Sprechen; We hebben urenlang over de film gepraat.; Wir haben stundenlang über den Film geredet.
+nl-xe-0366; sich unterhalten; met elkaar praten; praten, kletsen; A2; Allgemein/Denken & Sprechen; We hebben na het eten lang met elkaar gepraat.; Wir haben uns nach dem Essen lange unterhalten.
+nl-xe-0367; grüßen; groeten; begroeten; A2; Allgemein/Denken & Sprechen; Hij groet de buren altijd vriendelijk.; Er grüßt die Nachbarn immer freundlich.
+nl-xe-0368; gratulieren; feliciteren; gelukwensen; A2; Allgemein/Denken & Sprechen; We hebben haar gefeliciteerd met haar nieuwe baan.; Wir haben ihr zu ihrer neuen Stelle gratuliert.
+nl-xe-0369; nachdenken; nadenken; ; B1; Allgemein/Denken & Sprechen; Ik heb wat tijd nodig om erover na te denken.; Ich brauche etwas Zeit, um darüber nachzudenken.
+nl-xe-0370; überlegen (nachdenken); overwegen; nadenken over; B1; Allgemein/Denken & Sprechen; Ik ga je aanbod tot morgen overwegen.; Ich überlege mir dein Angebot bis morgen.
+nl-xe-0371; erraten; raden; ; B1; Allgemein/Denken & Sprechen; Je raadt nooit wie me heeft gebeld.; Du errätst nie, wer mich angerufen hat.
+nl-xe-0372; vermuten; vermoeden; veronderstellen, aannemen; B1; Allgemein/Denken & Sprechen; Ik vermoed dat hij weer de bus heeft gemist.; Ich vermute, er hat wieder den Bus verpasst.
+nl-xe-0373; sich irren; zich vergissen; ; B1; Allgemein/Denken & Sprechen; Ik denk dat je je daarin vergist.; Ich glaube, da irrst du dich.
+nl-xe-0374; sich merken; onthouden; ; B1; Allgemein/Denken & Sprechen; Kun je mijn nieuwe telefoonnummer onthouden?; Kannst du dir meine neue Telefonnummer merken?
+nl-xe-0375; sich konzentrieren; zich concentreren; ; B1; Allgemein/Denken & Sprechen; Ik kan me niet concentreren als het zo lawaaiig is.; Ich kann mich nicht konzentrieren, wenn es so laut ist.
+nl-xe-0376; missverstehen; verkeerd begrijpen; misverstaan; B1; Allgemein/Denken & Sprechen; Sorry, ik denk dat je me verkeerd hebt begrepen.; Entschuldigung, ich glaube, du hast mich missverstanden.
+nl-xe-0377; besprechen; bespreken; ; B1; Allgemein/Denken & Sprechen; Laten we het plan na de lunch bespreken.; Lass uns den Plan nach dem Mittagessen besprechen.
+nl-xe-0378; ansprechen; aanspreken; ; B1; Allgemein/Denken & Sprechen; Bij de bushalte sprak een vreemde me aan.; An der Bushaltestelle hat mich ein Fremder angesprochen.
+nl-xe-0379; zweifeln; twijfelen; ; B1; Allgemein/Denken & Sprechen; Ik heb geen moment aan je getwijfeld.; Ich habe keinen Moment an dir gezweifelt.
+nl-xe-0380; nennen; noemen; ; B1; Allgemein/Denken & Sprechen; Ze noemden hun zoon naar zijn grootvader.; Sie nannten ihren Sohn nach seinem Großvater.
+nl-xe-0381; mitteilen; meedelen; mededelen, laten weten; B1; Allgemein/Denken & Sprechen; Deel ons alstublieft uw nieuwe adres mee.; Bitte teilen Sie uns Ihre neue Adresse mit.
+nl-xe-0382; schweigen; zwijgen; ; B1; Allgemein/Denken & Sprechen; Ze zei niets en zweeg lange tijd.; Sie sagte nichts und schwieg lange.
+nl-xe-0383; loben; prijzen; loven; B1; Allgemein/Denken & Sprechen; De lerares prees haar voor haar goede werk.; Die Lehrerin lobte sie für ihre gute Arbeit.
+nl-xe-0384; schimpfen; schelden; mopperen, foeteren; B1; Allgemein/Denken & Sprechen; Mama begon te schelden omdat ik te laat thuiskwam.; Meine Mama hat geschimpft, weil ich zu spät nach Hause kam.
+nl-xe-0385; sich ausdrücken; zich uitdrukken; ; B1; Allgemein/Denken & Sprechen; Hij vindt het moeilijk zich in het Engels uit te drukken.; Es fällt ihm schwer, sich auf Englisch auszudrücken.
+nl-xe-0386; Tipp; de tip; ; A2; Allgemein/Denken & Sprechen; Kun je me een tip voor het examen geven?; Kannst du mir einen Tipp für die Prüfung geben?
+nl-xe-0387; Wunsch; de wens; ; A2; Allgemein/Denken & Sprechen; Mijn grootste wens is een reis naar Canada.; Mein größter Wunsch ist eine Reise nach Kanada.
+nl-xe-0388; Gegenteil; het tegendeel; het tegenovergestelde, het tegengestelde; A2; Allgemein/Denken & Sprechen; Het tegendeel van groot is klein.; Das Gegenteil von groß ist klein.
+nl-xe-0389; Ahnung; het idee; het benul, het vermoeden; B1; Allgemein/Denken & Sprechen; Ik heb geen idee waar hij woont.; Ich habe keine Ahnung, wo er wohnt.
+nl-xe-0390; Gedächtnis; het geheugen; ; B1; Allgemein/Denken & Sprechen; Mijn grootvader heeft een heel goed geheugen.; Mein Großvater hat ein sehr gutes Gedächtnis.
+nl-xe-0391; Lüge; de leugen; ; B1; Allgemein/Denken & Sprechen; Dat is een leugen, en dat weet je.; Das ist eine Lüge, und das weißt du.
+nl-xe-0392; Sinn; de zin; de betekenis; B1; Allgemein/Denken & Sprechen; Het heeft geen zin om nog langer te wachten.; Es hat keinen Sinn, noch länger zu warten.
+nl-xe-0393; Hinweis; de aanwijzing; de hint, de tip; B1; Allgemein/Denken & Sprechen; De lerares gaf ons een aanwijzing bij de laatste vraag.; Die Lehrerin gab uns einen Hinweis zur letzten Frage.
+nl-xe-0394; Ratschlag; het advies; de raad; B1; Allgemein/Denken & Sprechen; Bedankt voor je goede advies.; Danke für deinen guten Ratschlag.
+nl-xe-0395; Warnung; de waarschuwing; ; B1; Allgemein/Denken & Sprechen; Voor vannacht is er een stormwaarschuwing.; Für heute Nacht gibt es eine Sturmwarnung.
+nl-xe-0396; Kompliment; het compliment; ; B1; Allgemein/Denken & Sprechen; Ze gaf me een leuk compliment over mijn jurk.; Sie hat mir ein nettes Kompliment für mein Kleid gemacht.
+nl-xe-0397; Unsinn; de onzin; de nonsens, de flauwekul; B1; Allgemein/Denken & Sprechen; Praat geen onzin, dat is niet waar.; Red keinen Unsinn, das stimmt nicht.
+nl-xe-0398; Erlaubnis; de toestemming; ; B1; Allgemein/Denken & Sprechen; Voor het schoolreisje heb je de toestemming van je ouders nodig.; Für den Schulausflug brauchst du die Erlaubnis deiner Eltern.
+nl-xe-0399; sich erkundigen; informeren; navragen, inlichtingen vragen; B2; Allgemein/Denken & Sprechen; Ik heb geïnformeerd naar de vertrektijden van de treinen.; Ich habe mich nach den Abfahrtszeiten der Züge erkundigt.
+nl-xe-0400; sich täuschen; zich vergissen; het mis hebben; B2; Allgemein/Denken & Sprechen; Als ik me niet vergis, sluit de winkel om zes uur.; Wenn ich mich nicht täusche, schließt der Laden um sechs.
+nl-xe-0401; feststellen; vaststellen; constateren, merken; B2; Allgemein/Denken & Sprechen; We stelden vast dat het raam open stond.; Wir stellten fest, dass das Fenster offen war.
+nl-xe-0402; zitieren; citeren; ; B2; Allgemein/Denken & Sprechen; Hij citeert graag beroemde schrijvers.; Er zitiert gern berühmte Schriftsteller.
+nl-xe-0403; schwören; zweren; ; B2; Allgemein/Denken & Sprechen; Ik zweer dat ik je geld niet heb gepakt.; Ich schwöre, dass ich dein Geld nicht genommen habe.
+nl-xe-0404; äußern; uiten; uitspreken, kenbaar maken; B2; Allgemein/Denken & Sprechen; Ze uitte haar twijfels over het plan.; Sie äußerte ihre Zweifel an dem Plan.
+nl-xe-0405; begründen; onderbouwen; motiveren, beargumenteren; B2; Allgemein/Denken & Sprechen; Je moet je mening in het opstel onderbouwen.; Du musst deine Meinung im Aufsatz begründen.
+nl-xe-0406; tippen (wetten); gokken; wedden; B2; Allgemein/Denken & Sprechen; Ik gok dat ons team zaterdag wint.; Ich tippe, dass unsere Mannschaft am Samstag gewinnt.
+nl-xe-0407; gestehen; bekennen; toegeven, opbiechten; B2; Allgemein/Denken & Sprechen; Uiteindelijk bekende hij dat hij had gelogen.; Schließlich gestand er, dass er gelogen hatte.
+nl-xe-0408; Ansicht; de mening; de opvatting, de visie, het standpunt; B2; Allgemein/Denken & Sprechen; Naar mijn mening is het plan te duur.; Meiner Ansicht nach ist der Plan zu teuer.
+nl-xe-0409; Vermutung; het vermoeden; de veronderstelling; B2; Allgemein/Denken & Sprechen; Mijn vermoeden is dat ze ons is vergeten.; Meine Vermutung ist, dass sie uns vergessen hat.
+nl-xe-0410; Verstand; het verstand; ; B2; Allgemein/Denken & Sprechen; Heb je nu helemaal je verstand verloren?; Hast du völlig den Verstand verloren?
+nl-xe-0411; Irrtum; de vergissing; de fout, de dwaling; B2; Allgemein/Denken & Sprechen; Dat was een vergissing, het spijt me.; Das war ein Irrtum, es tut mir leid.
+nl-xe-0412; Behauptung; de bewering; de stelling; B2; Allgemein/Denken & Sprechen; Voor deze bewering is er geen bewijs.; Für diese Behauptung gibt es keinen Beweis.
+nl-xe-0413; Bemerkung; de opmerking; ; B2; Allgemein/Denken & Sprechen; Zijn onbeleefde opmerking heeft haar gekwetst.; Seine unhöfliche Bemerkung hat sie verletzt.
+nl-xe-0414; Überzeugung; de overtuiging; ; B2; Allgemein/Denken & Sprechen; Hij sprak met grote overtuiging over zijn plannen.; Er sprach mit großer Überzeugung über seine Pläne.
+nl-xe-0415; Zusammenhang; het verband; de samenhang, de context; B2; Allgemein/Denken & Sprechen; Ik zie geen verband tussen de twee gebeurtenissen.; Ich sehe keinen Zusammenhang zwischen den beiden Ereignissen.
+nl-xe-0416; berücksichtigen; rekening houden met; in aanmerking nemen, meewegen; C1; Allgemein/Denken & Sprechen; We moeten rekening houden met het weer.; Wir müssen das Wetter berücksichtigen.
+nl-xe-0417; Vorwurf; het verwijt; ; C1; Allgemein/Denken & Sprechen; Zijn woorden klonken voor mij als een verwijt.; Seine Worte klangen für mich wie ein Vorwurf.
+nl-xe-0418; Andeutung; de toespeling; de hint, de zinspeling; C1; Allgemein/Denken & Sprechen; Hij maakte een toespeling dat hij het bedrijf misschien verlaat.; Er machte eine Andeutung, dass er die Firma verlassen könnte.
+nl-xe-0419; Wut; de woede; ; A2; Mensch/Gefühle; Na de ruzie trilde hij van woede.; Nach dem Streit zitterte er vor Wut.
+nl-xe-0420; fröhlich; vrolijk; blij; A2; Mensch/Gefühle; Ze is 's ochtends altijd vrolijk.; Sie ist morgens immer fröhlich.
+nl-xe-0421; unglücklich; ongelukkig; ; A2; Mensch/Gefühle; Hij was op zijn oude school heel ongelukkig.; Er war an seiner alten Schule sehr unglücklich.
+nl-xe-0422; entspannt; ontspannen; relaxed; A2; Mensch/Gefühle; Na de vakantie voel ik me echt ontspannen.; Nach dem Urlaub fühle ich mich richtig entspannt.
+nl-xe-0423; gut gelaunt; in een goede bui; goedgehumeurd, goedgeluimd; A2; Mensch/Gefühle; Waarom ben je vandaag in zo'n goede bui?; Warum bist du heute so gut gelaunt?
+nl-xe-0424; schlecht gelaunt; in een slechte bui; slechtgehumeurd, humeurig; A2; Mensch/Gefühle; Papa is 's maandags altijd in een slechte bui.; Papa ist montags immer schlecht gelaunt.
+nl-xe-0425; sich ärgern; zich ergeren; boos worden; B1; Mensch/Gefühle; Ik heb me geërgerd dat niemand het me had verteld.; Ich habe mich geärgert, dass es mir niemand gesagt hatte.
+nl-xe-0426; sich aufregen; zich opwinden; zich druk maken; B1; Mensch/Gefühle; Wind je niet op, het is maar een spel.; Reg dich nicht auf, es ist nur ein Spiel.
+nl-xe-0427; sich fürchten; bang zijn; vrezen; B1; Mensch/Gefühle; Mijn kleine zusje is bang in het donker.; Meine kleine Schwester fürchtet sich im Dunkeln.
+nl-xe-0428; sich wohlfühlen; zich op zijn gemak voelen; zich goed voelen, zich prettig voelen; B1; Mensch/Gefühle; In mijn nieuwe klas voel ik me erg op mijn gemak.; In meiner neuen Klasse fühle ich mich sehr wohl.
+nl-xe-0429; erschrecken; laten schrikken; bang maken, schrikken; B1; Mensch/Gefühle; Je liet me schrikken, ik hoorde je niet komen.; Du hast mich erschreckt, ich habe dich nicht kommen hören.
+nl-xe-0430; Panik; de paniek; ; B1; Mensch/Gefühle; Toen het brandalarm afging, brak er paniek uit.; Als der Feueralarm losging, brach Panik aus.
+nl-xe-0431; erstaunt; verbaasd; verwonderd; B1; Mensch/Gefühle; We waren verbaasd hoe groot de stad was.; Wir waren erstaunt, wie groß die Stadt war.
+nl-xe-0432; beleidigt; beledigd; gekwetst; B1; Mensch/Gefühle; Ze was beledigd omdat we haar verjaardag vergeten waren.; Sie war beleidigt, weil wir ihren Geburtstag vergessen hatten.
+nl-xe-0433; verwirrt; verward; in de war; B1; Mensch/Gefühle; Door zijn uitleg was ik helemaal verward.; Seine Erklärung hat mich völlig verwirrt.
+nl-xe-0434; genervt; geïrriteerd; geërgerd; B1; Mensch/Gefühle; Ik ben echt geïrriteerd door het lawaai hiernaast.; Ich bin wirklich genervt von dem Lärm nebenan.
+nl-xe-0435; Heimweh; de heimwee; ; B1; Mensch/Gefühle; Op het schoolreisje had ze heimwee.; Auf der Klassenfahrt hatte sie Heimweh.
+nl-xe-0436; beneiden; benijden; ; B2; Mensch/Gefühle; Ik benijd je om je lange vakantie.; Ich beneide dich um deine langen Ferien.
+nl-xe-0437; bedauern; betreuren; spijt hebben; B2; Mensch/Gefühle; Ik betreur het dat ik je niet kan helpen.; Ich bedauere, dass ich dir nicht helfen kann.
+nl-xe-0438; Einsamkeit; de eenzaamheid; ; B2; Mensch/Gefühle; Veel oude mensen lijden onder eenzaamheid.; Viele alte Menschen leiden unter Einsamkeit.
+nl-xe-0439; Zufriedenheit; de tevredenheid; ; B2; Mensch/Gefühle; De tevredenheid van de klanten is voor ons erg belangrijk.; Die Zufriedenheit der Kunden ist uns sehr wichtig.
+nl-xe-0440; Emotion; de emotie; ; B2; Mensch/Gefühle; Hij toont zijn emoties zelden in het openbaar.; Er zeigt seine Emotionen selten in der Öffentlichkeit.
+nl-xe-0441; Ekel; de walging; de afkeer; B2; Mensch/Gefühle; Ze bekeek de spin met walging.; Sie betrachtete die Spinne mit Ekel.
+nl-xe-0442; Vorfreude; de voorpret; ; B2; Mensch/Gefühle; De voorpret voor Kerstmis is het leukst.; Die Vorfreude auf Weihnachten ist das Schönste.
+nl-xe-0443; deprimiert; gedeprimeerd; depressief, somber; B2; Mensch/Gefühle; Sinds hij zijn baan verloor, is hij nogal gedeprimeerd.; Seit er seine Stelle verloren hat, ist er ziemlich deprimiert.
+nl-xe-0444; hoffnungslos; hopeloos; ; B2; Mensch/Gefühle; De situatie leek hopeloos, maar we gaven niet op.; Die Lage schien hoffnungslos, aber wir gaben nicht auf.
+nl-xe-0445; sprachlos; sprakeloos; ; B2; Mensch/Gefühle; Toen ik het nieuws hoorde, was ik sprakeloos.; Als ich die Nachricht hörte, war ich sprachlos.
+nl-xe-0446; frustriert; gefrustreerd; ; B2; Mensch/Gefühle; Ik ben gefrustreerd als mijn computer zo traag is.; Ich bin frustriert, wenn mein Computer so langsam ist.
+nl-xe-0447; Trost; de troost; ; C1; Mensch/Gefühle; Haar vriendelijke woorden waren een grote troost voor mij.; Ihre freundlichen Worte waren ein großer Trost für mich.
+nl-xe-0448; Reue; het berouw; de spijt, de wroeging; C1; Mensch/Gefühle; De dief toonde helemaal geen berouw.; Der Dieb zeigte überhaupt keine Reue.
+nl-xe-0449; Kummer; het verdriet; ; C1; Mensch/Gefühle; Ze probeerde haar verdriet voor de kinderen te verbergen.; Sie versuchte, ihren Kummer vor den Kindern zu verbergen.
+nl-xe-0450; gerührt; ontroerd; geroerd, aangedaan; C1; Mensch/Gefühle; We waren diep ontroerd door zijn toespraak.; Wir waren von seiner Rede tief gerührt.
+nl-xe-0451; frech; brutaal; vrijpostig; A2; Mensch/Charakter; Doe niet zo brutaal tegen je oma!; Sei nicht so frech zu deiner Oma!
+nl-xe-0452; unordentlich; rommelig; slordig, onordelijk; A2; Mensch/Charakter; De kamer van mijn broer is altijd heel rommelig.; Das Zimmer meines Bruders ist immer sehr unordentlich.
+nl-xe-0453; gemein; gemeen; ; A2; Mensch/Charakter; Het was echt gemeen van je om hem uit te lachen.; Es war echt gemein von dir, ihn auszulachen.
+nl-xe-0454; unfreundlich; onvriendelijk; onaardig; A2; Mensch/Charakter; De ober in het café was heel onvriendelijk.; Der Kellner im Café war sehr unfreundlich.
+nl-xe-0455; kreativ; creatief; ; A2; Mensch/Charakter; Mijn tante is heel creatief en schildert mooie schilderijen.; Meine Tante ist sehr kreativ und malt schöne Bilder.
+nl-xe-0456; sympathisch; sympathiek; aardig; A2; Mensch/Charakter; Ik vind onze nieuwe buurman heel sympathiek.; Ich finde unseren neuen Nachbarn sehr sympathisch.
+nl-xe-0457; humorvoll; humoristisch; grappig, geestig; B1; Mensch/Charakter; Onze wiskundeleraar is streng, maar humoristisch.; Unser Mathelehrer ist streng, aber humorvoll.
+nl-xe-0458; optimistisch; optimistisch; ; B1; Mensch/Charakter; Ik ben optimistisch dat we de wedstrijd winnen.; Ich bin optimistisch, dass wir das Spiel gewinnen.
+nl-xe-0459; pessimistisch; pessimistisch; ; B1; Mensch/Charakter; Doe niet zo pessimistisch, het komt wel goed.; Sei nicht so pessimistisch, es wird schon gut gehen.
+nl-xe-0460; unzuverlässig; onbetrouwbaar; ; B1; Mensch/Charakter; Hij is aardig, maar heel onbetrouwbaar.; Er ist nett, aber sehr unzuverlässig.
+nl-xe-0461; fantasievoll; fantasierijk; fantasievol; B1; Mensch/Charakter; Kleine kinderen zijn bij het spelen vaak heel fantasierijk.; Kleine Kinder sind beim Spielen oft sehr fantasievoll.
+nl-xe-0462; tapfer; dapper; moedig, flink; B1; Mensch/Charakter; De kleine jongen was bij de tandarts heel dapper.; Der kleine Junge war beim Zahnarzt sehr tapfer.
+nl-xe-0463; begabt; begaafd; getalenteerd; B1; Mensch/Charakter; Ze is een heel begaafde jonge muzikante.; Sie ist eine sehr begabte junge Musikerin.
+nl-xe-0464; Angeber; de opschepper; ; B1; Mensch/Charakter; Hou op met opscheppen, je bent zo'n opschepper!; Hör auf anzugeben, du bist so ein Angeber!
+nl-xe-0465; Persönlichkeit; de persoonlijkheid; ; B1; Mensch/Charakter; Ze heeft een sterke en vriendelijke persoonlijkheid.; Sie hat eine starke und freundliche Persönlichkeit.
+nl-xe-0466; Eigenschaft; de eigenschap; ; B1; Mensch/Charakter; Geduld is een van zijn beste eigenschappen.; Geduld ist eine seiner besten Eigenschaften.
+nl-xe-0467; Ehrlichkeit; de eerlijkheid; ; B1; Mensch/Charakter; Ik waardeer eerlijkheid meer dan wat dan ook.; Ich schätze Ehrlichkeit mehr als alles andere.
+nl-xe-0468; vergesslich; vergeetachtig; ; B1; Mensch/Charakter; Mijn opa wordt langzaam een beetje vergeetachtig.; Mein Opa wird langsam ein bisschen vergesslich.
+nl-xe-0469; chaotisch; chaotisch; ; B1; Mensch/Charakter; Mijn huisgenoot is aardig, maar een beetje chaotisch.; Mein Mitbewohner ist nett, aber etwas chaotisch.
+nl-xe-0470; feige; laf; ; B2; Mensch/Charakter; Het was laf om voor het probleem weg te lopen.; Es war feige, vor dem Problem davonzulaufen.
+nl-xe-0471; eingebildet; verwaand; arrogant, ingebeeld; B2; Mensch/Charakter; Sinds hij beroemd is, is hij zo verwaand.; Seit er berühmt ist, ist er so eingebildet.
+nl-xe-0472; gesellig; gezellig; sociaal; B2; Mensch/Charakter; Ze is heel gezellig en houdt van feestjes.; Sie ist sehr gesellig und liebt Partys.
+nl-xe-0473; empfindlich; gevoelig; overgevoelig; B2; Mensch/Charakter; Hij is heel gevoelig voor kritiek.; Er ist sehr empfindlich gegenüber Kritik.
+nl-xe-0474; entschlossen; vastbesloten; vastberaden; B2; Mensch/Charakter; Ze is vastbesloten om haar rijexamen te halen.; Sie ist fest entschlossen, ihre Führerscheinprüfung zu bestehen.
+nl-xe-0475; naiv; naïef; ; B2; Mensch/Charakter; Het was naïef om hem alles te geloven.; Es war naiv, ihm alles zu glauben.
+nl-xe-0476; leichtsinnig; lichtzinnig; onvoorzichtig, roekeloos; B2; Mensch/Charakter; Het was lichtzinnig om de deur open te laten.; Es war leichtsinnig, die Tür offen zu lassen.
+nl-xe-0477; Selbstvertrauen; het zelfvertrouwen; ; B2; Mensch/Charakter; De nieuwe baan heeft haar meer zelfvertrouwen gegeven.; Die neue Stelle hat ihr mehr Selbstvertrauen gegeben.
+nl-xe-0478; zurückhaltend; terughoudend; gereserveerd; B2; Mensch/Charakter; In het begin was hij stil en eerder terughoudend.; Am Anfang war er still und eher zurückhaltend.
+nl-xe-0479; brav; braaf; lief; A2; Mensch/Charakter; De kinderen waren vandaag heel braaf.; Die Kinder waren heute sehr brav.
+nl-xe-0480; sparsam; zuinig; spaarzaam; B1; Mensch/Charakter; Mijn oma is heel zuinig en verspilt niets.; Meine Oma ist sehr sparsam und verschwendet nichts.
+nl-xe-0481; nachdenklich; nadenkend; bedachtzaam, peinzend; B2; Mensch/Charakter; Na de film was hij stil en nadenkend.; Nach dem Film war er still und nachdenklich.
+nl-xe-0482; Fleiß; de ijver; de vlijt; B2; Mensch/Charakter; Ze heeft het examen gehaald dankzij haar ijver.; Sie hat die Prüfung dank ihres Fleißes bestanden.
+nl-xe-0483; ausgeglichen; evenwichtig; uitgebalanceerd; C1; Mensch/Charakter; Yoga helpt me om rustig en evenwichtig te blijven.; Yoga hilft mir, ruhig und ausgeglichen zu bleiben.
+nl-xe-0484; aufrichtig; oprecht; ; C1; Mensch/Charakter; Aanvaard alstublieft mijn oprechte verontschuldigingen voor de vertraging.; Bitte nehmen Sie meine aufrichtige Entschuldigung für die Verspätung an.
+nl-xe-0485; taktvoll; tactvol; ; C1; Mensch/Charakter; Ze gaf hem een tactvol antwoord.; Sie gab ihm eine taktvolle Antwort.
+nl-xe-0486; Tugend; de deugd; ; C1; Mensch/Charakter; Geduld behoort niet tot mijn deugden.; Geduld gehört nicht zu meinen Tugenden.
+nl-xe-0487; gutmütig; goedaardig; goedig, goedmoedig; C1; Mensch/Charakter; Onze oude hond is lui, maar heel goedaardig.; Unser alter Hund ist faul, aber sehr gutmütig.

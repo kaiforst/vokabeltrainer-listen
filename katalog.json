@@ -216,6 +216,13 @@
       "lang": "no"
     },
     {
+      "id": "nl-grundwortschatz",
+      "file": "woerter/nl-grundwortschatz.txt",
+      "version": 1,
+      "count": 1200,
+      "lang": "nl"
+    },
+    {
       "id": "reden",
       "file": "woerter/reden.txt",
       "version": 4,
@@ -674,6 +681,13 @@
       "lang": "no"
     },
     {
+      "id": "nl-business-airport",
+      "file": "woerter/nl-business-airport.txt",
+      "version": 1,
+      "count": 200,
+      "lang": "nl"
+    },
+    {
       "id": "it-alltag-zuhause",
       "file": "woerter/it-alltag-zuhause.txt",
       "version": 2,
@@ -686,6 +700,13 @@
       "version": 1,
       "count": 150,
       "lang": "no"
+    },
+    {
+      "id": "nl-alltag-zuhause",
+      "file": "woerter/nl-alltag-zuhause.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "nl"
     },
     {
       "id": "it-arbeit-beruf",
@@ -702,6 +723,13 @@
       "lang": "no"
     },
     {
+      "id": "nl-arbeit-beruf",
+      "file": "woerter/nl-arbeit-beruf.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "nl"
+    },
+    {
       "id": "it-business-buero",
       "file": "woerter/it-business-buero.txt",
       "version": 3,
@@ -714,6 +742,13 @@
       "version": 1,
       "count": 150,
       "lang": "no"
+    },
+    {
+      "id": "nl-business-buero",
+      "file": "woerter/nl-business-buero.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "nl"
     },
     {
       "id": "it-einkaufen-geld",
@@ -730,6 +765,13 @@
       "lang": "no"
     },
     {
+      "id": "nl-einkaufen-geld",
+      "file": "woerter/nl-einkaufen-geld.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "nl"
+    },
+    {
       "id": "it-essen-trinken",
       "file": "woerter/it-essen-trinken.txt",
       "version": 3,
@@ -742,6 +784,13 @@
       "version": 1,
       "count": 150,
       "lang": "no"
+    },
+    {
+      "id": "nl-essen-trinken",
+      "file": "woerter/nl-essen-trinken.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "nl"
     },
     {
       "id": "it-familie-beziehungen",
@@ -758,6 +807,13 @@
       "lang": "no"
     },
     {
+      "id": "nl-familie-beziehungen",
+      "file": "woerter/nl-familie-beziehungen.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "nl"
+    },
+    {
       "id": "it-freizeit-hobbys",
       "file": "woerter/it-freizeit-hobbys.txt",
       "version": 2,
@@ -770,6 +826,13 @@
       "version": 1,
       "count": 150,
       "lang": "no"
+    },
+    {
+      "id": "nl-freizeit-hobbys",
+      "file": "woerter/nl-freizeit-hobbys.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "nl"
     },
     {
       "id": "it-gefuehle-charakter",
@@ -786,6 +849,13 @@
       "lang": "no"
     },
     {
+      "id": "nl-gefuehle-charakter",
+      "file": "woerter/nl-gefuehle-charakter.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "nl"
+    },
+    {
       "id": "it-kleidung-mode",
       "file": "woerter/it-kleidung-mode.txt",
       "version": 2,
@@ -798,6 +868,13 @@
       "version": 1,
       "count": 150,
       "lang": "no"
+    },
+    {
+      "id": "nl-kleidung-mode",
+      "file": "woerter/nl-kleidung-mode.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "nl"
     },
     {
       "id": "it-koerper-gesundheit",
@@ -814,6 +891,13 @@
       "lang": "no"
     },
     {
+      "id": "nl-koerper-gesundheit",
+      "file": "woerter/nl-koerper-gesundheit.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "nl"
+    },
+    {
       "id": "it-kunst-kultur",
       "file": "woerter/it-kunst-kultur.txt",
       "version": 3,
@@ -826,6 +910,13 @@
       "version": 1,
       "count": 150,
       "lang": "no"
+    },
+    {
+      "id": "nl-kunst-kultur",
+      "file": "woerter/nl-kunst-kultur.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "nl"
     },
     {
       "id": "it-medien-kommunikation",
@@ -842,6 +933,13 @@
       "lang": "no"
     },
     {
+      "id": "nl-medien-kommunikation",
+      "file": "woerter/nl-medien-kommunikation.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "nl"
+    },
+    {
       "id": "it-natur-tiere",
       "file": "woerter/it-natur-tiere.txt",
       "version": 3,
@@ -854,6 +952,13 @@
       "version": 1,
       "count": 150,
       "lang": "no"
+    },
+    {
+      "id": "nl-natur-tiere",
+      "file": "woerter/nl-natur-tiere.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "nl"
     },
     {
       "id": "it-politik-gesellschaft",
@@ -870,6 +975,13 @@
       "lang": "no"
     },
     {
+      "id": "nl-politik-gesellschaft",
+      "file": "woerter/nl-politik-gesellschaft.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "nl"
+    },
+    {
       "id": "it-reisen-urlaub",
       "file": "woerter/it-reisen-urlaub.txt",
       "version": 3,
@@ -882,6 +994,13 @@
       "version": 1,
       "count": 150,
       "lang": "no"
+    },
+    {
+      "id": "nl-reisen-urlaub",
+      "file": "woerter/nl-reisen-urlaub.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "nl"
     },
     {
       "id": "it-schule-bildung",
@@ -898,6 +1017,13 @@
       "lang": "no"
     },
     {
+      "id": "nl-schule-bildung",
+      "file": "woerter/nl-schule-bildung.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "nl"
+    },
+    {
       "id": "it-sport-fitness",
       "file": "woerter/it-sport-fitness.txt",
       "version": 3,
@@ -910,6 +1036,13 @@
       "version": 1,
       "count": 150,
       "lang": "no"
+    },
+    {
+      "id": "nl-sport-fitness",
+      "file": "woerter/nl-sport-fitness.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "nl"
     },
     {
       "id": "it-technik-computer",
@@ -926,6 +1059,13 @@
       "lang": "no"
     },
     {
+      "id": "nl-technik-computer",
+      "file": "woerter/nl-technik-computer.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "nl"
+    },
+    {
       "id": "it-verkehr-mobilitaet",
       "file": "woerter/it-verkehr-mobilitaet.txt",
       "version": 3,
@@ -938,6 +1078,13 @@
       "version": 1,
       "count": 150,
       "lang": "no"
+    },
+    {
+      "id": "nl-verkehr-mobilitaet",
+      "file": "woerter/nl-verkehr-mobilitaet.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "nl"
     },
     {
       "id": "it-wetter-umwelt",
@@ -954,6 +1101,13 @@
       "lang": "no"
     },
     {
+      "id": "nl-wetter-umwelt",
+      "file": "woerter/nl-wetter-umwelt.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "nl"
+    },
+    {
       "id": "it-wirtschaft-finanzen",
       "file": "woerter/it-wirtschaft-finanzen.txt",
       "version": 3,
@@ -966,6 +1120,13 @@
       "version": 1,
       "count": 150,
       "lang": "no"
+    },
+    {
+      "id": "nl-wirtschaft-finanzen",
+      "file": "woerter/nl-wirtschaft-finanzen.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "nl"
     },
     {
       "id": "it-wissenschaft-forschung",
@@ -982,6 +1143,13 @@
       "lang": "no"
     },
     {
+      "id": "nl-wissenschaft-forschung",
+      "file": "woerter/nl-wissenschaft-forschung.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "nl"
+    },
+    {
       "id": "it-business-beschaffung",
       "file": "woerter/it-business-beschaffung.txt",
       "version": 3,
@@ -994,6 +1162,13 @@
       "version": 1,
       "count": 150,
       "lang": "no"
+    },
+    {
+      "id": "nl-business-beschaffung",
+      "file": "woerter/nl-business-beschaffung.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "nl"
     },
     {
       "id": "it-business-marketing-vertrieb",
@@ -1010,6 +1185,13 @@
       "lang": "no"
     },
     {
+      "id": "nl-business-marketing-vertrieb",
+      "file": "woerter/nl-business-marketing-vertrieb.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "nl"
+    },
+    {
       "id": "it-business-personalwesen",
       "file": "woerter/it-business-personalwesen.txt",
       "version": 3,
@@ -1022,6 +1204,13 @@
       "version": 1,
       "count": 150,
       "lang": "no"
+    },
+    {
+      "id": "nl-business-personalwesen",
+      "file": "woerter/nl-business-personalwesen.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "nl"
     },
     {
       "id": "it-business-projektmanagement",
@@ -1038,6 +1227,13 @@
       "lang": "no"
     },
     {
+      "id": "nl-business-projektmanagement",
+      "file": "woerter/nl-business-projektmanagement.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "nl"
+    },
+    {
       "id": "it-business-rechnungswesen",
       "file": "woerter/it-business-rechnungswesen.txt",
       "version": 3,
@@ -1050,6 +1246,13 @@
       "version": 1,
       "count": 150,
       "lang": "no"
+    },
+    {
+      "id": "nl-business-rechnungswesen",
+      "file": "woerter/nl-business-rechnungswesen.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "nl"
     },
     {
       "id": "it-business-verhandlungen",
@@ -1066,6 +1269,13 @@
       "lang": "no"
     },
     {
+      "id": "nl-business-verhandlungen",
+      "file": "woerter/nl-business-verhandlungen.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "nl"
+    },
+    {
       "id": "it-business-vertrag",
       "file": "woerter/it-business-vertrag.txt",
       "version": 3,
@@ -1078,6 +1288,13 @@
       "version": 1,
       "count": 150,
       "lang": "no"
+    },
+    {
+      "id": "nl-business-vertrag",
+      "file": "woerter/nl-business-vertrag.txt",
+      "version": 1,
+      "count": 150,
+      "lang": "nl"
     },
     {
       "id": "karsten",
@@ -1112,6 +1329,13 @@
       "version": 1,
       "count": 988,
       "lang": "no"
+    },
+    {
+      "id": "nl-karsten",
+      "file": "woerter/nl-karsten.txt",
+      "version": 1,
+      "count": 985,
+      "lang": "nl"
     },
     {
       "id": "wendungen-alltag",
@@ -1214,6 +1438,13 @@
       "lang": "no"
     },
     {
+      "id": "nl-wendungen-alltag",
+      "file": "woerter/nl-wendungen-alltag.txt",
+      "version": 1,
+      "count": 310,
+      "lang": "nl"
+    },
+    {
       "id": "it-wendungen-schule-arbeit",
       "file": "woerter/it-wendungen-schule-arbeit.txt",
       "version": 1,
@@ -1226,6 +1457,13 @@
       "version": 1,
       "count": 274,
       "lang": "no"
+    },
+    {
+      "id": "nl-wendungen-schule-arbeit",
+      "file": "woerter/nl-wendungen-schule-arbeit.txt",
+      "version": 1,
+      "count": 274,
+      "lang": "nl"
     },
     {
       "id": "it-redewendungen",
@@ -1242,6 +1480,13 @@
       "lang": "no"
     },
     {
+      "id": "nl-redewendungen",
+      "file": "woerter/nl-redewendungen.txt",
+      "version": 1,
+      "count": 345,
+      "lang": "nl"
+    },
+    {
       "id": "it-sprichwoerter",
       "file": "woerter/it-sprichwoerter.txt",
       "version": 1,
@@ -1254,6 +1499,13 @@
       "version": 1,
       "count": 129,
       "lang": "no"
+    },
+    {
+      "id": "nl-sprichwoerter",
+      "file": "woerter/nl-sprichwoerter.txt",
+      "version": 1,
+      "count": 129,
+      "lang": "nl"
     },
     {
       "id": "ausbau-alltag",
@@ -1290,6 +1542,13 @@
       "lang": "no"
     },
     {
+      "id": "nl-ausbau-alltag",
+      "file": "woerter/nl-ausbau-alltag.txt",
+      "version": 1,
+      "count": 443,
+      "lang": "nl"
+    },
+    {
       "id": "ausbau-schule-arbeit",
       "file": "woerter/ausbau-schule-arbeit.txt",
       "version": 3,
@@ -1322,6 +1581,13 @@
       "version": 1,
       "count": 440,
       "lang": "no"
+    },
+    {
+      "id": "nl-ausbau-schule-arbeit",
+      "file": "woerter/nl-ausbau-schule-arbeit.txt",
+      "version": 1,
+      "count": 440,
+      "lang": "nl"
     },
     {
       "id": "ausbau-natur-welt",
@@ -1358,6 +1624,13 @@
       "lang": "no"
     },
     {
+      "id": "nl-ausbau-natur-welt",
+      "file": "woerter/nl-ausbau-natur-welt.txt",
+      "version": 1,
+      "count": 461,
+      "lang": "nl"
+    },
+    {
       "id": "ausbau-gesellschaft",
       "file": "woerter/ausbau-gesellschaft.txt",
       "version": 1,
@@ -1390,6 +1663,13 @@
       "version": 1,
       "count": 442,
       "lang": "no"
+    },
+    {
+      "id": "nl-ausbau-gesellschaft",
+      "file": "woerter/nl-ausbau-gesellschaft.txt",
+      "version": 1,
+      "count": 442,
+      "lang": "nl"
     },
     {
       "id": "ausbau-grundwoerter",
@@ -1426,6 +1706,13 @@
       "lang": "no"
     },
     {
+      "id": "nl-ausbau-grundwoerter",
+      "file": "woerter/nl-ausbau-grundwoerter.txt",
+      "version": 1,
+      "count": 487,
+      "lang": "nl"
+    },
+    {
       "id": "bedeutungen",
       "file": "woerter/bedeutungen.txt",
       "version": 2,
@@ -1460,6 +1747,13 @@
       "lang": "no"
     },
     {
+      "id": "nl-bedeutungen",
+      "file": "woerter/nl-bedeutungen.txt",
+      "version": 1,
+      "count": 59,
+      "lang": "nl"
+    },
+    {
       "id": "ausbau-nachtrag",
       "file": "woerter/ausbau-nachtrag.txt",
       "version": 2,
@@ -1492,12 +1786,19 @@
       "version": 1,
       "count": 403,
       "lang": "no"
+    },
+    {
+      "id": "nl-ausbau-nachtrag",
+      "file": "woerter/nl-ausbau-nachtrag.txt",
+      "version": 1,
+      "count": 403,
+      "lang": "nl"
     }
   ],
   "aliases": {
     "file": "aliase.txt",
-    "version": 9,
-    "count": 8238
+    "version": 10,
+    "count": 9933
   },
   "forms": [
     {
@@ -1535,6 +1836,12 @@
       "file": "formen/no.txt",
       "version": 1,
       "count": 552
+    },
+    {
+      "lang": "nl",
+      "file": "formen/nl.txt",
+      "version": 1,
+      "count": 2338
     }
   ],
   "lists": [
@@ -2285,6 +2592,24 @@
       "group": "grundwortschatz-start"
     },
     {
+      "id": "nl-grundwortschatz-a1",
+      "name": "Niederländisch: Grundwortschatz – A1",
+      "description": "Die einfachsten Wörter zum Einstieg",
+      "level": "A1",
+      "answerLang": "nl",
+      "count": 250,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Grundwortschatz"
+        ],
+        "levels": [
+          "A1"
+        ]
+      },
+      "group": "grundwortschatz-start"
+    },
+    {
       "id": "it-grundwortschatz-a2",
       "name": "Italienisch: Grundwortschatz – A2",
       "description": "Aufbauwörter für den Alltag",
@@ -2307,6 +2632,23 @@
       "description": "Aufbauwörter für den Alltag",
       "level": "A2",
       "answerLang": "no",
+      "count": 250,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Grundwortschatz"
+        ],
+        "levels": [
+          "A2"
+        ]
+      }
+    },
+    {
+      "id": "nl-grundwortschatz-a2",
+      "name": "Niederländisch: Grundwortschatz – A2",
+      "description": "Aufbauwörter für den Alltag",
+      "level": "A2",
+      "answerLang": "nl",
       "count": 250,
       "version": 1,
       "filter": {
@@ -2353,6 +2695,23 @@
       }
     },
     {
+      "id": "nl-grundwortschatz-b1",
+      "name": "Niederländisch: Grundwortschatz – B1",
+      "description": "Selbstständig im Alltag und Beruf",
+      "level": "B1",
+      "answerLang": "nl",
+      "count": 250,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Grundwortschatz"
+        ],
+        "levels": [
+          "B1"
+        ]
+      }
+    },
+    {
       "id": "it-grundwortschatz-b2",
       "name": "Italienisch: Grundwortschatz – B2",
       "description": "Für Diskussionen und Fachgespräche",
@@ -2375,6 +2734,23 @@
       "description": "Für Diskussionen und Fachgespräche",
       "level": "B2",
       "answerLang": "no",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Grundwortschatz"
+        ],
+        "levels": [
+          "B2"
+        ]
+      }
+    },
+    {
+      "id": "nl-grundwortschatz-b2",
+      "name": "Niederländisch: Grundwortschatz – B2",
+      "description": "Für Diskussionen und Fachgespräche",
+      "level": "B2",
+      "answerLang": "nl",
       "count": 150,
       "version": 1,
       "filter": {
@@ -2421,6 +2797,23 @@
       }
     },
     {
+      "id": "nl-grundwortschatz-c1",
+      "name": "Niederländisch: Grundwortschatz – C1",
+      "description": "Gehobener Wortschatz für anspruchsvolle Texte",
+      "level": "C1",
+      "answerLang": "nl",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Grundwortschatz"
+        ],
+        "levels": [
+          "C1"
+        ]
+      }
+    },
+    {
       "id": "it-grundwortschatz-c2",
       "name": "Italienisch: Grundwortschatz – C2",
       "description": "Nuancen, Redewendungen und gehobener Stil",
@@ -2455,6 +2848,23 @@
       }
     },
     {
+      "id": "nl-grundwortschatz-c2",
+      "name": "Niederländisch: Grundwortschatz – C2",
+      "description": "Nuancen, Redewendungen und gehobener Stil",
+      "level": "C2",
+      "answerLang": "nl",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Grundwortschatz"
+        ],
+        "levels": [
+          "C2"
+        ]
+      }
+    },
+    {
       "id": "it-grundwortschatz",
       "name": "Italienisch: Grundwortschatz – alle Niveaus",
       "description": "A1–C2, mit Beispielsätzen",
@@ -2472,6 +2882,19 @@
       "name": "Norwegisch: Grundwortschatz – alle Niveaus",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "no",
+      "count": 1200,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Grundwortschatz"
+        ]
+      }
+    },
+    {
+      "id": "nl-grundwortschatz",
+      "name": "Niederländisch: Grundwortschatz – alle Niveaus",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "nl",
       "count": 1200,
       "version": 1,
       "filter": {
@@ -3499,6 +3922,20 @@
       }
     },
     {
+      "id": "nl-business-english-airport",
+      "name": "Niederländisch: Business – Airport",
+      "description": "Terminalbetrieb und Passagierabfertigung, mit Beispielsätzen",
+      "level": "B1",
+      "answerLang": "nl",
+      "count": 200,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Business/Airport"
+        ]
+      }
+    },
+    {
       "id": "it-alltag-zuhause",
       "name": "Italienisch: Alltag & Zuhause",
       "description": "A1–C2, mit Beispielsätzen",
@@ -3516,6 +3953,19 @@
       "name": "Norwegisch: Alltag & Zuhause",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "no",
+      "count": 259,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Alltag/Zuhause"
+        ]
+      }
+    },
+    {
+      "id": "nl-alltag-zuhause",
+      "name": "Niederländisch: Alltag & Zuhause",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "nl",
       "count": 259,
       "version": 1,
       "filter": {
@@ -3551,6 +4001,19 @@
       }
     },
     {
+      "id": "nl-arbeit-beruf",
+      "name": "Niederländisch: Arbeit & Beruf",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "nl",
+      "count": 233,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Arbeit"
+        ]
+      }
+    },
+    {
       "id": "it-business-buero",
       "name": "Italienisch: Business & Büro",
       "description": "A1–C2, mit Beispielsätzen",
@@ -3568,6 +4031,19 @@
       "name": "Norwegisch: Business & Büro",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "no",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Business/Büro"
+        ]
+      }
+    },
+    {
+      "id": "nl-business-buero",
+      "name": "Niederländisch: Business & Büro",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "nl",
       "count": 150,
       "version": 1,
       "filter": {
@@ -3603,6 +4079,19 @@
       }
     },
     {
+      "id": "nl-einkaufen-geld",
+      "name": "Niederländisch: Einkaufen & Geld",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "nl",
+      "count": 180,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Alltag/Einkaufen"
+        ]
+      }
+    },
+    {
       "id": "it-essen-trinken",
       "name": "Italienisch: Essen & Trinken",
       "description": "A1–C2, mit Beispielsätzen",
@@ -3629,6 +4118,19 @@
       }
     },
     {
+      "id": "nl-essen-trinken",
+      "name": "Niederländisch: Essen & Trinken",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "nl",
+      "count": 247,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Alltag/Essen"
+        ]
+      }
+    },
+    {
       "id": "it-familie-beziehungen",
       "name": "Italienisch: Familie & Beziehungen",
       "description": "A1–C2, mit Beispielsätzen",
@@ -3646,6 +4148,19 @@
       "name": "Norwegisch: Familie & Beziehungen",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "no",
+      "count": 202,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Alltag/Familie"
+        ]
+      }
+    },
+    {
+      "id": "nl-familie-beziehungen",
+      "name": "Niederländisch: Familie & Beziehungen",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "nl",
       "count": 202,
       "version": 1,
       "filter": {
@@ -3693,6 +4208,25 @@
       }
     },
     {
+      "id": "nl-freizeit-hobbys",
+      "name": "Niederländisch: Freizeit & Hobbys",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "nl",
+      "count": 213,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Freizeit/Hobbys",
+          "Freizeit/Spiele",
+          "Freizeit/Musik",
+          "Freizeit/Ausgehen",
+          "Freizeit/Lesen",
+          "Freizeit/Feste & Feiern",
+          "Freizeit/Basteln & Handwerk"
+        ]
+      }
+    },
+    {
       "id": "it-gefuehle-charakter",
       "name": "Italienisch: Gefühle & Charakter",
       "description": "A1–C2, mit Beispielsätzen",
@@ -3711,6 +4245,20 @@
       "name": "Norwegisch: Gefühle & Charakter",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "no",
+      "count": 234,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Mensch/Gefühle",
+          "Mensch/Charakter"
+        ]
+      }
+    },
+    {
+      "id": "nl-gefuehle-charakter",
+      "name": "Niederländisch: Gefühle & Charakter",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "nl",
       "count": 234,
       "version": 1,
       "filter": {
@@ -3747,6 +4295,19 @@
       }
     },
     {
+      "id": "nl-kleidung-mode",
+      "name": "Niederländisch: Kleidung & Mode",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "nl",
+      "count": 182,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Alltag/Kleidung"
+        ]
+      }
+    },
+    {
       "id": "it-koerper-gesundheit",
       "name": "Italienisch: Körper & Gesundheit",
       "description": "A1–C2, mit Beispielsätzen",
@@ -3764,6 +4325,19 @@
       "name": "Norwegisch: Körper & Gesundheit",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "no",
+      "count": 301,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Gesundheit"
+        ]
+      }
+    },
+    {
+      "id": "nl-koerper-gesundheit",
+      "name": "Niederländisch: Körper & Gesundheit",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "nl",
       "count": 301,
       "version": 1,
       "filter": {
@@ -3799,6 +4373,19 @@
       }
     },
     {
+      "id": "nl-kunst-kultur",
+      "name": "Niederländisch: Kunst & Kultur",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "nl",
+      "count": 273,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Kultur"
+        ]
+      }
+    },
+    {
       "id": "it-medien-kommunikation",
       "name": "Italienisch: Medien & Kommunikation",
       "description": "A1–C2, mit Beispielsätzen",
@@ -3816,6 +4403,19 @@
       "name": "Norwegisch: Medien & Kommunikation",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "no",
+      "count": 199,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Medien"
+        ]
+      }
+    },
+    {
+      "id": "nl-medien-kommunikation",
+      "name": "Niederländisch: Medien & Kommunikation",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "nl",
       "count": 199,
       "version": 1,
       "filter": {
@@ -3855,6 +4455,21 @@
       }
     },
     {
+      "id": "nl-natur-tiere",
+      "name": "Niederländisch: Natur & Tiere",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "nl",
+      "count": 274,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Natur/Tiere",
+          "Natur/Pflanzen",
+          "Natur/Landschaft"
+        ]
+      }
+    },
+    {
       "id": "it-politik-gesellschaft",
       "name": "Italienisch: Politik & Gesellschaft",
       "description": "A1–C2, mit Beispielsätzen",
@@ -3872,6 +4487,19 @@
       "name": "Norwegisch: Politik & Gesellschaft",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "no",
+      "count": 335,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Gesellschaft"
+        ]
+      }
+    },
+    {
+      "id": "nl-politik-gesellschaft",
+      "name": "Niederländisch: Politik & Gesellschaft",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "nl",
       "count": 335,
       "version": 1,
       "filter": {
@@ -3907,6 +4535,19 @@
       }
     },
     {
+      "id": "nl-reisen-urlaub",
+      "name": "Niederländisch: Reisen & Urlaub",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "nl",
+      "count": 206,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Reisen/Urlaub"
+        ]
+      }
+    },
+    {
       "id": "it-schule-bildung",
       "name": "Italienisch: Schule & Bildung",
       "description": "A1–C2, mit Beispielsätzen",
@@ -3924,6 +4565,19 @@
       "name": "Norwegisch: Schule & Bildung",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "no",
+      "count": 344,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Bildung"
+        ]
+      }
+    },
+    {
+      "id": "nl-schule-bildung",
+      "name": "Niederländisch: Schule & Bildung",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "nl",
       "count": 344,
       "version": 1,
       "filter": {
@@ -3959,6 +4613,19 @@
       }
     },
     {
+      "id": "nl-sport-fitness",
+      "name": "Niederländisch: Sport & Fitness",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "nl",
+      "count": 205,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Freizeit/Sport"
+        ]
+      }
+    },
+    {
       "id": "it-technik-computer",
       "name": "Italienisch: Technik & Computer",
       "description": "A1–C2, mit Beispielsätzen",
@@ -3976,6 +4643,19 @@
       "name": "Norwegisch: Technik & Computer",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "no",
+      "count": 261,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Technik"
+        ]
+      }
+    },
+    {
+      "id": "nl-technik-computer",
+      "name": "Niederländisch: Technik & Computer",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "nl",
       "count": 261,
       "version": 1,
       "filter": {
@@ -4011,6 +4691,19 @@
       }
     },
     {
+      "id": "nl-verkehr-mobilitaet",
+      "name": "Niederländisch: Verkehr & Mobilität",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "nl",
+      "count": 213,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Reisen/Verkehr"
+        ]
+      }
+    },
+    {
       "id": "it-wetter-umwelt",
       "name": "Italienisch: Wetter & Umwelt",
       "description": "A1–C2, mit Beispielsätzen",
@@ -4028,6 +4721,19 @@
       "name": "Norwegisch: Wetter & Umwelt",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "no",
+      "count": 241,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Natur/Umwelt"
+        ]
+      }
+    },
+    {
+      "id": "nl-wetter-umwelt",
+      "name": "Niederländisch: Wetter & Umwelt",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "nl",
       "count": 241,
       "version": 1,
       "filter": {
@@ -4063,6 +4769,19 @@
       }
     },
     {
+      "id": "nl-wirtschaft-finanzen",
+      "name": "Niederländisch: Wirtschaft & Finanzen",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "nl",
+      "count": 189,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wirtschaft"
+        ]
+      }
+    },
+    {
       "id": "it-wissenschaft-forschung",
       "name": "Italienisch: Wissenschaft & Forschung",
       "description": "A1–C2, mit Beispielsätzen",
@@ -4080,6 +4799,19 @@
       "name": "Norwegisch: Wissenschaft & Forschung",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "no",
+      "count": 204,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wissenschaft"
+        ]
+      }
+    },
+    {
+      "id": "nl-wissenschaft-forschung",
+      "name": "Niederländisch: Wissenschaft & Forschung",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "nl",
       "count": 204,
       "version": 1,
       "filter": {
@@ -4115,6 +4847,19 @@
       }
     },
     {
+      "id": "nl-business-beschaffung",
+      "name": "Niederländisch: Business – Beschaffung",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "nl",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Business/Beschaffung"
+        ]
+      }
+    },
+    {
       "id": "it-business-marketing-vertrieb",
       "name": "Italienisch: Business – Marketing & Vertrieb",
       "description": "A1–C2, mit Beispielsätzen",
@@ -4132,6 +4877,19 @@
       "name": "Norwegisch: Business – Marketing & Vertrieb",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "no",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Business/Marketing & Vertrieb"
+        ]
+      }
+    },
+    {
+      "id": "nl-business-marketing-vertrieb",
+      "name": "Niederländisch: Business – Marketing & Vertrieb",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "nl",
       "count": 150,
       "version": 1,
       "filter": {
@@ -4167,6 +4925,19 @@
       }
     },
     {
+      "id": "nl-business-personalwesen",
+      "name": "Niederländisch: Business – Personalwesen",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "nl",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Business/Personal"
+        ]
+      }
+    },
+    {
       "id": "it-business-projektmanagement",
       "name": "Italienisch: Business – Projektmanagement",
       "description": "A1–C2, mit Beispielsätzen",
@@ -4184,6 +4955,19 @@
       "name": "Norwegisch: Business – Projektmanagement",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "no",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Business/Projektmanagement"
+        ]
+      }
+    },
+    {
+      "id": "nl-business-projektmanagement",
+      "name": "Niederländisch: Business – Projektmanagement",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "nl",
       "count": 150,
       "version": 1,
       "filter": {
@@ -4219,6 +5003,19 @@
       }
     },
     {
+      "id": "nl-business-rechnungswesen",
+      "name": "Niederländisch: Business – Rechnungswesen",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "nl",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Business/Rechnungswesen"
+        ]
+      }
+    },
+    {
       "id": "it-business-verhandlungen",
       "name": "Italienisch: Business – Verhandlungen",
       "description": "A1–C2, mit Beispielsätzen",
@@ -4245,6 +5042,19 @@
       }
     },
     {
+      "id": "nl-business-verhandlungen",
+      "name": "Niederländisch: Business – Verhandlungen",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "nl",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Business/Verhandlung"
+        ]
+      }
+    },
+    {
       "id": "it-business-vertrag",
       "name": "Italienisch: Business – Verträge",
       "description": "A1–C2, mit Beispielsätzen",
@@ -4262,6 +5072,19 @@
       "name": "Norwegisch: Business – Verträge",
       "description": "A1–C2, mit Beispielsätzen",
       "answerLang": "no",
+      "count": 150,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Business/Vertrag"
+        ]
+      }
+    },
+    {
+      "id": "nl-business-vertrag",
+      "name": "Niederländisch: Business – Verträge",
+      "description": "A1–C2, mit Beispielsätzen",
+      "answerLang": "nl",
       "count": 150,
       "version": 1,
       "filter": {
@@ -4411,6 +5234,19 @@
       }
     },
     {
+      "id": "nl-karsten",
+      "name": "Niederländisch: Karstens Empfehlung",
+      "description": "Grundwortschatz zum Einstieg, empfohlen von Karsten",
+      "answerLang": "nl",
+      "count": 985,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Karstens Empfehlung"
+        ]
+      }
+    },
+    {
       "id": "it-karsten-verben",
       "name": "Italienisch: Karstens Empfehlung – Verben",
       "description": "Die Verben aus Karstens Empfehlung",
@@ -4428,6 +5264,19 @@
       "name": "Norwegisch: Karstens Empfehlung – Verben",
       "description": "Die Verben aus Karstens Empfehlung",
       "answerLang": "no",
+      "count": 251,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Karstens Empfehlung/Verben"
+        ]
+      }
+    },
+    {
+      "id": "nl-karsten-verben",
+      "name": "Niederländisch: Karstens Empfehlung – Verben",
+      "description": "Die Verben aus Karstens Empfehlung",
+      "answerLang": "nl",
       "count": 251,
       "version": 1,
       "filter": {
@@ -4455,6 +5304,19 @@
       "description": "Nomen, Adjektive und kleine Wörter aus Karstens Empfehlung",
       "answerLang": "no",
       "count": 737,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Karstens Empfehlung/Wörter"
+        ]
+      }
+    },
+    {
+      "id": "nl-karsten-woerter",
+      "name": "Niederländisch: Karstens Empfehlung – ohne Verben",
+      "description": "Nomen, Adjektive und kleine Wörter aus Karstens Empfehlung",
+      "answerLang": "nl",
+      "count": 734,
       "version": 1,
       "filter": {
         "topics": [
@@ -4535,6 +5397,23 @@
       "description": "Die ersten festen Verbindungen: Tagesablauf, Uhrzeit, Essen, Einkaufen",
       "level": "A1",
       "answerLang": "no",
+      "count": 137,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Alltag"
+        ],
+        "levels": [
+          "A1"
+        ]
+      }
+    },
+    {
+      "id": "nl-wendungen-alltag-a1",
+      "name": "Niederländisch: Alltagswendungen – A1",
+      "description": "Die ersten festen Verbindungen: Tagesablauf, Uhrzeit, Essen, Einkaufen",
+      "level": "A1",
+      "answerLang": "nl",
       "count": 137,
       "version": 1,
       "filter": {
@@ -4636,6 +5515,24 @@
       }
     },
     {
+      "id": "nl-wendungen-alltag-a2",
+      "name": "Niederländisch: Alltagswendungen – A2/B1",
+      "description": "Feste Verbindungen für Haushalt, Freizeit, Reisen und Unterwegs",
+      "level": "A2",
+      "answerLang": "nl",
+      "count": 173,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Alltag"
+        ],
+        "levels": [
+          "A2",
+          "B1"
+        ]
+      }
+    },
+    {
       "id": "wendungen-zeitangaben",
       "name": "Wendungen: Zeitangaben",
       "description": "Uhrzeit, Tageszeiten, wie oft, seit wann",
@@ -4696,6 +5593,20 @@
       "description": "Uhrzeit, Tageszeiten, wie oft, seit wann",
       "level": "A1",
       "answerLang": "no",
+      "count": 60,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Alltag/Zeitangaben"
+        ]
+      }
+    },
+    {
+      "id": "nl-wendungen-zeitangaben",
+      "name": "Niederländisch: Wendungen – Zeitangaben",
+      "description": "Uhrzeit, Tageszeiten, wie oft, seit wann",
+      "level": "A1",
+      "answerLang": "nl",
       "count": 60,
       "version": 1,
       "filter": {
@@ -4769,6 +5680,21 @@
       "description": "Vom Zähneputzen bis zum Wäschewaschen",
       "level": "A1",
       "answerLang": "no",
+      "count": 50,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Alltag/Tagesablauf",
+          "Wendungen/Alltag/Wohnen"
+        ]
+      }
+    },
+    {
+      "id": "nl-wendungen-tagesablauf-wohnen",
+      "name": "Niederländisch: Wendungen – Tagesablauf & Wohnen",
+      "description": "Vom Zähneputzen bis zum Wäschewaschen",
+      "level": "A1",
+      "answerLang": "nl",
       "count": 50,
       "version": 1,
       "filter": {
@@ -4853,6 +5779,21 @@
       }
     },
     {
+      "id": "nl-wendungen-essen-einkaufen",
+      "name": "Niederländisch: Wendungen – Essen & Einkaufen",
+      "description": "Im Restaurant, im Laden, an der Kasse",
+      "level": "A1",
+      "answerLang": "nl",
+      "count": 80,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Alltag/Essen & Trinken",
+          "Wendungen/Alltag/Einkaufen"
+        ]
+      }
+    },
+    {
       "id": "wendungen-freizeit",
       "name": "Wendungen: Freizeit",
       "description": "Sport, Musik, Kino und Treffen mit Freunden",
@@ -4913,6 +5854,20 @@
       "description": "Sport, Musik, Kino und Treffen mit Freunden",
       "level": "A1",
       "answerLang": "no",
+      "count": 50,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Alltag/Freizeit"
+        ]
+      }
+    },
+    {
+      "id": "nl-wendungen-freizeit",
+      "name": "Niederländisch: Wendungen – Freizeit",
+      "description": "Sport, Musik, Kino und Treffen mit Freunden",
+      "level": "A1",
+      "answerLang": "nl",
       "count": 50,
       "version": 1,
       "filter": {
@@ -4996,6 +5951,21 @@
       }
     },
     {
+      "id": "nl-wendungen-reisen-unterwegs",
+      "name": "Niederländisch: Wendungen – Reisen & Unterwegs",
+      "description": "Urlaub, Fahrkarten, nach dem Weg fragen",
+      "level": "A1",
+      "answerLang": "nl",
+      "count": 50,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Alltag/Reisen",
+          "Wendungen/Alltag/Unterwegs"
+        ]
+      }
+    },
+    {
       "id": "wendungen-schule",
       "name": "Wendungen: Schule & Studium",
       "description": "Feste Wendungen für Unterricht, Hausaufgaben und Prüfungen",
@@ -5056,6 +6026,20 @@
       "description": "Feste Wendungen für Unterricht, Hausaufgaben und Prüfungen",
       "level": "A2",
       "answerLang": "no",
+      "count": 60,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Schule"
+        ]
+      }
+    },
+    {
+      "id": "nl-wendungen-schule",
+      "name": "Niederländisch: Wendungen – Schule & Studium",
+      "description": "Feste Wendungen für Unterricht, Hausaufgaben und Prüfungen",
+      "level": "A2",
+      "answerLang": "nl",
       "count": 60,
       "version": 1,
       "filter": {
@@ -5134,6 +6118,20 @@
       }
     },
     {
+      "id": "nl-wendungen-arbeit",
+      "name": "Niederländisch: Wendungen – Arbeit & Beruf",
+      "description": "Bewerbung, Arbeitsalltag, Besprechungen, Telefon und E-Mail",
+      "level": "B1",
+      "answerLang": "nl",
+      "count": 105,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Arbeit"
+        ]
+      }
+    },
+    {
       "id": "wendungen-gespraech",
       "name": "Wendungen: Gespräch & Meinung",
       "description": "Höflich nachfragen, Meinung sagen, zustimmen und widersprechen",
@@ -5194,6 +6192,20 @@
       "description": "Höflich nachfragen, Meinung sagen, zustimmen und widersprechen",
       "level": "B1",
       "answerLang": "no",
+      "count": 109,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wendungen/Gespräch"
+        ]
+      }
+    },
+    {
+      "id": "nl-wendungen-gespraech",
+      "name": "Niederländisch: Wendungen – Gespräch & Meinung",
+      "description": "Höflich nachfragen, Meinung sagen, zustimmen und widersprechen",
+      "level": "B1",
+      "answerLang": "nl",
       "count": 109,
       "version": 1,
       "filter": {
@@ -5279,6 +6291,24 @@
       "description": "Bildhafte Wendungen, die man oft hört: Daumen drücken, die Nase voll haben",
       "level": "B2",
       "answerLang": "no",
+      "count": 171,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Redewendungen"
+        ],
+        "levels": [
+          "B1",
+          "B2"
+        ]
+      }
+    },
+    {
+      "id": "nl-redewendungen-b2",
+      "name": "Niederländisch: Redewendungen – B1/B2",
+      "description": "Bildhafte Wendungen, die man oft hört: Daumen drücken, die Nase voll haben",
+      "level": "B2",
+      "answerLang": "nl",
       "count": 171,
       "version": 1,
       "filter": {
@@ -5381,6 +6411,24 @@
       }
     },
     {
+      "id": "nl-redewendungen-c1",
+      "name": "Niederländisch: Redewendungen – C1/C2",
+      "description": "Bildhafte Wendungen für Fortgeschrittene",
+      "level": "C1",
+      "answerLang": "nl",
+      "count": 174,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Redewendungen"
+        ],
+        "levels": [
+          "C1",
+          "C2"
+        ]
+      }
+    },
+    {
       "id": "sprichwoerter-b2",
       "name": "Sprichwörter – B1/B2",
       "description": "Bekannte Sprichwörter: Übung macht den Meister, Zeit ist Geld …",
@@ -5470,6 +6518,24 @@
       }
     },
     {
+      "id": "nl-sprichwoerter-b2",
+      "name": "Niederländisch: Sprichwörter – B1/B2",
+      "description": "Bekannte Sprichwörter: Übung macht den Meister, Zeit ist Geld …",
+      "level": "B2",
+      "answerLang": "nl",
+      "count": 73,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Sprichwörter"
+        ],
+        "levels": [
+          "B1",
+          "B2"
+        ]
+      }
+    },
+    {
       "id": "sprichwoerter-c1",
       "name": "Sprichwörter – C1/C2",
       "description": "Anspruchsvollere Sprichwörter für Fortgeschrittene",
@@ -5546,6 +6612,24 @@
       "description": "Anspruchsvollere Sprichwörter für Fortgeschrittene",
       "level": "C1",
       "answerLang": "no",
+      "count": 56,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Sprichwörter"
+        ],
+        "levels": [
+          "C1",
+          "C2"
+        ]
+      }
+    },
+    {
+      "id": "nl-sprichwoerter-c1",
+      "name": "Niederländisch: Sprichwörter – C1/C2",
+      "description": "Anspruchsvollere Sprichwörter für Fortgeschrittene",
+      "level": "C1",
+      "answerLang": "nl",
       "count": 56,
       "version": 1,
       "filter": {
@@ -5743,6 +6827,21 @@
       }
     },
     {
+      "id": "nl-aussehen-lebensphasen",
+      "name": "Niederländisch: Aussehen & Lebensphasen",
+      "description": "Menschen beschreiben: Haare, Gesicht, Statur, vom Säugling bis zum Senior",
+      "level": "A2",
+      "answerLang": "nl",
+      "count": 42,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Mensch/Aussehen",
+          "Mensch/Lebensphasen"
+        ]
+      }
+    },
+    {
       "id": "haushalt-geraete",
       "name": "Haushalt & Geräte",
       "description": "Putzen, Wäsche, Renovieren und die Geräte im Haus",
@@ -5807,6 +6906,21 @@
       "description": "Putzen, Wäsche, Renovieren und die Geräte im Haus",
       "level": "A2",
       "answerLang": "no",
+      "count": 64,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Alltag/Zuhause/Haushalt",
+          "Alltag/Zuhause/Geräte"
+        ]
+      }
+    },
+    {
+      "id": "nl-haushalt-geraete",
+      "name": "Niederländisch: Haushalt & Geräte",
+      "description": "Putzen, Wäsche, Renovieren und die Geräte im Haus",
+      "level": "A2",
+      "answerLang": "nl",
       "count": 64,
       "version": 1,
       "filter": {
@@ -5891,6 +7005,21 @@
       }
     },
     {
+      "id": "nl-werkzeug-handwerk",
+      "name": "Niederländisch: Werkzeug & Handwerk",
+      "description": "Werkzeuge, Material und was man damit macht",
+      "level": "B1",
+      "answerLang": "nl",
+      "count": 51,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Alltag/Zuhause/Werkzeug",
+          "Technik/Material"
+        ]
+      }
+    },
+    {
       "id": "lebensmittel",
       "name": "Lebensmittel",
       "description": "Obst, Gemüse, Fleisch, Gewürze und mehr",
@@ -5960,6 +7089,20 @@
       }
     },
     {
+      "id": "nl-lebensmittel",
+      "name": "Niederländisch: Lebensmittel",
+      "description": "Obst, Gemüse, Fleisch, Gewürze und mehr",
+      "level": "A1",
+      "answerLang": "nl",
+      "count": 101,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Alltag/Essen/Lebensmittel"
+        ]
+      }
+    },
+    {
       "id": "koerperpflege",
       "name": "Körperpflege",
       "description": "Vom Shampoo bis zur Zahnseide",
@@ -6020,6 +7163,20 @@
       "description": "Vom Shampoo bis zur Zahnseide",
       "level": "A2",
       "answerLang": "no",
+      "count": 16,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Gesundheit/Körperpflege"
+        ]
+      }
+    },
+    {
+      "id": "nl-koerperpflege",
+      "name": "Niederländisch: Körperpflege",
+      "description": "Vom Shampoo bis zur Zahnseide",
+      "level": "A2",
+      "answerLang": "nl",
       "count": 16,
       "version": 1,
       "filter": {
@@ -6103,6 +7260,21 @@
       }
     },
     {
+      "id": "nl-symptome-krankheiten",
+      "name": "Niederländisch: Symptome & Krankheiten",
+      "description": "Was weh tut und was man hat",
+      "level": "B1",
+      "answerLang": "nl",
+      "count": 100,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Gesundheit/Symptome",
+          "Gesundheit/Krankheiten"
+        ]
+      }
+    },
+    {
       "id": "stadt-gebaeude",
       "name": "Stadt & Gebäude",
       "description": "Gebäude, Straßen und Plätze, Leben in der Stadt",
@@ -6163,6 +7335,20 @@
       "description": "Gebäude, Straßen und Plätze, Leben in der Stadt",
       "level": "B1",
       "answerLang": "no",
+      "count": 45,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Alltag/Stadt"
+        ]
+      }
+    },
+    {
+      "id": "nl-stadt-gebaeude",
+      "name": "Niederländisch: Stadt & Gebäude",
+      "description": "Gebäude, Straßen und Plätze, Leben in der Stadt",
+      "level": "B1",
+      "answerLang": "nl",
       "count": 45,
       "version": 1,
       "filter": {
@@ -6241,6 +7427,20 @@
       }
     },
     {
+      "id": "nl-laender-nationalitaeten",
+      "name": "Niederländisch: Länder & Nationalitäten",
+      "description": "Kontinente, Länder Europas und der Welt, Nationalitäten",
+      "level": "A1",
+      "answerLang": "nl",
+      "count": 59,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Reisen/Länder & Nationalitäten"
+        ]
+      }
+    },
+    {
       "id": "feste-feiertage",
       "name": "Feste & Feiertage",
       "description": "Weihnachten, Ostern, Silvester, Geburtstag und Feiern",
@@ -6301,6 +7501,20 @@
       "description": "Weihnachten, Ostern, Silvester, Geburtstag und Feiern",
       "level": "A2",
       "answerLang": "no",
+      "count": 43,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Freizeit/Feste & Feiern"
+        ]
+      }
+    },
+    {
+      "id": "nl-feste-feiertage",
+      "name": "Niederländisch: Feste & Feiertage",
+      "description": "Weihnachten, Ostern, Silvester, Geburtstag und Feiern",
+      "level": "A2",
+      "answerLang": "nl",
       "count": 43,
       "version": 1,
       "filter": {
@@ -6384,6 +7598,21 @@
       }
     },
     {
+      "id": "nl-musik-instrumente",
+      "name": "Niederländisch: Musik & Instrumente",
+      "description": "Instrumente, Musikrichtungen, Konzert",
+      "level": "A2",
+      "answerLang": "nl",
+      "count": 77,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Kultur/Musik",
+          "Freizeit/Musik"
+        ]
+      }
+    },
+    {
       "id": "berufe",
       "name": "Berufe",
       "description": "Von Klempner bis Softwareentwickler",
@@ -6444,6 +7673,20 @@
       "description": "Von Klempner bis Softwareentwickler",
       "level": "A2",
       "answerLang": "no",
+      "count": 63,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Arbeit/Beruf/Berufe"
+        ]
+      }
+    },
+    {
+      "id": "nl-berufe",
+      "name": "Niederländisch: Berufe",
+      "description": "Von Klempner bis Softwareentwickler",
+      "level": "A2",
+      "answerLang": "nl",
       "count": 63,
       "version": 1,
       "filter": {
@@ -6522,6 +7765,20 @@
       }
     },
     {
+      "id": "nl-buero-arbeitsplatz",
+      "name": "Niederländisch: Büro & Arbeitsplatz",
+      "description": "Hefter, Locher, Aktenschrank und Schutzhelm",
+      "level": "B1",
+      "answerLang": "nl",
+      "count": 21,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Arbeit/Beruf/Arbeitsplatz"
+        ]
+      }
+    },
+    {
       "id": "recht-kriminalitaet",
       "name": "Recht & Kriminalität",
       "description": "Polizei, Gericht, Straftaten",
@@ -6582,6 +7839,20 @@
       "description": "Polizei, Gericht, Straftaten",
       "level": "B1",
       "answerLang": "no",
+      "count": 91,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Gesellschaft/Recht"
+        ]
+      }
+    },
+    {
+      "id": "nl-recht-kriminalitaet",
+      "name": "Niederländisch: Recht & Kriminalität",
+      "description": "Polizei, Gericht, Straftaten",
+      "level": "B1",
+      "answerLang": "nl",
       "count": 91,
       "version": 1,
       "filter": {
@@ -6660,6 +7931,20 @@
       }
     },
     {
+      "id": "nl-politik-international",
+      "name": "Niederländisch: Krieg, Frieden & Weltpolitik",
+      "description": "Konflikte, Diplomatie, Globalisierung",
+      "level": "B2",
+      "answerLang": "nl",
+      "count": 20,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Gesellschaft/Politik/Internationales"
+        ]
+      }
+    },
+    {
       "id": "religion",
       "name": "Religion & Glaube",
       "description": "Religionen, Kirche, Feiertage im Kirchenjahr",
@@ -6720,6 +8005,20 @@
       "description": "Religionen, Kirche, Feiertage im Kirchenjahr",
       "level": "B1",
       "answerLang": "no",
+      "count": 50,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Gesellschaft/Religion"
+        ]
+      }
+    },
+    {
+      "id": "nl-religion",
+      "name": "Niederländisch: Religion & Glaube",
+      "description": "Religionen, Kirche, Feiertage im Kirchenjahr",
+      "level": "B1",
+      "answerLang": "nl",
       "count": 50,
       "version": 1,
       "filter": {
@@ -6798,6 +8097,20 @@
       }
     },
     {
+      "id": "nl-geschichte",
+      "name": "Niederländisch: Geschichte",
+      "description": "Von der Steinzeit bis zur Wiedervereinigung",
+      "level": "B1",
+      "answerLang": "nl",
+      "count": 71,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Kultur/Geschichte"
+        ]
+      }
+    },
+    {
       "id": "schule-klassenzimmer",
       "name": "Im Klassenzimmer",
       "description": "Schulsachen, Unterricht und Schulleben",
@@ -6858,6 +8171,20 @@
       "description": "Schulsachen, Unterricht und Schulleben",
       "level": "A2",
       "answerLang": "no",
+      "count": 144,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Bildung/Schule"
+        ]
+      }
+    },
+    {
+      "id": "nl-schule-klassenzimmer",
+      "name": "Niederländisch: Im Klassenzimmer",
+      "description": "Schulsachen, Unterricht und Schulleben",
+      "level": "A2",
+      "answerLang": "nl",
       "count": 144,
       "version": 1,
       "filter": {
@@ -6936,6 +8263,20 @@
       }
     },
     {
+      "id": "nl-sprache-grammatik",
+      "name": "Niederländisch: Sprache & Grammatik",
+      "description": "Wortarten, Zeitformen, Satzzeichen, Aussprache und Fachwörter rund ums Sprachenlernen",
+      "level": "B1",
+      "answerLang": "nl",
+      "count": 88,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Bildung/Sprache"
+        ]
+      }
+    },
+    {
       "id": "rechnen-geometrie",
       "name": "Rechnen & Geometrie",
       "description": "Plus, minus, mal, geteilt; Formen und Zahlen",
@@ -6996,6 +8337,20 @@
       "description": "Plus, minus, mal, geteilt; Formen und Zahlen",
       "level": "A2",
       "answerLang": "no",
+      "count": 38,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Wissenschaft/Mathematik"
+        ]
+      }
+    },
+    {
+      "id": "nl-rechnen-geometrie",
+      "name": "Niederländisch: Rechnen & Geometrie",
+      "description": "Plus, minus, mal, geteilt; Formen und Zahlen",
+      "level": "A2",
+      "answerLang": "nl",
       "count": 38,
       "version": 1,
       "filter": {
@@ -7079,6 +8434,21 @@
       }
     },
     {
+      "id": "nl-strom-maschinen",
+      "name": "Niederländisch: Strom, Geräte & Maschinen",
+      "description": "Stecker, Kurzschluss, Wartung und Gebrauchsanweisung",
+      "level": "B1",
+      "answerLang": "nl",
+      "count": 25,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Technik/Elektrik",
+          "Technik/Maschinen"
+        ]
+      }
+    },
+    {
       "id": "geografie",
       "name": "Geografie",
       "description": "Erde, Kontinente, Himmelsrichtungen und Karten",
@@ -7139,6 +8509,20 @@
       "description": "Erde, Kontinente, Himmelsrichtungen und Karten",
       "level": "B1",
       "answerLang": "no",
+      "count": 30,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Natur/Geografie"
+        ]
+      }
+    },
+    {
+      "id": "nl-geografie",
+      "name": "Niederländisch: Geografie",
+      "description": "Erde, Kontinente, Himmelsrichtungen und Karten",
+      "level": "B1",
+      "answerLang": "nl",
       "count": 30,
       "version": 1,
       "filter": {
@@ -7237,6 +8621,24 @@
       }
     },
     {
+      "id": "nl-allgemein-a2",
+      "name": "Niederländisch: Grundwörter plus – A1/A2",
+      "description": "Themenübergreifende Grundwörter für den Anfang",
+      "level": "A2",
+      "answerLang": "nl",
+      "count": 208,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Allgemein"
+        ],
+        "levels": [
+          "A1",
+          "A2"
+        ]
+      }
+    },
+    {
       "id": "allgemein-b1",
       "name": "Grundwörter plus – B1",
       "description": "Themenübergreifende Grundwörter, Mittelstufe",
@@ -7309,6 +8711,23 @@
       "description": "Themenübergreifende Grundwörter, Mittelstufe",
       "level": "B1",
       "answerLang": "no",
+      "count": 312,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Allgemein"
+        ],
+        "levels": [
+          "B1"
+        ]
+      }
+    },
+    {
+      "id": "nl-allgemein-b1",
+      "name": "Niederländisch: Grundwörter plus – B1",
+      "description": "Themenübergreifende Grundwörter, Mittelstufe",
+      "level": "B1",
+      "answerLang": "nl",
       "count": 312,
       "version": 1,
       "filter": {
@@ -7410,6 +8829,24 @@
       }
     },
     {
+      "id": "nl-allgemein-b2",
+      "name": "Niederländisch: Grundwörter plus – B2/C1",
+      "description": "Themenübergreifende Grundwörter für Fortgeschrittene",
+      "level": "B2",
+      "answerLang": "nl",
+      "count": 162,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Allgemein"
+        ],
+        "levels": [
+          "B2",
+          "C1"
+        ]
+      }
+    },
+    {
       "id": "allgemein-verben",
       "name": "Häufige Verben",
       "description": "Allgemeine Verben ohne festes Sachgebiet",
@@ -7470,6 +8907,20 @@
       "description": "Allgemeine Verben ohne festes Sachgebiet",
       "level": "B1",
       "answerLang": "no",
+      "count": 155,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Allgemein/Verben"
+        ]
+      }
+    },
+    {
+      "id": "nl-allgemein-verben",
+      "name": "Niederländisch: Häufige Verben",
+      "description": "Allgemeine Verben ohne festes Sachgebiet",
+      "level": "B1",
+      "answerLang": "nl",
       "count": 155,
       "version": 1,
       "filter": {
@@ -7548,6 +8999,20 @@
       }
     },
     {
+      "id": "nl-allgemein-adjektive",
+      "name": "Niederländisch: Häufige Adjektive",
+      "description": "Allgemeine Eigenschaftswörter",
+      "level": "B1",
+      "answerLang": "nl",
+      "count": 83,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Allgemein/Adjektive"
+        ]
+      }
+    },
+    {
       "id": "allgemein-kleine-woerter",
       "name": "Kleine Wörter",
       "description": "Präpositionen, Konjunktionen und Adverbien",
@@ -7608,6 +9073,20 @@
       "description": "Präpositionen, Konjunktionen und Adverbien",
       "level": "B1",
       "answerLang": "no",
+      "count": 81,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Allgemein/Kleine Wörter"
+        ]
+      }
+    },
+    {
+      "id": "nl-allgemein-kleine-woerter",
+      "name": "Niederländisch: Kleine Wörter",
+      "description": "Präpositionen, Konjunktionen und Adverbien",
+      "level": "B1",
+      "answerLang": "nl",
       "count": 81,
       "version": 1,
       "filter": {
@@ -7691,6 +9170,21 @@
       }
     },
     {
+      "id": "nl-allgemein-zeit-raum",
+      "name": "Niederländisch: Zeit, Raum & Richtung",
+      "description": "Zeitangaben, Orte, Richtungen und Formen",
+      "level": "A2",
+      "answerLang": "nl",
+      "count": 148,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Allgemein/Zeit",
+          "Allgemein/Raum"
+        ]
+      }
+    },
+    {
       "id": "allgemein-mengen",
       "name": "Mengen & Maße",
       "description": "Zahlen, Anteile, Maße und Gewichte",
@@ -7751,6 +9245,20 @@
       "description": "Zahlen, Anteile, Maße und Gewichte",
       "level": "B1",
       "answerLang": "no",
+      "count": 49,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Allgemein/Mengen"
+        ]
+      }
+    },
+    {
+      "id": "nl-allgemein-mengen",
+      "name": "Niederländisch: Mengen & Maße",
+      "description": "Zahlen, Anteile, Maße und Gewichte",
+      "level": "B1",
+      "answerLang": "nl",
       "count": 49,
       "version": 1,
       "filter": {
@@ -7829,6 +9337,20 @@
       }
     },
     {
+      "id": "nl-allgemein-denken-sprechen",
+      "name": "Niederländisch: Denken & Sprechen",
+      "description": "Meinung, Gespräch, Erinnern und Verstehen",
+      "level": "B1",
+      "answerLang": "nl",
+      "count": 76,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Allgemein/Denken & Sprechen"
+        ]
+      }
+    },
+    {
       "id": "mehrdeutig",
       "name": "Mehrdeutige Wörter",
       "description": "Zweite Bedeutungen bekannter Wörter: Bank (zum Sitzen), Schloss (an der Tür), Kiefer (Knochen) …",
@@ -7889,6 +9411,20 @@
       "description": "Zweite Bedeutungen bekannter Wörter: Bank (zum Sitzen), Schloss (an der Tür), Kiefer (Knochen) …",
       "level": "B1",
       "answerLang": "no",
+      "count": 59,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Mehrdeutige Wörter"
+        ]
+      }
+    },
+    {
+      "id": "nl-mehrdeutig",
+      "name": "Niederländisch: Mehrdeutige Wörter",
+      "description": "Zweite Bedeutungen bekannter Wörter: Bank (zum Sitzen), Schloss (an der Tür), Kiefer (Knochen) …",
+      "level": "B1",
+      "answerLang": "nl",
       "count": 59,
       "version": 1,
       "filter": {
@@ -7970,10 +9506,25 @@
           "Grundwortschatz/Abstrakte Begriffe"
         ]
       }
+    },
+    {
+      "id": "nl-allgemein-begriffe",
+      "name": "Niederländisch: Wichtige Begriffe",
+      "description": "Abstrakte Allerweltswörter wie Sache, Zustand, Zufall, Gefahr",
+      "level": "B1",
+      "answerLang": "nl",
+      "count": 187,
+      "version": 1,
+      "filter": {
+        "topics": [
+          "Allgemein/Begriffe",
+          "Grundwortschatz/Abstrakte Begriffe"
+        ]
+      }
     }
   ],
   "areas": {
-    "version": 20,
+    "version": 21,
     "tree": [
       {
         "name": "Einstieg",
@@ -7983,36 +9534,43 @@
           "es-grundwortschatz-a1",
           "it-grundwortschatz-a1",
           "no-grundwortschatz-a1",
+          "nl-grundwortschatz-a1",
           "grundwortschatz-a2",
           "fr-grundwortschatz-a2",
           "es-grundwortschatz-a2",
           "it-grundwortschatz-a2",
           "no-grundwortschatz-a2",
+          "nl-grundwortschatz-a2",
           "grundwortschatz-b1",
           "fr-grundwortschatz-b1",
           "es-grundwortschatz-b1",
           "it-grundwortschatz-b1",
           "no-grundwortschatz-b1",
+          "nl-grundwortschatz-b1",
           "grundwortschatz-b2",
           "fr-grundwortschatz-b2",
           "es-grundwortschatz-b2",
           "it-grundwortschatz-b2",
           "no-grundwortschatz-b2",
+          "nl-grundwortschatz-b2",
           "grundwortschatz-c1",
           "fr-grundwortschatz-c1",
           "es-grundwortschatz-c1",
           "it-grundwortschatz-c1",
           "no-grundwortschatz-c1",
+          "nl-grundwortschatz-c1",
           "grundwortschatz-c2",
           "fr-grundwortschatz-c2",
           "es-grundwortschatz-c2",
           "it-grundwortschatz-c2",
           "no-grundwortschatz-c2",
+          "nl-grundwortschatz-c2",
           "grundwortschatz",
           "fr-grundwortschatz",
           "es-grundwortschatz",
           "it-grundwortschatz",
-          "no-grundwortschatz"
+          "no-grundwortschatz",
+          "nl-grundwortschatz"
         ],
         "areas": [],
         "icon": "mb:einstieg",
@@ -8026,16 +9584,19 @@
           "es-karsten",
           "it-karsten",
           "no-karsten",
+          "nl-karsten",
           "karsten-verben",
           "fr-karsten-verben",
           "es-karsten-verben",
           "it-karsten-verben",
           "no-karsten-verben",
+          "nl-karsten-verben",
           "karsten-woerter",
           "fr-karsten-woerter",
           "es-karsten-woerter",
           "it-karsten-woerter",
-          "no-karsten-woerter"
+          "no-karsten-woerter",
+          "nl-karsten-woerter"
         ],
         "areas": [],
         "icon": "mb:empfehlung",
@@ -8049,56 +9610,67 @@
           "es-allgemein-a2",
           "it-allgemein-a2",
           "no-allgemein-a2",
+          "nl-allgemein-a2",
           "allgemein-b1",
           "fr-allgemein-b1",
           "es-allgemein-b1",
           "it-allgemein-b1",
           "no-allgemein-b1",
+          "nl-allgemein-b1",
           "allgemein-b2",
           "fr-allgemein-b2",
           "es-allgemein-b2",
           "it-allgemein-b2",
           "no-allgemein-b2",
+          "nl-allgemein-b2",
           "allgemein-verben",
           "fr-allgemein-verben",
           "es-allgemein-verben",
           "it-allgemein-verben",
           "no-allgemein-verben",
+          "nl-allgemein-verben",
           "allgemein-adjektive",
           "fr-allgemein-adjektive",
           "es-allgemein-adjektive",
           "it-allgemein-adjektive",
           "no-allgemein-adjektive",
+          "nl-allgemein-adjektive",
           "allgemein-kleine-woerter",
           "fr-allgemein-kleine-woerter",
           "es-allgemein-kleine-woerter",
           "it-allgemein-kleine-woerter",
           "no-allgemein-kleine-woerter",
+          "nl-allgemein-kleine-woerter",
           "allgemein-zeit-raum",
           "fr-allgemein-zeit-raum",
           "es-allgemein-zeit-raum",
           "it-allgemein-zeit-raum",
           "no-allgemein-zeit-raum",
+          "nl-allgemein-zeit-raum",
           "allgemein-mengen",
           "fr-allgemein-mengen",
           "es-allgemein-mengen",
           "it-allgemein-mengen",
           "no-allgemein-mengen",
+          "nl-allgemein-mengen",
           "allgemein-denken-sprechen",
           "fr-allgemein-denken-sprechen",
           "es-allgemein-denken-sprechen",
           "it-allgemein-denken-sprechen",
           "no-allgemein-denken-sprechen",
+          "nl-allgemein-denken-sprechen",
           "allgemein-begriffe",
           "fr-allgemein-begriffe",
           "es-allgemein-begriffe",
           "it-allgemein-begriffe",
           "no-allgemein-begriffe",
+          "nl-allgemein-begriffe",
           "mehrdeutig",
           "fr-mehrdeutig",
           "es-mehrdeutig",
           "it-mehrdeutig",
-          "no-mehrdeutig"
+          "no-mehrdeutig",
+          "nl-mehrdeutig"
         ],
         "icon": "mb:haeufige-woerter",
         "section": "vokabeln"
@@ -8111,76 +9683,91 @@
           "es-alltag-zuhause",
           "it-alltag-zuhause",
           "no-alltag-zuhause",
+          "nl-alltag-zuhause",
           "haushalt-geraete",
           "fr-haushalt-geraete",
           "es-haushalt-geraete",
           "it-haushalt-geraete",
           "no-haushalt-geraete",
+          "nl-haushalt-geraete",
           "werkzeug-handwerk",
           "fr-werkzeug-handwerk",
           "es-werkzeug-handwerk",
           "it-werkzeug-handwerk",
           "no-werkzeug-handwerk",
+          "nl-werkzeug-handwerk",
           "familie-beziehungen",
           "fr-familie-beziehungen",
           "es-familie-beziehungen",
           "it-familie-beziehungen",
           "no-familie-beziehungen",
+          "nl-familie-beziehungen",
           "essen-trinken",
           "fr-essen-trinken",
           "es-essen-trinken",
           "it-essen-trinken",
           "no-essen-trinken",
+          "nl-essen-trinken",
           "lebensmittel",
           "fr-lebensmittel",
           "es-lebensmittel",
           "it-lebensmittel",
           "no-lebensmittel",
+          "nl-lebensmittel",
           "einkaufen-geld",
           "fr-einkaufen-geld",
           "es-einkaufen-geld",
           "it-einkaufen-geld",
           "no-einkaufen-geld",
+          "nl-einkaufen-geld",
           "kleidung-mode",
           "fr-kleidung-mode",
           "es-kleidung-mode",
           "it-kleidung-mode",
           "no-kleidung-mode",
+          "nl-kleidung-mode",
           "koerper-gesundheit",
           "fr-koerper-gesundheit",
           "es-koerper-gesundheit",
           "it-koerper-gesundheit",
           "no-koerper-gesundheit",
+          "nl-koerper-gesundheit",
           "koerperpflege",
           "fr-koerperpflege",
           "es-koerperpflege",
           "it-koerperpflege",
           "no-koerperpflege",
+          "nl-koerperpflege",
           "symptome-krankheiten",
           "fr-symptome-krankheiten",
           "es-symptome-krankheiten",
           "it-symptome-krankheiten",
           "no-symptome-krankheiten",
+          "nl-symptome-krankheiten",
           "gefuehle-charakter",
           "fr-gefuehle-charakter",
           "es-gefuehle-charakter",
           "it-gefuehle-charakter",
           "no-gefuehle-charakter",
+          "nl-gefuehle-charakter",
           "aussehen-lebensphasen",
           "fr-aussehen-lebensphasen",
           "es-aussehen-lebensphasen",
           "it-aussehen-lebensphasen",
           "no-aussehen-lebensphasen",
+          "nl-aussehen-lebensphasen",
           "verkehr-mobilitaet",
           "fr-verkehr-mobilitaet",
           "es-verkehr-mobilitaet",
           "it-verkehr-mobilitaet",
           "no-verkehr-mobilitaet",
+          "nl-verkehr-mobilitaet",
           "stadt-gebaeude",
           "fr-stadt-gebaeude",
           "es-stadt-gebaeude",
           "it-stadt-gebaeude",
-          "no-stadt-gebaeude"
+          "no-stadt-gebaeude",
+          "nl-stadt-gebaeude"
         ],
         "icon": "mb:alltag",
         "section": "vokabeln"
@@ -8193,46 +9780,55 @@
           "es-reisen-urlaub",
           "it-reisen-urlaub",
           "no-reisen-urlaub",
+          "nl-reisen-urlaub",
           "laender-nationalitaeten",
           "fr-laender-nationalitaeten",
           "es-laender-nationalitaeten",
           "it-laender-nationalitaeten",
           "no-laender-nationalitaeten",
+          "nl-laender-nationalitaeten",
           "verkehr-mobilitaet",
           "fr-verkehr-mobilitaet",
           "es-verkehr-mobilitaet",
           "it-verkehr-mobilitaet",
           "no-verkehr-mobilitaet",
+          "nl-verkehr-mobilitaet",
           "business-english-airport",
           "fr-business-english-airport",
           "es-business-english-airport",
           "it-business-english-airport",
           "no-business-english-airport",
+          "nl-business-english-airport",
           "freizeit-hobbys",
           "fr-freizeit-hobbys",
           "es-freizeit-hobbys",
           "it-freizeit-hobbys",
           "no-freizeit-hobbys",
+          "nl-freizeit-hobbys",
           "feste-feiertage",
           "fr-feste-feiertage",
           "es-feste-feiertage",
           "it-feste-feiertage",
           "no-feste-feiertage",
+          "nl-feste-feiertage",
           "sport-fitness",
           "fr-sport-fitness",
           "es-sport-fitness",
           "it-sport-fitness",
           "no-sport-fitness",
+          "nl-sport-fitness",
           "kunst-kultur",
           "fr-kunst-kultur",
           "es-kunst-kultur",
           "it-kunst-kultur",
           "no-kunst-kultur",
+          "nl-kunst-kultur",
           "musik-instrumente",
           "fr-musik-instrumente",
           "es-musik-instrumente",
           "it-musik-instrumente",
-          "no-musik-instrumente"
+          "no-musik-instrumente",
+          "nl-musik-instrumente"
         ],
         "icon": "mb:reisen",
         "section": "vokabeln"
@@ -8245,11 +9841,13 @@
           "es-wirtschaft-finanzen",
           "it-wirtschaft-finanzen",
           "no-wirtschaft-finanzen",
+          "nl-wirtschaft-finanzen",
           "business-english-airport",
           "fr-business-english-airport",
           "es-business-english-airport",
           "it-business-english-airport",
-          "no-business-english-airport"
+          "no-business-english-airport",
+          "nl-business-english-airport"
         ],
         "areas": [
           {
@@ -8260,26 +9858,31 @@
               "es-arbeit-beruf",
               "it-arbeit-beruf",
               "no-arbeit-beruf",
+              "nl-arbeit-beruf",
               "berufe",
               "fr-berufe",
               "es-berufe",
               "it-berufe",
               "no-berufe",
+              "nl-berufe",
               "buero-arbeitsplatz",
               "fr-buero-arbeitsplatz",
               "es-buero-arbeitsplatz",
               "it-buero-arbeitsplatz",
               "no-buero-arbeitsplatz",
+              "nl-buero-arbeitsplatz",
               "business-buero",
               "fr-business-buero",
               "es-business-buero",
               "it-business-buero",
               "no-business-buero",
+              "nl-business-buero",
               "medien-kommunikation",
               "fr-medien-kommunikation",
               "es-medien-kommunikation",
               "it-medien-kommunikation",
-              "no-medien-kommunikation"
+              "no-medien-kommunikation",
+              "nl-medien-kommunikation"
             ],
             "icon": "mb:grundlagen"
           },
@@ -8291,36 +9894,43 @@
               "es-business-beschaffung",
               "it-business-beschaffung",
               "no-business-beschaffung",
+              "nl-business-beschaffung",
               "business-marketing-vertrieb",
               "fr-business-marketing-vertrieb",
               "es-business-marketing-vertrieb",
               "it-business-marketing-vertrieb",
               "no-business-marketing-vertrieb",
+              "nl-business-marketing-vertrieb",
               "business-personalwesen",
               "fr-business-personalwesen",
               "es-business-personalwesen",
               "it-business-personalwesen",
               "no-business-personalwesen",
+              "nl-business-personalwesen",
               "business-projektmanagement",
               "fr-business-projektmanagement",
               "es-business-projektmanagement",
               "it-business-projektmanagement",
               "no-business-projektmanagement",
+              "nl-business-projektmanagement",
               "business-rechnungswesen",
               "fr-business-rechnungswesen",
               "es-business-rechnungswesen",
               "it-business-rechnungswesen",
               "no-business-rechnungswesen",
+              "nl-business-rechnungswesen",
               "business-verhandlungen",
               "fr-business-verhandlungen",
               "es-business-verhandlungen",
               "it-business-verhandlungen",
               "no-business-verhandlungen",
+              "nl-business-verhandlungen",
               "business-vertrag",
               "fr-business-vertrag",
               "es-business-vertrag",
               "it-business-vertrag",
-              "no-business-vertrag"
+              "no-business-vertrag",
+              "nl-business-vertrag"
             ],
             "icon": "mb:fachbereiche"
           }
@@ -8336,86 +9946,103 @@
           "es-politik-gesellschaft",
           "it-politik-gesellschaft",
           "no-politik-gesellschaft",
+          "nl-politik-gesellschaft",
           "recht-kriminalitaet",
           "fr-recht-kriminalitaet",
           "es-recht-kriminalitaet",
           "it-recht-kriminalitaet",
           "no-recht-kriminalitaet",
+          "nl-recht-kriminalitaet",
           "politik-international",
           "fr-politik-international",
           "es-politik-international",
           "it-politik-international",
           "no-politik-international",
+          "nl-politik-international",
           "religion",
           "fr-religion",
           "es-religion",
           "it-religion",
           "no-religion",
+          "nl-religion",
           "geschichte",
           "fr-geschichte",
           "es-geschichte",
           "it-geschichte",
           "no-geschichte",
+          "nl-geschichte",
           "schule-bildung",
           "fr-schule-bildung",
           "es-schule-bildung",
           "it-schule-bildung",
           "no-schule-bildung",
+          "nl-schule-bildung",
           "schule-klassenzimmer",
           "fr-schule-klassenzimmer",
           "es-schule-klassenzimmer",
           "it-schule-klassenzimmer",
           "no-schule-klassenzimmer",
+          "nl-schule-klassenzimmer",
           "sprache-grammatik",
           "fr-sprache-grammatik",
           "es-sprache-grammatik",
           "it-sprache-grammatik",
           "no-sprache-grammatik",
+          "nl-sprache-grammatik",
           "wissenschaft-forschung",
           "fr-wissenschaft-forschung",
           "es-wissenschaft-forschung",
           "it-wissenschaft-forschung",
           "no-wissenschaft-forschung",
+          "nl-wissenschaft-forschung",
           "rechnen-geometrie",
           "fr-rechnen-geometrie",
           "es-rechnen-geometrie",
           "it-rechnen-geometrie",
           "no-rechnen-geometrie",
+          "nl-rechnen-geometrie",
           "technik-computer",
           "fr-technik-computer",
           "es-technik-computer",
           "it-technik-computer",
           "no-technik-computer",
+          "nl-technik-computer",
           "strom-maschinen",
           "fr-strom-maschinen",
           "es-strom-maschinen",
           "it-strom-maschinen",
           "no-strom-maschinen",
+          "nl-strom-maschinen",
           "natur-tiere",
           "fr-natur-tiere",
           "es-natur-tiere",
           "it-natur-tiere",
           "no-natur-tiere",
+          "nl-natur-tiere",
           "geografie",
           "fr-geografie",
           "es-geografie",
           "it-geografie",
           "no-geografie",
+          "nl-geografie",
           "wetter-umwelt",
           "fr-wetter-umwelt",
           "es-wetter-umwelt",
           "it-wetter-umwelt",
           "no-wetter-umwelt",
+          "nl-wetter-umwelt",
           "medien-kommunikation",
           "fr-medien-kommunikation",
           "es-medien-kommunikation",
           "it-medien-kommunikation",
           "no-medien-kommunikation",
+          "nl-medien-kommunikation",
           "wirtschaft-finanzen",
           "fr-wirtschaft-finanzen",
           "es-wirtschaft-finanzen",
           "it-wirtschaft-finanzen",
-          "no-wirtschaft-finanzen"
+          "no-wirtschaft-finanzen",
+          "nl-wirtschaft-finanzen"
         ],
         "icon": "mb:gesellschaft",
         "section": "vokabeln"
@@ -8432,36 +10059,43 @@
               "es-wendungen-alltag-a1",
               "it-wendungen-alltag-a1",
               "no-wendungen-alltag-a1",
+              "nl-wendungen-alltag-a1",
               "wendungen-alltag-a2",
               "fr-wendungen-alltag-a2",
               "es-wendungen-alltag-a2",
               "it-wendungen-alltag-a2",
               "no-wendungen-alltag-a2",
+              "nl-wendungen-alltag-a2",
               "wendungen-zeitangaben",
               "fr-wendungen-zeitangaben",
               "es-wendungen-zeitangaben",
               "it-wendungen-zeitangaben",
               "no-wendungen-zeitangaben",
+              "nl-wendungen-zeitangaben",
               "wendungen-tagesablauf-wohnen",
               "fr-wendungen-tagesablauf-wohnen",
               "es-wendungen-tagesablauf-wohnen",
               "it-wendungen-tagesablauf-wohnen",
               "no-wendungen-tagesablauf-wohnen",
+              "nl-wendungen-tagesablauf-wohnen",
               "wendungen-essen-einkaufen",
               "fr-wendungen-essen-einkaufen",
               "es-wendungen-essen-einkaufen",
               "it-wendungen-essen-einkaufen",
               "no-wendungen-essen-einkaufen",
+              "nl-wendungen-essen-einkaufen",
               "wendungen-freizeit",
               "fr-wendungen-freizeit",
               "es-wendungen-freizeit",
               "it-wendungen-freizeit",
               "no-wendungen-freizeit",
+              "nl-wendungen-freizeit",
               "wendungen-reisen-unterwegs",
               "fr-wendungen-reisen-unterwegs",
               "es-wendungen-reisen-unterwegs",
               "it-wendungen-reisen-unterwegs",
-              "no-wendungen-reisen-unterwegs"
+              "no-wendungen-reisen-unterwegs",
+              "nl-wendungen-reisen-unterwegs"
             ],
             "icon": "mb:alltag-gespraech"
           },
@@ -8473,16 +10107,19 @@
               "es-wendungen-schule",
               "it-wendungen-schule",
               "no-wendungen-schule",
+              "nl-wendungen-schule",
               "wendungen-arbeit",
               "fr-wendungen-arbeit",
               "es-wendungen-arbeit",
               "it-wendungen-arbeit",
               "no-wendungen-arbeit",
+              "nl-wendungen-arbeit",
               "wendungen-gespraech",
               "fr-wendungen-gespraech",
               "es-wendungen-gespraech",
               "it-wendungen-gespraech",
-              "no-wendungen-gespraech"
+              "no-wendungen-gespraech",
+              "nl-wendungen-gespraech"
             ],
             "icon": "mb:schule-arbeit"
           },
@@ -8494,11 +10131,13 @@
               "es-redewendungen-b2",
               "it-redewendungen-b2",
               "no-redewendungen-b2",
+              "nl-redewendungen-b2",
               "redewendungen-c1",
               "fr-redewendungen-c1",
               "es-redewendungen-c1",
               "it-redewendungen-c1",
-              "no-redewendungen-c1"
+              "no-redewendungen-c1",
+              "nl-redewendungen-c1"
             ],
             "icon": "mb:redewendung"
           },
@@ -8510,11 +10149,13 @@
               "es-sprichwoerter-b2",
               "it-sprichwoerter-b2",
               "no-sprichwoerter-b2",
+              "nl-sprichwoerter-b2",
               "sprichwoerter-c1",
               "fr-sprichwoerter-c1",
               "es-sprichwoerter-c1",
               "it-sprichwoerter-c1",
-              "no-sprichwoerter-c1"
+              "no-sprichwoerter-c1",
+              "nl-sprichwoerter-c1"
             ],
             "icon": "mb:sprichwort"
           },

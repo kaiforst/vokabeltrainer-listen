@@ -1,7 +1,7 @@
 # Niederländisch: Ausbau Schule und Arbeit: Schule und Studium, Lernen und Sprache, Berufe und Arbeitsplatz, Technik, Computer, Internet, Werkzeug, Medien
 id; Deutsch; Niederländisch; Weitere Antworten; Niveau; Themen; Beispiel Niederländisch; Beispiel Deutsch
 nl-xb-0001; Schulleiter; de schooldirecteur; de directeur, de schoolleider, de rector; A2; Bildung/Schule/Unterricht; De schooldirecteur sprak met alle ouders.; Der Schulleiter sprach mit allen Eltern.
-nl-xb-0002; Klassenlehrer; de klassenleraar; de mentor, de klassendocent; A2; Bildung/Schule/Unterricht; Onze klassenleraar heeft een uitje naar de dierentuin georganiseerd.; Unser Klassenlehrer hat einen Ausflug in den Zoo organisiert.
+nl-xb-0002; Klassenlehrer; de mentor; de klassenleraar, de klassendocent; A2; Bildung/Schule/Unterricht; Onze mentor heeft een uitje naar de dierentuin georganiseerd.; Unser Klassenlehrer hat einen Ausflug in den Zoo organisiert.
 nl-xb-0003; Mitschüler; de klasgenoot; de medeleerling; A2; Bildung/Schule/Unterricht; Ik maak mijn huiswerk vaak samen met een klasgenoot.; Ich mache meine Hausaufgaben oft mit einem Mitschüler.
 nl-xb-0004; Klassenkamerad; de klasgenoot; de medeleerling; B1; Bildung/Schule/Unterricht; Hij is nog steeds bevriend met zijn oude klasgenoten.; Er ist immer noch mit seinen alten Klassenkameraden befreundet.
 nl-xb-0005; Schulstunde; het lesuur; de les; A2; Bildung/Schule/Unterricht; Elk lesuur duurt op onze school vijfenveertig minuten.; Jede Schulstunde dauert an unserer Schule fünfundvierzig Minuten.
@@ -17,7 +17,7 @@ nl-xb-0014; anwesend; aanwezig; ; B1; Bildung/Schule/Unterricht; Vandaag zijn al
 nl-xb-0015; abwesend; afwezig; ; B1; Bildung/Schule/Unterricht; Twee leerlingen waren afwezig vanwege de griep.; Zwei Schüler waren wegen der Grippe abwesend.
 nl-xb-0016; Gruppenarbeit; het groepswerk; ; A2; Bildung/Schule/Unterricht; Vandaag doen we groepswerk in groepjes van vier.; Heute machen wir Gruppenarbeit in Vierergruppen.
 nl-xb-0017; Partnerarbeit; werken in tweetallen; het werk in tweetallen; B1; Bildung/Schule/Unterricht; De volgende oefening is werken in tweetallen met je buurman.; Die nächste Übung ist Partnerarbeit mit eurem Nachbarn.
-nl-xb-0018; Einzelarbeit; zelfstandig werken; het individuele werk; B2; Bildung/Schule/Unterricht; De eerste opdracht van de les van vandaag is zelfstandig werken.; Die erste Aufgabe der heutigen Stunde ist Einzelarbeit.
+nl-xb-0018; Einzelarbeit; zelfstandig werken; individueel werken; B2; Bildung/Schule/Unterricht; De eerste opdracht van de les van vandaag is zelfstandig werken.; Die erste Aufgabe der heutigen Stunde ist Einzelarbeit.
 nl-xb-0019; Lückentext; de gatentekst; de invuloefening; B2; Bildung/Schule/Unterricht; Vul de ontbrekende woorden in de gatentekst in.; Setz die fehlenden Wörter in den Lückentext ein.
 nl-xb-0020; Klassensprecher; de klassenvertegenwoordiger; ; B1; Bildung/Schule/Unterricht; Hij is dit jaar tot klassenvertegenwoordiger gekozen.; Er wurde dieses Jahr zum Klassensprecher gewählt.
 nl-xb-0021; Mobbing; het pesten; ; B2; Bildung/Schule/Unterricht; Onze school treedt hard op tegen pesten.; Unsere Schule geht entschieden gegen Mobbing vor.
@@ -26,7 +26,7 @@ nl-xb-0023; Lehrerzimmer; de lerarenkamer; de docentenkamer; B1; Bildung/Schule/
 nl-xb-0024; Sekretariat; het secretariaat; de administratie; B1; Bildung/Schule/Schulleben; Het formulier krijg je bij het secretariaat.; Das Formular bekommst du im Sekretariat.
 nl-xb-0025; Schulfest; het schoolfeest; ; A2; Bildung/Schule/Schulleben; Onze klas verkoopt taart op het schoolfeest.; Unsere Klasse verkauft beim Schulfest Kuchen.
 nl-xb-0026; Projektwoche; de projectweek; ; B1; Bildung/Schule/Schulleben; In de projectweek hebben we een kleine robot gebouwd.; In der Projektwoche haben wir einen kleinen Roboter gebaut.
-nl-xb-0027; Schüleraustausch; de schooluitwisseling; de uitwisseling, de leerlingenuitwisseling; B1; Bildung/Schule/Schulleben; Vorig jaar was ik met een schooluitwisseling in Engeland.; Letztes Jahr war ich mit einem Schüleraustausch in England.
+nl-xb-0027; Schüleraustausch; de uitwisseling; de schooluitwisseling, de leerlingenuitwisseling; B1; Bildung/Schule/Schulleben; Vorig jaar was ik met een uitwisseling in Engeland.; Letztes Jahr war ich mit einem Schüleraustausch in England.
 nl-xb-0028; Gastfamilie; het gastgezin; ; B1; Bildung/Schule/Schulleben; Mijn gastgezin in Dublin was heel vriendelijk.; Meine Gastfamilie in Dublin war sehr freundlich.
 nl-xb-0029; Schülerzeitung; de schoolkrant; ; B1; Bildung/Schule/Schulleben; Ik schrijf artikelen voor onze schoolkrant.; Ich schreibe Artikel für unsere Schülerzeitung.
 nl-xb-0030; Kreide; het krijt; ; A2; Bildung/Schule/Schulsachen; De leraar schrijft met krijt op het bord.; Der Lehrer schreibt mit Kreide an die Tafel.
@@ -43,7 +43,7 @@ nl-xb-0040; Lehrbuch; het leerboek; het lesboek, het studieboek; B1; Bildung/Sch
 nl-xb-0041; Arbeitsblatt; het werkblad; ; A2; Bildung/Schule/Schulsachen; Maak het werkblad alsjeblieft thuis af.; Bitte macht das Arbeitsblatt zu Hause fertig.
 nl-xb-0042; Notizblock; het notitieblok; het schrijfblok, het kladblok; B1; Bildung/Schule/Schulsachen; Ze heeft altijd een notitieblok in haar tas.; Sie hat immer einen Notizblock in der Tasche.
 nl-xb-0043; Karteikarte; de systeemkaart; de flashcard, het indexkaartje; B2; Bildung/Schule/Schulsachen; Ik schrijf de nieuwe woorden op systeemkaarten.; Ich schreibe die neuen Wörter auf Karteikarten.
-nl-xb-0044; Vokabelheft; het vocabulaireschrift; het woordjesschrift; A2; Bildung/Schule/Schulsachen; Schrijf de nieuwe woorden in je vocabulaireschrift.; Schreibt die neuen Wörter in euer Vokabelheft.
+nl-xb-0044; Vokabelheft; het woordjesschrift; het vocabulaireschrift; A2; Bildung/Schule/Schulsachen; Schrijf de nieuwe woorden in je woordjesschrift.; Schreibt die neuen Wörter in euer Vokabelheft.
 nl-xb-0045; Hausaufgabenheft; de schoolagenda; de agenda, het huiswerkschrift; B1; Bildung/Schule/Schulsachen; Schrijf de opdracht in je schoolagenda.; Schreib die Aufgabe in dein Hausaufgabenheft.
 nl-xb-0046; Ethik; ethiek; ; B2; Bildung/Schule/Fächer; In plaats van godsdienst heb ik ethiek.; Statt Religion habe ich Ethik.
 nl-xb-0047; Sozialkunde; maatschappijleer; ; B2; Bildung/Schule/Fächer; In maatschappijleer praten we nu over verkiezingen.; In Sozialkunde sprechen wir gerade über Wahlen.
@@ -76,7 +76,7 @@ nl-xb-0073; sich einschreiben; zich inschrijven; ; B2; Bildung/Universität; Ik 
 nl-xb-0074; Absolvent; de afgestudeerde; ; B2; Bildung/Universität; Het bedrijf neemt elk jaar veel jonge afgestudeerden aan.; Die Firma stellt jedes Jahr viele junge Absolventen ein.
 nl-xb-0075; Abschlussarbeit; de scriptie; de afstudeerscriptie, de eindscriptie; C1; Bildung/Universität; Zij schrijft haar scriptie over de klimaatverandering.; Sie schreibt ihre Abschlussarbeit über den Klimawandel.
 nl-xb-0076; Campus; de campus; ; B1; Bildung/Universität; De bibliotheek ligt midden op de campus.; Die Bibliothek liegt mitten auf dem Campus.
-nl-xb-0077; Studienplatz; de studieplaats; de studieplek; B2; Bildung/Universität; Hij heeft eindelijk een studieplaats in München gekregen.; Er hat endlich einen Studienplatz in München bekommen.
+nl-xb-0077; Studienplatz; de studieplek; de studieplaats; B2; Bildung/Universität; Hij heeft eindelijk een studieplek in München gekregen.; Er hat endlich einen Studienplatz in München bekommen.
 nl-xb-0078; Kommilitone; de medestudent; de studiegenoot; B2; Bildung/Universität; Ik studeer vaak met een medestudent in de bibliotheek.; Ich lerne oft mit einem Kommilitonen in der Bibliothek.
 nl-xb-0079; Bachelor; de bachelor; ; B1; Bildung/Universität; Zij heeft een bachelor in biologie.; Sie hat einen Bachelor in Biologie.
 nl-xb-0080; Master; de master; ; B1; Bildung/Universität; Na de bachelor wil ik een master doen.; Nach dem Bachelor möchte ich einen Master machen.
@@ -199,7 +199,7 @@ nl-xb-0196; Webdesigner; de webdesigner; de webontwerper; B1; Arbeit/Beruf/Beruf
 nl-xb-0197; Entwickler; de ontwikkelaar; de developer; B1; Arbeit/Beruf/Berufe; De ontwikkelaars werken aan een update voor het spel.; Die Entwickler arbeiten an einem Update für das Spiel.
 nl-xb-0198; Fotograf; de fotograaf; ; A2; Arbeit/Beruf/Berufe; Een fotograaf heeft op de bruiloft foto's gemaakt.; Ein Fotograf hat auf der Hochzeit Fotos gemacht.
 nl-xb-0199; Bibliothekar; de bibliothecaris; ; B1; Arbeit/Beruf/Berufe; De bibliothecaris hielp me het juiste boek te vinden.; Der Bibliothekar half mir, das richtige Buch zu finden.
-nl-xb-0200; Erzieher; de pedagogisch medewerker; de leidster, de groepsleider; B1; Arbeit/Beruf/Berufe; Mijn zus werkt als pedagogisch medewerker op een kinderdagverblijf.; Meine Schwester arbeitet als Erzieherin in einem Kindergarten.
+nl-xb-0200; Erzieher; de pedagogisch medewerker; de leidster, de groepsleider; B1; Arbeit/Beruf/Berufe; Mijn zus werkt als pedagogisch medewerker op een kinderdagverblijf.; Meine Schwester arbeitet als Erzieherin in einer Kita.
 nl-xb-0201; Hausmeister; de conciërge; ; B1; Arbeit/Beruf/Berufe; De conciërge heeft het kapotte raam in ons klaslokaal gerepareerd.; Der Hausmeister hat das kaputte Fenster in unserem Klassenzimmer repariert.
 nl-xb-0202; Putzkraft; de schoonmaker; de schoonmaakster, de werkster; B1; Arbeit/Beruf/Berufe; De schoonmaker komt elke avond naar het kantoor.; Die Putzkraft kommt jeden Abend ins Büro.
 nl-xb-0203; Briefträger; de postbode; ; A2; Arbeit/Beruf/Berufe; De postbode komt meestal rond tien uur.; Der Briefträger kommt meistens gegen zehn Uhr.
@@ -307,7 +307,7 @@ nl-xb-0304; Privatsphäre; de privacy; ; B2; Technik/Computer/Sicherheit; Contro
 nl-xb-0305; Startseite; de startpagina; de homepage; B1; Technik/Computer/Internet; De openingstijden vind je op de startpagina.; Die Öffnungszeiten findest du auf der Startseite.
 nl-xb-0306; Suchleiste; de zoekbalk; ; B2; Technik/Computer/Internet; Typ de naam van de stad in de zoekbalk.; Gib den Namen der Stadt in die Suchleiste ein.
 nl-xb-0307; Internetverbindung; de internetverbinding; ; A2; Technik/Computer/Internet; De internetverbinding in het hotel was heel langzaam.; Die Internetverbindung im Hotel war sehr langsam.
-nl-xb-0308; Breitband; de breedband; het breedbandinternet; C1; Technik/Computer/Internet; Veel dorpen hebben nog steeds geen snelle breedband.; Viele Dörfer haben immer noch kein schnelles Breitband.
+nl-xb-0308; Breitband; het breedbandinternet; breedband; C1; Technik/Computer/Internet; Veel dorpen hebben nog steeds geen snel breedbandinternet.; Viele Dörfer haben immer noch kein schnelles Breitband.
 nl-xb-0309; Hotspot; de hotspot; ; B2; Technik/Computer/Internet; Ik heb mijn mobiel als hotspot voor mijn laptop gebruikt.; Ich habe mein Handy als Hotspot für meinen Laptop benutzt.
 nl-xb-0310; offline; offline; ; A2; Technik/Computer/Internet; Je kunt deze kaart ook offline gebruiken.; Du kannst diese Karte auch offline benutzen.
 nl-xb-0311; surfen (im Internet); surfen; internetten; A2; Technik/Computer/Internet; Hij surft elke avond urenlang op internet.; Er surft jeden Abend stundenlang im Internet.
@@ -348,7 +348,7 @@ nl-xb-0345; Erfinder; de uitvinder; ; B1; Technik/Maschinen; Wie was de uitvinde
 nl-xb-0346; Sensor; de sensor; ; B2; Technik/Maschinen; Een sensor doet het licht automatisch aan.; Ein Sensor schaltet das Licht automatisch ein.
 nl-xb-0347; Mikrochip; de microchip; de chip; B2; Technik/Maschinen; Elke bankpas bevat een kleine microchip.; Jede Bankkarte enthält einen kleinen Mikrochip.
 nl-xb-0348; analog; analoog; ; B2; Technik/Maschinen; Mijn opa gebruikt nog een analoge camera.; Mein Großvater benutzt noch eine analoge Kamera.
-nl-xb-0349; Mechanik; de mechanica; het mechaniek; C1; Technik/Maschinen; Hij heeft de mechanica van oude klokken bestudeerd.; Er hat die Mechanik alter Uhren studiert.
+nl-xb-0349; Mechanik; de mechanica; het mechaniek; C1; Technik/Maschinen; Hij studeert mechanica aan de technische universiteit.; Er studiert Mechanik an der Technischen Universität.
 nl-xb-0350; defekt; defect; kapot; B2; Technik/Maschinen; De machine is defect en moet gerepareerd worden.; Die Maschine ist defekt und muss repariert werden.
 nl-xb-0351; Störung; de storing; ; C1; Technik/Maschinen; Door een technische storing werkt de lift niet.; Wegen einer technischen Störung funktioniert der Aufzug nicht.
 nl-xb-0352; Wartung; het onderhoud; ; B2; Technik/Maschinen; Alle machines hebben regelmatig onderhoud nodig.; Alle Maschinen brauchen regelmäßige Wartung.

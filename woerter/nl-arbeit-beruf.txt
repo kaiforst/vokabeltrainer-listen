@@ -39,9 +39,9 @@ nl-ab-0036; Werkstatt (Auto); de garage; de werkplaats; A2; Arbeit/Beruf/Arbeits
 nl-ab-0037; Termin; de afspraak; ; A2; Arbeit/Beruf/Arbeitsalltag; Ik heb maandagochtend een belangrijke afspraak.; Ich habe am Montagmorgen einen wichtigen Termin.
 nl-ab-0038; Urlaub; de vakantie; het verlof; A2; Arbeit/Beruf/Arbeitsalltag; We nemen onze vakantie dit jaar in augustus.; Wir nehmen unseren Urlaub dieses Jahr im August.
 nl-ab-0039; Teilzeit; parttime; deeltijd; A2; Arbeit/Beruf/Vertrag & Gehalt; Ze werkt parttime vanwege haar kinderen.; Sie arbeitet wegen ihrer Kinder in Teilzeit.
-nl-ab-0040; Vollzeit; fulltime; voltijd, voltijds; A2; Arbeit/Beruf/Vertrag & Gehalt; Hij werkt fulltime bij een grote bank.; Er arbeitet Vollzeit in einer großen Bank.
+nl-ab-0040; Vollzeit; fulltime; voltijd; A2; Arbeit/Beruf/Vertrag & Gehalt; Hij werkt fulltime bij een grote bank.; Er arbeitet Vollzeit in einer großen Bank.
 nl-ab-0041; Bewerbung; de sollicitatie; ; A2; Arbeit/Beruf/Bewerbung; Ik stuur mijn sollicitatie vandaag per e-mail.; Ich schicke meine Bewerbung heute per E-Mail.
-nl-ab-0042; Lebenslauf; het cv; het curriculum vitae, de cv; A2; Arbeit/Beruf/Bewerbung; Voeg alstublieft een foto toe aan uw cv.; Bitte fügen Sie Ihrem Lebenslauf ein Foto hinzu.
+nl-ab-0042; Lebenslauf; het cv; het curriculum vitae; A2; Arbeit/Beruf/Bewerbung; Voeg alstublieft een foto toe aan uw cv.; Bitte fügen Sie Ihrem Lebenslauf ein Foto hinzu.
 nl-ab-0043; Stelle (Arbeitsplatz); de baan; de functie, de vacature; A2; Arbeit/Beruf/Bewerbung; De nieuwe baan begint op één mei.; Die neue Stelle beginnt am ersten Mai.
 nl-ab-0044; Arbeitsplatz; de werkplek; ; A2; Arbeit/Beruf/Arbeitsalltag; Mijn werkplek is licht en heel rustig.; Mein Arbeitsplatz ist hell und sehr ruhig.
 nl-ab-0045; Überstunden; de overuren; het overwerk; A2; Arbeit/Beruf/Arbeitsalltag; Hij maakt aan het einde van de maand vaak overuren.; Er macht am Monatsende oft Überstunden.
@@ -86,7 +86,7 @@ nl-ab-0083; Berufserfahrung; de werkervaring; de beroepservaring; B1; Arbeit/Ber
 nl-ab-0084; Anschreiben; de sollicitatiebrief; de motivatiebrief; B1; Arbeit/Beruf/Bewerbung; Een goede sollicitatiebrief moet kort en duidelijk zijn.; Ein gutes Anschreiben sollte kurz und klar sein.
 nl-ab-0085; Stellenanzeige; de vacature; de personeelsadvertentie; B1; Arbeit/Beruf/Bewerbung; Ik heb de vacature in de krant gevonden.; Ich habe die Stellenanzeige in der Zeitung gefunden.
 nl-ab-0086; sich bewerben; solliciteren; ; B1; Arbeit/Beruf/Bewerbung; Ze wil solliciteren op de nieuwe functie.; Sie möchte sich auf die neue Stelle bewerben.
-nl-ab-0087; Arbeitsamt; het arbeidsbureau; ; B1; Arbeit/Beruf/Rechte & Soziales; Hij heeft zich maandag bij het arbeidsbureau gemeld.; Er hat sich am Montag beim Arbeitsamt gemeldet.
+nl-ab-0087; Arbeitsamt; het arbeidsbureau; het UWV; B1; Arbeit/Beruf/Rechte & Soziales; Hij heeft zich maandag bij het arbeidsbureau gemeld.; Er hat sich am Montag beim Arbeitsamt gemeldet.
 nl-ab-0088; selbstständig; zelfstandig; ; B1; Arbeit/Beruf/Karriere; Ze werkt nu al drie jaar zelfstandig.; Sie ist jetzt seit drei Jahren selbstständig.
 nl-ab-0089; Feierabend; het einde van de werkdag; ; B1; Arbeit/Beruf/Arbeitsalltag; Aan het einde van de werkdag speelt hij voetbal.; Nach Feierabend spielt er Fußball.
 nl-ab-0090; Teamarbeit; het teamwerk; het teamwork, de samenwerking; B1; Arbeit/Beruf/Arbeitsalltag; Goed teamwerk maakt moeilijke projecten veel makkelijker.; Gute Teamarbeit macht schwierige Projekte viel leichter.
@@ -127,7 +127,7 @@ nl-ab-0124; Homeoffice; het thuiswerken; het thuiswerk; B2; Arbeit/Beruf/Arbeits
 nl-ab-0125; Dienstreise; de zakenreis; de dienstreis; B2; Arbeit/Beruf/Arbeitsalltag; Hij is deze week op zakenreis in München.; Er ist diese Woche auf Dienstreise in München.
 nl-ab-0126; Fachkräftemangel; het tekort aan vakmensen; het personeelstekort, de krapte op de arbeidsmarkt; C1; Arbeit/Beruf/Karriere; Het tekort aan vakmensen remt veel bedrijven af.; Der Fachkräftemangel bremst viele Unternehmen.
 nl-ab-0127; Kurzarbeit; de werktijdverkorting; de arbeidstijdverkorting; C1; Arbeit/Beruf/Rechte & Soziales; Tijdens de crisis voerden veel fabrieken werktijdverkorting in.; Während der Krise führten viele Werke Kurzarbeit ein.
-nl-ab-0128; Abmahnung; de officiële waarschuwing; de schriftelijke waarschuwing; C1; Arbeit/Beruf/Kündigung; Hij kreeg een officiële waarschuwing wegens herhaaldelijk te laat komen.; Er erhielt eine Abmahnung wegen wiederholter Verspätung.
+nl-ab-0128; Abmahnung; de schriftelijke waarschuwing; de officiële waarschuwing; C1; Arbeit/Beruf/Kündigung; Hij kreeg een schriftelijke waarschuwing omdat hij steeds te laat kwam.; Er erhielt eine Abmahnung, weil er ständig zu spät kam.
 nl-ab-0129; Aufhebungsvertrag; de beëindigingsovereenkomst; de vaststellingsovereenkomst; C1; Arbeit/Beruf/Kündigung; Beide partijen ondertekenden vorige vrijdag een beëindigingsovereenkomst.; Beide Seiten unterschrieben letzten Freitag einen Aufhebungsvertrag.
 nl-ab-0130; Wettbewerbsverbot; het concurrentiebeding; het non-concurrentiebeding; C1; Arbeit/Beruf/Vertrag & Gehalt; Het concurrentiebeding geldt voor twee jaar.; Das Wettbewerbsverbot gilt für zwei Jahre.
 nl-ab-0131; Verschwiegenheitspflicht; de geheimhoudingsplicht; het geheimhoudingsbeding; C1; Arbeit/Beruf/Vertrag & Gehalt; De geheimhoudingsplicht geldt ook na het einde van het contract.; Die Verschwiegenheitspflicht gilt auch nach Vertragsende.

@@ -1797,8 +1797,8 @@
   ],
   "aliases": {
     "file": "aliase.txt",
-    "version": 10,
-    "count": 9933
+    "version": 12,
+    "count": 9927
   },
   "forms": [
     {
@@ -1841,7 +1841,7 @@
       "lang": "nl",
       "file": "formen/nl.txt",
       "version": 1,
-      "count": 2338
+      "count": 2334
     }
   ],
   "lists": [

@@ -9,7 +9,7 @@ nl-gw-0006; Entschuldigung (Ausruf); pardon; sorry, neem me niet kwalijk; A1; Gr
 nl-gw-0007; Ja; ja; ; A1; Grundwortschatz/Kommunikation; Ja, ik wil graag wat thee.; Ja, ich möchte gern etwas Tee.
 nl-gw-0008; Nein; nee; ; A1; Grundwortschatz/Kommunikation; Nee, ik heb vandaag geen tijd.; Nein, ich habe heute keine Zeit.
 nl-gw-0009; Guten Morgen; goedemorgen; ; A1; Grundwortschatz/Kommunikation; Goedemorgen, heb je goed geslapen?; Guten Morgen, hast du gut geschlafen?
-nl-gw-0010; Gute Nacht; goedenacht; welterusten; A1; Grundwortschatz/Kommunikation; Goedenacht, slaap lekker, mijn schat.; Gute Nacht, schlaf gut, mein Schatz.
+nl-gw-0010; Gute Nacht; welterusten; goedenacht; A1; Grundwortschatz/Kommunikation; Welterusten, slaap lekker, mijn schat.; Gute Nacht, schlaf gut, mein Schatz.
 nl-gw-0011; Guten Abend; goedenavond; ; A1; Grundwortschatz/Kommunikation; Goedenavond, welkom in ons restaurant.; Guten Abend, willkommen in unserem Restaurant.
 nl-gw-0012; Wie geht's?; hoe gaat het?; hoe gaat het met je?, hoe is het?; A1; Grundwortschatz/Kommunikation; Hallo Tom, hoe gaat het vandaag met je?; Hallo Tom, wie geht's dir heute?
 nl-gw-0013; Willkommen; welkom; ; A1; Grundwortschatz/Kommunikation; Welkom in ons nieuwe huis in Berlijn.; Willkommen in unserem neuen Haus in Berlin.
@@ -220,8 +220,8 @@ nl-gw-0217; schwer (schwierig); moeilijk; ; A1; Grundwortschatz/Adjektive; Deze 
 nl-gw-0218; glücklich; gelukkig; blij; A1; Grundwortschatz/Adjektive; Zij is heel gelukkig met haar nieuwe baan.; Sie ist sehr glücklich mit ihrer neuen Arbeit.
 nl-gw-0219; traurig; verdrietig; droevig, treurig; A1; Grundwortschatz/Adjektive; Zij is verdrietig omdat haar vriendin verhuist.; Sie ist traurig, weil ihre Freundin wegzieht.
 nl-gw-0220; müde; moe; ; A1; Grundwortschatz/Adjektive; Ik ben moe en ga nu naar bed.; Ich bin müde und gehe jetzt ins Bett.
-nl-gw-0221; hungrig; hongerig; ; A1; Grundwortschatz/Adjektive; Na het sporten ben ik altijd heel hongerig.; Nach dem Sport bin ich immer sehr hungrig.
-nl-gw-0222; durstig; dorstig; ; A1; Grundwortschatz/Adjektive; Ik ben dorstig, mag ik wat water?; Ich bin durstig, kann ich Wasser haben?
+nl-gw-0221; hungrig; hongerig; honger hebben; A1; Grundwortschatz/Adjektive; Na het sporten ben ik altijd heel hongerig.; Nach dem Sport bin ich immer sehr hungrig.
+nl-gw-0222; durstig; dorstig; dorst hebben; A1; Grundwortschatz/Adjektive; Ik ben dorstig, mag ik wat water?; Ich bin durstig, kann ich Wasser haben?
 nl-gw-0223; krank; ziek; ; A1; Grundwortschatz/Adjektive; Mijn broer is ziek en blijft in bed.; Mein Bruder ist krank und bleibt im Bett.
 nl-gw-0224; gesund; gezond; ; A1; Grundwortschatz/Adjektive; Groente en fruit zijn heel gezond.; Gemüse und Obst sind sehr gesund.
 nl-gw-0225; nett; aardig; vriendelijk, lief; A1; Grundwortschatz/Adjektive; Onze nieuwe buurman is echt aardig.; Unser neuer Nachbar ist wirklich nett.
@@ -255,7 +255,7 @@ nl-gw-0252; zustimmen; instemmen; het eens zijn, akkoord gaan; A2; Grundwortscha
 nl-gw-0253; erlauben; toestaan; toelaten; A2; Grundwortschatz/Verben; Mijn ouders staan toe dat ik lang opblijf.; Meine Eltern erlauben mir, lange aufzubleiben.
 nl-gw-0254; erscheinen; verschijnen; ; A2; Grundwortschatz/Verben; Na de regen verscheen er een regenboog aan de hemel.; Nach dem Regen erschien ein Regenbogen am Himmel.
 nl-gw-0255; klopfen; kloppen; ; A2; Grundwortschatz/Verben; Klop alstublieft op de deur voordat u binnenkomt.; Bitte klopfen Sie an die Tür, bevor Sie eintreten.
-nl-gw-0256; gehören; toebehoren; zijn van, horen bij; A2; Grundwortschatz/Verben; Deze oude fiets behoort toe aan mijn broer.; Dieses alte Fahrrad gehört meinem Bruder.
+nl-gw-0256; gehören; van iemand zijn; toebehoren, horen bij; A2; Grundwortschatz/Verben; Deze oude fiets is van mijn broer.; Dieses alte Fahrrad gehört meinem Bruder.
 nl-gw-0257; ausleihen; lenen; ; A2; Grundwortschatz/Verben; Mag ik even je pen lenen?; Kann ich mir kurz deinen Stift ausleihen?
 nl-gw-0258; zerbrechen; breken; kapotmaken; A2; Grundwortschatz/Verben; Wees voorzichtig, anders breek je het glas.; Sei vorsichtig, sonst zerbrichst du das Glas.
 nl-gw-0259; fangen; vangen; ; A2; Grundwortschatz/Verben; De hond vindt het heerlijk om de bal te vangen.; Der Hund liebt es, den Ball zu fangen.
@@ -302,7 +302,7 @@ nl-gw-0299; anbieten; aanbieden; ; A2; Grundwortschatz/Verben; Zij bood me een k
 nl-gw-0300; besitzen; bezitten; hebben; A2; Grundwortschatz/Verben; De familie bezit een klein hotel aan zee.; Die Familie besitzt ein kleines Hotel am Meer.
 nl-gw-0301; malen; schilderen; ; A2; Grundwortschatz/Verben; De kinderen schilderden kleurrijke plaatjes op school.; Die Kinder malten bunte Bilder in der Schule.
 nl-gw-0302; üben; oefenen; ; A2; Grundwortschatz/Verben; Je zou elke dag piano moeten oefenen.; Du solltest jeden Tag Klavier üben.
-nl-gw-0303; bevorzugen; de voorkeur geven aan; prefereren, verkiezen; A2; Grundwortschatz/Verben; Ik geef 's ochtends de voorkeur aan thee, niet aan koffie.; Ich bevorzuge morgens Tee, keinen Kaffee.
+nl-gw-0303; bevorzugen; de voorkeur geven aan; prefereren, verkiezen, liever hebben; A2; Grundwortschatz/Verben; Ik geef 's ochtends de voorkeur aan thee, niet aan koffie.; Ich bevorzuge morgens Tee, keinen Kaffee.
 nl-gw-0304; vorbereiten; voorbereiden; ; A2; Grundwortschatz/Verben; We bereidden alles voor het verjaardagsfeest voor.; Wir bereiteten alles für die Geburtstagsfeier vor.
 nl-gw-0305; versprechen; beloven; ; A2; Grundwortschatz/Verben; Hij beloofde me 's avonds te bellen.; Er versprach, mich am Abend anzurufen.
 nl-gw-0306; empfehlen; aanbevelen; aanraden; A2; Grundwortschatz/Verben; Kun je een goed restaurant in de buurt aanbevelen?; Kannst du ein gutes Restaurant in der Nähe empfehlen?
@@ -548,7 +548,7 @@ nl-gw-0545; erlangen; verwerven; verkrijgen, behalen; B1; Grundwortschatz/Verben
 nl-gw-0546; zögern; aarzelen; twijfelen; B1; Grundwortschatz/Verben; Aarzel niet om me te bellen als je hulp nodig hebt.; Zögere nicht, mich anzurufen, wenn du Hilfe brauchst.
 nl-gw-0547; jagen; jagen; achtervolgen, najagen; B1; Grundwortschatz/Verben; De hond jaagt in het park graag achter de bal aan.; Der Hund liebt es, im Park dem Ball nachzujagen.
 nl-gw-0548; erhöhen; verhogen; ; B1; Grundwortschatz/Verben; De stad verhoogde de prijs van buskaartjes.; Die Stadt erhöhte den Preis für Busfahrkarten.
-nl-gw-0549; bestehen auf; aandringen op; erop staan; B1; Grundwortschatz/Verben; Ze drong erop aan het eten zelf te betalen.; Sie bestand darauf, das Essen selbst zu bezahlen.
+nl-gw-0549; bestehen auf; erop staan; aandringen op; B1; Grundwortschatz/Verben; Ze stond erop het eten zelf te betalen.; Sie bestand darauf, das Essen selbst zu bezahlen.
 nl-gw-0550; beabsichtigen; van plan zijn; de bedoeling hebben, beogen; B1; Grundwortschatz/Verben; We zijn van plan om volgende zomer Portugal te bezoeken.; Wir beabsichtigen, nächsten Sommer Portugal zu besuchen.
 nl-gw-0551; vorstellen (jemanden); voorstellen; introduceren; B1; Grundwortschatz/Verben, Grundwortschatz/Kommunikation; Laat me je mijn collega Anna voorstellen.; Lass mich dir meine Kollegin Anna vorstellen.
 nl-gw-0552; erfinden; uitvinden; ; B1; Grundwortschatz/Verben; Wie heeft eigenlijk de eerste mobiele telefoon uitgevonden?; Wer hat eigentlich das erste Handy erfunden?
@@ -876,7 +876,7 @@ nl-gw-0873; Ausmaß; de omvang; de mate; B2; Grundwortschatz/Abstrakte Begriffe;
 nl-gw-0874; Bestandteil; het onderdeel; het bestanddeel, de component; B2; Grundwortschatz/Abstrakte Begriffe; Beweging is een belangrijk onderdeel van een gezond leven.; Bewegung ist ein wichtiger Bestandteil eines gesunden Lebens.
 nl-gw-0875; Gleichgewicht; het evenwicht; de balans; B2; Grundwortschatz/Abstrakte Begriffe; Ze probeert een evenwicht tussen werk en gezin te bewaren.; Sie versucht, ein Gleichgewicht zwischen Beruf und Familie zu halten.
 nl-gw-0876; Gerechtigkeit; de gerechtigheid; de rechtvaardigheid; B2; Grundwortschatz/Gesellschaft; Veel mensen gingen de straat op voor gerechtigheid.; Viele Menschen gingen für Gerechtigkeit auf die Straße.
-nl-gw-0877; Gleichberechtigung; de gelijkberechtiging; de gelijke rechten, de gelijkheid; B2; Grundwortschatz/Gesellschaft; De beweging streed voor de gelijkberechtiging van vrouwen.; Die Bewegung kämpfte für die Gleichberechtigung der Frauen.
+nl-gw-0877; Gleichberechtigung; de gelijke rechten; de gelijkberechtiging, de gelijkheid, de emancipatie; B2; Grundwortschatz/Gesellschaft; De beweging streed voor gelijke rechten voor vrouwen.; Die Bewegung kämpfte für die Gleichberechtigung der Frauen.
 nl-gw-0878; widerwillig; met tegenzin; onwillig, schoorvoetend; B2; Grundwortschatz/Adverbien; Hij stemde er met tegenzin mee in om zaterdag te werken.; Er stimmte widerwillig zu, am Samstag zu arbeiten.
 nl-gw-0879; Arbeitslosigkeit; de werkloosheid; ; B2; Grundwortschatz/Gesellschaft; De werkloosheid is naar het laagste niveau ooit gedaald.; Die Arbeitslosigkeit ist auf ein Rekordtief gesunken.
 nl-gw-0880; Knappheit; de schaarste; het tekort; B2; Grundwortschatz/Gesellschaft; De schaarste aan woningen drijft de prijzen op.; Die Knappheit an Wohnraum treibt die Preise nach oben.
@@ -902,7 +902,7 @@ nl-gw-0899; auf den Punkt bringen; ter zake komen; ; B2; Grundwortschatz/Wendung
 nl-gw-0900; eine Rolle spielen; een rol spelen; ; B2; Grundwortschatz/Wendungen; Geld speelt een grote rol bij zijn beslissingen.; Geld spielt bei seinen Entscheidungen eine große Rolle.
 nl-gw-0901; untergraben; ondermijnen; ; C1; Grundwortschatz/Verben; Voortdurende kritiek ondermijnt het zelfvertrouwen van de medewerkers.; Ständige Kritik untergräbt das Selbstvertrauen der Mitarbeiter.
 nl-gw-0902; abtun; afdoen; wegwuiven; C1; Grundwortschatz/Verben; Hij deed de waarschuwingen af als pure paniekzaaierij.; Er tat die Warnungen als reine Panikmache ab.
-nl-gw-0903; befürworten; voorstaan; bepleiten, pleiten voor; C1; Grundwortschatz/Verben; Veel deskundigen staan een hervorming van het systeem voor.; Viele Experten befürworten eine Reform des Systems.
+nl-gw-0903; befürworten; voorstaan; bepleiten, pleiten voor, voorstander zijn van; C1; Grundwortschatz/Verben; Veel deskundigen staan een hervorming van het systeem voor.; Viele Experten befürworten eine Reform des Systems.
 nl-gw-0904; hervorrufen; oproepen; teweegbrengen, veroorzaken; C1; Grundwortschatz/Verben; De oude foto's riepen jeugdherinneringen bij haar op.; Die alten Fotos riefen Kindheitserinnerungen in ihr hervor.
 nl-gw-0905; erleichtern; vergemakkelijken; vereenvoudigen; C1; Grundwortschatz/Verben; Digitale hulpmiddelen vergemakkelijken de samenwerking over tijdzones heen.; Digitale Werkzeuge erleichtern die Zusammenarbeit über Zeitzonen hinweg.
 nl-gw-0906; verschärfen; verscherpen; verergeren, aanscherpen; C1; Grundwortschatz/Verben; De lange droogte verscherpte de voedselcrisis nog verder.; Die lange Dürre verschärfte die Ernährungskrise weiter.
@@ -924,7 +924,7 @@ nl-gw-0921; untermauern; onderbouwen; staven; C1; Grundwortschatz/Verben; Ze ond
 nl-gw-0922; abwägen; afwegen; ; C1; Grundwortschatz/Verben; Je moet risico's en voordelen zorgvuldig tegen elkaar afwegen.; Du solltest Risiken und Nutzen sorgfältig abwägen.
 nl-gw-0923; einräumen; toegeven; erkennen; C1; Grundwortschatz/Verben; Hij gaf uiteindelijk toe dat zijn critici gelijk hadden.; Er räumte schließlich ein, dass seine Kritiker recht hatten.
 nl-gw-0924; vorantreiben; aanjagen; bevorderen, vaart zetten achter; C1; Grundwortschatz/Verben; De burgemeester jaagt de renovatie van de scholen aan.; Der Bürgermeister treibt die Sanierung der Schulen voran.
-nl-gw-0925; vielschichtig; veelzijdig; complex, gelaagd; C1; Grundwortschatz/Adjektive; Migratie is een veelzijdig fenomeen met veel oorzaken.; Migration ist ein vielschichtiges Phänomen mit vielen Ursachen.
+nl-gw-0925; vielschichtig; complex; gelaagd; C1; Grundwortschatz/Adjektive; Migratie is een complex fenomeen met veel oorzaken.; Migration ist ein vielschichtiges Phänomen mit vielen Ursachen.
 nl-gw-0926; stichhaltig; steekhoudend; deugdelijk, gegrond; C1; Grundwortschatz/Adjektive; Hij kon geen enkel steekhoudend argument aanvoeren.; Er konnte kein einziges stichhaltiges Argument vorbringen.
 nl-gw-0927; unentbehrlich; onmisbaar; onontbeerlijk; C1; Grundwortschatz/Adjektive; Haar ervaring maakt haar onmisbaar voor het team.; Ihre Erfahrung macht sie für das Team unentbehrlich.
 nl-gw-0928; fragwürdig; twijfelachtig; dubieus, bedenkelijk; C1; Grundwortschatz/Adjektive; De studie gebruikte enkele zeer twijfelachtige methoden.; Die Studie verwendete einige höchst fragwürdige Methoden.
@@ -960,7 +960,7 @@ nl-gw-0957; Einschränkung; de beperking; de restrictie; C1; Grundwortschatz/Abs
 nl-gw-0958; Gefüge; de structuur; het weefsel, het bestel; C1; Grundwortschatz/Gesellschaft; De crisis bedreigde de sociale structuur van het land.; Die Krise bedrohte das soziale Gefüge des Landes.
 nl-gw-0959; Widerstandsfähigkeit; de weerbaarheid; de veerkracht, het weerstandsvermogen; C1; Grundwortschatz/Abstrakte Begriffe; Regelmatig bewegen versterkt de weerbaarheid van lichaam en geest.; Regelmäßige Bewegung stärkt die Widerstandsfähigkeit von Körper und Geist.
 nl-gw-0960; Eigenverantwortung; de eigen verantwoordelijkheid; de zelfredzaamheid; C1; Grundwortschatz/Gesellschaft; De hervorming moet de eigen verantwoordelijkheid versterken.; Die Reform soll die Eigenverantwortung stärken.
-nl-gw-0961; Zumutung; de onredelijke eis; ; C1; Grundwortschatz/Abstrakte Begriffe; Deze werktijden zijn een onredelijke eis voor het personeel.; Diese Arbeitszeiten sind eine Zumutung für das Personal.
+nl-gw-0961; Zumutung; de onredelijke eis; te veel gevraagd; C1; Grundwortschatz/Abstrakte Begriffe; Deze werktijden zijn een onredelijke eis voor het personeel.; Diese Arbeitszeiten sind eine Zumutung für das Personal.
 nl-gw-0962; Abwägung; de afweging; ; C1; Grundwortschatz/Abstrakte Begriffe; Elke politieke beslissing vereist een moeilijke afweging.; Jede politische Entscheidung erfordert eine schwierige Abwägung.
 nl-gw-0963; Ausgangspunkt; het uitgangspunt; het vertrekpunt; C1; Grundwortschatz/Abstrakte Begriffe; Haar vraag was het uitgangspunt van het debat.; Ihre Frage war der Ausgangspunkt der Debatte.
 nl-gw-0964; Kernaussage; de kernboodschap; de kern; C1; Grundwortschatz/Kommunikation; Vat de kernboodschap van het artikel in één zin samen.; Fasse die Kernaussage des Artikels in einem Satz zusammen.
@@ -985,7 +985,7 @@ nl-gw-0982; abgedroschen; afgezaagd; clichématig, uitgekauwd; C2; Grundwortscha
 nl-gw-0983; scheinheilig; schijnheilig; hypocriet; C2; Grundwortschatz/Adjektive; Zijn schijnheilige bezorgdheid overtuigde absoluut niemand.; Seine scheinheilige Besorgnis überzeugte absolut niemanden.
 nl-gw-0984; akribisch; minutieus; nauwgezet, uiterst nauwkeurig; C2; Grundwortschatz/Adjektive; Ze hield minutieuze aantekeningen bij van elke afzonderlijke uitgave.; Sie führte akribische Aufzeichnungen über jede einzelne Ausgabe.
 nl-gw-0985; hanebüchen; absurd; ongehoord, te gek voor woorden; C2; Grundwortschatz/Adjektive; De smoes die hij aanvoerde, was ronduit absurd.; Die Ausrede, die er vorbrachte, war schlicht hanebüchen.
-nl-gw-0986; spitzfindig; pietluttig; haarkloverig; C2; Grundwortschatz/Adjektive; Zijn pietluttige bezwaren vertraagden de onderhandelingen urenlang.; Seine spitzfindigen Einwände verzögerten die Verhandlungen um Stunden.
+nl-gw-0986; spitzfindig; haarkloverig; pietluttig, muggenzifterig; C2; Grundwortschatz/Adjektive; Zijn haarkloverige bezwaren vertraagden de onderhandelingen urenlang.; Seine spitzfindigen Einwände verzögerten die Verhandlungen um Stunden.
 nl-gw-0987; unverblümt; onverbloemd; onomwonden, botweg; C2; Grundwortschatz/Adjektive; Ze gaf een onverbloemd antwoord op de delicate vraag.; Sie gab eine unverblümte Antwort auf die heikle Frage.
 nl-gw-0988; erhaben; verheven; subliem; C2; Grundwortschatz/Adjektive; Het uitzicht vanaf de top was van een verheven schoonheid.; Der Blick vom Gipfel war von erhabener Schönheit.
 nl-gw-0989; vermessen (anmaßend); aanmatigend; overmoedig, hoogmoedig; C2; Grundwortschatz/Adjektive; Het zou aanmatigend zijn om een snelle oplossing te beloven.; Es wäre vermessen, eine schnelle Lösung zu versprechen.
@@ -1103,7 +1103,7 @@ nl-gw-1100; frönen; zich overgeven aan; zich wijden aan, toegeven aan; C2; Grun
 nl-gw-1101; verschmähen; versmaden; afwijzen, afslaan; C2; Grundwortschatz/Verben; Ze versmaadde elk aanbod van hulp.; Sie verschmähte jedes Hilfsangebot.
 nl-gw-1102; heucheln; veinzen; voorwenden, huichelen; C2; Grundwortschatz/Verben; Hij veinsde interesse om een goede indruk te maken.; Er heuchelte Interesse, um einen guten Eindruck zu machen.
 nl-gw-1103; sich brüsten; pronken met; zich beroemen op, opscheppen over; C2; Grundwortschatz/Verben; Hij pronkt graag met zijn beroemde vrienden.; Er brüstet sich gern mit seinen berühmten Freunden.
-nl-gw-1104; sich verzetteln; zich versnipperen; zijn aandacht versnipperen; C2; Grundwortschatz/Verben; Concentreer je op één project, anders versnipper je je aandacht.; Konzentriere dich auf ein Projekt, sonst verzettelst du dich.
+nl-gw-1104; sich verzetteln; zich versnipperen; zijn aandacht versnipperen; C2; Grundwortschatz/Verben; Wie te veel projecten tegelijk aanneemt, versnippert zich.; Wer zu viele Projekte gleichzeitig annimmt, verzettelt sich.
 nl-gw-1105; zaudern; aarzelen; dralen, talmen, weifelen; C2; Grundwortschatz/Verben; De regering aarzelde te lang voordat ze handelde.; Die Regierung zauderte zu lange, bevor sie handelte.
 nl-gw-1106; abkanzeln; de mantel uitvegen; uitkafferen, afsnauwen; C2; Grundwortschatz/Verben; De trainer veegde zijn spelers voor de camera's de mantel uit.; Der Trainer kanzelte seine Spieler vor den Kameras ab.
 nl-gw-1107; aufbauschen; opblazen; opkloppen, overdrijven; C2; Grundwortschatz/Verben; De media bliezen het kleine incident op.; Die Medien bauschten den kleinen Vorfall auf.
@@ -1189,7 +1189,7 @@ nl-gw-1186; ins Leere laufen; op niets uitlopen; doodlopen, stranden; C2; Grundw
 nl-gw-1187; auf Granit beißen; nul op het rekest krijgen; op een muur stuiten, zijn neus stoten; C2; Grundwortschatz/Wendungen; Zijn verzoek om loonsverhoging kreeg bij de baas nul op het rekest.; Mit seiner Bitte um eine Gehaltserhöhung biss er beim Chef auf Granit.
 nl-gw-1188; den Teufel an die Wand malen; spoken zien; het ergste vrezen, beren op de weg zien; C2; Grundwortschatz/Wendungen; Laten we geen spoken zien voordat de resultaten er zijn.; Lass uns nicht den Teufel an die Wand malen, bevor die Ergebnisse da sind.
 nl-gw-1189; den Kürzeren ziehen; aan het kortste eind trekken; ; C2; Grundwortschatz/Wendungen; In conflicten met grote concerns trekken consumenten vaak aan het kortste eind.; Im Streit mit großen Konzernen ziehen Verbraucher oft den Kürzeren.
-nl-gw-1190; jemandem auf den Leim gehen; zich door iemand laten beetnemen; erin lopen, in de val lopen; C2; Grundwortschatz/Wendungen; Veel gepensioneerden lieten zich door de oplichters beetnemen.; Viele Rentner gingen den Betrügern auf den Leim.
+nl-gw-1190; jemandem auf den Leim gehen; zich door iemand laten beetnemen; erin lopen, in de val lopen, erin trappen; C2; Grundwortschatz/Wendungen; Veel gepensioneerden lieten zich door de oplichters beetnemen.; Viele Rentner gingen den Betrügern auf den Leim.
 nl-gw-1191; aus allen Wolken fallen; van zijn stoel vallen; perplex staan, stomverbaasd zijn; C2; Grundwortschatz/Wendungen; Toen ze het nieuws hoorde, viel ze van verbazing van haar stoel.; Als sie die Nachricht hörte, fiel sie aus allen Wolken.
 nl-gw-1192; etwas über einen Kamm scheren; iets over één kam scheren; ; C2; Grundwortschatz/Wendungen; Je kunt niet alle politici over één kam scheren.; Man kann nicht alle Politiker über einen Kamm scheren.
 nl-gw-1193; das Kind mit dem Bade ausschütten; het kind met het badwater weggooien; ; C2; Grundwortschatz/Wendungen; De nieuwe wet gooit het kind met het badwater weg.; Das neue Gesetz schüttet das Kind mit dem Bade aus.

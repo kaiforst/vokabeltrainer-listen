@@ -92,7 +92,7 @@ nl-vh-0089; Preisverhandlung; de prijsonderhandeling; ; B2; Business/Verhandlung
 nl-vh-0090; Mengenrabatt; de kwantumkorting; de volumekorting, de staffelkorting; B2; Business/Verhandlung/Angebot; Vanaf honderd stuks bieden we kwantumkorting aan.; Ab hundert Stück bieten wir einen Mengenrabatt an.
 nl-vh-0091; Zahlungsziel; de betalingstermijn; de betaaltermijn; B2; Business/Verhandlung/Positionen; Wij spraken een betalingstermijn van zestig dagen af.; Wir vereinbarten ein Zahlungsziel von sechzig Tagen.
 nl-vh-0092; Anzahlung; de aanbetaling; het voorschot; B2; Business/Verhandlung/Abschluss; Wij vragen een aanbetaling van twintig procent.; Wir verlangen eine Anzahlung von zwanzig Prozent.
-nl-vh-0093; Ratenzahlung; de termijnbetaling; de gespreide betaling, de afbetaling; B2; Business/Verhandlung/Zugeständnisse; Zij vroegen om termijnbetaling over twaalf maanden.; Sie baten um Ratenzahlung über zwölf Monate.
+nl-vh-0093; Ratenzahlung; de betaling in termijnen; de termijnbetaling, de gespreide betaling, de afbetaling; B2; Business/Verhandlung/Zugeständnisse; Zij vroegen om betaling in termijnen over twaalf maanden.; Sie baten um Ratenzahlung über zwölf Monate.
 nl-vh-0094; Vertragsverhandlung; de contractonderhandeling; ; B2; Business/Verhandlung/Abschluss; De contractonderhandeling wordt volgende week voortgezet.; Die Vertragsverhandlung wird nächste Woche fortgesetzt.
 nl-vh-0095; Verhandlungsrunde; de onderhandelingsronde; ; B2; Business/Verhandlung/Taktik; De derde onderhandelingsronde begint maandag.; Die dritte Verhandlungsrunde beginnt am Montag.
 nl-vh-0096; Entscheidungsträger; de beslisser; de besluitvormer, de beslissingsbevoegde; B2; Business/Verhandlung/Positionen; Zorg ervoor dat de echte beslisser aan tafel zit.; Stellen Sie sicher, dass der echte Entscheidungsträger am Tisch sitzt.
@@ -105,7 +105,7 @@ nl-vh-0102; aktives Zuhören; actief luisteren; ; B2; Business/Verhandlung/Takti
 nl-vh-0103; Drohung; het dreigement; de bedreiging; B2; Business/Verhandlung/Taktik; Een dreigement leidt zelden tot een duurzaam akkoord.; Eine Drohung führt selten zu einer dauerhaften Einigung.
 nl-vh-0104; Ultimatum; het ultimatum; ; B2; Business/Verhandlung/Taktik; Zij stelden ons een ultimatum van twee dagen.; Sie stellten uns ein Ultimatum von zwei Tagen.
 nl-vh-0105; Kompromissvorschlag; het compromisvoorstel; ; B2; Business/Verhandlung/Zugeständnisse; Ons compromisvoorstel werd door beide partijen aangenomen.; Unser Kompromissvorschlag wurde von beiden Seiten angenommen.
-nl-vh-0106; Vertragsabschluss; de contractsluiting; het sluiten van het contract, de contractafsluiting; B2; Business/Verhandlung/Abschluss; De contractsluiting vierden we samen.; Den Vertragsabschluss feierten wir gemeinsam.
+nl-vh-0106; Vertragsabschluss; het sluiten van het contract; de contractsluiting, de contractafsluiting; B2; Business/Verhandlung/Abschluss; Het sluiten van het contract vierden we samen.; Den Vertragsabschluss feierten wir gemeinsam.
 nl-vh-0107; besiegeln; bezegelen; ; B2; Business/Verhandlung/Abschluss; Zij bezegelden de deal met een handdruk.; Sie besiegelten das Geschäft per Handschlag.
 nl-vh-0108; Handschlag; de handdruk; ; B2; Business/Verhandlung/Wendungen; Vroeger was een handdruk vaak genoeg.; Früher genügte oft ein Handschlag.
 nl-vh-0109; Abschlussphase; de slotfase; de eindfase, de afrondingsfase; B2; Business/Verhandlung/Abschluss; In de slotfase telt elk klein detail.; In der Abschlussphase zählt jedes kleine Detail.
@@ -128,13 +128,13 @@ nl-vh-0125; einen Rückzieher machen; terugkrabbelen; zich terugtrekken; C1; Bus
 nl-vh-0126; Zwischenlösung; de tussenoplossing; de tijdelijke oplossing; C1; Business/Verhandlung/Zugeständnisse; Wij kwamen een tussenoplossing voor zes maanden overeen.; Wir einigten uns auf eine Zwischenlösung für sechs Monate.
 nl-vh-0127; Verhandlungsabbruch; het afbreken van de onderhandelingen; ; C1; Business/Verhandlung/Taktik; Het afbreken van de onderhandelingen zou beide bedrijven schaden.; Ein Verhandlungsabbruch würde beiden Unternehmen schaden.
 nl-vh-0128; abbrechen; afbreken; ; C1; Business/Verhandlung/Taktik; Zij braken de gesprekken zonder enige uitleg af.; Sie brachen die Gespräche ohne jede Erklärung ab.
-nl-vh-0129; Schlichtung; de bemiddeling; de arbitrage, de geschillenbeslechting; C1; Business/Verhandlung/Einwände; De partijen besloten het geschil via bemiddeling op te lossen.; Die Parteien einigten sich, den Streit durch Schlichtung zu lösen.
+nl-vh-0129; Schlichtung; de bemiddeling; de geschillenbeslechting; C1; Business/Verhandlung/Einwände; De partijen besloten het geschil via bemiddeling op te lossen.; Die Parteien einigten sich, den Streit durch Schlichtung zu lösen.
 nl-vh-0130; Vermittlung; de bemiddeling; de mediation; C1; Business/Verhandlung/Einwände; Dankzij zijn bemiddeling gingen de gesprekken verder.; Dank seiner Vermittlung gingen die Gespräche weiter.
 nl-vh-0131; beiderseitig; wederzijds; ; C1; Business/Verhandlung/Positionen; Het contract werd met wederzijds goedvinden beëindigd.; Der Vertrag wurde in beiderseitigem Einvernehmen beendet.
 nl-vh-0132; stichhaltig; steekhoudend; deugdelijk, overtuigend; C1; Business/Verhandlung/Einwände; Zij presenteerde een steekhoudend argument voor de hogere prijs.; Sie präsentierte ein stichhaltiges Argument für den höheren Preis.
 nl-vh-0133; Gegenargument; het tegenargument; ; C1; Business/Verhandlung/Einwände; Hij had op elk bezwaar een tegenargument klaar.; Er hatte auf jeden Einwand ein Gegenargument parat.
 nl-vh-0134; entkräften; ontkrachten; weerleggen; C1; Business/Verhandlung/Einwände; Wij konden al hun bezwaren ontkrachten.; Wir konnten alle ihre Einwände entkräften.
-nl-vh-0135; Schlupfloch; de maas in de wet; het achterdeurtje; C1; Business/Verhandlung/Abschluss; De advocaten vonden een maas in het contract.; Die Anwälte fanden ein Schlupfloch im Vertrag.
+nl-vh-0135; Schlupfloch; het achterdeurtje; de maas in de wet; C1; Business/Verhandlung/Abschluss; De advocaten vonden een achterdeurtje in het contract.; Die Anwälte fanden ein Schlupfloch im Vertrag.
 nl-vh-0136; Kleingedrucktes; de kleine lettertjes; ; C1; Business/Verhandlung/Wendungen; Lees altijd de kleine lettertjes voordat u ondertekent.; Lesen Sie immer das Kleingedruckte, bevor Sie unterschreiben.
 nl-vh-0137; aushandeln; uitonderhandelen; bedingen; C1; Business/Verhandlung/Zugeständnisse; Na middernacht onderhandelden zij een akkoord uit.; Sie handelten nach Mitternacht eine Vereinbarung aus.
 nl-vh-0138; Verhandlungsführer; de hoofdonderhandelaar; de onderhandelingsleider; C1; Business/Verhandlung/Positionen; De hoofdonderhandelaar presenteerde het definitieve aanbod.; Der Verhandlungsführer präsentierte das endgültige Angebot.

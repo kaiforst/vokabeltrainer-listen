@@ -64,7 +64,7 @@ nl-gc-0061; enttäuscht; teleurgesteld; ; B1; Mensch/Gefühle/Emotionen; Hij was
 nl-gc-0062; Enttäuschung; de teleurstelling; ; B1; Mensch/Gefühle/Emotionen; Het afgelaste concert was een grote teleurstelling.; Das abgesagte Konzert war eine große Enttäuschung.
 nl-gc-0063; eifersüchtig; jaloers; ; B1; Mensch/Gefühle/Beziehungen; Hij wordt jaloers als ze met anderen praat.; Er wird eifersüchtig, wenn sie mit anderen redet.
 nl-gc-0064; Eifersucht; de jaloezie; ; B1; Mensch/Gefühle/Beziehungen; Jaloezie kan zelfs sterke relaties kapotmaken.; Eifersucht kann selbst starke Beziehungen zerstören.
-nl-gc-0065; neidisch; afgunstig; jaloers; B1; Mensch/Gefühle/Emotionen; Ze is afgunstig op het succes van haar collega.; Sie ist neidisch auf den Erfolg ihrer Kollegin.
+nl-gc-0065; neidisch; jaloers; afgunstig; B1; Mensch/Gefühle/Emotionen; Ze is jaloers op het succes van haar collega.; Sie ist neidisch auf den Erfolg ihrer Kollegin.
 nl-gc-0066; Neid; de afgunst; de nijd, de jaloezie; B1; Mensch/Gefühle/Emotionen; Zijn nieuwe auto zorgde voor afgunst onder de buren.; Sein neues Auto sorgte für Neid unter den Nachbarn.
 nl-gc-0067; stolz; trots; ; B1; Mensch/Gefühle/Emotionen; De ouders zijn trots op hun dochter.; Die Eltern sind stolz auf ihre Tochter.
 nl-gc-0068; dankbar; dankbaar; ; B1; Mensch/Gefühle/Emotionen; Ik ben dankbaar voor al je steun.; Ich bin dankbar für all deine Unterstützung.
@@ -123,7 +123,7 @@ nl-gc-0120; Ehrgeiz; de ambitie; de eerzucht; B2; Mensch/Gefühle/Charakter; Zij
 nl-gc-0121; eitel; ijdel; ; B2; Mensch/Gefühle/Charakter; Hij is te ijdel om zijn bril te dragen.; Er ist zu eitel, um seine Brille zu tragen.
 nl-gc-0122; arrogant; arrogant; verwaand; B2; Mensch/Gefühle/Charakter; De arrogante manager luisterde nooit naar advies.; Der arrogante Manager hörte nie auf Ratschläge.
 nl-gc-0123; rücksichtsvoll; attent; voorkomend, zorgzaam; B2; Mensch/Gefühle/Verhalten; Een attente bestuurder rijdt langzamer in de buurt van scholen.; Ein rücksichtsvoller Fahrer fährt in der Nähe von Schulen langsamer.
-nl-gc-0124; rücksichtslos; meedogenloos; respectloos; B2; Mensch/Gefühle/Verhalten; De meedogenloze baas ontsloeg haar vlak voor Kerstmis.; Der rücksichtslose Chef entließ sie kurz vor Weihnachten.
+nl-gc-0124; rücksichtslos; asociaal; meedogenloos, egoïstisch; B2; Mensch/Gefühle/Verhalten; Hij parkeert zijn auto altijd heel asociaal voor onze uitrit.; Er parkt sein Auto immer total rücksichtslos vor unserer Einfahrt.
 nl-gc-0125; nachtragend; rancuneus; haatdragend, wraakzuchtig; B2; Mensch/Gefühle/Charakter; Ze is niet rancuneus en vergeeft snel.; Sie ist nicht nachtragend und verzeiht schnell.
 nl-gc-0126; Wehmut; de weemoed; ; C1; Mensch/Gefühle/Stimmungen; Met weemoed dacht hij terug aan zijn schooltijd.; Mit Wehmut dachte er an seine Schulzeit zurück.
 nl-gc-0127; Schadenfreude; het leedvermaak; ; C1; Mensch/Gefühle/Emotionen; Hij kon zijn leedvermaak over haar fout niet verbergen.; Er konnte seine Schadenfreude über ihren Fehler nicht verbergen.

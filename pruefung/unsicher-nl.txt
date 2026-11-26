@@ -1,741 +1,148 @@
-# Paket N-nl: Zeilen, die die Übersetzer-Agenten als unsicher gemeldet haben (vor Veröffentlichung gegenlesen lassen)
-# Die 12 Durchsichten haben einen Teil davon schon korrigiert; die Gründe sind Stand der Übersetzung.
-id; Grund
-nl-ab-0039; Teilzeit: kein Substantiv mit Artikel gebräuchlich, „parttime“ (Adjektiv/Adverb)
-nl-ab-0040; Vollzeit: wie Teilzeit, „fulltime“
-nl-ab-0042; Lebenslauf: „het cv“ ist eine Abkürzung, aber das einzig gebräuchliche Wort (Genus de/het)
-nl-ab-0087; Arbeitsamt: „arbeidsbureau“ ist der alte Name, heute UWV – als Vokabel aber verständlich
-nl-ab-0089; Feierabend: Umschreibung wie nl-al-0145
-nl-ab-0092; Tarifvertrag: „de cao“ ist eine Abkürzung, aber das allein gebräuchliche Wort
-nl-ab-0103; Mutterschutz: Rechtsbegriff nicht deckungsgleich, „zwangerschapsverlof“ ist die nächste Entsprechung
-nl-ab-0104; Krankschreibung: NL kennt keine ärztliche Krankschreibung, „ziekmelding“ ist die Krankmeldung
-nl-ab-0123; Gleitzeit: kein Einzelwort, „de flexibele werktijden“ (Plural)
-nl-ab-0126; Fachkräftemangel: Umschreibung „het tekort aan vakmensen“
-nl-ab-0128; Abmahnung: kein fester Rechtsbegriff in NL, Umschreibung „de officiële waarschuwing“
-nl-ab-0132; Arbeitszeitkonto: kein festes Wort, „het urensaldo“ ist Annäherung
-nl-ab-0138; Erwerbstätigkeit: „arbeidsparticipatie“ passt zum Satz, deckt den Begriff aber nur teilweise
-nl-ab-0143; Stellenabbau: kein Einzelwort, Umschreibung „het schrappen van banen“
-nl-ab-0148; Tarifautonomie: kein gebräuchlicher Begriff in NL, freie Umschreibung
-nl-ab-0150; Arbeitsverdichtung: „werkverdichting“ in Fachtexten belegt, aber wenig verbreitet
-nl-al-0020; Altbau: kein festes Wort, „het oude pand“ ist Umschreibung („oudbouw“ selten)
-nl-al-0027; Regal: je nach Gegenstand „het rek“, „de plank“ oder „de (boeken)kast“ – kein einzelnes Wort deckt alles
-nl-al-0055; Geschirr: „de vaat“ (zu spülendes Geschirr, passt zum Satz) vs. „het servies“ (Geschirr als Gegenstände)
-nl-al-0090; entrümpeln: „uitmesten“ umgangssprachlich, „ontspullen“ neu – kein neutrales Standardwort
-nl-al-0103; Akkuschrauber: in NL meist „accuboor(machine)“, „accuschroevendraaier“ bezeichnet eher das kleine Gerät
-nl-al-0145; Feierabend: kein niederländisches Wort, Umschreibung „het einde van de werkdag“
-nl-al-0146; Morgenmuffel: kein Substantiv, Umschreibung „geen ochtendmens“
-nl-ap-0014; Sitzplatzzuweisung: „stoeltoewijzing“ ist verständlich, aber kein festes Alltagswort – Fluggesellschaften schreiben eher „stoelkeuze“ oder „stoel reserveren“
-nl-ap-0015; Fensterplatz: kein festes Einzelwort, „plaats bij het raam“ ist Umschreibung („raamstoel“/„raamplaats“ selten)
-nl-ap-0016; Gangplatz: kein festes Einzelwort, „plaats aan het gangpad“ ist Umschreibung
-nl-ap-0017; Notausgangsreihe: Umschreibung „rij bij de nooduitgang“, kein eingeführtes Kompositum
-nl-ap-0021; Standby-Passagier: Schreibung „stand-bypassagier“ nach Groene Boekje („stand-by“), Wort selbst wenig gebräuchlich
-nl-ap-0026; Abfertigungsschluss: kein Einzelwort, „sluitingstijd van het inchecken“ ist Umschreibung
-nl-ap-0034; Freigepäck: kein eindeutiges Wort, „vrije bagage“/„toegestane bagage“ sind Umschreibungen, „bagagevrijdom“ fachsprachlich
-nl-ap-0036; Übergepäckgebühr: „toeslag voor overbagage“ ist Umschreibung, „overbagagetoeslag“ als Kompositum unsicher
-nl-ap-0039; Gepäckausgabe: Schiphol beschildert „Bagage ophalen“/„bagagebanden“, „bagageuitgifte“ ist korrekt aber weniger geläufig
-nl-ap-0041; Sperrgepäck: „buitenmaatse bagage“ ist Umschreibung (engl. „oversized“), kein festes Wort
-nl-ap-0042; Gepäckermittlung: „bagageservice“ ist Umschreibung der Stelle, kein deckungsgleiches Wort
-nl-ap-0043; Verlustmeldung für Gepäck: Umschreibung „melding van vermiste bagage“, Fachwort wäre „PIR“
-nl-ap-0055; durchgecheckt: „doorgecheckt“ ist Anglizismus, Fluggesellschaften sagen oft „doorgelabeld“
-nl-ap-0062; Durchleuchtung: „screening“ (engl.) ist das übliche Wort, „doorlichting“ korrekt aber selten für Gepäck
-nl-ap-0067; Sprengstoffspurenprüfung: Umschreibung „explosievencontrole“, kein eingeführtes Wort
-nl-ap-0071; Bordkartenkontrolle: „instapkaartcontrole“ ist Ad-hoc-Kompositum
-nl-ap-0073; luftseitiger Bereich: am Flughafen sagt man „airside“, „luchtzijde“ ist korrektes, aber weniger gebräuchliches Niederländisch
-nl-ap-0074; landseitiger Bereich: wie 0073, „landside“/„landzijde“
-nl-ap-0085; Einreise: „inreis“ ist amtlich (Inreisverbod), im Alltag eher „binnenkomst“ – beides nicht so geläufig wie das deutsche Wort
-nl-ap-0087; Einreisekarte: in NL nicht gebräuchlich, „aankomstkaart“/„landingskaart“ sind Übersetzungen ohne feste Norm
-nl-ap-0091; anmeldepflichtige Waren: Umschreibung „aan te geven goederen“
-nl-ap-0094; Freimenge: „vrijstelling“ ist allgemeiner als das deutsche Wort
-nl-ap-0096; Einreiseverweigerung: „weigering van toegang“ ist Umschreibung
-nl-ap-0100; Wartebereich am Gate: Umschreibung „wachtruimte bij de gate“
-nl-ap-0103; Gate-Schluss: Umschreibung „sluitingstijd van de gate“
-nl-ap-0105; bevorzugtes Einsteigen: in NL heißt es „priority boarding“ (engl.), kein niederländisches Festwort
-nl-ap-0106; Einsteigen in Gruppen: Umschreibung
-nl-ap-0108; Vorfeldbus: „platformbus“ ist verständlich, aber kein fest eingeführtes Wort
-nl-ap-0109; Außenposition: „buitenpositie“ unsicher, Fachsprache eher „remote stand“ oder „buspositie“
-nl-ap-0113; Passagier-Gepäck-Abgleich: Umschreibung, Fachwort „bagagereconciliatie“ wenig verbreitet
-nl-ap-0114; nicht erschienener Passagier: in NL sagt man „no-show“, niederländische Umschreibung nur als Alternative
-nl-ap-0117; Durchsage: „omroepbericht“ ist korrekt, im Alltag oft nur „omroep“ oder „mededeling“
-nl-ap-0133; Begleitservice: „begeleidingsservice“ ist Ad-hoc-Kompositum
-nl-ap-0151; Fundbüro: am Flughafen „gevonden voorwerpen“ (Pluralwort als Stellenbezeichnung), Artikelgebrauch unüblich
-nl-ap-0155; Stationsleiter: Schreibung „stationmanager“ (engl. Berufstitel) vs. „stationsmanager“ unsicher
-nl-ap-0156; Schichtleiter: „ploegleider“ klingt nach Fabrik, am Flughafen eher „teamleider“ oder „shiftleader“
-nl-ap-0169; Durchsatz: „doorvoer“ ist allgemeiner (auch Transit), „doorstroom“ ebenso möglich
-nl-ap-0173; Betriebsleitzentrale: Umschreibung „operationeel controlecentrum“, kein festes Wort
-nl-ap-0179; Bodenzeit: Fachsprache „turnaround(tijd)“ engl., „omdraaitijd“ selten
-nl-ap-0187; Beschilderung: „bebording“ korrekt, aber „bewegwijzering“ wird häufiger gesagt (dann Überschneidung mit 0188)
-nl-ap-0194; Flugumleitung: „uitwijking“ ist Luftfahrtjargon, allgemein „omleiding“
-nl-ap-0197; Betriebsstörung: „verstoring“ ist allgemeiner als das deutsche Wort
-nl-ba-0003; Vergabestelle hat keine eigene niederländische Entsprechung – „de aanbestedende dienst“ ist zugleich der Begriff für den öffentlichen Auftraggeber (0004)
-nl-ba-0004; „de publieke opdrachtgever“ gewählt, um sich von 0003 abzugrenzen; der Rechtsbegriff ist „de aanbestedende dienst“
-nl-ba-0005; Leistungsverzeichnis: „het bestek“ ist der nächste gebräuchliche Begriff (Bauwesen), deckt sich aber nicht genau
-nl-ba-0006; Leistungsbeschreibung: „de werkomschrijving“ ist eine Annäherung, kein fester Fachbegriff
-nl-ba-0008; Pflichtenheft: „de functionele specificatie“ ist eine Umschreibung, kein fester Begriff
-nl-ba-0015; Bieterfragen: Umschreibung „de vragen van inschrijvers“, kein festes Wort
-nl-ba-0033; Mehrwertsteuer: „de btw“ ist eine Abkürzung, aber das einzig gebräuchliche Wort; „de omzetbelasting“ in Weitere Antworten
-nl-ba-0041; Wirtschaftlichkeit: „de rentabiliteit“ nach dem Französischen, im Vergabekontext eher „kostenefficiëntie“ oder „doelmatigheid“
-nl-ba-0043; Angebotsöffnung: Umschreibung „de opening van de offertes“
-nl-ba-0048; Vergabe: „de opdrachtverlening“ gewählt, weil „de gunning“ schon der Zuschlag (0046) ist; im Niederländischen fallen beide zusammen
-nl-ba-0064; Teilnahmewettbewerb: kein eigener Begriff, „de selectiefase“ (der nicht-offenen Verfahren) als Näherung
-nl-ba-0071; Nachprüfungsverfahren: in den Niederlanden meist ein Kort geding, „de beroepsprocedure“ ist allgemeine Umschreibung
-nl-ba-0074; Vergabekammer: Institution gibt es in den Niederlanden nicht, „de aanbestedingskamer“ ist eine Übersetzung ohne Gebrauch
-nl-ba-0124; Mängelrüge: „de reclamatie“ als nächstes Wort, überschneidet sich mit Reklamation (0123)
-nl-ba-0133; Lieferengpass: Plural „de leveringsproblemen“ gewählt, Singularwort fehlt
-nl-ba-0147; Gewährleistung: „de wettelijke garantie“ zur Abgrenzung von Garantie (0148), im Alltag sagt man nur „garantie“
-nl-bb-0048; Geschäft (Handel): Plural „de zaken“, alternativ „de handel“
-nl-bb-0115; Gewährleistung: wie 0147 „de wettelijke garantie“
-nl-bb-0131; Alleinstellungsmerkmal: „het unieke verkoopargument“ ist eine Umschreibung, üblich ist die Abkürzung USP
-nl-bb-0141; Handlungsbedarf: Umschreibung „de noodzaak tot actie“, kein festes Wort
-nl-bb-0146; Gerichtsstand: „de bevoegde rechtbank“ ist eine Umschreibung, in Verträgen oft „forumkeuze“
-nl-bb-0150; Einvernehmen: „het wederzijds goedvinden“ ist nur in der Wendung „met wederzijds goedvinden“ üblich
-nl-bd-0011; „ausziehen“ hat kein eigenes Verb, „verhuizen“ heißt allgemein umziehen (Beispielsatz mit „uit dit huis“ ergänzt)
-nl-bd-0028; „te weten komen“ enthält „te“ als Teil der festen Wendung (kein Infinitiv-te), Alternativen „vernemen“ (formell), „erachter komen“
-nl-bd-0054; „rock“ klingt wie „rok“ (Rock als Kleidungsstück), deshalb „de rockmuziek“ als Hauptantwort, „de rock“ in Weitere Antworten
-nl-eg-0028; Bargeld: Lemma ist „contant geld“, Artikelform „het contante geld“ klingt gestelzt; als Antwort sagt man eher „contant geld“
-nl-eg-0039; Regal: im Laden „het schap“, als Möbel „het rek“ oder „de plank“ – Wahl nach Beispielsatz
-nl-eg-0065; Kundenkonto: „klantaccount“ und „klantenaccount“ beide verbreitet, Webshops sagen meist nur „account“
-nl-eg-0068; Ware: „de waar“ korrekt, aber im Alltag eher „de goederen“ (Plural) oder „koopwaar“
-nl-eg-0081; Umtausch: kein festes Substantiv, „de ruil“ ist dünn, üblich ist das Verb „ruilen/omruilen“
-nl-eg-0095; Mehrwertsteuer: „de btw“ ist eine Abkürzung, aber das einzige, was man sagt; „omzetbelasting“ ist der amtliche Steuername
-nl-eg-0100; Sendungsverfolgung: Niederländer sagen „track and trace“ (englisch), „pakketvolging“ ist selten
-nl-eg-0104; Ratenzahlung: Umschreibung „betaling in termijnen“, kein einzelnes gebräuchliches Wort
-nl-eg-0116; überteuert: kein eigenes Adjektiv, Umschreibung „te duur / veel te duur“
-nl-eg-0120; fällig: kein direktes Adjektiv, „verschuldigd“ (geschuldet) bzw. „opeisbaar“ oder Verb „vervallen“
-nl-eg-0137; Mängelrüge: „ingebrekestelling“ ist juristisch die nächste Entsprechung (Inverzugsetzung), nicht deckungsgleich
-nl-eg-0140; Inkasso: Genus schwankt (de/het incasso); Beispielsatz nutzt „incassobureau“
-nl-eg-0148; Wucher: „de woeker“ existiert, ist aber selten; üblich sind Zusammensetzungen (woekerprijs, woekerrente)
-nl-et-0046; braten: „bakken“ (in der Pfanne) wie bei backen; „braden“ eher für Fleisch im Ofen – Wahl nach Beispielsatz
-nl-et-0081; Sahne: „room“ (Kochsahne) gewählt, auf Kuchen sagt man „slagroom“; Beispielsatz deshalb angepasst
-nl-et-0098; Tiefkühlkost: kein Sammelwort im Singular, Plural „diepvriesproducten“ gewählt
-nl-et-0108; abschmecken: kein einzelnes Verb, feste Wendung „op smaak brengen“
-nl-et-0113; Geschirr: zum Spülen „de vaat/afwas“, als Tafelgeschirr „het servies“ – nach Beispielsatz gewählt
-nl-et-0124; bekömmlich: kein einzelnes Wort, Umschreibung „licht verteerbaar“
-nl-et-0127; Gaumen: „gehemelte“ im übertragenen Sinn (Feinschmecker) weniger üblich als im Deutschen; Beispielsatz angepasst
-nl-et-0143; Hausmannskost: „Hollandse pot“ ist die idiomatische Entsprechung, kein neutrales Wort
-nl-et-0144; Gaumenfreude: keine feste Entsprechung, „lekkernij“ (Leckerei) gewählt
-nl-et-0145; Völlerei: „vraatzucht“ (Laster) vs. „schranspartij“ (Gelage) – nicht deckungsgleich
-nl-et-0146; kredenzen: kein gehobenes Einzelverb, „serveren“ als neutrale Entsprechung
-nl-et-0147; süffig: „doordrinkbaar“ ist Weinjargon und selten, meist sagt man „lekker wegdrinken“ (Verb)
-nl-et-0148; verköstigen: keine Einwortentsprechung, „te eten geven“ (Wendung mit te)
-nl-fb-0016; „de broers en zussen“ ist eine feste Verbindung, kein Einzelwort für Geschwister
-nl-fb-0039; Verwandtschaft: nur „de familie“ gebräuchlich, dieselbe Antwort wie bei Familie (nl-fb-0001)
-nl-fb-0049; „single“ wird prädikativ ohne Artikel gebraucht; Alternative „de vrijgezel“
-nl-fb-0070; Zweisamkeit: „het samenzijn“ ist eine Annäherung, kein festes Wort
-nl-fb-0082; sich verstehen: „met elkaar opschieten“ ist eine Wendung, meist mit „goed/slecht“
-nl-fb-0113; Standesamt: in den Niederlanden „de burgerlijke stand“ (Amt) bzw. „het gemeentehuis“ (Ort)
-nl-fb-0114; Trauung: mehrere gleichwertige Zusammensetzungen (huwelijksceremonie, huwelijksvoltrekking, trouwceremonie)
-nl-fb-0115; Nachwuchs (Baby erwartet): „het nageslacht“ ist förmlich, Beispielsatz leicht gehoben
-nl-fb-0136; sich vertragen: Umschreibung „het weer goedmaken“, keine feste Einwortentsprechung
-nl-fb-0145; Rücksicht: „de consideratie“ ist eher gehoben, meist Verb „rekening houden met“
-nl-fb-0147; sich anvertrauen: Wendung „in vertrouwen nemen“ (Richtung: der Anvertrauende), Umschreibung
-nl-fb-0150; sich entzweien: „gebrouilleerd raken“ ist Umschreibung
-nl-fh-0094; Billard: Spielname „biljart“ ohne Artikel, Verb „biljarten“ ebenso üblich
-nl-fh-0095; Darts: Spielname „darts“ ohne Artikel, Verb „darten“ ebenso üblich
-nl-fh-0118; schnitzen: „houtsnijden“ wird eher als Substantiv gebraucht, im Satz meist „uit hout snijden“
-nl-fh-0124; Feierabend: kein eigenes Substantiv, Umschreibung „het einde van de werkdag“ (üblich: „na het werk“)
-nl-fh-0126; Muße: kein genaues Wort, „de vrije tijd“ ist eigentlich Freizeit
-nl-fh-0128; Stammtisch: „de stamtafel“ existiert, aber weniger geläufig als im Deutschen
-nl-fh-0130; Kunsthandwerk: „de kunstnijverheid“ oder „het kunstambacht“, beide eher gehoben
-nl-fh-0137; schmökern: kein Einzelverb, Umschreibung „snuffelen in boeken“
-nl-fh-0141; ausklingen: kein festes Verb, Umschreibung „rustig eindigen“
-nl-fh-0150; Feuilleton: niederländisch „feuilleton“ bedeutet Fortsetzungsroman, daher „het cultuurkatern“ (Kulturteil)
-nl-gc-0015; „leuk vinden“ ist eine Umschreibung, kein einzelnes Wort (Alternativen „mogen“, „houden van“)
-nl-gc-0065; „afgunstig“ korrekt, aber im Alltag sagt man meist „jaloers“ (gleich wie eifersüchtig)
-nl-gc-0112; „inlevingsvermogen“ gewählt, „empathie“ ebenso üblich
-nl-gc-0124; „rücksichtslos“ hat keine feste Einwort-Entsprechung; „meedogenloos“ (= ruthless) gewählt, Beispielsatz dafür geändert
-nl-gc-0144; „weltschmerz“ ist im Niederländischen ein Lehnwort (Van Dale), kein eigenes Wort
-nl-gc-0149; „abgebrüht“ je nach Sinn „gehard“ (unempfindlich) oder „gehaaid“ (gerissen); hier „gehard“ nach dem Beispielsatz
-nl-gw-0010; „goedenacht“ ist korrekt, aber „welterusten“ ist im Alltag gebräuchlicher (steht in Weitere Antworten)
-nl-gw-0053; „mögen“ hat kein einzelnes niederländisches Verb; „leuk vinden“ ist Umschreibung, Beispielsatz deshalb geändert
-nl-gw-0181; „één“ mit Akzent gewählt, damit Vorlesen/Erkennung nicht den Artikel „een“ trifft
-nl-gw-0221; „hongerig“ existiert, im Alltag sagt man meist „honger hebben“
-nl-gw-0222; „dorstig“ existiert, im Alltag sagt man meist „dorst hebben“
-nl-gw-0252; „instemmen“ eher formell; gesprochen meist „het eens zijn met“
-nl-gw-0256; „toebehoren“ ist formell; gesprochen sagt man „zijn van“ (Deze fiets is van mijn broer)
-nl-gw-0291; „lid worden van“ ist Umschreibung, kein einzelnes Verb; „toetreden tot“ formell
-nl-gw-0303; „de voorkeur geven aan“ ist eine Wendung, kein einzelnes Verb; „prefereren“/„verkiezen“ sind weniger gebräuchlich
-nl-gw-0321; kein niederländisches Einzelwort für die Zwillingsperson: „de tweeling“ ist das Paar, daher „de tweelingbroer“ (bzw. -zus)
-nl-gw-0325; „het stel“ ist umgangssprachlich das Übliche, „het paar“ im Sinn von Liebespaar seltener
-nl-gw-0336; „middernacht“ wird praktisch ohne Artikel gebraucht (wie eine Uhrzeit), daher kein Artikel
-nl-gw-0367; „het kruid“/„kruiden“ ist alltagssprachlich, „de specerij“ die genaue Entsprechung von Gewürz – Wahl unsicher
-nl-gw-0409; „ähnlich“ hat kein direktes gebräuchliches Adjektiv; „vergelijkbaar“ gewählt, Beispielsatz inhaltlich abgewandelt
-nl-gw-0525; „bewältigen“ ohne feste Entsprechung: „aankunnen“ gewählt, Alternativen „verwerken“, „omgaan met“
-nl-gw-0549; „aandringen op“ und „erop staan“ gleich gebräuchlich, Reihenfolge unsicher
-nl-gw-0550; „van plan zijn“ ist eine Umschreibung, kein einzelnes Verb („beogen“ ist formell)
-nl-gw-0558; „schuldig zijn“ ist eine Wendung, kein einzelnes Verb
-nl-gw-0561; „doen alsof“ ist eine Umschreibung; „voorwenden“ korrekt, aber eher schriftsprachlich
-nl-gw-0564; „beschikbaar stellen“ ist eine Wendung; „verstrekken“ als Einzelwort möglich
-nl-gw-0588; „gegeneerd“ gewählt; „verlegen“ bedeutet im Niederländischen vor allem schüchtern
-nl-gw-0594; Adjektiv „frequent“ eher formell, im Alltag Umschreibung mit „vaak“
-nl-gw-0616; bedeutend: „aanzienlijk“ passt zum Beispiel (Anstieg), für Personen/Werke wäre „belangrijk“ üblicher
-nl-gw-0623; aufgebracht: „overstuur“ (verstört) vs. „boos“ (wütend) – deutsches Wort liegt zwischen beiden
-nl-gw-0631; definitiv: „absoluut“ gewählt, da „definitief“ im NL „endgültig“ bedeutet
-nl-gw-0647; geringfügig: kein festes Adverb, „enigszins“ als nächste Entsprechung
-nl-gw-0660; Behörde: „instantie“, Beispielsatz leicht angepasst („bevoegde instantie“)
-nl-gw-0738; Sinn ergeben: Umschreibung „logisch zijn“, keine feste Wendung
-nl-gw-0757; umsetzen: „implementeren“ (Regeln), je nach Objekt auch „uitvoeren“/„invoeren“
-nl-gw-0786; verfolgen: „nastreven“ nach Beispielsatz (Karriere), Grundbedeutung wäre „achtervolgen“
-nl-gw-0788; andeuten: „suggereren“ ist mehrdeutig (auch vorschlagen), „insinueren“ als Alternative
-nl-gw-0791; einprägsam: „pakkend“ passt zu Melodie, allgemein eher „memorabel“
-nl-gw-0792; schnitzen: „snijden“ ist generisch, „houtsnijden“ das Handwerk
-nl-gw-0793; einweichen: „weken“ (Homonym zu Wochen), meist „laten weken“
-nl-gw-0794; entbehrlich: „misbaar“ ist korrekt, aber selten gebräuchlich
-nl-gw-0837; demnach: „dus“, gleiche Antwort wie folglich (0843)
-nl-gw-0840; zunehmend: Umschreibung „steeds meer“, kein einzelnes Adverb
-nl-gw-0850; Auswirkung: „gevolg“ fällt mit Folge (0670) zusammen, kein eindeutiges Wort
-nl-gw-0867; Verdacht: „vermoeden“ vs. „verdenking“ (juristisch) je nach Kontext
-nl-gw-0877; Gleichberechtigung: „gelijkberechtiging“ selten, üblicher „gelijke rechten“
-nl-gw-0894; Zuversicht: „vertrouwen“, kein genaues Einzelwort
-nl-gw-0899; auf den Punkt bringen: „ter zake komen“ (= zur Sache kommen), Umschreibung
-nl-gw-0903; befürworten: „voorstaan“ vs. „bepleiten“ – kein eindeutiges Einzelwort
-nl-gw-0913; nachvollziehen: „begrijpen“ ist nur Annäherung, keine feste Entsprechung
-nl-gw-0924; vorantreiben: „aanjagen“ gebräuchlich, aber Wahl zwischen aanjagen/bevorderen/vaart zetten achter
-nl-gw-0925; vielschichtig: „veelzijdig“ ist Annäherung (gelaagd/complex ebenso möglich)
-nl-gw-0939; befangen: „verlegen“ nur Annäherung, kein festes Pendant
-nl-gw-0954; Ermessen: „de beoordeling“ (ter beoordeling van) – Umschreibung, kein festes Substantiv
-nl-gw-0961; Zumutung: „de onredelijke eis“ – Umschreibung, kein Einzelwort
-nl-gw-0977; aushebeln: „buiten werking stellen“ – Umschreibung
-nl-gw-0985; hanebüchen: „absurd“ – Annäherung
-nl-gw-0986; spitzfindig: „pietluttig“ – Annäherung (spitsvondig ist falscher Freund, positiv)
-nl-gw-1009; einleiten: „in gang zetten“ – Umschreibung, inleiden/instellen je nach Kontext
-nl-gw-1030; folgenschwer: „verstrekkend“ – Annäherung
-nl-gw-1047; Stellenwert: „de plaats“ (een hoge plaats innemen) – Umschreibung
-nl-gw-1062; Zugehörigkeit: „de verbondenheid“ – Annäherung, kein festes Substantiv
-nl-gw-1078; zum Tragen kommen: „van pas komen“ – Annäherung
-nl-gw-1083; sich erschleichen: „door bedrog verkrijgen“ – Umschreibung
-nl-gw-1085; vereinnahmen: „kapen“ (figürlich) – Annäherung
-nl-gw-1104; sich verzetteln: „zich versnipperen“ – Gebräuchlichkeit als reflexives Verb unsicher
-nl-gw-1106; abkanzeln: „de mantel uitvegen“ – Wendung statt Einzelwort
-nl-gw-1109; sich erübrigen: „overbodig zijn“ – Umschreibung
-nl-gw-1111; lapidar: „bondig“ – Annäherung, „lapidair“ selten
-nl-gw-1113; plakativ: „simplistisch“ – Annäherung
-nl-gw-1129; kleinlaut: „bedremmeld“ – Annäherung
-nl-gw-1133; haarsträubend: „hemeltergend“ – Annäherung
-nl-gw-1134; bieder: „braaf“ – Annäherung
-nl-gw-1140; tunlichst: „zoveel mogelijk“ – Umschreibung
-nl-gw-1143; freilich: „weliswaar“ – Bedeutung verschoben (Satzstruktur geändert)
-nl-gw-1147; kurzerhand: „zonder omhaal“ – Annäherung
-nl-gw-1149; Unwägbarkeit: „de onzekerheid“ – Annäherung
-nl-gw-1154; Zerreißprobe: „de vuurproef“ – Annäherung
-nl-gw-1155; Gemengelage: „de kluwen“ – Umschreibung, Genus de/het beides möglich
-nl-gw-1162; Unding: „de absurditeit“ – Umschreibung („onding“ ist falscher Freund)
-nl-gw-1164; Augenwischerei: „de schijnvertoning“ – Annäherung
-nl-gw-1167; Anspruchsdenken: „de veeleisendheid“ – Umschreibung
-nl-gw-1170; Spießbürger: „de kleinburger“ – Annäherung
-nl-gw-1174; Häme: „het leedvermaak“ – Bedeutungsnähe (Schadenfreude), kein exaktes Pendant
-nl-gw-1176; Überdruss: „de afkeer“ – Annäherung
-nl-gw-1188; den Teufel an die Wand malen: „spoken zien“ – Annäherung
-nl-gw-1190; jemandem auf den Leim gehen: „zich door iemand laten beetnemen“ – Umschreibung
-nl-gw-1191; aus allen Wolken fallen: „van zijn stoel vallen“ – Annäherung
-nl-gw-1194; auf keinen grünen Zweig kommen: „niet van de grond komen“ – Annäherung
-nl-gw-1197; auf Messers Schneide stehen: „een dubbeltje op zijn kant zijn“ – Annäherung
-nl-gw-1199; die Weichen stellen: „de koers uitzetten“ – Umschreibung
-nl-ke-0007; „tatsächlich“: Beispielsatz meint „eigentlich“ (eigenlijk), das Einzelwort wäre eher inderdaad/daadwerkelijk
-nl-ke-0085; „Geschäft (Handel)“ als Plural de zaken, Singular im Niederländischen ungebräuchlich
-nl-ke-0126; „zuversichtlich“: kein einzelnes Wort, Umschreibung vol vertrouwen
-nl-ke-0130; „könnte“: Form, nicht Infinitiv – zou kunnen
-nl-ke-0173; „eifrig“: gretig folgt dem Englischen eager, sonst ijverig
-nl-ke-0178; „gebildet“: ontwikkeld ist gebräuchlich, aber nicht eindeutig
-nl-ke-0200; „böse (schlecht, gemein)“: gemeen gewählt, boos heißt vor allem wütend
-nl-ke-0287; „Zuhause“: het thuis als Substantiv selten, meist Adverb thuis
-nl-ke-0321; „Kindergarten“: niederländische Institutionen weichen ab (kleuterschool historisch, heute groep 1/2 basisschool)
-nl-ke-0345; „hoofd-“ ist nur ein Präfix, kein allein sagbares Wort (wie das deutsche „Haupt-“)
-nl-ke-0400; „de middag“ heißt im NL meist Nachmittag, Mittag (12 Uhr) eher „het middaguur“ oder „twaalf uur“
-nl-ke-0450; „Bild“ mehrdeutig: plaatje / afbeelding / schilderij / foto, gewählt „het plaatje“
-nl-ke-0459; „Bestimmung, Grundsatz“ (policy): „het voorschrift“ gewählt, im NL eher „beleid“ oder „regels“
-nl-ke-0486; „punctueel“ ist seltener als „op tijd“ oder „stipt“, Beispielsatz nutzt „op tijd“
-nl-ke-0497; „de actieradius“ ist fachsprachlich (E-Auto), „het bereik“ allgemeiner
-nl-ke-0519; Antwort „juist“ folgt dem Beispielsatz (richtig), nicht dem ersten Teilwort „rechts“
-nl-ke-0541; „verlegen“ (befangen) ist nur Näherung, heißt auch schüchtern, Alternativen geremd / opgelaten
-nl-ke-0542; „ouder“ (ältere) lautgleich mit „de ouder“ (Elternteil), Komparativ als Grundform
-nl-ke-0551; „zou moeten“ (sollte) ist eine Verbform mit Hilfsverb, keine Einzelvokabel
-nl-ke-0555; „significant“ (bedeutsam) Anglizismus, „betekenisvol“ wörtlich, unsicher welches gebräuchlicher
-nl-ke-0556; „ähnlich“: kein Adjektiv für „sich ähnlich sehen“ (NL „op elkaar lijken“), „vergelijkbaar“ gewählt
-nl-ke-0559; „enkel“ (einzeln) mehrdeutig (auch Knöchel, nur), Beispielsatz nutzt „geen enkel“
-nl-ke-0635; groß (Körpergröße): idiomatisch „lang“, „groot“ als Alternative
-nl-ke-0659; „durchweg“: „voortdurend“ ist Umschreibung, keine feste Entsprechung
-nl-ke-0700; Deutsch „berechnen, aufladen“ mischt zwei Bedeutungen, Antwort „opladen“ nach Beispielsatz, „berekenen“ nur als weitere Antwort
-nl-ke-0730; Deutsch „herstellen, einrichten“ für to establish ist unklar, „oprichten“ nach Beispielsatz gewählt
-nl-ke-0760; keine feste Entsprechung für „aushelfen“, Umschreibung „iemand een handje helpen“
-nl-ke-0780; „liegen, lügen“: Antwort „liegen“ (= lügen) nach Beispielsatz, Verwechslungsgefahr mit „liggen“ (= liegen) in Weitere Antworten
-nl-ke-0781; „mögen“ hat kein einzelnes gebräuchliches Verb, „leuk vinden“ gewählt, Beispielsatz nutzt „lekker vinden“ (Essen)
-nl-ke-0902; zwei Bedeutungen (beobachten / aufpassen), „op iemand letten“ nach Beispielsatz
-nl-ke-0925; „Ärger“ im Sinn von trouble ohne genaues Einzelwort, „de problemen“ (Plural) gewählt
-nl-ke-0943; „verschiedenartig“ als Adjektiv-Grundform schwer, „divers“ gewählt, „verschillend“ als weitere Antwort
-nl-ke-0955; „Art, Weise, Weg“: Antwort „de weg“ nach Beispielsatz, obwohl Englisch way/façon eher „de manier“ meint
-nl-kg-0035; Schnupfen: kein eigenes Alltagswort, man sagt „verkouden zijn“; „neusverkoudheid“ ist korrekt, aber eher Wörterbuch-/Fachwort, „loopneus“ nur das Symptom
-nl-kg-0083; Astma: Genus schwankt (de/het), beide gebräuchlich
-nl-kg-0105; Puls: „de pols“ ist die direkte Entsprechung, kollidiert aber mit Handgelenk (nl-kg-0071), darum „de hartslag“ als Antwort gewählt
-nl-kg-0119; Vorsorgeuntersuchung: keine feste Einwortentsprechung, „preventief onderzoek“ ist Umschreibung, Alltag auch „gezondheidscheck“ oder „controle“
-nl-kg-0136; Bänderriss: „bandscheuring“ wenig gebräuchlich, alltagssprachlich „gescheurde (enkel)banden“, medizinisch „bandruptuur“
-nl-kg-0138; Immunschwäche: „immuundeficiëntie“ ist Fachwort, im Alltag „verzwakt immuunsysteem“ (keine Einwortantwort)
-nl-kk-0002; Bild (allgemein): kein eindeutiges Wort – „afbeelding“ (Abbildung), „plaatje“ (kleines Bild), „schilderij“ (an der Wand) je nach Kontext
-nl-kk-0055; Inszenierung: „enscenering“ korrekt, aber seltener als „regie“ oder „productie“ im Theaterjargon
-nl-kk-0077; Lesung: „lezing“ bedeutet allgemein Vortrag, die Autorenlesung hat kein festes eigenes Wort
-nl-kk-0116; Baudenkmal: „rijksmonument“ ist der niederländische Begriff für geschützte Bauwerke, aber institutionell geprägt; generisch „beschermd monument“
-nl-kk-0148; Zeitzeuge: „ooggetuige“ (Augenzeuge) ist das gängige Wort, „tijdgetuige“ existiert, ist aber seltener
-nl-km-0007; „de mantel“ ist korrekt, aber Niederländer sagen für Mantel meist einfach „de jas“ (gleich wie Jacke)
-nl-km-0051; „passen“ bedeutet sowohl anprobieren als auch passen (nl-km-0052); gleiche Antwort für zwei Zeilen
-nl-km-0088; „casual“ ist ein englisches Lehnwort, aber im Niederländischen für Kleidung üblich
-nl-km-0112; „de maat“ auch Antwort für Größe (nl-km-0050)
-nl-km-0113; „op maat gemaakt“ ist eine Wendung, kein einzelnes Adjektiv
-nl-km-0114; „de grote maat“ ist eine Umschreibung
-nl-km-0130; „Webart“ ohne gängiges Einzelwort; „het weefsel“ gewählt, fachlich „de binding“
-nl-km-0146; „iriserend“ ist eher fachsprachlich
-nl-km-0148; Genus von „plissé“ unsicher (de/het)
-nl-km-0150; „versleten“ ist allgemeiner als fadenscheinig („tot op de draad versleten“)
-nl-mk-0020; „Bild“ allgemein: de afbeelding gewählt, im Zeitungskontext wäre de foto üblicher
-nl-mk-0079; „kommentieren“ in sozialen Medien: reageren ist gebräuchlich, bedeutet allein aber „reagieren“
-nl-mk-0107; „Öffentlichkeit“ ohne feste Einwort-Entsprechung: de openbaarheid / het publiek je nach Kontext
-nl-mk-0109; Boulevardzeitung: roddelkrant ist seltener als roddelblad (eher Zeitschrift), sensatiekrant möglich
-nl-mk-0120; Öffentlichkeitsarbeit: de public relations (Lehnwort, Groene Boekje schreibt publicrelations), üblich ist die Abkürzung pr
-nl-mk-0126; andeuten: laten doorschemeren ist Wendung, kein Einzelverb
-nl-mk-0127; Stellung nehmen: stelling nemen etwas stärker (Position beziehen), Alternativen als Umschreibung
-nl-mk-0130; Hassrede: haatspraak nicht fest etabliert, oft haatzaaien oder englisch hate speech
-nl-mk-0144; Deutungshoheit: keine feste niederländische Entsprechung, interpretatiemonopolie ist Umschreibung
-nl-mk-0145; Meinungsmache: stemmingmakerij entspricht eher „Stimmungsmache“
-nl-mk-0149; Pressekodex: perscode nicht fester Begriff (NL: Leidraad van de Raad voor de Journalistiek)
-nl-mk-0150; Gegendarstellung: weerwoord ist allgemein „Erwiderung“, juristischer Begriff fehlt
-nl-mv-0062; Gutschein: mehrere gleichwertige Wörter (waardebon, cadeaubon, tegoedbon), kein eindeutig dominantes
-nl-mv-0071; Alleinstellungsmerkmal: im Niederländischen sagt man fast nur „USP“, „uniek verkoopargument“ ist die Umschreibung
-nl-mv-0112; Wiedererkennungswert: „herkenbaarheid“ ist das natürliche Wort, trifft aber nur ungefähr; „herkenningswaarde“ selten
-nl-mv-0114; Werbewirkung: „reclame-effect“ kein fester Fachbegriff
-nl-mv-0116; Klickrate: Fachsprache uneinheitlich (doorklikratio, klikratio, CTR)
-nl-mv-0117; Absprungrate: „bouncepercentage“ ist Anglizismus, aber der gängige Begriff (Google Analytics NL)
-nl-mv-0120; Suchmaschinenwerbung: kein festes niederländisches Wort, „zoekmachineadverteren“ bzw. „SEA“
-nl-mv-0123; Abschlussquote: Fachsprache uneinheitlich (afsluitpercentage, scoringspercentage, closing rate)
-nl-mv-0126; Weiterempfehlungsrate: „aanbevelingspercentage“ Umschreibung, kein fester Begriff
-nl-mv-0134; Zusatzverkauf: nur der Anglizismus „upselling“ ist gebräuchlich
-nl-mv-0136; Leitbild: kein genaues Wort, „missie“ bzw. „mission statement“
-nl-mv-0139; Abschöpfungsstrategie: „afroomstrategie“ selten, meist „skimming“
-nl-mv-0140; Verdrängungswettbewerb: Umschreibung „moordende concurrentie“, kein festes Wort
-nl-mv-0141; Alleinvertrieb: „alleenverkoop“ eher juristisch, umgangssprachlich „exclusieve distributie“
-nl-mv-0142; Markenverwässerung: „merkverwatering“ ist Fachwort, wenig verbreitet
-nl-mv-0147; Marktbereinigung: „marktsanering“ wenig gebräuchlich, oft „sanering van de markt“ oder „consolidatie“
-nl-nt-0057; Wiese: wei/weide ist eher Weideland, Spielwiese wäre grasveld
-nl-nt-0144; Renaturierung: natuurherstel ist gängig, aber breiter als der deutsche Begriff
-nl-nt-0145; Zersiedelung: verrommeling ist der NL-Fachbegriff für Landschaftszersiedelung, aber breiter (Verunstaltung)
-nl-nt-0146; Flächenversiegelung: verharding ist allgemein (Befestigung von Flächen), kein fester Begriff
-nl-nt-0150; Artensterben: keine Einwort-Entsprechung, Umschreibung het uitsterven van soorten
-nl-pg-0040; Abgeordneter: „afgevaardigde“ ist allgemein, in den Niederlanden sagt man meist „Kamerlid“ oder „volksvertegenwoordiger“ (als Weitere Antworten)
-nl-pg-0062; Gleichberechtigung: „gelijkberechtiging“ steht im Wörterbuch, gebräuchlicher ist „gelijke rechten“ oder „gelijkheid“
-nl-pg-0078; Öffentlichkeit: „openbaarheid“ nur in Wendungen (in de openbaarheid brengen), sonst „het publiek“; Beispielsatz abgewandelt
-nl-pg-0108; Klage: niederländisches Recht trennt „aanklacht“ (Strafrecht), „eis/vordering“ (Zivilrecht) und „klacht“; keine eindeutige Entsprechung
-nl-pg-0134; Gemeinnützigkeit: gebräuchlich ist nur die Abkürzung „ANBI-status“; „het algemeen nut“ ist eine Umschreibung
-nl-pg-0146; Ermessensspielraum: „beoordelingsruimte“ ist Fachsprache, auch „beleidsvrijheid“ oder „beoordelingsvrijheid“ üblich
-nl-pg-0147; Staatsräson: „staatsraison“ ist selten, Genus unsicher (de)
-nl-pg-0149; Daseinsvorsorge: kein festes Wort, „basisvoorzieningen“ ist eine Umschreibung
-nl-pm-0032; Ressource: „resource“ ist im niederländischen Projektjargon üblich, aber englisches Lehnwort; „hulpbron“ klingt im PM-Kontext ungebräuchlich
-nl-pm-0056; Werkzeug: „gereedschap“ passt nicht zu Planungssoftware, Beispielsatz deshalb inhaltlich abgewichen (Handwerker)
-nl-pm-0063; Telefonkonferenz: „telefonische vergadering“ korrekt, im Alltag sagt man meist „conference call“
-nl-pm-0067; Meilensteinplan: kein festes niederländisches Wort, „mijlpalenplanning“ ist Umschreibung
-nl-pm-0069; Vorlaufzeit: je nach Kontext „levertijd“ (Beschaffung) oder „doorlooptijd“/„aanlooptijd“, kein eindeutiges Wort
-nl-pm-0076; Ressourcenplanung: „resourceplanning“ englisches Lehnwort, aber gebräuchlich
-nl-pm-0097; Abnahme (Projekt): „acceptatie“ (Abnahme durch Kunden) vs. „oplevering“ (Übergabe/Abnahme im Bau) – Wahl nach Beispielsatz
-nl-pm-0115; Pflichtenheft: kein festes niederländisches Wort, „functionele specificatie“ ist Umschreibung
-nl-pm-0118; Liefergegenstand: „deliverable“ englisches Lehnwort, aber im niederländischen PM Standard; niederländische Alternativen ungebräuchlich
-nl-pm-0123; Projektstrukturplan: nur der englische Begriff „work breakdown structure“ ist im Niederländischen geläufig
-nl-pm-0124; Ressourcenengpass: kein festes Wort, „capaciteitstekort“ ist Umschreibung
-nl-pm-0139; Eintrittswahrscheinlichkeit: Umschreibung „kans van optreden“, meist sagt man nur „kans“
-nl-pm-0140; Terminverzug: „uitloop“ ist gebräuchlich, aber nicht exakt deckungsgleich, „vertraging“ allgemeiner
-nl-pm-0141; Umfangsausweitung: nur englisch „scope creep“ gebräuchlich
-nl-pm-0142; Fertigstellungswertanalyse: nur englisch „earned value-analyse“ gebräuchlich, Schreibweise unsicher
-nl-pm-0148; Ressourcennivellierung: nur englisch „resource leveling“ gebräuchlich
-nl-pm-0149; Plan-Ist-Vergleich: kein festes Wort, „plan-realisatievergelijking“ ist Umschreibung
-nl-pm-0150; Abnahmeprotokoll: „proces-verbaal van oplevering“ ist der Fachbegriff (Bau), aber lang zum Sprechen
-nl-pw-0004; Lebenslauf: das gebräuchliche Wort ist die Abkürzung „het cv“, wegen der Regel steht „het curriculum vitae“ in der Antwort
-nl-pw-0010; Stellenangebot (Jobangebot): „baanaanbod“ wenig gebräuchlich, meist umschrieben („een baan aangeboden krijgen“)
-nl-pw-0020; Fachkräftemangel: Umschreibung „tekort aan vakmensen“, oft auch „krapte op de arbeidsmarkt“
-nl-pw-0022; Einstellungstest: „assessment“ ist in den Niederlanden üblich, deckt aber mehr als einen Test ab
-nl-pw-0027; Auszubildender: kein genaues Gegenstück zum dualen System, „leerling“ oder „bbl-leerling“
-nl-pw-0043; Hospitation: Umschreibung „meelopen“, kein festes Substantiv
-nl-pw-0055; Sozialleistungen (vom Arbeitgeber): „sociale voorzieningen“ eher staatlich, betrieblich oft „secundaire arbeidsvoorwaarden“ (bereits 0056)
-nl-pw-0062; Weihnachtsgeld: „kerstgratificatie“ korrekt, in den Niederlanden sagt man eher „dertiende maand“ oder „eindejaarsuitkering“
-nl-pw-0073; Zielvereinbarung: kein festes Wort, „resultaatafspraak“ bzw. „doelstellingenafspraak“
-nl-pw-0086; Zielerreichung: „doelrealisatie“ Fachwort, meist umschrieben („doelen behalen“)
-nl-pw-0104; Urlaubsanspruch: kein festes Wort, „recht op vakantie“, „verlofrecht“, „vakantiedagen“
-nl-pw-0106; krankgeschrieben: in den Niederlanden keine ärztliche Krankschreibung, „ziek gemeld“ ist das Übliche
-nl-pw-0108; Mutterschutz: kein Gegenstück, „zwangerschapsverlof“ meint den Urlaub, nicht den Schutz
-nl-pw-0116; Kernarbeitszeit: „kerntijd“ wenig verbreitet, auch „bloktijd“
-nl-pw-0120; Tarifvertrag: das gebräuchliche Wort ist die Abkürzung „de cao“, wegen der Regel steht „de collectieve arbeidsovereenkomst“ in der Antwort
-nl-pw-0130; Betriebsvereinbarung: „ondernemingsovereenkomst“ juristisch (WOR), kaum im Alltag
-nl-pw-0131; Abmahnung: Umschreibung „officiële waarschuwing“, kein festes Wort
-nl-pw-0141; Freistellung: Umschreibung „vrijstelling van werk“, auch „op non-actief stellen“
-nl-pw-0146; Stellenabbau: Umschreibung „schrappen van banen“, kein festes Substantiv
-nl-rc-0041; Mehrwertsteuer: „btw“ ist formal eine Abkürzung, aber das einzige gesprochene Wort; Beispiel auf niederländischen Satz 21 % angepasst
-nl-rc-0044; Skonto: kein eigenes Wort, „betalingskorting“ oder „korting voor snelle betaling“
-nl-rc-0050; Gebühr: kein eindeutiges Wort („vergoeding“, „kosten“, „tarief“, amtlich „leges“), Wahl nach Beispielsatz
-nl-rc-0076; Umsatzerlöse: „netto-omzet“ ist der Bilanzposten, sonst einfach „omzet“ (wie Umsatz)
-nl-rc-0080; Buchführung: wie Buchhaltung „de boekhouding“, kein eigenes Wort
-nl-rc-0095; Kostenrechnung: „kostprijsberekening“ oder „kostencalculatie“, kein eindeutiger Fachbegriff
-nl-rc-0099; Soll-Ist-Vergleich: „verschillenanalyse“ ist Fachbegriff, aber nicht wörtlich; Plan-Ist-Vergleich (pm-0149) anders übersetzt
-nl-rc-0107; Zahlungseingang: Umschreibung „inkomende betaling“
-nl-rc-0110; Gewerbesteuer: keine niederländische Entsprechung, „bedrijfsbelasting“ ist Behelf
-nl-rc-0115; Abgrenzung: „toerekening“ (toerekeningsbeginsel) gewählt, da „overlopende posten“ für Rechnungsabgrenzungsposten (rc-0140) gebraucht
-nl-rc-0124; Plankostenrechnung: „standaardkostprijsberekening“ Umschreibung
-nl-rc-0141; Wertberichtigung: „waardecorrectie“ vs. „afwaardering“, kein eindeutiger Begriff
-nl-rc-0142; Niederstwertprinzip: „minimumwaarderingsregel“ ist Fachbegriff, aber wenig geläufig
-nl-rc-0145; Verlustvortrag: niederländisch „voorwaartse verliesverrekening“, als Kurzform „verliesverrekening“ gewählt
-nl-rc-0147; Bilanzkosmetik: „windowdressing“ englisches Lehnwort, Alternative „creatief boekhouden“
-nl-rc-0149; testieren: „certificeren“ nicht ganz gebräuchlich, Niederländer sagen „een goedkeurende verklaring afgeven“
-nl-ri-0006; „over de rooie gaan“ ist umgangssprachlich, kein festes Bild wie „an die Decke gehen“
-nl-ri-0019; keine feste Wendung, Umschreibung „snel in tranen zijn“
-nl-ri-0033; „zich groothouden“ ist ein Verb, nicht das Bild der deutschen Wendung
-nl-ri-0037; Umschreibung „iemand diep raken“, keine feste Wendung
-nl-ri-0042; „zijn mond voorbijpraten“ betont das Versehen; „uit de school klappen“ als Alternative, um Dublette mit 0059 zu vermeiden
-nl-ri-0046; „zijn duit in het zakje doen“ ist neutraler als „seinen Senf dazugeben“
-nl-ri-0056; „zich in de nesten praten“ ist verständlich, aber keine feste Wendung
-nl-ri-0059; „uit de school klappen“ ist Standardübersetzung, aber auch für 0042 denkbar
-nl-ri-0060; Umschreibung „iets laten doorschemeren“, keine feste Entsprechung
-nl-ri-0063; „tegen een muur praten“ ist gebräuchlich, aber nicht so fest wie das Deutsche
-nl-ri-0071; „reclame maken voor iets“ ist Umschreibung; „de trom roeren“ selten
-nl-ri-0072; „met de hand op het hart“ als Gesprächseinleitung weniger üblich als im Deutschen
-nl-ri-0092; „een schoon blazoen hebben“ seltener als „een smet op zijn blazoen“
-nl-ri-0094; „iemand erbij lappen“ (verraten) trifft die Bedeutung nur teilweise
-nl-ri-0101; „in iemands val lopen“ Umschreibung; natürlicher wäre „tegen de lamp lopen“
-nl-ri-0119; „iemand rugdekking geven“ trifft „den Rücken freihalten“ nur ungefähr
-nl-ri-0137; „in de watten leggen“ bedeutet eher verwöhnen als überbehüten
-nl-ri-0140; „naar iemand lonken“ weniger geläufig als die deutsche Wendung
-nl-ri-0147; Umschreibung „iemand hard aanpakken“, keine feste Wendung
-nl-ri-0151; „met iemand kunnen lezen en schrijven“ hat etwas andere Nuance (gut auskommen)
-nl-ri-0165; Umschreibung „traag van begrip zijn“, keine feste Wendung
-nl-ri-0178; aus der Reihe tanzen: „uit de pas lopen“ ist gebräuchlich, trifft aber eher „nicht im Gleichschritt“; keine deckungsgleiche feste Wendung
-nl-ri-0182; den Bogen überspannen: keine feste Entsprechung, „te ver gaan“ ist Umschreibung
-nl-ri-0185; auf dem Teppich bleiben: „met beide voeten op de grond blijven“ liegt nahe an 0186 („met beide benen op de grond staan“); Wortwahl voeten/benen schwankt
-nl-ri-0187; die Kirche im Dorf lassen: „de kerk in het midden laten“ heißt eher „einen Kompromiss finden“; deshalb Umschreibung „het niet overdrijven“ als Antwort
-nl-ri-0190; eine Extrawurst bekommen: keine feste Wendung, „een voorkeursbehandeling krijgen“ ist Umschreibung
-nl-ri-0201; auf dem Schlauch stehen: „een black-out hebben“ ist Umschreibung, keine deckungsgleiche feste Wendung
-nl-ri-0204; etwas auf dem Schirm haben: „iets op zijn radar hebben“ ist gebräuchlich, aber jung; Alternativen „op het netvlies“, „in het vizier“ je nach Kontext
-nl-ri-0213; Licht ins Dunkel bringen: „licht werpen op iets“ ist eher Kollokation als feste Redewendung
-nl-ri-0230; sich etwas durch den Kopf gehen lassen: keine feste Wendung, „ergens over nadenken“ ist Umschreibung
-nl-ri-0231; jemandem einen Floh ins Ohr setzen: „iemand iets in het hoofd praten“ ist Umschreibung, keine feste Entsprechung
-nl-ri-0237; auf der faulen Haut liegen: „luieren“ ist ein Einzelverb statt Wendung; „op zijn luie krent zitten“ ist umgangssprachlich
-nl-ri-0240; am Ball bleiben: „volhouden“ ist Umschreibung, keine feste Entsprechung
-nl-ri-0246; den Laden schmeißen: „de zaak runnen“ ist Umschreibung mit Anglizismus, „de tent runnen“ sehr umgangssprachlich
-nl-ri-0255; etwas übers Knie brechen: „iets overhaast doen“ ist Umschreibung
-nl-ri-0264; auf die Nase fallen: „op zijn gezicht gaan“ umgangssprachlich; „zijn neus stoten“ heißt eher „eine Abfuhr bekommen“
-nl-ri-0266; die Kurve kriegen: „de knop omzetten“ ist nah, aber nicht deckungsgleich; Umschreibung
-nl-ri-0275; mit Pauken und Trompeten durchfallen: „glansrijk zakken“ ist ironisch gebräuchlich, aber keine feste Wendung
-nl-ri-0276; Schuss in den Ofen: „de flop“ ist Einzelwort statt Redewendung; Genus de
-nl-ri-0284; auf der Stelle treten: „geen stap verder komen“ ist Umschreibung („ter plaatse trappelen“ nur flämisch, deshalb nicht genommen)
-nl-ri-0305; jemandem Steine in den Weg legen: „iemand dwarsbomen“ ist Einzelverb statt Wendung
-nl-ri-0315; die Qual der Wahl haben: „keuzestress hebben“ ist umgangssprachlich-modern; „de keuze is reuze“ ist fester Spruch, aber kein Verbgefüge
-nl-ri-0326; kalte Füße bekommen: „koude voeten krijgen“ ist Lehnübersetzung, inzwischen gebräuchlich, aber nicht in allen Wörterbüchern
-nl-ri-0329; mit einem blauen Auge davonkommen: „er goed van afkomen“ ist Umschreibung
-nl-ri-0330; Hals- und Beinbruch: „veel succes“ ist neutraler Wunsch; „toi toi toi“ nur im Bühnenkontext
-nl-ri-0344; alle Jubeljahre: „eens in de zoveel tijd“ ist Umschreibung, keine feste bildhafte Wendung
-nl-ru-0076; Gepäckausgabe: „bagageband“ (Band) statt eines Worts für den Bereich; „bagageafgifte“ und „bagagehal“ als Weitere Antworten
-nl-ru-0109; Durchsage: „omroepbericht“ ist korrekt, aber eher schriftsprachlich; umgangssprachlich oft nur „de omroep“ oder „de mededeling“
-nl-ru-0113; Einreise: „inreis“ ist eher amtlich (inreisverbod), als Einzelwort weniger gebräuchlich
-nl-ru-0126; Fernweh: kein festes Wort, „reiskriebels“ (umgangssprachlich, Plural) als nächste Entsprechung
-nl-ru-0138; beschaulich: kein genaues Adjektiv, „rustig“ ist eine Verallgemeinerung
-nl-ru-0143; verreisen: nur als Wendung „op reis gaan“, kein einfaches Verb
-nl-ru-0144; Sommerfrische: kein festes Wort, „zomerverblijf“ ist eine Umschreibung
-nl-ru-0148; Sehnsuchtsort: kein festes Wort, „droombestemming“ ist eine Umschreibung
-nl-sb-0024; Schulfach Sport: „gym“ ist umgangssprachlich üblich, offiziell „lichamelijke opvoeding“
-nl-sb-0026; Schulfach Kunst: in NL meist „tekenen“ (Grundschule) oder „beeldende vorming“, „kunst“ als Weitere Antwort
-nl-sb-0061; Gymnasium: niederländisches „gymnasium“ ist nur die Variante des vwo mit Latein/Griechisch, Schulsysteme nicht deckungsgleich
-nl-sb-0064; Abitur: keine feste Entsprechung, „eindexamen“ (auch für Abschlussprüfung verwendet) bzw. „vwo-diploma“
-nl-sb-0068; Seminar: an niederländischen Universitäten „werkcollege“ oder „werkgroep“, „seminar“ seltener
-nl-sb-0080; Referat: „spreekbeurt“ (Schule) oder „presentatie“ (allgemein), beide gleichwertig
-nl-sb-0088; benoten: kein eigenes Verb, „beoordelen“ oder Umschreibung „een cijfer geven“
-nl-sb-0093; Klassenfahrt: „schoolreis(je)“ meist Tagesausflug, mehrtägig eher „werkweek“ oder „schoolkamp“, Beispiel auf Texel geändert
-nl-sb-0095; Berufsschule: „beroepsschool“ generisch, in NL konkret „mbo“
-nl-sb-0108; Wohnheim: „studentenhuis“ (WG-Haus) oder „studentenflat“ (Wohnheimgebäude), kein exaktes Gegenstück
-nl-sb-0113; Vorlesungsverzeichnis: kein festes Wort, „studiegids“ am nächsten
-nl-sb-0116; Pflichtfach: kein Kompositum, „verplicht vak“ als Wortgruppe
-nl-sb-0119; Fernstudium: „afstandsonderwijs“ ist Oberbegriff, „afstandsstudie“ selten
-nl-sb-0122; Lebenslauf: üblich ist die Abkürzung „cv“, „curriculum vitae“ als ausgeschriebene Antwort gewählt
-nl-sb-0130; Hochschulreife: kein Gegenstück, „vwo-diploma“ als funktionale Entsprechung
-nl-sb-0131; Habilitation: „habilitatie“ existiert, in NL aber ungebräuchlich (kein Habilitationssystem)
-nl-sb-0132; Gutachten: je nach Kontext „rapport“, „advies“, „beoordeling“, „deskundigenrapport“ gewählt
-nl-sb-0134; Studienabbrecher: „uitvaller“ allgemein, „studiestaker“ und „drop-out“ Alternativen, kein eindeutiges Wort
-nl-sb-0136; Begabtenförderung: kein festes Wort, „hoogbegaafdenonderwijs“ bzw. „talentontwikkeling“
-nl-sb-0137; Durchfallquote: „zakpercentage“ gebräuchlich, üblicher ist das Gegenteil „slagingspercentage“
-nl-sb-0144; Bildungsbürgertum: kein niederländisches Wort, Umschreibung „ontwikkelde burgerij“
-nl-sf-0039; sich dehnen: „stretchen“ (Anglizismus) am gebräuchlichsten, „rekken“ Alternative
-nl-sf-0073; Halbzeit: „rust“ ist die Halbzeitpause, „helft“ die Spielhälfte, als Einzelwort mehrdeutig
-nl-sf-0084; Liga: „competitie“, „divisie“ oder „liga“ je nach Kontext, Beispielsatz leicht angepasst
-nl-sf-0116; Aufwärmübung: „warming-up“ üblich, „opwarmoefening“ eher flämisch
-nl-sf-0142; Bewegungsablauf: „bewegingspatroon“ oder „bewegingsuitvoering“, kein festes Wort
-nl-sf-0143; Schiedsrichterentscheidung: Wortgruppe „scheidsrechterlijke beslissing“ statt Kompositum
-nl-sf-0148; Talentschmiede: „talentenfabriek“ oder bildlich „kweekvijver“
-nl-sf-0150; Seitenstechen: kein festes Einzelwort, „steek in de zij“ Wortgruppe
-nl-sp-0002; Es ist noch kein Meister vom Himmel gefallen: niederländische Form „er is nog nooit een meester uit de lucht gevallen“ wenig gebräuchlich, eher Übersetzung als festes Sprichwort
-nl-sp-0003; Ohne Fleiß kein Preis: kein festes niederländisches Sprichwort, „zonder inspanning geen resultaat“ ist Umschreibung
-nl-sp-0011; Erst die Arbeit, dann das Vergnügen: „eerst het werk dan het plezier“ ist Übersetzung, kein geläufiges Sprichwort
-nl-sp-0012; Was Hänschen nicht lernt: „jong geleerd oud gedaan“ (Van Dale) hat positive Richtung, daher Beispielsatz geändert
-nl-sp-0015; Probieren geht über Studieren: „al doende leert men“ ist sinngemäße Entsprechung, nicht wörtlich
-nl-sp-0020; Ordnung ist das halbe Leben: „orde is het halve leven“ im Niederländischen nicht sicher sprichwörtlich
-nl-sp-0024; Gut Ding will Weile haben: „goede dingen kosten tijd“ ist Umschreibung, kein festes Sprichwort
-nl-sp-0025; Was lange währt, wird endlich gut: keine feste Entsprechung, „geduld wordt beloond“ ist Umschreibung
-nl-sp-0046; Das letzte Hemd hat keine Taschen: niederländische Form existiert, aber wenig gebräuchlich
-nl-sp-0062; Wie man in den Wald hineinruft: „boontje komt om zijn loontje“ trifft nur die negative Seite, „wie goed doet goed ontmoet“ die positive
-nl-sp-0066; Schönheit liegt im Auge des Betrachters: Wortlaut „zit“/„is“ und „aanschouwer“/„toeschouwer“ schwanken
-nl-sp-0067; Allen Leuten recht getan: „je kunt het niet iedereen naar de zin maken“ ist Redewendung, kein Sprichwort
-nl-sp-0076; Wer im Glashaus sitzt: Entsprechung „de pot verwijt de ketel dat hij zwart ziet“ (anderes Bild)
-nl-sp-0083; Lügen haben kurze Beine: lange Entsprechung, deutsches Beispiel gekürzt
-nl-sp-0086; Hinterher ist man immer klüger: „achteraf is het makkelijk praten“ ist Redewendung, die derbe Sprichwortform steht als Alternative
-nl-sp-0100; In der Kürze liegt die Würze: „kort maar krachtig“ ist Redewendung, kein Sprichwort, Beispielsatz geändert
-nl-sp-0107; Auch ein blindes Huhn findet mal ein Korn: niederländischer Wortlaut („blinde kip“/„korrel“) nicht sicher fest
-nl-sp-0110; In der Not frisst der Teufel Fliegen: „in nood eet men korstjes van pasteien“ ist alt und wenig bekannt, „nood breekt wet“ nur sinnverwandt
-nl-sp-0120; Alter schützt vor Torheit nicht: „hoe ouder hoe gekker“ ist geläufig, aber lockerer im Ton
-nl-sp-0122; Der Fisch stinkt vom Kopf her: niederländischer Wortlaut („begint bij de kop te stinken“/„rot vanaf de kop“) nicht fest
-nl-sp-0129; Im Wein liegt die Wahrheit: „kinderen en dronken mensen spreken de waarheid“ ist sinngemäß, „in vino veritas“ als Alternative
-nl-tc-0075; „dempen“ für Handy stummschalten ist weniger üblich als „op stil zetten“ (keine feste Infinitivform)
-nl-tc-0086; Artikel bei „kunstmatige intelligentie“: als Begriff meist ohne Artikel gebraucht
-nl-tc-0111; „probleemoplossing“ (Windows-Begriff) als Entsprechung für Fehlerbehebung nicht sicher gebräuchlich
-nl-tc-0114; „machinaal leren“ ohne Artikel; im Niederländischen oft englisch „machine learning“
-nl-tc-0120; Genus/Artikel bei „phishing“ unsicher, meist artikellos
-nl-tc-0138; „fouttolerantie“ ist Fachwort, kein alltägliches Wort für Ausfallsicherheit
-nl-tc-0147; „datasoevereiniteit“ selten belegt
-nl-tc-0148; „veroudering“ nur in der Verbindung „geplande veroudering“ eindeutig; „obsolescentie“ selten
-nl-vh-0058; „de afsluiting“ für Abschluss (Geschäft) eher Umschreibung, Niederländisch sagt meist „het sluiten van de deal“
-nl-vh-0088; „de offertetermijn“ nicht sicher gebräuchlich, Alternative „inschrijvingstermijn“ nur bei Ausschreibungen
-nl-vh-0093; „de termijnbetaling“ bedeutet auch die einzelne Rate, „gespreide betaling“ wäre vielleicht gebräuchlicher
-nl-vh-0106; „de contractsluiting“ ist Juristensprache, Alltag eher „het sluiten van het contract“
-nl-vh-0121; Umschreibung „het onderwerp van de onderhandeling“, kein festes Einzelwort
-nl-vh-0127; Umschreibung „het afbreken van de onderhandelingen“, kein festes Einzelwort
-nl-vh-0129; Schlichtung und Vermittlung (0130) beide „de bemiddeling“, Niederländisch unterscheidet kaum
-nl-vh-0135; „de maas in de wet“ ist feste Wendung für Gesetzeslücke, bei Vertrag nur „een maas“, Alternative „het achterdeurtje“
-nl-vh-0140; „het hard spelen“ ist Umschreibung, keine feste Redewendung wie im Deutschen
-nl-vm-0068; „pech“ ist unzählbar, Beispielsatz braucht „pech met de auto“
-nl-vm-0074; Umschreibung „de gordel omdoen“ statt reflexivem Verb
-nl-vm-0076; „wegwerkzaamheden“ (Plural) statt Baustelle allgemein; „bouwplaats“ nur für Gebäude
-nl-vm-0088; „carpool“ als Substantiv wenig gebräuchlich, meist Verb „carpoolen“
-nl-vm-0093; In den Niederlanden „inchecken“ üblich; „afstempelen“ veraltet
-nl-vm-0101; „wegenwacht“ ist eigentlich ANWB-Dienst, generisch aber verstanden
-nl-vm-0113; Umschreibung „het lokale openbaar vervoer“, kein festes Einwort
-nl-vm-0114; „langeafstandsverkeer“ kein fester Bahnbegriff
-nl-vm-0120; „kentekenregistratie“ als Entsprechung für Zulassung unsicher
-nl-vm-0126; „mobiliteitstransitie“ Fachjargon, wenig verbreitet
-nl-vm-0132; „verkeersremming“ unsicher, meist „verkeersremmende maatregelen“ oder „verkeersluw maken“
-nl-vm-0140; Umschreibung „doorrijden na een ongeval“, kein Einwort (vluchtmisdrijf nur flämisch)
-nl-vm-0144; englisches „modal shift“ auch im Niederländischen üblich, kein eigenes Wort
-nl-vm-0145; Umschreibung „het aantal reizigers“
-nl-vm-0146; „typegoedkeuring“ deckt Betriebserlaubnis nur teilweise
-nl-vm-0147; „nachtrijverbod“ nicht fest belegt
-nl-vm-0148; Umschreibung „zorgplicht van de wegbeheerder“ für juristischen Begriff
-nl-vm-0149; „vaste dienstregeling“ Umschreibung für Taktverkehr
-nl-vm-0150; „vervoerswijze“ bzw. „modaliteit“ Fachwort, Entsprechung unsicher
-nl-vt-0075; Gewährleistung hat kein eigenes NL-Wort, „wettelijke garantie“ kollidiert mit Garantie (0050)
-nl-vt-0081; „fällig“ als Adjektiv: „verschuldigd“ heißt eher geschuldet, NL formuliert sonst mit Verb („vervalt“)
-nl-vt-0113; „de nevenafspraak“ nicht sicher gebräuchlich, oft Englisch „side letter“
-nl-vt-0122; Rücktritt vom Vertrag: „ontbinding“ ist der juristische Begriff, kein wörtliches Gegenstück
-nl-vt-0126; „opzegging met onmiddellijke ingang“ ist Umschreibung, „ontslag op staande voet“ nur bei Arbeitsverträgen
-nl-vt-0127; Umschreibung „het onderwerp van het contract“, kein festes Einzelwort
-nl-vt-0128; Umschreibung „de omvang van de dienstverlening“, im Alltag oft Englisch „scope“
-nl-vt-0132; Schlichtung erneut „de bemiddeling“, Abgrenzung zu Mediation (0100) unscharf
-nl-wa-0015; „zu Abend essen“: „dineren“ ist das Wörterbuchverb, klingt im Alltag aber etwas förmlich; Niederländer sagen meist einfach „eten“ oder „'s avonds eten“ (in Weitere Antworten), „avondeten“ ist als Verb nicht standardisiert
-nl-wa-0055; „am Mittag“: „tussen de middag“ meint die Mittagszeit/Mittagspause, „'s middags“ wäre schon Nachmittag; keine exakte feste Entsprechung
-nl-wa-0059; „übers Wochenende“: Niederländisch unterscheidet nicht fest von „am Wochenende“, „tijdens het weekend“ ist Umschreibung, „in het weekend“ (Weitere Antworten) deckt sich mit nl-wa-0057
-nl-wa-0108; „über Nacht“: „een nacht“ (laten staan) ist Umschreibung, keine feste Wendung; figurativ wäre „van de ene dag op de andere“
-nl-wa-0146; „Die Rechnung, bitte!“: wegen des Kommaverbots als „de rekening alstublieft“ ohne Komma geschrieben
-nl-wa-0177; „ein Schnäppchen machen“: „een koopje doen“ gebräuchlich, aber umgangssprachlicher ist „een koopje scoren“ (Weitere Antworten)
-nl-wa-0260; „sich einen Sonnenbrand holen“: „verbranden“ allein ist mehrdeutig (verbrennen), im Kontext Sonne aber die übliche Wendung
-nl-wf-0030; „Bargeld“ nur als „contant geld“ (mit Artikel „het contante geld“), kein Einwortäquivalent
-nl-wf-0050; „de waar“ im Singular selten, meist „goederen“
-nl-wf-0067; „Gebühr“ ohne eindeutiges Einzelwort („vergoeding“, „kosten“, „tarief“ je nach Kontext)
-nl-wf-0079; „rentevoet“ in den Niederlanden weniger üblich als „rentetarief“/„rentepercentage“
-nl-wf-0090; „waardepapier“ vs. „effect“ (meist im Plural „effecten“), Einzelwort unsicher
-nl-wf-0099; „btw“ ist eine Abkürzung, aber das gebräuchliche Wort; „omzetbelasting“ ist der amtliche Begriff
-nl-wf-0147; „Spekulationsblase“: kein festes Einzelwort, „speculatieve zeepbel“ als Umschreibung
-nl-wf-0149; „schuldenrem“ ist Lehnübersetzung aus der deutschen Debatte, kein niederländisches Institut
-nl-wi-0007; „forschen“ hat kein eigenes Verb, „onderzoek doen“ ist Umschreibung (Alternative „onderzoeken“ deckt sich mit 0015)
-nl-wi-0028; „Gutachten“ je nach Kontext „deskundigenrapport“, „deskundigenbericht“ (Gericht) oder „advies“, kein einzelnes festes Wort
-nl-wi-0029; „Versuchsreihe“ ohne festes Einzelwort, „reeks experimenten“ ist Umschreibung
-nl-wi-0030; „het fundamentele onderzoek“ mit Artikel ungewöhnlich, der Begriff heißt meist artikellos „fundamenteel onderzoek“
-nl-wi-0093; „het erfelijk materiaal“ ist eine Zweiwort-Entsprechung, Genom/DNA nur teilweise gleichwertig
-nl-wi-0098; „procent“ steht im Niederländischen fast immer ohne Artikel, „het procent“ ist korrekt, aber selten
-nl-wi-0105; Note „zwei“ im NL-Notensystem (1–10) nicht sinnvoll, Satz auf „een acht“ geändert, deutscher Satz angepasst
-nl-wi-0130; Genus von „placebo“ schwankt (de/het), Van Dale führt beide
-nl-wi-0146; „galaxie“ als Lehnwort weniger gebräuchlich, „sterrenstelsel“ ist das übliche Wort
-nl-ws-0054; „Abitur“ hat keine genaue Entsprechung, „eindexamen doen“ gilt für jede Schulform (vwo-eindexamen wäre die nächste Stufe)
-nl-ws-0056; „einen Hochschulabschluss machen“ als „afstuderen“ wiedergegeben (Verb statt Nominalwendung), Beispielsatz entsprechend umformuliert
-nl-ws-0060; „Auslandsjahr“ hat kein festes Wort, Umschreibung „een jaar naar het buitenland gaan“
-nl-ws-0069; „cv“ ist eine Abkürzung, aber das einzig gebräuchliche Wort (Langform „curriculum vitae“ sagt niemand)
-nl-ws-0081; „selbstständig sein“ als „voor zichzelf werken“, weil „zelfstandig zijn“ eher „unabhängig“ bedeutet
-nl-ws-0091; „Feierabend machen“ hat keine Entsprechung, Umschreibung „stoppen met werken“
-nl-ws-0098; „krankgeschrieben sein“ (ärztliche Krankschreibung) kennt NL so nicht, Umschreibung „ziek thuis zijn“
-nl-ws-0153; Standardanrede „Geachte heer/mevrouw“ hat Schrägstrich bzw. Komma, deshalb „geachte dames en heren“ (gebräuchlich, aber seltener)
-nl-ws-0162; feste Formel hat viele Varianten, „voor vragen kunt u altijd bij mij terecht“ ist eine davon (Umschreibung)
-nl-ws-0181; „Danke der Nachfrage“ hat keine feste Entsprechung, „fijn dat je het vraagt“ ist Umschreibung
-nl-ws-0245; „Ansichtssache“ hat keine feste Wendung, „daar verschillen de meningen over“ ist Umschreibung
-nl-wu-0041; „frieren“ (Person) hat kein einzelnes Verb, „het koud hebben“ ist eine Wendung; „vriezen“ wäre nur das Wetter
-nl-wu-0099; Genus von kooldioxide/koolstofdioxide schwankt (de/het)
-nl-wu-0101; „klimaatbescherming“ ist seltener als im Deutschen, oft „klimaatbeleid“
-nl-wu-0117; „Schadstoff“ nur als Umschreibung „schadelijke stof“
-nl-wu-0125; „entsorgen“ ohne festes Verb, „afvoeren“ (Abfall) bzw. „weggooien“/„inleveren“ je nach Kontext
-nl-wu-0134; „Artensterben“ nur als Umschreibung „het uitsterven van soorten“
-nl-wu-0138; „Starkregen“: „stortregen“ ist ein Wort, Meteorologen sagen eher „hevige regenval“/„extreme neerslag“
-nl-wu-0139; „Extremwetterereignis“ nur als Umschreibung „extreme weersgebeurtenis“
-nl-wu-0142; „Flächenverbrauch“: „ruimtebeslag“ ist Fachwort, nicht allgemein gebräuchlich
-nl-wu-0145; „Renaturierung“: „natuurherstel“ als nächstes gebräuchliches Wort, kein direktes Äquivalent
-nl-wu-0147; „koolstofput“ ist Fachwort, Gebräuchlichkeit unsicher
-nl-wu-0148; „broeikaspotentieel“ vs. offiziell „aardopwarmingsvermogen“, beides wenig gebräuchlich
-nl-xa-0010; „woongroep“ trifft WG nur ungefähr (eher bewusste Wohngemeinschaft), für Studenten sagt man „studentenhuis“ – kein eindeutiges niederländisches Wort
-nl-xa-0104; Innereien: kulinarisch „orgaanvlees“, anatomisch „ingewanden“ – Wahl nach Beispielsatz
-nl-xa-0125; würfeln (Gemüse): kein Einzelverb, Umschreibung „in blokjes snijden“
-nl-xa-0175; flicken: „verstellen“ ist das gängige Wort für Kleidung ausbessern, deckt „Loch flicken“ aber nicht genau
-nl-xa-0182; Lebensmittelgeschäft: „levensmiddelenwinkel“ korrekt, aber im Alltag sagt man eher „supermarkt“ oder „buurtsuper“
-nl-xa-0190; anstehen: keine Einwortentsprechung, Wendung „in de rij staan“ („aanschuiven“ ist flämisch)
-nl-xa-0195; vorrätig: feste Wendung „op voorraad“, Adjektiv „voorradig“ selten
-nl-xa-0196; Schaufensterbummel: kein Substantiv, Umschreibung „etalages kijken“
-nl-xa-0200; übergewichtig: Umschreibung „te zwaar“, Adjektiv („obees“) wäre zu stark, „met overgewicht“ kein Einzelwort
-nl-xa-0230; „de knipbeurt“ bezeichnet den Vorgang beim Friseur, nicht das Ergebnis; für den Haarschnitt als Frisur sagt man „het kapsel“ (in Weitere Antworten)
-nl-xa-0248; „enig kind“ wird prädikativ ohne Artikel gebraucht („ze is enig kind“); mit Artikel („het enige kind“) ändert sich die Bedeutung, daher ohne Artikel
-nl-xa-0251; „oma“ ohne Artikel wie mama/papa (Anrede bzw. Namensgebrauch), obwohl „de oma“ auch existiert
-nl-xa-0252; „opa“ ohne Artikel wie mama/papa (Anrede bzw. Namensgebrauch)
-nl-xa-0270; „de gastouder“ ist der offizielle niederländische Begriff, aber nicht geschlechtsspezifisch wie „Tagesmutter“
-nl-xa-0284; Niederländisch hat kein gebräuchliches Adjektiv für „verwitwet“ („verweduwd“ ist Wörterbuchwort, kaum gesprochen); Antwort ist das Substantiv „weduwe“ (passend zum Beispiel), für Männer „weduwnaar“
-nl-xa-0371; „het bloedmonster“ ist korrekt, aber im Alltag sagt man eher „bloed afnemen“/„bloedonderzoek“; Beispielsatz dadurch leicht formell
-nl-xa-0379; „de ambulancebroeder“ ist umgangssprachlich und etwas veraltet, aber das einzige kurze, allgemein verstandene Wort; offiziell „ambulanceverpleegkundige“
-nl-xa-0381; Der deutsche „Notarzt“ hat in den Niederlanden keine feste Entsprechung; „de spoedarts“ ist verständlich, aber kein fester Berufsbegriff
-nl-xa-0384; „de eerste hulp“ wird in den Niederlanden oft als Notaufnahme (SEH) verstanden; für Erste Hilfe als Fertigkeit ist „EHBO“ gebräuchlicher (in Weitere Antworten)
-nl-xa-0401; „receptplichtig“ steht im Van Dale, umgangssprachlich sagt man „alleen op recept (verkrijgbaar)“
-nl-xa-0416; Genus „het flosdraad“ üblich, „de flosdraad“ kommt auch vor
-nl-xa-0439; Brieftasche: „portefeuille“ ist exakt, umgangssprachlich sagt man meist „portemonnee“
-nl-xb-0002; „de klassenleraar“ ist Wörterbuchwort, in NL-Schulen sagt man meist „de mentor“ (Weitere Antwort)
-nl-xb-0008; kein festes Einzelwort: „de weg naar school“ als Umschreibung, „de schoolroute“ nur in Verkehrskontext
-nl-xb-0017; kein festes Substantiv: „werken in tweetallen“ (Umschreibung)
-nl-xb-0018; kein festes Substantiv: „zelfstandig werken“ ist der Schulbegriff (Umschreibung)
-nl-xb-0027; „de schooluitwisseling“ weniger gebräuchlich als bloß „de uitwisseling“
-nl-xb-0043; „de systeemkaart“ ist korrekt, aber Lernende sagen oft „flashcard“
-nl-xb-0044; „het vocabulaireschrift“ nicht sicher gebräuchlich, Alternativen schwach
-nl-xb-0067; Gesamtschule hat keine NL-Entsprechung, „de scholengemeenschap“ ist Näherung
-nl-xb-0069; Ganztagsschule hat keine NL-Entsprechung, „de brede school“ ist Näherung
-nl-xb-0077; „de studieplaats“ in NL wenig gebräuchlich (Konzept Studienplatz kaum vorhanden)
-nl-xb-0081; falscher Freund: NL „hogeschool“ = Fachhochschule, „Hochschule“ in NL sonst „universiteit“
-nl-xb-0162; „het lopend schrift“ eher fachsprachlich, Alltag: „aan elkaar schrijven“
-nl-xb-0165; Abschnitt: „de paragraaf“ vs. „het gedeelte“ je nach Kontext
-nl-xb-0167; Stichpunkt: keine eigene NL-Entsprechung, gleiche Antwort wie Stichwort („het steekwoord“)
-nl-xb-0172; „de beeldbeschrijving“ nicht sicher gebräuchlich
-nl-xb-0200; Erzieher: „de pedagogisch medewerker“ ist amtlich, Alltag „de leidster“, Kindergarten ≠ kinderdagverblijf
-nl-xb-0205; Lehrling: „de leerling“ mehrdeutig (auch Schüler)
-nl-xb-0217; Sachbearbeiter: keine feste NL-Entsprechung, „de administratief medewerker“ ist Näherung
-nl-xb-0229; Berufsberatung: kein festes Einzelwort, „loopbaanbegeleiding“ (Schulkontext) gewählt, Beispiel inhaltlich angepasst
-nl-xb-0230; Lehre: NL-System kennt die duale Lehre kaum, „vakopleiding“ als Umschreibung, „leertijd“/„leerbaan“ selten
-nl-xb-0308; Breitband: „breedband“ allein wenig gebräuchlich, meist „breedbandinternet“; Genus de
-nl-xb-0349; Mechanik: „mechanica“ (Wissenschaft) gewählt, Beispielsatz meint eher „het mechaniek“ (Uhrwerk)
-nl-xb-0397; Lokalzeitung: Umschreibung „de lokale krant“, kein festes Kompositum
-nl-xb-0414; Nachrichtensendung: „het journaal“ ist die gebräuchliche NL-Bezeichnung, nicht die wörtliche Übersetzung
-nl-xb-0419; Rundfunk: „de omroep“ nur ungefähr deckungsgleich, Beispielsatz inhaltlich an NL angepasst (keine Rundfunkgebühr)
-nl-xb-0434; besetzt (Telefon): üblicher ist die Wendung „in gesprek“, „bezet“ als Einwortantwort gewählt
-nl-xb-0440; Einschreiben: kein Einzelwort, „de aangetekende brief“ als Umschreibung
-nl-xc-0018; Leine: „de riem“ gewählt, „aan de lijn“ ist ebenso üblich
-nl-xc-0083; Tanne: „de spar“ ist botanisch korrekt, umgangssprachlich oft „dennenboom“ (eigentlich Kiefer)
-nl-xc-0093; Laub: kein eigenes Alltagswort, „de bladeren“ (Plural) statt des eher fachlichen „het loof“
-nl-xc-0130; Nationalpark: Flexion unsicher, „het nationaal park“ (fester Begriff) neben „het nationale park“
-nl-xc-0142; Arktis: „het noordpoolgebied“ als Umschreibung, „de Arctis“ ist selten
-nl-xc-0149; Himmelsrichtung: „de windstreek“ ist korrekt, umgangssprachlich sagt man oft „windrichting“
-nl-xc-0205; Heimatland: „het thuisland“ gewählt, „geboorteland“ und „vaderland“ je nach Kontext gleich üblich
-nl-xc-0207; Einheimischer: kein einzelnes Substantiv, Umschreibung „de plaatselijke bewoner“, umgangssprachlich „de local“
-nl-xc-0224; bedeckt: „bewolkt“ ist breiter (bewölkt), das genauere „betrokken“ ist seltener
-nl-xc-0229; Glatteis: „de ijzel“ bezeichnet eigentlich gefrierenden Regen, allgemeine Glätte ist „gladheid“
-nl-xc-0244; Schatten (Umriss) und Schatten (kühler Ort) sind beide de schaduw – keine Unterscheidung im Niederländischen
-nl-xc-0263; Hurrikan wie Orkan de orkaan (NL unterscheidet nicht), de hurricane nur als Alternative
-nl-xc-0272; Müllabfuhr: mehrere gebräuchliche Bezeichnungen (vuilnisophaaldienst, vuilnisdienst), keine klar dominant
-nl-xc-0273; Biomüll: gebräuchlichstes Wort ist die Abkürzung gft-afval, daher het organisch afval als Antwort
-nl-xc-0279; Mehrwegflasche: keine feste Entsprechung, Umschreibung de herbruikbare fles
-nl-xc-0289; Solaranlage: Plural de zonnepanelen gewählt, weil in NL üblich; zonne-installatie wörtlich, aber selten
-nl-xc-0305; umweltschädlich: milieuonvriendelijk gewählt, üblich ist auch die Umschreibung schadelijk voor het milieu
-nl-xc-0313; Hochhaus: de torenflat/het flatgebouw nicht völlig deckungsgleich (Wohnhochhaus)
-nl-xc-0323; Wahrzeichen: kein festes Wort, het symbool gewählt
-nl-xc-0373; Lenkrad und Lenker (0366) sind beide het stuur
-nl-xc-0392; Schlagloch: kein festes Einzelwort, de kuil (in de weg)
-nl-xc-0401; Rastplatz: rustplaats/verzorgingsplaats/parkeerplaats uneinheitlich
-nl-xc-0402; Abkürzung (Weg): Umschreibung de kortere weg
-nl-xc-0403; Arbeitsweg: het woon-werkverkeer nicht deckungsgleich (eher Pendelverkehr)
-nl-xc-0405; Fernbus: de langeafstandsbus korrekt, aber wenig gebräuchlich
-nl-xc-0409; Einzelfahrschein: het losse kaartje; het enkeltje bedeutet eher einfache Fahrt
-nl-xc-0410; Fahrpreis: de ritprijs vs. het tarief, kein eindeutiges Alltagswort
-nl-xc-0445; Reisewarnung: in NL üblich negatief reisadvies, de reiswaarschuwing seltener
-nl-xc-0453; Rettungsschwimmer: de strandwacht (Strand) vs. de badmeester (Schwimmbad)
-nl-xd-0035; „de top“ ist allein mehrdeutig (auch Bergspitze), gebräuchlicher als „topontmoeting“, aber als Einzelantwort unsicher
-nl-xd-0062; „Oberschicht“: „bovenlaag“, „hogere klasse“ und „elite“ konkurrieren, kein eindeutiges Standardwort
-nl-xd-0077; „Raub“: „roof“ ist der Rechtsbegriff, im Alltag sagt man eher „overval“ oder „beroving“
-nl-xd-0083; „Betrug“: „bedrog“ allgemein, strafrechtlich „oplichting“, Alltag oft „fraude“ – Hauptantwort unsicher
-nl-xd-0092; „Bewährung“: kein Substantiv gebräuchlich, Antwort ist das Adjektiv/Adverb „voorwaardelijk“ („zes maanden voorwaardelijk“)
-nl-xd-0122; „Pfarrer“: katholisch „pastoor“, protestantisch „dominee“ – Hauptantwort nach Konfession gewählt
-nl-xd-0150; „Konfirmation“: niederländisch-protestantisch „belijdenis (doen)“, lutherisch „confirmatie“, keine exakte Entsprechung
-nl-xd-0189; „Falschgeld“: üblich ist artikelloses „vals geld“, Form mit Artikel „het valse geld“ wirkt konstruiert
-nl-xd-0200; „Überziehungskredit“: kein festes Einzelwort, „roodstand“ bezeichnet den Negativsaldo, sonst „rood staan“ (Verbwendung)
-nl-xd-0284; Sachbuch: „het non-fictieboek“ ist gebräuchlich, aber kein fest etabliertes Einzelwort; Alternative „het informatieve boek“ ist Umschreibung
-nl-xd-0370; Geometrie: Artikel unsicher – als Schulfach eher „meetkunde“ ohne Artikel, als Teilgebiet „de meetkunde“
-nl-xd-0374; Außerirdischer: kein festes Einzelwort, „het buitenaardse wezen“ ist Umschreibung; „de alien“ umgangssprachlich sehr üblich
-nl-xd-0392; Bergsteigen: „bergbeklimmen“ als substantivierter Sportname ohne Artikel gewählt, Artikelgebrauch schwankt
-nl-xd-0411; Siegerehrung: keine feste Entsprechung – „de prijsuitreiking“ oder „de huldiging“ je nach Kontext, „medaille-uitreiking“ eher beschreibend
-nl-xd-0416; Profi: „de prof“ ist im Sportjargon üblich, aber eher informell; „de professional“ allgemeiner
-nl-xe-0015; „schaffen (bewältigen)“ hat kein festes Einzelverb, „redden“ (dat red je wel) ist Umschreibung, Bedeutung sonst „retten“
-nl-xe-0060; „erwischen“ (Bus) nur als Wendung „te pakken krijgen“, für Bus wäre „halen“ natürlicher
-nl-xe-0070; „erzeugen“ nach Beispielsatz als „veroorzaken“ übersetzt, Grundbedeutung eher „opwekken, produceren“
-nl-xe-0169; „falls“ hat kein eigenes Wort, „als“ deckt auch „wenn“ ab
-nl-xe-0173; „entweder“ als „ofwel“ – „of … of“ ist gebräuchlicher, aber nicht allein sagbar
-nl-xe-0184; „irgendwie“ nur als Mehrwortphrase „op een of andere manier“
-nl-xe-0194; „gegenseitig“ als Adjektiv „wederzijds“, adverbial sagt man „elkaar“
-nl-xe-0197; „indem“ hat keine Entsprechung, nur Konstruktion „door … te“
-nl-xe-0201; „jedenfalls“ nur als Mehrwortphrase „in ieder geval“
-nl-xe-0207; „keinesfalls“ als Mehrwortphrase „in geen geval“, Einzelwort „geenszins“ ist schriftsprachlich
-nl-xe-0214; „Uhrzeit“ hat kein eigenes Wort, „de tijd“ deckt auch „Zeit“ ab
-nl-xe-0218; „Vormittag“ hat in den Niederlanden kein eigenes Wort („voormiddag“ eher flämisch), „de ochtend“ deckt auch „Morgen“ ab
-nl-xe-0225; „mittags“ als „’s middags“, das im Niederländischen auch „nachmittags“ heißt
-nl-xe-0226; „nachmittags“ ebenfalls „’s middags“, identisch mit nl-xe-0225
-nl-xe-0228; „nochmal“ als Mehrwortphrase „nog een keer“, Einzelwort „nogmaals“ ist förmlicher
-nl-xe-0230; „Weile“ nur als „een tijdje“ gebräuchlich, Form mit Artikel „het tijdje“ ist ungewöhnlich
-nl-xe-0237; „zuletzt“ als „het laatst“, Einzelwort „laatst“ heißt „neulich“
-nl-xe-0240; „rechtzeitig“ als „op tijd“, Einzelwort „tijdig“ ist förmlicher
-nl-xe-0256; stets: „altijd“ ist das normale Wort, „steeds“ nur als Zweitantwort (heute meist „immer wieder/zunehmend“)
-nl-xe-0259; dauerhaft: „blijvend“ gewählt, „duurzaam“ ist bei „oplossing“ ebenso üblich, hat aber die Nebenbedeutung „nachhaltig“
-nl-xe-0260; kurzfristig: kein Einzelwort, Umschreibung „op korte termijn“ (Beispielsinn „kurzfristig abgesagt“ eher „op het laatste moment“)
-nl-xe-0261; langfristig: kein Einzelwort, Umschreibung „op lange termijn“
-nl-xe-0270; vorne: „vooraan“ vs. „voorin“ (im Bus) kontextabhängig
-nl-xe-0271; hinten: „achteraan“ vs. „achterin“ kontextabhängig
-nl-xe-0288; entfernt: „verwijderd“ ist etwas formell, natürlicher wären „verderop“/„hiervandaan“ je nach Satz
-nl-xe-0289; außen: „vanbuiten“ gewählt, um es von „buiten“ (draußen/außerhalb) abzuheben
-nl-xe-0317; jenseits: „voorbij“ ist Näherung, feste Entsprechung ist die Umschreibung „aan de andere kant van“
-nl-xe-0333; Drittel: „een derde“ ohne bestimmten Artikel, da „het derde“ allein ungebräuchlich ist
-nl-xe-0344; mehrmals: Umschreibung „meerdere keren“, Einzelwort „meermaals“ eher flämisch
-nl-xe-0349; gesamt: „geheel“ formell, Alltagssprache „heel“ (de hele klas)
-nl-xe-0366; sich unterhalten: Umschreibung „met elkaar praten“, kein festes reflexives Verb im Alltagsniederländischen
-nl-xe-0376; missverstehen: Umschreibung „verkeerd begrijpen“, „misverstaan“ seltener
-nl-xe-0384; schimpfen: „schelden“ ist stärker (beschimpfen), „mopperen“ schwächer – keine exakte Entsprechung
-nl-xe-0389; Ahnung: „het idee“ passt nur in „geen idee“, „het benul“ nur negativ
-nl-xe-0416; berücksichtigen: feste Wendung „rekening houden met“, kein Einzelwort
-nl-xe-0423; gut gelaunt: Wendung „in een goede bui“, Einzelwort „goedgehumeurd“ weniger gebräuchlich
-nl-xe-0424; schlecht gelaunt: Wendung „in een slechte bui“
-nl-xe-0428; sich wohlfühlen: Umschreibung „zich op zijn gemak voelen“
-nl-xe-0429; erschrecken (transitiv): „laten schrikken“ ist Umschreibung, intransitiv wäre „schrikken“
-nl-xe-0472; gesellig: „gezellig“ bedeutet bei Personen auch „angenehm in Gesellschaft“, Bedeutungsüberlappung nicht exakt
-nl-xf-0009; geschehen: Antwort „gebeuren“ gleich wie passieren (0008), „geschieden“ ist förmlich und nur als weitere Antwort
-nl-xf-0011; stürzen: Niederländisch hat kein eigenes Alltagsverb, „vallen“ gleich wie fallen (0010)
-nl-xf-0023; blicken: „kijken“ ist Alltagswort, „blikken“ ist gehoben
-nl-xf-0028; stoppen: Antwort „stoppen“ gleich wie anhalten (0027)
-nl-xf-0033; reduzieren: Beispielsatz geändert, weil „prijzen verminderen“ unidiomatisch ist (verlagen)
-nl-xf-0050; betreiben: „runnen“ ist englisches Lehnwort, aber im Groene Boekje und umgangssprachlich üblich
-nl-xf-0056; aushelfen: kein festes Verb, „meehelpen“ als nächste Entsprechung
-nl-xf-0067; sich auswirken: nicht reflexiv übersetzbar, „beïnvloeden“ (transitiv) als kürzeste Entsprechung
-nl-xf-0077; Begründung: „onderbouwing“ gewählt, „motivering“ und „verantwoording“ ebenfalls üblich
-nl-xf-0084; Absprache: „afspraak“ ist zugleich Termin/Verabredung, Beispielsatz abgewandelt („in overleg“ wäre idiomatischer, aber kein Substantiv der Zeile)
-nl-xf-0111; eingeschaltet: Umgangssprache sagt „aan“, „ingeschakeld“ ist das Partizip-Adjektiv
-nl-xf-0117; tollpatschig: Antwort „onhandig“ gleich wie ungeschickt (0116), „klungelig“ seltener
-nl-xf-0124; prahlen: Antwort „opscheppen“ gleich wie angeben (0123), „pochen“ seltener
-nl-xf-0141; daher: Antwort „daarom“ gleich wie deshalb (0140)
-nl-xf-0154; hinterher: „naderhand“ gewählt, „daarna“ ist häufiger, aber identisch mit dann/danach
-nl-xf-0169; hinauf: „omhoog“ gewählt, um sich von nach oben (0170, „naar boven“) zu unterscheiden
-nl-xf-0189; Sache: Beispielsatz geändert, „iets belangrijks“ wäre die natürliche Übersetzung ohne das Substantiv
-nl-xf-0194; Wandel: Antwort „de verandering“ gleich wie Veränderung (0193), kein eigenes Alltagswort
-nl-xf-0199; Durcheinander: „rommel“ (Unordnung) oder „chaos“, je nach Kontext
-nl-xf-0218; Bedürfnis und Bedarf (0217) ergeben beide „de behoefte“ – im Niederländischen nicht zu trennen
-nl-xf-0237; Absage hat zwei Bedeutungen (Stornierung/Ablehnung), „de afzegging“ ist weniger gebräuchlich als „annulering“ bzw. „afwijzing“
-nl-xf-0258; Heimat hat kein direktes Pendant, „het thuisland“ ist Umschreibung (auch vaderland/geboorteland)
-nl-xf-0267; Einblick und Einsicht fallen beide auf „het inzicht“ – oft eher „een kijkje in“
-nl-xf-0269; Gefallen: „de gunst“ ist förmlich, umgangssprachlich sagt man „iemand een plezier doen“
-nl-xf-0300; Großstadt nur als Wortgruppe „de grote stad“ (grootstad ist flämisch)
-nl-xf-0307; Wertsachen nur als Wortgruppe „de waardevolle spullen“ (Alternative kostbaarheden)
-nl-xf-0317; Gliederung eines Aufsatzes: indeling/opzet/opbouw – kein eindeutiges Wort
-nl-xf-0329; Altenpfleger: Berufsbezeichnung in NL meist „verzorgende (IG)“, bejaardenverzorger ist verständlich, aber älter
-nl-xf-0337; Vogelbeobachtung nur als Wortgruppe „vogels kijken“ (informell „vogelen“)
-nl-xf-0339; Karaoke: Artikelgebrauch unsicher (meist ohne Artikel wie Spielname)
-nl-xf-0379; Notwehr: juristisch „noodweer“, umgangssprachlich „zelfverdediging“ – Reihenfolge unsicher
-nl-xf-0388; Wehrdienst: „militaire dienst“ (Wortgruppe), dienstplicht entspricht eher Wehrpflicht
-nl-xf-0389; staatlich: kein alleinstehendes Adjektiv, „van de staat“ ist Umschreibung (openbaar = öffentlich)
+# Paket N-nl: Zeilen, die auch nach der gezielten Zweitprüfung (26. 11. 2026) nur Behelfslösungen sind –
+# kein gängiges niederländisches Einzelwort, Fachbegriff ohne Entsprechung. Vor Veröffentlichung von jemandem mit
+# Niederländisch als Muttersprache gegenlesen lassen.
+id; Begründung
+nl-ab-0089; Feierabend ohne Entsprechung, Umschreibung
+nl-ab-0103; Mutterschutz nicht deckungsgleich mit zwangerschapsverlof
+nl-ab-0104; NL kennt keine ärztliche Krankschreibung
+nl-ab-0123; Gleitzeit nur als Wortgruppe flexibele werktijden
+nl-ab-0126; Fachkräftemangel nur als Umschreibung
+nl-ab-0128; Abmahnung kein Rechtsbegriff in NL
+nl-ab-0132; Arbeitszeitkonto nur angenähert
+nl-ab-0138; Erwerbstätigkeit nur teilweise gedeckt
+nl-ab-0143; Stellenabbau nur als Umschreibung
+nl-ab-0148; Tarifautonomie kein Begriff in NL, freie Umschreibung
+nl-al-0020; Altbau ohne festes Wort, het oude pand ist Umschreibung
+nl-al-0145; Feierabend ohne Entsprechung, Umschreibung
+nl-al-0146; Morgenmuffel nur als geen ochtendmens
+nl-ap-0014; stoeltoewijzing verständlich, aber kein festes Alltagswort
+nl-ap-0015; Fensterplatz nur als Umschreibung plaats bij het raam
+nl-ap-0016; Gangplatz nur als Umschreibung plaats aan het gangpad
+nl-ap-0017; Notausgangsreihe nur als Umschreibung
+nl-ap-0021; stand-bypassagier selten
+nl-ap-0026; Abfertigungsschluss nur als Umschreibung
+nl-ap-0034; vrije bagage Behelf, Fachwort bagagevrijdom
+nl-ap-0036; toeslag voor overbagage ist Umschreibung
+nl-ap-0041; buitenmaatse bagage ist Umschreibung
+nl-ap-0042; bagageservice bezeichnet die Stelle nur ungefähr
+nl-ap-0043; Umschreibung, Fachwort PIR
+nl-ap-0067; explosievencontrole ist Behelf
+nl-ap-0071; instapkaartcontrole ist Ad-hoc-Kompositum
+nl-ap-0073; luchtzijde selten, Jargon airside
+nl-ap-0074; landzijde selten, Jargon landside
+nl-ap-0085; inreis amtlich, kein Alltagswort
+nl-ap-0087; Einreisekarte in NL nicht gebräuchlich
+nl-ap-0091; Umschreibung aan te geven goederen
+nl-ap-0096; Umschreibung weigering van toegang
+nl-ap-0103; Umschreibung, man sagt de gate sluit
+nl-ap-0106; Umschreibung instappen in groepen
+nl-ap-0109; buitenpositie als Fachjargon unsicher
+nl-ap-0113; Umschreibung, Fachwort kaum verbreitet
+nl-ap-0133; begeleidingsservice ist Ad-hoc-Kompositum
+nl-ap-0173; Umschreibung operationeel controlecentrum
+nl-ap-0194; uitwijking Luftfahrtjargon, meist Verb uitwijken
+nl-ba-0006; werkomschrijving Annäherung, kein fester Begriff
+nl-ba-0008; Pflichtenheft ohne feste Entsprechung
+nl-ba-0015; Umschreibung vragen van inschrijvers
+nl-ba-0043; Umschreibung opening van de offertes
+nl-ba-0064; selectiefase nur Näherung
+nl-ba-0071; Verfahren in NL meist kort geding, Umschreibung
+nl-ba-0074; Institution existiert in NL nicht
+nl-ba-0133; Plural leveringsproblemen statt Einzelwort
+nl-bb-0141; Umschreibung noodzaak tot actie
+nl-bb-0146; Umschreibung bevoegde rechtbank
+nl-bb-0150; nur in der Wendung met wederzijds goedvinden üblich
+nl-eg-0116; kein eigenes Adjektiv, Umschreibung te duur
+nl-eg-0120; kein Adjektiv für fällig, NL nutzt das Verb vervallen
+nl-et-0124; Umschreibung licht verteerbaar
+nl-fb-0070; Zweisamkeit ohne gängiges Einzelwort, samenzijn ist Annäherung (tweezaamheid selten)
+nl-fh-0124; Feierabend ohne Substantiv, gesprochen na het werk
+nl-fh-0126; Muße ohne genaue Entsprechung, rust ist Annäherung
+nl-fh-0128; Stammtisch ist kein niederländischer Brauch, stamtafel selten
+nl-fh-0137; schmökern ohne Einzelverb, snuffelen ist eher stöbern
+nl-fh-0141; ausklingen ohne festes Verb, Umschreibung
+nl-gw-0899; auf den Punkt bringen nur über ter zake komen angenähert
+nl-gw-0954; Ermessen nur über ter beoordeling van
+nl-gw-0961; Zumutung ohne Einzelwort, Umschreibung
+nl-gw-0977; aushebeln nur Umschreibung
+nl-gw-1047; Stellenwert nur über een plaats innemen
+nl-gw-1083; sich erschleichen nur Umschreibung
+nl-gw-1162; Unding ohne Einzelwort, absurditeit ist Annäherung
+nl-gw-1167; Anspruchsdenken ohne festen Begriff
+nl-gw-1176; Überdruss ohne genaues Einzelwort, afkeer ist Annäherung
+nl-ke-0345; Haupt- ist nur ein Präfix
+nl-kg-0119; Vorsorgeuntersuchung ohne festes Einzelwort
+nl-kg-0136; Bänderriss alltagssprachlich nur gescheurde enkelbanden
+nl-kg-0138; Immunschwäche nur Fachwort oder Umschreibung
+nl-kk-0077; Autorenlesung ohne eigenes Wort, lezing ist allgemein Vortrag
+nl-km-0130; Webart ohne gängiges Einzelwort, Fachwort binding
+nl-mk-0130; Hassrede in den Niederlanden meist hate speech oder haatzaaiende uitlatingen, haatspraak eher flämisch
+nl-mk-0144; Deutungshoheit ohne niederländische Entsprechung
+nl-mk-0149; Pressekodex ohne festen Begriff (Leidraad van de Raad voor de Journalistiek)
+nl-mk-0150; Gegendarstellung als Rechtsbegriff fehlt, weerwoord ist allgemein
+nl-mv-0114; reclame-effect kein fester Fachbegriff
+nl-mv-0123; Fachsprache uneinheitlich
+nl-mv-0126; aanbevelingspercentage ist Umschreibung
+nl-mv-0147; marktsanering wenig gebräuchlich
+nl-nt-0150; Artensterben nur Umschreibung
+nl-pg-0134; Gemeinnützigkeit nur als Umschreibung „algemeen nut“, Fachbegriff „ANBI-status“ steuerrechtlich
+nl-pg-0149; Daseinsvorsorge ohne niederländisches Gegenstück, „basisvoorzieningen“ Behelf
+nl-pm-0067; mijlpalenplanning ist Umschreibung
+nl-pm-0115; Pflichtenheft ohne feste Entsprechung
+nl-pm-0124; capaciteitstekort ist Umschreibung
+nl-pm-0149; plan-realisatievergelijking ist Umschreibung
+nl-pw-0027; duales System ohne Gegenstück
+nl-pw-0086; doelrealisatie Fachwort, meist umschrieben
+nl-pw-0104; Umschreibung recht op vakantie
+nl-pw-0108; Mutterschutz ohne Gegenstück
+nl-pw-0131; Umschreibung officiële waarschuwing
+nl-rc-0110; Gewerbesteuer existiert in NL nicht
+nl-rc-0124; standaardkostprijsberekening ist Umschreibung
+nl-rc-0142; minimumwaarderingsregel kaum belegt, in NL spricht man von kostprijs of lagere marktwaarde
+nl-ri-0019; nah am Wasser gebaut ohne feste Wendung, Umschreibung
+nl-ru-0126; Fernweh ohne Einzelwort, „reiskriebels“ nächstbeste
+nl-ru-0144; Sommerfrische ohne Gegenstück, „zomerverblijf“ Umschreibung
+nl-sb-0064; Abitur ohne Gegenstück, „eindexamen“ gilt für jede Schulform
+nl-sb-0130; Hochschulreife ohne Gegenstück, „vwo-diploma“ funktional
+nl-sb-0131; Habilitation gibt es in den Niederlanden nicht
+nl-sb-0136; Begabtenförderung ohne festes Wort
+nl-sb-0144; Bildungsbürgertum ohne niederländisches Wort
+nl-tc-0138; Ausfallsicherheit nur als Fachwort „fouttolerantie“
+nl-tc-0147; Datenhoheit nur als seltenes Fachwort
+nl-vh-0121; Umschreibung onderwerp van de onderhandeling
+nl-vh-0127; Umschreibung afbreken van de onderhandelingen
+nl-vh-0129; Schlichtung und Vermittlung im Niederländischen nicht getrennt
+nl-vh-0140; keine feste niederländische Redewendung
+nl-vm-0113; Nahverkehr nur als Umschreibung
+nl-vm-0114; Fernverkehr ohne festen Begriff
+nl-vm-0120; Fahrzeugzulassung, „kentekenregistratie“ nur ungefähr
+nl-vm-0126; Verkehrswende nur als Fachjargon
+nl-vm-0144; Verkehrsverlagerung nur als Anglizismus „modal shift“
+nl-vm-0146; Betriebserlaubnis deckt sich nur teilweise mit „typegoedkeuring“
+nl-vm-0148; Verkehrssicherungspflicht juristischer Begriff ohne Entsprechung
+nl-vm-0149; Taktverkehr nur als Umschreibung
+nl-vm-0150; Verkehrsträger nur als Fachwort
+nl-vt-0081; kein Adjektiv für fällig, NL nutzt das Verb vervallen
+nl-vt-0127; Umschreibung onderwerp van het contract
+nl-wf-0149; Schuldenbremse ist Lehnübersetzung ohne niederländisches Institut
+nl-wu-0148; Treibhauspotenzial nur als wenig gebräuchliches Fachwort
+nl-xa-0010; WG ohne eindeutiges Wort (woongroep oder studentenhuis)
+nl-xa-0125; würfeln nur als in blokjes snijden
+nl-xa-0284; kein gesprochenes Adjektiv für verwitwet
+nl-xa-0381; Notarzt-System gibt es in NL nicht, trauma-arts ist Näherung
+nl-xb-0008; Schulweg nur als Umschreibung
+nl-xb-0017; Partnerarbeit nur als Wendung
+nl-xb-0067; Gesamtschule ohne Entsprechung im NL-Schulsystem
+nl-xb-0069; Ganztagsschule ohne Entsprechung, brede school nur Näherung
+nl-xb-0172; Bildbeschreibung kein fester Schulbegriff
+nl-xb-0205; Lehrling mehrdeutig mit Schüler
+nl-xb-0217; Sachbearbeiter ohne feste Entsprechung
+nl-xb-0230; duale Lehre in NL kaum bekannt, vakopleiding ist Umschreibung
+nl-xc-0207; Einheimischer nur als Umschreibung oder Anglizismus local
+nl-xc-0323; Wahrzeichen ohne festes Wort
+nl-xc-0403; Arbeitsweg nur als Umschreibung
+nl-xd-0092; Bewährung nur als voorwaardelijk
+nl-xd-0150; Konfirmation nicht deckungsgleich mit belijdenis
+nl-xd-0200; Überziehungskredit nur als roodstaan
+nl-xf-0258; Heimat ohne direktes Pendant
+nl-xf-0389; staatlich nur als van de staat

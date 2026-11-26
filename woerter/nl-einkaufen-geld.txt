@@ -27,7 +27,7 @@ nl-eg-0024; einkaufen; boodschappen doen; winkelen; A1; Alltag/Einkaufen/Geschä
 nl-eg-0025; Cent; de cent; ; A1; Alltag/Einkaufen/Geld; De appel kost negentig cent.; Der Apfel kostet neunzig Cent.
 nl-eg-0026; Wechselgeld; het wisselgeld; ; A2; Alltag/Einkaufen/Bezahlen; Hier is uw wisselgeld van drie euro.; Hier ist Ihr Wechselgeld von drei Euro.
 nl-eg-0027; Kreditkarte; de creditcard; ; A2; Alltag/Einkaufen/Bezahlen; Ik heb het hotel met mijn creditcard betaald.; Ich habe das Hotel mit Kreditkarte bezahlt.
-nl-eg-0028; Bargeld; het contante geld; contant geld; A2; Alltag/Einkaufen/Bezahlen; Deze kleine winkel accepteert alleen contant geld.; Dieses kleine Geschäft nimmt nur Bargeld.
+nl-eg-0028; Bargeld; de contanten; het contante geld, de cash; A2; Alltag/Einkaufen/Bezahlen; Deze kleine winkel accepteert alleen contanten.; Dieses kleine Geschäft nimmt nur Bargeld.
 nl-eg-0029; Geldautomat; de geldautomaat; de pinautomaat; A2; Alltag/Einkaufen/Geld, Reisen/Urlaub/Unterwegs; Is er een geldautomaat in de buurt van het station?; Gibt es einen Geldautomaten in der Nähe des Bahnhofs?
 nl-eg-0030; Bank (Geldinstitut); de bank; ; A2; Alltag/Einkaufen/Geld; De bank sluit om vier uur 's middags.; Die Bank schließt um vier Uhr nachmittags.
 nl-eg-0031; Konto; de rekening; de bankrekening; A2; Alltag/Einkaufen/Geld; Ik heb een rekening geopend bij de plaatselijke bank.; Ich habe ein Konto bei der örtlichen Bank eröffnet.
@@ -38,7 +38,7 @@ nl-eg-0035; Angebot; de aanbieding; het aanbod, de offerte; A2; Alltag/Einkaufen
 nl-eg-0036; Rabatt; de korting; ; A2; Alltag/Einkaufen/Angebote; Studenten krijgen hier tien procent korting.; Studenten bekommen hier zehn Prozent Rabatt.
 nl-eg-0037; Sonderangebot; de speciale aanbieding; de actie; A2; Alltag/Einkaufen/Angebote; De jas was echt een speciale aanbieding.; Die Jacke war ein echtes Sonderangebot.
 nl-eg-0038; Schaufenster; de etalage; ; A2; Alltag/Einkaufen/Geschäfte; Ik heb de jurk in de etalage gezien.; Ich habe das Kleid im Schaufenster gesehen.
-nl-eg-0039; Regal; het rek; het schap, de plank; A2; Alltag/Einkaufen/Geschäfte; De rijst staat op het onderste rek.; Der Reis steht im Regal neben dem Kühlschrank.
+nl-eg-0039; Regal; het schap; het rek, de plank; A2; Alltag/Einkaufen/Geschäfte; De rijst staat in het schap naast de pasta.; Der Reis steht im Regal neben den Nudeln.
 nl-eg-0040; Einkaufswagen; het winkelwagentje; de winkelwagen, het boodschappenkarretje; A2; Alltag/Einkaufen/Geschäfte; Je hebt een muntje nodig voor het winkelwagentje.; Man braucht eine Münze für den Einkaufswagen.
 nl-eg-0041; Einkaufszentrum; het winkelcentrum; ; A2; Alltag/Einkaufen/Geschäfte; Het nieuwe winkelcentrum heeft tachtig winkels.; Das neue Einkaufszentrum hat achtzig Geschäfte.
 nl-eg-0042; Metzgerei; de slagerij; de slager; A2; Alltag/Einkaufen/Geschäfte; Ik haal onze worst bij de slagerij.; Ich hole unsere Würste aus der Metzgerei.
@@ -64,7 +64,7 @@ nl-eg-0061; Lieferung; de levering; de bezorging; B1; Alltag/Einkaufen/Online-Sh
 nl-eg-0062; Versand; de verzending; ; B1; Alltag/Einkaufen/Online-Shopping; De verzending is vanaf veertig euro gratis.; Der Versand ist ab vierzig Euro gratis.
 nl-eg-0063; Versandkosten; de verzendkosten; ; B1; Alltag/Einkaufen/Online-Shopping; De verzendkosten waren hoger dan het boek zelf.; Die Versandkosten waren höher als das Buch selbst.
 nl-eg-0064; Warenkorb; de winkelwagen; het winkelwagentje, het winkelmandje; B1; Alltag/Einkaufen/Online-Shopping; Leg de schoenen eerst in je winkelwagen.; Lege die Schuhe zuerst in deinen Warenkorb.
-nl-eg-0065; Kundenkonto; het klantaccount; het klantenaccount; B1; Alltag/Einkaufen/Online-Shopping; Maak een klantaccount aan om je bestellingen te volgen.; Erstelle ein Kundenkonto um deine Bestellungen zu verfolgen.
+nl-eg-0065; Kundenkonto; het klantaccount; het klantenaccount, het account; B1; Alltag/Einkaufen/Online-Shopping; Maak een klantaccount aan om je bestellingen te volgen.; Erstelle ein Kundenkonto um deine Bestellungen zu verfolgen.
 nl-eg-0066; Bewertung (von Kunden); de beoordeling; de recensie, de review; B1; Alltag/Einkaufen/Online-Shopping; Lees elke beoordeling voordat je dure elektronica koopt.; Lies jede Bewertung bevor du teure Elektronik kaufst.
 nl-eg-0067; Händler; de handelaar; de winkelier; B1; Alltag/Einkaufen/Geschäfte; De handelaar bood twee jaar garantie aan.; Der Händler bot zwei Jahre Garantie an.
 nl-eg-0068; Ware; de waar; de koopwaar, de goederen; B1; Alltag/Einkaufen/Geschäfte; De waar komt elke ochtend in de winkel aan.; Die Ware kommt jeden Morgen im Laden an.
@@ -80,7 +80,7 @@ nl-eg-0077; Kundenkarte; de klantenkaart; de klantenpas, de spaarkaart; B1; Allt
 nl-eg-0078; Schnäppchen; het koopje; het buitenkansje; B1; Alltag/Einkaufen/Angebote; Deze leren jas was een echt koopje.; Diese Lederjacke war ein echtes Schnäppchen.
 nl-eg-0079; Reklamation; de klacht; de reclamatie; B1; Alltag/Einkaufen/Reklamation; De winkel handelde mijn klacht heel snel af.; Das Geschäft bearbeitete meine Reklamation sehr schnell.
 nl-eg-0080; sich beschweren; klagen; zich beklagen, een klacht indienen; B1; Alltag/Einkaufen/Reklamation; Ik wil klagen over deze kapotte broodrooster.; Ich möchte mich über diesen kaputten Toaster beschweren.
-nl-eg-0081; Umtausch; de ruil; het omruilen; B1; Alltag/Einkaufen/Reklamation; Ruilen is binnen veertien dagen mogelijk.; Ein Umtausch ist innerhalb von vierzehn Tagen möglich.
+nl-eg-0081; Umtausch; het ruilen; het omruilen, de ruil; B1; Alltag/Einkaufen/Reklamation; Het ruilen van kleding kan binnen veertien dagen.; Der Umtausch von Kleidung ist innerhalb von vierzehn Tagen möglich.
 nl-eg-0082; Rückerstattung; de terugbetaling; de restitutie; B1; Alltag/Einkaufen/Reklamation; Ik heb een volledige terugbetaling geëist.; Ich habe eine vollständige Rückerstattung verlangt.
 nl-eg-0083; Garantie; de garantie; ; B1; Alltag/Einkaufen/Reklamation; De laptop heeft twee jaar garantie.; Der Laptop hat zwei Jahre Garantie.
 nl-eg-0084; Kassenbon; de kassabon; het bonnetje, de bon; B1; Alltag/Einkaufen/Bezahlen; Bewaar de kassabon voor een eventuele retour.; Heb den Kassenbon für eine mögliche Rückgabe auf.
@@ -139,7 +139,7 @@ nl-eg-0136; Gewährleistung; de wettelijke garantie; de garantie; C1; Alltag/Ein
 nl-eg-0137; Mängelrüge; de klachtbrief; de klacht over gebreken; C1; Alltag/Einkaufen/Reklamation; Onze advocaat stuurde een formele klachtbrief over de gebreken.; Unser Anwalt schickte eine formelle Mängelrüge.
 nl-eg-0138; erstatten; terugbetalen; vergoeden; C1; Alltag/Einkaufen/Reklamation; De winkel beloofde de volledige aankoopprijs terug te betalen.; Das Geschäft versprach den vollen Kaufpreis zu erstatten.
 nl-eg-0139; Bonität; de kredietwaardigheid; ; C1; Alltag/Einkaufen/Geld; De bank controleert voor een lening je kredietwaardigheid.; Die Bank prüft vor einem Kredit deine Bonität.
-nl-eg-0140; Inkasso; de incasso; het incasso; C1; Alltag/Einkaufen/Geld; De onbetaalde rekening ging naar een incassobureau.; Die unbezahlte Rechnung ging an ein Inkassobüro.
+nl-eg-0140; Inkasso; de incasso; het incasso; C1; Alltag/Einkaufen/Geld; De onbetaalde rekening werd uit handen gegeven voor incasso.; Die unbezahlte Rechnung wurde dem Inkasso übergeben.
 nl-eg-0141; Verbraucherschutz; de consumentenbescherming; ; C1; Alltag/Einkaufen/Reklamation; De consumentenbescherming dekt de meeste online aankopen.; Der Verbraucherschutz deckt die meisten Online-Käufe ab.
 nl-eg-0142; Zahlungsdienstleister; de betaaldienstverlener; de betalingsdienstverlener; C1; Alltag/Einkaufen/Online-Shopping; De webshop werkt samen met een bekende betaaldienstverlener.; Der Shop arbeitet mit einem bekannten Zahlungsdienstleister zusammen.
 nl-eg-0143; Abzocke; de afzetterij; de oplichting; C1; Alltag/Einkaufen/Preise; Twaalf euro voor een koffie is pure afzetterij.; Zwölf Euro für einen Kaffee sind reine Abzocke.

@@ -15,7 +15,7 @@ nl-fb-0012; Baby; de baby; ; A1; Alltag/Familie/Verwandtschaft; De baby slaapt i
 nl-fb-0013; Onkel; de oom; ; A1; Alltag/Familie/Verwandtschaft; Mijn oom woont met zijn gezin in Canada.; Mein Onkel lebt mit seiner Familie in Kanada.
 nl-fb-0014; Tante; de tante; ; A1; Alltag/Familie/Verwandtschaft; Mijn tante bezoekt ons elke kerst.; Meine Tante besucht uns jedes Weihnachten.
 nl-fb-0015; Großeltern; de grootouders; ; A1; Alltag/Familie/Verwandtschaft; De kinderen brengen de zomer door bij hun grootouders.; Die Kinder verbringen den Sommer bei den Großeltern.
-nl-fb-0016; Geschwister; de broers en zussen; ; A2; Alltag/Familie/Verwandtschaft; Zij heeft drie broers en zussen en houdt van hen allemaal.; Sie hat drei Geschwister und liebt sie alle.
+nl-fb-0016; Geschwister; de broers en zussen; de broers en zusters; A2; Alltag/Familie/Verwandtschaft; Zij heeft drie broers en zussen en houdt van hen allemaal.; Sie hat drei Geschwister und liebt sie alle.
 nl-fb-0017; Ehemann; de echtgenoot; de man; A2; Alltag/Familie/Verwandtschaft; Haar echtgenoot kookt elke avond het avondeten.; Ihr Ehemann kocht jeden Abend das Abendessen.
 nl-fb-0018; Ehefrau; de echtgenote; de vrouw; A2; Alltag/Familie/Verwandtschaft; Hij heeft zijn echtgenote op de universiteit leren kennen.; Er hat seine Ehefrau an der Universität kennengelernt.
 nl-fb-0019; Enkel; de kleinzoon; het kleinkind; A2; Alltag/Familie/Verwandtschaft; Haar kleinzoon bezoekt haar elk weekend.; Ihr Enkel besucht sie jedes Wochenende.
@@ -112,9 +112,9 @@ nl-fb-0109; Beerdigung; de begrafenis; de uitvaart; B2; Alltag/Familie/Lebensere
 nl-fb-0110; Trauer; de rouw; het verdriet; B2; Alltag/Familie/Lebensereignisse; Rouw heeft tijd en de steun van anderen nodig.; Trauer braucht Zeit und die Unterstützung anderer.
 nl-fb-0111; Ruhestand; het pensioen; ; B2; Alltag/Familie/Lebensereignisse; Mijn vader geniet van zijn welverdiende pensioen.; Mein Vater genießt seinen wohlverdienten Ruhestand.
 nl-fb-0112; Erbe (Nachlass); de erfenis; de nalatenschap; B2; Alltag/Familie/Lebensereignisse; De broers en zussen maakten ruzie over de erfenis van hun ouders.; Die Geschwister stritten über das Erbe ihrer Eltern.
-nl-fb-0113; Standesamt; de burgerlijke stand; het gemeentehuis; B2; Alltag/Familie/Lebensereignisse; Ze trouwden in alle stilte bij de burgerlijke stand.; Sie heirateten in aller Stille auf dem Standesamt.
+nl-fb-0113; Standesamt; de burgerlijke stand; het gemeentehuis, het stadhuis; B2; Alltag/Familie/Lebensereignisse; Je moet de geboorte aangeven bij de burgerlijke stand.; Du musst die Geburt beim Standesamt anmelden.
 nl-fb-0114; Trauung; de huwelijksceremonie; de huwelijksvoltrekking, de trouwceremonie; C1; Alltag/Familie/Lebensereignisse; De huwelijksceremonie vond plaats in het oude stadhuis.; Die Trauung fand im alten Rathaus statt.
-nl-fb-0115; Nachwuchs; het nageslacht; het kroost; C1; Alltag/Familie/Lebensereignisse; Het jonge stel verwacht in mei nageslacht.; Das junge Paar erwartet im Mai Nachwuchs.
+nl-fb-0115; Nachwuchs; de gezinsuitbreiding; het kroost, het nageslacht; C1; Alltag/Familie/Lebensereignisse; Het jonge stel verwacht in mei gezinsuitbreiding.; Das junge Paar erwartet im Mai Nachwuchs.
 nl-fb-0116; Elternzeit; het ouderschapsverlof; ; C1; Alltag/Familie/Lebensereignisse; Hij nam zes maanden ouderschapsverlof.; Er nahm sechs Monate Elternzeit.
 nl-fb-0117; Witwe; de weduwe; ; C1; Alltag/Familie/Lebensereignisse; De weduwe woont nog in haar oude huis.; Die Witwe lebt noch in ihrem alten Haus.
 nl-fb-0118; Testament; het testament; ; C1; Alltag/Familie/Lebensereignisse; In zijn testament liet hij alles na aan zijn kinderen.; In seinem Testament vermachte er alles seinen Kindern.
@@ -144,7 +144,7 @@ nl-fb-0141; vernachlässigen; verwaarlozen; ; B2; Alltag/Familie/Miteinander; Hi
 nl-fb-0142; sich versöhnen; zich verzoenen; ; C1; Alltag/Familie/Miteinander; De broers verzoenden zich na vele jaren van stilzwijgen.; Die Brüder versöhnten sich nach vielen Jahren des Schweigens.
 nl-fb-0143; Mitgefühl; het medeleven; het mededogen, de compassie; C1; Alltag/Familie/Miteinander; Ze toonde veel medeleven met de rouwende familie.; Sie zeigte großes Mitgefühl für die trauernde Familie.
 nl-fb-0144; einfühlsam; empathisch; invoelend; C1; Alltag/Familie/Miteinander; De arts sprak empathisch met de ouders.; Der Arzt sprach einfühlsam mit den Eltern.
-nl-fb-0145; Rücksicht; de consideratie; ; C1; Alltag/Familie/Miteinander; Heb alsjeblieft wat consideratie met je jongere broers en zussen.; Nimm bitte Rücksicht auf deine jüngeren Geschwister.
+nl-fb-0145; Rücksicht; de consideratie; rekening houden met; C1; Alltag/Familie/Miteinander; Heb alsjeblieft wat consideratie met je jongere broers en zussen.; Nimm bitte Rücksicht auf deine jüngeren Geschwister.
 nl-fb-0146; bevormunden; betuttelen; ; C1; Alltag/Familie/Miteinander; Ze haat het als haar ouders haar betuttelen.; Sie hasst es, wenn ihre Eltern sie bevormunden.
 nl-fb-0147; sich anvertrauen; in vertrouwen nemen; zich toevertrouwen aan; C1; Alltag/Familie/Miteinander; De jongen nam zijn oudere zus in vertrouwen.; Der Junge vertraute sich seiner älteren Schwester an.
 nl-fb-0148; Groll; de wrok; de rancune; C2; Alltag/Familie/Miteinander; Hij koestert nog altijd wrok tegen zijn neef.; Er hegt noch immer einen Groll gegen seinen Cousin.

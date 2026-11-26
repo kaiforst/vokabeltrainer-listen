@@ -148,7 +148,7 @@ nl-xc-0145; Südpol; de Zuidpool; ; B1; Natur/Geografie; Amundsen bereikte als e
 nl-xc-0146; Äquator; de evenaar; de equator; B1; Natur/Geografie; Bij de evenaar is het het hele jaar heet.; In der Nähe des Äquators ist es das ganze Jahr heiß.
 nl-xc-0147; tropisch; tropisch; ; B1; Natur/Geografie; We waren twee weken op een tropisch eiland.; Wir waren zwei Wochen auf einer tropischen Insel.
 nl-xc-0148; Kompass; het kompas; ; B1; Natur/Geografie; Zonder kompas waren we verdwaald.; Ohne Kompass hätten wir uns verlaufen.
-nl-xc-0149; Himmelsrichtung; de windstreek; ; B2; Natur/Geografie; Noord, oost, zuid en west zijn de vier windstreken.; Nord, Ost, Süd und West sind die vier Himmelsrichtungen.
+nl-xc-0149; Himmelsrichtung; de windstreek; de windrichting; B2; Natur/Geografie; Noord, oost, zuid en west zijn de vier windstreken.; Nord, Ost, Süd und West sind die vier Himmelsrichtungen.
 nl-xc-0150; nördlich; noordelijk; ; B1; Natur/Geografie; In het noordelijke deel van het land regent het vaak.; Im nördlichen Teil des Landes regnet es oft.
 nl-xc-0151; östlich; oostelijk; ; B1; Natur/Geografie; Ze wonen in een stadje in oostelijk Duitsland.; Sie wohnen in einer kleinen Stadt im östlichen Deutschland.
 nl-xc-0152; Nordosten; het noordoosten; ; B1; Natur/Geografie; De wind komt uit het noordoosten.; Der Wind weht aus Nordosten.
@@ -271,14 +271,14 @@ nl-xc-0268; Tsunami; de tsunami; ; B2; Natur/Umwelt/Naturkatastrophen; De tsunam
 nl-xc-0269; Naturkatastrophe; de natuurramp; ; B1; Natur/Umwelt/Naturkatastrophen; Overstromingen zijn hier de meest voorkomende natuurramp.; Überschwemmungen sind hier die häufigste Naturkatastrophe.
 nl-xc-0270; Hochwasser; het hoogwater; de overstroming; B1; Natur/Umwelt/Naturkatastrophen; Na dagen regen vecht de stad tegen het hoogwater.; Nach tagelangem Regen kämpft die Stadt gegen das Hochwasser.
 nl-xc-0271; Sturmflut; de stormvloed; ; C1; Natur/Umwelt/Naturkatastrophen; De dijken beschermen de kust tegen stormvloeden.; Die Deiche schützen die Küste vor Sturmfluten.
-nl-xc-0272; Müllabfuhr; de vuilnisophaaldienst; de vuilnisdienst, de afvalophaaldienst; B2; Natur/Umwelt/Recycling; De vuilnisophaaldienst komt elke dinsdag langs.; Die Müllabfuhr kommt jeden Dienstag vorbei.
-nl-xc-0273; Biomüll; het organisch afval; het gft-afval, het groenafval; B1; Natur/Umwelt/Recycling; Groenteschillen horen bij het organisch afval.; Gemüseschalen kommen in den Biomüll.
+nl-xc-0272; Müllabfuhr; de vuilnisophaaldienst; de vuilnisdienst, de afvalophaaldienst, de vuilnisman; B2; Natur/Umwelt/Recycling; De vuilnisophaaldienst komt elke dinsdag langs.; Die Müllabfuhr kommt jeden Dienstag vorbei.
+nl-xc-0273; Biomüll; het gft-afval; het gft, het organisch afval; B1; Natur/Umwelt/Recycling; Groenteschillen horen bij het gft-afval.; Gemüseschalen kommen in den Biomüll.
 nl-xc-0274; Restmüll; het restafval; ; C1; Natur/Umwelt/Recycling; Luiers moeten altijd bij het restafval.; Windeln müssen immer in den Restmüll.
 nl-xc-0275; Sperrmüll; het grofvuil; het grof huisvuil; B2; Natur/Umwelt/Recycling; We hebben de oude bank bij het grofvuil gezet.; Wir haben das alte Sofa zum Sperrmüll gestellt.
 nl-xc-0276; Altpapier; het oud papier; ; B1; Natur/Umwelt/Recycling; We brengen het oud papier elke week naar de container.; Wir bringen das Altpapier jede Woche zum Container.
 nl-xc-0277; Plastikmüll; het plastic afval; het plasticafval; B1; Natur/Umwelt/Recycling; Tonnen plastic afval komen in de zee terecht.; Tonnen von Plastikmüll landen im Meer.
 nl-xc-0278; Mikroplastik; het microplastic; de microplastics; B2; Natur/Umwelt/Recycling; Microplastic is zelfs in drinkwater gevonden.; Mikroplastik wurde sogar im Trinkwasser gefunden.
-nl-xc-0279; Mehrwegflasche; de herbruikbare fles; de hervulbare fles, de retourfles; B2; Natur/Umwelt/Recycling; Deze winkel verkoopt melk alleen in herbruikbare flessen.; Dieser Laden verkauft Milch nur in Mehrwegflaschen.
+nl-xc-0279; Mehrwegflasche; de statiegeldfles; de herbruikbare fles, de retourfles; B2; Natur/Umwelt/Recycling; Deze winkel verkoopt melk alleen in statiegeldflessen.; Dieser Laden verkauft Milch nur in Mehrwegflaschen.
 nl-xc-0280; Pfandflasche; de statiegeldfles; ; B2; Natur/Umwelt/Recycling; Ik breng mijn statiegeldflessen terug naar de supermarkt.; Ich bringe meine Pfandflaschen in den Supermarkt zurück.
 nl-xc-0281; Elektroschrott; het elektronisch afval; het elektronica-afval; B2; Natur/Umwelt/Recycling; Oude mobieltjes moeten als elektronisch afval worden afgevoerd.; Alte Handys müssen als Elektroschrott entsorgt werden.
 nl-xc-0282; Mülldeponie; de vuilstortplaats; de vuilstort, de stortplaats; B2; Natur/Umwelt/Recycling; Het meeste afval komt nog steeds op de vuilstortplaats terecht.; Der Großteil unseres Mülls landet immer noch auf der Mülldeponie.
@@ -400,9 +400,9 @@ nl-xc-0397; Zusammenstoß; de botsing; de aanrijding; B2; Reisen/Verkehr/Straße
 nl-xc-0398; Auffahrunfall; de kop-staartbotsing; ; C1; Reisen/Verkehr/Straße & Regeln; In de file was er een kop-staartbotsing.; Im Stau gab es einen Auffahrunfall.
 nl-xc-0399; Parklücke; de parkeerplek; de parkeerplaats; B1; Reisen/Verkehr/Straße & Regeln; We hadden twintig minuten nodig om een parkeerplek te vinden.; Wir haben zwanzig Minuten gebraucht, um eine Parklücke zu finden.
 nl-xc-0400; Gegenverkehr; het tegemoetkomend verkeer; de tegenliggers; B2; Reisen/Verkehr/Straße & Regeln; Haal hier niet in, er is te veel tegemoetkomend verkeer.; Überhol hier nicht, es gibt zu viel Gegenverkehr.
-nl-xc-0401; Rastplatz; de rustplaats; de verzorgingsplaats, de parkeerplaats; B2; Reisen/Verkehr/Straße & Regeln; Laten we bij de volgende rustplaats stoppen en koffie drinken.; Lass uns am nächsten Rastplatz anhalten und einen Kaffee trinken.
-nl-xc-0402; Abkürzung (Weg); de kortere weg; de sluiproute; B1; Reisen/Verkehr/Wegbeschreibung; We hebben een kortere weg door het park genomen.; Wir haben eine Abkürzung durch den Park genommen.
-nl-xc-0403; Arbeitsweg; het woon-werkverkeer; de reis naar het werk; B2; Reisen/Verkehr/Straße & Regeln; Mijn woon-werkverkeer duurt met de trein veertig minuten.; Mein Arbeitsweg dauert mit dem Zug vierzig Minuten.
+nl-xc-0401; Rastplatz; de verzorgingsplaats; de parkeerplaats; B2; Reisen/Verkehr/Straße & Regeln; Laten we bij de volgende verzorgingsplaats stoppen en koffie drinken.; Lass uns am nächsten Rastplatz anhalten und einen Kaffee trinken.
+nl-xc-0402; Abkürzung (Weg); de kortere weg; de binnendoorweg, de sluiproute; B1; Reisen/Verkehr/Wegbeschreibung; We hebben een kortere weg door het park genomen.; Wir haben eine Abkürzung durch den Park genommen.
+nl-xc-0403; Arbeitsweg; de reis naar het werk; de woon-werkreis, het woon-werkverkeer; B2; Reisen/Verkehr/Straße & Regeln; Mijn reis naar het werk duurt met de trein veertig minuten.; Mein Arbeitsweg dauert mit dem Zug vierzig Minuten.
 nl-xc-0404; Reisebus; de touringcar; de reisbus; B1; Reisen/Verkehr/Bus & Bahn; De hele klas is met de touringcar naar Londen gegaan.; Die ganze Klasse ist mit dem Reisebus nach London gefahren.
 nl-xc-0405; Fernbus; de langeafstandsbus; ; B1; Reisen/Verkehr/Bus & Bahn; De langeafstandsbus is goedkoper dan de trein.; Der Fernbus ist billiger als der Zug.
 nl-xc-0406; Abteil; de coupé; ; B2; Reisen/Verkehr/Bus & Bahn; We hadden een hele coupé voor onszelf.; Wir hatten ein ganzes Abteil für uns.
@@ -444,7 +444,7 @@ nl-xc-0441; Ausweis; het identiteitsbewijs; de identiteitskaart, het legitimatie
 nl-xc-0442; Tourismus; het toerisme; ; B1; Reisen/Urlaub/Planung & Buchung; Veel mensen op het eiland leven van het toerisme.; Viele Menschen auf der Insel leben vom Tourismus.
 nl-xc-0443; Massentourismus; het massatoerisme; ; C1; Reisen/Urlaub/Planung & Buchung; Venetië lijdt al jaren onder het massatoerisme.; Venedig leidet seit Jahren unter dem Massentourismus.
 nl-xc-0444; Rucksacktourist; de backpacker; de rugzaktoerist; B2; Reisen/Urlaub/Planung & Buchung; De jeugdherberg zit vol jonge backpackers.; Die Herberge ist voller junger Rucksacktouristen.
-nl-xc-0445; Reisewarnung; de reiswaarschuwing; het negatief reisadvies; C1; Reisen/Urlaub/Planung & Buchung; De regering heeft een reiswaarschuwing voor de regio afgegeven.; Die Regierung hat eine Reisewarnung für die Region herausgegeben.
+nl-xc-0445; Reisewarnung; de reiswaarschuwing; het negatieve reisadvies; C1; Reisen/Urlaub/Planung & Buchung; De regering heeft een reiswaarschuwing voor de regio afgegeven.; Die Regierung hat eine Reisewarnung für die Region herausgegeben.
 nl-xc-0446; seekrank; zeeziek; ; B1; Reisen/Urlaub/Unterwegs; Op de veerboot word ik altijd zeeziek.; Auf der Fähre werde ich immer seekrank.
 nl-xc-0447; Reisekrankheit; de reisziekte; de wagenziekte; B2; Reisen/Urlaub/Unterwegs; Neem voor de rit een tabletje tegen reisziekte.; Nimm vor der Fahrt eine Tablette gegen Reisekrankheit.
 nl-xc-0448; besichtigen; bezichtigen; bezoeken; B1; Reisen/Urlaub/Sightseeing; Morgen bezichtigen we de dom van Keulen.; Morgen besichtigen wir den Kölner Dom.

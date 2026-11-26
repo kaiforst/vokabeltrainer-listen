@@ -9,7 +9,7 @@ nl-xa-0006; Briefkasten; de brievenbus; ; A2; Alltag/Zuhause/Räume; Er ligt een
 nl-xa-0007; Mieter; de huurder; ; B1; Alltag/Zuhause/Räume; De nieuwe huurder trekt volgende maand in.; Der neue Mieter zieht nächsten Monat ein.
 nl-xa-0008; Vermieter; de verhuurder; de huisbaas; B1; Alltag/Zuhause/Räume; Onze verhuurder heeft eindelijk de verwarming gerepareerd.; Unser Vermieter hat endlich die Heizung repariert.
 nl-xa-0009; Miete; de huur; ; A2; Alltag/Zuhause/Räume; De huur voor deze woning is erg hoog.; Die Miete für diese Wohnung ist sehr hoch.
-nl-xa-0010; Wohngemeinschaft; de woongroep; de woongemeenschap; B1; Alltag/Zuhause/Räume; Als studente heeft ze in een woongroep gewoond.; Als Studentin hat sie in einer Wohngemeinschaft gewohnt.
+nl-xa-0010; Wohngemeinschaft; de woongroep; de woongemeenschap, het studentenhuis; B1; Alltag/Zuhause/Räume; Na hun pensioen zijn ze in een woongroep gaan wonen.; Nach ihrer Rente sind sie in eine Wohngemeinschaft gezogen.
 nl-xa-0011; umziehen (Wohnung); verhuizen; ; A2; Alltag/Zuhause/Räume; We verhuizen in juni naar een grotere woning.; Wir ziehen im Juni in eine größere Wohnung um.
 nl-xa-0012; Speisekammer; de voorraadkast; de provisiekast, de provisiekamer; B2; Alltag/Zuhause/Räume; We bewaren de aardappelen in de voorraadkast.; Wir bewahren die Kartoffeln in der Speisekammer auf.
 nl-xa-0013; Dachrinne; de dakgoot; de goot; C1; Alltag/Zuhause/Räume; De dakgoot zit alweer vol bladeren.; Die Dachrinne ist schon wieder voller Laub.
@@ -188,7 +188,7 @@ nl-xa-0178; Etikett; het etiket; het label; B1; Alltag/Kleidung/Pflege & Schneid
 nl-xa-0179; einlaufen (Wäsche); krimpen; ; B2; Alltag/Kleidung/Pflege & Schneiderei; Mijn favoriete T-shirt is in de was gekrompen.; Mein Lieblings-T-Shirt ist in der Wäsche eingelaufen.
 nl-xa-0180; knittern; kreuken; kreukelen; B2; Alltag/Kleidung/Pflege & Schneiderei; Linnen kreukt heel makkelijk in de koffer.; Leinen knittert im Koffer sehr leicht.
 nl-xa-0181; zerknittert; gekreukt; gekreukeld, verkreukeld; B2; Alltag/Kleidung/Pflege & Schneiderei; Na de lange vlucht was zijn overhemd helemaal gekreukt.; Nach dem langen Flug war sein Hemd ganz zerknittert.
-nl-xa-0182; Lebensmittelgeschäft; de levensmiddelenwinkel; de buurtsuper, de kruidenierswinkel; A2; Alltag/Einkaufen/Geschäfte; Aan het eind van onze straat is een kleine levensmiddelenwinkel.; Am Ende unserer Straße gibt es ein kleines Lebensmittelgeschäft.
+nl-xa-0182; Lebensmittelgeschäft; de buurtsuper; de levensmiddelenwinkel, de kruidenierswinkel; A2; Alltag/Einkaufen/Geschäfte; Aan het eind van onze straat is een kleine buurtsuper.; Am Ende unserer Straße gibt es ein kleines Lebensmittelgeschäft.
 nl-xa-0183; Kaufhaus; het warenhuis; ; A2; Alltag/Einkaufen/Geschäfte; Het warenhuis verkoopt alles van schoenen tot banken.; Das Kaufhaus verkauft alles von Schuhen bis zu Sofas.
 nl-xa-0184; Schreibwarenladen; de kantoorboekhandel; ; B1; Alltag/Einkaufen/Geschäfte; Ik heb in de kantoorboekhandel nieuwe pennen gekocht.; Ich habe im Schreibwarenladen neue Stifte gekauft.
 nl-xa-0185; Optiker; de opticien; ; B1; Alltag/Einkaufen/Geschäfte; Ik haal mijn nieuwe bril bij de opticien.; Ich hole meine neue Brille beim Optiker ab.
@@ -391,7 +391,7 @@ nl-xa-0378; Physiotherapie; de fysiotherapie; ; B2; Gesundheit/Beim Arzt; Na de 
 nl-xa-0441; Physiotherapeut; de fysiotherapeut; ; B2; Gesundheit/Beim Arzt; De fysiotherapeut heeft me oefeningen voor mijn rug laten zien.; Der Physiotherapeut hat mir Übungen für meinen Rücken gezeigt.
 nl-xa-0379; Sanitäter; de ambulancebroeder; de ambulancemedewerker, de ambulanceverpleegkundige; B2; Gesundheit/Krankenhaus; De ambulancebroeders waren er binnen tien minuten.; Die Sanitäter waren innerhalb von zehn Minuten da.
 nl-xa-0380; Krankenwagen; de ambulance; de ziekenwagen, de ziekenauto; A2; Gesundheit/Krankenhaus; Bel snel een ambulance, hij ademt niet meer!; Ruf schnell einen Krankenwagen, er atmet nicht mehr!
-nl-xa-0381; Notarzt; de spoedarts; ; B2; Gesundheit/Krankenhaus; De spoedarts kwam met de helikopter.; Der Notarzt kam mit dem Hubschrauber.
+nl-xa-0381; Notarzt; de trauma-arts; de spoedarts; B2; Gesundheit/Krankenhaus; De trauma-arts kwam met de helikopter.; Der Notarzt kam mit dem Hubschrauber.
 nl-xa-0382; Station (im Krankenhaus); de afdeling; ; B2; Gesundheit/Krankenhaus; Mijn tante werkt als verpleegkundige op de kinderafdeling.; Meine Tante arbeitet als Krankenschwester auf der Kinderstation.
 nl-xa-0383; Notfall; het noodgeval; de noodsituatie, het spoedgeval; A2; Gesundheit/Krankenhaus; Dit is een noodgeval, we hebben meteen een arts nodig.; Das ist ein Notfall, wir brauchen sofort einen Arzt.
 nl-xa-0384; Erste Hilfe; de eerste hulp; de EHBO; B1; Gesundheit/Krankenhaus; Iedere automobilist zou eerste hulp moeten kunnen verlenen.; Jeder Autofahrer sollte Erste Hilfe beherrschen.

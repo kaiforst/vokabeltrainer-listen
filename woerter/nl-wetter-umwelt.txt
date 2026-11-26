@@ -100,7 +100,7 @@ nl-wu-0097; nachhaltig; duurzaam; ; B2; Natur/Umwelt/Umweltschutz; We zouden moe
 nl-wu-0098; Treibhausgas; het broeikasgas; ; B2; Natur/Umwelt/Klima & Klimawandel; Methaan is een heel sterk broeikasgas.; Methan ist ein sehr starkes Treibhausgas.
 nl-wu-0099; Kohlendioxid; de kooldioxide; het kooldioxide, de koolstofdioxide; B2; Natur/Umwelt/Klima & Klimawandel; Auto's stoten grote hoeveelheden kooldioxide uit.; Autos stoßen große Mengen Kohlendioxid aus.
 nl-wu-0100; Emission; de emissie; de uitstoot; B2; Natur/Umwelt/Klima & Klimawandel; De fabriek heeft haar emissies gehalveerd.; Die Fabrik hat ihre Emissionen um die Hälfte reduziert.
-nl-wu-0101; Klimaschutz; de klimaatbescherming; ; B2; Natur/Umwelt/Klima & Klimawandel; Klimaatbescherming heeft de steun van alle landen nodig.; Klimaschutz braucht die Unterstützung aller Länder.
+nl-wu-0101; Klimaschutz; de klimaatbescherming; het klimaatbeleid; B2; Natur/Umwelt/Klima & Klimawandel; Klimaatbescherming heeft de steun van alle landen nodig.; Klimaschutz braucht die Unterstützung aller Länder.
 nl-wu-0102; Klimagipfel; de klimaattop; ; B2; Natur/Umwelt/Klima & Klimawandel; De klimaattop eindigde zonder een duidelijk resultaat.; Der Klimagipfel endete ohne ein klares Ergebnis.
 nl-wu-0103; Meeresspiegel; de zeespiegel; het zeeniveau; B2; Natur/Umwelt/Klima & Klimawandel; De zeespiegel stijgt sneller dan verwacht.; Der Meeresspiegel steigt schneller als erwartet.
 nl-wu-0104; Gletscher; de gletsjer; ; B2; Natur/Umwelt/Klima & Klimawandel; De gletsjer heeft de helft van zijn ijs verloren.; Der Gletscher hat die Hälfte seines Eises verloren.
@@ -124,7 +124,7 @@ nl-wu-0121; Energiewende; de energietransitie; ; B2; Natur/Umwelt/Energie; De en
 nl-wu-0122; Dämmung; de isolatie; ; B2; Natur/Umwelt/Energie; Goede isolatie houdt de warmte in het huis.; Eine gute Dämmung hält die Wärme im Haus.
 nl-wu-0123; CO2-Fußabdruck; de CO2-voetafdruk; de ecologische voetafdruk; B2; Natur/Umwelt/Klima & Klimawandel; Minder vliegen verkleint je CO2-voetafdruk sterk.; Weniger zu fliegen verringert deinen CO2-Fußabdruck stark.
 nl-wu-0124; wiederverwenden; hergebruiken; ; B2; Natur/Umwelt/Recycling; Deze potten kun je hergebruiken voor zelfgemaakte jam.; Diese Gläser kannst du für selbstgemachte Marmelade wiederverwenden.
-nl-wu-0125; entsorgen; afvoeren; weggooien; B2; Natur/Umwelt/Recycling; Oude batterijen moet je apart afvoeren.; Alte Batterien musst du getrennt entsorgen.
+nl-wu-0125; entsorgen; afvoeren; weggooien, inleveren; B2; Natur/Umwelt/Recycling; Oude batterijen moet je apart afvoeren.; Alte Batterien musst du getrennt entsorgen.
 nl-wu-0126; Kreislaufwirtschaft; de circulaire economie; de kringloopeconomie; C1; Natur/Umwelt/Recycling; Een circulaire economie houdt materialen langer in omloop.; Eine Kreislaufwirtschaft hält Materialien länger im Umlauf.
 nl-wu-0127; Klimaneutralität; de klimaatneutraliteit; ; C1; Natur/Umwelt/Klima & Klimawandel; De stad wil uiterlijk in 2035 klimaatneutraliteit bereiken.; Die Stadt will bis 2035 Klimaneutralität erreichen.
 nl-wu-0128; Emissionshandel; de emissiehandel; ; C1; Natur/Umwelt/Klima & Klimawandel; De emissiehandel geeft elke ton een prijs.; Der Emissionshandel gibt jeder Tonne einen Preis.
@@ -137,7 +137,7 @@ nl-wu-0134; Artensterben; het uitsterven van soorten; het soortenverlies; C1; Na
 nl-wu-0135; Überfischung; de overbevissing; ; C1; Natur/Umwelt/Natur; De overbevissing heeft grote delen van de zeeën leeggehaald.; Die Überfischung hat große Teile der Meere geleert.
 nl-wu-0136; Wüstenbildung; de verwoestijning; de woestijnvorming; C1; Natur/Umwelt/Klima & Klimawandel; De verwoestijning verandert vruchtbaar land in schrale grond.; Die Wüstenbildung verwandelt fruchtbares Land in kargen Boden.
 nl-wu-0137; Klimaanpassung; de klimaatadaptatie; de klimaataanpassing; C1; Natur/Umwelt/Klima & Klimawandel; Steden investeren in klimaatadaptatie tegen hitte en overstromingen.; Städte investieren in Klimaanpassung gegen Hitze und Hochwasser.
-nl-wu-0138; Starkregen; de stortregen; de hevige regenval, de wolkbreuk; C1; Natur/Umwelt/Wetter; Stortregen zette binnen enkele minuten meerdere straten onder water.; Starkregen überflutete innerhalb von Minuten mehrere Straßen.
+nl-wu-0138; Starkregen; de stortregen; de hevige regenval, de wolkbreuk, de hoosbui; C1; Natur/Umwelt/Wetter; Stortregen zette binnen enkele minuten meerdere straten onder water.; Starkregen überflutete innerhalb von Minuten mehrere Straßen.
 nl-wu-0139; Extremwetterereignis; de extreme weersgebeurtenis; het extreme weer; C1; Natur/Umwelt/Naturkatastrophen; Elke extreme weersgebeurtenis kost de regio miljoenen.; Jedes Extremwetterereignis kostet die Region Millionen.
 nl-wu-0140; Energieeffizienz; de energie-efficiëntie; ; C1; Natur/Umwelt/Energie; Hogere energie-efficiëntie verlaagt zowel kosten als emissies.; Höhere Energieeffizienz senkt Kosten und Emissionen gleichermaßen.
 nl-wu-0141; Umweltbewusstsein; het milieubewustzijn; ; C1; Natur/Umwelt/Umweltschutz; Het milieubewustzijn is bij jonge mensen sterk gegroeid.; Das Umweltbewusstsein ist bei jungen Menschen stark gewachsen.

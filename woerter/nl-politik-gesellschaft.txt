@@ -39,7 +39,7 @@ nl-pg-0036; Demokratie; de democratie; ; B1; Gesellschaft/Politik/Demokratie; In
 nl-pg-0037; Parlament; het parlement; ; B1; Gesellschaft/Politik/Staat & Wahlen; Het parlement nam de nieuwe klimaatwet aan.; Das Parlament verabschiedete das neue Klimagesetz.
 nl-pg-0038; Kanzler; de kanselier; de bondskanselier; B1; Gesellschaft/Politik/Staat & Wahlen; De kanselier hield een toespraak over Europa.; Der Kanzler hielt eine Rede über Europa.
 nl-pg-0039; Minister; de minister; ; B1; Gesellschaft/Politik/Staat & Wahlen; De minister presenteerde de plannen voor nieuwe scholen.; Der Minister stellte die Pläne für neue Schulen vor.
-nl-pg-0040; Abgeordneter; de afgevaardigde; de volksvertegenwoordiger, het parlementslid, het Kamerlid; B1; Gesellschaft/Politik/Staat & Wahlen; Onze afgevaardigde bezoekt de regio vaak.; Unser Abgeordneter besucht die Region oft.
+nl-pg-0040; Abgeordneter; het Kamerlid; de afgevaardigde, de volksvertegenwoordiger, het parlementslid; B1; Gesellschaft/Politik/Staat & Wahlen; Het Kamerlid bezoekt morgen onze school.; Der Abgeordnete besucht morgen unsere Schule.
 nl-pg-0041; Stimme (bei der Wahl); de stem; ; B1; Gesellschaft/Politik/Staat & Wahlen; Elke stem telt bij een nipte verkiezing.; Jede Stimme zählt bei einer knappen Wahl.
 nl-pg-0042; Mehrheit; de meerderheid; ; B1; Gesellschaft/Politik/Staat & Wahlen; De partij won gisteren een duidelijke meerderheid.; Die Partei gewann gestern eine klare Mehrheit.
 nl-pg-0043; Minderheit; de minderheid; ; B1; Gesellschaft/Soziales; De wet beschermt de rechten van elke minderheid.; Das Gesetz schützt die Rechte jeder Minderheit.
@@ -61,7 +61,7 @@ nl-pg-0058; schuldig; schuldig; ; B1; Gesellschaft/Recht; De rechter vond de man
 nl-pg-0059; unschuldig; onschuldig; ; B1; Gesellschaft/Recht; Zij hield vol dat ze volkomen onschuldig was.; Sie beteuerte, dass sie völlig unschuldig sei.
 nl-pg-0060; Gefängnis; de gevangenis; ; B1; Gesellschaft/Recht; Hij zat twee jaar in de gevangenis wegens inbraak.; Er saß wegen Einbruchs zwei Jahre im Gefängnis.
 nl-pg-0061; Gerechtigkeit; de gerechtigheid; de rechtvaardigheid; B1; Gesellschaft/Recht; De demonstranten eisten gerechtigheid voor de slachtoffers.; Die Demonstranten forderten Gerechtigkeit für die Opfer.
-nl-pg-0062; Gleichberechtigung; de gelijkberechtiging; de gelijke rechten; B1; Gesellschaft/Soziales; De gelijkberechtiging van vrouwen duurde vele decennia.; Die Gleichberechtigung der Frauen dauerte viele Jahrzehnte.
+nl-pg-0062; Gleichberechtigung; de gelijke rechten; de gelijkberechtiging, de gelijkheid, de emancipatie; B1; Gesellschaft/Soziales; De strijd voor gelijke rechten voor vrouwen duurde vele decennia.; Der Kampf um die Gleichberechtigung der Frauen dauerte viele Jahrzehnte.
 nl-pg-0063; Armut; de armoede; ; B1; Gesellschaft/Soziales; Armoede blijft in veel steden een ernstig probleem.; Armut bleibt in vielen Städten ein ernstes Problem.
 nl-pg-0064; Reichtum; de rijkdom; ; B1; Gesellschaft/Soziales; De rijkdom van het land is ongelijk verdeeld.; Der Reichtum des Landes ist ungleich verteilt.
 nl-pg-0065; Arbeitslosigkeit; de werkloosheid; ; B1; Gesellschaft/Soziales; De werkloosheid daalde tot het laagste niveau in jaren.; Die Arbeitslosigkeit sank auf den niedrigsten Stand seit Jahren.
@@ -107,7 +107,7 @@ nl-pg-0104; Korruption; de corruptie; ; B2; Gesellschaft/Politik/Demokratie; De 
 nl-pg-0105; Skandal; het schandaal; de affaire; B2; Gesellschaft/Politik/Demokratie; Het schandaal dwong de senator tot aftreden.; Der Skandal zwang den Senator zum Rücktritt.
 nl-pg-0106; Rücktritt (vom Amt); het aftreden; het ontslag; B2; Gesellschaft/Politik/Demokratie; De minister kondigde maandag zijn aftreden aan.; Der Minister erklärte am Montag seinen Rücktritt.
 nl-pg-0107; zurücktreten; aftreden; opstappen; B2; Gesellschaft/Politik/Demokratie; De burgemeester trad na het verloren referendum af.; Der Bürgermeister trat nach der verlorenen Volksabstimmung zurück.
-nl-pg-0108; Klage; de aanklacht; de klacht, de rechtszaak; B2; Gesellschaft/Recht; Het bedrijf diende een aanklacht in tegen de gemeente.; Die Firma reichte eine Klage gegen die Stadt ein.
+nl-pg-0108; Klage; de rechtszaak; de aanklacht, de klacht; B2; Gesellschaft/Recht; Het bedrijf spande een rechtszaak aan tegen de gemeente.; Die Firma reichte eine Klage gegen die Stadt ein.
 nl-pg-0109; verklagen; aanklagen; voor de rechter dagen; B2; Gesellschaft/Recht; Zij klaagde het bedrijf aan wegens achterstallig loon.; Sie verklagte die Firma wegen ausstehender Löhne.
 nl-pg-0110; Berufung (Gericht); het hoger beroep; het beroep; B2; Gesellschaft/Recht; Zijn advocaat kondigde hoger beroep aan tegen het vonnis.; Sein Anwalt kündigte Berufung gegen das Urteil an.
 nl-pg-0111; Beweis; het bewijs; ; B2; Gesellschaft/Recht; De rechtbank vond geen bewijs tegen de bestuurder.; Das Gericht fand keinen Beweis gegen den Fahrer.

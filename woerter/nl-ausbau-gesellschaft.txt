@@ -82,7 +82,7 @@ nl-xd-0079; Mord; de moord; ; B1; Gesellschaft/Recht; De commissaris probeert de
 nl-xd-0080; Mörder; de moordenaar; ; B1; Gesellschaft/Recht; Aan het eind van het boek horen we wie de moordenaar is.; Am Ende des Buches erfahren wir, wer der Mörder ist.
 nl-xd-0081; ermorden; vermoorden; ; B2; Gesellschaft/Recht; De koning werd door zijn eigen broer vermoord.; Der König wurde von seinem eigenen Bruder ermordet.
 nl-xd-0082; töten; doden; ; B1; Gesellschaft/Recht; De jager wilde de ree niet doden.; Der Jäger wollte das Reh nicht töten.
-nl-xd-0083; Betrug; het bedrog; de oplichting, de fraude; B2; Gesellschaft/Recht; Hij kwam wegens bedrog in de gevangenis.; Er kam wegen Betrugs ins Gefängnis.
+nl-xd-0083; Betrug; het bedrog; de oplichting, de fraude; B2; Gesellschaft/Recht; Ze voelde zich door zijn bedrog diep gekwetst.; Sie fühlte sich durch seinen Betrug tief verletzt.
 nl-xd-0084; Betrüger; de oplichter; de bedrieger, de fraudeur; B2; Gesellschaft/Recht; Een oplichter belde en vroeg naar haar bankgegevens.; Ein Betrüger rief an und fragte nach ihren Bankdaten.
 nl-xd-0085; Verdächtiger; de verdachte; ; B2; Gesellschaft/Recht; De politie zoekt nog naar de verdachte.; Die Polizei sucht noch nach dem Verdächtigen.
 nl-xd-0086; verdächtigen; verdenken; ; B2; Gesellschaft/Recht; De politie verdenkt de buurman van de diefstal.; Die Polizei verdächtigt den Nachbarn des Diebstahls.
@@ -199,7 +199,7 @@ nl-xd-0196; Bankkarte; de bankpas; de pinpas, de betaalpas; A2; Wirtschaft/Finan
 nl-xd-0197; Kontostand; het saldo; het banksaldo, het rekeningsaldo; B1; Wirtschaft/Finanzen/Bank; Ik controleer mijn saldo op mijn telefoon.; Ich prüfe meinen Kontostand auf dem Handy.
 nl-xd-0198; Sparkonto; de spaarrekening; ; B1; Wirtschaft/Finanzen/Bank; Mijn grootouders hebben een spaarrekening voor mij geopend.; Meine Großeltern haben ein Sparkonto für mich eröffnet.
 nl-xd-0199; Online-Banking; het internetbankieren; het onlinebankieren; B1; Wirtschaft/Finanzen/Bank; Met internetbankieren kun je rekeningen van thuis betalen.; Mit Online-Banking kannst du Rechnungen von zu Hause bezahlen.
-nl-xd-0200; Überziehungskredit; de roodstand; het roodstaan, het rekening-courantkrediet; C1; Wirtschaft/Finanzen/Bank; Roodstaan is een dure manier om geld te lenen.; Ein Überziehungskredit ist eine teure Art, sich Geld zu leihen.
+nl-xd-0200; Überziehungskredit; het roodstaan; rood staan, de roodstand, het rekening-courantkrediet; C1; Wirtschaft/Finanzen/Bank; Roodstaan is een dure manier om geld te lenen.; Ein Überziehungskredit ist eine teure Art, sich Geld zu leihen.
 nl-xd-0201; Darlehen; de lening; ; B2; Wirtschaft/Finanzen/Bank; Ze hebben een lening afgesloten om het huis te kopen.; Sie haben ein Darlehen aufgenommen, um das Haus zu kaufen.
 nl-xd-0202; Lebenshaltungskosten; de kosten van levensonderhoud; de levensonderhoudskosten; B2; Wirtschaft/Finanzen/Konjunktur; De kosten van levensonderhoud in grote steden zijn hoog.; Die Lebenshaltungskosten in Großstädten sind hoch.
 nl-xd-0203; Preisanstieg; de prijsstijging; ; B2; Wirtschaft/Finanzen/Konjunktur; Iedereen praat over de prijsstijging van energie.; Alle reden über den Preisanstieg bei der Energie.
@@ -283,7 +283,7 @@ nl-xd-0280; Kurzgeschichte; het korte verhaal; ; A2; Kultur/Literatur; We hebben
 nl-xd-0281; Abenteuer; het avontuur; ; A2; Kultur/Literatur; Het boek zit vol spannende avonturen.; Das Buch ist voller spannender Abenteuer.
 nl-xd-0282; Biografie; de biografie; ; B1; Kultur/Literatur; Ik lees een biografie over Marie Curie.; Ich lese eine Biografie über Marie Curie.
 nl-xd-0283; Autobiografie; de autobiografie; ; B2; Kultur/Literatur; De zangeres schreef op haar veertigste haar autobiografie.; Die Sängerin schrieb mit vierzig ihre Autobiografie.
-nl-xd-0284; Sachbuch; het non-fictieboek; het informatieve boek; B2; Kultur/Literatur; Hij leest liever non-fictieboeken dan romans.; Er liest lieber Sachbücher als Romane.
+nl-xd-0284; Sachbuch; het non-fictieboek; het informatieboek; B2; Kultur/Literatur; Hij leest liever non-fictieboeken dan romans.; Er liest lieber Sachbücher als Romane.
 nl-xd-0285; Titel; de titel; ; A2; Kultur/Literatur; Ik kan me de titel van het boek niet herinneren.; Ich kann mich nicht an den Titel des Buches erinnern.
 nl-xd-0286; Fabel; de fabel; ; B1; Kultur/Literatur; In een fabel kunnen dieren praten.; In einer Fabel können Tiere sprechen.
 nl-xd-0287; Legende; de legende; ; B1; Kultur/Literatur; Volgens de legende woonde er een draak in de grot.; Der Legende nach lebte ein Drache in der Höhle.

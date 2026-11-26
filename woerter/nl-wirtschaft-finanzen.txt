@@ -29,7 +29,7 @@ nl-wf-0026; Steuer; de belasting; ; A2; Wirtschaft/Finanzen/Steuern; De belastin
 nl-wf-0027; Kredit; de lening; het krediet; A2; Wirtschaft/Finanzen/Bank; Ze namen een lening om het huis te kopen.; Sie nahmen einen Kredit auf, um das Haus zu kaufen.
 nl-wf-0028; Zinsen; de rente; ; A2; Wirtschaft/Finanzen/Bank; De bank betaalt op dit moment heel weinig rente.; Die Bank zahlt im Moment sehr wenig Zinsen.
 nl-wf-0029; Versicherung; de verzekering; ; A2; Wirtschaft/Finanzen/Geld & Zahlung; De verzekering betaalde de waterschade.; Die Versicherung bezahlte den Wasserschaden.
-nl-wf-0030; Bargeld; het contante geld; de cash; A2; Wirtschaft/Finanzen/Geld & Zahlung; Ik heb nooit veel contant geld bij me.; Ich habe nie viel Bargeld dabei.
+nl-wf-0030; Bargeld; de contanten; het contante geld, de cash, contant geld, cash; A2; Wirtschaft/Finanzen/Geld & Zahlung; Ik heb nooit veel contant geld bij me.; Ich habe nie viel Bargeld dabei.
 nl-wf-0031; Kasse; de kassa; ; A2; Wirtschaft/Finanzen/Markt & Handel; Bij de kassa stond een lange rij.; An der Kasse gab es eine lange Schlange.
 nl-wf-0032; Quittung; de kwitantie; het betaalbewijs, het bonnetje, de kassabon; A2; Wirtschaft/Finanzen/Geld & Zahlung; Bewaar de kwitantie alstublieft voor de garantie.; Bitte bewahren Sie die Quittung für die Garantie auf.
 nl-wf-0033; bestellen; bestellen; ; A2; Wirtschaft/Finanzen/Markt & Handel; We hebben nieuwe stoelen voor het kantoor besteld.; Wir haben neue Stühle für das Büro bestellt.
@@ -49,7 +49,7 @@ nl-wf-0046; handeln (Handel treiben); handelen; handel drijven; B1; Wirtschaft/F
 nl-wf-0047; exportieren; exporteren; uitvoeren; B1; Wirtschaft/Finanzen/Markt & Handel; Duitsland exporteert machines naar de hele wereld.; Deutschland exportiert Maschinen in die ganze Welt.
 nl-wf-0048; importieren; importeren; invoeren; B1; Wirtschaft/Finanzen/Markt & Handel; We importeren het meeste fruit uit Spanje.; Wir importieren das meiste Obst aus Spanien.
 nl-wf-0049; Lieferung; de levering; de zending; B1; Wirtschaft/Finanzen/Markt & Handel; De levering kwam twee dagen eerder dan gepland.; Die Lieferung kam zwei Tage früher als geplant.
-nl-wf-0050; Ware; de waar; de goederen, de koopwaar; B1; Wirtschaft/Finanzen/Markt & Handel; De waar wordt gecontroleerd voordat die de fabriek verlaat.; Die Ware wird geprüft, bevor sie das Werk verlässt.
+nl-wf-0050; Ware; de goederen; de koopwaar, de waar; B1; Wirtschaft/Finanzen/Markt & Handel; De goederen worden gecontroleerd voordat ze de fabriek verlaten.; Die Ware wird geprüft, bevor sie das Werk verlässt.
 nl-wf-0051; Lager (Waren); het magazijn; de opslag, het pakhuis; B1; Wirtschaft/Finanzen/Markt & Handel; Het magazijn is voor de kersttijd vol.; Das Lager ist vor der Weihnachtszeit voll.
 nl-wf-0052; Nachfrage; de vraag; ; B1; Wirtschaft/Finanzen/Markt & Handel; De vraag naar warmtepompen stijgt snel.; Die Nachfrage nach Wärmepumpen steigt schnell.
 nl-wf-0053; Wettbewerb (Konkurrenz); de concurrentie; ; B1; Wirtschaft/Finanzen/Markt & Handel; Sterke concurrentie houdt de prijzen erg laag.; Starker Wettbewerb hält die Preise sehr niedrig.
@@ -66,7 +66,7 @@ nl-wf-0063; Börse; de beurs; de effectenbeurs; B1; Wirtschaft/Finanzen/Investie
 nl-wf-0064; investieren; investeren; beleggen; B1; Wirtschaft/Finanzen/Investieren & Börse; Ze investeren elk jaar een deel van hun spaargeld.; Sie investieren jedes Jahr einen Teil ihrer Ersparnisse.
 nl-wf-0065; Investition; de investering; ; B1; Wirtschaft/Finanzen/Investieren & Börse; De investering in zonnepanelen betaalde zich snel terug.; Die Investition in Solaranlagen zahlte sich schnell aus.
 nl-wf-0066; Anleger; de belegger; de investeerder; B1; Wirtschaft/Finanzen/Investieren & Börse; Veel beleggers verkiezen tegenwoordig veilige staatsobligaties.; Viele Anleger bevorzugen heutzutage sichere Staatsanleihen.
-nl-wf-0067; Gebühr; de vergoeding; het tarief, de kosten; B1; Wirtschaft/Finanzen/Bank; De bank vraagt een maandelijkse vergoeding voor de rekening.; Die Bank verlangt eine monatliche Gebühr für das Konto.
+nl-wf-0067; Gebühr; de kosten; het tarief, de vergoeding, de leges; B1; Wirtschaft/Finanzen/Bank; De bank rekent maandelijkse kosten voor de rekening.; Die Bank verlangt eine monatliche Gebühr für das Konto.
 nl-wf-0068; Budget; het budget; de begroting; B1; Wirtschaft/Finanzen/Geld & Zahlung; Ons budget voor het project is erg krap.; Unser Budget für das Projekt ist sehr knapp.
 nl-wf-0069; Filiale; het filiaal; de vestiging; B1; Wirtschaft/Finanzen/Bank; De bank sloot haar filiaal in onze stad.; Die Bank schloss ihre Filiale in unserer Stadt.
 nl-wf-0070; Vertrag; het contract; de overeenkomst; B1; Wirtschaft/Finanzen/Unternehmen; Lees het contract zorgvuldig voordat je het ondertekent.; Lies den Vertrag sorgfältig, bevor du ihn unterschreibst.
@@ -78,7 +78,7 @@ nl-wf-0075; Hersteller; de fabrikant; de producent; B1; Wirtschaft/Finanzen/Unte
 nl-wf-0076; Währung; de valuta; de munteenheid, de munt; B2; Wirtschaft/Finanzen/Geld & Zahlung; De euro is de gemeenschappelijke valuta van veel landen.; Der Euro ist die gemeinsame Währung vieler Länder.
 nl-wf-0077; Wechselkurs; de wisselkoers; ; B2; Wirtschaft/Finanzen/Geld & Zahlung; De wisselkoers veranderde in ons voordeel.; Der Wechselkurs änderte sich zu unseren Gunsten.
 nl-wf-0078; Inflation; de inflatie; ; B2; Wirtschaft/Finanzen/Konjunktur; Hoge inflatie vermindert de waarde van spaargeld.; Hohe Inflation mindert den Wert der Ersparnisse.
-nl-wf-0079; Zinssatz; de rentevoet; het rentetarief, het rentepercentage; B2; Wirtschaft/Finanzen/Bank; De rentevoet voor hypotheken steeg opnieuw.; Der Zinssatz für Hypotheken stieg erneut.
+nl-wf-0079; Zinssatz; het rentepercentage; de rentevoet, het rentetarief; B2; Wirtschaft/Finanzen/Bank; Het rentepercentage voor hypotheken steeg opnieuw.; Der Zinssatz für Hypotheken stieg erneut.
 nl-wf-0080; Konjunktur; de conjunctuur; ; B2; Wirtschaft/Finanzen/Konjunktur; De conjunctuur trekt langzaam weer aan.; Die Konjunktur zieht langsam wieder an.
 nl-wf-0081; Aufschwung; de opleving; de hoogconjunctuur; B2; Wirtschaft/Finanzen/Konjunktur; De opleving schiep duizenden nieuwe banen.; Der Aufschwung schuf Tausende neue Arbeitsplätze.
 nl-wf-0082; Abschwung; de neergang; de teruggang, de laagconjunctuur; B2; Wirtschaft/Finanzen/Konjunktur; De neergang trof de auto-industrie het hardst.; Der Abschwung traf die Autoindustrie am härtesten.

@@ -92,7 +92,7 @@ nl-vm-0089; Hauptverkehrszeit; het spitsuur; de spits; B1; Reisen/Verkehr/Straß
 nl-vm-0090; Anschluss; de aansluiting; de overstap; B1; Reisen/Verkehr/Bus & Bahn; Door de vertraging hebben we onze aansluiting gemist.; Wegen der Verspätung haben wir unseren Anschluss verpasst.
 nl-vm-0091; Abfahrt; het vertrek; ; B1; Reisen/Verkehr/Bus & Bahn; Het vertrek is om zes uur 's ochtends.; Die Abfahrt ist um sechs Uhr morgens.
 nl-vm-0092; Ankunft; de aankomst; ; B1; Reisen/Verkehr/Bus & Bahn; Onze aankomst in München is rond het middaguur gepland.; Unsere Ankunft in München ist für mittags geplant.
-nl-vm-0093; entwerten; afstempelen; valideren, inchecken; B1; Reisen/Verkehr/Bus & Bahn; Stempel uw kaartje alstublieft af voordat u in de tram stapt.; Bitte entwerten Sie Ihre Fahrkarte vor dem Einsteigen in die Straßenbahn.
+nl-vm-0093; entwerten; afstempelen; inchecken; B1; Reisen/Verkehr/Bus & Bahn; Stempel uw kaartje alstublieft af voordat u in de tram stapt.; Bitte entwerten Sie Ihre Fahrkarte vor dem Einsteigen in die Straßenbahn.
 nl-vm-0094; Schaffner; de conducteur; ; B1; Reisen/Verkehr/Bus & Bahn; De conducteur controleerde onze kaartjes naar Hannover.; Der Schaffner kontrollierte unsere Fahrkarten nach Hannover.
 nl-vm-0095; Parkhaus; de parkeergarage; ; B1; Reisen/Verkehr/Auto; De parkeergarage bij het station is vol.; Das Parkhaus am Bahnhof ist voll.
 nl-vm-0096; Fahrbahn; de rijbaan; het wegdek; B2; Reisen/Verkehr/Straße & Regeln; Op de rijbaan lagen afgevallen takken.; Auf der Fahrbahn lagen heruntergefallene Äste.
@@ -131,7 +131,7 @@ nl-vm-0128; Reichweite (Fahrzeug); de actieradius; het bereik; C1; Reisen/Verkeh
 nl-vm-0129; Emissionen; de emissies; de uitstoot; C1; Reisen/Verkehr/Straße & Regeln; De stad wil de emissies van het verkeer halveren.; Die Stadt will die Emissionen des Verkehrs halbieren.
 nl-vm-0130; Feinstaub; het fijnstof; de fijnstof; C1; Reisen/Verkehr/Straße & Regeln; De fijnstofwaarden overschreden opnieuw de grenswaarde.; Die Feinstaubwerte überschritten erneut den Grenzwert.
 nl-vm-0131; Umweltzone; de milieuzone; ; C1; Reisen/Verkehr/Straße & Regeln; Oudere dieselauto's mogen de milieuzone niet in.; Ältere Dieselautos dürfen nicht in die Umweltzone fahren.
-nl-vm-0132; Verkehrsberuhigung; de verkeersremming; het verkeersluw maken; C1; Reisen/Verkehr/Straße & Regeln; De bewoners eisen al jaren verkeersremming in hun straat.; Die Anwohner fordern seit Jahren eine Verkehrsberuhigung in ihrer Straße.
+nl-vm-0132; Verkehrsberuhigung; de verkeersremmende maatregelen; de verkeersremming, het verkeersluw maken; C1; Reisen/Verkehr/Straße & Regeln; De bewoners eisen al jaren verkeersremmende maatregelen in hun straat.; Die Anwohner fordern seit Jahren eine Verkehrsberuhigung in ihrer Straße.
 nl-vm-0133; Fahrassistenzsystem; het rijhulpsysteem; het rijassistentiesysteem; C1; Reisen/Verkehr/Auto; Het rijhulpsysteem waarschuwt bij het verlaten van de rijstrook.; Das Fahrassistenzsystem warnt vor dem Verlassen der Spur.
 nl-vm-0134; autonomes Fahren; autonoom rijden; het autonoom rijden; C1; Reisen/Verkehr/Auto; Autonoom rijden wordt op geselecteerde trajecten getest.; Autonomes Fahren wird auf ausgewählten Strecken getestet.
 nl-vm-0135; Verkehrsinfrastruktur; de verkeersinfrastructuur; ; C1; Reisen/Verkehr/Straße & Regeln; De investeringen in de verkeersinfrastructuur zijn verwaarloosd.; Die Investitionen in die Verkehrsinfrastruktur wurden vernachlässigt.

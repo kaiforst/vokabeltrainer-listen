@@ -34,7 +34,7 @@ nl-kg-0031; Blut; het bloed; ; A2; Gesundheit/Körper; De verpleegkundige heeft 
 nl-kg-0032; Zunge; de tong; ; A2; Gesundheit/Körper; Ik heb mijn tong verbrand aan de hete thee.; Ich habe mir die Zunge am heißen Tee verbrannt.
 nl-kg-0033; Lippe; de lip; ; A2; Gesundheit/Körper; Haar onderlip is droog en gebarsten.; Ihre Unterlippe ist trocken und rissig.
 nl-kg-0034; Husten; de hoest; ; A2; Gesundheit/Symptome; Zijn hoest hield het hele gezin wakker.; Sein Husten hielt die ganze Familie wach.
-nl-kg-0035; Schnupfen; de neusverkoudheid; de loopneus; A2; Gesundheit/Symptome; Ik heb een flinke neusverkoudheid en nies veel.; Ich habe Schnupfen und niese viel.
+nl-kg-0035; Schnupfen; de neusverkoudheid; de loopneus, de verkoudheid; A2; Gesundheit/Symptome; Ik heb een flinke neusverkoudheid en nies veel.; Ich habe Schnupfen und niese viel.
 nl-kg-0036; Erkältung; de verkoudheid; ; A2; Gesundheit/Krankheiten; Een verkoudheid duurt meestal ongeveer een week.; Eine Erkältung dauert meistens etwa eine Woche.
 nl-kg-0037; Kopfschmerzen; de hoofdpijn; ; A2; Gesundheit/Symptome; Ik had de hele middag erge hoofdpijn.; Ich hatte den ganzen Nachmittag starke Kopfschmerzen.
 nl-kg-0038; Zahnschmerzen; de kiespijn; de tandpijn; A2; Gesundheit/Symptome; Hij ging vanwege kiespijn vroeg naar bed.; Er ging wegen Zahnschmerzen früh ins Bett.
@@ -118,7 +118,7 @@ nl-kg-0115; Wirkstoff; de werkzame stof; ; B2; Gesundheit/Apotheke & Medikamente
 nl-kg-0116; verschreiben; voorschrijven; ; B2; Gesundheit/Beim Arzt; De arts schreef een lichte pijnstiller voor.; Der Arzt verschrieb ein leichtes Schmerzmittel.
 nl-kg-0117; sich erholen; herstellen; ; B2; Gesundheit/Gesunde Lebensweise; Ze herstelde snel na de operatie.; Sie erholte sich nach der Operation schnell.
 nl-kg-0118; vorbeugen; voorkomen; ; B2; Gesundheit/Gesunde Lebensweise; Bewegen helpt om veel ziektes te voorkomen.; Bewegung hilft, vielen häufigen Krankheiten vorzubeugen.
-nl-kg-0119; Vorsorgeuntersuchung; het preventieve onderzoek; de gezondheidscheck; B2; Gesundheit/Beim Arzt; Een regelmatig preventief onderzoek kan levens redden.; Eine regelmäßige Vorsorgeuntersuchung kann Leben retten.
+nl-kg-0119; Vorsorgeuntersuchung; het preventieve onderzoek; de gezondheidscheck, de check-up; B2; Gesundheit/Beim Arzt; Een regelmatig preventief onderzoek kan levens redden.; Eine regelmäßige Vorsorgeuntersuchung kann Leben retten.
 nl-kg-0120; Ernährung; de voeding; ; B2; Gesundheit/Gesunde Lebensweise; Goede voeding is de basis van de gezondheid.; Gute Ernährung ist die Grundlage der Gesundheit.
 nl-kg-0121; ausgewogen; evenwichtig; uitgebalanceerd, gebalanceerd; B2; Gesundheit/Gesunde Lebensweise; Een evenwichtige voeding bevat fruit en groente.; Eine ausgewogene Ernährung enthält Obst und Gemüse.
 nl-kg-0122; Sucht; de verslaving; ; B2; Gesundheit/Krankheiten; Zijn verslaving verwoestte na verloop van tijd zijn gezondheid.; Seine Sucht zerstörte mit der Zeit seine Gesundheit.
@@ -137,7 +137,7 @@ nl-kg-0134; Gehirnerschütterung; de hersenschudding; ; C1; Gesundheit/Krankheit
 nl-kg-0135; Knochenbruch; de botbreuk; de fractuur; C1; Gesundheit/Krankenhaus; De botbreuk moet wekenlang in het gips blijven.; Der Knochenbruch muss wochenlang in Gips bleiben.
 nl-kg-0136; Bänderriss; de bandscheuring; de bandruptuur; C1; Gesundheit/Krankheiten; Een bandscheuring vraagt vaak om een lange rustperiode.; Ein Bänderriss braucht oft eine lange Pause.
 nl-kg-0137; Verschleiß; de slijtage; ; C1; Gesundheit/Körper; Jarenlang hardlopen leidde tot slijtage in zijn knieën.; Jahrelanges Laufen führte zu Verschleiß in seinen Knien.
-nl-kg-0138; Immunschwäche; de immuundeficiëntie; de immuunstoornis; C1; Gesundheit/Krankheiten; Mensen met een immuundeficiëntie moeten bepaalde infecties vermijden.; Menschen mit Immunschwäche müssen bestimmte Infektionen meiden.
+nl-kg-0138; Immunschwäche; de immuundeficiëntie; de immuunstoornis, de afweerstoornis; C1; Gesundheit/Krankheiten; Mensen met een immuundeficiëntie moeten bepaalde infecties vermijden.; Menschen mit Immunschwäche müssen bestimmte Infektionen meiden.
 nl-kg-0139; Stoffwechselstörung; de stofwisselingsstoornis; de stofwisselingsziekte; C1; Gesundheit/Krankheiten; De bloedtest wees op een zeldzame stofwisselingsstoornis.; Der Bluttest ergab eine seltene Stoffwechselstörung.
 nl-kg-0140; Wechselwirkung; de interactie; de wisselwerking; C1; Gesundheit/Apotheke & Medikamente; Vraag naar interacties tussen uw verschillende medicijnen.; Fragen Sie nach Wechselwirkungen zwischen Ihren verschiedenen Medikamenten.
 nl-kg-0141; Heilungsprozess; het genezingsproces; het herstelproces; C1; Gesundheit/Krankenhaus; Rust en geduld ondersteunen het genezingsproces.; Ruhe und Geduld unterstützen den Heilungsprozess.

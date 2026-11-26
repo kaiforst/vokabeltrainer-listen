@@ -72,6 +72,19 @@ Pflichtenheft, Vergabekammer, deliverable, scope creep), Sprichwörter ohne fest
 0115, 0116), Umschreibungen (op korte termijn, rekening houden met, zich op zijn gemak voelen), Schulbegriffe
 (Abitur, Gymnasium, Referat, Klassenfahrt).
 
+## Zweitprüfung der unsicheren Zeilen (26. 11. 2026)
+
+Die 738 als unsicher gemeldeten Zeilen hat je ein Prüfer-Agent in vier Blöcken gezielt auf den gemeldeten Zweifel
+geprüft: **307 Feldänderungen** (u. a. echte Sprichwörter wie „zonder vlijt geen prijs“, „oefening baart kunst“, „in vino
+veritas“; mittags „tussen de middag“ statt „'s middags“; Rastplatz „de verzorgingsplaats“ statt belgisch „rustplaats“;
+vielschichtig „complex“ statt „veelzijdig“; „de cv“ aus Lebenslauf gestrichen, weil das die Zentralheizung ist; Klage
+„de rechtszaak“). 144 Zeilen bleiben Behelfslösungen; sie stehen jetzt allein in `pruefung/unsicher-nl.txt`.
+
+Dabei wichen 13 Alias-Paare voneinander ab. Vier sind angeglichen (schnitzen, Bargeld zweimal, Gepäckausgabe). Neun
+Aliase sind gelöst, weil die Bedeutung im Zusammenhang verschieden ist (Kunst als Schulfach, Regal im Laden, Foto in der
+Zeitung, Gebühr der Bank, Ware, Wirtschaftlichkeit, Öffentlichkeitsarbeit, Abmahnung, bestehen auf) – sie waren noch nicht
+veröffentlicht. `aliases.version` 12. Vier Formen mit der Grundform „zijn van“ sind gestrichen (2334 Formen).
+
 ## formen/nl.txt
 
 2338 Formen, Kopfzeile `Form; Grundform; Art`, Grundform genau wie die Antwort oder Weitere im Katalog (Infinitiv ohne

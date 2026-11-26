@@ -4,13 +4,13 @@ nl-wf-0001; Geld; het geld; ; A1; Wirtschaft/Finanzen/Geld & Zahlung; Hoeveel ge
 nl-wf-0002; kaufen; kopen; ; A1; Wirtschaft/Finanzen/Markt & Handel; We willen vandaag vers brood kopen.; Wir wollen heute frisches Brot kaufen.
 nl-wf-0003; verkaufen; verkopen; ; A1; Wirtschaft/Finanzen/Markt & Handel; Hij wil zijn oude auto verkopen.; Er will sein altes Auto verkaufen.
 nl-wf-0004; bezahlen; betalen; ; A1; Wirtschaft/Finanzen/Geld & Zahlung; Kan ik hier met de kaart betalen?; Kann ich hier mit Karte bezahlen?
-nl-wf-0005; Preis (Kosten); de prijs; ; A1; Wirtschaft/Finanzen/Markt & Handel; De prijs van koffie is weer gestegen.; Der Preis für Kaffee ist wieder gestiegen.
+nl-wf-0005; Preis (ein günstiger Preis); de prijs; ; A1; Wirtschaft/Finanzen/Markt & Handel; De prijs van koffie is weer gestegen.; Der Preis für Kaffee ist wieder gestiegen.
 nl-wf-0006; teuer; duur; ; A1; Wirtschaft/Finanzen/Markt & Handel; Dit hotel is te duur voor ons.; Dieses Hotel ist zu teuer für uns.
 nl-wf-0007; billig; goedkoop; ; A1; Wirtschaft/Finanzen/Markt & Handel; Groente is vandaag op de markt goedkoop.; Gemüse ist heute auf dem Markt billig.
-nl-wf-0008; Geschäft (Laden); de winkel; de zaak; A1; Wirtschaft/Finanzen/Markt & Handel; De winkel opent om negen uur 's ochtends.; Das Geschäft öffnet um neun Uhr morgens.
+nl-wf-0008; Geschäft (im Geschäft einkaufen); de winkel; de zaak; A1; Wirtschaft/Finanzen/Markt & Handel; De winkel opent om negen uur 's ochtends.; Das Geschäft öffnet um neun Uhr morgens.
 nl-wf-0009; arbeiten; werken; ; A1; Wirtschaft/Finanzen/Arbeit & Einkommen; Ze werkt bij een bank in Frankfurt.; Sie arbeitet in einer Bank in Frankfurt.
 nl-wf-0010; Firma; het bedrijf; de firma; A1; Wirtschaft/Finanzen/Unternehmen; Mijn bedrijf heeft kantoren in drie steden.; Meine Firma hat Büros in drei Städten.
-nl-wf-0011; Bank (Geldinstitut); de bank; ; A2; Wirtschaft/Finanzen/Bank; De bank sluit om vier uur 's middags.; Die Bank schließt um vier Uhr nachmittags.
+nl-wf-0011; Bank (Geld auf die Bank bringen); de bank; ; A2; Wirtschaft/Finanzen/Bank; De bank sluit om vier uur 's middags.; Die Bank schließt um vier Uhr nachmittags.
 nl-wf-0012; Konto; de rekening; de bankrekening; A2; Wirtschaft/Finanzen/Bank; Ik heb een rekening geopend voor mijn dochter.; Ich habe ein Konto für meine Tochter eröffnet.
 nl-wf-0013; sparen; sparen; ; A2; Wirtschaft/Finanzen/Bank; We sparen geld voor een lange vakantie.; Wir sparen Geld für einen langen Urlaub.
 nl-wf-0014; Kunde; de klant; ; A2; Wirtschaft/Finanzen/Markt & Handel; De klant vroeg naar een kleinere maat.; Der Kunde fragte nach einer kleineren Größe.
@@ -20,7 +20,7 @@ nl-wf-0017; Markt; de markt; ; A2; Wirtschaft/Finanzen/Markt & Handel; De markt 
 nl-wf-0018; Angebot; de offerte; de aanbieding, het aanbod; A2; Wirtschaft/Finanzen/Markt & Handel; De offerte geldt alleen tot vrijdag.; Das Angebot gilt nur bis Freitag.
 nl-wf-0019; verdienen; verdienen; ; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; Ze verdient als ingenieur goed geld.; Sie verdient als Ingenieurin gutes Geld.
 nl-wf-0020; Gehalt; het salaris; ; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; Het salaris wordt aan het einde van de maand betaald.; Das Gehalt wird am Ende des Monats gezahlt.
-nl-wf-0021; Lohn (Bezahlung); het loon; ; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; Het loon wordt elke week contant uitbetaald.; Der Lohn wird jede Woche bar ausgezahlt.
+nl-wf-0021; Lohn (der Lohn pro Stunde); het loon; ; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; Het loon wordt elke week contant uitbetaald.; Der Lohn wird jede Woche bar ausgezahlt.
 nl-wf-0022; Chef; de baas; de chef; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; Mijn baas is vandaag op zakenreis.; Mein Chef ist heute auf Geschäftsreise.
 nl-wf-0023; Mitarbeiter; de medewerker; de werknemer; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; Het bedrijf nam dit voorjaar twintig nieuwe medewerkers aan.; Die Firma stellte in diesem Frühjahr zwanzig neue Mitarbeiter ein.
 nl-wf-0024; Beruf; het beroep; ; A2; Wirtschaft/Finanzen/Arbeit & Einkommen; Verpleging is een zwaar maar belangrijk beroep.; Pflege ist ein anstrengender, aber wichtiger Beruf.
@@ -45,21 +45,21 @@ nl-wf-0042; Kosten; de kosten; ; B1; Wirtschaft/Finanzen/Unternehmen; De kosten 
 nl-wf-0043; Einkommen; het inkomen; ; B1; Wirtschaft/Finanzen/Arbeit & Einkommen; Haar inkomen hangt af van het aantal opdrachten.; Ihr Einkommen hängt von der Zahl der Aufträge ab.
 nl-wf-0044; Einnahmen; de inkomsten; de opbrengsten; B1; Wirtschaft/Finanzen/Unternehmen; De inkomsten van het museum komen vooral uit toegangskaartjes.; Die Einnahmen des Museums stammen hauptsächlich aus Eintrittskarten.
 nl-wf-0045; Handel; de handel; ; B1; Wirtschaft/Finanzen/Markt & Handel; De handel tussen de twee landen groeit gestaag.; Der Handel zwischen den beiden Ländern wächst stetig.
-nl-wf-0046; handeln (Handel treiben); handelen; handel drijven; B1; Wirtschaft/Finanzen/Markt & Handel; Het bedrijf handelt in koffie en fijne specerijen.; Die Firma handelt mit Kaffee und feinen Gewürzen.
+nl-wf-0046; handeln (mit Waren handeln); handelen; handel drijven; B1; Wirtschaft/Finanzen/Markt & Handel; Het bedrijf handelt in koffie en fijne specerijen.; Die Firma handelt mit Kaffee und feinen Gewürzen.
 nl-wf-0047; exportieren; exporteren; uitvoeren; B1; Wirtschaft/Finanzen/Markt & Handel; Duitsland exporteert machines naar de hele wereld.; Deutschland exportiert Maschinen in die ganze Welt.
 nl-wf-0048; importieren; importeren; invoeren; B1; Wirtschaft/Finanzen/Markt & Handel; We importeren het meeste fruit uit Spanje.; Wir importieren das meiste Obst aus Spanien.
 nl-wf-0049; Lieferung; de levering; de zending; B1; Wirtschaft/Finanzen/Markt & Handel; De levering kwam twee dagen eerder dan gepland.; Die Lieferung kam zwei Tage früher als geplant.
 nl-wf-0050; Ware; de goederen; de koopwaar, de waar; B1; Wirtschaft/Finanzen/Markt & Handel; De goederen worden gecontroleerd voordat ze de fabriek verlaten.; Die Ware wird geprüft, bevor sie das Werk verlässt.
-nl-wf-0051; Lager (Waren); het magazijn; de opslag, het pakhuis; B1; Wirtschaft/Finanzen/Markt & Handel; Het magazijn is voor de kersttijd vol.; Das Lager ist vor der Weihnachtszeit voll.
+nl-wf-0051; Lager (Waren im Lager); het magazijn; de opslag, het pakhuis; B1; Wirtschaft/Finanzen/Markt & Handel; Het magazijn is voor de kersttijd vol.; Das Lager ist vor der Weihnachtszeit voll.
 nl-wf-0052; Nachfrage; de vraag; ; B1; Wirtschaft/Finanzen/Markt & Handel; De vraag naar warmtepompen stijgt snel.; Die Nachfrage nach Wärmepumpen steigt schnell.
-nl-wf-0053; Wettbewerb (Konkurrenz); de concurrentie; ; B1; Wirtschaft/Finanzen/Markt & Handel; Sterke concurrentie houdt de prijzen erg laag.; Starker Wettbewerb hält die Preise sehr niedrig.
+nl-wf-0053; Wettbewerb (zwischen Firmen); de concurrentie; ; B1; Wirtschaft/Finanzen/Markt & Handel; Sterke concurrentie houdt de prijzen erg laag.; Starker Wettbewerb hält die Preise sehr niedrig.
 nl-wf-0054; Konkurrent; de concurrent; ; B1; Wirtschaft/Finanzen/Markt & Handel; Onze grootste concurrent verlaagde gisteren zijn prijzen.; Unser größter Konkurrent senkte gestern seine Preise.
 nl-wf-0055; Rabatt; de korting; ; B1; Wirtschaft/Finanzen/Markt & Handel; Studenten krijgen een korting van twintig procent.; Studenten bekommen einen Rabatt von zwanzig Prozent.
 nl-wf-0056; Schulden; de schulden; ; B1; Wirtschaft/Finanzen/Bank; Hij betaalde zijn schulden binnen drie jaar af.; Er zahlte seine Schulden innerhalb von drei Jahren ab.
 nl-wf-0057; leihen (jemandem etwas); lenen; uitlenen; B1; Wirtschaft/Finanzen/Bank; Kun je me vijftig euro lenen tot vrijdag?; Kannst du mir fünfzig Euro bis Freitag leihen?
 nl-wf-0058; überweisen; overmaken; overschrijven; B1; Wirtschaft/Finanzen/Bank; Ik heb de huur vandaag aan de verhuurder overgemaakt.; Ich habe die Miete heute an den Vermieter überwiesen.
-nl-wf-0059; Überweisung (Bank); de overschrijving; de overboeking; B1; Wirtschaft/Finanzen/Bank; De overschrijving duurt ongeveer één werkdag.; Die Überweisung dauert ungefähr einen Werktag.
-nl-wf-0060; abheben (Geld); opnemen; pinnen; B1; Wirtschaft/Finanzen/Bank; Ze nam tweehonderd euro op voor de reis.; Sie hob zweihundert Euro für die Reise ab.
+nl-wf-0059; Überweisung (Geld per Überweisung); de overschrijving; de overboeking; B1; Wirtschaft/Finanzen/Bank; De overschrijving duurt ongeveer één werkdag.; Die Überweisung dauert ungefähr einen Werktag.
+nl-wf-0060; abheben (Geld vom Konto abheben); opnemen; pinnen; B1; Wirtschaft/Finanzen/Bank; Ze nam tweehonderd euro op voor de reis.; Sie hob zweihundert Euro für die Reise ab.
 nl-wf-0061; einzahlen; storten; ; B1; Wirtschaft/Finanzen/Bank; Hij stort elke maand een klein bedrag.; Er zahlt jeden Monat einen kleinen Betrag ein.
 nl-wf-0062; Aktie; het aandeel; ; B1; Wirtschaft/Finanzen/Investieren & Börse; Het aandeel verloor vijf procent van zijn waarde.; Die Aktie verlor fünf Prozent ihres Wertes.
 nl-wf-0063; Börse; de beurs; de effectenbeurs; B1; Wirtschaft/Finanzen/Investieren & Börse; De beurs reageerde kalm op het nieuws.; Die Börse reagierte gelassen auf die Nachrichten.
@@ -103,7 +103,7 @@ nl-wf-0100; Einkommensteuer; de inkomstenbelasting; ; B2; Wirtschaft/Finanzen/St
 nl-wf-0101; Steuererklärung; de belastingaangifte; de aangifte; B2; Wirtschaft/Finanzen/Steuern; Ik doe mijn belastingaangifte elk voorjaar online.; Ich reiche meine Steuererklärung jedes Frühjahr online ein.
 nl-wf-0102; Steuerberater; de belastingadviseur; de belastingconsulent; B2; Wirtschaft/Finanzen/Steuern; Mijn belastingadviseur vond meerdere aftrekposten voor mij.; Mein Steuerberater fand mehrere Abzugsmöglichkeiten für mich.
 nl-wf-0103; Finanzamt; de belastingdienst; ; B2; Wirtschaft/Finanzen/Steuern; De belastingdienst stuurde in oktober een aanmaning.; Das Finanzamt schickte im Oktober eine Mahnung.
-nl-wf-0104; absetzen (steuerlich); aftrekken; ; B2; Wirtschaft/Finanzen/Steuern; Je kunt reiskosten van de belasting aftrekken.; Du kannst Fahrtkosten von der Steuer absetzen.
+nl-wf-0104; absetzen (von der Steuer absetzen); aftrekken; ; B2; Wirtschaft/Finanzen/Steuern; Je kunt reiskosten van de belasting aftrekken.; Du kannst Fahrtkosten von der Steuer absetzen.
 nl-wf-0105; Buchhaltung; de boekhouding; ; B2; Wirtschaft/Finanzen/Unternehmen; Een nette boekhouding bespaart gedoe met de belastingdienst.; Eine saubere Buchhaltung erspart Ärger mit dem Finanzamt.
 nl-wf-0106; Bilanz; de balans; ; B2; Wirtschaft/Finanzen/Unternehmen; De balans toont alle bezittingen en schulden.; Die Bilanz zeigt alle Vermögenswerte und Verbindlichkeiten.
 nl-wf-0107; Hypothek; de hypotheek; ; B2; Wirtschaft/Finanzen/Bank; Ze namen een hypotheek op het huis.; Sie nahmen eine Hypothek auf das Haus auf.

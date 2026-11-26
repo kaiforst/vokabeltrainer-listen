@@ -10,7 +10,7 @@ nl-xa-0007; Mieter; de huurder; ; B1; Alltag/Zuhause/Räume; De nieuwe huurder t
 nl-xa-0008; Vermieter; de verhuurder; de huisbaas; B1; Alltag/Zuhause/Räume; Onze verhuurder heeft eindelijk de verwarming gerepareerd.; Unser Vermieter hat endlich die Heizung repariert.
 nl-xa-0009; Miete; de huur; ; A2; Alltag/Zuhause/Räume; De huur voor deze woning is erg hoog.; Die Miete für diese Wohnung ist sehr hoch.
 nl-xa-0010; Wohngemeinschaft; de woongroep; de woongemeenschap, het studentenhuis; B1; Alltag/Zuhause/Räume; Na hun pensioen zijn ze in een woongroep gaan wonen.; Nach ihrer Rente sind sie in eine Wohngemeinschaft gezogen.
-nl-xa-0011; umziehen (Wohnung); verhuizen; ; A2; Alltag/Zuhause/Räume; We verhuizen in juni naar een grotere woning.; Wir ziehen im Juni in eine größere Wohnung um.
+nl-xa-0011; umziehen (in eine neue Wohnung); verhuizen; ; A2; Alltag/Zuhause/Räume; We verhuizen in juni naar een grotere woning.; Wir ziehen im Juni in eine größere Wohnung um.
 nl-xa-0012; Speisekammer; de voorraadkast; de provisiekast, de provisiekamer; B2; Alltag/Zuhause/Räume; We bewaren de aardappelen in de voorraadkast.; Wir bewahren die Kartoffeln in der Speisekammer auf.
 nl-xa-0013; Dachrinne; de dakgoot; de goot; C1; Alltag/Zuhause/Räume; De dakgoot zit alweer vol bladeren.; Die Dachrinne ist schon wieder voller Laub.
 nl-xa-0014; Abfluss; de afvoer; het afvoerputje; B2; Alltag/Zuhause/Räume; Haren hebben de afvoer in de douche verstopt.; Haare haben den Abfluss in der Dusche verstopft.
@@ -41,14 +41,14 @@ nl-xa-0038; Spülmittel; het afwasmiddel; ; B1; Alltag/Zuhause/Haushalt; Doe een
 nl-xa-0039; Mülltüte; de vuilniszak; de afvalzak; B1; Alltag/Zuhause/Haushalt; Kun je een nieuwe vuilniszak in de keuken doen?; Kannst du eine neue Mülltüte in der Küche einlegen?
 nl-xa-0040; Geschirrtuch; de theedoek; ; B1; Alltag/Zuhause/Haushalt; Droog de glazen af met een schone theedoek.; Trockne die Gläser mit einem sauberen Geschirrtuch ab.
 nl-xa-0041; Putzfrau; de schoonmaakster; de werkster, de hulp; B1; Alltag/Zuhause/Haushalt; Onze schoonmaakster komt elke vrijdagochtend.; Unsere Putzfrau kommt jeden Freitagmorgen.
-nl-xa-0042; Haushalt (zu Hause); het huishouden; ; B1; Alltag/Zuhause/Haushalt; In ons huishouden helpt iedereen met koken.; In unserem Haushalt hilft jeder beim Kochen.
+nl-xa-0042; Haushalt (ein Haushalt mit Kindern); het huishouden; ; B1; Alltag/Zuhause/Haushalt; In ons huishouden helpt iedereen met koken.; In unserem Haushalt hilft jeder beim Kochen.
 nl-xa-0043; staubsaugen; stofzuigen; ; A2; Alltag/Zuhause/Haushalt; Op zaterdag stofzuig ik het hele huis.; Samstags staubsauge ich das ganze Haus.
 nl-xa-0044; lüften; luchten; ventileren; B1; Alltag/Zuhause/Haushalt; Doe de ramen open en lucht de kamer tien minuten.; Mach die Fenster auf und lüfte das Zimmer zehn Minuten.
 nl-xa-0045; renovieren; renoveren; verbouwen, opknappen; B1; Alltag/Zuhause/Haushalt; Ze renoveren de oude boerderij zelf.; Sie renovieren das alte Bauernhaus selbst.
-nl-xa-0046; streichen (Wand); verven; schilderen; B1; Alltag/Zuhause/Haushalt; We willen de slaapkamer groen verven.; Wir wollen das Schlafzimmer grün streichen.
+nl-xa-0046; streichen (die Wand streichen); verven; schilderen; B1; Alltag/Zuhause/Haushalt; We willen de slaapkamer groen verven.; Wir wollen das Schlafzimmer grün streichen.
 nl-xa-0047; tapezieren; behangen; ; B2; Alltag/Zuhause/Haushalt; Mijn vader heeft vorig weekend de gang behangen.; Mein Vater hat letztes Wochenende den Flur tapeziert.
 nl-xa-0431; Tapete; het behang; het behangpapier; B1; Alltag/Zuhause/Haushalt; We hebben behang met kleine bloemetjes uitgezocht.; Wir haben eine Tapete mit kleinen Blumen ausgesucht.
-nl-xa-0432; Farbe (zum Streichen); de verf; ; A2; Alltag/Zuhause/Haushalt; We hebben nog twee blikken witte verf nodig.; Wir brauchen noch zwei Dosen weiße Farbe.
+nl-xa-0432; Farbe (ein Eimer Farbe); de verf; ; A2; Alltag/Zuhause/Haushalt; We hebben nog twee blikken witte verf nodig.; Wir brauchen noch zwei Dosen weiße Farbe.
 nl-xa-0433; Lack; de lak; de vernis; B2; Alltag/Zuhause/Haushalt; De oude tafel heeft een nieuwe laag lak nodig.; Der alte Tisch braucht eine neue Schicht Lack.
 nl-xa-0048; unordentlich; rommelig; slordig; A2; Alltag/Zuhause/Haushalt; Je bureau is altijd zo rommelig.; Dein Schreibtisch ist immer so unordentlich.
 nl-xa-0049; staubig; stoffig; ; B1; Alltag/Zuhause/Haushalt; De oude boeken op zolder zijn erg stoffig.; Die alten Bücher auf dem Dachboden sind sehr staubig.
@@ -88,12 +88,12 @@ nl-xa-0081; Mais (zum Essen); de maïs; ; A2; Alltag/Essen/Lebensmittel; Doe een
 nl-xa-0082; Aubergine; de aubergine; ; B1; Alltag/Essen/Lebensmittel; Snijd de aubergine in dunne plakjes en bak ze.; Schneide die Aubergine in dünne Scheiben und brate sie.
 nl-xa-0083; Lauch; de prei; ; B1; Alltag/Essen/Lebensmittel; Aardappelsoep met prei is in de winter perfect.; Kartoffelsuppe mit Lauch ist im Winter perfekt.
 nl-xa-0084; Spargel; de asperge; ; B1; Alltag/Essen/Lebensmittel; In mei eten we witte asperges met ham.; Im Mai essen wir weißen Spargel mit Schinken.
-nl-xa-0085; Linse (Hülsenfrucht); de linze; ; B1; Alltag/Essen/Lebensmittel; Rode linzen zijn in ongeveer vijftien minuten gaar.; Rote Linsen sind in etwa fünfzehn Minuten gar.
+nl-xa-0085; Linse (Suppe mit Linsen); de linze; ; B1; Alltag/Essen/Lebensmittel; Rode linzen zijn in ongeveer vijftien minuten gaar.; Rote Linsen sind in etwa fünfzehn Minuten gar.
 nl-xa-0086; Kichererbse; de kikkererwt; ; B2; Alltag/Essen/Lebensmittel; Hummus wordt gemaakt van kikkererwten.; Hummus wird aus Kichererbsen gemacht.
 nl-xa-0087; Ananas; de ananas; ; A2; Alltag/Essen/Lebensmittel; Is de ananas rijp genoeg om te eten?; Ist die Ananas reif genug zum Essen?
 nl-xa-0088; Kirsche; de kers; ; A1; Alltag/Essen/Lebensmittel; De kersen van onze boom zijn erg zoet.; Die Kirschen von unserem Baum sind sehr süß.
 nl-xa-0089; Pfirsich; de perzik; ; A2; Alltag/Essen/Lebensmittel; Deze perzik is zacht en sappig.; Dieser Pfirsich ist weich und saftig.
-nl-xa-0090; Mandel (Nuss); de amandel; ; B1; Alltag/Essen/Lebensmittel; De taart wordt gebakken met gemalen amandelen.; Der Kuchen wird mit gemahlenen Mandeln gebacken.
+nl-xa-0090; Mandel (gebrannte Mandeln); de amandel; ; B1; Alltag/Essen/Lebensmittel; De taart wordt gebakken met gemalen amandelen.; Der Kuchen wird mit gemahlenen Mandeln gebacken.
 nl-xa-0091; Walnuss; de walnoot; ; B1; Alltag/Essen/Lebensmittel; Ze heeft een paar walnoten in de salade gedaan.; Sie hat ein paar Walnüsse in den Salat getan.
 nl-xa-0092; Keks; het koekje; de koek; A1; Alltag/Essen/Lebensmittel; Wil je een koekje bij de thee?; Möchtest du einen Keks zum Tee?
 nl-xa-0093; Bonbon; het snoepje; ; A1; Alltag/Essen/Lebensmittel; De dokter gaf het kind een snoepje.; Der Arzt gab dem Kind ein Bonbon.
@@ -126,10 +126,10 @@ nl-xa-0118; Orangensaft; het sinaasappelsap; de sinaasappelsap, de jus d'orange;
 nl-xa-0119; Rotwein; de rode wijn; ; A2; Alltag/Essen/Getränke; Bij het avondeten hebben we een fles rode wijn gedronken.; Zum Abendessen haben wir eine Flasche Rotwein getrunken.
 nl-xa-0120; alkoholfrei; alcoholvrij; ; B1; Alltag/Essen/Getränke; De chauffeur drinkt alleen alcoholvrij bier.; Der Fahrer trinkt nur alkoholfreies Bier.
 nl-xa-0121; Alkohol; de alcohol; ; A2; Alltag/Essen/Getränke; In deze bowl zit geen alcohol.; In dieser Bowle ist kein Alkohol.
-nl-xa-0122; reiben (Käse); raspen; ; B2; Alltag/Essen/Kochen; Rasp wat kaas over de pasta.; Reib etwas Käse über die Nudeln.
+nl-xa-0122; reiben (Käse reiben); raspen; ; B2; Alltag/Essen/Kochen; Rasp wat kaas over de pasta.; Reib etwas Käse über die Nudeln.
 nl-xa-0123; kneten; kneden; ; B2; Alltag/Essen/Kochen; Kneed het deeg tien minuten lang.; Knete den Teig zehn Minuten lang.
 nl-xa-0124; abgießen; afgieten; ; B2; Alltag/Essen/Kochen; Giet de aardappelen af en laat ze een beetje afkoelen.; Gieß die Kartoffeln ab und lass sie etwas abkühlen.
-nl-xa-0125; würfeln (Gemüse); in blokjes snijden; ; B2; Alltag/Essen/Kochen; Snijd de uien in blokjes en bak ze aan in olie.; Würfle die Zwiebeln und brate sie in Öl an.
+nl-xa-0125; würfeln (Zwiebeln würfeln); in blokjes snijden; ; B2; Alltag/Essen/Kochen; Snijd de uien in blokjes en bak ze aan in olie.; Würfle die Zwiebeln und brate sie in Öl an.
 nl-xa-0126; bestreuen; bestrooien; ; B2; Alltag/Essen/Kochen; Bestrooi de pizza met kaas en oregano.; Bestreu die Pizza mit Käse und Oregano.
 nl-xa-0127; verquirlen; loskloppen; kloppen; C1; Alltag/Essen/Kochen; Klop de eieren los met een beetje melk.; Verquirl die Eier mit etwas Milch.
 nl-xa-0128; Prise; het snufje; de snuf; B2; Alltag/Essen/Kochen; Doe een snufje zout in het water.; Gib eine Prise Salz ins Wasser.
@@ -149,13 +149,13 @@ nl-xa-0141; Rührei; het roerei; ; A2; Alltag/Essen/Mahlzeiten; Op zondag eten w
 nl-xa-0142; Eintopf; de stoofpot; de eenpansmaaltijd, de stoofschotel; B1; Alltag/Essen/Mahlzeiten; Een hete stoofpot is op een koude dag precies goed.; Ein heißer Eintopf ist an einem kalten Tag genau richtig.
 nl-xa-0143; Auflauf; de ovenschotel; ; B2; Alltag/Essen/Mahlzeiten; Ze heeft een groenteovenschotel met kaas erop gemaakt.; Sie hat einen Gemüseauflauf mit Käse obendrauf gemacht.
 nl-xa-0144; Portion; de portie; ; A2; Alltag/Essen/Mahlzeiten; De porties in dit restaurant zijn enorm.; Die Portionen in diesem Restaurant sind riesig.
-nl-xa-0145; Scheibe (Brot); de snee; de snede, het sneetje, de plak; A2; Alltag/Essen/Mahlzeiten; Mag ik nog een snee brood?; Könnte ich noch eine Scheibe Brot haben?
+nl-xa-0145; Scheibe (eine Scheibe Brot); de snee; de snede, het sneetje, de plak; A2; Alltag/Essen/Mahlzeiten; Mag ik nog een snee brood?; Könnte ich noch eine Scheibe Brot haben?
 nl-xa-0146; Kantine; de kantine; ; B1; Alltag/Essen/Restaurant; We eten op het werk in de kantine.; Wir essen in der Kantine bei der Arbeit zu Mittag.
 nl-xa-0147; Café; het café; ; A1; Alltag/Essen/Restaurant; Laten we elkaar ontmoeten in het café op de hoek.; Lass uns im Café an der Ecke treffen.
 nl-xa-0148; Bedienung; de bediening; ; B1; Alltag/Essen/Restaurant; Het eten was goed, maar de bediening was langzaam.; Das Essen war gut, aber die Bedienung war langsam.
 nl-xa-0149; Tagesgericht; het dagmenu; de dagschotel, het daggerecht; B1; Alltag/Essen/Restaurant; Het dagmenu is vandaag kipcurry met rijst.; Das Tagesgericht ist heute Hähnchencurry mit Reis.
 nl-xa-0150; Beilage; het bijgerecht; ; B1; Alltag/Essen/Restaurant; Als bijgerecht is er rijst of salade.; Als Beilage gibt es Reis oder Salat.
-nl-xa-0151; Gang (beim Essen); de gang; het gerecht; B2; Alltag/Essen/Restaurant; Het bruiloftsdiner had vijf gangen.; Das Hochzeitsessen hatte fünf Gänge.
+nl-xa-0151; Gang (ein Menü mit drei Gängen); de gang; het gerecht; B2; Alltag/Essen/Restaurant; Het bruiloftsdiner had vijf gangen.; Das Hochzeitsessen hatte fünf Gänge.
 nl-xa-0152; Buffet; het buffet; ; B1; Alltag/Essen/Restaurant; Het ontbijt in het hotel is een groot buffet.; Das Frühstück im Hotel ist ein großes Buffet.
 nl-xa-0153; Lieferdienst; de bezorgdienst; de bezorgservice, de maaltijdbezorger; B1; Alltag/Essen/Restaurant; We hebben pizza besteld bij een bezorgdienst.; Wir haben Pizza bei einem Lieferdienst bestellt.
 nl-xa-0154; Kleidung; de kleding; de kleren; A1; Alltag/Kleidung/Kleidungsstücke; Neem warme kleding mee, want het wordt 's nachts koud.; Nimm warme Kleidung mit, weil es nachts kalt wird.
@@ -175,7 +175,7 @@ nl-xa-0167; Schnalle; de gesp; ; C1; Alltag/Kleidung/Schuhe & Accessoires; De ge
 nl-xa-0439; Brieftasche; de portefeuille; de portemonnee; B1; Alltag/Kleidung/Schuhe & Accessoires; Hij heeft zijn identiteitsbewijs in zijn portefeuille.; Er hat seinen Ausweis in der Brieftasche.
 nl-xa-0440; Laufschuh; de hardloopschoen; de loopschoen; B1; Alltag/Kleidung/Schuhe & Accessoires; Voor de marathon heb ik nieuwe hardloopschoenen nodig.; Für den Marathon brauche ich neue Laufschuhe.
 nl-xa-0168; Schuhgröße; de schoenmaat; ; A2; Alltag/Kleidung/Einkauf & Passform; Zeg, welke schoenmaat heb je eigenlijk?; Welche Schuhgröße hast du?
-nl-xa-0169; locker (Kleidung); los; ruim; B1; Alltag/Kleidung/Einkauf & Passform; In de zomer draag ik graag losse kleding.; Im Sommer trage ich gern lockere Kleidung.
+nl-xa-0169; locker (die Hose sitzt locker); los; ruim; B1; Alltag/Kleidung/Einkauf & Passform; In de zomer draag ik graag losse kleding.; Im Sommer trage ich gern lockere Kleidung.
 nl-xa-0170; ärmellos; mouwloos; ; B1; Alltag/Kleidung/Kleidungsstücke; Voor een mouwloze jurk is het te koud.; Für ein ärmelloses Kleid ist es zu kalt.
 nl-xa-0171; wasserdicht; waterdicht; ; B1; Alltag/Kleidung/Kleidungsstücke; Voor deze wandeling heb je een waterdichte jas nodig.; Für diese Wanderung brauchst du eine wasserdichte Jacke.
 nl-xa-0172; schick; chic; sjiek; B1; Alltag/Kleidung/Stil; Je ziet er in dat pak erg chic uit.; Du siehst in dem Anzug sehr schick aus.
@@ -185,14 +185,14 @@ nl-xa-0175; flicken; verstellen; repareren; B2; Alltag/Kleidung/Pflege & Schneid
 nl-xa-0176; Loch; het gat; ; A2; Alltag/Kleidung/Pflege & Schneiderei; Er zit een groot gat in je sok.; In deiner Socke ist ein großes Loch.
 nl-xa-0177; zerrissen; gescheurd; ; B1; Alltag/Kleidung/Pflege & Schneiderei; Na de vechtpartij was zijn overhemd gescheurd.; Nach der Prügelei war sein Hemd zerrissen.
 nl-xa-0178; Etikett; het etiket; het label; B1; Alltag/Kleidung/Pflege & Schneiderei; Lees het etiket voordat je de trui wast.; Lies das Etikett, bevor du den Pullover wäschst.
-nl-xa-0179; einlaufen (Wäsche); krimpen; ; B2; Alltag/Kleidung/Pflege & Schneiderei; Mijn favoriete T-shirt is in de was gekrompen.; Mein Lieblings-T-Shirt ist in der Wäsche eingelaufen.
+nl-xa-0179; einlaufen (der Pulli ist eingelaufen); krimpen; ; B2; Alltag/Kleidung/Pflege & Schneiderei; Mijn favoriete T-shirt is in de was gekrompen.; Mein Lieblings-T-Shirt ist in der Wäsche eingelaufen.
 nl-xa-0180; knittern; kreuken; kreukelen; B2; Alltag/Kleidung/Pflege & Schneiderei; Linnen kreukt heel makkelijk in de koffer.; Leinen knittert im Koffer sehr leicht.
 nl-xa-0181; zerknittert; gekreukt; gekreukeld, verkreukeld; B2; Alltag/Kleidung/Pflege & Schneiderei; Na de lange vlucht was zijn overhemd helemaal gekreukt.; Nach dem langen Flug war sein Hemd ganz zerknittert.
 nl-xa-0182; Lebensmittelgeschäft; de buurtsuper; de levensmiddelenwinkel, de kruidenierswinkel; A2; Alltag/Einkaufen/Geschäfte; Aan het eind van onze straat is een kleine buurtsuper.; Am Ende unserer Straße gibt es ein kleines Lebensmittelgeschäft.
 nl-xa-0183; Kaufhaus; het warenhuis; ; A2; Alltag/Einkaufen/Geschäfte; Het warenhuis verkoopt alles van schoenen tot banken.; Das Kaufhaus verkauft alles von Schuhen bis zu Sofas.
 nl-xa-0184; Schreibwarenladen; de kantoorboekhandel; ; B1; Alltag/Einkaufen/Geschäfte; Ik heb in de kantoorboekhandel nieuwe pennen gekocht.; Ich habe im Schreibwarenladen neue Stifte gekauft.
 nl-xa-0185; Optiker; de opticien; ; B1; Alltag/Einkaufen/Geschäfte; Ik haal mijn nieuwe bril bij de opticien.; Ich hole meine neue Brille beim Optiker ab.
-nl-xa-0186; Reinigung (Geschäft); de stomerij; ; B2; Alltag/Einkaufen/Geschäfte; Kun je mijn pak naar de stomerij brengen?; Kannst du meinen Anzug in die Reinigung bringen?
+nl-xa-0186; Reinigung (den Anzug zur Reinigung bringen); de stomerij; ; B2; Alltag/Einkaufen/Geschäfte; Kun je mijn pak naar de stomerij brengen?; Kannst du meinen Anzug in die Reinigung bringen?
 nl-xa-0187; Waschsalon; de wasserette; ; B2; Alltag/Einkaufen/Geschäfte; Onze wasmachine is kapot, daarom ga ik naar de wasserette.; Unsere Waschmaschine ist kaputt, deshalb gehe ich in den Waschsalon.
 nl-xa-0188; Theke; de toonbank; de balie; B1; Alltag/Einkaufen/Geschäfte; Vraag aan de toonbank naar de kaas.; Frag an der Theke nach dem Käse.
 nl-xa-0189; Kassierer; de kassier; de caissière, de kassamedewerker; A2; Alltag/Einkaufen/Geschäfte; De kassier heeft me verkeerd wisselgeld gegeven.; Der Kassierer hat mir falsches Wechselgeld gegeben.
@@ -213,7 +213,7 @@ nl-xa-0200; übergewichtig; te zwaar; ; B1; Mensch/Aussehen; De dokter zei hem d
 nl-xa-0201; blond; blond; ; A2; Mensch/Aussehen; Beide kinderen hebben blond haar en blauwe ogen.; Beide Kinder haben blonde Haare und blaue Augen.
 nl-xa-0202; dunkelhaarig; donkerharig; ; B1; Mensch/Aussehen; Een donkerharige vrouw wachtte bij de deur.; Eine dunkelhaarige Frau wartete an der Tür.
 nl-xa-0203; lockig; krullend; gekruld; A2; Mensch/Aussehen; Haar dochter heeft lang krullend haar.; Ihre Tochter hat lange, lockige Haare.
-nl-xa-0204; glatt (Haar); steil; sluik; A2; Mensch/Aussehen; Mijn haar is steil, maar dat van mijn broer is krullend.; Meine Haare sind glatt, aber die meines Bruders sind lockig.
+nl-xa-0204; glatt (glatte Haare); steil; sluik; A2; Mensch/Aussehen; Mijn haar is steil, maar dat van mijn broer is krullend.; Meine Haare sind glatt, aber die meines Bruders sind lockig.
 nl-xa-0205; kahl; kaal; ; B1; Mensch/Aussehen; Mijn oom werd op zijn dertigste kaal.; Mein Onkel wurde mit dreißig kahl.
 nl-xa-0206; Bart; de baard; ; A2; Mensch/Aussehen; Hij laat sinds de zomer zijn baard staan.; Er hat sich seit dem Sommer einen Bart wachsen lassen.
 nl-xa-0207; Schnurrbart; de snor; ; B1; Mensch/Aussehen; De man op de foto heeft een dikke snor.; Der Mann auf dem Foto hat einen dichten Schnurrbart.
@@ -224,7 +224,7 @@ nl-xa-0211; Muttermal; de moedervlek; ; C1; Mensch/Aussehen; Laat de moedervlek 
 nl-xa-0212; Zopf; de vlecht; ; B2; Mensch/Aussehen; Haar moeder maakt elke ochtend een vlecht in haar haar.; Ihre Mutter flicht ihr jeden Morgen einen Zopf.
 nl-xa-0213; Pferdeschwanz; de paardenstaart; ; B1; Mensch/Aussehen; Bij het sporten doet ze haar haar in een paardenstaart.; Beim Sport bindet sie ihre Haare zu einem Pferdeschwanz.
 nl-xa-0214; Frisur; het kapsel; ; A2; Mensch/Aussehen; Vind je mijn nieuwe kapsel mooi?; Gefällt dir meine neue Frisur?
-nl-xa-0215; Pony (Frisur); de pony; ; B2; Mensch/Aussehen; Je pony wordt te lang.; Dein Pony wird zu lang.
+nl-xa-0215; Pony (die Haare über der Stirn); de pony; ; B2; Mensch/Aussehen; Je pony wordt te lang.; Dein Pony wird zu lang.
 nl-xa-0216; blass; bleek; ; B1; Mensch/Aussehen; Je ziet bleek, gaat het wel goed met je?; Du siehst blass aus, geht es dir gut?
 nl-xa-0217; braun gebrannt; gebruind; bruin; B1; Mensch/Aussehen; Ze kwamen mooi gebruind terug uit Spanje.; Sie kamen schön braun gebrannt aus Spanien zurück.
 nl-xa-0218; muskulös; gespierd; ; B2; Mensch/Aussehen; De zwemmer heeft brede, gespierde schouders.; Der Schwimmer hat breite, muskulöse Schultern.
@@ -303,7 +303,7 @@ nl-xa-0290; Augenlid; het ooglid; ; B2; Gesundheit/Körper; Mijn linker ooglid t
 nl-xa-0291; Nasenloch; het neusgat; ; B2; Gesundheit/Körper; Adem in door één neusgat.; Atme durch ein Nasenloch ein.
 nl-xa-0292; Zahnfleisch; het tandvlees; ; B2; Gesundheit/Körper; Mijn tandvlees bloedt bij het tandenpoetsen.; Mein Zahnfleisch blutet beim Zähneputzen.
 nl-xa-0293; Nacken; de nek; ; B1; Gesundheit/Körper; Ik heb een stijve nek omdat ik slecht heb geslapen.; Ich habe einen steifen Nacken, weil ich schlecht geschlafen habe.
-nl-xa-0294; Brust (Oberkörper); de borst; de borstkas; A2; Gesundheit/Körper; Hij heeft pijn op de borst.; Er hat Schmerzen in der Brust.
+nl-xa-0294; Brust (Schmerzen in der Brust); de borst; de borstkas; A2; Gesundheit/Körper; Hij heeft pijn op de borst.; Er hat Schmerzen in der Brust.
 nl-xa-0295; Hüfte; de heup; ; B1; Gesundheit/Körper; Mijn oma heeft een nieuwe heup nodig.; Meine Großmutter braucht eine neue Hüfte.
 nl-xa-0296; Taille; de taille; het middel; B1; Gesundheit/Körper; Deze broek zit te strak in de taille.; Diese Hose ist an der Taille zu eng.
 nl-xa-0297; Po; de billen; het achterwerk; A2; Gesundheit/Körper; De kleine jongen is op zijn billen gevallen.; Der kleine Junge ist auf den Po gefallen.
@@ -316,7 +316,7 @@ nl-xa-0303; Faust; de vuist; ; B1; Gesundheit/Körper; Hij sloeg met zijn vuist 
 nl-xa-0304; Handfläche; de handpalm; ; B2; Gesundheit/Körper; Ze hield het vogeltje in haar handpalm.; Sie hielt den kleinen Vogel in ihrer Handfläche.
 nl-xa-0305; Bauchnabel; de navel; ; B1; Gesundheit/Körper; De baby lacht als je hem bij zijn navel kietelt.; Das Baby lacht, wenn man es am Bauchnabel kitzelt.
 nl-xa-0306; Darm; de darm; de darmen; B2; Gesundheit/Körper; Vezels zijn goed voor de darmen.; Ballaststoffe sind gut für den Darm.
-nl-xa-0307; Blase (Organ); de blaas; ; C1; Gesundheit/Körper; Genoeg water drinken is goed voor de blaas.; Genug Wasser zu trinken ist gut für die Blase.
+nl-xa-0307; Blase (die Harnblase); de blaas; ; C1; Gesundheit/Körper; Genoeg water drinken is goed voor de blaas.; Genug Wasser zu trinken ist gut für die Blase.
 nl-xa-0308; Nerv; de zenuw; ; B1; Gesundheit/Körper; De tandarts raakte een zenuw en het deed echt pijn.; Der Zahnarzt hat einen Nerv getroffen, und es tat richtig weh.
 nl-xa-0309; Sehne; de pees; ; C1; Gesundheit/Körper; De voetballer heeft een pees in zijn voet gescheurd.; Der Fußballer hat sich eine Sehne im Fuß gerissen.
 nl-xa-0310; Schädel; de schedel; ; B2; Gesundheit/Körper; De helm beschermt je schedel als je valt.; Der Helm schützt deinen Schädel, wenn du stürzt.
@@ -330,7 +330,7 @@ nl-xa-0317; Schwellung; de zwelling; ; B2; Gesundheit/Symptome; Leg er ijs op, z
 nl-xa-0318; geschwollen; gezwollen; opgezwollen; B1; Gesundheit/Symptome; Na de val is mijn enkel flink gezwollen.; Nach dem Sturz ist mein Knöchel stark geschwollen.
 nl-xa-0319; blauer Fleck; de blauwe plek; ; B1; Gesundheit/Symptome; Ik heb een grote blauwe plek op mijn arm.; Ich habe einen großen blauen Fleck am Arm.
 nl-xa-0320; Krampf; de kramp; ; B2; Gesundheit/Symptome; 's Nachts werd ik wakker met kramp in mijn been.; Nachts bin ich mit einem Krampf im Bein aufgewacht.
-nl-xa-0321; Kater (nach Alkohol); de kater; ; B2; Gesundheit/Symptome; Na het feest had hij een vreselijke kater.; Nach der Party hatte er einen schrecklichen Kater.
+nl-xa-0321; Kater (einen Kater haben); de kater; ; B2; Gesundheit/Symptome; Na het feest had hij een vreselijke kater.; Nach der Party hatte er einen schrecklichen Kater.
 nl-xa-0322; Verbrennung; de brandwond; ; B1; Gesundheit/Symptome; Koel de brandwond meteen met koud water.; Kühl die Verbrennung sofort mit kaltem Wasser.
 nl-xa-0323; Beule; de bult; de buil; B1; Gesundheit/Symptome; Hij heeft een bult op zijn hoofd van de deur.; Er hat von der Tür eine Beule am Kopf.
 nl-xa-0324; Kratzer; de schram; de kras; B1; Gesundheit/Symptome; De kat heeft me een schram op mijn hand bezorgd.; Die Katze hat mir einen Kratzer an der Hand verpasst.
@@ -377,7 +377,7 @@ nl-xa-0364; Hausarzt; de huisarts; ; A2; Gesundheit/Beim Arzt; Als je je ziek vo
 nl-xa-0365; Kinderarzt; de kinderarts; ; B1; Gesundheit/Beim Arzt; We gaan morgen met de baby naar de kinderarts.; Wir gehen morgen mit dem Baby zum Kinderarzt.
 nl-xa-0366; Augenarzt; de oogarts; ; B1; Gesundheit/Beim Arzt; De oogarts zegt dat ik een sterkere bril nodig heb.; Der Augenarzt sagt, dass ich eine stärkere Brille brauche.
 nl-xa-0367; Facharzt; de specialist; de medisch specialist; B2; Gesundheit/Beim Arzt; Mijn arts heeft me naar een specialist voor hartziekten gestuurd.; Mein Arzt hat mich zu einem Facharzt für Herzkrankheiten geschickt.
-nl-xa-0368; Sprechstunde (Arzt); het spreekuur; ; B2; Gesundheit/Beim Arzt; Het spreekuur van de dokter is van acht tot twaalf.; Die Sprechstunde des Arztes ist von acht bis zwölf.
+nl-xa-0368; Sprechstunde (beim Arzt); het spreekuur; ; B2; Gesundheit/Beim Arzt; Het spreekuur van de dokter is van acht tot twaalf.; Die Sprechstunde des Arztes ist von acht bis zwölf.
 nl-xa-0369; Arztpraxis; de huisartsenpraktijk; de dokterspraktijk, de praktijk; B1; Gesundheit/Beim Arzt; De huisartsenpraktijk is op de tweede verdieping.; Die Arztpraxis ist im zweiten Stock.
 nl-xa-0370; Untersuchung; het onderzoek; ; B1; Gesundheit/Beim Arzt; Het onderzoek duurt maar een paar minuten.; Die Untersuchung dauert nur ein paar Minuten.
 nl-xa-0371; Blutprobe; het bloedmonster; de bloedafname; B1; Gesundheit/Beim Arzt; De verpleegkundige heeft een bloedmonster uit mijn arm genomen.; Die Krankenschwester hat mir eine Blutprobe aus dem Arm genommen.
@@ -412,9 +412,9 @@ nl-xa-0396; Antibiotikum; het antibioticum; de antibiotica; B2; Gesundheit/Apoth
 nl-xa-0397; Kapsel; de capsule; ; B2; Gesundheit/Apotheke & Medikamente; Slik de capsule met een glas water.; Schluck die Kapsel mit einem Glas Wasser.
 nl-xa-0398; Creme; de crème; de zalf; A2; Gesundheit/Apotheke & Medikamente; Smeer deze crème twee keer per dag op de uitslag.; Trag diese Creme zweimal am Tag auf den Ausschlag auf.
 nl-xa-0399; Schlaftablette; de slaappil; de slaaptablet, het slaapmiddel; B1; Gesundheit/Apotheke & Medikamente; Zonder slaappil kan ze niet slapen.; Ohne Schlaftablette kann sie nicht schlafen.
-nl-xa-0400; einnehmen (Medikament); innemen; ; B1; Gesundheit/Apotheke & Medikamente; Neem de tabletten na het eten in.; Nehmen Sie die Tabletten nach dem Essen ein.
+nl-xa-0400; einnehmen (Tabletten einnehmen); innemen; ; B1; Gesundheit/Apotheke & Medikamente; Neem de tabletten na het eten in.; Nehmen Sie die Tabletten nach dem Essen ein.
 nl-xa-0401; verschreibungspflichtig; receptplichtig; alleen op recept; C1; Gesundheit/Apotheke & Medikamente; Dit medicijn is in Duitsland receptplichtig.; Dieses Medikament ist in Deutschland verschreibungspflichtig.
-nl-xa-0402; abnehmen (Gewicht); afvallen; afslanken; A2; Gesundheit/Gesunde Lebensweise; Ze wil voor de zomer afvallen.; Sie möchte vor dem Sommer abnehmen.
+nl-xa-0402; abnehmen (fünf Kilo abnehmen); afvallen; afslanken; A2; Gesundheit/Gesunde Lebensweise; Ze wil voor de zomer afvallen.; Sie möchte vor dem Sommer abnehmen.
 nl-xa-0403; rauchen; roken; ; A2; Gesundheit/Gesunde Lebensweise; Mijn vader is twintig jaar geleden gestopt met roken.; Mein Vater hat vor zwanzig Jahren aufgehört zu rauchen.
 nl-xa-0404; Nichtraucher; de niet-roker; ; B1; Gesundheit/Gesunde Lebensweise; Ik ben nu al drie jaar niet-roker.; Ich bin jetzt seit drei Jahren Nichtraucher.
 nl-xa-0405; Raucher; de roker; ; A2; Gesundheit/Gesunde Lebensweise; Rokers hoesten 's ochtends vaak.; Raucher husten morgens oft.

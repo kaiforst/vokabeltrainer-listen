@@ -1,6 +1,6 @@
 # Niederländisch: Politik & Gesellschaft
 id; Deutsch; Niederländisch; Weitere Antworten; Niveau; Themen; Beispiel Niederländisch; Beispiel Deutsch
-nl-pg-0001; Land (Staat); het land; ; A1; Gesellschaft/Politik/Staat & Wahlen; Duitsland is een groot land in Europa.; Deutschland ist ein großes Land in Europa.
+nl-pg-0001; Land (ein fremdes Land); het land; ; A1; Gesellschaft/Politik/Staat & Wahlen; Duitsland is een groot land in Europa.; Deutschland ist ein großes Land in Europa.
 nl-pg-0002; Stadt; de stad; ; A1; Gesellschaft/Soziales; Onze stad bouwt een nieuwe bibliotheek.; Unsere Stadt baut eine neue Bibliothek.
 nl-pg-0003; Mensch; de mens; ; A1; Gesellschaft/Soziales; Ieder mens verdient respect en waardigheid.; Jeder Mensch verdient Respekt und Würde.
 nl-pg-0004; Leute; de mensen; ; A1; Gesellschaft/Soziales; Veel mensen kwamen naar de bewonersbijeenkomst.; Viele Leute kamen zur Bürgerversammlung.
@@ -28,7 +28,7 @@ nl-pg-0025; Freiheit; de vrijheid; ; A2; Gesellschaft/Politik/Demokratie; Vrijhe
 nl-pg-0026; Recht; het recht; ; A2; Gesellschaft/Recht; Iedereen heeft het recht op vrije meningsuiting.; Jeder hat das Recht auf freie Meinungsäußerung.
 nl-pg-0027; Meinung; de mening; ; A2; Gesellschaft/Politik/Demokratie; Iedereen mag hier openlijk zijn mening zeggen.; Jeder darf hier offen seine Meinung sagen.
 nl-pg-0028; Demonstration; de demonstratie; de betoging; A2; Gesellschaft/Politik/Demokratie; Duizenden namen deel aan de demonstratie in de hoofdstad.; Tausende nahmen an der Demonstration in der Hauptstadt teil.
-nl-pg-0029; Gericht (Justiz); de rechtbank; het gerecht; A2; Gesellschaft/Recht; De rechtbank beslist morgen over de zaak.; Das Gericht entscheidet den Fall morgen.
+nl-pg-0029; Gericht (vor Gericht gehen); de rechtbank; het gerecht; A2; Gesellschaft/Recht; De rechtbank beslist morgen over de zaak.; Das Gericht entscheidet den Fall morgen.
 nl-pg-0030; Verein; de vereniging; de club; A2; Gesellschaft/Ehrenamt; Onze vereniging organiseert elk jaar een zomerfeest.; Unser Verein organisiert jedes Jahr ein Sommerfest.
 nl-pg-0031; Mitglied; het lid; ; A2; Gesellschaft/Ehrenamt; Zij is al tien jaar lid.; Sie ist seit zehn Jahren Mitglied.
 nl-pg-0032; Nachrichten; het nieuws; het journaal; A2; Gesellschaft/Politik/Demokratie; Ik kijk elke avond om acht uur naar het nieuws.; Ich schaue jeden Abend um acht die Nachrichten.
@@ -40,7 +40,7 @@ nl-pg-0037; Parlament; het parlement; ; B1; Gesellschaft/Politik/Staat & Wahlen;
 nl-pg-0038; Kanzler; de kanselier; de bondskanselier; B1; Gesellschaft/Politik/Staat & Wahlen; De kanselier hield een toespraak over Europa.; Der Kanzler hielt eine Rede über Europa.
 nl-pg-0039; Minister; de minister; ; B1; Gesellschaft/Politik/Staat & Wahlen; De minister presenteerde de plannen voor nieuwe scholen.; Der Minister stellte die Pläne für neue Schulen vor.
 nl-pg-0040; Abgeordneter; het Kamerlid; de afgevaardigde, de volksvertegenwoordiger, het parlementslid; B1; Gesellschaft/Politik/Staat & Wahlen; Het Kamerlid bezoekt morgen onze school.; Der Abgeordnete besucht morgen unsere Schule.
-nl-pg-0041; Stimme (bei der Wahl); de stem; ; B1; Gesellschaft/Politik/Staat & Wahlen; Elke stem telt bij een nipte verkiezing.; Jede Stimme zählt bei einer knappen Wahl.
+nl-pg-0041; Stimme (seine Stimme abgeben); de stem; ; B1; Gesellschaft/Politik/Staat & Wahlen; Elke stem telt bij een nipte verkiezing.; Jede Stimme zählt bei einer knappen Wahl.
 nl-pg-0042; Mehrheit; de meerderheid; ; B1; Gesellschaft/Politik/Staat & Wahlen; De partij won gisteren een duidelijke meerderheid.; Die Partei gewann gestern eine klare Mehrheit.
 nl-pg-0043; Minderheit; de minderheid; ; B1; Gesellschaft/Soziales; De wet beschermt de rechten van elke minderheid.; Das Gesetz schützt die Rechte jeder Minderheit.
 nl-pg-0044; Opposition; de oppositie; ; B1; Gesellschaft/Politik/Parteien; De oppositie bekritiseerde de nieuwe begroting scherp.; Die Opposition kritisierte den neuen Haushalt scharf.
@@ -109,7 +109,7 @@ nl-pg-0106; Rücktritt (vom Amt); het aftreden; het ontslag; B2; Gesellschaft/Po
 nl-pg-0107; zurücktreten; aftreden; opstappen; B2; Gesellschaft/Politik/Demokratie; De burgemeester trad na het verloren referendum af.; Der Bürgermeister trat nach der verlorenen Volksabstimmung zurück.
 nl-pg-0108; Klage; de rechtszaak; de aanklacht, de klacht; B2; Gesellschaft/Recht; Het bedrijf spande een rechtszaak aan tegen de gemeente.; Die Firma reichte eine Klage gegen die Stadt ein.
 nl-pg-0109; verklagen; aanklagen; voor de rechter dagen; B2; Gesellschaft/Recht; Zij klaagde het bedrijf aan wegens achterstallig loon.; Sie verklagte die Firma wegen ausstehender Löhne.
-nl-pg-0110; Berufung (Gericht); het hoger beroep; het beroep; B2; Gesellschaft/Recht; Zijn advocaat kondigde hoger beroep aan tegen het vonnis.; Sein Anwalt kündigte Berufung gegen das Urteil an.
+nl-pg-0110; Berufung (in Berufung gehen); het hoger beroep; het beroep; B2; Gesellschaft/Recht; Zijn advocaat kondigde hoger beroep aan tegen het vonnis.; Sein Anwalt kündigte Berufung gegen das Urteil an.
 nl-pg-0111; Beweis; het bewijs; ; B2; Gesellschaft/Recht; De rechtbank vond geen bewijs tegen de bestuurder.; Das Gericht fand keinen Beweis gegen den Fahrer.
 nl-pg-0112; Staatsanwalt; de officier van justitie; de openbare aanklager, de aanklager; B2; Gesellschaft/Recht; De officier van justitie eiste een lange gevangenisstraf.; Der Staatsanwalt forderte eine lange Haftstrafe.
 nl-pg-0113; Angeklagter; de verdachte; de beklaagde, de aangeklaagde; B2; Gesellschaft/Recht; De verdachte zweeg tijdens het proces.; Der Angeklagte schwieg während des Prozesses.

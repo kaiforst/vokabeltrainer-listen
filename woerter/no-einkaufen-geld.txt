@@ -2,8 +2,8 @@
 id; Deutsch; Norwegisch; Weitere Antworten; Niveau; Themen; Beispiel Norwegisch; Beispiel Deutsch
 no-eg-0001; kaufen; å kjøpe; ; A1; Alltag/Einkaufen/Geschäfte; Jeg vil kjøpe en ny jakke.; Ich möchte eine neue Jacke kaufen.
 no-eg-0002; Geld; penger; ; A1; Alltag/Einkaufen/Geld; Jeg har ingen penger med meg i dag.; Ich habe heute kein Geld dabei.
-no-eg-0003; Preis (Kosten); en pris; ; A1; Alltag/Einkaufen/Preise; Hva er prisen på denne skjorta?; Was ist der Preis für dieses Hemd?
-no-eg-0004; Geschäft (Laden); en butikk; en forretning; A1; Alltag/Einkaufen/Geschäfte; Butikken åpner klokka ni om morgenen.; Das Geschäft öffnet um neun Uhr morgens.
+no-eg-0003; Preis (ein günstiger Preis); en pris; ; A1; Alltag/Einkaufen/Preise; Hva er prisen på denne skjorta?; Was ist der Preis für dieses Hemd?
+no-eg-0004; Geschäft (im Geschäft einkaufen); en butikk; en forretning; A1; Alltag/Einkaufen/Geschäfte; Butikken åpner klokka ni om morgenen.; Das Geschäft öffnet um neun Uhr morgens.
 no-eg-0005; Supermarkt; et supermarked; ; A1; Alltag/Einkaufen/Geschäfte; Vi går på supermarkedet hver lørdag.; Wir gehen samstags in den Supermarkt.
 no-eg-0006; Markt; et marked; et torg; A1; Alltag/Einkaufen/Geschäfte; På markedet kan man kjøpe frisk frukt og grønnsaker.; Auf dem Markt gibt es frisches Obst und Gemüse.
 no-eg-0007; Bäckerei; et bakeri; ; A1; Alltag/Einkaufen/Geschäfte; Bakeriet i gata vår lukter helt herlig.; Die Bäckerei in unserer Straße duftet herrlich.
@@ -13,7 +13,7 @@ no-eg-0010; bezahlen; å betale; ; A1; Alltag/Einkaufen/Bezahlen; Kan jeg betale
 no-eg-0011; kosten; å koste; ; A1; Alltag/Einkaufen/Preise; Hvor mye koster denne vesken egentlig?; Wie viel kostet diese Tasche?
 no-eg-0012; Euro; en euro; ; A1; Alltag/Einkaufen/Geld; Brødet koster to euro og femti cent.; Das Brot kostet zwei Euro fünfzig.
 no-eg-0013; Kasse; en kasse; ; A1; Alltag/Einkaufen/Bezahlen; Vent der borte ved kassen, takk.; Bitte warten Sie dort an der Kasse.
-no-eg-0014; Tasche (zum Tragen); en pose; en handlepose; A1; Alltag/Einkaufen/Geschäfte; Trenger du en pose til det?; Brauchen Sie dafür eine Tasche?
+no-eg-0014; Tasche (eine Tasche tragen); en pose; en handlepose; A1; Alltag/Einkaufen/Geschäfte; Trenger du en pose til det?; Brauchen Sie dafür eine Tasche?
 no-eg-0015; Kunde; en kunde; ; A1; Alltag/Einkaufen/Geschäfte; Kunden står og venter ved døra.; Der Kunde wartet an der Tür.
 no-eg-0016; verkaufen; å selge; ; A1; Alltag/Einkaufen/Geschäfte; I denne butikken selger de pene sko.; In diesem Geschäft verkaufen sie schöne Schuhe.
 no-eg-0017; Verkäufer; en selger; en ekspeditør; A1; Alltag/Einkaufen/Geschäfte; Selgeren var veldig hyggelig i dag.; Der Verkäufer war heute sehr freundlich.
@@ -29,7 +29,7 @@ no-eg-0026; Wechselgeld; vekslepenger; ; A2; Alltag/Einkaufen/Bezahlen; Her er v
 no-eg-0027; Kreditkarte; et kredittkort; ; A2; Alltag/Einkaufen/Bezahlen; Jeg betalte for hotellet med kredittkort.; Ich habe das Hotel mit Kreditkarte bezahlt.
 no-eg-0028; Bargeld; kontanter; ; A2; Alltag/Einkaufen/Bezahlen; Denne lille butikken tar bare imot kontanter.; Dieses kleine Geschäft nimmt nur Bargeld.
 no-eg-0029; Geldautomat; en minibank; en pengeautomat, en bankautomat; A2; Alltag/Einkaufen/Geld, Reisen/Urlaub/Unterwegs; Finnes det en minibank i nærheten av stasjonen?; Gibt es einen Geldautomaten in der Nähe des Bahnhofs?
-no-eg-0030; Bank (Geldinstitut); en bank; ; A2; Alltag/Einkaufen/Geld; Banken stenger klokka fire om ettermiddagen.; Die Bank schließt um vier Uhr nachmittags.
+no-eg-0030; Bank (Geld auf die Bank bringen); en bank; ; A2; Alltag/Einkaufen/Geld; Banken stenger klokka fire om ettermiddagen.; Die Bank schließt um vier Uhr nachmittags.
 no-eg-0031; Konto; en konto; en bankkonto; A2; Alltag/Einkaufen/Geld; Jeg har åpnet en konto i den lokale banken.; Ich habe ein Konto bei der örtlichen Bank eröffnet.
 no-eg-0032; sparen; å spare; å spare penger; A2; Alltag/Einkaufen/Geld; Vi sparer litt penger hver måned.; Wir sparen jeden Monat etwas Geld.
 no-eg-0033; ausgeben; å bruke penger; ; A2; Alltag/Einkaufen/Geld; Han bruker for mye penger på klær.; Er gibt zu viel für Kleidung aus.
@@ -52,7 +52,7 @@ no-eg-0049; zurückgeben; å levere tilbake; å returnere; A2; Alltag/Einkaufen/
 no-eg-0050; Öffnungszeiten; åpningstider; ; A2; Alltag/Einkaufen/Geschäfte; Du finner åpningstidene på døra til butikken.; Du findest die Öffnungszeiten an der Ladentür.
 no-eg-0051; Rechnung; en regning; en faktura; A2; Alltag/Einkaufen/Bezahlen; Regningen kom to dager etter leveringen.; Die Rechnung kam zwei Tage nach der Lieferung.
 no-eg-0052; Münze; en mynt; ; A2; Alltag/Einkaufen/Geld; Han fant en gammel mynt i lomma.; Er fand eine alte Münze in seiner Tasche.
-no-eg-0053; Schein (Geldschein); en seddel; en pengeseddel; A2; Alltag/Einkaufen/Geld; Hun betalte med en seddel på hundre kroner.; Sie bezahlte mit einem Hundert-Kronen-Schein.
+no-eg-0053; Schein (ein Zehn-Euro-Schein); en seddel; en pengeseddel; A2; Alltag/Einkaufen/Geld; Hun betalte med en seddel på hundre kroner.; Sie bezahlte mit einem Hundert-Kronen-Schein.
 no-eg-0054; Geldbeutel; ei lommebok; en lommebok; A2; Alltag/Einkaufen/Geld; Lommeboka mi er nesten tom før lønningsdagen.; Mein Geldbeutel ist vor dem Zahltag fast leer.
 no-eg-0055; kostenlos; gratis; kostnadsfri; A2; Alltag/Einkaufen/Preise; Levering er gratis ved kjøp over fem hundre kroner.; Die Lieferung ist ab fünfhundert Kronen kostenlos.
 no-eg-0056; günstig; rimelig; billig, prisgunstig; A2; Alltag/Einkaufen/Preise; Denne butikken er kjent for rimelige møbler.; Dieses Geschäft ist für günstige Möbel bekannt.
@@ -72,7 +72,7 @@ no-eg-0069; Marke; et merke; et varemerke; B1; Alltag/Einkaufen/Geschäfte; Dett
 no-eg-0070; Qualität; en kvalitet; ; B1; Alltag/Einkaufen/Geschäfte; Når jeg handler, er kvalitet viktigere enn mengde.; Beim Einkaufen ist mir Qualität wichtiger als Menge.
 no-eg-0071; vergleichen; å sammenligne; ; B1; Alltag/Einkaufen/Preise; Sammenlign alltid prisene før du kjøper på nett.; Vergleiche immer die Preise bevor du online kaufst.
 no-eg-0072; Preisvergleich; en prissammenligning; en prissammenlikning; B1; Alltag/Einkaufen/Preise; En rask prissammenligning sparte meg for to hundre kroner.; Ein schneller Preisvergleich hat mir zweihundert Kronen gespart.
-no-eg-0073; handeln (feilschen); å prute; ; B1; Alltag/Einkaufen/Preise; Man kan prute litt på loppemarkedet.; Auf dem Flohmarkt kann man ein bisschen handeln.
+no-eg-0073; handeln (um den Preis handeln); å prute; ; B1; Alltag/Einkaufen/Preise; Man kan prute litt på loppemarkedet.; Auf dem Flohmarkt kann man ein bisschen handeln.
 no-eg-0074; Ermäßigung; en rabatt; ; B1; Alltag/Einkaufen/Angebote; Pensjonister får en rabatt hver mandag.; Senioren bekommen montags eine Ermäßigung.
 no-eg-0075; Schlussverkauf; et sluttsalg; et utsalg; B1; Alltag/Einkaufen/Angebote; Jeg kjøpte vinterfrakken min på sluttsalget.; Ich habe meinen Wintermantel im Schlussverkauf gekauft.
 no-eg-0076; Gutschein; et gavekort; ; B1; Alltag/Einkaufen/Angebote; Hun ga meg et gavekort til bursdagen.; Sie hat mir einen Gutschein zum Geburtstag geschenkt.
@@ -85,8 +85,8 @@ no-eg-0082; Rückerstattung; en refusjon; en tilbakebetaling; B1; Alltag/Einkauf
 no-eg-0083; Garantie; en garanti; ; B1; Alltag/Einkaufen/Reklamation; Laptopen har to års garanti fra Elkjøp.; Der Laptop hat zwei Jahre Garantie von Elkjøp.
 no-eg-0084; Kassenbon; en kassalapp; ; B1; Alltag/Einkaufen/Bezahlen; Ta vare på kassalappen hvis du vil levere tilbake.; Heb den Kassenbon für eine mögliche Rückgabe auf.
 no-eg-0085; überweisen; å overføre; ; B1; Alltag/Einkaufen/Geld; Kan du overføre beløpet innen to uker?; Bitte überweisen Sie den Betrag innerhalb von zwei Wochen.
-no-eg-0086; Überweisung (Bank); en overføring; en bankoverføring; B1; Alltag/Einkaufen/Geld; Overføringen kom fram til kontoen dagen etter.; Die Überweisung kam am nächsten Tag an.
-no-eg-0087; abheben (Geld); å ta ut penger; å ta ut kontanter; B1; Alltag/Einkaufen/Geld; Jeg må ta ut litt penger først.; Ich muss zuerst etwas Geld abheben.
+no-eg-0086; Überweisung (Geld per Überweisung); en overføring; en bankoverføring; B1; Alltag/Einkaufen/Geld; Overføringen kom fram til kontoen dagen etter.; Die Überweisung kam am nächsten Tag an.
+no-eg-0087; abheben (Geld vom Konto abheben); å ta ut penger; å ta ut kontanter; B1; Alltag/Einkaufen/Geld; Jeg må ta ut litt penger først.; Ich muss zuerst etwas Geld abheben.
 no-eg-0088; einzahlen; å sette inn penger; å betale inn; B1; Alltag/Einkaufen/Geld; Hun vil sette inn kontantene på kontoen sin.; Sie möchte das Bargeld auf ihr Konto einzahlen.
 no-eg-0089; Gehalt; en lønn; ei lønn; B1; Alltag/Einkaufen/Geld; Lønnen hans blir utbetalt ved månedsslutt.; Sein Gehalt wird am Monatsende gezahlt.
 no-eg-0090; Ausgaben; utgifter; ; B1; Alltag/Einkaufen/Geld; Vi noterer alle de månedlige utgiftene våre.; Wir notieren alle unsere monatlichen Ausgaben.

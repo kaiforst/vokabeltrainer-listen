@@ -85,6 +85,17 @@ Aliase sind gelöst, weil die Bedeutung im Zusammenhang verschieden ist (Kunst a
 Zeitung, Gebühr der Bank, Ware, Wirtschaftlichkeit, Öffentlichkeitsarbeit, Abmahnung, bestehen auf) – sie waren noch nicht
 veröffentlicht. `aliases.version` 12. Vier Formen mit der Grundform „zijn van“ sind gestrichen (2334 Formen).
 
+## Nachgezogen nach Paket K1 (26. 11. 2026)
+
+Beim Zusammenführen mit main kam K1 dazu (Karstens Liste aufgeteilt, Klammerhinweise als gesprochene Wendung). Für nl:
+507 Felder Deutsch per Skript aus dem Original übernommen; 62 neue Zeilen ke-0997 … ke-1058 (32 davon genau wie die
+schon vorhandene nl-Zeile desselben Wortpaars, damit sie Aliase werden); 119 Korrekturen an Zeilen, deren norwegische
+Fassung K1 geändert hat oder deren Deutsch jetzt weniger Bedeutungen hat (z. B. Begleitung „het gezelschap“ statt „het
+bedrijf“, vorbeigehen „voorbijlopen“, schon ohne „toch“). `nl-karsten` hat jetzt 1047 Zeilen, Niederländisch 10.590.
+Zwei Formen gestrichen (hoven, inslagen: Grundform nicht mehr im Katalog), 2332 Formen. Aliase neu berechnet
+(`aliases.version` 11, auf main war es 10; die nl-Aliase von vorher waren unveröffentlicht), `areas.version` 22.
+`pruefe.mjs`: 0 Fehler, 0 Hinweise.
+
 ## formen/nl.txt
 
 2338 Formen, Kopfzeile `Form; Grundform; Art`, Grundform genau wie die Antwort oder Weitere im Katalog (Infinitiv ohne

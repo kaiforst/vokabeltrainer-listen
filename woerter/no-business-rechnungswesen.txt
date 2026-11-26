@@ -2,7 +2,7 @@
 id; Deutsch; Norwegisch; Weitere Antworten; Niveau; Themen; Beispiel Norwegisch; Beispiel Deutsch
 no-rc-0001; Geld; penger; ; A1; Business/Rechnungswesen/Rechnung & Zahlung, Alltag/Einkaufen; Bedriften trenger penger for å betale regningene sine.; Das Unternehmen braucht Geld, um seine Rechnungen zu bezahlen.
 no-rc-0002; bezahlen; å betale; ; A1; Business/Rechnungswesen/Rechnung & Zahlung; Vil du betale regningen innen utgangen av mai?; Bitte bezahlen Sie die Rechnung bis Ende Mai.
-no-rc-0003; Preis (Kosten); en pris; ; A1; Business/Rechnungswesen/Rechnung & Zahlung, Alltag/Einkaufen; Prisen på den nye programvaren er veldig høy.; Der Preis der neuen Software ist sehr hoch.
+no-rc-0003; Preis (ein günstiger Preis); en pris; ; A1; Business/Rechnungswesen/Rechnung & Zahlung, Alltag/Einkaufen; Prisen på den nye programvaren er veldig høy.; Der Preis der neuen Software ist sehr hoch.
 no-rc-0004; kaufen; å kjøpe; ; A1; Business/Rechnungswesen/Rechnung & Zahlung; Vi skal kjøpe nye datamaskiner til kontoret.; Wir wollen neue Computer für das Büro kaufen.
 no-rc-0005; Konto; en konto; en bankkonto; A1; Business/Rechnungswesen/Buchhaltung; Pengene kom inn på kontoen vår mandag.; Das Geld kam am Montag auf unserem Konto an.
 no-rc-0006; Rechnung; en regning; en faktura; A2; Business/Rechnungswesen/Rechnung & Zahlung; Vi sender regningen rett etter leveringen.; Wir senden die Rechnung direkt nach der Lieferung.
@@ -16,7 +16,7 @@ no-rc-0013; Kunde; en kunde; ; A2; Business/Rechnungswesen/Rechnung & Zahlung; K
 no-rc-0014; Lieferant; en leverandør; ; A2; Business/Rechnungswesen/Rechnung & Zahlung; Leverandøren vår har gode priser og rask levering.; Unser Lieferant bietet gute Preise und schnelle Lieferung.
 no-rc-0015; Zahlung; en betaling; ; A2; Business/Rechnungswesen/Rechnung & Zahlung; Vi mottok betalingen din forrige uke, tusen takk.; Wir haben Ihre Zahlung letzte Woche erhalten, vielen Dank.
 no-rc-0016; Bargeld; kontanter; ; A2; Business/Rechnungswesen/Rechnung & Zahlung; Mange bedrifter tar ikke lenger imot kontanter.; Viele Unternehmen akzeptieren kein Bargeld mehr.
-no-rc-0017; Überweisung (Bank); en overføring; en bankoverføring; A2; Business/Rechnungswesen/Rechnung & Zahlung; En betaling med overføring tar en til to dager.; Eine Zahlung per Überweisung dauert ein bis zwei Tage.
+no-rc-0017; Überweisung (Geld per Überweisung); en overføring; en bankoverføring; A2; Business/Rechnungswesen/Rechnung & Zahlung; En betaling med overføring tar en til to dager.; Eine Zahlung per Überweisung dauert ein bis zwei Tage.
 no-rc-0018; Kreditkarte; et kredittkort; ; A2; Business/Rechnungswesen/Rechnung & Zahlung; Du kan betale hotellet med kredittkortet ditt.; Sie können das Hotel mit Ihrer Kreditkarte bezahlen.
 no-rc-0019; Rabatt; en rabatt; ; A2; Business/Rechnungswesen/Rechnung & Zahlung; Vi gir rabatt på store bestillinger.; Wir geben einen Rabatt für große Bestellungen.
 no-rc-0020; Gewinn; en fortjeneste; en profitt; A2; Business/Rechnungswesen/Bilanz & GuV; Fortjenesten økte med ti prosent i fjor.; Der Gewinn stieg im letzten Jahr um zehn Prozent.
@@ -51,7 +51,7 @@ no-rc-0048; Beleg; et bilag; ; B1; Business/Rechnungswesen/Buchhaltung; Hver pos
 no-rc-0049; Kostenstelle; et kostnadssted; ; B1; Business/Rechnungswesen/Controlling & Kennzahlen; Hver avdeling har sitt eget kostnadssted i systemet vårt.; Jede Abteilung hat eine eigene Kostenstelle in unserem System.
 no-rc-0050; Gebühr; et gebyr; ; B1; Business/Rechnungswesen/Rechnung & Zahlung; Banken tar et lite gebyr for hver overføring.; Die Bank berechnet eine kleine Gebühr für jede Überweisung.
 no-rc-0051; berechnen; å beregne; å regne ut; B1; Business/Rechnungswesen/Controlling & Kennzahlen; Vi beregner totalkostnadene ved slutten av hver måned.; Wir berechnen die Gesamtkosten am Ende jedes Monats.
-no-rc-0052; buchen (Buchhaltung); å bokføre; å postere; B1; Business/Rechnungswesen/Buchhaltung; Regnskapsføreren bokfører hver betaling på riktig konto.; Der Buchhalter bucht jede Zahlung auf das richtige Konto.
+no-rc-0052; buchen (eine Rechnung buchen); å bokføre; å postere; B1; Business/Rechnungswesen/Buchhaltung; Regnskapsføreren bokfører hver betaling på riktig konto.; Der Buchhalter bucht jede Zahlung auf das richtige Konto.
 no-rc-0053; überweisen; å overføre; ; B1; Business/Rechnungswesen/Rechnung & Zahlung; Vennligst overfør pengene til kontoen under.; Bitte überweisen Sie das Geld auf das untenstehende Konto.
 no-rc-0054; erstatten; å refundere; å betale tilbake; B1; Business/Rechnungswesen/Rechnung & Zahlung; Firmaet vil refundere reiseutgiftene dine neste uke.; Das Unternehmen erstattet Ihre Reisekosten nächste Woche.
 no-rc-0055; Rückerstattung; en refusjon; en tilbakebetaling; B1; Business/Rechnungswesen/Rechnung & Zahlung; Kunden ba om en refusjon etter avbestillingen.; Der Kunde bat nach der Stornierung um eine Rückerstattung.
@@ -67,7 +67,7 @@ no-rc-0064; Kosten senken; å kutte kostnader; å redusere kostnader; B1; Busine
 no-rc-0065; in Rechnung stellen; å fakturere; ; B1; Business/Rechnungswesen/Rechnung & Zahlung; Vi fakturerer de ekstra timene til vanlig timesats.; Wir stellen die zusätzlichen Stunden zum üblichen Satz in Rechnung.
 no-rc-0066; Gewinn- und Verlustrechnung; et resultatregnskap; ; B2; Business/Rechnungswesen/Bilanz & GuV; Resultatregnskapet viser selskapets inntekter og kostnader.; Die Gewinn- und Verlustrechnung zeigt Erträge und Aufwendungen.
 no-rc-0067; Abschreibung; en avskrivning; ; B2; Business/Rechnungswesen/Bilanz & GuV; Avskrivningen reduserer den bokførte verdien av maskinene våre.; Die Abschreibung mindert den Buchwert unserer Maschinen.
-no-rc-0068; abschreiben (Buchhaltung); å avskrive; ; B2; Business/Rechnungswesen/Buchhaltung; Vi avskriver de nye bilene over seks år.; Wir schreiben die neuen Fahrzeuge über sechs Jahre ab.
+no-rc-0068; abschreiben (in der Buchhaltung abschreiben); å avskrive; ; B2; Business/Rechnungswesen/Buchhaltung; Vi avskriver de nye bilene over seks år.; Wir schreiben die neuen Fahrzeuge über sechs Jahre ab.
 no-rc-0069; Cashflow; en kontantstrøm; en cashflow; B2; Business/Rechnungswesen/Controlling & Kennzahlen; En sunn kontantstrøm gjør selskapet fleksibelt.; Ein gesunder Cashflow hält das Unternehmen flexibel.
 no-rc-0070; Liquidität; en likviditet; ; B2; Business/Rechnungswesen/Controlling & Kennzahlen; Selskapet forbedret likviditeten ved å selge gammelt lager.; Das Unternehmen verbesserte seine Liquidität durch den Verkauf alter Bestände.
 no-rc-0071; Forderungen; fordringer; ; B2; Business/Rechnungswesen/Bilanz & GuV; Fordringene våre økte fordi mange kunder betaler sent.; Unsere Forderungen stiegen, weil viele Kunden spät zahlen.

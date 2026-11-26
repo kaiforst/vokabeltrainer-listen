@@ -5,7 +5,7 @@ fr-wu-0002; Regen; la pluie; ; A1; Natur/Umwelt/Wetter; Il nous faut plus de plu
 fr-wu-0003; Schnee; la neige; ; A1; Natur/Umwelt/Wetter; La neige est blanche et très froide.; Der Schnee ist weiß und sehr kalt.
 fr-wu-0004; Wind; le vent; ; A1; Natur/Umwelt/Wetter; Le vent est très fort aujourd'hui.; Der Wind ist heute sehr stark.
 fr-wu-0005; Wolke; le nuage; ; A1; Natur/Umwelt/Wetter; Il y a un gros nuage au-dessus de la maison.; Über dem Haus ist eine große Wolke.
-fr-wu-0006; Himmel (Wetter, Sterne); le ciel; ; A1; Natur/Umwelt/Wetter; Le ciel est bleu ce matin.; Der Himmel ist heute Morgen blau.
+fr-wu-0006; Himmel (der blaue Himmel); le ciel; ; A1; Natur/Umwelt/Wetter; Le ciel est bleu ce matin.; Der Himmel ist heute Morgen blau.
 fr-wu-0007; Wetter; le temps; la météo; A1; Natur/Umwelt/Wetter; Le temps est beau cette semaine.; Das Wetter ist diese Woche schön.
 fr-wu-0008; warm; chaud; doux, bon; A1; Natur/Umwelt/Wetter; Il fait chaud dans le jardin aujourd'hui.; Es ist heute warm im Garten.
 fr-wu-0009; kalt; froid; ; A1; Natur/Umwelt/Wetter; En janvier, il fait très froid dehors.; Draußen ist es im Januar sehr kalt.
@@ -21,7 +21,7 @@ fr-wu-0018; Luft; l'air; ; A1; Natur/Umwelt/Natur; L'air de la montagne est frai
 fr-wu-0019; Eis (gefrorenes Wasser); la glace; ; A1; Natur/Umwelt/Wetter; En hiver, il y a de la glace sur le lac.; Im Winter ist Eis auf dem See.
 fr-wu-0020; regnen; pleuvoir; ; A1; Natur/Umwelt/Wetter; Je crois qu'il va pleuvoir demain après-midi.; Ich glaube, morgen Nachmittag wird es regnen.
 fr-wu-0021; schneien; neiger; ; A1; Natur/Umwelt/Wetter; Il a commencé à neiger pendant la nuit.; In der Nacht begann es zu schneien.
-fr-wu-0022; scheinen (Sonne); briller; ; A1; Natur/Umwelt/Wetter; Dimanche, le soleil brillera de nouveau.; Am Sonntag wird die Sonne wieder scheinen.
+fr-wu-0022; scheinen (die Sonne scheint); briller; ; A1; Natur/Umwelt/Wetter; Dimanche, le soleil brillera de nouveau.; Am Sonntag wird die Sonne wieder scheinen.
 fr-wu-0023; Natur; la nature; ; A1; Natur/Umwelt/Natur; Le week-end, nous aimons nous promener dans la nature.; Am Wochenende gehen wir gern in der Natur spazieren.
 fr-wu-0024; Gras; l'herbe; le gazon; A1; Natur/Umwelt/Natur; Après la pluie, l'herbe est verte.; Nach dem Regen ist das Gras grün.
 fr-wu-0025; Müll; les ordures; les déchets, la poubelle; A1; Natur/Umwelt/Recycling; Mets les ordures dans la poubelle, s'il te plaît.; Bitte wirf den Müll in die Tonne.
@@ -47,7 +47,7 @@ fr-wu-0044; Energie; l'énergie; ; A2; Natur/Umwelt/Energie; Notre maison consom
 fr-wu-0045; Strom; l'électricité; le courant; A2; Natur/Umwelt/Energie; Pendant la tempête, l'électricité a été coupée.; Während des Sturms fiel der Strom aus.
 fr-wu-0046; Mülltonne; la poubelle; le bac à ordures; A2; Natur/Umwelt/Recycling; La poubelle derrière la maison est pleine.; Die Mülltonne hinter dem Haus ist voll.
 fr-wu-0047; Plastik; le plastique; ; A2; Natur/Umwelt/Recycling; Il y a trop de plastique dans la mer.; Es gibt zu viel Plastik im Meer.
-fr-wu-0048; Glas (Material); le verre; ; A2; Natur/Umwelt/Recycling; Le vieux verre va dans le conteneur à verre.; Altes Glas gehört in den Glascontainer.
+fr-wu-0048; Glas (aus Glas gemacht); le verre; ; A2; Natur/Umwelt/Recycling; Le vieux verre va dans le conteneur à verre.; Altes Glas gehört in den Glascontainer.
 fr-wu-0049; Papier; le papier; ; A2; Natur/Umwelt/Recycling; Nous collectons le vieux papier pour le recyclage.; Wir sammeln altes Papier für das Recycling.
 fr-wu-0050; Dose; la canette; la boîte de conserve, la boîte; A2; Natur/Umwelt/Recycling; Il a jeté la canette vide à la poubelle.; Er warf die leere Dose in den Mülleimer.
 fr-wu-0051; Flasche; la bouteille; ; A2; Natur/Umwelt/Recycling; Rapporte les bouteilles vides au magasin, s'il te plaît.; Bitte bring die leeren Flaschen zum Laden zurück.

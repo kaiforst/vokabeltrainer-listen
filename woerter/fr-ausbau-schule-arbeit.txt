@@ -82,7 +82,7 @@ fr-xb-0079; Bachelor; la licence; le bachelor; B1; Bildung/Universität; Elle a 
 fr-xb-0080; Master; le master; ; B1; Bildung/Universität; Après ma licence, je veux faire un master.; Nach dem Bachelor möchte ich einen Master machen.
 fr-xb-0081; Hochschule; l'université; l'école supérieure, la grande école; B1; Bildung/Universität; Il fait ses études dans une université à Toulouse.; Er studiert an einer Hochschule in Toulouse.
 fr-xb-0082; Fachhochschule; la haute école spécialisée; l'université de sciences appliquées; C1; Bildung/Universität; Elle a étudié le génie mécanique dans une haute école spécialisée.; Sie hat Maschinenbau an einer Fachhochschule studiert.
-fr-xb-0083; Sprechstunde (Hochschule); la permanence; les heures de permanence, les heures de bureau; B2; Bildung/Universität; La permanence du professeur a lieu le mardi après-midi.; Die Sprechstunde des Professors ist am Dienstagnachmittag.
+fr-xb-0083; Sprechstunde (beim Professor); la permanence; les heures de permanence, les heures de bureau; B2; Bildung/Universität; La permanence du professeur a lieu le mardi après-midi.; Die Sprechstunde des Professors ist am Dienstagnachmittag.
 fr-xb-0084; Tutor; le tuteur; la tutrice; B2; Bildung/Universität; Notre tuteur nous aide à préparer les examens.; Unser Tutor hilft uns bei der Vorbereitung auf die Prüfungen.
 fr-xb-0085; Literaturverzeichnis; la bibliographie; ; C1; Bildung/Universität; Ajoute toutes tes sources à la bibliographie.; Nimm alle deine Quellen ins Literaturverzeichnis auf.
 fr-xb-0086; Zitat; la citation; ; B1; Bildung/Universität; Le texte commence par une citation de Victor Hugo.; Der Text beginnt mit einem Zitat von Victor Hugo.
@@ -144,10 +144,10 @@ fr-xb-0141; Vokal; la voyelle; ; B1; Bildung/Sprache/Wörter & Aussprache; Les l
 fr-xb-0142; Konsonant; la consonne; ; B1; Bildung/Sprache/Wörter & Aussprache; Le mot allemand Strumpf a beaucoup de consonnes.; Das deutsche Wort Strumpf hat viele Konsonanten.
 fr-xb-0143; Akzent; l'accent; ; B1; Bildung/Sprache/Wörter & Aussprache; Il parle français avec un fort accent allemand.; Er spricht Französisch mit einem starken deutschen Akzent.
 fr-xb-0144; Dialekt; le dialecte; le patois; B2; Bildung/Sprache/Wörter & Aussprache; Mes grands-parents parlent un dialecte que je comprends à peine.; Meine Großeltern sprechen einen Dialekt, den ich kaum verstehe.
-fr-xb-0145; Ausdruck (Formulierung); l'expression; la formule, la tournure; B1; Bildung/Sprache/Wörter & Aussprache; Cette expression est très courante en français parlé.; Dieser Ausdruck ist im gesprochenen Französisch sehr üblich.
+fr-xb-0145; Ausdruck (ein höflicher Ausdruck); l'expression; la formule, la tournure; B1; Bildung/Sprache/Wörter & Aussprache; Cette expression est très courante en français parlé.; Dieser Ausdruck ist im gesprochenen Französisch sehr üblich.
 fr-xb-0146; Redewendung; l'expression idiomatique; la locution, l'expression; B2; Bildung/Sprache/Wörter & Aussprache; Il pleut des cordes est une expression idiomatique amusante.; Il pleut des cordes ist eine lustige Redewendung.
 fr-xb-0147; Synonym; le synonyme; ; B2; Bildung/Sprache/Wörter & Aussprache; Content est un synonyme de heureux.; Content ist ein Synonym für heureux.
-fr-xb-0148; Abkürzung (Wort); l'abréviation; le sigle; B1; Bildung/Sprache/Wörter & Aussprache; UE est l'abréviation de Union européenne.; EU ist die Abkürzung für Europäische Union.
+fr-xb-0148; Abkürzung (ein abgekürztes Wort); l'abréviation; le sigle; B1; Bildung/Sprache/Wörter & Aussprache; UE est l'abréviation de Union européenne.; EU ist die Abkürzung für Europäische Union.
 fr-xb-0149; Fremdwort; le mot étranger; l'emprunt; B2; Bildung/Sprache/Wörter & Aussprache; L'allemand a beaucoup de mots étrangers venus de l'anglais.; Das Deutsche hat viele Fremdwörter aus dem Englischen.
 fr-xb-0150; Wortfamilie; la famille de mots; ; B2; Bildung/Sprache/Wörter & Aussprache; Heureux, bonheur et malheureux appartiennent à la même famille de mots.; Heureux, bonheur und malheureux gehören zu einer Wortfamilie.
 fr-xb-0151; Definition; la définition; ; B1; Bildung/Sprache/Wörter & Aussprache; Lis la définition et devine le mot.; Lies die Definition und rate das Wort.
@@ -169,7 +169,7 @@ fr-xb-0166; Stichwort; le mot-clé; le mot clé; B1; Bildung/Sprache/Lesen & Sch
 fr-xb-0167; Stichpunkt; la puce; le tiret; B2; Bildung/Sprache/Lesen & Schreiben; Pour ton exposé, note tes idées sous forme de puces.; Notier dir für dein Referat deine Ideen in Stichpunkten.
 fr-xb-0168; Einleitung; l'introduction; ; B1; Bildung/Sprache/Lesen & Schreiben; L'introduction ne doit pas être trop longue.; Die Einleitung sollte nicht zu lang sein.
 fr-xb-0169; Hauptteil; le développement; le corps du texte; B1; Bildung/Sprache/Lesen & Schreiben; Dans le développement, tu présentes tes arguments.; Im Hauptteil stellst du deine Argumente dar.
-fr-xb-0170; Schluss (Text); la conclusion; ; B1; Bildung/Sprache/Lesen & Schreiben; Dans la conclusion, tu donnes ton propre avis.; Im Schluss sagst du deine eigene Meinung.
+fr-xb-0170; Schluss (Einleitung, Hauptteil, Schluss); la conclusion; ; B1; Bildung/Sprache/Lesen & Schreiben; Dans la conclusion, tu donnes ton propre avis.; Im Schluss sagst du deine eigene Meinung.
 fr-xb-0171; Entwurf; le brouillon; l'ébauche, le premier jet; B2; Bildung/Sprache/Lesen & Schreiben; J'ai fini le premier brouillon de ma rédaction.; Ich habe den ersten Entwurf meines Aufsatzes fertig.
 fr-xb-0172; Bildbeschreibung; la description d'image; la description d'une image; B1; Bildung/Sprache/Lesen & Schreiben; À l'oral, tu dois faire une description d'image.; In der mündlichen Prüfung musst du eine Bildbeschreibung machen.
 fr-xb-0173; Leseverstehen; la compréhension écrite; la compréhension de texte; B2; Bildung/Sprache/Lesen & Schreiben; Le test comporte une partie de compréhension écrite.; Der Test hat einen Teil zum Leseverstehen.
@@ -190,7 +190,7 @@ fr-xb-0187; Gebärdensprache; la langue des signes; ; B2; Bildung/Sprache/Sprach
 fr-xb-0188; Handwerker; l'artisan; l'artisane, l'ouvrier; B1; Arbeit/Beruf/Berufe; Nous avons besoin d'un artisan pour réparer le toit.; Wir brauchen einen Handwerker, der das Dach repariert.
 fr-xb-0189; Klempner; le plombier; ; B1; Arbeit/Beruf/Berufe; Le plombier vient réparer le tuyau qui fuit.; Der Klempner kommt, um das undichte Rohr zu reparieren.
 fr-xb-0190; Tischler; le menuisier; la menuisière, l'ébéniste; B1; Arbeit/Beruf/Berufe; Le menuisier a fabriqué cette table en chêne.; Der Tischler hat diesen Tisch aus Eiche gemacht.
-fr-xb-0191; Maler (Handwerker); le peintre en bâtiment; le peintre, la peintre; B1; Arbeit/Beruf/Berufe; Les peintres repeignent notre appartement la semaine prochaine.; Die Maler streichen nächste Woche unsere Wohnung.
+fr-xb-0191; Maler (der Maler streicht die Wände); le peintre en bâtiment; le peintre, la peintre; B1; Arbeit/Beruf/Berufe; Les peintres repeignent notre appartement la semaine prochaine.; Die Maler streichen nächste Woche unsere Wohnung.
 fr-xb-0192; Maurer; le maçon; ; B2; Arbeit/Beruf/Berufe; Les maçons ont terminé les murs de la maison.; Die Maurer sind mit den Wänden des Hauses fertig.
 fr-xb-0193; Automechaniker; le mécanicien automobile; la mécanicienne automobile, le garagiste; A2; Arbeit/Beruf/Berufe; Mon cousin fait une formation de mécanicien automobile.; Mein Cousin macht eine Ausbildung zum Automechaniker.
 fr-xb-0194; Programmierer; le programmeur; la programmeuse; A2; Arbeit/Beruf/Berufe; Le programmeur écrit une nouvelle application.; Der Programmierer schreibt eine neue App.
@@ -224,7 +224,7 @@ fr-xb-0221; Arbeitstag; la journée de travail; ; A2; Arbeit/Beruf/Arbeitsalltag
 fr-xb-0222; Mittagspause; la pause déjeuner; la pause de midi; A1; Arbeit/Beruf/Arbeitsalltag; Pendant ma pause déjeuner, je fais une petite promenade.; In meiner Mittagspause mache ich einen kurzen Spaziergang.
 fr-xb-0223; Kaffeepause; la pause café; ; A2; Arbeit/Beruf/Arbeitsalltag; Faisons une petite pause café maintenant.; Lass uns jetzt eine kurze Kaffeepause machen.
 fr-xb-0224; Kantine; la cantine; le restaurant d'entreprise; A2; Arbeit/Beruf/Arbeitsalltag; Dans notre cantine, les repas sont bons et pas chers.; In unserer Kantine ist das Essen gut und billig.
-fr-xb-0225; Empfang (Büro); l'accueil; la réception; B1; Arbeit/Beruf/Arbeitsalltag; Veuillez patienter à l'accueil, quelqu'un va venir vous chercher.; Bitte warten Sie am Empfang, Sie werden abgeholt.
+fr-xb-0225; Empfang (sich am Empfang melden); l'accueil; la réception; B1; Arbeit/Beruf/Arbeitsalltag; Veuillez patienter à l'accueil, quelqu'un va venir vous chercher.; Bitte warten Sie am Empfang, Sie werden abgeholt.
 fr-xb-0226; Nebenjob; le petit boulot; le job d'appoint, le job étudiant; B1; Arbeit/Beruf/Arbeitsalltag; Beaucoup d'étudiants ont un petit boulot dans un café.; Viele Studenten haben einen Nebenjob in einem Café.
 fr-xb-0227; Ferienjob; le job d'été; le job de vacances; A2; Arbeit/Beruf/Arbeitsalltag; J'ai gagné un peu d'argent avec un job d'été.; Ich habe mit einem Ferienjob etwas Geld verdient.
 fr-xb-0228; Traumberuf; le métier de rêve; le travail de rêve, le job de rêve; A2; Arbeit/Beruf/Karriere; Pilote a toujours été mon métier de rêve.; Pilot ist schon immer mein Traumberuf gewesen.
@@ -252,7 +252,7 @@ fr-xb-0249; Aktenschrank; l'armoire à dossiers; le meuble de classement, le cla
 fr-xb-0250; Aktentasche; la serviette; le porte-documents, la mallette; B1; Arbeit/Beruf/Arbeitsplatz; Il porte son ordinateur portable dans une serviette en cuir.; Er trägt seinen Laptop in einer Aktentasche aus Leder.
 fr-xb-0251; Tinte; l'encre; ; A2; Arbeit/Beruf/Arbeitsplatz; Mon stylo plume n'a plus d'encre.; Mein Füller hat keine Tinte mehr.
 fr-xb-0252; Druckerpatrone; la cartouche d'encre; la cartouche; B2; Arbeit/Beruf/Arbeitsplatz; Il nous faut une nouvelle cartouche d'encre pour l'imprimante.; Wir brauchen eine neue Druckerpatrone für den Drucker.
-fr-xb-0253; Ausdruck (Papier); la version imprimée; l'impression, la copie papier; B2; Arbeit/Beruf/Arbeitsplatz; Tu peux apporter une version imprimée du rapport à la réunion ?; Kannst du einen Ausdruck des Berichts zur Besprechung mitbringen?
+fr-xb-0253; Ausdruck (ein Ausdruck vom Drucker); la version imprimée; l'impression, la copie papier; B2; Arbeit/Beruf/Arbeitsplatz; Tu peux apporter une version imprimée du rapport à la réunion ?; Kannst du einen Ausdruck des Berichts zur Besprechung mitbringen?
 fr-xb-0254; fotokopieren; photocopier; ; B1; Arbeit/Beruf/Arbeitsplatz; Photocopie cette page vingt fois pour la classe, s'il te plaît.; Bitte fotokopier diese Seite zwanzigmal für die Klasse.
 fr-xb-0255; Mikrofon; le microphone; le micro; A2; Technik/Computer/Geräte; Parle un peu plus près du micro, s'il te plaît.; Sprich bitte etwas näher ins Mikrofon.
 fr-xb-0256; Webcam; la webcam; ; A2; Technik/Computer/Geräte; Ma webcam ne marche pas pendant les appels vidéo.; Meine Webcam funktioniert bei Videoanrufen nicht.
@@ -276,11 +276,11 @@ fr-xb-0273; Ladekabel; le câble de charge; le câble de chargement; A2; Technik
 fr-xb-0274; Adapter; l'adaptateur; ; B1; Technik/Computer/Hardware; Pour les prises en Angleterre, il te faut un adaptateur.; Für Steckdosen in England brauchst du einen Adapter.
 fr-xb-0275; einfügen; coller; insérer; B1; Technik/Computer/Software; Copie le texte et colle-le dans l'e-mail.; Kopier den Text und füg ihn in die E-Mail ein.
 fr-xb-0276; scannen; scanner; numériser; B1; Technik/Computer/Software; Tu peux scanner le contrat et me l'envoyer ?; Kannst du den Vertrag scannen und mir schicken?
-fr-xb-0277; tippen (schreiben); taper; saisir; A2; Technik/Computer/Software; Elle tape très vite sans regarder le clavier.; Sie tippt sehr schnell, ohne auf die Tastatur zu schauen.
+fr-xb-0277; tippen (auf der Tastatur tippen); taper; saisir; A2; Technik/Computer/Software; Elle tape très vite sans regarder le clavier.; Sie tippt sehr schnell, ohne auf die Tastatur zu schauen.
 fr-xb-0278; doppelklicken; double-cliquer; ; B1; Technik/Computer/Software; Double-clique sur l'icône pour ouvrir le programme.; Doppelklicke auf das Symbol, um das Programm zu öffnen.
 fr-xb-0279; scrollen; faire défiler; défiler, scroller; A2; Technik/Computer/Software; Fais défiler la page jusqu'en bas.; Scroll bis zum Ende der Seite nach unten.
 fr-xb-0280; Einstellungen; les paramètres; les réglages; A2; Technik/Computer/Software; Tu peux changer la langue dans les paramètres.; Du kannst die Sprache in den Einstellungen ändern.
-fr-xb-0281; Symbol (Bildschirm); l'icône; ; B1; Technik/Computer/Software; Clique sur l'icône de l'imprimante en haut.; Klick oben auf das Symbol mit dem Drucker.
+fr-xb-0281; Symbol (ein Symbol auf dem Bildschirm); l'icône; ; B1; Technik/Computer/Software; Clique sur l'icône de l'imprimante en haut.; Klick oben auf das Symbol mit dem Drucker.
 fr-xb-0282; Cursor; le curseur; ; B2; Technik/Computer/Software; Place le curseur à la fin de la ligne.; Beweg den Cursor an das Ende der Zeile.
 fr-xb-0283; Tabelle; le tableau; ; B1; Technik/Computer/Software; Le tableau montre les résultats du sondage.; Die Tabelle zeigt die Ergebnisse der Umfrage.
 fr-xb-0284; Tabellenkalkulation; le tableur; ; B2; Technik/Computer/Software; Je note mes dépenses dans un tableur.; Ich halte meine Ausgaben in einer Tabellenkalkulation fest.
@@ -288,12 +288,12 @@ fr-xb-0285; Textverarbeitung; le traitement de texte; ; B2; Technik/Computer/Sof
 fr-xb-0286; Schriftart; la police; la police de caractères; B2; Technik/Computer/Software; Choisis une police facile à lire.; Wähl eine Schriftart, die gut lesbar ist.
 fr-xb-0287; Tastenkombination; le raccourci clavier; la combinaison de touches; B2; Technik/Computer/Software; Ce raccourci clavier enregistre le document.; Diese Tastenkombination speichert das Dokument.
 fr-xb-0288; Pixel; le pixel; ; B2; Technik/Computer/Software; La photo n'a pas assez de pixels pour une affiche.; Das Foto hat zu wenige Pixel für ein Poster.
-fr-xb-0289; Auflösung (Bildschirm); la résolution; ; B2; Technik/Computer/Software; Le nouvel écran a une très haute résolution.; Der neue Monitor hat eine sehr hohe Auflösung.
+fr-xb-0289; Auflösung (die Auflösung des Bildschirms); la résolution; ; B2; Technik/Computer/Software; Le nouvel écran a une très haute résolution.; Der neue Monitor hat eine sehr hohe Auflösung.
 fr-xb-0290; Bildschirmschoner; l'économiseur d'écran; ; B2; Technik/Computer/Software; L'économiseur d'écran s'allume après cinq minutes.; Der Bildschirmschoner geht nach fünf Minuten an.
 fr-xb-0291; Rechtschreibprüfung; le correcteur orthographique; la vérification orthographique; B2; Technik/Computer/Software; Le correcteur orthographique n'a pas trouvé cette faute.; Die Rechtschreibprüfung hat diesen Fehler nicht gefunden.
 fr-xb-0292; Autokorrektur; la correction automatique; le correcteur automatique; B1; Technik/Computer/Software; La correction automatique a transformé mon message en quelque chose de bizarre.; Die Autokorrektur hat meine Nachricht in etwas Seltsames verwandelt.
 fr-xb-0293; Zwischenablage; le presse-papiers; ; C1; Technik/Computer/Software; Le texte copié se trouve maintenant dans le presse-papiers.; Der kopierte Text ist jetzt in der Zwischenablage.
-fr-xb-0294; Papierkorb (Computer); la corbeille; ; B1; Technik/Computer/Software; Le fichier supprimé est encore dans la corbeille.; Die gelöschte Datei ist noch im Papierkorb.
+fr-xb-0294; Papierkorb (auf dem Computer); la corbeille; ; B1; Technik/Computer/Software; Le fichier supprimé est encore dans la corbeille.; Die gelöschte Datei ist noch im Papierkorb.
 fr-xb-0295; Desktop; le bureau; ; B1; Technik/Computer/Software; J'ai enregistré le fichier sur le bureau.; Ich habe die Datei auf dem Desktop gespeichert.
 fr-xb-0296; Registerkarte; l'onglet; ; C1; Technik/Computer/Software; Ouvre le lien dans un nouvel onglet.; Öffne den Link in einer neuen Registerkarte.
 fr-xb-0297; Version; la version; ; B1; Technik/Computer/Software; Installe la dernière version de l'application, s'il te plaît.; Bitte installier die neueste Version der App.
@@ -333,7 +333,7 @@ fr-xb-0330; Handyvertrag; le forfait mobile; le forfait, l'abonnement mobile; B1
 fr-xb-0331; Bildschirmzeit; le temps d'écran; le temps passé devant les écrans; B1; Technik/Computer/Smartphone; Les enfants ne devraient pas avoir trop de temps d'écran.; Kinder sollten nicht zu viel Bildschirmzeit haben.
 fr-xb-0332; Stecker; la prise; la fiche; B1; Technik/Elektrik; Débranche la prise avant de nettoyer l'appareil.; Zieh den Stecker, bevor du das Gerät sauber machst.
 fr-xb-0333; Verlängerungskabel; la rallonge; ; B2; Technik/Elektrik; Le câble est trop court, il nous faut une rallonge.; Das Kabel ist zu kurz, wir brauchen ein Verlängerungskabel.
-fr-xb-0334; Schalter (für Strom); l'interrupteur; ; A2; Technik/Elektrik; L'interrupteur de la lumière est à côté de la porte.; Der Schalter für das Licht ist neben der Tür.
+fr-xb-0334; Schalter (den Schalter drücken); l'interrupteur; ; A2; Technik/Elektrik; L'interrupteur de la lumière est à côté de la porte.; Der Schalter für das Licht ist neben der Tür.
 fr-xb-0335; einschalten; allumer; mettre en marche; A2; Technik/Elektrik; Tu peux allumer la lumière, s'il te plaît ?; Kannst du bitte das Licht einschalten?
 fr-xb-0336; ausschalten; éteindre; arrêter; A2; Technik/Elektrik; N'oublie pas d'éteindre ton ordinateur ce soir.; Vergiss nicht, heute Abend deinen Computer auszuschalten.
 fr-xb-0337; Kurzschluss; le court-circuit; ; C1; Technik/Elektrik; Un court-circuit a provoqué l'incendie dans la cuisine.; Ein Kurzschluss hat das Feuer in der Küche verursacht.
@@ -401,7 +401,7 @@ fr-xb-0398; Wochenzeitung; l'hebdomadaire; le journal hebdomadaire; B1; Medien/K
 fr-xb-0399; Titelseite; la une; la première page; B2; Medien/Kommunikation/Nachrichten & Presse; Cette histoire faisait la une de tous les journaux.; Die Geschichte stand auf der Titelseite jeder Zeitung.
 fr-xb-0400; Leserbrief; la lettre de lecteur; le courrier des lecteurs; B2; Medien/Kommunikation/Nachrichten & Presse; Mon grand-père écrit souvent des lettres de lecteur au journal.; Mein Großvater schreibt oft Leserbriefe an die Zeitung.
 fr-xb-0401; Kolumne; la chronique; la rubrique; B2; Medien/Kommunikation/Nachrichten & Presse; Elle écrit une chronique hebdomadaire sur la cuisine.; Sie schreibt eine wöchentliche Kolumne über Essen.
-fr-xb-0402; Ausgabe (Zeitung); le numéro; l'édition; B2; Medien/Kommunikation/Nachrichten & Presse; Le nouveau numéro du magazine sort lundi.; Die neue Ausgabe der Zeitschrift erscheint am Montag.
+fr-xb-0402; Ausgabe (die neue Ausgabe der Zeitschrift); le numéro; l'édition; B2; Medien/Kommunikation/Nachrichten & Presse; Le nouveau numéro du magazine sort lundi.; Die neue Ausgabe der Zeitschrift erscheint am Montag.
 fr-xb-0403; Nachrichtenagentur; l'agence de presse; ; C1; Medien/Kommunikation/Nachrichten & Presse; L'information vient d'une agence de presse internationale.; Die Meldung stammt von einer internationalen Nachrichtenagentur.
 fr-xb-0404; Bildunterschrift; la légende; ; C1; Medien/Kommunikation/Nachrichten & Presse; La légende sous la photo donne le nom de la ville.; Die Bildunterschrift unter dem Foto nennt den Namen der Stadt.
 fr-xb-0405; Kritiker; le critique; la critique; B2; Medien/Kommunikation/Nachrichten & Presse; Les critiques ont adoré la nouvelle série.; Die Kritiker waren von der neuen Serie begeistert.
@@ -422,7 +422,7 @@ fr-xb-0419; Rundfunk; la radiodiffusion; l'audiovisuel; C1; Medien/Kommunikation
 fr-xb-0420; ausstrahlen; diffuser; ; B2; Medien/Kommunikation/Fernsehen & Radio; Le dernier épisode sera diffusé dimanche prochain.; Die letzte Folge wird nächsten Sonntag ausgestrahlt.
 fr-xb-0421; Aufnahme (Ton oder Video); l'enregistrement; ; B1; Medien/Kommunikation/Fernsehen & Radio; La qualité de ce vieil enregistrement n'est pas très bonne.; Die Qualität dieser alten Aufnahme ist nicht sehr gut.
 fr-xb-0422; aufnehmen (Ton oder Video); enregistrer; ; B1; Medien/Kommunikation/Fernsehen & Radio; Le groupe a enregistré son nouvel album à Paris.; Die Band hat ihr neues Album in Paris aufgenommen.
-fr-xb-0423; Staffel (Serie); la saison; ; B1; Medien/Kommunikation/Fernsehen & Radio; La troisième saison de la série commence en mai.; Die dritte Staffel der Serie beginnt im Mai.
+fr-xb-0423; Staffel (die zweite Staffel); la saison; ; B1; Medien/Kommunikation/Fernsehen & Radio; La troisième saison de la série commence en mai.; Die dritte Staffel der Serie beginnt im Mai.
 fr-xb-0424; synchronisiert; doublé; ; B2; Medien/Kommunikation/Fernsehen & Radio; En France, la plupart des films étrangers sont doublés.; In Frankreich sind die meisten ausländischen Filme synchronisiert.
 fr-xb-0425; Kommentator; le commentateur; la commentatrice; B2; Medien/Kommunikation/Fernsehen & Radio; Le commentateur a explosé de joie après le but.; Der Kommentator geriet bei dem Tor ganz aus dem Häuschen.
 fr-xb-0426; Antenne; l'antenne; ; B2; Medien/Kommunikation/Fernsehen & Radio; La tempête a endommagé l'antenne sur notre toit.; Der Sturm hat die Antenne auf unserem Dach beschädigt.
@@ -433,8 +433,8 @@ fr-xb-0430; Emoji; l'emoji; l'émoji; A2; Medien/Kommunikation/Social Media; Ell
 fr-xb-0431; viral; viral; ; B2; Medien/Kommunikation/Social Media; Sa vidéo drôle est devenue virale en quelques heures.; Sein lustiges Video ging innerhalb weniger Stunden viral.
 fr-xb-0432; Telefonnummer; le numéro de téléphone; ; A1; Medien/Kommunikation/Telefon & Post; Je peux avoir ton numéro de téléphone, s'il te plaît ?; Kann ich bitte deine Telefonnummer haben?
 fr-xb-0433; Vorwahl; l'indicatif; l'indicatif téléphonique; B2; Medien/Kommunikation/Telefon & Post; Quel est l'indicatif pour appeler la Belgique ?; Wie lautet die Vorwahl für Belgien?
-fr-xb-0434; besetzt (Telefon); occupé; ; A2; Medien/Kommunikation/Telefon & Post; J'ai appelé trois fois, mais la ligne était occupée.; Ich habe dreimal angerufen, aber es war besetzt.
-fr-xb-0435; Hörer (Telefon); le combiné; ; B2; Medien/Kommunikation/Telefon & Post; Elle a décroché le combiné et composé le numéro.; Sie nahm den Hörer ab und wählte die Nummer.
+fr-xb-0434; besetzt (die Leitung ist besetzt); occupé; ; A2; Medien/Kommunikation/Telefon & Post; J'ai appelé trois fois, mais la ligne était occupée.; Ich habe dreimal angerufen, aber es war besetzt.
+fr-xb-0435; Hörer (den Hörer abnehmen); le combiné; ; B2; Medien/Kommunikation/Telefon & Post; Elle a décroché le combiné et composé le numéro.; Sie nahm den Hörer ab und wählte die Nummer.
 fr-xb-0436; Postleitzahl; le code postal; ; A1; Medien/Kommunikation/Telefon & Post; N'oublie pas le code postal sur l'enveloppe.; Vergiss die Postleitzahl auf dem Umschlag nicht.
 fr-xb-0437; Briefumschlag; l'enveloppe; ; A2; Medien/Kommunikation/Telefon & Post; Mets la lettre dans une enveloppe et colle un timbre.; Steck den Brief in einen Briefumschlag und kleb eine Marke drauf.
 fr-xb-0438; Briefkasten; la boîte aux lettres; ; A2; Medien/Kommunikation/Telefon & Post; Il y avait une carte postale d'Espagne dans la boîte aux lettres.; Im Briefkasten war eine Postkarte aus Spanien.

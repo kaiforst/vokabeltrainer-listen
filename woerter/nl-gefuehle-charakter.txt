@@ -31,7 +31,7 @@ nl-gc-0028; Hoffnung; de hoop; ; A2; Mensch/Gefühle/Emotionen; Er is nog hoop o
 nl-gc-0029; Sorge; de zorg; de bezorgdheid; A2; Mensch/Gefühle/Emotionen; Haar grootste zorg is dat ze haar baan verliest.; Ihre größte Sorge ist, die Arbeit zu verlieren.
 nl-gc-0030; sich freuen; zich verheugen; blij zijn; A2; Mensch/Gefühle/Emotionen; Ik verheug me over elk klein succes.; Ich freue mich über jeden kleinen Erfolg.
 nl-gc-0031; nervös; nerveus; zenuwachtig; A2; Mensch/Gefühle/Stimmungen; Voor een examen is hij altijd nerveus.; Vor einer Prüfung ist er immer nervös.
-nl-gc-0032; sauer (verärgert); boos; kwaad; A2; Mensch/Gefühle/Emotionen; Ze is boos omdat hij haar verjaardag is vergeten.; Sie ist sauer, weil er ihren Geburtstag vergessen hat.
+nl-gc-0032; sauer (auf jemanden sauer sein); boos; kwaad; A2; Mensch/Gefühle/Emotionen; Ze is boos omdat hij haar verjaardag is vergeten.; Sie ist sauer, weil er ihren Geburtstag vergessen hat.
 nl-gc-0033; zufrieden; tevreden; ; A2; Mensch/Gefühle/Stimmungen; Ik ben tevreden met het resultaat van de test.; Ich bin mit dem Ergebnis des Tests zufrieden.
 nl-gc-0034; überrascht; verrast; verbaasd; A2; Mensch/Gefühle/Emotionen; We waren verrast door de plotselinge uitnodiging.; Wir waren von der plötzlichen Einladung überrascht.
 nl-gc-0035; Überraschung; de verrassing; ; A2; Mensch/Gefühle/Emotionen; Het feest was een complete verrassing voor haar.; Die Party war eine völlige Überraschung für sie.
@@ -51,7 +51,7 @@ nl-gc-0048; ehrlich; eerlijk; ; A2; Mensch/Gefühle/Charakter; Wees eerlijk tege
 nl-gc-0049; lügen; liegen; ; A2; Mensch/Gefühle/Verhalten; Je moet nooit tegen je vrienden liegen.; Du solltest deine Freunde niemals anlügen.
 nl-gc-0050; klug; slim; verstandig, intelligent; A2; Mensch/Gefühle/Charakter; Ze is slim en leert snel talen.; Sie ist klug und lernt Sprachen schnell.
 nl-gc-0051; dumm; dom; stom; A2; Mensch/Gefühle/Charakter; Het was dom om zonder jas weg te gaan.; Es war dumm, ohne Jacke loszugehen.
-nl-gc-0052; faul (träge); lui; ; A2; Mensch/Gefühle/Charakter; Op zondag zijn we allemaal een beetje lui.; Sonntags sind wir alle ein bisschen faul.
+nl-gc-0052; faul (zu faul zum Lernen); lui; ; A2; Mensch/Gefühle/Charakter; Op zondag zijn we allemaal een beetje lui.; Sonntags sind wir alle ein bisschen faul.
 nl-gc-0053; fleißig; ijverig; vlijtig, hardwerkend; A2; Mensch/Gefühle/Charakter; De ijverige student maakte het project vroeg af.; Der fleißige Student beendete das Projekt früh.
 nl-gc-0054; geduldig; geduldig; ; A2; Mensch/Gefühle/Charakter; Een goede leraar is geduldig met beginners.; Ein guter Lehrer ist geduldig mit Anfängern.
 nl-gc-0055; ungeduldig; ongeduldig; ; A2; Mensch/Gefühle/Charakter; Hij wordt ongeduldig als hij moet wachten.; Er wird ungeduldig, wenn er warten muss.

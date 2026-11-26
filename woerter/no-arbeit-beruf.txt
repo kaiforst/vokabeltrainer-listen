@@ -35,24 +35,24 @@ no-ab-0032; verdienen; å tjene; ; A2; Arbeit/Beruf/Vertrag & Gehalt; Hun tjener
 no-ab-0033; Arbeitgeber; en arbeidsgiver; ; A2; Arbeit/Beruf/Vertrag & Gehalt; Arbeidsgiveren min betaler for togbilletten min.; Mein Arbeitgeber bezahlt meine Zugfahrkarte.
 no-ab-0034; Arbeitnehmer; en arbeidstaker; en ansatt; A2; Arbeit/Beruf/Vertrag & Gehalt; Alle arbeidstakere har rett til fem ukers ferie.; Alle Arbeitnehmer haben Anspruch auf fünf Wochen Urlaub.
 no-ab-0035; Fabrik; en fabrikk; ; A2; Arbeit/Beruf/Arbeitsalltag; Fabrikken produserer biler til hele verden.; Die Fabrik produziert Autos für die ganze Welt.
-no-ab-0036; Werkstatt (Auto); et verksted; et bilverksted; A2; Arbeit/Beruf/Arbeitsalltag; Bilen min står på verksted til fredag.; Mein Auto ist bis Freitag in der Werkstatt.
+no-ab-0036; Werkstatt (mit dem Auto in die Werkstatt); et verksted; et bilverksted; A2; Arbeit/Beruf/Arbeitsalltag; Bilen min står på verksted til fredag.; Mein Auto ist bis Freitag in der Werkstatt.
 no-ab-0037; Termin; en avtale; en time; A2; Arbeit/Beruf/Arbeitsalltag; Jeg har en viktig avtale mandag morgen.; Ich habe am Montagmorgen einen wichtigen Termin.
 no-ab-0038; Urlaub; en ferie; ; A2; Arbeit/Beruf/Arbeitsalltag; Vi tar ferien vår i august i år.; Wir nehmen unseren Urlaub dieses Jahr im August.
 no-ab-0039; Teilzeit; deltid; ; A2; Arbeit/Beruf/Vertrag & Gehalt; Hun jobber deltid på grunn av barna sine.; Sie arbeitet wegen ihrer Kinder in Teilzeit.
 no-ab-0040; Vollzeit; heltid; ; A2; Arbeit/Beruf/Vertrag & Gehalt; Han jobber heltid i en stor bank.; Er arbeitet Vollzeit in einer großen Bank.
 no-ab-0041; Bewerbung; en søknad; ; A2; Arbeit/Beruf/Bewerbung; Jeg sender søknaden min på e-post i dag.; Ich schicke meine Bewerbung heute per E-Mail.
 no-ab-0042; Lebenslauf; en CV; ; A2; Arbeit/Beruf/Bewerbung; Legg ved et bilde i CV-en din.; Bitte fügen Sie Ihrem Lebenslauf ein Foto hinzu.
-no-ab-0043; Stelle (Arbeitsplatz); en stilling; ; A2; Arbeit/Beruf/Bewerbung; Den nye stillingen begynner første mai.; Die neue Stelle beginnt am ersten Mai.
+no-ab-0043; Stelle (eine neue Stelle suchen); en stilling; ; A2; Arbeit/Beruf/Bewerbung; Den nye stillingen begynner første mai.; Die neue Stelle beginnt am ersten Mai.
 no-ab-0044; Arbeitsplatz; en arbeidsplass; ; A2; Arbeit/Beruf/Arbeitsalltag; Arbeidsplassen min er lys og veldig rolig.; Mein Arbeitsplatz ist hell und sehr ruhig.
 no-ab-0045; Überstunden; overtid; ; A2; Arbeit/Beruf/Arbeitsalltag; Han jobber ofte overtid mot slutten av måneden.; Er macht am Monatsende oft Überstunden.
-no-ab-0046; kündigen (Stelle); å si opp; ; A2; Arbeit/Beruf/Kündigung; Hun vil si opp den kjedelige jobben sin.; Sie will ihren langweiligen Job kündigen.
+no-ab-0046; kündigen (seine Stelle kündigen); å si opp; ; A2; Arbeit/Beruf/Kündigung; Hun vil si opp den kjedelige jobben sin.; Sie will ihren langweiligen Job kündigen.
 no-ab-0047; Rentner; en pensjonist; ; A2; Arbeit/Beruf/Rechte & Soziales; Pensjonisten nyter fritiden sin i hagen.; Der Rentner genießt seine freie Zeit im Garten.
 no-ab-0048; Praktikum; en praksisplass; et praksisopphold; A2; Arbeit/Beruf/Karriere; Jeg har en praksisplass i en lokalavis.; Ich mache ein Praktikum bei einer Lokalzeitung.
 no-ab-0049; Ausbildung; en yrkesutdanning; ; A2; Arbeit/Beruf/Karriere; Han begynner på en yrkesutdanning som elektriker i august.; Er beginnt im August eine Ausbildung als Elektriker.
 no-ab-0050; arbeitslos; arbeidsledig; ; A2; Arbeit/Beruf/Rechte & Soziales; Han var arbeidsledig i seks måneder i fjor.; Er war letztes Jahr sechs Monate arbeitslos.
 no-ab-0051; Vorstellungsgespräch; et jobbintervju; et intervju; B1; Arbeit/Beruf/Bewerbung; Hun er godt forberedt til jobbintervjuet.; Sie ist gut auf das Vorstellungsgespräch vorbereitet.
 no-ab-0052; Arbeitsvertrag; en arbeidsavtale; en arbeidskontrakt, en ansettelsesavtale; B1; Arbeit/Beruf/Vertrag & Gehalt; Les arbeidsavtalen før du skriver under.; Bitte lesen Sie den Arbeitsvertrag, bevor Sie ihn unterschreiben.
-no-ab-0053; Kündigung (Stelle); en oppsigelse; ; B1; Arbeit/Beruf/Kündigung; Han fikk oppsigelsen sin i slutten av mars.; Er erhielt seine Kündigung Ende März.
+no-ab-0053; Kündigung (der Arbeitsstelle); en oppsigelse; ; B1; Arbeit/Beruf/Kündigung; Han fikk oppsigelsen sin i slutten av mars.; Er erhielt seine Kündigung Ende März.
 no-ab-0054; Probezeit; en prøvetid; ; B1; Arbeit/Beruf/Vertrag & Gehalt; Prøvetiden er seks måneder i dette firmaet.; Die Probezeit dauert in dieser Firma sechs Monate.
 no-ab-0055; Gehaltserhöhung; en lønnsøkning; en lønnsforhøyelse; B1; Arbeit/Beruf/Vertrag & Gehalt; Hun ba sjefen om en lønnsøkning.; Sie bat ihren Chef um eine Gehaltserhöhung.
 no-ab-0056; Abteilung; en avdeling; ; B1; Arbeit/Beruf/Arbeitsalltag; Avdelingen vår har ansvar for nye kunder.; Unsere Abteilung ist für neue Kunden zuständig.
@@ -62,7 +62,7 @@ no-ab-0059; Erfahrung; en erfaring; ; B1; Arbeit/Beruf/Bewerbung; Hun har mange 
 no-ab-0060; Fähigkeit; en ferdighet; ; B1; Arbeit/Beruf/Bewerbung; God kommunikasjon er en viktig ferdighet i dette yrket.; Gute Kommunikation ist eine wichtige Fähigkeit in diesem Beruf.
 no-ab-0061; Stärke; en styrke; ; B1; Arbeit/Beruf/Bewerbung; Fortell oss om din største styrke.; Bitte erzählen Sie uns von Ihrer größten Stärke.
 no-ab-0062; Schwäche; en svakhet; ; B1; Arbeit/Beruf/Bewerbung; Alle bør kjenne sine egne svakheter godt.; Jeder sollte seine eigenen Schwächen gut kennen.
-no-ab-0063; Zeugnis (Arbeit); en attest; ; B1; Arbeit/Beruf/Bewerbung; Legg ved attesten din i søknaden.; Bitte fügen Sie der Bewerbung Ihr Zeugnis bei.
+no-ab-0063; Zeugnis (ein Zeugnis vom Arbeitgeber); en attest; ; B1; Arbeit/Beruf/Bewerbung; Legg ved attesten din i søknaden.; Bitte fügen Sie der Bewerbung Ihr Zeugnis bei.
 no-ab-0064; Anforderung; et krav; ; B1; Arbeit/Beruf/Bewerbung; Denne stillingen stiller svært høye krav.; Diese Stelle hat sehr hohe Anforderungen.
 no-ab-0065; Verantwortung; et ansvar; ; B1; Arbeit/Beruf/Arbeitsalltag; Hun tar ansvaret for hele prosjektet.; Sie übernimmt die Verantwortung für das ganze Projekt.
 no-ab-0066; Aufgabe; en oppgave; ; B1; Arbeit/Beruf/Arbeitsalltag; Min første oppgave er å svare på e-poster fra kunder.; Meine erste Aufgabe ist es, Kunden-E-Mails zu beantworten.
@@ -74,13 +74,13 @@ no-ab-0071; Gewerkschaft; en fagforening; ; B1; Arbeit/Beruf/Rechte & Soziales; 
 no-ab-0072; Streik; en streik; ; B1; Arbeit/Beruf/Rechte & Soziales; Streiken på flyplassen varte i to dager.; Der Streik am Flughafen dauerte zwei Tage.
 no-ab-0073; streiken; å streike; ; B1; Arbeit/Beruf/Rechte & Soziales; Lokførerne vil streike i morgen tidlig.; Die Lokführer wollen morgen früh streiken.
 no-ab-0074; Arbeitszeit; en arbeidstid; ; B1; Arbeit/Beruf/Arbeitsalltag; Arbeidstiden er fleksibel i dette firmaet.; Unsere Arbeitszeiten sind in dieser Firma flexibel.
-no-ab-0075; Schicht (Arbeit); et skift; ; B1; Arbeit/Beruf/Arbeitsalltag; Skiftet mitt begynner klokka seks om morgenen.; Meine Schicht beginnt um sechs Uhr morgens.
+no-ab-0075; Schicht (in Schichten arbeiten); et skift; ; B1; Arbeit/Beruf/Arbeitsalltag; Skiftet mitt begynner klokka seks om morgenen.; Meine Schicht beginnt um sechs Uhr morgens.
 no-ab-0076; Mindestlohn; en minstelønn; ; B1; Arbeit/Beruf/Vertrag & Gehalt; Minstelønnen stiger nok igjen neste år.; Der Mindestlohn steigt nächstes Jahr wohl wieder.
-no-ab-0077; Lohn (Bezahlung); en lønn; ; B1; Arbeit/Beruf/Vertrag & Gehalt; Arbeiderne får lønnen sin hver fredag.; Die Arbeiter erhalten ihren Lohn jeden Freitag.
+no-ab-0077; Lohn (der Lohn pro Stunde); en lønn; ; B1; Arbeit/Beruf/Vertrag & Gehalt; Arbeiderne får lønnen sin hver fredag.; Die Arbeiter erhalten ihren Lohn jeden Freitag.
 no-ab-0078; Steuer; en skatt; ; B1; Arbeit/Beruf/Rechte & Soziales; Jeg betaler mindre skatt enn i fjor.; Ich zahle weniger Steuern als letztes Jahr.
 no-ab-0079; Versicherung; en forsikring; ; B1; Arbeit/Beruf/Rechte & Soziales; En god forsikring er viktig for alle ansatte.; Eine gute Versicherung ist für jeden Arbeitnehmer wichtig.
 no-ab-0080; Rente; en pensjon; ; B1; Arbeit/Beruf/Rechte & Soziales; Bestefaren min får en liten pensjon hver måned.; Mein Großvater bekommt jeden Monat eine kleine Rente.
-no-ab-0081; einstellen (Personal); å ansette; ; B1; Arbeit/Beruf/Karriere; Firmaet vil ansette tre nye utviklere.; Die Firma möchte drei neue Entwickler einstellen.
+no-ab-0081; einstellen (neue Mitarbeiter einstellen); å ansette; ; B1; Arbeit/Beruf/Karriere; Firmaet vil ansette tre nye utviklere.; Die Firma möchte drei neue Entwickler einstellen.
 no-ab-0082; entlassen; å avskjedige; ; B1; Arbeit/Beruf/Kündigung; Fabrikken avskjediget tjue arbeidere i oktober.; Die Fabrik entließ im Oktober zwanzig Arbeiter.
 no-ab-0083; Berufserfahrung; en yrkeserfaring; ei yrkeserfaring; B1; Arbeit/Beruf/Bewerbung; Denne stillingen krever fem års yrkeserfaring.; Diese Stelle erfordert fünf Jahre Berufserfahrung.
 no-ab-0084; Anschreiben; et søknadsbrev; ; B1; Arbeit/Beruf/Bewerbung; Et godt søknadsbrev bør være kort og tydelig.; Ein gutes Anschreiben sollte kurz und klar sein.
@@ -109,7 +109,7 @@ no-ab-0106; Nettogehalt; en nettolønn; ; B2; Arbeit/Beruf/Vertrag & Gehalt; Net
 no-ab-0107; Sozialversicherung; en trygd; ei trygd, en folketrygd; B2; Arbeit/Beruf/Rechte & Soziales; Trygden beskytter arbeidstakere i vanskelige tider.; Die Sozialversicherung schützt Arbeitnehmer in schwierigen Zeiten.
 no-ab-0108; Altersvorsorge; en pensjonssparing; ; B2; Arbeit/Beruf/Rechte & Soziales; Privat pensjonssparing blir stadig viktigere i Norge.; Private Altersvorsorge wird in Norwegen immer wichtiger.
 no-ab-0109; Quereinsteiger; en karriereskifter; ; B2; Arbeit/Beruf/Karriere; Som karriereskifter lærte han raskt det grunnleggende.; Als Quereinsteiger lernte er schnell die Grundlagen.
-no-ab-0110; Berufung (Lebensaufgabe); et kall; ; B2; Arbeit/Beruf/Karriere; Å undervise er ikke bare yrket hennes, men kallet hennes.; Unterrichten ist nicht nur ihr Beruf, sondern ihre Berufung.
+no-ab-0110; Berufung (seine Berufung finden); et kall; ; B2; Arbeit/Beruf/Karriere; Å undervise er ikke bare yrket hennes, men kallet hennes.; Unterrichten ist nicht nur ihr Beruf, sondern ihre Berufung.
 no-ab-0111; Arbeitsmarkt; et arbeidsmarked; ; B2; Arbeit/Beruf/Karriere; Arbeidsmarkedet for ingeniører er veldig godt.; Der Arbeitsmarkt für Ingenieure ist sehr gut.
 no-ab-0112; Fachkraft; en fagarbeider; ; B2; Arbeit/Beruf/Karriere; Regionen trenger hver eneste fagarbeider den kan få.; Die Region braucht jede Fachkraft, die sie bekommen kann.
 no-ab-0113; Arbeitslosigkeit; en arbeidsledighet; ; B2; Arbeit/Beruf/Rechte & Soziales; Arbeidsledigheten gikk litt ned i siste kvartal.; Die Arbeitslosigkeit sank im letzten Quartal leicht.

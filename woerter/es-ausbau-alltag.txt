@@ -10,7 +10,7 @@ es-xa-0007; Mieter; el inquilino; la inquilina; B1; Alltag/Zuhause/Räume; El nu
 es-xa-0008; Vermieter; el casero; la casera, el propietario, el arrendador; B1; Alltag/Zuhause/Räume; Nuestro casero por fin ha arreglado la calefacción.; Unser Vermieter hat endlich die Heizung repariert.
 es-xa-0009; Miete; el alquiler; ; A2; Alltag/Zuhause/Räume; El alquiler de este piso es muy alto.; Die Miete für diese Wohnung ist sehr hoch.
 es-xa-0010; Wohngemeinschaft; el piso compartido; ; B1; Alltag/Zuhause/Räume; Cuando era estudiante vivía en un piso compartido.; Als Studentin hat sie in einer Wohngemeinschaft gewohnt.
-es-xa-0011; umziehen (Wohnung); mudarse; mudarse de casa; A2; Alltag/Zuhause/Räume; En junio nos mudamos a un piso más grande.; Wir ziehen im Juni in eine größere Wohnung um.
+es-xa-0011; umziehen (in eine neue Wohnung); mudarse; mudarse de casa; A2; Alltag/Zuhause/Räume; En junio nos mudamos a un piso más grande.; Wir ziehen im Juni in eine größere Wohnung um.
 es-xa-0012; Speisekammer; la despensa; ; B2; Alltag/Zuhause/Räume; Guardamos las patatas en la despensa.; Wir bewahren die Kartoffeln in der Speisekammer auf.
 es-xa-0013; Dachrinne; el canalón; ; C1; Alltag/Zuhause/Räume; El canalón vuelve a estar lleno de hojas.; Die Dachrinne ist schon wieder voller Laub.
 es-xa-0014; Abfluss; el desagüe; ; B2; Alltag/Zuhause/Räume; El pelo ha atascado el desagüe de la ducha.; Haare haben den Abfluss in der Dusche verstopft.
@@ -41,14 +41,14 @@ es-xa-0038; Spülmittel; el lavavajillas; el jabón de fregar; B1; Alltag/Zuhaus
 es-xa-0039; Mülltüte; la bolsa de basura; ; B1; Alltag/Zuhause/Haushalt; ¿Puedes poner una bolsa de basura nueva en la cocina?; Kannst du eine neue Mülltüte in der Küche einlegen?
 es-xa-0040; Geschirrtuch; el paño de cocina; el trapo de cocina; B1; Alltag/Zuhause/Haushalt; Seca los vasos con un paño de cocina limpio.; Trockne die Gläser mit einem sauberen Geschirrtuch ab.
 es-xa-0041; Putzfrau; la asistenta; la señora de la limpieza, la limpiadora; B1; Alltag/Zuhause/Haushalt; Nuestra asistenta viene todos los viernes por la mañana.; Unsere Putzfrau kommt jeden Freitagmorgen.
-es-xa-0042; Haushalt (zu Hause); el hogar; ; B1; Alltag/Zuhause/Haushalt; En nuestro hogar todos ayudan a cocinar.; In unserem Haushalt hilft jeder beim Kochen.
+es-xa-0042; Haushalt (ein Haushalt mit Kindern); el hogar; ; B1; Alltag/Zuhause/Haushalt; En nuestro hogar todos ayudan a cocinar.; In unserem Haushalt hilft jeder beim Kochen.
 es-xa-0043; staubsaugen; pasar la aspiradora; aspirar; A2; Alltag/Zuhause/Haushalt; Los sábados paso la aspiradora por todo el piso.; Samstags staubsauge ich die ganze Wohnung.
 es-xa-0044; lüften; ventilar; airear; B1; Alltag/Zuhause/Haushalt; Abre las ventanas y ventila la habitación diez minutos.; Mach die Fenster auf und lüfte das Zimmer zehn Minuten.
 es-xa-0045; renovieren; reformar; renovar; B1; Alltag/Zuhause/Haushalt; Están reformando ellos mismos la vieja casa de campo.; Sie renovieren das alte Bauernhaus selbst.
-es-xa-0046; streichen (Wand); pintar; ; B1; Alltag/Zuhause/Haushalt; Queremos pintar el dormitorio de verde.; Wir wollen das Schlafzimmer grün streichen.
+es-xa-0046; streichen (die Wand streichen); pintar; ; B1; Alltag/Zuhause/Haushalt; Queremos pintar el dormitorio de verde.; Wir wollen das Schlafzimmer grün streichen.
 es-xa-0047; tapezieren; empapelar; ; B2; Alltag/Zuhause/Haushalt; Mi padre empapeló el pasillo el fin de semana pasado.; Mein Vater hat letztes Wochenende den Flur tapeziert.
 es-xa-0431; Tapete; el papel pintado; ; B1; Alltag/Zuhause/Haushalt; Elegimos un papel pintado con flores pequeñas.; Wir haben eine Tapete mit kleinen Blumen ausgesucht.
-es-xa-0432; Farbe (zum Streichen); la pintura; ; A2; Alltag/Zuhause/Haushalt; Necesitamos dos botes más de pintura blanca.; Wir brauchen noch zwei Dosen weiße Farbe.
+es-xa-0432; Farbe (ein Eimer Farbe); la pintura; ; A2; Alltag/Zuhause/Haushalt; Necesitamos dos botes más de pintura blanca.; Wir brauchen noch zwei Dosen weiße Farbe.
 es-xa-0433; Lack; el barniz; la laca; B2; Alltag/Zuhause/Haushalt; La mesa vieja necesita otra capa de barniz.; Der alte Tisch braucht eine neue Schicht Lack.
 es-xa-0048; unordentlich; desordenado; ; A2; Alltag/Zuhause/Haushalt; Tu escritorio siempre está muy desordenado.; Dein Schreibtisch ist immer so unordentlich.
 es-xa-0049; staubig; polvoriento; lleno de polvo; B1; Alltag/Zuhause/Haushalt; Los libros viejos del desván están muy polvorientos.; Die alten Bücher auf dem Dachboden sind sehr staubig.
@@ -88,12 +88,12 @@ es-xa-0081; Mais (zum Essen); el maíz; ; A2; Alltag/Essen/Lebensmittel; Añade 
 es-xa-0082; Aubergine; la berenjena; ; B1; Alltag/Essen/Lebensmittel; Corta la berenjena en rodajas finas y fríelas.; Schneide die Aubergine in dünne Scheiben und brate sie.
 es-xa-0083; Lauch; el puerro; ; B1; Alltag/Essen/Lebensmittel; La crema de patata y puerro es perfecta en invierno.; Kartoffelsuppe mit Lauch ist im Winter perfekt.
 es-xa-0084; Spargel; el espárrago; los espárragos; B1; Alltag/Essen/Lebensmittel; En mayo comemos espárragos blancos con jamón.; Im Mai essen wir weißen Spargel mit Schinken.
-es-xa-0085; Linse (Hülsenfrucht); la lenteja; ; B1; Alltag/Essen/Lebensmittel; Las lentejas rojas se cuecen en unos quince minutos.; Rote Linsen sind in etwa fünfzehn Minuten gar.
+es-xa-0085; Linse (Suppe mit Linsen); la lenteja; ; B1; Alltag/Essen/Lebensmittel; Las lentejas rojas se cuecen en unos quince minutos.; Rote Linsen sind in etwa fünfzehn Minuten gar.
 es-xa-0086; Kichererbse; el garbanzo; ; B2; Alltag/Essen/Lebensmittel; El hummus se hace con garbanzos.; Hummus wird aus Kichererbsen gemacht.
 es-xa-0087; Ananas; la piña; ; A2; Alltag/Essen/Lebensmittel; ¿Está la piña lo bastante madura para comerla?; Ist die Ananas reif genug zum Essen?
 es-xa-0088; Kirsche; la cereza; ; A1; Alltag/Essen/Lebensmittel; Las cerezas de nuestro árbol son muy dulces.; Die Kirschen von unserem Baum sind sehr süß.
 es-xa-0089; Pfirsich; el melocotón; ; A2; Alltag/Essen/Lebensmittel; Este melocotón está muy blando y jugoso.; Dieser Pfirsich ist weich und saftig.
-es-xa-0090; Mandel (Nuss); la almendra; ; B1; Alltag/Essen/Lebensmittel; Este bizcocho se hace con almendras molidas.; Der Kuchen wird mit gemahlenen Mandeln gebacken.
+es-xa-0090; Mandel (gebrannte Mandeln); la almendra; ; B1; Alltag/Essen/Lebensmittel; Este bizcocho se hace con almendras molidas.; Der Kuchen wird mit gemahlenen Mandeln gebacken.
 es-xa-0091; Walnuss; la nuez; ; B1; Alltag/Essen/Lebensmittel; Echó unas cuantas nueces a la ensalada.; Sie hat ein paar Walnüsse in den Salat getan.
 es-xa-0092; Keks; la galleta; ; A1; Alltag/Essen/Lebensmittel; ¿Quieres una galleta con el té?; Möchtest du einen Keks zum Tee?
 es-xa-0093; Bonbon; el caramelo; ; A1; Alltag/Essen/Lebensmittel; El médico le dio un caramelo al niño.; Der Arzt gab dem Kind ein Bonbon.
@@ -126,10 +126,10 @@ es-xa-0118; Orangensaft; el zumo de naranja; el jugo de naranja; A1; Alltag/Esse
 es-xa-0119; Rotwein; el vino tinto; ; A2; Alltag/Essen/Getränke; Con la cena nos tomamos una botella de vino tinto.; Zum Abendessen haben wir eine Flasche Rotwein getrunken.
 es-xa-0120; alkoholfrei; sin alcohol; ; B1; Alltag/Essen/Getränke; El conductor solo bebe cerveza sin alcohol.; Der Fahrer trinkt nur alkoholfreies Bier.
 es-xa-0121; Alkohol; el alcohol; ; A2; Alltag/Essen/Getränke; En este ponche de frutas no hay nada de alcohol.; In dieser Bowle ist kein Alkohol.
-es-xa-0122; reiben (Käse); rallar; ; B2; Alltag/Essen/Kochen; Ralla un poco de queso sobre la pasta.; Reib etwas Käse über die Nudeln.
+es-xa-0122; reiben (Käse reiben); rallar; ; B2; Alltag/Essen/Kochen; Ralla un poco de queso sobre la pasta.; Reib etwas Käse über die Nudeln.
 es-xa-0123; kneten; amasar; ; B2; Alltag/Essen/Kochen; Amasa la masa durante diez minutos.; Knete den Teig zehn Minuten lang.
 es-xa-0124; abgießen; escurrir; ; B2; Alltag/Essen/Kochen; Escurre las patatas y deja que se enfríen un poco.; Gieß die Kartoffeln ab und lass sie etwas abkühlen.
-es-xa-0125; würfeln (Gemüse); cortar en dados; cortar en cubitos; B2; Alltag/Essen/Kochen; Corta las cebollas en dados y fríelas en aceite.; Würfle die Zwiebeln und brate sie in Öl an.
+es-xa-0125; würfeln (Zwiebeln würfeln); cortar en dados; cortar en cubitos; B2; Alltag/Essen/Kochen; Corta las cebollas en dados y fríelas en aceite.; Würfle die Zwiebeln und brate sie in Öl an.
 es-xa-0126; bestreuen; espolvorear; ; B2; Alltag/Essen/Kochen; Espolvorea la pizza con queso y orégano.; Bestreu die Pizza mit Käse und Oregano.
 es-xa-0127; verquirlen; batir; ; C1; Alltag/Essen/Kochen; Bate los huevos con un poco de leche.; Verquirl die Eier mit etwas Milch.
 es-xa-0128; Prise; la pizca; ; B2; Alltag/Essen/Kochen; Añade una pizca de sal al agua.; Gib eine Prise Salz ins Wasser.
@@ -149,13 +149,13 @@ es-xa-0141; Rührei; los huevos revueltos; el revuelto; A2; Alltag/Essen/Mahlzei
 es-xa-0142; Eintopf; el guiso; el cocido, el estofado; B1; Alltag/Essen/Mahlzeiten; Un guiso caliente es justo lo que apetece en un día frío.; Ein heißer Eintopf ist an einem kalten Tag genau richtig.
 es-xa-0143; Auflauf; el gratinado; el gratén; B2; Alltag/Essen/Mahlzeiten; Hizo un gratinado de verduras con queso por encima.; Sie hat einen Gemüseauflauf mit Käse obendrauf gemacht.
 es-xa-0144; Portion; la ración; la porción; A2; Alltag/Essen/Mahlzeiten; Las raciones de este restaurante son enormes.; Die Portionen in diesem Restaurant sind riesig.
-es-xa-0145; Scheibe (Brot); la rebanada; ; A2; Alltag/Essen/Mahlzeiten; ¿Me podrías dar otra rebanada de pan?; Könnte ich noch eine Scheibe Brot haben?
+es-xa-0145; Scheibe (eine Scheibe Brot); la rebanada; ; A2; Alltag/Essen/Mahlzeiten; ¿Me podrías dar otra rebanada de pan?; Könnte ich noch eine Scheibe Brot haben?
 es-xa-0146; Kantine; el comedor; la cantina, el comedor de empresa; B1; Alltag/Essen/Restaurant; En el trabajo comemos en el comedor de la empresa.; Wir essen in der Kantine bei der Arbeit zu Mittag.
 es-xa-0147; Café; la cafetería; el café; A1; Alltag/Essen/Restaurant; Quedamos en la cafetería de la esquina.; Lass uns im Café an der Ecke treffen.
 es-xa-0148; Bedienung; el servicio; ; B1; Alltag/Essen/Restaurant; La comida estaba buena, pero el servicio era lento.; Das Essen war gut, aber die Bedienung war langsam.
 es-xa-0149; Tagesgericht; el plato del día; ; B1; Alltag/Essen/Restaurant; Hoy el plato del día es pollo al curry.; Das Tagesgericht ist heute Hähnchencurry.
 es-xa-0150; Beilage; la guarnición; el acompañamiento; B1; Alltag/Essen/Restaurant; De guarnición hay arroz o ensalada.; Als Beilage gibt es Reis oder Salat.
-es-xa-0151; Gang (beim Essen); el plato; ; B2; Alltag/Essen/Restaurant; La cena de la boda tuvo cinco platos.; Das Hochzeitsessen hatte fünf Gänge.
+es-xa-0151; Gang (ein Menü mit drei Gängen); el plato; ; B2; Alltag/Essen/Restaurant; La cena de la boda tuvo cinco platos.; Das Hochzeitsessen hatte fünf Gänge.
 es-xa-0152; Buffet; el bufé; el buffet; B1; Alltag/Essen/Restaurant; El desayuno del hotel es un gran bufé.; Das Frühstück im Hotel ist ein großes Buffet.
 es-xa-0153; Lieferdienst; el servicio de reparto; el reparto a domicilio, el servicio a domicilio; B1; Alltag/Essen/Restaurant; Pedimos una pizza a un servicio de reparto.; Wir haben Pizza bei einem Lieferdienst bestellt.
 es-xa-0154; Kleidung; la ropa; ; A1; Alltag/Kleidung/Kleidungsstücke; Llévate ropa de abrigo porque por la noche hace frío.; Nimm warme Kleidung mit, weil es nachts kalt wird.
@@ -175,7 +175,7 @@ es-xa-0167; Schnalle; la hebilla; ; C1; Alltag/Kleidung/Schuhe & Accessoires; La
 es-xa-0439; Brieftasche; la cartera; la billetera; B1; Alltag/Kleidung/Schuhe & Accessoires; Lleva el carné de identidad en la cartera.; Er hat seinen Ausweis in der Brieftasche.
 es-xa-0440; Laufschuh; la zapatilla de correr; la zapatilla de running; B1; Alltag/Kleidung/Schuhe & Accessoires; Para el maratón necesito zapatillas de correr nuevas.; Für den Marathon brauche ich neue Laufschuhe.
 es-xa-0168; Schuhgröße; el número de pie; la talla de zapatos, el número de calzado; A2; Alltag/Kleidung/Einkauf & Passform; ¿Qué número de pie tienes?; Welche Schuhgröße hast du?
-es-xa-0169; locker (Kleidung); holgado; ancho; B1; Alltag/Kleidung/Einkauf & Passform; En verano me gusta llevar ropa holgada.; Im Sommer trage ich gern lockere Kleidung.
+es-xa-0169; locker (die Hose sitzt locker); holgado; ancho; B1; Alltag/Kleidung/Einkauf & Passform; En verano me gusta llevar ropa holgada.; Im Sommer trage ich gern lockere Kleidung.
 es-xa-0170; ärmellos; sin mangas; ; B1; Alltag/Kleidung/Kleidungsstücke; Hace demasiado frío para un vestido sin mangas.; Für ein ärmelloses Kleid ist es zu kalt.
 es-xa-0171; wasserdicht; impermeable; ; B1; Alltag/Kleidung/Kleidungsstücke; Para esta excursión necesitas una chaqueta impermeable.; Für diese Wanderung brauchst du eine wasserdichte Jacke.
 es-xa-0172; schick; elegante; ; B1; Alltag/Kleidung/Stil; Estás muy elegante con ese traje.; Du siehst in dem Anzug sehr schick aus.
@@ -185,14 +185,14 @@ es-xa-0175; flicken; remendar; zurcir; B2; Alltag/Kleidung/Pflege & Schneiderei;
 es-xa-0176; Loch; el agujero; ; A2; Alltag/Kleidung/Pflege & Schneiderei; Tienes un agujero enorme en el calcetín.; In deiner Socke ist ein großes Loch.
 es-xa-0177; zerrissen; roto; rasgado; B1; Alltag/Kleidung/Pflege & Schneiderei; Después de la pelea tenía la camisa rota.; Nach der Prügelei war sein Hemd zerrissen.
 es-xa-0178; Etikett; la etiqueta; ; B1; Alltag/Kleidung/Pflege & Schneiderei; Lee la etiqueta antes de lavar el jersey.; Lies das Etikett, bevor du den Pullover wäschst.
-es-xa-0179; einlaufen (Wäsche); encoger; encogerse; B2; Alltag/Kleidung/Pflege & Schneiderei; Mi camiseta favorita ha encogido en la lavadora.; Mein Lieblings-T-Shirt ist in der Wäsche eingelaufen.
+es-xa-0179; einlaufen (der Pulli ist eingelaufen); encoger; encogerse; B2; Alltag/Kleidung/Pflege & Schneiderei; Mi camiseta favorita ha encogido en la lavadora.; Mein Lieblings-T-Shirt ist in der Wäsche eingelaufen.
 es-xa-0180; knittern; arrugarse; ; B2; Alltag/Kleidung/Pflege & Schneiderei; El lino se arruga con mucha facilidad.; Leinen knittert sehr leicht.
 es-xa-0181; zerknittert; arrugado; ; B2; Alltag/Kleidung/Pflege & Schneiderei; Después del largo vuelo tenía la camisa toda arrugada.; Nach dem langen Flug war sein Hemd ganz zerknittert.
 es-xa-0182; Lebensmittelgeschäft; la tienda de alimentación; la tienda de comestibles, el colmado; A2; Alltag/Einkaufen/Geschäfte; Al final de nuestra calle hay una pequeña tienda de alimentación.; Am Ende unserer Straße gibt es ein kleines Lebensmittelgeschäft.
 es-xa-0183; Kaufhaus; los grandes almacenes; ; A2; Alltag/Einkaufen/Geschäfte; En los grandes almacenes venden de todo, desde zapatos hasta sofás.; Das Kaufhaus verkauft alles von Schuhen bis zu Sofas.
 es-xa-0184; Schreibwarenladen; la papelería; ; B1; Alltag/Einkaufen/Geschäfte; Compré bolígrafos nuevos en la papelería.; Ich habe im Schreibwarenladen neue Stifte gekauft.
 es-xa-0185; Optiker; el óptico; la óptica; B1; Alltag/Einkaufen/Geschäfte; Mañana voy al óptico a recoger mis gafas nuevas.; Morgen hole ich meine neue Brille beim Optiker ab.
-es-xa-0186; Reinigung (Geschäft); la tintorería; ; B2; Alltag/Einkaufen/Geschäfte; ¿Puedes llevar mi traje a la tintorería?; Kannst du meinen Anzug in die Reinigung bringen?
+es-xa-0186; Reinigung (den Anzug zur Reinigung bringen); la tintorería; ; B2; Alltag/Einkaufen/Geschäfte; ¿Puedes llevar mi traje a la tintorería?; Kannst du meinen Anzug in die Reinigung bringen?
 es-xa-0187; Waschsalon; la lavandería; ; B2; Alltag/Einkaufen/Geschäfte; Nuestra lavadora está rota, así que voy a la lavandería.; Unsere Waschmaschine ist kaputt, deshalb gehe ich in den Waschsalon.
 es-xa-0188; Theke; el mostrador; la barra; B1; Alltag/Einkaufen/Geschäfte; Pregunta por el queso en el mostrador.; Frag an der Theke nach dem Käse.
 es-xa-0189; Kassierer; el cajero; la cajera; A2; Alltag/Einkaufen/Geschäfte; El cajero me dio mal el cambio.; Der Kassierer hat mir falsches Wechselgeld gegeben.
@@ -213,7 +213,7 @@ es-xa-0200; übergewichtig; con sobrepeso; ; B1; Mensch/Aussehen; Los niños con
 es-xa-0201; blond; rubio; ; A2; Mensch/Aussehen; Los dos niños tienen el pelo rubio y los ojos azules.; Beide Kinder haben blonde Haare und blaue Augen.
 es-xa-0202; dunkelhaarig; moreno; de pelo oscuro; B1; Mensch/Aussehen; Una mujer morena esperaba en la puerta.; Eine dunkelhaarige Frau wartete an der Tür.
 es-xa-0203; lockig; rizado; ; A2; Mensch/Aussehen; Su hija tiene el pelo largo y rizado.; Ihre Tochter hat lange, lockige Haare.
-es-xa-0204; glatt (Haar); liso; lacio; A2; Mensch/Aussehen; Tengo el pelo liso, pero mi hermano lo tiene rizado.; Meine Haare sind glatt, aber die meines Bruders sind lockig.
+es-xa-0204; glatt (glatte Haare); liso; lacio; A2; Mensch/Aussehen; Tengo el pelo liso, pero mi hermano lo tiene rizado.; Meine Haare sind glatt, aber die meines Bruders sind lockig.
 es-xa-0205; kahl; calvo; ; B1; Mensch/Aussehen; Mi tío se quedó calvo a los treinta años.; Mein Onkel wurde mit dreißig kahl.
 es-xa-0206; Bart; la barba; ; A2; Mensch/Aussehen; Se ha dejado barba desde el verano.; Er hat sich seit dem Sommer einen Bart wachsen lassen.
 es-xa-0207; Schnurrbart; el bigote; ; B1; Mensch/Aussehen; El hombre de la foto tiene un bigote espeso.; Der Mann auf dem Foto hat einen dichten Schnurrbart.
@@ -224,7 +224,7 @@ es-xa-0211; Muttermal; el lunar; ; C1; Mensch/Aussehen; Deberías enseñarle al 
 es-xa-0212; Zopf; la trenza; ; B2; Mensch/Aussehen; Su madre le hace una trenza todas las mañanas.; Ihre Mutter flicht ihr jeden Morgen einen Zopf.
 es-xa-0213; Pferdeschwanz; la coleta; ; B1; Mensch/Aussehen; Para hacer deporte se recoge el pelo en una coleta.; Beim Sport bindet sie ihre Haare zu einem Pferdeschwanz.
 es-xa-0214; Frisur; el peinado; ; A2; Mensch/Aussehen; ¿Te gusta mi nuevo peinado?; Gefällt dir meine neue Frisur?
-es-xa-0215; Pony (Frisur); el flequillo; ; B2; Mensch/Aussehen; Te está creciendo demasiado el flequillo.; Dein Pony wird zu lang.
+es-xa-0215; Pony (die Haare über der Stirn); el flequillo; ; B2; Mensch/Aussehen; Te está creciendo demasiado el flequillo.; Dein Pony wird zu lang.
 es-xa-0216; blass; pálido; ; B1; Mensch/Aussehen; Estás pálido, ¿te encuentras bien?; Du siehst blass aus, geht es dir gut?
 es-xa-0217; braun gebrannt; bronceado; moreno; B1; Mensch/Aussehen; Volvieron de Canarias muy bronceados.; Sie kamen schön braun gebrannt von den Kanaren zurück.
 es-xa-0218; muskulös; musculoso; ; B2; Mensch/Aussehen; El nadador tiene los hombros anchos y musculosos.; Der Schwimmer hat breite, muskulöse Schultern.
@@ -303,7 +303,7 @@ es-xa-0290; Augenlid; el párpado; ; B2; Gesundheit/Körper; Llevo todo el día 
 es-xa-0291; Nasenloch; la fosa nasal; el orificio nasal; B2; Gesundheit/Körper; Tápate una fosa nasal y respira por la otra.; Halt dir ein Nasenloch zu und atme durch das andere.
 es-xa-0292; Zahnfleisch; las encías; la encía; B2; Gesundheit/Körper; Me sangran las encías cuando me lavo los dientes.; Mein Zahnfleisch blutet beim Zähneputzen.
 es-xa-0293; Nacken; la nuca; el cuello; B1; Gesundheit/Körper; Me duele la nuca porque he dormido mal.; Mir tut der Nacken weh, weil ich schlecht geschlafen habe.
-es-xa-0294; Brust (Oberkörper); el pecho; ; A2; Gesundheit/Körper; Tiene un dolor muy fuerte en el pecho.; Er hat starke Schmerzen in der Brust.
+es-xa-0294; Brust (Schmerzen in der Brust); el pecho; ; A2; Gesundheit/Körper; Tiene un dolor muy fuerte en el pecho.; Er hat starke Schmerzen in der Brust.
 es-xa-0295; Hüfte; la cadera; ; B1; Gesundheit/Körper; A mi abuela le tienen que poner una cadera nueva.; Meine Großmutter braucht eine neue Hüfte.
 es-xa-0296; Taille; la cintura; ; B1; Gesundheit/Körper; Estos pantalones me aprietan en la cintura.; Diese Hose ist an der Taille zu eng.
 es-xa-0297; Po; el trasero; el culete, el culo; A2; Gesundheit/Körper; El niño se cayó y se dio un golpe en el trasero.; Der Junge ist hingefallen und hat sich den Po gestoßen.
@@ -316,7 +316,7 @@ es-xa-0303; Faust; el puño; ; B1; Gesundheit/Körper; Golpeó la mesa con el pu
 es-xa-0304; Handfläche; la palma; la palma de la mano; B2; Gesundheit/Körper; Sostenía el pajarito en la palma de la mano.; Sie hielt den kleinen Vogel in ihrer Handfläche.
 es-xa-0305; Bauchnabel; el ombligo; ; B1; Gesundheit/Körper; El bebé se ríe cuando le haces cosquillas en el ombligo.; Das Baby lacht, wenn man es am Bauchnabel kitzelt.
 es-xa-0306; Darm; el intestino; ; B2; Gesundheit/Körper; La fibra es buena para el intestino.; Ballaststoffe sind gut für den Darm.
-es-xa-0307; Blase (Organ); la vejiga; ; C1; Gesundheit/Körper; Beber suficiente agua es bueno para la vejiga.; Genug Wasser zu trinken ist gut für die Blase.
+es-xa-0307; Blase (die Harnblase); la vejiga; ; C1; Gesundheit/Körper; Beber suficiente agua es bueno para la vejiga.; Genug Wasser zu trinken ist gut für die Blase.
 es-xa-0308; Nerv; el nervio; ; B1; Gesundheit/Körper; El dentista me tocó un nervio y me dolió muchísimo.; Der Zahnarzt hat einen Nerv getroffen, und es tat richtig weh.
 es-xa-0309; Sehne; el tendón; ; C1; Gesundheit/Körper; El futbolista se rompió un tendón del pie.; Der Fußballer hat sich eine Sehne im Fuß gerissen.
 es-xa-0310; Schädel; el cráneo; ; B2; Gesundheit/Körper; El casco te protege el cráneo si te caes.; Der Helm schützt deinen Schädel, wenn du stürzt.
@@ -330,7 +330,7 @@ es-xa-0317; Schwellung; la hinchazón; la inflamación; B2; Gesundheit/Symptome;
 es-xa-0318; geschwollen; hinchado; inflamado; B1; Gesundheit/Symptome; Después de la caída tengo el tobillo muy hinchado.; Nach dem Sturz ist mein Knöchel stark geschwollen.
 es-xa-0319; blauer Fleck; el moratón; el cardenal, el hematoma; B1; Gesundheit/Symptome; Tengo un moratón enorme en el brazo.; Ich habe einen großen blauen Fleck am Arm.
 es-xa-0320; Krampf; el calambre; ; B2; Gesundheit/Symptome; Por la noche me desperté con un calambre en la pierna.; Nachts bin ich mit einem Krampf im Bein aufgewacht.
-es-xa-0321; Kater (nach Alkohol); la resaca; ; B2; Gesundheit/Symptome; Después de la fiesta tenía una resaca horrible.; Nach der Party hatte er einen schrecklichen Kater.
+es-xa-0321; Kater (einen Kater haben); la resaca; ; B2; Gesundheit/Symptome; Después de la fiesta tenía una resaca horrible.; Nach der Party hatte er einen schrecklichen Kater.
 es-xa-0322; Verbrennung; la quemadura; ; B1; Gesundheit/Symptome; Enfría la quemadura enseguida con agua fría.; Kühl die Verbrennung sofort mit kaltem Wasser.
 es-xa-0323; Beule; el chichón; el bulto; B1; Gesundheit/Symptome; Tiene un chichón en la cabeza por el golpe con la puerta.; Er hat von der Tür eine Beule am Kopf.
 es-xa-0324; Kratzer; el arañazo; el rasguño; B1; Gesundheit/Symptome; El gato me hizo un arañazo en la mano.; Die Katze hat mir einen Kratzer an der Hand verpasst.
@@ -377,7 +377,7 @@ es-xa-0364; Hausarzt; el médico de cabecera; el médico de familia, la médica 
 es-xa-0365; Kinderarzt; el pediatra; la pediatra; B1; Gesundheit/Beim Arzt; Mañana llevamos al bebé al pediatra.; Wir gehen morgen mit dem Baby zum Kinderarzt.
 es-xa-0366; Augenarzt; el oftalmólogo; el oculista, la oftalmóloga; B1; Gesundheit/Beim Arzt; El oftalmólogo dice que necesito unas gafas más fuertes.; Der Augenarzt sagt, dass ich eine stärkere Brille brauche.
 es-xa-0367; Facharzt; el especialista; el médico especialista, la especialista; B2; Gesundheit/Beim Arzt; Mi médico me ha mandado a un especialista del corazón.; Mein Arzt hat mich zu einem Facharzt für Herzkrankheiten geschickt.
-es-xa-0368; Sprechstunde (Arzt); el horario de consulta; la consulta; B2; Gesundheit/Beim Arzt; El horario de consulta del médico es de ocho a doce.; Die Sprechstunde des Arztes ist von acht bis zwölf.
+es-xa-0368; Sprechstunde (beim Arzt); el horario de consulta; la consulta; B2; Gesundheit/Beim Arzt; El horario de consulta del médico es de ocho a doce.; Die Sprechstunde des Arztes ist von acht bis zwölf.
 es-xa-0369; Arztpraxis; la consulta médica; la consulta; B1; Gesundheit/Beim Arzt; La consulta médica está en la segunda planta.; Die Arztpraxis ist im zweiten Stock.
 es-xa-0370; Untersuchung; el reconocimiento médico; la exploración, la revisión, el examen médico; B1; Gesundheit/Beim Arzt; El reconocimiento médico solo dura unos minutos.; Die Untersuchung dauert nur ein paar Minuten.
 es-xa-0371; Blutprobe; la muestra de sangre; ; B1; Gesundheit/Beim Arzt; La enfermera me sacó una muestra de sangre del brazo.; Die Krankenschwester hat mir eine Blutprobe aus dem Arm genommen.
@@ -412,9 +412,9 @@ es-xa-0396; Antibiotikum; el antibiótico; ; B2; Gesundheit/Apotheke & Medikamen
 es-xa-0397; Kapsel; la cápsula; ; B2; Gesundheit/Apotheke & Medikamente; Trágate la cápsula con un vaso de agua.; Schluck die Kapsel mit einem Glas Wasser.
 es-xa-0398; Creme; la crema; ; A2; Gesundheit/Apotheke & Medikamente; Ponte esta crema en el sarpullido dos veces al día.; Trag diese Creme zweimal am Tag auf den Ausschlag auf.
 es-xa-0399; Schlaftablette; el somnífero; la pastilla para dormir; B1; Gesundheit/Apotheke & Medikamente; No consigue dormir sin tomarse un somnífero.; Ohne Schlaftablette kann sie nicht schlafen.
-es-xa-0400; einnehmen (Medikament); tomar; tomarse; B1; Gesundheit/Apotheke & Medikamente; Tome las pastillas después de las comidas.; Nehmen Sie die Tabletten nach dem Essen ein.
+es-xa-0400; einnehmen (Tabletten einnehmen); tomar; tomarse; B1; Gesundheit/Apotheke & Medikamente; Tome las pastillas después de las comidas.; Nehmen Sie die Tabletten nach dem Essen ein.
 es-xa-0401; verschreibungspflichtig; con receta; con receta médica, sujeto a prescripción médica; C1; Gesundheit/Apotheke & Medikamente; En España este medicamento solo se vende con receta.; In Spanien ist dieses Medikament verschreibungspflichtig.
-es-xa-0402; abnehmen (Gewicht); adelgazar; perder peso; A2; Gesundheit/Gesunde Lebensweise; Quiere adelgazar un poco antes del verano.; Sie möchte vor dem Sommer abnehmen.
+es-xa-0402; abnehmen (fünf Kilo abnehmen); adelgazar; perder peso; A2; Gesundheit/Gesunde Lebensweise; Quiere adelgazar un poco antes del verano.; Sie möchte vor dem Sommer abnehmen.
 es-xa-0403; rauchen; fumar; ; A2; Gesundheit/Gesunde Lebensweise; Mi padre dejó de fumar hace veinte años.; Mein Vater hat vor zwanzig Jahren aufgehört zu rauchen.
 es-xa-0404; Nichtraucher; el no fumador; la no fumadora; B1; Gesundheit/Gesunde Lebensweise; En este hotel solo hay habitaciones para no fumadores.; In diesem Hotel gibt es nur Zimmer für Nichtraucher.
 es-xa-0405; Raucher; el fumador; la fumadora; A2; Gesundheit/Gesunde Lebensweise; Los fumadores suelen toser por la mañana.; Raucher husten morgens oft.

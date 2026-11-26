@@ -15,7 +15,7 @@ nl-al-0012; Treppe; de trap; ; A2; Alltag/Zuhause/Räume; Neem de trap naar de t
 nl-al-0013; Wand; de muur; de wand; A2; Alltag/Zuhause/Räume; We hebben de muur lichtblauw geverfd.; Wir haben die Wand hellblau gestrichen.
 nl-al-0014; Flur; de gang; de hal; B1; Alltag/Zuhause/Räume; Je schoenen staan in de gang naast de deur.; Deine Schuhe stehen im Flur neben der Tür.
 nl-al-0015; Dachboden; de zolder; ; B1; Alltag/Zuhause/Räume; Oude dozen liggen boven op de zolder.; Alte Kartons lagern oben auf dem Dachboden.
-nl-al-0016; Decke (im Zimmer); het plafond; ; B1; Alltag/Zuhause/Räume; De lamp hangt aan het plafond boven de tafel.; Die Lampe hängt von der Decke über dem Tisch.
+nl-al-0016; Decke (die Lampe an der Decke); het plafond; ; B1; Alltag/Zuhause/Räume; De lamp hangt aan het plafond boven de tafel.; Die Lampe hängt von der Decke über dem Tisch.
 nl-al-0017; Arbeitszimmer; de werkkamer; de studeerkamer; B1; Alltag/Zuhause/Räume; Hij werkt thuis in zijn rustige werkkamer.; Er arbeitet zu Hause in seinem ruhigen Arbeitszimmer.
 nl-al-0018; Abstellraum; de berging; de bergruimte; B2; Alltag/Zuhause/Räume; De stofzuiger staat in de berging.; Der Staubsauger steht im Abstellraum.
 nl-al-0019; Dachgeschoss; de zolderverdieping; de bovenste verdieping; B2; Alltag/Zuhause/Räume; Ze hebben de zolderverdieping tot een lichte woning verbouwd.; Sie haben das Dachgeschoss in eine helle Wohnung umgebaut.
@@ -74,7 +74,7 @@ nl-al-0071; Besen; de bezem; ; B1; Alltag/Zuhause/Haushalt; Ze veegt het terras 
 nl-al-0072; Eimer; de emmer; ; B1; Alltag/Zuhause/Haushalt; Vul de emmer alsjeblieft met warm water.; Füll den Eimer bitte mit warmem Wasser.
 nl-al-0073; Staub; het stof; ; B1; Alltag/Zuhause/Haushalt; Onder het bed ligt veel stof.; Unter dem Bett liegt viel Staub.
 nl-al-0074; Fleck; de vlek; ; B1; Alltag/Zuhause/Haushalt; Op het tafelkleed zit een koffievlek.; Auf der Tischdecke ist ein Kaffeefleck.
-nl-al-0075; Hausarbeit (Haushalt); het huishouden; het huishoudelijk werk; B1; Alltag/Zuhause/Haushalt; We verdelen het huishouden eerlijk onder elkaar.; Wir teilen uns die Hausarbeit gerecht auf.
+nl-al-0075; Hausarbeit (putzen und waschen); het huishouden; het huishoudelijk werk; B1; Alltag/Zuhause/Haushalt; We verdelen het huishouden eerlijk onder elkaar.; Wir teilen uns die Hausarbeit gerecht auf.
 nl-al-0076; Trockner; de droger; de wasdroger, de droogtrommel; B1; Alltag/Zuhause/Haushalt; Leg de natte handdoeken in de droger.; Leg die nassen Handtücher in den Trockner.
 nl-al-0077; Waschmittel; het wasmiddel; het waspoeder; B2; Alltag/Zuhause/Haushalt; Het wasmiddel is alweer op.; Das Waschmittel ist schon wieder alle.
 nl-al-0078; Putzmittel; het schoonmaakmiddel; het reinigingsmiddel; B2; Alltag/Zuhause/Haushalt; Dit schoonmaakmiddel werkt goed op glas.; Dieses Putzmittel wirkt gut auf Glas.
@@ -88,12 +88,12 @@ nl-al-0085; Mülltrennung; de afvalscheiding; ; C1; Alltag/Zuhause/Haushalt; Afv
 nl-al-0086; Schimmel; de schimmel; ; C1; Alltag/Zuhause/Haushalt; We hebben schimmel gevonden achter de badkamerkast.; Wir haben hinter dem Badezimmerschrank Schimmel gefunden.
 nl-al-0087; verstopft; verstopt; ; C1; Alltag/Zuhause/Haushalt; De afvoer in de douche is weer verstopt.; Der Abfluss in der Dusche ist wieder verstopft.
 nl-al-0088; undicht; lek; ; C1; Alltag/Zuhause/Haushalt; De oude kraan is lek en druppelt de hele nacht.; Der alte Wasserhahn ist undicht und tropft die ganze Nacht.
-nl-al-0089; Sicherung (Strom); de zekering; de stop; C1; Alltag/Zuhause/Haushalt; De zekering sloeg door toen ik de oven aanzette.; Die Sicherung flog raus, als ich den Backofen anmachte.
+nl-al-0089; Sicherung (die Sicherung ist durchgebrannt); de zekering; de stop; C1; Alltag/Zuhause/Haushalt; De zekering sloeg door toen ik de oven aanzette.; Die Sicherung flog raus, als ich den Backofen anmachte.
 nl-al-0090; entrümpeln; uitmesten; ontspullen; C2; Alltag/Zuhause/Haushalt; We willen dit weekend de kelder uitmesten.; Wir wollen am Wochenende den Keller entrümpeln.
 nl-al-0091; Werkzeug; het gereedschap; ; A2; Alltag/Zuhause/Werkzeug; Voor dit werk heb je het juiste gereedschap nodig.; Für diese Arbeit brauchst du das richtige Werkzeug.
 nl-al-0092; Hammer; de hamer; ; A2; Alltag/Zuhause/Werkzeug; Hij sloeg de spijker er met de hamer in.; Er schlug den Nagel mit dem Hammer ein.
 nl-al-0093; reparieren; repareren; herstellen, maken; B1; Alltag/Zuhause/Werkzeug; Mijn vader kan bijna alles zelf repareren.; Mein Vater kann fast alles selbst reparieren.
-nl-al-0094; Leiter (zum Steigen); de ladder; ; B1; Alltag/Zuhause/Werkzeug; Houd de ladder vast terwijl ik omhoogklim.; Halt die Leiter fest, während ich hinaufsteige.
+nl-al-0094; Leiter (auf eine Leiter steigen); de ladder; ; B1; Alltag/Zuhause/Werkzeug; Houd de ladder vast terwijl ik omhoogklim.; Halt die Leiter fest, während ich hinaufsteige.
 nl-al-0095; Nagel; de spijker; ; B1; Alltag/Zuhause/Werkzeug; Het schilderij hangt aan een kleine spijker.; Das Bild hängt an einem kleinen Nagel.
 nl-al-0096; Schraube; de schroef; ; B1; Alltag/Zuhause/Werkzeug; Deze schroef zit los en moet worden aangedraaid.; Diese Schraube ist locker und muss angezogen werden.
 nl-al-0097; Schraubenzieher; de schroevendraaier; ; B2; Alltag/Zuhause/Werkzeug; Geef me alsjeblieft de kleine schroevendraaier.; Gib mir bitte den kleinen Schraubenzieher.
@@ -107,7 +107,7 @@ nl-al-0104; Dübel; de plug; de muurplug; C2; Alltag/Zuhause/Werkzeug; Zonder pl
 nl-al-0105; Garten; de tuin; ; A1; Alltag/Zuhause/Garten; De kinderen spelen in de tuin.; Die Kinder spielen im Garten.
 nl-al-0106; Blume; de bloem; ; A1; Alltag/Zuhause/Garten; Ze plukte een bloem voor haar moeder.; Sie pflückte eine Blume für ihre Mutter.
 nl-al-0107; Baum; de boom; ; A2; Alltag/Zuhause/Garten; In onze tuin staat een oude appelboom.; In unserem Garten steht ein alter Apfelbaum.
-nl-al-0108; gießen (Pflanzen); water geven; gieten; A2; Alltag/Zuhause/Garten; Geef de planten alsjeblieft water terwijl ik weg ben.; Gieß bitte die Pflanzen, während ich weg bin.
+nl-al-0108; gießen (die Blumen gießen); water geven; gieten; A2; Alltag/Zuhause/Garten; Geef de planten alsjeblieft water terwijl ik weg ben.; Gieß bitte die Pflanzen, während ich weg bin.
 nl-al-0109; Rasen; het gazon; het gras, het grasveld; B1; Alltag/Zuhause/Garten; Het gazon moet om de twee weken gemaaid worden.; Der Rasen muss alle zwei Wochen gemäht werden.
 nl-al-0110; Zaun; het hek; de schutting, de omheining; B1; Alltag/Zuhause/Garten; Een wit hek loopt om de tuin heen.; Ein weißer Zaun verläuft um den Garten.
 nl-al-0111; Terrasse; het terras; ; B1; Alltag/Zuhause/Garten; We dronken koffie op het zonnige terras.; Wir tranken Kaffee auf der sonnigen Terrasse.
@@ -126,7 +126,7 @@ nl-al-0123; Spaten; de spade; de schop; C1; Alltag/Zuhause/Garten; Graven met de
 nl-al-0124; Gartenschere; de tuinschaar; de snoeischaar; C1; Alltag/Zuhause/Garten; Ze knipte de rozen met haar tuinschaar.; Sie schnitt die Rosen mit ihrer Gartenschere.
 nl-al-0125; jäten; wieden; onkruid wieden; C2; Alltag/Zuhause/Garten; Ik heb de hele middag de perken gewied.; Ich habe den ganzen Nachmittag die Beete gejätet.
 nl-al-0126; düngen; bemesten; mesten; C2; Alltag/Zuhause/Garten; Je zou de rozen twee keer per jaar moeten bemesten.; Du solltest die Rosen zweimal im Jahr düngen.
-nl-al-0127; aufstehen (morgens, aus dem Bett); opstaan; ; A1; Alltag/Zuhause/Tagesablauf; Ik sta elke ochtend om zeven uur op.; Ich stehe jeden Morgen um sieben auf.
+nl-al-0127; aufstehen (morgens aufstehen); opstaan; ; A1; Alltag/Zuhause/Tagesablauf; Ik sta elke ochtend om zeven uur op.; Ich stehe jeden Morgen um sieben auf.
 nl-al-0128; frühstücken; ontbijten; ; A1; Alltag/Zuhause/Tagesablauf; Op zondag ontbijten we samen.; Sonntags frühstücken wir zusammen.
 nl-al-0129; kochen; koken; ; A1; Alltag/Zuhause/Tagesablauf, Alltag/Essen/Kochen; Vanavond kook ik pasta voor het gezin.; Heute Abend koche ich Nudeln für die Familie.
 nl-al-0130; einkaufen; boodschappen doen; inkopen doen; A1; Alltag/Zuhause/Tagesablauf, Alltag/Einkaufen/Geschäfte; Op vrijdag doen we boodschappen in de supermarkt.; Freitags gehen wir im Supermarkt einkaufen.

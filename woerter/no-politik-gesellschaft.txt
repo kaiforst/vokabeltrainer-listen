@@ -1,6 +1,6 @@
 # Norwegisch: Politik & Gesellschaft
 id; Deutsch; Norwegisch; Weitere Antworten; Niveau; Themen; Beispiel Norwegisch; Beispiel Deutsch
-no-pg-0001; Land (Staat); et land; ; A1; Gesellschaft/Politik/Staat & Wahlen; Tyskland er et stort land i Europa.; Deutschland ist ein großes Land in Europa.
+no-pg-0001; Land (ein fremdes Land); et land; ; A1; Gesellschaft/Politik/Staat & Wahlen; Tyskland er et stort land i Europa.; Deutschland ist ein großes Land in Europa.
 no-pg-0002; Stadt; en by; ; A1; Gesellschaft/Soziales; Byen vår bygger et nytt bibliotek.; Unsere Stadt baut eine neue Bibliothek.
 no-pg-0003; Mensch; et menneske; ; A1; Gesellschaft/Soziales; Hvert menneske fortjener respekt og verdighet.; Jeder Mensch verdient Respekt und Würde.
 no-pg-0004; Leute; folk; mennesker; A1; Gesellschaft/Soziales; Mye folk kom til borgermøtet i går.; Viele Leute kamen gestern zur Bürgerversammlung.
@@ -28,7 +28,7 @@ no-pg-0025; Freiheit; en frihet; ; A2; Gesellschaft/Politik/Demokratie; Frihet e
 no-pg-0026; Recht; en rett; en rettighet; A2; Gesellschaft/Recht; Alle i Norge har rett til ytringsfrihet.; Jeder hat das Recht auf freie Meinungsäußerung.
 no-pg-0027; Meinung; en mening; ; A2; Gesellschaft/Politik/Demokratie; Alle kan åpent si sin mening her.; Jeder darf hier offen seine Meinung sagen.
 no-pg-0028; Demonstration; en demonstrasjon; ; A2; Gesellschaft/Politik/Demokratie; Tusenvis deltok i demonstrasjonen i hovedstaden.; Tausende nahmen an der Demonstration in der Hauptstadt teil.
-no-pg-0029; Gericht (Justiz); en domstol; ; A2; Gesellschaft/Recht; Domstolen avgjør saken i morgen klokka ti.; Das Gericht entscheidet den Fall morgen.
+no-pg-0029; Gericht (vor Gericht gehen); en domstol; ; A2; Gesellschaft/Recht; Domstolen avgjør saken i morgen klokka ti.; Das Gericht entscheidet den Fall morgen.
 no-pg-0030; Verein; en forening; ; A2; Gesellschaft/Ehrenamt; Foreningen vår arrangerer sommerfest hvert år.; Unser Verein organisiert jedes Jahr ein Sommerfest.
 no-pg-0031; Mitglied; et medlem; ; A2; Gesellschaft/Ehrenamt; Hun har vært medlem i ti år.; Sie ist seit zehn Jahren Mitglied.
 no-pg-0032; Nachrichten; nyheter; ; A2; Gesellschaft/Politik/Demokratie; Jeg ser på nyhetene hver kveld klokka åtte.; Ich schaue jeden Abend um acht die Nachrichten.
@@ -40,7 +40,7 @@ no-pg-0037; Parlament; et parlament; ; B1; Gesellschaft/Politik/Staat & Wahlen; 
 no-pg-0038; Kanzler; en kansler; ; B1; Gesellschaft/Politik/Staat & Wahlen; Kansleren holdt en tale om Europa.; Der Kanzler hielt eine Rede über Europa.
 no-pg-0039; Minister; en minister; ; B1; Gesellschaft/Politik/Staat & Wahlen; Ministeren la fram planene for nye skoler.; Der Minister stellte die Pläne für neue Schulen vor.
 no-pg-0040; Abgeordneter; en stortingsrepresentant; en representant; B1; Gesellschaft/Politik/Staat & Wahlen; Stortingsrepresentanten vår besøker distriktet vårt ganske ofte.; Unser Abgeordneter besucht die Region oft.
-no-pg-0041; Stimme (bei der Wahl); ei stemme; en stemme; B1; Gesellschaft/Politik/Staat & Wahlen; Hver stemme teller i et jevnt valg.; Jede Stimme zählt bei einer knappen Wahl.
+no-pg-0041; Stimme (seine Stimme abgeben); ei stemme; en stemme; B1; Gesellschaft/Politik/Staat & Wahlen; Hver stemme teller i et jevnt valg.; Jede Stimme zählt bei einer knappen Wahl.
 no-pg-0042; Mehrheit; et flertall; ; B1; Gesellschaft/Politik/Staat & Wahlen; Partiet fikk et klart flertall i går.; Die Partei gewann gestern eine klare Mehrheit.
 no-pg-0043; Minderheit; et mindretall; en minoritet; B1; Gesellschaft/Soziales; Loven beskytter rettighetene til hvert mindretall.; Das Gesetz schützt die Rechte jeder Minderheit.
 no-pg-0044; Opposition; en opposisjon; ; B1; Gesellschaft/Politik/Parteien; Opposisjonen kritiserte det nye budsjettet kraftig.; Die Opposition kritisierte den neuen Haushalt scharf.
@@ -109,7 +109,7 @@ no-pg-0106; Rücktritt (vom Amt); en avgang; ; B2; Gesellschaft/Politik/Demokrat
 no-pg-0107; zurücktreten; å gå av; å trekke seg; B2; Gesellschaft/Politik/Demokratie; Ordføreren gikk av etter den tapte folkeavstemningen.; Der Bürgermeister trat nach der verlorenen Volksabstimmung zurück.
 no-pg-0108; Klage; et søksmål; ; B2; Gesellschaft/Recht; Firmaet reiste søksmål mot kommunen i fjor høst.; Die Firma reichte eine Klage gegen die Stadt ein.
 no-pg-0109; verklagen; å saksøke; å stevne; B2; Gesellschaft/Recht; Hun saksøkte firmaet for utestående lønn.; Sie verklagte die Firma wegen ausstehender Löhne.
-no-pg-0110; Berufung (Gericht); en anke; ; B2; Gesellschaft/Recht; Advokaten hans varslet anke på dommen.; Sein Anwalt kündigte Berufung gegen das Urteil an.
+no-pg-0110; Berufung (in Berufung gehen); en anke; ; B2; Gesellschaft/Recht; Advokaten hans varslet anke på dommen.; Sein Anwalt kündigte Berufung gegen das Urteil an.
 no-pg-0111; Beweis; et bevis; ; B2; Gesellschaft/Recht; Retten fant ikke noe bevis mot sjåføren.; Das Gericht fand keinen Beweis gegen den Fahrer.
 no-pg-0112; Staatsanwalt; en statsadvokat; en aktor; B2; Gesellschaft/Recht; Statsadvokaten krevde en veldig lang fengselsstraff for mannen.; Der Staatsanwalt forderte eine lange Haftstrafe.
 no-pg-0113; Angeklagter; en tiltalt; ; B2; Gesellschaft/Recht; Den tiltalte tiet under hele rettssaken.; Der Angeklagte schwieg während des Prozesses.

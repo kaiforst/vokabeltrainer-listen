@@ -3,7 +3,7 @@ id; Deutsch; Norwegisch; Weitere Antworten; Niveau; Themen; Beispiel Norwegisch;
 no-mv-0001; Produkt; et produkt; ; A1; Business/Marketing & Vertrieb/Marke; Det nye produktet vårt er veldig populært.; Unser neues Produkt ist sehr beliebt.
 no-mv-0002; Markt; et marked; et torg; A1; Business/Marketing & Vertrieb/Marktforschung; Det norske markedet for elbiler vokser raskt.; Der norwegische Markt für Elektroautos wächst schnell.
 no-mv-0003; Kunde; en kunde; ; A1; Business/Marketing & Vertrieb/Kundenbindung; Kunden har alltid førsteprioritet hos oss.; Der Kunde hat für uns immer oberste Priorität.
-no-mv-0004; Geschäft (Laden); en butikk; en forretning; A1; Business/Marketing & Vertrieb/Vertrieb & Akquise, Alltag/Einkaufen; Butikken i sentrum åpner klokka ni hver morgen.; Das Geschäft in der Innenstadt öffnet jeden Morgen um neun.
+no-mv-0004; Geschäft (im Geschäft einkaufen); en butikk; en forretning; A1; Business/Marketing & Vertrieb/Vertrieb & Akquise, Alltag/Einkaufen; Butikken i sentrum åpner klokka ni hver morgen.; Das Geschäft in der Innenstadt öffnet jeden Morgen um neun.
 no-mv-0005; verkaufen; å selge; ; A1; Business/Marketing & Vertrieb/Vertrieb & Akquise; Vi selger produktene våre på nett og i butikk.; Wir verkaufen unsere Produkte online und im Geschäft.
 no-mv-0006; Werbung; en reklame; ; A2; Business/Marketing & Vertrieb/Kampagne & Werbung; God reklame forteller en enkel historie.; Gute Werbung erzählt eine einfache Geschichte.
 no-mv-0007; Marke; et merke; et varemerke; A2; Business/Marketing & Vertrieb/Marke; Dette merket er kjent over hele verden.; Diese Marke ist auf der ganzen Welt bekannt.
@@ -21,7 +21,7 @@ no-mv-0018; günstig; billig; rimelig, gunstig; A2; Business/Marketing & Vertrie
 no-mv-0019; teuer; dyr; ; A2; Business/Marketing & Vertrieb/Preis; Den nye modellen er dyrere enn den gamle.; Das neue Modell ist teurer als das alte.
 no-mv-0020; Katalog; en katalog; ; A2; Business/Marketing & Vertrieb/Kampagne & Werbung; Den nye katalogen kommer ut i oktober.; Der neue Katalog erscheint im Oktober.
 no-mv-0021; Webseite; en nettside; et nettsted; A2; Business/Marketing & Vertrieb/Online-Marketing; Nettsiden vår viser alle gjeldende tilbud.; Unsere Webseite zeigt alle aktuellen Angebote.
-no-mv-0022; Anzeige (Werbung); en annonse; ; A2; Business/Marketing & Vertrieb/Kampagne & Werbung; Vi satte inn en annonse i lokalavisen.; Wir schalteten eine Anzeige in der Lokalzeitung.
+no-mv-0022; Anzeige (eine Anzeige in der Zeitung); en annonse; ; A2; Business/Marketing & Vertrieb/Kampagne & Werbung; Vi satte inn en annonse i lokalavisen.; Wir schalteten eine Anzeige in der Lokalzeitung.
 no-mv-0023; Logo; en logo; ; A2; Business/Marketing & Vertrieb/Marke; Alle kjenner igjen logoen til dette firmaet.; Jeder erkennt das Logo dieser Firma.
 no-mv-0024; Slogan; et slagord; en slogan; A2; Business/Marketing & Vertrieb/Marke; Et godt slagord er kort og lett å huske.; Ein guter Slogan ist kurz und leicht zu merken.
 no-mv-0025; Umfrage; en spørreundersøkelse; en meningsmåling; A2; Business/Marketing & Vertrieb/Marktforschung; Vi gjennomførte en spørreundersøkelse blant kundene våre.; Wir machten eine Umfrage unter unseren Kunden.
@@ -30,7 +30,7 @@ no-mv-0027; Kampagne; en kampanje; ; B1; Business/Marketing & Vertrieb/Kampagne 
 no-mv-0028; Marktforschung; en markedsundersøkelse; ; B1; Business/Marketing & Vertrieb/Marktforschung; Markedsundersøkelser hjelper oss med å forstå kundene våre.; Marktforschung hilft uns, unsere Kunden zu verstehen.
 no-mv-0029; Werbespot; en reklamefilm; en reklamesnutt; B1; Business/Marketing & Vertrieb/Kampagne & Werbung; Den morsomme reklamefilmen går på tv hver kveld.; Der lustige Werbespot läuft jeden Abend im Fernsehen.
 no-mv-0030; Kundenzufriedenheit; en kundetilfredshet; ; B1; Business/Marketing & Vertrieb/Kundenbindung; Vi måler kundetilfredsheten to ganger i året.; Wir messen die Kundenzufriedenheit zweimal im Jahr.
-no-mv-0031; Wettbewerb (Konkurrenz); en konkurranse; ; B1; Business/Marketing & Vertrieb/Marktforschung; Konkurransen i dette markedet er veldig sterk.; Der Wettbewerb in diesem Markt ist sehr stark.
+no-mv-0031; Wettbewerb (zwischen Firmen); en konkurranse; ; B1; Business/Marketing & Vertrieb/Marktforschung; Konkurransen i dette markedet er veldig sterk.; Der Wettbewerb in diesem Markt ist sehr stark.
 no-mv-0032; Wettbewerber; en konkurrent; ; B1; Business/Marketing & Vertrieb/Marktforschung; Vår største konkurrent har senket prisene igjen.; Unser größter Wettbewerber senkte erneut die Preise.
 no-mv-0033; Marktanteil; en markedsandel; ; B1; Business/Marketing & Vertrieb/Marktforschung; Vi økte markedsandelen vår med fem prosent.; Wir steigerten unseren Marktanteil um fünf Prozent.
 no-mv-0034; Umsatz; en omsetning; ; B1; Business/Marketing & Vertrieb/Vertrieb & Akquise; Omsetningen vår økte kraftig i fjor.; Unser Umsatz wuchs letztes Jahr stark.
@@ -48,7 +48,7 @@ no-mv-0045; Newsletter; et nyhetsbrev; ; B1; Business/Marketing & Vertrieb/Onlin
 no-mv-0046; Soziale Medien; sosiale medier; ; B1; Business/Marketing & Vertrieb/Online-Marketing; Gjennom sosiale medier når vi unge kunder.; Über soziale Medien erreichen wir junge Kunden.
 no-mv-0047; Online-Shop; en nettbutikk; ; B1; Business/Marketing & Vertrieb/Online-Marketing; Nettbutikken vår er åpen hele døgnet.; Unser Online-Shop ist rund um die Uhr geöffnet.
 no-mv-0048; Suchmaschine; en søkemotor; ; B1; Business/Marketing & Vertrieb/Online-Marketing; De fleste kundene finner oss via en søkemotor.; Die meisten Kunden finden uns über eine Suchmaschine.
-no-mv-0049; Muster (Warenprobe); en prøve; en vareprøve; B1; Business/Marketing & Vertrieb/Vertrieb & Akquise; Vi kan sende deg en gratis prøve.; Wir können Ihnen ein kostenloses Muster schicken.
+no-mv-0049; Muster (ein kostenloses Muster); en prøve; en vareprøve; B1; Business/Marketing & Vertrieb/Vertrieb & Akquise; Vi kan sende deg en gratis prøve.; Wir können Ihnen ein kostenloses Muster schicken.
 no-mv-0050; Stammkunde; en fastkunde; en stamkunde; B1; Business/Marketing & Vertrieb/Kundenbindung; Fastkunder får en spesiell rabatt hos oss.; Stammkunden erhalten einen besonderen Rabatt.
 no-mv-0051; Neukunde; en nykunde; ; B1; Business/Marketing & Vertrieb/Vertrieb & Akquise; Hver nykunde får en velkomstgave av oss.; Jeder Neukunde bekommt ein Willkommensgeschenk.
 no-mv-0052; Beschwerde; en klage; ; B1; Business/Marketing & Vertrieb/Kundenbindung; Vi tar hver klage på stort alvor.; Wir nehmen jede Beschwerde sehr ernst.
@@ -85,11 +85,11 @@ no-mv-0082; Kundenbindung; en kundelojalitet; ; B2; Business/Marketing & Vertrie
 no-mv-0083; Treueprogramm; et lojalitetsprogram; et bonusprogram; B2; Business/Marketing & Vertrieb/Kundenbindung; Lojalitetsprogrammet vårt belønner storkunder med poeng.; Unser Treueprogramm belohnt Vielkäufer mit Punkten.
 no-mv-0084; Produkteinführung; en produktlansering; ; B2; Business/Marketing & Vertrieb/Kampagne & Werbung; Produktlanseringen er planlagt til begynnelsen av mars.; Die Produkteinführung ist für Anfang März geplant.
 no-mv-0085; Werbebudget; et reklamebudsjett; et annonsebudsjett; B2; Business/Marketing & Vertrieb/Kampagne & Werbung; Til lanseringen doblet vi reklamebudsjettet vårt.; Für den Start verdoppelten wir das Werbebudget.
-no-mv-0086; Reichweite (Medien); en rekkevidde; ; B2; Business/Marketing & Vertrieb/Online-Marketing; Innleggene våre fikk mye større rekkevidde denne måneden.; Unsere Beiträge erzielten diesen Monat eine viel höhere Reichweite.
+no-mv-0086; Reichweite (die Reichweite einer Anzeige); en rekkevidde; ; B2; Business/Marketing & Vertrieb/Online-Marketing; Innleggene våre fikk mye større rekkevidde denne måneden.; Unsere Beiträge erzielten diesen Monat eine viel höhere Reichweite.
 no-mv-0087; Öffentlichkeitsarbeit; et informasjonsarbeid; ; B2; Business/Marketing & Vertrieb/Kampagne & Werbung; Godt informasjonsarbeid skaper tillit over tid.; Gute Öffentlichkeitsarbeit schafft mit der Zeit Vertrauen.
 no-mv-0088; Pressemitteilung; en pressemelding; ; B2; Business/Marketing & Vertrieb/Kampagne & Werbung; Vi publiserte en pressemelding om fusjonen.; Wir veröffentlichten eine Pressemitteilung zur Fusion.
 no-mv-0089; Sponsoring; en sponsorstøtte; et sponsorat; B2; Business/Marketing & Vertrieb/Kampagne & Werbung; Sponsorstøtten til den lokale foreningen lønner seg.; Das Sponsoring des örtlichen Vereins zahlt sich aus.
-no-mv-0090; Messe (Ausstellung); en messe; en utstilling; B2; Business/Marketing & Vertrieb/Vertrieb & Akquise; På messen presenterer vi våre nye produkter.; Auf der Messe präsentieren wir unsere neuen Produkte.
+no-mv-0090; Messe (auf einer Messe ausstellen); en messe; en utstilling; B2; Business/Marketing & Vertrieb/Vertrieb & Akquise; På messen presenterer vi våre nye produkter.; Auf der Messe präsentieren wir unsere neuen Produkte.
 no-mv-0091; Werbegeschenk; en reklamegave; en profileringsartikkel; B2; Business/Marketing & Vertrieb/Kampagne & Werbung; Besøkende elsket de små reklamegavene på standen vår.; Die Besucher liebten die kleinen Werbegeschenke an unserem Stand.
 no-mv-0092; Direktmarketing; en direktemarkedsføring; ; B2; Business/Marketing & Vertrieb/Kampagne & Werbung; Direktemarkedsføring fungerer godt overfor eksisterende kunder.; Direktmarketing funktioniert gut bei Bestandskunden.
 no-mv-0093; Mundpropaganda; en anbefaling fra munn til munn; en jungeltelegraf; B2; Business/Marketing & Vertrieb/Kundenbindung; Anbefalinger fra munn til munn ga oss mange nye kunder.; Mundpropaganda brachte uns viele neue Kunden.

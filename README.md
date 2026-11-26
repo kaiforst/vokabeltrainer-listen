@@ -43,7 +43,8 @@ mit `|` getrennt, weil eine Antwort ein Komma enthalten kann („went, gone“).
 In `katalog.json` stehen die Dateien unter `cards` (mit `"kind": "form"` und `"lang"` für Grammatik) und die Listen
 unter `cardLists` (`"task": "ask"` für Wissen, `"task": "form"` für Grammatik, `"strict": true` für Artikel-Listen,
 bei denen der Artikel stimmen muss). So lesen ältere App-Stände sie nicht als Vokabeln. IDs: `hs-` Hauptstädte, `bl-`
-Bundesländer, `gv-en-` englische Verben, `gp-es-`/`gp-it-` Präsens. Hauptstädte sind gegen Wikidata (P36) geprüft.
+Bundesländer, `bk-` Bundeskanzler, `bp-` Bundespräsidenten, `gv-en-` englische Verben, `gp-es-`/`gp-it-` Präsens.
+Hauptstädte sind gegen Wikidata (P36) geprüft. Kartenlisten tragen als Klasse höchstens `K5` („ab Klasse 5“), mehr kennt die App nicht.
 
 **Quiz (Entwurf):** In `quiz/` stehen Probefragen für das Quiz „Die Wissensleiter“ (Konzept:
 `docs/konzept-quiz.md` im App-Repo), noch nicht in `katalog.json`. Kopfzeile `id; Frage; Antwort; Falsche Antworten;

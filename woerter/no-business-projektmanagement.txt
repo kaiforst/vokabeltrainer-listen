@@ -64,7 +64,7 @@ no-pm-0061; Checkliste; ei sjekkliste; en sjekkliste; B1; Business/Projektmanage
 no-pm-0062; Genehmigung; en godkjenning; en tillatelse; B1; Business/Projektmanagement/Abschluss; Vi venter fortsatt på godkjenningen av budsjettet.; Wir warten noch auf die Genehmigung des Budgets.
 no-pm-0063; Telefonkonferenz; en telefonkonferanse; ; B1; Business/Projektmanagement/Team & Rollen; Telefonkonferansen med kunden begynner klokka ti.; Die Telefonkonferenz mit dem Kunden beginnt um zehn.
 no-pm-0064; Zusammenarbeit; et samarbeid; ; B1; Business/Projektmanagement/Team & Rollen; Godt samarbeid mellom teamene sparer mye tid.; Gute Zusammenarbeit zwischen den Teams spart viel Zeit.
-no-pm-0065; abschließen (beenden); å fullføre; å gjøre ferdig; B1; Business/Projektmanagement/Abschluss; Vi fullførte den første fasen uten store problemer.; Wir haben die erste Phase ohne größere Probleme abgeschlossen.
+no-pm-0065; abschließen (ein Projekt abschließen); å fullføre; å gjøre ferdig; B1; Business/Projektmanagement/Abschluss; Vi fullførte den første fasen uten store problemer.; Wir haben die erste Phase ohne größere Probleme abgeschlossen.
 no-pm-0066; Umfang; et omfang; ; B2; Business/Projektmanagement/Planung; Omfanget av prosjektet økte i løpet av året.; Der Umfang des Projekts wuchs im Laufe des Jahres.
 no-pm-0067; Meilensteinplan; en milepælsplan; ; B2; Business/Projektmanagement/Zeitplan & Meilensteine; Milepælsplanen henger på veggen på kontoret vårt.; Der Meilensteinplan hängt an der Wand unseres Büros.
 no-pm-0068; Puffer; en buffer; ; B2; Business/Projektmanagement/Zeitplan & Meilensteine; Vi planla en buffer på to uker før oppstart.; Wir planten einen Puffer von zwei Wochen vor dem Start.
@@ -73,11 +73,11 @@ no-pm-0070; Abgabetermin; en leveringsfrist; en innleveringsfrist; B2; Business/
 no-pm-0071; Kostenvoranschlag; et kostnadsoverslag; ; B2; Business/Projektmanagement/Budget & Ressourcen; Kostnadsoverslaget for det nye systemet virker realistisk.; Der Kostenvoranschlag für das neue System erscheint realistisch.
 no-pm-0072; Kostenüberschreitung; en kostnadsoverskridelse; en budsjettoverskridelse; B2; Business/Projektmanagement/Budget & Ressourcen; En kostnadsoverskridelse på ti prosent er fortsatt akseptabel.; Eine Kostenüberschreitung von zehn Prozent ist noch akzeptabel.
 no-pm-0073; Ausgaben; utgifter; ; B2; Business/Projektmanagement/Budget & Ressourcen; Alle utgifter må dokumenteres i systemet.; Alle Ausgaben müssen im System dokumentiert werden.
-no-pm-0074; Mittel (Geld); midler; ; B2; Business/Projektmanagement/Budget & Ressourcen; Midlene til andre fase er allerede godkjent.; Die Mittel für die zweite Phase sind bereits genehmigt.
+no-pm-0074; Mittel (finanzielle Mittel); midler; ; B2; Business/Projektmanagement/Budget & Ressourcen; Midlene til andre fase er allerede godkjent.; Die Mittel für die zweite Phase sind bereits genehmigt.
 no-pm-0075; zuweisen; å tildele; ; B2; Business/Projektmanagement/Budget & Ressourcen; Vi tildeler budsjettet til de ulike arbeidspakkene.; Wir weisen das Budget den verschiedenen Arbeitspaketen zu.
 no-pm-0076; Ressourcenplanung; en ressursplanlegging; ; B2; Business/Projektmanagement/Budget & Ressourcen; God ressursplanlegging hindrer stress på slutten av prosjektet.; Eine gute Ressourcenplanung vermeidet Stress am Ende.
 no-pm-0077; Personal; et personale; ; B2; Business/Projektmanagement/Team & Rollen; Vi trenger mer personale i de travle sommermånedene.; Wir brauchen mehr Personal für die arbeitsreichen Sommermonate.
-no-pm-0078; einstellen (Personal); å ansette; ; B2; Business/Projektmanagement/Team & Rollen; Firmaet planlegger å ansette to ingeniører til.; Die Firma plant, zwei weitere Ingenieure einzustellen.
+no-pm-0078; einstellen (neue Mitarbeiter einstellen); å ansette; ; B2; Business/Projektmanagement/Team & Rollen; Firmaet planlegger å ansette to ingeniører til.; Die Firma plant, zwei weitere Ingenieure einzustellen.
 no-pm-0079; auslagern; å outsource; å sette ut; B2; Business/Projektmanagement/Budget & Ressourcen; Vi bestemte oss for å outsource testingen til en partner.; Wir beschlossen, die Tests an einen Partner auszulagern.
 no-pm-0080; Dienstleister; en tjenesteleverandør; ; B2; Business/Projektmanagement/Team & Rollen; En ekstern tjenesteleverandør støtter IT-teamet vårt.; Ein externer Dienstleister unterstützt unser IT-Team.
 no-pm-0081; Risikobewertung; en risikovurdering; ; B2; Business/Projektmanagement/Risiken; Risikovurderingen av prosjektet viste tre kritiske punkter.; Die Risikobewertung zeigte drei kritische Punkte.
@@ -86,7 +86,7 @@ no-pm-0083; Auswirkung; en innvirkning; ; B2; Business/Projektmanagement/Risiken
 no-pm-0084; Notfallplan; en beredskapsplan; ; B2; Business/Projektmanagement/Risiken; Vi lagde en beredskapsplan for systemsvikt.; Wir erstellten einen Notfallplan für einen Systemausfall.
 no-pm-0085; Interessenvertreter; en interessent; en stakeholder; B2; Business/Projektmanagement/Team & Rollen; Hver interessent får den månedlige statusrapporten.; Jeder Interessenvertreter erhält den monatlichen Statusbericht.
 no-pm-0086; Projektsponsor; en prosjekteier; en prosjektsponsor; B2; Business/Projektmanagement/Team & Rollen; Prosjekteieren godkjente det ekstra budsjettet for prosjektet.; Der Projektsponsor genehmigte das zusätzliche Budget.
-no-pm-0087; Protokoll (Sitzung); et referat; ; B2; Business/Projektmanagement/Berichtswesen; Send referatet til alle deltakerne i dag.; Bitte senden Sie das Protokoll heute an alle Teilnehmer.
+no-pm-0087; Protokoll (Protokoll führen); et referat; ; B2; Business/Projektmanagement/Berichtswesen; Send referatet til alle deltakerne i dag.; Bitte senden Sie das Protokoll heute an alle Teilnehmer.
 no-pm-0088; Tagesordnung; en dagsorden; en agenda; B2; Business/Projektmanagement/Berichtswesen; Dagsorden for møtet har fem punkter.; Die Tagesordnung für die Besprechung hat fünf Punkte.
 no-pm-0089; Statusbericht; en statusrapport; ; B2; Business/Projektmanagement/Berichtswesen; Den ukentlige statusrapporten går til styringsgruppen.; Der wöchentliche Statusbericht geht an den Lenkungsausschuss.
 no-pm-0090; Fortschrittsbericht; en fremdriftsrapport; ; B2; Business/Projektmanagement/Berichtswesen; Fremdriftsrapporten viser en forsinkelse på fem dager.; Der Fortschrittsbericht zeigt eine Verzögerung von fünf Tagen.
@@ -95,8 +95,8 @@ no-pm-0092; berichten; å rapportere; å melde fra; B2; Business/Projektmanageme
 no-pm-0093; Abweichung; et avvik; ; B2; Business/Projektmanagement/Berichtswesen; Hvert avvik fra planen må forklares.; Jede Abweichung vom Plan muss erklärt werden.
 no-pm-0094; Prognose; en prognose; ; B2; Business/Projektmanagement/Berichtswesen; Prognosen viser høyere kostnader i sluttfasen.; Die Prognose zeigt höhere Kosten in der Schlussphase.
 no-pm-0095; Schätzung; et estimat; et overslag; B2; Business/Projektmanagement/Budget & Ressourcen; Det første estimatet var altfor optimistisk.; Die erste Schätzung war viel zu optimistisch.
-no-pm-0096; schätzen (ungefähr berechnen); å estimere; å anslå; B2; Business/Projektmanagement/Budget & Ressourcen; Vi estimerer arbeidsmengden til rundt førti dager.; Wir schätzen den Aufwand auf rund vierzig Tage.
-no-pm-0097; Abnahme (Projekt); en overtakelse; en kundegodkjenning; B2; Business/Projektmanagement/Abschluss; Kundens overtakelse er planlagt til fredag.; Die Abnahme durch den Kunden ist für Freitag geplant.
+no-pm-0096; schätzen (die Kosten schätzen); å estimere; å anslå; B2; Business/Projektmanagement/Budget & Ressourcen; Vi estimerer arbeidsmengden til rundt førti dager.; Wir schätzen den Aufwand auf rund vierzig Tage.
+no-pm-0097; Abnahme (die Abnahme durch den Kunden); en overtakelse; en kundegodkjenning; B2; Business/Projektmanagement/Abschluss; Kundens overtakelse er planlagt til fredag.; Die Abnahme durch den Kunden ist für Freitag geplant.
 no-pm-0098; Übergabe; en overlevering; ; B2; Business/Projektmanagement/Abschluss; Overleveringen til driftsteamet gikk helt uten problemer.; Die Übergabe an das Betriebsteam verlief reibungslos.
 no-pm-0099; Abschlussbericht; en sluttrapport; ; B2; Business/Projektmanagement/Abschluss; Sluttrapporten oppsummerer alle resultater og kostnader.; Der Abschlussbericht fasst alle Ergebnisse und Kosten zusammen.
 no-pm-0100; Projektabschluss; en prosjektavslutning; ; B2; Business/Projektmanagement/Abschluss; Vi feirer prosjektavslutningen med hele teamet.; Wir feiern den Projektabschluss mit dem ganzen Team.

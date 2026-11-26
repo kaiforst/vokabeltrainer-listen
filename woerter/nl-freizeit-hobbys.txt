@@ -15,7 +15,7 @@ nl-fh-0012; Foto; de foto; ; A1; Freizeit/Hobbys; Hij maakt een foto van de oude
 nl-fh-0013; malen; schilderen; ; A1; Freizeit/Basteln & Handwerk; De kinderen schilderen kleurige schilderijen voor hun grootmoeder.; Die Kinder malen bunte Bilder für ihre Großmutter.
 nl-fh-0014; schwimmen; zwemmen; ; A1; Freizeit/Hobbys, Freizeit/Sport/Sportarten; In de zomer zwemmen we in het meer.; Im Sommer schwimmen wir im See.
 nl-fh-0015; Ball; de bal; ; A1; Freizeit/Spiele; De hond brengt de bal naar me terug.; Der Hund bringt mir den Ball zurück.
-nl-fh-0016; Karte (Spielkarte); de speelkaart; de kaart; A1; Freizeit/Spiele; Ze heeft de beste speelkaart in haar hand.; Sie hält die beste Spielkarte in der Hand.
+nl-fh-0016; Karte (Karten spielen); de speelkaart; de kaart; A1; Freizeit/Spiele; Ze heeft de beste speelkaart in haar hand.; Sie hält die beste Spielkarte in der Hand.
 nl-fh-0017; Gitarre; de gitaar; ; A1; Freizeit/Musik; Mijn broer speelt elke avond gitaar.; Mein Bruder spielt jeden Abend Gitarre.
 nl-fh-0018; Kino; de bioscoop; ; A1; Freizeit/Ausgehen; We gaan vrijdagavond naar de bioscoop.; Wir gehen am Freitagabend ins Kino.
 nl-fh-0019; Geburtstag; de verjaardag; ; A1; Freizeit/Feste & Feiern; Haar verjaardag is dit jaar in mei.; Ihr Geburtstag ist dieses Jahr im Mai.
@@ -26,7 +26,7 @@ nl-fh-0023; fernsehen; televisiekijken; tv-kijken; A1; Freizeit/Hobbys; In de av
 nl-fh-0024; kochen; koken; ; A1; Freizeit/Hobbys, Alltag/Essen/Kochen; Op zondag kook ik voor de hele familie.; Sonntags koche ich für die ganze Familie.
 nl-fh-0025; Garten; de tuin; ; A1; Freizeit/Hobbys; Ze werkt elk weekend in haar tuin.; Sie arbeitet jedes Wochenende in ihrem Garten.
 nl-fh-0026; Brettspiel; het bordspel; ; A2; Freizeit/Spiele; Op regenachtige dagen spelen we een bordspel.; An Regentagen spielen wir ein Brettspiel.
-nl-fh-0027; Würfel (Spiel); de dobbelsteen; ; A2; Freizeit/Spiele; Gooi de dobbelsteen en ga drie vakjes vooruit.; Wirf den Würfel und ziehe drei Felder vor.
+nl-fh-0027; Würfel (den Würfel werfen); de dobbelsteen; ; A2; Freizeit/Spiele; Gooi de dobbelsteen en ga drie vakjes vooruit.; Wirf den Würfel und ziehe drei Felder vor.
 nl-fh-0028; gewinnen; winnen; ; A2; Freizeit/Spiele; Ze wil het spel deze keer winnen.; Sie will das Spiel diesmal gewinnen.
 nl-fh-0029; verlieren; verliezen; ; A2; Freizeit/Spiele; Niemand verliest graag twee spelletjes achter elkaar.; Niemand verliert gern zwei Spiele hintereinander.
 nl-fh-0030; Konzert; het concert; ; A2; Freizeit/Musik; Het concert begint om acht uur in het park.; Das Konzert beginnt um acht im Park.
@@ -64,7 +64,7 @@ nl-fh-0061; Schach; schaken; ; B1; Freizeit/Spiele; Hij gaat elke vrijdag schake
 nl-fh-0062; Kartenspiel; het kaartspel; ; B1; Freizeit/Spiele; Dit kaartspel is heel makkelijk te leren.; Dieses Kartenspiel ist sehr leicht zu lernen.
 nl-fh-0063; Wettbewerb; de wedstrijd; de competitie; B1; Freizeit/Spiele; Ze won de eerste prijs bij de fotowedstrijd.; Sie gewann den ersten Preis beim Fotowettbewerb.
 nl-fh-0064; Turnier; het toernooi; ; B1; Freizeit/Spiele; De vereniging organiseert elk voorjaar een schaaktoernooi.; Der Verein organisiert jedes Frühjahr ein Schachturnier.
-nl-fh-0065; Preis (Gewinn); de prijs; ; B1; Freizeit/Spiele; De prijs voor de winnaar is een weekendje weg.; Der Preis für den Sieger ist eine Wochenendreise.
+nl-fh-0065; Preis (einen Preis gewinnen); de prijs; ; B1; Freizeit/Spiele; De prijs voor de winnaar is een weekendje weg.; Der Preis für den Sieger ist eine Wochenendreise.
 nl-fh-0066; Bühne; het podium; het toneel; B1; Freizeit/Musik; De band kwam om negen uur het podium op.; Die Band betrat um neun die Bühne.
 nl-fh-0067; Auftritt; het optreden; ; B1; Freizeit/Musik; Haar eerste optreden maakte de hele familie trots.; Ihr erster Auftritt machte die ganze Familie stolz.
 nl-fh-0068; Publikum; het publiek; ; B1; Freizeit/Musik; Het publiek klapte bijna tien minuten lang.; Das Publikum klatschte fast zehn ganze Minuten.
@@ -73,24 +73,24 @@ nl-fh-0070; Veranstaltung; het evenement; ; B1; Freizeit/Ausgehen; Het evenement
 nl-fh-0071; stattfinden; plaatsvinden; ; B1; Freizeit/Feste & Feiern; Het feest vindt eind augustus plaats.; Das Fest findet Ende August statt.
 nl-fh-0072; Schlagzeug; het drumstel; de drums; B1; Freizeit/Musik; Zijn drumstel staat sinds zijn twaalfde in de kelder.; Sein Schlagzeug steht seit seinem zwölften Lebensjahr im Keller.
 nl-fh-0073; Geige; de viool; ; B1; Freizeit/Musik; De viool is een moeilijk, maar mooi instrument.; Die Geige ist ein schwieriges, aber schönes Instrument.
-nl-fh-0074; Band (Musikgruppe); de band; ; B1; Freizeit/Musik; Hun band speelt in een garage bij het station.; Ihre Band spielt in einer Garage am Bahnhof.
+nl-fh-0074; Band (in einer Band spielen); de band; ; B1; Freizeit/Musik; Hun band speelt in een garage bij het station.; Ihre Band spielt in einer Garage am Bahnhof.
 nl-fh-0075; proben; repeteren; ; B1; Freizeit/Musik; De groep repeteert twee keer per week voor de show.; Die Gruppe probt zweimal pro Woche für die Show.
 nl-fh-0076; Melodie; de melodie; ; B1; Freizeit/Musik; De melodie bleef dagenlang in mijn hoofd zitten.; Die Melodie blieb mir tagelang im Kopf.
 nl-fh-0077; Roman; de roman; ; B1; Freizeit/Lesen; Ze schrijft een roman over haar grootmoeder.; Sie schreibt einen Roman über ihre Großmutter.
 nl-fh-0078; Krimi; de detective; het misdaadverhaal, de thriller; B1; Freizeit/Lesen; Ik heb de detective in één nacht uitgelezen.; Ich habe den Krimi in einer Nacht ausgelesen.
 nl-fh-0079; Gedicht; het gedicht; ; B1; Freizeit/Lesen; Hij schreef een kort gedicht voor haar verjaardag.; Er schrieb ein kurzes Gedicht zu ihrem Geburtstag.
 nl-fh-0080; Lesezeichen; de boekenlegger; de bladwijzer; B1; Freizeit/Lesen; Mijn boekenlegger is een oude ansichtkaart uit Rome.; Mein Lesezeichen ist eine alte Postkarte aus Rom.
-nl-fh-0081; Handlung (Geschichte); de plot; het plot, de verhaallijn; B1; Freizeit/Lesen; De plot van het boek zit vol verrassingen.; Die Handlung des Buches ist voller Überraschungen.
+nl-fh-0081; Handlung (die Handlung eines Films); de plot; het plot, de verhaallijn; B1; Freizeit/Lesen; De plot van het boek zit vol verrassingen.; Die Handlung des Buches ist voller Überraschungen.
 nl-fh-0082; stricken; breien; ; B1; Freizeit/Basteln & Handwerk; Mijn tante breit warme sokken voor de hele familie.; Meine Tante strickt warme Socken für die ganze Familie.
 nl-fh-0083; nähen; naaien; ; B1; Freizeit/Basteln & Handwerk; Ze naait haar eigen kleren van oude stof.; Sie näht ihre eigenen Kleider aus altem Stoff.
 nl-fh-0084; Werkstatt; de werkplaats; ; B1; Freizeit/Basteln & Handwerk; Hij bouwt kleine tafels in zijn kleine werkplaats.; Er baut kleine Tische in seiner kleinen Werkstatt.
 nl-fh-0085; Feuerwerk; het vuurwerk; ; B1; Freizeit/Feste & Feiern; Het vuurwerk boven de rivier duurde twintig minuten.; Das Feuerwerk über dem Fluss dauerte zwanzig Minuten.
-nl-fh-0086; Umzug (Festzug); de optocht; de parade; B1; Freizeit/Feste & Feiern; De kleurrijke optocht trekt langzaam door de oude binnenstad.; Der bunte Umzug zieht langsam durch die Altstadt.
+nl-fh-0086; Umzug (der Umzug an Karneval); de optocht; de parade; B1; Freizeit/Feste & Feiern; De kleurrijke optocht trekt langzaam door de oude binnenstad.; Der bunte Umzug zieht langsam durch die Altstadt.
 nl-fh-0087; Kostüm; het kostuum; ; B1; Freizeit/Feste & Feiern; Haar kostuum won een kleine prijs op het feest.; Ihr Kostüm gewann einen kleinen Preis auf der Party.
 nl-fh-0088; Kneipe; de kroeg; het café; B1; Freizeit/Ausgehen; We ontmoeten elkaar in de kroeg om de hoek.; Wir treffen uns in der Kneipe um die Ecke.
 nl-fh-0089; Zuschauer; de toeschouwer; de kijker; B1; Freizeit/Ausgehen; Elke toeschouwer kreeg voor de show een gratis drankje.; Jeder Zuschauer bekam vor der Show ein Freigetränk.
 nl-fh-0090; unterhalten; vermaken; amuseren; B1; Freizeit/Ausgehen; De goochelaar vermaakte de kinderen een uur lang.; Der Zauberer unterhielt die Kinder eine Stunde lang.
-nl-fh-0091; Unterhaltung (Vergnügen); het vermaak; het amusement, het entertainment; B1; Freizeit/Ausgehen; Het hotel biedt vermaak voor jong en oud.; Das Hotel bietet Unterhaltung für Jung und Alt.
+nl-fh-0091; Unterhaltung (gute Unterhaltung im Kino); het vermaak; het amusement, het entertainment; B1; Freizeit/Ausgehen; Het hotel biedt vermaak voor jong en oud.; Das Hotel bietet Unterhaltung für Jung und Alt.
 nl-fh-0092; Entspannung; de ontspanning; ; B1; Freizeit/Hobbys; Tuinieren is voor mijn drukke moeder pure ontspanning.; Gartenarbeit ist für meine beschäftigte Mutter pure Entspannung.
 nl-fh-0093; entspannen; ontspannen; ; B1; Freizeit/Hobbys; Na het werk ontspant hij bij zachte muziek.; Nach der Arbeit entspannt er bei leiser Musik.
 nl-fh-0094; Billard; biljart; biljarten; B1; Freizeit/Spiele; Ze spelen daar in de achterkamer biljart.; Sie spielen dort im Hinterzimmer Billard.
@@ -109,7 +109,7 @@ nl-fh-0106; Komponist; de componist; ; B2; Freizeit/Musik; De componist schreef 
 nl-fh-0107; komponieren; componeren; ; B2; Freizeit/Musik; Ze componeert korte stukken voor piano en viool.; Sie komponiert kurze Stücke für Klavier und Geige.
 nl-fh-0108; Notenblatt; de bladmuziek; de partituur; B2; Freizeit/Musik; Hij verloor zijn bladmuziek vlak voor het concert.; Er verlor sein Notenblatt direkt vor dem Konzert.
 nl-fh-0109; Literatur; de literatuur; ; B2; Freizeit/Lesen; Ze weet veel over moderne Franse literatuur.; Sie weiß viel über moderne französische Literatur.
-nl-fh-0110; Spannung (Buch, Film); de spanning; ; B2; Freizeit/Lesen; De auteur bouwt de spanning langzaam maar zeker op.; Der Autor baut die Spannung langsam, aber sicher auf.
+nl-fh-0110; Spannung (ein Krimi voller Spannung); de spanning; ; B2; Freizeit/Lesen; De auteur bouwt de spanning langzaam maar zeker op.; Der Autor baut die Spannung langsam, aber sicher auf.
 nl-fh-0111; Nachtleben; het nachtleven; ; B2; Freizeit/Ausgehen; Het nachtleven in deze wijk houdt nooit echt op.; Das Nachtleben in diesem Viertel hört nie wirklich auf.
 nl-fh-0112; Stimmung; de sfeer; de stemming; B2; Freizeit/Feste & Feiern; De sfeer op het feest was warm en ontspannen.; Die Stimmung auf dem Fest war warm und entspannt.
 nl-fh-0113; ausgelassen; uitgelaten; uitbundig; B2; Freizeit/Feste & Feiern; De uitgelaten menigte danste tot in de vroege ochtend.; Die ausgelassene Menge tanzte bis in den frühen Morgen.

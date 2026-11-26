@@ -6,8 +6,8 @@ nl-sf-0003; schwimmen; zwemmen; ; A1; Freizeit/Sport/Sportarten; Ik zwem elke zo
 nl-sf-0004; laufen; rennen; hardlopen; A1; Freizeit/Sport/Training; Hij rent elke ochtend drie kilometer.; Er läuft jeden Morgen drei Kilometer.
 nl-sf-0005; spielen; spelen; ; A1; Freizeit/Sport/Sportarten; De kinderen spelen na school tennis.; Die Kinder spielen nach der Schule Tennis.
 nl-sf-0006; Tennis; tennis; ; A1; Freizeit/Sport/Sportarten; Ze speelt zondags tennis met haar broer.; Sie spielt sonntags mit ihrem Bruder Tennis.
-nl-sf-0007; Spiel (Sport); de wedstrijd; ; A1; Freizeit/Sport/Wettkampf; De wedstrijd begint vandaag om drie uur.; Das Spiel beginnt heute um drei Uhr.
-nl-sf-0008; Tor (Sport); het doelpunt; de goal, het doel; A1; Freizeit/Sport/Wettkampf; Ons team scoorde in de laatste minuut een doelpunt.; Unsere Mannschaft schoss in der letzten Minute ein Tor.
+nl-sf-0007; Spiel (ein Fußballspiel ansehen); de wedstrijd; ; A1; Freizeit/Sport/Wettkampf; De wedstrijd begint vandaag om drie uur.; Das Spiel beginnt heute um drei Uhr.
+nl-sf-0008; Tor (ein Tor schießen); het doelpunt; de goal, het doel; A1; Freizeit/Sport/Wettkampf; Ons team scoorde in de laatste minuut een doelpunt.; Unsere Mannschaft schoss in der letzten Minute ein Tor.
 nl-sf-0009; Mannschaft; het team; de ploeg, het elftal; A1; Freizeit/Sport/Verein; Ons team traint twee keer per week.; Unsere Mannschaft trainiert zweimal pro Woche.
 nl-sf-0010; gewinnen; winnen; ; A1; Freizeit/Sport/Wettkampf; We willen de volgende wedstrijd winnen.; Wir wollen das nächste Spiel gewinnen.
 nl-sf-0011; verlieren; verliezen; ; A1; Freizeit/Sport/Wettkampf; Niemand verliest graag een belangrijke wedstrijd.; Niemand verliert gern ein wichtiges Spiel.
@@ -61,19 +61,19 @@ nl-sf-0058; Badeanzug; het badpak; ; A2; Freizeit/Sport/Ausrüstung; Vergeet je 
 nl-sf-0059; Helm; de helm; ; A2; Freizeit/Sport/Ausrüstung; Draag op de fiets altijd een helm.; Trag auf dem Fahrrad immer einen Helm.
 nl-sf-0060; fit; fit; in vorm; A2; Freizeit/Sport/Fitnessstudio; Regelmatige training houdt je fit en sterk.; Regelmäßiges Training hält dich fit und stark.
 nl-sf-0061; Ausdauer; het uithoudingsvermogen; de conditie; B1; Freizeit/Sport/Training; Lange duurlopen bouwen in de loop van maanden uithoudingsvermogen op.; Lange Läufe bauen über Monate Ausdauer auf.
-nl-sf-0062; Kraft (körperlich); de kracht; ; B1; Freizeit/Sport/Training; Voor klimmen heb je kracht en techniek nodig.; Zum Klettern braucht man Kraft und Technik.
+nl-sf-0062; Kraft (viel Kraft in den Armen); de kracht; ; B1; Freizeit/Sport/Training; Voor klimmen heb je kracht en techniek nodig.; Zum Klettern braucht man Kraft und Technik.
 nl-sf-0063; Beweglichkeit; de lenigheid; de beweeglijkheid, de souplesse; B1; Freizeit/Sport/Training; Yoga verbetert de lenigheid en de innerlijke rust.; Yoga verbessert die Beweglichkeit und die innere Ruhe.
 nl-sf-0064; Geschwindigkeit; de snelheid; ; B1; Freizeit/Sport/Training; Zijn snelheid op korte afstanden is indrukwekkend.; Seine Geschwindigkeit auf kurzen Strecken ist beeindruckend.
 nl-sf-0065; Muskelkater; de spierpijn; ; B1; Freizeit/Sport/Training; Na de eerste les had ik spierpijn.; Nach der ersten Stunde hatte ich Muskelkater.
 nl-sf-0066; Hantel; de halter; de dumbbell; B1; Freizeit/Sport/Fitnessstudio; Hij heft met elke arm een zware halter.; Er hebt mit jedem Arm eine schwere Hantel.
-nl-sf-0067; Laufband (Fitness); de loopband; ; B1; Freizeit/Sport/Fitnessstudio; Bij regen loopt ze op de loopband.; Bei Regen läuft sie auf dem Laufband.
+nl-sf-0067; Laufband (im Fitnessstudio); de loopband; ; B1; Freizeit/Sport/Fitnessstudio; Bij regen loopt ze op de loopband.; Bei Regen läuft sie auf dem Laufband.
 nl-sf-0068; Gewichte heben; gewichtheffen; gewichten heffen; B1; Freizeit/Sport/Fitnessstudio; Hij gaat drie keer per week gewichtheffen.; Er hebt dreimal pro Woche Gewichte.
 nl-sf-0069; Liegestütz; de push-up; de opdrukoefening; B1; Freizeit/Sport/Fitnessstudio; Haal je twintig push-ups zonder pauze?; Schaffst du zwanzig Liegestütze ohne Pause?
 nl-sf-0070; Klimmzug; de pull-up; de optrekoefening; B1; Freizeit/Sport/Fitnessstudio; Een nette pull-up is zwaarder dan hij lijkt.; Ein sauberer Klimmzug ist schwerer, als er aussieht.
 nl-sf-0071; Kniebeuge; de squat; de kniebuiging; B1; Freizeit/Sport/Fitnessstudio; Doe elke squat langzaam en gecontroleerd.; Mach jede Kniebeuge langsam und kontrolliert.
 nl-sf-0072; Runde; de ronde; het rondje; B1; Freizeit/Sport/Training; Ze loopt elke ochtend tien rondes op de baan.; Sie läuft jeden Morgen zehn Runden auf der Bahn.
 nl-sf-0073; Halbzeit; de rust; de helft; B1; Freizeit/Sport/Wettkampf; Bij rust stond het nog nul-nul.; Zur Halbzeit stand es noch null zu null.
-nl-sf-0074; Verlängerung (Sport); de verlenging; ; B1; Freizeit/Sport/Wettkampf; De finale werd in de verlenging beslist.; Das Finale wurde in der Verlängerung entschieden.
+nl-sf-0074; Verlängerung (nach neunzig Minuten); de verlenging; ; B1; Freizeit/Sport/Wettkampf; De finale werd in de verlenging beslist.; Das Finale wurde in der Verlängerung entschieden.
 nl-sf-0075; Elfmeter; de strafschop; de penalty; B1; Freizeit/Sport/Wettkampf; Hij benutte de strafschop met gemak.; Er verwandelte den Elfmeter mit Leichtigkeit.
 nl-sf-0076; Abseits; buitenspel; het buitenspel; B1; Freizeit/Sport/Wettkampf; Het doelpunt telde niet wegens buitenspel.; Das Tor zählte wegen Abseits nicht.
 nl-sf-0077; Foul; de overtreding; de fout; B1; Freizeit/Sport/Wettkampf; De scheidsrechter zag de harde overtreding meteen.; Der Schiedsrichter sah das harte Foul sofort.
@@ -87,7 +87,7 @@ nl-sf-0084; Liga; de competitie; de divisie, de liga; B1; Freizeit/Sport/Wettkam
 nl-sf-0085; Turnier; het toernooi; ; B1; Freizeit/Sport/Wettkampf; Het toernooi vindt hier elke zomer plaats.; Das Turnier findet hier jeden Sommer statt.
 nl-sf-0086; Saison; het seizoen; ; B1; Freizeit/Sport/Wettkampf; Het nieuwe seizoen begint eind augustus.; Die neue Saison beginnt Ende August.
 nl-sf-0087; Aufstieg; de promotie; ; B1; Freizeit/Sport/Wettkampf; De fans dromen dit jaar van promotie.; Die Fans träumen dieses Jahr vom Aufstieg.
-nl-sf-0088; Abstieg (Sport); de degradatie; ; B1; Freizeit/Sport/Wettkampf; De club ontsnapte vorig seizoen net aan degradatie.; Der Verein entging letzte Saison knapp dem Abstieg.
+nl-sf-0088; Abstieg (in die zweite Liga); de degradatie; ; B1; Freizeit/Sport/Wettkampf; De club ontsnapte vorig seizoen net aan degradatie.; Der Verein entging letzte Saison knapp dem Abstieg.
 nl-sf-0089; Rekord; het record; ; B1; Freizeit/Sport/Wettkampf; Ze brak het nationale record met twee seconden.; Sie brach den nationalen Rekord um zwei Sekunden.
 nl-sf-0090; Weltmeister; de wereldkampioen; ; B1; Freizeit/Sport/Wettkampf; Hij werd op jonge leeftijd wereldkampioen.; Er wurde in jungen Jahren Weltmeister.
 nl-sf-0091; Olympische Spiele; de Olympische Spelen; ; B1; Freizeit/Sport/Wettkampf; De Olympische Spelen vinden om de vier jaar plaats.; Die Olympischen Spiele finden alle vier Jahre statt.
@@ -104,7 +104,7 @@ nl-sf-0101; Gegner; de tegenstander; ; B2; Freizeit/Sport/Wettkampf; Je moet een
 nl-sf-0102; Rivale; de rivaal; ; B2; Freizeit/Sport/Wettkampf; De twee rivalen treffen elkaar weer in de finale.; Die beiden Rivalen treffen im Finale wieder aufeinander.
 nl-sf-0103; Favorit; de favoriet; ; B2; Freizeit/Sport/Wettkampf; De favoriet verloor verrassend in de eerste ronde.; Der Favorit verlor überraschend in der ersten Runde.
 nl-sf-0104; Außenseiter; de outsider; de underdog; B2; Freizeit/Sport/Wettkampf; De outsider verraste iedereen met een duidelijke overwinning.; Der Außenseiter überraschte alle mit einem klaren Sieg.
-nl-sf-0105; Qualifikation (Sport); de kwalificatie; ; B2; Freizeit/Sport/Wettkampf; Ze bereikte de finale door een sterke kwalificatie.; Sie erreichte das Finale durch eine starke Qualifikation.
+nl-sf-0105; Qualifikation (die Qualifikation für die WM); de kwalificatie; ; B2; Freizeit/Sport/Wettkampf; Ze bereikte de finale door een sterke kwalificatie.; Sie erreichte das Finale durch eine starke Qualifikation.
 nl-sf-0106; Endspiel; de finale; ; B2; Freizeit/Sport/Wettkampf; De finale wordt zondagavond gespeeld.; Das Endspiel wird am Sonntagabend gespielt.
 nl-sf-0107; Halbfinale; de halve finale; ; B2; Freizeit/Sport/Wettkampf; Ze verloren de halve finale na een dramatische wedstrijd.; Sie verloren das Halbfinale nach einem dramatischen Spiel.
 nl-sf-0108; Vorrunde; de voorronde; de groepsfase; B2; Freizeit/Sport/Wettkampf; Het team werd in de voorronde uitgeschakeld.; Die Mannschaft schied in der Vorrunde aus.

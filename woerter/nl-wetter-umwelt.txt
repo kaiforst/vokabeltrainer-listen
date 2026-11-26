@@ -5,7 +5,7 @@ nl-wu-0002; Regen; de regen; ; A1; Natur/Umwelt/Wetter; We hebben meer regen nod
 nl-wu-0003; Schnee; de sneeuw; ; A1; Natur/Umwelt/Wetter; De sneeuw is wit en erg koud.; Der Schnee ist weiß und sehr kalt.
 nl-wu-0004; Wind; de wind; ; A1; Natur/Umwelt/Wetter; De wind is vandaag erg sterk.; Der Wind ist heute sehr stark.
 nl-wu-0005; Wolke; de wolk; ; A1; Natur/Umwelt/Wetter; Boven het huis hangt een grote wolk.; Über dem Haus ist eine große Wolke.
-nl-wu-0006; Himmel (Wetter, Sterne); de hemel; de lucht; A1; Natur/Umwelt/Wetter; De hemel is vanochtend blauw.; Der Himmel ist heute Morgen blau.
+nl-wu-0006; Himmel (der blaue Himmel); de hemel; de lucht; A1; Natur/Umwelt/Wetter; De hemel is vanochtend blauw.; Der Himmel ist heute Morgen blau.
 nl-wu-0007; Wetter; het weer; ; A1; Natur/Umwelt/Wetter; Het weer is deze week mooi.; Das Wetter ist diese Woche schön.
 nl-wu-0008; warm; warm; ; A1; Natur/Umwelt/Wetter; Het is vandaag warm in de tuin.; Es ist heute warm im Garten.
 nl-wu-0009; kalt; koud; ; A1; Natur/Umwelt/Wetter; Buiten is het in januari erg koud.; Draußen ist es im Januar sehr kalt.
@@ -21,7 +21,7 @@ nl-wu-0018; Luft; de lucht; ; A1; Natur/Umwelt/Natur; De lucht in de bergen is f
 nl-wu-0019; Eis (gefrorenes Wasser); het ijs; ; A1; Natur/Umwelt/Wetter; In de winter ligt er ijs op het meer.; Im Winter ist Eis auf dem See.
 nl-wu-0020; regnen; regenen; ; A1; Natur/Umwelt/Wetter; Ik denk dat het morgenmiddag gaat regenen.; Ich glaube, morgen Nachmittag wird es regnen.
 nl-wu-0021; schneien; sneeuwen; ; A1; Natur/Umwelt/Wetter; In de nacht begon het te sneeuwen.; In der Nacht begann es zu schneien.
-nl-wu-0022; scheinen (Sonne); schijnen; ; A1; Natur/Umwelt/Wetter; Zondag gaat de zon weer schijnen.; Am Sonntag wird die Sonne wieder scheinen.
+nl-wu-0022; scheinen (die Sonne scheint); schijnen; ; A1; Natur/Umwelt/Wetter; Zondag gaat de zon weer schijnen.; Am Sonntag wird die Sonne wieder scheinen.
 nl-wu-0023; Natur; de natuur; ; A1; Natur/Umwelt/Natur; In het weekend wandelen we graag in de natuur.; Am Wochenende gehen wir gern in der Natur spazieren.
 nl-wu-0024; Gras; het gras; ; A1; Natur/Umwelt/Natur; Na de regen is het gras groen.; Nach dem Regen ist das Gras grün.
 nl-wu-0025; Müll; het afval; het vuilnis, het vuil; A1; Natur/Umwelt/Recycling; Gooi het afval alsjeblieft in de vuilnisbak.; Bitte wirf den Müll in die Tonne.
@@ -47,7 +47,7 @@ nl-wu-0044; Energie; de energie; ; A2; Natur/Umwelt/Energie; Ons huis verbruikt 
 nl-wu-0045; Strom; de stroom; de elektriciteit; A2; Natur/Umwelt/Energie; Tijdens de storm viel de stroom uit.; Während des Sturms fiel der Strom aus.
 nl-wu-0046; Mülltonne; de vuilnisbak; de kliko, de afvalbak; A2; Natur/Umwelt/Recycling; De vuilnisbak achter het huis is vol.; Die Mülltonne hinter dem Haus ist voll.
 nl-wu-0047; Plastik; het plastic; ; A2; Natur/Umwelt/Recycling; Er is te veel plastic in de zee.; Es gibt zu viel Plastik im Meer.
-nl-wu-0048; Glas (Material); het glas; ; A2; Natur/Umwelt/Recycling; Oud glas hoort in de glasbak.; Altes Glas gehört in den Glascontainer.
+nl-wu-0048; Glas (aus Glas gemacht); het glas; ; A2; Natur/Umwelt/Recycling; Oud glas hoort in de glasbak.; Altes Glas gehört in den Glascontainer.
 nl-wu-0049; Papier; het papier; ; A2; Natur/Umwelt/Recycling; We verzamelen oud papier voor de recycling.; Wir sammeln altes Papier für das Recycling.
 nl-wu-0050; Dose; het blikje; het blik; A2; Natur/Umwelt/Recycling; Hij gooide het lege blikje in de prullenbak.; Er warf die leere Dose in den Mülleimer.
 nl-wu-0051; Flasche; de fles; ; A2; Natur/Umwelt/Recycling; Breng de lege flessen alsjeblieft terug naar de winkel.; Bitte bring die leeren Flaschen zum Laden zurück.

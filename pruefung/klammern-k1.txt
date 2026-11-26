@@ -1,0 +1,423 @@
+# Paket K1: Klammerhinweise im Feld Deutsch als kurze gesprochene Wendung (alle Sprachen gleich). Je Hinweis eine Zeile.
+# IDs: die englischen Zeilen (ke-… ohne Sprachkürzel); die Fassungen fr-, es-, it- mit derselben Nummer sind gleich geändert. formen/de.txt ist nachgezogen.
+Deutsch vorher; Deutsch jetzt; IDs
+abbauen (Zelt); abbauen (das Zelt abbauen); pv-0103
+abbrechen (Schule, Studium); abbrechen (das Studium abbrechen); pv-0171
+abhängen (Zeit verbringen); abhängen (mit Freunden abhängen); pv-0092
+abheben (Flugzeug); abheben (das Flugzeug hebt ab); pv-0074 ru-0081
+abheben (Geld); abheben (Geld vom Konto abheben); eg-0087 wf-0060
+Abkürzung (Weg); Abkürzung (eine Abkürzung nehmen); xc-0402
+Abkürzung (Wort); Abkürzung (ein abgekürztes Wort); xb-0148
+Abnahme (Projekt); Abnahme (die Abnahme durch den Kunden); pm-0097
+Abnahme (Rückgang); Abnahme (die Zahlen nehmen ab); bd-0047
+abnehmen (Gewicht); abnehmen (fünf Kilo abnehmen); xa-0402
+abreißen (Gebäude); abreißen (ein altes Haus abreißen); pv-0237
+Absatz (Schuh); Absatz (Schuhe mit hohem Absatz); km-0077
+abschalten (sich entspannen); abschalten (nach der Arbeit abschalten); pv-0096
+abschließen (beenden); abschließen (ein Projekt abschließen); pm-0065
+abschließen (Tür); abschließen (die Tür abschließen); bd-0003
+abschließen (Vertrag); abschließen (einen Vertrag abschließen); vh-0059
+abschließen (zu Ende bringen); abschließen (eine Sitzung abschließen); pv-0193
+Abschluss (Geschäft); Abschluss (der Abschluss eines Geschäfts); vh-0058
+Abschluss (Schule); Abschluss (einen Schulabschluss machen); sb-0063
+abschreiben (Buchhaltung); abschreiben (in der Buchhaltung abschreiben); rc-0068
+abschreiben (kopieren); abschreiben (beim Nachbarn abschreiben); bd-0041
+absetzen (steuerlich); absetzen (von der Steuer absetzen); wf-0104
+Abstieg (Sport); Abstieg (in die zweite Liga); sf-0088
+Abstimmung (Koordination); Abstimmung (sich gut absprechen); bb-0104
+Abstimmung (Wahl); Abstimmung (eine Abstimmung im Parlament); bd-0048
+Abzug (Waffe); Abzug (am Gewehr); li-0206
+Akt (Theater); Akt (der erste Akt eines Stücks); xd-0295
+als (Vergleich); als (größer als ich); ke-0642
+als (zeitlich); als (als ich klein war); bd-0029
+annehmen (akzeptieren); annehmen (ein Geschenk annehmen); bd-0033
+annehmen (vermuten); annehmen (ich nehme an, er kommt); gw-0511
+Antrag (bei einer Behörde); Antrag (einen Antrag stellen); xd-0016
+Anzeige (Werbung); Anzeige (eine Anzeige in der Zeitung); mv-0022 mk-0069
+anziehen (anlocken); anziehen (Besucher anziehen); bd-0012
+anziehen (Kleidung); anziehen (eine Jacke anziehen); km-0019 pv-0041
+Art (Biologie); Art (eine bedrohte Tierart); nt-0075 wi-0085
+auf (offen); auf (die Tür ist auf); xf-0132
+auf (Präposition); auf (auf dem Tisch); xf-0131
+aufbauen (Geschäft); aufbauen (eine Firma aufbauen); pv-0195
+aufbauen (Zelt); aufbauen (ein Zelt aufbauen); pv-0102
+auffrischen (Kenntnisse); auffrischen (seine Kenntnisse auffrischen); pv-0177
+aufklären (Missverständnis); aufklären (ein Missverständnis aufklären); pv-0157
+Aufklärung (Epoche); Aufklärung (das Zeitalter der Aufklärung); xd-0249
+Auflage (Ausgabe); Auflage (die zweite Auflage eines Buches); kk-0078
+Auflage (Zahl der Exemplare); Auflage (die Auflage einer Zeitung); mk-0105
+Auflösung (Bildschirm); Auflösung (die Auflösung des Bildschirms); xb-0289
+aufpassen (vorsichtig sein); aufpassen (Pass auf!); pv-0016
+aufsetzen (Vertrag); aufsetzen (einen Vertrag aufsetzen); pv-0191
+aufstehen (morgens, aus dem Bett); aufstehen (morgens aufstehen); al-0127 ke-0749 pv-0002
+aufstehen (von einem Stuhl); aufstehen (vom Stuhl aufstehen); ke-0870 pv-0003
+aufwärmen (Essen); aufwärmen (die Suppe aufwärmen); pv-0067
+aus (ausgeschaltet); aus (das Licht ist aus); xf-0130
+aus (heraus); aus (aus dem Zimmer gehen); xf-0129
+aus (Herkunft); aus (ich komme aus Berlin); xf-0128
+ausbrechen (Feuer, Krieg); ausbrechen (ein Feuer bricht aus); pv-0236
+ausbügeln (Probleme); ausbügeln (Fehler ausbügeln); pv-0197
+Ausdruck (Formulierung); Ausdruck (ein höflicher Ausdruck); xb-0145
+Ausdruck (Papier); Ausdruck (ein Ausdruck vom Drucker); xb-0253
+Ausgabe (Zeitung); Ausgabe (die neue Ausgabe der Zeitschrift); xb-0402
+ausgehen (Vorrat); ausgehen (die Milch geht aus); pv-0061
+ausschließen (Möglichkeit); ausschließen (eine Möglichkeit ausschließen); pv-0241
+ausstellen (zeigen); ausstellen (Bilder ausstellen); xf-0362
+ausziehen (Kleidung); ausziehen (die Schuhe ausziehen); km-0020 pv-0042
+Band (Buch); Band (der zweite Band); bd-0043
+Band (Musikgruppe); Band (in einer Band spielen); fh-0074
+Band (zum Binden); Band (ein Band ums Geschenk); bd-0022
+Bank (Geldinstitut); Bank (Geld auf die Bank bringen); eg-0030 ke-0053 wf-0011
+Bank (zum Sitzen); Bank (auf einer Bank sitzen); bd-0001
+Beitrag (Anteil); Beitrag (einen Beitrag leisten); xf-0263
+Beitrag (Internet); Beitrag (ein Beitrag in sozialen Medien); mk-0076
+Berufung (Gericht); Berufung (in Berufung gehen); vt-0135 pg-0110
+Berufung (Lebensaufgabe); Berufung (seine Berufung finden); ab-0110
+besetzt (Telefon); besetzt (die Leitung ist besetzt); xb-0434
+Besetzung (Film, Theater); Besetzung (die Besetzung eines Films); kk-0051
+Bestand (Lager); Bestand (der Bestand im Lager); ba-0130
+Bestand (Tiere); Bestand (der Bestand an Wölfen); nt-0143
+bestehen (Prüfung); bestehen (eine Prüfung bestehen); ke-1048 sb-0040
+besuchen (Ort); besuchen (ein Museum besuchen); ru-0040
+betreiben (führen); betreiben (ein Hotel betreiben); xf-0050
+Betrieb (Firma); Betrieb (in einem Betrieb arbeiten); xf-0321
+Bewertung (Schule); Bewertung (die Bewertung durch den Lehrer); sb-0100
+Blase (Organ); Blase (die Harnblase); xa-0307
+Blatt (Baum); Blatt (ein Blatt am Baum); nt-0019
+Blatt (Papier); Blatt (ein Blatt Papier); bd-0019
+Blick (Anschauen); Blick (einen Blick darauf werfen); xf-0261
+Blick (Aussicht); Blick (der Blick aufs Meer); xf-0260
+Boden (Erde); Boden (fruchtbarer Boden); nt-0088
+Boden (Fußboden); Boden (der Boden in der Küche); bd-0005
+böse (schlecht, gemein); böse (die böse Hexe); ke-0200
+Botschaft (Vertretung); Botschaft (die deutsche Botschaft); xd-0033 xc-0328
+Bruch (Mathematik); Bruch (beim Bruchrechnen); wi-0104
+Brust (Oberkörper); Brust (Schmerzen in der Brust); xa-0294
+buchen (Buchhaltung); buchen (eine Rechnung buchen); rc-0052
+da (weil); da (da es spät ist); xe-0192
+damit (Zweck); damit (damit er pünktlich ist); xe-0168
+Decke (im Zimmer); Decke (die Lampe an der Decke); al-0016
+Decke (zum Zudecken); Decke (eine warme Decke); gw-0481
+dick (Gegenstand); dick (ein dickes Buch); ke-0649
+dick (Körper); dick (ein dicker Mann); bd-0024
+Drachen (Spielzeug); Drachen (einen Drachen steigen lassen); xd-0430
+Einkauf (Abteilung); Einkauf (im Einkauf arbeiten); ba-0099
+einlaufen (Wäsche); einlaufen (der Pulli ist eingelaufen); xa-0179
+einnehmen (Medikament); einnehmen (Tabletten einnehmen); xa-0400
+einrichten (Gerät); einrichten (ein neues Handy einrichten); pv-0218
+einstellen (Gerät); einstellen (die Höhe einstellen); bd-0016
+einstellen (Personal); einstellen (neue Mitarbeiter einstellen); ab-0081 pw-0007 pm-0078 pv-0182
+Einstellung (Haltung); Einstellung (eine positive Einstellung); gw-0658
+Einstellung (Technik); Einstellung (die Einstellungen am Handy); tc-0059
+Eis (Speiseeis); Eis (ein Eis essen); et-0039
+Empfang (Büro); Empfang (sich am Empfang melden); xb-0225
+Entschuldigung (Ausruf); Entschuldigung (Entschuldigung, wie spät ist es?); gw-0006
+Entschuldigung (Bitte um Verzeihung); Entschuldigung (eine Entschuldigung annehmen); bd-0025
+Erbe (Kultur); Erbe (das kulturelle Erbe); kk-0144
+Erbe (Nachlass); Erbe (das Erbe der Großeltern); fb-0112
+Erbe (Person); Erbe (der Erbe des Königs); rd-0014
+erfahren (herausfinden); erfahren (die Wahrheit erfahren); bd-0028
+erfahren (mit viel Erfahrung); erfahren (ein erfahrener Arzt); ke-0205
+erhöhen (Preise); erhöhen (die Preise erhöhen); pv-0058
+erinnern (jemanden); erinnern (jemanden an etwas erinnern); gw-0572
+etwas ausbrüten (Krankheit); etwas ausbrüten (eine Erkältung ausbrüten); pv-0208
+fahren (am Steuer); fahren (Auto fahren); ke-0725
+Farbe (Farbton); Farbe (welche Farbe hat das?); ke-0122 km-0025 kk-0005
+Farbe (zum Streichen); Farbe (ein Eimer Farbe); xa-0432
+faul (träge); faul (zu faul zum Lernen); gc-0052 gw-0395
+faul (verdorben); faul (ein fauler Apfel); bd-0008
+Fest (Feier); Fest (ein Fest feiern); xd-0174
+Fisch (Speise); Fisch (Fisch zum Abendessen); et-0007 gw-0160 ke-0225
+Flut (Gezeiten); Flut (Ebbe und Flut); xc-0121
+Folge (Konsequenz); Folge (die Folgen tragen); gw-0670
+Folie (Präsentation); Folie (die Folien einer Präsentation); bb-0081
+Freund (Partner); Freund (mein fester Freund); fb-0041
+Freundin (Partnerin); Freundin (meine feste Freundin); fb-0042
+früher (in der Vergangenheit); früher (früher war alles anders); xe-0221
+Führung (Besichtigung); Führung (eine Führung durchs Museum); ru-0086
+Führung (Leitung); Führung (die Führung übernehmen); bd-0045
+für etwas stehen (Abkürzung); für etwas stehen (wofür eine Abkürzung steht); pv-0240
+Futter (für Tiere); Futter (Futter für die Kühe); bd-0015
+Gang (Auto); Gang (in den zweiten Gang schalten); xc-0375
+Gang (beim Essen); Gang (ein Menü mit drei Gängen); xa-0151
+ganz (komplett); ganz (die ganze Pizza); xf-0110
+Garderobe (für Mäntel); Garderobe (den Mantel an der Garderobe abgeben); bd-0014
+Garderobe (Kleidung); Garderobe (alle Kleider, die man besitzt); km-0126
+Gattung (Literatur); Gattung (eine literarische Gattung); kk-0071
+gerade (nicht krumm); gerade (eine gerade Linie); ke-0609
+gerade (zeitlich); gerade (ich bin gerade angekommen); bd-0030
+Gericht (Justiz); Gericht (vor Gericht gehen); vt-0059 ke-1004 pg-0029
+Gericht (Speise); Gericht (ein leckeres Gericht); bd-0006
+Geschäft (Handel); Geschäft (Geschäfte machen); bb-0048 ke-0085
+Geschäft (Laden); Geschäft (im Geschäft einkaufen); mv-0004 eg-0004 gw-0239 wf-0008
+Geschichte (Vergangenheit); Geschichte (die deutsche Geschichte); ke-0285 kk-0126 sb-0027
+gießen (Flüssigkeit); gießen (eine Flüssigkeit gießen); et-0107
+gießen (Pflanzen); gießen (die Blumen gießen); al-0108
+Glas (Material); Glas (aus Glas gemacht); wu-0048
+glatt (Haar); glatt (glatte Haare); xa-0204
+glatt (Oberfläche); glatt (eine glatte Oberfläche); xe-0110
+gleich (derselbe); gleich (die gleiche Farbe); ke-0530
+gleich (sofort); gleich (ich komme gleich); bd-0031
+grob (ungefähr); grob (grob geschätzt); xf-0096
+groß (Körpergröße); groß (ein großer Mann); ke-0635
+gutaussehend, attraktiv (männlich); gutaussehend (ein gutaussehender Mann); ke-0272
+Hahn (Tier); Hahn (der Hahn kräht); xc-0006
+halten (anhalten); halten (der Bus hält hier); vm-0022
+halten (festhalten); halten (etwas in der Hand halten); ke-0763
+Haltung (Einstellung); Haltung (eine kritische Haltung); xf-0270
+handeln (feilschen); handeln (um den Preis handeln); eg-0073
+handeln (Handel treiben); handeln (mit Waren handeln); wf-0046
+Handlung (Geschichte); Handlung (die Handlung eines Films); fh-0081 kk-0073
+Hausarbeit (Haushalt); Hausarbeit (putzen und waschen); al-0075
+Hausarbeit (Studium); Hausarbeit (eine Hausarbeit an der Uni); sb-0079
+Haushalt (zu Hause); Haushalt (ein Haushalt mit Kindern); xa-0042
+herauskommen (erscheinen); herauskommen (ein neues Buch kommt heraus); pv-0105
+Himmel (Paradies); Himmel (in den Himmel kommen); li-0002
+Himmel (Wetter, Sterne); Himmel (der blaue Himmel); wu-0006 wi-0135
+hochfahren (Computer); hochfahren (den Computer hochfahren); pv-0223
+Hof (am Haus); Hof (der Hof hinter dem Haus); xf-0292
+Hörer (Telefon); Hörer (den Hörer abnehmen); xb-0435
+hübsch (weiblich); hübsch (ein hübsches Mädchen); ke-0473
+Huhn (Speise); Huhn (Huhn mit Reis); et-0033
+Imbiss (kleine Mahlzeit); Imbiss (etwas zwischendurch essen); gw-0359
+Imbiss (Lokal); Imbiss (eine Wurst am Imbiss); et-0116
+Kanal (Medien); Kanal (ein Kanal auf YouTube); mk-0064
+Kanal (Wasserstraße); Kanal (Schiffe auf dem Kanal); bd-0039
+Kapelle (Kirche); Kapelle (in der Kapelle beten); xf-0369
+Karte (Landkarte); Karte (auf der Karte nachsehen); ru-0021 vm-0019
+Karte (Spielkarte); Karte (Karten spielen); fh-0016 ke-0094
+Kater (nach Alkohol); Kater (einen Kater haben); xa-0321
+Kiefer (Baum); Kiefer (Kiefern im Wald); nt-0095
+Kiefer (Knochen); Kiefer (der Kiefer tut weh); bd-0023
+können (beherrschen); können (schwimmen können); bd-0056
+Kraft (körperlich); Kraft (viel Kraft in den Armen); sf-0062
+Krebs (Krankheit); Krebs (an Krebs erkranken); fm-0112 ke-0089
+Krebs (Tier); Krebs (ein Krebs am Strand); bd-0035
+kündigen (Stelle); kündigen (seine Stelle kündigen); ab-0046 pw-0134
+kündigen (Vertrag); kündigen (einen Vertrag kündigen); vt-0037
+Kündigung (Stelle); Kündigung (der Arbeitsstelle); ab-0053 pw-0133
+Kündigung (Vertrag); Kündigung (eines Vertrags); vt-0036
+Kurs (Unterricht); Kurs (einen Kurs besuchen); xf-0314 ke-0133
+kürzen (Ausgaben); kürzen (die Ausgaben kürzen); pv-0198
+Lage (Ort); Lage (eine ruhige Lage); xe-0298
+Lager (Waren); Lager (Waren im Lager); ba-0128 wf-0051
+Lager (Zeltlager); Lager (ins Sommerlager fahren); bd-0021
+Land (Boden); Land (ein Stück Land kaufen); ke-0325
+Land (ländliche Gegend); Land (auf dem Land leben); bd-0020
+Land (Staat); Land (ein fremdes Land); ke-0131 pg-0001 rd-0144 ru-0017
+Laufband (Fitness); Laufband (im Fitnessstudio); sf-0067
+Laufband (Flughafen); Laufband (am Flughafen); ap-0189
+Laufzeit (Vertrag); Laufzeit (eines Vertrags); vt-0035
+Leinwand (Kino); Leinwand (im Kino); bd-0053
+Leinwand (Malerei); Leinwand (auf Leinwand malen); kk-0015
+leisten (vollbringen); leisten (Großes leisten); xf-0059
+Leiter (Chef); Leiter (der Leiter der Schule); bd-0044
+Leiter (zum Steigen); Leiter (auf eine Leiter steigen); al-0094 gw-0313
+lenken (Auto); lenken (das Auto lenken); xc-0374
+liegen (Lebewesen); liegen (im Bett liegen); xf-0004 ke-0780
+liegen (Ort); liegen (die Stadt liegt am Meer); bd-0059
+Linse (Hülsenfrucht); Linse (Suppe mit Linsen); xa-0085
+locker (Kleidung); locker (die Hose sitzt locker); xa-0169
+locker (nicht fest); locker (die Schraube ist locker); xe-0112
+Lohn (Belohnung); Lohn (der Lohn für die Mühe); rd-0142
+Lohn (Bezahlung); Lohn (der Lohn pro Stunde); ab-0077 pw-0047 gw-0715 wf-0021
+Los (Ausschreibung); Los (ein Los einer Ausschreibung); ba-0016
+los sein (passieren); los sein (was ist los?); pv-0229
+löschen (Feuer); löschen (ein Feuer löschen); pv-0233
+losgehen (Wecker, Alarm); losgehen (der Wecker geht los); pv-0025
+mal (beim Rechnen); mal (drei mal vier); xd-0356
+Maler (Handwerker); Maler (der Maler streicht die Wände); xb-0191
+Maler (Künstler); Maler (ein berühmter Maler); xd-0264
+Mandel (Nuss); Mandel (gebrannte Mandeln); xa-0090
+Mangel (Fehlen); Mangel (Mangel an Zeit); bd-0046
+Mangel (Fehler); Mangel (ein Mangel am Auto); vt-0078
+Maus (Computer); Maus (die Maus am Computer); bb-0043 tc-0008
+meinen (sagen wollen); meinen (was meinst du damit?); xf-0070
+Meister (Sport); Meister (deutscher Meister werden); xd-0408
+Messe (Ausstellung); Messe (auf einer Messe ausstellen); bb-0125 mv-0090
+Messe (Gottesdienst); Messe (die Messe in der Kirche); bd-0051
+mit etwas anfangen (Hobby); mit etwas anfangen (mit einem Hobby anfangen); pv-0093
+Mittel (Geld); Mittel (finanzielle Mittel); pm-0074
+Mittel (Methode); Mittel (ein Mittel zum Zweck); xf-0264
+Muschel (Schale); Muschel (Muscheln am Strand sammeln); xc-0049
+Muster (Design); Muster (ein Muster auf dem Stoff); ke-0441 km-0067
+Muster (Warenprobe); Muster (ein kostenloses Muster); ba-0090 mv-0049
+Mutter (Elternteil); Mutter (Vater und Mutter); fb-0002 gw-0096 ke-0373
+Mutter (Schraube); Mutter (Schraube und Mutter); bd-0017
+nach (Richtung); nach (nach Berlin fahren); xe-0267
+nach (zeitlich); nach (nach dem Essen); xf-0153
+Nachlass (Erbe); Nachlass (der Nachlass eines Dichters); kk-0080
+nachlassen (Wind, Lärm); nachlassen (der Wind lässt nach); pv-0245
+nachlassen (Wirkung); nachlassen (die Wirkung lässt nach); pv-0211
+Nachricht (Mitteilung); Nachricht (eine Nachricht schicken); bb-0035 gw-0441 tc-0038
+Nachricht (Neuigkeit); Nachricht (eine gute Nachricht); ke-0391
+Note (Musik); Note (Noten lesen); bd-0042
+Note (Schule); Note (eine gute Note); gw-0494 sb-0036
+Ordner (Computer); Ordner (ein Ordner auf dem Computer); tc-0023
+Ort (Platz); Ort (ein schöner Ort); xf-0173
+Papierkorb (Computer); Papierkorb (auf dem Computer); xb-0294
+Partei (Vertrag); Partei (die Parteien eines Vertrags); vt-0040
+Pause (Schule); Pause (die große Pause); sb-0020
+Pension (Unterkunft); Pension (in einer Pension übernachten); ru-0064
+Pfund (Gewicht); Pfund (ein Pfund Butter); xe-0339
+Platz (in der Stadt); Platz (der Platz vor dem Rathaus); gw-0427
+Pony (Frisur); Pony (die Haare über der Stirn); xa-0215
+Pony (Tier); Pony (auf einem Pony reiten); xc-0013
+Preis (Gewinn); Preis (einen Preis gewinnen); fh-0065
+Preis (Kosten); Preis (ein günstiger Preis); ba-0024 bb-0030 rc-0003 vh-0001 vt-0005 eg-0003 ke-0474 km-0060 wf-0005
+Probe (Theater); Probe (die Probe vor der Premiere); kk-0042
+Probe (Untersuchung); Probe (eine Probe im Labor); xd-0335
+Prognose (Medizin); Prognose (die Prognose des Arztes); kg-0145
+Protokoll (Sitzung); Protokoll (Protokoll führen); bb-0052 pm-0087 vh-0064
+Qualifikation (Sport); Qualifikation (die Qualifikation für die WM); sf-0105
+Quelle (Herkunft); Quelle (eine Quelle angeben); mk-0100
+Quelle (Wasser); Quelle (Wasser aus der Quelle); xc-0112
+Rat (Gremium); Rat (der Rat der Stadt); bd-0049
+Rat (Ratschlag); Rat (einen Rat geben); gw-0450
+raten (empfehlen); raten (jemandem etwas raten); bd-0034
+raten (schätzen); raten (rate mal!); gw-0285 ke-0754
+Raum (Platz); Raum (Raum für neue Ideen); xf-0184
+Raum (Zimmer); Raum (einen Raum betreten); xf-0288
+Rechnung (Restaurant); Rechnung (die Rechnung im Restaurant); et-0060 gw-0361 ke-0068
+reiben (Käse); reiben (Käse reiben); xa-0122
+Reich (Herrschaftsgebiet); Reich (das Römische Reich); xd-0228
+Reichweite (Fahrzeug); Reichweite (eines Elektroautos); ke-0497 vm-0128
+Reichweite (Medien); Reichweite (die Reichweite einer Anzeige); mv-0086 mk-0121
+Reinigung (Geschäft); Reinigung (den Anzug zur Reinigung bringen); xa-0186
+Rezept (Arzt); Rezept (ein Rezept vom Arzt); kg-0043
+Rezept (Kochen); Rezept (ein Rezept für Kuchen); et-0067 gw-0355
+Rock (Kleidungsstück); Rock (einen Rock tragen); km-0004
+Rock (Musik); Rock (Rock und Pop); bd-0054
+Ruf (Ansehen); Ruf (einen guten Ruf haben); xf-0274
+rund (Form); rund (ein runder Tisch); xf-0185
+Sackgasse (ausweglose Lage); Sackgasse (Verhandlungen in der Sackgasse); vh-0076
+Sackgasse (Straße); Sackgasse (in einer Sackgasse wohnen); xc-0333
+sauer (Geschmack); sauer (saure Zitronen); et-0073 ke-0583
+sauer (verärgert); sauer (auf jemanden sauer sein); gc-0032
+schaffen (bewältigen); schaffen (es gerade noch schaffen); xe-0015
+Schalter (Bahnhof); Schalter (Fahrkarten am Schalter); xc-0415
+Schalter (für Strom); Schalter (den Schalter drücken); xb-0334
+scharf (Essen); scharf (scharfes Essen); et-0076
+scharf (Messer); scharf (ein scharfes Messer); bd-0007
+Schatten (kühler Ort); Schatten (im Schatten sitzen); xc-0243
+Schatten (Umriss); Schatten (einen Schatten werfen); xc-0244
+schätzen (ungefähr berechnen); schätzen (die Kosten schätzen); pm-0096
+schätzen (wertschätzen); schätzen (jemandes Hilfe schätzen); fb-0140
+Scheibe (Brot); Scheibe (eine Scheibe Brot); xa-0145
+Schein (Geldschein); Schein (ein Zehn-Euro-Schein); eg-0053
+scheinen (den Anschein haben); scheinen (er scheint müde zu sein); bd-0032
+scheinen (Sonne); scheinen (die Sonne scheint); wu-0022
+Schicht (Arbeit); Schicht (in Schichten arbeiten); ab-0075 ap-0172
+Schicht (Lage); Schicht (eine Schicht Farbe); bd-0037
+Schlange (Tier); Schlange (eine giftige Schlange); nt-0039
+Schlange (zum Anstehen); Schlange (Schlange stehen); bd-0009
+schlecht werden (Lebensmittel); schlecht werden (die Milch wird schlecht); pv-0063
+schließen (Geschäft); schließen (einen Laden für immer schließen); pv-0200
+Schloss (an der Tür); Schloss (der Schlüssel im Schloss); bd-0002
+Schloss (Gebäude); Schloss (ein Schloss besichtigen); gw-0417 kk-0111 ru-0043
+Schluss (Ende); Schluss (zum Schluss); xe-0232
+Schluss (Text); Schluss (Einleitung, Hauptteil, Schluss); xb-0170
+schwer (Gewicht); schwer (ein schwerer Koffer); ke-0280
+schwer (schwierig); schwer (eine schwere Aufgabe); gw-0217
+sichern (Daten); sichern (Daten sichern); pv-0217
+Sicherung (Strom); Sicherung (die Sicherung ist durchgebrannt); al-0089
+sinken (Preise); sinken (die Preise sinken); pv-0060
+Spannung (Buch, Film); Spannung (ein Krimi voller Spannung); fh-0110
+Spannung (Strom); Spannung (elektrische Spannung); wi-0050
+Speicher (Computer); Speicher (der Speicher des Computers); tc-0054
+Spiel (Sport); Spiel (ein Fußballspiel ansehen); sf-0007
+spielen (Instrument); spielen (Gitarre spielen); bd-0055
+Spitze (oberes Ende); Spitze (die Spitze des Bleistifts); bd-0036
+Spitze (Stoff); Spitze (ein Kleid aus Spitze); km-0133
+Sport (Schulfach); Sport (das Schulfach Sport); sb-0024
+Sprechstunde (Arzt); Sprechstunde (beim Arzt); xa-0368
+Sprechstunde (Hochschule); Sprechstunde (beim Professor); xb-0083
+Spur (Abdruck); Spur (Spuren im Schnee); xf-0262
+Spur (Fahrbahn); Spur (die linke Spur); vm-0077
+Staffel (Serie); Staffel (die zweite Staffel); xb-0423
+Stamm (Baum); Stamm (der Stamm eines Baumes); nt-0090
+stechen (Insekt); stechen (eine Biene sticht); xc-0072
+steigen (Preise); steigen (die Preise steigen); pv-0059
+Stelle (Arbeitsplatz); Stelle (eine neue Stelle suchen); ab-0043
+stellen (hinstellen); stellen (auf den Tisch stellen); xf-0016
+Stimme (bei der Wahl); Stimme (seine Stimme abgeben); pg-0041
+Stimme (beim Sprechen); Stimme (eine laute Stimme); ke-0950
+Stoff (Chemie); Stoff (ein chemischer Stoff); wi-0064
+Stoff (Textil); Stoff (Stoff für ein Kleid); km-0061
+Strauß (Vogel); Strauß (der Vogel Strauß); xc-0056
+streichen (Wand); streichen (die Wand streichen); xa-0046
+Stufe (Niveau); Stufe (eine höhere Stufe); xf-0259
+Stufe (Treppe); Stufe (die Stufen der Treppe); xf-0289 ke-0600
+summen (Insekt); summen (die Biene summt); xc-0071
+surfen (Wellen); surfen (auf den Wellen surfen); xd-0390
+Symbol (Bildschirm); Symbol (ein Symbol auf dem Bildschirm); xb-0281
+Tasche (an der Kleidung); Tasche (die Tasche der Jacke); bd-0004
+Tasche (zum Tragen); Tasche (eine Tasche tragen); eg-0014 km-0016 ru-0007
+tippen (schreiben); tippen (auf der Tastatur tippen); xb-0277
+tippen (wetten); tippen (auf den Sieger tippen); xe-0406
+Tonne (Gewicht); Tonne (eine Tonne wiegen); xe-0338
+Tor (Eingang); Tor (durch das Tor gehen); bd-0013
+Tor (Sport); Tor (ein Tor schießen); ke-1009 sf-0008
+tragen (Kleidung); tragen (eine Brille tragen); gw-0072 km-0021
+tragen (Last); tragen (einen Koffer tragen); ke-0696
+Typ (Art); Typ (ein neuer Typ von Handy); xf-0251
+Typ (Mensch); Typ (ein netter Typ); xf-0252
+über (räumlich); über (über die Stadt fliegen); xf-0166 ke-0426
+über (Thema); über (ein Buch über Tiere); xe-0153
+überlegen (nachdenken); überlegen (sich etwas gut überlegen); xe-0370
+Überweisung (Bank); Überweisung (Geld per Überweisung); bb-0120 rc-0017 eg-0086 wf-0059
+um (räumlich); um (um das Haus herum); xf-0165
+um (Uhrzeit); um (um acht Uhr); xe-0208
+umziehen (Wohnung); umziehen (in eine neue Wohnung); xa-0011
+Umzug (Festzug); Umzug (der Umzug an Karneval); fh-0086
+Umzug (Wohnungswechsel); Umzug (Kisten packen für den Umzug); bd-0010
+Unterhaltung (Gespräch); Unterhaltung (eine Unterhaltung führen); bd-0027
+Unterhaltung (Vergnügen); Unterhaltung (gute Unterhaltung im Kino); fh-0091
+Verband (Vereinigung); Verband (Mitglied im Verband); bd-0050
+Verband (Wunde); Verband (einen Verband anlegen); kg-0050
+Verbindung (Chemie); Verbindung (eine chemische Verbindung); wi-0069
+Verbindung (Internet); Verbindung (keine Verbindung zum Internet); tc-0045
+Verbindung (Zusammenhang); Verbindung (eine Verbindung erkennen); gw-0669
+vergeben (Auftrag); vergeben (einen Auftrag vergeben); ba-0050
+vergeben (verzeihen); vergeben (jemandem vergeben); bd-0026
+Verhältnis (Beziehung); Verhältnis (ein gutes Verhältnis zu den Eltern); xf-0225
+Verlängerung (Frist, Vertrag); Verlängerung (eines Vertrags); vt-0038
+Verlängerung (Sport); Verlängerung (nach neunzig Minuten); sf-0074
+verlegen (beschämt); verlegen (verlegen lächeln); gw-0588
+Versuch (Bemühung); Versuch (beim ersten Versuch); xf-0195
+Verteidiger (Sport); Verteidiger (im Fußball); xd-0402
+Viertel (Bruchteil); Viertel (ein Viertel der Torte); xe-0319
+vor (räumlich); vor (vor dem Haus); xe-0266
+vorbei (räumlich); vorbei (am Haus vorbei); xf-0167 ke-1023
+vorbei (zu Ende); vorbei (die Ferien sind vorbei); xf-0159 ke-1020
+vorbringen (Vorschlag); vorbringen (einen Vorschlag vorbringen); pv-0160
+Vorhang (Theater); Vorhang (der Vorhang fällt); kk-0044
+Vorstellung (Idee); Vorstellung (keine Vorstellung haben); xf-0081
+Vorstellung (Theater); Vorstellung (die Vorstellung beginnt); kk-0039
+vorziehen (Termin); vorziehen (einen Termin vorziehen); pv-0196
+wählen (aussuchen); wählen (zwischen zwei Dingen wählen); xf-0403
+Weide (Wiese); Weide (Kühe auf der Weide); xc-0097
+weit (Entfernung); weit (weit weg); ke-0212
+weit (Kleidung); weit (eine weite Hose); km-0054
+Welle (Physik); Welle (Licht- und Schallwellen); wi-0039
+wenden (Auto); wenden (mit dem Auto wenden); xf-0040
+wenn (Bedingung); wenn (wenn ich reich wäre); xf-0133
+wenn (zeitlich); wenn (immer wenn ich komme); xf-0134
+Werk (Fabrik); Werk (in einem Autowerk arbeiten); rd-0219
+Werkstatt (Auto); Werkstatt (mit dem Auto in die Werkstatt); ab-0036 vm-0069
+Wettbewerb (Konkurrenz); Wettbewerb (zwischen Firmen); ba-0058 mv-0031 wf-0053
+wiederholen (Lernstoff); wiederholen (für die Prüfung wiederholen); sb-0043
+Würfel (Spiel); Würfel (den Würfel werfen); fh-0027
+würfeln (Gemüse); würfeln (Zwiebeln würfeln); xa-0125
+würfeln (Spiel); würfeln (beim Brettspiel würfeln); xd-0434
+Zeugnis (Arbeit); Zeugnis (ein Zeugnis vom Arbeitgeber); ab-0063
+Zeugnis (Schule); Zeugnis (am Ende des Schuljahres); sb-0037
+Zulassung (Fahrzeug); Zulassung (eines Autos); vm-0120
+Zulassung (Studium); Zulassung (zum Studium); sb-0123
+zumachen (Jacke, Knöpfe); zumachen (die Jacke zumachen); pv-0046
+zunehmen (Gewicht); zunehmen (zwei Kilo zunehmen); pv-0207
+Zuschlag (Aufpreis); Zuschlag (einen Zuschlag zahlen); ru-0100
+Zuschlag (Ausschreibung); Zuschlag (den Zuschlag erhalten); ba-0046
+Nachricht, Mitteilung; Nachricht (eine Nachricht schicken); ke-0359 (Komma-Feld, war Alias-Paar mit „Nachricht (Mitteilung)“)
+Geschäft, Laden; Geschäft (im Geschäft einkaufen); ke-0605 (Komma-Feld, war Alias-Paar mit „Geschäft (Laden)“)
+annehmen, vermuten; annehmen (ich nehme an, er kommt); ke-0679 (Komma-Feld, war Alias-Paar mit „annehmen (vermuten)“)

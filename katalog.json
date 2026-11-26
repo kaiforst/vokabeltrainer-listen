@@ -4,214 +4,214 @@
     {
       "id": "business-airport",
       "file": "woerter/business-airport.txt",
-      "version": 4,
+      "version": 5,
       "count": 200
     },
     {
       "id": "alltag-zuhause",
       "file": "woerter/alltag-zuhause.txt",
-      "version": 3,
+      "version": 4,
       "count": 150
     },
     {
       "id": "arbeit-beruf",
       "file": "woerter/arbeit-beruf.txt",
-      "version": 3,
+      "version": 4,
       "count": 150
     },
     {
       "id": "business-buero",
       "file": "woerter/business-buero.txt",
-      "version": 3,
+      "version": 4,
       "count": 150
     },
     {
       "id": "einkaufen-geld",
       "file": "woerter/einkaufen-geld.txt",
-      "version": 3,
+      "version": 4,
       "count": 150
     },
     {
       "id": "essen-trinken",
       "file": "woerter/essen-trinken.txt",
-      "version": 4,
+      "version": 5,
       "count": 150
     },
     {
       "id": "familie-beziehungen",
       "file": "woerter/familie-beziehungen.txt",
-      "version": 4,
+      "version": 5,
       "count": 150
     },
     {
       "id": "freizeit-hobbys",
       "file": "woerter/freizeit-hobbys.txt",
-      "version": 4,
+      "version": 5,
       "count": 150
     },
     {
       "id": "gefuehle-charakter",
       "file": "woerter/gefuehle-charakter.txt",
-      "version": 4,
+      "version": 5,
       "count": 150
     },
     {
       "id": "grundwortschatz",
       "file": "woerter/grundwortschatz.txt",
-      "version": 5,
+      "version": 6,
       "count": 1200
     },
     {
       "id": "kleidung-mode",
       "file": "woerter/kleidung-mode.txt",
-      "version": 4,
+      "version": 5,
       "count": 150
     },
     {
       "id": "koerper-gesundheit",
       "file": "woerter/koerper-gesundheit.txt",
-      "version": 2,
+      "version": 3,
       "count": 150
     },
     {
       "id": "kunst-kultur",
       "file": "woerter/kunst-kultur.txt",
-      "version": 5,
+      "version": 6,
       "count": 150
     },
     {
       "id": "medien-kommunikation",
       "file": "woerter/medien-kommunikation.txt",
-      "version": 4,
+      "version": 5,
       "count": 150
     },
     {
       "id": "natur-tiere",
       "file": "woerter/natur-tiere.txt",
-      "version": 2,
+      "version": 3,
       "count": 150
     },
     {
       "id": "politik-gesellschaft",
       "file": "woerter/politik-gesellschaft.txt",
-      "version": 3,
+      "version": 4,
       "count": 150
     },
     {
       "id": "reisen-urlaub",
       "file": "woerter/reisen-urlaub.txt",
-      "version": 4,
+      "version": 5,
       "count": 150
     },
     {
       "id": "schule-bildung",
       "file": "woerter/schule-bildung.txt",
-      "version": 4,
+      "version": 5,
       "count": 150
     },
     {
       "id": "sport-fitness",
       "file": "woerter/sport-fitness.txt",
-      "version": 3,
+      "version": 4,
       "count": 150
     },
     {
       "id": "technik-computer",
       "file": "woerter/technik-computer.txt",
-      "version": 4,
+      "version": 5,
       "count": 150
     },
     {
       "id": "verkehr-mobilitaet",
       "file": "woerter/verkehr-mobilitaet.txt",
-      "version": 3,
+      "version": 4,
       "count": 150
     },
     {
       "id": "wetter-umwelt",
       "file": "woerter/wetter-umwelt.txt",
-      "version": 3,
+      "version": 4,
       "count": 150
     },
     {
       "id": "wirtschaft-finanzen",
       "file": "woerter/wirtschaft-finanzen.txt",
-      "version": 3,
+      "version": 4,
       "count": 150
     },
     {
       "id": "wissenschaft-forschung",
       "file": "woerter/wissenschaft-forschung.txt",
-      "version": 3,
+      "version": 4,
       "count": 150
     },
     {
       "id": "business-beschaffung",
       "file": "woerter/business-beschaffung.txt",
-      "version": 4,
+      "version": 5,
       "count": 150
     },
     {
       "id": "business-marketing-vertrieb",
       "file": "woerter/business-marketing-vertrieb.txt",
-      "version": 3,
+      "version": 4,
       "count": 150
     },
     {
       "id": "business-personalwesen",
       "file": "woerter/business-personalwesen.txt",
-      "version": 3,
+      "version": 4,
       "count": 150
     },
     {
       "id": "business-projektmanagement",
       "file": "woerter/business-projektmanagement.txt",
-      "version": 3,
+      "version": 4,
       "count": 150
     },
     {
       "id": "business-rechnungswesen",
       "file": "woerter/business-rechnungswesen.txt",
-      "version": 3,
+      "version": 4,
       "count": 150
     },
     {
       "id": "business-verhandlungen",
       "file": "woerter/business-verhandlungen.txt",
-      "version": 3,
+      "version": 4,
       "count": 150
     },
     {
       "id": "business-vertrag",
       "file": "woerter/business-vertrag.txt",
-      "version": 4,
+      "version": 5,
       "count": 150
     },
     {
       "id": "fr-grundwortschatz",
       "file": "woerter/fr-grundwortschatz.txt",
-      "version": 3,
+      "version": 4,
       "count": 1200,
       "lang": "fr"
     },
     {
       "id": "es-grundwortschatz",
       "file": "woerter/es-grundwortschatz.txt",
-      "version": 3,
+      "version": 4,
       "count": 1200,
       "lang": "es"
     },
     {
       "id": "it-grundwortschatz",
       "file": "woerter/it-grundwortschatz.txt",
-      "version": 3,
+      "version": 4,
       "count": 1200,
       "lang": "it"
     },
     {
       "id": "no-grundwortschatz",
       "file": "woerter/no-grundwortschatz.txt",
-      "version": 1,
+      "version": 2,
       "count": 1200,
       "lang": "no"
     },
@@ -225,19 +225,19 @@
     {
       "id": "reden",
       "file": "woerter/reden.txt",
-      "version": 4,
+      "version": 5,
       "count": 135
     },
     {
       "id": "filme",
       "file": "woerter/filme.txt",
-      "version": 2,
+      "version": 3,
       "count": 80
     },
     {
       "id": "lieder",
       "file": "woerter/lieder.txt",
-      "version": 2,
+      "version": 3,
       "count": 46
     },
     {
@@ -249,434 +249,434 @@
     {
       "id": "fr-business-airport",
       "file": "woerter/fr-business-airport.txt",
-      "version": 2,
+      "version": 3,
       "count": 200,
       "lang": "fr"
     },
     {
       "id": "fr-alltag-zuhause",
       "file": "woerter/fr-alltag-zuhause.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "fr"
     },
     {
       "id": "fr-arbeit-beruf",
       "file": "woerter/fr-arbeit-beruf.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "fr"
     },
     {
       "id": "fr-business-buero",
       "file": "woerter/fr-business-buero.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "fr"
     },
     {
       "id": "fr-einkaufen-geld",
       "file": "woerter/fr-einkaufen-geld.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "fr"
     },
     {
       "id": "fr-essen-trinken",
       "file": "woerter/fr-essen-trinken.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "fr"
     },
     {
       "id": "fr-familie-beziehungen",
       "file": "woerter/fr-familie-beziehungen.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "fr"
     },
     {
       "id": "fr-freizeit-hobbys",
       "file": "woerter/fr-freizeit-hobbys.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "fr"
     },
     {
       "id": "fr-gefuehle-charakter",
       "file": "woerter/fr-gefuehle-charakter.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "fr"
     },
     {
       "id": "fr-kleidung-mode",
       "file": "woerter/fr-kleidung-mode.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "fr"
     },
     {
       "id": "fr-koerper-gesundheit",
       "file": "woerter/fr-koerper-gesundheit.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "fr"
     },
     {
       "id": "fr-kunst-kultur",
       "file": "woerter/fr-kunst-kultur.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "fr"
     },
     {
       "id": "fr-medien-kommunikation",
       "file": "woerter/fr-medien-kommunikation.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "fr"
     },
     {
       "id": "fr-natur-tiere",
       "file": "woerter/fr-natur-tiere.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "fr"
     },
     {
       "id": "fr-politik-gesellschaft",
       "file": "woerter/fr-politik-gesellschaft.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "fr"
     },
     {
       "id": "fr-reisen-urlaub",
       "file": "woerter/fr-reisen-urlaub.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "fr"
     },
     {
       "id": "fr-schule-bildung",
       "file": "woerter/fr-schule-bildung.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "fr"
     },
     {
       "id": "fr-sport-fitness",
       "file": "woerter/fr-sport-fitness.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "fr"
     },
     {
       "id": "fr-technik-computer",
       "file": "woerter/fr-technik-computer.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "fr"
     },
     {
       "id": "fr-verkehr-mobilitaet",
       "file": "woerter/fr-verkehr-mobilitaet.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "fr"
     },
     {
       "id": "fr-wetter-umwelt",
       "file": "woerter/fr-wetter-umwelt.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "fr"
     },
     {
       "id": "fr-wirtschaft-finanzen",
       "file": "woerter/fr-wirtschaft-finanzen.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "fr"
     },
     {
       "id": "fr-wissenschaft-forschung",
       "file": "woerter/fr-wissenschaft-forschung.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "fr"
     },
     {
       "id": "fr-business-beschaffung",
       "file": "woerter/fr-business-beschaffung.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "fr"
     },
     {
       "id": "fr-business-marketing-vertrieb",
       "file": "woerter/fr-business-marketing-vertrieb.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "fr"
     },
     {
       "id": "fr-business-personalwesen",
       "file": "woerter/fr-business-personalwesen.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "fr"
     },
     {
       "id": "fr-business-projektmanagement",
       "file": "woerter/fr-business-projektmanagement.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "fr"
     },
     {
       "id": "fr-business-rechnungswesen",
       "file": "woerter/fr-business-rechnungswesen.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "fr"
     },
     {
       "id": "fr-business-verhandlungen",
       "file": "woerter/fr-business-verhandlungen.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "fr"
     },
     {
       "id": "fr-business-vertrag",
       "file": "woerter/fr-business-vertrag.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "fr"
     },
     {
       "id": "es-business-airport",
       "file": "woerter/es-business-airport.txt",
-      "version": 2,
+      "version": 3,
       "count": 200,
       "lang": "es"
     },
     {
       "id": "es-alltag-zuhause",
       "file": "woerter/es-alltag-zuhause.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "es"
     },
     {
       "id": "es-arbeit-beruf",
       "file": "woerter/es-arbeit-beruf.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "es"
     },
     {
       "id": "es-business-buero",
       "file": "woerter/es-business-buero.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "es"
     },
     {
       "id": "es-einkaufen-geld",
       "file": "woerter/es-einkaufen-geld.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "es"
     },
     {
       "id": "es-essen-trinken",
       "file": "woerter/es-essen-trinken.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "es"
     },
     {
       "id": "es-familie-beziehungen",
       "file": "woerter/es-familie-beziehungen.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "es"
     },
     {
       "id": "es-freizeit-hobbys",
       "file": "woerter/es-freizeit-hobbys.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "es"
     },
     {
       "id": "es-gefuehle-charakter",
       "file": "woerter/es-gefuehle-charakter.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "es"
     },
     {
       "id": "es-kleidung-mode",
       "file": "woerter/es-kleidung-mode.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "es"
     },
     {
       "id": "es-koerper-gesundheit",
       "file": "woerter/es-koerper-gesundheit.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "es"
     },
     {
       "id": "es-kunst-kultur",
       "file": "woerter/es-kunst-kultur.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "es"
     },
     {
       "id": "es-medien-kommunikation",
       "file": "woerter/es-medien-kommunikation.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "es"
     },
     {
       "id": "es-natur-tiere",
       "file": "woerter/es-natur-tiere.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "es"
     },
     {
       "id": "es-politik-gesellschaft",
       "file": "woerter/es-politik-gesellschaft.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "es"
     },
     {
       "id": "es-reisen-urlaub",
       "file": "woerter/es-reisen-urlaub.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "es"
     },
     {
       "id": "es-schule-bildung",
       "file": "woerter/es-schule-bildung.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "es"
     },
     {
       "id": "es-sport-fitness",
       "file": "woerter/es-sport-fitness.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "es"
     },
     {
       "id": "es-technik-computer",
       "file": "woerter/es-technik-computer.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "es"
     },
     {
       "id": "es-verkehr-mobilitaet",
       "file": "woerter/es-verkehr-mobilitaet.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "es"
     },
     {
       "id": "es-wetter-umwelt",
       "file": "woerter/es-wetter-umwelt.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "es"
     },
     {
       "id": "es-wirtschaft-finanzen",
       "file": "woerter/es-wirtschaft-finanzen.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "es"
     },
     {
       "id": "es-wissenschaft-forschung",
       "file": "woerter/es-wissenschaft-forschung.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "es"
     },
     {
       "id": "es-business-beschaffung",
       "file": "woerter/es-business-beschaffung.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "es"
     },
     {
       "id": "es-business-marketing-vertrieb",
       "file": "woerter/es-business-marketing-vertrieb.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "es"
     },
     {
       "id": "es-business-personalwesen",
       "file": "woerter/es-business-personalwesen.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "es"
     },
     {
       "id": "es-business-projektmanagement",
       "file": "woerter/es-business-projektmanagement.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "es"
     },
     {
       "id": "es-business-rechnungswesen",
       "file": "woerter/es-business-rechnungswesen.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "es"
     },
     {
       "id": "es-business-verhandlungen",
       "file": "woerter/es-business-verhandlungen.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "es"
     },
     {
       "id": "es-business-vertrag",
       "file": "woerter/es-business-vertrag.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "es"
     },
     {
       "id": "it-business-airport",
       "file": "woerter/it-business-airport.txt",
-      "version": 2,
+      "version": 3,
       "count": 200,
       "lang": "it"
     },
     {
       "id": "no-business-airport",
       "file": "woerter/no-business-airport.txt",
-      "version": 1,
+      "version": 2,
       "count": 200,
       "lang": "no"
     },
@@ -690,14 +690,14 @@
     {
       "id": "it-alltag-zuhause",
       "file": "woerter/it-alltag-zuhause.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "it"
     },
     {
       "id": "no-alltag-zuhause",
       "file": "woerter/no-alltag-zuhause.txt",
-      "version": 1,
+      "version": 2,
       "count": 150,
       "lang": "no"
     },
@@ -711,14 +711,14 @@
     {
       "id": "it-arbeit-beruf",
       "file": "woerter/it-arbeit-beruf.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "it"
     },
     {
       "id": "no-arbeit-beruf",
       "file": "woerter/no-arbeit-beruf.txt",
-      "version": 1,
+      "version": 2,
       "count": 150,
       "lang": "no"
     },
@@ -732,14 +732,14 @@
     {
       "id": "it-business-buero",
       "file": "woerter/it-business-buero.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "it"
     },
     {
       "id": "no-business-buero",
       "file": "woerter/no-business-buero.txt",
-      "version": 1,
+      "version": 2,
       "count": 150,
       "lang": "no"
     },
@@ -753,14 +753,14 @@
     {
       "id": "it-einkaufen-geld",
       "file": "woerter/it-einkaufen-geld.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "it"
     },
     {
       "id": "no-einkaufen-geld",
       "file": "woerter/no-einkaufen-geld.txt",
-      "version": 1,
+      "version": 2,
       "count": 150,
       "lang": "no"
     },
@@ -774,14 +774,14 @@
     {
       "id": "it-essen-trinken",
       "file": "woerter/it-essen-trinken.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "it"
     },
     {
       "id": "no-essen-trinken",
       "file": "woerter/no-essen-trinken.txt",
-      "version": 1,
+      "version": 2,
       "count": 150,
       "lang": "no"
     },
@@ -795,14 +795,14 @@
     {
       "id": "it-familie-beziehungen",
       "file": "woerter/it-familie-beziehungen.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "it"
     },
     {
       "id": "no-familie-beziehungen",
       "file": "woerter/no-familie-beziehungen.txt",
-      "version": 1,
+      "version": 2,
       "count": 150,
       "lang": "no"
     },
@@ -816,14 +816,14 @@
     {
       "id": "it-freizeit-hobbys",
       "file": "woerter/it-freizeit-hobbys.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "it"
     },
     {
       "id": "no-freizeit-hobbys",
       "file": "woerter/no-freizeit-hobbys.txt",
-      "version": 1,
+      "version": 2,
       "count": 150,
       "lang": "no"
     },
@@ -837,14 +837,14 @@
     {
       "id": "it-gefuehle-charakter",
       "file": "woerter/it-gefuehle-charakter.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "it"
     },
     {
       "id": "no-gefuehle-charakter",
       "file": "woerter/no-gefuehle-charakter.txt",
-      "version": 1,
+      "version": 2,
       "count": 150,
       "lang": "no"
     },
@@ -858,14 +858,14 @@
     {
       "id": "it-kleidung-mode",
       "file": "woerter/it-kleidung-mode.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "it"
     },
     {
       "id": "no-kleidung-mode",
       "file": "woerter/no-kleidung-mode.txt",
-      "version": 1,
+      "version": 2,
       "count": 150,
       "lang": "no"
     },
@@ -879,14 +879,14 @@
     {
       "id": "it-koerper-gesundheit",
       "file": "woerter/it-koerper-gesundheit.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "it"
     },
     {
       "id": "no-koerper-gesundheit",
       "file": "woerter/no-koerper-gesundheit.txt",
-      "version": 1,
+      "version": 2,
       "count": 150,
       "lang": "no"
     },
@@ -900,14 +900,14 @@
     {
       "id": "it-kunst-kultur",
       "file": "woerter/it-kunst-kultur.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "it"
     },
     {
       "id": "no-kunst-kultur",
       "file": "woerter/no-kunst-kultur.txt",
-      "version": 1,
+      "version": 2,
       "count": 150,
       "lang": "no"
     },
@@ -921,14 +921,14 @@
     {
       "id": "it-medien-kommunikation",
       "file": "woerter/it-medien-kommunikation.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "it"
     },
     {
       "id": "no-medien-kommunikation",
       "file": "woerter/no-medien-kommunikation.txt",
-      "version": 1,
+      "version": 2,
       "count": 150,
       "lang": "no"
     },
@@ -942,14 +942,14 @@
     {
       "id": "it-natur-tiere",
       "file": "woerter/it-natur-tiere.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "it"
     },
     {
       "id": "no-natur-tiere",
       "file": "woerter/no-natur-tiere.txt",
-      "version": 1,
+      "version": 2,
       "count": 150,
       "lang": "no"
     },
@@ -963,14 +963,14 @@
     {
       "id": "it-politik-gesellschaft",
       "file": "woerter/it-politik-gesellschaft.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "it"
     },
     {
       "id": "no-politik-gesellschaft",
       "file": "woerter/no-politik-gesellschaft.txt",
-      "version": 1,
+      "version": 2,
       "count": 150,
       "lang": "no"
     },
@@ -984,14 +984,14 @@
     {
       "id": "it-reisen-urlaub",
       "file": "woerter/it-reisen-urlaub.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "it"
     },
     {
       "id": "no-reisen-urlaub",
       "file": "woerter/no-reisen-urlaub.txt",
-      "version": 1,
+      "version": 2,
       "count": 150,
       "lang": "no"
     },
@@ -1005,14 +1005,14 @@
     {
       "id": "it-schule-bildung",
       "file": "woerter/it-schule-bildung.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "it"
     },
     {
       "id": "no-schule-bildung",
       "file": "woerter/no-schule-bildung.txt",
-      "version": 1,
+      "version": 2,
       "count": 150,
       "lang": "no"
     },
@@ -1026,14 +1026,14 @@
     {
       "id": "it-sport-fitness",
       "file": "woerter/it-sport-fitness.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "it"
     },
     {
       "id": "no-sport-fitness",
       "file": "woerter/no-sport-fitness.txt",
-      "version": 1,
+      "version": 2,
       "count": 150,
       "lang": "no"
     },
@@ -1047,14 +1047,14 @@
     {
       "id": "it-technik-computer",
       "file": "woerter/it-technik-computer.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "it"
     },
     {
       "id": "no-technik-computer",
       "file": "woerter/no-technik-computer.txt",
-      "version": 1,
+      "version": 2,
       "count": 150,
       "lang": "no"
     },
@@ -1068,14 +1068,14 @@
     {
       "id": "it-verkehr-mobilitaet",
       "file": "woerter/it-verkehr-mobilitaet.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "it"
     },
     {
       "id": "no-verkehr-mobilitaet",
       "file": "woerter/no-verkehr-mobilitaet.txt",
-      "version": 1,
+      "version": 2,
       "count": 150,
       "lang": "no"
     },
@@ -1089,14 +1089,14 @@
     {
       "id": "it-wetter-umwelt",
       "file": "woerter/it-wetter-umwelt.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "it"
     },
     {
       "id": "no-wetter-umwelt",
       "file": "woerter/no-wetter-umwelt.txt",
-      "version": 1,
+      "version": 2,
       "count": 150,
       "lang": "no"
     },
@@ -1110,14 +1110,14 @@
     {
       "id": "it-wirtschaft-finanzen",
       "file": "woerter/it-wirtschaft-finanzen.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "it"
     },
     {
       "id": "no-wirtschaft-finanzen",
       "file": "woerter/no-wirtschaft-finanzen.txt",
-      "version": 1,
+      "version": 2,
       "count": 150,
       "lang": "no"
     },
@@ -1131,14 +1131,14 @@
     {
       "id": "it-wissenschaft-forschung",
       "file": "woerter/it-wissenschaft-forschung.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "it"
     },
     {
       "id": "no-wissenschaft-forschung",
       "file": "woerter/no-wissenschaft-forschung.txt",
-      "version": 1,
+      "version": 2,
       "count": 150,
       "lang": "no"
     },
@@ -1152,14 +1152,14 @@
     {
       "id": "it-business-beschaffung",
       "file": "woerter/it-business-beschaffung.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "it"
     },
     {
       "id": "no-business-beschaffung",
       "file": "woerter/no-business-beschaffung.txt",
-      "version": 1,
+      "version": 2,
       "count": 150,
       "lang": "no"
     },
@@ -1173,14 +1173,14 @@
     {
       "id": "it-business-marketing-vertrieb",
       "file": "woerter/it-business-marketing-vertrieb.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "it"
     },
     {
       "id": "no-business-marketing-vertrieb",
       "file": "woerter/no-business-marketing-vertrieb.txt",
-      "version": 1,
+      "version": 2,
       "count": 150,
       "lang": "no"
     },
@@ -1194,14 +1194,14 @@
     {
       "id": "it-business-personalwesen",
       "file": "woerter/it-business-personalwesen.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "it"
     },
     {
       "id": "no-business-personalwesen",
       "file": "woerter/no-business-personalwesen.txt",
-      "version": 1,
+      "version": 2,
       "count": 150,
       "lang": "no"
     },
@@ -1215,14 +1215,14 @@
     {
       "id": "it-business-projektmanagement",
       "file": "woerter/it-business-projektmanagement.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "it"
     },
     {
       "id": "no-business-projektmanagement",
       "file": "woerter/no-business-projektmanagement.txt",
-      "version": 1,
+      "version": 2,
       "count": 150,
       "lang": "no"
     },
@@ -1236,14 +1236,14 @@
     {
       "id": "it-business-rechnungswesen",
       "file": "woerter/it-business-rechnungswesen.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "it"
     },
     {
       "id": "no-business-rechnungswesen",
       "file": "woerter/no-business-rechnungswesen.txt",
-      "version": 1,
+      "version": 2,
       "count": 150,
       "lang": "no"
     },
@@ -1257,14 +1257,14 @@
     {
       "id": "it-business-verhandlungen",
       "file": "woerter/it-business-verhandlungen.txt",
-      "version": 2,
+      "version": 3,
       "count": 150,
       "lang": "it"
     },
     {
       "id": "no-business-verhandlungen",
       "file": "woerter/no-business-verhandlungen.txt",
-      "version": 1,
+      "version": 2,
       "count": 150,
       "lang": "no"
     },
@@ -1278,14 +1278,14 @@
     {
       "id": "it-business-vertrag",
       "file": "woerter/it-business-vertrag.txt",
-      "version": 3,
+      "version": 4,
       "count": 150,
       "lang": "it"
     },
     {
       "id": "no-business-vertrag",
       "file": "woerter/no-business-vertrag.txt",
-      "version": 1,
+      "version": 2,
       "count": 150,
       "lang": "no"
     },
@@ -1299,42 +1299,42 @@
     {
       "id": "karsten",
       "file": "woerter/karsten.txt",
-      "version": 6,
-      "count": 996
+      "version": 7,
+      "count": 1058
     },
     {
       "id": "fr-karsten",
       "file": "woerter/fr-karsten.txt",
-      "version": 5,
-      "count": 991,
+      "version": 6,
+      "count": 1052,
       "lang": "fr"
     },
     {
       "id": "es-karsten",
       "file": "woerter/es-karsten.txt",
-      "version": 5,
-      "count": 989,
+      "version": 6,
+      "count": 1050,
       "lang": "es"
     },
     {
       "id": "it-karsten",
       "file": "woerter/it-karsten.txt",
-      "version": 4,
-      "count": 989,
+      "version": 5,
+      "count": 1050,
       "lang": "it"
     },
     {
       "id": "no-karsten",
       "file": "woerter/no-karsten.txt",
-      "version": 1,
-      "count": 988,
+      "version": 2,
+      "count": 1050,
       "lang": "no"
     },
     {
       "id": "nl-karsten",
       "file": "woerter/nl-karsten.txt",
       "version": 1,
-      "count": 985,
+      "count": 1047,
       "lang": "nl"
     },
     {
@@ -1364,7 +1364,7 @@
     {
       "id": "phrasal-verbs",
       "file": "woerter/phrasal-verbs.txt",
-      "version": 2,
+      "version": 3,
       "count": 257
     },
     {
@@ -1510,34 +1510,34 @@
     {
       "id": "ausbau-alltag",
       "file": "woerter/ausbau-alltag.txt",
-      "version": 3,
+      "version": 4,
       "count": 443
     },
     {
       "id": "fr-ausbau-alltag",
       "file": "woerter/fr-ausbau-alltag.txt",
-      "version": 2,
+      "version": 3,
       "count": 443,
       "lang": "fr"
     },
     {
       "id": "es-ausbau-alltag",
       "file": "woerter/es-ausbau-alltag.txt",
-      "version": 2,
+      "version": 3,
       "count": 443,
       "lang": "es"
     },
     {
       "id": "it-ausbau-alltag",
       "file": "woerter/it-ausbau-alltag.txt",
-      "version": 2,
+      "version": 3,
       "count": 443,
       "lang": "it"
     },
     {
       "id": "no-ausbau-alltag",
       "file": "woerter/no-ausbau-alltag.txt",
-      "version": 1,
+      "version": 2,
       "count": 443,
       "lang": "no"
     },
@@ -1551,34 +1551,34 @@
     {
       "id": "ausbau-schule-arbeit",
       "file": "woerter/ausbau-schule-arbeit.txt",
-      "version": 3,
+      "version": 4,
       "count": 440
     },
     {
       "id": "fr-ausbau-schule-arbeit",
       "file": "woerter/fr-ausbau-schule-arbeit.txt",
-      "version": 2,
+      "version": 3,
       "count": 440,
       "lang": "fr"
     },
     {
       "id": "es-ausbau-schule-arbeit",
       "file": "woerter/es-ausbau-schule-arbeit.txt",
-      "version": 2,
+      "version": 3,
       "count": 440,
       "lang": "es"
     },
     {
       "id": "it-ausbau-schule-arbeit",
       "file": "woerter/it-ausbau-schule-arbeit.txt",
-      "version": 2,
+      "version": 3,
       "count": 440,
       "lang": "it"
     },
     {
       "id": "no-ausbau-schule-arbeit",
       "file": "woerter/no-ausbau-schule-arbeit.txt",
-      "version": 1,
+      "version": 2,
       "count": 440,
       "lang": "no"
     },
@@ -1592,34 +1592,34 @@
     {
       "id": "ausbau-natur-welt",
       "file": "woerter/ausbau-natur-welt.txt",
-      "version": 1,
+      "version": 2,
       "count": 461
     },
     {
       "id": "fr-ausbau-natur-welt",
       "file": "woerter/fr-ausbau-natur-welt.txt",
-      "version": 1,
+      "version": 2,
       "count": 461,
       "lang": "fr"
     },
     {
       "id": "es-ausbau-natur-welt",
       "file": "woerter/es-ausbau-natur-welt.txt",
-      "version": 1,
+      "version": 2,
       "count": 461,
       "lang": "es"
     },
     {
       "id": "it-ausbau-natur-welt",
       "file": "woerter/it-ausbau-natur-welt.txt",
-      "version": 1,
+      "version": 2,
       "count": 461,
       "lang": "it"
     },
     {
       "id": "no-ausbau-natur-welt",
       "file": "woerter/no-ausbau-natur-welt.txt",
-      "version": 1,
+      "version": 2,
       "count": 461,
       "lang": "no"
     },
@@ -1633,34 +1633,34 @@
     {
       "id": "ausbau-gesellschaft",
       "file": "woerter/ausbau-gesellschaft.txt",
-      "version": 1,
+      "version": 2,
       "count": 442
     },
     {
       "id": "fr-ausbau-gesellschaft",
       "file": "woerter/fr-ausbau-gesellschaft.txt",
-      "version": 1,
+      "version": 2,
       "count": 442,
       "lang": "fr"
     },
     {
       "id": "es-ausbau-gesellschaft",
       "file": "woerter/es-ausbau-gesellschaft.txt",
-      "version": 1,
+      "version": 2,
       "count": 442,
       "lang": "es"
     },
     {
       "id": "it-ausbau-gesellschaft",
       "file": "woerter/it-ausbau-gesellschaft.txt",
-      "version": 1,
+      "version": 2,
       "count": 442,
       "lang": "it"
     },
     {
       "id": "no-ausbau-gesellschaft",
       "file": "woerter/no-ausbau-gesellschaft.txt",
-      "version": 1,
+      "version": 2,
       "count": 442,
       "lang": "no"
     },
@@ -1674,34 +1674,34 @@
     {
       "id": "ausbau-grundwoerter",
       "file": "woerter/ausbau-grundwoerter.txt",
-      "version": 2,
+      "version": 3,
       "count": 487
     },
     {
       "id": "fr-ausbau-grundwoerter",
       "file": "woerter/fr-ausbau-grundwoerter.txt",
-      "version": 3,
+      "version": 4,
       "count": 486,
       "lang": "fr"
     },
     {
       "id": "es-ausbau-grundwoerter",
       "file": "woerter/es-ausbau-grundwoerter.txt",
-      "version": 3,
+      "version": 4,
       "count": 486,
       "lang": "es"
     },
     {
       "id": "it-ausbau-grundwoerter",
       "file": "woerter/it-ausbau-grundwoerter.txt",
-      "version": 3,
+      "version": 4,
       "count": 486,
       "lang": "it"
     },
     {
       "id": "no-ausbau-grundwoerter",
       "file": "woerter/no-ausbau-grundwoerter.txt",
-      "version": 1,
+      "version": 2,
       "count": 487,
       "lang": "no"
     },
@@ -1715,34 +1715,34 @@
     {
       "id": "bedeutungen",
       "file": "woerter/bedeutungen.txt",
-      "version": 2,
+      "version": 3,
       "count": 59
     },
     {
       "id": "fr-bedeutungen",
       "file": "woerter/fr-bedeutungen.txt",
-      "version": 2,
+      "version": 3,
       "count": 59,
       "lang": "fr"
     },
     {
       "id": "es-bedeutungen",
       "file": "woerter/es-bedeutungen.txt",
-      "version": 2,
+      "version": 3,
       "count": 61,
       "lang": "es"
     },
     {
       "id": "it-bedeutungen",
       "file": "woerter/it-bedeutungen.txt",
-      "version": 2,
+      "version": 3,
       "count": 59,
       "lang": "it"
     },
     {
       "id": "no-bedeutungen",
       "file": "woerter/no-bedeutungen.txt",
-      "version": 1,
+      "version": 2,
       "count": 59,
       "lang": "no"
     },
@@ -1756,34 +1756,34 @@
     {
       "id": "ausbau-nachtrag",
       "file": "woerter/ausbau-nachtrag.txt",
-      "version": 2,
+      "version": 3,
       "count": 403
     },
     {
       "id": "fr-ausbau-nachtrag",
       "file": "woerter/fr-ausbau-nachtrag.txt",
-      "version": 2,
+      "version": 3,
       "count": 401,
       "lang": "fr"
     },
     {
       "id": "es-ausbau-nachtrag",
       "file": "woerter/es-ausbau-nachtrag.txt",
-      "version": 2,
+      "version": 3,
       "count": 401,
       "lang": "es"
     },
     {
       "id": "it-ausbau-nachtrag",
       "file": "woerter/it-ausbau-nachtrag.txt",
-      "version": 2,
+      "version": 3,
       "count": 401,
       "lang": "it"
     },
     {
       "id": "no-ausbau-nachtrag",
       "file": "woerter/no-ausbau-nachtrag.txt",
-      "version": 1,
+      "version": 2,
       "count": 403,
       "lang": "no"
     },
@@ -1797,15 +1797,15 @@
   ],
   "aliases": {
     "file": "aliase.txt",
-    "version": 12,
-    "count": 9927
+    "version": 11,
+    "count": 10352
   },
   "forms": [
     {
       "lang": "de",
       "file": "formen/de.txt",
-      "version": 1,
-      "count": 2531
+      "version": 2,
+      "count": 2524
     },
     {
       "lang": "en",
@@ -1841,7 +1841,7 @@
       "lang": "nl",
       "file": "formen/nl.txt",
       "version": 1,
-      "count": 2334
+      "count": 2332
     }
   ],
   "lists": [
@@ -5097,8 +5097,8 @@
       "id": "karsten",
       "name": "Karstens Empfehlung",
       "description": "Grundwortschatz zum Einstieg, empfohlen von Karsten",
-      "count": 996,
-      "version": 1,
+      "count": 1058,
+      "version": 2,
       "filter": {
         "topics": [
           "Karstens Empfehlung"
@@ -5109,8 +5109,8 @@
       "id": "karsten-verben",
       "name": "Karstens Empfehlung – Verben",
       "description": "Die Verben aus Karstens Empfehlung",
-      "count": 251,
-      "version": 1,
+      "count": 263,
+      "version": 2,
       "filter": {
         "topics": [
           "Karstens Empfehlung/Verben"
@@ -5121,8 +5121,8 @@
       "id": "karsten-woerter",
       "name": "Karstens Empfehlung – ohne Verben",
       "description": "Nomen, Adjektive und kleine Wörter aus Karstens Empfehlung",
-      "count": 745,
-      "version": 1,
+      "count": 795,
+      "version": 2,
       "filter": {
         "topics": [
           "Karstens Empfehlung/Wörter"
@@ -5134,8 +5134,8 @@
       "name": "Französisch: Karstens Empfehlung",
       "description": "Grundwortschatz zum Einstieg, empfohlen von Karsten",
       "answerLang": "fr",
-      "count": 991,
-      "version": 1,
+      "count": 1052,
+      "version": 2,
       "filter": {
         "topics": [
           "Karstens Empfehlung"
@@ -5147,8 +5147,8 @@
       "name": "Französisch: Karstens Empfehlung – Verben",
       "description": "Die Verben aus Karstens Empfehlung",
       "answerLang": "fr",
-      "count": 251,
-      "version": 1,
+      "count": 263,
+      "version": 2,
       "filter": {
         "topics": [
           "Karstens Empfehlung/Verben"
@@ -5160,8 +5160,8 @@
       "name": "Französisch: Karstens Empfehlung – ohne Verben",
       "description": "Nomen, Adjektive und kleine Wörter aus Karstens Empfehlung",
       "answerLang": "fr",
-      "count": 740,
-      "version": 1,
+      "count": 789,
+      "version": 2,
       "filter": {
         "topics": [
           "Karstens Empfehlung/Wörter"
@@ -5173,8 +5173,8 @@
       "name": "Spanisch: Karstens Empfehlung",
       "description": "Grundwortschatz zum Einstieg, empfohlen von Karsten",
       "answerLang": "es",
-      "count": 989,
-      "version": 1,
+      "count": 1050,
+      "version": 2,
       "filter": {
         "topics": [
           "Karstens Empfehlung"
@@ -5186,8 +5186,8 @@
       "name": "Spanisch: Karstens Empfehlung – Verben",
       "description": "Die Verben aus Karstens Empfehlung",
       "answerLang": "es",
-      "count": 251,
-      "version": 1,
+      "count": 263,
+      "version": 2,
       "filter": {
         "topics": [
           "Karstens Empfehlung/Verben"
@@ -5199,8 +5199,8 @@
       "name": "Spanisch: Karstens Empfehlung – ohne Verben",
       "description": "Nomen, Adjektive und kleine Wörter aus Karstens Empfehlung",
       "answerLang": "es",
-      "count": 738,
-      "version": 1,
+      "count": 787,
+      "version": 2,
       "filter": {
         "topics": [
           "Karstens Empfehlung/Wörter"
@@ -5212,8 +5212,8 @@
       "name": "Italienisch: Karstens Empfehlung",
       "description": "Grundwortschatz zum Einstieg, empfohlen von Karsten",
       "answerLang": "it",
-      "count": 989,
-      "version": 1,
+      "count": 1050,
+      "version": 2,
       "filter": {
         "topics": [
           "Karstens Empfehlung"
@@ -5225,8 +5225,8 @@
       "name": "Norwegisch: Karstens Empfehlung",
       "description": "Grundwortschatz zum Einstieg, empfohlen von Karsten",
       "answerLang": "no",
-      "count": 988,
-      "version": 1,
+      "count": 1050,
+      "version": 2,
       "filter": {
         "topics": [
           "Karstens Empfehlung"
@@ -5238,7 +5238,7 @@
       "name": "Niederländisch: Karstens Empfehlung",
       "description": "Grundwortschatz zum Einstieg, empfohlen von Karsten",
       "answerLang": "nl",
-      "count": 985,
+      "count": 1047,
       "version": 1,
       "filter": {
         "topics": [
@@ -5251,8 +5251,8 @@
       "name": "Italienisch: Karstens Empfehlung – Verben",
       "description": "Die Verben aus Karstens Empfehlung",
       "answerLang": "it",
-      "count": 251,
-      "version": 1,
+      "count": 263,
+      "version": 2,
       "filter": {
         "topics": [
           "Karstens Empfehlung/Verben"
@@ -5264,8 +5264,8 @@
       "name": "Norwegisch: Karstens Empfehlung – Verben",
       "description": "Die Verben aus Karstens Empfehlung",
       "answerLang": "no",
-      "count": 251,
-      "version": 1,
+      "count": 263,
+      "version": 2,
       "filter": {
         "topics": [
           "Karstens Empfehlung/Verben"
@@ -5277,7 +5277,7 @@
       "name": "Niederländisch: Karstens Empfehlung – Verben",
       "description": "Die Verben aus Karstens Empfehlung",
       "answerLang": "nl",
-      "count": 251,
+      "count": 263,
       "version": 1,
       "filter": {
         "topics": [
@@ -5290,8 +5290,8 @@
       "name": "Italienisch: Karstens Empfehlung – ohne Verben",
       "description": "Nomen, Adjektive und kleine Wörter aus Karstens Empfehlung",
       "answerLang": "it",
-      "count": 738,
-      "version": 1,
+      "count": 787,
+      "version": 2,
       "filter": {
         "topics": [
           "Karstens Empfehlung/Wörter"
@@ -5303,8 +5303,8 @@
       "name": "Norwegisch: Karstens Empfehlung – ohne Verben",
       "description": "Nomen, Adjektive und kleine Wörter aus Karstens Empfehlung",
       "answerLang": "no",
-      "count": 737,
-      "version": 1,
+      "count": 787,
+      "version": 2,
       "filter": {
         "topics": [
           "Karstens Empfehlung/Wörter"
@@ -5316,7 +5316,7 @@
       "name": "Niederländisch: Karstens Empfehlung – ohne Verben",
       "description": "Nomen, Adjektive und kleine Wörter aus Karstens Empfehlung",
       "answerLang": "nl",
-      "count": 734,
+      "count": 784,
       "version": 1,
       "filter": {
         "topics": [
@@ -9524,7 +9524,7 @@
     }
   ],
   "areas": {
-    "version": 21,
+    "version": 22,
     "tree": [
       {
         "name": "Einstieg",
@@ -10289,6 +10289,17 @@
           "wissen-bundeslaender"
         ],
         "areas": []
+      },
+      {
+        "name": "Geschichte: Deutschland",
+        "lists": [
+          "wissen-bundeskanzler",
+          "wissen-bundespraesidenten",
+          "wissen-kanzler-praesidenten"
+        ],
+        "areas": [],
+        "icon": "mb:geschichte",
+        "section": "wissen"
       }
     ]
   },
@@ -10328,6 +10339,18 @@
       "count": 132,
       "kind": "form",
       "lang": "it"
+    },
+    {
+      "id": "bundeskanzler",
+      "file": "karten/bundeskanzler.txt",
+      "version": 1,
+      "count": 100
+    },
+    {
+      "id": "bundespraesidenten",
+      "file": "karten/bundespraesidenten.txt",
+      "version": 1,
+      "count": 80
     }
   ],
   "cardLists": [
@@ -12188,6 +12211,405 @@
         "it-gw-0716",
         "it-gw-0717",
         "it-gw-0719"
+      ]
+    },
+    {
+      "id": "wissen-bundeskanzler",
+      "name": "Bundeskanzler",
+      "description": "Alle zehn Kanzler von Adenauer bis Merz: Amtszeiten, Parteien, Reihenfolge und Ereignisse",
+      "level": "K5",
+      "task": "ask",
+      "promptLang": "de",
+      "answerLang": "de",
+      "count": 100,
+      "version": 1,
+      "ids": [
+        "bk-0001",
+        "bk-0002",
+        "bk-0003",
+        "bk-0004",
+        "bk-0005",
+        "bk-0006",
+        "bk-0007",
+        "bk-0008",
+        "bk-0009",
+        "bk-0010",
+        "bk-0011",
+        "bk-0012",
+        "bk-0013",
+        "bk-0014",
+        "bk-0015",
+        "bk-0016",
+        "bk-0017",
+        "bk-0018",
+        "bk-0019",
+        "bk-0020",
+        "bk-0021",
+        "bk-0022",
+        "bk-0023",
+        "bk-0024",
+        "bk-0025",
+        "bk-0026",
+        "bk-0027",
+        "bk-0028",
+        "bk-0029",
+        "bk-0030",
+        "bk-0031",
+        "bk-0032",
+        "bk-0033",
+        "bk-0034",
+        "bk-0035",
+        "bk-0036",
+        "bk-0037",
+        "bk-0038",
+        "bk-0039",
+        "bk-0040",
+        "bk-0041",
+        "bk-0042",
+        "bk-0043",
+        "bk-0044",
+        "bk-0045",
+        "bk-0046",
+        "bk-0047",
+        "bk-0048",
+        "bk-0049",
+        "bk-0050",
+        "bk-0051",
+        "bk-0052",
+        "bk-0053",
+        "bk-0054",
+        "bk-0055",
+        "bk-0056",
+        "bk-0057",
+        "bk-0058",
+        "bk-0059",
+        "bk-0060",
+        "bk-0061",
+        "bk-0062",
+        "bk-0063",
+        "bk-0064",
+        "bk-0065",
+        "bk-0066",
+        "bk-0067",
+        "bk-0068",
+        "bk-0069",
+        "bk-0070",
+        "bk-0071",
+        "bk-0072",
+        "bk-0073",
+        "bk-0074",
+        "bk-0075",
+        "bk-0076",
+        "bk-0077",
+        "bk-0078",
+        "bk-0079",
+        "bk-0080",
+        "bk-0081",
+        "bk-0082",
+        "bk-0083",
+        "bk-0084",
+        "bk-0085",
+        "bk-0086",
+        "bk-0087",
+        "bk-0088",
+        "bk-0089",
+        "bk-0090",
+        "bk-0091",
+        "bk-0092",
+        "bk-0093",
+        "bk-0094",
+        "bk-0095",
+        "bk-0096",
+        "bk-0097",
+        "bk-0098",
+        "bk-0099",
+        "bk-0100"
+      ]
+    },
+    {
+      "id": "wissen-bundespraesidenten",
+      "name": "Bundespräsidenten",
+      "description": "Alle zwölf Präsidenten von Heuss bis Steinmeier: Amtszeiten, Parteien, Reden und Rücktritte",
+      "level": "K5",
+      "task": "ask",
+      "promptLang": "de",
+      "answerLang": "de",
+      "count": 80,
+      "version": 1,
+      "ids": [
+        "bp-0001",
+        "bp-0002",
+        "bp-0003",
+        "bp-0004",
+        "bp-0005",
+        "bp-0006",
+        "bp-0007",
+        "bp-0008",
+        "bp-0009",
+        "bp-0010",
+        "bp-0011",
+        "bp-0012",
+        "bp-0013",
+        "bp-0014",
+        "bp-0015",
+        "bp-0016",
+        "bp-0017",
+        "bp-0018",
+        "bp-0019",
+        "bp-0020",
+        "bp-0021",
+        "bp-0022",
+        "bp-0023",
+        "bp-0024",
+        "bp-0025",
+        "bp-0026",
+        "bp-0027",
+        "bp-0028",
+        "bp-0029",
+        "bp-0030",
+        "bp-0031",
+        "bp-0032",
+        "bp-0033",
+        "bp-0034",
+        "bp-0035",
+        "bp-0036",
+        "bp-0037",
+        "bp-0038",
+        "bp-0039",
+        "bp-0040",
+        "bp-0041",
+        "bp-0042",
+        "bp-0043",
+        "bp-0044",
+        "bp-0045",
+        "bp-0046",
+        "bp-0047",
+        "bp-0048",
+        "bp-0049",
+        "bp-0050",
+        "bp-0051",
+        "bp-0052",
+        "bp-0053",
+        "bp-0054",
+        "bp-0055",
+        "bp-0056",
+        "bp-0057",
+        "bp-0058",
+        "bp-0059",
+        "bp-0060",
+        "bp-0061",
+        "bp-0062",
+        "bp-0063",
+        "bp-0064",
+        "bp-0065",
+        "bp-0066",
+        "bp-0067",
+        "bp-0068",
+        "bp-0069",
+        "bp-0070",
+        "bp-0071",
+        "bp-0072",
+        "bp-0073",
+        "bp-0074",
+        "bp-0075",
+        "bp-0076",
+        "bp-0077",
+        "bp-0078",
+        "bp-0079",
+        "bp-0080"
+      ]
+    },
+    {
+      "id": "wissen-kanzler-praesidenten",
+      "name": "Kanzler und Präsidenten",
+      "description": "Beide Ämter zusammen, mit Fragen zu Wahl und Amtssitz",
+      "level": "K5",
+      "task": "ask",
+      "promptLang": "de",
+      "answerLang": "de",
+      "count": 180,
+      "version": 1,
+      "ids": [
+        "bk-0001",
+        "bk-0002",
+        "bk-0003",
+        "bk-0004",
+        "bk-0005",
+        "bk-0006",
+        "bk-0007",
+        "bk-0008",
+        "bk-0009",
+        "bk-0010",
+        "bk-0011",
+        "bk-0012",
+        "bk-0013",
+        "bk-0014",
+        "bk-0015",
+        "bk-0016",
+        "bk-0017",
+        "bk-0018",
+        "bk-0019",
+        "bk-0020",
+        "bk-0021",
+        "bk-0022",
+        "bk-0023",
+        "bk-0024",
+        "bk-0025",
+        "bk-0026",
+        "bk-0027",
+        "bk-0028",
+        "bk-0029",
+        "bk-0030",
+        "bk-0031",
+        "bk-0032",
+        "bk-0033",
+        "bk-0034",
+        "bk-0035",
+        "bk-0036",
+        "bk-0037",
+        "bk-0038",
+        "bk-0039",
+        "bk-0040",
+        "bk-0041",
+        "bk-0042",
+        "bk-0043",
+        "bk-0044",
+        "bk-0045",
+        "bk-0046",
+        "bk-0047",
+        "bk-0048",
+        "bk-0049",
+        "bk-0050",
+        "bk-0051",
+        "bk-0052",
+        "bk-0053",
+        "bk-0054",
+        "bk-0055",
+        "bk-0056",
+        "bk-0057",
+        "bk-0058",
+        "bk-0059",
+        "bk-0060",
+        "bk-0061",
+        "bk-0062",
+        "bk-0063",
+        "bk-0064",
+        "bk-0065",
+        "bk-0066",
+        "bk-0067",
+        "bk-0068",
+        "bk-0069",
+        "bk-0070",
+        "bk-0071",
+        "bk-0072",
+        "bk-0073",
+        "bk-0074",
+        "bk-0075",
+        "bk-0076",
+        "bk-0077",
+        "bk-0078",
+        "bk-0079",
+        "bk-0080",
+        "bk-0081",
+        "bk-0082",
+        "bk-0083",
+        "bk-0084",
+        "bk-0085",
+        "bk-0086",
+        "bk-0087",
+        "bk-0088",
+        "bk-0089",
+        "bk-0090",
+        "bk-0091",
+        "bk-0092",
+        "bk-0093",
+        "bk-0094",
+        "bk-0095",
+        "bk-0096",
+        "bk-0097",
+        "bk-0098",
+        "bk-0099",
+        "bk-0100",
+        "bp-0001",
+        "bp-0002",
+        "bp-0003",
+        "bp-0004",
+        "bp-0005",
+        "bp-0006",
+        "bp-0007",
+        "bp-0008",
+        "bp-0009",
+        "bp-0010",
+        "bp-0011",
+        "bp-0012",
+        "bp-0013",
+        "bp-0014",
+        "bp-0015",
+        "bp-0016",
+        "bp-0017",
+        "bp-0018",
+        "bp-0019",
+        "bp-0020",
+        "bp-0021",
+        "bp-0022",
+        "bp-0023",
+        "bp-0024",
+        "bp-0025",
+        "bp-0026",
+        "bp-0027",
+        "bp-0028",
+        "bp-0029",
+        "bp-0030",
+        "bp-0031",
+        "bp-0032",
+        "bp-0033",
+        "bp-0034",
+        "bp-0035",
+        "bp-0036",
+        "bp-0037",
+        "bp-0038",
+        "bp-0039",
+        "bp-0040",
+        "bp-0041",
+        "bp-0042",
+        "bp-0043",
+        "bp-0044",
+        "bp-0045",
+        "bp-0046",
+        "bp-0047",
+        "bp-0048",
+        "bp-0049",
+        "bp-0050",
+        "bp-0051",
+        "bp-0052",
+        "bp-0053",
+        "bp-0054",
+        "bp-0055",
+        "bp-0056",
+        "bp-0057",
+        "bp-0058",
+        "bp-0059",
+        "bp-0060",
+        "bp-0061",
+        "bp-0062",
+        "bp-0063",
+        "bp-0064",
+        "bp-0065",
+        "bp-0066",
+        "bp-0067",
+        "bp-0068",
+        "bp-0069",
+        "bp-0070",
+        "bp-0071",
+        "bp-0072",
+        "bp-0073",
+        "bp-0074",
+        "bp-0075",
+        "bp-0076",
+        "bp-0077",
+        "bp-0078",
+        "bp-0079",
+        "bp-0080"
       ]
     }
   ]

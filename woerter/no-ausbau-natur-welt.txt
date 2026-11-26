@@ -5,14 +5,14 @@ no-xc-0002; Lamm; et lam; ; A2; Natur/Tiere/Haustiere; Om våren leker lammene p
 no-xc-0003; Welpe; en valp; ; A2; Natur/Tiere/Haustiere; Den nye valpen vår tygger på alt han finner.; Unser neuer Welpe kaut auf allem herum, was er findet.
 no-xc-0004; Kätzchen; en kattunge; ; A2; Natur/Tiere/Haustiere; Kattungen leker med et nøste ull.; Das Kätzchen spielt mit einem Wollknäuel.
 no-xc-0005; Küken; en kylling; ; B1; Natur/Tiere/Haustiere; I morges klekket det seks gule kyllinger.; Heute Morgen sind sechs gelbe Küken geschlüpft.
-no-xc-0006; Hahn (Tier); en hane; ; A2; Natur/Tiere/Haustiere; Hanen vekker hele gården klokka fem.; Der Hahn weckt um fünf den ganzen Hof.
+no-xc-0006; Hahn (der Hahn kräht); en hane; ; A2; Natur/Tiere/Haustiere; Hanen vekker hele gården klokka fem.; Der Hahn weckt um fünf den ganzen Hof.
 no-xc-0007; Stier; en tyr; ; B1; Natur/Tiere/Haustiere; Gå aldri inn på et beite der det går en tyr.; Geh nie auf eine Weide, auf der ein Stier steht.
 no-xc-0008; Gans; ei gås; en gås; B1; Natur/Tiere/Haustiere; Ei gås løp etter oss over engen.; Eine Gans hat uns über die Wiese gejagt.
 no-xc-0009; Truthahn; en kalkun; ; B1; Natur/Tiere/Haustiere; Mange familier spiser kalkun til jul.; Viele Familien essen an Weihnachten Truthahn.
 no-xc-0010; Hamster; en hamster; ; A2; Natur/Tiere/Haustiere; Hamsteren min sover hele dagen og løper hele natten.; Mein Hamster schläft den ganzen Tag und rennt die ganze Nacht.
 no-xc-0011; Meerschweinchen; et marsvin; ; A2; Natur/Tiere/Haustiere; Barna gir marsvinet mat hver morgen.; Die Kinder füttern jeden Morgen das Meerschweinchen.
 no-xc-0012; Goldfisch; en gullfisk; ; A2; Natur/Tiere/Haustiere; To gullfisker svømmer i glasset på skrivebordet hennes.; Zwei Goldfische schwimmen im Glas auf ihrem Schreibtisch.
-no-xc-0013; Pony (Tier); en ponni; ; A2; Natur/Tiere/Haustiere; Lillesøsteren min rir på en ponni hver lørdag.; Meine kleine Schwester reitet jeden Samstag auf einem Pony.
+no-xc-0013; Pony (auf einem Pony reiten); en ponni; ; A2; Natur/Tiere/Haustiere; Lillesøsteren min rir på en ponni hver lørdag.; Meine kleine Schwester reitet jeden Samstag auf einem Pony.
 no-xc-0014; Käfig; et bur; ; B1; Natur/Tiere/Haustiere; Fuglen synger i buret ved vinduet.; Der Vogel singt in seinem Käfig am Fenster.
 no-xc-0015; Stall; en stall; ; B1; Natur/Tiere/Haustiere; Hestene tilbringer hele natten i stallen.; Die Pferde verbringen die Nacht im Stall.
 no-xc-0016; Tierarzt; en dyrlege; en veterinær; A2; Natur/Tiere/Haustiere; Vi må gå til dyrlegen med hunden.; Wir müssen mit dem Hund zum Tierarzt.
@@ -48,14 +48,14 @@ no-xc-0045; Delfin; en delfin; ; A2; Natur/Tiere/Meerestiere; Delfiner svømte v
 no-xc-0046; Hai; en hai; ; A2; Natur/Tiere/Meerestiere; De fleste haier er ikke farlige for mennesker.; Die meisten Haie sind für Menschen nicht gefährlich.
 no-xc-0047; Tintenfisch; en blekksprut; ; B2; Natur/Tiere/Meerestiere; En blekksprut kan skifte farge på noen sekunder.; Ein Tintenfisch kann in Sekunden seine Farbe ändern.
 no-xc-0048; Qualle; ei manet; en manet; B2; Natur/Tiere/Meerestiere; Pass på, det er maneter i vannet i dag.; Pass auf, heute sind Quallen im Wasser.
-no-xc-0049; Muschel (Schale); et skjell; ; B1; Natur/Tiere/Meerestiere; Barna samlet skjell nede på stranda.; Die Kinder haben am Strand Muscheln gesammelt.
+no-xc-0049; Muschel (Muscheln am Strand sammeln); et skjell; ; B1; Natur/Tiere/Meerestiere; Barna samlet skjell nede på stranda.; Die Kinder haben am Strand Muscheln gesammelt.
 no-xc-0050; Seestern; en sjøstjerne; ; B2; Natur/Tiere/Meerestiere; Vi fant en sjøstjerne i en fjærepytt mellom svabergene.; Wir haben in einem Becken zwischen den Felsen einen Seestern gefunden.
 no-xc-0051; Pinguin; en pingvin; ; A2; Natur/Tiere/Vögel; Pingviner kan ikke fly, men de svømmer veldig bra.; Pinguine können nicht fliegen, aber sie schwimmen sehr gut.
 no-xc-0052; Spatz; en spurv; ; B2; Natur/Tiere/Vögel; En spurv plukker opp smuler under bordet vårt.; Ein Spatz pickt unter unserem Tisch Krümel auf.
 no-xc-0053; Amsel; en svarttrost; ; B2; Natur/Tiere/Vögel; Hver kveld synger en svarttrost på taket vårt.; Jeden Abend singt eine Amsel auf unserem Dach.
 no-xc-0054; Rabe; en ravn; ; B2; Natur/Tiere/Vögel; En stor svart ravn satt på gjerdet.; Ein großer schwarzer Rabe saß auf dem Zaun.
 no-xc-0055; Krähe; ei kråke; en kråke; B2; Natur/Tiere/Vögel; Kråkene lager mye støy her i morges.; Die Krähen machen heute Morgen viel Lärm.
-no-xc-0056; Strauß (Vogel); en struts; ; B1; Natur/Tiere/Vögel; En struts kan løpe fortere enn en hest.; Ein Strauß kann schneller laufen als ein Pferd.
+no-xc-0056; Strauß (der Vogel Strauß); en struts; ; B1; Natur/Tiere/Vögel; En struts kan løpe fortere enn en hest.; Ein Strauß kann schneller laufen als ein Pferd.
 no-xc-0057; Flamingo; en flamingo; ; B1; Natur/Tiere/Vögel; De rosa flamingoene sto på ett ben i innsjøen.; Die rosa Flamingos standen auf einem Bein im See.
 no-xc-0058; Storch; en stork; ; B2; Natur/Tiere/Vögel; En stork har bygget rede på kirketaket.; Ein Storch hat sein Nest auf dem Kirchendach gebaut.
 no-xc-0059; zwitschern; å kvitre; ; C1; Natur/Tiere/Vögel; Fuglene begynner å kvitre før solen står opp.; Die Vögel fangen an zu zwitschern, bevor die Sonne aufgeht.
@@ -70,8 +70,8 @@ no-xc-0067; Zecke; en flått; ; B2; Natur/Tiere/Insekten; Se etter flått på be
 no-xc-0068; Motte; en møll; ; B2; Natur/Tiere/Insekten; En møll fløy rundt lampen i stua.; Eine Motte flog um die Lampe herum.
 no-xc-0069; Kakerlake; en kakerlakk; ; B2; Natur/Tiere/Insekten; Hotellkjøkkenet var helt fullt av kakerlakker.; Die Hotelküche war voller Kakerlaken.
 no-xc-0070; Ungeziefer; et skadedyr; et utøy; C1; Natur/Tiere/Insekten; Den gamle låven var full av skadedyr.; Die alte Scheune war voller Ungeziefer.
-no-xc-0071; summen (Insekt); å surre; å summe; B1; Natur/Tiere/Insekten; Biene surrer rundt det store epletreet.; Bienen summen um den Apfelbaum.
-no-xc-0072; stechen (Insekt); å stikke; ; B1; Natur/Tiere/Insekten; En bie stakk meg i hagen.; Im Garten hat mich eine Biene gestochen.
+no-xc-0071; summen (die Biene summt); å surre; å summe; B1; Natur/Tiere/Insekten; Biene surrer rundt det store epletreet.; Bienen summen um den Apfelbaum.
+no-xc-0072; stechen (eine Biene sticht); å stikke; ; B1; Natur/Tiere/Insekten; En bie stakk meg i hagen.; Im Garten hat mich eine Biene gestochen.
 no-xc-0073; Spinnennetz; et edderkoppnett; et spindelvev; B1; Natur/Tiere/Insekten; I hjørnet henger et digert edderkoppnett.; In der Ecke hängt ein riesiges Spinnennetz.
 no-xc-0074; Rose; ei rose; en rose; A1; Natur/Pflanzen; Han ga henne en rød rose til bursdagen.; Er hat ihr zum Geburtstag eine rote Rose geschenkt.
 no-xc-0075; Tulpe; en tulipan; ; B1; Natur/Pflanzen; I april begynner tulipanene å blomstre i parken.; Im April beginnen die Tulpen im Park zu blühen.
@@ -96,7 +96,7 @@ no-xc-0093; Laub; et løv; et løvverk; B2; Natur/Pflanzen; Om høsten raker vi 
 no-xc-0094; Pollen; en pollen; et pollen; B2; Natur/Pflanzen; I mai er det mye pollen i lufta.; Im Mai ist viel Pollen in der Luft.
 no-xc-0095; Efeu; en eføy; ; B2; Natur/Pflanzen; Eføyen har vokst over hele den gamle muren.; Efeu hat die ganze alte Mauer überwuchert.
 no-xc-0096; Scheune; ei låve; en låve; B2; Natur/Landwirtschaft; Bonden har høyet i den gamle låven.; Der Bauer lagert das Heu in der alten Scheune.
-no-xc-0097; Weide (Wiese); en beitemark; et beite; C1; Natur/Landwirtschaft; Om sommeren går kuene på beitemarken.; Die Kühe verbringen den Sommer auf der Weide.
+no-xc-0097; Weide (Kühe auf der Weide); en beitemark; et beite; C1; Natur/Landwirtschaft; Om sommeren går kuene på beitemarken.; Die Kühe verbringen den Sommer auf der Weide.
 no-xc-0098; Ernte; en innhøsting; ; B1; Natur/Landwirtschaft; Regnet kom rett før innhøstingen på gården.; Der Regen kam kurz vor der Ernte.
 no-xc-0099; Getreide; et korn; ; B2; Natur/Landwirtschaft; Her dyrker man hovedsakelig korn og poteter.; In der Region werden vor allem Getreide und Kartoffeln angebaut.
 no-xc-0100; Weizen; en hvete; ; B1; Natur/Landwirtschaft; Brød lages for det meste av hvete.; Brot wird meistens aus Weizen gemacht.
@@ -111,7 +111,7 @@ no-xc-0108; Felsen; en klippe; ei klippe; B1; Natur/Landschaft; Vi klatret opp p
 no-xc-0109; Sand; en sand; ; A1; Natur/Landschaft; Sanden på denne stranda er nesten hvit.; Der Sand an diesem Strand ist fast weiß.
 no-xc-0110; Düne; en sanddyne; ; B2; Natur/Landschaft; Vær så snill å ikke gå på sanddynene.; Bitte nicht auf den Dünen laufen.
 no-xc-0111; Vulkan; en vulkan; ; B1; Natur/Landschaft; Vulkanen hadde sist utbrudd for hundre år siden.; Der Vulkan ist vor hundert Jahren zuletzt ausgebrochen.
-no-xc-0112; Quelle (Wasser); en kilde; ei kilde; B2; Natur/Landschaft; Elva begynner ved en liten kilde i åsene.; Der Fluss beginnt an einer kleinen Quelle in den Hügeln.
+no-xc-0112; Quelle (Wasser aus der Quelle); en kilde; ei kilde; B2; Natur/Landschaft; Elva begynner ved en liten kilde i åsene.; Der Fluss beginnt an einer kleinen Quelle in den Hügeln.
 no-xc-0113; Dschungel; en jungel; ; B1; Natur/Landschaft; I jungelen lever det aper og papegøyer.; Im Dschungel leben Affen und Papageien.
 no-xc-0114; Urwald; en urskog; ; B2; Natur/Landschaft; Store deler av urskogen er blitt hogd ned.; Große Teile des Urwalds wurden abgeholzt.
 no-xc-0115; Bucht; en vik; ; B1; Natur/Landschaft; Hotellet vårt ligger i en rolig liten vik.; Unser Hotel liegt in einer ruhigen kleinen Bucht.
@@ -120,7 +120,7 @@ no-xc-0117; Ozean; et hav; et verdenshav; A2; Natur/Landschaft; Stillehavet er d
 no-xc-0118; Horizont; en horisont; ; B1; Natur/Landschaft; Et skip dukket opp ved horisonten.; Am Horizont tauchte ein Schiff auf.
 no-xc-0119; Landschaft; et landskap; ; B1; Natur/Landschaft; Landskapet i Skottland er vilt og vakkert.; Die Landschaft in Schottland ist wild und schön.
 no-xc-0120; Ebbe; ei fjære; en fjære, et lavvann; B2; Natur/Landschaft; Ved fjære sjø kan man gå ut til øya.; Bei Ebbe kann man zur Insel laufen.
-no-xc-0121; Flut (Gezeiten); en flo; ei flo, et høyvann; B2; Natur/Landschaft; Ved flo forsvinner stranda nesten helt.; Bei Flut verschwindet der Strand fast ganz.
+no-xc-0121; Flut (Ebbe und Flut); en flo; ei flo, et høyvann; B2; Natur/Landschaft; Ved flo forsvinner stranda nesten helt.; Bei Flut verschwindet der Strand fast ganz.
 no-xc-0122; Strömung; en strøm; ; B2; Natur/Landschaft; Ikke svøm her, strømmen er altfor sterk.; Schwimm hier nicht, die Strömung ist zu stark.
 no-xc-0123; Korallenriff; et korallrev; ; B2; Natur/Landschaft; Vi dro og dykket ved et korallrev.; Wir sind an einem Korallenriff tauchen gegangen.
 no-xc-0124; Eisberg; et isfjell; ; B1; Natur/Landschaft; Titanic kolliderte med et isfjell i 1912.; Die Titanic stieß 1912 mit einem Eisberg zusammen.
@@ -242,8 +242,8 @@ no-xc-0239; Sonnenschein; et solskinn; ; A2; Natur/Umwelt/Wetter; I ferien hadde
 no-xc-0240; Unwetter; et uvær; ; B2; Natur/Umwelt/Wetter; Uværet har ført til flom i sør.; Das Unwetter hat im Süden Überschwemmungen verursacht.
 no-xc-0241; Wetterbericht; en værmelding; et værvarsel; A2; Natur/Umwelt/Wetter; Ifølge værmeldingen blir det regn i morgen.; Laut Wetterbericht regnet es morgen.
 no-xc-0242; Thermometer; et termometer; ; B1; Natur/Umwelt/Wetter; Termometeret på veggen viser ti minusgrader.; Das Thermometer an der Wand zeigt minus zehn Grad.
-no-xc-0243; Schatten (kühler Ort); en skygge; ei skygge; A2; Natur/Umwelt/Wetter; La oss sette oss i skyggen, det er for varmt her.; Lass uns in den Schatten setzen, hier ist es zu heiß.
-no-xc-0244; Schatten (Umriss); en skygge; ei skygge; B1; Natur/Umwelt/Wetter; Utpå kvelden blir skyggene våre veldig lange.; Am Abend werden unsere Schatten sehr lang.
+no-xc-0243; Schatten (im Schatten sitzen); en skygge; ei skygge; A2; Natur/Umwelt/Wetter; La oss sette oss i skyggen, det er for varmt her.; Lass uns in den Schatten setzen, hier ist es zu heiß.
+no-xc-0244; Schatten (einen Schatten werfen); en skygge; ei skygge; B1; Natur/Umwelt/Wetter; Utpå kvelden blir skyggene våre veldig lange.; Am Abend werden unsere Schatten sehr lang.
 no-xc-0245; donnern; å tordne; ; B1; Natur/Umwelt/Wetter; Det tordnet hele natten, og ingen fikk sove.; Es hat die ganze Nacht gedonnert, und keiner konnte schlafen.
 no-xc-0246; hageln; å hagle; ; B2; Natur/Umwelt/Wetter; Midt på sommeren begynte det plutselig å hagle.; Mitten im Sommer fing es plötzlich an zu hageln.
 no-xc-0247; tauen; å tine; ; B2; Natur/Umwelt/Wetter; Snøen tiner, og stiene er våte.; Der Schnee taut, und die Wege sind nass.
@@ -327,12 +327,12 @@ no-xc-0324; Reihenhaus; et rekkehus; ; B2; Alltag/Stadt/Gebäude; De kjøpte et 
 no-xc-0325; Einfamilienhaus; en enebolig; ; B2; Alltag/Stadt/Gebäude; Mange familier drømmer om en enebolig med hage.; Viele Familien träumen von einem Einfamilienhaus mit Garten.
 no-xc-0326; Wohnblock; ei boligblokk; en boligblokk; B2; Alltag/Stadt/Gebäude; De vokste opp i en stor boligblokk.; Sie sind in einem großen Wohnblock aufgewachsen.
 no-xc-0327; Abriss; en riving; ; C1; Alltag/Stadt/Gebäude; Rivingen av den gamle fabrikken starter neste år.; Der Abriss der alten Fabrik beginnt nächstes Jahr.
-no-xc-0328; Botschaft (Vertretung); en ambassade; ; B1; Alltag/Stadt/Gebäude; Du får nytt pass på ambassaden.; Einen neuen Pass bekommt man bei der Botschaft.
+no-xc-0328; Botschaft (die deutsche Botschaft); en ambassade; ; B1; Alltag/Stadt/Gebäude; Du får nytt pass på ambassaden.; Einen neuen Pass bekommt man bei der Botschaft.
 no-xc-0329; Marktplatz; et torg; ; A2; Alltag/Stadt/Straßen & Plätze; Hver lørdag er det bondens marked på torget.; Jeden Samstag ist auf dem Marktplatz ein Bauernmarkt.
 no-xc-0330; Gasse; et smug; ; B2; Alltag/Stadt/Straßen & Plätze; Vi gikk oss vill i de trange smugene i gamlebyen.; Wir haben uns in den engen Gassen der Altstadt verlaufen.
 no-xc-0331; Hauptstraße; en hovedgate; ; A2; Alltag/Stadt/Straßen & Plätze; Bakeriet ligger i hovedgata ved siden av banken.; Die Bäckerei ist an der Hauptstraße neben der Bank.
 no-xc-0332; Seitenstraße; en sidegate; ; B1; Alltag/Stadt/Straßen & Plätze; I en sidegate er det roligere å parkere.; In einer Seitenstraße parkt man ruhiger.
-no-xc-0333; Sackgasse (Straße); en blindvei; en blindgate; B2; Alltag/Stadt/Straßen & Plätze; Vi bor for enden av en rolig blindvei.; Wir wohnen am Ende einer ruhigen Sackgasse.
+no-xc-0333; Sackgasse (in einer Sackgasse wohnen); en blindvei; en blindgate; B2; Alltag/Stadt/Straßen & Plätze; Vi bor for enden av en rolig blindvei.; Wir wohnen am Ende einer ruhigen Sackgasse.
 no-xc-0334; Straßenlaterne; en gatelykt; ei gatelykt; B2; Alltag/Stadt/Straßen & Plätze; Gatelyktene slås på hver kveld klokka seks.; Die Straßenlaternen gehen um sechs Uhr an.
 no-xc-0335; Bürgersteig; et fortau; ; B1; Alltag/Stadt/Straßen & Plätze; Ikke sykle på fortauet, vær så snill.; Bitte fahr nicht mit dem Fahrrad auf dem Bürgersteig.
 no-xc-0336; Hausnummer; et husnummer; ; A2; Alltag/Stadt/Straßen & Plätze; Hva er husnummeret ditt i Storgata?; Wie ist deine Hausnummer in der Storgata?
@@ -373,8 +373,8 @@ no-xc-0370; E-Roller; en elsparkesykkel; ; B1; Reisen/Verkehr/Fahrrad; Man kan l
 no-xc-0371; Radtour; en sykkeltur; ; A2; Reisen/Verkehr/Fahrrad; Søndag tok vi en lang sykkeltur langs elven.; Am Sonntag haben wir eine lange Radtour am Fluss entlang gemacht.
 no-xc-0372; Hupe; et horn; ; B1; Reisen/Verkehr/Auto; Sjåføren bak oss trykket på hornet.; Der Fahrer hinter uns drückte auf die Hupe.
 no-xc-0373; Lenkrad; et ratt; ; B1; Reisen/Verkehr/Auto; I Storbritannia sitter rattet på høyre side.; In Großbritannien ist das Lenkrad rechts.
-no-xc-0374; lenken (Auto); å styre; ; B1; Reisen/Verkehr/Auto; På isen er det vanskelig å styre bilen.; Auf Eis ist es schwer, das Auto zu lenken.
-no-xc-0375; Gang (Auto); et gir; ; B2; Reisen/Verkehr/Auto; Legg inn første gir og kjør sakte av gårde.; Leg den ersten Gang ein und fahr langsam los.
+no-xc-0374; lenken (das Auto lenken); å styre; ; B1; Reisen/Verkehr/Auto; På isen er det vanskelig å styre bilen.; Auf Eis ist es schwer, das Auto zu lenken.
+no-xc-0375; Gang (in den zweiten Gang schalten); et gir; ; B2; Reisen/Verkehr/Auto; Legg inn første gir og kjør sakte av gårde.; Leg den ersten Gang ein und fahr langsam los.
 no-xc-0376; Windschutzscheibe; en frontrute; ei frontrute; B2; Reisen/Verkehr/Auto; En stein skadet frontruten på bilen.; Ein Stein hat die Windschutzscheibe beschädigt.
 no-xc-0377; Scheinwerfer; en frontlykt; en lyskaster; B2; Reisen/Verkehr/Auto; Slå på frontlyktene, det begynner å bli mørkt.; Mach die Scheinwerfer an, es wird dunkel.
 no-xc-0378; rückwärts fahren; å rygge; å kjøre baklengs; B1; Reisen/Verkehr/Auto; Hun rygget forsiktig ut av garasjen.; Sie ist vorsichtig rückwärts aus der Garage gefahren.
@@ -401,7 +401,7 @@ no-xc-0398; Auffahrunfall; en påkjørsel bakfra; ; C1; Reisen/Verkehr/Straße &
 no-xc-0399; Parklücke; en parkeringsplass; ; B1; Reisen/Verkehr/Straße & Regeln; Vi brukte tjue minutter på å finne en parkeringsplass.; Wir haben zwanzig Minuten gebraucht, um eine Parklücke zu finden.
 no-xc-0400; Gegenverkehr; møtende trafikk; motgående trafikk; B2; Reisen/Verkehr/Straße & Regeln; Ikke forbikjør her, det er for mye møtende trafikk.; Überhol hier nicht, es gibt zu viel Gegenverkehr.
 no-xc-0401; Rastplatz; en rasteplass; ; B2; Reisen/Verkehr/Straße & Regeln; La oss stoppe på neste rasteplass og drikke kaffe.; Lass uns am nächsten Rastplatz anhalten und einen Kaffee trinken.
-no-xc-0402; Abkürzung (Weg); en snarvei; ; B1; Reisen/Verkehr/Wegbeschreibung; Vi tok en snarvei gjennom parken.; Wir haben eine Abkürzung durch den Park genommen.
+no-xc-0402; Abkürzung (eine Abkürzung nehmen); en snarvei; ; B1; Reisen/Verkehr/Wegbeschreibung; Vi tok en snarvei gjennom parken.; Wir haben eine Abkürzung durch den Park genommen.
 no-xc-0403; Arbeitsweg; veien til jobb; ; B2; Reisen/Verkehr/Straße & Regeln; Veien til jobb tar førti minutter med toget.; Mein Arbeitsweg dauert mit dem Zug vierzig Minuten.
 no-xc-0404; Reisebus; en turbuss; ; B1; Reisen/Verkehr/Bus & Bahn; Hele klassen reiste med turbuss til London.; Die ganze Klasse ist mit dem Reisebus nach London gefahren.
 no-xc-0405; Fernbus; en ekspressbuss; ; B1; Reisen/Verkehr/Bus & Bahn; Ekspressbussen er mye billigere enn toget.; Der Fernbus ist billiger als der Zug.
@@ -414,7 +414,7 @@ no-xc-0411; Hauptbahnhof; en sentralstasjon; ; A2; Reisen/Verkehr/Bus & Bahn; La
 no-xc-0412; Sitzplatzreservierung; en setereservasjon; en plassreservasjon; B1; Reisen/Verkehr/Bus & Bahn; Til jul trenger man absolutt en setereservasjon.; An Weihnachten braucht man unbedingt eine Sitzplatzreservierung.
 no-xc-0413; erste Klasse; første klasse; ; A2; Reisen/Verkehr/Bus & Bahn; Vi unte oss litt og reiste første klasse.; Wir haben uns etwas gegönnt und sind erste Klasse gefahren.
 no-xc-0414; Busfahrer; en bussjåfør; ; A2; Reisen/Verkehr/Bus & Bahn; Bussjåføren ventet på meg ved holdeplassen.; Der Busfahrer hat an der Haltestelle auf mich gewartet.
-no-xc-0415; Schalter (Bahnhof); en billettluke; en skranke; B1; Reisen/Verkehr/Bus & Bahn; Du kan kjøpe billett i billettluken eller på nett.; Eine Fahrkarte kann man am Schalter oder online kaufen.
+no-xc-0415; Schalter (Fahrkarten am Schalter); en billettluke; en skranke; B1; Reisen/Verkehr/Bus & Bahn; Du kan kjøpe billett i billettluken eller på nett.; Eine Fahrkarte kann man am Schalter oder online kaufen.
 no-xc-0416; Gepäckband; et bagasjebånd; ; B2; Reisen/Urlaub/Flughafen; Vi ventet en halv time ved bagasjebåndet.; Wir haben eine halbe Stunde am Gepäckband gewartet.
 no-xc-0417; Flugticket; en flybillett; ; A2; Reisen/Urlaub/Flughafen; Flybillettene var litt billigere enn forventet.; Die Flugtickets waren billiger als erwartet.
 no-xc-0418; Fluggesellschaft; et flyselskap; ; B1; Reisen/Urlaub/Flughafen; Hvilket flyselskap skal du fly med?; Mit welcher Fluggesellschaft fliegst du?

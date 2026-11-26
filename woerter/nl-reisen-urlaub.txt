@@ -6,7 +6,7 @@ nl-ru-0003; Urlaub; de vakantie; ; A1; Reisen/Urlaub/Planung & Buchung; Mijn vak
 nl-ru-0004; Hotel; het hotel; ; A1; Reisen/Urlaub/Unterkunft; Het hotel ligt direct aan het strand.; Das Hotel liegt direkt am Strand.
 nl-ru-0005; Zimmer; de kamer; ; A1; Reisen/Urlaub/Unterkunft; Onze kamer heeft uitzicht op de zee.; Unser Zimmer hat Blick auf das Meer.
 nl-ru-0006; Koffer; de koffer; ; A1; Reisen/Urlaub/Gepäck; Mijn koffer is zwaar door de boeken.; Mein Koffer ist wegen der Bücher schwer.
-nl-ru-0007; Tasche (zum Tragen); de tas; ; A1; Reisen/Urlaub/Gepäck; De tas met de tickets ligt in de auto.; Die Tasche mit den Tickets liegt im Auto.
+nl-ru-0007; Tasche (eine Tasche tragen); de tas; ; A1; Reisen/Urlaub/Gepäck; De tas met de tickets ligt in de auto.; Die Tasche mit den Tickets liegt im Auto.
 nl-ru-0008; Flugzeug; het vliegtuig; ; A1; Reisen/Urlaub/Flughafen; Het vliegtuig vertrekt om zes uur 's ochtends.; Das Flugzeug fliegt um sechs Uhr morgens ab.
 nl-ru-0009; fliegen; vliegen; ; A1; Reisen/Urlaub/Flughafen; Wij vliegen zaterdag vroeg naar Lissabon.; Wir fliegen am Samstag früh nach Lissabon.
 nl-ru-0010; Flughafen; het vliegveld; de luchthaven; A1; Reisen/Urlaub/Flughafen; Het vliegveld ligt dertig minuten van de stad.; Der Flughafen liegt dreißig Minuten von der Stadt entfernt.
@@ -16,11 +16,11 @@ nl-ru-0013; Auto; de auto; ; A1; Reisen/Urlaub/Unterwegs; Wij gaan met de auto n
 nl-ru-0014; Bus; de bus; ; A1; Reisen/Urlaub/Unterwegs; De bus naar het oude centrum komt elke tien minuten.; Der Bus in die Altstadt kommt alle zehn Minuten.
 nl-ru-0015; Fahrkarte; het kaartje; het treinkaartje, het ticket; A1; Reisen/Urlaub/Unterwegs; Een kaartje naar het meer kost vier euro.; Eine Fahrkarte zum See kostet vier Euro.
 nl-ru-0016; Stadt; de stad; ; A1; Reisen/Urlaub/Sightseeing; De oude stad is prachtig in het avondlicht.; Die alte Stadt ist im Abendlicht wunderschön.
-nl-ru-0017; Land (Staat); het land; ; A1; Reisen/Urlaub/Planung & Buchung; Portugal is een prachtig land voor een vakantie.; Portugal ist ein wunderbares Land für einen Urlaub.
+nl-ru-0017; Land (ein fremdes Land); het land; ; A1; Reisen/Urlaub/Planung & Buchung; Portugal is een prachtig land voor een vakantie.; Portugal ist ein wunderbares Land für einen Urlaub.
 nl-ru-0018; Meer; de zee; ; A1; Reisen/Urlaub/Strand & Natur; De zee is in september warm en rustig.; Das Meer ist im September warm und ruhig.
 nl-ru-0019; Strand; het strand; ; A1; Reisen/Urlaub/Strand & Natur; De kinderen spelen de hele dag op het strand.; Die Kinder spielen den ganzen Tag am Strand.
 nl-ru-0020; Sonne; de zon; ; A1; Reisen/Urlaub/Strand & Natur; De zon schijnt hier bijna elke dag.; Die Sonne scheint hier fast jeden Tag.
-nl-ru-0021; Karte (Landkarte); de kaart; de landkaart; A1; Reisen/Urlaub/Unterwegs; Zonder kaart zouden we hier verdwalen.; Ohne Karte wären wir hier verloren.
+nl-ru-0021; Karte (auf der Karte nachsehen); de kaart; de landkaart; A1; Reisen/Urlaub/Unterwegs; Zonder kaart zouden we hier verdwalen.; Ohne Karte wären wir hier verloren.
 nl-ru-0022; Kamera; de camera; het fototoestel; A1; Reisen/Urlaub/Sightseeing; Neem de camera mee, het licht is vandaag perfect.; Nimm die Kamera mit, das Licht ist heute perfekt.
 nl-ru-0023; Taxi; de taxi; ; A1; Reisen/Urlaub/Unterwegs; Wij nemen een taxi van de luchthaven naar het hotel.; Wir nehmen ein Taxi vom Flughafen zum Hotel.
 nl-ru-0024; Straße; de straat; de weg; A1; Reisen/Urlaub/Unterwegs; Deze straat leidt rechtstreeks naar de oude haven.; Diese Straße führt direkt zum alten Hafen.
@@ -39,10 +39,10 @@ nl-ru-0036; Grenze; de grens; ; A2; Reisen/Urlaub/Unterwegs; Wij staken vroeg in
 nl-ru-0037; Ausland; het buitenland; ; A2; Reisen/Urlaub/Planung & Buchung; Zij werkt een heel jaar in het buitenland.; Sie arbeitet ein ganzes Jahr im Ausland.
 nl-ru-0038; Tourist; de toerist; ; A2; Reisen/Urlaub/Sightseeing; In augustus is de stad vol toeristen.; Im August ist die Stadt voller Touristen.
 nl-ru-0039; Reiseführer; de reisgids; ; A2; Reisen/Urlaub/Sightseeing; De reisgids beveelt een wandeling langs de rivier aan.; Der Reiseführer empfiehlt einen Spaziergang am Fluss.
-nl-ru-0040; besuchen (Ort); bezoeken; ; A2; Reisen/Urlaub/Sightseeing; Wij bezoeken de oude burcht boven de stad.; Wir besuchen die alte Burg über der Stadt.
+nl-ru-0040; besuchen (ein Museum besuchen); bezoeken; ; A2; Reisen/Urlaub/Sightseeing; Wij bezoeken de oude burcht boven de stad.; Wir besuchen die alte Burg über der Stadt.
 nl-ru-0041; Museum; het museum; ; A2; Reisen/Urlaub/Sightseeing, Kultur; Het museum is op de eerste zondag gratis.; Das Museum ist am ersten Sonntag kostenlos.
 nl-ru-0042; Kirche; de kerk; ; A2; Reisen/Urlaub/Sightseeing; De kleine kerk op de heuvel is heel oud.; Die kleine Kirche auf dem Hügel ist sehr alt.
-nl-ru-0043; Schloss (Gebäude); het kasteel; het slot, het paleis; A2; Reisen/Urlaub/Sightseeing; Het kasteel opent in de zomer zijn tuinen.; Das Schloss öffnet im Sommer seine Gärten.
+nl-ru-0043; Schloss (ein Schloss besichtigen); het kasteel; het slot, het paleis; A2; Reisen/Urlaub/Sightseeing; Het kasteel opent in de zomer zijn tuinen.; Das Schloss öffnet im Sommer seine Gärten.
 nl-ru-0044; Insel; het eiland; ; A2; Reisen/Urlaub/Strand & Natur; Het kleine eiland heeft maar één klein hotel.; Die kleine Insel hat nur ein kleines Hotel.
 nl-ru-0045; See; het meer; ; A2; Reisen/Urlaub/Strand & Natur; Wij zwemmen voor het ontbijt in het meer.; Wir schwimmen vor dem Frühstück im See.
 nl-ru-0046; Berg; de berg; ; A2; Reisen/Urlaub/Strand & Natur; Vanaf de berg zie je het hele dal.; Vom Berg sieht man das ganze Tal.
@@ -63,7 +63,7 @@ nl-ru-0060; Stadtplan; de plattegrond; de stadsplattegrond, de stadskaart; A2; R
 nl-ru-0061; Unterkunft; de accommodatie; het onderkomen, het verblijf; B1; Reisen/Urlaub/Unterkunft; Wij vonden een goedkope accommodatie vlak bij het oude centrum.; Wir fanden eine günstige Unterkunft nahe der Altstadt.
 nl-ru-0062; Ferienwohnung; de vakantiewoning; het vakantieappartement, het vakantiehuis; B1; Reisen/Urlaub/Unterkunft; De vakantiewoning heeft een balkon en een kleine keuken.; Die Ferienwohnung hat einen Balkon und eine kleine Küche.
 nl-ru-0063; Jugendherberge; de jeugdherberg; het hostel; B1; Reisen/Urlaub/Unterkunft; De jeugdherberg is goedkoop en heel schoon.; Die Jugendherberge ist günstig und sehr sauber.
-nl-ru-0064; Pension (Unterkunft); het pension; ; B1; Reisen/Urlaub/Unterkunft; Het pension wordt gerund door een vriendelijk oud echtpaar.; Die Pension wird von einem freundlichen alten Paar geführt.
+nl-ru-0064; Pension (in einer Pension übernachten); het pension; ; B1; Reisen/Urlaub/Unterkunft; Het pension wordt gerund door een vriendelijk oud echtpaar.; Die Pension wird von einem freundlichen alten Paar geführt.
 nl-ru-0065; Doppelzimmer; de tweepersoonskamer; ; B1; Reisen/Urlaub/Unterkunft; Een tweepersoonskamer met ontbijt kost negentig euro.; Ein Doppelzimmer mit Frühstück kostet neunzig Euro.
 nl-ru-0066; Einzelzimmer; de eenpersoonskamer; ; B1; Reisen/Urlaub/Unterkunft; De laatste eenpersoonskamer was gisteren al verhuurd.; Das letzte Einzelzimmer war gestern schon vergeben.
 nl-ru-0067; Halbpension; het halfpension; ; B1; Reisen/Urlaub/Unterkunft; Wij kozen halfpension omdat we 's middags onderweg eten.; Wir wählten Halbpension, weil wir mittags unterwegs essen.
@@ -80,12 +80,12 @@ nl-ru-0077; Zoll; de douane; ; B1; Reisen/Urlaub/Flughafen; Bij de douane wilde 
 nl-ru-0078; Flugbegleiter; de steward; ; B1; Reisen/Urlaub/Flughafen; De steward bracht ons water en koffie.; Der Flugbegleiter brachte uns Wasser und Kaffee.
 nl-ru-0079; Landung; de landing; ; B1; Reisen/Urlaub/Flughafen; De landing was zacht ondanks de harde wind.; Die Landung war trotz des starken Windes sanft.
 nl-ru-0080; landen; landen; ; B1; Reisen/Urlaub/Flughafen; Wij landen vandaag kort na middernacht in Madrid.; Wir landen heute kurz nach Mitternacht in Madrid.
-nl-ru-0081; abheben (Flugzeug); opstijgen; ; B1; Reisen/Urlaub/Flughafen; Het vliegtuig steeg met een kleine vertraging op.; Das Flugzeug hob mit kurzer Verspätung ab.
+nl-ru-0081; abheben (das Flugzeug hebt ab); opstijgen; ; B1; Reisen/Urlaub/Flughafen; Het vliegtuig steeg met een kleine vertraging op.; Das Flugzeug hob mit kurzer Verspätung ab.
 nl-ru-0082; Notausgang; de nooduitgang; ; B1; Reisen/Urlaub/Flughafen; De nooduitgang is met groene borden gemarkeerd.; Der Notausgang ist mit grünen Schildern markiert.
 nl-ru-0083; Sehenswürdigkeit; de bezienswaardigheid; ; B1; Reisen/Urlaub/Sightseeing; De kathedraal is de beroemdste bezienswaardigheid van de stad.; Die Kathedrale ist die berühmteste Sehenswürdigkeit der Stadt.
 nl-ru-0084; Denkmal; het monument; het gedenkteken, het standbeeld; B1; Reisen/Urlaub/Sightseeing; Het monument op het plein eert een plaatselijke dichter.; Das Denkmal auf dem Platz ehrt einen hiesigen Dichter.
 nl-ru-0085; Altstadt; de oude stad; het oude centrum, de binnenstad; B1; Reisen/Urlaub/Sightseeing; Wij verdwaalden in de smalle straatjes van de oude stad.; Wir verliefen uns in den engen Gassen der Altstadt.
-nl-ru-0086; Führung (Besichtigung); de rondleiding; ; B1; Reisen/Urlaub/Sightseeing; De rondleiding door het kasteel duurt een uur.; Die Führung durch das Schloss dauert eine Stunde.
+nl-ru-0086; Führung (eine Führung durchs Museum); de rondleiding; ; B1; Reisen/Urlaub/Sightseeing; De rondleiding door het kasteel duurt een uur.; Die Führung durch das Schloss dauert eine Stunde.
 nl-ru-0087; Souvenir; het souvenir; het aandenken; B1; Reisen/Urlaub/Sightseeing; Zij kocht een klein souvenir voor haar collega's.; Sie kaufte ein kleines Souvenir für ihre Kollegen.
 nl-ru-0088; Sonnenbrand; de zonnebrand; ; B1; Reisen/Urlaub/Strand & Natur; Na één middag had hij al zonnebrand.; Nach einem Nachmittag hatte er schon einen Sonnenbrand.
 nl-ru-0089; Liegestuhl; de ligstoel; het ligbed, de strandstoel; B1; Reisen/Urlaub/Strand & Natur; Elke ligstoel bij het zwembad was om negen uur bezet.; Jeder Liegestuhl am Pool war um neun besetzt.
@@ -99,7 +99,7 @@ nl-ru-0096; Pauschalreise; de pakketreis; de georganiseerde reis; B2; Reisen/Url
 nl-ru-0097; Reiseveranstalter; de reisorganisatie; de touroperator, de reisorganisator; B2; Reisen/Urlaub/Planung & Buchung; De reisorganisatie informeerde ons over de planwijziging.; Der Reiseveranstalter informierte uns über die Planänderung.
 nl-ru-0098; Reiseversicherung; de reisverzekering; ; B2; Reisen/Urlaub/Planung & Buchung; Een goede reisverzekering dekt ook verloren bagage.; Eine gute Reiseversicherung deckt auch verlorenes Gepäck ab.
 nl-ru-0099; Anzahlung; de aanbetaling; het voorschot; B2; Reisen/Urlaub/Planung & Buchung; Wij deden een aanbetaling van tweehonderd euro.; Wir leisteten eine Anzahlung von zweihundert Euro.
-nl-ru-0100; Zuschlag (Aufpreis); de toeslag; de meerprijs; B2; Reisen/Urlaub/Planung & Buchung; Voor kamers met zeezicht geldt een toeslag.; Für Zimmer mit Meerblick gibt es einen Zuschlag.
+nl-ru-0100; Zuschlag (einen Zuschlag zahlen); de toeslag; de meerprijs; B2; Reisen/Urlaub/Planung & Buchung; Voor kamers met zeezicht geldt een toeslag.; Für Zimmer mit Meerblick gibt es einen Zuschlag.
 nl-ru-0101; Hochsaison; het hoogseizoen; ; B2; Reisen/Urlaub/Planung & Buchung; In het hoogseizoen verdubbelen de prijzen hier bijna.; In der Hochsaison verdoppeln sich hier fast die Preise.
 nl-ru-0102; Nebensaison; het laagseizoen; het naseizoen, het voorseizoen; B2; Reisen/Urlaub/Planung & Buchung; In het laagseizoen zijn de stranden heerlijk leeg.; In der Nebensaison sind die Strände herrlich leer.
 nl-ru-0103; Übernachtung; de overnachting; ; B2; Reisen/Urlaub/Unterkunft; De prijs is inclusief een overnachting met ontbijt.; Der Preis beinhaltet eine Übernachtung mit Frühstück.

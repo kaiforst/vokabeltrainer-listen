@@ -7,7 +7,7 @@ nl-tc-0004; Internet; het internet; ; A1; Technik/Computer/Internet; Wij gebruik
 nl-tc-0005; Fernseher; de televisie; de tv; A1; Technik/Computer/Geräte; De televisie in de woonkamer is nieuw.; Der Fernseher im Wohnzimmer ist neu.
 nl-tc-0006; Bildschirm; het beeldscherm; de monitor, het scherm; A1; Technik/Computer/Geräte; Het beeldscherm is 's nachts te fel.; Der Bildschirm ist nachts zu hell.
 nl-tc-0007; Tastatur; het toetsenbord; ; A1; Technik/Computer/Geräte; Ik heb een nieuw toetsenbord voor mijn computer nodig.; Ich brauche eine neue Tastatur für meinen Computer.
-nl-tc-0008; Maus (Computer); de muis; ; A1; Technik/Computer/Geräte; De muis werkt niet zonder batterij.; Die Maus funktioniert nicht ohne Batterie.
+nl-tc-0008; Maus (die Maus am Computer); de muis; ; A1; Technik/Computer/Geräte; De muis werkt niet zonder batterij.; Die Maus funktioniert nicht ohne Batterie.
 nl-tc-0009; Drucker; de printer; ; A1; Technik/Computer/Geräte; De printer op kantoor is alweer kapot.; Der Drucker im Büro ist schon wieder kaputt.
 nl-tc-0010; Kamera; de camera; ; A1; Technik/Computer/Geräte; Deze camera maakt heel goede foto's.; Diese Kamera macht sehr gute Fotos.
 nl-tc-0011; Laptop; de laptop; ; A1; Technik/Computer/Geräte; Zij neemt haar laptop elke ochtend mee naar het werk.; Sie nimmt ihren Laptop jeden Morgen mit zur Arbeit.
@@ -22,7 +22,7 @@ nl-tc-0019; ausmachen; uitzetten; uitdoen; A1; Technik/Computer/Geräte; Zet als
 nl-tc-0020; Fehler; de fout; ; A1; Technik/Computer/Software; Er zit een fout in het nieuwe programma.; Es gibt einen Fehler im neuen Programm.
 nl-tc-0021; Passwort; het wachtwoord; ; A2; Technik/Computer/Sicherheit; Je mag je wachtwoord aan niemand vertellen.; Du solltest niemandem dein Passwort verraten.
 nl-tc-0022; Datei; het bestand; ; A2; Technik/Computer/Dateien; Ik heb het bestand op mijn laptop opgeslagen.; Ich habe die Datei auf meinem Laptop gespeichert.
-nl-tc-0023; Ordner (Computer); de map; ; A2; Technik/Computer/Dateien; Zet alle foto's in één map.; Leg alle Fotos in einen Ordner.
+nl-tc-0023; Ordner (ein Ordner auf dem Computer); de map; ; A2; Technik/Computer/Dateien; Zet alle foto's in één map.; Leg alle Fotos in einen Ordner.
 nl-tc-0024; drucken; printen; afdrukken; A2; Technik/Computer/Dateien; Kun je dit document voor mij printen?; Kannst du dieses Dokument für mich drucken?
 nl-tc-0025; speichern; opslaan; bewaren; A2; Technik/Computer/Dateien; Vergeet niet je werk op te slaan.; Vergiss nicht, deine Arbeit zu speichern.
 nl-tc-0026; löschen; verwijderen; wissen; A2; Technik/Computer/Dateien; Ik heb de oude foto's per ongeluk verwijderd.; Ich habe die alten Fotos aus Versehen gelöscht.
@@ -37,14 +37,14 @@ nl-tc-0034; Ladegerät; de oplader; de lader; A2; Technik/Computer/Smartphone; I
 nl-tc-0035; Kopfhörer; de koptelefoon; de hoofdtelefoon, de oortjes; A2; Technik/Computer/Geräte; Hij luistert naar muziek met zijn koptelefoon.; Er hört Musik mit seinen Kopfhörern.
 nl-tc-0036; Lautsprecher; de luidspreker; de speaker, de box; A2; Technik/Computer/Geräte; De luidspreker is hard genoeg voor het feest.; Der Lautsprecher ist laut genug für die Party.
 nl-tc-0037; Smartphone; de smartphone; ; A2; Technik/Computer/Smartphone; Bijna iedereen heeft tegenwoordig een smartphone.; Fast jeder hat heutzutage ein Smartphone.
-nl-tc-0038; Nachricht (Mitteilung); het bericht; het berichtje; A2; Technik/Computer/Smartphone; Zij heeft me vanochtend een bericht gestuurd.; Sie hat mir heute Morgen eine Nachricht geschickt.
+nl-tc-0038; Nachricht (eine Nachricht schicken); het bericht; het berichtje; A2; Technik/Computer/Smartphone; Zij heeft me vanochtend een bericht gestuurd.; Sie hat mir heute Morgen eine Nachricht geschickt.
 nl-tc-0039; Benutzer; de gebruiker; ; A2; Technik/Computer/Software; De nieuwe gebruiker heeft eerst een wachtwoord nodig.; Der neue Benutzer braucht zuerst ein Passwort.
 nl-tc-0040; Benutzername; de gebruikersnaam; ; A2; Technik/Computer/Sicherheit; Voer alsjeblieft je gebruikersnaam en je wachtwoord in.; Bitte gib deinen Benutzernamen und dein Passwort ein.
 nl-tc-0041; Suchmaschine; de zoekmachine; ; A2; Technik/Computer/Internet; Ik heb het antwoord met een zoekmachine gevonden.; Ich habe die Antwort mit einer Suchmaschine gefunden.
 nl-tc-0042; suchen; zoeken; ; A2; Technik/Computer/Internet; Ik heb op internet naar goedkope vluchten gezocht.; Ich habe im Internet nach günstigen Flügen gesucht.
 nl-tc-0043; senden; sturen; versturen, verzenden; A2; Technik/Computer/Internet; Hij stuurt op zijn werk elke dag veel e-mails.; Er sendet bei der Arbeit jeden Tag viele E-Mails.
 nl-tc-0044; empfangen; ontvangen; ; A2; Technik/Computer/Internet; Heb je gisteravond mijn bericht ontvangen?; Hast du gestern Abend meine Nachricht empfangen?
-nl-tc-0045; Verbindung (Internet); de verbinding; ; A2; Technik/Computer/Internet; De internetverbinding is vandaag erg langzaam.; Die Internetverbindung ist heute sehr langsam.
+nl-tc-0045; Verbindung (keine Verbindung zum Internet); de verbinding; ; A2; Technik/Computer/Internet; De internetverbinding is vandaag erg langzaam.; Die Internetverbindung ist heute sehr langsam.
 nl-tc-0046; verbinden; verbinden; koppelen, aansluiten; A2; Technik/Computer/Internet; Je moet de laptop met de printer verbinden.; Du musst den Laptop mit dem Drucker verbinden.
 nl-tc-0047; WLAN; de wifi; het draadloze netwerk; A2; Technik/Computer/Internet, Reisen/Urlaub/Unterkunft; Het hotel heeft gratis wifi in elke kamer.; Das Hotel hat kostenloses WLAN in jedem Zimmer.
 nl-tc-0048; Akku; de accu; de batterij; A2; Technik/Computer/Smartphone; Mijn accu gaat bijna twee dagen mee.; Mein Akku hält fast zwei Tage.
@@ -53,12 +53,12 @@ nl-tc-0050; funktionieren; werken; functioneren; A2; Technik/Computer/Geräte; D
 nl-tc-0051; Software; de software; ; B1; Technik/Computer/Software; Het bedrijf ontwikkelt software voor kleine ondernemingen.; Die Firma entwickelt Software für kleine Unternehmen.
 nl-tc-0052; Hardware; de hardware; ; B1; Technik/Computer/Hardware; Goede hardware is belangrijk voor moderne games.; Gute Hardware ist wichtig für moderne Spiele.
 nl-tc-0053; Festplatte; de harde schijf; ; B1; Technik/Computer/Hardware; Mijn harde schijf is alweer bijna vol.; Meine Festplatte ist schon wieder fast voll.
-nl-tc-0054; Speicher (Computer); het geheugen; de opslag; B1; Technik/Computer/Hardware; De telefoon heeft niet meer genoeg geheugen.; Das Handy hat nicht mehr genug Speicher.
+nl-tc-0054; Speicher (der Speicher des Computers); het geheugen; de opslag; B1; Technik/Computer/Hardware; De telefoon heeft niet meer genoeg geheugen.; Das Handy hat nicht mehr genug Speicher.
 nl-tc-0055; Betriebssystem; het besturingssysteem; ; B1; Technik/Computer/Software; Het nieuwe besturingssysteem draait veel sneller.; Das neue Betriebssystem läuft viel schneller.
 nl-tc-0056; Anwendung; de toepassing; de applicatie; B1; Technik/Computer/Software; Deze toepassing draait alleen op nieuwere computers.; Diese Anwendung läuft nur auf neueren Computern.
 nl-tc-0057; installieren; installeren; ; B1; Technik/Computer/Software; Je moet het programma eerst installeren.; Du musst das Programm zuerst installieren.
 nl-tc-0058; aktualisieren; updaten; bijwerken, actualiseren; B1; Technik/Computer/Software; Update de app alsjeblieft naar de nieuwste versie.; Bitte aktualisiere die App auf die neueste Version.
-nl-tc-0059; Einstellung (Technik); de instelling; ; B1; Technik/Computer/Software; Je kunt deze instelling in het menu veranderen.; Du kannst diese Einstellung im Menü ändern.
+nl-tc-0059; Einstellung (die Einstellungen am Handy); de instelling; ; B1; Technik/Computer/Software; Je kunt deze instelling in het menu veranderen.; Du kannst diese Einstellung im Menü ändern.
 nl-tc-0060; Virus; het virus; ; B1; Technik/Computer/Sicherheit; Een virus kan belangrijke bestanden snel vernietigen.; Ein Virus kann wichtige Dateien schnell zerstören.
 nl-tc-0061; Sicherheit; de veiligheid; de beveiliging; B1; Technik/Computer/Sicherheit; Veiligheid is op internet erg belangrijk.; Sicherheit ist im Internet sehr wichtig.
 nl-tc-0062; sicher; veilig; beveiligd; B1; Technik/Computer/Sicherheit; Kies een veilig wachtwoord met veel tekens.; Wähle ein sicheres Passwort mit vielen Zeichen.

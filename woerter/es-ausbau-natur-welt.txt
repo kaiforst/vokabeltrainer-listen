@@ -5,14 +5,14 @@ es-xc-0002; Lamm; el cordero; ; A2; Natur/Tiere/Haustiere; En primavera los cord
 es-xc-0003; Welpe; el cachorro; ; A2; Natur/Tiere/Haustiere; Nuestro cachorro nuevo muerde todo lo que encuentra.; Unser neuer Welpe kaut auf allem herum, was er findet.
 es-xc-0004; Kätzchen; el gatito; ; A2; Natur/Tiere/Haustiere; El gatito está jugando con un ovillo de lana.; Das Kätzchen spielt mit einem Wollknäuel.
 es-xc-0005; Küken; el pollito; el polluelo; B1; Natur/Tiere/Haustiere; Esta mañana han salido del huevo seis pollitos amarillos.; Heute Morgen sind sechs gelbe Küken geschlüpft.
-es-xc-0006; Hahn (Tier); el gallo; ; A2; Natur/Tiere/Haustiere; El gallo despierta a toda la granja a las cinco.; Der Hahn weckt um fünf den ganzen Hof.
+es-xc-0006; Hahn (der Hahn kräht); el gallo; ; A2; Natur/Tiere/Haustiere; El gallo despierta a toda la granja a las cinco.; Der Hahn weckt um fünf den ganzen Hof.
 es-xc-0007; Stier; el toro; ; B1; Natur/Tiere/Haustiere; Nunca entres en un prado donde haya un toro.; Geh nie auf eine Weide, auf der ein Stier steht.
 es-xc-0008; Gans; el ganso; la oca; B1; Natur/Tiere/Haustiere; Un ganso nos persiguió por todo el prado.; Eine Gans hat uns über die Wiese gejagt.
 es-xc-0009; Truthahn; el pavo; ; B1; Natur/Tiere/Haustiere; Muchas familias comen pavo en Navidad.; Viele Familien essen an Weihnachten Truthahn.
 es-xc-0010; Hamster; el hámster; ; A2; Natur/Tiere/Haustiere; Mi hámster duerme todo el día y corre toda la noche.; Mein Hamster schläft den ganzen Tag und rennt die ganze Nacht.
 es-xc-0011; Meerschweinchen; la cobaya; el conejillo de Indias; A2; Natur/Tiere/Haustiere; Los niños dan de comer a la cobaya cada mañana.; Die Kinder füttern jeden Morgen das Meerschweinchen.
 es-xc-0012; Goldfisch; el pez de colores; ; A2; Natur/Tiere/Haustiere; Dos peces de colores nadan en la pecera de su escritorio.; Zwei Goldfische schwimmen im Glas auf ihrem Schreibtisch.
-es-xc-0013; Pony (Tier); el poni; ; A2; Natur/Tiere/Haustiere; Mi hermana pequeña monta en poni todos los sábados.; Meine kleine Schwester reitet jeden Samstag auf einem Pony.
+es-xc-0013; Pony (auf einem Pony reiten); el poni; ; A2; Natur/Tiere/Haustiere; Mi hermana pequeña monta en poni todos los sábados.; Meine kleine Schwester reitet jeden Samstag auf einem Pony.
 es-xc-0014; Käfig; la jaula; ; B1; Natur/Tiere/Haustiere; El pájaro canta en su jaula junto a la ventana.; Der Vogel singt in seinem Käfig am Fenster.
 es-xc-0015; Stall; el establo; la cuadra; B1; Natur/Tiere/Haustiere; Los caballos pasan la noche en el establo.; Die Pferde verbringen die Nacht im Stall.
 es-xc-0016; Tierarzt; el veterinario; la veterinaria; A2; Natur/Tiere/Haustiere; Tenemos que llevar al perro al veterinario.; Wir müssen mit dem Hund zum Tierarzt.
@@ -48,14 +48,14 @@ es-xc-0045; Delfin; el delfín; ; A2; Natur/Tiere/Meerestiere; Unos delfines nad
 es-xc-0046; Hai; el tiburón; ; A2; Natur/Tiere/Meerestiere; La mayoría de los tiburones no son peligrosos para las personas.; Die meisten Haie sind für Menschen nicht gefährlich.
 es-xc-0047; Tintenfisch; el calamar; la sepia, el pulpo; B2; Natur/Tiere/Meerestiere; Un calamar puede cambiar de color en segundos.; Ein Tintenfisch kann in Sekunden seine Farbe ändern.
 es-xc-0048; Qualle; la medusa; ; B2; Natur/Tiere/Meerestiere; Cuidado, hoy hay medusas en el agua.; Pass auf, heute sind Quallen im Wasser.
-es-xc-0049; Muschel (Schale); la concha; ; B1; Natur/Tiere/Meerestiere; Los niños recogieron conchas en la playa.; Die Kinder haben am Strand Muscheln gesammelt.
+es-xc-0049; Muschel (Muscheln am Strand sammeln); la concha; ; B1; Natur/Tiere/Meerestiere; Los niños recogieron conchas en la playa.; Die Kinder haben am Strand Muscheln gesammelt.
 es-xc-0050; Seestern; la estrella de mar; ; B2; Natur/Tiere/Meerestiere; Encontramos una estrella de mar en una poza entre las rocas.; Wir haben in einem Becken zwischen den Felsen einen Seestern gefunden.
 es-xc-0051; Pinguin; el pingüino; ; A2; Natur/Tiere/Vögel; Los pingüinos no pueden volar, pero nadan muy bien.; Pinguine können nicht fliegen, aber sie schwimmen sehr gut.
 es-xc-0052; Spatz; el gorrión; ; B2; Natur/Tiere/Vögel; Un gorrión picotea migas debajo de nuestra mesa.; Ein Spatz pickt unter unserem Tisch Krümel auf.
 es-xc-0053; Amsel; el mirlo; ; B2; Natur/Tiere/Vögel; Cada tarde un mirlo canta en nuestro tejado.; Jeden Abend singt eine Amsel auf unserem Dach.
 es-xc-0054; Rabe; el cuervo; ; B2; Natur/Tiere/Vögel; Un gran cuervo negro estaba posado en la valla.; Ein großer schwarzer Rabe saß auf dem Zaun.
 es-xc-0055; Krähe; la corneja; ; B2; Natur/Tiere/Vögel; Las cornejas hacen mucho ruido esta mañana.; Die Krähen machen heute Morgen viel Lärm.
-es-xc-0056; Strauß (Vogel); el avestruz; ; B1; Natur/Tiere/Vögel; Un avestruz puede correr más rápido que un caballo.; Ein Strauß kann schneller laufen als ein Pferd.
+es-xc-0056; Strauß (der Vogel Strauß); el avestruz; ; B1; Natur/Tiere/Vögel; Un avestruz puede correr más rápido que un caballo.; Ein Strauß kann schneller laufen als ein Pferd.
 es-xc-0057; Flamingo; el flamenco; ; B1; Natur/Tiere/Vögel; Los flamencos rosas se sostenían sobre una pata en el lago.; Die rosa Flamingos standen auf einem Bein im See.
 es-xc-0058; Storch; la cigüeña; ; B2; Natur/Tiere/Vögel; Una cigüeña ha hecho su nido en el tejado de la iglesia.; Ein Storch hat sein Nest auf dem Kirchendach gebaut.
 es-xc-0059; zwitschern; piar; gorjear, trinar; C1; Natur/Tiere/Vögel; Los pájaros empiezan a piar antes de que salga el sol.; Die Vögel fangen an zu zwitschern, bevor die Sonne aufgeht.
@@ -70,8 +70,8 @@ es-xc-0067; Zecke; la garrapata; ; B2; Natur/Tiere/Insekten; Tras un paseo por e
 es-xc-0068; Motte; la polilla; ; B2; Natur/Tiere/Insekten; Una polilla volaba alrededor de la lámpara.; Eine Motte flog um die Lampe herum.
 es-xc-0069; Kakerlake; la cucaracha; ; B2; Natur/Tiere/Insekten; La cocina del hotel estaba llena de cucarachas.; Die Hotelküche war voller Kakerlaken.
 es-xc-0070; Ungeziefer; los bichos; las alimañas; C1; Natur/Tiere/Insekten; El viejo granero estaba lleno de bichos.; Die alte Scheune war voller Ungeziefer.
-es-xc-0071; summen (Insekt); zumbar; ; B1; Natur/Tiere/Insekten; Las abejas zumban alrededor del manzano.; Bienen summen um den Apfelbaum.
-es-xc-0072; stechen (Insekt); picar; ; B1; Natur/Tiere/Insekten; En el jardín me ha picado una abeja.; Im Garten hat mich eine Biene gestochen.
+es-xc-0071; summen (die Biene summt); zumbar; ; B1; Natur/Tiere/Insekten; Las abejas zumban alrededor del manzano.; Bienen summen um den Apfelbaum.
+es-xc-0072; stechen (eine Biene sticht); picar; ; B1; Natur/Tiere/Insekten; En el jardín me ha picado una abeja.; Im Garten hat mich eine Biene gestochen.
 es-xc-0073; Spinnennetz; la telaraña; ; B1; Natur/Tiere/Insekten; En el rincón hay una telaraña enorme.; In der Ecke hängt ein riesiges Spinnennetz.
 es-xc-0074; Rose; la rosa; ; A1; Natur/Pflanzen; Le regaló una rosa roja por su cumpleaños.; Er hat ihr zum Geburtstag eine rote Rose geschenkt.
 es-xc-0075; Tulpe; el tulipán; ; B1; Natur/Pflanzen; En abril los tulipanes del parque empiezan a florecer.; Im April beginnen die Tulpen im Park zu blühen.
@@ -96,7 +96,7 @@ es-xc-0093; Laub; las hojas; el follaje; B2; Natur/Pflanzen; En otoño barremos 
 es-xc-0094; Pollen; el polen; ; B2; Natur/Pflanzen; En mayo hay mucho polen en el aire.; Im Mai ist viel Pollen in der Luft.
 es-xc-0095; Efeu; la hiedra; ; B2; Natur/Pflanzen; La hiedra ha cubierto todo el viejo muro.; Efeu hat die ganze alte Mauer überwuchert.
 es-xc-0096; Scheune; el granero; el pajar; B2; Natur/Landwirtschaft; El granjero guarda el heno en el viejo granero.; Der Bauer lagert das Heu in der alten Scheune.
-es-xc-0097; Weide (Wiese); el pasto; el prado; C1; Natur/Landwirtschaft; Las vacas pasan el verano en el pasto.; Die Kühe verbringen den Sommer auf der Weide.
+es-xc-0097; Weide (Kühe auf der Weide); el pasto; el prado; C1; Natur/Landwirtschaft; Las vacas pasan el verano en el pasto.; Die Kühe verbringen den Sommer auf der Weide.
 es-xc-0098; Ernte; la cosecha; ; B1; Natur/Landwirtschaft; La lluvia llegó justo antes de la cosecha.; Der Regen kam kurz vor der Ernte.
 es-xc-0099; Getreide; el cereal; los cereales, el grano; B2; Natur/Landwirtschaft; En la región se cultivan sobre todo cereales y patatas.; In der Region werden vor allem Getreide und Kartoffeln angebaut.
 es-xc-0100; Weizen; el trigo; ; B1; Natur/Landwirtschaft; El pan se hace casi siempre con trigo.; Brot wird meistens aus Weizen gemacht.
@@ -111,7 +111,7 @@ es-xc-0108; Felsen; la roca; ; B1; Natur/Landschaft; Nos subimos a una gran roca
 es-xc-0109; Sand; la arena; ; A1; Natur/Landschaft; La arena de esta playa es casi blanca.; Der Sand an diesem Strand ist fast weiß.
 es-xc-0110; Düne; la duna; ; B2; Natur/Landschaft; Por favor, no caminen sobre las dunas.; Bitte nicht auf den Dünen laufen.
 es-xc-0111; Vulkan; el volcán; ; B1; Natur/Landschaft; El volcán entró en erupción por última vez hace cien años.; Der Vulkan ist vor hundert Jahren zuletzt ausgebrochen.
-es-xc-0112; Quelle (Wasser); el manantial; la fuente; B2; Natur/Landschaft; El río nace en un pequeño manantial entre las colinas.; Der Fluss beginnt an einer kleinen Quelle in den Hügeln.
+es-xc-0112; Quelle (Wasser aus der Quelle); el manantial; la fuente; B2; Natur/Landschaft; El río nace en un pequeño manantial entre las colinas.; Der Fluss beginnt an einer kleinen Quelle in den Hügeln.
 es-xc-0113; Dschungel; la jungla; la selva; B1; Natur/Landschaft; En la jungla viven monos y loros.; Im Dschungel leben Affen und Papageien.
 es-xc-0114; Urwald; la selva virgen; el bosque primario; B2; Natur/Landschaft; Gran parte de la selva virgen ha sido talada.; Große Teile des Urwalds wurden abgeholzt.
 es-xc-0115; Bucht; la bahía; la cala; B1; Natur/Landschaft; Nuestro hotel está en una pequeña bahía tranquila.; Unser Hotel liegt in einer ruhigen kleinen Bucht.
@@ -120,7 +120,7 @@ es-xc-0117; Ozean; el océano; ; A2; Natur/Landschaft; El Pacífico es el océan
 es-xc-0118; Horizont; el horizonte; ; B1; Natur/Landschaft; Un barco apareció en el horizonte.; Am Horizont tauchte ein Schiff auf.
 es-xc-0119; Landschaft; el paisaje; ; B1; Natur/Landschaft; El paisaje de Asturias es salvaje y precioso.; Die Landschaft in Asturien ist wild und schön.
 es-xc-0120; Ebbe; la marea baja; la bajamar; B2; Natur/Landschaft; Con la marea baja se puede ir andando a la isla.; Bei Ebbe kann man zur Insel laufen.
-es-xc-0121; Flut (Gezeiten); la marea alta; la pleamar; B2; Natur/Landschaft; Con la marea alta la playa casi desaparece.; Bei Flut verschwindet der Strand fast ganz.
+es-xc-0121; Flut (Ebbe und Flut); la marea alta; la pleamar; B2; Natur/Landschaft; Con la marea alta la playa casi desaparece.; Bei Flut verschwindet der Strand fast ganz.
 es-xc-0122; Strömung; la corriente; ; B2; Natur/Landschaft; No nades aquí, la corriente es demasiado fuerte.; Schwimm hier nicht, die Strömung ist zu stark.
 es-xc-0123; Korallenriff; el arrecife de coral; ; B2; Natur/Landschaft; Fuimos a bucear a un arrecife de coral.; Wir sind an einem Korallenriff tauchen gegangen.
 es-xc-0124; Eisberg; el iceberg; ; B1; Natur/Landschaft; El Titanic chocó con un iceberg en 1912.; Die Titanic stieß 1912 mit einem Eisberg zusammen.
@@ -242,8 +242,8 @@ es-xc-0239; Sonnenschein; la luz del sol; el sol; A2; Natur/Umwelt/Wetter; En va
 es-xc-0240; Unwetter; el temporal; la tormenta; B2; Natur/Umwelt/Wetter; El temporal provocó inundaciones en el sur.; Das Unwetter hat im Süden Überschwemmungen verursacht.
 es-xc-0241; Wetterbericht; el parte meteorológico; el pronóstico del tiempo, el informe meteorológico; A2; Natur/Umwelt/Wetter; Según el parte meteorológico, mañana lloverá.; Laut Wetterbericht regnet es morgen.
 es-xc-0242; Thermometer; el termómetro; ; B1; Natur/Umwelt/Wetter; El termómetro marca diez grados bajo cero.; Das Thermometer zeigt minus zehn Grad.
-es-xc-0243; Schatten (kühler Ort); la sombra; ; A2; Natur/Umwelt/Wetter; Sentémonos a la sombra, aquí hace demasiado calor.; Lass uns in den Schatten setzen, hier ist es zu heiß.
-es-xc-0244; Schatten (Umriss); la sombra; ; B1; Natur/Umwelt/Wetter; Por la tarde nuestras sombras se vuelven muy largas.; Am Abend werden unsere Schatten sehr lang.
+es-xc-0243; Schatten (im Schatten sitzen); la sombra; ; A2; Natur/Umwelt/Wetter; Sentémonos a la sombra, aquí hace demasiado calor.; Lass uns in den Schatten setzen, hier ist es zu heiß.
+es-xc-0244; Schatten (einen Schatten werfen); la sombra; ; B1; Natur/Umwelt/Wetter; Por la tarde nuestras sombras se vuelven muy largas.; Am Abend werden unsere Schatten sehr lang.
 es-xc-0245; donnern; tronar; ; B1; Natur/Umwelt/Wetter; Tronó toda la noche y nadie pudo dormir.; Es hat die ganze Nacht gedonnert, und keiner konnte schlafen.
 es-xc-0246; hageln; granizar; ; B2; Natur/Umwelt/Wetter; En pleno verano empezó a granizar de repente.; Mitten im Sommer fing es plötzlich an zu hageln.
 es-xc-0247; tauen; derretirse; deshelarse; B2; Natur/Umwelt/Wetter; La nieve se está derritiendo y los caminos están mojados.; Der Schnee taut, und die Wege sind nass.
@@ -327,12 +327,12 @@ es-xc-0324; Reihenhaus; la casa adosada; el adosado; B2; Alltag/Stadt/Gebäude; 
 es-xc-0325; Einfamilienhaus; la casa unifamiliar; el chalé; B2; Alltag/Stadt/Gebäude; Muchas familias sueñan con una casa unifamiliar con jardín.; Viele Familien träumen von einem Einfamilienhaus mit Garten.
 es-xc-0326; Wohnblock; el bloque de pisos; ; B2; Alltag/Stadt/Gebäude; Crecieron en un gran bloque de pisos.; Sie sind in einem großen Wohnblock aufgewachsen.
 es-xc-0327; Abriss; la demolición; el derribo; C1; Alltag/Stadt/Gebäude; La demolición de la vieja fábrica empieza el año que viene.; Der Abriss der alten Fabrik beginnt nächstes Jahr.
-es-xc-0328; Botschaft (Vertretung); la embajada; ; B1; Alltag/Stadt/Gebäude; En la embajada te pueden hacer un pasaporte nuevo.; Einen neuen Pass bekommt man bei der Botschaft.
+es-xc-0328; Botschaft (die deutsche Botschaft); la embajada; ; B1; Alltag/Stadt/Gebäude; En la embajada te pueden hacer un pasaporte nuevo.; Einen neuen Pass bekommt man bei der Botschaft.
 es-xc-0329; Marktplatz; la plaza del mercado; ; A2; Alltag/Stadt/Straßen & Plätze; Los sábados hay mercadillo en la plaza del mercado.; Samstags ist Markt auf dem Marktplatz.
 es-xc-0330; Gasse; el callejón; la callejuela; B2; Alltag/Stadt/Straßen & Plätze; Nos perdimos en los estrechos callejones del casco antiguo.; Wir haben uns in den engen Gassen der Altstadt verlaufen.
 es-xc-0331; Hauptstraße; la calle principal; la calle mayor; A2; Alltag/Stadt/Straßen & Plätze; La panadería está en la calle principal, al lado del banco.; Die Bäckerei ist an der Hauptstraße neben der Bank.
 es-xc-0332; Seitenstraße; la calle lateral; la calle secundaria; B1; Alltag/Stadt/Straßen & Plätze; Es más tranquilo aparcar en una calle lateral.; In einer Seitenstraße parkt man ruhiger.
-es-xc-0333; Sackgasse (Straße); la calle sin salida; el callejón sin salida; B2; Alltag/Stadt/Straßen & Plätze; Vivimos al final de una tranquila calle sin salida.; Wir wohnen am Ende einer ruhigen Sackgasse.
+es-xc-0333; Sackgasse (in einer Sackgasse wohnen); la calle sin salida; el callejón sin salida; B2; Alltag/Stadt/Straßen & Plätze; Vivimos al final de una tranquila calle sin salida.; Wir wohnen am Ende einer ruhigen Sackgasse.
 es-xc-0334; Straßenlaterne; la farola; ; B2; Alltag/Stadt/Straßen & Plätze; Las farolas se encienden a las seis.; Die Straßenlaternen gehen um sechs Uhr an.
 es-xc-0335; Bürgersteig; la acera; ; B1; Alltag/Stadt/Straßen & Plätze; Por favor, no vayas en bici por la acera.; Bitte fahr nicht mit dem Fahrrad auf dem Bürgersteig.
 es-xc-0336; Hausnummer; el número de la casa; el número del portal; A2; Alltag/Stadt/Straßen & Plätze; ¿Cuál es el número de tu casa?; Wie ist deine Hausnummer?
@@ -373,8 +373,8 @@ es-xc-0370; E-Roller; el patinete eléctrico; ; B1; Reisen/Verkehr/Fahrrad; Pued
 es-xc-0371; Radtour; la excursión en bicicleta; la ruta en bici; A2; Reisen/Verkehr/Fahrrad; El domingo hicimos una larga excursión en bicicleta junto al río.; Am Sonntag haben wir eine lange Radtour am Fluss entlang gemacht.
 es-xc-0372; Hupe; el claxon; la bocina; B1; Reisen/Verkehr/Auto; El conductor de detrás tocó el claxon.; Der Fahrer hinter uns drückte auf die Hupe.
 es-xc-0373; Lenkrad; el volante; ; B1; Reisen/Verkehr/Auto; En Gran Bretaña el volante está a la derecha.; In Großbritannien ist das Lenkrad rechts.
-es-xc-0374; lenken (Auto); dirigir; guiar; B1; Reisen/Verkehr/Auto; Sobre el hielo cuesta mucho dirigir el coche.; Auf Eis ist es schwer, das Auto zu lenken.
-es-xc-0375; Gang (Auto); la marcha; ; B2; Reisen/Verkehr/Auto; Mete la primera marcha y arranca despacio.; Leg den ersten Gang ein und fahr langsam los.
+es-xc-0374; lenken (das Auto lenken); dirigir; guiar; B1; Reisen/Verkehr/Auto; Sobre el hielo cuesta mucho dirigir el coche.; Auf Eis ist es schwer, das Auto zu lenken.
+es-xc-0375; Gang (in den zweiten Gang schalten); la marcha; ; B2; Reisen/Verkehr/Auto; Mete la primera marcha y arranca despacio.; Leg den ersten Gang ein und fahr langsam los.
 es-xc-0376; Windschutzscheibe; el parabrisas; ; B2; Reisen/Verkehr/Auto; Una piedra ha rajado el parabrisas.; Ein Stein hat die Windschutzscheibe beschädigt.
 es-xc-0377; Scheinwerfer; el faro; ; B2; Reisen/Verkehr/Auto; Enciende los faros, que está oscureciendo.; Mach die Scheinwerfer an, es wird dunkel.
 es-xc-0378; rückwärts fahren; dar marcha atrás; ; B1; Reisen/Verkehr/Auto; Dio marcha atrás con cuidado para salir del garaje.; Sie ist vorsichtig rückwärts aus der Garage gefahren.
@@ -401,7 +401,7 @@ es-xc-0398; Auffahrunfall; la colisión por alcance; el alcance; C1; Reisen/Verk
 es-xc-0399; Parklücke; el sitio para aparcar; el hueco para aparcar; B1; Reisen/Verkehr/Straße & Regeln; Tardamos veinte minutos en encontrar sitio para aparcar.; Wir haben zwanzig Minuten gebraucht, um eine Parklücke zu finden.
 es-xc-0400; Gegenverkehr; el tráfico en sentido contrario; ; B2; Reisen/Verkehr/Straße & Regeln; No adelantes aquí, hay demasiado tráfico en sentido contrario.; Überhol hier nicht, es gibt zu viel Gegenverkehr.
 es-xc-0401; Rastplatz; el área de descanso; ; B2; Reisen/Verkehr/Straße & Regeln; Paremos en la próxima área de descanso a tomar un café.; Lass uns am nächsten Rastplatz anhalten und einen Kaffee trinken.
-es-xc-0402; Abkürzung (Weg); el atajo; ; B1; Reisen/Verkehr/Wegbeschreibung; Cogimos un atajo por el parque.; Wir haben eine Abkürzung durch den Park genommen.
+es-xc-0402; Abkürzung (eine Abkürzung nehmen); el atajo; ; B1; Reisen/Verkehr/Wegbeschreibung; Cogimos un atajo por el parque.; Wir haben eine Abkürzung durch den Park genommen.
 es-xc-0403; Arbeitsweg; el trayecto al trabajo; el camino al trabajo; B2; Reisen/Verkehr/Straße & Regeln; Mi trayecto al trabajo dura cuarenta minutos en tren.; Mein Arbeitsweg dauert mit dem Zug vierzig Minuten.
 es-xc-0404; Reisebus; el autocar; ; B1; Reisen/Verkehr/Bus & Bahn; Toda la clase fue a Madrid en autocar.; Die ganze Klasse ist mit dem Reisebus nach Madrid gefahren.
 es-xc-0405; Fernbus; el autobús de largo recorrido; el autocar de largo recorrido; B1; Reisen/Verkehr/Bus & Bahn; El autobús de largo recorrido es más barato que el tren.; Der Fernbus ist billiger als der Zug.
@@ -414,7 +414,7 @@ es-xc-0411; Hauptbahnhof; la estación central; la estación principal; A2; Reis
 es-xc-0412; Sitzplatzreservierung; la reserva de asiento; ; B1; Reisen/Verkehr/Bus & Bahn; En Navidad necesitas sin falta una reserva de asiento.; An Weihnachten braucht man unbedingt eine Sitzplatzreservierung.
 es-xc-0413; erste Klasse; la primera clase; ; A2; Reisen/Verkehr/Bus & Bahn; Nos dimos un capricho y viajamos en primera clase.; Wir haben uns etwas gegönnt und sind erste Klasse gefahren.
 es-xc-0414; Busfahrer; el conductor de autobús; la conductora de autobús; A2; Reisen/Verkehr/Bus & Bahn; El conductor del autobús me esperó en la parada.; Der Busfahrer hat an der Haltestelle auf mich gewartet.
-es-xc-0415; Schalter (Bahnhof); la taquilla; la ventanilla; B1; Reisen/Verkehr/Bus & Bahn; Puedes comprar el billete en la taquilla o por internet.; Eine Fahrkarte kann man am Schalter oder online kaufen.
+es-xc-0415; Schalter (Fahrkarten am Schalter); la taquilla; la ventanilla; B1; Reisen/Verkehr/Bus & Bahn; Puedes comprar el billete en la taquilla o por internet.; Eine Fahrkarte kann man am Schalter oder online kaufen.
 es-xc-0416; Gepäckband; la cinta de equipajes; la cinta de equipaje; B2; Reisen/Urlaub/Flughafen; Esperamos media hora en la cinta de equipajes.; Wir haben eine halbe Stunde am Gepäckband gewartet.
 es-xc-0417; Flugticket; el billete de avión; ; A2; Reisen/Urlaub/Flughafen; Los billetes de avión fueron más baratos de lo que esperábamos.; Die Flugtickets waren billiger als erwartet.
 es-xc-0418; Fluggesellschaft; la aerolínea; la compañía aérea; B1; Reisen/Urlaub/Flughafen; ¿Con qué aerolínea vuelas a Canarias?; Mit welcher Fluggesellschaft fliegst du auf die Kanaren?

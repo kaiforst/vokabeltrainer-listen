@@ -4,7 +4,7 @@ nl-kk-0001; Museum; het museum; ; A1; Kultur/Kunst & Museum; We hebben het museu
 nl-kk-0002; Bild; de afbeelding; het plaatje, het beeld, het schilderij; A1; Kultur/Kunst & Museum; Aan de muur hangt een mooie afbeelding van de zee.; An der Wand hängt ein schönes Bild vom Meer.
 nl-kk-0003; malen; schilderen; ; A1; Kultur/Kunst & Museum; Mijn dochter schildert graag kleurige bloemen.; Meine Tochter malt gern bunte Blumen.
 nl-kk-0004; Kunst; de kunst; ; A1; Kultur/Kunst & Museum; Moderne kunst is niet altijd makkelijk te begrijpen.; Moderne Kunst ist nicht immer leicht zu verstehen.
-nl-kk-0005; Farbe (Farbton); de kleur; ; A2; Kultur/Kunst & Museum; Blauw is mijn lievelingskleur op schilderijen.; Blau ist meine Lieblingsfarbe auf Gemälden.
+nl-kk-0005; Farbe (welche Farbe hat das?); de kleur; ; A2; Kultur/Kunst & Museum; Blauw is mijn lievelingskleur op schilderijen.; Blau ist meine Lieblingsfarbe auf Gemälden.
 nl-kk-0006; Künstler; de kunstenaar; ; A2; Kultur/Kunst & Museum; De jonge kunstenaar verkoopt zijn werken online.; Der junge Künstler verkauft seine Werke online.
 nl-kk-0007; zeichnen; tekenen; ; A2; Kultur/Kunst & Museum; Hij heeft op school geleerd gezichten te tekenen.; Er hat in der Schule gelernt, Gesichter zu zeichnen.
 nl-kk-0008; Zeichnung; de tekening; ; A2; Kultur/Kunst & Museum; Ze liet me een tekening van haar kat zien.; Sie zeigte mir eine Zeichnung ihrer Katze.
@@ -14,7 +14,7 @@ nl-kk-0011; Ausstellung; de tentoonstelling; de expositie; B1; Kultur/Kunst & Mu
 nl-kk-0012; Galerie; de galerie; ; B1; Kultur/Kunst & Museum; Een kleine galerie toont elke maand lokale kunstenaars.; Eine kleine Galerie zeigt jeden Monat lokale Künstler.
 nl-kk-0013; Skulptur; de sculptuur; het beeldhouwwerk; B1; Kultur/Kunst & Museum; De sculptuur in het park is van brons.; Die Skulptur im Park ist aus Bronze.
 nl-kk-0014; Porträt; het portret; ; B1; Kultur/Kunst & Museum; De koning gaf opdracht voor een portret van zijn gezin.; Der König gab ein Porträt seiner Familie in Auftrag.
-nl-kk-0015; Leinwand (Malerei); het doek; het canvas; B1; Kultur/Kunst & Museum; Ze spande een nieuw doek voor haar volgende werk.; Sie spannte eine neue Leinwand für ihr nächstes Werk.
+nl-kk-0015; Leinwand (auf Leinwand malen); het doek; het canvas; B1; Kultur/Kunst & Museum; Ze spande een nieuw doek voor haar volgende werk.; Sie spannte eine neue Leinwand für ihr nächstes Werk.
 nl-kk-0016; Kunstwerk; het kunstwerk; ; B1; Kultur/Kunst & Museum; Elk kunstwerk vertelt zijn eigen verhaal.; Jedes Kunstwerk erzählt seine eigene Geschichte.
 nl-kk-0017; Sammlung; de verzameling; de collectie; B1; Kultur/Kunst & Museum; Het museum bezit een beroemde verzameling oude munten.; Das Museum besitzt eine berühmte Sammlung alter Münzen.
 nl-kk-0018; Meisterwerk; het meesterwerk; ; B2; Kultur/Kunst & Museum; Critici noemen het schilderij een absoluut meesterwerk.; Kritiker nennen das Gemälde ein absolutes Meisterwerk.
@@ -38,19 +38,19 @@ nl-kk-0035; Bühne; het podium; het toneel; A2; Kultur/Theater & Film; De kinder
 nl-kk-0036; Komödie; de komedie; het blijspel; A2; Kultur/Theater & Film; We hebben tijdens de komedie veel gelachen.; Wir haben während der Komödie viel gelacht.
 nl-kk-0037; Eintrittskarte; het toegangskaartje; het kaartje, het entreekaartje; A2; Kultur/Theater & Film; Ik heb twee toegangskaartjes voor de avondvoorstelling gekocht.; Ich habe zwei Eintrittskarten für die Abendvorstellung gekauft.
 nl-kk-0038; Publikum; het publiek; ; B1; Kultur/Theater & Film; Het publiek klapte bijna tien minuten lang.; Das Publikum klatschte fast zehn Minuten lang.
-nl-kk-0039; Vorstellung (Theater); de voorstelling; ; B1; Kultur/Theater & Film; De laatste voorstelling was helemaal uitverkocht.; Die letzte Vorstellung war komplett ausverkauft.
+nl-kk-0039; Vorstellung (die Vorstellung beginnt); de voorstelling; ; B1; Kultur/Theater & Film; De laatste voorstelling was helemaal uitverkocht.; Die letzte Vorstellung war komplett ausverkauft.
 nl-kk-0040; Regisseur; de regisseur; ; B1; Kultur/Theater & Film; De regisseur legde de scène uit aan de acteurs.; Der Regisseur erklärte den Schauspielern die Szene.
 nl-kk-0041; Dramaturgie; de dramaturgie; ; C2; Kultur/Theater & Film; De dramaturgie van het stuk bouwt de spanning heel langzaam op.; Die Dramaturgie des Stücks baut die Spannung sehr langsam auf.
-nl-kk-0042; Probe (Theater); de repetitie; ; B1; Kultur/Theater & Film; De laatste repetitie duurde tot middernacht.; Die letzte Probe dauerte bis Mitternacht.
+nl-kk-0042; Probe (die Probe vor der Premiere); de repetitie; ; B1; Kultur/Theater & Film; De laatste repetitie duurde tot middernacht.; Die letzte Probe dauerte bis Mitternacht.
 nl-kk-0043; Applaus; het applaus; ; B1; Kultur/Theater & Film; De zangeres bedankte het publiek voor het hartelijke applaus.; Die Sängerin dankte dem Publikum für den herzlichen Applaus.
-nl-kk-0044; Vorhang (Theater); het doek; het gordijn; B1; Kultur/Theater & Film; Het doek ging op en het stuk begon.; Der Vorhang hob sich und das Stück begann.
+nl-kk-0044; Vorhang (der Vorhang fällt); het doek; het gordijn; B1; Kultur/Theater & Film; Het doek ging op en het stuk begon.; Der Vorhang hob sich und das Stück begann.
 nl-kk-0045; Tragödie; de tragedie; het treurspel; B1; Kultur/Theater & Film; De tragedie eindigt met de dood van de held.; Die Tragödie endet mit dem Tod des Helden.
 nl-kk-0046; Dokumentarfilm; de documentaire; ; B1; Kultur/Theater & Film; We hebben een documentaire over de diepzee gezien.; Wir haben einen Dokumentarfilm über die Tiefsee gesehen.
 nl-kk-0047; Drehbuch; het scenario; het script; B2; Kultur/Theater & Film; Ze schreef het scenario voor een bekroond drama.; Sie schrieb das Drehbuch für ein preisgekröntes Drama.
 nl-kk-0048; Hauptrolle; de hoofdrol; ; B2; Kultur/Theater & Film; Hij kreeg de hoofdrol in de nieuwe serie.; Er bekam die Hauptrolle in der neuen Serie.
 nl-kk-0049; Nebenrolle; de bijrol; ; B2; Kultur/Theater & Film; Zelfs in een bijrol maakte ze indruk op de critici.; Selbst in einer Nebenrolle beeindruckte sie die Kritiker.
 nl-kk-0050; Premiere; de première; ; B2; Kultur/Theater & Film; Veel sterren kwamen naar de première in München.; Viele Stars kamen zur Premiere nach München.
-nl-kk-0051; Besetzung (Film, Theater); de cast; de rolbezetting; B2; Kultur/Theater & Film; De film overtuigt met een uitstekende cast.; Der Film überzeugt mit einer hervorragenden Besetzung.
+nl-kk-0051; Besetzung (die Besetzung eines Films); de cast; de rolbezetting; B2; Kultur/Theater & Film; De film overtuigt met een uitstekende cast.; Der Film überzeugt mit einer hervorragenden Besetzung.
 nl-kk-0052; Spielfilm; de speelfilm; ; B2; Kultur/Theater & Film; Haar eerste speelfilm won meerdere internationale prijzen.; Ihr erster Spielfilm gewann mehrere internationale Preise.
 nl-kk-0053; Synchronisation; de nasynchronisatie; ; C1; Kultur/Theater & Film; In Duitsland is nasynchronisatie van buitenlandse films heel gebruikelijk.; In Deutschland ist die Synchronisation ausländischer Filme sehr verbreitet.
 nl-kk-0054; Bühnenbild; het decor; het toneelbeeld; C1; Kultur/Theater & Film; Het minimalistische decor richtte de aandacht op de acteurs.; Das minimalistische Bühnenbild lenkte die Aufmerksamkeit auf die Schauspieler.
@@ -70,16 +70,16 @@ nl-kk-0067; veröffentlichen; publiceren; uitgeven; B1; Kultur/Literatur; Ze wil
 nl-kk-0068; Übersetzung; de vertaling; ; B1; Kultur/Literatur; De Engelse vertaling verscheen twee jaar later.; Die englische Übersetzung erschien zwei Jahre später.
 nl-kk-0069; Figur; het personage; de figuur; B1; Kultur/Literatur; Het hoofdpersonage verandert in de loop van het verhaal volledig.; Die Hauptfigur verändert sich im Laufe der Geschichte völlig.
 nl-kk-0070; Kapitel; het hoofdstuk; ; A2; Kultur/Literatur; Ik heb het eerste hoofdstuk in de trein gelezen.; Ich habe das erste Kapitel im Zug gelesen.
-nl-kk-0071; Gattung (Literatur); het genre; ; C1; Kultur/Literatur; Het korte verhaal is een veeleisend literair genre.; Die Kurzgeschichte ist eine anspruchsvolle literarische Gattung.
+nl-kk-0071; Gattung (eine literarische Gattung); het genre; ; C1; Kultur/Literatur; Het korte verhaal is een veeleisend literair genre.; Die Kurzgeschichte ist eine anspruchsvolle literarische Gattung.
 nl-kk-0072; Sinnbild; het zinnebeeld; het symbool; C2; Kultur/Literatur; De witte duif dient als zinnebeeld van de vrede.; Die weiße Taube dient als Sinnbild des Friedens.
-nl-kk-0073; Handlung (Geschichte); de plot; de verhaallijn, de handeling; B2; Kultur/Literatur; De plot neemt verschillende verrassende wendingen.; Die Handlung nimmt mehrere überraschende Wendungen.
+nl-kk-0073; Handlung (die Handlung eines Films); de plot; de verhaallijn, de handeling; B2; Kultur/Literatur; De plot neemt verschillende verrassende wendingen.; Die Handlung nimmt mehrere überraschende Wendungen.
 nl-kk-0074; Lyrik; de poëzie; de lyriek; B2; Kultur/Literatur; Moderne poëzie kan vaak helemaal zonder rijm.; Moderne Lyrik kommt oft ganz ohne Reim aus.
 nl-kk-0075; Erzählung; het verhaal; de vertelling; B2; Kultur/Literatur; Het verhaal speelt zich af in een klein vissersdorp.; Die Erzählung spielt in einem kleinen Fischerdorf.
 nl-kk-0076; Sprichwort; het spreekwoord; het gezegde; B2; Kultur/Literatur; Een oud spreekwoord zegt dat de tijd alle wonden heelt.; Ein altes Sprichwort sagt, dass Zeit alle Wunden heilt.
 nl-kk-0077; Lesung; de lezing; de voordracht; B2; Kultur/Literatur; De auteur hield een lezing in de stadsbibliotheek.; Der Autor hielt eine Lesung in der Stadtbibliothek.
-nl-kk-0078; Auflage (Ausgabe); de oplage; de druk, de editie; C1; Kultur/Literatur; De eerste oplage was binnen een week uitverkocht.; Die erste Auflage war innerhalb einer Woche vergriffen.
+nl-kk-0078; Auflage (die zweite Auflage eines Buches); de oplage; de druk, de editie; C1; Kultur/Literatur; De eerste oplage was binnen een week uitverkocht.; Die erste Auflage war innerhalb einer Woche vergriffen.
 nl-kk-0079; Metapher; de metafoor; ; C1; Kultur/Literatur; De dichter gebruikt de zee als metafoor voor vrijheid.; Der Dichter benutzt das Meer als Metapher für Freiheit.
-nl-kk-0080; Nachlass (Erbe); de nalatenschap; het nagelaten werk; C2; Kultur/Literatur; Onderzoekers bestuderen de nalatenschap van de schrijver.; Forscher untersuchen den Nachlass des Schriftstellers.
+nl-kk-0080; Nachlass (der Nachlass eines Dichters); de nalatenschap; het nagelaten werk; C2; Kultur/Literatur; Onderzoekers bestuderen de nalatenschap van de schrijver.; Forscher untersuchen den Nachlass des Schriftstellers.
 nl-kk-0081; Musik; de muziek; ; A1; Kultur/Musik; Ik luister naar muziek op weg naar mijn werk.; Ich höre Musik auf dem Weg zur Arbeit.
 nl-kk-0082; Lied; het lied; het liedje; A1; Kultur/Musik; Dit lied was vorige zomer heel populair.; Dieses Lied war letzten Sommer sehr beliebt.
 nl-kk-0083; singen; zingen; ; A1; Kultur/Musik; De kinderen zingen elke ochtend een liedje.; Die Kinder singen jeden Morgen ein Lied.
@@ -110,7 +110,7 @@ nl-kk-0107; Kirche; de kerk; ; A2; Kultur/Architektur; De oude kerk staat in het
 nl-kk-0108; Turm; de toren; ; A2; Kultur/Architektur; Vanaf de toren zie je de hele stad.; Vom Turm aus sieht man die ganze Stadt.
 nl-kk-0109; Brücke; de brug; ; A2; Kultur/Architektur; De brug verbindt de twee stadsdelen.; Die Brücke verbindet die beiden Stadtteile.
 nl-kk-0110; Gebäude; het gebouw; ; A2; Kultur/Architektur; Dit gebouw is het hoogste van het land.; Dieses Gebäude ist das höchste im Land.
-nl-kk-0111; Schloss (Gebäude); het kasteel; het slot, het paleis; B1; Kultur/Architektur, Reisen/Urlaub/Sightseeing; Het kasteel op de heuvel trekt veel toeristen aan.; Das Schloss auf dem Hügel zieht viele Touristen an.
+nl-kk-0111; Schloss (ein Schloss besichtigen); het kasteel; het slot, het paleis; B1; Kultur/Architektur, Reisen/Urlaub/Sightseeing; Het kasteel op de heuvel trekt veel toeristen aan.; Das Schloss auf dem Hügel zieht viele Touristen an.
 nl-kk-0112; Architekt; de architect; ; B1; Kultur/Architektur; De architect ontwierp een modern schoolgebouw.; Der Architekt entwarf ein modernes Schulgebäude.
 nl-kk-0113; Architektur; de architectuur; ; B1; Kultur/Architektur; Ze studeert architectuur aan een universiteit in München.; Sie studiert Architektur an einer Universität in München.
 nl-kk-0114; Denkmal; het monument; het gedenkteken; B1; Kultur/Architektur; Het monument herinnert ons aan de slachtoffers van de oorlog.; Das Denkmal erinnert uns an die Opfer des Krieges.
@@ -125,7 +125,7 @@ nl-kk-0122; Kuppel; de koepel; ; B2; Kultur/Architektur; De gouden koepel glanst
 nl-kk-0123; Grundriss; de plattegrond; ; C1; Kultur/Architektur; De plattegrond toont vier kamers en twee badkamers.; Der Grundriss zeigt vier Zimmer und zwei Bäder.
 nl-kk-0124; Stadtplanung; de stadsplanning; de stedenbouw; C1; Kultur/Architektur; Goede stadsplanning maakt ruimte voor mensen, niet voor auto's.; Gute Stadtplanung schafft Raum für Menschen, nicht für Autos.
 nl-kk-0125; Gewölbe; het gewelf; ; C2; Kultur/Architektur; De oude wijnkelder heeft een indrukwekkend stenen gewelf.; Der alte Weinkeller hat ein beeindruckendes Steingewölbe.
-nl-kk-0126; Geschichte (Vergangenheit); de geschiedenis; ; A1; Kultur/Geschichte; Ik vind de Duitse geschiedenis heel interessant.; Ich finde die deutsche Geschichte sehr interessant.
+nl-kk-0126; Geschichte (die deutsche Geschichte); de geschiedenis; ; A1; Kultur/Geschichte; Ik vind de Duitse geschiedenis heel interessant.; Ich finde die deutsche Geschichte sehr interessant.
 nl-kk-0127; König; de koning; ; A2; Kultur/Geschichte; De koning woonde in een enorm paleis.; Der König lebte in einem riesigen Palast.
 nl-kk-0128; Königin; de koningin; ; A2; Kultur/Geschichte; De koningin zwaaide vanaf het balkon naar de mensen.; Die Königin winkte den Menschen vom Balkon zu.
 nl-kk-0129; Krieg; de oorlog; ; A2; Kultur/Geschichte; De oorlog duurde bijna dertig jaar.; Der Krieg dauerte fast dreißig Jahre.
@@ -143,7 +143,7 @@ nl-kk-0140; Archäologe; de archeoloog; ; B2; Kultur/Geschichte; De archeoloog v
 nl-kk-0141; Herrschaft; de heerschappij; het bewind; B2; Kultur/Geschichte; Onder zijn heerschappij groeide het rijk heel snel.; Unter seiner Herrschaft wuchs das Reich sehr schnell.
 nl-kk-0142; erobern; veroveren; ; B2; Kultur/Geschichte; De Romeinen probeerden de hele regio te veroveren.; Die Römer versuchten, die ganze Region zu erobern.
 nl-kk-0143; Niederlage; de nederlaag; ; B2; Kultur/Geschichte; De nederlaag maakte eindelijk een einde aan de lange oorlog.; Die Niederlage beendete endlich den langen Krieg.
-nl-kk-0144; Erbe (Kultur); het erfgoed; ; B2; Kultur/Geschichte; De oude binnenstad is deel van ons culturele erfgoed.; Die Altstadt ist Teil unseres kulturellen Erbes.
+nl-kk-0144; Erbe (das kulturelle Erbe); het erfgoed; ; B2; Kultur/Geschichte; De oude binnenstad is deel van ons culturele erfgoed.; Die Altstadt ist Teil unseres kulturellen Erbes.
 nl-kk-0145; Ausgrabung; de opgraving; ; C1; Kultur/Geschichte; De opgraving legde de muren van een Romeinse villa bloot.; Die Ausgrabung legte die Mauern einer römischen Villa frei.
 nl-kk-0146; Altertum; de oudheid; ; C1; Kultur/Geschichte; Al in de oudheid verbonden handelsroutes Europa en Azië.; Schon im Altertum verbanden Handelswege Europa und Asien.
 nl-kk-0147; Überlieferung; de overlevering; ; C1; Kultur/Geschichte; Volgens de overlevering werd de stad door monniken gesticht.; Der Überlieferung nach wurde die Stadt von Mönchen gegründet.

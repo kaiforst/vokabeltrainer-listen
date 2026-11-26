@@ -1,7 +1,7 @@
 # Niederländisch: Familie & Beziehungen
 id; Deutsch; Niederländisch; Weitere Antworten; Niveau; Themen; Beispiel Niederländisch; Beispiel Deutsch
 nl-fb-0001; Familie; de familie; het gezin; A1; Alltag/Familie/Verwandtschaft; Mijn familie woont in een kleine stad.; Meine Familie lebt in einer kleinen Stadt.
-nl-fb-0002; Mutter (Elternteil); de moeder; ; A1; Alltag/Familie/Verwandtschaft; Mijn moeder belt me elke zondagavond.; Meine Mutter ruft mich jeden Sonntagabend an.
+nl-fb-0002; Mutter (Vater und Mutter); de moeder; ; A1; Alltag/Familie/Verwandtschaft; Mijn moeder belt me elke zondagavond.; Meine Mutter ruft mich jeden Sonntagabend an.
 nl-fb-0003; Vater; de vader; ; A1; Alltag/Familie/Verwandtschaft; Zijn vader werkt op het vliegveld.; Sein Vater arbeitet am Flughafen.
 nl-fb-0004; Eltern; de ouders; ; A1; Alltag/Familie/Verwandtschaft; Mijn ouders zijn al dertig jaar getrouwd.; Meine Eltern sind seit dreißig Jahren verheiratet.
 nl-fb-0005; Kind; het kind; ; A1; Alltag/Familie/Verwandtschaft; Het kind speelt met de hond.; Das Kind spielt mit dem Hund.
@@ -40,8 +40,8 @@ nl-fb-0037; Alleinerziehende; de alleenstaande ouder; de alleenstaande moeder; B
 nl-fb-0038; Stammbaum; de stamboom; ; B2; Alltag/Familie/Verwandtschaft; Hij volgde zijn stamboom driehonderd jaar terug.; Er verfolgte seinen Stammbaum dreihundert Jahre zurück.
 nl-fb-0039; Verwandtschaft; de familie; de verwanten; C1; Alltag/Familie/Verwandtschaft; De hele familie kwam met Pasen bij elkaar.; Die ganze Verwandtschaft traf sich an Ostern.
 nl-fb-0040; Vormund; de voogd; ; C1; Alltag/Familie/Verwandtschaft; Na het ongeluk werd haar oom haar voogd.; Nach dem Unfall wurde ihr Onkel ihr Vormund.
-nl-fb-0041; Freund (Partner); de vriend; ; A1; Alltag/Familie/Partnerschaft; Haar vriend brengt haar elke vrijdag bloemen.; Ihr Freund bringt ihr jeden Freitag Blumen.
-nl-fb-0042; Freundin (Partnerin); de vriendin; ; A1; Alltag/Familie/Partnerschaft; Hij kookt vanavond voor zijn vriendin.; Er kocht heute Abend für seine Freundin.
+nl-fb-0041; Freund (mein fester Freund); de vriend; ; A1; Alltag/Familie/Partnerschaft; Haar vriend brengt haar elke vrijdag bloemen.; Ihr Freund bringt ihr jeden Freitag Blumen.
+nl-fb-0042; Freundin (meine feste Freundin); de vriendin; ; A1; Alltag/Familie/Partnerschaft; Hij kookt vanavond voor zijn vriendin.; Er kocht heute Abend für seine Freundin.
 nl-fb-0043; Liebe; de liefde; ; A1; Alltag/Familie/Partnerschaft; Liefde is het belangrijkste in het leven.; Liebe ist das Wichtigste im Leben.
 nl-fb-0044; lieben; houden van; liefhebben; A2; Alltag/Familie/Partnerschaft; Ik hou van je boven alles.; Ich liebe dich über alles.
 nl-fb-0045; Paar; het stel; het paar; A2; Alltag/Familie/Partnerschaft; Het jonge stel gaat samenwonen.; Das junge Paar zieht zusammen.
@@ -111,7 +111,7 @@ nl-fb-0108; Trauzeuge; de getuige; ; B2; Alltag/Familie/Lebensereignisse; Zijn b
 nl-fb-0109; Beerdigung; de begrafenis; de uitvaart; B2; Alltag/Familie/Lebensereignisse; Veel oude vrienden kwamen naar de begrafenis.; Viele alte Freunde kamen zur Beerdigung.
 nl-fb-0110; Trauer; de rouw; het verdriet; B2; Alltag/Familie/Lebensereignisse; Rouw heeft tijd en de steun van anderen nodig.; Trauer braucht Zeit und die Unterstützung anderer.
 nl-fb-0111; Ruhestand; het pensioen; ; B2; Alltag/Familie/Lebensereignisse; Mijn vader geniet van zijn welverdiende pensioen.; Mein Vater genießt seinen wohlverdienten Ruhestand.
-nl-fb-0112; Erbe (Nachlass); de erfenis; de nalatenschap; B2; Alltag/Familie/Lebensereignisse; De broers en zussen maakten ruzie over de erfenis van hun ouders.; Die Geschwister stritten über das Erbe ihrer Eltern.
+nl-fb-0112; Erbe (das Erbe der Großeltern); de erfenis; de nalatenschap; B2; Alltag/Familie/Lebensereignisse; De broers en zussen maakten ruzie over de erfenis van hun ouders.; Die Geschwister stritten über das Erbe ihrer Eltern.
 nl-fb-0113; Standesamt; de burgerlijke stand; het gemeentehuis, het stadhuis; B2; Alltag/Familie/Lebensereignisse; Je moet de geboorte aangeven bij de burgerlijke stand.; Du musst die Geburt beim Standesamt anmelden.
 nl-fb-0114; Trauung; de huwelijksceremonie; de huwelijksvoltrekking, de trouwceremonie; C1; Alltag/Familie/Lebensereignisse; De huwelijksceremonie vond plaats in het oude stadhuis.; Die Trauung fand im alten Rathaus statt.
 nl-fb-0115; Nachwuchs; de gezinsuitbreiding; het kroost, het nageslacht; C1; Alltag/Familie/Lebensereignisse; Het jonge stel verwacht in mei gezinsuitbreiding.; Das junge Paar erwartet im Mai Nachwuchs.
@@ -139,7 +139,7 @@ nl-fb-0136; sich vertragen; het weer goedmaken; ; B2; Alltag/Familie/Miteinander
 nl-fb-0137; beleidigen; beledigen; kwetsen; B2; Alltag/Familie/Miteinander; Hij wilde je neef niet beledigen.; Er wollte deinen Cousin nicht beleidigen.
 nl-fb-0138; Missverständnis; het misverstand; ; B2; Alltag/Familie/Miteinander; De hele ruzie was maar een dom misverstand.; Der ganze Streit war nur ein dummes Missverständnis.
 nl-fb-0139; respektieren; respecteren; ; B2; Alltag/Familie/Miteinander; Kinderen moeten leren andere meningen te respecteren.; Kinder sollten lernen, andere Meinungen zu respektieren.
-nl-fb-0140; schätzen (wertschätzen); waarderen; op prijs stellen; B2; Alltag/Familie/Miteinander; Ik waardeer je eerlijke advies zeer.; Ich schätze deinen ehrlichen Rat sehr.
+nl-fb-0140; schätzen (jemandes Hilfe schätzen); waarderen; op prijs stellen; B2; Alltag/Familie/Miteinander; Ik waardeer je eerlijke advies zeer.; Ich schätze deinen ehrlichen Rat sehr.
 nl-fb-0141; vernachlässigen; verwaarlozen; ; B2; Alltag/Familie/Miteinander; Hij verwaarloosde zijn vrienden in de drukke jaren.; Er vernachlässigte seine Freunde in den stressigen Jahren.
 nl-fb-0142; sich versöhnen; zich verzoenen; ; C1; Alltag/Familie/Miteinander; De broers verzoenden zich na vele jaren van stilzwijgen.; Die Brüder versöhnten sich nach vielen Jahren des Schweigens.
 nl-fb-0143; Mitgefühl; het medeleven; het mededogen, de compassie; C1; Alltag/Familie/Miteinander; Ze toonde veel medeleven met de rouwende familie.; Sie zeigte großes Mitgefühl für die trauernde Familie.

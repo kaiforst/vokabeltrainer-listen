@@ -2,7 +2,7 @@
 id; Deutsch; Niederländisch; Weitere Antworten; Niveau; Themen; Beispiel Niederländisch; Beispiel Deutsch
 nl-rc-0001; Geld; het geld; ; A1; Business/Rechnungswesen/Rechnung & Zahlung, Alltag/Einkaufen; Het bedrijf heeft geld nodig om zijn rekeningen te betalen.; Das Unternehmen braucht Geld, um seine Rechnungen zu bezahlen.
 nl-rc-0002; bezahlen; betalen; ; A1; Business/Rechnungswesen/Rechnung & Zahlung; Betaal de factuur alstublieft voor eind mei.; Bitte bezahlen Sie die Rechnung bis Ende Mai.
-nl-rc-0003; Preis (Kosten); de prijs; ; A1; Business/Rechnungswesen/Rechnung & Zahlung, Alltag/Einkaufen; De prijs van de nieuwe software is erg hoog.; Der Preis der neuen Software ist sehr hoch.
+nl-rc-0003; Preis (ein günstiger Preis); de prijs; ; A1; Business/Rechnungswesen/Rechnung & Zahlung, Alltag/Einkaufen; De prijs van de nieuwe software is erg hoog.; Der Preis der neuen Software ist sehr hoch.
 nl-rc-0004; kaufen; kopen; aanschaffen; A1; Business/Rechnungswesen/Rechnung & Zahlung; We willen nieuwe computers voor het kantoor kopen.; Wir wollen neue Computer für das Büro kaufen.
 nl-rc-0005; Konto; de rekening; de bankrekening; A1; Business/Rechnungswesen/Buchhaltung; Het geld kwam maandag op onze rekening binnen.; Das Geld kam am Montag auf unserem Konto an.
 nl-rc-0006; Rechnung; de factuur; de rekening; A2; Business/Rechnungswesen/Rechnung & Zahlung; We sturen de factuur direct na de levering.; Wir senden die Rechnung direkt nach der Lieferung.
@@ -16,7 +16,7 @@ nl-rc-0013; Kunde; de klant; ; A2; Business/Rechnungswesen/Rechnung & Zahlung; D
 nl-rc-0014; Lieferant; de leverancier; ; A2; Business/Rechnungswesen/Rechnung & Zahlung; Onze leverancier biedt goede prijzen en snelle levering.; Unser Lieferant bietet gute Preise und schnelle Lieferung.
 nl-rc-0015; Zahlung; de betaling; ; A2; Business/Rechnungswesen/Rechnung & Zahlung; We hebben uw betaling vorige week ontvangen, hartelijk dank.; Wir haben Ihre Zahlung letzte Woche erhalten, vielen Dank.
 nl-rc-0016; Bargeld; de contanten; het contante geld, de cash; A2; Business/Rechnungswesen/Rechnung & Zahlung; Veel bedrijven accepteren geen contant geld meer.; Viele Unternehmen akzeptieren kein Bargeld mehr.
-nl-rc-0017; Überweisung (Bank); de overschrijving; de overboeking, de bankoverschrijving; A2; Business/Rechnungswesen/Rechnung & Zahlung; Een betaling per overschrijving duurt een tot twee dagen.; Eine Zahlung per Überweisung dauert ein bis zwei Tage.
+nl-rc-0017; Überweisung (Geld per Überweisung); de overschrijving; de overboeking, de bankoverschrijving; A2; Business/Rechnungswesen/Rechnung & Zahlung; Een betaling per overschrijving duurt een tot twee dagen.; Eine Zahlung per Überweisung dauert ein bis zwei Tage.
 nl-rc-0018; Kreditkarte; de creditcard; ; A2; Business/Rechnungswesen/Rechnung & Zahlung; U kunt het hotel met uw creditcard betalen.; Sie können das Hotel mit Ihrer Kreditkarte bezahlen.
 nl-rc-0019; Rabatt; de korting; het rabat; A2; Business/Rechnungswesen/Rechnung & Zahlung; We geven een korting voor grote bestellingen.; Wir geben einen Rabatt für große Bestellungen.
 nl-rc-0020; Gewinn; de winst; ; A2; Business/Rechnungswesen/Bilanz & GuV; De winst steeg vorig jaar met tien procent.; Der Gewinn stieg im letzten Jahr um zehn Prozent.
@@ -51,7 +51,7 @@ nl-rc-0048; Beleg; de bon; het bewijsstuk, het boekingsstuk; B1; Business/Rechnu
 nl-rc-0049; Kostenstelle; de kostenplaats; ; B1; Business/Rechnungswesen/Controlling & Kennzahlen; Elke afdeling heeft een eigen kostenplaats in ons systeem.; Jede Abteilung hat eine eigene Kostenstelle in unserem System.
 nl-rc-0050; Gebühr; de vergoeding; de kosten, het tarief; B1; Business/Rechnungswesen/Rechnung & Zahlung; De bank rekent een kleine vergoeding voor elke overschrijving.; Die Bank berechnet eine kleine Gebühr für jede Überweisung.
 nl-rc-0051; berechnen; berekenen; uitrekenen; B1; Business/Rechnungswesen/Controlling & Kennzahlen; We berekenen de totale kosten aan het einde van elke maand.; Wir berechnen die Gesamtkosten am Ende jedes Monats.
-nl-rc-0052; buchen (Buchhaltung); boeken; inboeken; B1; Business/Rechnungswesen/Buchhaltung; De boekhouder boekt elke betaling op de juiste rekening.; Der Buchhalter bucht jede Zahlung auf das richtige Konto.
+nl-rc-0052; buchen (eine Rechnung buchen); boeken; inboeken; B1; Business/Rechnungswesen/Buchhaltung; De boekhouder boekt elke betaling op de juiste rekening.; Der Buchhalter bucht jede Zahlung auf das richtige Konto.
 nl-rc-0053; überweisen; overmaken; overschrijven, overboeken; B1; Business/Rechnungswesen/Rechnung & Zahlung; Maak het geld alstublieft over naar de onderstaande rekening.; Bitte überweisen Sie das Geld auf das untenstehende Konto.
 nl-rc-0054; erstatten; terugbetalen; vergoeden; B1; Business/Rechnungswesen/Rechnung & Zahlung; Het bedrijf betaalt uw reiskosten volgende week terug.; Das Unternehmen erstattet Ihre Reisekosten nächste Woche.
 nl-rc-0055; Rückerstattung; de terugbetaling; de restitutie, de teruggave; B1; Business/Rechnungswesen/Rechnung & Zahlung; De klant vroeg na de annulering om een terugbetaling.; Der Kunde bat nach der Stornierung um eine Rückerstattung.
@@ -67,7 +67,7 @@ nl-rc-0064; Kosten senken; kosten verlagen; kosten besparen, bezuinigen; B1; Bus
 nl-rc-0065; in Rechnung stellen; in rekening brengen; factureren; B1; Business/Rechnungswesen/Rechnung & Zahlung; We brengen de extra uren tegen het gebruikelijke tarief in rekening.; Wir stellen die zusätzlichen Stunden zum üblichen Satz in Rechnung.
 nl-rc-0066; Gewinn- und Verlustrechnung; de winst-en-verliesrekening; de resultatenrekening; B2; Business/Rechnungswesen/Bilanz & GuV; De winst-en-verliesrekening toont opbrengsten en kosten.; Die Gewinn- und Verlustrechnung zeigt Erträge und Aufwendungen.
 nl-rc-0067; Abschreibung; de afschrijving; ; B2; Business/Rechnungswesen/Bilanz & GuV; De afschrijving vermindert de boekwaarde van onze machines.; Die Abschreibung mindert den Buchwert unserer Maschinen.
-nl-rc-0068; abschreiben (Buchhaltung); afschrijven; ; B2; Business/Rechnungswesen/Buchhaltung; We schrijven de nieuwe voertuigen in zes jaar af.; Wir schreiben die neuen Fahrzeuge über sechs Jahre ab.
+nl-rc-0068; abschreiben (in der Buchhaltung abschreiben); afschrijven; ; B2; Business/Rechnungswesen/Buchhaltung; We schrijven de nieuwe voertuigen in zes jaar af.; Wir schreiben die neuen Fahrzeuge über sechs Jahre ab.
 nl-rc-0069; Cashflow; de cashflow; de kasstroom; B2; Business/Rechnungswesen/Controlling & Kennzahlen; Een gezonde cashflow houdt het bedrijf flexibel.; Ein gesunder Cashflow hält das Unternehmen flexibel.
 nl-rc-0070; Liquidität; de liquiditeit; ; B2; Business/Rechnungswesen/Controlling & Kennzahlen; Het bedrijf verbeterde zijn liquiditeit door oude voorraden te verkopen.; Das Unternehmen verbesserte seine Liquidität durch den Verkauf alter Bestände.
 nl-rc-0071; Forderungen; de vorderingen; de debiteuren; B2; Business/Rechnungswesen/Bilanz & GuV; Onze vorderingen stegen omdat veel klanten laat betalen.; Unsere Forderungen stiegen, weil viele Kunden spät zahlen.

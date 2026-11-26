@@ -38,7 +38,7 @@ nl-wi-0035; Temperatur; de temperatuur; ; A2; Wissenschaft/Physik; De temperatuu
 nl-wi-0036; Trägheit; de traagheid; de inertie; C2; Wissenschaft/Physik; Door zijn traagheid rolt de zware bal verder.; Wegen seiner Trägheit rollt der schwere Ball weiter.
 nl-wi-0037; Strom; de stroom; de elektriciteit; A2; Wissenschaft/Physik; Windmolens leveren stroom voor duizenden huishoudens.; Windräder erzeugen Strom für tausende Haushalte.
 nl-wi-0038; Magnet; de magneet; ; B1; Wissenschaft/Physik; De magneet houdt de briefjes op de koelkast.; Der Magnet hält die Notizen am Kühlschrank.
-nl-wi-0039; Welle (Physik); de golf; ; B1; Wissenschaft/Physik; Geluid verspreidt zich als een golf door de lucht.; Schall breitet sich als Welle in der Luft aus.
+nl-wi-0039; Welle (Licht- und Schallwellen); de golf; ; B1; Wissenschaft/Physik; Geluid verspreidt zich als een golf door de lucht.; Schall breitet sich als Welle in der Luft aus.
 nl-wi-0040; Teilchen; het deeltje; ; B2; Wissenschaft/Physik; Elk piepklein deeltje draagt een elektrische lading.; Jedes winzige Teilchen trägt eine elektrische Ladung.
 nl-wi-0041; Atom; het atoom; ; B1; Wissenschaft/Physik; Een enkel atoom is veel te klein om te zien.; Ein einzelnes Atom ist viel zu klein, um es zu sehen.
 nl-wi-0042; Schwerkraft; de zwaartekracht; de gravitatie; B2; Wissenschaft/Physik; De zwaartekracht houdt de maan in zijn baan om de aarde.; Die Schwerkraft hält den Mond auf seiner Bahn um die Erde.
@@ -49,7 +49,7 @@ nl-wi-0046; Strahlung; de straling; ; B2; Wissenschaft/Physik; Het apparaat meet
 nl-wi-0047; Leitfähigkeit; de geleidbaarheid; het geleidingsvermogen; C1; Wissenschaft/Physik; Koper is bekend om zijn uitstekende elektrische geleidbaarheid.; Kupfer ist für seine ausgezeichnete elektrische Leitfähigkeit bekannt.
 nl-wi-0048; Quantenmechanik; de kwantummechanica; de quantummechanica; C1; Wissenschaft/Physik; De kwantummechanica beschrijft de vreemde wereld van piepkleine deeltjes.; Die Quantenmechanik beschreibt die seltsame Welt winziger Teilchen.
 nl-wi-0049; Relativitätstheorie; de relativiteitstheorie; ; C1; Wissenschaft/Physik; Einstein publiceerde zijn relativiteitstheorie in het jaar 1905.; Einstein veröffentlichte seine Relativitätstheorie im Jahr 1905.
-nl-wi-0050; Spannung (Strom); de spanning; het voltage; B2; Wissenschaft/Physik; De spanning op deze kabel is gevaarlijk hoog.; Die Spannung in diesem Kabel ist gefährlich hoch.
+nl-wi-0050; Spannung (elektrische Spannung); de spanning; het voltage; B2; Wissenschaft/Physik; De spanning op deze kabel is gevaarlijk hoog.; Die Spannung in diesem Kabel ist gefährlich hoch.
 nl-wi-0051; Brechung; de breking; de lichtbreking, de refractie; C2; Wissenschaft/Physik; Door de breking van het licht lijkt het rietje gebogen.; Die Brechung des Lichts lässt den Strohhalm gebogen aussehen.
 nl-wi-0052; Wechselwirkung; de interactie; de wisselwerking; C1; Wissenschaft/Physik; Onderzoekers bestuderen de interactie tussen licht en materie.; Forscher untersuchen die Wechselwirkung zwischen Licht und Materie.
 nl-wi-0053; Wasser; het water; ; A1; Wissenschaft/Chemie; Water kookt bij honderd graden Celsius.; Wasser kocht bei hundert Grad Celsius.
@@ -63,12 +63,12 @@ nl-wi-0060; Säure; het zuur; ; B2; Wissenschaft/Chemie; Het zuur lost de dunne 
 nl-wi-0061; Salz; het zout; ; A2; Wissenschaft/Chemie; Zout lost snel op in warm water.; Salz löst sich schnell in warmem Wasser.
 nl-wi-0062; Gas; het gas; ; A2; Wissenschaft/Chemie; De ballon is gevuld met een licht gas.; Der Ballon ist mit einem leichten Gas gefüllt.
 nl-wi-0063; Flüssigkeit; de vloeistof; ; B1; Wissenschaft/Chemie; Giet de vloeistof voorzichtig in de glazen buis.; Gieß die Flüssigkeit vorsichtig in das Glasrohr.
-nl-wi-0064; Stoff (Chemie); de stof; de substantie; B1; Wissenschaft/Chemie; Deze stof is onschadelijk voor mensen en dieren.; Dieser Stoff ist für Menschen und Tiere harmlos.
+nl-wi-0064; Stoff (ein chemischer Stoff); de stof; de substantie; B1; Wissenschaft/Chemie; Deze stof is onschadelijk voor mensen en dieren.; Dieser Stoff ist für Menschen und Tiere harmlos.
 nl-wi-0065; Aggregatzustand; de aggregatietoestand; de fase; C2; Wissenschaft/Chemie; IJs, water en stoom zijn drie aggregatietoestanden.; Eis, Wasser und Dampf sind drei Aggregatzustände.
 nl-wi-0066; Reaktion; de reactie; ; B1; Wissenschaft/Chemie; De reactie produceert warmte en een nieuwe stof.; Die Reaktion erzeugt Wärme und einen neuen Stoff.
 nl-wi-0067; Element; het element; ; B1; Wissenschaft/Chemie; Zuurstof is het meest voorkomende element in de aardkorst.; Sauerstoff ist das häufigste Element der Erdkruste.
 nl-wi-0068; Molekül; het molecuul; ; B2; Wissenschaft/Chemie; Een watermolecuul bestaat uit drie atomen.; Ein Wassermolekül besteht aus drei Atomen.
-nl-wi-0069; Verbindung (Chemie); de verbinding; de chemische verbinding; B2; Wissenschaft/Chemie; Zout is een verbinding van natrium en chloor.; Salz ist eine Verbindung aus Natrium und Chlor.
+nl-wi-0069; Verbindung (eine chemische Verbindung); de verbinding; de chemische verbinding; B2; Wissenschaft/Chemie; Zout is een verbinding van natrium en chloor.; Salz ist eine Verbindung aus Natrium und Chlor.
 nl-wi-0070; auflösen; oplossen; ; B2; Wissenschaft/Chemie; De tablet lost volledig op in een glas water.; Die Tablette löst sich vollständig in einem Glas Wasser auf.
 nl-wi-0071; Katalysator; de katalysator; ; C1; Wissenschaft/Chemie; Een katalysator versnelt de reactie zonder zelf verbruikt te worden.; Ein Katalysator beschleunigt die Reaktion, ohne verbraucht zu werden.
 nl-wi-0072; Destillation; de destillatie; de distillatie; C2; Wissenschaft/Chemie; Destillatie scheidt alcohol van water door voorzichtig verhitten.; Die Destillation trennt Alkohol durch vorsichtiges Erhitzen vom Wasser.
@@ -84,7 +84,7 @@ nl-wi-0081; Virus; het virus; ; B1; Wissenschaft/Biologie; Het virus verspreidt 
 nl-wi-0082; Gen; het gen; ; B2; Wissenschaft/Biologie; Een enkel gen kan de kleur van de ogen beïnvloeden.; Ein einzelnes Gen kann die Augenfarbe beeinflussen.
 nl-wi-0083; Vererbung; de erfelijkheid; de overerving; B2; Wissenschaft/Biologie; De erfelijkheid verklaart waarom kinderen op hun ouders lijken.; Die Vererbung erklärt, warum Kinder ihren Eltern ähneln.
 nl-wi-0084; Evolution; de evolutie; ; B2; Wissenschaft/Biologie; De evolutie werkt over vele miljoenen jaren.; Die Evolution wirkt über viele Millionen Jahre.
-nl-wi-0085; Art (Biologie); de soort; ; B1; Wissenschaft/Biologie; Deze zeldzame soort leeft maar op één eiland.; Diese seltene Art lebt nur auf einer Insel.
+nl-wi-0085; Art (eine bedrohte Tierart); de soort; ; B1; Wissenschaft/Biologie; Deze zeldzame soort leeft maar op één eiland.; Diese seltene Art lebt nur auf einer Insel.
 nl-wi-0086; Lebensraum; het leefgebied; de habitat, de leefomgeving; B2; Wissenschaft/Biologie; De kikkers verliezen hun natuurlijke leefgebied.; Die Frösche verlieren ihren natürlichen Lebensraum.
 nl-wi-0087; Ökosystem; het ecosysteem; ; B2; Wissenschaft/Biologie; Een bos is een complex ecosysteem met ontelbare soorten.; Ein Wald ist ein komplexes Ökosystem mit unzähligen Arten.
 nl-wi-0088; Stoffwechsel; de stofwisseling; het metabolisme; C1; Wissenschaft/Biologie; Regelmatig bewegen versnelt de menselijke stofwisseling.; Regelmäßige Bewegung beschleunigt den menschlichen Stoffwechsel.
@@ -103,7 +103,7 @@ nl-wi-0100; Dreieck; de driehoek; ; A2; Wissenschaft/Mathematik; Een driehoek he
 nl-wi-0101; Kreis; de cirkel; ; A2; Wissenschaft/Mathematik; Teken een cirkel met een straal van vijf centimeter.; Zeichne einen Kreis mit einem Radius von fünf Zentimetern.
 nl-wi-0102; Quadrat; het vierkant; ; B1; Wissenschaft/Mathematik; Een vierkant heeft vier even lange zijden.; Ein Quadrat hat vier gleich lange Seiten.
 nl-wi-0103; Gleichung; de vergelijking; ; B1; Wissenschaft/Mathematik; Los de vergelijking op en controleer je antwoord.; Löse die Gleichung und überprüfe dein Ergebnis.
-nl-wi-0104; Bruch (Mathematik); de breuk; ; B1; Wissenschaft/Mathematik; Een breuk als een half is makkelijk voor te stellen.; Ein Bruch wie ein Halb ist leicht vorstellbar.
+nl-wi-0104; Bruch (beim Bruchrechnen); de breuk; ; B1; Wissenschaft/Mathematik; Een breuk als een half is makkelijk voor te stellen.; Ein Bruch wie ein Halb ist leicht vorstellbar.
 nl-wi-0105; Durchschnitt; het gemiddelde; ; B1; Wissenschaft/Mathematik; Het gemiddelde van de drie cijfers is een acht.; Der Durchschnitt der drei Noten ist eine Acht.
 nl-wi-0106; Wahrscheinlichkeit; de waarschijnlijkheid; de kans; B2; Wissenschaft/Mathematik; De waarschijnlijkheid van regen morgen is heel klein.; Die Wahrscheinlichkeit für Regen morgen ist sehr gering.
 nl-wi-0107; Integralrechnung; de integraalrekening; ; C2; Wissenschaft/Mathematik; Met de integraalrekening bereken je oppervlakten onder krommen.; Mit der Integralrechnung berechnet man Flächen unter Kurven.
@@ -134,7 +134,7 @@ nl-wi-0131; Sonne; de zon; ; A1; Wissenschaft/Raumfahrt; De zon komt elke ochten
 nl-wi-0132; Mond; de maan; ; A1; Wissenschaft/Raumfahrt; De maan ziet er vannacht bijzonder groot uit.; Der Mond sieht heute Nacht besonders groß aus.
 nl-wi-0133; Stern; de ster; ; A1; Wissenschaft/Raumfahrt; In de woestijn zie je elke ster duidelijk.; In der Wüste sieht man jeden Stern deutlich.
 nl-wi-0134; Erde; de aarde; ; A1; Wissenschaft/Raumfahrt; De aarde draait één keer per jaar om de zon.; Die Erde umkreist die Sonne einmal im Jahr.
-nl-wi-0135; Himmel (Wetter, Sterne); de hemel; de lucht; A2; Wissenschaft/Raumfahrt; De nachthemel boven de bergen was vol sterren.; Der Nachthimmel über den Bergen war voller Sterne.
+nl-wi-0135; Himmel (der blaue Himmel); de hemel; de lucht; A2; Wissenschaft/Raumfahrt; De nachthemel boven de bergen was vol sterren.; Der Nachthimmel über den Bergen war voller Sterne.
 nl-wi-0136; Rakete; de raket; ; A2; Wissenschaft/Raumfahrt; De raket werd vroeg in de ochtend gelanceerd.; Die Rakete startete früh am Morgen.
 nl-wi-0137; Planet; de planeet; ; A2; Wissenschaft/Raumfahrt; Mars is de vierde planeet vanaf de zon.; Der Mars ist der vierte Planet von der Sonne aus.
 nl-wi-0138; Weltraum; de ruimte; het heelal; B1; Wissenschaft/Raumfahrt; In de ruimte is er geen lucht om te ademen.; Im Weltraum gibt es keine Luft zum Atmen.

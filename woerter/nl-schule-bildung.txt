@@ -19,14 +19,14 @@ nl-sb-0016; antworten; antwoorden; ; A1; Bildung/Schule/Unterricht; Denk eerst n
 nl-sb-0017; Frage; de vraag; ; A1; Bildung/Schule/Unterricht; Ik heb een vraag over het huiswerk.; Ich habe eine Frage zu den Hausaufgaben.
 nl-sb-0018; Antwort; het antwoord; ; A1; Bildung/Schule/Unterricht; Het juiste antwoord staat op de volgende bladzijde.; Die richtige Antwort steht auf der nächsten Seite.
 nl-sb-0019; Hausaufgaben; het huiswerk; ; A1; Bildung/Schule/Unterricht; Ik maak mijn huiswerk na de lunch.; Ich mache meine Hausaufgaben nach dem Mittagessen.
-nl-sb-0020; Pause (Schule); de pauze; ; A1; Bildung/Schule/Unterricht; In de grote pauze spelen we voetbal.; In der großen Pause spielen wir Fußball.
+nl-sb-0020; Pause (die große Pause); de pauze; ; A1; Bildung/Schule/Unterricht; In de grote pauze spelen we voetbal.; In der großen Pause spielen wir Fußball.
 nl-sb-0021; Mathematik; wiskunde; ; A1; Bildung/Schule/Fächer; Op maandag en donderdag hebben we wiskunde.; Montags und donnerstags haben wir Mathematik.
 nl-sb-0022; Englisch; Engels; ; A1; Bildung/Schule/Fächer; Bij Engels zingen we liedjes en doen we spelletjes.; In Englisch singen wir Lieder und spielen Spiele.
 nl-sb-0023; Deutsch; Duits; ; A1; Bildung/Schule/Fächer; Bij Duits lezen we nu een korte roman.; In Deutsch lesen wir gerade einen kurzen Roman.
-nl-sb-0024; Sport (Schulfach); gym; lichamelijke opvoeding, gymnastiek; A1; Bildung/Schule/Fächer; Bij gym spelen we vandaag basketbal.; Im Sport spielen wir heute Basketball.
+nl-sb-0024; Sport (das Schulfach Sport); gym; lichamelijke opvoeding, gymnastiek; A1; Bildung/Schule/Fächer; Bij gym spelen we vandaag basketbal.; Im Sport spielen wir heute Basketball.
 nl-sb-0025; Musik; de muziek; muziek; A1; Bildung/Schule/Fächer; Bij muziek leren we een nieuw lied.; In Musik lernen wir ein neues Lied.
 nl-sb-0026; Kunst; tekenen; kunst, beeldende vorming; A2; Bildung/Schule/Fächer; Bij tekenen schilderen we met waterverf.; In Kunst malen wir mit Wasserfarben.
-nl-sb-0027; Geschichte (Vergangenheit); de geschiedenis; geschiedenis; A2; Bildung/Schule/Fächer; Bij geschiedenis leren we nu over het oude Rome.; In Geschichte lernen wir gerade etwas über das alte Rom.
+nl-sb-0027; Geschichte (die deutsche Geschichte); de geschiedenis; geschiedenis; A2; Bildung/Schule/Fächer; Bij geschiedenis leren we nu over het oude Rome.; In Geschichte lernen wir gerade etwas über das alte Rom.
 nl-sb-0028; Erdkunde; aardrijkskunde; ; A2; Bildung/Schule/Fächer; Bij aardrijkskunde tekenen we kaarten van Europa.; In Erdkunde zeichnen wir Karten von Europa.
 nl-sb-0029; Biologie; biologie; ; A2; Bildung/Schule/Fächer; Bij biologie onderzoeken we planten en dieren.; In Biologie untersuchen wir Pflanzen und Tiere.
 nl-sb-0030; Chemie; scheikunde; chemie; A2; Bildung/Schule/Fächer; Bij scheikunde doen we spannende experimenten.; In Chemie machen wir spannende Experimente.
@@ -35,14 +35,14 @@ nl-sb-0032; Informatik; informatica; ; A2; Bildung/Schule/Fächer; Bij informati
 nl-sb-0033; Fach; het vak; het schoolvak; A2; Bildung/Schule/Fächer; Welk vak vind je op school het leukst?; Welches Fach magst du in der Schule am liebsten?
 nl-sb-0034; Stundenplan; het rooster; het lesrooster; A2; Bildung/Schule/Unterricht; Het nieuwe rooster begint na de vakantie.; Der neue Stundenplan beginnt nach den Ferien.
 nl-sb-0035; Unterricht; de les; de lessen, het onderwijs; A2; Bildung/Schule/Unterricht; De les begint precies om acht uur.; Der Unterricht beginnt pünktlich um acht Uhr.
-nl-sb-0036; Note (Schule); het cijfer; ; A2; Bildung/Schule/Prüfungen; Ze heeft een goed cijfer voor de toets gekregen.; Sie hat eine gute Note im Test bekommen.
-nl-sb-0037; Zeugnis (Schule); het rapport; het schoolrapport; A2; Bildung/Schule/Prüfungen; Hij liet zijn rapport aan zijn ouders zien.; Er zeigte seinen Eltern sein Zeugnis.
+nl-sb-0036; Note (eine gute Note); het cijfer; ; A2; Bildung/Schule/Prüfungen; Ze heeft een goed cijfer voor de toets gekregen.; Sie hat eine gute Note im Test bekommen.
+nl-sb-0037; Zeugnis (am Ende des Schuljahres); het rapport; het schoolrapport; A2; Bildung/Schule/Prüfungen; Hij liet zijn rapport aan zijn ouders zien.; Er zeigte seinen Eltern sein Zeugnis.
 nl-sb-0038; Prüfung; het examen; ; A2; Bildung/Schule/Prüfungen; Het examen vindt volgende week vrijdagochtend plaats.; Die Prüfung findet nächsten Freitagmorgen statt.
 nl-sb-0039; Test; de toets; het proefwerk; A2; Bildung/Schule/Prüfungen; We maken om de twee weken een korte toets.; Wir schreiben alle zwei Wochen einen kurzen Test.
-nl-sb-0040; bestehen (Prüfung); slagen; halen; A2; Bildung/Schule/Prüfungen; Ik weet zeker dat je voor het examen slaagt.; Ich bin sicher, dass du die Prüfung bestehst.
+nl-sb-0040; bestehen (eine Prüfung bestehen); slagen; halen; A2; Bildung/Schule/Prüfungen; Ik weet zeker dat je voor het examen slaagt.; Ich bin sicher, dass du die Prüfung bestehst.
 nl-sb-0041; durchfallen; zakken; ; A2; Bildung/Schule/Prüfungen; Niemand wil voor de laatste toets zakken.; Niemand will beim letzten Test durchfallen.
 nl-sb-0042; üben; oefenen; ; A2; Bildung/Lernen; Je moet de nieuwe woorden elke dag oefenen.; Du solltest die neuen Wörter jeden Tag üben.
-nl-sb-0043; wiederholen (Lernstoff); herhalen; ; A2; Bildung/Lernen; Laten we de grammatica van vorige week herhalen.; Lass uns die Grammatik von letzter Woche wiederholen.
+nl-sb-0043; wiederholen (für die Prüfung wiederholen); herhalen; ; A2; Bildung/Lernen; Laten we de grammatica van vorige week herhalen.; Lass uns die Grammatik von letzter Woche wiederholen.
 nl-sb-0044; erklären; uitleggen; ; A2; Bildung/Schule/Unterricht; Kun je deze regel nog een keer uitleggen?; Kannst du diese Regel bitte noch einmal erklären?
 nl-sb-0045; verstehen; begrijpen; verstaan; A2; Bildung/Lernen; Ik heb de laatste zin niet begrepen.; Ich habe den letzten Satz nicht verstanden.
 nl-sb-0046; vergessen; vergeten; ; A2; Bildung/Lernen; Vergeet je huiswerk niet thuis.; Vergiss deine Hausaufgaben nicht zu Hause.
@@ -62,7 +62,7 @@ nl-sb-0059; Grundschule; de basisschool; ; A2; Bildung/Schule/Schulformen; Mijn 
 nl-sb-0060; Ferien; de vakantie; de schoolvakantie; A2; Bildung/Schule/Unterricht; De vakantie begint volgende week vrijdag.; Die Ferien beginnen nächste Woche am Freitag.
 nl-sb-0061; Gymnasium; het gymnasium; het vwo; B1; Bildung/Schule/Schulformen; Ze zit op een gymnasium in Frankfurt.; Sie besucht ein Gymnasium in Frankfurt.
 nl-sb-0062; weiterführende Schule; de middelbare school; het voortgezet onderwijs; B1; Bildung/Schule/Schulformen; Na de basisschool kiezen de kinderen een middelbare school.; Nach der Grundschule wählen die Kinder eine weiterführende Schule.
-nl-sb-0063; Abschluss (Schule); het diploma; ; B1; Bildung/Schule/Prüfungen; Een goed diploma opent later veel deuren.; Ein guter Abschluss öffnet später viele Türen.
+nl-sb-0063; Abschluss (einen Schulabschluss machen); het diploma; ; B1; Bildung/Schule/Prüfungen; Een goed diploma opent later veel deuren.; Ein guter Abschluss öffnet später viele Türen.
 nl-sb-0064; Abitur; het eindexamen; het vwo-eindexamen, het vwo-diploma; B1; Bildung/Schule/Prüfungen; Hij is met heel goede cijfers voor zijn eindexamen geslaagd.; Er hat sein Abitur mit sehr guten Noten bestanden.
 nl-sb-0065; Universität; de universiteit; ; B1; Bildung/Universität; Ze studeert rechten aan de universiteit in Mainz.; Sie studiert Jura an der Universität in Mainz.
 nl-sb-0066; Student; de student; ; B1; Bildung/Universität; Als student woonde hij in een klein appartement.; Als Student wohnte er in einer kleinen Wohnung.
@@ -78,7 +78,7 @@ nl-sb-0075; Dozent; de docent; ; B1; Bildung/Universität; Onze docent beantwoor
 nl-sb-0076; Professor; de professor; de hoogleraar; B1; Bildung/Universität; De professor doceert hier al twintig jaar.; Der Professor lehrt hier seit zwanzig Jahren.
 nl-sb-0077; Klausur; het tentamen; het schriftelijk examen; B1; Bildung/Universität; Het tentamen duurt precies negentig minuten.; Die Klausur dauert genau neunzig Minuten.
 nl-sb-0078; mündliche Prüfung; het mondeling examen; het mondelinge examen, het mondeling; B1; Bildung/Schule/Prüfungen; Voor haar mondeling examen was ze nerveus.; Vor ihrer mündlichen Prüfung war sie nervös.
-nl-sb-0079; Hausarbeit (Studium); het werkstuk; het paper, het essay; B1; Bildung/Universität; Ik moet een werkstuk over Kafka schrijven.; Ich muss eine Hausarbeit über Kafka schreiben.
+nl-sb-0079; Hausarbeit (eine Hausarbeit an der Uni); het werkstuk; het paper, het essay; B1; Bildung/Universität; Ik moet een werkstuk over Kafka schrijven.; Ich muss eine Hausarbeit über Kafka schreiben.
 nl-sb-0080; Referat; de spreekbeurt; de presentatie; B1; Bildung/Schule/Unterricht; Morgen houd ik een spreekbeurt over vulkanen.; Morgen halte ich ein Referat über Vulkane.
 nl-sb-0081; Notizen; de aantekeningen; de notities; B1; Bildung/Lernen; Goede aantekeningen helpen je enorm voor examens.; Gute Notizen helfen dir vor Prüfungen sehr.
 nl-sb-0082; auswendig lernen; uit het hoofd leren; ; B1; Bildung/Lernen; We moesten voor maandag een gedicht uit het hoofd leren.; Wir mussten für Montag ein Gedicht auswendig lernen.
@@ -99,7 +99,7 @@ nl-sb-0096; Ausbildung; de opleiding; de beroepsopleiding; B2; Bildung/Lernen; N
 nl-sb-0097; Schulpflicht; de leerplicht; ; B2; Bildung/Bildungspolitik; In Duitsland begint de leerplicht op zesjarige leeftijd.; In Deutschland beginnt die Schulpflicht mit sechs Jahren.
 nl-sb-0098; Lehrplan; het leerplan; het curriculum, het lesprogramma; B2; Bildung/Schule/Unterricht; Het nieuwe leerplan legt meer nadruk op digitale vaardigheden.; Der neue Lehrplan legt mehr Gewicht auf digitale Kompetenzen.
 nl-sb-0099; Leistung; de prestatie; ; B2; Bildung/Schule/Prüfungen; Haar prestaties verbeterden duidelijk in de tweede jaarhelft.; Ihre Leistung verbesserte sich in der zweiten Jahreshälfte deutlich.
-nl-sb-0100; Bewertung (Schule); de beoordeling; ; B2; Bildung/Schule/Prüfungen; De beoordeling van mondelinge prestaties is vaak moeilijk.; Die Bewertung mündlicher Leistungen ist oft schwierig.
+nl-sb-0100; Bewertung (die Bewertung durch den Lehrer); de beoordeling; ; B2; Bildung/Schule/Prüfungen; De beoordeling van mondelinge prestaties is vaak moeilijk.; Die Bewertung mündlicher Leistungen ist oft schwierig.
 nl-sb-0101; Abschlussprüfung; het eindexamen; ; B2; Bildung/Schule/Prüfungen; Het eindexamen omvat de stof van twee jaar.; Die Abschlussprüfung umfasst den Stoff von zwei Jahren.
 nl-sb-0102; Bachelorarbeit; de bachelorscriptie; ; B2; Bildung/Universität; Hij schrijft zijn bachelorscriptie over hernieuwbare energie.; Er schreibt seine Bachelorarbeit über erneuerbare Energien.
 nl-sb-0103; Masterarbeit; de masterscriptie; ; B2; Bildung/Universität; Haar masterscriptie werd als een klein boek gepubliceerd.; Ihre Masterarbeit wurde als kleines Buch veröffentlicht.
@@ -122,7 +122,7 @@ nl-sb-0119; Fernstudium; het afstandsonderwijs; de afstandsstudie; B2; Bildung/U
 nl-sb-0120; Praktikum; de stage; ; B2; Bildung/Universität; Hij liep stage bij een ingenieursbureau.; Er machte ein Praktikum in einem Ingenieurbüro.
 nl-sb-0121; Bewerbung; de sollicitatie; de aanmelding; B2; Bildung/Universität; Haar sollicitatie voor de masteropleiding was succesvol.; Ihre Bewerbung für den Masterstudiengang war erfolgreich.
 nl-sb-0122; Lebenslauf; het cv; het curriculum vitae; B2; Bildung/Universität; Voeg bij je sollicitatie alsjeblieft je cv toe.; Bitte füge der Bewerbung deinen Lebenslauf bei.
-nl-sb-0123; Zulassung (Studium); de toelating; ; B2; Bildung/Universität; Ze wacht nog op haar toelating tot de universiteit.; Sie wartet noch auf ihre Zulassung zur Universität.
+nl-sb-0123; Zulassung (zum Studium); de toelating; ; B2; Bildung/Universität; Ze wacht nog op haar toelating tot de universiteit.; Sie wartet noch auf ihre Zulassung zur Universität.
 nl-sb-0124; Einschreibung; de inschrijving; ; B2; Bildung/Universität; De termijn voor de inschrijving loopt half september af.; Die Frist für die Einschreibung endet Mitte September.
 nl-sb-0125; Abschlussfeier; de diploma-uitreiking; de afstudeerceremonie; B2; Bildung/Universität; De hele familie kwam naar haar diploma-uitreiking.; Die ganze Familie kam zu ihrer Abschlussfeier.
 nl-sb-0126; Chancengleichheit; de kansengelijkheid; gelijke kansen; C1; Bildung/Bildungspolitik; Kansengelijkheid in het onderwijs blijft een ver doel.; Chancengleichheit in der Bildung bleibt ein fernes Ziel.

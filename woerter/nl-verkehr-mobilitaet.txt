@@ -18,10 +18,10 @@ nl-vm-0015; Taxi; de taxi; ; A1; Reisen/Verkehr/Auto; We hebben gisteravond een 
 nl-vm-0016; U-Bahn; de metro; ; A1; Reisen/Verkehr/Bus & Bahn; De metro rijdt hier elke vijf minuten.; Die U-Bahn fährt hier alle fünf Minuten.
 nl-vm-0017; Weg; de weg; ; A1; Reisen/Verkehr/Wegbeschreibung; Kunt u mij de weg naar de haven wijzen?; Können Sie mir den Weg zum Hafen zeigen?
 nl-vm-0018; Brücke; de brug; ; A1; Reisen/Verkehr/Straße & Regeln; De oude brug leidt over de brede rivier.; Die alte Brücke führt über den breiten Fluss.
-nl-vm-0019; Karte (Landkarte); de kaart; de landkaart; A1; Reisen/Verkehr/Wegbeschreibung; We hebben voor de rit de kaart bekeken.; Wir haben uns vor der Fahrt die Karte angesehen.
+nl-vm-0019; Karte (auf der Karte nachsehen); de kaart; de landkaart; A1; Reisen/Verkehr/Wegbeschreibung; We hebben voor de rit de kaart bekeken.; Wir haben uns vor der Fahrt die Karte angesehen.
 nl-vm-0020; schnell; snel; ; A1; Reisen/Verkehr/Straße & Regeln; Deze nieuwe trein is heel snel en comfortabel.; Dieser neue Zug ist sehr schnell und bequem.
 nl-vm-0021; langsam; langzaam; ; A1; Reisen/Verkehr/Straße & Regeln; Het verkeer in het centrum is vandaag erg langzaam.; Der Verkehr in der Innenstadt ist heute sehr langsam.
-nl-vm-0022; halten (anhalten); stoppen; stilhouden; A1; Reisen/Verkehr/Bus & Bahn; De bus stopt direct bij het museum.; Der Bus hält direkt am Museum.
+nl-vm-0022; halten (der Bus hält hier); stoppen; stilhouden; A1; Reisen/Verkehr/Bus & Bahn; De bus stopt direct bij het museum.; Der Bus hält direkt am Museum.
 nl-vm-0023; Stadtplan; de plattegrond; de stadsplattegrond, de stadskaart; A1; Reisen/Verkehr/Wegbeschreibung; De stadsplattegrond toont alle buslijnen.; Der Stadtplan zeigt alle Buslinien.
 nl-vm-0024; Fahrer; de chauffeur; de bestuurder; A1; Reisen/Verkehr/Auto; De chauffeur heeft bij het hotel op ons gewacht.; Der Fahrer hat am Hotel auf uns gewartet.
 nl-vm-0025; Parkplatz; de parkeerplaats; het parkeerterrein; A1; Reisen/Verkehr/Auto; De parkeerplaats achter de winkel is gratis.; Der Parkplatz hinter dem Geschäft ist kostenlos.
@@ -68,7 +68,7 @@ nl-vm-0065; Vorfahrt; de voorrang; ; B1; Reisen/Verkehr/Straße & Regeln; De aut
 nl-vm-0066; Bußgeld; de boete; ; B1; Reisen/Verkehr/Straße & Regeln; Hij heeft gisteren een boete voor te hard rijden betaald.; Er hat gestern ein Bußgeld für zu schnelles Fahren bezahlt.
 nl-vm-0067; Strafzettel; de parkeerbon; de bon, de prent; B1; Reisen/Verkehr/Auto; Ik vond een parkeerbon op mijn voorruit.; Ich fand einen Strafzettel an meiner Windschutzscheibe.
 nl-vm-0068; Panne; de pech; de autopech; B1; Reisen/Verkehr/Auto; We hadden op de terugweg pech met de auto.; Wir hatten auf dem Heimweg eine Panne.
-nl-vm-0069; Werkstatt (Auto); de garage; ; B1; Reisen/Verkehr/Auto; De auto staat tot vrijdag in de garage.; Das Auto ist bis Freitag in der Werkstatt.
+nl-vm-0069; Werkstatt (mit dem Auto in die Werkstatt); de garage; ; B1; Reisen/Verkehr/Auto; De auto staat tot vrijdag in de garage.; Das Auto ist bis Freitag in der Werkstatt.
 nl-vm-0070; Versicherung; de verzekering; ; B1; Reisen/Verkehr/Auto; De autoverzekering is voor voorzichtige bestuurders goedkoper.; Die Autoversicherung ist für vorsichtige Fahrer günstiger.
 nl-vm-0071; Kennzeichen; het kenteken; de kentekenplaat, de nummerplaat; B1; Reisen/Verkehr/Auto; De getuige noteerde het kenteken van de wagen.; Der Zeuge notierte das Kennzeichen des Wagens.
 nl-vm-0072; Kofferraum; de kofferbak; de achterbak; B1; Reisen/Verkehr/Auto; Leg de koffers alsjeblieft in de kofferbak.; Leg die Koffer bitte in den Kofferraum.
@@ -76,7 +76,7 @@ nl-vm-0073; Sicherheitsgurt; de veiligheidsgordel; de gordel, de autogordel; B1;
 nl-vm-0074; sich anschnallen; de gordel omdoen; de gordel vastmaken, zich vastgespen; B1; Reisen/Verkehr/Auto; Doe alsjeblieft je gordel om voordat we wegrijden.; Bitte schnall dich an, bevor wir losfahren.
 nl-vm-0075; Umleitung; de omleiding; ; B1; Reisen/Verkehr/Straße & Regeln; De omleiding maakt de rit tien minuten langer.; Die Umleitung verlängert die Fahrt um zehn Minuten.
 nl-vm-0076; Baustelle; de wegwerkzaamheden; de bouwplaats, het werk in uitvoering; B1; Reisen/Verkehr/Straße & Regeln; De wegwerkzaamheden op de hoofdstraat veroorzaken lange vertragingen.; Die Baustelle auf der Hauptstraße verursacht lange Verzögerungen.
-nl-vm-0077; Spur (Fahrbahn); de rijstrook; de strook, de baan; B1; Reisen/Verkehr/Straße & Regeln; Blijf tot de afslag op de rechterrijstrook.; Bleiben Sie bis zur Ausfahrt auf der rechten Spur.
+nl-vm-0077; Spur (die linke Spur); de rijstrook; de strook, de baan; B1; Reisen/Verkehr/Straße & Regeln; Blijf tot de afslag op de rechterrijstrook.; Bleiben Sie bis zur Ausfahrt auf der rechten Spur.
 nl-vm-0078; Navigationssystem; het navigatiesysteem; de navigatie, de navi, de gps; B1; Reisen/Verkehr/Wegbeschreibung; Het navigatiesysteem heeft een snellere route gevonden.; Das Navigationssystem hat eine schnellere Route gefunden.
 nl-vm-0079; Ladestation; het laadstation; de laadpaal, het laadpunt; B1; Reisen/Verkehr/Tanken & Laden; Bij de supermarkt is een laadstation.; Am Supermarkt gibt es eine Ladestation.
 nl-vm-0080; Elektroauto; de elektrische auto; de e-auto; B1; Reisen/Verkehr/Tanken & Laden; Onze elektrische auto is in de stad heel stil.; Unser Elektroauto ist in der Stadt sehr leise.
@@ -119,7 +119,7 @@ nl-vm-0116; Fahrkartenautomat; de kaartautomaat; de kaartjesautomaat; B2; Reisen
 nl-vm-0117; Verkehrsmittel; het vervoermiddel; het vervoersmiddel; B2; Reisen/Verkehr/Bus & Bahn; De fiets is mijn favoriete vervoermiddel.; Das Fahrrad ist mein liebstes Verkehrsmittel.
 nl-vm-0118; Probefahrt; de proefrit; ; B2; Reisen/Verkehr/Auto; We hebben voor zaterdagochtend een proefrit afgesproken.; Wir haben für Samstagvormittag eine Probefahrt vereinbart.
 nl-vm-0119; Gebrauchtwagen; de tweedehandsauto; de occasion, de tweedehands auto; B2; Reisen/Verkehr/Auto; Hij kocht een tweedehandsauto met een lage kilometerstand.; Er kaufte einen Gebrauchtwagen mit geringer Laufleistung.
-nl-vm-0120; Zulassung (Fahrzeug); de kentekenregistratie; de registratie, de toelating; B2; Reisen/Verkehr/Auto; De kentekenregistratie van de nieuwe auto duurde twee weken.; Die Zulassung des neuen Autos dauerte zwei Wochen.
+nl-vm-0120; Zulassung (eines Autos); de kentekenregistratie; de registratie, de toelating; B2; Reisen/Verkehr/Auto; De kentekenregistratie van de nieuwe auto duurde twee weken.; Die Zulassung des neuen Autos dauerte zwei Wochen.
 nl-vm-0121; Verkehrskontrolle; de verkeerscontrole; ; B2; Reisen/Verkehr/Straße & Regeln; De politie hield 's nachts een verkeerscontrole.; Die Polizei führte nachts eine Verkehrskontrolle durch.
 nl-vm-0122; Alkoholtest; de alcoholtest; de blaastest, de alcoholcontrole; B2; Reisen/Verkehr/Straße & Regeln; De bestuurder moest een alcoholtest doen.; Der Fahrer musste einen Alkoholtest machen.
 nl-vm-0123; Reifenwechsel; de bandenwissel; het wisselen van de banden; B2; Reisen/Verkehr/Auto; Plan de bandenwissel voordat de winter komt.; Vereinbare den Reifenwechsel, bevor der Winter kommt.
@@ -127,7 +127,7 @@ nl-vm-0124; Fahrprüfung; het rijexamen; ; B2; Reisen/Verkehr/Auto; Zij heeft he
 nl-vm-0125; Standstreifen; de vluchtstrook; ; B2; Reisen/Verkehr/Straße & Regeln; Stop op de vluchtstrook alleen in geval van nood.; Halte auf dem Standstreifen nur im Notfall.
 nl-vm-0126; Verkehrswende; de mobiliteitstransitie; de verkeerstransitie; C1; Reisen/Verkehr/Straße & Regeln; De mobiliteitstransitie vereist beter openbaar vervoer.; Die Verkehrswende erfordert einen besseren öffentlichen Nahverkehr.
 nl-vm-0127; Elektromobilität; de elektromobiliteit; het elektrisch rijden; C1; Reisen/Verkehr/Tanken & Laden; Elektromobiliteit hangt af van een dicht netwerk van laadpalen.; Die Elektromobilität hängt von einem dichten Ladenetz ab.
-nl-vm-0128; Reichweite (Fahrzeug); de actieradius; het bereik; C1; Reisen/Verkehr/Tanken & Laden; De actieradius daalt bij koud weer aanzienlijk.; Die Reichweite sinkt bei kaltem Wetter deutlich.
+nl-vm-0128; Reichweite (eines Elektroautos); de actieradius; het bereik; C1; Reisen/Verkehr/Tanken & Laden; De actieradius daalt bij koud weer aanzienlijk.; Die Reichweite sinkt bei kaltem Wetter deutlich.
 nl-vm-0129; Emissionen; de emissies; de uitstoot; C1; Reisen/Verkehr/Straße & Regeln; De stad wil de emissies van het verkeer halveren.; Die Stadt will die Emissionen des Verkehrs halbieren.
 nl-vm-0130; Feinstaub; het fijnstof; de fijnstof; C1; Reisen/Verkehr/Straße & Regeln; De fijnstofwaarden overschreden opnieuw de grenswaarde.; Die Feinstaubwerte überschritten erneut den Grenzwert.
 nl-vm-0131; Umweltzone; de milieuzone; ; C1; Reisen/Verkehr/Straße & Regeln; Oudere dieselauto's mogen de milieuzone niet in.; Ältere Dieselautos dürfen nicht in die Umweltzone fahren.

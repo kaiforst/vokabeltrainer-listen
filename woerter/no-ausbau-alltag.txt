@@ -10,7 +10,7 @@ no-xa-0007; Mieter; en leietaker; en leieboer; B1; Alltag/Zuhause/Räume; Den ny
 no-xa-0008; Vermieter; en utleier; en huseier; B1; Alltag/Zuhause/Räume; Utleieren vår har endelig reparert varmeanlegget.; Unser Vermieter hat endlich die Heizung repariert.
 no-xa-0009; Miete; ei husleie; en husleie; A2; Alltag/Zuhause/Räume; Husleien for denne leiligheten er veldig høy.; Die Miete für diese Wohnung ist sehr hoch.
 no-xa-0010; Wohngemeinschaft; et kollektiv; ; B1; Alltag/Zuhause/Räume; Som student bodde hun i et kollektiv.; Als Studentin hat sie in einer Wohngemeinschaft gewohnt.
-no-xa-0011; umziehen (Wohnung); å flytte; ; A2; Alltag/Zuhause/Räume; Vi flytter til en større leilighet i juni.; Wir ziehen im Juni in eine größere Wohnung um.
+no-xa-0011; umziehen (in eine neue Wohnung); å flytte; ; A2; Alltag/Zuhause/Räume; Vi flytter til en større leilighet i juni.; Wir ziehen im Juni in eine größere Wohnung um.
 no-xa-0012; Speisekammer; et spiskammer; ; B2; Alltag/Zuhause/Räume; Vi oppbevarer alle potetene våre i spiskammeret.; Wir bewahren die Kartoffeln in der Speisekammer auf.
 no-xa-0013; Dachrinne; ei takrenne; en takrenne; C1; Alltag/Zuhause/Räume; Takrenna er full av løv igjen.; Die Dachrinne ist schon wieder voller Laub.
 no-xa-0014; Abfluss; et sluk; ; B2; Alltag/Zuhause/Räume; Hår har tettet sluket i dusjen.; Haare haben den Abfluss in der Dusche verstopft.
@@ -41,14 +41,14 @@ no-xa-0038; Spülmittel; et oppvaskmiddel; ; B1; Alltag/Zuhause/Haushalt; Ha lit
 no-xa-0039; Mülltüte; en søppelpose; ; B1; Alltag/Zuhause/Haushalt; Kan du legge en ny søppelpose i kjøkkenbøtta?; Kannst du eine neue Mülltüte in der Küche einlegen?
 no-xa-0040; Geschirrtuch; et kjøkkenhåndkle; et oppvaskhåndkle; B1; Alltag/Zuhause/Haushalt; Tørk glassene med et rent kjøkkenhåndkle.; Trockne die Gläser mit einem sauberen Geschirrtuch ab.
 no-xa-0041; Putzfrau; ei vaskehjelp; en vaskehjelp; B1; Alltag/Zuhause/Haushalt; Vaskehjelpen vår kommer hver fredag morgen.; Unsere Putzfrau kommt jeden Freitagmorgen.
-no-xa-0042; Haushalt (zu Hause); en husholdning; ; B1; Alltag/Zuhause/Haushalt; I husholdningen vår hjelper alle til med matlagingen.; In unserem Haushalt hilft jeder beim Kochen.
+no-xa-0042; Haushalt (ein Haushalt mit Kindern); en husholdning; ; B1; Alltag/Zuhause/Haushalt; I husholdningen vår hjelper alle til med matlagingen.; In unserem Haushalt hilft jeder beim Kochen.
 no-xa-0043; staubsaugen; å støvsuge; ; A2; Alltag/Zuhause/Haushalt; På lørdager støvsuger jeg hele leiligheten.; Samstags staubsauge ich die ganze Wohnung.
 no-xa-0044; lüften; å lufte; ; B1; Alltag/Zuhause/Haushalt; Åpne vinduene og luft rommet i ti minutter.; Mach die Fenster auf und lüfte das Zimmer zehn Minuten.
 no-xa-0045; renovieren; å pusse opp; å renovere; B1; Alltag/Zuhause/Haushalt; De pusser opp den gamle bondegården selv.; Sie renovieren das alte Bauernhaus selbst.
-no-xa-0046; streichen (Wand); å male; ; B1; Alltag/Zuhause/Haushalt; Vi vil male soverommet vårt grønt.; Wir wollen unser Schlafzimmer grün streichen.
+no-xa-0046; streichen (die Wand streichen); å male; ; B1; Alltag/Zuhause/Haushalt; Vi vil male soverommet vårt grønt.; Wir wollen unser Schlafzimmer grün streichen.
 no-xa-0047; tapezieren; å tapetsere; ; B2; Alltag/Zuhause/Haushalt; Faren min tapetserte gangen forrige helg.; Mein Vater hat letztes Wochenende den Flur tapeziert.
 no-xa-0431; Tapete; en tapet; ; B1; Alltag/Zuhause/Haushalt; Vi har valgt en tapet med små blomster.; Wir haben eine Tapete mit kleinen Blumen ausgesucht.
-no-xa-0432; Farbe (zum Streichen); en maling; ; A2; Alltag/Zuhause/Haushalt; Vi trenger to bokser hvit maling til.; Wir brauchen noch zwei Dosen weiße Farbe.
+no-xa-0432; Farbe (ein Eimer Farbe); en maling; ; A2; Alltag/Zuhause/Haushalt; Vi trenger to bokser hvit maling til.; Wir brauchen noch zwei Dosen weiße Farbe.
 no-xa-0433; Lack; en lakk; ; B2; Alltag/Zuhause/Haushalt; Det gamle bordet trenger et nytt strøk lakk.; Der alte Tisch braucht eine neue Schicht Lack.
 no-xa-0048; unordentlich; rotete; uryddig; A2; Alltag/Zuhause/Haushalt; Skrivebordet ditt er alltid så rotete.; Dein Schreibtisch ist immer so unordentlich.
 no-xa-0049; staubig; støvete; ; B1; Alltag/Zuhause/Haushalt; De gamle bøkene på loftet er veldig støvete.; Die alten Bücher auf dem Dachboden sind sehr staubig.
@@ -88,12 +88,12 @@ no-xa-0081; Mais (zum Essen); en mais; ; A2; Alltag/Essen/Lebensmittel; Ha en bo
 no-xa-0082; Aubergine; en aubergine; ; B1; Alltag/Essen/Lebensmittel; Skjær auberginen i tynne skiver og stek dem.; Schneide die Aubergine in dünne Scheiben und brate sie.
 no-xa-0083; Lauch; ei purre; en purre; B1; Alltag/Essen/Lebensmittel; Potetsuppe med purre er perfekt om vinteren.; Kartoffelsuppe mit Lauch ist im Winter perfekt.
 no-xa-0084; Spargel; en asparges; ; B1; Alltag/Essen/Lebensmittel; I mai spiser vi hvit asparges med skinke.; Im Mai essen wir weißen Spargel mit Schinken.
-no-xa-0085; Linse (Hülsenfrucht); ei linse; en linse; B1; Alltag/Essen/Lebensmittel; Røde linser er ferdige på omtrent femten minutter.; Rote Linsen sind in etwa fünfzehn Minuten gar.
+no-xa-0085; Linse (Suppe mit Linsen); ei linse; en linse; B1; Alltag/Essen/Lebensmittel; Røde linser er ferdige på omtrent femten minutter.; Rote Linsen sind in etwa fünfzehn Minuten gar.
 no-xa-0086; Kichererbse; en kikert; ; B2; Alltag/Essen/Lebensmittel; Hummus lages av kikerter og sesampasta.; Hummus wird aus Kichererbsen und Sesampaste gemacht.
 no-xa-0087; Ananas; en ananas; ; A2; Alltag/Essen/Lebensmittel; Er ananasen moden nok til å spises?; Ist die Ananas reif genug zum Essen?
 no-xa-0088; Kirsche; et kirsebær; ; A1; Alltag/Essen/Lebensmittel; Kirsebærene fra treet vårt er veldig søte.; Die Kirschen von unserem Baum sind sehr süß.
 no-xa-0089; Pfirsich; en fersken; ; A2; Alltag/Essen/Lebensmittel; Denne ferskenen er myk og saftig.; Dieser Pfirsich ist weich und saftig.
-no-xa-0090; Mandel (Nuss); en mandel; ; B1; Alltag/Essen/Lebensmittel; Kaka bakes med malte mandler.; Der Kuchen wird mit gemahlenen Mandeln gebacken.
+no-xa-0090; Mandel (gebrannte Mandeln); en mandel; ; B1; Alltag/Essen/Lebensmittel; Kaka bakes med malte mandler.; Der Kuchen wird mit gemahlenen Mandeln gebacken.
 no-xa-0091; Walnuss; en valnøtt; ; B1; Alltag/Essen/Lebensmittel; Hun har puttet noen valnøtter i salaten.; Sie hat ein paar Walnüsse in den Salat getan.
 no-xa-0092; Keks; en kjeks; ; A1; Alltag/Essen/Lebensmittel; Vil du ha en kjeks til teen?; Möchtest du einen Keks zum Tee?
 no-xa-0093; Bonbon; et sukkertøy; et drops; A1; Alltag/Essen/Lebensmittel; Legen ga det lille barnet et sukkertøy.; Der Arzt gab dem kleinen Kind ein Bonbon.
@@ -126,10 +126,10 @@ no-xa-0118; Orangensaft; en appelsinjuice; ; A1; Alltag/Essen/Getränke; Fersk a
 no-xa-0119; Rotwein; en rødvin; ; A2; Alltag/Essen/Getränke; Til middag drakk vi en flaske rødvin.; Zum Abendessen haben wir eine Flasche Rotwein getrunken.
 no-xa-0120; alkoholfrei; alkoholfri; ; B1; Alltag/Essen/Getränke; Sjåføren i bilen drikker bare alkoholfritt øl.; Der Fahrer im Auto trinkt nur alkoholfreies Bier.
 no-xa-0121; Alkohol; en alkohol; ; A2; Alltag/Essen/Getränke; Det er ingen alkohol i denne punsjen.; In diesem Punsch ist kein Alkohol.
-no-xa-0122; reiben (Käse); å rive; ; B2; Alltag/Essen/Kochen; Riv litt ost over pastaen før servering.; Reib vor dem Servieren etwas Käse über die Nudeln.
+no-xa-0122; reiben (Käse reiben); å rive; ; B2; Alltag/Essen/Kochen; Riv litt ost over pastaen før servering.; Reib vor dem Servieren etwas Käse über die Nudeln.
 no-xa-0123; kneten; å elte; ; B2; Alltag/Essen/Kochen; Elt deigen godt i ti minutter.; Knete den Teig gut zehn Minuten lang.
 no-xa-0124; abgießen; å helle av; å sile av; B2; Alltag/Essen/Kochen; Hell av potetene og la dem kjøle seg ned litt.; Gieß die Kartoffeln ab und lass sie etwas abkühlen.
-no-xa-0125; würfeln (Gemüse); å skjære i terninger; å terne; B2; Alltag/Essen/Kochen; Skjær løken i terninger og stek den i olje.; Würfle die Zwiebeln und brate sie in Öl an.
+no-xa-0125; würfeln (Zwiebeln würfeln); å skjære i terninger; å terne; B2; Alltag/Essen/Kochen; Skjær løken i terninger og stek den i olje.; Würfle die Zwiebeln und brate sie in Öl an.
 no-xa-0126; bestreuen; å drysse; å strø på; B2; Alltag/Essen/Kochen; Dryss ost og oregano over pizzaen.; Streu Käse und Oregano über die Pizza.
 no-xa-0127; verquirlen; å vispe; å piske; C1; Alltag/Essen/Kochen; Visp eggene godt sammen med litt melk.; Verquirl die Eier gut mit etwas Milch.
 no-xa-0128; Prise; en klype; ; B2; Alltag/Essen/Kochen; Ha en klype salt i vannet.; Gib eine Prise Salz ins Wasser.
@@ -149,13 +149,13 @@ no-xa-0141; Rührei; ei eggerøre; en eggerøre; A2; Alltag/Essen/Mahlzeiten; P�
 no-xa-0142; Eintopf; en gryterett; ; B1; Alltag/Essen/Mahlzeiten; En varm gryterett passer perfekt en kald dag.; Ein heißer Eintopf ist an einem kalten Tag genau richtig.
 no-xa-0143; Auflauf; en grateng; en ovnsrett; B2; Alltag/Essen/Mahlzeiten; Hun lagde en grateng med grønnsaker og ost på toppen.; Sie hat einen Auflauf mit Gemüse und Käse obendrauf gemacht.
 no-xa-0144; Portion; en porsjon; ; A2; Alltag/Essen/Mahlzeiten; Porsjonene på denne restauranten er enorme.; Die Portionen in diesem Restaurant sind riesig.
-no-xa-0145; Scheibe (Brot); ei skive; en skive; A2; Alltag/Essen/Mahlzeiten; Kan jeg få ei skive brød til?; Könnte ich noch eine Scheibe Brot haben?
+no-xa-0145; Scheibe (eine Scheibe Brot); ei skive; en skive; A2; Alltag/Essen/Mahlzeiten; Kan jeg få ei skive brød til?; Könnte ich noch eine Scheibe Brot haben?
 no-xa-0146; Kantine; en kantine; ; B1; Alltag/Essen/Restaurant; Vi spiser lunsj i kantinen på jobben.; Wir essen in der Kantine bei der Arbeit zu Mittag.
 no-xa-0147; Café; en kafé; en kafe; A1; Alltag/Essen/Restaurant; La oss møtes på kaféen på hjørnet.; Lass uns im Café an der Ecke treffen.
 no-xa-0148; Bedienung; en betjening; en service; B1; Alltag/Essen/Restaurant; Maten var god, men betjeningen var treg.; Das Essen war gut, aber die Bedienung war langsam.
 no-xa-0149; Tagesgericht; dagens rett; ; B1; Alltag/Essen/Restaurant; Dagens rett i dag er kyllingkarri med ris.; Das Tagesgericht ist heute Hähnchencurry mit Reis.
 no-xa-0150; Beilage; et tilbehør; ; B1; Alltag/Essen/Restaurant; Som tilbehør er det ris eller salat.; Als Beilage gibt es Reis oder Salat.
-no-xa-0151; Gang (beim Essen); en rett; ; B2; Alltag/Essen/Restaurant; Middagen i bryllupet hadde hele fem retter.; Das Hochzeitsessen hatte fünf Gänge.
+no-xa-0151; Gang (ein Menü mit drei Gängen); en rett; ; B2; Alltag/Essen/Restaurant; Middagen i bryllupet hadde hele fem retter.; Das Hochzeitsessen hatte fünf Gänge.
 no-xa-0152; Buffet; en buffet; ; B1; Alltag/Essen/Restaurant; Frokosten på hotellet er en stor buffet.; Das Frühstück im Hotel ist ein großes Buffet.
 no-xa-0153; Lieferdienst; en leveringstjeneste; ; B1; Alltag/Essen/Restaurant; Vi bestilte pizza fra en leveringstjeneste.; Wir haben Pizza bei einem Lieferdienst bestellt.
 no-xa-0154; Kleidung; klær; ; A1; Alltag/Kleidung/Kleidungsstücke; Ta med varme klær, for det blir kaldt om natten.; Nimm warme Kleidung mit, weil es nachts kalt wird.
@@ -175,7 +175,7 @@ no-xa-0167; Schnalle; ei spenne; en spenne; C1; Alltag/Kleidung/Schuhe & Accesso
 no-xa-0439; Brieftasche; ei lommebok; en lommebok; B1; Alltag/Kleidung/Schuhe & Accessoires; Han har legitimasjonen sin i lommeboka.; Er hat seinen Ausweis in der Brieftasche.
 no-xa-0440; Laufschuh; en løpesko; ; B1; Alltag/Kleidung/Schuhe & Accessoires; Til maraton trenger jeg nye løpesko.; Für den Marathon brauche ich neue Laufschuhe.
 no-xa-0168; Schuhgröße; en skostørrelse; et skonummer; A2; Alltag/Kleidung/Einkauf & Passform; Jeg lurer på hvilken skostørrelse du har.; Ich frage mich, welche Schuhgröße du hast.
-no-xa-0169; locker (Kleidung); løs; vid; B1; Alltag/Kleidung/Einkauf & Passform; Om sommeren bruker jeg gjerne løse klær.; Im Sommer trage ich gern lockere Kleidung.
+no-xa-0169; locker (die Hose sitzt locker); løs; vid; B1; Alltag/Kleidung/Einkauf & Passform; Om sommeren bruker jeg gjerne løse klær.; Im Sommer trage ich gern lockere Kleidung.
 no-xa-0170; ärmellos; ermeløs; ; B1; Alltag/Kleidung/Kleidungsstücke; Det er for kaldt for en ermeløs kjole.; Für ein ärmelloses Kleid ist es zu kalt.
 no-xa-0171; wasserdicht; vanntett; ; B1; Alltag/Kleidung/Kleidungsstücke; Til denne turen trenger du en vanntett jakke.; Für diese Wanderung brauchst du eine wasserdichte Jacke.
 no-xa-0172; schick; elegant; stilig; B1; Alltag/Kleidung/Stil; Du ser veldig elegant ut i dress.; Du siehst in dem Anzug sehr schick aus.
@@ -185,14 +185,14 @@ no-xa-0175; flicken; å lappe; ; B2; Alltag/Kleidung/Pflege & Schneiderei; Moren
 no-xa-0176; Loch; et hull; ; A2; Alltag/Kleidung/Pflege & Schneiderei; Det er et stort hull i sokken din.; In deiner Socke ist ein großes Loch.
 no-xa-0177; zerrissen; iturevet; revet; B1; Alltag/Kleidung/Pflege & Schneiderei; Etter slåsskampen var skjorta hans iturevet.; Nach der Prügelei war sein Hemd zerrissen.
 no-xa-0178; Etikett; en etikett; ; B1; Alltag/Kleidung/Pflege & Schneiderei; Les etiketten før du vasker genseren.; Lies das Etikett, bevor du den Pullover wäschst.
-no-xa-0179; einlaufen (Wäsche); å krympe; ; B2; Alltag/Kleidung/Pflege & Schneiderei; Favoritt-T-skjorta mi krympet i vaskemaskinen i går.; Mein Lieblings-T-Shirt ist gestern in der Wäsche eingelaufen.
+no-xa-0179; einlaufen (der Pulli ist eingelaufen); å krympe; ; B2; Alltag/Kleidung/Pflege & Schneiderei; Favoritt-T-skjorta mi krympet i vaskemaskinen i går.; Mein Lieblings-T-Shirt ist gestern in der Wäsche eingelaufen.
 no-xa-0180; knittern; å krølle seg; å skrukke seg; B2; Alltag/Kleidung/Pflege & Schneiderei; Skjorter av lin krøller seg veldig lett.; Hemden aus Leinen knittern sehr leicht.
 no-xa-0181; zerknittert; krøllete; skrukkete; B2; Alltag/Kleidung/Pflege & Schneiderei; Etter den lange flyturen var skjorta hans helt krøllete.; Nach dem langen Flug war sein Hemd ganz zerknittert.
 no-xa-0182; Lebensmittelgeschäft; en dagligvarebutikk; en matbutikk, en nærbutikk; A2; Alltag/Einkaufen/Geschäfte; Nederst i gata vår er det en liten dagligvarebutikk.; Am Ende unserer Straße gibt es ein kleines Lebensmittelgeschäft.
 no-xa-0183; Kaufhaus; et varehus; ; A2; Alltag/Einkaufen/Geschäfte; Varehuset selger alt fra sko til sofaer.; Das Kaufhaus verkauft alles von Schuhen bis zu Sofas.
 no-xa-0184; Schreibwarenladen; en papirhandel; ; B1; Alltag/Einkaufen/Geschäfte; Jeg kjøpte nye penner i papirhandelen.; Ich habe im Schreibwarenladen neue Stifte gekauft.
 no-xa-0185; Optiker; en optiker; ; B1; Alltag/Einkaufen/Geschäfte; Jeg henter de nye brillene mine hos optikeren.; Ich hole meine neue Brille beim Optiker ab.
-no-xa-0186; Reinigung (Geschäft); et renseri; ; B2; Alltag/Einkaufen/Geschäfte; Kan du ta med dressen min til renseriet?; Kannst du meinen Anzug in die Reinigung bringen?
+no-xa-0186; Reinigung (den Anzug zur Reinigung bringen); et renseri; ; B2; Alltag/Einkaufen/Geschäfte; Kan du ta med dressen min til renseriet?; Kannst du meinen Anzug in die Reinigung bringen?
 no-xa-0187; Waschsalon; et myntvaskeri; ; B2; Alltag/Einkaufen/Geschäfte; Vaskemaskinen vår er ødelagt, så jeg drar til myntvaskeriet.; Unsere Waschmaschine ist kaputt, deshalb gehe ich in den Waschsalon.
 no-xa-0188; Theke; en disk; ; B1; Alltag/Einkaufen/Geschäfte; Spør etter osten ved disken der borte.; Frag dort drüben an der Theke nach dem Käse.
 no-xa-0189; Kassierer; en kasserer; ; A2; Alltag/Einkaufen/Geschäfte; Kassereren i butikken ga meg feil vekslepenger.; Der Kassierer im Laden gab mir falsches Wechselgeld.
@@ -213,7 +213,7 @@ no-xa-0200; übergewichtig; overvektig; ; B1; Mensch/Aussehen; Legen sa at han v
 no-xa-0201; blond; blond; lys; A2; Mensch/Aussehen; Begge barna har blondt hår og blå øyne.; Beide Kinder haben blonde Haare und blaue Augen.
 no-xa-0202; dunkelhaarig; mørkhåret; ; B1; Mensch/Aussehen; En mørkhåret kvinne ventet ved døra.; Eine dunkelhaarige Frau wartete an der Tür.
 no-xa-0203; lockig; krøllete; kruset; A2; Mensch/Aussehen; Datteren hennes har langt, krøllete hår.; Ihre Tochter hat lange, lockige Haare.
-no-xa-0204; glatt (Haar); rett; glatt; A2; Mensch/Aussehen; Håret mitt er rett, men håret til broren min er krøllete.; Meine Haare sind glatt, aber die meines Bruders sind lockig.
+no-xa-0204; glatt (glatte Haare); rett; glatt; A2; Mensch/Aussehen; Håret mitt er rett, men håret til broren min er krøllete.; Meine Haare sind glatt, aber die meines Bruders sind lockig.
 no-xa-0205; kahl; skallet; ; B1; Mensch/Aussehen; Onkelen min ble skallet da han var tretti.; Mein Onkel wurde mit dreißig kahl.
 no-xa-0206; Bart; et skjegg; ; A2; Mensch/Aussehen; Han har latt skjegget gro siden sommeren.; Er hat sich seit dem Sommer einen Bart wachsen lassen.
 no-xa-0207; Schnurrbart; en bart; ; B1; Mensch/Aussehen; Mannen på bildet har en tykk bart.; Der Mann auf dem Foto hat einen dichten Schnurrbart.
@@ -224,7 +224,7 @@ no-xa-0211; Muttermal; en føflekk; ; C1; Mensch/Aussehen; La en lege undersøke
 no-xa-0212; Zopf; en flette; ei flette; B2; Mensch/Aussehen; Moren hennes setter håret hennes i en flette hver morgen.; Ihre Mutter flicht ihr jeden Morgen einen Zopf.
 no-xa-0213; Pferdeschwanz; en hestehale; ; B1; Mensch/Aussehen; Når hun trener, binder hun håret i en hestehale.; Beim Sport bindet sie ihre Haare zu einem Pferdeschwanz.
 no-xa-0214; Frisur; en frisyre; ; A2; Mensch/Aussehen; Liker du den nye frisyren min?; Gefällt dir meine neue Frisur?
-no-xa-0215; Pony (Frisur); en lugg; ; B2; Mensch/Aussehen; Luggen din begynner å bli for lang.; Dein Pony wird zu lang.
+no-xa-0215; Pony (die Haare über der Stirn); en lugg; ; B2; Mensch/Aussehen; Luggen din begynner å bli for lang.; Dein Pony wird zu lang.
 no-xa-0216; blass; blek; ; B1; Mensch/Aussehen; Du ser blek ut, går det bra med deg?; Du siehst blass aus, geht es dir gut?
 no-xa-0217; braun gebrannt; solbrun; brun; B1; Mensch/Aussehen; De kom pent solbrune hjem fra Spania.; Sie kamen schön braun gebrannt aus Spanien zurück.
 no-xa-0218; muskulös; muskuløs; ; B2; Mensch/Aussehen; Svømmeren har veldig brede, muskuløse skuldre.; Der Schwimmer hat sehr breite, muskulöse Schultern.
@@ -303,7 +303,7 @@ no-xa-0290; Augenlid; et øyelokk; ; B2; Gesundheit/Körper; Det venstre øyelok
 no-xa-0291; Nasenloch; et nesebor; ; B2; Gesundheit/Körper; Pust sakte inn gjennom ett nesebor.; Atme langsam durch ein Nasenloch ein.
 no-xa-0292; Zahnfleisch; et tannkjøtt; ; B2; Gesundheit/Körper; Tannkjøttet mitt blør når jeg pusser tennene.; Mein Zahnfleisch blutet beim Zähneputzen.
 no-xa-0293; Nacken; en nakke; ; B1; Gesundheit/Körper; Jeg har en stiv nakke fordi jeg sov dårlig.; Ich habe einen steifen Nacken, weil ich schlecht geschlafen habe.
-no-xa-0294; Brust (Oberkörper); et bryst; ei brystkasse; A2; Gesundheit/Körper; Han har veldig vondt i brystet.; Er hat starke Schmerzen in der Brust.
+no-xa-0294; Brust (Schmerzen in der Brust); et bryst; ei brystkasse; A2; Gesundheit/Körper; Han har veldig vondt i brystet.; Er hat starke Schmerzen in der Brust.
 no-xa-0295; Hüfte; ei hofte; en hofte; B1; Gesundheit/Körper; Bestemoren min trenger ei ny hofte.; Meine Großmutter braucht eine neue Hüfte.
 no-xa-0296; Taille; ei midje; en midje; B1; Gesundheit/Körper; Disse buksene er for trange i midjen.; Diese Hose ist an der Taille zu eng.
 no-xa-0297; Po; ei rumpe; en rumpe; A2; Gesundheit/Körper; Den lille gutten falt på rumpa.; Der kleine Junge ist auf den Po gefallen.
@@ -316,7 +316,7 @@ no-xa-0303; Faust; en knyttneve; en neve; B1; Gesundheit/Körper; Han slo knyttn
 no-xa-0304; Handfläche; ei håndflate; en håndflate; B2; Gesundheit/Körper; Hun holdt den lille fuglen i håndflaten.; Sie hielt den kleinen Vogel in ihrer Handfläche.
 no-xa-0305; Bauchnabel; en navle; ; B1; Gesundheit/Körper; Babyen ler når man kiler henne på navlen.; Das Baby lacht, wenn man es am Bauchnabel kitzelt.
 no-xa-0306; Darm; en tarm; ; B2; Gesundheit/Körper; Fiber er bra for tarmen din.; Ballaststoffe sind gut für deinen Darm.
-no-xa-0307; Blase (Organ); ei blære; en blære; C1; Gesundheit/Körper; Å drikke nok vann er bra for blæren.; Genug Wasser zu trinken ist gut für die Blase.
+no-xa-0307; Blase (die Harnblase); ei blære; en blære; C1; Gesundheit/Körper; Å drikke nok vann er bra for blæren.; Genug Wasser zu trinken ist gut für die Blase.
 no-xa-0308; Nerv; en nerve; ; B1; Gesundheit/Körper; Tannlegen traff en nerve, og det gjorde skikkelig vondt.; Der Zahnarzt hat einen Nerv getroffen, und es tat richtig weh.
 no-xa-0309; Sehne; en sene; ; C1; Gesundheit/Körper; Fotballspilleren fikk revet en sene i foten.; Der Fußballer hat sich eine Sehne im Fuß gerissen.
 no-xa-0310; Schädel; en hodeskalle; en skalle; B2; Gesundheit/Körper; Hjelmen beskytter hodeskallen din hvis du faller.; Der Helm schützt deinen Schädel, wenn du stürzt.
@@ -330,7 +330,7 @@ no-xa-0317; Schwellung; en hevelse; ; B2; Gesundheit/Symptome; Legg is på den s
 no-xa-0318; geschwollen; hoven; oppsvulmet; B1; Gesundheit/Symptome; Etter fallet ble ankelen min veldig hoven.; Nach dem Sturz ist mein Knöchel stark geschwollen.
 no-xa-0319; blauer Fleck; et blåmerke; ; B1; Gesundheit/Symptome; Jeg har et stort blåmerke på armen.; Ich habe einen großen blauen Fleck am Arm.
 no-xa-0320; Krampf; en krampe; ; B2; Gesundheit/Symptome; Jeg våknet i natt med en krampe i beinet.; Nachts bin ich mit einem Krampf im Bein aufgewacht.
-no-xa-0321; Kater (nach Alkohol); en bakrus; ; B2; Gesundheit/Symptome; Han hadde en forferdelig bakrus etter festen.; Nach der Party hatte er einen schrecklichen Kater.
+no-xa-0321; Kater (einen Kater haben); en bakrus; ; B2; Gesundheit/Symptome; Han hadde en forferdelig bakrus etter festen.; Nach der Party hatte er einen schrecklichen Kater.
 no-xa-0322; Verbrennung; en brannskade; ; B1; Gesundheit/Symptome; Kjøl brannskaden med en gang med kaldt vann.; Kühl die Verbrennung sofort mit kaltem Wasser.
 no-xa-0323; Beule; en kul; ; B1; Gesundheit/Symptome; Han fikk en kul i hodet av døra.; Er hat von der Tür eine Beule am Kopf.
 no-xa-0324; Kratzer; ei skramme; en skramme, en rift; B1; Gesundheit/Symptome; Katten ga meg ei skramme på hånden.; Die Katze hat mir einen Kratzer an der Hand verpasst.
@@ -377,7 +377,7 @@ no-xa-0364; Hausarzt; en fastlege; en allmennlege; A2; Gesundheit/Beim Arzt; Hvi
 no-xa-0365; Kinderarzt; en barnelege; ; B1; Gesundheit/Beim Arzt; Vi skal gå til barnelegen med babyen i morgen.; Wir gehen morgen mit dem Baby zum Kinderarzt.
 no-xa-0366; Augenarzt; en øyelege; ; B1; Gesundheit/Beim Arzt; Øyelegen sier at jeg trenger sterkere briller.; Der Augenarzt sagt, dass ich eine stärkere Brille brauche.
 no-xa-0367; Facharzt; en spesialist; en spesiallege; B2; Gesundheit/Beim Arzt; Legen min sendte meg til en spesialist på hjertesykdommer.; Mein Arzt hat mich zu einem Facharzt für Herzkrankheiten geschickt.
-no-xa-0368; Sprechstunde (Arzt); en konsultasjonstid; en åpningstid; B2; Gesundheit/Beim Arzt; Legens konsultasjonstid er fra klokka åtte til tolv.; Die Sprechstunde des Arztes ist von acht bis zwölf.
+no-xa-0368; Sprechstunde (beim Arzt); en konsultasjonstid; en åpningstid; B2; Gesundheit/Beim Arzt; Legens konsultasjonstid er fra klokka åtte til tolv.; Die Sprechstunde des Arztes ist von acht bis zwölf.
 no-xa-0369; Arztpraxis; et legekontor; en legepraksis; B1; Gesundheit/Beim Arzt; Legekontoret ligger i andre etasje i dette bygget.; Die Arztpraxis ist im zweiten Stock.
 no-xa-0370; Untersuchung; en undersøkelse; ; B1; Gesundheit/Beim Arzt; Undersøkelsen tar bare noen få minutter.; Die Untersuchung dauert nur ein paar Minuten.
 no-xa-0371; Blutprobe; en blodprøve; ; B1; Gesundheit/Beim Arzt; Sykepleieren tok en blodprøve fra armen min.; Die Krankenschwester hat mir eine Blutprobe aus dem Arm genommen.
@@ -412,9 +412,9 @@ no-xa-0396; Antibiotikum; et antibiotikum; ; B2; Gesundheit/Apotheke & Medikamen
 no-xa-0397; Kapsel; en kapsel; ; B2; Gesundheit/Apotheke & Medikamente; Svelg kapselen med et glass vann.; Schluck die Kapsel mit einem Glas Wasser.
 no-xa-0398; Creme; en krem; ; A2; Gesundheit/Apotheke & Medikamente; Smør denne kremen på utslettet to ganger om dagen.; Trag diese Creme zweimal am Tag auf den Ausschlag auf.
 no-xa-0399; Schlaftablette; en sovepille; en sovetablett; B1; Gesundheit/Apotheke & Medikamente; Uten sovepille får hun ikke sove.; Ohne Schlaftablette kann sie nicht schlafen.
-no-xa-0400; einnehmen (Medikament); å ta; ; B1; Gesundheit/Apotheke & Medikamente; Du skal ta tablettene rett etter måltidet.; Nehmen Sie die Tabletten nach dem Essen ein.
+no-xa-0400; einnehmen (Tabletten einnehmen); å ta; ; B1; Gesundheit/Apotheke & Medikamente; Du skal ta tablettene rett etter måltidet.; Nehmen Sie die Tabletten nach dem Essen ein.
 no-xa-0401; verschreibungspflichtig; reseptbelagt; ; C1; Gesundheit/Apotheke & Medikamente; Denne medisinen er reseptbelagt i Tyskland.; Dieses Medikament ist in Deutschland verschreibungspflichtig.
-no-xa-0402; abnehmen (Gewicht); å gå ned i vekt; ; A2; Gesundheit/Gesunde Lebensweise; Hun vil gå ned i vekt før sommeren.; Sie möchte vor dem Sommer abnehmen.
+no-xa-0402; abnehmen (fünf Kilo abnehmen); å gå ned i vekt; ; A2; Gesundheit/Gesunde Lebensweise; Hun vil gå ned i vekt før sommeren.; Sie möchte vor dem Sommer abnehmen.
 no-xa-0403; rauchen; å røyke; ; A2; Gesundheit/Gesunde Lebensweise; Faren min sluttet å røyke for tjue år siden.; Mein Vater hat vor zwanzig Jahren aufgehört zu rauchen.
 no-xa-0404; Nichtraucher; en ikkerøyker; ; B1; Gesundheit/Gesunde Lebensweise; Jeg har vært ikkerøyker i tre år nå.; Ich bin jetzt seit drei Jahren Nichtraucher.
 no-xa-0405; Raucher; en røyker; ; A2; Gesundheit/Gesunde Lebensweise; Mange røykere hoster ofte om morgenen.; Viele Raucher husten morgens oft.

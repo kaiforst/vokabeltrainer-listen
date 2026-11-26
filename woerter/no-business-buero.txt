@@ -29,12 +29,12 @@ no-bb-0026; Team; et team; et lag; A2; Business/Büro/Projekte; Teamet vårt mø
 no-bb-0027; Auftrag; en ordre; et oppdrag; A2; Business/Büro/Geschäftspartner; Vi har fått en stor ordre fra Frankrike.; Wir haben einen großen Auftrag aus Frankreich erhalten.
 no-bb-0028; Rechnung; en regning; en faktura; A2; Business/Büro/Finanzen; Betal regningen innen to uker, takk.; Bitte bezahlen Sie die Rechnung innerhalb von zwei Wochen.
 no-bb-0029; Angebot; et tilbud; ; A2; Business/Büro/Verhandlung; Vi sender deg tilbudet vårt på fredag.; Wir schicken Ihnen unser Angebot am Freitag.
-no-bb-0030; Preis (Kosten); en pris; ; A2; Business/Büro/Verhandlung; Prisen inkluderer både levering og montering.; Der Preis beinhaltet Lieferung und Montage.
+no-bb-0030; Preis (ein günstiger Preis); en pris; ; A2; Business/Büro/Verhandlung; Prisen inkluderer både levering og montering.; Der Preis beinhaltet Lieferung und Montage.
 no-bb-0031; Vertrag; en kontrakt; en avtale; A2; Business/Büro/Verhandlung; Begge partnere signerer kontrakten i dag.; Beide Partner unterschreiben heute den Vertrag.
 no-bb-0032; unterschreiben; å signere; å skrive under; A2; Business/Büro/Verhandlung; Vennligst signer dokumentet på siste side.; Bitte unterschreiben Sie das Dokument auf der letzten Seite.
 no-bb-0033; senden; å sende; ; A2; Business/Büro/E-Mail & Telefon; Jeg sender deg filen med en gang.; Ich sende Ihnen die Datei sofort.
 no-bb-0034; empfangen; å motta; ; A2; Business/Büro/E-Mail & Telefon; Har du mottatt meldingen min fra i går?; Haben Sie meine Nachricht von gestern empfangen?
-no-bb-0035; Nachricht (Mitteilung); en melding; ei melding; A2; Business/Büro/E-Mail & Telefon; Legg igjen en melding etter pipetonen.; Bitte hinterlassen Sie eine Nachricht nach dem Ton.
+no-bb-0035; Nachricht (eine Nachricht schicken); en melding; ei melding; A2; Business/Büro/E-Mail & Telefon; Legg igjen en melding etter pipetonen.; Bitte hinterlassen Sie eine Nachricht nach dem Ton.
 no-bb-0036; Anruf; et anrop; en telefonsamtale; A2; Business/Büro/E-Mail & Telefon; Jeg venter et viktig anrop fra partneren vår.; Ich erwarte einen wichtigen Anruf von unserem Partner.
 no-bb-0037; zurückrufen; å ringe tilbake; ; A2; Business/Büro/E-Mail & Telefon; Kan du ringe tilbake om en time?; Könnten Sie bitte in einer Stunde zurückrufen?
 no-bb-0038; Kopierer; en kopimaskin; en kopiator; A2; Business/Büro/Ausstattung; Kopimaskinen i andre etasje er ødelagt.; Der Kopierer im zweiten Stock ist kaputt.
@@ -42,16 +42,16 @@ no-bb-0039; drucken; å skrive ut; ; A2; Business/Büro/Ausstattung; Skriv ut ra
 no-bb-0040; kopieren; å kopiere; ; A2; Business/Büro/Ausstattung; Kan du kopiere disse sidene for meg?; Können Sie diese Seiten für mich kopieren?
 no-bb-0041; Bildschirm; en skjerm; ; A2; Business/Büro/Ausstattung; En ekstra skjerm gjør jobben min mye lettere.; Ein zweiter Bildschirm erleichtert meine Arbeit sehr.
 no-bb-0042; Tastatur; et tastatur; ; A2; Business/Büro/Ausstattung; Det nye tastaturet mitt er stille og komfortabelt.; Meine neue Tastatur ist leise und bequem.
-no-bb-0043; Maus (Computer); ei mus; en mus; A2; Business/Büro/Ausstattung; Den trådløse musen trenger et nytt batteri.; Die kabellose Maus braucht eine neue Batterie.
+no-bb-0043; Maus (die Maus am Computer); ei mus; en mus; A2; Business/Büro/Ausstattung; Den trådløse musen trenger et nytt batteri.; Die kabellose Maus braucht eine neue Batterie.
 no-bb-0044; Ordner; en perm; ; A2; Business/Büro/Ausstattung; Alle kontraktene ligger i den blå permen.; Alle Verträge sind im blauen Ordner.
 no-bb-0045; Dokument; et dokument; ; A2; Business/Büro/Projekte; Vær så snill å sjekke dokumentet før møtet.; Bitte prüfen Sie das Dokument vor dem Meeting.
 no-bb-0046; Datei; ei fil; en fil; A2; Business/Büro/E-Mail & Telefon; Filen er for stor til en e-post.; Die Datei ist zu groß für eine E-Mail.
 no-bb-0047; Besucher; en besøkende; ; A2; Business/Büro/Geschäftspartner; Våre besøkende kommer til resepsjonen klokka ni.; Unsere Besucher kommen um neun am Empfang an.
-no-bb-0048; Geschäft (Handel); en handel; en forretning; A2; Business/Büro/Geschäftspartner; Handelen med den nye partneren går bra.; Das Geschäft mit dem neuen Partner läuft gut.
+no-bb-0048; Geschäft (Geschäfte machen); en handel; en forretning; A2; Business/Büro/Geschäftspartner; Handelen med den nye partneren går bra.; Das Geschäft mit dem neuen Partner läuft gut.
 no-bb-0049; Lieferung; en levering; en leveranse; A2; Business/Büro/Geschäftspartner; Leveringen kommer frem senest på torsdag.; Die Lieferung kommt spätestens am Donnerstag an.
 no-bb-0050; liefern; å levere; ; A2; Business/Büro/Geschäftspartner; Vi leverer varene innen fem virkedager.; Wir liefern die Ware innerhalb von fünf Werktagen.
 no-bb-0051; Tagesordnung; en dagsorden; en agenda; B1; Business/Büro/Meetings; Det første punktet på dagsordenen er budsjettet.; Der erste Punkt auf der Tagesordnung ist das Budget.
-no-bb-0052; Protokoll (Sitzung); et referat; ; B1; Business/Büro/Meetings; Hvem skriver referatet fra møtet i dag?; Wer schreibt heute das Protokoll der Besprechung?
+no-bb-0052; Protokoll (Protokoll führen); et referat; ; B1; Business/Büro/Meetings; Hvem skriver referatet fra møtet i dag?; Wer schreibt heute das Protokoll der Besprechung?
 no-bb-0053; Teilnehmer; en deltaker; ; B1; Business/Büro/Meetings; Hver deltaker får dokumentene på forhånd.; Jeder Teilnehmer erhält die Unterlagen im Voraus.
 no-bb-0054; teilnehmen; å delta; ; B1; Business/Büro/Meetings; Tolv kolleger skal delta på workshopen.; Zwölf Kollegen werden am Workshop teilnehmen.
 no-bb-0055; verschieben; å utsette; ; B1; Business/Büro/Meetings; Vi må utsette møtet til torsdag.; Wir müssen das Meeting auf Donnerstag verschieben.
@@ -80,7 +80,7 @@ no-bb-0077; Filiale; en filial; ; B1; Business/Büro/Geschäftspartner; Firmaet 
 no-bb-0078; Zentrale; et hovedkontor; ; B1; Business/Büro/Geschäftspartner; Hovedkontoret til selskapet ligger i Zürich.; Die Zentrale des Unternehmens ist in Zürich.
 no-bb-0079; Präsentation; en presentasjon; ; B1; Business/Büro/Präsentation; Presentasjonen din om det nye produktet var utmerket.; Ihre Präsentation über das neue Produkt war ausgezeichnet.
 no-bb-0080; präsentieren; å presentere; ; B1; Business/Büro/Präsentation; Han skal presentere resultatene på onsdag.; Er präsentiert die Ergebnisse am Mittwoch.
-no-bb-0081; Folie (Präsentation); et lysbilde; en slide; B1; Business/Büro/Präsentation; Det neste lysbildet viser salgstallene våre.; Die nächste Folie zeigt unsere Verkaufszahlen.
+no-bb-0081; Folie (die Folien einer Präsentation); et lysbilde; en slide; B1; Business/Büro/Präsentation; Det neste lysbildet viser salgstallene våre.; Die nächste Folie zeigt unsere Verkaufszahlen.
 no-bb-0082; Diagramm; et diagram; en graf; B1; Business/Büro/Präsentation; Diagrammet sammenligner resultatene fra tre år.; Das Diagramm vergleicht die Ergebnisse von drei Jahren.
 no-bb-0083; Zusammenfassung; et sammendrag; en oppsummering; B1; Business/Büro/Präsentation; Et kort sammendrag følger på slutten.; Eine kurze Zusammenfassung folgt am Ende.
 no-bb-0084; zusammenfassen; å oppsummere; ; B1; Business/Büro/Präsentation; La meg oppsummere de viktigste punktene.; Lassen Sie mich die wichtigsten Punkte zusammenfassen.
@@ -103,7 +103,7 @@ no-bb-0100; Umsetzung; en innføring; en implementering, en gjennomføring; B2; 
 no-bb-0101; Meilenstein; en milepæl; ; B2; Business/Büro/Projekte; Vi nådde en viktig milepæl forrige uke.; Wir haben letzte Woche einen wichtigen Meilenstein erreicht.
 no-bb-0102; Projektleiter; en prosjektleder; ; B2; Business/Büro/Projekte; Prosjektlederen koordinerer alle team og frister.; Der Projektleiter koordiniert alle Teams und Termine.
 no-bb-0103; zuständig; ansvarlig; ; B2; Business/Büro/Projekte; Hvem er egentlig ansvarlig for kundedataene?; Wer ist für die Kundendaten zuständig?
-no-bb-0104; Abstimmung (Koordination); en koordinering; en samordning; B2; Business/Büro/Meetings; Tett koordinering mellom avdelingene sparer mye tid.; Enge Abstimmung zwischen den Abteilungen spart Zeit.
+no-bb-0104; Abstimmung (sich gut absprechen); en koordinering; en samordning; B2; Business/Büro/Meetings; Tett koordinering mellom avdelingene sparer mye tid.; Enge Abstimmung zwischen den Abteilungen spart Zeit.
 no-bb-0105; Rücksprache; et samråd; ; B2; Business/Büro/Meetings; Ikke gi noen løfter uten samråd med meg.; Bitte machen Sie keine Zusagen ohne Rücksprache mit mir.
 no-bb-0106; Entscheidung; en beslutning; en avgjørelse; B2; Business/Büro/Meetings; Den endelige beslutningen tas på fredag.; Die endgültige Entscheidung fällt am Freitag.
 no-bb-0107; entscheiden; å bestemme seg; ; B2; Business/Büro/Meetings; Vi må bestemme oss for tilbudet denne uken.; Wir müssen diese Woche über das Angebot entscheiden.
@@ -119,12 +119,12 @@ no-bb-0116; Rabatt; en rabatt; ; B2; Business/Büro/Verhandlung; Vi gir rabatt p
 no-bb-0117; Zahlungsbedingungen; betalingsbetingelser; betalingsvilkår; B2; Business/Büro/Finanzen; Betalingsbetingelsene gir tretti dager etter levering.; Die Zahlungsbedingungen erlauben dreißig Tage nach Lieferung.
 no-bb-0118; Mahnung; en purring; en påminnelse; B2; Business/Büro/Finanzen; Kunden fikk en purring på den ubetalte regningen.; Der Kunde erhielt eine Mahnung für die offene Rechnung.
 no-bb-0119; überweisen; å overføre; ; B2; Business/Büro/Finanzen; Vennligst overfør beløpet til kontoen vår.; Bitte überweisen Sie den Betrag auf unser Konto.
-no-bb-0120; Überweisung (Bank); en overføring; en bankoverføring; B2; Business/Büro/Finanzen; Overføringen kom frem etter to dager.; Die Überweisung kam nach zwei Tagen an.
+no-bb-0120; Überweisung (Geld per Überweisung); en overføring; en bankoverføring; B2; Business/Büro/Finanzen; Overføringen kom frem etter to dager.; Die Überweisung kam nach zwei Tagen an.
 no-bb-0121; Spesen; utlegg; utgifter; B2; Business/Büro/Finanzen; Han fører opp utleggene sine etter hver forretningsreise.; Er rechnet seine Spesen nach jeder Geschäftsreise ab.
 no-bb-0122; Geschäftsreise; en forretningsreise; en tjenestereise; B2; Business/Büro/Geschäftspartner; Hun er på forretningsreise i Wien.; Sie ist auf Geschäftsreise in Wien.
 no-bb-0123; Visitenkarte; et visittkort; ; B2; Business/Büro/Geschäftspartner; Han ga meg visittkortet sitt på messen.; Er gab mir auf der Messe seine Visitenkarte.
 no-bb-0124; Netzwerk; et nettverk; ; B2; Business/Büro/Geschäftspartner; Et sterkt nettverk hjelper i vanskelige prosjekter.; Ein starkes Netzwerk hilft bei schwierigen Projekten.
-no-bb-0125; Messe (Ausstellung); en messe; en utstilling; B2; Business/Büro/Geschäftspartner; Firmaet vårt viser to nye produkter på messen.; Unsere Firma präsentiert zwei neue Produkte auf der Messe.
+no-bb-0125; Messe (auf einer Messe ausstellen); en messe; en utstilling; B2; Business/Büro/Geschäftspartner; Firmaet vårt viser to nye produkter på messen.; Unsere Firma präsentiert zwei neue Produkte auf der Messe.
 no-bb-0126; Verhandlungsspielraum; et forhandlingsrom; ; C1; Business/Büro/Verhandlung; Det er lite forhandlingsrom når det gjelder prisen.; Beim Preis gibt es wenig Verhandlungsspielraum.
 no-bb-0127; Zugeständnis; en innrømmelse; ; C1; Business/Büro/Verhandlung; Begge sider gjorde en innrømmelse for å bli enige.; Beide Seiten machten ein Zugeständnis, um eine Einigung zu erreichen.
 no-bb-0128; Einwand; en innvending; ; C1; Business/Büro/Verhandlung; Han kom med en innvending mot den stramme tidsplanen.; Er erhob einen Einwand gegen den engen Zeitplan.

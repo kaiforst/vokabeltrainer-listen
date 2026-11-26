@@ -5,14 +5,14 @@ nl-xc-0002; Lamm; het lam; ; A2; Natur/Tiere/Haustiere; In de lente spelen de la
 nl-xc-0003; Welpe; de puppy; de pup; A2; Natur/Tiere/Haustiere; Onze nieuwe puppy kauwt op alles wat hij vindt.; Unser neuer Welpe kaut auf allem herum, was er findet.
 nl-xc-0004; Kätzchen; het katje; het poesje, het kitten; A2; Natur/Tiere/Haustiere; Het katje speelt met een bolletje wol.; Das Kätzchen spielt mit einem Wollknäuel.
 nl-xc-0005; Küken; het kuiken; ; B1; Natur/Tiere/Haustiere; Vanmorgen zijn er zes gele kuikens uitgekomen.; Heute Morgen sind sechs gelbe Küken geschlüpft.
-nl-xc-0006; Hahn (Tier); de haan; ; A2; Natur/Tiere/Haustiere; De haan maakt om vijf uur het hele erf wakker.; Der Hahn weckt um fünf den ganzen Hof.
+nl-xc-0006; Hahn (der Hahn kräht); de haan; ; A2; Natur/Tiere/Haustiere; De haan maakt om vijf uur het hele erf wakker.; Der Hahn weckt um fünf den ganzen Hof.
 nl-xc-0007; Stier; de stier; ; B1; Natur/Tiere/Haustiere; Ga nooit een weiland in waar een stier staat.; Geh nie auf eine Weide, auf der ein Stier steht.
 nl-xc-0008; Gans; de gans; ; B1; Natur/Tiere/Haustiere; Een gans heeft ons over de wei achternagezeten.; Eine Gans hat uns über die Wiese gejagt.
 nl-xc-0009; Truthahn; de kalkoen; ; B1; Natur/Tiere/Haustiere; Veel gezinnen eten met Kerst kalkoen.; Viele Familien essen an Weihnachten Truthahn.
 nl-xc-0010; Hamster; de hamster; ; A2; Natur/Tiere/Haustiere; Mijn hamster slaapt de hele dag en rent de hele nacht.; Mein Hamster schläft den ganzen Tag und rennt die ganze Nacht.
 nl-xc-0011; Meerschweinchen; de cavia; ; A2; Natur/Tiere/Haustiere; De kinderen voeren elke ochtend de cavia.; Die Kinder füttern jeden Morgen das Meerschweinchen.
 nl-xc-0012; Goldfisch; de goudvis; ; A2; Natur/Tiere/Haustiere; Twee goudvissen zwemmen in de kom op haar bureau.; Zwei Goldfische schwimmen im Glas auf ihrem Schreibtisch.
-nl-xc-0013; Pony (Tier); de pony; ; A2; Natur/Tiere/Haustiere; Mijn kleine zusje rijdt elke zaterdag op een pony.; Meine kleine Schwester reitet jeden Samstag auf einem Pony.
+nl-xc-0013; Pony (auf einem Pony reiten); de pony; ; A2; Natur/Tiere/Haustiere; Mijn kleine zusje rijdt elke zaterdag op een pony.; Meine kleine Schwester reitet jeden Samstag auf einem Pony.
 nl-xc-0014; Käfig; de kooi; ; B1; Natur/Tiere/Haustiere; De vogel zingt in zijn kooi bij het raam.; Der Vogel singt in seinem Käfig am Fenster.
 nl-xc-0015; Stall; de stal; ; B1; Natur/Tiere/Haustiere; De paarden brengen de nacht door in de stal.; Die Pferde verbringen die Nacht im Stall.
 nl-xc-0016; Tierarzt; de dierenarts; ; A2; Natur/Tiere/Haustiere; We moeten met de hond naar de dierenarts.; Wir müssen mit dem Hund zum Tierarzt.
@@ -48,14 +48,14 @@ nl-xc-0045; Delfin; de dolfijn; ; A2; Natur/Tiere/Meerestiere; Dolfijnen zwommen
 nl-xc-0046; Hai; de haai; ; A2; Natur/Tiere/Meerestiere; De meeste haaien zijn niet gevaarlijk voor mensen.; Die meisten Haie sind für Menschen nicht gefährlich.
 nl-xc-0047; Tintenfisch; de inktvis; ; B2; Natur/Tiere/Meerestiere; Een inktvis kan in seconden van kleur veranderen.; Ein Tintenfisch kann in Sekunden seine Farbe ändern.
 nl-xc-0048; Qualle; de kwal; ; B2; Natur/Tiere/Meerestiere; Pas op, vandaag zitten er kwallen in het water.; Pass auf, heute sind Quallen im Wasser.
-nl-xc-0049; Muschel (Schale); de schelp; ; B1; Natur/Tiere/Meerestiere; De kinderen hebben op het strand schelpen verzameld.; Die Kinder haben am Strand Muscheln gesammelt.
+nl-xc-0049; Muschel (Muscheln am Strand sammeln); de schelp; ; B1; Natur/Tiere/Meerestiere; De kinderen hebben op het strand schelpen verzameld.; Die Kinder haben am Strand Muscheln gesammelt.
 nl-xc-0050; Seestern; de zeester; ; B2; Natur/Tiere/Meerestiere; We vonden een zeester in een poel tussen de rotsen.; Wir haben in einem Becken zwischen den Felsen einen Seestern gefunden.
 nl-xc-0051; Pinguin; de pinguïn; ; A2; Natur/Tiere/Vögel; Pinguïns kunnen niet vliegen, maar ze zwemmen heel goed.; Pinguine können nicht fliegen, aber sie schwimmen sehr gut.
 nl-xc-0052; Spatz; de mus; ; B2; Natur/Tiere/Vögel; Een mus pikt kruimels op onder onze tafel.; Ein Spatz pickt unter unserem Tisch Krümel auf.
 nl-xc-0053; Amsel; de merel; ; B2; Natur/Tiere/Vögel; Elke avond zingt er een merel op ons dak.; Jeden Abend singt eine Amsel auf unserem Dach.
 nl-xc-0054; Rabe; de raaf; ; B2; Natur/Tiere/Vögel; Een grote zwarte raaf zat op het hek.; Ein großer schwarzer Rabe saß auf dem Zaun.
 nl-xc-0055; Krähe; de kraai; ; B2; Natur/Tiere/Vögel; De kraaien maken vanmorgen veel lawaai.; Die Krähen machen heute Morgen viel Lärm.
-nl-xc-0056; Strauß (Vogel); de struisvogel; ; B1; Natur/Tiere/Vögel; Een struisvogel kan sneller rennen dan een paard.; Ein Strauß kann schneller laufen als ein Pferd.
+nl-xc-0056; Strauß (der Vogel Strauß); de struisvogel; ; B1; Natur/Tiere/Vögel; Een struisvogel kan sneller rennen dan een paard.; Ein Strauß kann schneller laufen als ein Pferd.
 nl-xc-0057; Flamingo; de flamingo; ; B1; Natur/Tiere/Vögel; De roze flamingo's stonden op één been in het meer.; Die rosa Flamingos standen auf einem Bein im See.
 nl-xc-0058; Storch; de ooievaar; ; B2; Natur/Tiere/Vögel; Een ooievaar heeft zijn nest op het kerkdak gebouwd.; Ein Storch hat sein Nest auf dem Kirchendach gebaut.
 nl-xc-0059; zwitschern; tjilpen; kwetteren; C1; Natur/Tiere/Vögel; De vogels beginnen te tjilpen voordat de zon opkomt.; Die Vögel fangen an zu zwitschern, bevor die Sonne aufgeht.
@@ -70,8 +70,8 @@ nl-xc-0067; Zecke; de teek; ; B2; Natur/Tiere/Insekten; Controleer na een boswan
 nl-xc-0068; Motte; de mot; ; B2; Natur/Tiere/Insekten; Een mot vloog om de lamp heen.; Eine Motte flog um die Lampe herum.
 nl-xc-0069; Kakerlake; de kakkerlak; ; B2; Natur/Tiere/Insekten; De hotelkeuken zat vol kakkerlakken.; Die Hotelküche war voller Kakerlaken.
 nl-xc-0070; Ungeziefer; het ongedierte; ; C1; Natur/Tiere/Insekten; De oude schuur zat vol ongedierte.; Die alte Scheune war voller Ungeziefer.
-nl-xc-0071; summen (Insekt); zoemen; ; B1; Natur/Tiere/Insekten; Bijen zoemen rond de appelboom.; Bienen summen um den Apfelbaum.
-nl-xc-0072; stechen (Insekt); steken; prikken; B1; Natur/Tiere/Insekten; In de tuin heeft een bij me gestoken.; Im Garten hat mich eine Biene gestochen.
+nl-xc-0071; summen (die Biene summt); zoemen; ; B1; Natur/Tiere/Insekten; Bijen zoemen rond de appelboom.; Bienen summen um den Apfelbaum.
+nl-xc-0072; stechen (eine Biene sticht); steken; prikken; B1; Natur/Tiere/Insekten; In de tuin heeft een bij me gestoken.; Im Garten hat mich eine Biene gestochen.
 nl-xc-0073; Spinnennetz; het spinnenweb; het web; B1; Natur/Tiere/Insekten; In de hoek hangt een enorm spinnenweb.; In der Ecke hängt ein riesiges Spinnennetz.
 nl-xc-0074; Rose; de roos; ; A1; Natur/Pflanzen; Hij heeft haar voor haar verjaardag een rode roos gegeven.; Er hat ihr zum Geburtstag eine rote Rose geschenkt.
 nl-xc-0075; Tulpe; de tulp; ; B1; Natur/Pflanzen; In april beginnen de tulpen in het park te bloeien.; Im April beginnen die Tulpen im Park zu blühen.
@@ -96,7 +96,7 @@ nl-xc-0093; Laub; de bladeren; het gebladerte, het loof; B2; Natur/Pflanzen; In 
 nl-xc-0094; Pollen; het stuifmeel; het pollen; B2; Natur/Pflanzen; In mei zit er veel stuifmeel in de lucht.; Im Mai ist viel Pollen in der Luft.
 nl-xc-0095; Efeu; de klimop; ; B2; Natur/Pflanzen; Klimop heeft de hele oude muur overwoekerd.; Efeu hat die ganze alte Mauer überwuchert.
 nl-xc-0096; Scheune; de schuur; ; B2; Natur/Landwirtschaft; De boer bewaart het hooi in de oude schuur.; Der Bauer lagert das Heu in der alten Scheune.
-nl-xc-0097; Weide (Wiese); de weide; het weiland, de wei; C1; Natur/Landwirtschaft; De koeien brengen de zomer door in de weide.; Die Kühe verbringen den Sommer auf der Weide.
+nl-xc-0097; Weide (Kühe auf der Weide); de weide; het weiland, de wei; C1; Natur/Landwirtschaft; De koeien brengen de zomer door in de weide.; Die Kühe verbringen den Sommer auf der Weide.
 nl-xc-0098; Ernte; de oogst; ; B1; Natur/Landwirtschaft; De regen kwam kort voor de oogst.; Der Regen kam kurz vor der Ernte.
 nl-xc-0099; Getreide; het graan; ; B2; Natur/Landwirtschaft; In de regio worden vooral graan en aardappelen verbouwd.; In der Region werden vor allem Getreide und Kartoffeln angebaut.
 nl-xc-0100; Weizen; de tarwe; ; B1; Natur/Landwirtschaft; Brood wordt meestal van tarwe gemaakt.; Brot wird meistens aus Weizen gemacht.
@@ -111,7 +111,7 @@ nl-xc-0108; Felsen; de rots; ; B1; Natur/Landschaft; We zijn aan zee op een grot
 nl-xc-0109; Sand; het zand; ; A1; Natur/Landschaft; Het zand op dit strand is bijna wit.; Der Sand an diesem Strand ist fast weiß.
 nl-xc-0110; Düne; het duin; ; B2; Natur/Landschaft; Loop alstublieft niet over de duinen.; Bitte nicht auf den Dünen laufen.
 nl-xc-0111; Vulkan; de vulkaan; ; B1; Natur/Landschaft; De vulkaan is honderd jaar geleden voor het laatst uitgebarsten.; Der Vulkan ist vor hundert Jahren zuletzt ausgebrochen.
-nl-xc-0112; Quelle (Wasser); de bron; ; B2; Natur/Landschaft; De rivier begint bij een kleine bron in de heuvels.; Der Fluss beginnt an einer kleinen Quelle in den Hügeln.
+nl-xc-0112; Quelle (Wasser aus der Quelle); de bron; ; B2; Natur/Landschaft; De rivier begint bij een kleine bron in de heuvels.; Der Fluss beginnt an einer kleinen Quelle in den Hügeln.
 nl-xc-0113; Dschungel; de jungle; het oerwoud; B1; Natur/Landschaft; In de jungle leven apen en papegaaien.; Im Dschungel leben Affen und Papageien.
 nl-xc-0114; Urwald; het oerwoud; ; B2; Natur/Landschaft; Grote delen van het oerwoud zijn gekapt.; Große Teile des Urwalds wurden abgeholzt.
 nl-xc-0115; Bucht; de baai; ; B1; Natur/Landschaft; Ons hotel ligt in een rustige kleine baai.; Unser Hotel liegt in einer ruhigen kleinen Bucht.
@@ -120,7 +120,7 @@ nl-xc-0117; Ozean; de oceaan; ; A2; Natur/Landschaft; De Grote Oceaan is de groo
 nl-xc-0118; Horizont; de horizon; ; B1; Natur/Landschaft; Aan de horizon verscheen een schip.; Am Horizont tauchte ein Schiff auf.
 nl-xc-0119; Landschaft; het landschap; ; B1; Natur/Landschaft; Het landschap in Schotland is wild en mooi.; Die Landschaft in Schottland ist wild und schön.
 nl-xc-0120; Ebbe; de eb; het laagwater; B2; Natur/Landschaft; Bij eb kun je naar het eiland lopen.; Bei Ebbe kann man zur Insel laufen.
-nl-xc-0121; Flut (Gezeiten); de vloed; het hoogwater; B2; Natur/Landschaft; Bij vloed verdwijnt het strand bijna helemaal.; Bei Flut verschwindet der Strand fast ganz.
+nl-xc-0121; Flut (Ebbe und Flut); de vloed; het hoogwater; B2; Natur/Landschaft; Bij vloed verdwijnt het strand bijna helemaal.; Bei Flut verschwindet der Strand fast ganz.
 nl-xc-0122; Strömung; de stroming; ; B2; Natur/Landschaft; Zwem hier niet, de stroming is te sterk.; Schwimm hier nicht, die Strömung ist zu stark.
 nl-xc-0123; Korallenriff; het koraalrif; ; B2; Natur/Landschaft; We zijn bij een koraalrif gaan duiken.; Wir sind an einem Korallenriff tauchen gegangen.
 nl-xc-0124; Eisberg; de ijsberg; ; B1; Natur/Landschaft; De Titanic botste in 1912 tegen een ijsberg.; Die Titanic stieß 1912 mit einem Eisberg zusammen.
@@ -242,8 +242,8 @@ nl-xc-0239; Sonnenschein; de zonneschijn; ; A2; Natur/Umwelt/Wetter; Op vakantie
 nl-xc-0240; Unwetter; het noodweer; ; B2; Natur/Umwelt/Wetter; Het noodweer heeft in het zuiden overstromingen veroorzaakt.; Das Unwetter hat im Süden Überschwemmungen verursacht.
 nl-xc-0241; Wetterbericht; het weerbericht; ; A2; Natur/Umwelt/Wetter; Volgens het weerbericht regent het morgen.; Laut Wetterbericht regnet es morgen.
 nl-xc-0242; Thermometer; de thermometer; ; B1; Natur/Umwelt/Wetter; De thermometer geeft min tien graden aan.; Das Thermometer zeigt minus zehn Grad.
-nl-xc-0243; Schatten (kühler Ort); de schaduw; ; A2; Natur/Umwelt/Wetter; Laten we in de schaduw gaan zitten, hier is het te heet.; Setzen wir uns in den Schatten, hier ist es zu heiß.
-nl-xc-0244; Schatten (Umriss); de schaduw; ; B1; Natur/Umwelt/Wetter; In de avond worden onze schaduwen heel lang.; Am Abend werden unsere Schatten sehr lang.
+nl-xc-0243; Schatten (im Schatten sitzen); de schaduw; ; A2; Natur/Umwelt/Wetter; Laten we in de schaduw gaan zitten, hier is het te heet.; Setzen wir uns in den Schatten, hier ist es zu heiß.
+nl-xc-0244; Schatten (einen Schatten werfen); de schaduw; ; B1; Natur/Umwelt/Wetter; In de avond worden onze schaduwen heel lang.; Am Abend werden unsere Schatten sehr lang.
 nl-xc-0245; donnern; donderen; ; B1; Natur/Umwelt/Wetter; Het heeft de hele nacht gedonderd en niemand kon slapen.; Es hat die ganze Nacht gedonnert, und keiner konnte schlafen.
 nl-xc-0246; hageln; hagelen; ; B2; Natur/Umwelt/Wetter; Midden in de zomer begon het plotseling te hagelen.; Mitten im Sommer fing es plötzlich an zu hageln.
 nl-xc-0247; tauen; dooien; ; B2; Natur/Umwelt/Wetter; De sneeuw dooit en de paden zijn nat.; Der Schnee taut, und die Wege sind nass.
@@ -327,12 +327,12 @@ nl-xc-0324; Reihenhaus; het rijtjeshuis; de rijtjeswoning; B2; Alltag/Stadt/Geb�
 nl-xc-0325; Einfamilienhaus; de eengezinswoning; het eengezinshuis; B2; Alltag/Stadt/Gebäude; Veel gezinnen dromen van een eengezinswoning met tuin.; Viele Familien träumen von einem Einfamilienhaus mit Garten.
 nl-xc-0326; Wohnblock; het flatgebouw; het woonblok; B2; Alltag/Stadt/Gebäude; Ze zijn in een groot flatgebouw opgegroeid.; Sie sind in einem großen Wohnblock aufgewachsen.
 nl-xc-0327; Abriss; de sloop; de afbraak; C1; Alltag/Stadt/Gebäude; De sloop van de oude fabriek begint volgend jaar.; Der Abriss der alten Fabrik beginnt nächstes Jahr.
-nl-xc-0328; Botschaft (Vertretung); de ambassade; ; B1; Alltag/Stadt/Gebäude; Een nieuw paspoort krijg je bij de ambassade.; Einen neuen Pass bekommt man bei der Botschaft.
+nl-xc-0328; Botschaft (die deutsche Botschaft); de ambassade; ; B1; Alltag/Stadt/Gebäude; Een nieuw paspoort krijg je bij de ambassade.; Einen neuen Pass bekommt man bei der Botschaft.
 nl-xc-0329; Marktplatz; het marktplein; de markt; A2; Alltag/Stadt/Straßen & Plätze; Elke zaterdag is er een boerenmarkt op het marktplein.; Jeden Samstag ist auf dem Marktplatz ein Bauernmarkt.
 nl-xc-0330; Gasse; de steeg; het steegje; B2; Alltag/Stadt/Straßen & Plätze; We zijn verdwaald in de smalle steegjes van de oude stad.; Wir haben uns in den engen Gassen der Altstadt verlaufen.
 nl-xc-0331; Hauptstraße; de hoofdstraat; ; A2; Alltag/Stadt/Straßen & Plätze; De bakkerij is in de hoofdstraat naast de bank.; Die Bäckerei ist an der Hauptstraße neben der Bank.
 nl-xc-0332; Seitenstraße; de zijstraat; ; B1; Alltag/Stadt/Straßen & Plätze; In een zijstraat parkeer je rustiger.; In einer Seitenstraße parkt man ruhiger.
-nl-xc-0333; Sackgasse (Straße); de doodlopende straat; de doodlopende weg; B2; Alltag/Stadt/Straßen & Plätze; We wonen aan het eind van een rustige doodlopende straat.; Wir wohnen am Ende einer ruhigen Sackgasse.
+nl-xc-0333; Sackgasse (in einer Sackgasse wohnen); de doodlopende straat; de doodlopende weg; B2; Alltag/Stadt/Straßen & Plätze; We wonen aan het eind van een rustige doodlopende straat.; Wir wohnen am Ende einer ruhigen Sackgasse.
 nl-xc-0334; Straßenlaterne; de straatlantaarn; de lantaarnpaal; B2; Alltag/Stadt/Straßen & Plätze; De straatlantaarns gaan om zes uur aan.; Die Straßenlaternen gehen um sechs Uhr an.
 nl-xc-0335; Bürgersteig; de stoep; het trottoir; B1; Alltag/Stadt/Straßen & Plätze; Fiets alsjeblieft niet op de stoep.; Bitte fahr nicht mit dem Fahrrad auf dem Bürgersteig.
 nl-xc-0336; Hausnummer; het huisnummer; ; A2; Alltag/Stadt/Straßen & Plätze; Zeg eens, wat is je huisnummer?; Sag mal, wie ist deine Hausnummer?
@@ -373,8 +373,8 @@ nl-xc-0370; E-Roller; de elektrische step; de e-step; B1; Reisen/Verkehr/Fahrrad
 nl-xc-0371; Radtour; de fietstocht; ; A2; Reisen/Verkehr/Fahrrad; Zondag hebben we een lange fietstocht langs de rivier gemaakt.; Am Sonntag haben wir eine lange Radtour am Fluss entlang gemacht.
 nl-xc-0372; Hupe; de claxon; de toeter; B1; Reisen/Verkehr/Auto; De bestuurder achter ons drukte op de claxon.; Der Fahrer hinter uns drückte auf die Hupe.
 nl-xc-0373; Lenkrad; het stuur; ; B1; Reisen/Verkehr/Auto; In Groot-Brittannië zit het stuur rechts.; In Großbritannien ist das Lenkrad rechts.
-nl-xc-0374; lenken (Auto); sturen; besturen; B1; Reisen/Verkehr/Auto; Op ijs is het moeilijk om de auto te sturen.; Auf Eis ist es schwer, das Auto zu lenken.
-nl-xc-0375; Gang (Auto); de versnelling; ; B2; Reisen/Verkehr/Auto; Zet hem in de eerste versnelling en rijd langzaam weg.; Leg den ersten Gang ein und fahr langsam los.
+nl-xc-0374; lenken (das Auto lenken); sturen; besturen; B1; Reisen/Verkehr/Auto; Op ijs is het moeilijk om de auto te sturen.; Auf Eis ist es schwer, das Auto zu lenken.
+nl-xc-0375; Gang (in den zweiten Gang schalten); de versnelling; ; B2; Reisen/Verkehr/Auto; Zet hem in de eerste versnelling en rijd langzaam weg.; Leg den ersten Gang ein und fahr langsam los.
 nl-xc-0376; Windschutzscheibe; de voorruit; ; B2; Reisen/Verkehr/Auto; Een steen heeft de voorruit beschadigd.; Ein Stein hat die Windschutzscheibe beschädigt.
 nl-xc-0377; Scheinwerfer; de koplamp; ; B2; Reisen/Verkehr/Auto; Doe de koplampen aan, het wordt donker.; Mach die Scheinwerfer an, es wird dunkel.
 nl-xc-0378; rückwärts fahren; achteruitrijden; ; B1; Reisen/Verkehr/Auto; Ze reed voorzichtig achteruit de garage uit.; Sie ist vorsichtig rückwärts aus der Garage gefahren.
@@ -401,7 +401,7 @@ nl-xc-0398; Auffahrunfall; de kop-staartbotsing; ; C1; Reisen/Verkehr/Straße & 
 nl-xc-0399; Parklücke; de parkeerplek; de parkeerplaats; B1; Reisen/Verkehr/Straße & Regeln; We hadden twintig minuten nodig om een parkeerplek te vinden.; Wir haben zwanzig Minuten gebraucht, um eine Parklücke zu finden.
 nl-xc-0400; Gegenverkehr; het tegemoetkomend verkeer; de tegenliggers; B2; Reisen/Verkehr/Straße & Regeln; Haal hier niet in, er is te veel tegemoetkomend verkeer.; Überhol hier nicht, es gibt zu viel Gegenverkehr.
 nl-xc-0401; Rastplatz; de verzorgingsplaats; de parkeerplaats; B2; Reisen/Verkehr/Straße & Regeln; Laten we bij de volgende verzorgingsplaats stoppen en koffie drinken.; Lass uns am nächsten Rastplatz anhalten und einen Kaffee trinken.
-nl-xc-0402; Abkürzung (Weg); de kortere weg; de binnendoorweg, de sluiproute; B1; Reisen/Verkehr/Wegbeschreibung; We hebben een kortere weg door het park genomen.; Wir haben eine Abkürzung durch den Park genommen.
+nl-xc-0402; Abkürzung (eine Abkürzung nehmen); de kortere weg; de binnendoorweg, de sluiproute; B1; Reisen/Verkehr/Wegbeschreibung; We hebben een kortere weg door het park genomen.; Wir haben eine Abkürzung durch den Park genommen.
 nl-xc-0403; Arbeitsweg; de reis naar het werk; de woon-werkreis, het woon-werkverkeer; B2; Reisen/Verkehr/Straße & Regeln; Mijn reis naar het werk duurt met de trein veertig minuten.; Mein Arbeitsweg dauert mit dem Zug vierzig Minuten.
 nl-xc-0404; Reisebus; de touringcar; de reisbus; B1; Reisen/Verkehr/Bus & Bahn; De hele klas is met de touringcar naar Londen gegaan.; Die ganze Klasse ist mit dem Reisebus nach London gefahren.
 nl-xc-0405; Fernbus; de langeafstandsbus; ; B1; Reisen/Verkehr/Bus & Bahn; De langeafstandsbus is goedkoper dan de trein.; Der Fernbus ist billiger als der Zug.
@@ -414,7 +414,7 @@ nl-xc-0411; Hauptbahnhof; het centraal station; het hoofdstation; A2; Reisen/Ver
 nl-xc-0412; Sitzplatzreservierung; de zitplaatsreservering; de plaatsreservering; B1; Reisen/Verkehr/Bus & Bahn; Met Kerstmis heb je echt een zitplaatsreservering nodig.; An Weihnachten braucht man unbedingt eine Sitzplatzreservierung.
 nl-xc-0413; erste Klasse; eerste klas; eerste klasse; A2; Reisen/Verkehr/Bus & Bahn; We hebben ons verwend en zijn eerste klas gereisd.; Wir haben uns etwas gegönnt und sind erste Klasse gefahren.
 nl-xc-0414; Busfahrer; de buschauffeur; ; A2; Reisen/Verkehr/Bus & Bahn; De buschauffeur heeft bij de halte op me gewacht.; Der Busfahrer hat an der Haltestelle auf mich gewartet.
-nl-xc-0415; Schalter (Bahnhof); het loket; ; B1; Reisen/Verkehr/Bus & Bahn; Een kaartje kun je aan het loket of online kopen.; Eine Fahrkarte kann man am Schalter oder online kaufen.
+nl-xc-0415; Schalter (Fahrkarten am Schalter); het loket; ; B1; Reisen/Verkehr/Bus & Bahn; Een kaartje kun je aan het loket of online kopen.; Eine Fahrkarte kann man am Schalter oder online kaufen.
 nl-xc-0416; Gepäckband; de bagageband; ; B2; Reisen/Urlaub/Flughafen; We hebben een halfuur bij de bagageband gewacht.; Wir haben eine halbe Stunde am Gepäckband gewartet.
 nl-xc-0417; Flugticket; het vliegticket; ; A2; Reisen/Urlaub/Flughafen; De vliegtickets waren goedkoper dan verwacht.; Die Flugtickets waren billiger als erwartet.
 nl-xc-0418; Fluggesellschaft; de luchtvaartmaatschappij; de vliegmaatschappij; B1; Reisen/Urlaub/Flughafen; Met welke luchtvaartmaatschappij vlieg je naar Rome?; Mit welcher Fluggesellschaft fliegst du nach Rom?

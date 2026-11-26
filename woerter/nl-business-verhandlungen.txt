@@ -1,6 +1,6 @@
 # Niederländisch: Business – Verhandlungen
 id; Deutsch; Niederländisch; Weitere Antworten; Niveau; Themen; Beispiel Niederländisch; Beispiel Deutsch
-nl-vh-0001; Preis (Kosten); de prijs; ; A1; Business/Verhandlung/Angebot; De prijs is te hoog voor ons.; Der Preis ist zu hoch für uns.
+nl-vh-0001; Preis (ein günstiger Preis); de prijs; ; A1; Business/Verhandlung/Angebot; De prijs is te hoog voor ons.; Der Preis ist zu hoch für uns.
 nl-vh-0002; kaufen; kopen; ; A1; Business/Verhandlung/Abschluss, Alltag/Einkaufen; Wij willen de nieuwe machine volgende maand kopen.; Wir wollen die neue Maschine nächsten Monat kaufen.
 nl-vh-0003; verkaufen; verkopen; ; A1; Business/Verhandlung/Abschluss; Zij verkopen hun producten in veel landen.; Sie verkaufen ihre Produkte in vielen Ländern.
 nl-vh-0004; anbieten; aanbieden; ; A1; Business/Verhandlung/Angebot; Wij kunnen u vandaag een betere prijs aanbieden.; Wir können Ihnen heute einen besseren Preis anbieten.
@@ -57,13 +57,13 @@ nl-vh-0054; Budget; het budget; ; B1; Business/Verhandlung/Vorbereitung; Ons bud
 nl-vh-0055; Alternative; het alternatief; ; B1; Business/Verhandlung/Taktik; Wij moeten altijd een alternatief in gedachten houden.; Wir sollten immer eine Alternative im Kopf haben.
 nl-vh-0056; flexibel; flexibel; ; B1; Business/Verhandlung/Zugeständnisse; Wat de leverdatum betreft zijn wij flexibel.; Beim Liefertermin sind wir flexibel.
 nl-vh-0057; fair; eerlijk; fair; B1; Business/Verhandlung/Positionen; Wij willen een eerlijke deal voor beide partijen.; Wir wollen ein faires Geschäft für beide Seiten.
-nl-vh-0058; Abschluss (Geschäft); de afsluiting; de afronding; B1; Business/Verhandlung/Abschluss; Wij staan vlak voor de afsluiting van de deal.; Wir stehen kurz vor dem Abschluss des Geschäfts.
-nl-vh-0059; abschließen (Vertrag); afsluiten; sluiten; B1; Business/Verhandlung/Abschluss; Wij sloten het contract na twee bijeenkomsten af.; Wir schlossen den Vertrag nach zwei Treffen ab.
+nl-vh-0058; Abschluss (der Abschluss eines Geschäfts); de afsluiting; de afronding; B1; Business/Verhandlung/Abschluss; Wij staan vlak voor de afsluiting van de deal.; Wir stehen kurz vor dem Abschluss des Geschäfts.
+nl-vh-0059; abschließen (einen Vertrag abschließen); afsluiten; sluiten; B1; Business/Verhandlung/Abschluss; Wij sloten het contract na twee bijeenkomsten af.; Wir schlossen den Vertrag nach zwei Treffen ab.
 nl-vh-0060; Bedenken; de bedenkingen; de twijfels, de zorgen; B1; Business/Verhandlung/Einwände; Wij hebben nog enkele bedenkingen over de kosten.; Wir haben noch einige Bedenken wegen der Kosten.
 nl-vh-0061; Hauptpunkt; het hoofdpunt; het belangrijkste punt; B1; Business/Verhandlung/Vorbereitung; Het hoofdpunt vandaag is de nieuwe prijs.; Der Hauptpunkt heute ist der neue Preis.
 nl-vh-0062; klären; ophelderen; verhelderen, verduidelijken; B1; Business/Verhandlung/Einwände; Wij moeten nog een paar open vragen ophelderen.; Wir müssen noch ein paar offene Fragen klären.
 nl-vh-0063; bestätigen; bevestigen; ; B1; Business/Verhandlung/Abschluss; Bevestig de bestelling alstublieft per e-mail.; Bitte bestätigen Sie die Bestellung per E-Mail.
-nl-vh-0064; Protokoll (Sitzung); de notulen; het verslag; B1; Business/Verhandlung/Abschluss; Zij schreef de notulen van de vergadering.; Sie schrieb das Protokoll der Sitzung.
+nl-vh-0064; Protokoll (Protokoll führen); de notulen; het verslag; B1; Business/Verhandlung/Abschluss; Zij schreef de notulen van de vergadering.; Sie schrieb das Protokoll der Sitzung.
 nl-vh-0065; Zusammenfassung; de samenvatting; ; B1; Business/Verhandlung/Abschluss; Hier is een korte samenvatting van onze resultaten.; Hier ist eine kurze Zusammenfassung unserer Ergebnisse.
 nl-vh-0066; Verhandlungsziel; het onderhandelingsdoel; ; B2; Business/Verhandlung/Vorbereitung; Bepaal uw onderhandelingsdoel voordat u de kamer binnengaat.; Definieren Sie Ihr Verhandlungsziel, bevor Sie den Raum betreten.
 nl-vh-0067; Ausgangsposition; de uitgangspositie; ; B2; Business/Verhandlung/Positionen; Onze uitgangspositie in deze gesprekken is vrij sterk.; Unsere Ausgangsposition in diesen Gesprächen ist ziemlich stark.
@@ -75,7 +75,7 @@ nl-vh-0072; Taktik; de tactiek; ; B2; Business/Verhandlung/Taktik; Zwijgen kan i
 nl-vh-0073; Zeitdruck; de tijdsdruk; ; B2; Business/Verhandlung/Taktik; Zij gebruikten tijdsdruk om een snelle beslissing af te dwingen.; Sie nutzten Zeitdruck, um eine schnelle Entscheidung zu erzwingen.
 nl-vh-0074; Machtverhältnis; de machtsverhouding; ; B2; Business/Verhandlung/Positionen; De machtsverhouding veranderde na de fusie.; Das Machtverhältnis änderte sich nach der Fusion.
 nl-vh-0075; Verhandlungstisch; de onderhandelingstafel; ; B2; Business/Verhandlung/Wendungen; Beide partijen keerden gisteren terug naar de onderhandelingstafel.; Beide Seiten kehrten gestern an den Verhandlungstisch zurück.
-nl-vh-0076; Sackgasse (ausweglose Lage); de impasse; het dode spoor; B2; Business/Verhandlung/Taktik; De gesprekken eindigden na twee dagen in een impasse.; Die Gespräche endeten nach zwei Tagen in einer Sackgasse.
+nl-vh-0076; Sackgasse (Verhandlungen in der Sackgasse); de impasse; het dode spoor; B2; Business/Verhandlung/Taktik; De gesprekken eindigden na twee dagen in een impasse.; Die Gespräche endeten nach zwei Tagen in einer Sackgasse.
 nl-vh-0077; Durchbruch; de doorbraak; ; B2; Business/Verhandlung/Abschluss; Gisteravond laat bereikten we een doorbraak.; Spät gestern Abend gelang uns ein Durchbruch.
 nl-vh-0078; Stillstand; de stilstand; de impasse; B2; Business/Verhandlung/Taktik; De onderhandelingen kwamen volledig tot stilstand.; Die Verhandlungen kamen zu einem völligen Stillstand.
 nl-vh-0079; überdenken; heroverwegen; ; B2; Business/Verhandlung/Einwände; Heroverweeg ons aanbod alstublieft voordat u beslist.; Bitte überdenken Sie unser Angebot, bevor Sie entscheiden.

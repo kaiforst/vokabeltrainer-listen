@@ -6,7 +6,7 @@ no-pw-0003; Bewerbung; en søknad; ; A2; Business/Personal/Recruiting; Send inn 
 no-pw-0004; Lebenslauf; en CV; ; A2; Business/Personal/Recruiting; CV-en din viser ti års prosjekterfaring.; Ihr Lebenslauf zeigt zehn Jahre Projekterfahrung.
 no-pw-0005; Anschreiben; et søknadsbrev; ; B1; Business/Personal/Recruiting; Et godt søknadsbrev forklarer hvorfor du vil ha stillingen.; Ein gutes Anschreiben erklärt, warum Sie die Stelle wollen.
 no-pw-0006; Vorstellungsgespräch; et jobbintervju; et intervju; A2; Business/Personal/Recruiting; Jobbintervjuet varte i nesten to timer.; Das Vorstellungsgespräch dauerte fast zwei Stunden.
-no-pw-0007; einstellen (Personal); å ansette; ; A2; Business/Personal/Recruiting; Vi planlegger å ansette fem nye utviklere i år.; Wir planen, dieses Jahr fünf neue Entwickler einzustellen.
+no-pw-0007; einstellen (neue Mitarbeiter einstellen); å ansette; ; A2; Business/Personal/Recruiting; Vi planlegger å ansette fem nye utviklere i år.; Wir planen, dieses Jahr fünf neue Entwickler einzustellen.
 no-pw-0008; Personalabteilung; en personalavdeling; en HR-avdeling; B1; Business/Personal/Recruiting; Personalavdelingen svarer på alle spørsmål om kontrakter.; Die Personalabteilung beantwortet alle Fragen zu Verträgen.
 no-pw-0009; Personalbeschaffung; en rekruttering; ; B2; Business/Personal/Recruiting; Rekrutteringen tar lengre tid når få fagfolk er tilgjengelige.; Die Personalbeschaffung dauert länger, wenn wenige Fachleute verfügbar sind.
 no-pw-0010; Stellenangebot; et jobbtilbud; et stillingstilbud; B1; Business/Personal/Recruiting; Hun fikk et jobbtilbud fra en stor bank.; Sie erhielt ein Stellenangebot von einer großen Bank.
@@ -46,7 +46,7 @@ no-pw-0043; Hospitation; en hospitering; ; C2; Business/Personal/Onboarding; Hos
 no-pw-0044; Chef; en sjef; ; A1; Business/Personal/Onboarding; Sjefen min forklarer målene for uken.; Mein Chef erklärt die Ziele für die Woche.
 no-pw-0045; Willkommensveranstaltung; et velkomstarrangement; ; B2; Business/Personal/Onboarding; Velkomstarrangementet for nyansatte begynner klokka ni.; Die Willkommensveranstaltung für neue Mitarbeiter beginnt um neun.
 no-pw-0046; Gehalt; en lønn; ei lønn; A2; Business/Personal/Vergütung & Benefits; Lønnen kommer inn på kontoen den tjuefemte hver måned.; Das Gehalt kommt jeden Monat am Fünfundzwanzigsten aufs Konto.
-no-pw-0047; Lohn (Bezahlung); en lønn; ; A2; Business/Personal/Vergütung & Benefits; Timelønnen på denne fabrikken er ganske rettferdig.; Der Stundenlohn in dieser Fabrik ist recht fair.
+no-pw-0047; Lohn (der Lohn pro Stunde); en lønn; ; A2; Business/Personal/Vergütung & Benefits; Timelønnen på denne fabrikken er ganske rettferdig.; Der Stundenlohn in dieser Fabrik ist recht fair.
 no-pw-0048; Vergütung; en godtgjørelse; en kompensasjon; C1; Business/Personal/Vergütung & Benefits; Den samlede godtgjørelsen består av en fast og en variabel del.; Die Gesamtvergütung umfasst einen festen und einen variablen Teil.
 no-pw-0049; Prämie; en bonus; en premie; B1; Business/Personal/Vergütung & Benefits; Teamet fikk en bonus for det vellykkede prosjektet.; Das Team erhielt eine Prämie für das erfolgreiche Projekt.
 no-pw-0050; Gehaltserhöhung; en lønnsøkning; en lønnsforhøyelse; B2; Business/Personal/Vergütung & Benefits; Hun ba om en lønnsøkning etter to år.; Sie bat nach zwei Jahren um eine Gehaltserhöhung.
@@ -132,8 +132,8 @@ no-pw-0129; Arbeitssicherheit; en arbeidssikkerhet; ; B2; Business/Personal/Arbe
 no-pw-0130; Betriebsvereinbarung; en bedriftsavtale; ; C2; Business/Personal/Arbeitsrecht; En ny bedriftsavtale regulerer reglene for hjemmekontor.; Eine neue Betriebsvereinbarung regelt die Regeln für Homeoffice.
 no-pw-0131; Abmahnung; en skriftlig advarsel; ; C1; Business/Personal/Arbeitsrecht; Han fikk en skriftlig advarsel for gjentatt forsinkelse.; Er erhielt eine Abmahnung wegen wiederholter Verspätung.
 no-pw-0132; Arbeitszeitgesetz; en lov om arbeidstid; ; C2; Business/Personal/Arbeitsrecht; Loven om arbeidstid begrenser daglig arbeidstid til ti timer.; Das Arbeitszeitgesetz begrenzt die tägliche Arbeitszeit auf zehn Stunden.
-no-pw-0133; Kündigung (Stelle); en oppsigelse; ; B1; Business/Personal/Trennung; Oppsigelsen må leveres i skriftlig form til arbeidstakeren.; Die Kündigung muss in schriftlicher Form zugestellt werden.
-no-pw-0134; kündigen (Stelle); å si opp; å slutte; B1; Business/Personal/Trennung; Hun bestemte seg for å si opp etter femten år.; Sie beschloss, nach fünfzehn Jahren in der Firma zu kündigen.
+no-pw-0133; Kündigung (der Arbeitsstelle); en oppsigelse; ; B1; Business/Personal/Trennung; Oppsigelsen må leveres i skriftlig form til arbeidstakeren.; Die Kündigung muss in schriftlicher Form zugestellt werden.
+no-pw-0134; kündigen (seine Stelle kündigen); å si opp; å slutte; B1; Business/Personal/Trennung; Hun bestemte seg for å si opp etter femten år.; Sie beschloss, nach fünfzehn Jahren in der Firma zu kündigen.
 no-pw-0135; entlassen; å avskjedige; ; B1; Business/Personal/Trennung; Direktøren avskjediget ham etter den alvorlige hendelsen.; Der Direktor entließ ihn nach dem schweren Vorfall.
 no-pw-0136; Kündigungsfrist; en oppsigelsestid; ; B2; Business/Personal/Trennung; Oppsigelsestiden min er tre måneder til kvartalets slutt.; Meine Kündigungsfrist beträgt drei Monate zum Quartal.
 no-pw-0137; Abfindung; et sluttvederlag; ; C1; Business/Personal/Trennung; Han forhandlet frem et raust sluttvederlag med arbeidsgiveren.; Er verhandelte eine großzügige Abfindung mit seinem Arbeitgeber.

@@ -2,8 +2,8 @@
 id; Deutsch; Niederländisch; Weitere Antworten; Niveau; Themen; Beispiel Niederländisch; Beispiel Deutsch
 nl-eg-0001; kaufen; kopen; ; A1; Alltag/Einkaufen/Geschäfte; Ik wil een nieuwe jas kopen.; Ich möchte eine neue Jacke kaufen.
 nl-eg-0002; Geld; het geld; ; A1; Alltag/Einkaufen/Geld; Ik heb vandaag geen geld bij me.; Ich habe heute kein Geld dabei.
-nl-eg-0003; Preis (Kosten); de prijs; ; A1; Alltag/Einkaufen/Preise; Wat is de prijs van dit overhemd?; Was ist der Preis für dieses Hemd?
-nl-eg-0004; Geschäft (Laden); de winkel; de zaak; A1; Alltag/Einkaufen/Geschäfte; De winkel opent om negen uur 's ochtends.; Das Geschäft öffnet um neun Uhr morgens.
+nl-eg-0003; Preis (ein günstiger Preis); de prijs; ; A1; Alltag/Einkaufen/Preise; Wat is de prijs van dit overhemd?; Was ist der Preis für dieses Hemd?
+nl-eg-0004; Geschäft (im Geschäft einkaufen); de winkel; de zaak; A1; Alltag/Einkaufen/Geschäfte; De winkel opent om negen uur 's ochtends.; Das Geschäft öffnet um neun Uhr morgens.
 nl-eg-0005; Supermarkt; de supermarkt; ; A1; Alltag/Einkaufen/Geschäfte; We gaan op zaterdag naar de supermarkt.; Wir gehen samstags in den Supermarkt.
 nl-eg-0006; Markt; de markt; ; A1; Alltag/Einkaufen/Geschäfte; Op de markt is er vers fruit en groente.; Auf dem Markt gibt es frisches Obst und Gemüse.
 nl-eg-0007; Bäckerei; de bakkerij; de bakker; A1; Alltag/Einkaufen/Geschäfte; De bakkerij in onze straat ruikt heerlijk.; Die Bäckerei in unserer Straße duftet herrlich.
@@ -13,7 +13,7 @@ nl-eg-0010; bezahlen; betalen; ; A1; Alltag/Einkaufen/Bezahlen; Kan ik hier met 
 nl-eg-0011; kosten; kosten; ; A1; Alltag/Einkaufen/Preise; Hoeveel kost deze tas eigenlijk?; Wie viel kostet diese Tasche?
 nl-eg-0012; Euro; de euro; ; A1; Alltag/Einkaufen/Geld; Het brood kost twee euro vijftig.; Das Brot kostet zwei Euro fünfzig.
 nl-eg-0013; Kasse; de kassa; ; A1; Alltag/Einkaufen/Bezahlen; Wacht daar alstublieft bij de kassa.; Bitte warten Sie dort an der Kasse.
-nl-eg-0014; Tasche (zum Tragen); de tas; het tasje; A1; Alltag/Einkaufen/Geschäfte; Heeft u daar een tas voor nodig?; Brauchen Sie dafür eine Tasche?
+nl-eg-0014; Tasche (eine Tasche tragen); de tas; het tasje; A1; Alltag/Einkaufen/Geschäfte; Heeft u daar een tas voor nodig?; Brauchen Sie dafür eine Tasche?
 nl-eg-0015; Kunde; de klant; ; A1; Alltag/Einkaufen/Geschäfte; De klant wacht bij de deur.; Der Kunde wartet an der Tür.
 nl-eg-0016; verkaufen; verkopen; ; A1; Alltag/Einkaufen/Geschäfte; In deze winkel verkopen ze mooie schoenen.; In diesem Geschäft verkaufen sie schöne Schuhe.
 nl-eg-0017; Verkäufer; de verkoper; ; A1; Alltag/Einkaufen/Geschäfte; De verkoper was vandaag erg vriendelijk.; Der Verkäufer war heute sehr freundlich.
@@ -29,7 +29,7 @@ nl-eg-0026; Wechselgeld; het wisselgeld; ; A2; Alltag/Einkaufen/Bezahlen; Hier i
 nl-eg-0027; Kreditkarte; de creditcard; ; A2; Alltag/Einkaufen/Bezahlen; Ik heb het hotel met mijn creditcard betaald.; Ich habe das Hotel mit Kreditkarte bezahlt.
 nl-eg-0028; Bargeld; de contanten; het contante geld, de cash; A2; Alltag/Einkaufen/Bezahlen; Deze kleine winkel accepteert alleen contanten.; Dieses kleine Geschäft nimmt nur Bargeld.
 nl-eg-0029; Geldautomat; de geldautomaat; de pinautomaat; A2; Alltag/Einkaufen/Geld, Reisen/Urlaub/Unterwegs; Is er een geldautomaat in de buurt van het station?; Gibt es einen Geldautomaten in der Nähe des Bahnhofs?
-nl-eg-0030; Bank (Geldinstitut); de bank; ; A2; Alltag/Einkaufen/Geld; De bank sluit om vier uur 's middags.; Die Bank schließt um vier Uhr nachmittags.
+nl-eg-0030; Bank (Geld auf die Bank bringen); de bank; ; A2; Alltag/Einkaufen/Geld; De bank sluit om vier uur 's middags.; Die Bank schließt um vier Uhr nachmittags.
 nl-eg-0031; Konto; de rekening; de bankrekening; A2; Alltag/Einkaufen/Geld; Ik heb een rekening geopend bij de plaatselijke bank.; Ich habe ein Konto bei der örtlichen Bank eröffnet.
 nl-eg-0032; sparen; sparen; ; A2; Alltag/Einkaufen/Geld; We sparen elke maand wat geld.; Wir sparen jeden Monat etwas Geld.
 nl-eg-0033; ausgeben; uitgeven; ; A2; Alltag/Einkaufen/Geld; Hij geeft te veel geld uit aan kleding.; Er gibt zu viel für Kleidung aus.
@@ -52,7 +52,7 @@ nl-eg-0049; zurückgeben; terugbrengen; teruggeven; A2; Alltag/Einkaufen/Reklama
 nl-eg-0050; Öffnungszeiten; de openingstijden; ; A2; Alltag/Einkaufen/Geschäfte; De openingstijden staan op de deur.; Die Öffnungszeiten stehen an der Tür.
 nl-eg-0051; Rechnung; de factuur; de rekening; A2; Alltag/Einkaufen/Bezahlen; De factuur kwam twee dagen na de levering.; Die Rechnung kam zwei Tage nach der Lieferung.
 nl-eg-0052; Münze; de munt; het muntstuk; A2; Alltag/Einkaufen/Geld; Hij vond een oude munt in zijn zak.; Er fand eine alte Münze in seiner Tasche.
-nl-eg-0053; Schein (Geldschein); het biljet; het bankbiljet, het briefje; A2; Alltag/Einkaufen/Geld; Ze betaalde met een biljet van vijftig euro.; Sie bezahlte mit einem Fünfzig-Euro-Schein.
+nl-eg-0053; Schein (ein Zehn-Euro-Schein); het biljet; het bankbiljet, het briefje; A2; Alltag/Einkaufen/Geld; Ze betaalde met een biljet van vijftig euro.; Sie bezahlte mit einem Fünfzig-Euro-Schein.
 nl-eg-0054; Geldbeutel; de portemonnee; ; A2; Alltag/Einkaufen/Geld; Mijn portemonnee is vlak voor de betaaldag bijna leeg.; Mein Geldbeutel ist vor dem Zahltag fast leer.
 nl-eg-0055; kostenlos; gratis; kosteloos; A2; Alltag/Einkaufen/Preise; De bezorging is vanaf vijftig euro gratis.; Die Lieferung ist ab fünfzig Euro kostenlos.
 nl-eg-0056; günstig; voordelig; goedkoop; A2; Alltag/Einkaufen/Preise; Deze winkel staat bekend om voordelige meubels.; Dieses Geschäft ist für günstige Möbel bekannt.
@@ -72,7 +72,7 @@ nl-eg-0069; Marke; het merk; ; B1; Alltag/Einkaufen/Geschäfte; Dit merk is popu
 nl-eg-0070; Qualität; de kwaliteit; ; B1; Alltag/Einkaufen/Geschäfte; Bij het winkelen vind ik kwaliteit belangrijker dan kwantiteit.; Beim Einkaufen ist mir Qualität wichtiger als Menge.
 nl-eg-0071; vergleichen; vergelijken; ; B1; Alltag/Einkaufen/Preise; Vergelijk altijd de prijzen voordat je online koopt.; Vergleiche immer die Preise bevor du online kaufst.
 nl-eg-0072; Preisvergleich; de prijsvergelijking; ; B1; Alltag/Einkaufen/Preise; Een snelle prijsvergelijking heeft me twintig euro bespaard.; Ein schneller Preisvergleich hat mir zwanzig Euro gespart.
-nl-eg-0073; handeln (feilschen); afdingen; onderhandelen, pingelen; B1; Alltag/Einkaufen/Preise; Op de rommelmarkt kun je een beetje afdingen.; Auf dem Flohmarkt kann man ein bisschen handeln.
+nl-eg-0073; handeln (um den Preis handeln); afdingen; onderhandelen, pingelen; B1; Alltag/Einkaufen/Preise; Op de rommelmarkt kun je een beetje afdingen.; Auf dem Flohmarkt kann man ein bisschen handeln.
 nl-eg-0074; Ermäßigung; de korting; de reductie; B1; Alltag/Einkaufen/Angebote; Senioren krijgen op maandag korting.; Senioren bekommen montags eine Ermäßigung.
 nl-eg-0075; Schlussverkauf; de uitverkoop; de opruiming; B1; Alltag/Einkaufen/Angebote; Ik heb mijn winterjas in de uitverkoop gekocht.; Ich habe meinen Wintermantel im Schlussverkauf gekauft.
 nl-eg-0076; Gutschein; de cadeaubon; de waardebon, de tegoedbon, de voucher; B1; Alltag/Einkaufen/Angebote; Ze heeft me een voucher voor mijn verjaardag gegeven.; Sie hat mir einen Gutschein zum Geburtstag geschenkt.
@@ -85,8 +85,8 @@ nl-eg-0082; Rückerstattung; de terugbetaling; de restitutie; B1; Alltag/Einkauf
 nl-eg-0083; Garantie; de garantie; ; B1; Alltag/Einkaufen/Reklamation; De laptop heeft twee jaar garantie.; Der Laptop hat zwei Jahre Garantie.
 nl-eg-0084; Kassenbon; de kassabon; het bonnetje, de bon; B1; Alltag/Einkaufen/Bezahlen; Bewaar de kassabon voor een eventuele retour.; Heb den Kassenbon für eine mögliche Rückgabe auf.
 nl-eg-0085; überweisen; overmaken; overschrijven; B1; Alltag/Einkaufen/Geld; Maak het bedrag alstublieft binnen twee weken over.; Bitte überweisen Sie den Betrag innerhalb von zwei Wochen.
-nl-eg-0086; Überweisung (Bank); de overschrijving; de overboeking, de overmaking; B1; Alltag/Einkaufen/Geld; De overschrijving kwam de volgende dag aan.; Die Überweisung kam am nächsten Tag an.
-nl-eg-0087; abheben (Geld); opnemen; pinnen; B1; Alltag/Einkaufen/Geld; Ik moet eerst wat geld opnemen.; Ich muss zuerst etwas Geld abheben.
+nl-eg-0086; Überweisung (Geld per Überweisung); de overschrijving; de overboeking, de overmaking; B1; Alltag/Einkaufen/Geld; De overschrijving kwam de volgende dag aan.; Die Überweisung kam am nächsten Tag an.
+nl-eg-0087; abheben (Geld vom Konto abheben); opnemen; pinnen; B1; Alltag/Einkaufen/Geld; Ik moet eerst wat geld opnemen.; Ich muss zuerst etwas Geld abheben.
 nl-eg-0088; einzahlen; storten; ; B1; Alltag/Einkaufen/Geld; Ze wil het contante geld bij de bank storten.; Sie möchte das Bargeld bei der Bank einzahlen.
 nl-eg-0089; Gehalt; het salaris; het loon; B1; Alltag/Einkaufen/Geld; Zijn salaris wordt aan het eind van de maand betaald.; Sein Gehalt wird am Monatsende gezahlt.
 nl-eg-0090; Ausgaben; de uitgaven; ; B1; Alltag/Einkaufen/Geld; We noteren al onze maandelijkse uitgaven.; Wir notieren alle unsere monatlichen Ausgaben.

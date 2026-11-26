@@ -3,7 +3,7 @@ id; Deutsch; Niederländisch; Weitere Antworten; Niveau; Themen; Beispiel Nieder
 nl-mv-0001; Produkt; het product; ; A1; Business/Marketing & Vertrieb/Marke; Ons nieuwe product is erg populair.; Unser neues Produkt ist sehr beliebt.
 nl-mv-0002; Markt; de markt; ; A1; Business/Marketing & Vertrieb/Marktforschung; De markt voor elektrische auto's groeit snel.; Der Markt für Elektroautos wächst schnell.
 nl-mv-0003; Kunde; de klant; ; A1; Business/Marketing & Vertrieb/Kundenbindung; De klant heeft bij ons altijd de hoogste prioriteit.; Der Kunde hat für uns immer oberste Priorität.
-nl-mv-0004; Geschäft (Laden); de winkel; de zaak; A1; Business/Marketing & Vertrieb/Vertrieb & Akquise, Alltag/Einkaufen; De winkel gaat 's ochtends om negen uur open.; Das Geschäft öffnet morgens um neun.
+nl-mv-0004; Geschäft (im Geschäft einkaufen); de winkel; de zaak; A1; Business/Marketing & Vertrieb/Vertrieb & Akquise, Alltag/Einkaufen; De winkel gaat 's ochtends om negen uur open.; Das Geschäft öffnet morgens um neun.
 nl-mv-0005; verkaufen; verkopen; ; A1; Business/Marketing & Vertrieb/Vertrieb & Akquise; Wij verkopen onze producten online en in de winkel.; Wir verkaufen unsere Produkte online und im Geschäft.
 nl-mv-0006; Werbung; de reclame; ; A2; Business/Marketing & Vertrieb/Kampagne & Werbung; Goede reclame vertelt een eenvoudig verhaal.; Gute Werbung erzählt eine einfache Geschichte.
 nl-mv-0007; Marke; het merk; ; A2; Business/Marketing & Vertrieb/Marke; Dit merk is over de hele wereld bekend.; Diese Marke ist auf der ganzen Welt bekannt.
@@ -21,7 +21,7 @@ nl-mv-0018; günstig; voordelig; goedkoop; A2; Business/Marketing & Vertrieb/Pre
 nl-mv-0019; teuer; duur; ; A2; Business/Marketing & Vertrieb/Preis; Het nieuwe model is duurder dan het oude.; Das neue Modell ist teurer als das alte.
 nl-mv-0020; Katalog; de catalogus; ; A2; Business/Marketing & Vertrieb/Kampagne & Werbung; De nieuwe catalogus verschijnt in oktober.; Der neue Katalog erscheint im Oktober.
 nl-mv-0021; Webseite; de website; de webpagina; A2; Business/Marketing & Vertrieb/Online-Marketing; Onze website toont alle actuele aanbiedingen.; Unsere Webseite zeigt alle aktuellen Angebote.
-nl-mv-0022; Anzeige (Werbung); de advertentie; ; A2; Business/Marketing & Vertrieb/Kampagne & Werbung; Wij plaatsten een advertentie in de lokale krant.; Wir schalteten eine Anzeige in der Lokalzeitung.
+nl-mv-0022; Anzeige (eine Anzeige in der Zeitung); de advertentie; ; A2; Business/Marketing & Vertrieb/Kampagne & Werbung; Wij plaatsten een advertentie in de lokale krant.; Wir schalteten eine Anzeige in der Lokalzeitung.
 nl-mv-0023; Logo; het logo; ; A2; Business/Marketing & Vertrieb/Marke; Iedereen herkent het logo van dit bedrijf.; Jeder erkennt das Logo dieser Firma.
 nl-mv-0024; Slogan; de slogan; ; A2; Business/Marketing & Vertrieb/Marke; Een goede slogan is kort en makkelijk te onthouden.; Ein guter Slogan ist kurz und leicht zu merken.
 nl-mv-0025; Umfrage; de enquête; ; A2; Business/Marketing & Vertrieb/Marktforschung; Wij hielden een enquête onder onze klanten.; Wir machten eine Umfrage unter unseren Kunden.
@@ -30,7 +30,7 @@ nl-mv-0027; Kampagne; de campagne; ; B1; Business/Marketing & Vertrieb/Kampagne 
 nl-mv-0028; Marktforschung; het marktonderzoek; ; B1; Business/Marketing & Vertrieb/Marktforschung; Marktonderzoek helpt ons onze klanten te begrijpen.; Marktforschung hilft uns, unsere Kunden zu verstehen.
 nl-mv-0029; Werbespot; de reclamespot; de commercial; B1; Business/Marketing & Vertrieb/Kampagne & Werbung; De grappige reclamespot is elke avond op tv te zien.; Der lustige Werbespot läuft jeden Abend im Fernsehen.
 nl-mv-0030; Kundenzufriedenheit; de klanttevredenheid; ; B1; Business/Marketing & Vertrieb/Kundenbindung; Wij meten de klanttevredenheid twee keer per jaar.; Wir messen die Kundenzufriedenheit zweimal im Jahr.
-nl-mv-0031; Wettbewerb (Konkurrenz); de concurrentie; ; B1; Business/Marketing & Vertrieb/Marktforschung; De concurrentie in deze markt is heel sterk.; Der Wettbewerb in diesem Markt ist sehr stark.
+nl-mv-0031; Wettbewerb (zwischen Firmen); de concurrentie; ; B1; Business/Marketing & Vertrieb/Marktforschung; De concurrentie in deze markt is heel sterk.; Der Wettbewerb in diesem Markt ist sehr stark.
 nl-mv-0032; Wettbewerber; de concurrent; ; B1; Business/Marketing & Vertrieb/Marktforschung; Onze grootste concurrent verlaagde opnieuw de prijzen.; Unser größter Wettbewerber senkte erneut die Preise.
 nl-mv-0033; Marktanteil; het marktaandeel; ; B1; Business/Marketing & Vertrieb/Marktforschung; Wij vergrootten ons marktaandeel met vijf procent.; Wir steigerten unseren Marktanteil um fünf Prozent.
 nl-mv-0034; Umsatz; de omzet; ; B1; Business/Marketing & Vertrieb/Vertrieb & Akquise; Onze omzet groeide vorig jaar sterk.; Unser Umsatz wuchs letztes Jahr stark.
@@ -48,7 +48,7 @@ nl-mv-0045; Newsletter; de nieuwsbrief; ; B1; Business/Marketing & Vertrieb/Onli
 nl-mv-0046; Soziale Medien; de sociale media; de social media; B1; Business/Marketing & Vertrieb/Online-Marketing; Via sociale media bereiken wij jonge klanten.; Über soziale Medien erreichen wir junge Kunden.
 nl-mv-0047; Online-Shop; de webshop; de webwinkel, de onlineshop; B1; Business/Marketing & Vertrieb/Online-Marketing; Onze webshop is dag en nacht open.; Unser Online-Shop ist rund um die Uhr geöffnet.
 nl-mv-0048; Suchmaschine; de zoekmachine; ; B1; Business/Marketing & Vertrieb/Online-Marketing; De meeste klanten vinden ons via een zoekmachine.; Die meisten Kunden finden uns über eine Suchmaschine.
-nl-mv-0049; Muster (Warenprobe); het monster; het proefmonster, de sample; B1; Business/Marketing & Vertrieb/Vertrieb & Akquise; Wij kunnen u een gratis monster sturen.; Wir können Ihnen ein kostenloses Muster schicken.
+nl-mv-0049; Muster (ein kostenloses Muster); het monster; het proefmonster, de sample; B1; Business/Marketing & Vertrieb/Vertrieb & Akquise; Wij kunnen u een gratis monster sturen.; Wir können Ihnen ein kostenloses Muster schicken.
 nl-mv-0050; Stammkunde; de vaste klant; ; B1; Business/Marketing & Vertrieb/Kundenbindung; Vaste klanten krijgen een speciale korting.; Stammkunden erhalten einen besonderen Rabatt.
 nl-mv-0051; Neukunde; de nieuwe klant; ; B1; Business/Marketing & Vertrieb/Vertrieb & Akquise; Elke nieuwe klant krijgt een welkomstgeschenk.; Jeder Neukunde bekommt ein Willkommensgeschenk.
 nl-mv-0052; Beschwerde; de klacht; ; B1; Business/Marketing & Vertrieb/Kundenbindung; Wij nemen elke klacht heel serieus.; Wir nehmen jede Beschwerde sehr ernst.
@@ -85,11 +85,11 @@ nl-mv-0082; Kundenbindung; de klantenbinding; de klantloyaliteit; B2; Business/M
 nl-mv-0083; Treueprogramm; het loyaliteitsprogramma; het spaarprogramma; B2; Business/Marketing & Vertrieb/Kundenbindung; Ons loyaliteitsprogramma beloont klanten die veel kopen met punten.; Unser Treueprogramm belohnt Vielkäufer mit Punkten.
 nl-mv-0084; Produkteinführung; de productintroductie; de productlancering; B2; Business/Marketing & Vertrieb/Kampagne & Werbung; De productintroductie is gepland voor begin maart.; Die Produkteinführung ist für Anfang März geplant.
 nl-mv-0085; Werbebudget; het reclamebudget; het advertentiebudget; B2; Business/Marketing & Vertrieb/Kampagne & Werbung; Voor de start verdubbelden wij het reclamebudget.; Für den Start verdoppelten wir das Werbebudget.
-nl-mv-0086; Reichweite (Medien); het bereik; ; B2; Business/Marketing & Vertrieb/Online-Marketing; Onze berichten haalden deze maand een veel groter bereik.; Unsere Beiträge erzielten diesen Monat eine viel höhere Reichweite.
+nl-mv-0086; Reichweite (die Reichweite einer Anzeige); het bereik; ; B2; Business/Marketing & Vertrieb/Online-Marketing; Onze berichten haalden deze maand een veel groter bereik.; Unsere Beiträge erzielten diesen Monat eine viel höhere Reichweite.
 nl-mv-0087; Öffentlichkeitsarbeit; de public relations; de pr; B2; Business/Marketing & Vertrieb/Kampagne & Werbung; Goede public relations bouwen met de tijd vertrouwen op.; Gute Öffentlichkeitsarbeit schafft mit der Zeit Vertrauen.
 nl-mv-0088; Pressemitteilung; het persbericht; ; B2; Business/Marketing & Vertrieb/Kampagne & Werbung; Wij publiceerden een persbericht over de fusie.; Wir veröffentlichten eine Pressemitteilung zur Fusion.
 nl-mv-0089; Sponsoring; de sponsoring; ; B2; Business/Marketing & Vertrieb/Kampagne & Werbung; De sponsoring van de plaatselijke vereniging betaalt zich terug.; Das Sponsoring des örtlichen Vereins zahlt sich aus.
-nl-mv-0090; Messe (Ausstellung); de beurs; de vakbeurs; B2; Business/Marketing & Vertrieb/Vertrieb & Akquise; Op de beurs presenteren wij onze nieuwe producten.; Auf der Messe präsentieren wir unsere neuen Produkte.
+nl-mv-0090; Messe (auf einer Messe ausstellen); de beurs; de vakbeurs; B2; Business/Marketing & Vertrieb/Vertrieb & Akquise; Op de beurs presenteren wij onze nieuwe producten.; Auf der Messe präsentieren wir unsere neuen Produkte.
 nl-mv-0091; Werbegeschenk; het relatiegeschenk; het reclamegeschenk, de giveaway; B2; Business/Marketing & Vertrieb/Kampagne & Werbung; De bezoekers waren dol op de kleine relatiegeschenken op onze stand.; Die Besucher liebten die kleinen Werbegeschenke an unserem Stand.
 nl-mv-0092; Direktmarketing; de directmarketing; ; B2; Business/Marketing & Vertrieb/Kampagne & Werbung; Directmarketing werkt goed bij bestaande klanten.; Direktmarketing funktioniert gut bei Bestandskunden.
 nl-mv-0093; Mundpropaganda; de mond-tot-mondreclame; ; B2; Business/Marketing & Vertrieb/Kundenbindung; Mond-tot-mondreclame bracht ons veel nieuwe klanten.; Mundpropaganda brachte uns viele neue Kunden.

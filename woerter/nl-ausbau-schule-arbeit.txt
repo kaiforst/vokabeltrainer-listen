@@ -82,7 +82,7 @@ nl-xb-0079; Bachelor; de bachelor; ; B1; Bildung/Universität; Zij heeft een bac
 nl-xb-0080; Master; de master; ; B1; Bildung/Universität; Na de bachelor wil ik een master doen.; Nach dem Bachelor möchte ich einen Master machen.
 nl-xb-0081; Hochschule; de hogeschool; de universiteit; B1; Bildung/Universität; Hij studeert muziek aan een hogeschool in Keulen.; Er studiert Musik an einer Hochschule in Köln.
 nl-xb-0082; Fachhochschule; de hogeschool; het hbo; C1; Bildung/Universität; Zij heeft werktuigbouwkunde gestudeerd aan een hogeschool.; Sie hat Maschinenbau an einer Fachhochschule studiert.
-nl-xb-0083; Sprechstunde (Hochschule); het spreekuur; ; B2; Bildung/Universität; Het spreekuur van de professor is op dinsdagmiddag.; Die Sprechstunde des Professors ist am Dienstagnachmittag.
+nl-xb-0083; Sprechstunde (beim Professor); het spreekuur; ; B2; Bildung/Universität; Het spreekuur van de professor is op dinsdagmiddag.; Die Sprechstunde des Professors ist am Dienstagnachmittag.
 nl-xb-0084; Tutor; de tutor; ; B2; Bildung/Universität; Onze tutor helpt ons bij de voorbereiding op de examens.; Unser Tutor hilft uns bei der Vorbereitung auf die Prüfungen.
 nl-xb-0085; Literaturverzeichnis; de literatuurlijst; de bibliografie, de bronnenlijst; C1; Bildung/Universität; Neem al je bronnen op in de literatuurlijst.; Nimm alle deine Quellen ins Literaturverzeichnis auf.
 nl-xb-0086; Zitat; het citaat; ; B1; Bildung/Universität; Het opstel begint met een citaat van Goethe.; Der Aufsatz beginnt mit einem Zitat von Goethe.
@@ -144,10 +144,10 @@ nl-xb-0141; Vokal; de klinker; de vocaal; B1; Bildung/Sprache/Wörter & Aussprac
 nl-xb-0142; Konsonant; de medeklinker; de consonant; B1; Bildung/Sprache/Wörter & Aussprache; Het woord strength heeft veel medeklinkers achter elkaar.; Das Wort strength hat viele Konsonanten hintereinander.
 nl-xb-0143; Akzent; het accent; ; B1; Bildung/Sprache/Wörter & Aussprache; Hij spreekt Engels met een sterk Duits accent.; Er spricht Englisch mit einem starken deutschen Akzent.
 nl-xb-0144; Dialekt; het dialect; ; B2; Bildung/Sprache/Wörter & Aussprache; Mijn grootouders spreken een dialect dat ik nauwelijks begrijp.; Meine Großeltern sprechen einen Dialekt, den ich kaum verstehe.
-nl-xb-0145; Ausdruck (Formulierung); de uitdrukking; ; B1; Bildung/Sprache/Wörter & Aussprache; Deze uitdrukking is in gesproken Engels heel gebruikelijk.; Dieser Ausdruck ist im gesprochenen Englisch sehr üblich.
+nl-xb-0145; Ausdruck (ein höflicher Ausdruck); de uitdrukking; ; B1; Bildung/Sprache/Wörter & Aussprache; Deze uitdrukking is in gesproken Engels heel gebruikelijk.; Dieser Ausdruck ist im gesprochenen Englisch sehr üblich.
 nl-xb-0146; Redewendung; de uitdrukking; het gezegde, de zegswijze; B2; Bildung/Sprache/Wörter & Aussprache; It's raining cats and dogs is een grappige uitdrukking.; It's raining cats and dogs ist eine lustige Redewendung.
 nl-xb-0147; Synonym; het synoniem; ; B2; Bildung/Sprache/Wörter & Aussprache; Big is een synoniem voor large.; Big ist ein Synonym für large.
-nl-xb-0148; Abkürzung (Wort); de afkorting; ; B1; Bildung/Sprache/Wörter & Aussprache; UK is de afkorting van United Kingdom.; UK ist die Abkürzung für United Kingdom.
+nl-xb-0148; Abkürzung (ein abgekürztes Wort); de afkorting; ; B1; Bildung/Sprache/Wörter & Aussprache; UK is de afkorting van United Kingdom.; UK ist die Abkürzung für United Kingdom.
 nl-xb-0149; Fremdwort; het leenwoord; het vreemde woord; B2; Bildung/Sprache/Wörter & Aussprache; Het Duits heeft veel leenwoorden uit het Engels.; Das Deutsche hat viele Fremdwörter aus dem Englischen.
 nl-xb-0150; Wortfamilie; de woordfamilie; ; B2; Bildung/Sprache/Wörter & Aussprache; Happy, happiness en unhappy horen bij één woordfamilie.; Happy, happiness und unhappy gehören zu einer Wortfamilie.
 nl-xb-0151; Definition; de definitie; ; B1; Bildung/Sprache/Wörter & Aussprache; Lees de definitie en raad het woord.; Lies die Definition und rate das Wort.
@@ -169,7 +169,7 @@ nl-xb-0166; Stichwort; het steekwoord; het trefwoord, het sleutelwoord; B1; Bild
 nl-xb-0167; Stichpunkt; het steekwoord; de bullet; B2; Bildung/Sprache/Lesen & Schreiben; Maak voor je spreekbeurt aantekeningen in steekwoorden.; Mach dir für dein Referat Notizen in Stichpunkten.
 nl-xb-0168; Einleitung; de inleiding; ; B1; Bildung/Sprache/Lesen & Schreiben; De inleiding mag niet te lang zijn.; Die Einleitung sollte nicht zu lang sein.
 nl-xb-0169; Hauptteil; de kern; het middenstuk, het hoofddeel; B1; Bildung/Sprache/Lesen & Schreiben; In de kern zet je je argumenten uiteen.; Im Hauptteil stellst du deine Argumente dar.
-nl-xb-0170; Schluss (Text); het slot; de conclusie; B1; Bildung/Sprache/Lesen & Schreiben; In het slot geef je je eigen mening.; Im Schluss sagst du deine eigene Meinung.
+nl-xb-0170; Schluss (Einleitung, Hauptteil, Schluss); het slot; de conclusie; B1; Bildung/Sprache/Lesen & Schreiben; In het slot geef je je eigen mening.; Im Schluss sagst du deine eigene Meinung.
 nl-xb-0171; Entwurf; de kladversie; het concept, het klad; B2; Bildung/Sprache/Lesen & Schreiben; Ik heb de eerste kladversie van mijn opstel geschreven.; Ich habe den ersten Entwurf meines Aufsatzes geschrieben.
 nl-xb-0172; Bildbeschreibung; de beeldbeschrijving; ; B1; Bildung/Sprache/Lesen & Schreiben; In het mondelinge examen moet je een beeldbeschrijving geven.; In der mündlichen Prüfung musst du eine Bildbeschreibung machen.
 nl-xb-0173; Leseverstehen; de leesvaardigheid; het begrijpend lezen, het leesbegrip; B2; Bildung/Sprache/Lesen & Schreiben; De toets heeft een onderdeel leesvaardigheid.; Der Test hat einen Teil zum Leseverstehen.
@@ -190,7 +190,7 @@ nl-xb-0187; Gebärdensprache; de gebarentaal; ; B2; Bildung/Sprache/Sprachen; Do
 nl-xb-0188; Handwerker; de vakman; de ambachtsman, de klusjesman; B1; Arbeit/Beruf/Berufe; We hebben een vakman nodig die het dak repareert.; Wir brauchen einen Handwerker, der das Dach repariert.
 nl-xb-0189; Klempner; de loodgieter; ; B1; Arbeit/Beruf/Berufe; De loodgieter komt om de lekkende buis te repareren.; Der Klempner kommt, um das undichte Rohr zu reparieren.
 nl-xb-0190; Tischler; de timmerman; de meubelmaker; B1; Arbeit/Beruf/Berufe; De timmerman heeft deze tafel van eikenhout gemaakt.; Der Tischler hat diesen Tisch aus Eiche gemacht.
-nl-xb-0191; Maler (Handwerker); de schilder; de huisschilder; B1; Arbeit/Beruf/Berufe; De schilders verven volgende week onze woning.; Die Maler streichen nächste Woche unsere Wohnung.
+nl-xb-0191; Maler (der Maler streicht die Wände); de schilder; de huisschilder; B1; Arbeit/Beruf/Berufe; De schilders verven volgende week onze woning.; Die Maler streichen nächste Woche unsere Wohnung.
 nl-xb-0192; Maurer; de metselaar; ; B2; Arbeit/Beruf/Berufe; De metselaars zijn klaar met de muren van het huis.; Die Maurer sind mit den Wänden des Hauses fertig.
 nl-xb-0193; Automechaniker; de automonteur; de monteur; A2; Arbeit/Beruf/Berufe; Mijn neef volgt een opleiding tot automonteur.; Mein Cousin macht eine Ausbildung zum Automechaniker.
 nl-xb-0194; Programmierer; de programmeur; ; A2; Arbeit/Beruf/Berufe; De programmeur schrijft een nieuwe app.; Der Programmierer schreibt eine neue App.
@@ -224,7 +224,7 @@ nl-xb-0221; Arbeitstag; de werkdag; ; A2; Arbeit/Beruf/Arbeitsalltag; Mijn werkd
 nl-xb-0222; Mittagspause; de lunchpauze; de middagpauze; A1; Arbeit/Beruf/Arbeitsalltag; In mijn lunchpauze maak ik een korte wandeling.; In meiner Mittagspause mache ich einen kurzen Spaziergang.
 nl-xb-0223; Kaffeepause; de koffiepauze; ; A2; Arbeit/Beruf/Arbeitsalltag; Laten we nu een korte koffiepauze nemen.; Lass uns jetzt eine kurze Kaffeepause machen.
 nl-xb-0224; Kantine; de kantine; ; A2; Arbeit/Beruf/Arbeitsalltag; Het eten in onze kantine is goedkoop en goed.; Das Essen in unserer Kantine ist billig und gut.
-nl-xb-0225; Empfang (Büro); de receptie; de balie; B1; Arbeit/Beruf/Arbeitsalltag; Wacht alstublieft bij de receptie, u wordt opgehaald.; Bitte warten Sie am Empfang, Sie werden abgeholt.
+nl-xb-0225; Empfang (sich am Empfang melden); de receptie; de balie; B1; Arbeit/Beruf/Arbeitsalltag; Wacht alstublieft bij de receptie, u wordt opgehaald.; Bitte warten Sie am Empfang, Sie werden abgeholt.
 nl-xb-0226; Nebenjob; de bijbaan; het bijbaantje; B1; Arbeit/Beruf/Arbeitsalltag; Veel studenten hebben een bijbaan in een café.; Viele Studenten haben einen Nebenjob in einem Café.
 nl-xb-0227; Ferienjob; de vakantiebaan; het vakantiebaantje; A2; Arbeit/Beruf/Arbeitsalltag; Ik heb met een vakantiebaan wat geld verdiend.; Ich habe mit einem Ferienjob etwas Geld verdient.
 nl-xb-0228; Traumberuf; de droombaan; ; A2; Arbeit/Beruf/Karriere; Piloot is altijd al mijn droombaan geweest.; Pilot ist schon immer mein Traumberuf gewesen.
@@ -252,7 +252,7 @@ nl-xb-0249; Aktenschrank; de archiefkast; de dossierkast; B2; Arbeit/Beruf/Arbei
 nl-xb-0250; Aktentasche; de aktetas; ; B1; Arbeit/Beruf/Arbeitsplatz; Hij draagt zijn laptop in een leren aktetas.; Er trägt seinen Laptop in einer Aktentasche aus Leder.
 nl-xb-0251; Tinte; de inkt; ; A2; Arbeit/Beruf/Arbeitsplatz; Mijn vulpen heeft geen inkt meer.; Mein Füller hat keine Tinte mehr.
 nl-xb-0252; Druckerpatrone; de inktcartridge; de cartridge, de inktpatroon; B2; Arbeit/Beruf/Arbeitsplatz; We hebben een nieuwe inktcartridge voor de printer nodig.; Wir brauchen eine neue Druckerpatrone für den Drucker.
-nl-xb-0253; Ausdruck (Papier); de afdruk; de print, de uitdraai; B2; Arbeit/Beruf/Arbeitsplatz; Kun je een afdruk van het rapport meenemen naar de vergadering?; Kannst du einen Ausdruck des Berichts zur Besprechung mitbringen?
+nl-xb-0253; Ausdruck (ein Ausdruck vom Drucker); de afdruk; de print, de uitdraai; B2; Arbeit/Beruf/Arbeitsplatz; Kun je een afdruk van het rapport meenemen naar de vergadering?; Kannst du einen Ausdruck des Berichts zur Besprechung mitbringen?
 nl-xb-0254; fotokopieren; kopiëren; fotokopiëren; B1; Arbeit/Beruf/Arbeitsplatz; Kopieer deze bladzijde alsjeblieft twintig keer voor de klas.; Bitte fotokopier diese Seite zwanzigmal für die Klasse.
 nl-xb-0255; Mikrofon; de microfoon; ; A2; Technik/Computer/Geräte; Praat alsjeblieft wat dichter in de microfoon.; Sprich bitte etwas näher ins Mikrofon.
 nl-xb-0256; Webcam; de webcam; ; A2; Technik/Computer/Geräte; Mijn webcam werkt niet bij videogesprekken.; Meine Webcam funktioniert bei Videoanrufen nicht.
@@ -276,11 +276,11 @@ nl-xb-0273; Ladekabel; de oplaadkabel; de laadkabel; A2; Technik/Computer/Hardwa
 nl-xb-0274; Adapter; de adapter; ; B1; Technik/Computer/Hardware; Voor stopcontacten in Groot-Brittannië heb je een adapter nodig.; Für Steckdosen in Großbritannien brauchst du einen Adapter.
 nl-xb-0275; einfügen; plakken; invoegen; B1; Technik/Computer/Software; Kopieer de tekst en plak hem in de e-mail.; Kopier den Text und füg ihn in die E-Mail ein.
 nl-xb-0276; scannen; scannen; ; B1; Technik/Computer/Software; Kun je het contract scannen en naar mij sturen?; Kannst du den Vertrag scannen und mir schicken?
-nl-xb-0277; tippen (schreiben); typen; ; A2; Technik/Computer/Software; Ze kan heel snel typen zonder naar het toetsenbord te kijken.; Sie kann sehr schnell tippen, ohne auf die Tastatur zu schauen.
+nl-xb-0277; tippen (auf der Tastatur tippen); typen; ; A2; Technik/Computer/Software; Ze kan heel snel typen zonder naar het toetsenbord te kijken.; Sie kann sehr schnell tippen, ohne auf die Tastatur zu schauen.
 nl-xb-0278; doppelklicken; dubbelklikken; ; B1; Technik/Computer/Software; Dubbelklik op het pictogram om het programma te openen.; Doppelklicke auf das Symbol, um das Programm zu öffnen.
 nl-xb-0279; scrollen; scrollen; ; A2; Technik/Computer/Software; Scrol naar beneden tot het einde van de pagina.; Scroll nach unten bis zum Ende der Seite.
 nl-xb-0280; Einstellungen; de instellingen; ; A2; Technik/Computer/Software; Je kunt de taal in de instellingen veranderen.; Du kannst die Sprache in den Einstellungen ändern.
-nl-xb-0281; Symbol (Bildschirm); het pictogram; het icoontje, het icoon; B1; Technik/Computer/Software; Klik bovenaan op het pictogram met de printer.; Klick oben auf das Symbol mit dem Drucker.
+nl-xb-0281; Symbol (ein Symbol auf dem Bildschirm); het pictogram; het icoontje, het icoon; B1; Technik/Computer/Software; Klik bovenaan op het pictogram met de printer.; Klick oben auf das Symbol mit dem Drucker.
 nl-xb-0282; Cursor; de cursor; ; B2; Technik/Computer/Software; Beweeg de cursor naar het einde van de regel.; Beweg den Cursor an das Ende der Zeile.
 nl-xb-0283; Tabelle; de tabel; ; B1; Technik/Computer/Software; De tabel laat de resultaten van de enquête zien.; Die Tabelle zeigt die Ergebnisse der Umfrage.
 nl-xb-0284; Tabellenkalkulation; de spreadsheet; het rekenblad, het spreadsheetprogramma; B2; Technik/Computer/Software; Ik houd mijn uitgaven bij in een spreadsheet.; Ich halte meine Ausgaben in einer Tabellenkalkulation fest.
@@ -288,12 +288,12 @@ nl-xb-0285; Textverarbeitung; de tekstverwerking; de tekstverwerker; B2; Technik
 nl-xb-0286; Schriftart; het lettertype; ; B2; Technik/Computer/Software; Kies een lettertype dat goed leesbaar is.; Wähl eine Schriftart, die gut lesbar ist.
 nl-xb-0287; Tastenkombination; de sneltoets; de toetsencombinatie; B2; Technik/Computer/Software; Deze sneltoets slaat het document op.; Diese Tastenkombination speichert das Dokument.
 nl-xb-0288; Pixel; de pixel; ; B2; Technik/Computer/Software; De foto heeft te weinig pixels voor een poster.; Das Foto hat zu wenige Pixel für ein Poster.
-nl-xb-0289; Auflösung (Bildschirm); de resolutie; ; B2; Technik/Computer/Software; De nieuwe monitor heeft een heel hoge resolutie.; Der neue Monitor hat eine sehr hohe Auflösung.
+nl-xb-0289; Auflösung (die Auflösung des Bildschirms); de resolutie; ; B2; Technik/Computer/Software; De nieuwe monitor heeft een heel hoge resolutie.; Der neue Monitor hat eine sehr hohe Auflösung.
 nl-xb-0290; Bildschirmschoner; de schermbeveiliging; de screensaver; B2; Technik/Computer/Software; De schermbeveiliging gaat na vijf minuten aan.; Der Bildschirmschoner geht nach fünf Minuten an.
 nl-xb-0291; Rechtschreibprüfung; de spellingcontrole; ; B2; Technik/Computer/Software; De spellingcontrole heeft deze fout niet gevonden.; Die Rechtschreibprüfung hat diesen Fehler nicht gefunden.
 nl-xb-0292; Autokorrektur; de autocorrectie; ; B1; Technik/Computer/Software; De autocorrectie heeft mijn bericht in iets raars veranderd.; Die Autokorrektur hat meine Nachricht in etwas Seltsames verwandelt.
 nl-xb-0293; Zwischenablage; het klembord; ; C1; Technik/Computer/Software; De gekopieerde tekst staat nu op het klembord.; Der kopierte Text ist jetzt in der Zwischenablage.
-nl-xb-0294; Papierkorb (Computer); de prullenbak; ; B1; Technik/Computer/Software; Het verwijderde bestand zit nog in de prullenbak.; Die gelöschte Datei ist noch im Papierkorb.
+nl-xb-0294; Papierkorb (auf dem Computer); de prullenbak; ; B1; Technik/Computer/Software; Het verwijderde bestand zit nog in de prullenbak.; Die gelöschte Datei ist noch im Papierkorb.
 nl-xb-0295; Desktop; het bureaublad; de desktop; B1; Technik/Computer/Software; Ik heb het bestand op het bureaublad opgeslagen.; Ich habe die Datei auf dem Desktop gespeichert.
 nl-xb-0296; Registerkarte; het tabblad; de tab; C1; Technik/Computer/Software; Open de link in een nieuw tabblad.; Öffne den Link in einer neuen Registerkarte.
 nl-xb-0297; Version; de versie; ; B1; Technik/Computer/Software; Installeer alsjeblieft de nieuwste versie van de app.; Bitte installier die neueste Version der App.
@@ -333,7 +333,7 @@ nl-xb-0330; Handyvertrag; het telefoonabonnement; het mobiele abonnement; B1; Te
 nl-xb-0331; Bildschirmzeit; de schermtijd; ; B1; Technik/Computer/Smartphone; Kinderen zouden niet te veel schermtijd moeten hebben.; Kinder sollten nicht zu viel Bildschirmzeit haben.
 nl-xb-0332; Stecker; de stekker; ; B1; Technik/Elektrik; Trek de stekker eruit voordat je het apparaat schoonmaakt.; Zieh den Stecker, bevor du das Gerät sauber machst.
 nl-xb-0333; Verlängerungskabel; het verlengsnoer; de verlengkabel; B2; Technik/Elektrik; De kabel is te kort, we hebben een verlengsnoer nodig.; Das Kabel ist zu kurz, wir brauchen ein Verlängerungskabel.
-nl-xb-0334; Schalter (für Strom); de schakelaar; de lichtschakelaar; A2; Technik/Elektrik; De schakelaar voor het licht zit naast de deur.; Der Schalter für das Licht ist neben der Tür.
+nl-xb-0334; Schalter (den Schalter drücken); de schakelaar; de lichtschakelaar; A2; Technik/Elektrik; De schakelaar voor het licht zit naast de deur.; Der Schalter für das Licht ist neben der Tür.
 nl-xb-0335; einschalten; aanzetten; aandoen, inschakelen; A2; Technik/Elektrik; Kun je alsjeblieft het licht aanzetten?; Kannst du bitte das Licht einschalten?
 nl-xb-0336; ausschalten; uitzetten; uitdoen, uitschakelen; A2; Technik/Elektrik; Vergeet niet je computer uit te zetten.; Vergiss nicht, deinen Computer auszuschalten.
 nl-xb-0337; Kurzschluss; de kortsluiting; ; C1; Technik/Elektrik; Kortsluiting heeft de brand in de keuken veroorzaakt.; Ein Kurzschluss hat das Feuer in der Küche verursacht.
@@ -401,7 +401,7 @@ nl-xb-0398; Wochenzeitung; het weekblad; de weekkrant; B1; Medien/Kommunikation/
 nl-xb-0399; Titelseite; de voorpagina; ; B2; Medien/Kommunikation/Nachrichten & Presse; Het verhaal stond op de voorpagina van elke krant.; Die Geschichte stand auf der Titelseite jeder Zeitung.
 nl-xb-0400; Leserbrief; de ingezonden brief; de lezersbrief; B2; Medien/Kommunikation/Nachrichten & Presse; Mijn opa schrijft vaak ingezonden brieven.; Mein Großvater schreibt oft Leserbriefe.
 nl-xb-0401; Kolumne; de column; ; B2; Medien/Kommunikation/Nachrichten & Presse; Ze schrijft een wekelijkse column over eten.; Sie schreibt eine wöchentliche Kolumne über Essen.
-nl-xb-0402; Ausgabe (Zeitung); de editie; het nummer, de uitgave; B2; Medien/Kommunikation/Nachrichten & Presse; De nieuwe editie van het tijdschrift verschijnt maandag.; Die neue Ausgabe der Zeitschrift erscheint am Montag.
+nl-xb-0402; Ausgabe (die neue Ausgabe der Zeitschrift); de editie; het nummer, de uitgave; B2; Medien/Kommunikation/Nachrichten & Presse; De nieuwe editie van het tijdschrift verschijnt maandag.; Die neue Ausgabe der Zeitschrift erscheint am Montag.
 nl-xb-0403; Nachrichtenagentur; het persbureau; het nieuwsagentschap; C1; Medien/Kommunikation/Nachrichten & Presse; Het bericht komt van een internationaal persbureau.; Die Meldung stammt von einer internationalen Nachrichtenagentur.
 nl-xb-0404; Bildunterschrift; het onderschrift; het bijschrift; C1; Medien/Kommunikation/Nachrichten & Presse; Het onderschrift onder de foto noemt de naam van de stad.; Die Bildunterschrift unter dem Foto nennt den Namen der Stadt.
 nl-xb-0405; Kritiker; de criticus; de recensent; B2; Medien/Kommunikation/Nachrichten & Presse; De critici waren enthousiast over de nieuwe serie.; Die Kritiker waren von der neuen Serie begeistert.
@@ -422,7 +422,7 @@ nl-xb-0419; Rundfunk; de omroep; ; C1; Medien/Kommunikation/Fernsehen & Radio; D
 nl-xb-0420; ausstrahlen; uitzenden; ; B2; Medien/Kommunikation/Fernsehen & Radio; De laatste aflevering wordt volgende week zondag uitgezonden.; Die letzte Folge wird nächsten Sonntag ausgestrahlt.
 nl-xb-0421; Aufnahme (Ton oder Video); de opname; ; B1; Medien/Kommunikation/Fernsehen & Radio; De kwaliteit van deze oude opname is niet erg goed.; Die Qualität dieser alten Aufnahme ist nicht sehr gut.
 nl-xb-0422; aufnehmen (Ton oder Video); opnemen; ; B1; Medien/Kommunikation/Fernsehen & Radio; De band heeft haar nieuwe album in Londen opgenomen.; Die Band hat ihr neues Album in London aufgenommen.
-nl-xb-0423; Staffel (Serie); het seizoen; ; B1; Medien/Kommunikation/Fernsehen & Radio; Het derde seizoen van de serie begint in mei.; Die dritte Staffel der Serie beginnt im Mai.
+nl-xb-0423; Staffel (die zweite Staffel); het seizoen; ; B1; Medien/Kommunikation/Fernsehen & Radio; Het derde seizoen van de serie begint in mei.; Die dritte Staffel der Serie beginnt im Mai.
 nl-xb-0424; synchronisiert; nagesynchroniseerd; ; B2; Medien/Kommunikation/Fernsehen & Radio; In Duitsland zijn de meeste buitenlandse films nagesynchroniseerd.; In Deutschland sind die meisten ausländischen Filme synchronisiert.
 nl-xb-0425; Kommentator; de commentator; ; B2; Medien/Kommunikation/Fernsehen & Radio; De commentator ging bij het doelpunt helemaal uit zijn dak.; Der Kommentator geriet bei dem Tor ganz aus dem Häuschen.
 nl-xb-0426; Antenne; de antenne; ; B2; Medien/Kommunikation/Fernsehen & Radio; De storm heeft de antenne op ons dak beschadigd.; Der Sturm hat die Antenne auf unserem Dach beschädigt.
@@ -433,8 +433,8 @@ nl-xb-0430; Emoji; de emoji; ; A2; Medien/Kommunikation/Social Media; Ze heeft o
 nl-xb-0431; viral; viraal; ; B2; Medien/Kommunikation/Social Media; Zijn grappige video ging binnen een paar uur viraal.; Sein lustiges Video ging innerhalb weniger Stunden viral.
 nl-xb-0432; Telefonnummer; het telefoonnummer; ; A1; Medien/Kommunikation/Telefon & Post; Mag ik je telefoonnummer alsjeblieft?; Kann ich bitte deine Telefonnummer haben?
 nl-xb-0433; Vorwahl; het netnummer; ; B2; Medien/Kommunikation/Telefon & Post; Wat is het netnummer van Berlijn?; Wie lautet die Vorwahl für Berlin?
-nl-xb-0434; besetzt (Telefon); bezet; in gesprek; A2; Medien/Kommunikation/Telefon & Post; Ik heb drie keer gebeld, maar het nummer was bezet.; Ich habe dreimal angerufen, aber es war besetzt.
-nl-xb-0435; Hörer (Telefon); de hoorn; ; B2; Medien/Kommunikation/Telefon & Post; Ze nam de hoorn op en draaide het nummer.; Sie nahm den Hörer ab und wählte die Nummer.
+nl-xb-0434; besetzt (die Leitung ist besetzt); bezet; in gesprek; A2; Medien/Kommunikation/Telefon & Post; Ik heb drie keer gebeld, maar het nummer was bezet.; Ich habe dreimal angerufen, aber es war besetzt.
+nl-xb-0435; Hörer (den Hörer abnehmen); de hoorn; ; B2; Medien/Kommunikation/Telefon & Post; Ze nam de hoorn op en draaide het nummer.; Sie nahm den Hörer ab und wählte die Nummer.
 nl-xb-0436; Postleitzahl; de postcode; ; A1; Medien/Kommunikation/Telefon & Post; Vergeet de postcode op de envelop niet.; Vergiss die Postleitzahl auf dem Umschlag nicht.
 nl-xb-0437; Briefumschlag; de envelop; de enveloppe; A2; Medien/Kommunikation/Telefon & Post; Stop de brief in een envelop en plak er een postzegel op.; Steck den Brief in einen Briefumschlag und kleb eine Marke drauf.
 nl-xb-0438; Briefkasten; de brievenbus; ; A2; Medien/Kommunikation/Telefon & Post; In de brievenbus lag een ansichtkaart uit Spanje.; Im Briefkasten war eine Postkarte aus Spanien.

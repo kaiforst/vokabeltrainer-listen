@@ -29,12 +29,12 @@ nl-bb-0026; Team; het team; ; A2; Business/Büro/Projekte; Ons team komt elke ma
 nl-bb-0027; Auftrag; de opdracht; de order; A2; Business/Büro/Geschäftspartner; We hebben een grote opdracht uit Frankrijk gekregen.; Wir haben einen großen Auftrag aus Frankreich erhalten.
 nl-bb-0028; Rechnung; de factuur; de rekening; A2; Business/Büro/Finanzen; Betaal de factuur alstublieft binnen twee weken.; Bitte bezahlen Sie die Rechnung innerhalb von zwei Wochen.
 nl-bb-0029; Angebot; de offerte; de aanbieding; A2; Business/Büro/Verhandlung; We sturen u onze offerte op vrijdag.; Wir schicken Ihnen unser Angebot am Freitag.
-nl-bb-0030; Preis (Kosten); de prijs; ; A2; Business/Büro/Verhandlung; De prijs is inclusief levering en montage.; Der Preis beinhaltet Lieferung und Montage.
+nl-bb-0030; Preis (ein günstiger Preis); de prijs; ; A2; Business/Büro/Verhandlung; De prijs is inclusief levering en montage.; Der Preis beinhaltet Lieferung und Montage.
 nl-bb-0031; Vertrag; het contract; de overeenkomst; A2; Business/Büro/Verhandlung; Beide partners ondertekenen vandaag het contract.; Beide Partner unterschreiben heute den Vertrag.
 nl-bb-0032; unterschreiben; ondertekenen; tekenen; A2; Business/Büro/Verhandlung; Onderteken het document alstublieft op de laatste pagina.; Bitte unterschreiben Sie das Dokument auf der letzten Seite.
 nl-bb-0033; senden; sturen; versturen, verzenden; A2; Business/Büro/E-Mail & Telefon; Ik stuur u het bestand meteen.; Ich sende Ihnen die Datei sofort.
 nl-bb-0034; empfangen; ontvangen; ; A2; Business/Büro/E-Mail & Telefon; Hebt u mijn bericht van gisteren ontvangen?; Haben Sie meine Nachricht von gestern empfangen?
-nl-bb-0035; Nachricht (Mitteilung); het bericht; de boodschap; A2; Business/Büro/E-Mail & Telefon; Laat alstublieft een bericht achter na de toon.; Bitte hinterlassen Sie eine Nachricht nach dem Ton.
+nl-bb-0035; Nachricht (eine Nachricht schicken); het bericht; de boodschap; A2; Business/Büro/E-Mail & Telefon; Laat alstublieft een bericht achter na de toon.; Bitte hinterlassen Sie eine Nachricht nach dem Ton.
 nl-bb-0036; Anruf; het telefoontje; de oproep, het telefoongesprek; A2; Business/Büro/E-Mail & Telefon; Ik verwacht een belangrijk telefoontje van onze partner.; Ich erwarte einen wichtigen Anruf von unserem Partner.
 nl-bb-0037; zurückrufen; terugbellen; ; A2; Business/Büro/E-Mail & Telefon; Kunt u over een uur terugbellen?; Könnten Sie bitte in einer Stunde zurückrufen?
 nl-bb-0038; Kopierer; het kopieerapparaat; de kopieermachine, de kopieerder; A2; Business/Büro/Ausstattung; Het kopieerapparaat op de tweede verdieping is kapot.; Der Kopierer im zweiten Stock ist kaputt.
@@ -42,16 +42,16 @@ nl-bb-0039; drucken; printen; afdrukken; A2; Business/Büro/Ausstattung; Print h
 nl-bb-0040; kopieren; kopiëren; ; A2; Business/Büro/Ausstattung; Kunt u deze pagina's voor mij kopiëren?; Können Sie diese Seiten für mich kopieren?
 nl-bb-0041; Bildschirm; het beeldscherm; de monitor, het scherm; A2; Business/Büro/Ausstattung; Een tweede beeldscherm maakt mijn werk veel makkelijker.; Ein zweiter Bildschirm erleichtert meine Arbeit sehr.
 nl-bb-0042; Tastatur; het toetsenbord; ; A2; Business/Büro/Ausstattung; Mijn nieuwe toetsenbord is stil en comfortabel.; Meine neue Tastatur ist leise und bequem.
-nl-bb-0043; Maus (Computer); de muis; ; A2; Business/Büro/Ausstattung; De muis heeft een nieuwe batterij nodig.; Die Maus braucht eine neue Batterie.
+nl-bb-0043; Maus (die Maus am Computer); de muis; ; A2; Business/Büro/Ausstattung; De muis heeft een nieuwe batterij nodig.; Die Maus braucht eine neue Batterie.
 nl-bb-0044; Ordner; de ordner; de map; A2; Business/Büro/Ausstattung; Alle contracten zitten in de blauwe ordner.; Alle Verträge sind im blauen Ordner.
 nl-bb-0045; Dokument; het document; ; A2; Business/Büro/Projekte; Controleer het document alstublieft vóór de vergadering.; Bitte prüfen Sie das Dokument vor dem Meeting.
 nl-bb-0046; Datei; het bestand; ; A2; Business/Büro/E-Mail & Telefon; Het bestand is te groot voor een e-mail.; Die Datei ist zu groß für eine E-Mail.
 nl-bb-0047; Besucher; de bezoeker; de gast; A2; Business/Büro/Geschäftspartner; Onze bezoekers komen om negen uur aan bij de receptie.; Unsere Besucher kommen um neun am Empfang an.
-nl-bb-0048; Geschäft (Handel); de zaken; de handel, de deal; A2; Business/Büro/Geschäftspartner; De zaken met de nieuwe partner lopen goed.; Das Geschäft mit dem neuen Partner läuft gut.
+nl-bb-0048; Geschäft (Geschäfte machen); de zaken; de handel, de deal; A2; Business/Büro/Geschäftspartner; De zaken met de nieuwe partner lopen goed.; Das Geschäft mit dem neuen Partner läuft gut.
 nl-bb-0049; Lieferung; de levering; de zending; A2; Business/Büro/Geschäftspartner; De levering komt uiterlijk donderdag aan.; Die Lieferung kommt spätestens am Donnerstag an.
 nl-bb-0050; liefern; leveren; ; A2; Business/Büro/Geschäftspartner; We leveren de goederen binnen vijf werkdagen.; Wir liefern die Ware innerhalb von fünf Werktagen.
 nl-bb-0051; Tagesordnung; de agenda; de vergaderagenda; B1; Business/Büro/Meetings; Het eerste punt op de agenda is het budget.; Der erste Punkt auf der Tagesordnung ist das Budget.
-nl-bb-0052; Protokoll (Sitzung); de notulen; het verslag; B1; Business/Büro/Meetings; Wie maakt de notulen van de vergadering?; Wer schreibt das Protokoll der Besprechung?
+nl-bb-0052; Protokoll (Protokoll führen); de notulen; het verslag; B1; Business/Büro/Meetings; Wie maakt de notulen van de vergadering?; Wer schreibt das Protokoll der Besprechung?
 nl-bb-0053; Teilnehmer; de deelnemer; ; B1; Business/Büro/Meetings; Elke deelnemer krijgt de stukken vooraf.; Jeder Teilnehmer erhält die Unterlagen im Voraus.
 nl-bb-0054; teilnehmen; deelnemen; meedoen; B1; Business/Büro/Meetings; Twaalf collega's zullen aan de workshop deelnemen.; Zwölf Kollegen werden am Workshop teilnehmen.
 nl-bb-0055; verschieben; uitstellen; verplaatsen, verzetten; B1; Business/Büro/Meetings; We moeten de vergadering tot donderdag uitstellen.; Wir müssen das Meeting auf Donnerstag verschieben.
@@ -80,7 +80,7 @@ nl-bb-0077; Filiale; het filiaal; de vestiging; B1; Business/Büro/Geschäftspar
 nl-bb-0078; Zentrale; het hoofdkantoor; de hoofdvestiging; B1; Business/Büro/Geschäftspartner; Het hoofdkantoor van de onderneming is in Zürich.; Die Zentrale des Unternehmens ist in Zürich.
 nl-bb-0079; Präsentation; de presentatie; ; B1; Business/Büro/Präsentation; Uw presentatie over het nieuwe product was uitstekend.; Ihre Präsentation über das neue Produkt war ausgezeichnet.
 nl-bb-0080; präsentieren; presenteren; ; B1; Business/Büro/Präsentation; Hij presenteert de resultaten op woensdag.; Er präsentiert die Ergebnisse am Mittwoch.
-nl-bb-0081; Folie (Präsentation); de dia; de slide; B1; Business/Büro/Präsentation; De volgende dia toont onze verkoopcijfers.; Die nächste Folie zeigt unsere Verkaufszahlen.
+nl-bb-0081; Folie (die Folien einer Präsentation); de dia; de slide; B1; Business/Büro/Präsentation; De volgende dia toont onze verkoopcijfers.; Die nächste Folie zeigt unsere Verkaufszahlen.
 nl-bb-0082; Diagramm; het diagram; de grafiek; B1; Business/Büro/Präsentation; Het diagram vergelijkt de resultaten van drie jaar.; Das Diagramm vergleicht die Ergebnisse von drei Jahren.
 nl-bb-0083; Zusammenfassung; de samenvatting; ; B1; Business/Büro/Präsentation; Een korte samenvatting volgt aan het einde.; Eine kurze Zusammenfassung folgt am Ende.
 nl-bb-0084; zusammenfassen; samenvatten; ; B1; Business/Büro/Präsentation; Laat mij de belangrijkste punten samenvatten.; Lassen Sie mich die wichtigsten Punkte zusammenfassen.
@@ -103,7 +103,7 @@ nl-bb-0100; Umsetzung; de implementatie; de uitvoering, de invoering; B2; Busine
 nl-bb-0101; Meilenstein; de mijlpaal; ; B2; Business/Büro/Projekte; We hebben vorige week een belangrijke mijlpaal bereikt.; Wir haben letzte Woche einen wichtigen Meilenstein erreicht.
 nl-bb-0102; Projektleiter; de projectleider; de projectmanager; B2; Business/Büro/Projekte; De projectleider coördineert alle teams en afspraken.; Der Projektleiter koordiniert alle Teams und Termine.
 nl-bb-0103; zuständig; verantwoordelijk; bevoegd; B2; Business/Büro/Projekte; Wie is verantwoordelijk voor de klantgegevens?; Wer ist für die Kundendaten zuständig?
-nl-bb-0104; Abstimmung (Koordination); de afstemming; de coördinatie; B2; Business/Büro/Meetings; Nauwe afstemming tussen de afdelingen bespaart tijd.; Enge Abstimmung zwischen den Abteilungen spart Zeit.
+nl-bb-0104; Abstimmung (sich gut absprechen); de afstemming; de coördinatie; B2; Business/Büro/Meetings; Nauwe afstemming tussen de afdelingen bespaart tijd.; Enge Abstimmung zwischen den Abteilungen spart Zeit.
 nl-bb-0105; Rücksprache; het overleg; de ruggespraak; B2; Business/Büro/Meetings; Doe alstublieft geen toezeggingen zonder overleg met mij.; Bitte machen Sie keine Zusagen ohne Rücksprache mit mir.
 nl-bb-0106; Entscheidung; de beslissing; het besluit; B2; Business/Büro/Meetings; De definitieve beslissing valt op vrijdag.; Die endgültige Entscheidung fällt am Freitag.
 nl-bb-0107; entscheiden; beslissen; besluiten; B2; Business/Büro/Meetings; We moeten deze week over de offerte beslissen.; Wir müssen diese Woche über das Angebot entscheiden.
@@ -119,12 +119,12 @@ nl-bb-0116; Rabatt; de korting; ; B2; Business/Büro/Verhandlung; We bieden een 
 nl-bb-0117; Zahlungsbedingungen; de betalingsvoorwaarden; ; B2; Business/Büro/Finanzen; De betalingsvoorwaarden staan dertig dagen na levering toe.; Die Zahlungsbedingungen erlauben dreißig Tage nach Lieferung.
 nl-bb-0118; Mahnung; de aanmaning; de betalingsherinnering; B2; Business/Büro/Finanzen; De klant kreeg een aanmaning voor de openstaande factuur.; Der Kunde erhielt eine Mahnung für die offene Rechnung.
 nl-bb-0119; überweisen; overmaken; overschrijven, overboeken; B2; Business/Büro/Finanzen; Maak het bedrag alstublieft over op onze rekening.; Bitte überweisen Sie den Betrag auf unser Konto.
-nl-bb-0120; Überweisung (Bank); de overschrijving; de overboeking, de overmaking; B2; Business/Büro/Finanzen; De overschrijving kwam na twee dagen aan.; Die Überweisung kam nach zwei Tagen an.
+nl-bb-0120; Überweisung (Geld per Überweisung); de overschrijving; de overboeking, de overmaking; B2; Business/Büro/Finanzen; De overschrijving kwam na twee dagen aan.; Die Überweisung kam nach zwei Tagen an.
 nl-bb-0121; Spesen; de onkosten; de declaratie, de reiskosten; B2; Business/Büro/Finanzen; Hij declareert zijn onkosten na elke zakenreis.; Er rechnet seine Spesen nach jeder Geschäftsreise ab.
 nl-bb-0122; Geschäftsreise; de zakenreis; de dienstreis; B2; Business/Büro/Geschäftspartner; Ze is op zakenreis in Wenen.; Sie ist auf Geschäftsreise in Wien.
 nl-bb-0123; Visitenkarte; het visitekaartje; ; B2; Business/Büro/Geschäftspartner; Hij gaf me op de beurs zijn visitekaartje.; Er gab mir auf der Messe seine Visitenkarte.
 nl-bb-0124; Netzwerk; het netwerk; ; B2; Business/Büro/Geschäftspartner; Een sterk netwerk helpt bij moeilijke projecten.; Ein starkes Netzwerk hilft bei schwierigen Projekten.
-nl-bb-0125; Messe (Ausstellung); de beurs; de vakbeurs; B2; Business/Büro/Geschäftspartner; Ons bedrijf presenteert twee nieuwe producten op de beurs.; Unsere Firma präsentiert zwei neue Produkte auf der Messe.
+nl-bb-0125; Messe (auf einer Messe ausstellen); de beurs; de vakbeurs; B2; Business/Büro/Geschäftspartner; Ons bedrijf presenteert twee nieuwe producten op de beurs.; Unsere Firma präsentiert zwei neue Produkte auf der Messe.
 nl-bb-0126; Verhandlungsspielraum; de onderhandelingsruimte; de speelruimte, de onderhandelingsmarge; C1; Business/Büro/Verhandlung; Bij de prijs is er weinig onderhandelingsruimte.; Beim Preis gibt es wenig Verhandlungsspielraum.
 nl-bb-0127; Zugeständnis; de concessie; de tegemoetkoming; C1; Business/Büro/Verhandlung; Beide partijen deden een concessie om tot een akkoord te komen.; Beide Seiten machten ein Zugeständnis, um eine Einigung zu erreichen.
 nl-bb-0128; Einwand; het bezwaar; de tegenwerping; C1; Business/Büro/Verhandlung; Hij maakte bezwaar tegen het krappe tijdschema.; Er erhob einen Einwand gegen den engen Zeitplan.

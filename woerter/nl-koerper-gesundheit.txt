@@ -42,14 +42,14 @@ nl-kg-0039; Bauchschmerzen; de buikpijn; ; A2; Gesundheit/Symptome; Het meisje h
 nl-kg-0040; Halsschmerzen; de keelpijn; ; A2; Gesundheit/Symptome; Warme thee helpt goed tegen keelpijn.; Warmer Tee hilft gegen Halsschmerzen.
 nl-kg-0041; Grippe; de griep; ; A2; Gesundheit/Krankheiten; Veel mensen krijgen in januari de griep.; Viele Menschen bekommen im Januar die Grippe.
 nl-kg-0042; Medikament; het medicijn; het geneesmiddel; A2; Gesundheit/Apotheke & Medikamente; Dit medicijn helpt snel tegen de pijn.; Dieses Medikament hilft schnell gegen die Schmerzen.
-nl-kg-0043; Rezept (Arzt); het recept; ; A2; Gesundheit/Apotheke & Medikamente; Voor deze tabletten heeft u een recept nodig.; Für diese Tabletten brauchen Sie ein Rezept.
+nl-kg-0043; Rezept (ein Rezept vom Arzt); het recept; ; A2; Gesundheit/Apotheke & Medikamente; Voor deze tabletten heeft u een recept nodig.; Für diese Tabletten brauchen Sie ein Rezept.
 nl-kg-0044; Termin; de afspraak; ; A2; Gesundheit/Beim Arzt; Ik heb een afspraak gemaakt voor vrijdagochtend.; Ich habe einen Termin für Freitagmorgen gemacht.
 nl-kg-0045; Krankenschwester; de verpleegster; de verpleegkundige, de zuster; A2; Gesundheit/Krankenhaus; De verpleegster kijkt elk uur naar de patiënten.; Die Krankenschwester sieht jede Stunde nach den Patienten.
 nl-kg-0046; Patient; de patiënt; ; A2; Gesundheit/Krankenhaus; Het gaat vandaag veel beter met de patiënt.; Dem Patienten geht es heute viel besser.
 nl-kg-0047; Wartezimmer; de wachtkamer; ; A2; Gesundheit/Beim Arzt; De wachtkamer was vanmorgen helemaal vol.; Das Wartezimmer war heute Morgen voll.
 nl-kg-0048; Spritze; de injectie; de prik, de spuit; A2; Gesundheit/Beim Arzt; De injectie deed maar één seconde pijn.; Die Spritze hat nur eine Sekunde wehgetan.
 nl-kg-0049; Pflaster; de pleister; ; A2; Gesundheit/Apotheke & Medikamente; Plak een pleister op de kleine snee.; Kleb ein Pflaster auf den kleinen Schnitt.
-nl-kg-0050; Verband (Wunde); het verband; ; A2; Gesundheit/Beim Arzt; De arts verwisselde het verband om mijn hand.; Der Arzt wechselte den Verband an meiner Hand.
+nl-kg-0050; Verband (einen Verband anlegen); het verband; ; A2; Gesundheit/Beim Arzt; De arts verwisselde het verband om mijn hand.; Der Arzt wechselte den Verband an meiner Hand.
 nl-kg-0051; Salbe; de zalf; ; A2; Gesundheit/Apotheke & Medikamente; Gebruik deze zalf twee keer per dag.; Benutzen Sie diese Salbe zweimal am Tag.
 nl-kg-0052; Unfall; het ongeluk; het ongeval; A2; Gesundheit/Krankenhaus; Na het ongeluk had hij snel hulp nodig.; Nach dem Unfall brauchte er schnell Hilfe.
 nl-kg-0053; Notruf; de noodoproep; ; A2; Gesundheit/Krankenhaus; Ze deed meteen een noodoproep met haar mobiel.; Sie setzte sofort einen Notruf ab.
@@ -144,7 +144,7 @@ nl-kg-0141; Heilungsprozess; het genezingsproces; het herstelproces; C1; Gesundh
 nl-kg-0142; Rehabilitation; de revalidatie; ; C1; Gesundheit/Krankenhaus; Na de operatie begon ze meteen met de revalidatie.; Nach der Operation begann sie sofort mit der Rehabilitation.
 nl-kg-0143; Arzneimittel; het geneesmiddel; het medicijn; C1; Gesundheit/Apotheke & Medikamente; Elk nieuw geneesmiddel wordt jarenlang getest.; Jedes neue Arzneimittel wird jahrelang getestet.
 nl-kg-0144; Anamnese; de anamnese; ; C2; Gesundheit/Beim Arzt; De arts nam eerst een uitgebreide anamnese af.; Der Arzt erhob zuerst eine ausführliche Anamnese.
-nl-kg-0145; Prognose (Medizin); de prognose; ; C2; Gesundheit/Krankenhaus; Ondanks de ziekte is de prognose goed.; Trotz der Krankheit ist die Prognose gut.
+nl-kg-0145; Prognose (die Prognose des Arztes); de prognose; ; C2; Gesundheit/Krankenhaus; Ondanks de ziekte is de prognose goed.; Trotz der Krankheit ist die Prognose gut.
 nl-kg-0146; bösartig; kwaadaardig; maligne; C2; Gesundheit/Krankheiten; Gelukkig was de tumor niet kwaadaardig.; Zum Glück war der Tumor nicht bösartig.
 nl-kg-0147; gutartig; goedaardig; benigne; C2; Gesundheit/Krankheiten; Het gezwel bleek goedaardig te zijn.; Die Geschwulst erwies sich als gutartig.
 nl-kg-0148; Beipackzettel; de bijsluiter; ; C2; Gesundheit/Apotheke & Medikamente; Lees voor de inname de bijsluiter goed door.; Lesen Sie vor der Einnahme den Beipackzettel.

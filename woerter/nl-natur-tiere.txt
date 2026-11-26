@@ -18,7 +18,7 @@ nl-nt-0015; Affe; de aap; ; A1; Natur/Tiere/Wildtiere; De aap springt van boom n
 nl-nt-0016; Baum; de boom; ; A1; Natur/Pflanzen; De oude boom geeft ons in de zomer schaduw.; Der alte Baum spendet uns im Sommer Schatten.
 nl-nt-0017; Blume; de bloem; ; A1; Natur/Pflanzen; Zij plukte een bloem voor haar moeder.; Sie pflückte eine Blume für ihre Mutter.
 nl-nt-0018; Gras; het gras; ; A1; Natur/Pflanzen; Het gras is nog nat van de regen.; Das Gras ist noch nass vom Regen.
-nl-nt-0019; Blatt (Baum); het blad; ; A1; Natur/Pflanzen; Een geel blad viel van de boom.; Ein gelbes Blatt fiel vom Baum.
+nl-nt-0019; Blatt (ein Blatt am Baum); het blad; ; A1; Natur/Pflanzen; Een geel blad viel van de boom.; Ein gelbes Blatt fiel vom Baum.
 nl-nt-0020; Wald; het bos; ; A1; Natur/Landschaft; We lopen elke zondag door het bos.; Wir gehen jeden Sonntag durch den Wald.
 nl-nt-0021; Berg; de berg; ; A1; Natur/Landschaft; De berg is in de winter met sneeuw bedekt.; Der Berg ist im Winter mit Schnee bedeckt.
 nl-nt-0022; See; het meer; ; A1; Natur/Landschaft; We zwemmen elke zomer in het meer.; Wir schwimmen jeden Sommer im See.
@@ -38,7 +38,7 @@ nl-nt-0035; Löwe; de leeuw; ; A2; Natur/Tiere/Wildtiere; De leeuw rust 's midda
 nl-nt-0036; Tiger; de tijger; ; A2; Natur/Tiere/Wildtiere; De tijger is een uitstekende en geduldige jager.; Der Tiger ist ein hervorragender und geduldiger Jäger.
 nl-nt-0037; Elefant; de olifant; ; A2; Natur/Tiere/Wildtiere; De olifant drinkt dagelijks heel veel water.; Der Elefant trinkt täglich sehr viel Wasser.
 nl-nt-0038; Giraffe; de giraf; de giraffe; A2; Natur/Tiere/Wildtiere; De giraf eet bladeren van de hoogste bomen.; Die Giraffe frisst Blätter von den höchsten Bäumen.
-nl-nt-0039; Schlange (Tier); de slang; ; A2; Natur/Tiere/Wildtiere; Een groene slang lag op de warme steen.; Eine grüne Schlange lag auf dem warmen Stein.
+nl-nt-0039; Schlange (eine giftige Schlange); de slang; ; A2; Natur/Tiere/Wildtiere; Een groene slang lag op de warme steen.; Eine grüne Schlange lag auf dem warmen Stein.
 nl-nt-0040; Frosch; de kikker; ; A2; Natur/Tiere/Wildtiere; De kikker springt met een plons in de vijver.; Der Frosch springt mit einem Platscher in den Teich.
 nl-nt-0041; Biene; de bij; ; A2; Natur/Tiere/Insekten; De bij vliegt van bloem naar bloem.; Die Biene fliegt von Blüte zu Blüte.
 nl-nt-0042; Fliege; de vlieg; ; A2; Natur/Tiere/Insekten; Een vlieg zoemt door de keuken.; Eine Fliege summt durch die Küche.
@@ -74,7 +74,7 @@ nl-nt-0071; Raubtier; het roofdier; ; B1; Natur/Tiere/Wildtiere; De lynx is een 
 nl-nt-0072; Beute; de prooi; ; B1; Natur/Tiere/Wildtiere; De uil nadert geluidloos haar prooi.; Die Eule nähert sich lautlos ihrer Beute.
 nl-nt-0073; Herde; de kudde; ; B1; Natur/Tiere/Wildtiere; Een kudde koeien blokkeerde de smalle weg.; Eine Herde Kühe blockierte die kleine Straße.
 nl-nt-0074; Schwarm; de zwerm; ; B1; Natur/Tiere/Insekten; Een zwerm bijen nestelde zich in de oude boom.; Ein Bienenschwarm ließ sich im alten Baum nieder.
-nl-nt-0075; Art (Biologie); de soort; ; B1; Natur/Tiere/Wildtiere; Deze vlindersoort is hier heel zeldzaam.; Diese Schmetterlingsart ist hier sehr selten.
+nl-nt-0075; Art (eine bedrohte Tierart); de soort; ; B1; Natur/Tiere/Wildtiere; Deze vlindersoort is hier heel zeldzaam.; Diese Schmetterlingsart ist hier sehr selten.
 nl-nt-0076; Lebensraum; het leefgebied; de leefomgeving, de habitat; B1; Natur/Tiere/Wildtiere; Wetlands zijn een belangrijk leefgebied voor veel vogels.; Feuchtgebiete sind ein wichtiger Lebensraum für viele Vögel.
 nl-nt-0077; Umwelt; het milieu; ; B1; Natur/Landschaft; We moeten allemaal ons milieu beter beschermen.; Wir sollten alle unsere Umwelt besser schützen.
 nl-nt-0078; Naturschutz; de natuurbescherming; het natuurbehoud; B1; Natur/Landschaft; Natuurbescherming begint in je eigen tuin.; Naturschutz beginnt im eigenen Garten.
@@ -87,14 +87,14 @@ nl-nt-0084; Teich; de vijver; ; B1; Natur/Landschaft; Bij onze vijver leven kikk
 nl-nt-0085; Wüste; de woestijn; ; B1; Natur/Landschaft; In de droge woestijn groeit bijna niets.; In der trockenen Wüste wächst kaum etwas.
 nl-nt-0086; Höhle; de grot; het hol; B1; Natur/Landschaft; Vleermuizen overwinteren in deze grot.; Fledermäuse überwintern in dieser Höhle.
 nl-nt-0087; Gipfel; de top; de bergtop; B1; Natur/Landschaft; Na vijf uur bereikten we de top.; Nach fünf Stunden erreichten wir den Gipfel.
-nl-nt-0088; Boden (Erde); de bodem; de grond; B1; Natur/Pflanzen; Gezonde bodem zit vol kleine organismen.; Gesunder Boden ist voller winziger Lebewesen.
+nl-nt-0088; Boden (fruchtbarer Boden); de bodem; de grond; B1; Natur/Pflanzen; Gezonde bodem zit vol kleine organismen.; Gesunder Boden ist voller winziger Lebewesen.
 nl-nt-0089; Samen; het zaad; het zaadje; B1; Natur/Pflanzen; We hebben het zaad in het voorjaar gezaaid.; Wir haben die Samen im Frühjahr ausgesät.
-nl-nt-0090; Stamm (Baum); de stam; de boomstam; B1; Natur/Pflanzen; De stam van de beuk is glad en grijs.; Der Stamm der Buche ist glatt und grau.
+nl-nt-0090; Stamm (der Stamm eines Baumes); de stam; de boomstam; B1; Natur/Pflanzen; De stam van de beuk is glad en grijs.; Der Stamm der Buche ist glatt und grau.
 nl-nt-0091; Rinde; de schors; de bast; B1; Natur/Pflanzen; Reeën eten soms de schors van jonge bomen.; Rehe fressen manchmal die Rinde junger Bäume.
 nl-nt-0092; blühen; bloeien; ; B1; Natur/Pflanzen; De kersenbomen bloeien eind april.; Die Kirschbäume blühen Ende April.
 nl-nt-0093; Eiche; de eik; ; B1; Natur/Pflanzen; De oude eik is meer dan driehonderd jaar oud.; Die alte Eiche ist über dreihundert Jahre alt.
 nl-nt-0094; Birke; de berk; ; B1; Natur/Pflanzen; Een berk herken je aan zijn witte schors.; Eine Birke erkennt man an ihrer weißen Rinde.
-nl-nt-0095; Kiefer (Baum); de den; de grove den, de pijnboom; B1; Natur/Pflanzen; De den groeit goed op zandgrond.; Die Kiefer wächst gut auf sandigem Boden.
+nl-nt-0095; Kiefer (Kiefern im Wald); de den; de grove den, de pijnboom; B1; Natur/Pflanzen; De den groeit goed op zandgrond.; Die Kiefer wächst gut auf sandigem Boden.
 nl-nt-0096; Kralle; de klauw; de nagel; B2; Natur/Tiere/Wildtiere; De havik greep de muis met zijn klauwen.; Der Habicht packte die Maus mit seinen Krallen.
 nl-nt-0097; Geweih; het gewei; ; B2; Natur/Tiere/Wildtiere; Het hert verliest elk jaar zijn gewei.; Der Hirsch verliert jedes Jahr sein Geweih.
 nl-nt-0098; Huf; de hoef; ; B2; Natur/Tiere/Haustiere; De hoefsmid controleerde de linker hoef van het paard.; Der Hufschmied prüfte den linken Huf des Pferdes.
@@ -142,7 +142,7 @@ nl-nt-0139; Artenschutz; de soortenbescherming; ; C1; Natur/Tiere/Wildtiere; Str
 nl-nt-0140; Monokultur; de monocultuur; ; C1; Natur/Pflanzen; Een monocultuur is duidelijk gevoeliger voor plagen.; Eine Monokultur ist deutlich anfälliger für Schädlinge.
 nl-nt-0141; Photosynthese; de fotosynthese; ; C1; Natur/Pflanzen; Door fotosynthese zetten planten licht om in energie.; Durch Photosynthese wandeln Pflanzen Licht in Energie um.
 nl-nt-0142; Keimling; de kiemplant; het kiempje, de zaailing; C1; Natur/Pflanzen; De kleine kiemplant heeft warmte en gelijkmatige vochtigheid nodig.; Der winzige Keimling braucht Wärme und gleichmäßige Feuchtigkeit.
-nl-nt-0143; Bestand (Tiere); de populatie; het bestand, de stand; C1; Natur/Tiere/Wildtiere; De populatie wolven groeit in deze regio langzaam.; Der Bestand an Wölfen wächst in dieser Region langsam.
+nl-nt-0143; Bestand (der Bestand an Wölfen); de populatie; het bestand, de stand; C1; Natur/Tiere/Wildtiere; De populatie wolven groeit in deze regio langzaam.; Der Bestand an Wölfen wächst in dieser Region langsam.
 nl-nt-0144; Renaturierung; het natuurherstel; ; C2; Natur/Landschaft; Het natuurherstel van de rivier duurde tien jaar.; Die Renaturierung des Flusses dauerte zehn Jahre.
 nl-nt-0145; Zersiedelung; de verrommeling; de stedelijke wildgroei; C2; Natur/Landschaft; De verrommeling vreet zich in het open landschap.; Die Zersiedelung frisst sich in die offene Landschaft.
 nl-nt-0146; Flächenversiegelung; de verharding; de verstening, de bodemafdekking; C2; Natur/Landschaft; De verharding verhindert dat regenwater in het grondwater terechtkomt.; Die Flächenversiegelung verhindert, dass Regenwasser ins Grundwasser gelangt.

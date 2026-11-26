@@ -1,7 +1,7 @@
 # Norwegisch: Familie & Beziehungen
 id; Deutsch; Norwegisch; Weitere Antworten; Niveau; Themen; Beispiel Norwegisch; Beispiel Deutsch
 no-fb-0001; Familie; en familie; ; A1; Alltag/Familie/Verwandtschaft; Familien min bor i en liten by.; Meine Familie lebt in einer kleinen Stadt.
-no-fb-0002; Mutter (Elternteil); ei mor; en mor, ei mamma; A1; Alltag/Familie/Verwandtschaft; Moren min ringer meg hver søndag kveld.; Meine Mutter ruft mich jeden Sonntagabend an.
+no-fb-0002; Mutter (Vater und Mutter); ei mor; en mor, ei mamma; A1; Alltag/Familie/Verwandtschaft; Moren min ringer meg hver søndag kveld.; Meine Mutter ruft mich jeden Sonntagabend an.
 no-fb-0003; Vater; en far; en pappa; A1; Alltag/Familie/Verwandtschaft; Faren hans jobber nede på flyplassen.; Sein Vater arbeitet am Flughafen.
 no-fb-0004; Eltern; foreldre; ; A1; Alltag/Familie/Verwandtschaft; Foreldrene mine har vært gift i tretti år.; Meine Eltern sind seit dreißig Jahren verheiratet.
 no-fb-0005; Kind; et barn; ; A1; Alltag/Familie/Verwandtschaft; Det lille barnet leker med hunden.; Das Kind spielt mit dem Hund.
@@ -40,8 +40,8 @@ no-fb-0037; Alleinerziehende; en enslig forsørger; en alenemor; B2; Alltag/Fami
 no-fb-0038; Stammbaum; et slektstre; et stamtre; B2; Alltag/Familie/Verwandtschaft; Han fulgte slektstreet sitt tre hundre år tilbake.; Er verfolgte seinen Stammbaum dreihundert Jahre zurück.
 no-fb-0039; Verwandtschaft; ei slekt; en slekt; C1; Alltag/Familie/Verwandtschaft; Hele slekten samlet seg i påsken.; Die ganze Verwandtschaft traf sich an Ostern.
 no-fb-0040; Vormund; en verge; ; C1; Alltag/Familie/Verwandtschaft; Etter ulykken ble onkelen hennes verge for henne.; Nach dem Unfall wurde ihr Onkel ihr Vormund.
-no-fb-0041; Freund (Partner); en kjæreste; ; A1; Alltag/Familie/Partnerschaft; Kjæresten hennes gir henne blomster hver fredag.; Ihr Freund bringt ihr jeden Freitag Blumen.
-no-fb-0042; Freundin (Partnerin); en kjæreste; ; A1; Alltag/Familie/Partnerschaft; Han lager middag til kjæresten sin i kveld.; Er kocht heute Abend für seine Freundin.
+no-fb-0041; Freund (mein fester Freund); en kjæreste; ; A1; Alltag/Familie/Partnerschaft; Kjæresten hennes gir henne blomster hver fredag.; Ihr Freund bringt ihr jeden Freitag Blumen.
+no-fb-0042; Freundin (meine feste Freundin); en kjæreste; ; A1; Alltag/Familie/Partnerschaft; Han lager middag til kjæresten sin i kveld.; Er kocht heute Abend für seine Freundin.
 no-fb-0043; Liebe; ei kjærlighet; en kjærlighet; A1; Alltag/Familie/Partnerschaft; Kjærlighet er det viktigste i livet.; Liebe ist das Wichtigste im Leben.
 no-fb-0044; lieben; å elske; ; A2; Alltag/Familie/Partnerschaft; Jeg elsker deg mer enn alt.; Ich liebe dich über alles.
 no-fb-0045; Paar; et par; ; A2; Alltag/Familie/Partnerschaft; Det unge paret flytter sammen i høst.; Das junge Paar zieht im Herbst zusammen.
@@ -111,7 +111,7 @@ no-fb-0108; Trauzeuge; en forlover; ; B2; Alltag/Familie/Lebensereignisse; Brore
 no-fb-0109; Beerdigung; en begravelse; ; B2; Alltag/Familie/Lebensereignisse; Mange gamle venner kom i begravelsen.; Viele alte Freunde kamen zur Beerdigung.
 no-fb-0110; Trauer; en sorg; ei sorg; B2; Alltag/Familie/Lebensereignisse; Sorg tar tid og trenger støtte fra andre.; Trauer braucht Zeit und die Unterstützung anderer.
 no-fb-0111; Ruhestand; en pensjon; en pensjonisttilværelse; B2; Alltag/Familie/Lebensereignisse; Faren min nyter den velfortjente pensjonen sin.; Mein Vater genießt seinen wohlverdienten Ruhestand.
-no-fb-0112; Erbe (Nachlass); en arv; ; B2; Alltag/Familie/Lebensereignisse; Søsknene kranglet om arven etter foreldrene.; Die Geschwister stritten über das Erbe ihrer Eltern.
+no-fb-0112; Erbe (das Erbe der Großeltern); en arv; ; B2; Alltag/Familie/Lebensereignisse; Søsknene kranglet om arven etter foreldrene.; Die Geschwister stritten über das Erbe ihrer Eltern.
 no-fb-0113; Standesamt; et rådhus; ; B2; Alltag/Familie/Lebensereignisse; De giftet seg i all stillhet på rådhuset i Bergen.; Sie heirateten in aller Stille im Rathaus von Bergen.
 no-fb-0114; Trauung; en vielse; en vigsel; C1; Alltag/Familie/Lebensereignisse; Vielsen fant sted i det gamle rådhuset.; Die Trauung fand im alten Rathaus statt.
 no-fb-0115; Nachwuchs; et nytt familiemedlem; en familieforøkelse; C1; Alltag/Familie/Lebensereignisse; Det unge paret venter et nytt familiemedlem i mai.; Das junge Paar erwartet im Mai Nachwuchs.
@@ -139,7 +139,7 @@ no-fb-0136; sich vertragen; å bli venner igjen; ; B2; Alltag/Familie/Miteinande
 no-fb-0137; beleidigen; å fornærme; ; B2; Alltag/Familie/Miteinander; Han ville ikke fornærme fetteren din.; Er wollte deinen Cousin nicht beleidigen.
 no-fb-0138; Missverständnis; en misforståelse; ; B2; Alltag/Familie/Miteinander; Hele krangelen var bare en dum misforståelse.; Der ganze Streit war nur ein dummes Missverständnis.
 no-fb-0139; respektieren; å respektere; ; B2; Alltag/Familie/Miteinander; Barn bør lære å respektere andres meninger.; Kinder sollten lernen, andere Meinungen zu respektieren.
-no-fb-0140; schätzen (wertschätzen); å sette pris på; å verdsette; B2; Alltag/Familie/Miteinander; Jeg setter stor pris på det ærlige rådet ditt.; Ich schätze deinen ehrlichen Rat sehr.
+no-fb-0140; schätzen (jemandes Hilfe schätzen); å sette pris på; å verdsette; B2; Alltag/Familie/Miteinander; Jeg setter stor pris på det ærlige rådet ditt.; Ich schätze deinen ehrlichen Rat sehr.
 no-fb-0141; vernachlässigen; å forsømme; å neglisjere; B2; Alltag/Familie/Miteinander; Han forsømte vennene sine i de stressende årene.; Er vernachlässigte seine Freunde in den stressigen Jahren.
 no-fb-0142; sich versöhnen; å forsone seg; ; C1; Alltag/Familie/Miteinander; Brødrene forsonet seg etter mange år med taushet.; Die Brüder versöhnten sich nach vielen Jahren des Schweigens.
 no-fb-0143; Mitgefühl; en medfølelse; ; C1; Alltag/Familie/Miteinander; Hun viste stor medfølelse med den sørgende familien.; Sie zeigte großes Mitgefühl für die trauernde Familie.

@@ -15,7 +15,7 @@ no-xd-0012; Volk; et folk; ; B1; Gesellschaft/Politik/Demokratie; I et demokrati
 no-xd-0013; Unabhängigkeit; en uavhengighet; en selvstendighet; B1; Gesellschaft/Politik/Staat & Wahlen; Landet feiret femti år med uavhengighet.; Das Land feierte fünfzig Jahre Unabhängigkeit.
 no-xd-0014; Flagge; et flagg; ; A2; Gesellschaft/Politik/Staat & Wahlen; Flagget på rådhuset er rødt og hvitt.; Die Flagge auf dem Rathaus ist rot und weiß.
 no-xd-0015; Nationalhymne; en nasjonalsang; en nasjonalhymne; B1; Gesellschaft/Politik/Staat & Wahlen; Spillerne sang nasjonalsangen sammen før kampen.; Die Spieler sangen vor dem Spiel die Nationalhymne.
-no-xd-0016; Antrag (bei einer Behörde); en søknad; ; B1; Gesellschaft/Politik/Staat & Wahlen; Jeg har fylt ut søknaden om nytt pass.; Ich habe den Antrag für einen neuen Pass ausgefüllt.
+no-xd-0016; Antrag (einen Antrag stellen); en søknad; ; B1; Gesellschaft/Politik/Staat & Wahlen; Jeg har fylt ut søknaden om nytt pass.; Ich habe den Antrag für einen neuen Pass ausgefüllt.
 no-xd-0017; Bürokratie; et byråkrati; ; C1; Gesellschaft/Politik/Staat & Wahlen; Mange små firmaer klager over for mye byråkrati.; Viele kleine Firmen klagen über zu viel Bürokratie.
 no-xd-0018; Stadtrat; et bystyre; ; B2; Gesellschaft/Politik/Staat & Wahlen; Bystyret stemte for en ny svømmehall.; Der Stadtrat stimmte für ein neues Schwimmbad.
 no-xd-0019; Regierungschef; en regjeringssjef; ; B2; Gesellschaft/Politik/Staat & Wahlen; Regjeringssjefene fra hele Europa møttes i Brussel.; Die Regierungschefs trafen sich in Brüssel.
@@ -32,7 +32,7 @@ no-xd-0029; Populismus; en populisme; ; C1; Gesellschaft/Politik/Parteien; Popul
 no-xd-0030; Parteivorsitzender; en partileder; ; B2; Gesellschaft/Politik/Parteien; Partilederen holdt en tale etter valget.; Der Parteivorsitzende hielt nach der Wahl eine Rede.
 no-xd-0031; Wahlversprechen; et valgløfte; ; B2; Gesellschaft/Politik/Parteien; Regjeringen har brutt mange av valgløftene sine.; Die Regierung hat viele ihrer Wahlversprechen gebrochen.
 no-xd-0032; Steuerzahler; en skattebetaler; ; B2; Gesellschaft/Politik/Staat & Wahlen; Den nye brua har kostet skattebetalerne millioner.; Die neue Brücke hat die Steuerzahler Millionen gekostet.
-no-xd-0033; Botschaft (Vertretung); en ambassade; ; B1; Gesellschaft/Politik/Internationales; Du kan få et visum på ambassaden.; Ein Visum bekommst du bei der Botschaft.
+no-xd-0033; Botschaft (die deutsche Botschaft); en ambassade; ; B1; Gesellschaft/Politik/Internationales; Du kan få et visum på ambassaden.; Ein Visum bekommst du bei der Botschaft.
 no-xd-0034; Konsulat; et konsulat; ; C1; Gesellschaft/Politik/Internationales; Konsulatet hjalp ham etter at han mistet passet.; Das Konsulat half ihm, nachdem er seinen Pass verloren hatte.
 no-xd-0035; Gipfeltreffen; et toppmøte; ; B2; Gesellschaft/Politik/Internationales; Toppmøtet holdes til våren i Paris.; Das Gipfeltreffen findet nächsten Frühling in Paris statt.
 no-xd-0036; Sanktion; en sanksjon; ; C1; Gesellschaft/Politik/Internationales; Den europeiske union besluttet nye sanksjoner.; Die Europäische Union beschloss neue Sanktionen.
@@ -173,7 +173,7 @@ no-xd-0170; Karneval; et karneval; ; A2; Freizeit/Feste & Feiern; På karnevalet
 no-xd-0171; Muttertag; en morsdag; ; A2; Freizeit/Feste & Feiern; På morsdagen lager jeg frokost til mamma.; Am Muttertag mache ich meiner Mama Frühstück.
 no-xd-0172; Valentinstag; en valentinsdag; ; A2; Freizeit/Feste & Feiern; Han sendte henne røde roser på valentinsdagen.; Er schickte ihr am Valentinstag rote Rosen.
 no-xd-0173; Halloween; en halloween; ; A2; Freizeit/Feste & Feiern; På halloween går barna fra dør til dør.; An Halloween gehen Kinder von Tür zu Tür.
-no-xd-0174; Fest (Feier); en fest; en feiring; A2; Freizeit/Feste & Feiern; Hele bygda kom til festen på torget.; Das ganze Dorf kam zum Fest auf dem Marktplatz.
+no-xd-0174; Fest (ein Fest feiern); en fest; en feiring; A2; Freizeit/Feste & Feiern; Hele bygda kom til festen på torget.; Das ganze Dorf kam zum Fest auf dem Marktplatz.
 no-xd-0175; Gastgeber; en vert; ; B1; Freizeit/Feste & Feiern; Vertene våre hadde laget en nydelig middag.; Unsere Gastgeber hatten ein wunderbares Abendessen gekocht.
 no-xd-0176; Luftballon; en ballong; ; A1; Freizeit/Feste & Feiern; Vi trenger femti ballonger til festen.; Wir brauchen fünfzig Luftballons für die Party.
 no-xd-0177; gratulieren; å gratulere; ; A2; Freizeit/Feste & Feiern; Vi gratulerte henne alle med fødselsdagen.; Wir haben ihr alle zum Geburtstag gratuliert.
@@ -227,7 +227,7 @@ no-xd-0224; Pyramide; en pyramide; ; A2; Kultur/Geschichte; Pyramidene i Egypt e
 no-xd-0225; Mumie; en mumie; ; B1; Kultur/Geschichte; Museet har en ekte egyptisk mumie.; Das Museum hat eine echte ägyptische Mumie.
 no-xd-0226; Antike; en antikk; ; C1; Kultur/Geschichte; Teateret ble oppfunnet allerede i antikken.; Das Theater wurde schon in der Antike erfunden.
 no-xd-0227; Römer; en romer; ; A2; Kultur/Geschichte; Romerne bygde veier i hele Europa.; Die Römer bauten Straßen in ganz Europa.
-no-xd-0228; Reich (Herrschaftsgebiet); et rike; et imperium; B1; Kultur/Geschichte; Det romerske riket var veldig stort.; Das Römische Reich war sehr groß.
+no-xd-0228; Reich (das Römische Reich); et rike; et imperium; B1; Kultur/Geschichte; Det romerske riket var veldig stort.; Das Römische Reich war sehr groß.
 no-xd-0229; Herrscher; en hersker; ; B1; Kultur/Geschichte; Herskeren ville gjøre riket sitt enda større.; Der Herrscher wollte sein Reich noch größer machen.
 no-xd-0230; Thron; en trone; ; B1; Kultur/Geschichte; Den unge prinsen besteg tronen som sekstenåring.; Der junge Prinz bestieg mit sechzehn den Thron.
 no-xd-0231; Krone; en krone; ; A2; Kultur/Geschichte; Kronen til dronningen oppbevares i tårnet.; Die Krone der Königin wird im Turm aufbewahrt.
@@ -248,7 +248,7 @@ no-xd-0245; Renaissance; en renessanse; ; B2; Kultur/Geschichte; Firenze er ber�
 no-xd-0246; Kolonie; en koloni; ; B2; Kultur/Geschichte; India var en gang en britisk koloni.; Indien war einst eine britische Kolonie.
 no-xd-0247; Kolonialismus; en kolonialisme; ; C1; Kultur/Geschichte; Mange afrikanske land kjenner fortsatt følgene av kolonialismen.; Viele afrikanische Länder spüren noch die Folgen des Kolonialismus.
 no-xd-0248; Sklaverei; et slaveri; ; B1; Kultur/Geschichte; Slaveriet ble avskaffet i løpet av attenhundretallet.; Die Sklaverei wurde im neunzehnten Jahrhundert abgeschafft.
-no-xd-0249; Aufklärung (Epoche); en opplysningstid; ; C1; Kultur/Geschichte; Kant er en av de store tenkerne i opplysningstiden.; Kant ist einer der großen Denker der Aufklärung.
+no-xd-0249; Aufklärung (das Zeitalter der Aufklärung); en opplysningstid; ; C1; Kultur/Geschichte; Kant er en av de store tenkerne i opplysningstiden.; Kant ist einer der großen Denker der Aufklärung.
 no-xd-0250; Industrialisierung; en industrialisering; ; C1; Kultur/Geschichte; Industrialiseringen førte mange mennesker til byene.; Die Industrialisierung brachte viele Menschen in die Städte.
 no-xd-0251; Aufstand; et opprør; en oppstand; C1; Kultur/Geschichte; Opprøret ble slått ned av hæren.; Der Aufstand wurde von der Armee beendet.
 no-xd-0252; Rebell; en opprører; en rebell; B2; Kultur/Geschichte; Opprørerne tok over kontrollen i hovedstaden.; Die Rebellen übernahmen die Kontrolle über die Hauptstadt.
@@ -263,7 +263,7 @@ no-xd-0260; Archäologie; en arkeologi; ; B2; Kultur/Geschichte; Hun vil studere
 no-xd-0261; Kultur; en kultur; ; A2; Kultur/Kunst & Museum; Jeg liker å lære om kulturen i andre land.; Ich lerne gern etwas über die Kultur anderer Länder.
 no-xd-0262; kulturell; kulturell; ; B1; Kultur/Kunst & Museum; Byen har et rikt kulturelt liv.; Die Stadt hat ein reiches kulturelles Leben.
 no-xd-0263; Malerei; en malerkunst; ; B1; Kultur/Kunst & Museum; Hun interesserer seg for moderne malerkunst.; Sie interessiert sich für moderne Malerei.
-no-xd-0264; Maler (Künstler); en maler; en kunstmaler; A2; Kultur/Kunst & Museum; Van Gogh er en berømt nederlandsk maler.; Van Gogh ist ein berühmter niederländischer Maler.
+no-xd-0264; Maler (ein berühmter Maler); en maler; en kunstmaler; A2; Kultur/Kunst & Museum; Van Gogh er en berømt nederlandsk maler.; Van Gogh ist ein berühmter niederländischer Maler.
 no-xd-0265; Kunstgeschichte; en kunsthistorie; ; B1; Kultur/Kunst & Museum; Søsteren min studerer kunsthistorie i München.; Meine Schwester studiert Kunstgeschichte in München.
 no-xd-0266; Statue; en statue; ; A2; Kultur/Kunst & Museum; Midt på plassen står en statue av bronse.; Mitten auf dem Platz steht eine Statue aus Bronze.
 no-xd-0267; Skizze; en skisse; ; B1; Kultur/Kunst & Museum; Kunstneren laget en rask skisse av brua.; Der Künstler machte eine schnelle Skizze der Brücke.
@@ -294,7 +294,7 @@ no-xd-0291; Drache; en drage; ; A2; Kultur/Literatur; Ridderen måtte kjempe mot
 no-xd-0292; Science-Fiction; en science fiction; ; B1; Kultur/Literatur; Broren min leser bare science fiction.; Mein Bruder liest nur Science-Fiction.
 no-xd-0293; Theaterstück; et teaterstykke; ; A2; Kultur/Theater & Film; Klassen vår setter opp et teaterstykke på slutten av skoleåret.; Unsere Klasse führt zum Schuljahresende ein Theaterstück auf.
 no-xd-0294; Drama; et drama; ; B1; Kultur/Theater & Film; Dramaet handler om en familie i krise.; Das Drama handelt von einer Familie in der Krise.
-no-xd-0295; Akt (Theater); en akt; ; B2; Kultur/Theater & Film; Helten dør i den siste akten.; Der Held stirbt im letzten Akt.
+no-xd-0295; Akt (der erste Akt eines Stücks); en akt; ; B2; Kultur/Theater & Film; Helten dør i den siste akten.; Der Held stirbt im letzten Akt.
 no-xd-0296; Szene; en scene; ; B1; Kultur/Theater & Film; Den beste scenen i filmen foregår på stranda.; Die beste Szene des Films spielt am Strand.
 no-xd-0297; Musical; en musikal; en musical; A2; Kultur/Theater & Film; Vi så en musikal på Folketeateret i Oslo.; Wir haben im Folketeateret in Oslo ein Musical gesehen.
 no-xd-0298; Ballett; en ballett; ; A2; Kultur/Theater & Film; Lillesøsteren min går på ballett to ganger i uka.; Meine kleine Schwester geht zweimal pro Woche zum Ballett.
@@ -334,7 +334,7 @@ no-xd-0331; Studie; en studie; ; B2; Wissenschaft/Forschung & Methode; En ny stu
 no-xd-0332; Analyse; en analyse; ; B2; Wissenschaft/Forschung & Methode; Analysen av dataene tok flere uker.; Die Analyse der Daten dauerte mehrere Wochen.
 no-xd-0333; analysieren; å analysere; ; B2; Wissenschaft/Forschung & Methode; Forskerne analyserte vannet de hentet fra innsjøen.; Die Wissenschaftler analysierten das Wasser, das sie aus dem See holten.
 no-xd-0334; Beobachtung; en observasjon; en iakttakelse; B2; Wissenschaft/Forschung & Methode; Skriv ned observasjonene dine i heftet ditt.; Schreib deine Beobachtungen in dein Heft.
-no-xd-0335; Probe (Untersuchung); en prøve; ; B2; Wissenschaft/Forschung & Methode; Legen sendte prøven videre til laboratoriet.; Der Arzt schickte die Probe ins Labor.
+no-xd-0335; Probe (eine Probe im Labor); en prøve; ; B2; Wissenschaft/Forschung & Methode; Legen sendte prøven videre til laboratoriet.; Der Arzt schickte die Probe ins Labor.
 no-xd-0336; Mikroskop; et mikroskop; ; B1; Wissenschaft/Forschung & Methode; Under mikroskopet kan man se cellene.; Unter dem Mikroskop kann man die Zellen sehen.
 no-xd-0337; Lupe; et forstørrelsesglass; ; B1; Wissenschaft/Forschung & Methode; Gutten så på mauren gjennom et forstørrelsesglass.; Der Junge betrachtete die Ameise durch eine Lupe.
 no-xd-0338; Formel; en formel; ; B1; Wissenschaft/Forschung & Methode; Denne formelen må du lære til prøven.; Diese Formel musst du für den Test lernen.
@@ -355,7 +355,7 @@ no-xd-0352; Stahl; et stål; ; B1; Wissenschaft/Chemie; Den nye brua er laget av
 no-xd-0353; Mischung; en blanding; ; B1; Wissenschaft/Chemie; Luft er en blanding av ulike gasser.; Luft ist eine Mischung aus verschiedenen Gasen.
 no-xd-0354; plus; pluss; ; A1; Wissenschaft/Mathematik; To pluss tre er lik fem.; Zwei plus drei ist fünf.
 no-xd-0355; minus; minus; ; A1; Wissenschaft/Mathematik; Ti minus fire er lik seks.; Zehn minus vier ist sechs.
-no-xd-0356; mal (beim Rechnen); ganger; gange; A1; Wissenschaft/Mathematik; Tre ganger fire er lik tolv.; Drei mal vier ist zwölf.
+no-xd-0356; mal (drei mal vier); ganger; gange; A1; Wissenschaft/Mathematik; Tre ganger fire er lik tolv.; Drei mal vier ist zwölf.
 no-xd-0357; geteilt durch; delt på; ; A1; Wissenschaft/Mathematik; Tjue delt på fem er lik fire.; Zwanzig geteilt durch fünf ist vier.
 no-xd-0358; addieren; å legge sammen; å addere; A2; Wissenschaft/Mathematik; Du må først legge sammen de to tallene.; Addiere zuerst die beiden Zahlen.
 no-xd-0359; subtrahieren; å trekke fra; å subtrahere; A2; Wissenschaft/Mathematik; Trekk sju fra tjue og skriv ned resultatet.; Subtrahiere sieben von zwanzig und schreib das Ergebnis auf.
@@ -389,7 +389,7 @@ no-xd-0386; Yoga; en yoga; ; A2; Freizeit/Sport/Sportarten; Moren min gjør yoga
 no-xd-0387; Marathon; et maraton; ; B1; Freizeit/Sport/Sportarten; Som femtiåring løp han sitt første maraton.; Mit fünfzig lief er seinen ersten Marathon.
 no-xd-0388; segeln; å seile; ; A2; Freizeit/Sport/Sportarten; Vi seilte rundt øya i en liten båt.; Wir segelten in einem kleinen Boot um die Insel.
 no-xd-0389; rudern; å ro; ; B1; Freizeit/Sport/Sportarten; De rodde over innsjøen i en gammel båt.; Sie ruderten in einem alten Boot über den See.
-no-xd-0390; surfen (Wellen); å surfe; ; A2; Freizeit/Sport/Sportarten; Vi lærte å surfe i Portugal.; Wir haben in Portugal surfen gelernt.
+no-xd-0390; surfen (auf den Wellen surfen); å surfe; ; A2; Freizeit/Sport/Sportarten; Vi lærte å surfe i Portugal.; Wir haben in Portugal surfen gelernt.
 no-xd-0391; tauchen; å dykke; ; A2; Freizeit/Sport/Sportarten; I Rødehavet dykket vi sammen med skilpadder.; Im Roten Meer sind wir mit Schildkröten getaucht.
 no-xd-0392; Bergsteigen; en fjellklatring; ; B1; Freizeit/Sport/Sportarten; Fjellklatring i Alpene kan være farlig.; Bergsteigen in den Alpen kann gefährlich sein.
 no-xd-0393; Wintersport; en vintersport; ; A2; Freizeit/Sport/Sportarten; Vi elsker vintersport som ski og skøyter.; Wir lieben Wintersport wie Skifahren und Eislaufen.
@@ -401,13 +401,13 @@ no-xd-0398; Unentschieden; uavgjort; ; B1; Freizeit/Sport/Wettkampf; Kampen mell
 no-xd-0399; Freistoß; et frispark; ; B1; Freizeit/Sport/Wettkampf; Han scoret direkte på et frispark.; Er traf direkt aus einem Freistoß.
 no-xd-0400; Eckball; et hjørnespark; ; B2; Freizeit/Sport/Wettkampf; Det første målet kom etter et hjørnespark.; Das Tor fiel nach einem Eckball.
 no-xd-0401; Kopfball; et hodestøt; ; B2; Freizeit/Sport/Wettkampf; Han scoret seiersmålet på et hodestøt.; Er erzielte das Siegtor mit einem Kopfball.
-no-xd-0402; Verteidiger (Sport); en forsvarsspiller; en forsvarer; B1; Freizeit/Sport/Wettkampf; Forsvarsspilleren stoppet ballen like før streken.; Der Verteidiger stoppte den Ball kurz vor der Linie.
+no-xd-0402; Verteidiger (im Fußball); en forsvarsspiller; en forsvarer; B1; Freizeit/Sport/Wettkampf; Forsvarsspilleren stoppet ballen like før streken.; Der Verteidiger stoppte den Ball kurz vor der Linie.
 no-xd-0403; Fan; en fan; en supporter; A2; Freizeit/Sport/Wettkampf, Kultur/Musik; Fansene på tribunen sang under hele kampen.; Die Fans auf der Tribüne sangen während des ganzen Spiels.
 no-xd-0404; Heimspiel; en hjemmekamp; ; B1; Freizeit/Sport/Wettkampf; Laget vårt har vunnet alle hjemmekampene denne sesongen.; Unsere Mannschaft hat in dieser Saison alle Heimspiele gewonnen.
 no-xd-0405; Auswärtsspiel; en bortekamp; ; B1; Freizeit/Sport/Wettkampf; Mange fans reiste med til bortekampen.; Viele Fans reisten zum Auswärtsspiel.
 no-xd-0406; Finale; en finale; ; A2; Freizeit/Sport/Wettkampf; Norge nådde finalen etter en flott kamp.; Norwegen erreichte nach einem tollen Spiel das Finale.
 no-xd-0407; Weltmeisterschaft; et verdensmesterskap; ; A2; Freizeit/Sport/Wettkampf; Verdensmesterskapet finner sted hvert fjerde år.; Die Weltmeisterschaft findet alle vier Jahre statt.
-no-xd-0408; Meister (Sport); en mester; ; B1; Freizeit/Sport/Wettkampf; Klubben vår ble mester for første gang.; Unser Verein wurde zum ersten Mal Meister.
+no-xd-0408; Meister (deutscher Meister werden); en mester; ; B1; Freizeit/Sport/Wettkampf; Klubben vår ble mester for første gang.; Unser Verein wurde zum ersten Mal Meister.
 no-xd-0409; Goldmedaille; en gullmedalje; ; A2; Freizeit/Sport/Wettkampf; Hun vant en gullmedalje i svømming.; Sie gewann eine Goldmedaille im Schwimmen.
 no-xd-0410; Weltrekord; en verdensrekord; ; B1; Freizeit/Sport/Wettkampf; Han slo verdensrekorden med ett sekund.; Er brach den Weltrekord um eine Sekunde.
 no-xd-0411; Siegerehrung; en premieutdeling; en medaljeseremoni; B2; Freizeit/Sport/Wettkampf; Under premieutdelingen kunne hun ikke slutte å smile.; Bei der Siegerehrung konnte sie nicht aufhören zu lächeln.
@@ -429,11 +429,11 @@ no-xd-0426; Kuscheltier; et kosedyr; ; A2; Freizeit/Spiele; Hun tok med seg kose
 no-xd-0427; Schaukel; ei huske; en huske; A2; Freizeit/Spiele; Barna leker på ei huske i parken.; Die Kinder spielen auf der Schaukel.
 no-xd-0428; Rutsche; ei sklie; en sklie; A2; Freizeit/Spiele; Sklia i parken er veldig høy.; Die Rutsche im Park ist sehr hoch.
 no-xd-0429; Verstecken; gjemsel; ; A2; Freizeit/Spiele; Skal vi leke gjemsel i hagen?; Lass uns im Garten Verstecken spielen.
-no-xd-0430; Drachen (Spielzeug); en drage; ; A2; Freizeit/Spiele; Om høsten flyr vi dragen vår på jordene.; Im Herbst lassen wir auf den Feldern unseren Drachen steigen.
+no-xd-0430; Drachen (einen Drachen steigen lassen); en drage; ; A2; Freizeit/Spiele; Om høsten flyr vi dragen vår på jordene.; Im Herbst lassen wir auf den Feldern unseren Drachen steigen.
 no-xd-0431; Videospiel; et videospill; et dataspill; A2; Freizeit/Spiele; Han bruker for mye tid på videospill.; Er verbringt zu viel Zeit mit Videospielen.
 no-xd-0432; Computerspiel; et dataspill; et videospill; A2; Freizeit/Spiele; Dette dataspillet er for barn over tolv år.; Dieses Computerspiel ist für Kinder über zwölf.
 no-xd-0433; Spielkonsole; en spillkonsoll; en konsoll; B1; Freizeit/Spiele; Han fikk en ny spillkonsoll i julegave.; Er hat zu Weihnachten eine neue Spielkonsole bekommen.
-no-xd-0434; würfeln (Spiel); å kaste terning; å trille terning; A2; Freizeit/Spiele; Nå er det din tur til å kaste terning.; Jetzt bist du dran zu würfeln.
+no-xd-0434; würfeln (beim Brettspiel würfeln); å kaste terning; å trille terning; A2; Freizeit/Spiele; Nå er det din tur til å kaste terning.; Jetzt bist du dran zu würfeln.
 no-xd-0435; Rätsel; en gåte; ; A2; Freizeit/Spiele; Klarer du å løse denne gåten på ett minutt?; Kannst du dieses Rätsel in einer Minute lösen?
 no-xd-0436; Kreuzworträtsel; et kryssord; ; B1; Freizeit/Spiele; Faren min løser kryssordet hver morgen.; Mein Vater löst jeden Morgen das Kreuzworträtsel.
 no-xd-0437; Quiz; en quiz; ; A2; Freizeit/Spiele; Laget vårt vant quizen på puben.; Unser Team hat das Quiz in der Kneipe gewonnen.

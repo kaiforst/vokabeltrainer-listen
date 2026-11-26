@@ -38,7 +38,7 @@ no-wi-0035; Temperatur; en temperatur; ; A2; Wissenschaft/Physik; Temperaturen i
 no-wi-0036; Trägheit; en treghet; ; C2; Wissenschaft/Physik; På grunn av tregheten ruller den tunge ballen videre.; Wegen seiner Trägheit rollt der schwere Ball weiter.
 no-wi-0037; Strom; en strøm; ; A2; Wissenschaft/Physik; Vindmøller produserer strøm til tusenvis av husstander.; Windräder erzeugen Strom für tausende Haushalte.
 no-wi-0038; Magnet; en magnet; ; B1; Wissenschaft/Physik; Magneten holder lappene fast på kjøleskapet.; Der Magnet hält die Notizen am Kühlschrank.
-no-wi-0039; Welle (Physik); ei bølge; en bølge; B1; Wissenschaft/Physik; Lyd brer seg som en bølge i luften.; Schall breitet sich als Welle in der Luft aus.
+no-wi-0039; Welle (Licht- und Schallwellen); ei bølge; en bølge; B1; Wissenschaft/Physik; Lyd brer seg som en bølge i luften.; Schall breitet sich als Welle in der Luft aus.
 no-wi-0040; Teilchen; en partikkel; ; B2; Wissenschaft/Physik; Hver minste partikkel bærer en elektrisk ladning.; Jedes winzige Teilchen trägt eine elektrische Ladung.
 no-wi-0041; Atom; et atom; ; B1; Wissenschaft/Physik; Et enkelt atom er altfor lite til å bli sett.; Ein einzelnes Atom ist viel zu klein, um es zu sehen.
 no-wi-0042; Schwerkraft; en tyngdekraft; en gravitasjon; B2; Wissenschaft/Physik; Tyngdekraften holder månen i bane rundt jorden.; Die Schwerkraft hält den Mond auf seiner Bahn um die Erde.
@@ -49,7 +49,7 @@ no-wi-0046; Strahlung; en stråling; ; B2; Wissenschaft/Physik; Apparatet måler
 no-wi-0047; Leitfähigkeit; en ledningsevne; en konduktivitet; C1; Wissenschaft/Physik; Kobber er kjent for sin utmerkede elektriske ledningsevne.; Kupfer ist für seine ausgezeichnete elektrische Leitfähigkeit bekannt.
 no-wi-0048; Quantenmechanik; en kvantemekanikk; ; C1; Wissenschaft/Physik; Kvantemekanikken beskriver den merkelige verdenen til bittesmå partikler.; Die Quantenmechanik beschreibt die seltsame Welt winziger Teilchen.
 no-wi-0049; Relativitätstheorie; en relativitetsteori; ; C1; Wissenschaft/Physik; Einstein publiserte relativitetsteorien sin i 1905.; Einstein veröffentlichte seine Relativitätstheorie im Jahr 1905.
-no-wi-0050; Spannung (Strom); en spenning; ; B2; Wissenschaft/Physik; Spenningen i denne kabelen er farlig høy.; Die Spannung in diesem Kabel ist gefährlich hoch.
+no-wi-0050; Spannung (elektrische Spannung); en spenning; ; B2; Wissenschaft/Physik; Spenningen i denne kabelen er farlig høy.; Die Spannung in diesem Kabel ist gefährlich hoch.
 no-wi-0051; Brechung; en brytning; ; C2; Wissenschaft/Physik; Lysets brytning får sugerøret til å se bøyd ut.; Die Brechung des Lichts lässt den Strohhalm gebogen aussehen.
 no-wi-0052; Wechselwirkung; en interaksjon; ; C1; Wissenschaft/Physik; Forskere undersøker interaksjonen mellom lys og materie.; Forscher untersuchen die Wechselwirkung zwischen Licht und Materie.
 no-wi-0053; Wasser; et vann; ; A1; Wissenschaft/Chemie; Vann koker ved hundre grader celsius.; Wasser kocht bei hundert Grad Celsius.
@@ -63,12 +63,12 @@ no-wi-0060; Säure; en syre; ; B2; Wissenschaft/Chemie; Syren løser sakte opp d
 no-wi-0061; Salz; et salt; ; A2; Wissenschaft/Chemie; Salt løser seg raskt i varmt vann.; Salz löst sich schnell in warmem Wasser.
 no-wi-0062; Gas; en gass; ; A2; Wissenschaft/Chemie; Ballongen er fylt med en lett gass.; Der Ballon ist mit einem leichten Gas gefüllt.
 no-wi-0063; Flüssigkeit; en væske; ; B1; Wissenschaft/Chemie; Hell væsken forsiktig ned i glassrøret.; Gieß die Flüssigkeit vorsichtig in das Glasrohr.
-no-wi-0064; Stoff (Chemie); et stoff; ; B1; Wissenschaft/Chemie; Dette stoffet er ufarlig for mennesker og dyr.; Dieser Stoff ist für Menschen und Tiere harmlos.
+no-wi-0064; Stoff (ein chemischer Stoff); et stoff; ; B1; Wissenschaft/Chemie; Dette stoffet er ufarlig for mennesker og dyr.; Dieser Stoff ist für Menschen und Tiere harmlos.
 no-wi-0065; Aggregatzustand; en aggregattilstand; ; C2; Wissenschaft/Chemie; Is, vann og damp er tre aggregattilstander.; Eis, Wasser und Dampf sind drei Aggregatzustände.
 no-wi-0066; Reaktion; en reaksjon; ; B1; Wissenschaft/Chemie; Reaksjonen gir varme og et nytt stoff.; Die Reaktion erzeugt Wärme und einen neuen Stoff.
 no-wi-0067; Element; et grunnstoff; et element; B1; Wissenschaft/Chemie; Oksygen er det vanligste grunnstoffet i jordskorpen.; Sauerstoff ist das häufigste Element der Erdkruste.
 no-wi-0068; Molekül; et molekyl; ; B2; Wissenschaft/Chemie; Et vannmolekyl består av tre atomer.; Ein Wassermolekül besteht aus drei Atomen.
-no-wi-0069; Verbindung (Chemie); en forbindelse; ; B2; Wissenschaft/Chemie; Salt er en forbindelse av natrium og klor.; Salz ist eine Verbindung aus Natrium und Chlor.
+no-wi-0069; Verbindung (eine chemische Verbindung); en forbindelse; ; B2; Wissenschaft/Chemie; Salt er en forbindelse av natrium og klor.; Salz ist eine Verbindung aus Natrium und Chlor.
 no-wi-0070; auflösen; å løse seg opp; å løses opp; B2; Wissenschaft/Chemie; Tabletten løser seg helt opp i et glass vann.; Die Tablette löst sich vollständig in einem Glas Wasser auf.
 no-wi-0071; Katalysator; en katalysator; ; C1; Wissenschaft/Chemie; En katalysator øker reaksjonshastigheten uten å bli brukt opp.; Ein Katalysator beschleunigt die Reaktion, ohne verbraucht zu werden.
 no-wi-0072; Destillation; en destillasjon; ; C2; Wissenschaft/Chemie; Destillasjon skiller alkohol fra vann ved forsiktig oppvarming.; Die Destillation trennt Alkohol durch vorsichtiges Erhitzen vom Wasser.
@@ -84,7 +84,7 @@ no-wi-0081; Virus; et virus; ; B1; Wissenschaft/Biologie; Viruset sprer seg hove
 no-wi-0082; Gen; et gen; ; B2; Wissenschaft/Biologie; Et enkelt gen kan påvirke øyenfargen.; Ein einzelnes Gen kann die Augenfarbe beeinflussen.
 no-wi-0083; Vererbung; en arvelighet; ; B2; Wissenschaft/Biologie; Arvelighet forklarer hvorfor barn ligner på foreldrene sine.; Die Vererbung erklärt, warum Kinder ihren Eltern ähneln.
 no-wi-0084; Evolution; en evolusjon; ; B2; Wissenschaft/Biologie; Evolusjonen virker over mange millioner år.; Die Evolution wirkt über viele Millionen Jahre.
-no-wi-0085; Art (Biologie); en art; ; B1; Wissenschaft/Biologie; Denne sjeldne arten lever bare på en øy.; Diese seltene Art lebt nur auf einer Insel.
+no-wi-0085; Art (eine bedrohte Tierart); en art; ; B1; Wissenschaft/Biologie; Denne sjeldne arten lever bare på en øy.; Diese seltene Art lebt nur auf einer Insel.
 no-wi-0086; Lebensraum; et leveområde; et habitat; B2; Wissenschaft/Biologie; Froskene mister det naturlige leveområdet sitt.; Die Frösche verlieren ihren natürlichen Lebensraum.
 no-wi-0087; Ökosystem; et økosystem; ; B2; Wissenschaft/Biologie; En skog er et komplekst økosystem med utallige arter.; Ein Wald ist ein komplexes Ökosystem mit unzähligen Arten.
 no-wi-0088; Stoffwechsel; et stoffskifte; en metabolisme; C1; Wissenschaft/Biologie; Regelmessig trening øker stoffskiftet hos mennesker.; Regelmäßige Bewegung beschleunigt den menschlichen Stoffwechsel.
@@ -103,7 +103,7 @@ no-wi-0100; Dreieck; en trekant; et triangel; A2; Wissenschaft/Mathematik; En tr
 no-wi-0101; Kreis; en sirkel; ; A2; Wissenschaft/Mathematik; Tegn en sirkel med en radius på fem centimeter.; Zeichne einen Kreis mit einem Radius von fünf Zentimetern.
 no-wi-0102; Quadrat; et kvadrat; ; B1; Wissenschaft/Mathematik; Et kvadrat har fire like lange sider.; Ein Quadrat hat vier gleich lange Seiten.
 no-wi-0103; Gleichung; en ligning; en likning; B1; Wissenschaft/Mathematik; Løs ligningen og sjekk resultatet ditt.; Löse die Gleichung und überprüfe dein Ergebnis.
-no-wi-0104; Bruch (Mathematik); en brøk; ; B1; Wissenschaft/Mathematik; En brøk som en halv er lett å forestille seg.; Ein Bruch wie ein Halb ist leicht vorstellbar.
+no-wi-0104; Bruch (beim Bruchrechnen); en brøk; ; B1; Wissenschaft/Mathematik; En brøk som en halv er lett å forestille seg.; Ein Bruch wie ein Halb ist leicht vorstellbar.
 no-wi-0105; Durchschnitt; et gjennomsnitt; ; B1; Wissenschaft/Mathematik; Gjennomsnittet av de tre karakterene er to.; Der Durchschnitt der drei Noten ist zwei.
 no-wi-0106; Wahrscheinlichkeit; en sannsynlighet; ; B2; Wissenschaft/Mathematik; Sannsynligheten for regn i morgen er veldig liten.; Die Wahrscheinlichkeit für Regen morgen ist sehr gering.
 no-wi-0107; Integralrechnung; en integralregning; ; C2; Wissenschaft/Mathematik; Med integralregning kan man regne ut arealet under kurver.; Mit der Integralrechnung berechnet man Flächen unter Kurven.
@@ -134,7 +134,7 @@ no-wi-0131; Sonne; ei sol; en sol; A1; Wissenschaft/Raumfahrt; Sola står opp i 
 no-wi-0132; Mond; en måne; ; A1; Wissenschaft/Raumfahrt; Månen ser spesielt stor ut i natt.; Der Mond sieht heute Nacht besonders groß aus.
 no-wi-0133; Stern; en stjerne; ; A1; Wissenschaft/Raumfahrt; I ørkenen kan man se hver eneste stjerne tydelig.; In der Wüste sieht man jeden Stern deutlich.
 no-wi-0134; Erde; jorden; jorda; A1; Wissenschaft/Raumfahrt; Jorden går i bane rundt solen én gang i året.; Die Erde umkreist die Sonne einmal im Jahr.
-no-wi-0135; Himmel (Wetter, Sterne); en himmel; ; A2; Wissenschaft/Raumfahrt; Himmelen over fjellene var full av stjerner.; Der Himmel über den Bergen war voller Sterne.
+no-wi-0135; Himmel (der blaue Himmel); en himmel; ; A2; Wissenschaft/Raumfahrt; Himmelen over fjellene var full av stjerner.; Der Himmel über den Bergen war voller Sterne.
 no-wi-0136; Rakete; en rakett; ; A2; Wissenschaft/Raumfahrt; Raketten ble skutt opp tidlig om morgenen.; Die Rakete startete früh am Morgen.
 no-wi-0137; Planet; en planet; ; A2; Wissenschaft/Raumfahrt; Mars er den fjerde planeten fra solen.; Der Mars ist der vierte Planet von der Sonne aus.
 no-wi-0138; Weltraum; et verdensrom; ; B1; Wissenschaft/Raumfahrt; I verdensrommet finnes det ingen luft å puste i.; Im Weltraum gibt es keine Luft zum Atmen.
